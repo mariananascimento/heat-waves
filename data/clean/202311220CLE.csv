@@ -1,0 +1,431 @@
+Time,Miami,Score,Cleveland,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: T. Bryant vs. J. Allen (D. Garland gains possession),0-0,,,1,0,0,0,0.0
+11:41.0, ,0-0,M. Strus misses 2-pt jump shot from 3 ft,,1,0,0,0,19.0
+11:39.0,Defensive rebound by T. Bryant,0-0, ,,1,0,0,0,21.0
+11:33.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by J. Butler),3-0, ,,1,3,0,3,27.0
+11:12.0, ,3-0,C. Porter misses 3-pt jump shot from 23 ft,,1,3,0,3,48.0
+11:10.0,Defensive rebound by H. Highsmith,3-0, ,,1,3,0,3,50.0
+10:53.0,K. Lowry makes 3-pt jump shot from 25 ft (assist by T. Bryant),6-0, ,,1,6,0,6,67.0
+10:35.0, ,6-0,D. Garland misses 2-pt jump shot from 10 ft,,1,6,0,6,85.0
+10:32.0,Defensive rebound by T. Bryant,6-0, ,,1,6,0,6,88.0
+10:24.0,J. Butler misses 3-pt jump shot from 25 ft,6-0, ,,1,6,0,6,96.0
+10:22.0, ,6-0,Defensive rebound by J. Allen,,1,6,0,6,98.0
+10:14.0, ,6-2,J. Allen makes 2-pt dunk from 2 ft (assist by M. Strus),,1,6,2,4,106.0
+9:53.0,J. Butler makes 3-pt jump shot from 23 ft (assist by K. Lowry),9-2, ,,1,9,2,7,127.0
+9:37.0, ,9-2,Turnover by J. Allen (bad pass; steal by J. Butler),,1,9,2,7,143.0
+9:31.0,T. Bryant makes 2-pt dunk from 1 ft (assist by J. Butler),11-2, ,,1,11,2,9,149.0
+9:31.0, ,11-2,Cleveland full timeout,,1,11,2,9,149.0
+9:09.0, ,11-2,Turnover by E. Mobley (step out of bounds),,1,11,2,9,171.0
+8:49.0,Shooting foul by J. Allen (drawn by T. Bryant),11-2, ,,1,11,2,9,191.0
+8:49.0,T. Bryant makes free throw 1 of 2,12-2, ,,1,12,2,10,191.0
+8:49.0,T. Bryant makes free throw 2 of 2,13-2, ,,1,13,2,11,191.0
+8:34.0, ,13-2,Personal foul by H. Highsmith (drawn by E. Mobley),,1,13,2,11,206.0
+8:30.0, ,13-2,Personal foul by D. Robinson (drawn by J. Allen),,1,13,2,11,210.0
+8:24.0, ,13-2,M. Strus misses 3-pt jump shot from 25 ft,,1,13,2,11,216.0
+8:22.0,Defensive rebound by T. Bryant,13-2, ,,1,13,2,11,218.0
+8:12.0,K. Lowry makes 3-pt jump shot from 27 ft (assist by H. Highsmith),16-2, ,,1,16,2,14,228.0
+7:59.0, ,16-4,D. Garland makes 2-pt jump shot from 19 ft,,1,16,4,12,241.0
+7:43.0,H. Highsmith misses 2-pt hook shot from 3 ft,16-4, ,,1,16,4,12,257.0
+7:40.0, ,16-4,Defensive rebound by E. Mobley,,1,16,4,12,260.0
+7:33.0, ,16-7,C. Porter makes 3-pt jump shot from 24 ft (assist by E. Mobley),,1,16,7,9,267.0
+7:26.0,J. Butler misses 3-pt jump shot from 25 ft,16-7, ,,1,16,7,9,274.0
+7:26.0, ,16-7,Defensive rebound by E. Mobley,,1,16,7,9,274.0
+7:16.0, ,16-7,Turnover by C. Porter (bad pass; steal by T. Bryant),,1,16,7,9,284.0
+7:11.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by H. Highsmith),19-7, ,,1,19,7,12,289.0
+6:53.0, ,19-9,D. Garland makes 2-pt jump shot from 8 ft,,1,19,9,10,307.0
+6:29.0,J. Butler misses 2-pt jump shot from 11 ft,19-9, ,,1,19,9,10,331.0
+6:27.0, ,19-9,Defensive rebound by M. Strus,,1,19,9,10,333.0
+6:26.0, ,19-9,M. Strus misses 2-pt layup from 2 ft (block by T. Bryant),,1,19,9,10,334.0
+6:24.0, ,19-9,Offensive rebound by E. Mobley,,1,19,9,10,336.0
+6:23.0, ,19-11,E. Mobley makes 2-pt layup at rim,,1,19,11,8,337.0
+6:03.0,D. Robinson misses 3-pt jump shot from 23 ft,19-11, ,,1,19,11,8,357.0
+6:01.0, ,19-11,Defensive rebound by E. Mobley,,1,19,11,8,359.0
+6:00.0, ,19-11,Personal foul by D. Robinson (drawn by M. Strus),,1,19,11,8,360.0
+6:00.0,J. Jaquez enters the game for D. Robinson,19-11, ,,1,19,11,8,360.0
+6:00.0, ,19-11,C. LeVert enters the game for J. Allen,,1,19,11,8,360.0
+6:00.0, ,19-11,T. Thompson enters the game for C. Porter,,1,19,11,8,360.0
+5:53.0, ,19-11,D. Garland misses 2-pt jump shot from 5 ft (block by H. Highsmith),,1,19,11,8,367.0
+5:51.0, ,19-11,Offensive rebound by T. Thompson,,1,19,11,8,369.0
+5:47.0, ,19-13,E. Mobley makes 2-pt layup from 1 ft (assist by C. LeVert),,1,19,13,6,373.0
+5:47.0, ,19-13,Shooting foul by T. Bryant (drawn by E. Mobley),,1,19,13,6,373.0
+5:47.0, ,19-14,E. Mobley makes free throw 1 of 1,,1,19,14,5,373.0
+5:26.0,J. Butler misses 2-pt jump shot from 11 ft,19-14, ,,1,19,14,5,394.0
+5:26.0, ,19-14,Defensive rebound by C. LeVert,,1,19,14,5,394.0
+5:17.0, ,19-16,E. Mobley makes 2-pt layup from 1 ft (assist by C. LeVert),,1,19,16,3,403.0
+5:17.0,Miami full timeout,19-16, ,,1,19,16,3,403.0
+5:17.0,O. Robinson enters the game for T. Bryant,19-16, ,,1,19,16,3,403.0
+5:04.0,Personal foul by D. Garland (drawn by J. Butler),19-16, ,,1,19,16,3,416.0
+4:50.0,O. Robinson makes 2-pt layup from 1 ft (assist by H. Highsmith),21-16, ,,1,21,16,5,430.0
+4:32.0, ,21-16,D. Garland misses 2-pt jump shot from 8 ft,,1,21,16,5,448.0
+4:30.0,Defensive rebound by O. Robinson,21-16, ,,1,21,16,5,450.0
+4:20.0,Shooting foul by T. Thompson (drawn by J. Butler),21-16, ,,1,21,16,5,460.0
+4:20.0,J. Butler makes free throw 1 of 2,22-16, ,,1,22,16,6,460.0
+4:20.0, ,22-16,G. Niang enters the game for M. Strus,,1,22,16,6,460.0
+4:20.0,J. Butler misses free throw 2 of 2,22-16, ,,1,22,16,6,460.0
+4:18.0, ,22-16,Defensive rebound by G. Niang,,1,22,16,6,462.0
+4:09.0, ,22-16,Shooting foul by H. Highsmith (drawn by D. Garland),,1,22,16,6,471.0
+4:09.0, ,22-17,D. Garland makes free throw 1 of 2,,1,22,17,5,471.0
+4:09.0,C. Martin enters the game for H. Highsmith,22-17, ,,1,22,17,5,471.0
+4:09.0, ,22-17,D. Garland misses free throw 2 of 2,,1,22,17,5,471.0
+4:07.0,Defensive rebound by C. Martin,22-17, ,,1,22,17,5,473.0
+3:57.0,Shooting foul by G. Niang (drawn by J. Butler),22-17, ,,1,22,17,5,483.0
+3:57.0,J. Butler makes free throw 1 of 2,23-17, ,,1,23,17,6,483.0
+3:57.0,J. Butler makes free throw 2 of 2,24-17, ,,1,24,17,7,483.0
+3:57.0, ,24-17,J. Allen enters the game for D. Garland,,1,24,17,7,483.0
+3:57.0, ,24-17,S. Merrill enters the game for E. Mobley,,1,24,17,7,483.0
+3:57.0, ,24-17,C. Porter enters the game for T. Thompson,,1,24,17,7,483.0
+3:45.0, ,24-20,C. LeVert makes 3-pt jump shot from 24 ft (assist by C. Porter),,1,24,20,4,495.0
+3:30.0,K. Lowry makes 3-pt jump shot from 23 ft (assist by J. Butler),27-20, ,,1,27,20,7,510.0
+3:16.0, ,27-20,Turnover by C. Porter (bad pass; steal by O. Robinson),,1,27,20,7,524.0
+3:13.0,O. Robinson makes 2-pt dunk from 1 ft,29-20, ,,1,29,20,9,527.0
+3:00.0, ,29-20,Offensive foul by S. Merrill (drawn by K. Lowry),,1,29,20,9,540.0
+3:00.0, ,29-20,Turnover by S. Merrill (offensive foul),,1,29,20,9,540.0
+2:39.0,Offensive foul by J. Jaquez (drawn by S. Merrill),29-20, ,,1,29,20,9,561.0
+2:39.0,Turnover by J. Jaquez (offensive foul),29-20, ,,1,29,20,9,561.0
+2:24.0, ,29-20,C. LeVert misses 2-pt jump shot from 11 ft,,1,29,20,9,576.0
+2:21.0,Defensive rebound by J. Butler,29-20, ,,1,29,20,9,579.0
+2:16.0,K. Lowry misses 3-pt jump shot from 32 ft,29-20, ,,1,29,20,9,584.0
+2:12.0, ,29-20,Defensive rebound by J. Allen,,1,29,20,9,588.0
+2:02.0, ,29-20,Shooting foul by O. Robinson (drawn by C. LeVert),,1,29,20,9,598.0
+2:02.0, ,29-21,C. LeVert makes free throw 1 of 2,,1,29,21,8,598.0
+2:02.0,J. Richardson enters the game for K. Lowry,29-21, ,,1,29,21,8,598.0
+2:02.0, ,29-22,C. LeVert makes free throw 2 of 2,,1,29,22,7,598.0
+1:40.0,J. Richardson misses 3-pt jump shot from 25 ft,29-22, ,,1,29,22,7,620.0
+1:37.0, ,29-22,Defensive rebound by J. Allen,,1,29,22,7,623.0
+1:37.0,D. Robinson enters the game for J. Butler,29-22, ,,1,29,22,7,623.0
+1:23.0, ,29-24,C. LeVert makes 2-pt jump shot from 9 ft,,1,29,24,5,637.0
+1:12.0,D. Robinson misses 2-pt jump shot from 6 ft,29-24, ,,1,29,24,5,648.0
+1:11.0,Offensive rebound by O. Robinson,29-24, ,,1,29,24,5,649.0
+1:09.0,O. Robinson makes 2-pt layup at rim,31-24, ,,1,31,24,7,651.0
+0:52.0, ,31-26,C. LeVert makes 2-pt jump shot from 10 ft (assist by J. Allen),,1,31,26,5,668.0
+0:46.0,Personal foul by C. Porter (drawn by J. Richardson),31-26, ,,1,31,26,5,674.0
+0:46.0,J. Richardson makes free throw 1 of 2,32-26, ,,1,32,26,6,674.0
+0:46.0, ,32-26,D. Garland enters the game for C. Porter,,1,32,26,6,674.0
+0:46.0,J. Richardson makes free throw 2 of 2,33-26, ,,1,33,26,7,674.0
+0:30.0, ,33-26,C. LeVert misses 3-pt jump shot from 25 ft,,1,33,26,7,690.0
+0:30.0,Defensive rebound by Team,33-26, ,,1,33,26,7,690.0
+0:14.0,C. Martin makes 2-pt jump shot from 20 ft,35-26, ,,1,35,26,9,706.0
+0:03.0, ,35-26,Turnover by D. Garland (lost ball; steal by J. Richardson),,1,35,26,9,717.0
+0:00.0,Shooting foul by S. Merrill (drawn by C. Martin),35-26, ,,1,35,26,9,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),35-26, ,,1,35,26,9,720.0
+0:00.0,C. Martin makes free throw 1 of 2,36-26, ,,1,36,26,10,720.0
+0:00.0,C. Martin makes free throw 2 of 2,37-26, ,,1,37,26,11,720.0
+0:00.0,End of 1st quarter,37-26,,,1,37,26,11,720.0
+12:00.0,Start of 2nd quarter,37-26,,,2,37,26,11,720.0
+11:46.0,Turnover by J. Jaquez (bad pass),37-26, ,,2,37,26,11,734.0
+11:30.0, ,37-26,Turnover by M. Strus (bad pass; steal by C. Martin),,2,37,26,11,750.0
+11:23.0,C. Martin misses 2-pt layup from 5 ft (block by C. LeVert),37-26, ,,2,37,26,11,757.0
+11:23.0,Offensive rebound by Team,37-26, ,,2,37,26,11,757.0
+11:14.0,J. Jaquez makes 2-pt jump shot from 8 ft,39-26, ,,2,39,26,13,766.0
+10:55.0, ,39-26,Shooting foul by O. Robinson (drawn by J. Allen),,2,39,26,13,785.0
+10:55.0, ,39-27,J. Allen makes free throw 1 of 2,,2,39,27,12,785.0
+10:55.0, ,39-28,J. Allen makes free throw 2 of 2,,2,39,28,11,785.0
+10:42.0,J. Jaquez makes 2-pt hook shot from 7 ft,41-28, ,,2,41,28,13,798.0
+10:19.0, ,41-28,C. LeVert misses 2-pt jump shot from 12 ft,,2,41,28,13,821.0
+10:17.0,Defensive rebound by J. Jaquez,41-28, ,,2,41,28,13,823.0
+10:12.0,J. Jaquez misses 2-pt dunk from 3 ft,41-28, ,,2,41,28,13,828.0
+10:10.0, ,41-28,Defensive rebound by C. LeVert,,2,41,28,13,830.0
+10:08.0, ,41-28,Turnover by C. LeVert (step out of bounds),,2,41,28,13,832.0
+9:54.0,J. Jaquez misses 2-pt jump shot from 19 ft,41-28, ,,2,41,28,13,846.0
+9:51.0,Offensive rebound by O. Robinson,41-28, ,,2,41,28,13,849.0
+9:49.0,O. Robinson makes 2-pt layup from 2 ft,43-28, ,,2,43,28,15,851.0
+9:49.0, ,43-28,T. Thompson enters the game for J. Allen,,2,43,28,15,851.0
+9:41.0,Jump ball: C. LeVert vs. J. Richardson (C. Porter gains possession),43-28,,,2,43,28,15,859.0
+9:34.0, ,43-28,Turnover by C. Porter (bad pass; steal by C. Martin),,2,43,28,15,866.0
+9:32.0,C. Martin makes 2-pt dunk from 1 ft,45-28, ,,2,45,28,17,868.0
+9:23.0, ,45-31,G. Niang makes 3-pt jump shot from 26 ft (assist by C. Porter),,2,45,31,14,877.0
+9:18.0,Shooting foul by G. Niang (drawn by J. Jaquez),45-31, ,,2,45,31,14,882.0
+9:18.0,J. Jaquez makes free throw 1 of 2,46-31, ,,2,46,31,15,882.0
+9:18.0, ,46-31,D. Garland enters the game for C. LeVert,,2,46,31,15,882.0
+9:18.0,J. Jaquez makes free throw 2 of 2,47-31, ,,2,47,31,16,882.0
+9:06.0, ,47-31,Personal foul by D. Robinson (drawn by C. Porter),,2,47,31,16,894.0
+9:06.0,D. Smith enters the game for D. Robinson,47-31, ,,2,47,31,16,894.0
+8:53.0, ,47-31,Turnover by M. Strus (traveling),,2,47,31,16,907.0
+8:39.0,J. Jaquez misses 2-pt jump shot from 9 ft,47-31, ,,2,47,31,16,921.0
+8:39.0,Offensive rebound by Team,47-31, ,,2,47,31,16,921.0
+8:39.0, ,47-31,E. Mobley enters the game for C. Porter,,2,47,31,16,921.0
+8:33.0,J. Richardson misses 2-pt layup from 2 ft,47-31, ,,2,47,31,16,927.0
+8:32.0, ,47-31,Defensive rebound by T. Thompson,,2,47,31,16,928.0
+8:19.0, ,47-34,M. Strus makes 3-pt jump shot from 23 ft (assist by G. Niang),,2,47,34,13,941.0
+8:03.0,C. Martin misses 3-pt jump shot from 26 ft,47-34, ,,2,47,34,13,957.0
+8:00.0, ,47-34,Defensive rebound by D. Garland,,2,47,34,13,960.0
+7:59.0, ,47-34,Personal foul by D. Smith (drawn by D. Garland),,2,47,34,13,961.0
+7:54.0, ,47-34,M. Strus misses 3-pt jump shot from 23 ft,,2,47,34,13,966.0
+7:51.0,Defensive rebound by J. Jaquez,47-34, ,,2,47,34,13,969.0
+7:46.0,Turnover by J. Jaquez (bad pass; steal by D. Garland),47-34, ,,2,47,34,13,974.0
+7:45.0, ,47-36,D. Garland makes 2-pt layup at rim,,2,47,36,11,975.0
+7:45.0,Miami full timeout,47-36, ,,2,47,36,11,975.0
+7:45.0,K. Lowry enters the game for D. Smith,47-36, ,,2,47,36,11,975.0
+7:20.0,K. Lowry makes 2-pt jump shot from 6 ft (assist by J. Richardson),49-36, ,,2,49,36,13,1000.0
+7:11.0, ,49-38,E. Mobley makes 2-pt hook shot from 8 ft (assist by D. Garland),,2,49,38,11,1009.0
+7:03.0,C. Martin makes 3-pt jump shot from 24 ft (assist by J. Richardson),52-38, ,,2,52,38,14,1017.0
+6:46.0, ,52-41,G. Niang makes 3-pt jump shot from 30 ft (assist by M. Strus),,2,52,41,11,1034.0
+6:26.0,Personal foul by G. Niang (drawn by J. Richardson),52-41, ,,2,52,41,11,1054.0
+6:26.0,J. Butler enters the game for C. Martin,52-41, ,,2,52,41,11,1054.0
+6:26.0, ,52-41,C. LeVert enters the game for M. Strus,,2,52,41,11,1054.0
+6:12.0,J. Butler makes 2-pt jump shot from 21 ft,54-41, ,,2,54,41,13,1068.0
+5:49.0, ,54-41,G. Niang misses 2-pt jump shot from 4 ft,,2,54,41,13,1091.0
+5:44.0, ,54-41,Offensive rebound by G. Niang,,2,54,41,13,1096.0
+5:43.0, ,54-41,G. Niang misses 2-pt hook shot from 4 ft,,2,54,41,13,1097.0
+5:40.0,Defensive rebound by O. Robinson,54-41, ,,2,54,41,13,1100.0
+5:23.0,Turnover by O. Robinson (traveling),54-41, ,,2,54,41,13,1117.0
+5:23.0,T. Bryant enters the game for O. Robinson,54-41, ,,2,54,41,13,1117.0
+5:23.0, ,54-41,J. Allen enters the game for T. Thompson,,2,54,41,13,1117.0
+5:04.0, ,54-41,G. Niang misses 2-pt jump shot from 21 ft,,2,54,41,13,1136.0
+5:01.0,Defensive rebound by K. Lowry,54-41, ,,2,54,41,13,1139.0
+4:56.0,K. Lowry misses 3-pt jump shot from 26 ft,54-41, ,,2,54,41,13,1144.0
+4:52.0,Offensive rebound by J. Richardson,54-41, ,,2,54,41,13,1148.0
+4:48.0,J. Jaquez makes 3-pt jump shot from 25 ft (assist by J. Richardson),57-41, ,,2,57,41,16,1152.0
+4:26.0, ,57-41,Turnover by J. Allen (bad pass),,2,57,41,16,1174.0
+4:26.0, ,57-41,Loose ball foul by J. Allen (drawn by K. Lowry),,2,57,41,16,1174.0
+4:26.0, ,57-41,C. Porter enters the game for D. Garland,,2,57,41,16,1174.0
+4:26.0, ,57-41,M. Strus enters the game for G. Niang,,2,57,41,16,1174.0
+4:17.0,K. Lowry misses 2-pt layup from 4 ft (block by C. Porter),57-41, ,,2,57,41,16,1183.0
+4:14.0, ,57-41,Defensive rebound by C. Porter,,2,57,41,16,1186.0
+4:09.0, ,57-43,C. Porter makes 2-pt jump shot from 12 ft,,2,57,43,14,1191.0
+3:57.0,J. Richardson makes 3-pt jump shot from 25 ft (assist by J. Butler),60-43, ,,2,60,43,17,1203.0
+3:40.0, ,60-43,Personal foul by T. Bryant (drawn by J. Allen),,2,60,43,17,1220.0
+3:34.0, ,60-45,C. Porter makes 2-pt layup at rim (assist by J. Allen),,2,60,45,15,1226.0
+3:34.0, ,60-45,Shooting foul by K. Lowry (drawn by C. Porter),,2,60,45,15,1226.0
+3:34.0,C. Martin enters the game for J. Jaquez,60-45, ,,2,60,45,15,1226.0
+3:34.0, ,60-46,C. Porter makes free throw 1 of 1,,2,60,46,14,1226.0
+3:15.0,T. Bryant makes 2-pt hook shot from 5 ft,62-46, ,,2,62,46,16,1245.0
+3:05.0, ,62-48,C. Porter makes 2-pt jump shot from 19 ft,,2,62,48,14,1255.0
+2:52.0,C. Martin misses 2-pt jump shot from 5 ft (block by M. Strus),62-48, ,,2,62,48,14,1268.0
+2:52.0, ,62-48,Defensive rebound by E. Mobley,,2,62,48,14,1268.0
+2:50.0, ,62-48,Turnover by E. Mobley (bad pass; steal by J. Richardson),,2,62,48,14,1270.0
+2:44.0,J. Richardson makes 2-pt jump shot from 9 ft (assist by J. Butler),64-48, ,,2,64,48,16,1276.0
+2:22.0, ,64-48,Personal foul by K. Lowry (drawn by E. Mobley),,2,64,48,16,1298.0
+2:22.0, ,64-48,Cleveland full timeout,,2,64,48,16,1298.0
+2:22.0, ,64-48,D. Garland enters the game for C. LeVert,,2,64,48,16,1298.0
+2:22.0, ,64-49,E. Mobley makes free throw 1 of 2,,2,64,49,15,1298.0
+2:22.0, ,64-50,E. Mobley makes free throw 2 of 2,,2,64,50,14,1298.0
+2:01.0,J. Richardson makes 3-pt jump shot from 29 ft (assist by J. Butler),67-50, ,,2,67,50,17,1319.0
+1:38.0, ,67-50,D. Garland misses 3-pt jump shot from 28 ft,,2,67,50,17,1342.0
+1:35.0, ,67-50,Offensive rebound by E. Mobley,,2,67,50,17,1345.0
+1:34.0, ,67-50,Turnover by C. Porter (traveling),,2,67,50,17,1346.0
+1:17.0,T. Bryant misses 2-pt dunk from 2 ft,67-50, ,,2,67,50,17,1363.0
+1:16.0,Offensive rebound by T. Bryant,67-50, ,,2,67,50,17,1364.0
+1:15.0,T. Bryant makes 2-pt layup at rim,69-50, ,,2,69,50,19,1365.0
+1:00.0, ,69-52,E. Mobley makes 2-pt dunk at rim (assist by C. Porter),,2,69,52,17,1380.0
+0:36.0,T. Bryant misses 2-pt jump shot from 8 ft,69-52, ,,2,69,52,17,1404.0
+0:36.0,Offensive rebound by Team,69-52, ,,2,69,52,17,1404.0
+0:36.0,Turnover by Team (shot clock),69-52, ,,2,69,52,17,1404.0
+0:36.0,H. Highsmith enters the game for K. Lowry,69-52, ,,2,69,52,17,1404.0
+0:19.0, ,69-55,M. Strus makes 3-pt jump shot from 23 ft (assist by D. Garland),,2,69,55,14,1421.0
+0:02.0,J. Butler misses 3-pt jump shot from 23 ft,69-55, ,,2,69,55,14,1438.0
+0:00.0,Offensive rebound by Team,69-55, ,,2,69,55,14,1440.0
+0:00.0,End of 2nd quarter,69-55,,,2,69,55,14,1440.0
+12:00.0,Start of 3rd quarter,69-55,,,3,69,55,14,1440.0
+11:49.0,J. Butler makes 2-pt jump shot from 13 ft (assist by D. Robinson),71-55, ,,3,71,55,16,1451.0
+11:29.0, ,71-55,E. Mobley misses 2-pt hook shot from 3 ft (block by H. Highsmith),,3,71,55,16,1471.0
+11:27.0,Defensive rebound by T. Bryant,71-55, ,,3,71,55,16,1473.0
+11:19.0,D. Robinson misses 2-pt layup from 2 ft (block by C. Porter),71-55, ,,3,71,55,16,1481.0
+11:17.0, ,71-55,Defensive rebound by E. Mobley,,3,71,55,16,1483.0
+11:09.0, ,71-57,C. Porter makes 2-pt layup from 3 ft (assist by E. Mobley),,3,71,57,14,1491.0
+10:55.0,H. Highsmith misses 3-pt jump shot from 27 ft,71-57, ,,3,71,57,14,1505.0
+10:55.0, ,71-57,Defensive rebound by E. Mobley,,3,71,57,14,1505.0
+10:44.0, ,71-57,J. Allen misses 2-pt layup from 8 ft,,3,71,57,14,1516.0
+10:41.0,Defensive rebound by T. Bryant,71-57, ,,3,71,57,14,1519.0
+10:38.0,Shooting foul by D. Garland (drawn by K. Lowry),71-57, ,,3,71,57,14,1522.0
+10:38.0,K. Lowry misses free throw 1 of 2,71-57, ,,3,71,57,14,1522.0
+10:38.0,Offensive rebound by Team,71-57, ,,3,71,57,14,1522.0
+10:38.0,K. Lowry makes free throw 2 of 2,72-57, ,,3,72,57,15,1522.0
+10:24.0, ,72-57,C. Porter misses 3-pt jump shot from 23 ft,,3,72,57,15,1536.0
+10:22.0,Defensive rebound by J. Butler,72-57, ,,3,72,57,15,1538.0
+10:05.0,J. Butler misses 2-pt jump shot from 9 ft,72-57, ,,3,72,57,15,1555.0
+10:03.0, ,72-57,Defensive rebound by J. Allen,,3,72,57,15,1557.0
+9:53.0, ,72-59,D. Garland makes 2-pt jump shot from 8 ft,,3,72,59,13,1567.0
+9:39.0,H. Highsmith makes 3-pt jump shot from 23 ft (assist by J. Butler),75-59, ,,3,75,59,16,1581.0
+9:30.0, ,75-59,Offensive foul by D. Garland (drawn by D. Robinson),,3,75,59,16,1590.0
+9:30.0, ,75-59,Turnover by D. Garland (offensive foul),,3,75,59,16,1590.0
+9:11.0,T. Bryant misses 2-pt jump shot from 12 ft,75-59, ,,3,75,59,16,1609.0
+9:07.0,Offensive rebound by J. Butler,75-59, ,,3,75,59,16,1613.0
+9:02.0,J. Butler misses 3-pt jump shot from 26 ft,75-59, ,,3,75,59,16,1618.0
+8:59.0, ,75-59,Defensive rebound by C. Porter,,3,75,59,16,1621.0
+8:49.0, ,75-59,Turnover by D. Garland (bad pass; steal by H. Highsmith),,3,75,59,16,1631.0
+8:33.0,T. Bryant makes 2-pt hook shot from 7 ft (assist by D. Robinson),77-59, ,,3,77,59,18,1647.0
+8:09.0, ,77-59,C. Porter misses 2-pt layup from 1 ft,,3,77,59,18,1671.0
+8:08.0,Defensive rebound by Team,77-59, ,,3,77,59,18,1672.0
+7:50.0,D. Robinson makes 3-pt jump shot from 30 ft (assist by K. Lowry),80-59, ,,3,80,59,21,1690.0
+7:25.0, ,80-59,Turnover by J. Allen (lost ball; steal by J. Butler),,3,80,59,21,1715.0
+7:13.0,J. Butler misses 2-pt jump shot from 8 ft,80-59, ,,3,80,59,21,1727.0
+7:10.0, ,80-59,Defensive rebound by M. Strus,,3,80,59,21,1730.0
+7:04.0, ,80-62,D. Garland makes 3-pt jump shot from 24 ft (assist by C. Porter),,3,80,62,18,1736.0
+6:52.0,K. Lowry makes 3-pt jump shot from 25 ft (assist by J. Butler),83-62, ,,3,83,62,21,1748.0
+6:38.0, ,83-62,Personal foul by T. Bryant (drawn by J. Allen),,3,83,62,21,1762.0
+6:38.0, ,83-62,Cleveland full timeout,,3,83,62,21,1762.0
+6:38.0, ,83-62,C. LeVert enters the game for J. Allen,,3,83,62,21,1762.0
+6:38.0, ,83-62,T. Thompson enters the game for C. Porter,,3,83,62,21,1762.0
+6:27.0, ,83-62,E. Mobley misses 2-pt jump shot from 6 ft,,3,83,62,21,1773.0
+6:25.0,Defensive rebound by T. Bryant,83-62, ,,3,83,62,21,1775.0
+6:16.0,D. Robinson makes 2-pt layup from 2 ft (assist by K. Lowry),85-62, ,,3,85,62,23,1784.0
+5:52.0, ,85-64,D. Garland makes 2-pt jump shot from 20 ft (assist by M. Strus),,3,85,64,21,1808.0
+5:23.0,J. Butler misses 2-pt jump shot from 18 ft,85-64, ,,3,85,64,21,1837.0
+5:21.0, ,85-64,Defensive rebound by M. Strus,,3,85,64,21,1839.0
+5:19.0, ,85-64,C. LeVert misses 2-pt layup from 1 ft,,3,85,64,21,1841.0
+5:17.0, ,85-64,Offensive rebound by T. Thompson,,3,85,64,21,1843.0
+5:17.0, ,85-64,T. Thompson misses 2-pt layup at rim,,3,85,64,21,1843.0
+5:15.0,Defensive rebound by H. Highsmith,85-64, ,,3,85,64,21,1845.0
+5:01.0,T. Bryant misses 2-pt hook shot from 7 ft,85-64, ,,3,85,64,21,1859.0
+4:59.0, ,85-64,Defensive rebound by E. Mobley,,3,85,64,21,1861.0
+4:49.0, ,85-64,Shooting foul by K. Lowry (drawn by T. Thompson),,3,85,64,21,1871.0
+4:49.0, ,85-64,T. Thompson misses free throw 1 of 2,,3,85,64,21,1871.0
+4:49.0, ,85-64,Offensive rebound by Team,,3,85,64,21,1871.0
+4:49.0,J. Jaquez enters the game for D. Robinson,85-64, ,,3,85,64,21,1871.0
+4:49.0, ,85-64,G. Niang enters the game for M. Strus,,3,85,64,21,1871.0
+4:49.0, ,85-64,T. Thompson misses free throw 2 of 2,,3,85,64,21,1871.0
+4:47.0,Defensive rebound by H. Highsmith,85-64, ,,3,85,64,21,1873.0
+4:26.0,K. Lowry makes 2-pt jump shot from 18 ft,87-64, ,,3,87,64,23,1894.0
+4:10.0, ,87-66,G. Niang makes 2-pt hook shot from 3 ft,,3,87,66,21,1910.0
+3:46.0,K. Lowry misses 2-pt layup from 2 ft,87-66, ,,3,87,66,21,1934.0
+3:44.0, ,87-66,Defensive rebound by E. Mobley,,3,87,66,21,1936.0
+3:38.0, ,87-66,G. Niang misses 3-pt jump shot from 23 ft (block by J. Butler),,3,87,66,21,1942.0
+3:38.0, ,87-66,Offensive rebound by Team,,3,87,66,21,1942.0
+3:38.0,Loose ball foul by H. Highsmith (drawn by T. Thompson),87-66, ,,3,87,66,21,1942.0
+3:38.0,O. Robinson enters the game for T. Bryant,87-66, ,,3,87,66,21,1942.0
+3:38.0, ,87-66,E. Bates enters the game for E. Mobley,,3,87,66,21,1942.0
+3:23.0, ,87-66,D. Garland misses 2-pt layup from 4 ft (block by J. Butler),,3,87,66,21,1957.0
+3:23.0, ,87-66,Offensive rebound by Team,,3,87,66,21,1957.0
+3:23.0,Miami full timeout,87-66, ,,3,87,66,21,1957.0
+3:23.0,Instant Replay (Challenge: Ruling Stands),87-66, ,,3,87,66,21,1957.0
+3:23.0,Jump ball: T. Thompson vs. O. Robinson (C. LeVert gains possession),87-66,,,3,87,66,21,1957.0
+3:11.0, ,87-66,G. Niang misses 3-pt jump shot from 26 ft,,3,87,66,21,1969.0
+3:11.0,Defensive rebound by J. Butler,87-66, ,,3,87,66,21,1969.0
+2:57.0,J. Jaquez makes 2-pt layup from 7 ft,89-66, ,,3,89,66,23,1983.0
+2:57.0,Shooting foul by E. Bates (drawn by J. Jaquez),89-66, ,,3,89,66,23,1983.0
+2:57.0,J. Jaquez makes free throw 1 of 1,90-66, ,,3,90,66,24,1983.0
+2:42.0, ,90-68,T. Thompson makes 2-pt dunk from 1 ft (assist by D. Garland),,3,90,68,22,1998.0
+2:31.0,K. Lowry makes 3-pt jump shot from 25 ft (assist by J. Butler),93-68, ,,3,93,68,25,2009.0
+2:09.0, ,93-70,T. Thompson makes 2-pt hook shot from 7 ft (assist by C. LeVert),,3,93,70,23,2031.0
+1:53.0,Turnover by J. Butler (bad pass; steal by E. Bates),93-70, ,,3,93,70,23,2047.0
+1:46.0, ,93-73,C. LeVert makes 3-pt jump shot from 25 ft (assist by E. Bates),,3,93,73,20,2054.0
+1:30.0,J. Jaquez makes 3-pt jump shot from 24 ft (assist by H. Highsmith),96-73, ,,3,96,73,23,2070.0
+1:16.0, ,96-73,Turnover by C. LeVert (bad pass; steal by J. Jaquez),,3,96,73,23,2084.0
+1:12.0,O. Robinson misses 2-pt hook shot from 5 ft,96-73, ,,3,96,73,23,2088.0
+1:10.0,Offensive rebound by H. Highsmith,96-73, ,,3,96,73,23,2090.0
+1:07.0,H. Highsmith makes 2-pt layup from 1 ft,98-73, ,,3,98,73,25,2093.0
+1:07.0, ,98-73,Technical foul by C. LeVert,,3,98,73,25,2093.0
+1:07.0, ,98-73,C. LeVert ejected from game,,3,98,73,25,2093.0
+1:07.0,K. Lowry makes technical free throw,99-73, ,,3,99,73,26,2093.0
+1:07.0,K. Lowry makes technical free throw,100-73, ,,3,100,73,27,2093.0
+1:07.0,C. Martin enters the game for J. Butler,100-73, ,,3,100,73,27,2093.0
+1:07.0,J. Richardson enters the game for H. Highsmith,100-73, ,,3,100,73,27,2093.0
+1:07.0, ,100-73,S. Merrill enters the game for D. Garland,,3,100,73,27,2093.0
+1:07.0, ,100-73,C. Porter enters the game for C. LeVert,,3,100,73,27,2093.0
+0:56.0, ,100-76,G. Niang makes 3-pt jump shot from 25 ft,,3,100,76,24,2104.0
+0:40.0,Shooting foul by G. Niang (drawn by O. Robinson),100-76, ,,3,100,76,24,2120.0
+0:40.0,O. Robinson makes free throw 1 of 2,101-76, ,,3,101,76,25,2120.0
+0:40.0,O. Robinson misses free throw 2 of 2,101-76, ,,3,101,76,25,2120.0
+0:40.0,Offensive rebound by J. Jaquez,101-76, ,,3,101,76,25,2120.0
+0:40.0,O. Robinson misses 2-pt hook shot at rim,101-76, ,,3,101,76,25,2120.0
+0:40.0,Offensive rebound by O. Robinson,101-76, ,,3,101,76,25,2120.0
+0:37.0,K. Lowry misses 3-pt jump shot from 25 ft,101-76, ,,3,101,76,25,2123.0
+0:34.0, ,101-76,Defensive rebound by E. Bates,,3,101,76,25,2126.0
+0:18.0, ,101-79,S. Merrill makes 3-pt jump shot from 25 ft (assist by C. Porter),,3,101,79,22,2142.0
+0:00.0,K. Lowry misses 2-pt layup from 4 ft (block by T. Thompson),101-79, ,,3,101,79,22,2160.0
+0:00.0, ,101-79,Defensive rebound by Team,,3,101,79,22,2160.0
+0:00.0, ,101-79,Cleveland full timeout,,3,101,79,22,2160.0
+0:00.0,T. Bryant enters the game for C. Martin,101-79, ,,3,101,79,22,2160.0
+0:00.0,J. Butler enters the game for J. Richardson,101-79, ,,3,101,79,22,2160.0
+0:00.0,H. Highsmith enters the game for O. Robinson,101-79, ,,3,101,79,22,2160.0
+0:00.0, ,101-79,D. Garland enters the game for E. Bates,,3,101,79,22,2160.0
+0:00.0, ,101-79,C. LeVert enters the game for S. Merrill,,3,101,79,22,2160.0
+0:00.0, ,101-79,E. Mobley enters the game for C. Porter,,3,101,79,22,2160.0
+0:00.0, ,101-79,Instant Replay (Challenge: Ruling Stands),,3,101,79,22,2160.0
+0:00.0,End of 3rd quarter,101-79,,,3,101,79,22,2160.0
+12:00.0,Start of 4th quarter,101-79,,,4,101,79,22,2160.0
+11:43.0, ,101-79,E. Bates misses 3-pt jump shot from 23 ft,,4,101,79,22,2177.0
+11:40.0, ,101-79,Offensive rebound by D. Jones,,4,101,79,22,2180.0
+11:35.0, ,101-79,D. Jones misses 2-pt layup from 1 ft (block by O. Robinson),,4,101,79,22,2185.0
+11:33.0,Defensive rebound by J. Jaquez,101-79, ,,4,101,79,22,2187.0
+11:15.0,J. Richardson misses 2-pt jump shot from 9 ft,101-79, ,,4,101,79,22,2205.0
+11:13.0,Offensive rebound by O. Robinson,101-79, ,,4,101,79,22,2207.0
+11:11.0,D. Robinson misses 3-pt jump shot from 29 ft,101-79, ,,4,101,79,22,2209.0
+11:11.0,Offensive rebound by J. Jaquez,101-79, ,,4,101,79,22,2209.0
+10:59.0,C. Martin makes 3-pt jump shot from 26 ft (assist by J. Richardson),104-79, ,,4,104,79,25,2221.0
+10:44.0, ,104-79,S. Merrill misses 3-pt jump shot from 27 ft,,4,104,79,25,2236.0
+10:41.0,Defensive rebound by J. Jaquez,104-79, ,,4,104,79,25,2239.0
+10:34.0,J. Jaquez makes 3-pt jump shot from 26 ft (assist by D. Robinson),107-79, ,,4,107,79,28,2246.0
+10:21.0, ,107-79,Shooting foul by O. Robinson (drawn by C. Porter),,4,107,79,28,2259.0
+10:21.0, ,107-80,C. Porter makes free throw 1 of 2,,4,107,80,27,2259.0
+10:21.0, ,107-80,C. Porter misses free throw 2 of 2,,4,107,80,27,2259.0
+10:19.0,Defensive rebound by J. Jaquez,107-80, ,,4,107,80,27,2261.0
+10:03.0,C. Martin misses 3-pt jump shot from 23 ft,107-80, ,,4,107,80,27,2277.0
+10:03.0,Offensive rebound by Team,107-80, ,,4,107,80,27,2277.0
+10:03.0,Personal foul by G. Niang (drawn by O. Robinson),107-80, ,,4,107,80,27,2277.0
+9:55.0,Turnover by J. Jaquez (bad pass; steal by C. Porter),107-80, ,,4,107,80,27,2285.0
+9:50.0, ,107-80,C. Porter misses 2-pt layup from 2 ft,,4,107,80,27,2290.0
+9:47.0,Defensive rebound by D. Robinson,107-80, ,,4,107,80,27,2293.0
+9:39.0,Shooting foul by S. Merrill (drawn by J. Jaquez),107-80, ,,4,107,80,27,2301.0
+9:39.0,J. Jaquez makes free throw 1 of 2,108-80, ,,4,108,80,28,2301.0
+9:39.0,J. Jaquez misses free throw 2 of 2,108-80, ,,4,108,80,28,2301.0
+9:36.0, ,108-80,Defensive rebound by G. Niang,,4,108,80,28,2304.0
+9:24.0, ,108-80,S. Merrill misses 3-pt jump shot from 23 ft,,4,108,80,28,2316.0
+9:21.0,Defensive rebound by C. Martin,108-80, ,,4,108,80,28,2319.0
+9:11.0,C. Martin misses 2-pt jump shot from 11 ft (block by D. Jones),108-80, ,,4,108,80,28,2329.0
+9:10.0,Offensive rebound by Team,108-80, ,,4,108,80,28,2330.0
+9:10.0, ,108-80,I. Mobley enters the game for G. Niang,,4,108,80,28,2330.0
+8:59.0,D. Robinson makes 2-pt jump shot from 13 ft,110-80, ,,4,110,80,30,2341.0
+8:38.0, ,110-80,D. Jones misses 2-pt jump shot from 17 ft,,4,110,80,30,2362.0
+8:35.0,Defensive rebound by O. Robinson,110-80, ,,4,110,80,30,2365.0
+8:31.0,J. Richardson misses 3-pt jump shot from 32 ft,110-80, ,,4,110,80,30,2369.0
+8:29.0, ,110-80,Defensive rebound by Team,,4,110,80,30,2371.0
+8:29.0, ,110-80,Cleveland full timeout,,4,110,80,30,2371.0
+8:05.0, ,110-83,C. Porter makes 3-pt jump shot from 27 ft (assist by I. Mobley),,4,110,83,27,2395.0
+7:48.0,O. Robinson misses 2-pt hook shot from 9 ft,110-83, ,,4,110,83,27,2412.0
+7:45.0, ,110-83,Defensive rebound by S. Merrill,,4,110,83,27,2415.0
+7:32.0, ,110-83,C. Porter misses 2-pt jump shot from 9 ft,,4,110,83,27,2428.0
+7:30.0,Defensive rebound by D. Robinson,110-83, ,,4,110,83,27,2430.0
+7:20.0,C. Martin misses 2-pt layup from 2 ft,110-83, ,,4,110,83,27,2440.0
+7:17.0, ,110-83,Defensive rebound by I. Mobley,,4,110,83,27,2443.0
+7:14.0, ,110-83,Offensive foul by I. Mobley (drawn by J. Jaquez),,4,110,83,27,2446.0
+7:14.0, ,110-83,Turnover by I. Mobley (offensive foul),,4,110,83,27,2446.0
+7:03.0,J. Jaquez makes 3-pt jump shot from 26 ft (assist by O. Robinson),113-83, ,,4,113,83,30,2457.0
+6:52.0, ,113-83,E. Bates misses 3-pt jump shot from 31 ft,,4,113,83,30,2468.0
+6:50.0,Defensive rebound by J. Jaquez,113-83, ,,4,113,83,30,2470.0
+6:37.0,Turnover by J. Jaquez (bad pass; steal by I. Mobley),113-83, ,,4,113,83,30,2483.0
+6:18.0, ,113-86,E. Bates makes 3-pt jump shot from 24 ft (assist by I. Mobley),,4,113,86,27,2502.0
+5:54.0,O. Robinson makes 3-pt jump shot from 26 ft (assist by J. Jaquez),116-86, ,,4,116,86,30,2526.0
+5:36.0, ,116-86,S. Merrill misses 2-pt jump shot from 11 ft,,4,116,86,30,2544.0
+5:34.0,Defensive rebound by O. Robinson,116-86, ,,4,116,86,30,2546.0
+5:27.0, ,116-86,Violation by Team (kicked ball),,4,116,86,30,2553.0
+5:21.0, ,116-86,Violation by Team (kicked ball),,4,116,86,30,2559.0
+5:21.0,H. Highsmith enters the game for D. Robinson,116-86, ,,4,116,86,30,2559.0
+5:13.0,O. Robinson makes 2-pt dunk from 1 ft (assist by J. Richardson),118-86, ,,4,118,86,32,2567.0
+4:58.0, ,118-89,S. Merrill makes 3-pt jump shot from 23 ft (assist by I. Mobley),,4,118,89,29,2582.0
+4:39.0,H. Highsmith makes 2-pt jump shot from 11 ft,120-89, ,,4,120,89,31,2601.0
+4:22.0, ,120-91,I. Mobley makes 2-pt hook shot from 1 ft,,4,120,91,29,2618.0
+4:10.0,C. Martin makes 2-pt jump shot from 22 ft (assist by O. Robinson),122-91, ,,4,122,91,31,2630.0
+3:59.0, ,122-91,E. Bates misses 3-pt jump shot from 32 ft,,4,122,91,31,2641.0
+3:58.0, ,122-91,Offensive rebound by Team,,4,122,91,31,2642.0
+3:58.0,Loose ball foul by H. Highsmith (drawn by D. Jones),122-91, ,,4,122,91,31,2642.0
+3:47.0, ,122-91,E. Bates misses 3-pt jump shot from 24 ft,,4,122,91,31,2653.0
+3:44.0, ,122-91,Offensive rebound by D. Jones,,4,122,91,31,2656.0
+3:42.0, ,122-91,D. Jones misses 2-pt layup from 2 ft (block by O. Robinson),,4,122,91,31,2658.0
+3:42.0,Defensive rebound by O. Robinson,122-91, ,,4,122,91,31,2658.0
+3:40.0,Offensive foul by O. Robinson (drawn by S. Merrill),122-91, ,,4,122,91,31,2660.0
+3:40.0,Turnover by O. Robinson (offensive foul),122-91, ,,4,122,91,31,2660.0
+3:28.0, ,122-91,D. Jones misses 2-pt hook shot from 9 ft,,4,122,91,31,2672.0
+3:26.0,Defensive rebound by C. Martin,122-91, ,,4,122,91,31,2674.0
+3:14.0,Turnover by J. Jaquez (lost ball; steal by D. Jones),122-91, ,,4,122,91,31,2686.0
+3:14.0,T. Bryant enters the game for J. Jaquez,122-91, ,,4,122,91,31,2686.0
+3:13.0,Jump ball: D. Jones vs. O. Robinson (I. Mobley gains possession),122-91,,,4,122,91,31,2687.0
+3:00.0, ,122-91,I. Mobley misses 2-pt jump shot from 9 ft,,4,122,91,31,2700.0
+2:57.0,Defensive rebound by H. Highsmith,122-91, ,,4,122,91,31,2703.0
+2:47.0,C. Martin misses 3-pt jump shot from 27 ft,122-91, ,,4,122,91,31,2713.0
+2:43.0, ,122-91,Defensive rebound by D. Jones,,4,122,91,31,2717.0
+2:27.0, ,122-91,I. Mobley misses 3-pt jump shot from 22 ft,,4,122,91,31,2733.0
+2:24.0,Defensive rebound by H. Highsmith,122-91, ,,4,122,91,31,2736.0
+2:16.0,J. Richardson makes 2-pt jump shot from 21 ft (assist by H. Highsmith),124-91, ,,4,124,91,33,2744.0
+2:03.0, ,124-91,C. Porter misses 3-pt jump shot from 27 ft,,4,124,91,33,2757.0
+2:02.0,Defensive rebound by Team,124-91, ,,4,124,91,33,2758.0
+2:02.0,Miami full timeout,124-91, ,,4,124,91,33,2758.0
+1:52.0,Turnover by C. Martin (bad pass),124-91, ,,4,124,91,33,2768.0
+1:33.0, ,124-93,D. Jones makes 2-pt dunk from 1 ft (assist by S. Merrill),,4,124,93,31,2787.0
+1:11.0,J. Richardson makes 2-pt jump shot from 15 ft,126-93, ,,4,126,93,33,2809.0
+0:56.0, ,126-96,S. Merrill makes 3-pt jump shot from 24 ft (assist by D. Jones),,4,126,96,30,2824.0
+0:42.0,H. Highsmith makes 3-pt jump shot from 27 ft (assist by C. Martin),129-96, ,,4,129,96,33,2838.0
+0:24.0, ,129-96,Turnover by D. Jones (bad pass; steal by C. Martin),,4,129,96,33,2856.0
+0:01.0,Turnover by Team (shot clock),129-96, ,,4,129,96,33,2879.0
+0:00.0,End of 4th quarter,129-96,,,4,129,96,33,2880.0

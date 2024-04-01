@@ -1,0 +1,483 @@
+Time,Philadelphia,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: P. Reed vs. B. Adebayo (K. Oubre gains possession),0-0,,,1,0,0,0,0.0
+11:54.0,K. Oubre misses 2-pt layup from 1 ft (block by T. Herro),0-0, ,,1,0,0,0,6.0
+11:51.0, ,0-0,Defensive rebound by J. Jaquez,,1,0,0,0,9.0
+11:38.0, ,0-2,B. Adebayo makes 2-pt jump shot from 12 ft,,1,2,0,2,22.0
+11:24.0,K. Oubre makes 2-pt dunk from 1 ft,2-2, ,Tie,1,2,2,0,36.0
+11:03.0, ,2-2,Turnover by B. Adebayo (traveling),,1,2,2,0,57.0
+10:53.0,T. Maxey misses 3-pt jump shot from 29 ft,2-2, ,,1,2,2,0,67.0
+10:50.0, ,2-2,Defensive rebound by B. Adebayo,,1,2,2,0,70.0
+10:44.0, ,2-2,Turnover by B. Adebayo (lost ball; steal by T. Maxey),,1,2,2,0,76.0
+10:40.0,Shooting foul by K. Lowry (drawn by T. Harris),2-2, ,,1,2,2,0,80.0
+10:40.0,T. Harris makes free throw 1 of 2,3-2, ,Lead change,1,2,3,-1,80.0
+10:40.0,T. Harris makes free throw 2 of 2,4-2, ,,1,2,4,-2,80.0
+10:33.0, ,4-2,T. Herro misses 2-pt layup from 4 ft (block by K. Oubre),,1,2,4,-2,87.0
+10:29.0,Defensive rebound by D. Melton,4-2, ,,1,2,4,-2,91.0
+10:25.0, ,4-2,Violation by Team (kicked ball),,1,2,4,-2,95.0
+10:18.0,T. Harris makes 2-pt jump shot from 8 ft,6-2, ,,1,2,6,-4,102.0
+10:02.0, ,6-2,T. Herro misses 3-pt jump shot from 26 ft,,1,2,6,-4,118.0
+9:59.0,Defensive rebound by P. Reed,6-2, ,,1,2,6,-4,121.0
+9:52.0,T. Harris makes 2-pt jump shot from 7 ft,8-2, ,,1,2,8,-6,128.0
+9:39.0, ,8-5,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,1,5,8,-3,141.0
+9:26.0,T. Maxey misses 3-pt jump shot from 25 ft,8-5, ,,1,5,8,-3,154.0
+9:22.0, ,8-5,Defensive rebound by B. Adebayo,,1,5,8,-3,158.0
+9:13.0, ,8-5,Turnover by T. Herro (bad pass; steal by D. Melton),,1,5,8,-3,167.0
+9:06.0,D. Melton makes 2-pt layup from 2 ft,10-5, ,,1,5,10,-5,174.0
+9:06.0,Shooting foul by C. Martin (drawn by D. Melton),10-5, ,,1,5,10,-5,174.0
+9:06.0,Instant Replay (Challenge: Ruling Stands),10-5, ,,1,5,10,-5,174.0
+9:06.0,Philadelphia full timeout,10-5, ,,1,5,10,-5,174.0
+9:06.0,D. Melton makes free throw 1 of 1,11-5, ,,1,5,11,-6,174.0
+8:44.0, ,11-5,Turnover by C. Martin (bad pass; steal by K. Oubre),,1,5,11,-6,196.0
+8:36.0,P. Reed makes 2-pt hook shot from 5 ft (assist by K. Oubre),13-5, ,,1,5,13,-8,204.0
+8:22.0, ,13-5,Shooting foul by P. Reed (drawn by B. Adebayo),,1,5,13,-8,218.0
+8:22.0, ,13-5,B. Adebayo misses free throw 1 of 2,,1,5,13,-8,218.0
+8:22.0, ,13-5,Offensive rebound by Team,,1,5,13,-8,218.0
+8:22.0, ,13-6,B. Adebayo makes free throw 2 of 2,,1,6,13,-7,218.0
+8:02.0,D. Melton misses 2-pt layup from 3 ft (block by B. Adebayo),13-6, ,,1,6,13,-7,238.0
+8:01.0,Offensive rebound by Team,13-6, ,,1,6,13,-7,239.0
+8:00.0,T. Harris misses 2-pt jump shot from 21 ft,13-6, ,,1,6,13,-7,240.0
+7:59.0,Offensive rebound by Team,13-6, ,,1,6,13,-7,241.0
+7:58.0,Turnover by Team (shot clock),13-6, ,,1,6,13,-7,242.0
+7:49.0, ,13-6,T. Herro misses 2-pt layup from 10 ft (block by T. Maxey),,1,6,13,-7,251.0
+7:46.0,Defensive rebound by T. Maxey,13-6, ,,1,6,13,-7,254.0
+7:37.0,T. Maxey misses 3-pt jump shot from 29 ft,13-6, ,,1,6,13,-7,263.0
+7:32.0, ,13-6,Defensive rebound by C. Martin,,1,6,13,-7,268.0
+7:27.0, ,13-6,Shooting foul by P. Reed (drawn by B. Adebayo),,1,6,13,-7,273.0
+7:27.0, ,13-7,B. Adebayo makes free throw 1 of 2,,1,7,13,-6,273.0
+7:27.0, ,13-8,B. Adebayo makes free throw 2 of 2,,1,8,13,-5,273.0
+7:15.0,K. Oubre makes 2-pt layup from 2 ft,15-8, ,,1,8,15,-7,285.0
+7:15.0, ,15-8,Violation by Team (def goaltending),,1,8,15,-7,285.0
+6:57.0, ,15-8,B. Adebayo misses 2-pt jump shot from 13 ft,,1,8,15,-7,303.0
+6:54.0,Defensive rebound by K. Oubre,15-8, ,,1,8,15,-7,306.0
+6:33.0,T. Harris makes 3-pt jump shot from 22 ft (assist by T. Maxey),18-8, ,,1,8,18,-10,327.0
+6:24.0, ,18-8,Personal foul by D. Melton (drawn by T. Herro),,1,8,18,-10,336.0
+6:24.0,M. Bamba enters the game for T. Harris,18-8, ,,1,8,18,-10,336.0
+6:24.0,M. Morris enters the game for P. Reed,18-8, ,,1,8,18,-10,336.0
+6:24.0, ,18-8,D. Robinson enters the game for K. Lowry,,1,8,18,-10,336.0
+6:19.0, ,18-10,J. Jaquez makes 2-pt layup from 2 ft (assist by B. Adebayo),,1,10,18,-8,341.0
+6:04.0,D. Melton misses 3-pt jump shot from 25 ft,18-10, ,,1,10,18,-8,356.0
+6:01.0, ,18-10,Defensive rebound by C. Martin,,1,10,18,-8,359.0
+5:59.0, ,18-12,T. Herro makes 2-pt dunk from 1 ft (assist by C. Martin),,1,12,18,-6,361.0
+5:44.0,D. Melton misses 2-pt hook shot from 4 ft,18-12, ,,1,12,18,-6,376.0
+5:41.0,Offensive rebound by D. Melton,18-12, ,,1,12,18,-6,379.0
+5:40.0,K. Oubre makes 3-pt jump shot from 22 ft (assist by D. Melton),21-12, ,,1,12,21,-9,380.0
+5:27.0, ,21-12,T. Herro misses 2-pt jump shot from 15 ft,,1,12,21,-9,393.0
+5:24.0, ,21-12,Offensive rebound by T. Herro,,1,12,21,-9,396.0
+5:23.0, ,21-12,T. Herro misses 2-pt jump shot from 11 ft,,1,12,21,-9,397.0
+5:23.0, ,21-12,Offensive rebound by C. Martin,,1,12,21,-9,397.0
+5:23.0,P. Beverley enters the game for D. Melton,21-12, ,,1,12,21,-9,397.0
+5:23.0, ,21-12,K. Love enters the game for B. Adebayo,,1,12,21,-9,397.0
+5:22.0,Jump ball: M. Bamba vs. C. Martin (T. Maxey gains possession),21-12,,,1,12,21,-9,398.0
+5:22.0, ,21-12,Turnover by C. Martin (lost ball; steal by M. Bamba),,1,12,21,-9,398.0
+5:09.0,T. Maxey misses 2-pt layup from 6 ft,21-12, ,,1,12,21,-9,411.0
+5:06.0, ,21-12,Defensive rebound by C. Martin,,1,12,21,-9,414.0
+5:04.0, ,21-12,Shooting foul by P. Beverley (drawn by C. Martin),,1,12,21,-9,416.0
+5:04.0, ,21-12,C. Martin misses free throw 1 of 2,,1,12,21,-9,416.0
+5:04.0, ,21-12,Offensive rebound by Team,,1,12,21,-9,416.0
+5:04.0, ,21-13,C. Martin makes free throw 2 of 2,,1,13,21,-8,416.0
+4:47.0,M. Morris misses 2-pt jump shot from 12 ft,21-13, ,,1,13,21,-8,433.0
+4:44.0, ,21-13,Defensive rebound by T. Herro,,1,13,21,-8,436.0
+4:37.0, ,21-13,K. Love misses 3-pt jump shot from 25 ft,,1,13,21,-8,443.0
+4:31.0,Defensive rebound by P. Beverley,21-13, ,,1,13,21,-8,449.0
+4:24.0,T. Maxey misses 2-pt layup from 2 ft,21-13, ,,1,13,21,-8,456.0
+4:21.0, ,21-13,Defensive rebound by J. Jaquez,,1,13,21,-8,459.0
+4:10.0, ,21-16,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Jaquez),,1,16,21,-5,470.0
+3:51.0,P. Beverley misses 3-pt jump shot from 26 ft,21-16, ,,1,16,21,-5,489.0
+3:46.0, ,21-16,Defensive rebound by D. Robinson,,1,16,21,-5,494.0
+3:39.0, ,21-16,T. Herro misses 2-pt jump shot from 16 ft,,1,16,21,-5,501.0
+3:36.0,Defensive rebound by M. Morris,21-16, ,,1,16,21,-5,504.0
+3:21.0,T. Maxey misses 2-pt jump shot from 15 ft,21-16, ,,1,16,21,-5,519.0
+3:18.0, ,21-16,Defensive rebound by C. Martin,,1,16,21,-5,522.0
+3:17.0, ,21-16,Miami full timeout,,1,16,21,-5,523.0
+3:17.0,T. Harris enters the game for T. Maxey,21-16, ,,1,16,21,-5,523.0
+3:17.0,D. House enters the game for K. Oubre,21-16, ,,1,16,21,-5,523.0
+3:17.0, ,21-16,J. Cain enters the game for C. Martin,,1,16,21,-5,523.0
+3:09.0, ,21-18,J. Jaquez makes 2-pt hook shot from 7 ft (assist by K. Love),,1,18,21,-3,531.0
+2:47.0,Turnover by D. House (bad pass; steal by J. Jaquez),21-18, ,,1,18,21,-3,553.0
+2:39.0, ,21-18,D. Robinson misses 2-pt layup from 2 ft,,1,18,21,-3,561.0
+2:36.0,Defensive rebound by P. Beverley,21-18, ,,1,18,21,-3,564.0
+2:35.0,Shooting foul by J. Jaquez (drawn by D. House),21-18, ,,1,18,21,-3,565.0
+2:35.0,D. House misses free throw 1 of 2,21-18, ,,1,18,21,-3,565.0
+2:35.0,Offensive rebound by Team,21-18, ,,1,18,21,-3,565.0
+2:35.0, ,21-18,K. Lowry enters the game for T. Herro,,1,18,21,-3,565.0
+2:35.0,D. House makes free throw 2 of 2,22-18, ,,1,18,22,-4,565.0
+2:28.0, ,22-20,J. Jaquez makes 2-pt hook shot from 2 ft,,1,20,22,-2,572.0
+2:04.0,D. House misses 3-pt jump shot from 23 ft,22-20, ,,1,20,22,-2,596.0
+1:59.0, ,22-20,Defensive rebound by K. Love,,1,20,22,-2,601.0
+1:50.0, ,22-20,J. Cain misses 2-pt jump shot from 10 ft,,1,20,22,-2,610.0
+1:47.0,Defensive rebound by M. Bamba,22-20, ,,1,20,22,-2,613.0
+1:39.0,M. Morris misses 3-pt jump shot from 26 ft,22-20, ,,1,20,22,-2,621.0
+1:35.0, ,22-20,Defensive rebound by K. Love,,1,20,22,-2,625.0
+1:32.0, ,22-22,J. Jaquez makes 2-pt jump shot from 3 ft (assist by K. Love),Tie,1,22,22,0,628.0
+1:12.0,Turnover by P. Beverley (bad pass; steal by K. Lowry),22-22, ,,1,22,22,0,648.0
+1:06.0, ,22-22,J. Jaquez misses 2-pt layup from 2 ft,,1,22,22,0,654.0
+1:03.0,Defensive rebound by T. Harris,22-22, ,,1,22,22,0,657.0
+0:59.0,D. House misses 2-pt layup from 2 ft (block by K. Lowry),22-22, ,,1,22,22,0,661.0
+0:54.0, ,22-22,Defensive rebound by D. Robinson,,1,22,22,0,666.0
+0:52.0, ,22-22,J. Cain misses 2-pt layup from 3 ft,,1,22,22,0,668.0
+0:47.0, ,22-22,Offensive rebound by K. Love,,1,22,22,0,673.0
+0:45.0, ,22-22,Shooting foul by P. Beverley (drawn by K. Love),,1,22,22,0,675.0
+0:45.0, ,22-23,K. Love makes free throw 1 of 2,Lead change,1,23,22,1,675.0
+0:45.0,D. Melton enters the game for M. Bamba,22-23, ,,1,23,22,1,675.0
+0:45.0, ,22-23,B. Adebayo enters the game for J. Jaquez,,1,23,22,1,675.0
+0:45.0, ,22-24,K. Love makes free throw 2 of 2,,1,24,22,2,675.0
+0:34.0,D. House misses 3-pt jump shot from 23 ft,22-24, ,,1,24,22,2,686.0
+0:31.0,Offensive rebound by Team,22-24, ,,1,24,22,2,689.0
+0:29.0,M. Morris misses 3-pt jump shot from 24 ft,22-24, ,,1,24,22,2,691.0
+0:25.0, ,22-24,Defensive rebound by B. Adebayo,,1,24,22,2,695.0
+0:03.0, ,22-26,B. Adebayo makes 2-pt jump shot from 17 ft,,1,26,22,4,717.0
+0:00.0,M. Morris misses 3-pt jump shot from 27 ft,22-26, ,,1,26,22,4,720.0
+0:00.0,Offensive rebound by Team,22-26, ,,1,26,22,4,720.0
+0:00.0,End of 1st quarter,22-26,,,1,26,22,4,720.0
+12:00.0,Start of 2nd quarter,22-26,,,2,26,22,4,720.0
+11:49.0, ,22-28,K. Lowry makes 2-pt layup from 3 ft (assist by K. Love),,2,28,22,6,731.0
+11:39.0,Personal take foul by J. Cain (drawn by T. Maxey),22-28, ,,2,28,22,6,741.0
+11:23.0,T. Harris misses 3-pt jump shot from 25 ft,22-28, ,,2,28,22,6,757.0
+11:18.0, ,22-28,Defensive rebound by K. Love,,2,28,22,6,762.0
+11:07.0, ,22-28,B. Adebayo misses 2-pt jump shot from 14 ft,,2,28,22,6,773.0
+11:05.0,Defensive rebound by D. Melton,22-28, ,,2,28,22,6,775.0
+10:53.0,T. Harris misses 3-pt jump shot from 24 ft,22-28, ,,2,28,22,6,787.0
+10:49.0, ,22-28,Defensive rebound by J. Cain,,2,28,22,6,791.0
+10:46.0, ,22-28,Personal foul by P. Reed (drawn by K. Lowry),,2,28,22,6,794.0
+10:46.0, ,22-28,T. Herro enters the game for K. Love,,2,28,22,6,794.0
+10:33.0, ,22-31,D. Robinson makes 3-pt jump shot from 26 ft,,2,31,22,9,807.0
+10:14.0,Shooting foul by B. Adebayo (drawn by P. Reed),22-31, ,,2,31,22,9,826.0
+10:14.0,P. Reed misses free throw 1 of 2,22-31, ,,2,31,22,9,826.0
+10:14.0,Offensive rebound by Team,22-31, ,,2,31,22,9,826.0
+10:14.0,P. Reed misses free throw 2 of 2,22-31, ,,2,31,22,9,826.0
+10:12.0, ,22-31,Defensive rebound by J. Cain,,2,31,22,9,828.0
+10:03.0, ,22-33,B. Adebayo makes 2-pt hook shot from 6 ft,,2,33,22,11,837.0
+9:47.0,D. Melton misses 2-pt layup from 3 ft,22-33, ,,2,33,22,11,853.0
+9:44.0, ,22-33,Defensive rebound by J. Cain,,2,33,22,11,856.0
+9:39.0, ,22-33,Shooting foul by P. Reed (drawn by B. Adebayo),,2,33,22,11,861.0
+9:39.0, ,22-33,B. Adebayo misses free throw 1 of 2,,2,33,22,11,861.0
+9:39.0, ,22-33,Offensive rebound by Team,,2,33,22,11,861.0
+9:39.0,M. Bamba enters the game for P. Reed,22-33, ,,2,33,22,11,861.0
+9:39.0, ,22-34,B. Adebayo makes free throw 2 of 2,,2,34,22,12,861.0
+9:26.0,T. Harris makes 2-pt jump shot from 11 ft,24-34, ,,2,34,24,10,874.0
+9:12.0, ,24-34,Shooting foul by D. Melton (drawn by T. Herro),,2,34,24,10,888.0
+9:12.0, ,24-34,T. Herro misses free throw 1 of 2,,2,34,24,10,888.0
+9:12.0, ,24-34,Offensive rebound by Team,,2,34,24,10,888.0
+9:12.0, ,24-35,T. Herro makes free throw 2 of 2,,2,35,24,11,888.0
+9:00.0,T. Maxey misses 2-pt jump shot from 18 ft,24-35, ,,2,35,24,11,900.0
+8:58.0, ,24-35,Defensive rebound by B. Adebayo,,2,35,24,11,902.0
+8:50.0, ,24-35,Turnover by B. Adebayo (bad pass; steal by K. Martin),,2,35,24,11,910.0
+8:44.0,K. Martin makes 2-pt layup from 3 ft (assist by T. Harris),26-35, ,,2,35,26,9,916.0
+8:23.0, ,26-35,B. Adebayo misses 2-pt jump shot from 7 ft,,2,35,26,9,937.0
+8:20.0,Defensive rebound by M. Bamba,26-35, ,,2,35,26,9,940.0
+8:12.0,D. Melton misses 3-pt jump shot from 26 ft,26-35, ,,2,35,26,9,948.0
+8:09.0, ,26-35,Defensive rebound by T. Herro,,2,35,26,9,951.0
+8:07.0, ,26-35,Shooting foul by M. Bamba (drawn by J. Cain),,2,35,26,9,953.0
+8:07.0, ,26-36,J. Cain makes free throw 1 of 2,,2,36,26,10,953.0
+8:07.0,K. Oubre enters the game for T. Harris,26-36, ,,2,36,26,10,953.0
+8:07.0, ,26-37,J. Cain makes free throw 2 of 2,,2,37,26,11,953.0
+7:55.0,K. Oubre misses 2-pt layup from 3 ft,26-37, ,,2,37,26,11,965.0
+7:53.0, ,26-37,Defensive rebound by B. Adebayo,,2,37,26,11,967.0
+7:46.0, ,26-37,D. Robinson misses 2-pt layup from 2 ft (block by D. Melton),,2,37,26,11,974.0
+7:43.0,Defensive rebound by D. Melton,26-37, ,,2,37,26,11,977.0
+7:39.0,M. Bamba makes 2-pt layup from 2 ft (assist by K. Martin),28-37, ,,2,37,28,9,981.0
+7:24.0, ,28-40,K. Lowry makes 3-pt jump shot from 24 ft (assist by D. Robinson),,2,40,28,12,996.0
+7:07.0,M. Bamba makes 3-pt jump shot from 26 ft (assist by T. Maxey),31-40, ,,2,40,31,9,1013.0
+6:53.0, ,31-42,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),,2,42,31,11,1027.0
+6:40.0,M. Bamba makes 2-pt dunk from 1 ft (assist by D. Melton),33-42, ,,2,42,33,9,1040.0
+6:39.0, ,33-42,Miami full timeout,,2,42,33,9,1041.0
+6:39.0,T. Harris enters the game for K. Martin,33-42, ,,2,42,33,9,1041.0
+6:39.0, ,33-42,R. Hampton enters the game for B. Adebayo,,2,42,33,9,1041.0
+6:39.0, ,33-42,J. Jaquez enters the game for J. Cain,,2,42,33,9,1041.0
+6:39.0, ,33-42,K. Love enters the game for K. Lowry,,2,42,33,9,1041.0
+6:16.0, ,33-45,T. Herro makes 3-pt jump shot from 24 ft (assist by K. Love),,2,45,33,12,1064.0
+5:58.0,D. Melton misses 2-pt jump shot from 4 ft,33-45, ,,2,45,33,12,1082.0
+5:54.0,Offensive rebound by M. Bamba,33-45, ,,2,45,33,12,1086.0
+5:54.0,M. Bamba makes 2-pt layup at rim,35-45, ,,2,45,35,10,1086.0
+5:47.0, ,35-47,T. Herro makes 2-pt layup from 1 ft (assist by K. Love),,2,47,35,12,1093.0
+5:23.0,T. Harris misses 2-pt jump shot from 10 ft,35-47, ,,2,47,35,12,1117.0
+5:20.0, ,35-47,Defensive rebound by K. Love,,2,47,35,12,1120.0
+5:19.0, ,35-47,Turnover by K. Love (bad pass; steal by M. Bamba),,2,47,35,12,1121.0
+5:15.0,M. Bamba makes 2-pt layup from 4 ft,37-47, ,,2,47,37,10,1125.0
+5:08.0, ,37-50,K. Love makes 3-pt jump shot from 26 ft (assist by T. Herro),,2,50,37,13,1132.0
+4:55.0,T. Harris makes 3-pt jump shot from 22 ft (assist by K. Oubre),40-50, ,,2,50,40,10,1145.0
+4:40.0, ,40-50,D. Robinson misses 3-pt jump shot from 26 ft,,2,50,40,10,1160.0
+4:37.0,Defensive rebound by K. Oubre,40-50, ,,2,50,40,10,1163.0
+4:24.0,M. Bamba makes 3-pt jump shot from 26 ft (assist by D. Melton),43-50, ,,2,50,43,7,1176.0
+4:07.0, ,43-52,J. Jaquez makes 2-pt layup from 1 ft (assist by T. Herro),,2,52,43,9,1193.0
+3:46.0,T. Maxey misses 2-pt jump shot from 13 ft,43-52, ,,2,52,43,9,1214.0
+3:44.0, ,43-52,Defensive rebound by K. Love,,2,52,43,9,1216.0
+3:40.0, ,43-52,D. Robinson misses 3-pt jump shot from 24 ft,,2,52,43,9,1220.0
+3:37.0, ,43-52,Offensive rebound by Team,,2,52,43,9,1223.0
+3:37.0, ,43-52,B. Adebayo enters the game for K. Love,,2,52,43,9,1223.0
+3:30.0, ,43-54,T. Herro makes 2-pt jump shot from 9 ft (assist by B. Adebayo),,2,54,43,11,1230.0
+3:22.0,Philadelphia full timeout,43-54, ,,2,54,43,11,1238.0
+3:22.0,P. Beverley enters the game for D. Melton,43-54, ,,2,54,43,11,1238.0
+3:15.0,Personal foul by D. Robinson (drawn by K. Oubre),43-54, ,,2,54,43,11,1245.0
+3:06.0,M. Bamba misses 2-pt dunk from 2 ft,43-54, ,,2,54,43,11,1254.0
+3:03.0,Offensive rebound by T. Harris,43-54, ,,2,54,43,11,1257.0
+3:02.0,Turnover by T. Harris (lost ball; steal by J. Jaquez),43-54, ,,2,54,43,11,1258.0
+3:01.0, ,43-54,Shooting foul by K. Oubre (drawn by J. Jaquez),,2,54,43,11,1259.0
+3:01.0, ,43-55,J. Jaquez makes free throw 1 of 2,,2,55,43,12,1259.0
+3:01.0, ,43-56,J. Jaquez makes free throw 2 of 2,,2,56,43,13,1259.0
+2:48.0,K. Oubre misses 2-pt layup from 2 ft,43-56, ,,2,56,43,13,1272.0
+2:45.0, ,43-56,Defensive rebound by J. Jaquez,,2,56,43,13,1275.0
+2:43.0, ,43-58,J. Jaquez makes 2-pt layup from 3 ft,,2,58,43,15,1277.0
+2:43.0,Violation by Team (def goaltending),43-58, ,,2,58,43,15,1277.0
+2:20.0,T. Maxey misses 3-pt jump shot from 30 ft,43-58, ,,2,58,43,15,1300.0
+2:16.0, ,43-58,Defensive rebound by J. Jaquez,,2,58,43,15,1304.0
+2:11.0, ,43-58,T. Herro misses 2-pt layup from 2 ft,,2,58,43,15,1309.0
+2:08.0,Defensive rebound by P. Beverley,43-58, ,,2,58,43,15,1312.0
+2:05.0,T. Harris misses 2-pt layup from 2 ft (block by B. Adebayo),43-58, ,,2,58,43,15,1315.0
+2:05.0,Offensive rebound by Team,43-58, ,,2,58,43,15,1315.0
+1:56.0,P. Beverley misses 3-pt jump shot from 26 ft,43-58, ,,2,58,43,15,1324.0
+1:53.0, ,43-58,Defensive rebound by B. Adebayo,,2,58,43,15,1327.0
+1:46.0, ,43-60,B. Adebayo makes 2-pt dunk from 1 ft,,2,60,43,17,1334.0
+1:27.0,P. Beverley makes 3-pt jump shot from 25 ft (assist by T. Harris),46-60, ,,2,60,46,14,1353.0
+1:12.0, ,46-60,T. Herro misses 2-pt layup from 6 ft,,2,60,46,14,1368.0
+1:11.0,Defensive rebound by T. Harris,46-60, ,,2,60,46,14,1369.0
+1:08.0,K. Oubre makes 3-pt jump shot from 26 ft (assist by T. Harris),49-60, ,,2,60,49,11,1372.0
+0:47.0, ,49-63,T. Herro makes 3-pt jump shot from 24 ft (assist by R. Hampton),,2,63,49,14,1393.0
+0:25.0,K. Oubre misses 3-pt jump shot from 28 ft,49-63, ,,2,63,49,14,1415.0
+0:22.0, ,49-63,Defensive rebound by B. Adebayo,,2,63,49,14,1418.0
+0:03.0, ,49-63,D. Robinson misses 3-pt jump shot from 26 ft,,2,63,49,14,1437.0
+0:02.0, ,49-63,Offensive rebound by B. Adebayo,,2,63,49,14,1438.0
+0:00.0, ,49-63,B. Adebayo misses 2-pt layup at rim,,2,63,49,14,1440.0
+0:00.0, ,49-63,Offensive rebound by Team,,2,63,49,14,1440.0
+0:00.0,End of 2nd quarter,49-63,,,2,63,49,14,1440.0
+12:00.0,Start of 3rd quarter,49-63,,,3,63,49,14,1440.0
+11:42.0, ,49-63,Def 3 sec tech foul by Team,,3,63,49,14,1458.0
+11:42.0, ,49-64,T. Herro makes technical free throw,,3,64,49,15,1458.0
+11:34.0, ,49-67,T. Herro makes 3-pt jump shot from 25 ft (assist by B. Adebayo),,3,67,49,18,1466.0
+11:11.0,D. Melton misses 3-pt jump shot from 26 ft,49-67, ,,3,67,49,18,1489.0
+11:08.0, ,49-67,Defensive rebound by B. Adebayo,,3,67,49,18,1492.0
+10:54.0, ,49-70,J. Jaquez makes 3-pt jump shot from 24 ft (assist by B. Adebayo),,3,70,49,21,1506.0
+10:40.0,Turnover by M. Bamba (traveling),49-70, ,,3,70,49,21,1520.0
+10:23.0, ,49-70,Personal foul by T. Maxey (drawn by K. Lowry),,3,70,49,21,1537.0
+10:16.0, ,49-70,R. Hampton misses 3-pt jump shot from 23 ft,,3,70,49,21,1544.0
+10:13.0,Defensive rebound by T. Harris,49-70, ,,3,70,49,21,1547.0
+10:05.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by M. Bamba),52-70, ,,3,70,52,18,1555.0
+9:48.0, ,52-70,R. Hampton misses 2-pt layup from 3 ft,,3,70,52,18,1572.0
+9:46.0,Defensive rebound by K. Oubre,52-70, ,,3,70,52,18,1574.0
+9:40.0,T. Maxey makes 2-pt layup from 2 ft (assist by D. Melton),54-70, ,,3,70,54,16,1580.0
+9:23.0, ,54-72,B. Adebayo makes 2-pt jump shot from 11 ft (assist by T. Herro),,3,72,54,18,1597.0
+9:02.0,T. Harris makes 2-pt jump shot from 8 ft,56-72, ,,3,72,56,16,1618.0
+8:49.0, ,56-72,Turnover by B. Adebayo (bad pass; steal by T. Harris),,3,72,56,16,1631.0
+8:46.0,T. Maxey misses 2-pt layup from 2 ft (block by K. Lowry),56-72, ,,3,72,56,16,1634.0
+8:46.0,Offensive rebound by Team,56-72, ,,3,72,56,16,1634.0
+8:36.0,D. Melton makes 3-pt jump shot from 24 ft (assist by M. Bamba),59-72, ,,3,72,59,13,1644.0
+8:20.0, ,59-72,T. Herro misses 3-pt jump shot from 27 ft,,3,72,59,13,1660.0
+8:20.0,Defensive rebound by T. Harris,59-72, ,,3,72,59,13,1660.0
+8:12.0,T. Maxey misses 2-pt jump shot from 12 ft,59-72, ,,3,72,59,13,1668.0
+8:09.0, ,59-72,Defensive rebound by B. Adebayo,,3,72,59,13,1671.0
+8:02.0, ,59-72,K. Lowry misses 3-pt jump shot from 27 ft,,3,72,59,13,1678.0
+7:58.0,Defensive rebound by M. Bamba,59-72, ,,3,72,59,13,1682.0
+7:49.0,M. Bamba makes 3-pt jump shot from 26 ft (assist by T. Harris),62-72, ,,3,72,62,10,1691.0
+7:47.0, ,62-72,Miami full timeout,,3,72,62,10,1693.0
+7:32.0, ,62-72,T. Herro misses 3-pt jump shot from 25 ft,,3,72,62,10,1708.0
+7:29.0, ,62-72,Offensive rebound by B. Adebayo,,3,72,62,10,1711.0
+7:25.0, ,62-72,T. Herro misses 2-pt jump shot from 18 ft,,3,72,62,10,1715.0
+7:25.0, ,62-72,Offensive rebound by J. Jaquez,,3,72,62,10,1715.0
+7:19.0, ,62-72,R. Hampton misses 3-pt jump shot from 27 ft,,3,72,62,10,1721.0
+7:17.0, ,62-72,Offensive rebound by J. Jaquez,,3,72,62,10,1723.0
+7:17.0, ,62-72,Personal foul by M. Bamba (drawn by J. Jaquez),,3,72,62,10,1723.0
+7:09.0, ,62-74,T. Herro makes 2-pt layup from 3 ft,,3,74,62,12,1731.0
+6:45.0,T. Maxey misses 3-pt jump shot from 25 ft,62-74, ,,3,74,62,12,1755.0
+6:42.0, ,62-74,Defensive rebound by T. Herro,,3,74,62,12,1758.0
+6:31.0, ,62-74,Shooting foul by T. Maxey (drawn by B. Adebayo),,3,74,62,12,1769.0
+6:31.0, ,62-74,B. Adebayo misses free throw 1 of 2,,3,74,62,12,1769.0
+6:31.0, ,62-74,Offensive rebound by Team,,3,74,62,12,1769.0
+6:31.0, ,62-74,B. Adebayo misses free throw 2 of 2,,3,74,62,12,1769.0
+6:27.0,Defensive rebound by M. Bamba,62-74, ,,3,74,62,12,1773.0
+6:20.0,D. Melton misses 2-pt jump shot from 6 ft (block by B. Adebayo),62-74, ,,3,74,62,12,1780.0
+6:16.0,Offensive rebound by Team,62-74, ,,3,74,62,12,1784.0
+6:16.0,P. Reed enters the game for M. Bamba,62-74, ,,3,74,62,12,1784.0
+6:12.0,D. Melton makes 2-pt dunk from 1 ft (assist by T. Maxey),64-74, ,,3,74,64,10,1788.0
+5:49.0, ,64-74,B. Adebayo misses 2-pt jump shot from 17 ft,,3,74,64,10,1811.0
+5:46.0,Defensive rebound by K. Oubre,64-74, ,,3,74,64,10,1814.0
+5:41.0,K. Oubre makes 3-pt jump shot from 27 ft,67-74, ,,3,74,67,7,1819.0
+5:23.0, ,67-74,Turnover by T. Herro (lost ball; steal by D. Melton),,3,74,67,7,1837.0
+5:21.0,T. Maxey makes 2-pt layup from 1 ft (assist by D. Melton),69-74, ,,3,74,69,5,1839.0
+5:20.0, ,69-74,Miami full timeout,,3,74,69,5,1840.0
+5:20.0, ,69-74,K. Love enters the game for B. Adebayo,,3,74,69,5,1840.0
+5:20.0, ,69-74,D. Robinson enters the game for K. Lowry,,3,74,69,5,1840.0
+5:11.0, ,69-74,Shooting foul by T. Harris (drawn by K. Love),,3,74,69,5,1849.0
+5:11.0, ,69-75,K. Love makes free throw 1 of 2,,3,75,69,6,1849.0
+5:11.0, ,69-75,K. Love misses free throw 2 of 2,,3,75,69,6,1849.0
+5:08.0,Defensive rebound by P. Reed,69-75, ,,3,75,69,6,1852.0
+4:54.0,K. Oubre makes 2-pt layup from 2 ft,71-75, ,,3,75,71,4,1866.0
+4:54.0,Shooting foul by D. Robinson (drawn by K. Oubre),71-75, ,,3,75,71,4,1866.0
+4:54.0,K. Oubre makes free throw 1 of 1,72-75, ,,3,75,72,3,1866.0
+4:44.0, ,72-77,J. Jaquez makes 2-pt layup from 1 ft (assist by R. Hampton),,3,77,72,5,1876.0
+4:44.0, ,72-77,Violation by Team (delay of game),,3,77,72,5,1876.0
+4:23.0,K. Oubre misses 3-pt jump shot from 23 ft,72-77, ,,3,77,72,5,1897.0
+4:18.0, ,72-77,Defensive rebound by K. Love,,3,77,72,5,1902.0
+4:09.0, ,72-80,D. Robinson makes 3-pt jump shot from 25 ft (assist by R. Hampton),,3,80,72,8,1911.0
+3:56.0,P. Reed makes 2-pt dunk from 1 ft (assist by T. Maxey),74-80, ,,3,80,74,6,1924.0
+3:35.0, ,74-80,T. Herro misses 3-pt jump shot from 29 ft,,3,80,74,6,1945.0
+3:31.0,Defensive rebound by T. Maxey,74-80, ,,3,80,74,6,1949.0
+3:24.0,T. Harris makes 3-pt jump shot from 27 ft (assist by K. Oubre),77-80, ,,3,80,77,3,1956.0
+2:59.0, ,77-82,J. Jaquez makes 2-pt jump shot from 17 ft (assist by R. Hampton),,3,82,77,5,1981.0
+2:42.0,T. Harris misses 2-pt jump shot from 10 ft,77-82, ,,3,82,77,5,1998.0
+2:40.0, ,77-82,Defensive rebound by K. Love,,3,82,77,5,2000.0
+2:33.0, ,77-82,T. Herro misses 2-pt layup from 3 ft,,3,82,77,5,2007.0
+2:30.0,Defensive rebound by T. Harris,77-82, ,,3,82,77,5,2010.0
+2:27.0,D. Melton makes 3-pt jump shot from 26 ft (assist by T. Harris),80-82, ,,3,82,80,2,2013.0
+2:09.0, ,80-82,R. Hampton misses 3-pt jump shot from 26 ft,,3,82,80,2,2031.0
+2:06.0,Defensive rebound by D. Melton,80-82, ,,3,82,80,2,2034.0
+1:50.0,T. Harris makes 2-pt hook shot from 8 ft,82-82, ,Tie,3,82,82,0,2050.0
+1:35.0, ,82-82,T. Herro misses 3-pt jump shot from 26 ft,,3,82,82,0,2065.0
+1:32.0,Defensive rebound by T. Harris,82-82, ,,3,82,82,0,2068.0
+1:26.0,T. Maxey misses 3-pt jump shot from 25 ft,82-82, ,,3,82,82,0,2074.0
+1:23.0, ,82-82,Defensive rebound by K. Love,,3,82,82,0,2077.0
+1:17.0, ,82-82,T. Herro misses 3-pt jump shot from 28 ft,,3,82,82,0,2083.0
+1:13.0,Defensive rebound by K. Oubre,82-82, ,,3,82,82,0,2087.0
+1:13.0,Philadelphia full timeout,82-82, ,,3,82,82,0,2087.0
+1:13.0,P. Beverley enters the game for T. Maxey,82-82, ,,3,82,82,0,2087.0
+1:13.0,D. House enters the game for K. Oubre,82-82, ,,3,82,82,0,2087.0
+1:13.0,M. Morris enters the game for P. Reed,82-82, ,,3,82,82,0,2087.0
+1:13.0, ,82-82,B. Adebayo enters the game for R. Hampton,,3,82,82,0,2087.0
+1:13.0, ,82-82,J. Cain enters the game for T. Herro,,3,82,82,0,2087.0
+1:13.0, ,82-82,K. Lowry enters the game for J. Jaquez,,3,82,82,0,2087.0
+1:06.0,D. Melton misses 3-pt jump shot from 26 ft,82-82, ,,3,82,82,0,2094.0
+1:02.0, ,82-82,Defensive rebound by K. Love,,3,82,82,0,2098.0
+0:56.0, ,82-82,Turnover by K. Lowry (traveling),,3,82,82,0,2104.0
+0:41.0,Shooting foul by K. Lowry (drawn by P. Beverley),82-82, ,,3,82,82,0,2119.0
+0:41.0,P. Beverley makes free throw 1 of 2,83-82, ,Lead change,3,82,83,-1,2119.0
+0:41.0,J. Springer enters the game for D. Melton,83-82, ,,3,82,83,-1,2119.0
+0:41.0,P. Beverley makes free throw 2 of 2,84-82, ,,3,82,84,-2,2119.0
+0:27.0, ,84-84,K. Love makes 2-pt layup from 1 ft (assist by K. Lowry),Tie,3,84,84,0,2133.0
+0:11.0,Personal foul by J. Cain (drawn by P. Beverley),84-84, ,,3,84,84,0,2149.0
+0:11.0,P. Beverley makes free throw 1 of 2,85-84, ,,3,84,85,-1,2149.0
+0:11.0,K. Martin enters the game for T. Harris,85-84, ,,3,84,85,-1,2149.0
+0:11.0, ,85-84,T. Herro enters the game for K. Love,,3,84,85,-1,2149.0
+0:11.0,P. Beverley makes free throw 2 of 2,86-84, ,,3,84,86,-2,2149.0
+0:00.0, ,86-86,K. Lowry makes 2-pt layup from 2 ft,Tie,3,86,86,0,2160.0
+0:00.0, ,86-86,Instant Replay (Request: Ruling Stands),,3,86,86,0,2160.0
+0:00.0,End of 3rd quarter,86-86,,,3,86,86,0,2160.0
+12:00.0,Start of 4th quarter,86-86,,,4,86,86,0,2160.0
+11:42.0,P. Beverley makes 2-pt jump shot from 6 ft (assist by T. Maxey),88-86, ,,4,86,88,-2,2178.0
+11:29.0, ,88-86,Personal foul by M. Morris (drawn by B. Adebayo),,4,86,88,-2,2191.0
+11:16.0, ,88-86,Turnover by K. Lowry (bad pass; steal by D. House),,4,86,88,-2,2204.0
+11:08.0,T. Maxey misses 2-pt jump shot from 8 ft,88-86, ,,4,86,88,-2,2212.0
+11:04.0, ,88-86,Defensive rebound by B. Adebayo,,4,86,88,-2,2216.0
+10:48.0, ,88-86,Shooting foul by K. Oubre (drawn by B. Adebayo),,4,86,88,-2,2232.0
+10:48.0, ,88-87,B. Adebayo makes free throw 1 of 2,,4,87,88,-1,2232.0
+10:48.0, ,88-87,J. Jaquez enters the game for K. Love,,4,87,88,-1,2232.0
+10:48.0, ,88-88,B. Adebayo makes free throw 2 of 2,Tie,4,88,88,0,2232.0
+10:32.0,K. Oubre misses 2-pt layup from 3 ft (block by J. Cain),88-88, ,,4,88,88,0,2248.0
+10:32.0,Offensive rebound by Team,88-88, ,,4,88,88,0,2248.0
+10:31.0,Turnover by P. Beverley (bad pass),88-88, ,,4,88,88,0,2249.0
+10:31.0,Technical foul by M. Morris,88-88, ,,4,88,88,0,2249.0
+10:31.0, ,88-89,D. Robinson makes technical free throw,Lead change,4,89,88,1,2249.0
+10:23.0, ,88-89,D. Robinson misses 3-pt jump shot from 25 ft,,4,89,88,1,2257.0
+10:21.0, ,88-89,Offensive rebound by J. Jaquez,,4,89,88,1,2259.0
+10:21.0, ,88-89,Shooting foul by T. Maxey (drawn by J. Jaquez),,4,89,88,1,2259.0
+10:21.0, ,88-90,J. Jaquez makes free throw 1 of 2,,4,90,88,2,2259.0
+10:21.0,T. Harris enters the game for D. House,88-90, ,,4,90,88,2,2259.0
+10:21.0, ,88-91,J. Jaquez makes free throw 2 of 2,,4,91,88,3,2259.0
+10:10.0,T. Maxey misses 3-pt jump shot from 28 ft,88-91, ,,4,91,88,3,2270.0
+10:06.0, ,88-91,Defensive rebound by K. Lowry,,4,91,88,3,2274.0
+9:54.0, ,88-93,B. Adebayo makes 2-pt jump shot from 7 ft (assist by D. Robinson),,4,93,88,5,2286.0
+9:35.0,Turnover by T. Harris (lost ball; steal by D. Robinson),88-93, ,,4,93,88,5,2305.0
+9:28.0, ,88-93,Personal foul by T. Maxey (drawn by D. Robinson),,4,93,88,5,2312.0
+9:21.0, ,88-93,J. Jaquez misses 3-pt jump shot from 24 ft,,4,93,88,5,2319.0
+9:18.0,Defensive rebound by K. Oubre,88-93, ,,4,93,88,5,2322.0
+9:10.0,T. Harris makes 2-pt jump shot from 9 ft,90-93, ,,4,93,90,3,2330.0
+9:10.0,Shooting foul by J. Cain (drawn by T. Harris),90-93, ,,4,93,90,3,2330.0
+9:10.0,D. Melton enters the game for P. Beverley,90-93, ,,4,93,90,3,2330.0
+9:10.0,T. Harris makes free throw 1 of 1,91-93, ,,4,93,91,2,2330.0
+8:59.0, ,91-93,D. Robinson misses 2-pt jump shot from 7 ft,,4,93,91,2,2341.0
+8:57.0, ,91-93,Offensive rebound by J. Cain,,4,93,91,2,2343.0
+8:56.0, ,91-93,Shooting foul by T. Harris (drawn by J. Cain),,4,93,91,2,2344.0
+8:56.0, ,91-93,J. Cain misses free throw 1 of 2,,4,93,91,2,2344.0
+8:56.0, ,91-93,Offensive rebound by Team,,4,93,91,2,2344.0
+8:56.0,M. Bamba enters the game for M. Morris,91-93, ,,4,93,91,2,2344.0
+8:56.0, ,91-94,J. Cain makes free throw 2 of 2,,4,94,91,3,2344.0
+8:40.0,Personal foul by J. Cain (drawn by T. Harris),91-94, ,,4,94,91,3,2360.0
+8:34.0,Shooting foul by D. Robinson (drawn by T. Maxey),91-94, ,,4,94,91,3,2366.0
+8:34.0,T. Maxey misses free throw 1 of 2,91-94, ,,4,94,91,3,2366.0
+8:34.0,Offensive rebound by Team,91-94, ,,4,94,91,3,2366.0
+8:34.0,T. Maxey makes free throw 2 of 2,92-94, ,,4,94,92,2,2366.0
+8:23.0, ,92-96,J. Jaquez makes 2-pt dunk from 1 ft (assist by K. Lowry),,4,96,92,4,2377.0
+7:58.0,K. Oubre misses 3-pt jump shot from 26 ft,92-96, ,,4,96,92,4,2402.0
+7:55.0,Offensive rebound by K. Oubre,92-96, ,,4,96,92,4,2405.0
+7:54.0,Shooting foul by K. Lowry (drawn by M. Bamba),92-96, ,,4,96,92,4,2406.0
+7:54.0,M. Bamba makes free throw 1 of 2,93-96, ,,4,96,93,3,2406.0
+7:54.0,M. Bamba misses free throw 2 of 2,93-96, ,,4,96,93,3,2406.0
+7:54.0, ,93-96,Defensive rebound by J. Jaquez,,4,96,93,3,2406.0
+7:40.0, ,93-98,K. Lowry makes 2-pt jump shot from 7 ft,,4,98,93,5,2420.0
+7:17.0,D. Melton misses 3-pt jump shot from 28 ft,93-98, ,,4,98,93,5,2443.0
+7:14.0,Offensive rebound by Team,93-98, ,,4,98,93,5,2446.0
+7:01.0,K. Oubre makes 3-pt jump shot from 26 ft,96-98, ,,4,98,96,2,2459.0
+6:50.0, ,96-98,Def 3 sec tech foul by Team,,4,98,96,2,2470.0
+6:50.0, ,96-98,Miami full timeout,,4,98,96,2,2470.0
+6:50.0, ,96-98,T. Herro enters the game for D. Robinson,,4,98,96,2,2470.0
+6:50.0, ,96-99,K. Lowry makes technical free throw,,4,99,96,3,2470.0
+6:37.0, ,96-99,J. Jaquez misses 3-pt jump shot from 23 ft,,4,99,96,3,2483.0
+6:33.0,Defensive rebound by M. Bamba,96-99, ,,4,99,96,3,2487.0
+6:13.0,K. Oubre makes 3-pt jump shot from 23 ft (assist by T. Harris),99-99, ,Tie,4,99,99,0,2507.0
+5:55.0, ,99-101,K. Lowry makes 2-pt jump shot from 14 ft,,4,101,99,2,2525.0
+5:42.0,T. Maxey misses 2-pt jump shot from 15 ft,99-101, ,,4,101,99,2,2538.0
+5:39.0, ,99-101,Defensive rebound by J. Cain,,4,101,99,2,2541.0
+5:28.0, ,99-103,J. Jaquez makes 2-pt jump shot from 7 ft,,4,103,99,4,2552.0
+5:09.0,Shooting foul by K. Lowry (drawn by D. Melton),99-103, ,,4,103,99,4,2571.0
+5:09.0,D. Melton makes free throw 1 of 2,100-103, ,,4,103,100,3,2571.0
+5:09.0, ,100-103,D. Robinson enters the game for J. Cain,,4,103,100,3,2571.0
+5:09.0,D. Melton makes free throw 2 of 2,101-103, ,,4,103,101,2,2571.0
+4:57.0, ,101-103,K. Lowry misses 3-pt jump shot from 26 ft,,4,103,101,2,2583.0
+4:56.0, ,101-103,Offensive rebound by J. Jaquez,,4,103,101,2,2584.0
+4:54.0, ,101-103,Shooting foul by K. Oubre (drawn by J. Jaquez),,4,103,101,2,2586.0
+4:54.0, ,101-104,J. Jaquez makes free throw 1 of 2,,4,104,101,3,2586.0
+4:54.0, ,101-105,J. Jaquez makes free throw 2 of 2,,4,105,101,4,2586.0
+4:40.0,D. Melton misses 3-pt jump shot from 26 ft,101-105, ,,4,105,101,4,2600.0
+4:38.0, ,101-105,Defensive rebound by B. Adebayo,,4,105,101,4,2602.0
+4:27.0, ,101-105,Turnover by K. Lowry (out of bounds lost ball),,4,105,101,4,2613.0
+4:27.0,Philadelphia full timeout,101-105, ,,4,105,101,4,2613.0
+4:27.0,P. Reed enters the game for M. Bamba,101-105, ,,4,105,101,4,2613.0
+4:15.0,Turnover by K. Oubre (bad pass; steal by T. Herro),101-105, ,,4,105,101,4,2625.0
+4:00.0, ,101-105,J. Jaquez misses 2-pt layup from 4 ft (block by P. Reed),,4,105,101,4,2640.0
+3:56.0, ,101-105,Offensive rebound by J. Jaquez,,4,105,101,4,2644.0
+3:51.0, ,101-105,Turnover by T. Herro (bad pass; steal by D. Melton),,4,105,101,4,2649.0
+3:44.0,D. Melton misses 3-pt jump shot from 27 ft,101-105, ,,4,105,101,4,2656.0
+3:41.0, ,101-105,Defensive rebound by D. Robinson,,4,105,101,4,2659.0
+3:32.0, ,101-108,D. Robinson makes 3-pt jump shot from 26 ft (assist by T. Herro),,4,108,101,7,2668.0
+3:31.0,Philadelphia full timeout,101-108, ,,4,108,101,7,2669.0
+3:12.0,T. Harris makes 3-pt jump shot from 25 ft (assist by P. Reed),104-108, ,,4,108,104,4,2688.0
+2:48.0, ,104-108,T. Herro misses 3-pt jump shot from 22 ft,,4,108,104,4,2712.0
+2:44.0,Defensive rebound by D. Melton,104-108, ,,4,108,104,4,2716.0
+2:39.0,Personal foul by J. Jaquez (drawn by K. Oubre),104-108, ,,4,108,104,4,2721.0
+2:39.0,K. Oubre misses free throw 1 of 2,104-108, ,,4,108,104,4,2721.0
+2:39.0,Offensive rebound by Team,104-108, ,,4,108,104,4,2721.0
+2:39.0,K. Oubre misses free throw 2 of 2,104-108, ,,4,108,104,4,2721.0
+2:37.0, ,104-108,Defensive rebound by T. Herro,,4,108,104,4,2723.0
+2:28.0, ,104-108,T. Herro misses 2-pt jump shot from 11 ft,,4,108,104,4,2732.0
+2:27.0, ,104-108,Offensive rebound by B. Adebayo,,4,108,104,4,2733.0
+2:26.0, ,104-110,B. Adebayo makes 2-pt layup at rim,,4,110,104,6,2734.0
+2:12.0,T. Harris misses 2-pt jump shot from 10 ft,104-110, ,,4,110,104,6,2748.0
+2:12.0, ,104-110,Defensive rebound by B. Adebayo,,4,110,104,6,2748.0
+2:02.0, ,104-113,D. Robinson makes 3-pt jump shot from 26 ft (assist by K. Lowry),,4,113,104,9,2758.0
+1:55.0,Shooting foul by J. Jaquez (drawn by T. Maxey),104-113, ,,4,113,104,9,2765.0
+1:55.0,T. Maxey misses free throw 1 of 2,104-113, ,,4,113,104,9,2765.0
+1:55.0,Offensive rebound by Team,104-113, ,,4,113,104,9,2765.0
+1:55.0,T. Maxey makes free throw 2 of 2,105-113, ,,4,113,105,8,2765.0
+1:39.0, ,105-113,B. Adebayo misses 2-pt jump shot from 15 ft,,4,113,105,8,2781.0
+1:35.0,Defensive rebound by T. Maxey,105-113, ,,4,113,105,8,2785.0
+1:31.0,Shooting foul by T. Herro (drawn by T. Maxey),105-113, ,,4,113,105,8,2789.0
+1:31.0,T. Maxey misses free throw 1 of 2,105-113, ,,4,113,105,8,2789.0
+1:31.0,Offensive rebound by Team,105-113, ,,4,113,105,8,2789.0
+1:31.0,T. Maxey makes free throw 2 of 2,106-113, ,,4,113,106,7,2789.0
+1:09.0, ,106-115,B. Adebayo makes 2-pt hook shot from 4 ft (assist by K. Lowry),,4,115,106,9,2811.0
+1:00.0,P. Reed misses 3-pt jump shot from 24 ft,106-115, ,,4,115,106,9,2820.0
+0:57.0, ,106-115,Defensive rebound by D. Robinson,,4,115,106,9,2823.0
+0:51.0, ,106-115,Personal foul by P. Reed (drawn by B. Adebayo),,4,115,106,9,2829.0
+0:51.0,Philadelphia full timeout,106-115, ,,4,115,106,9,2829.0
+0:51.0, ,106-116,B. Adebayo makes free throw 1 of 2,,4,116,106,10,2829.0
+0:51.0, ,106-117,B. Adebayo makes free throw 2 of 2,,4,117,106,11,2829.0
+0:45.0,T. Maxey makes 2-pt layup from 2 ft,108-117, ,,4,117,108,9,2835.0
+0:27.0, ,108-117,D. Robinson misses 3-pt jump shot from 22 ft,,4,117,108,9,2853.0
+0:22.0, ,108-117,Offensive rebound by T. Herro,,4,117,108,9,2858.0
+0:22.0, ,108-117,Turnover by T. Herro (bad pass; steal by D. Melton),,4,117,108,9,2858.0
+0:18.0,T. Maxey makes 3-pt jump shot from 26 ft,111-117, ,,4,117,111,6,2862.0
+0:13.0, ,111-117,Personal take foul by T. Harris (drawn by J. Jaquez),,4,117,111,6,2867.0
+0:13.0, ,111-118,J. Jaquez makes free throw 1 of 2,,4,118,111,7,2867.0
+0:13.0, ,111-119,J. Jaquez makes free throw 2 of 2,,4,119,111,8,2867.0
+0:08.0,T. Harris misses 3-pt jump shot from 27 ft,111-119, ,,4,119,111,8,2872.0
+0:05.0,Offensive rebound by D. Melton,111-119, ,,4,119,111,8,2875.0
+0:04.0,D. Melton makes 2-pt layup from 3 ft,113-119, ,,4,119,113,6,2876.0
+0:00.0,End of 4th quarter,113-119,,,4,119,113,6,2880.0

@@ -1,0 +1,434 @@
+Time,Chicago,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Vučević vs. O. Robinson (C. White gains possession),0-0,,,1,0,0,0,0.0
+11:47.0,N. Vučević misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,13.0
+11:43.0,Offensive rebound by A. Dosunmu,0-0, ,,1,0,0,0,17.0
+11:41.0,C. White misses 3-pt jump shot from 24 ft,0-0, ,,1,0,0,0,19.0
+11:41.0, ,0-0,Defensive rebound by K. Lowry,,1,0,0,0,19.0
+11:32.0, ,0-0,J. Butler misses 3-pt jump shot from 23 ft,,1,0,0,0,28.0
+11:31.0, ,0-0,Offensive rebound by Team,,1,0,0,0,29.0
+11:31.0,Loose ball foul by P. Williams (drawn by O. Robinson),0-0, ,,1,0,0,0,29.0
+11:17.0, ,0-2,J. Butler makes 2-pt layup from 2 ft,,1,2,0,2,43.0
+11:07.0,A. Dosunmu makes 3-pt jump shot from 26 ft,3-2, ,Lead change,1,2,3,-1,53.0
+10:51.0,Violation by Team (kicked ball),3-2, ,,1,2,3,-1,69.0
+10:38.0, ,3-2,O. Robinson misses 3-pt jump shot from 26 ft,,1,2,3,-1,82.0
+10:35.0,Defensive rebound by C. White,3-2, ,,1,2,3,-1,85.0
+10:28.0,Offensive foul by P. Williams (drawn by K. Lowry),3-2, ,,1,2,3,-1,92.0
+10:28.0,Turnover by P. Williams (offensive foul),3-2, ,,1,2,3,-1,92.0
+10:11.0, ,3-2,Shooting foul by C. White (drawn by J. Butler),,1,2,3,-1,109.0
+10:11.0, ,3-3,J. Butler makes free throw 1 of 2,Tie,1,3,3,0,109.0
+10:11.0,T. Craig enters the game for P. Williams,3-3, ,,1,3,3,0,109.0
+10:11.0, ,3-4,J. Butler makes free throw 2 of 2,Lead change,1,4,3,1,109.0
+9:56.0,T. Craig misses 2-pt layup from 2 ft,3-4, ,,1,4,3,1,124.0
+9:56.0, ,3-4,Defensive rebound by Team,,1,4,3,1,124.0
+9:42.0, ,3-7,D. Robinson makes 3-pt jump shot from 25 ft (assist by K. Lowry),,1,7,3,4,138.0
+9:26.0,T. Craig misses 3-pt jump shot from 26 ft,3-7, ,,1,7,3,4,154.0
+9:25.0,Offensive rebound by Team,3-7, ,,1,7,3,4,155.0
+9:20.0,Turnover by N. Vučević (bad pass),3-7, ,,1,7,3,4,160.0
+9:10.0, ,3-9,J. Butler makes 2-pt dunk from 2 ft (assist by C. Martin),,1,9,3,6,170.0
+8:45.0,Turnover by C. White (bad pass; steal by J. Butler),3-9, ,,1,9,3,6,195.0
+8:38.0, ,3-11,J. Butler makes 2-pt dunk from 1 ft (assist by D. Robinson),,1,11,3,8,202.0
+8:38.0,Chicago full timeout,3-11, ,,1,11,3,8,202.0
+8:22.0,Shooting foul by O. Robinson (drawn by T. Craig),3-11, ,,1,11,3,8,218.0
+8:22.0,T. Craig makes free throw 1 of 2,4-11, ,,1,11,4,7,218.0
+8:22.0,T. Craig misses free throw 2 of 2,4-11, ,,1,11,4,7,218.0
+8:19.0, ,4-11,Defensive rebound by D. Robinson,,1,11,4,7,221.0
+7:59.0, ,4-13,O. Robinson makes 2-pt layup from 3 ft (assist by D. Robinson),,1,13,4,9,241.0
+7:38.0,T. Craig makes 3-pt jump shot from 25 ft (assist by D. DeRozan),7-13, ,,1,13,7,6,262.0
+7:31.0, ,7-13,D. Robinson misses 3-pt jump shot from 25 ft,,1,13,7,6,269.0
+7:27.0,Defensive rebound by N. Vučević,7-13, ,,1,13,7,6,273.0
+7:07.0,A. Dosunmu misses 2-pt jump shot from 17 ft,7-13, ,,1,13,7,6,293.0
+7:06.0,Offensive rebound by Team,7-13, ,,1,13,7,6,294.0
+7:06.0,Turnover by Team (shot clock),7-13, ,,1,13,7,6,294.0
+6:49.0, ,7-13,O. Robinson misses 2-pt hook shot from 10 ft,,1,13,7,6,311.0
+6:47.0,Defensive rebound by N. Vučević,7-13, ,,1,13,7,6,313.0
+6:29.0,T. Craig makes 3-pt jump shot from 25 ft (assist by D. DeRozan),10-13, ,,1,13,10,3,331.0
+6:15.0, ,10-13,O. Robinson misses 3-pt jump shot from 26 ft,,1,13,10,3,345.0
+6:11.0,Defensive rebound by C. White,10-13, ,,1,13,10,3,349.0
+6:06.0,Personal foul by K. Lowry (drawn by A. Dosunmu),10-13, ,,1,13,10,3,354.0
+6:06.0, ,10-13,J. Jaquez enters the game for D. Robinson,,1,13,10,3,354.0
+6:06.0, ,10-13,K. Love enters the game for O. Robinson,,1,13,10,3,354.0
+5:58.0,N. Vučević misses 2-pt hook shot from 9 ft,10-13, ,,1,13,10,3,362.0
+5:55.0, ,10-13,Defensive rebound by K. Love,,1,13,10,3,365.0
+5:36.0, ,10-15,C. Martin makes 2-pt layup from 2 ft,,1,15,10,5,384.0
+5:36.0, ,10-15,Shooting foul by A. Dosunmu (drawn by C. Martin),,1,15,10,5,384.0
+5:36.0, ,10-16,C. Martin makes free throw 1 of 1,,1,16,10,6,384.0
+5:21.0,D. DeRozan makes 2-pt jump shot from 8 ft,12-16, ,,1,16,12,4,399.0
+5:21.0,Violation by Team (delay of game),12-16, ,,1,16,12,4,399.0
+5:06.0, ,12-19,K. Love makes 3-pt jump shot from 25 ft (assist by K. Lowry),,1,19,12,7,414.0
+4:49.0,A. Dosunmu misses 3-pt jump shot from 24 ft,12-19, ,,1,19,12,7,431.0
+4:46.0,Offensive rebound by T. Craig,12-19, ,,1,19,12,7,434.0
+4:38.0,Turnover by N. Vučević (bad pass; steal by J. Jaquez),12-19, ,,1,19,12,7,442.0
+4:33.0, ,12-21,J. Jaquez makes 2-pt layup from 1 ft (assist by K. Lowry),,1,21,12,9,447.0
+4:33.0,Chicago full timeout,12-21, ,,1,21,12,9,447.0
+4:33.0,J. Carter enters the game for D. DeRozan,12-21, ,,1,21,12,9,447.0
+4:33.0,D. Terry enters the game for A. Dosunmu,12-21, ,,1,21,12,9,447.0
+4:15.0,N. Vučević misses 2-pt jump shot from 20 ft,12-21, ,,1,21,12,9,465.0
+4:11.0,Offensive rebound by T. Craig,12-21, ,,1,21,12,9,469.0
+4:01.0,J. Carter misses 3-pt jump shot from 29 ft,12-21, ,,1,21,12,9,479.0
+3:57.0, ,12-21,Defensive rebound by K. Lowry,,1,21,12,9,483.0
+3:50.0, ,12-24,K. Love makes 3-pt jump shot from 25 ft (assist by J. Jaquez),,1,24,12,12,490.0
+3:36.0,T. Craig makes 3-pt jump shot from 23 ft (assist by J. Carter),15-24, ,,1,24,15,9,504.0
+3:36.0,A. Dosunmu enters the game for N. Vučević,15-24, ,,1,24,15,9,504.0
+3:36.0,A. Drummond enters the game for C. White,15-24, ,,1,24,15,9,504.0
+3:36.0, ,15-24,J. Richardson enters the game for K. Lowry,,1,24,15,9,504.0
+3:14.0, ,15-27,K. Love makes 3-pt jump shot from 24 ft (assist by J. Butler),,1,27,15,12,526.0
+2:49.0,A. Drummond makes 2-pt hook shot from 7 ft (assist by D. Terry),17-27, ,,1,27,17,10,551.0
+2:27.0, ,17-27,Shooting foul by J. Carter (drawn by J. Butler),,1,27,17,10,573.0
+2:27.0, ,17-28,J. Butler makes free throw 1 of 2,,1,28,17,11,573.0
+2:27.0, ,17-28,H. Highsmith enters the game for C. Martin,,1,28,17,11,573.0
+2:27.0, ,17-29,J. Butler makes free throw 2 of 2,,1,29,17,12,573.0
+2:07.0,Turnover by A. Dosunmu (lost ball; steal by J. Jaquez),17-29, ,,1,29,17,12,593.0
+1:58.0, ,17-29,J. Jaquez misses 2-pt layup from 3 ft,,1,29,17,12,602.0
+1:58.0, ,17-29,Offensive rebound by Team,,1,29,17,12,602.0
+1:58.0,D. DeRozan enters the game for T. Craig,17-29, ,,1,29,17,12,602.0
+1:51.0, ,17-29,Turnover by J. Butler (bad pass; steal by D. Terry),,1,29,17,12,609.0
+1:44.0,D. DeRozan makes 2-pt layup from 2 ft (assist by A. Dosunmu),19-29, ,,1,29,19,10,616.0
+1:35.0, ,19-29,Def 3 sec tech foul by Team,,1,29,19,10,625.0
+1:35.0, ,19-30,J. Butler makes technical free throw,,1,30,19,11,625.0
+1:26.0, ,19-33,K. Love makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,33,19,14,634.0
+1:05.0,Shooting foul by J. Richardson (drawn by A. Drummond),19-33, ,,1,33,19,14,655.0
+1:05.0,A. Drummond makes free throw 1 of 2,20-33, ,,1,33,20,13,655.0
+1:05.0, ,20-33,D. Robinson enters the game for J. Butler,,1,33,20,13,655.0
+1:05.0,A. Drummond makes free throw 2 of 2,21-33, ,,1,33,21,12,655.0
+0:54.0, ,21-33,J. Jaquez misses 2-pt jump shot from 5 ft,,1,33,21,12,666.0
+0:53.0,Defensive rebound by Team,21-33, ,,1,33,21,12,667.0
+0:32.0,Shooting foul by H. Highsmith (drawn by D. DeRozan),21-33, ,,1,33,21,12,688.0
+0:32.0,D. DeRozan misses free throw 1 of 2,21-33, ,,1,33,21,12,688.0
+0:32.0,Offensive rebound by Team,21-33, ,,1,33,21,12,688.0
+0:32.0,D. DeRozan makes free throw 2 of 2,22-33, ,,1,33,22,11,688.0
+0:15.0, ,22-33,Turnover by J. Jaquez (lost ball; steal by A. Drummond),,1,33,22,11,705.0
+0:12.0,D. Terry makes 2-pt dunk from 1 ft (assist by J. Carter),24-33, ,,1,33,24,9,708.0
+0:03.0, ,24-36,J. Jaquez makes 3-pt jump shot from 24 ft (assist by H. Highsmith),,1,36,24,12,717.0
+0:00.0,A. Dosunmu misses 3-pt jump shot from 45 ft,24-36, ,,1,36,24,12,720.0
+0:00.0,Offensive rebound by Team,24-36, ,,1,36,24,12,720.0
+0:00.0,End of 1st quarter,24-36,,,1,36,24,12,720.0
+12:00.0,Start of 2nd quarter,24-36,,,2,36,24,12,720.0
+11:49.0, ,24-39,K. Love makes 3-pt jump shot from 28 ft (assist by D. Robinson),,2,39,24,15,731.0
+11:47.0,Chicago full timeout,24-39, ,,2,39,24,15,733.0
+11:24.0,D. DeRozan makes 2-pt jump shot from 12 ft,26-39, ,,2,39,26,13,756.0
+11:08.0, ,26-39,D. Robinson misses 3-pt jump shot from 23 ft,,2,39,26,13,772.0
+11:04.0,Defensive rebound by P. Williams,26-39, ,,2,39,26,13,776.0
+10:58.0,P. Williams makes 2-pt dunk from 2 ft,28-39, ,,2,39,28,11,782.0
+10:48.0, ,28-39,J. Richardson misses 2-pt jump shot from 12 ft,,2,39,28,11,792.0
+10:45.0,Defensive rebound by A. Dosunmu,28-39, ,,2,39,28,11,795.0
+10:27.0,A. Drummond misses 2-pt hook shot from 4 ft,28-39, ,,2,39,28,11,813.0
+10:25.0, ,28-39,Defensive rebound by J. Richardson,,2,39,28,11,815.0
+10:17.0, ,28-39,K. Love misses 3-pt jump shot from 26 ft,,2,39,28,11,823.0
+10:13.0, ,28-39,Offensive rebound by J. Richardson,,2,39,28,11,827.0
+10:09.0, ,28-39,D. Robinson misses 3-pt jump shot from 27 ft,,2,39,28,11,831.0
+10:05.0,Defensive rebound by A. Drummond,28-39, ,,2,39,28,11,835.0
+9:57.0,D. Terry misses 3-pt jump shot from 23 ft,28-39, ,,2,39,28,11,843.0
+9:57.0, ,28-39,Defensive rebound by Team,,2,39,28,11,843.0
+9:57.0,C. White enters the game for A. Dosunmu,28-39, ,,2,39,28,11,843.0
+9:57.0, ,28-39,T. Bryant enters the game for K. Love,,2,39,28,11,843.0
+9:34.0, ,28-39,T. Bryant misses 2-pt jump shot from 20 ft,,2,39,28,11,866.0
+9:34.0,Defensive rebound by C. White,28-39, ,,2,39,28,11,866.0
+9:15.0,P. Williams misses 3-pt jump shot from 24 ft,28-39, ,,2,39,28,11,885.0
+9:12.0, ,28-39,Defensive rebound by J. Jaquez,,2,39,28,11,888.0
+8:54.0, ,28-39,J. Jaquez misses 2-pt layup from 2 ft,,2,39,28,11,906.0
+8:51.0,Defensive rebound by A. Drummond,28-39, ,,2,39,28,11,909.0
+8:42.0,P. Williams makes 3-pt jump shot from 24 ft (assist by C. White),31-39, ,,2,39,31,8,918.0
+8:30.0, ,31-42,J. Richardson makes 3-pt jump shot from 26 ft (assist by D. Robinson),,2,42,31,11,930.0
+8:14.0,P. Williams misses 2-pt layup from 3 ft (block by T. Bryant),31-42, ,,2,42,31,11,946.0
+8:14.0,Offensive rebound by Team,31-42, ,,2,42,31,11,946.0
+8:14.0,A. Dosunmu enters the game for D. Terry,31-42, ,,2,42,31,11,946.0
+8:06.0,D. DeRozan makes 3-pt jump shot from 30 ft (assist by C. White),34-42, ,,2,42,34,8,954.0
+7:46.0, ,34-42,D. Robinson misses 3-pt jump shot from 24 ft,,2,42,34,8,974.0
+7:43.0, ,34-42,Offensive rebound by H. Highsmith,,2,42,34,8,977.0
+7:41.0, ,34-42,J. Richardson misses 3-pt jump shot from 27 ft,,2,42,34,8,979.0
+7:38.0,Defensive rebound by A. Drummond,34-42, ,,2,42,34,8,982.0
+7:31.0,A. Dosunmu makes 3-pt jump shot from 25 ft (assist by P. Williams),37-42, ,,2,42,37,5,989.0
+7:29.0, ,37-42,Miami full timeout,,2,42,37,5,991.0
+7:29.0,N. Vučević enters the game for A. Drummond,37-42, ,,2,42,37,5,991.0
+7:11.0, ,37-42,Turnover by J. Jaquez (bad pass; steal by C. White),,2,42,37,5,1009.0
+7:00.0,N. Vučević misses 3-pt jump shot from 25 ft,37-42, ,,2,42,37,5,1020.0
+6:57.0, ,37-42,Defensive rebound by J. Jaquez,,2,42,37,5,1023.0
+6:41.0, ,37-42,H. Highsmith misses 3-pt jump shot from 26 ft,,2,42,37,5,1039.0
+6:38.0,Defensive rebound by C. White,37-42, ,,2,42,37,5,1042.0
+6:28.0,Shooting foul by T. Bryant (drawn by N. Vučević),37-42, ,,2,42,37,5,1052.0
+6:28.0,N. Vučević misses free throw 1 of 2,37-42, ,,2,42,37,5,1052.0
+6:28.0,Offensive rebound by Team,37-42, ,,2,42,37,5,1052.0
+6:28.0,T. Craig enters the game for D. DeRozan,37-42, ,,2,42,37,5,1052.0
+6:28.0, ,37-42,K. Lowry enters the game for H. Highsmith,,2,42,37,5,1052.0
+6:28.0, ,37-42,C. Martin enters the game for D. Robinson,,2,42,37,5,1052.0
+6:28.0,N. Vučević makes free throw 2 of 2,38-42, ,,2,42,38,4,1052.0
+6:10.0, ,38-44,J. Richardson makes 2-pt jump shot from 7 ft (assist by K. Lowry),,2,44,38,6,1070.0
+5:58.0,T. Craig makes 3-pt jump shot from 23 ft (assist by C. White),41-44, ,,2,44,41,3,1082.0
+5:43.0, ,41-47,J. Richardson makes 3-pt jump shot from 25 ft (assist by K. Lowry),,2,47,41,6,1097.0
+5:37.0,A. Dosunmu misses 3-pt jump shot from 23 ft,41-47, ,,2,47,41,6,1103.0
+5:35.0,Offensive rebound by Team,41-47, ,,2,47,41,6,1105.0
+5:32.0, ,41-47,Loose ball foul by C. Martin (drawn by P. Williams),,2,47,41,6,1108.0
+5:32.0, ,41-47,J. Butler enters the game for J. Jaquez,,2,47,41,6,1108.0
+5:20.0,P. Williams makes 2-pt jump shot from 17 ft (assist by N. Vučević),43-47, ,,2,47,43,4,1120.0
+5:01.0, ,43-47,J. Richardson misses 3-pt jump shot from 27 ft,,2,47,43,4,1139.0
+4:59.0,Defensive rebound by P. Williams,43-47, ,,2,47,43,4,1141.0
+4:48.0,C. White misses 2-pt jump shot from 14 ft,43-47, ,,2,47,43,4,1152.0
+4:46.0, ,43-47,Defensive rebound by T. Bryant,,2,47,43,4,1154.0
+4:28.0, ,43-47,J. Butler misses 2-pt jump shot from 5 ft,,2,47,43,4,1172.0
+4:26.0,Defensive rebound by A. Dosunmu,43-47, ,,2,47,43,4,1174.0
+4:23.0,C. White misses 3-pt jump shot from 26 ft,43-47, ,,2,47,43,4,1177.0
+4:23.0, ,43-47,Defensive rebound by T. Bryant,,2,47,43,4,1177.0
+4:11.0, ,43-49,T. Bryant makes 2-pt jump shot from 8 ft (assist by K. Lowry),,2,49,43,6,1189.0
+3:51.0,T. Craig makes 2-pt layup from 2 ft (assist by N. Vučević),45-49, ,,2,49,45,4,1209.0
+3:51.0,Shooting foul by T. Bryant (drawn by T. Craig),45-49, ,,2,49,45,4,1209.0
+3:51.0,T. Craig makes free throw 1 of 1,46-49, ,,2,49,46,3,1209.0
+3:51.0,D. DeRozan enters the game for C. White,46-49, ,,2,49,46,3,1209.0
+3:51.0, ,46-49,J. Jaquez enters the game for T. Bryant,,2,49,46,3,1209.0
+3:51.0, ,46-49,K. Love enters the game for J. Richardson,,2,49,46,3,1209.0
+3:29.0, ,46-52,K. Lowry makes 3-pt jump shot from 25 ft,,2,52,46,6,1231.0
+3:11.0,P. Williams makes 3-pt jump shot from 30 ft (assist by N. Vučević),49-52, ,,2,52,49,3,1249.0
+3:01.0, ,49-54,C. Martin makes 2-pt jump shot from 21 ft,,2,54,49,5,1259.0
+2:36.0,N. Vučević misses 2-pt hook shot from 7 ft,49-54, ,,2,54,49,5,1284.0
+2:33.0, ,49-54,Defensive rebound by K. Love,,2,54,49,5,1287.0
+2:30.0, ,49-56,K. Lowry makes 2-pt layup from 2 ft (assist by J. Jaquez),,2,56,49,7,1290.0
+2:12.0,P. Williams makes 3-pt jump shot from 25 ft (assist by A. Dosunmu),52-56, ,,2,56,52,4,1308.0
+1:48.0, ,52-56,C. Martin misses 2-pt layup from 2 ft (block by D. DeRozan),,2,56,52,4,1332.0
+1:44.0,Defensive rebound by N. Vučević,52-56, ,,2,56,52,4,1336.0
+1:42.0,A. Dosunmu misses 3-pt jump shot from 27 ft,52-56, ,,2,56,52,4,1338.0
+1:38.0,Offensive rebound by N. Vučević,52-56, ,,2,56,52,4,1342.0
+1:37.0,D. DeRozan misses 3-pt jump shot from 27 ft,52-56, ,,2,56,52,4,1343.0
+1:33.0, ,52-56,Defensive rebound by C. Martin,,2,56,52,4,1347.0
+1:15.0, ,52-56,J. Butler misses 2-pt jump shot from 6 ft (block by A. Dosunmu),,2,56,52,4,1365.0
+1:11.0,Defensive rebound by A. Dosunmu,52-56, ,,2,56,52,4,1369.0
+1:07.0,Turnover by D. DeRozan (out of bounds lost ball),52-56, ,,2,56,52,4,1373.0
+1:07.0,C. White enters the game for T. Craig,52-56, ,,2,56,52,4,1373.0
+0:55.0, ,52-58,J. Jaquez makes 2-pt layup from 1 ft,,2,58,52,6,1385.0
+0:42.0,C. White misses 3-pt jump shot from 25 ft,52-58, ,,2,58,52,6,1398.0
+0:40.0,Offensive rebound by N. Vučević,52-58, ,,2,58,52,6,1400.0
+0:40.0,Shooting foul by K. Love (drawn by N. Vučević),52-58, ,,2,58,52,6,1400.0
+0:40.0,N. Vučević makes free throw 1 of 2,53-58, ,,2,58,53,5,1400.0
+0:40.0,N. Vučević makes free throw 2 of 2,54-58, ,,2,58,54,4,1400.0
+0:31.0, ,54-58,Turnover by C. Martin (bad pass; steal by A. Dosunmu),,2,58,54,4,1409.0
+0:24.0,N. Vučević makes 3-pt jump shot from 25 ft (assist by D. DeRozan),57-58, ,,2,58,57,1,1416.0
+0:02.0, ,57-58,Personal foul by C. White (drawn by J. Butler),,2,58,57,1,1438.0
+0:02.0,J. Phillips enters the game for C. White,57-58, ,,2,58,57,1,1438.0
+0:02.0,D. Terry enters the game for P. Williams,57-58, ,,2,58,57,1,1438.0
+0:02.0, ,57-58,D. Robinson enters the game for C. Martin,,2,58,57,1,1438.0
+0:00.0, ,57-58,K. Love misses 3-pt jump shot from 28 ft,,2,58,57,1,1440.0
+0:00.0, ,57-58,Offensive rebound by Team,,2,58,57,1,1440.0
+0:00.0,End of 2nd quarter,57-58,,,2,58,57,1,1440.0
+12:00.0,Start of 3rd quarter,57-58,,,3,58,57,1,1440.0
+11:46.0, ,57-60,J. Butler makes 2-pt jump shot from 17 ft (assist by D. Robinson),,3,60,57,3,1454.0
+11:32.0,Shooting foul by C. Martin (drawn by D. DeRozan),57-60, ,,3,60,57,3,1468.0
+11:32.0,D. DeRozan makes free throw 1 of 2,58-60, ,,3,60,58,2,1468.0
+11:32.0,D. DeRozan makes free throw 2 of 2,59-60, ,,3,60,59,1,1468.0
+11:10.0, ,59-63,D. Robinson makes 3-pt jump shot from 26 ft (assist by O. Robinson),,3,63,59,4,1490.0
+10:54.0,N. Vučević makes 2-pt hook shot from 6 ft (assist by C. White),61-63, ,,3,63,61,2,1506.0
+10:45.0, ,61-63,Shooting foul by A. Dosunmu (drawn by J. Butler),,3,63,61,2,1515.0
+10:45.0, ,61-64,J. Butler makes free throw 1 of 2,,3,64,61,3,1515.0
+10:45.0, ,61-64,J. Butler misses free throw 2 of 2,,3,64,61,3,1515.0
+10:40.0,Defensive rebound by P. Williams,61-64, ,,3,64,61,3,1520.0
+10:31.0,N. Vučević misses 2-pt jump shot from 13 ft,61-64, ,,3,64,61,3,1529.0
+10:28.0, ,61-64,Defensive rebound by C. Martin,,3,64,61,3,1532.0
+10:20.0, ,61-64,J. Butler misses 2-pt layup from 2 ft,,3,64,61,3,1540.0
+10:18.0, ,61-64,Offensive rebound by O. Robinson,,3,64,61,3,1542.0
+10:08.0, ,61-64,D. Robinson misses 3-pt jump shot from 24 ft,,3,64,61,3,1552.0
+10:06.0,Defensive rebound by D. DeRozan,61-64, ,,3,64,61,3,1554.0
+9:51.0,P. Williams makes 2-pt jump shot from 10 ft,63-64, ,,3,64,63,1,1569.0
+9:51.0,Shooting foul by O. Robinson (drawn by P. Williams),63-64, ,,3,64,63,1,1569.0
+9:51.0,P. Williams makes free throw 1 of 1,64-64, ,Tie,3,64,64,0,1569.0
+9:28.0, ,64-64,Turnover by J. Butler (lost ball; steal by N. Vučević),,3,64,64,0,1592.0
+9:09.0,Shooting foul by K. Lowry (drawn by C. White),64-64, ,,3,64,64,0,1611.0
+9:09.0,C. White makes free throw 1 of 2,65-64, ,Lead change,3,64,65,-1,1611.0
+9:09.0,C. White makes free throw 2 of 2,66-64, ,,3,64,66,-2,1611.0
+8:58.0, ,66-64,Shooting foul by A. Dosunmu (drawn by K. Lowry),,3,64,66,-2,1622.0
+8:58.0, ,66-65,K. Lowry makes free throw 1 of 2,,3,65,66,-1,1622.0
+8:58.0, ,66-66,K. Lowry makes free throw 2 of 2,Tie,3,66,66,0,1622.0
+8:42.0,Turnover by P. Williams (lost ball; steal by C. Martin),66-66, ,,3,66,66,0,1638.0
+8:38.0, ,66-66,Shooting foul by D. DeRozan (drawn by C. Martin),,3,66,66,0,1642.0
+8:38.0, ,66-66,C. Martin misses free throw 1 of 2,,3,66,66,0,1642.0
+8:38.0, ,66-66,Offensive rebound by Team,,3,66,66,0,1642.0
+8:38.0, ,66-67,C. Martin makes free throw 2 of 2,Lead change,3,67,66,1,1642.0
+8:30.0,C. White misses 3-pt jump shot from 27 ft,66-67, ,,3,67,66,1,1650.0
+8:25.0, ,66-67,Defensive rebound by O. Robinson,,3,67,66,1,1655.0
+8:14.0, ,66-67,K. Lowry misses 3-pt jump shot from 27 ft,,3,67,66,1,1666.0
+8:10.0,Defensive rebound by P. Williams,66-67, ,,3,67,66,1,1670.0
+8:06.0,Turnover by P. Williams (bad pass),66-67, ,,3,67,66,1,1674.0
+7:44.0, ,66-67,K. Lowry misses 2-pt jump shot from 9 ft,,3,67,66,1,1696.0
+7:40.0,Defensive rebound by N. Vučević,66-67, ,,3,67,66,1,1700.0
+7:30.0,N. Vučević makes 2-pt layup from 3 ft (assist by P. Williams),68-67, ,Lead change,3,67,68,-1,1710.0
+7:14.0, ,68-67,Turnover by D. Robinson (bad pass; steal by A. Dosunmu),,3,67,68,-1,1726.0
+7:07.0,A. Dosunmu misses 2-pt layup from 2 ft (block by K. Lowry),68-67, ,,3,67,68,-1,1733.0
+7:03.0,Offensive rebound by C. White,68-67, ,,3,67,68,-1,1737.0
+7:02.0,C. White makes 2-pt layup from 2 ft,70-67, ,,3,67,70,-3,1738.0
+6:52.0, ,70-67,Turnover by C. Martin (lost ball),,3,67,70,-3,1748.0
+6:52.0, ,70-67,Loose ball foul by J. Butler (drawn by C. White),,3,67,70,-3,1748.0
+6:52.0, ,70-67,Miami full timeout,,3,67,70,-3,1748.0
+6:52.0, ,70-67,K. Love enters the game for O. Robinson,,3,67,70,-3,1748.0
+6:32.0,Shooting foul by J. Butler (drawn by P. Williams),70-67, ,,3,67,70,-3,1768.0
+6:32.0,P. Williams makes free throw 1 of 2,71-67, ,,3,67,71,-4,1768.0
+6:32.0,P. Williams makes free throw 2 of 2,72-67, ,,3,67,72,-5,1768.0
+6:09.0, ,72-67,Shooting foul by N. Vučević (drawn by C. Martin),,3,67,72,-5,1791.0
+6:09.0, ,72-67,C. Martin misses free throw 1 of 2,,3,67,72,-5,1791.0
+6:09.0, ,72-67,Offensive rebound by Team,,3,67,72,-5,1791.0
+6:09.0, ,72-67,J. Jaquez enters the game for D. Robinson,,3,67,72,-5,1791.0
+6:09.0, ,72-67,C. Martin misses free throw 2 of 2,,3,67,72,-5,1791.0
+6:07.0,Defensive rebound by N. Vučević,72-67, ,,3,67,72,-5,1793.0
+5:53.0,Shooting foul by K. Love (drawn by N. Vučević),72-67, ,,3,67,72,-5,1807.0
+5:53.0,N. Vučević makes free throw 1 of 2,73-67, ,,3,67,73,-6,1807.0
+5:53.0,J. Carter enters the game for D. DeRozan,73-67, ,,3,67,73,-6,1807.0
+5:53.0,D. Terry enters the game for A. Dosunmu,73-67, ,,3,67,73,-6,1807.0
+5:53.0,N. Vučević makes free throw 2 of 2,74-67, ,,3,67,74,-7,1807.0
+5:40.0, ,74-67,Shooting foul by D. Terry (drawn by J. Butler),,3,67,74,-7,1820.0
+5:40.0, ,74-68,J. Butler makes free throw 1 of 2,,3,68,74,-6,1820.0
+5:40.0, ,74-69,J. Butler makes free throw 2 of 2,,3,69,74,-5,1820.0
+5:19.0,Turnover by J. Carter (bad pass; steal by K. Love),74-69, ,,3,69,74,-5,1841.0
+5:16.0, ,74-71,J. Jaquez makes 2-pt dunk from 1 ft (assist by K. Love),,3,71,74,-3,1844.0
+5:08.0,Turnover by D. Terry (out of bounds lost ball),74-71, ,,3,71,74,-3,1852.0
+5:02.0, ,74-71,Shooting foul by J. Carter (drawn by K. Lowry),,3,71,74,-3,1858.0
+5:02.0, ,74-71,K. Lowry misses free throw 1 of 2,,3,71,74,-3,1858.0
+5:02.0, ,74-71,Offensive rebound by Team,,3,71,74,-3,1858.0
+5:02.0,D. DeRozan enters the game for P. Williams,74-71, ,,3,71,74,-3,1858.0
+5:02.0, ,74-72,K. Lowry makes free throw 2 of 2,,3,72,74,-2,1858.0
+4:52.0,N. Vučević misses 3-pt jump shot from 27 ft,74-72, ,,3,72,74,-2,1868.0
+4:48.0, ,74-72,Defensive rebound by K. Love,,3,72,74,-2,1872.0
+4:34.0, ,74-74,J. Butler makes 2-pt jump shot from 9 ft,Tie,3,74,74,0,1886.0
+4:19.0,D. DeRozan misses 2-pt jump shot from 17 ft,74-74, ,,3,74,74,0,1901.0
+4:16.0,Offensive rebound by N. Vučević,74-74, ,,3,74,74,0,1904.0
+4:14.0,D. Terry misses 3-pt jump shot from 25 ft,74-74, ,,3,74,74,0,1906.0
+4:11.0, ,74-74,Defensive rebound by J. Butler,,3,74,74,0,1909.0
+4:00.0, ,74-74,K. Love misses 3-pt jump shot from 27 ft,,3,74,74,0,1920.0
+3:57.0,Defensive rebound by N. Vučević,74-74, ,,3,74,74,0,1923.0
+3:47.0,J. Carter misses 3-pt jump shot from 22 ft,74-74, ,,3,74,74,0,1933.0
+3:44.0, ,74-74,Defensive rebound by K. Love,,3,74,74,0,1936.0
+3:40.0, ,74-76,J. Butler makes 2-pt layup from 2 ft,Lead change,3,76,74,2,1940.0
+3:40.0,Chicago full timeout,74-76, ,,3,76,74,2,1940.0
+3:40.0,A. Dosunmu enters the game for C. White,74-76, ,,3,76,74,2,1940.0
+3:21.0,N. Vučević misses 2-pt jump shot from 13 ft,74-76, ,,3,76,74,2,1959.0
+3:18.0, ,74-76,Defensive rebound by J. Butler,,3,76,74,2,1962.0
+3:08.0, ,74-76,Turnover by K. Love (bad pass; steal by D. DeRozan),,3,76,74,2,1972.0
+3:01.0,J. Carter misses 3-pt jump shot from 23 ft,74-76, ,,3,76,74,2,1979.0
+2:57.0, ,74-76,Defensive rebound by J. Jaquez,,3,76,74,2,1983.0
+2:52.0, ,74-76,Shooting foul by A. Dosunmu (drawn by J. Butler),,3,76,74,2,1988.0
+2:52.0, ,74-77,J. Butler makes free throw 1 of 2,,3,77,74,3,1988.0
+2:52.0,A. Drummond enters the game for J. Carter,74-77, ,,3,77,74,3,1988.0
+2:52.0,C. White enters the game for D. Terry,74-77, ,,3,77,74,3,1988.0
+2:52.0,P. Williams enters the game for N. Vučević,74-77, ,,3,77,74,3,1988.0
+2:52.0, ,74-77,J. Richardson enters the game for K. Lowry,,3,77,74,3,1988.0
+2:52.0, ,74-78,J. Butler makes free throw 2 of 2,,3,78,74,4,1988.0
+2:34.0,D. DeRozan misses 2-pt layup from 2 ft,74-78, ,,3,78,74,4,2006.0
+2:31.0, ,74-78,Defensive rebound by J. Jaquez,,3,78,74,4,2009.0
+2:26.0, ,74-78,J. Butler misses 2-pt layup from 3 ft,,3,78,74,4,2014.0
+2:26.0, ,74-78,Offensive rebound by Team,,3,78,74,4,2014.0
+2:14.0, ,74-78,J. Richardson misses 3-pt jump shot from 28 ft,,3,78,74,4,2026.0
+2:10.0, ,74-78,Offensive rebound by C. Martin,,3,78,74,4,2030.0
+2:03.0, ,74-80,J. Butler makes 2-pt layup from 2 ft,,3,80,74,6,2037.0
+1:52.0,D. DeRozan makes 2-pt layup from 2 ft,76-80, ,,3,80,76,4,2048.0
+1:46.0, ,76-82,C. Martin makes 2-pt layup from 1 ft (assist by J. Richardson),,3,82,76,6,2054.0
+1:46.0, ,76-82,Shooting foul by P. Williams (drawn by C. Martin),,3,82,76,6,2054.0
+1:46.0, ,76-83,C. Martin makes free throw 1 of 1,,3,83,76,7,2054.0
+1:32.0,D. DeRozan makes 2-pt jump shot from 14 ft,78-83, ,,3,83,78,5,2068.0
+1:19.0, ,78-85,J. Jaquez makes 2-pt layup from 2 ft,,3,85,78,7,2081.0
+1:07.0,C. White misses 3-pt jump shot from 26 ft,78-85, ,,3,85,78,7,2093.0
+1:04.0,Offensive rebound by P. Williams,78-85, ,,3,85,78,7,2096.0
+1:04.0,Offensive foul by A. Drummond (drawn by K. Love),78-85, ,,3,85,78,7,2096.0
+1:04.0,Turnover by A. Drummond (offensive foul),78-85, ,,3,85,78,7,2096.0
+1:04.0, ,78-85,H. Highsmith enters the game for J. Butler,,3,85,78,7,2096.0
+1:04.0, ,78-85,D. Robinson enters the game for C. Martin,,3,85,78,7,2096.0
+0:51.0, ,78-88,D. Robinson makes 3-pt jump shot from 27 ft (assist by J. Jaquez),,3,88,78,10,2109.0
+0:36.0,Turnover by D. DeRozan (out of bounds lost ball),78-88, ,,3,88,78,10,2124.0
+0:29.0, ,78-91,K. Love makes 3-pt jump shot from 26 ft (assist by J. Richardson),,3,91,78,13,2131.0
+0:22.0,P. Williams makes 2-pt layup from 2 ft,80-91, ,,3,91,80,11,2138.0
+0:04.0, ,80-91,D. Robinson misses 3-pt jump shot from 25 ft,,3,91,80,11,2156.0
+0:04.0,Defensive rebound by A. Drummond,80-91, ,,3,91,80,11,2156.0
+0:00.0,End of 3rd quarter,80-91,,,3,91,80,11,2160.0
+12:00.0,Start of 4th quarter,80-91,,,4,91,80,11,2160.0
+11:38.0,C. White misses 2-pt layup from 2 ft,80-91, ,,4,91,80,11,2182.0
+11:36.0,Offensive rebound by D. Terry,80-91, ,,4,91,80,11,2184.0
+11:32.0,P. Williams makes 3-pt jump shot from 27 ft (assist by D. DeRozan),83-91, ,,4,91,83,8,2188.0
+11:06.0, ,83-93,K. Love makes 2-pt jump shot from 22 ft (assist by J. Jaquez),,4,93,83,10,2214.0
+10:47.0,Shooting foul by H. Highsmith (drawn by P. Williams),83-93, ,,4,93,83,10,2233.0
+10:47.0,P. Williams makes free throw 1 of 2,84-93, ,,4,93,84,9,2233.0
+10:47.0,P. Williams makes free throw 2 of 2,85-93, ,,4,93,85,8,2233.0
+10:25.0, ,85-93,Personal foul by D. Terry (drawn by J. Jaquez),,4,93,85,8,2255.0
+10:14.0, ,85-95,K. Love makes 2-pt jump shot from 5 ft (assist by D. Robinson),,4,95,85,10,2266.0
+10:00.0,D. DeRozan makes 2-pt jump shot from 4 ft (assist by C. White),87-95, ,,4,95,87,8,2280.0
+9:50.0, ,87-95,Turnover by D. Robinson (traveling),,4,95,87,8,2290.0
+9:50.0, ,87-95,C. Martin enters the game for K. Love,,4,95,87,8,2290.0
+9:36.0,C. White makes 2-pt jump shot from 8 ft,89-95, ,,4,95,89,6,2304.0
+9:13.0, ,89-97,C. Martin makes 2-pt jump shot from 16 ft,,4,97,89,8,2327.0
+9:05.0,Shooting foul by J. Jaquez (drawn by C. White),89-97, ,,4,97,89,8,2335.0
+9:05.0,C. White makes free throw 1 of 2,90-97, ,,4,97,90,7,2335.0
+9:05.0,J. Carter enters the game for A. Dosunmu,90-97, ,,4,97,90,7,2335.0
+9:05.0,C. White makes free throw 2 of 2,91-97, ,,4,97,91,6,2335.0
+8:53.0, ,91-99,J. Jaquez makes 2-pt jump shot from 11 ft,,4,99,91,8,2347.0
+8:53.0, ,91-99,Shooting foul by D. Terry (drawn by J. Jaquez),,4,99,91,8,2347.0
+8:53.0, ,91-100,J. Jaquez makes free throw 1 of 1,,4,100,91,9,2347.0
+8:40.0,C. White makes 3-pt jump shot from 25 ft (assist by P. Williams),94-100, ,,4,100,94,6,2360.0
+8:25.0, ,94-100,Turnover by J. Richardson (bad pass; steal by D. DeRozan),,4,100,94,6,2375.0
+8:19.0,C. White makes 3-pt jump shot from 25 ft (assist by D. Terry),97-100, ,,4,100,97,3,2381.0
+8:17.0, ,97-100,Miami full timeout,,4,100,97,3,2383.0
+7:59.0, ,97-100,J. Jaquez misses 2-pt layup from 3 ft (block by D. DeRozan),,4,100,97,3,2401.0
+7:55.0,Defensive rebound by D. DeRozan,97-100, ,,4,100,97,3,2405.0
+7:49.0,D. DeRozan makes 2-pt jump shot from 9 ft,99-100, ,,4,100,99,1,2411.0
+7:35.0, ,99-102,H. Highsmith makes 2-pt jump shot from 11 ft,,4,102,99,3,2425.0
+7:35.0, ,99-102,Shooting foul by D. Terry (drawn by H. Highsmith),,4,102,99,3,2425.0
+7:35.0, ,99-102,H. Highsmith misses free throw 1 of 1,,4,102,99,3,2425.0
+7:35.0, ,99-102,J. Butler enters the game for J. Richardson,,4,102,99,3,2425.0
+7:35.0, ,99-102,K. Lowry enters the game for D. Robinson,,4,102,99,3,2425.0
+7:35.0,Defensive rebound by P. Williams,99-102, ,,4,102,99,3,2425.0
+7:17.0,D. DeRozan misses 2-pt jump shot from 15 ft,99-102, ,,4,102,99,3,2443.0
+7:07.0, ,99-102,Defensive rebound by K. Lowry,,4,102,99,3,2453.0
+7:03.0, ,99-102,Shooting foul by C. White (drawn by C. Martin),,4,102,99,3,2457.0
+7:03.0, ,99-103,C. Martin makes free throw 1 of 2,,4,103,99,4,2457.0
+7:03.0,A. Dosunmu enters the game for D. Terry,99-103, ,,4,103,99,4,2457.0
+7:03.0,N. Vučević enters the game for P. Williams,99-103, ,,4,103,99,4,2457.0
+7:03.0, ,99-103,J. Richardson enters the game for H. Highsmith,,4,103,99,4,2457.0
+7:03.0, ,99-104,C. Martin makes free throw 2 of 2,,4,104,99,5,2457.0
+6:40.0,A. Dosunmu makes 2-pt jump shot from 5 ft (assist by J. Carter),101-104, ,,4,104,101,3,2480.0
+6:26.0, ,101-104,C. Martin misses 2-pt layup from 3 ft (block by D. DeRozan),,4,104,101,3,2494.0
+6:26.0,Defensive rebound by J. Carter,101-104, ,,4,104,101,3,2494.0
+6:19.0,C. White makes 3-pt jump shot from 25 ft (assist by A. Dosunmu),104-104, ,Tie,4,104,104,0,2501.0
+5:59.0, ,104-104,J. Butler misses 2-pt jump shot from 18 ft,,4,104,104,0,2521.0
+5:55.0,Defensive rebound by C. White,104-104, ,,4,104,104,0,2525.0
+5:52.0,C. White misses 3-pt jump shot from 26 ft,104-104, ,,4,104,104,0,2528.0
+5:52.0,Offensive rebound by N. Vučević,104-104, ,,4,104,104,0,2528.0
+5:52.0,Turnover by A. Dosunmu (bad pass; steal by C. Martin),104-104, ,,4,104,104,0,2528.0
+5:44.0, ,104-106,J. Jaquez makes 2-pt dunk from 3 ft,,4,106,104,2,2536.0
+5:24.0,Shooting foul by C. Martin (drawn by D. DeRozan),104-106, ,,4,106,104,2,2556.0
+5:24.0,D. DeRozan makes free throw 1 of 2,105-106, ,,4,106,105,1,2556.0
+5:24.0, ,105-106,K. Love enters the game for J. Richardson,,4,106,105,1,2556.0
+5:24.0,D. DeRozan makes free throw 2 of 2,106-106, ,Tie,4,106,106,0,2556.0
+4:57.0, ,106-108,C. Martin makes 2-pt jump shot from 12 ft,,4,108,106,2,2583.0
+4:43.0,A. Dosunmu misses 3-pt jump shot from 24 ft,106-108, ,,4,108,106,2,2597.0
+4:40.0, ,106-108,Defensive rebound by K. Love,,4,108,106,2,2600.0
+4:28.0, ,106-108,J. Butler misses 2-pt jump shot from 2 ft,,4,108,106,2,2612.0
+4:28.0, ,106-108,Offensive rebound by Team,,4,108,106,2,2612.0
+4:28.0,P. Williams enters the game for J. Carter,106-108, ,,4,108,106,2,2612.0
+4:24.0, ,106-108,K. Love misses 3-pt jump shot from 26 ft,,4,108,106,2,2616.0
+4:22.0,Defensive rebound by C. White,106-108, ,,4,108,106,2,2618.0
+4:09.0,Shooting foul by C. Martin (drawn by D. DeRozan),106-108, ,,4,108,106,2,2631.0
+4:09.0,D. DeRozan makes free throw 1 of 2,107-108, ,,4,108,107,1,2631.0
+4:09.0,D. DeRozan makes free throw 2 of 2,108-108, ,Tie,4,108,108,0,2631.0
+3:47.0, ,108-108,J. Jaquez misses 3-pt jump shot from 24 ft,,4,108,108,0,2653.0
+3:46.0,Defensive rebound by N. Vučević,108-108, ,,4,108,108,0,2654.0
+3:33.0,D. DeRozan makes 2-pt layup from 1 ft (assist by P. Williams),110-108, ,Lead change,4,108,110,-2,2667.0
+3:33.0,Shooting foul by J. Butler (drawn by D. DeRozan),110-108, ,,4,108,110,-2,2667.0
+3:33.0,D. DeRozan makes free throw 1 of 1,111-108, ,,4,108,111,-3,2667.0
+3:27.0, ,111-108,Miami full timeout,,4,108,111,-3,2673.0
+3:11.0, ,111-108,K. Lowry misses 3-pt jump shot from 25 ft,,4,108,111,-3,2689.0
+3:08.0, ,111-108,Offensive rebound by C. Martin,,4,108,111,-3,2692.0
+3:08.0, ,111-110,C. Martin makes 2-pt dunk at rim,,4,110,111,-1,2692.0
+2:48.0,A. Dosunmu misses 2-pt jump shot from 2 ft,111-110, ,,4,110,111,-1,2712.0
+2:45.0, ,111-110,Defensive rebound by K. Love,,4,110,111,-1,2715.0
+2:30.0, ,111-110,K. Lowry misses 2-pt layup from 2 ft,,4,110,111,-1,2730.0
+2:27.0, ,111-110,Offensive rebound by J. Butler,,4,110,111,-1,2733.0
+2:26.0, ,111-112,J. Butler makes 2-pt layup from 2 ft,Lead change,4,112,111,1,2734.0
+2:14.0,C. White makes 3-pt jump shot from 27 ft (assist by D. DeRozan),114-112, ,Lead change,4,112,114,-2,2746.0
+1:49.0, ,114-112,J. Butler misses 3-pt jump shot from 27 ft,,4,112,114,-2,2771.0
+1:46.0, ,114-112,Offensive rebound by J. Jaquez,,4,112,114,-2,2774.0
+1:43.0, ,114-114,J. Jaquez makes 2-pt dunk from 2 ft (assist by K. Lowry),Tie,4,114,114,0,2777.0
+1:28.0,C. White makes 2-pt jump shot from 2 ft,116-114, ,,4,114,116,-2,2792.0
+1:08.0, ,116-114,J. Butler misses 2-pt jump shot from 17 ft,,4,114,116,-2,2812.0
+1:06.0, ,116-114,Offensive rebound by K. Love,,4,114,116,-2,2814.0
+1:05.0, ,116-114,J. Jaquez misses 3-pt jump shot from 25 ft,,4,114,116,-2,2815.0
+1:02.0,Defensive rebound by P. Williams,116-114, ,,4,114,116,-2,2818.0
+0:45.0,N. Vučević misses 2-pt hook shot from 5 ft,116-114, ,,4,114,116,-2,2835.0
+0:43.0,Offensive rebound by D. DeRozan,116-114, ,,4,114,116,-2,2837.0
+0:34.0,Turnover by D. DeRozan (lost ball; steal by J. Butler),116-114, ,,4,114,116,-2,2846.0
+0:31.0, ,116-116,K. Lowry makes 2-pt layup from 1 ft (assist by C. Martin),Tie,4,116,116,0,2849.0
+0:14.0,N. Vučević misses 2-pt hook shot from 10 ft,116-116, ,,4,116,116,0,2866.0
+0:12.0, ,116-116,Defensive rebound by J. Butler,,4,116,116,0,2868.0
+0:00.0, ,116-118,J. Butler makes 2-pt jump shot from 20 ft,Lead change,4,118,116,2,2880.0
+0:00.0, ,116-118,Instant Replay (Request: Ruling Stands),,4,118,116,2,2880.0
+0:00.0,End of 4th quarter,116-118,,,4,118,116,2,2880.0

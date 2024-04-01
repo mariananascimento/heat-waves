@@ -1,0 +1,467 @@
+Time,Miami,Score,Golden State,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. K. Looney (T. Herro gains possession),0-0,,,1,0,0,0,0.0
+11:41.0,B. Adebayo misses 2-pt hook shot from 7 ft,0-0, ,,1,0,0,0,19.0
+11:34.0, ,0-0,Defensive rebound by K. Looney,,1,0,0,0,26.0
+11:19.0, ,0-0,S. Curry misses 3-pt jump shot from 26 ft,,1,0,0,0,41.0
+11:15.0,Defensive rebound by B. Adebayo,0-0, ,,1,0,0,0,45.0
+11:09.0,B. Adebayo misses 2-pt jump shot from 8 ft,0-0, ,,1,0,0,0,51.0
+11:06.0, ,0-0,Defensive rebound by J. Kuminga,,1,0,0,0,54.0
+11:00.0, ,0-0,Turnover by J. Kuminga (bad pass; steal by H. Highsmith),,1,0,0,0,60.0
+10:53.0,H. Highsmith misses 2-pt layup from 6 ft (block by S. Curry),0-0, ,,1,0,0,0,67.0
+10:51.0, ,0-0,Defensive rebound by S. Curry,,1,0,0,0,69.0
+10:49.0, ,0-2,J. Kuminga makes 2-pt dunk from 1 ft (assist by K. Thompson),,1,0,2,-2,71.0
+10:33.0,B. Adebayo makes 2-pt jump shot from 11 ft (assist by T. Herro),2-2, ,Tie,1,2,2,0,87.0
+10:19.0, ,2-2,B. Podziemski misses 2-pt hook shot from 6 ft,,1,2,2,0,101.0
+10:15.0,Defensive rebound by T. Herro,2-2, ,,1,2,2,0,105.0
+9:54.0,B. Adebayo makes 2-pt jump shot from 7 ft,4-2, ,Lead change,1,4,2,2,126.0
+9:41.0, ,4-5,K. Thompson makes 3-pt jump shot from 26 ft (assist by B. Podziemski),Lead change,1,4,5,-1,139.0
+9:29.0,T. Herro makes 2-pt jump shot from 16 ft,6-5, ,Lead change,1,6,5,1,151.0
+9:23.0, ,6-5,K. Thompson misses 3-pt jump shot from 26 ft,,1,6,5,1,157.0
+9:23.0, ,6-5,Offensive rebound by B. Podziemski,,1,6,5,1,157.0
+9:10.0, ,6-5,J. Kuminga misses 3-pt jump shot from 27 ft,,1,6,5,1,170.0
+9:05.0,Defensive rebound by T. Herro,6-5, ,,1,6,5,1,175.0
+8:59.0,T. Herro makes 2-pt layup from 2 ft,8-5, ,,1,8,5,3,181.0
+8:42.0, ,8-5,K. Thompson misses 2-pt layup from 4 ft,,1,8,5,3,198.0
+8:40.0, ,8-5,Offensive rebound by K. Looney,,1,8,5,3,200.0
+8:40.0, ,8-5,Shooting foul by B. Adebayo (drawn by K. Looney),,1,8,5,3,200.0
+8:40.0, ,8-5,K. Looney misses free throw 1 of 2,,1,8,5,3,200.0
+8:40.0, ,8-5,Offensive rebound by Team,,1,8,5,3,200.0
+8:40.0, ,8-6,K. Looney makes free throw 2 of 2,,1,8,6,2,200.0
+8:33.0,J. Jaquez makes 2-pt layup from 4 ft (assist by T. Herro),10-6, ,,1,10,6,4,207.0
+8:17.0, ,10-6,K. Thompson misses 3-pt jump shot from 28 ft,,1,10,6,4,223.0
+8:16.0,Defensive rebound by Team,10-6, ,,1,10,6,4,224.0
+8:16.0, ,10-6,Loose ball foul by K. Looney (drawn by B. Adebayo),,1,10,6,4,224.0
+7:53.0,T. Herro misses 3-pt jump shot from 26 ft,10-6, ,,1,10,6,4,247.0
+7:51.0, ,10-6,Defensive rebound by Team,,1,10,6,4,249.0
+7:42.0, ,10-6,B. Podziemski misses 3-pt jump shot from 26 ft,,1,10,6,4,258.0
+7:38.0,Defensive rebound by B. Adebayo,10-6, ,,1,10,6,4,262.0
+7:30.0,Shooting foul by K. Looney (drawn by B. Adebayo),10-6, ,,1,10,6,4,270.0
+7:30.0,B. Adebayo makes free throw 1 of 2,11-6, ,,1,11,6,5,270.0
+7:30.0,B. Adebayo makes free throw 2 of 2,12-6, ,,1,12,6,6,270.0
+7:20.0, ,12-6,S. Curry misses 2-pt jump shot from 20 ft,,1,12,6,6,280.0
+7:14.0, ,12-6,Offensive rebound by J. Kuminga,,1,12,6,6,286.0
+7:14.0, ,12-6,J. Kuminga misses 2-pt layup at rim,,1,12,6,6,286.0
+7:13.0,Defensive rebound by J. Jaquez,12-6, ,,1,12,6,6,287.0
+7:06.0,J. Jaquez makes 3-pt jump shot from 25 ft (assist by B. Adebayo),15-6, ,,1,15,6,9,294.0
+6:49.0, ,15-9,B. Podziemski makes 3-pt jump shot from 25 ft (assist by K. Thompson),,1,15,9,6,311.0
+6:32.0,T. Herro makes 2-pt jump shot from 17 ft (assist by R. Hampton),17-9, ,,1,17,9,8,328.0
+6:20.0, ,17-9,J. Kuminga misses 2-pt layup from 2 ft,,1,17,9,8,340.0
+6:17.0,Defensive rebound by B. Adebayo,17-9, ,,1,17,9,8,343.0
+6:15.0,T. Herro misses 3-pt jump shot from 26 ft,17-9, ,,1,17,9,8,345.0
+6:09.0,Offensive rebound by R. Hampton,17-9, ,,1,17,9,8,351.0
+5:55.0,J. Jaquez misses 2-pt jump shot from 8 ft (block by K. Looney),17-9, ,,1,17,9,8,365.0
+5:47.0, ,17-9,Defensive rebound by S. Curry,,1,17,9,8,373.0
+5:46.0, ,17-11,K. Thompson makes 2-pt layup from 3 ft (assist by S. Curry),,1,17,11,6,374.0
+5:36.0,T. Herro misses 3-pt jump shot from 26 ft,17-11, ,,1,17,11,6,384.0
+5:33.0, ,17-11,Defensive rebound by J. Kuminga,,1,17,11,6,387.0
+5:22.0, ,17-13,K. Looney makes 2-pt layup from 4 ft (assist by B. Podziemski),,1,17,13,4,398.0
+5:22.0,Miami full timeout,17-13, ,,1,17,13,4,398.0
+5:22.0,K. Love enters the game for B. Adebayo,17-13, ,,1,17,13,4,398.0
+5:22.0,D. Robinson enters the game for J. Jaquez,17-13, ,,1,17,13,4,398.0
+5:22.0, ,17-13,T. Jackson-Davis enters the game for J. Kuminga,,1,17,13,4,398.0
+5:22.0, ,17-13,C. Paul enters the game for K. Looney,,1,17,13,4,398.0
+5:22.0, ,17-13,D. Šarić enters the game for B. Podziemski,,1,17,13,4,398.0
+5:22.0, ,17-13,A. Wiggins enters the game for K. Thompson,,1,17,13,4,398.0
+5:07.0,Shooting foul by D. Šarić (drawn by T. Herro),17-13, ,,1,17,13,4,413.0
+5:07.0,T. Herro makes free throw 1 of 2,18-13, ,,1,18,13,5,413.0
+5:07.0,T. Herro misses free throw 2 of 2,18-13, ,,1,18,13,5,413.0
+5:05.0, ,18-13,Defensive rebound by T. Jackson-Davis,,1,18,13,5,415.0
+4:46.0, ,18-13,Turnover by A. Wiggins (out of bounds lost ball),,1,18,13,5,434.0
+4:23.0,R. Hampton misses 2-pt jump shot from 11 ft,18-13, ,,1,18,13,5,457.0
+4:22.0,Offensive rebound by Team,18-13, ,,1,18,13,5,458.0
+4:22.0, ,18-13,Loose ball foul by C. Paul (drawn by K. Love),,1,18,13,5,458.0
+4:14.0,D. Robinson misses 3-pt jump shot from 28 ft,18-13, ,,1,18,13,5,466.0
+4:09.0, ,18-13,Defensive rebound by T. Jackson-Davis,,1,18,13,5,471.0
+4:01.0, ,18-13,A. Wiggins misses 2-pt jump shot from 10 ft,,1,18,13,5,479.0
+3:57.0,Defensive rebound by K. Love,18-13, ,,1,18,13,5,483.0
+3:50.0,T. Herro misses 2-pt jump shot from 6 ft (block by T. Jackson-Davis),18-13, ,,1,18,13,5,490.0
+3:50.0, ,18-13,Defensive rebound by D. Šarić,,1,18,13,5,490.0
+3:29.0, ,18-15,T. Jackson-Davis makes 2-pt layup from 3 ft (assist by D. Šarić),,1,18,15,3,511.0
+3:22.0,Shooting foul by T. Jackson-Davis (drawn by K. Love),18-15, ,,1,18,15,3,518.0
+3:22.0,K. Love makes free throw 1 of 2,19-15, ,,1,19,15,4,518.0
+3:22.0,J. Cain enters the game for T. Herro,19-15, ,,1,19,15,4,518.0
+3:22.0,J. Jaquez enters the game for H. Highsmith,19-15, ,,1,19,15,4,518.0
+3:22.0, ,19-15,B. Podziemski enters the game for S. Curry,,1,19,15,4,518.0
+3:22.0,K. Love makes free throw 2 of 2,20-15, ,,1,20,15,5,518.0
+3:07.0, ,20-15,Shooting foul by K. Love (drawn by T. Jackson-Davis),,1,20,15,5,533.0
+3:07.0, ,20-16,T. Jackson-Davis makes free throw 1 of 2,,1,20,16,4,533.0
+3:07.0, ,20-17,T. Jackson-Davis makes free throw 2 of 2,,1,20,17,3,533.0
+2:56.0,J. Jaquez misses 2-pt layup from 4 ft,20-17, ,,1,20,17,3,544.0
+2:52.0, ,20-17,Defensive rebound by T. Jackson-Davis,,1,20,17,3,548.0
+2:44.0, ,20-20,B. Podziemski makes 3-pt jump shot from 27 ft (assist by A. Wiggins),Tie,1,20,20,0,556.0
+2:35.0,K. Love misses 3-pt jump shot from 26 ft,20-20, ,,1,20,20,0,565.0
+2:32.0, ,20-20,Defensive rebound by C. Paul,,1,20,20,0,568.0
+2:17.0, ,20-20,B. Podziemski misses 3-pt jump shot from 25 ft,,1,20,20,0,583.0
+2:13.0,Defensive rebound by J. Cain,20-20, ,,1,20,20,0,587.0
+1:57.0,D. Robinson misses 2-pt layup from 4 ft (block by T. Jackson-Davis),20-20, ,,1,20,20,0,603.0
+1:53.0,Offensive rebound by D. Robinson,20-20, ,,1,20,20,0,607.0
+1:52.0,J. Cain misses 3-pt jump shot from 23 ft,20-20, ,,1,20,20,0,608.0
+1:52.0, ,20-20,Defensive rebound by T. Jackson-Davis,,1,20,20,0,608.0
+1:43.0, ,20-20,A. Wiggins misses 3-pt jump shot from 23 ft,,1,20,20,0,617.0
+1:38.0,Defensive rebound by K. Love,20-20, ,,1,20,20,0,622.0
+1:33.0,R. Hampton makes 2-pt layup from 4 ft,22-20, ,,1,22,20,2,627.0
+1:29.0, ,22-20,Golden State full timeout,,1,22,20,2,631.0
+1:29.0,B. Adebayo enters the game for R. Hampton,22-20, ,,1,22,20,2,631.0
+1:21.0, ,22-22,A. Wiggins makes 2-pt layup from 4 ft (assist by C. Paul),Tie,1,22,22,0,639.0
+1:04.0,K. Love misses 2-pt hook shot from 8 ft,22-22, ,,1,22,22,0,656.0
+1:01.0, ,22-22,Defensive rebound by D. Šarić,,1,22,22,0,659.0
+0:48.0, ,22-25,D. Šarić makes 3-pt jump shot from 24 ft (assist by A. Wiggins),Lead change,1,22,25,-3,672.0
+0:24.0,B. Adebayo misses 2-pt jump shot from 12 ft,22-25, ,,1,22,25,-3,696.0
+0:19.0, ,22-25,Defensive rebound by T. Jackson-Davis,,1,22,25,-3,701.0
+0:04.0, ,22-25,A. Wiggins misses 2-pt jump shot from 8 ft,,1,22,25,-3,716.0
+0:00.0,Defensive rebound by K. Love,22-25, ,,1,22,25,-3,720.0
+0:00.0,End of 1st quarter,22-25,,,1,22,25,-3,720.0
+12:00.0,Start of 2nd quarter,22-25,,,2,22,25,-3,720.0
+11:47.0, ,22-27,A. Wiggins makes 2-pt layup from 3 ft (assist by C. Paul),,2,22,27,-5,733.0
+11:27.0,J. Cain makes 2-pt layup from 7 ft (assist by D. Robinson),24-27, ,,2,24,27,-3,753.0
+11:14.0, ,24-27,D. Šarić misses 2-pt layup from 3 ft (block by N. Jović),,2,24,27,-3,766.0
+11:09.0,Defensive rebound by J. Cain,24-27, ,,2,24,27,-3,771.0
+11:05.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by J. Jaquez),26-27, ,,2,26,27,-1,775.0
+10:48.0, ,26-29,D. Šarić makes 2-pt jump shot from 4 ft (assist by K. Thompson),,2,26,29,-3,792.0
+10:48.0, ,26-29,Shooting foul by J. Jaquez (drawn by D. Šarić),,2,26,29,-3,792.0
+10:48.0, ,26-30,D. Šarić makes free throw 1 of 1,,2,26,30,-4,792.0
+10:29.0,J. Cain makes 3-pt jump shot from 23 ft,29-30, ,,2,29,30,-1,811.0
+10:08.0, ,29-30,Turnover by C. Paul (bad pass; steal by J. Cain),,2,29,30,-1,832.0
+10:04.0,Shooting foul by A. Wiggins (drawn by B. Adebayo),29-30, ,,2,29,30,-1,836.0
+10:04.0,B. Adebayo misses free throw 1 of 2,29-30, ,,2,29,30,-1,836.0
+10:04.0,Offensive rebound by Team,29-30, ,,2,29,30,-1,836.0
+10:04.0, ,29-30,Golden State full timeout,,2,29,30,-1,836.0
+10:04.0, ,29-30,J. Kuminga enters the game for T. Jackson-Davis,,2,29,30,-1,836.0
+10:04.0,B. Adebayo makes free throw 2 of 2,30-30, ,Tie,2,30,30,0,836.0
+9:43.0, ,30-30,Turnover by J. Kuminga (step out of bounds),,2,30,30,0,857.0
+9:29.0,D. Robinson misses 3-pt jump shot from 22 ft,30-30, ,,2,30,30,0,871.0
+9:25.0,Offensive rebound by N. Jović,30-30, ,,2,30,30,0,875.0
+9:23.0,N. Jović makes 2-pt layup from 3 ft,32-30, ,Lead change,2,32,30,2,877.0
+9:10.0, ,32-30,C. Paul misses 3-pt jump shot from 27 ft,,2,32,30,2,890.0
+9:05.0,Defensive rebound by B. Adebayo,32-30, ,,2,32,30,2,895.0
+8:58.0,D. Robinson misses 2-pt jump shot from 7 ft,32-30, ,,2,32,30,2,902.0
+8:54.0, ,32-30,Defensive rebound by C. Paul,,2,32,30,2,906.0
+8:44.0, ,32-30,J. Kuminga misses 3-pt jump shot from 26 ft,,2,32,30,2,916.0
+8:40.0, ,32-30,Offensive rebound by Team,,2,32,30,2,920.0
+8:37.0, ,32-30,Turnover by C. Paul (bad pass),,2,32,30,2,923.0
+8:17.0,J. Cain makes 2-pt jump shot from 8 ft (assist by J. Jaquez),34-30, ,,2,34,30,4,943.0
+8:02.0, ,34-30,Turnover by J. Kuminga (bad pass; steal by N. Jović),,2,34,30,4,958.0
+7:42.0,Shooting foul by A. Wiggins (drawn by N. Jović),34-30, ,,2,34,30,4,978.0
+7:42.0,N. Jović makes free throw 1 of 2,35-30, ,,2,35,30,5,978.0
+7:42.0, ,35-30,S. Curry enters the game for C. Paul,,2,35,30,5,978.0
+7:42.0,N. Jović makes free throw 2 of 2,36-30, ,,2,36,30,6,978.0
+7:31.0, ,36-30,A. Wiggins misses 3-pt jump shot from 24 ft,,2,36,30,6,989.0
+7:29.0, ,36-30,Offensive rebound by Team,,2,36,30,6,991.0
+7:29.0,Loose ball foul by D. Robinson (drawn by J. Kuminga),36-30, ,,2,36,30,6,991.0
+7:29.0,T. Herro enters the game for J. Jaquez,36-30, ,,2,36,30,6,991.0
+7:15.0, ,36-30,Turnover by J. Kuminga (lost ball; steal by J. Cain),,2,36,30,6,1005.0
+7:05.0,J. Cain misses 2-pt layup from 5 ft,36-30, ,,2,36,30,6,1015.0
+7:02.0, ,36-30,Defensive rebound by J. Kuminga,,2,36,30,6,1018.0
+6:53.0, ,36-32,D. Šarić makes 2-pt layup from 4 ft (assist by K. Thompson),,2,36,32,4,1027.0
+6:38.0,D. Robinson misses 2-pt jump shot from 8 ft,36-32, ,,2,36,32,4,1042.0
+6:35.0, ,36-32,Defensive rebound by S. Curry,,2,36,32,4,1045.0
+6:31.0, ,36-32,Turnover by J. Kuminga (lost ball; steal by T. Herro),,2,36,32,4,1049.0
+6:25.0,D. Robinson makes 2-pt layup from 3 ft (assist by N. Jović),38-32, ,,2,38,32,6,1055.0
+6:25.0, ,38-32,Golden State full timeout,,2,38,32,6,1055.0
+6:25.0,H. Highsmith enters the game for B. Adebayo,38-32, ,,2,38,32,6,1055.0
+6:25.0,K. Love enters the game for J. Cain,38-32, ,,2,38,32,6,1055.0
+6:25.0, ,38-32,T. Jackson-Davis enters the game for D. Šarić,,2,38,32,6,1055.0
+6:25.0, ,38-32,B. Podziemski enters the game for A. Wiggins,,2,38,32,6,1055.0
+6:08.0, ,38-34,J. Kuminga makes 2-pt dunk from 1 ft (assist by B. Podziemski),,2,38,34,4,1072.0
+5:46.0,K. Love makes 3-pt jump shot from 26 ft (assist by D. Robinson),41-34, ,,2,41,34,7,1094.0
+5:35.0, ,41-34,Personal foul by N. Jović (drawn by B. Podziemski),,2,41,34,7,1105.0
+5:35.0, ,41-34,Instant Replay (Request: Ruling Stands),,2,41,34,7,1105.0
+5:27.0, ,41-34,S. Curry misses 3-pt jump shot from 26 ft,,2,41,34,7,1113.0
+5:23.0,Defensive rebound by N. Jović,41-34, ,,2,41,34,7,1117.0
+5:12.0,T. Herro makes 2-pt jump shot from 11 ft,43-34, ,,2,43,34,9,1128.0
+4:53.0, ,43-34,Turnover by J. Kuminga (traveling),,2,43,34,9,1147.0
+4:53.0, ,43-34,M. Moody enters the game for K. Thompson,,2,43,34,9,1147.0
+4:43.0,K. Love makes 2-pt hook shot from 6 ft (assist by N. Jović),45-34, ,,2,45,34,11,1157.0
+4:43.0,Shooting foul by B. Podziemski (drawn by K. Love),45-34, ,,2,45,34,11,1157.0
+4:43.0,K. Love makes free throw 1 of 1,46-34, ,,2,46,34,12,1157.0
+4:43.0, ,46-34,A. Wiggins enters the game for J. Kuminga,,2,46,34,12,1157.0
+4:29.0, ,46-36,T. Jackson-Davis makes 2-pt layup from 3 ft (assist by S. Curry),,2,46,36,10,1171.0
+4:19.0,T. Herro misses 2-pt layup from 3 ft,46-36, ,,2,46,36,10,1181.0
+4:17.0, ,46-36,Defensive rebound by T. Jackson-Davis,,2,46,36,10,1183.0
+4:01.0, ,46-36,Shooting foul by D. Robinson (drawn by A. Wiggins),,2,46,36,10,1199.0
+4:01.0, ,46-37,A. Wiggins makes free throw 1 of 2,,2,46,37,9,1199.0
+4:01.0,J. Jaquez enters the game for D. Robinson,46-37, ,,2,46,37,9,1199.0
+4:01.0, ,46-37,A. Wiggins misses free throw 2 of 2,,2,46,37,9,1199.0
+3:58.0,Defensive rebound by K. Love,46-37, ,,2,46,37,9,1202.0
+3:51.0,T. Herro makes 2-pt layup from 5 ft (assist by K. Love),48-37, ,,2,48,37,11,1209.0
+3:44.0, ,48-40,S. Curry makes 3-pt jump shot from 29 ft (assist by B. Podziemski),,2,48,40,8,1216.0
+3:31.0,H. Highsmith makes 3-pt jump shot from 27 ft (assist by K. Love),51-40, ,,2,51,40,11,1229.0
+3:16.0, ,51-40,T. Jackson-Davis misses 2-pt layup from 3 ft,,2,51,40,11,1244.0
+3:12.0, ,51-40,Offensive rebound by T. Jackson-Davis,,2,51,40,11,1248.0
+3:12.0, ,51-40,T. Jackson-Davis misses 2-pt layup at rim,,2,51,40,11,1248.0
+3:12.0,Defensive rebound by K. Love,51-40, ,,2,51,40,11,1248.0
+3:05.0,T. Herro makes 3-pt jump shot from 26 ft (assist by K. Love),54-40, ,,2,54,40,14,1255.0
+3:00.0, ,54-40,Personal foul by H. Highsmith (drawn by S. Curry),,2,54,40,14,1260.0
+3:00.0,B. Adebayo enters the game for K. Love,54-40, ,,2,54,40,14,1260.0
+3:00.0, ,54-41,S. Curry makes free throw 1 of 2,,2,54,41,13,1260.0
+3:00.0, ,54-42,S. Curry makes free throw 2 of 2,,2,54,42,12,1260.0
+2:47.0,N. Jović makes 2-pt layup from 6 ft (assist by J. Jaquez),56-42, ,,2,56,42,14,1273.0
+2:35.0, ,56-44,A. Wiggins makes 2-pt jump shot from 8 ft (assist by B. Podziemski),,2,56,44,12,1285.0
+2:23.0,J. Jaquez misses 3-pt jump shot from 24 ft,56-44, ,,2,56,44,12,1297.0
+2:23.0,Offensive rebound by Team,56-44, ,,2,56,44,12,1297.0
+2:23.0, ,56-44,C. Paul enters the game for B. Podziemski,,2,56,44,12,1297.0
+2:07.0,T. Herro misses 2-pt jump shot from 18 ft (block by M. Moody),56-44, ,,2,56,44,12,1313.0
+2:07.0,Offensive rebound by Team,56-44, ,,2,56,44,12,1313.0
+2:07.0,Turnover by Team (shot clock),56-44, ,,2,56,44,12,1313.0
+1:57.0, ,56-47,S. Curry makes 3-pt jump shot from 26 ft (assist by T. Jackson-Davis),,2,56,47,9,1323.0
+1:57.0, ,56-47,Shooting foul by H. Highsmith (drawn by S. Curry),,2,56,47,9,1323.0
+1:57.0,R. Hampton enters the game for H. Highsmith,56-47, ,,2,56,47,9,1323.0
+1:57.0, ,56-47,Instant Replay (Request: Stands),,2,56,47,9,1323.0
+1:57.0,H. Highsmith enters the game for R. Hampton,56-47, ,,2,56,47,9,1323.0
+1:57.0, ,56-48,S. Curry makes free throw 1 of 1,,2,56,48,8,1323.0
+1:43.0,T. Herro misses 3-pt jump shot from 27 ft,56-48, ,,2,56,48,8,1337.0
+1:40.0, ,56-48,Defensive rebound by C. Paul,,2,56,48,8,1340.0
+1:40.0, ,56-48,Personal foul by J. Jaquez (drawn by C. Paul),,2,56,48,8,1340.0
+1:40.0, ,56-49,C. Paul makes free throw 1 of 2,,2,56,49,7,1340.0
+1:40.0,R. Hampton enters the game for H. Highsmith,56-49, ,,2,56,49,7,1340.0
+1:40.0, ,56-50,C. Paul makes free throw 2 of 2,,2,56,50,6,1340.0
+1:20.0,B. Adebayo misses 2-pt hook shot from 7 ft,56-50, ,,2,56,50,6,1360.0
+1:13.0,Offensive rebound by B. Adebayo,56-50, ,,2,56,50,6,1367.0
+1:03.0,T. Herro misses 2-pt jump shot from 7 ft (block by M. Moody),56-50, ,,2,56,50,6,1377.0
+1:00.0, ,56-50,Defensive rebound by C. Paul,,2,56,50,6,1380.0
+0:41.0, ,56-50,Personal foul by N. Jović (drawn by S. Curry),,2,56,50,6,1399.0
+0:41.0, ,56-51,S. Curry makes free throw 1 of 2,,2,56,51,5,1399.0
+0:41.0, ,56-51,S. Curry misses free throw 2 of 2,,2,56,51,5,1399.0
+0:41.0,Defensive rebound by T. Herro,56-51, ,,2,56,51,5,1399.0
+0:31.0,Personal foul by C. Paul (drawn by J. Jaquez),56-51, ,,2,56,51,5,1409.0
+0:18.0,B. Adebayo makes 2-pt jump shot from 12 ft,58-51, ,,2,58,51,7,1422.0
+0:03.0, ,58-51,M. Moody misses 3-pt jump shot from 28 ft,,2,58,51,7,1437.0
+0:02.0,Defensive rebound by B. Adebayo,58-51, ,,2,58,51,7,1438.0
+0:00.0,End of 2nd quarter,58-51,,,2,58,51,7,1440.0
+12:00.0,Start of 3rd quarter,58-51,,,3,58,51,7,1440.0
+11:46.0, ,58-51,Shooting foul by H. Highsmith (drawn by K. Thompson),,3,58,51,7,1454.0
+11:46.0, ,58-51,K. Thompson misses free throw 1 of 2,,3,58,51,7,1454.0
+11:46.0, ,58-51,Offensive rebound by Team,,3,58,51,7,1454.0
+11:46.0, ,58-52,K. Thompson makes free throw 2 of 2,,3,58,52,6,1454.0
+11:33.0,R. Hampton misses 3-pt jump shot from 27 ft,58-52, ,,3,58,52,6,1467.0
+11:29.0, ,58-52,Defensive rebound by J. Kuminga,,3,58,52,6,1471.0
+11:24.0, ,58-54,B. Podziemski makes 2-pt layup from 2 ft (assist by J. Kuminga),,3,58,54,4,1476.0
+10:58.0,H. Highsmith misses 3-pt jump shot from 23 ft,58-54, ,,3,58,54,4,1502.0
+10:56.0, ,58-54,Defensive rebound by K. Looney,,3,58,54,4,1504.0
+10:52.0, ,58-54,S. Curry misses 3-pt jump shot from 27 ft,,3,58,54,4,1508.0
+10:47.0,Defensive rebound by T. Herro,58-54, ,,3,58,54,4,1513.0
+10:37.0,J. Jaquez makes 2-pt hook shot from 3 ft,60-54, ,,3,60,54,6,1523.0
+10:24.0, ,60-54,S. Curry misses 2-pt jump shot from 22 ft,,3,60,54,6,1536.0
+10:21.0,Defensive rebound by B. Adebayo,60-54, ,,3,60,54,6,1539.0
+10:14.0,T. Herro makes 2-pt jump shot from 7 ft (assist by B. Adebayo),62-54, ,,3,62,54,8,1546.0
+10:03.0, ,62-54,Shooting foul by R. Hampton (drawn by K. Thompson),,3,62,54,8,1557.0
+10:03.0, ,62-55,K. Thompson makes free throw 1 of 2,,3,62,55,7,1557.0
+10:03.0, ,62-56,K. Thompson makes free throw 2 of 2,,3,62,56,6,1557.0
+9:55.0,J. Jaquez makes 2-pt layup from 6 ft,64-56, ,,3,64,56,8,1565.0
+9:40.0, ,64-58,K. Thompson makes 2-pt jump shot from 15 ft (assist by S. Curry),,3,64,58,6,1580.0
+9:25.0,Turnover by T. Herro (lost ball; steal by S. Curry),64-58, ,,3,64,58,6,1595.0
+9:19.0, ,64-60,S. Curry makes 2-pt layup from 3 ft,,3,64,60,4,1601.0
+9:19.0, ,64-60,Shooting foul by R. Hampton (drawn by S. Curry),,3,64,60,4,1601.0
+9:19.0, ,64-61,S. Curry makes free throw 1 of 1,,3,64,61,3,1601.0
+9:05.0,B. Adebayo makes 2-pt layup from 3 ft (assist by R. Hampton),66-61, ,,3,66,61,5,1615.0
+8:50.0, ,66-61,Turnover by B. Podziemski (step out of bounds),,3,66,61,5,1630.0
+8:40.0,Shooting foul by K. Thompson (drawn by R. Hampton),66-61, ,,3,66,61,5,1640.0
+8:40.0,R. Hampton makes free throw 1 of 2,67-61, ,,3,67,61,6,1640.0
+8:40.0,R. Hampton misses free throw 2 of 2,67-61, ,,3,67,61,6,1640.0
+8:38.0, ,67-61,Defensive rebound by B. Podziemski,,3,67,61,6,1642.0
+8:26.0, ,67-61,K. Thompson misses 2-pt jump shot from 8 ft,,3,67,61,6,1654.0
+8:25.0,Defensive rebound by J. Jaquez,67-61, ,,3,67,61,6,1655.0
+8:20.0,R. Hampton makes 2-pt layup from 3 ft (assist by J. Jaquez),69-61, ,,3,69,61,8,1660.0
+8:20.0, ,69-61,Golden State full timeout,,3,69,61,8,1660.0
+8:10.0, ,69-61,S. Curry misses 2-pt jump shot from 18 ft,,3,69,61,8,1670.0
+8:05.0, ,69-61,Offensive rebound by K. Looney,,3,69,61,8,1675.0
+8:05.0, ,69-61,K. Thompson misses 3-pt jump shot from 27 ft,,3,69,61,8,1675.0
+8:04.0,Defensive rebound by Team,69-61, ,,3,69,61,8,1676.0
+7:44.0,R. Hampton misses 3-pt jump shot from 27 ft,69-61, ,,3,69,61,8,1696.0
+7:39.0,Offensive rebound by R. Hampton,69-61, ,,3,69,61,8,1701.0
+7:38.0,Turnover by R. Hampton (bad pass; steal by K. Thompson),69-61, ,,3,69,61,8,1702.0
+7:31.0, ,69-61,J. Kuminga misses 2-pt dunk from 3 ft,,3,69,61,8,1709.0
+7:31.0, ,69-61,Offensive rebound by K. Looney,,3,69,61,8,1709.0
+7:31.0, ,69-63,K. Looney makes 2-pt layup at rim,,3,69,63,6,1709.0
+7:31.0, ,69-63,Shooting foul by H. Highsmith (drawn by K. Looney),,3,69,63,6,1709.0
+7:31.0,J. Cain enters the game for H. Highsmith,69-63, ,,3,69,63,6,1709.0
+7:31.0, ,69-63,C. Paul enters the game for B. Podziemski,,3,69,63,6,1709.0
+7:31.0, ,69-63,K. Looney misses free throw 1 of 1,,3,69,63,6,1709.0
+7:28.0,Defensive rebound by B. Adebayo,69-63, ,,3,69,63,6,1712.0
+7:14.0,R. Hampton makes 2-pt jump shot from 14 ft,71-63, ,,3,71,63,8,1726.0
+7:01.0, ,71-66,K. Thompson makes 3-pt jump shot from 27 ft (assist by S. Curry),,3,71,66,5,1739.0
+6:45.0,J. Jaquez makes 2-pt jump shot from 14 ft,73-66, ,,3,73,66,7,1755.0
+6:36.0, ,73-68,J. Kuminga makes 2-pt dunk from 2 ft (assist by S. Curry),,3,73,68,5,1764.0
+6:23.0,J. Jaquez makes 2-pt layup from 4 ft,75-68, ,,3,75,68,7,1777.0
+6:11.0, ,75-68,S. Curry misses 3-pt jump shot from 24 ft,,3,75,68,7,1789.0
+6:07.0,Defensive rebound by T. Herro,75-68, ,,3,75,68,7,1793.0
+6:01.0,T. Herro makes 3-pt jump shot from 26 ft,78-68, ,,3,78,68,10,1799.0
+5:45.0, ,78-68,J. Kuminga misses 3-pt jump shot from 25 ft,,3,78,68,10,1815.0
+5:40.0,Defensive rebound by J. Jaquez,78-68, ,,3,78,68,10,1820.0
+5:38.0,J. Cain makes 2-pt layup from 3 ft (assist by J. Jaquez),80-68, ,,3,80,68,12,1822.0
+5:20.0, ,80-70,J. Kuminga makes 2-pt layup from 4 ft (assist by C. Paul),,3,80,70,10,1840.0
+4:59.0,T. Herro makes 2-pt jump shot from 17 ft,82-70, ,,3,82,70,12,1861.0
+4:30.0, ,82-70,K. Thompson misses 2-pt jump shot from 18 ft,,3,82,70,12,1890.0
+4:30.0,Defensive rebound by Team,82-70, ,,3,82,70,12,1890.0
+4:30.0, ,82-70,Loose ball foul by K. Looney (drawn by B. Adebayo),,3,82,70,12,1890.0
+4:30.0,K. Love enters the game for B. Adebayo,82-70, ,,3,82,70,12,1890.0
+4:30.0,D. Robinson enters the game for J. Jaquez,82-70, ,,3,82,70,12,1890.0
+4:30.0, ,82-70,T. Jackson-Davis enters the game for J. Kuminga,,3,82,70,12,1890.0
+4:30.0, ,82-70,D. Šarić enters the game for K. Looney,,3,82,70,12,1890.0
+4:30.0, ,82-70,A. Wiggins enters the game for K. Thompson,,3,82,70,12,1890.0
+4:21.0,Turnover by T. Herro (lost ball; steal by S. Curry),82-70, ,,3,82,70,12,1899.0
+4:15.0, ,82-70,S. Curry misses 2-pt jump shot from 8 ft,,3,82,70,12,1905.0
+4:12.0, ,82-70,Offensive rebound by T. Jackson-Davis,,3,82,70,12,1908.0
+4:11.0, ,82-70,T. Jackson-Davis misses 2-pt layup from 5 ft,,3,82,70,12,1909.0
+4:10.0,Defensive rebound by T. Herro,82-70, ,,3,82,70,12,1910.0
+4:00.0,K. Love misses 3-pt jump shot from 27 ft,82-70, ,,3,82,70,12,1920.0
+3:57.0, ,82-70,Defensive rebound by D. Šarić,,3,82,70,12,1923.0
+3:45.0, ,82-70,T. Jackson-Davis misses 2-pt layup from 4 ft,,3,82,70,12,1935.0
+3:41.0, ,82-70,Offensive rebound by D. Šarić,,3,82,70,12,1939.0
+3:33.0, ,82-70,A. Wiggins misses 2-pt hook shot from 8 ft,,3,82,70,12,1947.0
+3:32.0,Defensive rebound by T. Herro,82-70, ,,3,82,70,12,1948.0
+3:28.0,Miami full timeout,82-70, ,,3,82,70,12,1952.0
+3:28.0, ,82-70,B. Podziemski enters the game for S. Curry,,3,82,70,12,1952.0
+3:21.0,J. Cain misses 3-pt jump shot from 23 ft,82-70, ,,3,82,70,12,1959.0
+3:17.0, ,82-70,Defensive rebound by D. Šarić,,3,82,70,12,1963.0
+2:59.0, ,82-72,B. Podziemski makes 2-pt layup from 2 ft,,3,82,72,10,1981.0
+2:50.0,J. Cain makes 2-pt layup from 3 ft,84-72, ,,3,84,72,12,1990.0
+2:29.0, ,84-72,A. Wiggins misses 2-pt jump shot from 12 ft,,3,84,72,12,2011.0
+2:26.0,Defensive rebound by D. Robinson,84-72, ,,3,84,72,12,2014.0
+2:08.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by R. Hampton),87-72, ,,3,87,72,15,2032.0
+1:45.0, ,87-72,B. Podziemski misses 3-pt jump shot from 25 ft,,3,87,72,15,2055.0
+1:45.0,Defensive rebound by K. Love,87-72, ,,3,87,72,15,2055.0
+1:45.0,Turnover by K. Love (bad pass),87-72, ,,3,87,72,15,2055.0
+1:45.0,J. Jaquez enters the game for T. Herro,87-72, ,,3,87,72,15,2055.0
+1:36.0, ,87-74,C. Paul makes 2-pt jump shot from 11 ft,,3,87,74,13,2064.0
+1:09.0,J. Jaquez misses 3-pt jump shot from 23 ft,87-74, ,,3,87,74,13,2091.0
+1:04.0, ,87-74,Defensive rebound by A. Wiggins,,3,87,74,13,2096.0
+0:58.0, ,87-76,C. Paul makes 2-pt jump shot from 18 ft,,3,87,76,11,2102.0
+0:40.0,J. Cain makes 2-pt layup from 3 ft (assist by K. Love),89-76, ,,3,89,76,13,2120.0
+0:31.0, ,89-76,C. Paul misses 3-pt jump shot from 25 ft,,3,89,76,13,2129.0
+0:28.0,Defensive rebound by K. Love,89-76, ,,3,89,76,13,2132.0
+0:24.0,Shooting foul by C. Paul (drawn by J. Cain),89-76, ,,3,89,76,13,2136.0
+0:24.0,J. Cain makes free throw 1 of 2,90-76, ,,3,90,76,14,2136.0
+0:24.0,J. Cain makes free throw 2 of 2,91-76, ,,3,91,76,15,2136.0
+0:24.0,B. Adebayo enters the game for R. Hampton,91-76, ,,3,91,76,15,2136.0
+0:24.0,H. Highsmith enters the game for K. Love,91-76, ,,3,91,76,15,2136.0
+0:24.0, ,91-76,S. Curry enters the game for T. Jackson-Davis,,3,91,76,15,2136.0
+0:00.0, ,91-76,B. Podziemski misses 2-pt jump shot from 6 ft,,3,91,76,15,2160.0
+0:00.0,Defensive rebound by J. Jaquez,91-76, ,,3,91,76,15,2160.0
+0:00.0,End of 3rd quarter,91-76,,,3,91,76,15,2160.0
+12:00.0,Start of 4th quarter,91-76,,,4,91,76,15,2160.0
+11:47.0,J. Cain makes 3-pt jump shot from 23 ft (assist by J. Jaquez),94-76, ,,4,94,76,18,2173.0
+11:33.0, ,94-76,S. Curry misses 3-pt jump shot from 26 ft,,4,94,76,18,2187.0
+11:25.0,Defensive rebound by B. Adebayo,94-76, ,,4,94,76,18,2195.0
+11:23.0,Shooting foul by C. Paul (drawn by J. Jaquez),94-76, ,,4,94,76,18,2197.0
+11:23.0,J. Jaquez misses free throw 1 of 2,94-76, ,,4,94,76,18,2197.0
+11:23.0,Offensive rebound by Team,94-76, ,,4,94,76,18,2197.0
+11:23.0,J. Jaquez makes free throw 2 of 2,95-76, ,,4,95,76,19,2197.0
+11:06.0, ,95-78,D. Šarić makes 2-pt layup from 2 ft (assist by C. Paul),,4,95,78,17,2214.0
+10:50.0,Turnover by J. Jaquez (lost ball; steal by K. Thompson),95-78, ,,4,95,78,17,2230.0
+10:45.0, ,95-78,Personal foul by B. Adebayo (drawn by S. Curry),,4,95,78,17,2235.0
+10:36.0, ,95-80,J. Kuminga makes 2-pt jump shot from 10 ft (assist by K. Thompson),,4,95,80,15,2244.0
+10:09.0,Turnover by J. Cain (step out of bounds),95-80, ,,4,95,80,15,2271.0
+10:01.0, ,95-80,Turnover by C. Paul (bad pass; steal by J. Jaquez),,4,95,80,15,2279.0
+9:57.0,J. Jaquez misses 2-pt layup from 3 ft,95-80, ,,4,95,80,15,2283.0
+9:56.0, ,95-80,Defensive rebound by Team,,4,95,80,15,2284.0
+9:48.0, ,95-80,S. Curry misses 3-pt jump shot from 26 ft,,4,95,80,15,2292.0
+9:44.0,Defensive rebound by B. Adebayo,95-80, ,,4,95,80,15,2296.0
+9:34.0,N. Jović makes 2-pt layup from 2 ft (assist by D. Robinson),97-80, ,,4,97,80,17,2306.0
+9:34.0,Shooting foul by K. Thompson (drawn by N. Jović),97-80, ,,4,97,80,17,2306.0
+9:34.0,N. Jović makes free throw 1 of 1,98-80, ,,4,98,80,18,2306.0
+9:25.0, ,98-80,K. Thompson misses 3-pt jump shot from 26 ft,,4,98,80,18,2315.0
+9:23.0,Defensive rebound by Team,98-80, ,,4,98,80,18,2317.0
+9:05.0,B. Adebayo makes 2-pt jump shot from 9 ft,100-80, ,,4,100,80,20,2335.0
+8:46.0, ,100-80,S. Curry misses 2-pt jump shot from 20 ft,,4,100,80,20,2354.0
+8:43.0,Defensive rebound by J. Cain,100-80, ,,4,100,80,20,2357.0
+8:30.0,D. Robinson misses 3-pt jump shot from 27 ft,100-80, ,,4,100,80,20,2370.0
+8:26.0, ,100-80,Defensive rebound by S. Curry,,4,100,80,20,2374.0
+8:22.0, ,100-80,C. Paul misses 3-pt jump shot from 26 ft,,4,100,80,20,2378.0
+8:15.0,Defensive rebound by J. Cain,100-80, ,,4,100,80,20,2385.0
+8:04.0,B. Adebayo misses 2-pt layup from 3 ft,100-80, ,,4,100,80,20,2396.0
+8:02.0, ,100-80,Defensive rebound by D. Šarić,,4,100,80,20,2398.0
+7:55.0, ,100-80,Offensive foul by S. Curry (drawn by N. Jović),,4,100,80,20,2405.0
+7:55.0, ,100-80,Turnover by S. Curry (offensive foul),,4,100,80,20,2405.0
+7:55.0,Miami full timeout,100-80, ,,4,100,80,20,2405.0
+7:55.0,Instant Replay (Challenge: Ruling Stands),100-80, ,,4,100,80,20,2405.0
+7:55.0, ,100-80,T. Jackson-Davis enters the game for J. Kuminga,,4,100,80,20,2405.0
+7:55.0, ,100-80,M. Moody enters the game for C. Paul,,4,100,80,20,2405.0
+7:55.0, ,100-80,B. Podziemski enters the game for D. Šarić,,4,100,80,20,2405.0
+7:55.0, ,100-80,A. Wiggins enters the game for K. Thompson,,4,100,80,20,2405.0
+7:40.0,N. Jović misses 3-pt jump shot from 25 ft,100-80, ,,4,100,80,20,2420.0
+7:38.0,Offensive rebound by Team,100-80, ,,4,100,80,20,2422.0
+7:38.0, ,100-80,Loose ball foul by M. Moody (drawn by B. Adebayo),,4,100,80,20,2422.0
+7:26.0,N. Jović makes 2-pt layup from 2 ft (assist by D. Robinson),102-80, ,,4,102,80,22,2434.0
+7:08.0, ,102-82,A. Wiggins makes 2-pt layup from 1 ft (assist by B. Podziemski),,4,102,82,20,2452.0
+6:54.0,D. Robinson misses 3-pt jump shot from 26 ft,102-82, ,,4,102,82,20,2466.0
+6:51.0,Offensive rebound by N. Jović,102-82, ,,4,102,82,20,2469.0
+6:48.0,Turnover by J. Jaquez (out of bounds lost ball),102-82, ,,4,102,82,20,2472.0
+6:37.0, ,102-82,A. Wiggins misses 3-pt jump shot from 25 ft,,4,102,82,20,2483.0
+6:36.0,Defensive rebound by Team,102-82, ,,4,102,82,20,2484.0
+6:12.0,J. Cain misses 2-pt jump shot from 7 ft,102-82, ,,4,102,82,20,2508.0
+6:08.0,Offensive rebound by J. Jaquez,102-82, ,,4,102,82,20,2512.0
+6:07.0,J. Jaquez misses 3-pt jump shot from 25 ft,102-82, ,,4,102,82,20,2513.0
+6:07.0, ,102-82,Defensive rebound by M. Moody,,4,102,82,20,2513.0
+6:00.0, ,102-82,Personal foul by N. Jović (drawn by M. Moody),,4,102,82,20,2520.0
+5:53.0, ,102-82,S. Curry misses 2-pt layup from 3 ft,,4,102,82,20,2527.0
+5:49.0, ,102-82,Offensive rebound by T. Jackson-Davis,,4,102,82,20,2531.0
+5:49.0, ,102-82,T. Jackson-Davis misses 2-pt layup at rim,,4,102,82,20,2531.0
+5:48.0,Defensive rebound by J. Cain,102-82, ,,4,102,82,20,2532.0
+5:42.0,J. Jaquez misses 2-pt hook shot from 8 ft,102-82, ,,4,102,82,20,2538.0
+5:39.0, ,102-82,Defensive rebound by M. Moody,,4,102,82,20,2541.0
+5:34.0, ,102-84,M. Moody makes 2-pt layup from 4 ft,,4,102,84,18,2546.0
+5:34.0,Miami full timeout,102-84, ,,4,102,84,18,2546.0
+5:34.0,T. Herro enters the game for N. Jović,102-84, ,,4,102,84,18,2546.0
+5:34.0, ,102-84,C. Paul enters the game for S. Curry,,4,102,84,18,2546.0
+5:33.0,Turnover by  (8 sec),102-84, ,,4,102,84,18,2547.0
+5:10.0, ,102-84,M. Moody misses 3-pt jump shot from 27 ft,,4,102,84,18,2570.0
+5:10.0, ,102-84,Offensive rebound by Team,,4,102,84,18,2570.0
+5:10.0,Jump ball: T. Jackson-Davis vs. B. Adebayo (T. Jackson-Davis gains possession),102-84,,,4,102,84,18,2570.0
+4:54.0, ,102-86,M. Moody makes 2-pt layup from 4 ft,,4,102,86,16,2586.0
+4:35.0,J. Cain misses 3-pt jump shot from 23 ft,102-86, ,,4,102,86,16,2605.0
+4:28.0, ,102-86,Defensive rebound by B. Podziemski,,4,102,86,16,2612.0
+4:27.0, ,102-86,Shooting foul by D. Robinson (drawn by A. Wiggins),,4,102,86,16,2613.0
+4:27.0, ,102-87,A. Wiggins makes free throw 1 of 2,,4,102,87,15,2613.0
+4:27.0, ,102-88,A. Wiggins makes free throw 2 of 2,,4,102,88,14,2613.0
+4:16.0,J. Cain misses 2-pt layup from 6 ft,102-88, ,,4,102,88,14,2624.0
+4:12.0,Offensive rebound by B. Adebayo,102-88, ,,4,102,88,14,2628.0
+4:11.0,B. Adebayo makes 2-pt layup from 3 ft,104-88, ,,4,104,88,16,2629.0
+3:56.0, ,104-88,M. Moody misses 2-pt jump shot from 19 ft,,4,104,88,16,2644.0
+3:52.0, ,104-88,Offensive rebound by A. Wiggins,,4,104,88,16,2648.0
+3:51.0, ,104-91,C. Paul makes 3-pt jump shot from 25 ft (assist by A. Wiggins),,4,104,91,13,2649.0
+3:34.0,D. Robinson misses 3-pt jump shot from 26 ft,104-91, ,,4,104,91,13,2666.0
+3:30.0,Offensive rebound by J. Cain,104-91, ,,4,104,91,13,2670.0
+3:27.0,T. Herro makes 3-pt jump shot from 27 ft (assist by B. Adebayo),107-91, ,,4,107,91,16,2673.0
+3:19.0, ,107-91,Golden State full timeout,,4,107,91,16,2681.0
+3:08.0, ,107-93,T. Jackson-Davis makes 2-pt dunk from 3 ft (assist by A. Wiggins),,4,107,93,14,2692.0
+2:42.0,B. Adebayo misses 2-pt jump shot from 19 ft,107-93, ,,4,107,93,14,2718.0
+2:40.0,Offensive rebound by Team,107-93, ,,4,107,93,14,2720.0
+2:40.0, ,107-93,Loose ball foul by B. Podziemski (drawn by J. Cain),,4,107,93,14,2720.0
+2:28.0,J. Jaquez misses 2-pt jump shot from 8 ft,107-93, ,,4,107,93,14,2732.0
+2:26.0,Offensive rebound by Team,107-93, ,,4,107,93,14,2734.0
+2:19.0,J. Jaquez makes 3-pt jump shot from 23 ft (assist by B. Adebayo),110-93, ,,4,110,93,17,2741.0
+2:09.0, ,110-93,Shooting foul by J. Cain (drawn by M. Moody),,4,110,93,17,2751.0
+2:09.0, ,110-94,M. Moody makes free throw 1 of 2,,4,110,94,16,2751.0
+2:09.0, ,110-94,C. Joseph enters the game for C. Paul,,4,110,94,16,2751.0
+2:09.0, ,110-94,L. Quinones enters the game for B. Podziemski,,4,110,94,16,2751.0
+2:09.0, ,110-94,J. Robinson enters the game for A. Wiggins,,4,110,94,16,2751.0
+2:09.0, ,110-95,M. Moody makes free throw 2 of 2,,4,110,95,15,2751.0
+1:47.0,J. Cain misses 2-pt layup from 4 ft,110-95, ,,4,110,95,15,2773.0
+1:44.0, ,110-95,Defensive rebound by T. Jackson-Davis,,4,110,95,15,2776.0
+1:39.0, ,110-95,M. Moody misses 2-pt jump shot from 10 ft,,4,110,95,15,2781.0
+1:37.0, ,110-95,Offensive rebound by M. Moody,,4,110,95,15,2783.0
+1:37.0, ,110-97,M. Moody makes 2-pt layup from 3 ft,,4,110,97,13,2783.0
+1:15.0,Shooting foul by L. Quinones (drawn by T. Herro),110-97, ,,4,110,97,13,2805.0
+1:15.0,T. Herro makes free throw 1 of 2,111-97, ,,4,111,97,14,2805.0
+1:15.0,T. Herro makes free throw 2 of 2,112-97, ,,4,112,97,15,2805.0
+1:06.0, ,112-97,Turnover by T. Jackson-Davis (bad pass),,4,112,97,15,2814.0
+1:06.0,R. Hampton enters the game for B. Adebayo,112-97, ,,4,112,97,15,2814.0
+1:06.0,N. Jović enters the game for T. Herro,112-97, ,,4,112,97,15,2814.0
+1:06.0,C. Swider enters the game for J. Jaquez,112-97, ,,4,112,97,15,2814.0
+0:54.0,Personal foul by C. Joseph (drawn by N. Jović),112-97, ,,4,112,97,15,2826.0
+0:54.0,N. Jović misses free throw 1 of 2,112-97, ,,4,112,97,15,2826.0
+0:54.0,Offensive rebound by Team,112-97, ,,4,112,97,15,2826.0
+0:54.0,N. Jović misses free throw 2 of 2,112-97, ,,4,112,97,15,2826.0
+0:52.0,Offensive rebound by C. Swider,112-97, ,,4,112,97,15,2828.0
+0:39.0,D. Robinson misses 2-pt jump shot from 22 ft (block by J. Robinson),112-97, ,,4,112,97,15,2841.0
+0:39.0,Offensive rebound by Team,112-97, ,,4,112,97,15,2841.0
+0:39.0,Turnover by Team (shot clock),112-97, ,,4,112,97,15,2841.0
+0:30.0, ,112-99,M. Moody makes 2-pt layup from 4 ft,,4,112,99,13,2850.0
+0:30.0, ,112-99,Shooting foul by R. Hampton (drawn by M. Moody),,4,112,99,13,2850.0
+0:30.0, ,112-100,M. Moody makes free throw 1 of 1,,4,112,100,12,2850.0
+0:21.0,C. Swider makes 2-pt layup from 2 ft (assist by N. Jović),114-100, ,,4,114,100,14,2859.0
+0:17.0, ,114-100,J. Robinson misses 3-pt jump shot from 27 ft,,4,114,100,14,2863.0
+0:15.0, ,114-100,Offensive rebound by T. Jackson-Davis,,4,114,100,14,2865.0
+0:14.0, ,114-102,T. Jackson-Davis makes 2-pt layup at rim,,4,114,102,12,2866.0
+0:00.0,End of 4th quarter,114-102,,,4,114,102,12,2880.0
