@@ -1,0 +1,478 @@
+Time,Houston,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: A. Sengun vs. B. Adebayo (T. Herro gains possession),0-0,,,1,0,0,0,0.0
+11:31.0, ,0-0,N. Jović misses 3-pt jump shot from 26 ft,,1,0,0,0,29.0
+11:29.0,Defensive rebound by A. Sengun,0-0, ,,1,0,0,0,31.0
+11:19.0,J. Tate makes 2-pt layup from 7 ft (assist by J. Green),2-0, ,,1,0,2,-2,41.0
+11:10.0, ,2-0,Personal foul by F. VanVleet (drawn by T. Herro),,1,0,2,-2,50.0
+11:05.0, ,2-0,T. Herro misses 3-pt jump shot from 26 ft,,1,0,2,-2,55.0
+11:03.0,Defensive rebound by Team,2-0, ,,1,0,2,-2,57.0
+10:46.0,J. Smith misses 2-pt jump shot from 17 ft (block by K. Lowry),2-0, ,,1,0,2,-2,74.0
+10:44.0, ,2-0,Defensive rebound by N. Jović,,1,0,2,-2,76.0
+10:44.0, ,2-0,Turnover by N. Jović (bad pass),,1,0,2,-2,76.0
+10:36.0,J. Green misses 3-pt jump shot from 27 ft,2-0, ,,1,0,2,-2,84.0
+10:32.0, ,2-0,Defensive rebound by N. Jović,,1,0,2,-2,88.0
+10:17.0, ,2-2,B. Adebayo makes 2-pt jump shot from 10 ft,Tie,1,2,2,0,103.0
+9:54.0,Offensive foul by J. Green (drawn by N. Jović),2-2, ,,1,2,2,0,126.0
+9:54.0,Turnover by J. Green (offensive foul),2-2, ,,1,2,2,0,126.0
+9:44.0, ,2-2,Turnover by T. Herro (lost ball; steal by J. Tate),,1,2,2,0,136.0
+9:18.0,J. Tate misses 2-pt jump shot from 22 ft,2-2, ,,1,2,2,0,162.0
+9:16.0, ,2-2,Defensive rebound by J. Jaquez,,1,2,2,0,164.0
+9:13.0, ,2-4,N. Jović makes 2-pt layup from 4 ft (assist by J. Jaquez),Lead change,1,4,2,2,167.0
+9:04.0,J. Smith misses 2-pt jump shot from 15 ft (block by N. Jović),2-4, ,,1,4,2,2,176.0
+9:04.0,Offensive rebound by J. Smith,2-4, ,,1,4,2,2,176.0
+8:57.0,J. Green misses 3-pt jump shot from 29 ft,2-4, ,,1,4,2,2,183.0
+8:53.0, ,2-4,Defensive rebound by J. Jaquez,,1,4,2,2,187.0
+8:43.0, ,2-6,T. Herro makes 2-pt jump shot from 7 ft (assist by B. Adebayo),,1,6,2,4,197.0
+8:30.0,Personal foul by B. Adebayo (drawn by A. Sengun),2-6, ,,1,6,2,4,210.0
+8:23.0,F. VanVleet makes 3-pt jump shot from 25 ft,5-6, ,,1,6,5,1,217.0
+8:11.0, ,5-6,Personal foul by A. Sengun (drawn by K. Lowry),,1,6,5,1,229.0
+7:58.0, ,5-6,K. Lowry misses 2-pt jump shot from 8 ft,,1,6,5,1,242.0
+7:56.0, ,5-6,Offensive rebound by N. Jović,,1,6,5,1,244.0
+7:56.0, ,5-6,N. Jović misses 2-pt layup from 1 ft,,1,6,5,1,244.0
+7:56.0, ,5-6,Offensive rebound by K. Lowry,,1,6,5,1,244.0
+7:41.0, ,5-8,K. Lowry makes 2-pt layup at rim,,1,8,5,3,259.0
+7:38.0,F. VanVleet makes 2-pt jump shot from 22 ft,7-8, ,,1,8,7,1,262.0
+7:19.0, ,7-10,J. Jaquez makes 2-pt hook shot from 5 ft,,1,10,7,3,281.0
+7:07.0,Shooting foul by B. Adebayo (drawn by J. Green),7-10, ,,1,10,7,3,293.0
+7:07.0,J. Green makes free throw 1 of 2,8-10, ,,1,10,8,2,293.0
+7:07.0, ,8-10,K. Love enters the game for B. Adebayo,,1,10,8,2,293.0
+7:07.0,J. Green makes free throw 2 of 2,9-10, ,,1,10,9,1,293.0
+6:48.0, ,9-10,N. Jović misses 2-pt layup from 5 ft,,1,10,9,1,312.0
+6:45.0, ,9-10,Offensive rebound by K. Love,,1,10,9,1,315.0
+6:45.0, ,9-10,K. Love misses 2-pt layup at rim,,1,10,9,1,315.0
+6:43.0, ,9-10,Offensive rebound by N. Jović,,1,10,9,1,317.0
+6:42.0, ,9-10,T. Herro misses 3-pt jump shot from 23 ft,,1,10,9,1,318.0
+6:39.0,Defensive rebound by J. Green,9-10, ,,1,10,9,1,321.0
+6:37.0,Shooting foul by J. Jaquez (drawn by F. VanVleet),9-10, ,,1,10,9,1,323.0
+6:37.0, ,9-10,Miami full timeout,,1,10,9,1,323.0
+6:37.0,F. VanVleet makes free throw 1 of 2,10-10, ,Tie,1,10,10,0,323.0
+6:37.0,F. VanVleet makes free throw 2 of 2,11-10, ,Lead change,1,10,11,-1,323.0
+6:13.0, ,11-12,K. Love makes 2-pt hook shot from 9 ft,Lead change,1,12,11,1,347.0
+6:01.0,Turnover by F. VanVleet (bad pass; steal by K. Love),11-12, ,,1,12,11,1,359.0
+5:55.0, ,11-14,J. Jaquez makes 2-pt layup from 5 ft (assist by N. Jović),,1,14,11,3,365.0
+5:38.0,Personal foul by N. Jović (drawn by A. Sengun),11-14, ,,1,14,11,3,382.0
+5:38.0,J. Green enters the game for J. Smith,11-14, ,,1,14,11,3,382.0
+5:34.0,Shooting foul by K. Love (drawn by A. Sengun),11-14, ,,1,14,11,3,386.0
+5:34.0,A. Sengun makes free throw 1 of 2,12-14, ,,1,14,12,2,386.0
+5:34.0,A. Sengun makes free throw 2 of 2,13-14, ,,1,14,13,1,386.0
+5:20.0, ,13-14,Turnover by J. Jaquez (bad pass; steal by A. Sengun),,1,14,13,1,400.0
+5:14.0,J. Green misses 2-pt layup from 7 ft (block by N. Jović),13-14, ,,1,14,13,1,406.0
+5:11.0, ,13-14,Defensive rebound by K. Love,,1,14,13,1,409.0
+5:11.0, ,13-14,Shooting foul by J. Tate (drawn by J. Jaquez),,1,14,13,1,409.0
+5:11.0, ,13-14,J. Jaquez misses free throw 1 of 2,,1,14,13,1,409.0
+5:11.0, ,13-14,Offensive rebound by Team,,1,14,13,1,409.0
+5:11.0, ,13-14,J. Richardson enters the game for K. Lowry,,1,14,13,1,409.0
+5:11.0, ,13-15,J. Jaquez makes free throw 2 of 2,,1,15,13,2,409.0
+5:01.0,Turnover by A. Sengun (traveling),13-15, ,,1,15,13,2,419.0
+5:01.0, ,13-15,K. Lowry enters the game for J. Jaquez,,1,15,13,2,419.0
+4:47.0, ,13-18,J. Richardson makes 3-pt jump shot from 26 ft (assist by T. Herro),,1,18,13,5,433.0
+4:34.0,J. Green makes 3-pt jump shot from 25 ft (assist by F. VanVleet),16-18, ,,1,18,16,2,446.0
+4:13.0, ,16-21,T. Herro makes 3-pt jump shot from 26 ft (assist by N. Jović),,1,21,16,5,467.0
+3:51.0,J. Tate misses 3-pt jump shot from 23 ft,16-21, ,,1,21,16,5,489.0
+3:48.0, ,16-21,Defensive rebound by N. Jović,,1,21,16,5,492.0
+3:45.0, ,16-21,T. Herro misses 3-pt jump shot from 27 ft (block by J. Green),,1,21,16,5,495.0
+3:41.0, ,16-21,Offensive rebound by N. Jović,,1,21,16,5,499.0
+3:41.0, ,16-23,T. Herro makes 2-pt jump shot from 15 ft (assist by N. Jović),,1,23,16,7,499.0
+3:41.0,Houston full timeout,16-23, ,,1,23,16,7,499.0
+3:41.0,A. Holiday enters the game for J. Green,16-23, ,,1,23,16,7,499.0
+3:41.0,A. Thompson enters the game for J. Tate,16-23, ,,1,23,16,7,499.0
+3:41.0, ,16-23,D. Robinson enters the game for K. Lowry,,1,23,16,7,499.0
+3:25.0,J. Green makes 2-pt dunk from 6 ft (assist by F. VanVleet),18-23, ,,1,23,18,5,515.0
+3:05.0, ,18-23,Turnover by N. Jović (bad pass; steal by A. Sengun),,1,23,18,5,535.0
+3:00.0,A. Thompson misses 2-pt layup from 6 ft (block by J. Richardson),18-23, ,,1,23,18,5,540.0
+2:56.0, ,18-23,Defensive rebound by N. Jović,,1,23,18,5,544.0
+2:53.0, ,18-26,D. Robinson makes 3-pt jump shot from 26 ft (assist by N. Jović),,1,26,18,8,547.0
+2:37.0,F. VanVleet makes 3-pt jump shot from 28 ft (assist by A. Sengun),21-26, ,,1,26,21,5,563.0
+2:25.0, ,21-26,Personal foul by A. Thompson (drawn by N. Jović),,1,26,21,5,575.0
+2:25.0,J. Smith enters the game for A. Sengun,21-26, ,,1,26,21,5,575.0
+2:25.0,C. Whitmore enters the game for F. VanVleet,21-26, ,,1,26,21,5,575.0
+2:22.0, ,21-29,K. Love makes 3-pt jump shot from 27 ft (assist by J. Richardson),,1,29,21,8,578.0
+2:06.0,C. Whitmore makes 3-pt jump shot from 26 ft (assist by J. Green),24-29, ,,1,29,24,5,594.0
+1:55.0, ,24-32,D. Robinson makes 3-pt jump shot from 23 ft (assist by K. Love),,1,32,24,8,605.0
+1:45.0,A. Holiday misses 3-pt jump shot from 27 ft,24-32, ,,1,32,24,8,615.0
+1:41.0,Offensive rebound by J. Smith,24-32, ,,1,32,24,8,619.0
+1:39.0,Shooting foul by K. Love (drawn by J. Green),24-32, ,,1,32,24,8,621.0
+1:39.0,J. Green misses free throw 1 of 2,24-32, ,,1,32,24,8,621.0
+1:39.0,Offensive rebound by Team,24-32, ,,1,32,24,8,621.0
+1:39.0, ,24-32,H. Highsmith enters the game for T. Herro,,1,32,24,8,621.0
+1:39.0, ,24-32,J. Jaquez enters the game for N. Jović,,1,32,24,8,621.0
+1:39.0,J. Green makes free throw 2 of 2,25-32, ,,1,32,25,7,621.0
+1:26.0, ,25-32,Personal foul by J. Smith (drawn by K. Love),,1,32,25,7,634.0
+1:26.0, ,25-33,K. Love makes free throw 1 of 2,,1,33,25,8,634.0
+1:26.0, ,25-34,K. Love makes free throw 2 of 2,,1,34,25,9,634.0
+1:12.0,Turnover by A. Thompson (bad pass),25-34, ,,1,34,25,9,648.0
+0:56.0, ,25-34,J. Jaquez misses 2-pt jump shot from 13 ft,,1,34,25,9,664.0
+0:52.0,Defensive rebound by C. Whitmore,25-34, ,,1,34,25,9,668.0
+0:45.0,J. Green misses 3-pt jump shot from 27 ft,25-34, ,,1,34,25,9,675.0
+0:45.0, ,25-34,Defensive rebound by D. Robinson,,1,34,25,9,675.0
+0:26.0, ,25-34,K. Love misses 3-pt jump shot from 27 ft,,1,34,25,9,694.0
+0:23.0,Defensive rebound by J. Smith,25-34, ,,1,34,25,9,697.0
+0:09.0,Shooting foul by J. Richardson (drawn by A. Thompson),25-34, ,,1,34,25,9,711.0
+0:09.0,A. Thompson makes free throw 1 of 2,26-34, ,,1,34,26,8,711.0
+0:09.0,A. Thompson makes free throw 2 of 2,27-34, ,,1,34,27,7,711.0
+0:01.0, ,27-34,J. Richardson misses 2-pt jump shot from 15 ft,,1,34,27,7,719.0
+0:00.0, ,27-34,Offensive rebound by Team,,1,34,27,7,720.0
+0:00.0,End of 1st quarter,27-34,,,1,34,27,7,720.0
+12:00.0,Start of 2nd quarter,27-34,,,2,34,27,7,720.0
+11:42.0,Turnover by J. Green (lost ball; steal by D. Robinson),27-34, ,,2,34,27,7,738.0
+11:31.0, ,27-34,Personal foul by A. Thompson (drawn by B. Adebayo),,2,34,27,7,749.0
+11:19.0, ,27-34,B. Adebayo misses 2-pt jump shot from 15 ft,,2,34,27,7,761.0
+11:17.0,Defensive rebound by A. Thompson,27-34, ,,2,34,27,7,763.0
+11:05.0,C. Whitmore makes 2-pt layup from 6 ft (assist by J. Green),29-34, ,,2,34,29,5,775.0
+10:51.0, ,29-34,Turnover by B. Adebayo (bad pass; steal by A. Holiday),,2,34,29,5,789.0
+10:46.0,A. Holiday misses 3-pt jump shot from 27 ft,29-34, ,,2,34,29,5,794.0
+10:45.0,Offensive rebound by Team,29-34, ,,2,34,29,5,795.0
+10:33.0,C. Whitmore misses 2-pt jump shot from 15 ft,29-34, ,,2,34,29,5,807.0
+10:31.0, ,29-34,Defensive rebound by J. Richardson,,2,34,29,5,809.0
+10:20.0, ,29-34,D. Robinson misses 3-pt jump shot from 26 ft,,2,34,29,5,820.0
+10:16.0,Defensive rebound by A. Thompson,29-34, ,,2,34,29,5,824.0
+10:10.0,A. Holiday misses 3-pt jump shot from 26 ft,29-34, ,,2,34,29,5,830.0
+10:07.0, ,29-34,Defensive rebound by B. Adebayo,,2,34,29,5,833.0
+9:48.0, ,29-34,Shooting foul by J. Green (drawn by J. Richardson),,2,34,29,5,852.0
+9:48.0, ,29-35,J. Richardson makes free throw 1 of 2,,2,35,29,6,852.0
+9:48.0, ,29-36,J. Richardson makes free throw 2 of 2,,2,36,29,7,852.0
+9:30.0,Turnover by J. Smith (bad pass; steal by B. Adebayo),29-36, ,,2,36,29,7,870.0
+9:28.0, ,29-36,Shooting foul by C. Whitmore (drawn by B. Adebayo),,2,36,29,7,872.0
+9:28.0, ,29-36,B. Adebayo misses free throw 1 of 2,,2,36,29,7,872.0
+9:28.0, ,29-36,Offensive rebound by Team,,2,36,29,7,872.0
+9:28.0,J. Green enters the game for A. Holiday,29-36, ,,2,36,29,7,872.0
+9:28.0,A. Sengun enters the game for J. Smith,29-36, ,,2,36,29,7,872.0
+9:28.0,F. VanVleet enters the game for A. Thompson,29-36, ,,2,36,29,7,872.0
+9:28.0, ,29-36,B. Adebayo misses free throw 2 of 2,,2,36,29,7,872.0
+9:25.0,Defensive rebound by J. Green,29-36, ,,2,36,29,7,875.0
+9:15.0,A. Sengun misses 2-pt jump shot from 10 ft,29-36, ,,2,36,29,7,885.0
+9:13.0, ,29-36,Defensive rebound by J. Richardson,,2,36,29,7,887.0
+9:07.0, ,29-36,D. Robinson misses 3-pt jump shot from 26 ft,,2,36,29,7,893.0
+9:04.0,Defensive rebound by J. Green,29-36, ,,2,36,29,7,896.0
+8:54.0,J. Green misses 2-pt jump shot from 12 ft,29-36, ,,2,36,29,7,906.0
+8:51.0,Offensive rebound by A. Sengun,29-36, ,,2,36,29,7,909.0
+8:51.0,F. VanVleet makes 3-pt jump shot from 26 ft (assist by A. Sengun),32-36, ,,2,36,32,4,909.0
+8:32.0, ,32-38,J. Richardson makes 2-pt hook shot from 7 ft (assist by B. Adebayo),,2,38,32,6,928.0
+8:12.0,J. Green makes 3-pt jump shot from 27 ft,35-38, ,,2,38,35,3,948.0
+7:53.0, ,35-40,D. Robinson makes 2-pt jump shot from 7 ft,,2,40,35,5,967.0
+7:53.0, ,35-40,Shooting foul by A. Sengun (drawn by D. Robinson),,2,40,35,5,967.0
+7:53.0,J. Tate enters the game for C. Whitmore,35-40, ,,2,40,35,5,967.0
+7:53.0, ,35-41,D. Robinson makes free throw 1 of 1,,2,41,35,6,967.0
+7:31.0,A. Sengun misses 2-pt jump shot from 16 ft,35-41, ,,2,41,35,6,989.0
+7:28.0, ,35-41,Defensive rebound by B. Adebayo,,2,41,35,6,992.0
+7:16.0, ,35-43,B. Adebayo makes 2-pt layup from 5 ft (assist by D. Robinson),,2,43,35,8,1004.0
+7:10.0,Shooting foul by J. Richardson (drawn by J. Green),35-43, ,,2,43,35,8,1010.0
+7:10.0,J. Green misses free throw 1 of 2,35-43, ,,2,43,35,8,1010.0
+7:10.0,Offensive rebound by Team,35-43, ,,2,43,35,8,1010.0
+7:10.0,J. Green makes free throw 2 of 2,36-43, ,,2,43,36,7,1010.0
+6:55.0, ,36-45,J. Jaquez makes 2-pt layup from 4 ft,,2,45,36,9,1025.0
+6:45.0,F. VanVleet makes 3-pt jump shot from 28 ft,39-45, ,,2,45,39,6,1035.0
+6:30.0, ,39-48,H. Highsmith makes 3-pt jump shot from 26 ft (assist by J. Jaquez),,2,48,39,9,1050.0
+6:10.0,J. Green misses 3-pt jump shot from 26 ft,39-48, ,,2,48,39,9,1070.0
+6:07.0, ,39-48,Defensive rebound by H. Highsmith,,2,48,39,9,1073.0
+6:04.0, ,39-48,Offensive foul by B. Adebayo (drawn by F. VanVleet),,2,48,39,9,1076.0
+6:04.0, ,39-48,Turnover by B. Adebayo (offensive foul),,2,48,39,9,1076.0
+6:04.0, ,39-48,Miami full timeout,,2,48,39,9,1076.0
+6:04.0,J. Smith enters the game for J. Green,39-48, ,,2,48,39,9,1076.0
+6:04.0, ,39-48,T. Herro enters the game for B. Adebayo,,2,48,39,9,1076.0
+6:04.0, ,39-48,K. Love enters the game for J. Jaquez,,2,48,39,9,1076.0
+5:59.0,A. Sengun makes 2-pt layup from 6 ft (assist by J. Green),41-48, ,,2,48,41,7,1081.0
+5:47.0,Violation by Team (kicked ball),41-48, ,,2,48,41,7,1093.0
+5:41.0, ,41-48,D. Robinson misses 3-pt jump shot from 30 ft,,2,48,41,7,1099.0
+5:36.0,Defensive rebound by A. Sengun,41-48, ,,2,48,41,7,1104.0
+5:26.0,A. Sengun makes 3-pt jump shot from 27 ft (assist by J. Tate),44-48, ,,2,48,44,4,1114.0
+5:11.0, ,44-50,T. Herro makes 2-pt jump shot from 13 ft (assist by K. Love),,2,50,44,6,1129.0
+5:11.0, ,44-50,Shooting foul by J. Tate (drawn by T. Herro),,2,50,44,6,1129.0
+5:11.0, ,44-51,T. Herro makes free throw 1 of 1,,2,51,44,7,1129.0
+4:55.0,J. Tate misses 2-pt hook shot from 8 ft,44-51, ,,2,51,44,7,1145.0
+4:53.0, ,44-51,Defensive rebound by H. Highsmith,,2,51,44,7,1147.0
+4:42.0, ,44-51,K. Love misses 3-pt jump shot from 26 ft,,2,51,44,7,1158.0
+4:39.0,Defensive rebound by F. VanVleet,44-51, ,,2,51,44,7,1161.0
+4:33.0,F. VanVleet misses 2-pt layup from 7 ft,44-51, ,,2,51,44,7,1167.0
+4:31.0,Offensive rebound by Team,44-51, ,,2,51,44,7,1169.0
+4:31.0, ,44-51,K. Lowry enters the game for D. Robinson,,2,51,44,7,1169.0
+4:26.0,F. VanVleet misses 3-pt jump shot from 26 ft,44-51, ,,2,51,44,7,1174.0
+4:22.0,Offensive rebound by J. Tate,44-51, ,,2,51,44,7,1178.0
+4:16.0,A. Sengun makes 2-pt layup from 6 ft (assist by J. Green),46-51, ,,2,51,46,5,1184.0
+3:58.0, ,46-54,J. Richardson makes 3-pt jump shot from 25 ft (assist by T. Herro),,2,54,46,8,1202.0
+3:36.0,J. Tate makes 3-pt jump shot from 23 ft (assist by J. Green),49-54, ,,2,54,49,5,1224.0
+3:14.0, ,49-54,Shooting foul by A. Sengun (drawn by K. Love),,2,54,49,5,1246.0
+3:14.0, ,49-55,K. Love makes free throw 1 of 2,,2,55,49,6,1246.0
+3:14.0,J. Green enters the game for A. Sengun,49-55, ,,2,55,49,6,1246.0
+3:14.0, ,49-55,J. Jaquez enters the game for J. Richardson,,2,55,49,6,1246.0
+3:14.0, ,49-56,K. Love makes free throw 2 of 2,,2,56,49,7,1246.0
+3:00.0,J. Smith misses 2-pt jump shot from 15 ft,49-56, ,,2,56,49,7,1260.0
+2:57.0, ,49-56,Defensive rebound by H. Highsmith,,2,56,49,7,1263.0
+2:40.0, ,49-56,Shooting foul by J. Green (drawn by K. Lowry),,2,56,49,7,1280.0
+2:40.0,Houston full timeout,49-56, ,,2,56,49,7,1280.0
+2:40.0,C. Whitmore enters the game for J. Green,49-56, ,,2,56,49,7,1280.0
+2:40.0, ,49-56,K. Lowry misses free throw 1 of 2,,2,56,49,7,1280.0
+2:40.0, ,49-56,Offensive rebound by Team,,2,56,49,7,1280.0
+2:40.0, ,49-57,K. Lowry makes free throw 2 of 2,,2,57,49,8,1280.0
+2:27.0,J. Green misses 2-pt jump shot from 16 ft,49-57, ,,2,57,49,8,1293.0
+2:24.0, ,49-57,Defensive rebound by K. Love,,2,57,49,8,1296.0
+2:21.0, ,49-57,T. Herro misses 2-pt layup from 6 ft (block by F. VanVleet),,2,57,49,8,1299.0
+2:21.0,Defensive rebound by Team,49-57, ,,2,57,49,8,1299.0
+2:06.0,J. Tate misses 3-pt jump shot from 24 ft,49-57, ,,2,57,49,8,1314.0
+2:02.0,Offensive rebound by C. Whitmore,49-57, ,,2,57,49,8,1318.0
+2:00.0,C. Whitmore makes 2-pt layup from 5 ft,51-57, ,,2,57,51,6,1320.0
+1:45.0, ,51-59,T. Herro makes 2-pt jump shot from 9 ft,,2,59,51,8,1335.0
+1:27.0,J. Smith makes 2-pt jump shot from 19 ft (assist by F. VanVleet),53-59, ,,2,59,53,6,1353.0
+1:16.0, ,53-59,J. Jaquez misses 2-pt layup from 5 ft,,2,59,53,6,1364.0
+1:16.0, ,53-59,Offensive rebound by K. Love,,2,59,53,6,1364.0
+1:13.0, ,53-59,Turnover by K. Love (lost ball; steal by C. Whitmore),,2,59,53,6,1367.0
+1:10.0,Offensive foul by J. Green (drawn by K. Lowry),53-59, ,,2,59,53,6,1370.0
+1:10.0,Turnover by J. Green (offensive foul),53-59, ,,2,59,53,6,1370.0
+1:10.0,A. Holiday enters the game for J. Green,53-59, ,,2,59,53,6,1370.0
+1:10.0, ,53-59,N. Jović enters the game for K. Love,,2,59,53,6,1370.0
+0:55.0, ,53-59,Personal foul by A. Holiday (drawn by N. Jović),,2,59,53,6,1385.0
+0:55.0, ,53-59,N. Jović misses free throw 1 of 2,,2,59,53,6,1385.0
+0:55.0, ,53-59,Offensive rebound by Team,,2,59,53,6,1385.0
+0:55.0, ,53-59,N. Jović misses free throw 2 of 2,,2,59,53,6,1385.0
+0:53.0,Defensive rebound by C. Whitmore,53-59, ,,2,59,53,6,1387.0
+0:31.0,A. Holiday makes 3-pt jump shot from 25 ft (assist by F. VanVleet),56-59, ,,2,59,56,3,1409.0
+0:10.0, ,56-59,T. Herro misses 3-pt jump shot from 27 ft,,2,59,56,3,1430.0
+0:08.0,Defensive rebound by J. Smith,56-59, ,,2,59,56,3,1432.0
+0:02.0,F. VanVleet misses 2-pt jump shot from 16 ft,56-59, ,,2,59,56,3,1438.0
+0:00.0,Offensive rebound by J. Smith,56-59, ,,2,59,56,3,1440.0
+0:00.0,J. Smith makes 2-pt layup from 5 ft,58-59, ,,2,59,58,1,1440.0
+0:00.0,Shooting foul by K. Lowry (drawn by J. Smith),58-59, ,,2,59,58,1,1440.0
+0:00.0,A. Thompson enters the game for J. Tate,58-59, ,,2,59,58,1,1440.0
+0:00.0,J. Smith makes free throw 1 of 1,59-59, ,Tie,2,59,59,0,1440.0
+0:00.0,End of 2nd quarter,59-59,,,2,59,59,0,1440.0
+12:00.0,Start of 3rd quarter,59-59,,,3,59,59,0,1440.0
+11:44.0,J. Green misses 3-pt jump shot from 24 ft,59-59, ,,3,59,59,0,1456.0
+11:40.0, ,59-59,Defensive rebound by K. Lowry,,3,59,59,0,1460.0
+11:28.0, ,59-59,N. Jović misses 3-pt jump shot from 27 ft,,3,59,59,0,1472.0
+11:25.0,Defensive rebound by A. Sengun,59-59, ,,3,59,59,0,1475.0
+11:11.0,A. Sengun misses 2-pt jump shot from 17 ft,59-59, ,,3,59,59,0,1489.0
+11:08.0, ,59-59,Defensive rebound by B. Adebayo,,3,59,59,0,1492.0
+10:56.0, ,59-59,Def 3 sec tech foul by Team,,3,59,59,0,1504.0
+10:56.0, ,59-60,T. Herro makes technical free throw,,3,60,59,1,1504.0
+10:47.0, ,59-63,T. Herro makes 3-pt jump shot from 27 ft (assist by N. Jović),,3,63,59,4,1513.0
+10:32.0,J. Green misses 3-pt jump shot from 25 ft,59-63, ,,3,63,59,4,1528.0
+10:32.0, ,59-63,Defensive rebound by K. Lowry,,3,63,59,4,1528.0
+10:31.0, ,59-63,Turnover by K. Lowry (lost ball; steal by J. Tate),,3,63,59,4,1529.0
+10:25.0,A. Sengun makes 2-pt layup from 3 ft,61-63, ,,3,63,61,2,1535.0
+10:15.0, ,61-66,K. Lowry makes 3-pt jump shot from 27 ft (assist by J. Jaquez),,3,66,61,5,1545.0
+9:48.0,F. VanVleet misses 3-pt jump shot from 27 ft,61-66, ,,3,66,61,5,1572.0
+9:44.0, ,61-66,Defensive rebound by T. Herro,,3,66,61,5,1576.0
+9:41.0, ,61-66,J. Jaquez misses 2-pt layup from 6 ft,,3,66,61,5,1579.0
+9:36.0,Defensive rebound by A. Sengun,61-66, ,,3,66,61,5,1584.0
+9:31.0,J. Smith misses 3-pt jump shot from 26 ft,61-66, ,,3,66,61,5,1589.0
+9:29.0, ,61-66,Defensive rebound by B. Adebayo,,3,66,61,5,1591.0
+9:22.0, ,61-66,Personal foul by J. Tate (drawn by B. Adebayo),,3,66,61,5,1598.0
+9:12.0, ,61-66,N. Jović misses 3-pt jump shot from 25 ft,,3,66,61,5,1608.0
+9:09.0, ,61-66,Offensive rebound by T. Herro,,3,66,61,5,1611.0
+8:58.0, ,61-68,B. Adebayo makes 2-pt jump shot from 13 ft (assist by K. Lowry),,3,68,61,7,1622.0
+8:50.0,F. VanVleet misses 2-pt layup from 3 ft (block by K. Lowry),61-68, ,,3,68,61,7,1630.0
+8:46.0,Offensive rebound by J. Tate,61-68, ,,3,68,61,7,1634.0
+8:45.0,J. Tate makes 2-pt layup from 3 ft,63-68, ,,3,68,63,5,1635.0
+8:23.0, ,63-68,J. Jaquez misses 2-pt layup from 6 ft,,3,68,63,5,1657.0
+8:20.0,Defensive rebound by A. Sengun,63-68, ,,3,68,63,5,1660.0
+8:18.0,Personal take foul by T. Herro (drawn by J. Green),63-68, ,,3,68,63,5,1662.0
+8:18.0, ,63-68,D. Robinson enters the game for K. Lowry,,3,68,63,5,1662.0
+8:06.0,Shooting foul by N. Jović (drawn by J. Green),63-68, ,,3,68,63,5,1674.0
+8:06.0,J. Green makes free throw 1 of 2,64-68, ,,3,68,64,4,1674.0
+8:06.0,J. Green makes free throw 2 of 2,65-68, ,,3,68,65,3,1674.0
+7:50.0, ,65-71,T. Herro makes 3-pt jump shot from 27 ft (assist by B. Adebayo),,3,71,65,6,1690.0
+7:35.0,J. Smith makes 3-pt jump shot from 26 ft (assist by J. Green),68-71, ,,3,71,68,3,1705.0
+7:18.0, ,68-73,B. Adebayo makes 2-pt jump shot from 10 ft (assist by D. Robinson),,3,73,68,5,1722.0
+7:07.0,Personal foul by D. Robinson (drawn by A. Sengun),68-73, ,,3,73,68,5,1733.0
+6:58.0,J. Smith misses 2-pt hook shot from 6 ft,68-73, ,,3,73,68,5,1742.0
+6:55.0, ,68-73,Defensive rebound by B. Adebayo,,3,73,68,5,1745.0
+6:49.0, ,68-75,J. Jaquez makes 2-pt dunk from 4 ft (assist by D. Robinson),,3,75,68,7,1751.0
+6:35.0,F. VanVleet makes 3-pt jump shot from 25 ft,71-75, ,,3,75,71,4,1765.0
+6:21.0, ,71-75,N. Jović misses 3-pt jump shot from 23 ft,,3,75,71,4,1779.0
+6:17.0,Defensive rebound by J. Green,71-75, ,,3,75,71,4,1783.0
+6:04.0,Turnover by A. Sengun (bad pass; steal by N. Jović),71-75, ,,3,75,71,4,1796.0
+5:59.0, ,71-75,N. Jović misses 2-pt jump shot from 14 ft (block by F. VanVleet),,3,75,71,4,1801.0
+5:59.0, ,71-75,Offensive rebound by B. Adebayo,,3,75,71,4,1801.0
+5:59.0, ,71-77,B. Adebayo makes 2-pt dunk at rim,,3,77,71,6,1801.0
+5:59.0,Houston full timeout,71-77, ,,3,77,71,6,1801.0
+5:59.0,J. Green enters the game for A. Sengun,71-77, ,,3,77,71,6,1801.0
+5:36.0,J. Green makes 2-pt layup from 3 ft (assist by F. VanVleet),73-77, ,,3,77,73,4,1824.0
+5:21.0, ,73-77,Personal foul by J. Green (drawn by B. Adebayo),,3,77,73,4,1839.0
+5:12.0, ,73-79,B. Adebayo makes 2-pt layup from 5 ft (assist by D. Robinson),,3,79,73,6,1848.0
+4:59.0,F. VanVleet misses 2-pt jump shot from 21 ft,73-79, ,,3,79,73,6,1861.0
+4:57.0,Offensive rebound by F. VanVleet,73-79, ,,3,79,73,6,1863.0
+4:47.0,Shooting foul by N. Jović (drawn by J. Smith),73-79, ,,3,79,73,6,1873.0
+4:47.0,J. Smith makes free throw 1 of 2,74-79, ,,3,79,74,5,1873.0
+4:47.0,A. Sengun enters the game for J. Green,74-79, ,,3,79,74,5,1873.0
+4:47.0,J. Smith makes free throw 2 of 2,75-79, ,,3,79,75,4,1873.0
+4:37.0, ,75-82,N. Jović makes 3-pt jump shot from 26 ft,,3,82,75,7,1883.0
+4:17.0,J. Tate misses 3-pt jump shot from 26 ft,75-82, ,,3,82,75,7,1903.0
+4:12.0, ,75-82,Defensive rebound by J. Jaquez,,3,82,75,7,1908.0
+4:09.0, ,75-85,T. Herro makes 3-pt jump shot from 26 ft (assist by N. Jović),,3,85,75,10,1911.0
+3:51.0,F. VanVleet misses 3-pt jump shot from 25 ft,75-85, ,,3,85,75,10,1929.0
+3:48.0, ,75-85,Defensive rebound by N. Jović,,3,85,75,10,1932.0
+3:44.0, ,75-85,T. Herro misses 3-pt jump shot from 28 ft,,3,85,75,10,1936.0
+3:42.0,Defensive rebound by J. Smith,75-85, ,,3,85,75,10,1938.0
+3:38.0,Turnover by J. Green (bad pass; steal by N. Jović),75-85, ,,3,85,75,10,1942.0
+3:31.0, ,75-85,D. Robinson misses 3-pt jump shot from 27 ft,,3,85,75,10,1949.0
+3:27.0,Defensive rebound by A. Sengun,75-85, ,,3,85,75,10,1953.0
+3:18.0,J. Smith misses 2-pt layup from 4 ft,75-85, ,,3,85,75,10,1962.0
+3:17.0, ,75-85,Defensive rebound by J. Jaquez,,3,85,75,10,1963.0
+3:11.0, ,75-85,Shooting foul by A. Sengun (drawn by N. Jović),,3,85,75,10,1969.0
+3:11.0, ,75-85,N. Jović misses free throw 1 of 2,,3,85,75,10,1969.0
+3:11.0, ,75-85,Offensive rebound by Team,,3,85,75,10,1969.0
+3:11.0,J. Green enters the game for J. Green,75-85, ,,3,85,75,10,1969.0
+3:11.0,A. Holiday enters the game for J. Smith,75-85, ,,3,85,75,10,1969.0
+3:11.0,C. Whitmore enters the game for J. Tate,75-85, ,,3,85,75,10,1969.0
+3:11.0, ,75-85,K. Love enters the game for B. Adebayo,,3,85,75,10,1969.0
+3:11.0, ,75-85,J. Richardson enters the game for J. Jaquez,,3,85,75,10,1969.0
+3:11.0, ,75-86,N. Jović makes free throw 2 of 2,,3,86,75,11,1969.0
+2:55.0,A. Sengun makes 2-pt layup from 4 ft,77-86, ,,3,86,77,9,1985.0
+2:55.0, ,77-86,Violation by Team (def goaltending),,3,86,77,9,1985.0
+2:40.0, ,77-86,J. Richardson misses 3-pt jump shot from 26 ft,,3,86,77,9,2000.0
+2:36.0,Defensive rebound by A. Holiday,77-86, ,,3,86,77,9,2004.0
+2:23.0,C. Whitmore misses 3-pt jump shot from 26 ft,77-86, ,,3,86,77,9,2017.0
+2:19.0, ,77-86,Defensive rebound by K. Love,,3,86,77,9,2021.0
+2:19.0, ,77-86,D. Robinson misses 2-pt layup from 5 ft,,3,86,77,9,2021.0
+2:18.0, ,77-86,Offensive rebound by T. Herro,,3,86,77,9,2022.0
+2:18.0, ,77-86,T. Herro misses 2-pt layup at rim,,3,86,77,9,2022.0
+2:17.0,Defensive rebound by A. Holiday,77-86, ,,3,86,77,9,2023.0
+2:08.0,F. VanVleet makes 2-pt layup from 5 ft,79-86, ,,3,86,79,7,2032.0
+2:08.0, ,79-86,Miami full timeout,,3,86,79,7,2032.0
+2:08.0, ,79-86,Technical foul by T. Herro,,3,86,79,7,2032.0
+2:08.0, ,79-86,H. Highsmith enters the game for N. Jović,,3,86,79,7,2032.0
+2:08.0,F. VanVleet makes technical free throw,80-86, ,,3,86,80,6,2032.0
+1:46.0, ,80-88,K. Love makes 2-pt layup from 5 ft (assist by T. Herro),,3,88,80,8,2054.0
+1:27.0,C. Whitmore makes 2-pt dunk from 4 ft (assist by F. VanVleet),82-88, ,,3,88,82,6,2073.0
+1:11.0, ,82-88,H. Highsmith misses 3-pt jump shot from 23 ft,,3,88,82,6,2089.0
+1:09.0,Defensive rebound by C. Whitmore,82-88, ,,3,88,82,6,2091.0
+0:58.0,Turnover by A. Sengun (out of bounds lost ball),82-88, ,,3,88,82,6,2102.0
+0:58.0,A. Thompson enters the game for A. Sengun,82-88, ,,3,88,82,6,2102.0
+0:47.0, ,82-88,Personal foul by C. Whitmore (drawn by K. Love),,3,88,82,6,2113.0
+0:33.0, ,82-88,T. Herro misses 2-pt jump shot from 10 ft,,3,88,82,6,2127.0
+0:30.0,Defensive rebound by C. Whitmore,82-88, ,,3,88,82,6,2130.0
+0:12.0,Offensive foul by C. Whitmore (drawn by K. Love),82-88, ,,3,88,82,6,2148.0
+0:12.0,Turnover by C. Whitmore (offensive foul),82-88, ,,3,88,82,6,2148.0
+0:02.0, ,82-88,T. Herro misses 2-pt layup from 6 ft,,3,88,82,6,2158.0
+0:01.0, ,82-88,Offensive rebound by K. Love,,3,88,82,6,2159.0
+0:01.0, ,82-90,K. Love makes 2-pt layup from 4 ft,,3,90,82,8,2159.0
+0:01.0, ,82-90,Shooting foul by J. Green (drawn by K. Love),,3,90,82,8,2159.0
+0:01.0, ,82-91,K. Love makes free throw 1 of 1,,3,91,82,9,2159.0
+0:00.0,End of 3rd quarter,82-91,,,3,91,82,9,2160.0
+12:00.0,Start of 4th quarter,82-91,,,4,91,82,9,2160.0
+11:47.0, ,82-91,Personal foul by A. Thompson (drawn by K. Love),,4,91,82,9,2173.0
+11:43.0, ,82-91,D. Robinson misses 3-pt jump shot from 27 ft,,4,91,82,9,2177.0
+11:39.0,Defensive rebound by C. Whitmore,82-91, ,,4,91,82,9,2181.0
+11:32.0,J. Smith misses 3-pt jump shot from 25 ft,82-91, ,,4,91,82,9,2188.0
+11:28.0, ,82-91,Defensive rebound by D. Robinson,,4,91,82,9,2192.0
+11:25.0, ,82-93,B. Adebayo makes 2-pt dunk from 6 ft (assist by D. Robinson),,4,93,82,11,2195.0
+11:24.0,Houston full timeout,82-93, ,,4,93,82,11,2196.0
+11:07.0,C. Whitmore misses 2-pt layup from 4 ft,82-93, ,,4,93,82,11,2213.0
+11:05.0, ,82-93,Defensive rebound by K. Love,,4,93,82,11,2215.0
+11:02.0, ,82-93,Personal foul by C. Whitmore (drawn by J. Jaquez),,4,93,82,11,2218.0
+10:46.0, ,82-96,J. Jaquez makes 3-pt jump shot from 24 ft (assist by D. Robinson),,4,96,82,14,2234.0
+10:32.0,A. Thompson makes 2-pt layup from 3 ft,84-96, ,,4,96,84,12,2248.0
+10:32.0,Shooting foul by D. Robinson (drawn by A. Thompson),84-96, ,,4,96,84,12,2248.0
+10:32.0,A. Thompson makes free throw 1 of 1,85-96, ,,4,96,85,11,2248.0
+10:23.0, ,85-96,Personal foul by J. Smith (drawn by K. Love),,4,96,85,11,2257.0
+10:11.0, ,85-96,Turnover by B. Adebayo (lost ball; steal by A. Thompson),,4,96,85,11,2269.0
+10:07.0,C. Whitmore makes 2-pt dunk from 3 ft (assist by A. Thompson),87-96, ,,4,96,87,9,2273.0
+9:48.0, ,87-98,J. Richardson makes 2-pt layup from 6 ft,,4,98,87,11,2292.0
+9:30.0,J. Smith misses 2-pt jump shot from 18 ft,87-98, ,,4,98,87,11,2310.0
+9:27.0, ,87-98,Defensive rebound by B. Adebayo,,4,98,87,11,2313.0
+9:14.0, ,87-100,B. Adebayo makes 2-pt jump shot from 13 ft (assist by K. Love),,4,100,87,13,2326.0
+8:59.0,Def 3 sec tech foul by Team,87-100, ,,4,100,87,13,2341.0
+8:59.0,A. Holiday makes technical free throw,88-100, ,,4,100,88,12,2341.0
+8:51.0,Turnover by A. Thompson (bad pass; steal by J. Jaquez),88-100, ,,4,100,88,12,2349.0
+8:47.0, ,88-103,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Jaquez),,4,103,88,15,2353.0
+8:37.0,Personal foul by D. Robinson (drawn by J. Smith),88-103, ,,4,103,88,15,2363.0
+8:37.0,J. Tate enters the game for J. Green,88-103, ,,4,103,88,15,2363.0
+8:30.0,A. Holiday makes 2-pt jump shot from 10 ft,90-103, ,,4,103,90,13,2370.0
+8:11.0, ,90-103,B. Adebayo misses 2-pt layup from 8 ft (block by A. Thompson),,4,103,90,13,2389.0
+8:08.0,Defensive rebound by A. Holiday,90-103, ,,4,103,90,13,2392.0
+8:08.0,Shooting foul by D. Robinson (drawn by A. Holiday),90-103, ,,4,103,90,13,2392.0
+8:08.0,A. Holiday makes free throw 1 of 2,91-103, ,,4,103,91,12,2392.0
+8:08.0,F. VanVleet enters the game for A. Thompson,91-103, ,,4,103,91,12,2392.0
+8:08.0,A. Holiday makes free throw 2 of 2,92-103, ,,4,103,92,11,2392.0
+7:59.0, ,92-105,B. Adebayo makes 2-pt layup from 6 ft (assist by D. Robinson),,4,105,92,13,2401.0
+7:59.0, ,92-105,Shooting foul by F. VanVleet (drawn by B. Adebayo),,4,105,92,13,2401.0
+7:59.0, ,92-106,B. Adebayo makes free throw 1 of 1,,4,106,92,14,2401.0
+7:48.0,F. VanVleet makes 3-pt jump shot from 27 ft,95-106, ,,4,106,95,11,2412.0
+7:32.0, ,95-106,Personal foul by A. Holiday (drawn by B. Adebayo),,4,106,95,11,2428.0
+7:32.0, ,95-107,B. Adebayo makes free throw 1 of 2,,4,107,95,12,2428.0
+7:32.0,A. Sengun enters the game for C. Whitmore,95-107, ,,4,107,95,12,2428.0
+7:32.0, ,95-108,B. Adebayo makes free throw 2 of 2,,4,108,95,13,2428.0
+7:18.0, ,95-108,Violation by Team (kicked ball),,4,108,95,13,2442.0
+7:11.0,J. Smith misses 3-pt jump shot from 26 ft,95-108, ,,4,108,95,13,2449.0
+7:10.0, ,95-108,Defensive rebound by B. Adebayo,,4,108,95,13,2450.0
+7:02.0, ,95-108,Turnover by D. Robinson (out of bounds lost ball),,4,108,95,13,2458.0
+7:02.0, ,95-108,Miami full timeout,,4,108,95,13,2458.0
+7:02.0, ,95-108,Instant Replay (Challenge: Ruling Stands),,4,108,95,13,2458.0
+6:49.0,J. Smith misses 3-pt jump shot from 26 ft,95-108, ,,4,108,95,13,2471.0
+6:46.0, ,95-108,Defensive rebound by D. Robinson,,4,108,95,13,2474.0
+6:31.0, ,95-108,Turnover by J. Jaquez (bad pass; steal by A. Sengun),,4,108,95,13,2489.0
+6:20.0,F. VanVleet misses 3-pt jump shot from 24 ft,95-108, ,,4,108,95,13,2500.0
+6:12.0,Offensive rebound by A. Sengun,95-108, ,,4,108,95,13,2508.0
+6:12.0,A. Sengun makes 2-pt layup at rim,97-108, ,,4,108,97,11,2508.0
+6:01.0, ,97-108,Shooting foul by J. Smith (drawn by J. Jaquez),,4,108,97,11,2519.0
+6:01.0, ,97-109,J. Jaquez makes free throw 1 of 2,,4,109,97,12,2519.0
+6:01.0,J. Green enters the game for J. Smith,97-109, ,,4,109,97,12,2519.0
+6:01.0, ,97-109,T. Herro enters the game for K. Love,,4,109,97,12,2519.0
+6:01.0, ,97-110,J. Jaquez makes free throw 2 of 2,,4,110,97,13,2519.0
+5:36.0,A. Holiday misses 3-pt jump shot from 25 ft,97-110, ,,4,110,97,13,2544.0
+5:34.0, ,97-110,Defensive rebound by B. Adebayo,,4,110,97,13,2546.0
+5:29.0, ,97-110,D. Robinson misses 3-pt jump shot from 26 ft,,4,110,97,13,2551.0
+5:26.0,Defensive rebound by F. VanVleet,97-110, ,,4,110,97,13,2554.0
+5:23.0,Personal foul by D. Robinson (drawn by J. Tate),97-110, ,,4,110,97,13,2557.0
+5:05.0,A. Sengun makes 2-pt hook shot from 7 ft (assist by F. VanVleet),99-110, ,,4,110,99,11,2575.0
+4:47.0, ,99-110,J. Jaquez misses 3-pt jump shot from 26 ft,,4,110,99,11,2593.0
+4:44.0,Defensive rebound by J. Tate,99-110, ,,4,110,99,11,2596.0
+4:30.0,F. VanVleet misses 3-pt jump shot from 26 ft,99-110, ,,4,110,99,11,2610.0
+4:28.0,Offensive rebound by J. Tate,99-110, ,,4,110,99,11,2612.0
+4:21.0,F. VanVleet makes 2-pt jump shot from 7 ft (assist by A. Holiday),101-110, ,,4,110,101,9,2619.0
+4:20.0, ,101-110,Miami full timeout,,4,110,101,9,2620.0
+4:04.0, ,101-110,T. Herro misses 2-pt jump shot from 10 ft,,4,110,101,9,2636.0
+4:02.0,Defensive rebound by F. VanVleet,101-110, ,,4,110,101,9,2638.0
+3:58.0,F. VanVleet misses 2-pt layup from 5 ft,101-110, ,,4,110,101,9,2642.0
+3:57.0,Offensive rebound by A. Sengun,101-110, ,,4,110,101,9,2643.0
+3:57.0,A. Sengun misses 2-pt layup at rim,101-110, ,,4,110,101,9,2643.0
+3:57.0,Offensive rebound by Team,101-110, ,,4,110,101,9,2643.0
+3:57.0, ,101-110,Loose ball foul by B. Adebayo (drawn by A. Sengun),,4,110,101,9,2643.0
+3:57.0,A. Sengun makes free throw 1 of 2,102-110, ,,4,110,102,8,2643.0
+3:57.0,A. Sengun misses free throw 2 of 2,102-110, ,,4,110,102,8,2643.0
+3:55.0, ,102-110,Defensive rebound by B. Adebayo,,4,110,102,8,2645.0
+3:46.0, ,102-110,Personal foul by A. Sengun (drawn by D. Robinson),,4,110,102,8,2654.0
+3:46.0, ,102-111,D. Robinson makes free throw 1 of 2,,4,111,102,9,2654.0
+3:46.0, ,102-112,D. Robinson makes free throw 2 of 2,,4,112,102,10,2654.0
+3:35.0,Personal foul by T. Herro (drawn by J. Tate),102-112, ,,4,112,102,10,2665.0
+3:35.0,J. Tate makes free throw 1 of 2,103-112, ,,4,112,103,9,2665.0
+3:35.0,J. Tate makes free throw 2 of 2,104-112, ,,4,112,104,8,2665.0
+3:22.0, ,104-112,D. Robinson misses 3-pt jump shot from 27 ft,,4,112,104,8,2678.0
+3:19.0,Defensive rebound by A. Holiday,104-112, ,,4,112,104,8,2681.0
+3:15.0,Houston full timeout,104-112, ,,4,112,104,8,2685.0
+3:08.0,A. Sengun makes 2-pt dunk from 3 ft,106-112, ,,4,112,106,6,2692.0
+2:53.0, ,106-114,T. Herro makes 2-pt jump shot from 11 ft (assist by J. Richardson),,4,114,106,8,2707.0
+2:53.0, ,106-114,Shooting foul by J. Tate (drawn by T. Herro),,4,114,106,8,2707.0
+2:53.0, ,106-115,T. Herro makes free throw 1 of 1,,4,115,106,9,2707.0
+2:37.0,A. Sengun misses 2-pt jump shot from 18 ft,106-115, ,,4,115,106,9,2723.0
+2:34.0,Offensive rebound by Team,106-115, ,,4,115,106,9,2726.0
+2:34.0,Jump ball: A. Sengun vs. B. Adebayo (F. VanVleet gains possession),106-115,,,4,115,106,9,2726.0
+2:27.0,A. Sengun misses 3-pt jump shot from 26 ft,106-115, ,,4,115,106,9,2733.0
+2:24.0, ,106-115,Defensive rebound by B. Adebayo,,4,115,106,9,2736.0
+2:06.0, ,106-115,B. Adebayo misses 2-pt jump shot from 16 ft,,4,115,106,9,2754.0
+2:03.0,Defensive rebound by J. Green,106-115, ,,4,115,106,9,2757.0
+2:00.0,Shooting foul by D. Robinson (drawn by F. VanVleet),106-115, ,,4,115,106,9,2760.0
+2:00.0, ,106-115,K. Love enters the game for D. Robinson,,4,115,106,9,2760.0
+2:00.0,F. VanVleet makes free throw 1 of 2,107-115, ,,4,115,107,8,2760.0
+2:00.0,F. VanVleet makes free throw 2 of 2,108-115, ,,4,115,108,7,2760.0
+1:39.0, ,108-118,T. Herro makes 3-pt jump shot from 24 ft (assist by K. Love),,4,118,108,10,2781.0
+1:31.0,F. VanVleet misses 3-pt jump shot from 25 ft,108-118, ,,4,118,108,10,2789.0
+1:28.0, ,108-118,Defensive rebound by B. Adebayo,,4,118,108,10,2792.0
+1:05.0, ,108-118,J. Jaquez misses 2-pt jump shot from 12 ft,,4,118,108,10,2815.0
+1:03.0,Defensive rebound by A. Sengun,108-118, ,,4,118,108,10,2817.0
+1:00.0,J. Green misses 3-pt jump shot from 29 ft,108-118, ,,4,118,108,10,2820.0
+0:58.0, ,108-118,Defensive rebound by Team,,4,118,108,10,2822.0
+0:58.0,Loose ball foul by J. Tate (drawn by K. Love),108-118, ,,4,118,108,10,2822.0
+0:58.0, ,108-118,K. Love misses free throw 1 of 2,,4,118,108,10,2822.0
+0:58.0, ,108-118,Offensive rebound by Team,,4,118,108,10,2822.0
+0:58.0, ,108-119,K. Love makes free throw 2 of 2,,4,119,108,11,2822.0
+0:47.0,A. Sengun makes 2-pt jump shot from 8 ft (assist by J. Green),110-119, ,,4,119,110,9,2833.0
+0:23.0, ,110-119,Shooting foul by A. Sengun (drawn by B. Adebayo),,4,119,110,9,2857.0
+0:23.0,C. Whitmore enters the game for A. Sengun,110-119, ,,4,119,110,9,2857.0
+0:23.0, ,110-119,B. Adebayo misses free throw 1 of 2,,4,119,110,9,2857.0
+0:23.0, ,110-119,Offensive rebound by Team,,4,119,110,9,2857.0
+0:23.0, ,110-120,B. Adebayo makes free throw 2 of 2,,4,120,110,10,2857.0
+0:19.0,F. VanVleet misses 3-pt jump shot from 29 ft,110-120, ,,4,120,110,10,2861.0
+0:16.0,Offensive rebound by F. VanVleet,110-120, ,,4,120,110,10,2864.0
+0:15.0,F. VanVleet makes 3-pt jump shot from 27 ft,113-120, ,,4,120,113,7,2865.0
+0:00.0,End of 4th quarter,113-120,,,4,120,113,7,2880.0

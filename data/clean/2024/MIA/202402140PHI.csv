@@ -1,0 +1,430 @@
+Time,Miami,Score,Philadelphia,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. P. Reed (D. Robinson gains possession),0-0,,,1,0,0,0,0.0
+11:44.0,Turnover by N. Jović (lost ball; steal by K. Oubre),0-0, ,,1,0,0,0,16.0
+11:39.0, ,0-2,T. Maxey makes 2-pt layup from 2 ft,,1,0,2,-2,21.0
+11:17.0,C. Martin makes 2-pt layup from 1 ft,2-2, ,Tie,1,2,2,0,43.0
+10:57.0, ,2-5,K. Martin makes 3-pt jump shot from 24 ft (assist by B. Hield),,1,2,5,-3,63.0
+10:45.0,T. Herro makes 3-pt jump shot from 27 ft,5-5, ,Tie,1,5,5,0,75.0
+10:28.0, ,5-7,K. Martin makes 2-pt dunk from 1 ft (assist by T. Maxey),,1,5,7,-2,92.0
+10:16.0,Shooting foul by B. Hield (drawn by T. Herro),5-7, ,,1,5,7,-2,104.0
+10:16.0,T. Herro makes free throw 1 of 2,6-7, ,,1,6,7,-1,104.0
+10:16.0,T. Herro makes free throw 2 of 2,7-7, ,Tie,1,7,7,0,104.0
+10:06.0, ,7-7,B. Hield misses 3-pt jump shot from 27 ft,,1,7,7,0,114.0
+10:03.0,Defensive rebound by B. Adebayo,7-7, ,,1,7,7,0,117.0
+9:49.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by D. Robinson),9-7, ,Lead change,1,9,7,2,131.0
+9:38.0, ,9-9,T. Maxey makes 2-pt jump shot from 16 ft,Tie,1,9,9,0,142.0
+9:38.0, ,9-9,Shooting foul by C. Martin (drawn by T. Maxey),,1,9,9,0,142.0
+9:38.0, ,9-10,T. Maxey makes free throw 1 of 1,Lead change,1,9,10,-1,142.0
+9:28.0,B. Adebayo makes 2-pt dunk at rim (assist by D. Robinson),11-10, ,Lead change,1,11,10,1,152.0
+9:16.0, ,11-12,K. Oubre makes 2-pt jump shot from 13 ft (assist by K. Martin),Lead change,1,11,12,-1,164.0
+9:04.0,N. Jović misses 3-pt jump shot from 24 ft,11-12, ,,1,11,12,-1,176.0
+8:59.0, ,11-12,Defensive rebound by P. Reed,,1,11,12,-1,181.0
+8:52.0, ,11-14,T. Maxey makes 2-pt jump shot from 20 ft,,1,11,14,-3,188.0
+8:44.0,C. Martin misses 2-pt layup from 2 ft,11-14, ,,1,11,14,-3,196.0
+8:41.0, ,11-14,Defensive rebound by K. Martin,,1,11,14,-3,199.0
+8:37.0, ,11-17,B. Hield makes 3-pt jump shot from 24 ft,,1,11,17,-6,203.0
+8:16.0,B. Adebayo makes 2-pt jump shot from 9 ft,13-17, ,,1,13,17,-4,224.0
+7:57.0, ,13-17,K. Oubre misses 2-pt jump shot from 12 ft,,1,13,17,-4,243.0
+7:55.0,Defensive rebound by B. Adebayo,13-17, ,,1,13,17,-4,245.0
+7:43.0,B. Adebayo makes 2-pt layup from 3 ft,15-17, ,,1,15,17,-2,257.0
+7:21.0, ,15-20,B. Hield makes 3-pt jump shot from 26 ft (assist by T. Maxey),,1,15,20,-5,279.0
+7:07.0,T. Herro misses 2-pt jump shot from 15 ft,15-20, ,,1,15,20,-5,293.0
+7:05.0, ,15-20,Defensive rebound by P. Reed,,1,15,20,-5,295.0
+6:55.0, ,15-22,P. Reed makes 2-pt layup from 2 ft (assist by T. Maxey),,1,15,22,-7,305.0
+6:54.0,Miami full timeout,15-22, ,,1,15,22,-7,306.0
+6:38.0,B. Adebayo makes 2-pt jump shot from 9 ft,17-22, ,,1,17,22,-5,322.0
+6:17.0,Violation by Team (kicked ball),17-22, ,,1,17,22,-5,343.0
+6:08.0, ,17-22,T. Maxey misses 3-pt jump shot from 25 ft,,1,17,22,-5,352.0
+6:04.0,Defensive rebound by N. Jović,17-22, ,,1,17,22,-5,356.0
+6:02.0,Turnover by N. Jović (lost ball),17-22, ,,1,17,22,-5,358.0
+6:02.0,Loose ball foul by N. Jović (drawn by P. Reed),17-22, ,,1,17,22,-5,358.0
+5:50.0, ,17-24,B. Hield makes 2-pt layup from 2 ft,,1,17,24,-7,370.0
+5:30.0,N. Jović makes 3-pt jump shot from 26 ft (assist by C. Martin),20-24, ,,1,20,24,-4,390.0
+5:17.0, ,20-24,K. Martin misses 3-pt jump shot from 23 ft,,1,20,24,-4,403.0
+5:14.0,Defensive rebound by B. Adebayo,20-24, ,,1,20,24,-4,406.0
+5:11.0,T. Herro makes 2-pt layup from 1 ft,22-24, ,,1,22,24,-2,409.0
+5:11.0,Shooting foul by K. Oubre (drawn by T. Herro),22-24, ,,1,22,24,-2,409.0
+5:11.0,H. Highsmith enters the game for B. Adebayo,22-24, ,,1,22,24,-2,409.0
+5:11.0,J. Jaquez enters the game for N. Jović,22-24, ,,1,22,24,-2,409.0
+5:11.0,K. Love enters the game for D. Robinson,22-24, ,,1,22,24,-2,409.0
+5:11.0, ,22-24,R. Council enters the game for B. Hield,,1,22,24,-2,409.0
+5:11.0, ,22-24,C. Payne enters the game for K. Martin,,1,22,24,-2,409.0
+5:11.0,T. Herro misses free throw 1 of 1,22-24, ,,1,22,24,-2,409.0
+5:08.0, ,22-24,Defensive rebound by C. Payne,,1,22,24,-2,412.0
+4:57.0, ,22-24,K. Oubre misses 3-pt jump shot from 24 ft,,1,22,24,-2,423.0
+4:56.0, ,22-24,Offensive rebound by Team,,1,22,24,-2,424.0
+4:56.0,Loose ball foul by C. Martin (drawn by P. Reed),22-24, ,,1,22,24,-2,424.0
+4:56.0,D. Robinson enters the game for T. Herro,22-24, ,,1,22,24,-2,424.0
+4:43.0, ,22-24,K. Oubre misses 2-pt jump shot from 15 ft,,1,22,24,-2,437.0
+4:39.0, ,22-24,Offensive rebound by Team,,1,22,24,-2,441.0
+4:39.0,J. Cain enters the game for C. Martin,22-24, ,,1,22,24,-2,441.0
+4:39.0,Jump ball: P. Reed vs. K. Love (K. Oubre gains possession),22-24,,,1,22,24,-2,441.0
+4:29.0, ,22-24,T. Maxey misses 2-pt jump shot from 13 ft,,1,22,24,-2,451.0
+4:27.0, ,22-24,Offensive rebound by P. Reed,,1,22,24,-2,453.0
+4:25.0, ,22-24,P. Reed misses 2-pt jump shot from 8 ft,,1,22,24,-2,455.0
+4:23.0,Defensive rebound by H. Highsmith,22-24, ,,1,22,24,-2,457.0
+4:09.0,Shooting foul by R. Council (drawn by J. Cain),22-24, ,,1,22,24,-2,471.0
+4:09.0,J. Cain makes free throw 1 of 2,23-24, ,,1,23,24,-1,471.0
+4:09.0,J. Cain makes free throw 2 of 2,24-24, ,Tie,1,24,24,0,471.0
+3:57.0, ,24-27,T. Maxey makes 3-pt jump shot from 28 ft (assist by C. Payne),,1,24,27,-3,483.0
+3:48.0,J. Jaquez misses 2-pt layup from 6 ft (block by P. Reed),24-27, ,,1,24,27,-3,492.0
+3:45.0, ,24-27,Defensive rebound by T. Maxey,,1,24,27,-3,495.0
+3:45.0, ,24-27,Shooting foul by D. Robinson (drawn by K. Oubre),,1,24,27,-3,495.0
+3:45.0, ,24-28,K. Oubre makes free throw 1 of 2,,1,24,28,-4,495.0
+3:45.0, ,24-28,M. Bamba enters the game for T. Maxey,,1,24,28,-4,495.0
+3:45.0, ,24-28,B. Hield enters the game for P. Reed,,1,24,28,-4,495.0
+3:45.0, ,24-28,K. Oubre misses free throw 2 of 2,,1,24,28,-4,495.0
+3:44.0, ,24-28,Offensive rebound by Team,,1,24,28,-4,496.0
+3:42.0, ,24-28,Shooting foul by K. Love (drawn by M. Bamba),,1,24,28,-4,498.0
+3:42.0, ,24-29,M. Bamba makes free throw 1 of 2,,1,24,29,-5,498.0
+3:42.0, ,24-29,M. Bamba misses free throw 2 of 2,,1,24,29,-5,498.0
+3:40.0,Defensive rebound by J. Jaquez,24-29, ,,1,24,29,-5,500.0
+3:34.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by J. Jaquez),27-29, ,,1,27,29,-2,506.0
+3:20.0, ,27-29,Turnover by R. Council (traveling),,1,27,29,-2,520.0
+3:08.0,H. Highsmith misses 3-pt jump shot from 27 ft,27-29, ,,1,27,29,-2,532.0
+3:03.0, ,27-29,Defensive rebound by R. Council,,1,27,29,-2,537.0
+2:50.0, ,27-29,K. Oubre misses 3-pt jump shot from 24 ft,,1,27,29,-2,550.0
+2:47.0,Defensive rebound by K. Love,27-29, ,,1,27,29,-2,553.0
+2:43.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by K. Love),30-29, ,Lead change,1,30,29,1,557.0
+2:35.0, ,30-29,Philadelphia full timeout,,1,30,29,1,565.0
+2:17.0, ,30-29,Turnover by M. Bamba (lost ball; steal by J. Cain),,1,30,29,1,583.0
+2:01.0,J. Cain misses 3-pt jump shot from 23 ft,30-29, ,,1,30,29,1,599.0
+1:57.0, ,30-29,Defensive rebound by R. Council,,1,30,29,1,603.0
+1:50.0, ,30-29,Shooting foul by D. Robinson (drawn by M. Bamba),,1,30,29,1,610.0
+1:50.0, ,30-29,M. Bamba misses free throw 1 of 2,,1,30,29,1,610.0
+1:50.0, ,30-29,Offensive rebound by Team,,1,30,29,1,610.0
+1:50.0, ,30-29,M. Bamba misses free throw 2 of 2,,1,30,29,1,610.0
+1:47.0,Defensive rebound by K. Love,30-29, ,,1,30,29,1,613.0
+1:28.0,H. Highsmith makes 3-pt jump shot from 24 ft (assist by J. Cain),33-29, ,,1,33,29,4,632.0
+1:14.0, ,33-29,Shooting foul by D. Robinson (drawn by R. Council),,1,33,29,4,646.0
+1:14.0, ,33-30,R. Council makes free throw 1 of 2,,1,33,30,3,646.0
+1:14.0,T. Herro enters the game for D. Robinson,33-30, ,,1,33,30,3,646.0
+1:14.0, ,33-31,R. Council makes free throw 2 of 2,,1,33,31,2,646.0
+0:58.0,K. Love misses 3-pt jump shot from 28 ft,33-31, ,,1,33,31,2,662.0
+0:55.0, ,33-31,Defensive rebound by B. Hield,,1,33,31,2,665.0
+0:48.0, ,33-33,R. Council makes 2-pt jump shot from 5 ft (assist by B. Hield),Tie,1,33,33,0,672.0
+0:37.0,J. Jaquez misses 3-pt jump shot from 23 ft,33-33, ,,1,33,33,0,683.0
+0:33.0, ,33-33,Defensive rebound by R. Council,,1,33,33,0,687.0
+0:27.0, ,33-33,K. Oubre misses 3-pt jump shot from 23 ft,,1,33,33,0,693.0
+0:24.0,Defensive rebound by K. Love,33-33, ,,1,33,33,0,696.0
+0:05.0,H. Highsmith misses 3-pt jump shot from 23 ft,33-33, ,,1,33,33,0,715.0
+0:03.0, ,33-33,Defensive rebound by M. Bamba,,1,33,33,0,717.0
+0:00.0, ,33-33,C. Payne misses 3-pt jump shot from 29 ft,,1,33,33,0,720.0
+0:00.0, ,33-33,Offensive rebound by Team,,1,33,33,0,720.0
+0:00.0,End of 1st quarter,33-33,,,1,33,33,0,720.0
+12:00.0,Start of 2nd quarter,33-33,,,2,33,33,0,720.0
+11:44.0, ,33-36,B. Hield makes 3-pt jump shot from 28 ft (assist by T. Maxey),Lead change,2,33,36,-3,736.0
+11:22.0,J. Jaquez makes 2-pt layup from 1 ft (assist by T. Herro),35-36, ,,2,35,36,-1,758.0
+11:06.0, ,35-36,T. Maxey misses 3-pt jump shot from 27 ft,,2,35,36,-1,774.0
+11:02.0,Defensive rebound by B. Adebayo,35-36, ,,2,35,36,-1,778.0
+10:59.0,T. Herro misses 3-pt jump shot from 27 ft,35-36, ,,2,35,36,-1,781.0
+10:54.0, ,35-36,Defensive rebound by P. Reed,,2,35,36,-1,786.0
+10:49.0, ,35-36,C. Payne misses 3-pt jump shot from 26 ft,,2,35,36,-1,791.0
+10:46.0,Defensive rebound by B. Adebayo,35-36, ,,2,35,36,-1,794.0
+10:36.0,J. Jaquez makes 2-pt layup from 1 ft (assist by T. Herro),37-36, ,Lead change,2,37,36,1,804.0
+10:25.0, ,37-36,R. Council misses 3-pt jump shot from 26 ft,,2,37,36,1,815.0
+10:21.0,Defensive rebound by J. Cain,37-36, ,,2,37,36,1,819.0
+10:18.0,Turnover by J. Cain (bad pass; steal by B. Hield),37-36, ,,2,37,36,1,822.0
+10:13.0, ,37-36,P. Reed misses 2-pt layup from 4 ft,,2,37,36,1,827.0
+10:11.0, ,37-36,Offensive rebound by P. Reed,,2,37,36,1,829.0
+10:07.0, ,37-38,R. Council makes 2-pt layup from 2 ft (assist by P. Reed),Lead change,2,37,38,-1,833.0
+10:00.0,H. Highsmith misses 2-pt hook shot from 2 ft,37-38, ,,2,37,38,-1,840.0
+9:57.0, ,37-38,Defensive rebound by T. Maxey,,2,37,38,-1,843.0
+9:45.0, ,37-38,T. Maxey misses 2-pt layup from 4 ft,,2,37,38,-1,855.0
+9:43.0,Defensive rebound by B. Adebayo,37-38, ,,2,37,38,-1,857.0
+9:37.0,T. Herro makes 2-pt layup from 2 ft,39-38, ,Lead change,2,39,38,1,863.0
+9:26.0, ,39-38,R. Council misses 2-pt layup from 1 ft,,2,39,38,1,874.0
+9:26.0,Defensive rebound by J. Jaquez,39-38, ,,2,39,38,1,874.0
+9:20.0,H. Highsmith misses 3-pt jump shot from 23 ft,39-38, ,,2,39,38,1,880.0
+9:16.0, ,39-38,Defensive rebound by T. Maxey,,2,39,38,1,884.0
+9:13.0, ,39-41,B. Hield makes 3-pt jump shot from 26 ft (assist by T. Maxey),Lead change,2,39,41,-2,887.0
+8:59.0,Personal foul by P. Reed (drawn by B. Adebayo),39-41, ,,2,39,41,-2,901.0
+8:59.0, ,39-41,K. Martin enters the game for R. Council,,2,39,41,-2,901.0
+8:53.0,J. Jaquez makes 2-pt layup from 1 ft (assist by B. Adebayo),41-41, ,Tie,2,41,41,0,907.0
+8:41.0, ,41-41,K. Martin misses 2-pt jump shot from 4 ft,,2,41,41,0,919.0
+8:33.0, ,41-41,Offensive rebound by P. Reed,,2,41,41,0,927.0
+8:30.0, ,41-41,Turnover by B. Hield (back court),,2,41,41,0,930.0
+8:15.0,H. Highsmith misses 3-pt jump shot from 26 ft,41-41, ,,2,41,41,0,945.0
+8:11.0, ,41-41,Defensive rebound by P. Reed,,2,41,41,0,949.0
+7:54.0, ,41-44,P. Reed makes 3-pt jump shot from 27 ft (assist by C. Payne),,2,41,44,-3,966.0
+7:33.0,H. Highsmith makes 3-pt jump shot from 24 ft (assist by T. Herro),44-44, ,Tie,2,44,44,0,987.0
+7:21.0, ,44-46,T. Maxey makes 2-pt jump shot from 9 ft,,2,44,46,-2,999.0
+7:12.0,T. Herro misses 3-pt jump shot from 27 ft,44-46, ,,2,44,46,-2,1008.0
+7:10.0, ,44-46,Defensive rebound by Team,,2,44,46,-2,1010.0
+7:10.0,C. Martin enters the game for J. Cain,44-46, ,,2,44,46,-2,1010.0
+6:57.0, ,44-46,T. Maxey misses 3-pt jump shot from 26 ft,,2,44,46,-2,1023.0
+6:53.0,Defensive rebound by T. Herro,44-46, ,,2,44,46,-2,1027.0
+6:42.0,H. Highsmith makes 2-pt dunk at rim (assist by B. Adebayo),46-46, ,Tie,2,46,46,0,1038.0
+6:19.0, ,46-48,K. Martin makes 2-pt layup from 3 ft (assist by B. Hield),,2,46,48,-2,1061.0
+6:10.0,Personal foul by C. Payne (drawn by T. Herro),46-48, ,,2,46,48,-2,1070.0
+6:10.0, ,46-48,Philadelphia full timeout,,2,46,48,-2,1070.0
+6:10.0,N. Jović enters the game for J. Jaquez,46-48, ,,2,46,48,-2,1070.0
+6:10.0, ,46-48,K. Oubre enters the game for C. Payne,,2,46,48,-2,1070.0
+6:03.0,Turnover by T. Herro (bad pass),46-48, ,,2,46,48,-2,1077.0
+5:51.0, ,46-48,Turnover by T. Maxey (bad pass; steal by C. Martin),,2,46,48,-2,1089.0
+5:45.0,B. Adebayo misses 2-pt jump shot from 6 ft,46-48, ,,2,46,48,-2,1095.0
+5:43.0,Offensive rebound by C. Martin,46-48, ,,2,46,48,-2,1097.0
+5:40.0,H. Highsmith makes 3-pt jump shot from 23 ft (assist by N. Jović),49-48, ,Lead change,2,49,48,1,1100.0
+5:15.0, ,49-50,K. Oubre makes 2-pt jump shot from 6 ft (assist by B. Hield),Lead change,2,49,50,-1,1125.0
+5:02.0,T. Herro makes 2-pt layup from 3 ft (assist by N. Jović),51-50, ,Lead change,2,51,50,1,1138.0
+4:53.0, ,51-50,Personal foul by N. Jović (drawn by K. Martin),,2,51,50,1,1147.0
+4:53.0,J. Jaquez enters the game for T. Herro,51-50, ,,2,51,50,1,1147.0
+4:40.0, ,51-52,K. Martin makes 2-pt dunk from 1 ft (assist by P. Reed),Lead change,2,51,52,-1,1160.0
+4:25.0,C. Martin misses 2-pt jump shot from 18 ft,51-52, ,,2,51,52,-1,1175.0
+4:23.0, ,51-52,Defensive rebound by P. Reed,,2,51,52,-1,1177.0
+4:19.0, ,51-54,B. Hield makes 2-pt jump shot from 23 ft (assist by T. Maxey),,2,51,54,-3,1181.0
+4:02.0,Personal foul by P. Reed (drawn by B. Adebayo),51-54, ,,2,51,54,-3,1198.0
+3:48.0,J. Jaquez misses 3-pt jump shot from 26 ft,51-54, ,,2,51,54,-3,1212.0
+3:43.0, ,51-54,Defensive rebound by K. Oubre,,2,51,54,-3,1217.0
+3:35.0, ,51-54,Personal foul by N. Jović (drawn by K. Oubre),,2,51,54,-3,1225.0
+3:35.0, ,51-54,Instant Replay,,2,51,54,-3,1225.0
+3:35.0,D. Robinson enters the game for N. Jović,51-54, ,,2,51,54,-3,1225.0
+3:17.0, ,51-54,B. Hield misses 3-pt jump shot from 29 ft,,2,51,54,-3,1243.0
+3:15.0, ,51-54,Offensive rebound by K. Martin,,2,51,54,-3,1245.0
+3:09.0, ,51-54,Turnover by T. Maxey (lost ball; steal by J. Jaquez),,2,51,54,-3,1251.0
+3:04.0,D. Robinson makes 2-pt layup from 1 ft (assist by J. Jaquez),53-54, ,,2,53,54,-1,1256.0
+3:04.0,Shooting foul by B. Hield (drawn by D. Robinson),53-54, ,,2,53,54,-1,1256.0
+3:04.0,D. Robinson makes free throw 1 of 1,54-54, ,Tie,2,54,54,0,1256.0
+2:48.0, ,54-54,Def 3 sec tech foul by Team,,2,54,54,0,1272.0
+2:48.0,Miami full timeout,54-54, ,,2,54,54,0,1272.0
+2:48.0,T. Herro enters the game for D. Robinson,54-54, ,,2,54,54,0,1272.0
+2:48.0, ,54-55,B. Hield makes technical free throw,,2,54,55,-1,1272.0
+2:38.0, ,54-55,Offensive foul by K. Oubre (drawn by C. Martin),,2,54,55,-1,1282.0
+2:38.0, ,54-55,Turnover by K. Oubre (offensive foul),,2,54,55,-1,1282.0
+2:26.0,Offensive foul by H. Highsmith (drawn by T. Maxey),54-55, ,,2,54,55,-1,1294.0
+2:26.0,Turnover by H. Highsmith (offensive foul),54-55, ,,2,54,55,-1,1294.0
+2:10.0, ,54-55,K. Martin misses 2-pt jump shot from 7 ft,,2,54,55,-1,1310.0
+2:06.0,Defensive rebound by J. Jaquez,54-55, ,,2,54,55,-1,1314.0
+2:05.0,T. Herro makes 2-pt layup from 2 ft (assist by C. Martin),56-55, ,Lead change,2,56,55,1,1315.0
+2:05.0, ,56-55,Violation by Team (def goaltending),,2,56,55,1,1315.0
+1:56.0, ,56-55,Turnover by B. Hield (lost ball; steal by H. Highsmith),,2,56,55,1,1324.0
+1:52.0,T. Herro misses 3-pt jump shot from 26 ft,56-55, ,,2,56,55,1,1328.0
+1:49.0, ,56-55,Defensive rebound by P. Reed,,2,56,55,1,1331.0
+1:45.0, ,56-58,T. Maxey makes 3-pt jump shot from 27 ft (assist by K. Oubre),Lead change,2,56,58,-2,1335.0
+1:33.0,Shooting foul by K. Martin (drawn by C. Martin),56-58, ,,2,56,58,-2,1347.0
+1:33.0,C. Martin makes free throw 1 of 2,57-58, ,,2,57,58,-1,1347.0
+1:33.0,C. Martin makes free throw 2 of 2,58-58, ,Tie,2,58,58,0,1347.0
+1:13.0, ,58-60,P. Reed makes 2-pt layup from 1 ft (assist by K. Martin),,2,58,60,-2,1367.0
+1:04.0,T. Herro makes 2-pt layup from 3 ft,60-60, ,Tie,2,60,60,0,1376.0
+0:52.0, ,60-60,B. Hield misses 3-pt jump shot from 27 ft,,2,60,60,0,1388.0
+0:50.0,Defensive rebound by T. Herro,60-60, ,,2,60,60,0,1390.0
+0:46.0,Turnover by C. Martin (out of bounds lost ball),60-60, ,,2,60,60,0,1394.0
+0:46.0,J. Cain enters the game for C. Martin,60-60, ,,2,60,60,0,1394.0
+0:46.0, ,60-60,C. Payne enters the game for K. Martin,,2,60,60,0,1394.0
+0:34.0, ,60-60,Turnover by T. Maxey (bad pass; steal by H. Highsmith),,2,60,60,0,1406.0
+0:28.0,J. Cain misses 2-pt dunk from 2 ft,60-60, ,,2,60,60,0,1412.0
+0:24.0,Offensive rebound by T. Herro,60-60, ,,2,60,60,0,1416.0
+0:23.0,T. Herro misses 2-pt layup from 6 ft,60-60, ,,2,60,60,0,1417.0
+0:21.0, ,60-60,Defensive rebound by P. Reed,,2,60,60,0,1419.0
+0:01.0, ,60-62,T. Maxey makes 2-pt jump shot from 10 ft (assist by B. Hield),,2,60,62,-2,1439.0
+0:00.0,End of 2nd quarter,60-62,,,2,60,62,-2,1440.0
+12:00.0,Start of 3rd quarter,60-62,,,3,60,62,-2,1440.0
+11:42.0, ,60-62,Turnover by K. Martin (bad pass; steal by B. Adebayo),,3,60,62,-2,1458.0
+11:37.0,B. Adebayo misses 2-pt layup from 2 ft,60-62, ,,3,60,62,-2,1463.0
+11:34.0, ,60-62,Defensive rebound by K. Martin,,3,60,62,-2,1466.0
+11:29.0, ,60-64,K. Oubre makes 2-pt layup from 1 ft (assist by B. Hield),,3,60,64,-4,1471.0
+11:08.0,B. Adebayo misses 2-pt jump shot from 7 ft,60-64, ,,3,60,64,-4,1492.0
+11:06.0, ,60-64,Defensive rebound by K. Martin,,3,60,64,-4,1494.0
+10:52.0, ,60-64,K. Oubre misses 3-pt jump shot from 24 ft,,3,60,64,-4,1508.0
+10:49.0,Defensive rebound by D. Robinson,60-64, ,,3,60,64,-4,1511.0
+10:41.0,C. Martin misses 3-pt jump shot from 23 ft,60-64, ,,3,60,64,-4,1519.0
+10:38.0, ,60-64,Defensive rebound by T. Maxey,,3,60,64,-4,1522.0
+10:25.0, ,60-66,T. Maxey makes 2-pt layup from 2 ft,,3,60,66,-6,1535.0
+10:25.0, ,60-66,Shooting foul by B. Adebayo (drawn by T. Maxey),,3,60,66,-6,1535.0
+10:25.0, ,60-67,T. Maxey makes free throw 1 of 1,,3,60,67,-7,1535.0
+10:18.0,Personal foul by K. Oubre (drawn by N. Jović),60-67, ,,3,60,67,-7,1542.0
+10:02.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by C. Martin),63-67, ,,3,63,67,-4,1558.0
+9:40.0, ,63-67,K. Oubre misses 2-pt layup from 5 ft,,3,63,67,-4,1580.0
+9:38.0,Defensive rebound by N. Jović,63-67, ,,3,63,67,-4,1582.0
+9:23.0,T. Herro misses 3-pt jump shot from 26 ft,63-67, ,,3,63,67,-4,1597.0
+9:20.0, ,63-67,Defensive rebound by T. Maxey,,3,63,67,-4,1600.0
+9:13.0, ,63-67,T. Maxey misses 3-pt jump shot from 26 ft,,3,63,67,-4,1607.0
+9:10.0,Defensive rebound by N. Jović,63-67, ,,3,63,67,-4,1610.0
+8:59.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by N. Jović),65-67, ,,3,65,67,-2,1621.0
+8:59.0,Shooting foul by K. Oubre (drawn by B. Adebayo),65-67, ,,3,65,67,-2,1621.0
+8:59.0, ,65-67,C. Payne enters the game for T. Maxey,,3,65,67,-2,1621.0
+8:59.0,B. Adebayo makes free throw 1 of 1,66-67, ,,3,66,67,-1,1621.0
+8:44.0, ,66-69,C. Payne makes 2-pt jump shot from 7 ft,,3,66,69,-3,1636.0
+8:26.0,C. Martin misses 3-pt jump shot from 27 ft,66-69, ,,3,66,69,-3,1654.0
+8:23.0,Offensive rebound by B. Adebayo,66-69, ,,3,66,69,-3,1657.0
+8:17.0,Shooting foul by P. Reed (drawn by B. Adebayo),66-69, ,,3,66,69,-3,1663.0
+8:17.0,B. Adebayo makes free throw 1 of 2,67-69, ,,3,67,69,-2,1663.0
+8:17.0, ,67-69,R. Council enters the game for K. Oubre,,3,67,69,-2,1663.0
+8:17.0,B. Adebayo makes free throw 2 of 2,68-69, ,,3,68,69,-1,1663.0
+7:52.0, ,68-69,B. Hield misses 2-pt jump shot from 9 ft,,3,68,69,-1,1688.0
+7:50.0,Defensive rebound by B. Adebayo,68-69, ,,3,68,69,-1,1690.0
+7:38.0,T. Herro misses 3-pt jump shot from 26 ft,68-69, ,,3,68,69,-1,1702.0
+7:35.0, ,68-69,Defensive rebound by K. Martin,,3,68,69,-1,1705.0
+7:23.0, ,68-69,R. Council misses 3-pt jump shot from 26 ft,,3,68,69,-1,1717.0
+7:20.0, ,68-69,Offensive rebound by C. Payne,,3,68,69,-1,1720.0
+7:19.0, ,68-69,C. Payne misses 3-pt jump shot from 26 ft,,3,68,69,-1,1721.0
+7:18.0, ,68-69,Offensive rebound by Team,,3,68,69,-1,1722.0
+7:18.0,Loose ball foul by N. Jović (drawn by R. Council),68-69, ,,3,68,69,-1,1722.0
+7:18.0,H. Highsmith enters the game for N. Jović,68-69, ,,3,68,69,-1,1722.0
+7:09.0, ,68-71,P. Reed makes 2-pt jump shot from 14 ft (assist by B. Hield),,3,68,71,-3,1731.0
+6:58.0,Offensive foul by T. Herro (drawn by C. Payne),68-71, ,,3,68,71,-3,1742.0
+6:58.0,Turnover by T. Herro (offensive foul),68-71, ,,3,68,71,-3,1742.0
+6:58.0, ,68-71,Philadelphia full timeout,,3,68,71,-3,1742.0
+6:58.0, ,68-71,T. Smith enters the game for K. Martin,,3,68,71,-3,1742.0
+6:42.0, ,68-73,P. Reed makes 2-pt layup from 3 ft (assist by R. Council),,3,68,73,-5,1758.0
+6:25.0,Personal foul by B. Hield (drawn by C. Martin),68-73, ,,3,68,73,-5,1775.0
+6:14.0,C. Martin misses 3-pt jump shot from 23 ft,68-73, ,,3,68,73,-5,1786.0
+6:07.0, ,68-73,Defensive rebound by P. Reed,,3,68,73,-5,1793.0
+5:59.0, ,68-73,C. Payne misses 2-pt jump shot from 21 ft,,3,68,73,-5,1801.0
+5:58.0,Defensive rebound by Team,68-73, ,,3,68,73,-5,1802.0
+5:44.0,C. Martin misses 3-pt jump shot from 25 ft,68-73, ,,3,68,73,-5,1816.0
+5:41.0, ,68-73,Defensive rebound by R. Council,,3,68,73,-5,1819.0
+5:33.0, ,68-73,Turnover by B. Hield (bad pass; steal by B. Adebayo),,3,68,73,-5,1827.0
+5:25.0,Turnover by D. Robinson (bad pass; steal by B. Hield),68-73, ,,3,68,73,-5,1835.0
+5:05.0, ,68-73,C. Payne misses 3-pt jump shot from 27 ft,,3,68,73,-5,1855.0
+5:02.0,Defensive rebound by T. Herro,68-73, ,,3,68,73,-5,1858.0
+4:58.0,D. Robinson makes 2-pt layup from 1 ft (assist by T. Herro),70-73, ,,3,70,73,-3,1862.0
+4:50.0, ,70-75,P. Reed makes 2-pt layup from 2 ft (assist by C. Payne),,3,70,75,-5,1870.0
+4:31.0,B. Adebayo makes 2-pt layup from 2 ft (assist by H. Highsmith),72-75, ,,3,72,75,-3,1889.0
+4:16.0, ,72-75,T. Smith misses 3-pt jump shot from 28 ft,,3,72,75,-3,1904.0
+4:12.0,Defensive rebound by B. Adebayo,72-75, ,,3,72,75,-3,1908.0
+4:08.0,Turnover by B. Adebayo (bad pass),72-75, ,,3,72,75,-3,1912.0
+4:08.0,J. Jaquez enters the game for B. Adebayo,72-75, ,,3,72,75,-3,1912.0
+4:08.0,K. Love enters the game for T. Herro,72-75, ,,3,72,75,-3,1912.0
+4:08.0, ,72-75,T. Maxey enters the game for T. Smith,,3,72,75,-3,1912.0
+3:50.0, ,72-75,R. Council misses 2-pt jump shot from 10 ft,,3,72,75,-3,1930.0
+3:47.0,Defensive rebound by J. Jaquez,72-75, ,,3,72,75,-3,1933.0
+3:40.0,D. Robinson makes 3-pt jump shot from 23 ft (assist by J. Jaquez),75-75, ,Tie,3,75,75,0,1940.0
+3:21.0, ,75-75,P. Reed misses 2-pt jump shot from 11 ft,,3,75,75,0,1959.0
+3:19.0,Defensive rebound by J. Jaquez,75-75, ,,3,75,75,0,1961.0
+3:10.0,J. Jaquez misses 2-pt layup from 3 ft,75-75, ,,3,75,75,0,1970.0
+3:10.0,Offensive rebound by J. Jaquez,75-75, ,,3,75,75,0,1970.0
+3:10.0,J. Jaquez makes 2-pt layup from 3 ft,77-75, ,Lead change,3,77,75,2,1970.0
+3:10.0, ,77-75,Violation by Team (def goaltending),,3,77,75,2,1970.0
+3:03.0, ,77-75,C. Payne misses 3-pt jump shot from 26 ft,,3,77,75,2,1977.0
+3:00.0,Defensive rebound by K. Love,77-75, ,,3,77,75,2,1980.0
+2:52.0,C. Martin makes 2-pt layup from 3 ft (assist by D. Robinson),79-75, ,,3,79,75,4,1988.0
+2:26.0, ,79-77,R. Council makes 2-pt layup from 2 ft (assist by B. Hield),,3,79,77,2,2014.0
+2:16.0,Miami full timeout,79-77, ,,3,79,77,2,2024.0
+2:16.0, ,79-77,M. Bamba enters the game for B. Hield,,3,79,77,2,2024.0
+2:16.0, ,79-77,K. Martin enters the game for P. Reed,,3,79,77,2,2024.0
+2:09.0,J. Jaquez misses 2-pt jump shot from 10 ft,79-77, ,,3,79,77,2,2031.0
+2:05.0, ,79-77,Defensive rebound by M. Bamba,,3,79,77,2,2035.0
+1:47.0, ,79-80,R. Council makes 3-pt jump shot from 26 ft (assist by T. Maxey),Lead change,3,79,80,-1,2053.0
+1:32.0,H. Highsmith misses 3-pt jump shot from 23 ft,79-80, ,,3,79,80,-1,2068.0
+1:29.0, ,79-80,Defensive rebound by C. Payne,,3,79,80,-1,2071.0
+1:22.0, ,79-82,T. Maxey makes 2-pt layup from 2 ft (assist by R. Council),,3,79,82,-3,2078.0
+0:56.0,C. Martin makes 2-pt jump shot from 16 ft (assist by D. Robinson),81-82, ,,3,81,82,-1,2104.0
+0:41.0, ,81-82,Offensive foul by M. Bamba (drawn by K. Love),,3,81,82,-1,2119.0
+0:41.0, ,81-82,Turnover by M. Bamba (offensive foul),,3,81,82,-1,2119.0
+0:41.0,B. Adebayo enters the game for C. Martin,81-82, ,,3,81,82,-1,2119.0
+0:27.0,J. Jaquez misses 2-pt jump shot from 4 ft,81-82, ,,3,81,82,-1,2133.0
+0:26.0,Offensive rebound by K. Love,81-82, ,,3,81,82,-1,2134.0
+0:26.0,K. Love makes 2-pt layup at rim,83-82, ,Lead change,3,83,82,1,2134.0
+0:05.0, ,83-82,R. Council misses 3-pt jump shot from 26 ft,,3,83,82,1,2155.0
+0:01.0,Defensive rebound by J. Jaquez,83-82, ,,3,83,82,1,2159.0
+0:00.0,Turnover by J. Jaquez (traveling),83-82, ,,3,83,82,1,2160.0
+0:00.0,End of 3rd quarter,83-82,,,3,83,82,1,2160.0
+12:00.0,Start of 4th quarter,83-82,,,4,83,82,1,2160.0
+11:41.0,H. Highsmith misses 3-pt jump shot from 26 ft,83-82, ,,4,83,82,1,2179.0
+11:37.0, ,83-82,Defensive rebound by M. Bamba,,4,83,82,1,2183.0
+11:21.0, ,83-85,B. Hield makes 3-pt jump shot from 26 ft (assist by K. Oubre),Lead change,4,83,85,-2,2199.0
+11:06.0,Personal foul by T. Maxey (drawn by K. Love),83-85, ,,4,83,85,-2,2214.0
+11:00.0,T. Herro makes 2-pt jump shot from 14 ft (assist by B. Adebayo),85-85, ,Tie,4,85,85,0,2220.0
+10:44.0, ,85-87,R. Council makes 2-pt jump shot from 13 ft (assist by B. Hield),,4,85,87,-2,2236.0
+10:26.0,T. Herro misses 3-pt jump shot from 27 ft,85-87, ,,4,85,87,-2,2254.0
+10:23.0, ,85-87,Defensive rebound by K. Oubre,,4,85,87,-2,2257.0
+10:12.0, ,85-89,T. Maxey makes 2-pt jump shot from 12 ft (assist by B. Hield),,4,85,89,-4,2268.0
+9:52.0,B. Adebayo makes 2-pt hook shot from 5 ft,87-89, ,,4,87,89,-2,2288.0
+9:39.0, ,87-89,B. Hield misses 3-pt jump shot from 28 ft,,4,87,89,-2,2301.0
+9:36.0,Defensive rebound by K. Love,87-89, ,,4,87,89,-2,2304.0
+9:33.0,Personal foul by T. Maxey (drawn by B. Adebayo),87-89, ,,4,87,89,-2,2307.0
+9:33.0,D. Robinson enters the game for K. Love,87-89, ,,4,87,89,-2,2307.0
+9:33.0,Personal foul by M. Bamba (drawn by H. Highsmith),87-89, ,,4,87,89,-2,2307.0
+9:25.0,Turnover by D. Robinson (dbl dribble),87-89, ,,4,87,89,-2,2315.0
+9:09.0, ,87-89,Personal foul by J. Jaquez (drawn by R. Council),,4,87,89,-2,2331.0
+9:09.0, ,87-89,P. Reed enters the game for M. Bamba,,4,87,89,-2,2331.0
+8:58.0, ,87-89,P. Reed misses 2-pt layup from 3 ft,,4,87,89,-2,2342.0
+8:58.0,Defensive rebound by Team,87-89, ,,4,87,89,-2,2342.0
+8:58.0, ,87-89,Loose ball foul by K. Oubre (drawn by B. Adebayo),,4,87,89,-2,2342.0
+8:34.0,T. Herro makes 2-pt jump shot from 18 ft (assist by B. Adebayo),89-89, ,Tie,4,89,89,0,2366.0
+8:08.0, ,89-89,T. Maxey misses 2-pt jump shot from 14 ft,,4,89,89,0,2392.0
+8:08.0,Defensive rebound by Team,89-89, ,,4,89,89,0,2392.0
+8:08.0,Miami full timeout,89-89, ,,4,89,89,0,2392.0
+8:08.0,Instant Replay (Challenge: Ruling Stands),89-89, ,,4,89,89,0,2392.0
+7:42.0,T. Herro misses 2-pt jump shot from 9 ft,89-89, ,,4,89,89,0,2418.0
+7:39.0, ,89-89,Defensive rebound by B. Hield,,4,89,89,0,2421.0
+7:29.0, ,89-89,T. Maxey misses 2-pt jump shot from 15 ft,,4,89,89,0,2431.0
+7:24.0, ,89-89,Offensive rebound by T. Maxey,,4,89,89,0,2436.0
+7:24.0, ,89-91,T. Maxey makes 2-pt layup at rim,,4,89,91,-2,2436.0
+7:13.0,H. Highsmith makes 3-pt jump shot from 24 ft (assist by T. Herro),92-91, ,Lead change,4,92,91,1,2447.0
+6:46.0, ,92-91,T. Maxey misses 3-pt jump shot from 28 ft,,4,92,91,1,2474.0
+6:43.0,Defensive rebound by T. Herro,92-91, ,,4,92,91,1,2477.0
+6:34.0,T. Herro makes 2-pt layup from 4 ft,94-91, ,,4,94,91,3,2486.0
+6:17.0, ,94-93,B. Hield makes 2-pt jump shot from 14 ft,,4,94,93,1,2503.0
+5:51.0,D. Robinson misses 2-pt jump shot from 6 ft,94-93, ,,4,94,93,1,2529.0
+5:49.0,Offensive rebound by H. Highsmith,94-93, ,,4,94,93,1,2531.0
+5:49.0,H. Highsmith misses 2-pt layup from 3 ft,94-93, ,,4,94,93,1,2531.0
+5:49.0,Offensive rebound by Team,94-93, ,,4,94,93,1,2531.0
+5:49.0, ,94-93,K. Martin enters the game for R. Council,,4,94,93,1,2531.0
+5:39.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by T. Herro),97-93, ,,4,97,93,4,2541.0
+5:22.0, ,97-93,B. Hield misses 3-pt jump shot from 26 ft,,4,97,93,4,2558.0
+5:19.0,Defensive rebound by B. Adebayo,97-93, ,,4,97,93,4,2561.0
+5:09.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),99-93, ,,4,99,93,6,2571.0
+5:09.0, ,99-93,Philadelphia full timeout,,4,99,93,6,2571.0
+4:59.0, ,99-93,T. Maxey misses 2-pt layup from 4 ft (block by H. Highsmith),,4,99,93,6,2581.0
+4:59.0, ,99-93,Offensive rebound by Team,,4,99,93,6,2581.0
+4:47.0, ,99-95,K. Oubre makes 2-pt jump shot from 13 ft,,4,99,95,4,2593.0
+4:26.0,B. Adebayo misses 2-pt jump shot from 8 ft,99-95, ,,4,99,95,4,2614.0
+4:23.0, ,99-95,Defensive rebound by B. Hield,,4,99,95,4,2617.0
+4:09.0, ,99-95,Turnover by B. Hield (bad pass; steal by J. Jaquez),,4,99,95,4,2631.0
+4:03.0,T. Herro misses 2-pt layup from 2 ft,99-95, ,,4,99,95,4,2637.0
+4:00.0, ,99-95,Defensive rebound by K. Oubre,,4,99,95,4,2640.0
+3:53.0, ,99-95,P. Reed misses 2-pt jump shot from 16 ft,,4,99,95,4,2647.0
+3:50.0,Defensive rebound by T. Herro,99-95, ,,4,99,95,4,2650.0
+3:32.0,T. Herro misses 2-pt layup from 4 ft,99-95, ,,4,99,95,4,2668.0
+3:32.0,Offensive rebound by B. Adebayo,99-95, ,,4,99,95,4,2668.0
+3:32.0,B. Adebayo misses 2-pt layup at rim,99-95, ,,4,99,95,4,2668.0
+3:32.0,Offensive rebound by Team,99-95, ,,4,99,95,4,2668.0
+3:32.0, ,99-95,Philadelphia full timeout,,4,99,95,4,2668.0
+3:32.0, ,99-95,Instant Replay (Challenge: Ruling Stands),,4,99,95,4,2668.0
+3:32.0,Turnover by B. Adebayo (off goaltending),99-95, ,,4,99,95,4,2668.0
+3:20.0, ,99-95,Turnover by B. Hield (lost ball; steal by D. Robinson),,4,99,95,4,2680.0
+2:59.0,D. Robinson misses 3-pt jump shot from 26 ft,99-95, ,,4,99,95,4,2701.0
+2:58.0,Offensive rebound by J. Jaquez,99-95, ,,4,99,95,4,2702.0
+2:58.0,J. Jaquez makes 2-pt layup at rim,101-95, ,,4,101,95,6,2702.0
+2:33.0, ,101-95,Shooting foul by B. Adebayo (drawn by P. Reed),,4,101,95,6,2727.0
+2:33.0, ,101-96,P. Reed makes free throw 1 of 2,,4,101,96,5,2727.0
+2:33.0, ,101-97,P. Reed makes free throw 2 of 2,,4,101,97,4,2727.0
+2:15.0,D. Robinson misses 2-pt jump shot from 8 ft,101-97, ,,4,101,97,4,2745.0
+2:12.0, ,101-97,Defensive rebound by P. Reed,,4,101,97,4,2748.0
+2:02.0, ,101-97,T. Maxey misses 2-pt jump shot from 9 ft,,4,101,97,4,2758.0
+1:57.0,Defensive rebound by T. Herro,101-97, ,,4,101,97,4,2763.0
+1:47.0,T. Herro makes 2-pt jump shot from 17 ft,103-97, ,,4,103,97,6,2773.0
+1:38.0, ,103-97,B. Hield misses 3-pt jump shot from 27 ft,,4,103,97,6,2782.0
+1:33.0,Defensive rebound by B. Adebayo,103-97, ,,4,103,97,6,2787.0
+1:15.0,T. Herro misses 3-pt jump shot from 26 ft,103-97, ,,4,103,97,6,2805.0
+1:13.0,Offensive rebound by Team,103-97, ,,4,103,97,6,2807.0
+1:13.0, ,103-97,Loose ball foul by K. Oubre (drawn by H. Highsmith),,4,103,97,6,2807.0
+1:13.0, ,103-97,Philadelphia full timeout,,4,103,97,6,2807.0
+1:13.0, ,103-97,Instant Replay (Challenge: Ruling Stands),,4,103,97,6,2807.0
+1:13.0, ,103-97,C. Payne enters the game for K. Oubre,,4,103,97,6,2807.0
+1:13.0,H. Highsmith makes free throw 1 of 2,104-97, ,,4,104,97,7,2807.0
+1:13.0,H. Highsmith makes free throw 2 of 2,105-97, ,,4,105,97,8,2807.0
+1:01.0, ,105-99,P. Reed makes 2-pt layup from 3 ft (assist by K. Martin),,4,105,99,6,2819.0
+1:01.0, ,105-99,Shooting foul by J. Jaquez (drawn by P. Reed),,4,105,99,6,2819.0
+1:01.0, ,105-100,P. Reed makes free throw 1 of 1,,4,105,100,5,2819.0
+1:00.0,Turnover by T. Herro (out of bounds lost ball),105-100, ,,4,105,100,5,2820.0
+0:52.0, ,105-102,T. Maxey makes 2-pt jump shot from 11 ft,,4,105,102,3,2828.0
+0:52.0,Violation by Team (def goaltending),105-102, ,,4,105,102,3,2828.0
+0:52.0,Instant Replay (Request: Ruling Stands),105-102, ,,4,105,102,3,2828.0
+0:35.0,D. Robinson misses 3-pt jump shot from 24 ft,105-102, ,,4,105,102,3,2845.0
+0:34.0,Offensive rebound by J. Jaquez,105-102, ,,4,105,102,3,2846.0
+0:34.0,J. Jaquez makes 2-pt dunk at rim,107-102, ,,4,107,102,5,2846.0
+0:28.0, ,107-102,Personal foul by D. Robinson (drawn by T. Maxey),,4,107,102,5,2852.0
+0:28.0, ,107-103,T. Maxey makes free throw 1 of 2,,4,107,103,4,2852.0
+0:28.0, ,107-104,T. Maxey makes free throw 2 of 2,,4,107,104,3,2852.0
+0:28.0,Miami full timeout,107-104, ,,4,107,104,3,2852.0
+0:12.0,T. Herro misses 2-pt jump shot from 22 ft,107-104, ,,4,107,104,3,2868.0
+0:08.0,Offensive rebound by B. Adebayo,107-104, ,,4,107,104,3,2872.0
+0:07.0,Personal foul by B. Hield (drawn by B. Adebayo),107-104, ,,4,107,104,3,2873.0
+0:07.0,B. Adebayo makes free throw 1 of 2,108-104, ,,4,108,104,4,2873.0
+0:07.0,C. Martin enters the game for D. Robinson,108-104, ,,4,108,104,4,2873.0
+0:07.0,B. Adebayo makes free throw 2 of 2,109-104, ,,4,109,104,5,2873.0
+0:01.0, ,109-104,Turnover by K. Martin (lost ball; steal by C. Martin),,4,109,104,5,2879.0
+0:00.0,End of 4th quarter,109-104,,,4,109,104,5,2880.0

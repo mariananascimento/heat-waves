@@ -1,0 +1,416 @@
+Time,Cleveland,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Allen vs. B. Adebayo (T. Rozier gains possession),0-0,,,1,0,0,0,0.0
+11:34.0, ,0-0,T. Rozier misses 2-pt jump shot from 20 ft,,1,0,0,0,26.0
+11:31.0,Defensive rebound by J. Allen,0-0, ,,1,0,0,0,29.0
+11:17.0,J. Allen misses 2-pt jump shot from 10 ft,0-0, ,,1,0,0,0,43.0
+11:14.0, ,0-0,Defensive rebound by B. Adebayo,,1,0,0,0,46.0
+11:05.0, ,0-0,P. Mills misses 2-pt jump shot from 16 ft,,1,0,0,0,55.0
+11:01.0,Defensive rebound by E. Mobley,0-0, ,,1,0,0,0,59.0
+10:55.0,E. Mobley makes 3-pt jump shot from 26 ft (assist by J. Allen),3-0, ,,1,0,3,-3,65.0
+10:41.0, ,3-2,B. Adebayo makes 2-pt jump shot from 13 ft (assist by T. Rozier),,1,2,3,-1,79.0
+10:24.0,Turnover by E. Mobley (bad pass; steal by B. Adebayo),3-2, ,,1,2,3,-1,96.0
+10:15.0, ,3-4,P. Mills makes 2-pt layup from 1 ft,Lead change,1,4,3,1,105.0
+10:04.0,Turnover by I. Okoro (bad pass; steal by J. Butler),3-4, ,,1,4,3,1,116.0
+9:46.0, ,3-7,J. Butler makes 3-pt jump shot from 23 ft (assist by T. Rozier),,1,7,3,4,134.0
+9:20.0,Turnover by I. Okoro (lost ball; steal by N. Jović),3-7, ,,1,7,3,4,160.0
+9:15.0, ,3-9,T. Rozier makes 2-pt layup from 5 ft (assist by N. Jović),,1,9,3,6,165.0
+9:01.0,D. Garland misses 2-pt jump shot from 13 ft,3-9, ,,1,9,3,6,179.0
+9:01.0, ,3-9,Defensive rebound by B. Adebayo,,1,9,3,6,179.0
+8:54.0, ,3-9,Shooting foul by E. Mobley (drawn by B. Adebayo),,1,9,3,6,186.0
+8:54.0, ,3-9,B. Adebayo misses free throw 1 of 2,,1,9,3,6,186.0
+8:54.0, ,3-9,Offensive rebound by Team,,1,9,3,6,186.0
+8:54.0, ,3-10,B. Adebayo makes free throw 2 of 2,,1,10,3,7,186.0
+8:37.0,Personal foul by J. Butler (drawn by J. Allen),3-10, ,,1,10,3,7,203.0
+8:32.0,J. Allen makes 2-pt layup from 4 ft (assist by D. Garland),5-10, ,,1,10,5,5,208.0
+8:12.0, ,5-10,B. Adebayo misses 3-pt jump shot from 26 ft,,1,10,5,5,228.0
+8:09.0,Defensive rebound by I. Okoro,5-10, ,,1,10,5,5,231.0
+7:46.0,E. Mobley misses 2-pt jump shot from 11 ft,5-10, ,,1,10,5,5,254.0
+7:44.0, ,5-10,Defensive rebound by J. Butler,,1,10,5,5,256.0
+7:40.0, ,5-12,J. Butler makes 2-pt layup from 8 ft,,1,12,5,7,260.0
+7:40.0, ,5-12,Shooting foul by C. LeVert (drawn by J. Butler),,1,12,5,7,260.0
+7:40.0, ,5-13,J. Butler makes free throw 1 of 1,,1,13,5,8,260.0
+7:15.0,J. Allen misses 2-pt jump shot from 13 ft,5-13, ,,1,13,5,8,285.0
+7:12.0, ,5-13,Defensive rebound by B. Adebayo,,1,13,5,8,288.0
+7:10.0, ,5-13,Shooting foul by C. LeVert (drawn by J. Butler),,1,13,5,8,290.0
+7:10.0, ,5-13,J. Butler misses free throw 1 of 2,,1,13,5,8,290.0
+7:10.0, ,5-13,Offensive rebound by Team,,1,13,5,8,290.0
+7:10.0,S. Merrill enters the game for C. LeVert,5-13, ,,1,13,5,8,290.0
+7:10.0,G. Niang enters the game for E. Mobley,5-13, ,,1,13,5,8,290.0
+7:10.0, ,5-14,J. Butler makes free throw 2 of 2,,1,14,5,9,290.0
+7:01.0,S. Merrill misses 3-pt jump shot from 26 ft,5-14, ,,1,14,5,9,299.0
+6:58.0, ,5-14,Defensive rebound by B. Adebayo,,1,14,5,9,302.0
+6:51.0, ,5-14,N. Jović misses 3-pt jump shot from 24 ft,,1,14,5,9,309.0
+6:48.0,Defensive rebound by J. Allen,5-14, ,,1,14,5,9,312.0
+6:37.0,J. Allen makes 2-pt dunk from 2 ft (assist by G. Niang),7-14, ,,1,14,7,7,323.0
+6:31.0, ,7-14,Personal foul by J. Allen (drawn by B. Adebayo),,1,14,7,7,329.0
+6:31.0, ,7-14,Miami full timeout,,1,14,7,7,329.0
+6:22.0, ,7-14,P. Mills misses 3-pt jump shot from 26 ft,,1,14,7,7,338.0
+6:19.0,Defensive rebound by G. Niang,7-14, ,,1,14,7,7,341.0
+6:10.0,J. Allen makes 2-pt hook shot from 7 ft (assist by D. Garland),9-14, ,,1,14,9,5,350.0
+5:58.0, ,9-14,Turnover by N. Jović (traveling),,1,14,9,5,362.0
+5:43.0,J. Allen misses 2-pt hook shot from 6 ft,9-14, ,,1,14,9,5,377.0
+5:43.0,Offensive rebound by Team,9-14, ,,1,14,9,5,377.0
+5:42.0, ,9-14,Loose ball foul by P. Mills (drawn by I. Okoro),,1,14,9,5,378.0
+5:37.0,I. Okoro misses 2-pt jump shot from 6 ft,9-14, ,,1,14,9,5,383.0
+5:37.0,Offensive rebound by Team,9-14, ,,1,14,9,5,383.0
+5:37.0, ,9-14,Loose ball foul by N. Jović (drawn by J. Allen),,1,14,9,5,383.0
+5:31.0,I. Okoro misses 3-pt jump shot from 25 ft,9-14, ,,1,14,9,5,389.0
+5:26.0, ,9-14,Defensive rebound by J. Butler,,1,14,9,5,394.0
+5:10.0, ,9-16,B. Adebayo makes 2-pt hook shot from 6 ft,,1,16,9,7,410.0
+4:55.0,D. Garland misses 3-pt jump shot from 26 ft,9-16, ,,1,16,9,7,425.0
+4:52.0, ,9-16,Defensive rebound by J. Butler,,1,16,9,7,428.0
+4:48.0, ,9-16,Shooting foul by S. Merrill (drawn by J. Butler),,1,16,9,7,432.0
+4:48.0, ,9-17,J. Butler makes free throw 1 of 2,,1,17,9,8,432.0
+4:48.0,M. Morris enters the game for I. Okoro,9-17, ,,1,17,9,8,432.0
+4:48.0, ,9-18,J. Butler makes free throw 2 of 2,,1,18,9,9,432.0
+4:35.0,D. Garland makes 2-pt jump shot from 10 ft,11-18, ,,1,18,11,7,445.0
+4:11.0, ,11-18,B. Adebayo misses 2-pt jump shot from 12 ft,,1,18,11,7,469.0
+4:08.0,Defensive rebound by D. Garland,11-18, ,,1,18,11,7,472.0
+4:08.0, ,11-18,C. Martin enters the game for J. Butler,,1,18,11,7,472.0
+4:08.0, ,11-18,D. Wright enters the game for P. Mills,,1,18,11,7,472.0
+3:56.0,Turnover by D. Garland (bad pass; steal by B. Adebayo),11-18, ,,1,18,11,7,484.0
+3:47.0, ,11-21,C. Martin makes 3-pt jump shot from 26 ft (assist by T. Rozier),,1,21,11,10,493.0
+3:24.0,Shooting foul by N. Jović (drawn by J. Allen),11-21, ,,1,21,11,10,516.0
+3:24.0,J. Allen misses free throw 1 of 2,11-21, ,,1,21,11,10,516.0
+3:24.0,Offensive rebound by Team,11-21, ,,1,21,11,10,516.0
+3:24.0, ,11-21,H. Highsmith enters the game for N. Jović,,1,21,11,10,516.0
+3:24.0,J. Allen makes free throw 2 of 2,12-21, ,,1,21,12,9,516.0
+3:03.0, ,12-21,T. Rozier misses 3-pt jump shot from 26 ft,,1,21,12,9,537.0
+2:59.0,Defensive rebound by D. Garland,12-21, ,,1,21,12,9,541.0
+2:55.0,D. Garland misses 2-pt layup from 5 ft,12-21, ,,1,21,12,9,545.0
+2:55.0, ,12-21,Defensive rebound by B. Adebayo,,1,21,12,9,545.0
+2:48.0, ,12-21,D. Wright misses 3-pt jump shot from 23 ft,,1,21,12,9,552.0
+2:45.0,Defensive rebound by G. Niang,12-21, ,,1,21,12,9,555.0
+2:32.0,M. Morris makes 2-pt jump shot from 10 ft,14-21, ,,1,21,14,7,568.0
+2:05.0, ,14-24,H. Highsmith makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,1,24,14,10,595.0
+1:49.0,G. Niang makes 3-pt jump shot from 27 ft (assist by D. Garland),17-24, ,,1,24,17,7,611.0
+1:33.0, ,17-26,B. Adebayo makes 2-pt layup from 4 ft (assist by D. Wright),,1,26,17,9,627.0
+1:19.0,G. Niang makes 3-pt jump shot from 28 ft (assist by S. Merrill),20-26, ,,1,26,20,6,641.0
+1:07.0, ,20-26,Personal foul by D. Garland (drawn by T. Rozier),,1,26,20,6,653.0
+1:07.0,Cleveland full timeout,20-26, ,,1,26,20,6,653.0
+1:07.0,E. Mobley enters the game for J. Allen,20-26, ,,1,26,20,6,653.0
+1:07.0,C. Porter enters the game for D. Garland,20-26, ,,1,26,20,6,653.0
+1:07.0, ,20-26,T. Bryant enters the game for B. Adebayo,,1,26,20,6,653.0
+1:07.0, ,20-27,T. Rozier makes free throw 1 of 2,,1,27,20,7,653.0
+1:07.0, ,20-28,T. Rozier makes free throw 2 of 2,,1,28,20,8,653.0
+0:45.0,E. Mobley makes 2-pt dunk from 2 ft (assist by C. Porter),22-28, ,,1,28,22,6,675.0
+0:45.0,Violation by Team (delay of game),22-28, ,,1,28,22,6,675.0
+0:36.0, ,22-30,H. Highsmith makes 2-pt layup from 3 ft (assist by T. Rozier),,1,30,22,8,684.0
+0:19.0,S. Merrill misses 3-pt jump shot from 24 ft,22-30, ,,1,30,22,8,701.0
+0:15.0, ,22-30,Defensive rebound by T. Rozier,,1,30,22,8,705.0
+0:01.0, ,22-32,T. Rozier makes 2-pt jump shot from 11 ft,,1,32,22,10,719.0
+0:00.0, ,22-32,Instant Replay (Request: Ruling Stands),,1,32,22,10,720.0
+0:00.0,End of 1st quarter,22-32,,,1,32,22,10,720.0
+12:00.0,Start of 2nd quarter,22-32,,,2,32,22,10,720.0
+11:45.0,M. Morris misses 3-pt jump shot from 25 ft,22-32, ,,2,32,22,10,735.0
+11:39.0, ,22-32,Defensive rebound by H. Highsmith,,2,32,22,10,741.0
+11:25.0, ,22-35,H. Highsmith makes 3-pt jump shot from 23 ft (assist by J. Butler),,2,35,22,13,755.0
+11:13.0,Shooting foul by H. Highsmith (drawn by C. Porter),22-35, ,,2,35,22,13,767.0
+11:13.0,C. Porter makes free throw 1 of 2,23-35, ,,2,35,23,12,767.0
+11:13.0,C. Porter makes free throw 2 of 2,24-35, ,,2,35,24,11,767.0
+10:52.0,Violation by Team (kicked ball),24-35, ,,2,35,24,11,788.0
+10:42.0, ,24-37,D. Wright makes 2-pt layup from 2 ft,,2,37,24,13,798.0
+10:31.0,G. Niang misses 2-pt jump shot from 8 ft,24-37, ,,2,37,24,13,809.0
+10:27.0, ,24-37,Defensive rebound by T. Bryant,,2,37,24,13,813.0
+10:21.0, ,24-37,D. Wright misses 3-pt jump shot from 24 ft,,2,37,24,13,819.0
+10:20.0, ,24-37,Offensive rebound by C. Martin,,2,37,24,13,820.0
+10:20.0, ,24-37,C. Martin misses 2-pt layup at rim,,2,37,24,13,820.0
+10:19.0,Defensive rebound by G. Niang,24-37, ,,2,37,24,13,821.0
+10:11.0,C. LeVert misses 3-pt jump shot from 25 ft,24-37, ,,2,37,24,13,829.0
+10:07.0, ,24-37,Defensive rebound by C. Martin,,2,37,24,13,833.0
+10:02.0, ,24-37,Shooting foul by E. Mobley (drawn by J. Butler),,2,37,24,13,838.0
+10:02.0, ,24-38,J. Butler makes free throw 1 of 2,,2,38,24,14,838.0
+10:02.0, ,24-39,J. Butler makes free throw 2 of 2,,2,39,24,15,838.0
+9:48.0,M. Morris makes 2-pt jump shot from 17 ft (assist by C. Porter),26-39, ,,2,39,26,13,852.0
+9:31.0, ,26-39,Turnover by J. Butler (bad pass; steal by G. Niang),,2,39,26,13,869.0
+9:25.0,C. Porter misses 2-pt jump shot from 7 ft,26-39, ,,2,39,26,13,875.0
+9:22.0, ,26-39,Defensive rebound by D. Wright,,2,39,26,13,878.0
+9:05.0, ,26-42,C. Martin makes 3-pt jump shot from 24 ft (assist by J. Butler),,2,42,26,16,895.0
+8:44.0,C. LeVert misses 3-pt jump shot from 23 ft,26-42, ,,2,42,26,16,916.0
+8:41.0, ,26-42,Defensive rebound by T. Bryant,,2,42,26,16,919.0
+8:31.0, ,26-42,T. Bryant misses 3-pt jump shot from 25 ft,,2,42,26,16,929.0
+8:28.0, ,26-42,Offensive rebound by Team,,2,42,26,16,932.0
+8:28.0,D. Garland enters the game for M. Morris,26-42, ,,2,42,26,16,932.0
+8:28.0,I. Okoro enters the game for G. Niang,26-42, ,,2,42,26,16,932.0
+8:20.0, ,26-42,C. Martin misses 2-pt jump shot from 18 ft,,2,42,26,16,940.0
+8:17.0, ,26-42,Offensive rebound by H. Highsmith,,2,42,26,16,943.0
+8:17.0, ,26-44,H. Highsmith makes 2-pt layup from 2 ft,,2,44,26,18,943.0
+8:05.0,E. Mobley makes 2-pt hook shot from 6 ft (assist by C. Porter),28-44, ,,2,44,28,16,955.0
+7:50.0, ,28-44,Shooting foul by E. Mobley (drawn by T. Bryant),,2,44,28,16,970.0
+7:50.0, ,28-45,T. Bryant makes free throw 1 of 2,,2,45,28,17,970.0
+7:50.0,J. Allen enters the game for E. Mobley,28-45, ,,2,45,28,17,970.0
+7:50.0, ,28-46,T. Bryant makes free throw 2 of 2,,2,46,28,18,970.0
+7:31.0,Shooting foul by T. Bryant (drawn by J. Allen),28-46, ,,2,46,28,18,989.0
+7:31.0,J. Allen makes free throw 1 of 2,29-46, ,,2,46,29,17,989.0
+7:31.0,J. Allen makes free throw 2 of 2,30-46, ,,2,46,30,16,989.0
+7:11.0, ,30-49,H. Highsmith makes 3-pt jump shot from 25 ft (assist by J. Butler),,2,49,30,19,1009.0
+6:56.0,C. LeVert makes 2-pt layup from 5 ft (assist by C. Porter),32-49, ,,2,49,32,17,1024.0
+6:43.0, ,32-49,Personal foul by D. Garland (drawn by D. Wright),,2,49,32,17,1037.0
+6:43.0, ,32-49,Miami full timeout,,2,49,32,17,1037.0
+6:43.0,S. Merrill enters the game for C. Porter,32-49, ,,2,49,32,17,1037.0
+6:43.0, ,32-49,B. Adebayo enters the game for T. Bryant,,2,49,32,17,1037.0
+6:43.0, ,32-49,N. Jović enters the game for J. Butler,,2,49,32,17,1037.0
+6:43.0, ,32-49,T. Rozier enters the game for D. Wright,,2,49,32,17,1037.0
+6:37.0, ,32-49,Turnover by N. Jović (bad pass),,2,49,32,17,1043.0
+6:24.0,D. Garland makes 2-pt jump shot from 12 ft,34-49, ,,2,49,34,15,1056.0
+6:12.0, ,34-49,T. Rozier misses 3-pt jump shot from 26 ft,,2,49,34,15,1068.0
+6:10.0,Defensive rebound by J. Allen,34-49, ,,2,49,34,15,1070.0
+5:59.0,C. LeVert misses 2-pt layup from 6 ft,34-49, ,,2,49,34,15,1081.0
+5:58.0,Offensive rebound by C. LeVert,34-49, ,,2,49,34,15,1082.0
+5:56.0,Shooting foul by N. Jović (drawn by C. LeVert),34-49, ,,2,49,34,15,1084.0
+5:56.0,C. LeVert misses free throw 1 of 2,34-49, ,,2,49,34,15,1084.0
+5:56.0,Offensive rebound by Team,34-49, ,,2,49,34,15,1084.0
+5:56.0, ,34-49,D. Wright enters the game for N. Jović,,2,49,34,15,1084.0
+5:56.0,C. LeVert misses free throw 2 of 2,34-49, ,,2,49,34,15,1084.0
+5:53.0, ,34-49,Defensive rebound by H. Highsmith,,2,49,34,15,1087.0
+5:38.0, ,34-49,Shooting foul by D. Garland (drawn by C. Martin),,2,49,34,15,1102.0
+5:38.0, ,34-49,C. Martin misses free throw 1 of 2,,2,49,34,15,1102.0
+5:38.0, ,34-49,Offensive rebound by Team,,2,49,34,15,1102.0
+5:38.0, ,34-50,C. Martin makes free throw 2 of 2,,2,50,34,16,1102.0
+5:23.0,Turnover by J. Allen (bad pass),34-50, ,,2,50,34,16,1117.0
+5:04.0, ,34-50,C. Martin misses 2-pt layup from 2 ft,,2,50,34,16,1136.0
+5:01.0,Defensive rebound by J. Allen,34-50, ,,2,50,34,16,1139.0
+4:53.0,Turnover by I. Okoro (step out of bounds),34-50, ,,2,50,34,16,1147.0
+4:41.0, ,34-52,B. Adebayo makes 2-pt jump shot from 7 ft,,2,52,34,18,1159.0
+4:24.0,S. Merrill misses 3-pt jump shot from 28 ft,34-52, ,,2,52,34,18,1176.0
+4:22.0, ,34-52,Defensive rebound by B. Adebayo,,2,52,34,18,1178.0
+4:12.0, ,34-54,B. Adebayo makes 2-pt jump shot from 10 ft,,2,54,34,20,1188.0
+3:56.0,I. Okoro misses 2-pt layup from 4 ft,34-54, ,,2,54,34,20,1204.0
+3:54.0, ,34-54,Defensive rebound by D. Wright,,2,54,34,20,1206.0
+3:54.0,G. Niang enters the game for S. Merrill,34-54, ,,2,54,34,20,1206.0
+3:36.0, ,34-54,H. Highsmith misses 2-pt dunk from 2 ft,,2,54,34,20,1224.0
+3:33.0,Defensive rebound by C. LeVert,34-54, ,,2,54,34,20,1227.0
+3:12.0,D. Garland makes 2-pt jump shot from 12 ft (assist by J. Allen),36-54, ,,2,54,36,18,1248.0
+2:49.0, ,36-54,Shooting foul by G. Niang (drawn by C. Martin),,2,54,36,18,1271.0
+2:49.0,Cleveland full timeout,36-54, ,,2,54,36,18,1271.0
+2:49.0, ,36-54,J. Butler enters the game for H. Highsmith,,2,54,36,18,1271.0
+2:49.0, ,36-55,C. Martin makes free throw 1 of 2,,2,55,36,19,1271.0
+2:49.0, ,36-56,C. Martin makes free throw 2 of 2,,2,56,36,20,1271.0
+2:37.0,Personal foul by T. Rozier (drawn by D. Garland),36-56, ,,2,56,36,20,1283.0
+2:37.0, ,36-56,H. Highsmith enters the game for C. Martin,,2,56,36,20,1283.0
+2:29.0,I. Okoro makes 3-pt jump shot from 23 ft (assist by C. LeVert),39-56, ,,2,56,39,17,1291.0
+2:02.0, ,39-56,T. Rozier misses 3-pt jump shot from 26 ft,,2,56,39,17,1318.0
+1:59.0, ,39-56,Offensive rebound by H. Highsmith,,2,56,39,17,1321.0
+1:55.0, ,39-56,D. Wright misses 3-pt jump shot from 25 ft,,2,56,39,17,1325.0
+1:52.0,Defensive rebound by C. LeVert,39-56, ,,2,56,39,17,1328.0
+1:47.0,I. Okoro misses 3-pt jump shot from 22 ft,39-56, ,,2,56,39,17,1333.0
+1:42.0, ,39-56,Defensive rebound by D. Wright,,2,56,39,17,1338.0
+1:30.0, ,39-56,D. Wright misses 3-pt jump shot from 24 ft,,2,56,39,17,1350.0
+1:26.0,Defensive rebound by D. Garland,39-56, ,,2,56,39,17,1354.0
+1:03.0,Jump ball: B. Adebayo vs. G. Niang (H. Highsmith gains possession),39-56,,,2,56,39,17,1377.0
+1:03.0,Turnover by J. Allen (lost ball; steal by B. Adebayo),39-56, ,,2,56,39,17,1377.0
+0:51.0, ,39-56,Offensive foul by J. Butler (drawn by G. Niang),,2,56,39,17,1389.0
+0:51.0, ,39-56,Turnover by J. Butler (offensive foul),,2,56,39,17,1389.0
+0:35.0,G. Niang misses 3-pt jump shot from 25 ft,39-56, ,,2,56,39,17,1405.0
+0:32.0, ,39-56,Defensive rebound by B. Adebayo,,2,56,39,17,1408.0
+0:24.0, ,39-56,Personal foul by D. Garland (drawn by J. Butler),,2,56,39,17,1416.0
+0:24.0, ,39-57,J. Butler makes free throw 1 of 2,,2,57,39,18,1416.0
+0:24.0,S. Merrill enters the game for D. Garland,39-57, ,,2,57,39,18,1416.0
+0:24.0, ,39-58,J. Butler makes free throw 2 of 2,,2,58,39,19,1416.0
+0:03.0,Turnover by G. Niang (lost ball; steal by H. Highsmith),39-58, ,,2,58,39,19,1437.0
+0:00.0, ,39-60,T. Rozier makes 2-pt layup from 5 ft (assist by H. Highsmith),,2,60,39,21,1440.0
+0:00.0, ,39-60,Instant Replay (Request: Ruling Stands),,2,60,39,21,1440.0
+0:00.0,End of 2nd quarter,39-60,,,2,60,39,21,1440.0
+12:00.0,Start of 3rd quarter,39-60,,,3,60,39,21,1440.0
+11:43.0,D. Garland misses 3-pt jump shot from 23 ft,39-60, ,,3,60,39,21,1457.0
+11:38.0, ,39-60,Defensive rebound by T. Rozier,,3,60,39,21,1462.0
+11:17.0, ,39-60,Turnover by Team (shot clock),,3,60,39,21,1483.0
+11:06.0,C. LeVert misses 3-pt jump shot from 25 ft,39-60, ,,3,60,39,21,1494.0
+11:02.0, ,39-60,Defensive rebound by B. Adebayo,,3,60,39,21,1498.0
+10:45.0, ,39-60,J. Butler misses 2-pt layup from 6 ft,,3,60,39,21,1515.0
+10:43.0, ,39-60,Offensive rebound by B. Adebayo,,3,60,39,21,1517.0
+10:42.0, ,39-60,J. Butler misses 3-pt jump shot from 23 ft,,3,60,39,21,1518.0
+10:38.0, ,39-60,Offensive rebound by B. Adebayo,,3,60,39,21,1522.0
+10:36.0, ,39-60,Turnover by B. Adebayo (bad pass; steal by C. LeVert),,3,60,39,21,1524.0
+10:32.0,Shooting foul by P. Mills (drawn by E. Mobley),39-60, ,,3,60,39,21,1528.0
+10:32.0,E. Mobley makes free throw 1 of 2,40-60, ,,3,60,40,20,1528.0
+10:32.0,E. Mobley makes free throw 2 of 2,41-60, ,,3,60,41,19,1528.0
+10:19.0, ,41-63,N. Jović makes 3-pt jump shot from 27 ft (assist by J. Butler),,3,63,41,22,1541.0
+10:04.0,D. Garland makes 3-pt jump shot from 25 ft (assist by J. Allen),44-63, ,,3,63,44,19,1556.0
+9:43.0, ,44-66,N. Jović makes 3-pt jump shot from 26 ft (assist by P. Mills),,3,66,44,22,1577.0
+9:29.0,D. Garland misses 3-pt jump shot from 25 ft,44-66, ,,3,66,44,22,1591.0
+9:26.0, ,44-66,Defensive rebound by B. Adebayo,,3,66,44,22,1594.0
+9:12.0, ,44-66,J. Butler misses 2-pt jump shot from 8 ft,,3,66,44,22,1608.0
+9:08.0,Defensive rebound by E. Mobley,44-66, ,,3,66,44,22,1612.0
+9:05.0,Turnover by E. Mobley (bad pass; steal by B. Adebayo),44-66, ,,3,66,44,22,1615.0
+9:01.0, ,44-68,N. Jović makes 2-pt layup from 5 ft (assist by B. Adebayo),,3,68,44,24,1619.0
+8:41.0,J. Allen misses 2-pt jump shot from 14 ft,44-68, ,,3,68,44,24,1639.0
+8:38.0, ,44-68,Defensive rebound by P. Mills,,3,68,44,24,1642.0
+8:35.0, ,44-71,P. Mills makes 3-pt jump shot from 27 ft,,3,71,44,27,1645.0
+8:34.0,Cleveland full timeout,44-71, ,,3,71,44,27,1646.0
+8:34.0,S. Merrill enters the game for J. Allen,44-71, ,,3,71,44,27,1646.0
+8:34.0,M. Morris enters the game for D. Garland,44-71, ,,3,71,44,27,1646.0
+8:34.0,G. Niang enters the game for C. LeVert,44-71, ,,3,71,44,27,1646.0
+8:34.0,C. Porter enters the game for E. Mobley,44-71, ,,3,71,44,27,1646.0
+8:34.0,T. Thompson enters the game for I. Okoro,44-71, ,,3,71,44,27,1646.0
+8:24.0,Personal foul by J. Butler (drawn by M. Morris),44-71, ,,3,71,44,27,1656.0
+8:17.0,S. Merrill misses 3-pt jump shot from 26 ft,44-71, ,,3,71,44,27,1663.0
+8:14.0, ,44-71,Defensive rebound by T. Rozier,,3,71,44,27,1666.0
+8:07.0, ,44-71,T. Rozier misses 3-pt jump shot from 26 ft,,3,71,44,27,1673.0
+8:06.0,Defensive rebound by C. Porter,44-71, ,,3,71,44,27,1674.0
+8:06.0,Turnover by C. Porter (lost ball; steal by P. Mills),44-71, ,,3,71,44,27,1674.0
+7:58.0, ,44-74,P. Mills makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,3,74,44,30,1682.0
+7:42.0,M. Morris misses 2-pt jump shot from 10 ft,44-74, ,,3,74,44,30,1698.0
+7:39.0, ,44-74,Defensive rebound by B. Adebayo,,3,74,44,30,1701.0
+7:35.0, ,44-76,T. Rozier makes 2-pt layup from 4 ft (assist by P. Mills),,3,76,44,32,1705.0
+7:35.0,Violation by Team (def goaltending),44-76, ,,3,76,44,32,1705.0
+7:17.0,C. Porter makes 2-pt layup from 8 ft,46-76, ,,3,76,46,30,1723.0
+7:00.0, ,46-76,N. Jović misses 3-pt jump shot from 24 ft,,3,76,46,30,1740.0
+6:57.0,Defensive rebound by C. Porter,46-76, ,,3,76,46,30,1743.0
+6:48.0,Turnover by T. Thompson (step out of bounds),46-76, ,,3,76,46,30,1752.0
+6:24.0, ,46-76,N. Jović misses 2-pt jump shot from 10 ft,,3,76,46,30,1776.0
+6:23.0, ,46-76,Offensive rebound by B. Adebayo,,3,76,46,30,1777.0
+6:23.0, ,46-78,B. Adebayo makes 2-pt dunk at rim,,3,78,46,32,1777.0
+6:09.0,M. Morris misses 3-pt jump shot from 23 ft,46-78, ,,3,78,46,32,1791.0
+6:07.0, ,46-78,Defensive rebound by P. Mills,,3,78,46,32,1793.0
+6:00.0, ,46-80,T. Rozier makes 2-pt layup from 5 ft (assist by J. Butler),,3,80,46,34,1800.0
+5:49.0,G. Niang misses 3-pt jump shot from 28 ft,46-80, ,,3,80,46,34,1811.0
+5:49.0, ,46-80,Defensive rebound by B. Adebayo,,3,80,46,34,1811.0
+5:37.0, ,46-80,P. Mills misses 3-pt jump shot from 24 ft,,3,80,46,34,1823.0
+5:34.0,Defensive rebound by M. Morris,46-80, ,,3,80,46,34,1826.0
+5:25.0,Turnover by S. Merrill (bad pass; steal by B. Adebayo),46-80, ,,3,80,46,34,1835.0
+5:22.0, ,46-82,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),,3,82,46,36,1838.0
+4:55.0,Turnover by T. Thompson (lost ball; steal by P. Mills),46-82, ,,3,82,46,36,1865.0
+4:54.0, ,46-84,J. Butler makes 2-pt dunk from 3 ft (assist by P. Mills),,3,84,46,38,1866.0
+4:53.0,Cleveland full timeout,46-84, ,,3,84,46,38,1867.0
+4:39.0,Turnover by G. Niang (bad pass; steal by T. Rozier),46-84, ,,3,84,46,38,1881.0
+4:36.0, ,46-86,T. Rozier makes 2-pt dunk from 5 ft,,3,86,46,40,1884.0
+4:18.0,M. Morris makes 2-pt layup from 3 ft (assist by G. Niang),48-86, ,,3,86,48,38,1902.0
+3:59.0, ,48-86,P. Mills misses 3-pt jump shot from 26 ft,,3,86,48,38,1921.0
+3:56.0,Defensive rebound by G. Niang,48-86, ,,3,86,48,38,1924.0
+3:42.0,M. Morris misses 2-pt jump shot from 18 ft,48-86, ,,3,86,48,38,1938.0
+3:41.0, ,48-86,Defensive rebound by Team,,3,86,48,38,1939.0
+3:41.0, ,48-86,C. Martin enters the game for J. Butler,,3,86,48,38,1939.0
+3:20.0, ,48-86,B. Adebayo misses 2-pt jump shot from 14 ft,,3,86,48,38,1960.0
+3:16.0,Defensive rebound by M. Morris,48-86, ,,3,86,48,38,1964.0
+3:13.0,S. Merrill misses 3-pt jump shot from 27 ft,48-86, ,,3,86,48,38,1967.0
+3:10.0, ,48-86,Defensive rebound by B. Adebayo,,3,86,48,38,1970.0
+2:55.0, ,48-86,T. Rozier misses 3-pt jump shot from 24 ft,,3,86,48,38,1985.0
+2:54.0, ,48-86,Offensive rebound by Team,,3,86,48,38,1986.0
+2:54.0,Loose ball foul by S. Merrill (drawn by B. Adebayo),48-86, ,,3,86,48,38,1986.0
+2:54.0,E. Mobley enters the game for M. Morris,48-86, ,,3,86,48,38,1986.0
+2:54.0, ,48-86,H. Highsmith enters the game for N. Jović,,3,86,48,38,1986.0
+2:54.0, ,48-86,D. Wright enters the game for P. Mills,,3,86,48,38,1986.0
+2:46.0, ,48-86,B. Adebayo misses 2-pt jump shot from 14 ft,,3,86,48,38,1994.0
+2:42.0,Defensive rebound by E. Mobley,48-86, ,,3,86,48,38,1998.0
+2:34.0,T. Thompson misses 2-pt hook shot from 9 ft,48-86, ,,3,86,48,38,2006.0
+2:32.0, ,48-86,Defensive rebound by B. Adebayo,,3,86,48,38,2008.0
+2:20.0, ,48-86,H. Highsmith misses 2-pt jump shot from 12 ft,,3,86,48,38,2020.0
+2:17.0,Defensive rebound by T. Thompson,48-86, ,,3,86,48,38,2023.0
+2:03.0,G. Niang misses 2-pt jump shot from 7 ft,48-86, ,,3,86,48,38,2037.0
+2:02.0,Offensive rebound by T. Thompson,48-86, ,,3,86,48,38,2038.0
+2:02.0,T. Thompson makes 2-pt dunk at rim,50-86, ,,3,86,50,36,2038.0
+1:54.0, ,50-86,Miami full timeout,,3,86,50,36,2046.0
+1:54.0, ,50-86,T. Bryant enters the game for B. Adebayo,,3,86,50,36,2046.0
+1:46.0, ,50-86,T. Rozier misses 2-pt layup from 3 ft (block by T. Thompson),,3,86,50,36,2054.0
+1:46.0, ,50-86,Offensive rebound by Team,,3,86,50,36,2054.0
+1:37.0, ,50-86,D. Wright misses 3-pt jump shot from 27 ft,,3,86,50,36,2063.0
+1:32.0,Defensive rebound by E. Mobley,50-86, ,,3,86,50,36,2068.0
+1:18.0,C. Porter makes 2-pt layup from 2 ft (assist by S. Merrill),52-86, ,,3,86,52,34,2082.0
+1:03.0, ,52-88,H. Highsmith makes 2-pt jump shot from 8 ft (assist by T. Rozier),,3,88,52,36,2097.0
+0:50.0,E. Mobley makes 3-pt jump shot from 26 ft (assist by T. Thompson),55-88, ,,3,88,55,33,2110.0
+0:29.0, ,55-90,T. Bryant makes 2-pt jump shot from 20 ft,,3,90,55,35,2131.0
+0:10.0,C. Porter misses 2-pt layup from 5 ft,55-90, ,,3,90,55,35,2150.0
+0:08.0,Offensive rebound by T. Thompson,55-90, ,,3,90,55,35,2152.0
+0:08.0,T. Thompson makes 2-pt layup at rim,57-90, ,,3,90,57,33,2152.0
+0:01.0, ,57-90,T. Rozier misses 3-pt jump shot from 25 ft (block by C. Porter),,3,90,57,33,2159.0
+0:00.0, ,57-90,Offensive rebound by Team,,3,90,57,33,2160.0
+0:01.0, ,57-90,Instant Replay (Request: Ruling Stands),,3,90,57,33,2159.0
+0:00.0,Cleveland full timeout,57-90, ,,3,90,57,33,2160.0
+0:00.0,Instant Replay (Challenge: Ruling Stands),57-90, ,,3,90,57,33,2160.0
+0:00.0,End of 3rd quarter,57-90,,,3,90,57,33,2160.0
+12:00.0,Start of 4th quarter,57-90,,,4,90,57,33,2160.0
+11:48.0, ,57-92,T. Bryant makes 2-pt layup from 3 ft (assist by C. Martin),,4,92,57,35,2172.0
+11:24.0,T. Thompson makes 2-pt dunk from 3 ft (assist by E. Mobley),59-92, ,,4,92,59,33,2196.0
+11:05.0, ,59-95,D. Wright makes 3-pt jump shot from 26 ft (assist by H. Highsmith),,4,95,59,36,2215.0
+10:50.0,Turnover by G. Niang (bad pass; steal by C. Martin),59-95, ,,4,95,59,36,2230.0
+10:44.0, ,59-98,H. Highsmith makes 3-pt jump shot from 23 ft (assist by C. Martin),,4,98,59,39,2236.0
+10:32.0,Shooting foul by T. Bryant (drawn by E. Mobley),59-98, ,,4,98,59,39,2248.0
+10:32.0,E. Mobley makes free throw 1 of 2,60-98, ,,4,98,60,38,2248.0
+10:32.0,E. Bates enters the game for G. Niang,60-98, ,,4,98,60,38,2248.0
+10:32.0,D. Jones enters the game for T. Thompson,60-98, ,,4,98,60,38,2248.0
+10:32.0,E. Mobley makes free throw 2 of 2,61-98, ,,4,98,61,37,2248.0
+10:13.0, ,61-100,C. Martin makes 2-pt layup from 3 ft (assist by T. Bryant),,4,100,61,39,2267.0
+9:53.0,E. Mobley misses 2-pt hook shot from 7 ft,61-100, ,,4,100,61,39,2287.0
+9:50.0, ,61-100,Defensive rebound by D. Wright,,4,100,61,39,2290.0
+9:31.0, ,61-100,C. Martin misses 3-pt jump shot from 25 ft,,4,100,61,39,2309.0
+9:30.0,Defensive rebound by Team,61-100, ,,4,100,61,39,2310.0
+9:20.0,Shooting foul by T. Bryant (drawn by E. Mobley),61-100, ,,4,100,61,39,2320.0
+9:20.0,E. Mobley misses free throw 1 of 2,61-100, ,,4,100,61,39,2320.0
+9:20.0,Offensive rebound by Team,61-100, ,,4,100,61,39,2320.0
+9:20.0, ,61-100,J. Cain enters the game for C. Martin,,4,100,61,39,2320.0
+9:20.0,E. Mobley makes free throw 2 of 2,62-100, ,,4,100,62,38,2320.0
+9:14.0, ,62-100,Turnover by P. Mills (out of bounds lost ball),,4,100,62,38,2326.0
+9:06.0,Shooting foul by P. Mills (drawn by D. Jones),62-100, ,,4,100,62,38,2334.0
+9:06.0,D. Jones makes free throw 1 of 2,63-100, ,,4,100,63,37,2334.0
+9:06.0,D. Jones makes free throw 2 of 2,64-100, ,,4,100,64,36,2334.0
+8:45.0, ,64-102,P. Mills makes 2-pt jump shot from 20 ft,,4,102,64,38,2355.0
+8:32.0,D. Jones makes 2-pt jump shot from 13 ft (assist by S. Merrill),66-102, ,,4,102,66,36,2368.0
+8:05.0, ,66-104,T. Bryant makes 2-pt layup from 2 ft (assist by J. Cain),,4,104,66,38,2395.0
+7:44.0,E. Bates makes 3-pt jump shot from 23 ft (assist by S. Merrill),69-104, ,,4,104,69,35,2416.0
+7:25.0, ,69-104,Personal foul by D. Jones (drawn by T. Bryant),,4,104,69,35,2435.0
+7:25.0,M. Morris enters the game for E. Mobley,69-104, ,,4,104,69,35,2435.0
+7:25.0, ,69-104,C. Swider enters the game for P. Mills,,4,104,69,35,2435.0
+7:19.0, ,69-104,H. Highsmith misses 2-pt jump shot from 9 ft,,4,104,69,35,2441.0
+7:17.0, ,69-104,Offensive rebound by T. Bryant,,4,104,69,35,2443.0
+7:17.0, ,69-104,Shooting foul by D. Jones (drawn by T. Bryant),,4,104,69,35,2443.0
+7:17.0, ,69-105,T. Bryant makes free throw 1 of 2,,4,105,69,36,2443.0
+7:17.0, ,69-106,T. Bryant makes free throw 2 of 2,,4,106,69,37,2443.0
+7:02.0,Def 3 sec tech foul by Team,69-106, ,,4,106,69,37,2458.0
+7:02.0,S. Merrill makes technical free throw,70-106, ,,4,106,70,36,2458.0
+6:56.0,M. Morris misses 3-pt jump shot from 24 ft,70-106, ,,4,106,70,36,2464.0
+6:50.0,Offensive rebound by C. Porter,70-106, ,,4,106,70,36,2470.0
+6:50.0,C. Porter misses 2-pt layup at rim,70-106, ,,4,106,70,36,2470.0
+6:49.0, ,70-106,Defensive rebound by H. Highsmith,,4,106,70,36,2471.0
+6:42.0, ,70-106,Shooting foul by D. Jones (drawn by T. Bryant),,4,106,70,36,2478.0
+6:42.0,Cleveland full timeout,70-106, ,,4,106,70,36,2478.0
+6:42.0,Instant Replay (Challenge: Ruling Stands),70-106, ,,4,106,70,36,2478.0
+6:42.0, ,70-107,T. Bryant makes free throw 1 of 2,,4,107,70,37,2478.0
+6:42.0, ,70-108,T. Bryant makes free throw 2 of 2,,4,108,70,38,2478.0
+6:29.0,D. Jones makes 2-pt dunk from 4 ft (assist by E. Bates),72-108, ,,4,108,72,36,2491.0
+6:03.0, ,72-110,T. Bryant makes 2-pt layup from 3 ft,,4,110,72,38,2517.0
+5:48.0,Turnover by C. Porter (bad pass; steal by T. Bryant),72-110, ,,4,110,72,38,2532.0
+5:38.0, ,72-112,J. Cain makes 2-pt jump shot from 8 ft (assist by T. Bryant),,4,112,72,40,2542.0
+5:25.0,Shooting foul by T. Bryant (drawn by M. Morris),72-112, ,,4,112,72,40,2555.0
+5:25.0,M. Morris misses free throw 1 of 2,72-112, ,,4,112,72,40,2555.0
+5:25.0,Offensive rebound by Team,72-112, ,,4,112,72,40,2555.0
+5:25.0, ,72-112,O. Robinson enters the game for H. Highsmith,,4,112,72,40,2555.0
+5:25.0,M. Morris makes free throw 2 of 2,73-112, ,,4,112,73,39,2555.0
+5:16.0, ,73-115,D. Wright makes 3-pt jump shot from 26 ft (assist by T. Bryant),,4,115,73,42,2564.0
+4:58.0,M. Morris misses 2-pt jump shot from 11 ft,73-115, ,,4,115,73,42,2582.0
+4:55.0, ,73-115,Defensive rebound by T. Bryant,,4,115,73,42,2585.0
+4:46.0, ,73-115,Offensive foul by T. Bryant (drawn by S. Merrill),,4,115,73,42,2594.0
+4:46.0, ,73-115,Turnover by T. Bryant (offensive foul),,4,115,73,42,2594.0
+4:40.0,Turnover by D. Jones (bad pass),73-115, ,,4,115,73,42,2600.0
+4:23.0, ,73-118,J. Cain makes 3-pt jump shot from 25 ft (assist by O. Robinson),,4,118,73,45,2617.0
+4:10.0,E. Bates makes 3-pt jump shot from 26 ft (assist by M. Morris),76-118, ,,4,118,76,42,2630.0
+3:49.0, ,76-118,D. Wright misses 3-pt jump shot from 23 ft,,4,118,76,42,2651.0
+3:46.0,Defensive rebound by C. Porter,76-118, ,,4,118,76,42,2654.0
+3:41.0,E. Bates misses 3-pt jump shot from 28 ft,76-118, ,,4,118,76,42,2659.0
+3:40.0, ,76-118,Defensive rebound by Team,,4,118,76,42,2660.0
+3:25.0, ,76-118,C. Swider misses 3-pt jump shot from 26 ft,,4,118,76,42,2675.0
+3:23.0, ,76-118,Offensive rebound by J. Cain,,4,118,76,42,2677.0
+3:11.0, ,76-118,O. Robinson misses 2-pt jump shot from 10 ft (block by M. Morris),,4,118,76,42,2689.0
+3:10.0, ,76-118,Offensive rebound by O. Robinson,,4,118,76,42,2690.0
+3:10.0, ,76-118,Turnover by Team (shot clock),,4,118,76,42,2690.0
+2:53.0,C. Porter makes 2-pt dunk from 5 ft (assist by S. Merrill),78-118, ,,4,118,78,40,2707.0
+2:39.0, ,78-118,T. Bryant misses 3-pt jump shot from 25 ft,,4,118,78,40,2721.0
+2:36.0,Defensive rebound by S. Merrill,78-118, ,,4,118,78,40,2724.0
+2:22.0,E. Bates misses 2-pt jump shot from 15 ft,78-118, ,,4,118,78,40,2738.0
+2:17.0, ,78-118,Defensive rebound by J. Cain,,4,118,78,40,2743.0
+2:03.0, ,78-118,Turnover by J. Cain (lost ball; steal by M. Morris),,4,118,78,40,2757.0
+1:55.0,E. Bates makes 3-pt jump shot from 23 ft (assist by S. Merrill),81-118, ,,4,118,81,37,2765.0
+1:42.0, ,81-118,Turnover by C. Swider (step out of bounds),,4,118,81,37,2778.0
+1:42.0, ,81-118,Miami full timeout,,4,118,81,37,2778.0
+1:26.0,M. Morris misses 2-pt jump shot from 11 ft,81-118, ,,4,118,81,37,2794.0
+1:22.0, ,81-118,Defensive rebound by C. Swider,,4,118,81,37,2798.0
+0:59.0, ,81-118,C. Swider misses 2-pt jump shot from 8 ft,,4,118,81,37,2821.0
+0:58.0,Defensive rebound by S. Merrill,81-118, ,,4,118,81,37,2822.0
+0:47.0,D. Jones makes 2-pt layup from 3 ft (assist by M. Morris),83-118, ,,4,118,83,35,2833.0
+0:47.0,Shooting foul by J. Cain (drawn by D. Jones),83-118, ,,4,118,83,35,2833.0
+0:47.0,D. Jones makes free throw 1 of 1,84-118, ,,4,118,84,34,2833.0
+0:34.0, ,84-121,C. Swider makes 3-pt jump shot from 25 ft (assist by J. Cain),,4,121,84,37,2846.0
+0:26.0,S. Merrill misses 3-pt jump shot from 26 ft,84-121, ,,4,121,84,37,2854.0
+0:23.0, ,84-121,Defensive rebound by T. Bryant,,4,121,84,37,2857.0
+0:00.0, ,84-121,Turnover by Team (shot clock),,4,121,84,37,2880.0
+0:00.0,End of 4th quarter,84-121,,,4,121,84,37,2880.0

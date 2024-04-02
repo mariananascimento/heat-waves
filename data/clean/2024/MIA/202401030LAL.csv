@@ -1,0 +1,460 @@
+Time,Miami,Score,LA Lakers,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. A. Davis (K. Lowry gains possession),0-0,,,1,0,0,0,0.0
+11:44.0,Shooting foul by A. Reaves (drawn by K. Lowry),0-0, ,,1,0,0,0,16.0
+11:44.0,K. Lowry makes free throw 1 of 2,1-0, ,,1,1,0,1,16.0
+11:44.0,K. Lowry makes free throw 2 of 2,2-0, ,,1,2,0,2,16.0
+11:25.0, ,2-2,L. James makes 2-pt layup from 1 ft (assist by A. Reaves),Tie,1,2,2,0,35.0
+11:09.0,Turnover by T. Herro (bad pass),2-2, ,,1,2,2,0,51.0
+10:52.0, ,2-2,L. James misses 3-pt jump shot from 28 ft,,1,2,2,0,68.0
+10:49.0,Defensive rebound by T. Herro,2-2, ,,1,2,2,0,71.0
+10:34.0,N. Jović misses 3-pt jump shot from 26 ft,2-2, ,,1,2,2,0,86.0
+10:31.0, ,2-2,Defensive rebound by A. Davis,,1,2,2,0,89.0
+10:26.0, ,2-2,Turnover by C. Reddish (bad pass; steal by B. Adebayo),,1,2,2,0,94.0
+10:19.0,T. Herro misses 2-pt jump shot from 20 ft,2-2, ,,1,2,2,0,101.0
+10:17.0, ,2-2,Defensive rebound by T. Prince,,1,2,2,0,103.0
+10:02.0, ,2-4,A. Reaves makes 2-pt jump shot from 9 ft (assist by A. Davis),Lead change,1,2,4,-2,118.0
+9:49.0,N. Jović makes 3-pt jump shot from 26 ft (assist by K. Lowry),5-4, ,Lead change,1,5,4,1,131.0
+9:42.0, ,5-4,Turnover by A. Reaves (bad pass; steal by T. Herro),,1,5,4,1,138.0
+9:38.0,J. Jaquez misses 2-pt layup from 2 ft,5-4, ,,1,5,4,1,142.0
+9:38.0, ,5-4,Defensive rebound by L. James,,1,5,4,1,142.0
+9:32.0, ,5-4,C. Reddish misses 3-pt jump shot from 27 ft,,1,5,4,1,148.0
+9:29.0, ,5-4,Offensive rebound by A. Davis,,1,5,4,1,151.0
+9:22.0, ,5-4,Shooting foul by T. Herro (drawn by A. Reaves),,1,5,4,1,158.0
+9:22.0, ,5-5,A. Reaves makes free throw 1 of 3,Tie,1,5,5,0,158.0
+9:22.0, ,5-6,A. Reaves makes free throw 2 of 3,Lead change,1,5,6,-1,158.0
+9:22.0, ,5-7,A. Reaves makes free throw 3 of 3,,1,5,7,-2,158.0
+9:16.0,Turnover by J. Jaquez (out of bounds lost ball),5-7, ,,1,5,7,-2,164.0
+9:02.0, ,5-7,Turnover by L. James (bad pass; steal by K. Lowry),,1,5,7,-2,178.0
+8:56.0,T. Herro misses 3-pt jump shot from 26 ft,5-7, ,,1,5,7,-2,184.0
+8:54.0,Offensive rebound by B. Adebayo,5-7, ,,1,5,7,-2,186.0
+8:45.0,B. Adebayo makes 2-pt jump shot from 10 ft (assist by T. Herro),7-7, ,Tie,1,7,7,0,195.0
+8:37.0, ,7-7,Offensive foul by C. Reddish (drawn by K. Lowry),,1,7,7,0,203.0
+8:37.0, ,7-7,Turnover by C. Reddish (offensive foul),,1,7,7,0,203.0
+8:22.0,N. Jović misses 2-pt layup from 2 ft,7-7, ,,1,7,7,0,218.0
+8:20.0,Offensive rebound by B. Adebayo,7-7, ,,1,7,7,0,220.0
+8:20.0,B. Adebayo misses 2-pt layup from 2 ft,7-7, ,,1,7,7,0,220.0
+8:19.0, ,7-7,Defensive rebound by T. Prince,,1,7,7,0,221.0
+8:16.0, ,7-7,L. James misses 2-pt layup from 2 ft,,1,7,7,0,224.0
+8:13.0,Defensive rebound by T. Herro,7-7, ,,1,7,7,0,227.0
+8:03.0,T. Herro misses 3-pt jump shot from 23 ft,7-7, ,,1,7,7,0,237.0
+8:00.0, ,7-7,Defensive rebound by A. Davis,,1,7,7,0,240.0
+7:55.0, ,7-7,A. Reaves misses 3-pt jump shot from 23 ft,,1,7,7,0,245.0
+7:51.0,Defensive rebound by K. Lowry,7-7, ,,1,7,7,0,249.0
+7:47.0,K. Lowry makes 3-pt jump shot from 26 ft,10-7, ,Lead change,1,10,7,3,253.0
+7:26.0, ,10-7,A. Davis misses 2-pt jump shot from 12 ft,,1,10,7,3,274.0
+7:23.0,Defensive rebound by N. Jović,10-7, ,,1,10,7,3,277.0
+7:20.0,N. Jović makes 2-pt layup from 2 ft,12-7, ,,1,12,7,5,280.0
+7:02.0, ,12-9,A. Reaves makes 2-pt jump shot from 5 ft,,1,12,9,3,298.0
+6:49.0,Offensive foul by B. Adebayo (drawn by T. Prince),12-9, ,,1,12,9,3,311.0
+6:49.0,Turnover by B. Adebayo (offensive foul),12-9, ,,1,12,9,3,311.0
+6:49.0, ,12-9,LA Lakers full timeout,,1,12,9,3,311.0
+6:49.0, ,12-9,J. Vanderbilt enters the game for C. Reddish,,1,12,9,3,311.0
+6:30.0, ,12-9,T. Prince misses 3-pt jump shot from 25 ft,,1,12,9,3,330.0
+6:29.0, ,12-9,Offensive rebound by Team,,1,12,9,3,331.0
+6:23.0, ,12-9,Turnover by L. James (bad pass; steal by B. Adebayo),,1,12,9,3,337.0
+6:14.0,N. Jović misses 3-pt jump shot from 25 ft,12-9, ,,1,12,9,3,346.0
+6:12.0, ,12-9,Defensive rebound by A. Davis,,1,12,9,3,348.0
+6:12.0, ,12-9,M. Christie enters the game for A. Reaves,,1,12,9,3,348.0
+5:58.0, ,12-9,Turnover by A. Davis (bad pass),,1,12,9,3,362.0
+5:47.0,Shooting foul by L. James (drawn by T. Herro),12-9, ,,1,12,9,3,373.0
+5:47.0,K. Love enters the game for B. Adebayo,12-9, ,,1,12,9,3,373.0
+5:47.0,T. Herro makes free throw 1 of 3,13-9, ,,1,13,9,4,373.0
+5:47.0,T. Herro makes free throw 2 of 3,14-9, ,,1,14,9,5,373.0
+5:47.0,T. Herro makes free throw 3 of 3,15-9, ,,1,15,9,6,373.0
+5:45.0, ,15-9,Turnover by J. Vanderbilt (bad pass),,1,15,9,6,375.0
+5:38.0,T. Herro misses 2-pt layup from 3 ft (block by A. Davis),15-9, ,,1,15,9,6,382.0
+5:35.0, ,15-9,Defensive rebound by T. Prince,,1,15,9,6,385.0
+5:32.0, ,15-9,Turnover by J. Vanderbilt (bad pass; steal by K. Lowry),,1,15,9,6,388.0
+5:27.0,T. Herro makes 3-pt jump shot from 23 ft (assist by J. Jaquez),18-9, ,,1,18,9,9,393.0
+5:09.0, ,18-9,J. Vanderbilt misses 2-pt layup from 7 ft,,1,18,9,9,411.0
+5:07.0,Defensive rebound by N. Jović,18-9, ,,1,18,9,9,413.0
+5:05.0,J. Jaquez makes 2-pt dunk from 2 ft (assist by K. Lowry),20-9, ,,1,20,9,11,415.0
+5:05.0, ,20-9,LA Lakers full timeout,,1,20,9,11,415.0
+5:05.0,D. Robinson enters the game for J. Jaquez,20-9, ,,1,20,9,11,415.0
+4:47.0, ,20-9,Turnover by A. Davis (bad pass; steal by K. Lowry),,1,20,9,11,433.0
+4:40.0,T. Herro misses 2-pt jump shot from 20 ft,20-9, ,,1,20,9,11,440.0
+4:38.0, ,20-9,Defensive rebound by A. Davis,,1,20,9,11,442.0
+4:34.0, ,20-11,J. Vanderbilt makes 2-pt dunk from 4 ft (assist by L. James),,1,20,11,9,446.0
+4:07.0,D. Robinson misses 3-pt jump shot from 25 ft,20-11, ,,1,20,11,9,473.0
+4:04.0, ,20-11,Defensive rebound by J. Vanderbilt,,1,20,11,9,476.0
+3:52.0, ,20-11,L. James misses 2-pt jump shot from 12 ft,,1,20,11,9,488.0
+3:49.0, ,20-11,Offensive rebound by A. Davis,,1,20,11,9,491.0
+3:49.0, ,20-11,Shooting foul by D. Robinson (drawn by A. Davis),,1,20,11,9,491.0
+3:49.0, ,20-12,A. Davis makes free throw 1 of 2,,1,20,12,8,491.0
+3:49.0, ,20-12,A. Reaves enters the game for L. James,,1,20,12,8,491.0
+3:49.0, ,20-12,C. Wood enters the game for T. Prince,,1,20,12,8,491.0
+3:49.0, ,20-13,A. Davis makes free throw 2 of 2,,1,20,13,7,491.0
+3:32.0,D. Robinson misses 3-pt jump shot from 26 ft,20-13, ,,1,20,13,7,508.0
+3:25.0, ,20-13,Defensive rebound by A. Reaves,,1,20,13,7,515.0
+3:20.0,Violation by Team (kicked ball),20-13, ,,1,20,13,7,520.0
+3:20.0,J. Richardson enters the game for T. Herro,20-13, ,,1,20,13,7,520.0
+3:10.0, ,20-13,C. Wood misses 3-pt jump shot from 25 ft,,1,20,13,7,530.0
+3:10.0,Defensive rebound by K. Love,20-13, ,,1,20,13,7,530.0
+3:04.0,D. Robinson misses 3-pt jump shot from 25 ft,20-13, ,,1,20,13,7,536.0
+3:03.0, ,20-13,Defensive rebound by Team,,1,20,13,7,537.0
+3:01.0,Loose ball foul by J. Richardson (drawn by C. Wood),20-13, ,,1,20,13,7,539.0
+2:52.0, ,20-13,Turnover by A. Davis (lost ball; steal by K. Lowry),,1,20,13,7,548.0
+2:41.0,K. Love misses 2-pt jump shot from 4 ft,20-13, ,,1,20,13,7,559.0
+2:39.0, ,20-13,Defensive rebound by A. Davis,,1,20,13,7,561.0
+2:31.0, ,20-13,A. Davis misses 2-pt jump shot from 6 ft,,1,20,13,7,569.0
+2:28.0,Defensive rebound by K. Lowry,20-13, ,,1,20,13,7,572.0
+2:21.0,K. Lowry misses 3-pt jump shot from 28 ft,20-13, ,,1,20,13,7,579.0
+2:20.0, ,20-13,Defensive rebound by Team,,1,20,13,7,580.0
+2:20.0,J. Jaquez enters the game for K. Lowry,20-13, ,,1,20,13,7,580.0
+2:04.0, ,20-13,M. Christie misses 3-pt jump shot from 23 ft,,1,20,13,7,596.0
+2:01.0,Defensive rebound by K. Love,20-13, ,,1,20,13,7,599.0
+1:51.0,K. Love misses 3-pt jump shot from 24 ft,20-13, ,,1,20,13,7,609.0
+1:47.0, ,20-13,Defensive rebound by M. Christie,,1,20,13,7,613.0
+1:41.0, ,20-13,Shooting foul by N. Jović (drawn by A. Reaves),,1,20,13,7,619.0
+1:41.0, ,20-13,A. Reaves misses free throw 1 of 2,,1,20,13,7,619.0
+1:41.0, ,20-13,Offensive rebound by Team,,1,20,13,7,619.0
+1:41.0,B. Adebayo enters the game for N. Jović,20-13, ,,1,20,13,7,619.0
+1:41.0, ,20-14,A. Reaves makes free throw 2 of 2,,1,20,14,6,619.0
+1:32.0,J. Jaquez misses 2-pt layup from 2 ft,20-14, ,,1,20,14,6,628.0
+1:30.0, ,20-14,Defensive rebound by A. Reaves,,1,20,14,6,630.0
+1:21.0, ,20-16,M. Christie makes 2-pt layup from 2 ft (assist by A. Reaves),,1,20,16,4,639.0
+1:10.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by D. Robinson),22-16, ,,1,22,16,6,650.0
+0:52.0, ,22-16,A. Reaves misses 3-pt jump shot from 26 ft,,1,22,16,6,668.0
+0:49.0,Defensive rebound by K. Love,22-16, ,,1,22,16,6,671.0
+0:34.0,Shooting foul by M. Christie (drawn by K. Love),22-16, ,,1,22,16,6,686.0
+0:34.0,K. Love makes free throw 1 of 2,23-16, ,,1,23,16,7,686.0
+0:34.0,K. Love misses free throw 2 of 2,23-16, ,,1,23,16,7,686.0
+0:32.0, ,23-16,Defensive rebound by C. Wood,,1,23,16,7,688.0
+0:19.0, ,23-18,J. Vanderbilt makes 2-pt layup from 3 ft (assist by A. Davis),,1,23,18,5,701.0
+0:01.0,J. Richardson makes 2-pt layup from 3 ft,25-18, ,,1,25,18,7,719.0
+0:00.0,End of 1st quarter,25-18,,,1,25,18,7,720.0
+12:00.0,Start of 2nd quarter,25-18,,,2,25,18,7,720.0
+11:42.0, ,25-18,L. James misses 2-pt jump shot from 18 ft,,2,25,18,7,738.0
+11:42.0, ,25-18,Offensive rebound by Team,,2,25,18,7,738.0
+11:42.0,Loose ball foul by B. Adebayo (drawn by C. Wood),25-18, ,,2,25,18,7,738.0
+11:30.0, ,25-18,C. Wood misses 2-pt layup from 6 ft,,2,25,18,7,750.0
+11:27.0,Defensive rebound by K. Love,25-18, ,,2,25,18,7,753.0
+11:22.0,D. Robinson misses 3-pt jump shot from 26 ft,25-18, ,,2,25,18,7,758.0
+11:20.0, ,25-18,Defensive rebound by L. James,,2,25,18,7,760.0
+11:13.0, ,25-18,Turnover by M. Christie (bad pass; steal by J. Jaquez),,2,25,18,7,767.0
+11:10.0,J. Jaquez makes 2-pt layup from 3 ft,27-18, ,,2,27,18,9,770.0
+10:52.0, ,27-18,Turnover by M. Christie (bad pass; steal by D. Robinson),,2,27,18,9,788.0
+10:52.0,Turnover by D. Robinson (step out of bounds),27-18, ,,2,27,18,9,788.0
+10:40.0, ,27-21,M. Christie makes 3-pt jump shot from 23 ft (assist by C. Wood),,2,27,21,6,800.0
+10:25.0,J. Richardson makes 3-pt jump shot from 28 ft (assist by J. Jaquez),30-21, ,,2,30,21,9,815.0
+10:05.0, ,30-21,J. Hood-Schifino misses 2-pt layup from 3 ft,,2,30,21,9,835.0
+10:02.0, ,30-21,Offensive rebound by C. Wood,,2,30,21,9,838.0
+10:01.0, ,30-21,C. Wood misses 2-pt hook shot from 3 ft,,2,30,21,9,839.0
+10:00.0, ,30-21,Offensive rebound by J. Hood-Schifino,,2,30,21,9,840.0
+9:59.0, ,30-21,J. Hood-Schifino misses 2-pt layup from 4 ft (block by K. Love),,2,30,21,9,841.0
+9:56.0, ,30-21,Offensive rebound by C. Wood,,2,30,21,9,844.0
+9:55.0, ,30-21,M. Christie misses 3-pt jump shot from 26 ft,,2,30,21,9,845.0
+9:55.0,Defensive rebound by Team,30-21, ,,2,30,21,9,845.0
+9:38.0,B. Adebayo misses 2-pt hook shot from 6 ft,30-21, ,,2,30,21,9,862.0
+9:36.0, ,30-21,Defensive rebound by M. Christie,,2,30,21,9,864.0
+9:18.0, ,30-21,L. James misses 3-pt jump shot from 26 ft,,2,30,21,9,882.0
+9:15.0,Defensive rebound by J. Richardson,30-21, ,,2,30,21,9,885.0
+9:12.0,Personal foul by J. Hood-Schifino (drawn by J. Richardson),30-21, ,,2,30,21,9,888.0
+9:05.0,J. Richardson misses 2-pt jump shot from 16 ft,30-21, ,,2,30,21,9,895.0
+9:03.0, ,30-21,Defensive rebound by L. James,,2,30,21,9,897.0
+8:58.0, ,30-23,L. James makes 2-pt layup at rim,,2,30,23,7,902.0
+8:46.0,Shooting foul by C. Wood (drawn by B. Adebayo),30-23, ,,2,30,23,7,914.0
+8:46.0,B. Adebayo misses free throw 1 of 2,30-23, ,,2,30,23,7,914.0
+8:46.0,Offensive rebound by Team,30-23, ,,2,30,23,7,914.0
+8:46.0,N. Jović enters the game for K. Love,30-23, ,,2,30,23,7,914.0
+8:46.0, ,30-23,T. Prince enters the game for M. Christie,,2,30,23,7,914.0
+8:46.0,B. Adebayo makes free throw 2 of 2,31-23, ,,2,31,23,8,914.0
+8:36.0, ,31-23,T. Prince misses 3-pt jump shot from 23 ft,,2,31,23,8,924.0
+8:34.0, ,31-23,Offensive rebound by C. Wood,,2,31,23,8,926.0
+8:33.0, ,31-25,C. Wood makes 2-pt layup from 3 ft,,2,31,25,6,927.0
+8:17.0,B. Adebayo misses 2-pt layup from 4 ft (block by C. Wood),31-25, ,,2,31,25,6,943.0
+8:14.0,Offensive rebound by B. Adebayo,31-25, ,,2,31,25,6,946.0
+8:07.0,J. Jaquez misses 3-pt jump shot from 23 ft,31-25, ,,2,31,25,6,953.0
+8:04.0, ,31-25,Defensive rebound by J. Hood-Schifino,,2,31,25,6,956.0
+7:50.0, ,31-25,J. Hood-Schifino misses 2-pt layup from 3 ft (block by J. Jaquez),,2,31,25,6,970.0
+7:48.0,Defensive rebound by N. Jović,31-25, ,,2,31,25,6,972.0
+7:45.0,D. Robinson makes 2-pt layup from 2 ft (assist by N. Jović),33-25, ,,2,33,25,8,975.0
+7:27.0, ,33-25,Turnover by C. Wood (bad pass),,2,33,25,8,993.0
+7:27.0, ,33-25,A. Davis enters the game for C. Wood,,2,33,25,8,993.0
+7:03.0,B. Adebayo misses 3-pt jump shot from 27 ft,33-25, ,,2,33,25,8,1017.0
+7:03.0,Offensive rebound by Team,33-25, ,,2,33,25,8,1017.0
+7:03.0,Turnover by Team (shot clock),33-25, ,,2,33,25,8,1017.0
+6:44.0, ,33-25,J. Hood-Schifino misses 2-pt jump shot from 17 ft,,2,33,25,8,1036.0
+6:42.0,Defensive rebound by N. Jović,33-25, ,,2,33,25,8,1038.0
+6:38.0,Miami full timeout,33-25, ,,2,33,25,8,1042.0
+6:38.0,T. Herro enters the game for B. Adebayo,33-25, ,,2,33,25,8,1042.0
+6:38.0,K. Love enters the game for J. Richardson,33-25, ,,2,33,25,8,1042.0
+6:38.0,K. Lowry enters the game for D. Robinson,33-25, ,,2,33,25,8,1042.0
+6:38.0, ,33-25,A. Reaves enters the game for J. Hood-Schifino,,2,33,25,8,1042.0
+6:29.0,J. Jaquez makes 2-pt layup from 1 ft (assist by K. Lowry),35-25, ,,2,35,25,10,1051.0
+6:10.0, ,35-27,A. Davis makes 2-pt dunk from 4 ft (assist by C. Reddish),,2,35,27,8,1070.0
+6:02.0,N. Jović makes 2-pt layup from 2 ft (assist by K. Lowry),37-27, ,,2,37,27,10,1078.0
+5:45.0, ,37-30,A. Reaves makes 3-pt jump shot from 27 ft (assist by A. Davis),,2,37,30,7,1095.0
+5:28.0,Shooting foul by T. Prince (drawn by K. Love),37-30, ,,2,37,30,7,1112.0
+5:28.0,K. Love makes free throw 1 of 2,38-30, ,,2,38,30,8,1112.0
+5:28.0,K. Love misses free throw 2 of 2,38-30, ,,2,38,30,8,1112.0
+5:25.0, ,38-30,Defensive rebound by L. James,,2,38,30,8,1115.0
+5:14.0, ,38-30,Shooting foul by N. Jović (drawn by A. Davis),,2,38,30,8,1126.0
+5:14.0, ,38-31,A. Davis makes free throw 1 of 2,,2,38,31,7,1126.0
+5:14.0, ,38-31,M. Christie enters the game for C. Reddish,,2,38,31,7,1126.0
+5:14.0, ,38-31,A. Davis misses free throw 2 of 2,,2,38,31,7,1126.0
+5:11.0,Defensive rebound by N. Jović,38-31, ,,2,38,31,7,1129.0
+5:06.0,Personal foul by M. Christie (drawn by J. Jaquez),38-31, ,,2,38,31,7,1134.0
+4:53.0,N. Jović makes 3-pt jump shot from 26 ft (assist by T. Herro),41-31, ,,2,41,31,10,1147.0
+4:33.0, ,41-31,Turnover by T. Prince (bad pass; steal by K. Love),,2,41,31,10,1167.0
+4:22.0,K. Love makes 2-pt layup from 2 ft (assist by J. Jaquez),43-31, ,,2,43,31,12,1178.0
+4:03.0, ,43-33,A. Davis makes 2-pt dunk from 4 ft (assist by A. Reaves),,2,43,33,10,1197.0
+3:53.0,T. Herro misses 2-pt jump shot from 19 ft,43-33, ,,2,43,33,10,1207.0
+3:53.0,Offensive rebound by K. Love,43-33, ,,2,43,33,10,1207.0
+3:53.0,Shooting foul by L. James (drawn by K. Love),43-33, ,,2,43,33,10,1207.0
+3:53.0, ,43-33,LA Lakers full timeout,,2,43,33,10,1207.0
+3:53.0, ,43-33,Instant Replay (Challenge: Stands),,2,43,33,10,1207.0
+3:53.0,K. Love misses free throw 1 of 2,43-33, ,,2,43,33,10,1207.0
+3:53.0,Offensive rebound by Team,43-33, ,,2,43,33,10,1207.0
+3:53.0,K. Love misses free throw 2 of 2,43-33, ,,2,43,33,10,1207.0
+3:50.0, ,43-33,Defensive rebound by T. Prince,,2,43,33,10,1210.0
+3:45.0, ,43-33,M. Christie misses 3-pt jump shot from 24 ft,,2,43,33,10,1215.0
+3:45.0, ,43-33,Offensive rebound by Team,,2,43,33,10,1215.0
+3:45.0,Loose ball foul by K. Love (drawn by A. Davis),43-33, ,,2,43,33,10,1215.0
+3:45.0,B. Adebayo enters the game for J. Jaquez,43-33, ,,2,43,33,10,1215.0
+3:45.0,D. Robinson enters the game for K. Love,43-33, ,,2,43,33,10,1215.0
+3:36.0, ,43-33,L. James misses 2-pt hook shot from 8 ft,,2,43,33,10,1224.0
+3:33.0,Defensive rebound by N. Jović,43-33, ,,2,43,33,10,1227.0
+3:28.0,Turnover by K. Lowry (bad pass; steal by A. Davis),43-33, ,,2,43,33,10,1232.0
+3:24.0, ,43-35,A. Davis makes 2-pt dunk from 2 ft (assist by A. Reaves),,2,43,35,8,1236.0
+3:24.0, ,43-35,Personal foul by K. Lowry (drawn by A. Davis),,2,43,35,8,1236.0
+3:24.0, ,43-36,A. Davis makes free throw 1 of 1,,2,43,36,7,1236.0
+3:17.0,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo),46-36, ,,2,46,36,10,1243.0
+2:56.0,Violation by Team (kicked ball),46-36, ,,2,46,36,10,1264.0
+2:51.0, ,46-38,M. Christie makes 2-pt jump shot from 11 ft (assist by T. Prince),,2,46,38,8,1269.0
+2:31.0,T. Herro makes 2-pt jump shot from 13 ft (assist by K. Lowry),48-38, ,,2,48,38,10,1289.0
+2:05.0, ,48-41,M. Christie makes 3-pt jump shot from 24 ft (assist by A. Reaves),,2,48,41,7,1315.0
+1:43.0,K. Lowry makes 3-pt jump shot from 27 ft (assist by D. Robinson),51-41, ,,2,51,41,10,1337.0
+1:16.0, ,51-41,L. James misses 3-pt jump shot from 26 ft,,2,51,41,10,1364.0
+1:16.0,Defensive rebound by T. Herro,51-41, ,,2,51,41,10,1364.0
+1:00.0,T. Herro misses 2-pt jump shot from 14 ft,51-41, ,,2,51,41,10,1380.0
+0:57.0, ,51-41,Defensive rebound by A. Davis,,2,51,41,10,1383.0
+0:55.0, ,51-41,Offensive foul by A. Davis (drawn by K. Lowry),,2,51,41,10,1385.0
+0:55.0, ,51-41,Turnover by A. Davis (offensive foul),,2,51,41,10,1385.0
+0:55.0, ,51-41,C. Wood enters the game for L. James,,2,51,41,10,1385.0
+0:46.0,T. Herro misses 2-pt jump shot from 15 ft,51-41, ,,2,51,41,10,1394.0
+0:43.0, ,51-41,Defensive rebound by C. Wood,,2,51,41,10,1397.0
+0:35.0, ,51-43,C. Wood makes 2-pt dunk from 4 ft (assist by A. Reaves),,2,51,43,8,1405.0
+0:14.0,D. Robinson misses 3-pt jump shot from 26 ft,51-43, ,,2,51,43,8,1426.0
+0:12.0, ,51-43,Defensive rebound by A. Davis,,2,51,43,8,1428.0
+0:12.0, ,51-43,Personal foul by K. Lowry (drawn by A. Davis),,2,51,43,8,1428.0
+0:12.0, ,51-44,A. Davis makes free throw 1 of 2,,2,51,44,7,1428.0
+0:12.0,J. Jaquez enters the game for B. Adebayo,51-44, ,,2,51,44,7,1428.0
+0:12.0,K. Love enters the game for N. Jović,51-44, ,,2,51,44,7,1428.0
+0:12.0, ,51-44,J. Vanderbilt enters the game for A. Reaves,,2,51,44,7,1428.0
+0:12.0, ,51-45,A. Davis makes free throw 2 of 2,,2,51,45,6,1428.0
+0:01.0,T. Herro makes 2-pt jump shot from 17 ft,53-45, ,,2,53,45,8,1439.0
+0:00.0, ,53-45,M. Christie misses 3-pt jump shot from 68 ft,,2,53,45,8,1440.0
+0:00.0, ,53-45,Offensive rebound by Team,,2,53,45,8,1440.0
+0:00.0,End of 2nd quarter,53-45,,,2,53,45,8,1440.0
+12:00.0,Start of 3rd quarter,53-45,,,3,53,45,8,1440.0
+11:39.0, ,53-47,L. James makes 2-pt layup from 5 ft (assist by T. Prince),,3,53,47,6,1461.0
+11:19.0,J. Jaquez misses 2-pt layup from 5 ft (block by A. Davis),53-47, ,,3,53,47,6,1481.0
+11:15.0, ,53-47,Defensive rebound by A. Davis,,3,53,47,6,1485.0
+11:12.0, ,53-47,Turnover by A. Reaves (bad pass; steal by B. Adebayo),,3,53,47,6,1488.0
+11:05.0,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Jaquez),56-47, ,,3,56,47,9,1495.0
+10:47.0, ,56-47,L. James misses 3-pt jump shot from 28 ft,,3,56,47,9,1513.0
+10:44.0,Defensive rebound by K. Lowry,56-47, ,,3,56,47,9,1516.0
+10:40.0,K. Lowry misses 3-pt jump shot from 26 ft,56-47, ,,3,56,47,9,1520.0
+10:37.0, ,56-47,Defensive rebound by A. Davis,,3,56,47,9,1523.0
+10:27.0, ,56-47,T. Prince misses 3-pt jump shot from 27 ft,,3,56,47,9,1533.0
+10:24.0,Defensive rebound by T. Herro,56-47, ,,3,56,47,9,1536.0
+10:18.0,T. Herro misses 3-pt jump shot from 25 ft,56-47, ,,3,56,47,9,1542.0
+10:14.0, ,56-47,Defensive rebound by A. Reaves,,3,56,47,9,1546.0
+10:09.0, ,56-49,A. Davis makes 2-pt dunk from 3 ft (assist by A. Reaves),,3,56,49,7,1551.0
+9:52.0,B. Adebayo makes 2-pt jump shot from 10 ft (assist by J. Jaquez),58-49, ,,3,58,49,9,1568.0
+9:41.0, ,58-49,Turnover by A. Reaves (traveling),,3,58,49,9,1579.0
+9:18.0,B. Adebayo misses 2-pt jump shot from 17 ft (block by A. Davis),58-49, ,,3,58,49,9,1602.0
+9:17.0,Offensive rebound by N. Jović,58-49, ,,3,58,49,9,1603.0
+9:17.0,N. Jović misses 2-pt layup from 3 ft,58-49, ,,3,58,49,9,1603.0
+9:17.0,Offensive rebound by Team,58-49, ,,3,58,49,9,1603.0
+9:17.0,Turnover by Team (shot clock),58-49, ,,3,58,49,9,1603.0
+9:00.0, ,58-49,Turnover by C. Reddish (lost ball; steal by T. Herro),,3,58,49,9,1620.0
+8:55.0,K. Lowry makes 2-pt layup from 1 ft (assist by T. Herro),60-49, ,,3,60,49,11,1625.0
+8:38.0, ,60-51,A. Reaves makes 2-pt jump shot from 15 ft (assist by A. Davis),,3,60,51,9,1642.0
+8:35.0,Personal foul by C. Reddish (drawn by T. Herro),60-51, ,,3,60,51,9,1645.0
+8:15.0,J. Jaquez misses 3-pt jump shot from 27 ft,60-51, ,,3,60,51,9,1665.0
+8:12.0, ,60-51,Defensive rebound by A. Davis,,3,60,51,9,1668.0
+7:59.0, ,60-51,Personal foul by N. Jović (drawn by A. Davis),,3,60,51,9,1681.0
+7:54.0, ,60-53,L. James makes 2-pt dunk from 4 ft (assist by A. Davis),,3,60,53,7,1686.0
+7:47.0,T. Herro makes 2-pt jump shot from 7 ft (assist by K. Lowry),62-53, ,,3,62,53,9,1693.0
+7:29.0, ,62-55,A. Reaves makes 2-pt layup from 2 ft (assist by L. James),,3,62,55,7,1711.0
+7:24.0,Offensive foul by T. Herro (drawn by A. Reaves),62-55, ,,3,62,55,7,1716.0
+7:24.0,Turnover by T. Herro (offensive foul),62-55, ,,3,62,55,7,1716.0
+7:09.0, ,62-55,A. Davis misses 3-pt jump shot from 27 ft,,3,62,55,7,1731.0
+7:05.0,Defensive rebound by N. Jović,62-55, ,,3,62,55,7,1735.0
+6:57.0,N. Jović makes 2-pt layup from 4 ft (assist by B. Adebayo),64-55, ,,3,64,55,9,1743.0
+6:41.0, ,64-55,Turnover by C. Reddish (lost ball; steal by T. Herro),,3,64,55,9,1759.0
+6:36.0,J. Jaquez misses 3-pt jump shot from 22 ft,64-55, ,,3,64,55,9,1764.0
+6:32.0, ,64-55,Defensive rebound by L. James,,3,64,55,9,1768.0
+6:25.0, ,64-55,L. James misses 2-pt layup from 4 ft,,3,64,55,9,1775.0
+6:20.0,Defensive rebound by T. Herro,64-55, ,,3,64,55,9,1780.0
+6:13.0,N. Jović misses 2-pt jump shot from 11 ft,64-55, ,,3,64,55,9,1787.0
+6:11.0, ,64-55,Defensive rebound by T. Prince,,3,64,55,9,1789.0
+6:01.0, ,64-55,LA Lakers full timeout,,3,64,55,9,1799.0
+6:01.0, ,64-55,M. Christie enters the game for T. Prince,,3,64,55,9,1799.0
+6:01.0, ,64-55,J. Vanderbilt enters the game for C. Reddish,,3,64,55,9,1799.0
+5:50.0, ,64-55,M. Christie misses 3-pt jump shot from 27 ft,,3,64,55,9,1810.0
+5:49.0, ,64-55,Offensive rebound by A. Davis,,3,64,55,9,1811.0
+5:47.0, ,64-57,A. Davis makes 2-pt layup from 2 ft,,3,64,57,7,1813.0
+5:30.0,J. Jaquez makes 3-pt jump shot from 24 ft (assist by B. Adebayo),67-57, ,,3,67,57,10,1830.0
+5:16.0, ,67-59,A. Davis makes 2-pt jump shot from 13 ft (assist by L. James),,3,67,59,8,1844.0
+5:05.0,N. Jović makes 3-pt jump shot from 27 ft (assist by T. Herro),70-59, ,,3,70,59,11,1855.0
+4:50.0, ,70-61,M. Christie makes 2-pt dunk from 3 ft (assist by L. James),,3,70,61,9,1870.0
+4:32.0,K. Lowry misses 3-pt jump shot from 27 ft,70-61, ,,3,70,61,9,1888.0
+4:29.0, ,70-61,Defensive rebound by A. Davis,,3,70,61,9,1891.0
+4:26.0, ,70-61,Personal foul by N. Jović (drawn by J. Vanderbilt),,3,70,61,9,1894.0
+4:26.0,K. Love enters the game for B. Adebayo,70-61, ,,3,70,61,9,1894.0
+4:26.0,D. Robinson enters the game for J. Jaquez,70-61, ,,3,70,61,9,1894.0
+4:26.0, ,70-61,C. Wood enters the game for L. James,,3,70,61,9,1894.0
+4:08.0, ,70-61,A. Davis misses 2-pt jump shot from 14 ft,,3,70,61,9,1912.0
+4:06.0, ,70-61,Offensive rebound by C. Wood,,3,70,61,9,1914.0
+4:05.0, ,70-61,Turnover by C. Wood (bad pass; steal by N. Jović),,3,70,61,9,1915.0
+3:46.0,T. Herro misses 3-pt jump shot from 26 ft,70-61, ,,3,70,61,9,1934.0
+3:44.0, ,70-61,Defensive rebound by M. Christie,,3,70,61,9,1936.0
+3:29.0, ,70-63,A. Davis makes 2-pt layup from 3 ft (assist by C. Wood),,3,70,63,7,1951.0
+3:27.0,Miami full timeout,70-63, ,,3,70,63,7,1953.0
+3:27.0,J. Richardson enters the game for N. Jović,70-63, ,,3,70,63,7,1953.0
+3:06.0,D. Robinson misses 3-pt jump shot from 26 ft,70-63, ,,3,70,63,7,1974.0
+3:04.0, ,70-63,Defensive rebound by A. Davis,,3,70,63,7,1976.0
+3:00.0, ,70-63,Personal foul by J. Richardson (drawn by C. Wood),,3,70,63,7,1980.0
+2:43.0, ,70-63,M. Christie misses 3-pt jump shot from 23 ft,,3,70,63,7,1997.0
+2:42.0, ,70-63,Offensive rebound by M. Christie,,3,70,63,7,1998.0
+2:37.0, ,70-63,A. Reaves misses 3-pt jump shot from 25 ft,,3,70,63,7,2003.0
+2:32.0,Defensive rebound by K. Love,70-63, ,,3,70,63,7,2008.0
+2:28.0,T. Herro misses 2-pt jump shot from 5 ft,70-63, ,,3,70,63,7,2012.0
+2:26.0, ,70-63,Defensive rebound by Team,,3,70,63,7,2014.0
+2:26.0,Loose ball foul by T. Herro (drawn by A. Davis),70-63, ,,3,70,63,7,2014.0
+2:26.0,B. Adebayo enters the game for T. Herro,70-63, ,,3,70,63,7,2014.0
+2:26.0,J. Jaquez enters the game for K. Lowry,70-63, ,,3,70,63,7,2014.0
+2:06.0, ,70-63,Shooting foul by B. Adebayo (drawn by A. Davis),,3,70,63,7,2034.0
+2:06.0, ,70-64,A. Davis makes free throw 1 of 2,,3,70,64,6,2034.0
+2:06.0, ,70-65,A. Davis makes free throw 2 of 2,,3,70,65,5,2034.0
+1:54.0,J. Richardson misses 3-pt jump shot from 27 ft,70-65, ,,3,70,65,5,2046.0
+1:51.0, ,70-65,Defensive rebound by C. Wood,,3,70,65,5,2049.0
+1:46.0, ,70-67,A. Davis makes 2-pt jump shot from 4 ft (assist by A. Reaves),,3,70,67,3,2054.0
+1:46.0,Miami full timeout,70-67, ,,3,70,67,3,2054.0
+1:33.0,Turnover by J. Jaquez (bad pass; steal by A. Davis),70-67, ,,3,70,67,3,2067.0
+1:19.0, ,70-67,C. Wood misses 2-pt layup from 4 ft,,3,70,67,3,2081.0
+1:19.0,Defensive rebound by Team,70-67, ,,3,70,67,3,2081.0
+1:01.0,B. Adebayo makes 2-pt jump shot from 19 ft,72-67, ,,3,72,67,5,2099.0
+0:47.0, ,72-67,A. Davis misses 2-pt hook shot from 6 ft,,3,72,67,5,2113.0
+0:43.0,Defensive rebound by B. Adebayo,72-67, ,,3,72,67,5,2117.0
+0:38.0,B. Adebayo misses 2-pt jump shot from 17 ft,72-67, ,,3,72,67,5,2122.0
+0:35.0, ,72-67,Defensive rebound by A. Reaves,,3,72,67,5,2125.0
+0:30.0, ,72-67,A. Reaves misses 2-pt jump shot from 13 ft,,3,72,67,5,2130.0
+0:28.0,Defensive rebound by K. Love,72-67, ,,3,72,67,5,2132.0
+0:07.0,J. Richardson misses 2-pt jump shot from 14 ft,72-67, ,,3,72,67,5,2153.0
+0:05.0, ,72-67,Defensive rebound by J. Vanderbilt,,3,72,67,5,2155.0
+0:03.0, ,72-67,A. Reaves misses 3-pt jump shot from 26 ft,,3,72,67,5,2157.0
+0:00.0,Defensive rebound by K. Love,72-67, ,,3,72,67,5,2160.0
+0:00.0,End of 3rd quarter,72-67,,,3,72,67,5,2160.0
+12:00.0,Start of 4th quarter,72-67,,,4,72,67,5,2160.0
+11:48.0,B. Adebayo misses 2-pt layup from 3 ft (block by A. Davis),72-67, ,,4,72,67,5,2172.0
+11:48.0, ,72-67,Defensive rebound by L. James,,4,72,67,5,2172.0
+11:41.0, ,72-69,L. James makes 2-pt layup from 3 ft,,4,72,69,3,2179.0
+11:28.0,J. Richardson makes 2-pt jump shot from 11 ft,74-69, ,,4,74,69,5,2192.0
+11:07.0, ,74-69,T. Prince misses 3-pt jump shot from 24 ft,,4,74,69,5,2213.0
+11:05.0,Defensive rebound by B. Adebayo,74-69, ,,4,74,69,5,2215.0
+11:04.0,Personal foul by A. Davis (drawn by B. Adebayo),74-69, ,,4,74,69,5,2216.0
+10:52.0,D. Robinson misses 3-pt jump shot from 27 ft,74-69, ,,4,74,69,5,2228.0
+10:49.0, ,74-69,Defensive rebound by A. Davis,,4,74,69,5,2231.0
+10:46.0, ,74-71,C. Wood makes 2-pt layup from 2 ft (assist by L. James),,4,74,71,3,2234.0
+10:46.0, ,74-71,Shooting foul by D. Robinson (drawn by C. Wood),,4,74,71,3,2234.0
+10:46.0, ,74-72,C. Wood makes free throw 1 of 1,,4,74,72,2,2234.0
+10:27.0,K. Love misses 2-pt jump shot from 5 ft (block by A. Davis),74-72, ,,4,74,72,2,2253.0
+10:24.0,Offensive rebound by K. Love,74-72, ,,4,74,72,2,2256.0
+10:22.0,D. Robinson makes 3-pt jump shot from 23 ft (assist by K. Love),77-72, ,,4,77,72,5,2258.0
+10:06.0, ,77-72,C. Wood misses 3-pt jump shot from 26 ft,,4,77,72,5,2274.0
+10:03.0,Defensive rebound by K. Love,77-72, ,,4,77,72,5,2277.0
+9:53.0,D. Robinson makes 2-pt layup from 5 ft (assist by J. Richardson),79-72, ,,4,79,72,7,2287.0
+9:36.0, ,79-72,A. Davis misses 2-pt jump shot from 7 ft,,4,79,72,7,2304.0
+9:34.0,Defensive rebound by K. Love,79-72, ,,4,79,72,7,2306.0
+9:27.0,D. Robinson misses 3-pt jump shot from 25 ft,79-72, ,,4,79,72,7,2313.0
+9:24.0, ,79-72,Defensive rebound by M. Christie,,4,79,72,7,2316.0
+9:19.0, ,79-72,Personal foul by J. Jaquez (drawn by A. Davis),,4,79,72,7,2321.0
+9:19.0, ,79-72,C. Reddish enters the game for M. Christie,,4,79,72,7,2321.0
+9:11.0, ,79-74,C. Wood makes 2-pt layup from 3 ft (assist by L. James),,4,79,74,5,2329.0
+8:52.0,J. Jaquez makes 3-pt jump shot from 23 ft (assist by K. Love),82-74, ,,4,82,74,8,2348.0
+8:44.0, ,82-74,T. Prince misses 3-pt jump shot from 26 ft,,4,82,74,8,2356.0
+8:41.0,Defensive rebound by K. Love,82-74, ,,4,82,74,8,2359.0
+8:35.0,B. Adebayo misses 2-pt jump shot from 8 ft,82-74, ,,4,82,74,8,2365.0
+8:35.0,Offensive rebound by K. Love,82-74, ,,4,82,74,8,2365.0
+8:35.0,K. Love makes 2-pt layup at rim,84-74, ,,4,84,74,10,2365.0
+8:35.0, ,84-74,LA Lakers full timeout,,4,84,74,10,2365.0
+8:35.0, ,84-74,A. Reaves enters the game for C. Reddish,,4,84,74,10,2365.0
+8:23.0, ,84-76,A. Davis makes 2-pt dunk from 4 ft (assist by C. Wood),,4,84,76,8,2377.0
+8:08.0,K. Love makes 2-pt hook shot from 4 ft (assist by J. Jaquez),86-76, ,,4,86,76,10,2392.0
+7:53.0, ,86-79,A. Reaves makes 3-pt jump shot from 31 ft (assist by L. James),,4,86,79,7,2407.0
+7:35.0,Shooting foul by T. Prince (drawn by B. Adebayo),86-79, ,,4,86,79,7,2425.0
+7:35.0,B. Adebayo makes free throw 1 of 2,87-79, ,,4,87,79,8,2425.0
+7:35.0,B. Adebayo makes free throw 2 of 2,88-79, ,,4,88,79,9,2425.0
+7:26.0, ,88-81,A. Davis makes 2-pt dunk from 4 ft (assist by L. James),,4,88,81,7,2434.0
+7:26.0, ,88-81,Shooting foul by K. Love (drawn by A. Davis),,4,88,81,7,2434.0
+7:26.0, ,88-82,A. Davis makes free throw 1 of 1,,4,88,82,6,2434.0
+7:03.0,B. Adebayo makes 2-pt jump shot from 6 ft,90-82, ,,4,90,82,8,2457.0
+6:38.0, ,90-82,T. Prince misses 2-pt jump shot from 10 ft (block by J. Richardson),,4,90,82,8,2482.0
+6:38.0, ,90-82,Offensive rebound by Team,,4,90,82,8,2482.0
+6:38.0, ,90-82,Turnover by Team (shot clock),,4,90,82,8,2482.0
+6:23.0,D. Robinson makes 3-pt jump shot from 25 ft,93-82, ,,4,93,82,11,2497.0
+6:09.0, ,93-82,L. James misses 3-pt jump shot from 25 ft,,4,93,82,11,2511.0
+6:08.0, ,93-82,Offensive rebound by Team,,4,93,82,11,2512.0
+6:08.0, ,93-82,J. Vanderbilt enters the game for T. Prince,,4,93,82,11,2512.0
+5:57.0, ,93-82,Shooting foul by J. Richardson (drawn by A. Reaves),,4,93,82,11,2523.0
+5:57.0, ,93-83,A. Reaves makes free throw 1 of 2,,4,93,83,10,2523.0
+5:57.0, ,93-84,A. Reaves makes free throw 2 of 2,,4,93,84,9,2523.0
+5:38.0,B. Adebayo misses 2-pt jump shot from 14 ft,93-84, ,,4,93,84,9,2542.0
+5:37.0,Offensive rebound by Team,93-84, ,,4,93,84,9,2543.0
+5:30.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by B. Adebayo),96-84, ,,4,96,84,12,2550.0
+5:09.0, ,96-84,Personal foul by D. Robinson (drawn by A. Reaves),,4,96,84,12,2571.0
+5:09.0, ,96-85,A. Reaves makes free throw 1 of 2,,4,96,85,11,2571.0
+5:09.0, ,96-85,M. Christie enters the game for C. Wood,,4,96,85,11,2571.0
+5:09.0, ,96-86,A. Reaves makes free throw 2 of 2,,4,96,86,10,2571.0
+4:51.0,Turnover by B. Adebayo (lost ball; steal by A. Davis),96-86, ,,4,96,86,10,2589.0
+4:50.0, ,96-86,Turnover by A. Davis (bad pass),,4,96,86,10,2590.0
+4:50.0,Miami full timeout,96-86, ,,4,96,86,10,2590.0
+4:30.0,J. Jaquez makes 2-pt jump shot from 9 ft,98-86, ,,4,98,86,12,2610.0
+4:18.0, ,98-88,L. James makes 2-pt layup from 3 ft,,4,98,88,10,2622.0
+4:04.0,J. Richardson makes 3-pt jump shot from 27 ft (assist by J. Jaquez),101-88, ,,4,101,88,13,2636.0
+3:43.0, ,101-88,A. Davis misses 2-pt jump shot from 15 ft,,4,101,88,13,2657.0
+3:41.0,Defensive rebound by B. Adebayo,101-88, ,,4,101,88,13,2659.0
+3:39.0,Shooting foul by A. Reaves (drawn by B. Adebayo),101-88, ,,4,101,88,13,2661.0
+3:39.0,B. Adebayo makes free throw 1 of 2,102-88, ,,4,102,88,14,2661.0
+3:39.0,T. Herro enters the game for J. Richardson,102-88, ,,4,102,88,14,2661.0
+3:39.0, ,102-88,C. Wood enters the game for J. Vanderbilt,,4,102,88,14,2661.0
+3:39.0,B. Adebayo makes free throw 2 of 2,103-88, ,,4,103,88,15,2661.0
+3:30.0,Violation by Team (kicked ball),103-88, ,,4,103,88,15,2670.0
+3:20.0, ,103-88,M. Christie misses 3-pt jump shot from 26 ft,,4,103,88,15,2680.0
+3:16.0,Defensive rebound by T. Herro,103-88, ,,4,103,88,15,2684.0
+3:05.0,D. Robinson misses 3-pt jump shot from 28 ft,103-88, ,,4,103,88,15,2695.0
+3:02.0, ,103-88,Defensive rebound by C. Wood,,4,103,88,15,2698.0
+2:58.0, ,103-90,A. Reaves makes 2-pt layup from 4 ft (assist by L. James),,4,103,90,13,2702.0
+2:58.0,Violation by Team (def goaltending),103-90, ,,4,103,90,13,2702.0
+2:41.0,T. Herro misses 2-pt jump shot from 21 ft,103-90, ,,4,103,90,13,2719.0
+2:38.0, ,103-90,Defensive rebound by A. Davis,,4,103,90,13,2722.0
+2:34.0, ,103-90,L. James misses 2-pt layup from 3 ft,,4,103,90,13,2726.0
+2:31.0,Defensive rebound by K. Love,103-90, ,,4,103,90,13,2729.0
+2:14.0,T. Herro makes 3-pt jump shot from 27 ft (assist by B. Adebayo),106-90, ,,4,106,90,16,2746.0
+1:54.0, ,106-90,Shooting foul by B. Adebayo (drawn by C. Wood),,4,106,90,16,2766.0
+1:54.0, ,106-91,C. Wood makes free throw 1 of 2,,4,106,91,15,2766.0
+1:54.0, ,106-92,C. Wood makes free throw 2 of 2,,4,106,92,14,2766.0
+1:40.0,K. Love makes 2-pt jump shot from 19 ft (assist by J. Jaquez),108-92, ,,4,108,92,16,2780.0
+1:28.0, ,108-94,C. Wood makes 2-pt jump shot from 8 ft (assist by A. Davis),,4,108,94,14,2792.0
+1:16.0,J. Jaquez makes 2-pt layup from 3 ft (assist by K. Love),110-94, ,,4,110,94,16,2804.0
+1:04.0, ,110-94,L. James misses 3-pt jump shot from 27 ft,,4,110,94,16,2816.0
+1:00.0,Defensive rebound by B. Adebayo,110-94, ,,4,110,94,16,2820.0
+0:47.0,J. Jaquez misses 3-pt jump shot from 27 ft,110-94, ,,4,110,94,16,2833.0
+0:45.0, ,110-94,Defensive rebound by A. Reaves,,4,110,94,16,2835.0
+0:39.0, ,110-94,Personal foul by K. Love (drawn by M. Christie),,4,110,94,16,2841.0
+0:39.0, ,110-95,M. Christie makes free throw 1 of 2,,4,110,95,15,2841.0
+0:39.0,J. Cain enters the game for B. Adebayo,110-95, ,,4,110,95,15,2841.0
+0:39.0,R. Hampton enters the game for T. Herro,110-95, ,,4,110,95,15,2841.0
+0:39.0,N. Jović enters the game for J. Jaquez,110-95, ,,4,110,95,15,2841.0
+0:39.0,O. Robinson enters the game for K. Love,110-95, ,,4,110,95,15,2841.0
+0:39.0,C. Swider enters the game for D. Robinson,110-95, ,,4,110,95,15,2841.0
+0:39.0, ,110-95,J. Hayes enters the game for A. Davis,,4,110,95,15,2841.0
+0:39.0, ,110-95,J. Hood-Schifino enters the game for L. James,,4,110,95,15,2841.0
+0:39.0, ,110-96,M. Christie makes free throw 2 of 2,,4,110,96,14,2841.0
+0:21.0,C. Swider misses 3-pt jump shot from 27 ft,110-96, ,,4,110,96,14,2859.0
+0:21.0, ,110-96,Defensive rebound by Team,,4,110,96,14,2859.0
+0:00.0,End of 4th quarter,110-96,,,4,110,96,14,2880.0

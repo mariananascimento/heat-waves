@@ -1,0 +1,440 @@
+Time,Miami,Score,Detroit,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. J. Duren (N. Jović gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,J. Butler makes 2-pt layup from 1 ft (assist by D. Robinson),2-0, ,,1,2,0,2,15.0
+11:31.0, ,2-2,J. Duren makes 2-pt dunk from 3 ft (assist by C. Cunningham),Tie,1,2,2,0,29.0
+11:12.0,T. Rozier misses 3-pt jump shot from 25 ft,2-2, ,,1,2,2,0,48.0
+11:09.0, ,2-2,Defensive rebound by I. Stewart,,1,2,2,0,51.0
+11:00.0, ,2-2,C. Cunningham misses 3-pt jump shot from 26 ft,,1,2,2,0,60.0
+10:56.0,Defensive rebound by B. Adebayo,2-2, ,,1,2,2,0,64.0
+10:41.0,D. Robinson makes 2-pt layup from 1 ft,4-2, ,,1,4,2,2,79.0
+10:29.0, ,4-2,Turnover by J. Duren (bad pass; steal by T. Rozier),,1,4,2,2,91.0
+10:25.0,T. Rozier makes 2-pt layup from 2 ft,6-2, ,,1,6,2,4,95.0
+10:12.0, ,6-2,Turnover by J. Duren (lost ball; steal by N. Jović),,1,6,2,4,108.0
+10:06.0,N. Jović makes 3-pt jump shot from 25 ft (assist by D. Robinson),9-2, ,,1,9,2,7,114.0
+9:50.0, ,9-2,C. Cunningham misses 3-pt jump shot from 28 ft,,1,9,2,7,130.0
+9:48.0,Defensive rebound by Team,9-2, ,,1,9,2,7,132.0
+9:35.0,D. Robinson misses 3-pt jump shot from 30 ft,9-2, ,,1,9,2,7,145.0
+9:31.0, ,9-2,Defensive rebound by J. Duren,,1,9,2,7,149.0
+9:29.0, ,9-2,Shooting foul by T. Rozier (drawn by J. Ivey),,1,9,2,7,151.0
+9:29.0, ,9-3,J. Ivey makes free throw 1 of 2,,1,9,3,6,151.0
+9:29.0, ,9-4,J. Ivey makes free throw 2 of 2,,1,9,4,5,151.0
+9:12.0,J. Butler makes 2-pt jump shot from 17 ft,11-4, ,,1,11,4,7,168.0
+8:54.0, ,11-4,Turnover by C. Cunningham (bad pass; steal by J. Butler),,1,11,4,7,186.0
+8:50.0,J. Butler misses 2-pt layup from 6 ft,11-4, ,,1,11,4,7,190.0
+8:47.0, ,11-4,Defensive rebound by J. Ivey,,1,11,4,7,193.0
+8:44.0, ,11-4,S. Fontecchio misses 2-pt layup from 5 ft (block by D. Robinson),,1,11,4,7,196.0
+8:44.0, ,11-4,Offensive rebound by J. Duren,,1,11,4,7,196.0
+8:43.0, ,11-4,Shooting foul by N. Jović (drawn by J. Duren),,1,11,4,7,197.0
+8:43.0, ,11-4,J. Duren misses free throw 1 of 2,,1,11,4,7,197.0
+8:43.0, ,11-4,Offensive rebound by Team,,1,11,4,7,197.0
+8:43.0, ,11-5,J. Duren makes free throw 2 of 2,,1,11,5,6,197.0
+8:32.0,N. Jović misses 3-pt jump shot from 26 ft,11-5, ,,1,11,5,6,208.0
+8:28.0, ,11-5,Defensive rebound by I. Stewart,,1,11,5,6,212.0
+8:23.0, ,11-5,C. Cunningham misses 2-pt jump shot from 6 ft,,1,11,5,6,217.0
+8:20.0,Defensive rebound by N. Jović,11-5, ,,1,11,5,6,220.0
+8:16.0,J. Butler misses 3-pt jump shot from 23 ft,11-5, ,,1,11,5,6,224.0
+8:13.0, ,11-5,Defensive rebound by J. Ivey,,1,11,5,6,227.0
+8:08.0, ,11-7,J. Duren makes 2-pt dunk from 4 ft (assist by J. Ivey),,1,11,7,4,232.0
+7:52.0,B. Adebayo misses 2-pt jump shot from 14 ft,11-7, ,,1,11,7,4,248.0
+7:49.0, ,11-7,Defensive rebound by J. Duren,,1,11,7,4,251.0
+7:42.0, ,11-7,S. Fontecchio misses 2-pt jump shot from 6 ft (block by B. Adebayo),,1,11,7,4,258.0
+7:38.0,Defensive rebound by B. Adebayo,11-7, ,,1,11,7,4,262.0
+7:30.0,J. Butler makes 2-pt hook shot from 4 ft,13-7, ,,1,13,7,6,270.0
+7:30.0,Shooting foul by J. Ivey (drawn by J. Butler),13-7, ,,1,13,7,6,270.0
+7:30.0,J. Butler makes free throw 1 of 1,14-7, ,,1,14,7,7,270.0
+7:08.0, ,14-10,S. Fontecchio makes 3-pt jump shot from 24 ft (assist by J. Ivey),,1,14,10,4,292.0
+6:54.0,J. Butler misses 2-pt jump shot from 4 ft,14-10, ,,1,14,10,4,306.0
+6:52.0, ,14-10,Defensive rebound by C. Cunningham,,1,14,10,4,308.0
+6:48.0, ,14-10,S. Fontecchio misses 3-pt jump shot from 26 ft,,1,14,10,4,312.0
+6:44.0, ,14-10,Offensive rebound by C. Cunningham,,1,14,10,4,316.0
+6:37.0, ,14-10,J. Duren misses 2-pt jump shot from 8 ft,,1,14,10,4,323.0
+6:34.0,Defensive rebound by N. Jović,14-10, ,,1,14,10,4,326.0
+6:21.0,Turnover by D. Robinson (bad pass; steal by J. Ivey),14-10, ,,1,14,10,4,339.0
+6:13.0, ,14-10,J. Ivey misses 2-pt layup from 6 ft,,1,14,10,4,347.0
+6:10.0,Defensive rebound by N. Jović,14-10, ,,1,14,10,4,350.0
+6:08.0,Turnover by N. Jović (lost ball; steal by S. Fontecchio),14-10, ,,1,14,10,4,352.0
+6:06.0, ,14-10,Personal foul by N. Jović (drawn by S. Fontecchio),,1,14,10,4,354.0
+6:06.0, ,14-10,Detroit full timeout,,1,14,10,4,354.0
+6:06.0, ,14-11,C. Cunningham makes free throw 1 of 1,,1,14,11,3,354.0
+5:50.0, ,14-11,J. Ivey misses 2-pt jump shot from 12 ft,,1,14,11,3,370.0
+5:46.0,Defensive rebound by N. Jović,14-11, ,,1,14,11,3,374.0
+5:40.0,J. Butler misses 2-pt jump shot from 2 ft,14-11, ,,1,14,11,3,380.0
+5:37.0, ,14-11,Defensive rebound by I. Stewart,,1,14,11,3,383.0
+5:32.0, ,14-13,C. Cunningham makes 2-pt layup from 4 ft,,1,14,13,1,388.0
+5:11.0,N. Jović makes 2-pt layup from 7 ft,16-13, ,,1,16,13,3,409.0
+5:11.0,J. Jaquez enters the game for J. Butler,16-13, ,,1,16,13,3,409.0
+4:54.0, ,16-15,S. Fontecchio makes 2-pt layup from 3 ft (assist by J. Ivey),,1,16,15,1,426.0
+4:36.0,D. Robinson makes 2-pt jump shot from 7 ft (assist by B. Adebayo),18-15, ,,1,18,15,3,444.0
+4:28.0, ,18-17,I. Stewart makes 2-pt layup from 6 ft (assist by C. Cunningham),,1,18,17,1,452.0
+4:28.0, ,18-17,Shooting foul by J. Jaquez (drawn by I. Stewart),,1,18,17,1,452.0
+4:28.0,C. Martin enters the game for N. Jović,18-17, ,,1,18,17,1,452.0
+4:28.0, ,18-17,E. Fournier enters the game for J. Ivey,,1,18,17,1,452.0
+4:28.0, ,18-18,I. Stewart makes free throw 1 of 1,Tie,1,18,18,0,452.0
+4:17.0,T. Rozier misses 2-pt layup from 7 ft,18-18, ,,1,18,18,0,463.0
+4:14.0, ,18-18,Defensive rebound by J. Duren,,1,18,18,0,466.0
+4:05.0, ,18-18,C. Cunningham misses 2-pt layup from 5 ft (block by T. Rozier),,1,18,18,0,475.0
+4:04.0, ,18-18,Offensive rebound by Team,,1,18,18,0,476.0
+4:04.0,T. Bryant enters the game for B. Adebayo,18-18, ,,1,18,18,0,476.0
+4:04.0, ,18-18,M. Sasser enters the game for C. Cunningham,,1,18,18,0,476.0
+4:04.0, ,18-18,S. Umude enters the game for J. Duren,,1,18,18,0,476.0
+4:04.0, ,18-18,J. Wiseman enters the game for I. Stewart,,1,18,18,0,476.0
+4:00.0, ,18-20,S. Fontecchio makes 2-pt jump shot from 15 ft (assist by M. Sasser),Lead change,1,18,20,-2,480.0
+3:43.0,J. Jaquez makes 2-pt hook shot from 7 ft,20-20, ,Tie,1,20,20,0,497.0
+3:30.0, ,20-20,M. Sasser misses 3-pt jump shot from 25 ft,,1,20,20,0,510.0
+3:27.0, ,20-20,Offensive rebound by J. Wiseman,,1,20,20,0,513.0
+3:20.0, ,20-20,S. Umude misses 3-pt jump shot from 26 ft,,1,20,20,0,520.0
+3:18.0,Defensive rebound by D. Robinson,20-20, ,,1,20,20,0,522.0
+3:10.0,C. Martin makes 2-pt layup from 2 ft,22-20, ,Lead change,1,22,20,2,530.0
+2:51.0, ,22-20,J. Wiseman misses 2-pt hook shot from 9 ft,,1,22,20,2,549.0
+2:48.0,Defensive rebound by C. Martin,22-20, ,,1,22,20,2,552.0
+2:39.0,D. Robinson misses 3-pt jump shot from 25 ft,22-20, ,,1,22,20,2,561.0
+2:38.0, ,22-20,Defensive rebound by J. Wiseman,,1,22,20,2,562.0
+2:38.0, ,22-20,Technical foul by S. Fontecchio,,1,22,20,2,562.0
+2:38.0,Miami full timeout,22-20, ,,1,22,20,2,562.0
+2:38.0,P. Mills enters the game for D. Robinson,22-20, ,,1,22,20,2,562.0
+2:38.0,T. Rozier makes technical free throw,23-20, ,,1,23,20,3,562.0
+2:24.0, ,23-20,Def 3 sec tech foul by Team,,1,23,20,3,576.0
+2:24.0, ,23-21,E. Fournier makes technical free throw,,1,23,21,2,576.0
+2:24.0, ,23-21,J. Ivey enters the game for S. Fontecchio,,1,23,21,2,576.0
+2:13.0, ,23-23,E. Fournier makes 2-pt jump shot from 6 ft (assist by J. Ivey),Tie,1,23,23,0,587.0
+1:53.0,Turnover by C. Martin (lost ball; steal by M. Sasser),23-23, ,,1,23,23,0,607.0
+1:46.0, ,23-26,E. Fournier makes 3-pt jump shot from 23 ft (assist by J. Ivey),Lead change,1,23,26,-3,614.0
+1:24.0,T. Rozier misses 2-pt jump shot from 4 ft,23-26, ,,1,23,26,-3,636.0
+1:20.0, ,23-26,Defensive rebound by J. Wiseman,,1,23,26,-3,640.0
+1:15.0, ,23-26,E. Fournier misses 3-pt jump shot from 23 ft,,1,23,26,-3,645.0
+1:11.0,Defensive rebound by T. Bryant,23-26, ,,1,23,26,-3,649.0
+1:07.0,J. Jaquez misses 2-pt layup from 5 ft,23-26, ,,1,23,26,-3,653.0
+1:04.0, ,23-26,Defensive rebound by M. Sasser,,1,23,26,-3,656.0
+0:53.0, ,23-28,J. Ivey makes 2-pt jump shot from 17 ft (assist by E. Fournier),,1,23,28,-5,667.0
+0:37.0,Shooting foul by M. Sasser (drawn by T. Rozier),23-28, ,,1,23,28,-5,683.0
+0:37.0,T. Rozier makes free throw 1 of 3,24-28, ,,1,24,28,-4,683.0
+0:37.0,T. Rozier misses free throw 2 of 3,24-28, ,,1,24,28,-4,683.0
+0:37.0,Offensive rebound by Team,24-28, ,,1,24,28,-4,683.0
+0:37.0,J. Butler enters the game for J. Jaquez,24-28, ,,1,24,28,-4,683.0
+0:37.0, ,24-28,I. Stewart enters the game for S. Umude,,1,24,28,-4,683.0
+0:37.0,T. Rozier makes free throw 3 of 3,25-28, ,,1,25,28,-3,683.0
+0:29.0, ,25-28,Turnover by M. Sasser (out of bounds lost ball),,1,25,28,-3,691.0
+0:29.0,J. Jaquez enters the game for T. Rozier,25-28, ,,1,25,28,-3,691.0
+0:12.0,C. Martin makes 2-pt layup from 4 ft (assist by P. Mills),27-28, ,,1,27,28,-1,708.0
+0:01.0, ,27-28,Turnover by J. Ivey (lost ball; steal by P. Mills),,1,27,28,-1,719.0
+0:00.0,End of 1st quarter,27-28,,,1,27,28,-1,720.0
+12:00.0,Start of 2nd quarter,27-28,,,2,27,28,-1,720.0
+11:47.0, ,27-28,Turnover by J. Ivey (bad pass; steal by C. Martin),,2,27,28,-1,733.0
+11:26.0,N. Jović misses 3-pt jump shot from 24 ft,27-28, ,,2,27,28,-1,754.0
+11:24.0,Offensive rebound by J. Butler,27-28, ,,2,27,28,-1,756.0
+11:24.0,Shooting foul by J. Wiseman (drawn by J. Butler),27-28, ,,2,27,28,-1,756.0
+11:24.0,J. Butler makes free throw 1 of 2,28-28, ,Tie,2,28,28,0,756.0
+11:24.0,J. Butler makes free throw 2 of 2,29-28, ,Lead change,2,29,28,1,756.0
+11:05.0, ,29-28,J. Wiseman misses 2-pt dunk from 3 ft,,2,29,28,1,775.0
+11:01.0,Defensive rebound by C. Martin,29-28, ,,2,29,28,1,779.0
+11:00.0,C. Martin makes 2-pt jump shot from 8 ft,31-28, ,,2,31,28,3,780.0
+11:00.0,Shooting foul by E. Fournier (drawn by C. Martin),31-28, ,,2,31,28,3,780.0
+11:00.0, ,31-28,S. Fontecchio enters the game for J. Wiseman,,2,31,28,3,780.0
+11:00.0,C. Martin makes free throw 1 of 1,32-28, ,,2,32,28,4,780.0
+10:52.0, ,32-31,M. Sasser makes 3-pt jump shot from 23 ft (assist by J. Ivey),,2,32,31,1,788.0
+10:39.0,Turnover by C. Martin (traveling),32-31, ,,2,32,31,1,801.0
+10:30.0, ,32-31,E. Fournier misses 3-pt jump shot from 23 ft,,2,32,31,1,810.0
+10:26.0,Defensive rebound by J. Butler,32-31, ,,2,32,31,1,814.0
+10:10.0,Turnover by P. Mills (bad pass; steal by E. Fournier),32-31, ,,2,32,31,1,830.0
+10:06.0, ,32-31,Shooting foul by N. Jović (drawn by J. Ivey),,2,32,31,1,834.0
+10:06.0, ,32-32,J. Ivey makes free throw 1 of 2,Tie,2,32,32,0,834.0
+10:06.0,B. Adebayo enters the game for N. Jović,32-32, ,,2,32,32,0,834.0
+10:06.0, ,32-32,J. Duren enters the game for E. Fournier,,2,32,32,0,834.0
+10:06.0, ,32-33,J. Ivey makes free throw 2 of 2,Lead change,2,32,33,-1,834.0
+9:46.0,C. Martin misses 3-pt jump shot from 24 ft,32-33, ,,2,32,33,-1,854.0
+9:41.0, ,32-33,Defensive rebound by S. Fontecchio,,2,32,33,-1,859.0
+9:39.0, ,32-33,Offensive foul by S. Fontecchio (drawn by C. Martin),,2,32,33,-1,861.0
+9:39.0, ,32-33,Turnover by S. Fontecchio (offensive foul),,2,32,33,-1,861.0
+9:21.0,P. Mills misses 3-pt jump shot from 25 ft,32-33, ,,2,32,33,-1,879.0
+9:13.0,Offensive rebound by B. Adebayo,32-33, ,,2,32,33,-1,887.0
+9:13.0,B. Adebayo makes 2-pt dunk at rim,34-33, ,Lead change,2,34,33,1,887.0
+9:09.0, ,34-33,M. Sasser misses 3-pt jump shot from 27 ft,,2,34,33,1,891.0
+9:06.0,Defensive rebound by B. Adebayo,34-33, ,,2,34,33,1,894.0
+8:55.0,B. Adebayo misses 2-pt jump shot from 14 ft,34-33, ,,2,34,33,1,905.0
+8:51.0, ,34-33,Defensive rebound by J. Duren,,2,34,33,1,909.0
+8:40.0, ,34-35,I. Stewart makes 2-pt jump shot from 4 ft,Lead change,2,34,35,-1,920.0
+8:30.0,B. Adebayo makes 3-pt jump shot from 25 ft (assist by J. Jaquez),37-35, ,Lead change,2,37,35,2,930.0
+8:15.0, ,37-35,Turnover by M. Sasser (lost ball; steal by P. Mills),,2,37,35,2,945.0
+8:11.0,C. Martin makes 2-pt layup from 1 ft (assist by P. Mills),39-35, ,,2,39,35,4,949.0
+8:01.0, ,39-35,Personal foul by J. Butler (drawn by J. Ivey),,2,39,35,4,959.0
+8:01.0, ,39-35,C. Cunningham enters the game for M. Sasser,,2,39,35,4,959.0
+7:54.0, ,39-37,J. Duren makes 2-pt dunk from 1 ft (assist by J. Ivey),,2,39,37,2,966.0
+7:44.0,Offensive foul by P. Mills (drawn by I. Stewart),39-37, ,,2,39,37,2,976.0
+7:44.0,Turnover by P. Mills (offensive foul),39-37, ,,2,39,37,2,976.0
+7:24.0, ,39-40,S. Fontecchio makes 3-pt jump shot from 26 ft (assist by J. Ivey),Lead change,2,39,40,-1,996.0
+7:09.0,P. Mills misses 3-pt jump shot from 26 ft,39-40, ,,2,39,40,-1,1011.0
+7:05.0, ,39-40,Defensive rebound by J. Duren,,2,39,40,-1,1015.0
+7:01.0, ,39-40,J. Ivey misses 3-pt jump shot from 26 ft,,2,39,40,-1,1019.0
+6:58.0,Defensive rebound by J. Jaquez,39-40, ,,2,39,40,-1,1022.0
+6:52.0,B. Adebayo makes 2-pt hook shot from 10 ft (assist by J. Butler),41-40, ,Lead change,2,41,40,1,1028.0
+6:37.0, ,41-40,Turnover by J. Duren (lost ball; steal by J. Butler),,2,41,40,1,1043.0
+6:33.0,B. Adebayo makes 2-pt jump shot from 3 ft,43-40, ,,2,43,40,3,1047.0
+6:33.0,Shooting foul by S. Fontecchio (drawn by B. Adebayo),43-40, ,,2,43,40,3,1047.0
+6:33.0, ,43-40,Detroit full timeout,,2,43,40,3,1047.0
+6:33.0,Miami full timeout,43-40, ,,2,43,40,3,1047.0
+6:33.0,Instant Replay (Challenge: Ruling Stands),43-40, ,,2,43,40,3,1047.0
+6:33.0,D. Robinson enters the game for P. Mills,43-40, ,,2,43,40,3,1047.0
+6:33.0, ,43-40,S. Umude enters the game for S. Fontecchio,,2,43,40,3,1047.0
+6:33.0,B. Adebayo misses free throw 1 of 1,43-40, ,,2,43,40,3,1047.0
+6:33.0,Offensive rebound by B. Adebayo,43-40, ,,2,43,40,3,1047.0
+6:28.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by C. Martin),46-40, ,,2,46,40,6,1052.0
+5:59.0, ,46-40,C. Cunningham misses 2-pt hook shot from 9 ft,,2,46,40,6,1081.0
+5:55.0,Defensive rebound by J. Jaquez,46-40, ,,2,46,40,6,1085.0
+5:50.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Jaquez),48-40, ,,2,48,40,8,1090.0
+5:39.0, ,48-40,Shooting foul by J. Jaquez (drawn by J. Ivey),,2,48,40,8,1101.0
+5:39.0, ,48-41,J. Ivey makes free throw 1 of 2,,2,48,41,7,1101.0
+5:39.0,T. Rozier enters the game for J. Butler,48-41, ,,2,48,41,7,1101.0
+5:39.0, ,48-42,J. Ivey makes free throw 2 of 2,,2,48,42,6,1101.0
+5:26.0,J. Jaquez misses 3-pt jump shot from 26 ft,48-42, ,,2,48,42,6,1114.0
+5:22.0, ,48-42,Defensive rebound by J. Duren,,2,48,42,6,1118.0
+5:05.0, ,48-42,J. Ivey misses 2-pt jump shot from 11 ft,,2,48,42,6,1135.0
+5:01.0,Defensive rebound by T. Rozier,48-42, ,,2,48,42,6,1139.0
+4:58.0,Personal foul by C. Cunningham (drawn by C. Martin),48-42, ,,2,48,42,6,1142.0
+4:58.0, ,48-42,S. Fontecchio enters the game for I. Stewart,,2,48,42,6,1142.0
+4:50.0,Turnover by D. Robinson (lost ball; steal by S. Umude),48-42, ,,2,48,42,6,1150.0
+4:44.0, ,48-45,S. Fontecchio makes 3-pt jump shot from 27 ft (assist by J. Ivey),,2,48,45,3,1156.0
+4:24.0,C. Martin misses 3-pt jump shot from 23 ft,48-45, ,,2,48,45,3,1176.0
+4:20.0, ,48-45,Defensive rebound by J. Duren,,2,48,45,3,1180.0
+4:18.0, ,48-45,S. Umude misses 3-pt jump shot from 24 ft,,2,48,45,3,1182.0
+4:18.0,Defensive rebound by B. Adebayo,48-45, ,,2,48,45,3,1182.0
+4:03.0,Shooting foul by C. Cunningham (drawn by T. Rozier),48-45, ,,2,48,45,3,1197.0
+4:03.0,T. Rozier misses free throw 1 of 2,48-45, ,,2,48,45,3,1197.0
+4:03.0,Offensive rebound by Team,48-45, ,,2,48,45,3,1197.0
+4:03.0, ,48-45,M. Sasser enters the game for J. Ivey,,2,48,45,3,1197.0
+4:03.0,T. Rozier makes free throw 2 of 2,49-45, ,,2,49,45,4,1197.0
+3:38.0, ,49-45,Turnover by S. Umude (bad pass; steal by J. Jaquez),,2,49,45,4,1222.0
+3:34.0,T. Rozier makes 2-pt layup from 5 ft,51-45, ,,2,51,45,6,1226.0
+3:20.0, ,51-45,S. Fontecchio misses 3-pt jump shot from 25 ft,,2,51,45,6,1240.0
+3:17.0,Defensive rebound by T. Rozier,51-45, ,,2,51,45,6,1243.0
+3:09.0,T. Rozier misses 2-pt layup from 4 ft,51-45, ,,2,51,45,6,1251.0
+3:07.0, ,51-45,Defensive rebound by J. Duren,,2,51,45,6,1253.0
+2:57.0, ,51-45,M. Sasser misses 3-pt jump shot from 24 ft,,2,51,45,6,1263.0
+2:52.0, ,51-45,Offensive rebound by C. Cunningham,,2,51,45,6,1268.0
+2:49.0, ,51-45,S. Umude misses 3-pt jump shot from 25 ft,,2,51,45,6,1271.0
+2:47.0, ,51-45,Offensive rebound by S. Fontecchio,,2,51,45,6,1273.0
+2:45.0, ,51-47,S. Fontecchio makes 2-pt layup from 3 ft,,2,51,47,4,1275.0
+2:25.0,B. Adebayo makes 2-pt layup from 1 ft,53-47, ,,2,53,47,6,1295.0
+2:18.0, ,53-49,C. Cunningham makes 2-pt dunk from 6 ft,,2,53,49,4,1302.0
+2:18.0,Miami full timeout,53-49, ,,2,53,49,4,1302.0
+2:18.0,J. Butler enters the game for J. Jaquez,53-49, ,,2,53,49,4,1302.0
+2:18.0, ,53-49,I. Stewart enters the game for S. Umude,,2,53,49,4,1302.0
+2:06.0,C. Martin misses 2-pt layup from 7 ft (block by J. Duren),53-49, ,,2,53,49,4,1314.0
+2:02.0,Offensive rebound by C. Martin,53-49, ,,2,53,49,4,1318.0
+2:00.0,C. Martin misses 2-pt layup from 6 ft,53-49, ,,2,53,49,4,1320.0
+1:57.0, ,53-49,Defensive rebound by J. Duren,,2,53,49,4,1323.0
+1:48.0, ,53-49,Shooting foul by D. Robinson (drawn by S. Fontecchio),,2,53,49,4,1332.0
+1:48.0, ,53-49,S. Fontecchio misses free throw 1 of 2,,2,53,49,4,1332.0
+1:48.0, ,53-49,Offensive rebound by Team,,2,53,49,4,1332.0
+1:48.0, ,53-50,S. Fontecchio makes free throw 2 of 2,,2,53,50,3,1332.0
+1:34.0,T. Rozier misses 2-pt jump shot from 8 ft,53-50, ,,2,53,50,3,1346.0
+1:34.0,Offensive rebound by Team,53-50, ,,2,53,50,3,1346.0
+1:34.0, ,53-50,Loose ball foul by I. Stewart (drawn by B. Adebayo),,2,53,50,3,1346.0
+1:34.0,B. Adebayo misses free throw 1 of 2,53-50, ,,2,53,50,3,1346.0
+1:34.0,B. Adebayo makes free throw 2 of 2,54-50, ,,2,54,50,4,1346.0
+1:23.0, ,54-52,J. Duren makes 2-pt dunk from 4 ft (assist by C. Cunningham),,2,54,52,2,1357.0
+1:07.0,B. Adebayo misses 2-pt layup from 6 ft,54-52, ,,2,54,52,2,1373.0
+1:04.0, ,54-52,Defensive rebound by S. Fontecchio,,2,54,52,2,1376.0
+1:01.0, ,54-54,J. Duren makes 2-pt dunk from 4 ft (assist by C. Cunningham),Tie,2,54,54,0,1379.0
+0:44.0,C. Martin misses 3-pt jump shot from 25 ft,54-54, ,,2,54,54,0,1396.0
+0:40.0,Offensive rebound by B. Adebayo,54-54, ,,2,54,54,0,1400.0
+0:38.0,B. Adebayo makes 2-pt jump shot from 7 ft,56-54, ,,2,56,54,2,1402.0
+0:23.0, ,56-54,I. Stewart misses 3-pt jump shot from 25 ft,,2,56,54,2,1417.0
+0:19.0,Defensive rebound by J. Butler,56-54, ,,2,56,54,2,1421.0
+0:02.0,T. Rozier misses 3-pt jump shot from 25 ft,56-54, ,,2,56,54,2,1438.0
+0:02.0, ,56-54,Defensive rebound by S. Fontecchio,,2,56,54,2,1438.0
+0:00.0,End of 2nd quarter,56-54,,,2,56,54,2,1440.0
+12:00.0,Start of 3rd quarter,56-54,,,3,56,54,2,1440.0
+11:41.0, ,56-54,I. Stewart misses 2-pt hook shot from 5 ft,,3,56,54,2,1459.0
+11:37.0,Defensive rebound by T. Rozier,56-54, ,,3,56,54,2,1463.0
+11:28.0,J. Butler makes 2-pt jump shot from 3 ft,58-54, ,,3,58,54,4,1472.0
+11:16.0, ,58-56,C. Cunningham makes 2-pt layup from 3 ft,,3,58,56,2,1484.0
+11:00.0,N. Jović makes 2-pt layup from 2 ft,60-56, ,,3,60,56,4,1500.0
+10:43.0, ,60-56,Turnover by I. Stewart (lost ball; steal by D. Robinson),,3,60,56,4,1517.0
+10:31.0,B. Adebayo makes 2-pt layup from 4 ft (assist by D. Robinson),62-56, ,,3,62,56,6,1529.0
+10:11.0, ,62-56,Turnover by C. Cunningham (bad pass; steal by B. Adebayo),,3,62,56,6,1549.0
+10:00.0,B. Adebayo makes 2-pt jump shot from 13 ft (assist by D. Robinson),64-56, ,,3,64,56,8,1560.0
+10:00.0, ,64-56,Detroit full timeout,,3,64,56,8,1560.0
+9:50.0, ,64-58,S. Fontecchio makes 2-pt jump shot from 15 ft (assist by C. Cunningham),,3,64,58,6,1570.0
+9:28.0,D. Robinson misses 3-pt jump shot from 28 ft,64-58, ,,3,64,58,6,1592.0
+9:25.0, ,64-58,Defensive rebound by J. Duren,,3,64,58,6,1595.0
+9:21.0, ,64-58,Personal foul by T. Rozier (drawn by C. Cunningham),,3,64,58,6,1599.0
+9:13.0, ,64-58,J. Ivey misses 3-pt jump shot from 23 ft,,3,64,58,6,1607.0
+9:09.0,Defensive rebound by N. Jović,64-58, ,,3,64,58,6,1611.0
+9:00.0,B. Adebayo makes 2-pt jump shot from 4 ft (assist by D. Robinson),66-58, ,,3,66,58,8,1620.0
+8:47.0, ,66-58,J. Ivey misses 3-pt jump shot from 24 ft,,3,66,58,8,1633.0
+8:43.0,Defensive rebound by T. Rozier,66-58, ,,3,66,58,8,1637.0
+8:28.0,D. Robinson misses 3-pt jump shot from 23 ft,66-58, ,,3,66,58,8,1652.0
+8:27.0, ,66-58,Defensive rebound by Team,,3,66,58,8,1653.0
+8:12.0, ,66-61,S. Fontecchio makes 3-pt jump shot from 25 ft (assist by C. Cunningham),,3,66,61,5,1668.0
+7:58.0,T. Rozier misses 3-pt jump shot from 25 ft,66-61, ,,3,66,61,5,1682.0
+7:56.0, ,66-61,Defensive rebound by J. Duren,,3,66,61,5,1684.0
+7:48.0, ,66-63,I. Stewart makes 2-pt layup from 1 ft (assist by C. Cunningham),,3,66,63,3,1692.0
+7:30.0,N. Jović misses 2-pt jump shot from 9 ft,66-63, ,,3,66,63,3,1710.0
+7:28.0, ,66-63,Defensive rebound by J. Duren,,3,66,63,3,1712.0
+7:11.0, ,66-63,J. Ivey misses 2-pt layup from 1 ft (block by B. Adebayo),,3,66,63,3,1729.0
+7:07.0,Defensive rebound by D. Robinson,66-63, ,,3,66,63,3,1733.0
+7:05.0,Shooting foul by J. Duren (drawn by T. Rozier),66-63, ,,3,66,63,3,1735.0
+7:05.0,T. Rozier makes free throw 1 of 2,67-63, ,,3,67,63,4,1735.0
+7:05.0,T. Rozier makes free throw 2 of 2,68-63, ,,3,68,63,5,1735.0
+6:52.0, ,68-63,Personal foul by N. Jović (drawn by I. Stewart),,3,68,63,5,1748.0
+6:46.0, ,68-63,J. Ivey misses 3-pt jump shot from 25 ft,,3,68,63,5,1754.0
+6:42.0, ,68-63,Offensive rebound by C. Cunningham,,3,68,63,5,1758.0
+6:39.0, ,68-63,Turnover by S. Fontecchio (bad pass; steal by B. Adebayo),,3,68,63,5,1761.0
+6:28.0,D. Robinson misses 3-pt jump shot from 26 ft,68-63, ,,3,68,63,5,1772.0
+6:22.0, ,68-63,Defensive rebound by J. Duren,,3,68,63,5,1778.0
+6:18.0, ,68-65,J. Duren makes 2-pt layup from 2 ft (assist by C. Cunningham),,3,68,65,3,1782.0
+6:09.0,Personal foul by J. Duren (drawn by J. Butler),68-65, ,,3,68,65,3,1791.0
+6:09.0,C. Martin enters the game for N. Jović,68-65, ,,3,68,65,3,1791.0
+6:09.0, ,68-65,M. Sasser enters the game for J. Ivey,,3,68,65,3,1791.0
+5:50.0,T. Rozier makes 2-pt layup from 1 ft (assist by J. Butler),70-65, ,,3,70,65,5,1810.0
+5:36.0, ,70-65,S. Fontecchio misses 2-pt jump shot from 4 ft (block by B. Adebayo),,3,70,65,5,1824.0
+5:33.0,Defensive rebound by J. Butler,70-65, ,,3,70,65,5,1827.0
+5:26.0,T. Rozier makes 2-pt jump shot from 4 ft,72-65, ,,3,72,65,7,1834.0
+5:07.0, ,72-65,C. Cunningham misses 2-pt layup from 4 ft,,3,72,65,7,1853.0
+5:05.0,Defensive rebound by C. Martin,72-65, ,,3,72,65,7,1855.0
+4:50.0,Turnover by J. Butler (bad pass),72-65, ,,3,72,65,7,1870.0
+4:50.0,J. Jaquez enters the game for J. Butler,72-65, ,,3,72,65,7,1870.0
+4:43.0, ,72-65,Personal foul by B. Adebayo (drawn by J. Duren),,3,72,65,7,1877.0
+4:43.0, ,72-65,E. Fournier enters the game for I. Stewart,,3,72,65,7,1877.0
+4:36.0, ,72-65,S. Fontecchio misses 3-pt jump shot from 26 ft,,3,72,65,7,1884.0
+4:33.0,Defensive rebound by B. Adebayo,72-65, ,,3,72,65,7,1887.0
+4:20.0,Shooting foul by M. Sasser (drawn by T. Rozier),72-65, ,,3,72,65,7,1900.0
+4:20.0,T. Rozier makes free throw 1 of 3,73-65, ,,3,73,65,8,1900.0
+4:20.0,T. Rozier makes free throw 2 of 3,74-65, ,,3,74,65,9,1900.0
+4:20.0,T. Rozier misses free throw 3 of 3,74-65, ,,3,74,65,9,1900.0
+4:17.0, ,74-65,Defensive rebound by S. Fontecchio,,3,74,65,9,1903.0
+4:06.0, ,74-65,C. Cunningham misses 3-pt jump shot from 25 ft,,3,74,65,9,1914.0
+4:03.0,Defensive rebound by B. Adebayo,74-65, ,,3,74,65,9,1917.0
+3:57.0,B. Adebayo misses 2-pt jump shot from 6 ft,74-65, ,,3,74,65,9,1923.0
+3:57.0, ,74-65,Defensive rebound by Team,,3,74,65,9,1923.0
+3:41.0, ,74-65,E. Fournier misses 3-pt jump shot from 24 ft,,3,74,65,9,1939.0
+3:37.0,Defensive rebound by J. Jaquez,74-65, ,,3,74,65,9,1943.0
+3:17.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),77-65, ,,3,77,65,12,1963.0
+3:01.0, ,77-65,Turnover by C. Cunningham (bad pass; steal by D. Robinson),,3,77,65,12,1979.0
+2:57.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by C. Martin),80-65, ,,3,80,65,15,1983.0
+2:56.0, ,80-65,Detroit full timeout,,3,80,65,15,1984.0
+2:56.0, ,80-65,J. Ivey enters the game for C. Cunningham,,3,80,65,15,1984.0
+2:56.0, ,80-65,S. Umude enters the game for S. Fontecchio,,3,80,65,15,1984.0
+2:42.0, ,80-65,Turnover by M. Sasser (bad pass; steal by D. Robinson),,3,80,65,15,1998.0
+2:29.0,D. Robinson makes 3-pt jump shot from 26 ft,83-65, ,,3,83,65,18,2011.0
+2:14.0, ,83-67,E. Fournier makes 2-pt jump shot from 15 ft,,3,83,67,16,2026.0
+1:59.0,Personal foul by S. Umude (drawn by B. Adebayo),83-67, ,,3,83,67,16,2041.0
+1:59.0, ,83-67,J. Wiseman enters the game for J. Duren,,3,83,67,16,2041.0
+1:45.0,T. Rozier misses 2-pt jump shot from 6 ft,83-67, ,,3,83,67,16,2055.0
+1:43.0,Offensive rebound by T. Rozier,83-67, ,,3,83,67,16,2057.0
+1:35.0,D. Robinson misses 3-pt jump shot from 25 ft,83-67, ,,3,83,67,16,2065.0
+1:32.0,Offensive rebound by C. Martin,83-67, ,,3,83,67,16,2068.0
+1:28.0,J. Jaquez misses 3-pt jump shot from 27 ft,83-67, ,,3,83,67,16,2072.0
+1:27.0, ,83-67,Defensive rebound by J. Ivey,,3,83,67,16,2073.0
+1:08.0, ,83-67,J. Ivey misses 3-pt jump shot from 26 ft,,3,83,67,16,2092.0
+1:06.0, ,83-67,Offensive rebound by Team,,3,83,67,16,2094.0
+1:06.0,T. Bryant enters the game for B. Adebayo,83-67, ,,3,83,67,16,2094.0
+1:06.0,J. Butler enters the game for T. Rozier,83-67, ,,3,83,67,16,2094.0
+1:06.0, ,83-67,I. Stewart enters the game for S. Umude,,3,83,67,16,2094.0
+1:01.0, ,83-69,J. Wiseman makes 2-pt dunk from 1 ft (assist by E. Fournier),,3,83,69,14,2099.0
+0:38.0,J. Butler misses 2-pt jump shot from 13 ft,83-69, ,,3,83,69,14,2122.0
+0:34.0, ,83-69,Defensive rebound by J. Wiseman,,3,83,69,14,2126.0
+0:27.0, ,83-72,J. Ivey makes 3-pt jump shot from 23 ft (assist by E. Fournier),,3,83,72,11,2133.0
+0:10.0,Shooting foul by I. Stewart (drawn by J. Butler),83-72, ,,3,83,72,11,2150.0
+0:10.0,J. Butler makes free throw 1 of 2,84-72, ,,3,84,72,12,2150.0
+0:10.0,P. Mills enters the game for D. Robinson,84-72, ,,3,84,72,12,2150.0
+0:10.0,J. Butler misses free throw 2 of 2,84-72, ,,3,84,72,12,2150.0
+0:08.0, ,84-72,Defensive rebound by J. Wiseman,,3,84,72,12,2152.0
+0:00.0, ,84-72,J. Wiseman misses 2-pt hook shot from 5 ft,,3,84,72,12,2160.0
+0:00.0, ,84-72,Offensive rebound by Team,,3,84,72,12,2160.0
+0:00.0,End of 3rd quarter,84-72,,,3,84,72,12,2160.0
+12:00.0,Start of 4th quarter,84-72,,,4,84,72,12,2160.0
+11:46.0,J. Butler makes 2-pt jump shot from 16 ft (assist by C. Martin),86-72, ,,4,86,72,14,2174.0
+11:32.0, ,86-72,Personal foul by J. Jaquez (drawn by J. Wiseman),,4,86,72,14,2188.0
+11:29.0, ,86-75,J. Ivey makes 3-pt jump shot from 26 ft (assist by M. Sasser),,4,86,75,11,2191.0
+11:17.0,C. Martin makes 2-pt layup from 3 ft,88-75, ,,4,88,75,13,2203.0
+10:59.0, ,88-77,E. Fournier makes 2-pt jump shot from 16 ft (assist by J. Wiseman),,4,88,77,11,2221.0
+10:40.0,J. Butler misses 2-pt jump shot from 20 ft,88-77, ,,4,88,77,11,2240.0
+10:37.0, ,88-77,Defensive rebound by M. Sasser,,4,88,77,11,2243.0
+10:34.0, ,88-77,Personal foul by J. Butler (drawn by J. Wiseman),,4,88,77,11,2246.0
+10:27.0, ,88-77,E. Fournier misses 3-pt jump shot from 23 ft,,4,88,77,11,2253.0
+10:24.0,Defensive rebound by C. Martin,88-77, ,,4,88,77,11,2256.0
+10:16.0,T. Bryant makes 2-pt layup from 1 ft (assist by C. Martin),90-77, ,,4,90,77,13,2264.0
+9:53.0, ,90-77,M. Sasser misses 3-pt jump shot from 24 ft,,4,90,77,13,2287.0
+9:51.0, ,90-77,Offensive rebound by I. Stewart,,4,90,77,13,2289.0
+9:46.0, ,90-77,Turnover by J. Ivey (bad pass),,4,90,77,13,2294.0
+9:31.0,T. Bryant misses 3-pt jump shot from 23 ft,90-77, ,,4,90,77,13,2309.0
+9:26.0, ,90-77,Defensive rebound by J. Wiseman,,4,90,77,13,2314.0
+9:20.0, ,90-79,J. Wiseman makes 2-pt dunk from 1 ft (assist by I. Stewart),,4,90,79,11,2320.0
+9:02.0,C. Martin makes 2-pt jump shot from 20 ft (assist by J. Butler),92-79, ,,4,92,79,13,2338.0
+8:49.0, ,92-79,Turnover by J. Ivey (bad pass; steal by C. Martin),,4,92,79,13,2351.0
+8:47.0,Personal foul by J. Ivey (drawn by J. Butler),92-79, ,,4,92,79,13,2353.0
+8:35.0,P. Mills misses 2-pt layup from 4 ft,92-79, ,,4,92,79,13,2365.0
+8:34.0,Offensive rebound by T. Bryant,92-79, ,,4,92,79,13,2366.0
+8:33.0,T. Bryant misses 2-pt layup from 4 ft (block by I. Stewart),92-79, ,,4,92,79,13,2367.0
+8:31.0, ,92-79,Defensive rebound by E. Fournier,,4,92,79,13,2369.0
+8:21.0, ,92-79,M. Sasser misses 3-pt jump shot from 25 ft,,4,92,79,13,2379.0
+8:18.0,Defensive rebound by J. Jaquez,92-79, ,,4,92,79,13,2382.0
+8:16.0,T. Bryant makes 2-pt dunk from 3 ft (assist by J. Jaquez),94-79, ,,4,94,79,15,2384.0
+8:16.0, ,94-79,Detroit full timeout,,4,94,79,15,2384.0
+7:57.0, ,94-79,J. Ivey misses 3-pt jump shot from 26 ft,,4,94,79,15,2403.0
+7:53.0,Defensive rebound by J. Jaquez,94-79, ,,4,94,79,15,2407.0
+7:42.0,P. Mills misses 3-pt jump shot from 28 ft,94-79, ,,4,94,79,15,2418.0
+7:40.0, ,94-79,Defensive rebound by I. Stewart,,4,94,79,15,2420.0
+7:34.0, ,94-79,Shooting foul by J. Jaquez (drawn by E. Fournier),,4,94,79,15,2426.0
+7:34.0, ,94-80,E. Fournier makes free throw 1 of 2,,4,94,80,14,2426.0
+7:34.0, ,94-80,C. Cunningham enters the game for M. Sasser,,4,94,80,14,2426.0
+7:34.0, ,94-81,E. Fournier makes free throw 2 of 2,,4,94,81,13,2426.0
+7:22.0,T. Bryant makes 2-pt layup from 3 ft (assist by C. Martin),96-81, ,,4,96,81,15,2438.0
+7:22.0,Shooting foul by J. Ivey (drawn by T. Bryant),96-81, ,,4,96,81,15,2438.0
+7:22.0, ,96-81,S. Fontecchio enters the game for E. Fournier,,4,96,81,15,2438.0
+7:22.0,T. Bryant makes free throw 1 of 1,97-81, ,,4,97,81,16,2438.0
+7:02.0, ,97-81,C. Cunningham misses 2-pt layup from 6 ft (block by T. Bryant),,4,97,81,16,2458.0
+7:01.0, ,97-81,Offensive rebound by I. Stewart,,4,97,81,16,2459.0
+6:58.0, ,97-81,Turnover by Team (shot clock),,4,97,81,16,2462.0
+6:58.0, ,97-81,J. Duren enters the game for J. Wiseman,,4,97,81,16,2462.0
+6:34.0,C. Martin makes 3-pt jump shot from 24 ft (assist by J. Jaquez),100-81, ,,4,100,81,19,2486.0
+6:17.0, ,100-83,C. Cunningham makes 2-pt layup from 4 ft (assist by J. Duren),,4,100,83,17,2503.0
+6:05.0,C. Martin makes 2-pt jump shot from 16 ft,102-83, ,,4,102,83,19,2515.0
+5:50.0, ,102-83,C. Cunningham misses 2-pt jump shot from 11 ft,,4,102,83,19,2530.0
+5:47.0,Defensive rebound by T. Bryant,102-83, ,,4,102,83,19,2533.0
+5:39.0,J. Jaquez misses 2-pt jump shot from 5 ft,102-83, ,,4,102,83,19,2541.0
+5:34.0, ,102-83,Defensive rebound by C. Cunningham,,4,102,83,19,2546.0
+5:27.0, ,102-83,Personal foul by J. Jaquez (drawn by J. Ivey),,4,102,83,19,2553.0
+5:27.0,T. Rozier enters the game for J. Jaquez,102-83, ,,4,102,83,19,2553.0
+5:20.0, ,102-83,J. Ivey misses 3-pt jump shot from 26 ft,,4,102,83,19,2560.0
+5:16.0,Defensive rebound by T. Bryant,102-83, ,,4,102,83,19,2564.0
+5:11.0,Miami full timeout,102-83, ,,4,102,83,19,2569.0
+5:11.0,H. Highsmith enters the game for J. Butler,102-83, ,,4,102,83,19,2569.0
+5:11.0,D. Robinson enters the game for P. Mills,102-83, ,,4,102,83,19,2569.0
+5:02.0,T. Bryant makes 2-pt jump shot from 9 ft (assist by C. Martin),104-83, ,,4,104,83,21,2578.0
+4:38.0, ,104-86,I. Stewart makes 3-pt jump shot from 25 ft (assist by C. Cunningham),,4,104,86,18,2602.0
+4:16.0,T. Rozier makes 2-pt layup from 5 ft,106-86, ,,4,106,86,20,2624.0
+3:55.0, ,106-89,S. Fontecchio makes 3-pt jump shot from 23 ft (assist by I. Stewart),,4,106,89,17,2645.0
+3:39.0,T. Bryant misses 3-pt jump shot from 27 ft,106-89, ,,4,106,89,17,2661.0
+3:38.0, ,106-89,Defensive rebound by S. Fontecchio,,4,106,89,17,2662.0
+3:32.0, ,106-89,C. Cunningham misses 3-pt jump shot from 22 ft,,4,106,89,17,2668.0
+3:23.0,Defensive rebound by H. Highsmith,106-89, ,,4,106,89,17,2677.0
+3:11.0,T. Bryant makes 2-pt layup from 3 ft (assist by T. Rozier),108-89, ,,4,108,89,19,2689.0
+2:58.0, ,108-89,J. Duren misses 2-pt jump shot from 6 ft,,4,108,89,19,2702.0
+2:53.0, ,108-89,Offensive rebound by J. Duren,,4,108,89,19,2707.0
+2:53.0, ,108-91,J. Duren makes 2-pt dunk at rim,,4,108,91,17,2707.0
+2:37.0,D. Robinson misses 3-pt jump shot from 27 ft,108-91, ,,4,108,91,17,2723.0
+2:34.0, ,108-91,Defensive rebound by J. Duren,,4,108,91,17,2726.0
+2:25.0, ,108-93,C. Cunningham makes 2-pt jump shot from 19 ft,,4,108,93,15,2735.0
+2:03.0,T. Rozier misses 3-pt jump shot from 24 ft,108-93, ,,4,108,93,15,2757.0
+2:02.0,Offensive rebound by C. Martin,108-93, ,,4,108,93,15,2758.0
+2:00.0,T. Rozier misses 3-pt jump shot from 23 ft,108-93, ,,4,108,93,15,2760.0
+1:57.0, ,108-93,Defensive rebound by C. Cunningham,,4,108,93,15,2763.0
+1:33.0, ,108-93,S. Fontecchio misses 2-pt jump shot from 15 ft,,4,108,93,15,2787.0
+1:30.0,Defensive rebound by C. Martin,108-93, ,,4,108,93,15,2790.0
+1:10.0,C. Martin misses 3-pt jump shot from 24 ft,108-93, ,,4,108,93,15,2810.0
+1:08.0, ,108-93,Defensive rebound by J. Duren,,4,108,93,15,2812.0
+1:08.0, ,108-93,Detroit full timeout,,4,108,93,15,2812.0
+1:08.0,J. Cain enters the game for C. Martin,108-93, ,,4,108,93,15,2812.0
+1:08.0, ,108-93,T. Evbuomwan enters the game for C. Cunningham,,4,108,93,15,2812.0
+1:08.0, ,108-93,M. Flynn enters the game for J. Duren,,4,108,93,15,2812.0
+1:08.0, ,108-93,M. Sasser enters the game for S. Fontecchio,,4,108,93,15,2812.0
+1:08.0, ,108-93,S. Umude enters the game for J. Ivey,,4,108,93,15,2812.0
+1:08.0, ,108-93,J. Wiseman enters the game for I. Stewart,,4,108,93,15,2812.0
+0:57.0, ,108-93,S. Umude misses 3-pt jump shot from 24 ft,,4,108,93,15,2823.0
+0:54.0,Defensive rebound by T. Bryant,108-93, ,,4,108,93,15,2826.0
+0:32.0,D. Robinson misses 3-pt jump shot from 26 ft,108-93, ,,4,108,93,15,2848.0
+0:28.0, ,108-93,Defensive rebound by J. Wiseman,,4,108,93,15,2852.0
+0:11.0, ,108-95,J. Wiseman makes 2-pt jump shot from 16 ft,,4,108,95,13,2869.0
+0:00.0,End of 4th quarter,108-95,,,4,108,95,13,2880.0

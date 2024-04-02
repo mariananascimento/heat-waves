@@ -1,0 +1,446 @@
+Time,Oklahoma City,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Holmgren vs. B. Adebayo (H. Highsmith gains possession),0-0,,,1,0,0,0,0.0
+11:34.0, ,0-0,T. Herro misses 2-pt layup from 6 ft,,1,0,0,0,26.0
+11:29.0, ,0-0,Offensive rebound by B. Adebayo,,1,0,0,0,31.0
+11:29.0, ,0-0,B. Adebayo misses 2-pt layup at rim,,1,0,0,0,31.0
+11:28.0,Defensive rebound by S. Gilgeous-Alexander,0-0, ,,1,0,0,0,32.0
+11:26.0,C. Holmgren misses 3-pt jump shot from 23 ft,0-0, ,,1,0,0,0,34.0
+11:26.0, ,0-0,Defensive rebound by B. Adebayo,,1,0,0,0,34.0
+11:09.0, ,0-3,H. Highsmith makes 3-pt jump shot from 23 ft (assist by T. Herro),,1,3,0,3,51.0
+10:53.0,C. Holmgren misses 2-pt jump shot from 18 ft,0-3, ,,1,3,0,3,67.0
+10:50.0, ,0-3,Defensive rebound by T. Herro,,1,3,0,3,70.0
+10:39.0, ,0-6,J. Jaquez makes 3-pt jump shot from 24 ft (assist by B. Adebayo),,1,6,0,6,81.0
+10:21.0,S. Gilgeous-Alexander makes 2-pt jump shot from 9 ft,2-6, ,,1,6,2,4,99.0
+10:09.0, ,2-8,T. Herro makes 2-pt jump shot from 12 ft,,1,8,2,6,111.0
+10:01.0,Turnover by J. Williams (step out of bounds),2-8, ,,1,8,2,6,119.0
+9:46.0, ,2-11,N. Jović makes 3-pt jump shot from 23 ft (assist by H. Highsmith),,1,11,2,9,134.0
+9:25.0,J. Giddey makes 2-pt jump shot from 14 ft,4-11, ,,1,11,4,7,155.0
+9:13.0, ,4-11,Def 3 sec tech foul by Team,,1,11,4,7,167.0
+9:13.0, ,4-11,T. Herro misses technical free throw,,1,11,4,7,167.0
+9:13.0, ,4-11,Offensive rebound by Team,,1,11,4,7,167.0
+9:02.0, ,4-13,T. Herro makes 2-pt jump shot from 6 ft,,1,13,4,9,178.0
+8:53.0,S. Gilgeous-Alexander makes 2-pt jump shot from 12 ft,6-13, ,,1,13,6,7,187.0
+8:35.0, ,6-15,H. Highsmith makes 2-pt layup from 7 ft (assist by B. Adebayo),,1,15,6,9,205.0
+8:21.0,L. Dort misses 2-pt layup from 5 ft (block by N. Jović),6-15, ,,1,15,6,9,219.0
+8:21.0,Offensive rebound by Team,6-15, ,,1,15,6,9,219.0
+8:14.0,L. Dort misses 2-pt jump shot from 15 ft,6-15, ,,1,15,6,9,226.0
+8:10.0, ,6-15,Defensive rebound by H. Highsmith,,1,15,6,9,230.0
+8:03.0, ,6-15,H. Highsmith misses 3-pt jump shot from 27 ft,,1,15,6,9,237.0
+7:59.0,Defensive rebound by L. Dort,6-15, ,,1,15,6,9,241.0
+7:48.0,C. Holmgren makes 2-pt dunk from 5 ft,8-15, ,,1,15,8,7,252.0
+7:37.0, ,8-17,T. Herro makes 2-pt jump shot from 12 ft,,1,17,8,9,263.0
+7:37.0, ,8-17,Shooting foul by L. Dort (drawn by T. Herro),,1,17,8,9,263.0
+7:37.0,C. Wallace enters the game for L. Dort,8-17, ,,1,17,8,9,263.0
+7:37.0, ,8-18,T. Herro makes free throw 1 of 1,,1,18,8,10,263.0
+7:26.0,Turnover by C. Holmgren (bad pass; steal by N. Jović),8-18, ,,1,18,8,10,274.0
+7:09.0, ,8-18,H. Highsmith misses 2-pt jump shot from 9 ft,,1,18,8,10,291.0
+7:06.0,Defensive rebound by J. Williams,8-18, ,,1,18,8,10,294.0
+6:56.0,C. Holmgren makes 2-pt hook shot from 6 ft (assist by J. Williams),10-18, ,,1,18,10,8,304.0
+6:56.0,Shooting foul by J. Jaquez (drawn by C. Holmgren),10-18, ,,1,18,10,8,304.0
+6:56.0, ,10-18,Miami full timeout,,1,18,10,8,304.0
+6:56.0,I. Joe enters the game for J. Giddey,10-18, ,,1,18,10,8,304.0
+6:56.0,K. Williams enters the game for J. Williams,10-18, ,,1,18,10,8,304.0
+6:56.0,C. Holmgren makes free throw 1 of 1,11-18, ,,1,18,11,7,304.0
+6:46.0, ,11-18,Turnover by N. Jović (lost ball; steal by S. Gilgeous-Alexander),,1,18,11,7,314.0
+6:39.0,S. Gilgeous-Alexander makes 2-pt layup from 5 ft,13-18, ,,1,18,13,5,321.0
+6:18.0, ,13-21,H. Highsmith makes 3-pt jump shot from 25 ft (assist by N. Jović),,1,21,13,8,342.0
+6:02.0,S. Gilgeous-Alexander misses 2-pt layup from 6 ft,13-21, ,,1,21,13,8,358.0
+5:59.0, ,13-21,Defensive rebound by J. Jaquez,,1,21,13,8,361.0
+5:48.0, ,13-23,B. Adebayo makes 2-pt jump shot from 9 ft,,1,23,13,10,372.0
+5:34.0,Personal foul by T. Herro (drawn by C. Wallace),13-23, ,,1,23,13,10,386.0
+5:34.0,J. Williams enters the game for C. Holmgren,13-23, ,,1,23,13,10,386.0
+5:34.0, ,13-23,K. Love enters the game for B. Adebayo,,1,23,13,10,386.0
+5:34.0, ,13-23,J. Richardson enters the game for J. Jaquez,,1,23,13,10,386.0
+5:27.0,I. Joe makes 2-pt layup from 5 ft (assist by J. Williams),15-23, ,,1,23,15,8,393.0
+5:07.0, ,15-23,N. Jović misses 3-pt jump shot from 28 ft,,1,23,15,8,413.0
+5:04.0,Defensive rebound by I. Joe,15-23, ,,1,23,15,8,416.0
+4:47.0,I. Joe misses 3-pt jump shot from 26 ft,15-23, ,,1,23,15,8,433.0
+4:44.0, ,15-23,Defensive rebound by K. Love,,1,23,15,8,436.0
+4:34.0, ,15-25,K. Love makes 2-pt jump shot from 9 ft,,1,25,15,10,446.0
+4:20.0,J. Williams makes 3-pt jump shot from 25 ft (assist by S. Gilgeous-Alexander),18-25, ,,1,25,18,7,460.0
+3:58.0, ,18-25,T. Herro misses 3-pt jump shot from 24 ft,,1,25,18,7,482.0
+3:58.0,Defensive rebound by K. Williams,18-25, ,,1,25,18,7,482.0
+3:48.0,S. Gilgeous-Alexander makes 2-pt jump shot from 5 ft,20-25, ,,1,25,20,5,492.0
+3:48.0,Shooting foul by N. Jović (drawn by S. Gilgeous-Alexander),20-25, ,,1,25,20,5,492.0
+3:48.0,S. Gilgeous-Alexander makes free throw 1 of 1,21-25, ,,1,25,21,4,492.0
+3:26.0, ,21-25,Shooting foul by J. Williams (drawn by K. Love),,1,25,21,4,514.0
+3:26.0, ,21-26,K. Love makes free throw 1 of 2,,1,26,21,5,514.0
+3:26.0, ,21-26,D. Robinson enters the game for N. Jović,,1,26,21,5,514.0
+3:26.0, ,21-27,K. Love makes free throw 2 of 2,,1,27,21,6,514.0
+3:02.0,K. Williams makes 2-pt layup from 5 ft (assist by J. Williams),23-27, ,,1,27,23,4,538.0
+2:47.0, ,23-29,K. Love makes 2-pt layup from 5 ft (assist by H. Highsmith),,1,29,23,6,553.0
+2:47.0,Oklahoma City full timeout,23-29, ,,1,29,23,6,553.0
+2:34.0,C. Wallace makes 2-pt layup from 4 ft (assist by S. Gilgeous-Alexander),25-29, ,,1,29,25,4,566.0
+2:20.0, ,25-31,K. Love makes 2-pt jump shot from 6 ft (assist by J. Richardson),,1,31,25,6,580.0
+2:03.0,J. Williams misses 3-pt jump shot from 24 ft,25-31, ,,1,31,25,6,597.0
+2:01.0, ,25-31,Defensive rebound by T. Herro,,1,31,25,6,599.0
+1:51.0, ,25-31,J. Richardson misses 3-pt jump shot from 28 ft,,1,31,25,6,609.0
+1:49.0,Defensive rebound by J. Williams,25-31, ,,1,31,25,6,611.0
+1:40.0,Turnover by K. Williams (bad pass; steal by J. Richardson),25-31, ,,1,31,25,6,620.0
+1:25.0, ,25-33,T. Herro makes 2-pt jump shot from 14 ft,,1,33,25,8,635.0
+1:08.0,Turnover by K. Williams (bad pass; steal by H. Highsmith),25-33, ,,1,33,25,8,652.0
+1:04.0, ,25-33,Turnover by J. Richardson (traveling),,1,33,25,8,656.0
+1:04.0,J. Williams enters the game for K. Williams,25-33, ,,1,33,25,8,656.0
+1:04.0, ,25-33,B. Adebayo enters the game for T. Herro,,1,33,25,8,656.0
+1:04.0, ,25-33,J. Jaquez enters the game for H. Highsmith,,1,33,25,8,656.0
+0:47.0,J. Williams makes 2-pt layup from 4 ft (assist by S. Gilgeous-Alexander),27-33, ,,1,33,27,6,673.0
+0:26.0, ,27-35,B. Adebayo makes 2-pt jump shot from 9 ft,,1,35,27,8,694.0
+0:04.0,S. Gilgeous-Alexander makes 2-pt jump shot from 17 ft,29-35, ,,1,35,29,6,716.0
+0:01.0, ,29-35,D. Robinson misses 3-pt jump shot from 32 ft,,1,35,29,6,719.0
+0:00.0, ,29-35,Offensive rebound by Team,,1,35,29,6,720.0
+0:00.0,End of 1st quarter,29-35,,,1,35,29,6,720.0
+12:00.0,Start of 2nd quarter,29-35,,,2,35,29,6,720.0
+11:48.0,J. Williams makes 2-pt layup from 5 ft (assist by C. Holmgren),31-35, ,,2,35,31,4,732.0
+11:27.0, ,31-38,D. Robinson makes 3-pt jump shot from 26 ft,,2,38,31,7,753.0
+11:10.0,J. Williams makes 2-pt jump shot from 17 ft,33-38, ,,2,38,33,5,770.0
+10:49.0, ,33-38,D. Robinson misses 2-pt hook shot from 7 ft,,2,38,33,5,791.0
+10:47.0, ,33-38,Offensive rebound by K. Love,,2,38,33,5,793.0
+10:46.0, ,33-38,Shooting foul by C. Holmgren (drawn by J. Jaquez),,2,38,33,5,794.0
+10:46.0, ,33-39,J. Jaquez makes free throw 1 of 2,,2,39,33,6,794.0
+10:46.0, ,33-39,J. Jaquez misses free throw 2 of 2,,2,39,33,6,794.0
+10:42.0,Defensive rebound by C. Holmgren,33-39, ,,2,39,33,6,798.0
+10:24.0,L. Dort makes 2-pt layup from 4 ft (assist by V. Micić),35-39, ,,2,39,35,4,816.0
+10:09.0, ,35-39,D. Robinson misses 3-pt jump shot from 23 ft,,2,39,35,4,831.0
+10:07.0,Defensive rebound by V. Micić,35-39, ,,2,39,35,4,833.0
+9:55.0,C. Holmgren makes 2-pt layup from 4 ft (assist by J. Williams),37-39, ,,2,39,37,2,845.0
+9:43.0, ,37-41,B. Adebayo makes 2-pt dunk from 5 ft (assist by K. Love),,2,41,37,4,857.0
+9:20.0,A. Wiggins makes 2-pt jump shot from 6 ft (assist by J. Williams),39-41, ,,2,41,39,2,880.0
+9:06.0, ,39-44,J. Richardson makes 3-pt jump shot from 23 ft (assist by J. Jaquez),,2,44,39,5,894.0
+8:45.0,C. Holmgren makes 2-pt layup from 4 ft (assist by J. Williams),41-44, ,,2,44,41,3,915.0
+8:38.0, ,41-46,B. Adebayo makes 2-pt jump shot from 10 ft,,2,46,41,5,922.0
+8:21.0,J. Williams misses 2-pt jump shot from 20 ft,41-46, ,,2,46,41,5,939.0
+8:19.0, ,41-46,Defensive rebound by K. Love,,2,46,41,5,941.0
+8:06.0, ,41-46,B. Adebayo misses 2-pt layup from 6 ft,,2,46,41,5,954.0
+8:03.0,Defensive rebound by J. Williams,41-46, ,,2,46,41,5,957.0
+8:03.0,Shooting foul by J. Richardson (drawn by L. Dort),41-46, ,,2,46,41,5,957.0
+8:03.0,L. Dort misses free throw 1 of 2,41-46, ,,2,46,41,5,957.0
+8:03.0,Offensive rebound by Team,41-46, ,,2,46,41,5,957.0
+8:03.0, ,41-46,N. Jović enters the game for K. Love,,2,46,41,5,957.0
+8:03.0,L. Dort makes free throw 2 of 2,42-46, ,,2,46,42,4,957.0
+7:53.0, ,42-46,Shooting foul by L. Dort (drawn by J. Jaquez),,2,46,42,4,967.0
+7:53.0, ,42-46,J. Jaquez misses free throw 1 of 2,,2,46,42,4,967.0
+7:53.0, ,42-46,Offensive rebound by Team,,2,46,42,4,967.0
+7:53.0, ,42-47,J. Jaquez makes free throw 2 of 2,,2,47,42,5,967.0
+7:41.0,V. Micić makes 2-pt jump shot from 6 ft,44-47, ,,2,47,44,3,979.0
+7:19.0, ,44-50,J. Richardson makes 3-pt jump shot from 25 ft (assist by N. Jović),,2,50,44,6,1001.0
+7:12.0,A. Wiggins misses 2-pt jump shot from 11 ft,44-50, ,,2,50,44,6,1008.0
+7:09.0, ,44-50,Defensive rebound by J. Richardson,,2,50,44,6,1011.0
+7:06.0, ,44-53,N. Jović makes 3-pt jump shot from 28 ft (assist by J. Richardson),,2,53,44,9,1014.0
+7:06.0,Oklahoma City full timeout,44-53, ,,2,53,44,9,1014.0
+7:06.0,J. Giddey enters the game for C. Holmgren,44-53, ,,2,53,44,9,1014.0
+7:06.0,J. Williams enters the game for A. Wiggins,44-53, ,,2,53,44,9,1014.0
+6:43.0,J. Williams makes 3-pt jump shot from 25 ft (assist by J. Williams),47-53, ,,2,53,47,6,1037.0
+6:24.0, ,47-53,Turnover by D. Robinson (bad pass),,2,53,47,6,1056.0
+6:24.0, ,47-53,T. Herro enters the game for J. Jaquez,,2,53,47,6,1056.0
+6:24.0, ,47-53,H. Highsmith enters the game for J. Richardson,,2,53,47,6,1056.0
+6:10.0,L. Dort makes 3-pt jump shot from 27 ft (assist by J. Giddey),50-53, ,,2,53,50,3,1070.0
+5:59.0, ,50-53,Personal foul by L. Dort (drawn by B. Adebayo),,2,53,50,3,1081.0
+5:45.0, ,50-55,H. Highsmith makes 2-pt dunk from 5 ft (assist by B. Adebayo),,2,55,50,5,1095.0
+5:28.0,V. Micić makes 2-pt jump shot from 4 ft (assist by J. Williams),52-55, ,,2,55,52,3,1112.0
+5:12.0, ,52-55,H. Highsmith misses 2-pt layup from 5 ft,,2,55,52,3,1128.0
+5:10.0, ,52-55,Offensive rebound by H. Highsmith,,2,55,52,3,1130.0
+5:07.0, ,52-55,T. Herro misses 2-pt jump shot from 18 ft,,2,55,52,3,1133.0
+5:05.0, ,52-55,Offensive rebound by B. Adebayo,,2,55,52,3,1135.0
+5:02.0, ,52-55,D. Robinson misses 3-pt jump shot from 23 ft,,2,55,52,3,1138.0
+4:59.0,Defensive rebound by J. Giddey,52-55, ,,2,55,52,3,1141.0
+4:48.0,Turnover by J. Giddey (traveling),52-55, ,,2,55,52,3,1152.0
+4:48.0,I. Joe enters the game for V. Micić,52-55, ,,2,55,52,3,1152.0
+4:31.0, ,52-57,T. Herro makes 2-pt jump shot from 14 ft (assist by B. Adebayo),,2,57,52,5,1169.0
+4:18.0,L. Dort misses 3-pt jump shot from 23 ft,52-57, ,,2,57,52,5,1182.0
+4:15.0, ,52-57,Defensive rebound by N. Jović,,2,57,52,5,1185.0
+4:11.0, ,52-59,N. Jović makes 2-pt layup from 5 ft (assist by B. Adebayo),,2,59,52,7,1189.0
+3:53.0,I. Joe makes 3-pt jump shot from 25 ft (assist by J. Williams),55-59, ,,2,59,55,4,1207.0
+3:36.0, ,55-59,T. Herro misses 2-pt jump shot from 7 ft,,2,59,55,4,1224.0
+3:36.0, ,55-59,Offensive rebound by Team,,2,59,55,4,1224.0
+3:36.0,S. Gilgeous-Alexander enters the game for L. Dort,55-59, ,,2,59,55,4,1224.0
+3:36.0,C. Holmgren enters the game for J. Giddey,55-59, ,,2,59,55,4,1224.0
+3:36.0,C. Wallace enters the game for J. Williams,55-59, ,,2,59,55,4,1224.0
+3:36.0,K. Williams enters the game for J. Williams,55-59, ,,2,59,55,4,1224.0
+3:36.0, ,55-59,K. Love enters the game for B. Adebayo,,2,59,55,4,1224.0
+3:33.0, ,55-59,Personal foul by C. Wallace (drawn by K. Love),,2,59,55,4,1227.0
+3:23.0, ,55-61,N. Jović makes 2-pt layup from 6 ft (assist by T. Herro),,2,61,55,6,1237.0
+3:12.0,C. Holmgren misses 3-pt jump shot from 27 ft,55-61, ,,2,61,55,6,1248.0
+3:07.0,Offensive rebound by I. Joe,55-61, ,,2,61,55,6,1253.0
+2:59.0,Shooting foul by N. Jović (drawn by S. Gilgeous-Alexander),55-61, ,,2,61,55,6,1261.0
+2:59.0, ,55-61,Miami full timeout,,2,61,55,6,1261.0
+2:59.0,S. Gilgeous-Alexander misses free throw 1 of 2,55-61, ,,2,61,55,6,1261.0
+2:59.0,Offensive rebound by Team,55-61, ,,2,61,55,6,1261.0
+2:59.0,S. Gilgeous-Alexander makes free throw 2 of 2,56-61, ,,2,61,56,5,1261.0
+2:43.0, ,56-61,K. Love misses 3-pt jump shot from 25 ft,,2,61,56,5,1277.0
+2:41.0,Defensive rebound by C. Holmgren,56-61, ,,2,61,56,5,1279.0
+2:29.0,I. Joe makes 3-pt jump shot from 25 ft (assist by C. Holmgren),59-61, ,,2,61,59,2,1291.0
+2:13.0, ,59-61,D. Robinson misses 3-pt jump shot from 25 ft,,2,61,59,2,1307.0
+2:11.0,Defensive rebound by C. Holmgren,59-61, ,,2,61,59,2,1309.0
+1:51.0,Turnover by C. Wallace (bad pass; steal by D. Robinson),59-61, ,,2,61,59,2,1329.0
+1:37.0, ,59-61,Shooting foul by S. Gilgeous-Alexander (drawn by N. Jović),,2,61,59,2,1343.0
+1:37.0,J. Williams enters the game for K. Williams,59-61, ,,2,61,59,2,1343.0
+1:37.0, ,59-61,B. Adebayo enters the game for K. Love,,2,61,59,2,1343.0
+1:37.0, ,59-61,J. Jaquez enters the game for D. Robinson,,2,61,59,2,1343.0
+1:37.0, ,59-62,N. Jović makes free throw 1 of 2,,2,62,59,3,1343.0
+1:37.0, ,59-63,N. Jović makes free throw 2 of 2,,2,63,59,4,1343.0
+1:26.0,C. Wallace makes 3-pt jump shot from 23 ft (assist by S. Gilgeous-Alexander),62-63, ,,2,63,62,1,1354.0
+1:16.0, ,62-63,Shooting foul by C. Wallace (drawn by T. Herro),,2,63,62,1,1364.0
+1:16.0, ,62-64,T. Herro makes free throw 1 of 2,,2,64,62,2,1364.0
+1:16.0, ,62-64,T. Herro misses free throw 2 of 2,,2,64,62,2,1364.0
+1:13.0,Defensive rebound by C. Holmgren,62-64, ,,2,64,62,2,1367.0
+1:00.0,I. Joe makes 3-pt jump shot from 26 ft (assist by J. Williams),65-64, ,Lead change,2,64,65,-1,1380.0
+0:49.0, ,65-64,T. Herro misses 3-pt jump shot from 27 ft,,2,64,65,-1,1391.0
+0:47.0, ,65-64,Offensive rebound by B. Adebayo,,2,64,65,-1,1393.0
+0:42.0, ,65-67,H. Highsmith makes 3-pt jump shot from 26 ft (assist by J. Jaquez),Lead change,2,67,65,2,1398.0
+0:32.0,C. Wallace misses 3-pt jump shot from 22 ft,65-67, ,,2,67,65,2,1408.0
+0:29.0, ,65-67,Defensive rebound by J. Jaquez,,2,67,65,2,1411.0
+0:27.0, ,65-69,J. Jaquez makes 2-pt layup from 7 ft,,2,69,65,4,1413.0
+0:09.0,Personal foul by H. Highsmith (drawn by S. Gilgeous-Alexander),65-69, ,,2,69,65,4,1431.0
+0:09.0,J. Giddey enters the game for C. Wallace,65-69, ,,2,69,65,4,1431.0
+0:01.0,Turnover by I. Joe (bad pass; steal by T. Herro),65-69, ,,2,69,65,4,1439.0
+0:00.0,End of 2nd quarter,65-69,,,2,69,65,4,1440.0
+12:00.0,Start of 3rd quarter,65-69,,,3,69,65,4,1440.0
+11:38.0,C. Wallace makes 3-pt jump shot from 23 ft (assist by J. Williams),68-69, ,,3,69,68,1,1462.0
+11:19.0, ,68-69,B. Adebayo misses 2-pt jump shot from 11 ft,,3,69,68,1,1481.0
+11:15.0,Defensive rebound by J. Giddey,68-69, ,,3,69,68,1,1485.0
+11:10.0,J. Williams misses 3-pt jump shot from 25 ft,68-69, ,,3,69,68,1,1490.0
+11:07.0,Offensive rebound by C. Wallace,68-69, ,,3,69,68,1,1493.0
+11:00.0,C. Wallace misses 3-pt jump shot from 25 ft,68-69, ,,3,69,68,1,1500.0
+10:58.0, ,68-69,Defensive rebound by T. Herro,,3,69,68,1,1502.0
+10:43.0, ,68-69,J. Jaquez misses 3-pt jump shot from 23 ft,,3,69,68,1,1517.0
+10:41.0,Defensive rebound by C. Holmgren,68-69, ,,3,69,68,1,1519.0
+10:34.0,C. Holmgren makes 2-pt layup from 7 ft,70-69, ,Lead change,3,69,70,-1,1526.0
+10:34.0,Shooting foul by N. Jović (drawn by C. Holmgren),70-69, ,,3,69,70,-1,1526.0
+10:34.0,C. Holmgren makes free throw 1 of 1,71-69, ,,3,69,71,-2,1526.0
+10:26.0, ,71-69,Turnover by J. Jaquez (traveling),,3,69,71,-2,1534.0
+10:16.0,J. Giddey makes 3-pt jump shot from 25 ft (assist by S. Gilgeous-Alexander),74-69, ,,3,69,74,-5,1544.0
+10:00.0, ,74-69,T. Herro misses 2-pt jump shot from 6 ft (block by S. Gilgeous-Alexander),,3,69,74,-5,1560.0
+9:57.0,Defensive rebound by C. Wallace,74-69, ,,3,69,74,-5,1563.0
+9:46.0,S. Gilgeous-Alexander makes 2-pt jump shot from 17 ft,76-69, ,,3,69,76,-7,1574.0
+9:44.0, ,76-69,Miami full timeout,,3,69,76,-7,1576.0
+9:29.0, ,76-69,T. Herro misses 2-pt jump shot from 8 ft,,3,69,76,-7,1591.0
+9:26.0,Defensive rebound by J. Giddey,76-69, ,,3,69,76,-7,1594.0
+9:16.0,S. Gilgeous-Alexander misses 3-pt jump shot from 26 ft,76-69, ,,3,69,76,-7,1604.0
+9:14.0, ,76-69,Defensive rebound by N. Jović,,3,69,76,-7,1606.0
+9:05.0, ,76-69,N. Jović misses 2-pt hook shot from 7 ft,,3,69,76,-7,1615.0
+9:02.0,Defensive rebound by C. Holmgren,76-69, ,,3,69,76,-7,1618.0
+8:59.0,J. Williams makes 2-pt dunk from 5 ft (assist by C. Wallace),78-69, ,,3,69,78,-9,1621.0
+8:41.0, ,78-72,H. Highsmith makes 3-pt jump shot from 27 ft (assist by T. Herro),,3,72,78,-6,1639.0
+8:23.0,J. Giddey misses 2-pt layup from 6 ft,78-72, ,,3,72,78,-6,1657.0
+8:20.0, ,78-72,Defensive rebound by B. Adebayo,,3,72,78,-6,1660.0
+8:11.0, ,78-72,T. Herro misses 2-pt layup from 3 ft,,3,72,78,-6,1669.0
+8:06.0, ,78-72,Offensive rebound by B. Adebayo,,3,72,78,-6,1674.0
+8:06.0, ,78-72,B. Adebayo misses 2-pt dunk at rim,,3,72,78,-6,1674.0
+8:06.0,Defensive rebound by J. Giddey,78-72, ,,3,72,78,-6,1674.0
+8:02.0,J. Williams makes 2-pt layup from 5 ft (assist by S. Gilgeous-Alexander),80-72, ,,3,72,80,-8,1678.0
+7:46.0, ,80-72,H. Highsmith misses 3-pt jump shot from 23 ft,,3,72,80,-8,1694.0
+7:43.0,Defensive rebound by J. Williams,80-72, ,,3,72,80,-8,1697.0
+7:39.0,S. Gilgeous-Alexander misses 2-pt layup from 6 ft (block by B. Adebayo),80-72, ,,3,72,80,-8,1701.0
+7:37.0, ,80-72,Defensive rebound by H. Highsmith,,3,72,80,-8,1703.0
+7:31.0, ,80-75,N. Jović makes 3-pt jump shot from 26 ft (assist by T. Herro),,3,75,80,-5,1709.0
+7:17.0,C. Holmgren makes 2-pt dunk from 6 ft (assist by J. Williams),82-75, ,,3,75,82,-7,1723.0
+7:17.0,Shooting foul by J. Jaquez (drawn by C. Holmgren),82-75, ,,3,75,82,-7,1723.0
+7:17.0,C. Holmgren misses free throw 1 of 1,82-75, ,,3,75,82,-7,1723.0
+7:14.0, ,82-75,Defensive rebound by B. Adebayo,,3,75,82,-7,1726.0
+7:05.0, ,82-75,Shooting foul by J. Williams (drawn by B. Adebayo),,3,75,82,-7,1735.0
+7:05.0, ,82-76,B. Adebayo makes free throw 1 of 2,,3,76,82,-6,1735.0
+7:05.0, ,82-77,B. Adebayo makes free throw 2 of 2,,3,77,82,-5,1735.0
+6:52.0,Turnover by J. Giddey (bad pass; steal by T. Herro),82-77, ,,3,77,82,-5,1748.0
+6:45.0, ,82-77,J. Jaquez misses 2-pt layup from 4 ft (block by C. Holmgren),,3,77,82,-5,1755.0
+6:41.0,Defensive rebound by J. Williams,82-77, ,,3,77,82,-5,1759.0
+6:33.0,J. Giddey makes 2-pt jump shot from 10 ft,84-77, ,,3,77,84,-7,1767.0
+6:23.0, ,84-77,Shooting foul by C. Holmgren (drawn by B. Adebayo),,3,77,84,-7,1777.0
+6:23.0, ,84-78,B. Adebayo makes free throw 1 of 2,,3,78,84,-6,1777.0
+6:23.0, ,84-79,B. Adebayo makes free throw 2 of 2,,3,79,84,-5,1777.0
+6:09.0,J. Williams makes 2-pt jump shot from 16 ft (assist by S. Gilgeous-Alexander),86-79, ,,3,79,86,-7,1791.0
+5:52.0, ,86-82,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,3,82,86,-4,1808.0
+5:34.0,J. Williams misses 2-pt jump shot from 9 ft,86-82, ,,3,82,86,-4,1826.0
+5:30.0, ,86-82,Defensive rebound by J. Jaquez,,3,82,86,-4,1830.0
+5:28.0, ,86-82,T. Herro misses 3-pt jump shot from 26 ft,,3,82,86,-4,1832.0
+5:24.0, ,86-82,Offensive rebound by H. Highsmith,,3,82,86,-4,1836.0
+5:23.0, ,86-82,H. Highsmith misses 2-pt layup from 4 ft,,3,82,86,-4,1837.0
+5:21.0,Defensive rebound by S. Gilgeous-Alexander,86-82, ,,3,82,86,-4,1839.0
+5:20.0,Turnover by S. Gilgeous-Alexander (bad pass; steal by T. Herro),86-82, ,,3,82,86,-4,1840.0
+5:12.0, ,86-82,Turnover by B. Adebayo (lost ball; steal by J. Williams),,3,82,86,-4,1848.0
+5:02.0,J. Giddey misses 3-pt jump shot from 25 ft,86-82, ,,3,82,86,-4,1858.0
+4:59.0,Offensive rebound by J. Williams,86-82, ,,3,82,86,-4,1861.0
+4:58.0,C. Holmgren misses 3-pt jump shot from 27 ft,86-82, ,,3,82,86,-4,1862.0
+4:54.0, ,86-82,Defensive rebound by N. Jović,,3,82,86,-4,1866.0
+4:52.0, ,86-85,J. Jaquez makes 3-pt jump shot from 26 ft (assist by N. Jović),,3,85,86,-1,1868.0
+4:51.0,Oklahoma City full timeout,86-85, ,,3,85,86,-1,1869.0
+4:51.0,L. Dort enters the game for J. Giddey,86-85, ,,3,85,86,-1,1869.0
+4:51.0,I. Joe enters the game for C. Holmgren,86-85, ,,3,85,86,-1,1869.0
+4:51.0,A. Wiggins enters the game for C. Wallace,86-85, ,,3,85,86,-1,1869.0
+4:51.0,J. Williams enters the game for J. Williams,86-85, ,,3,85,86,-1,1869.0
+4:51.0, ,86-85,K. Love enters the game for B. Adebayo,,3,85,86,-1,1869.0
+4:51.0, ,86-85,J. Richardson enters the game for J. Jaquez,,3,85,86,-1,1869.0
+4:27.0,S. Gilgeous-Alexander misses 3-pt jump shot from 27 ft,86-85, ,,3,85,86,-1,1893.0
+4:26.0,Offensive rebound by Team,86-85, ,,3,85,86,-1,1894.0
+4:26.0,Turnover by Team (shot clock),86-85, ,,3,85,86,-1,1894.0
+4:14.0, ,86-85,Turnover by K. Love (bad pass),,3,85,86,-1,1906.0
+3:57.0,A. Wiggins misses 2-pt layup from 4 ft,86-85, ,,3,85,86,-1,1923.0
+3:54.0, ,86-85,Defensive rebound by K. Love,,3,85,86,-1,1926.0
+3:46.0, ,86-87,T. Herro makes 2-pt jump shot from 7 ft,Lead change,3,87,86,1,1934.0
+3:26.0,S. Gilgeous-Alexander makes 2-pt jump shot from 17 ft (assist by J. Williams),88-87, ,Lead change,3,87,88,-1,1954.0
+3:18.0, ,88-87,Personal foul by I. Joe (drawn by J. Richardson),,3,87,88,-1,1962.0
+3:10.0, ,88-87,T. Herro misses 2-pt jump shot from 9 ft,,3,87,88,-1,1970.0
+3:09.0, ,88-87,Offensive rebound by Team,,3,87,88,-1,1971.0
+3:08.0, ,88-87,Personal foul by J. Williams (drawn by K. Love),,3,87,88,-1,1972.0
+2:59.0, ,88-87,N. Jović misses 3-pt jump shot from 25 ft,,3,87,88,-1,1981.0
+2:55.0,Defensive rebound by J. Williams,88-87, ,,3,87,88,-1,1985.0
+2:47.0,S. Gilgeous-Alexander misses 3-pt jump shot from 26 ft,88-87, ,,3,87,88,-1,1993.0
+2:45.0, ,88-87,Defensive rebound by N. Jović,,3,87,88,-1,1995.0
+2:37.0, ,88-87,T. Herro misses 2-pt jump shot from 13 ft,,3,87,88,-1,2003.0
+2:37.0, ,88-87,Offensive rebound by Team,,3,87,88,-1,2003.0
+2:37.0, ,88-87,Personal foul by S. Gilgeous-Alexander (drawn by K. Love),,3,87,88,-1,2003.0
+2:37.0, ,88-88,K. Love makes free throw 1 of 2,Tie,3,88,88,0,2003.0
+2:37.0,K. Williams enters the game for J. Williams,88-88, ,,3,88,88,0,2003.0
+2:37.0, ,88-88,D. Robinson enters the game for N. Jović,,3,88,88,0,2003.0
+2:37.0, ,88-89,K. Love makes free throw 2 of 2,Lead change,3,89,88,1,2003.0
+2:11.0,A. Wiggins misses 2-pt jump shot from 20 ft,88-89, ,,3,89,88,1,2029.0
+2:09.0, ,88-89,Defensive rebound by H. Highsmith,,3,89,88,1,2031.0
+1:59.0, ,88-89,Personal foul by A. Wiggins (drawn by K. Love),,3,89,88,1,2041.0
+1:59.0, ,88-90,K. Love makes free throw 1 of 2,,3,90,88,2,2041.0
+1:59.0,V. Micić enters the game for A. Wiggins,88-90, ,,3,90,88,2,2041.0
+1:59.0, ,88-91,K. Love makes free throw 2 of 2,,3,91,88,3,2041.0
+1:40.0,K. Williams makes 2-pt layup from 6 ft (assist by V. Micić),90-91, ,,3,91,90,1,2060.0
+1:32.0, ,90-91,Turnover by T. Herro (lost ball; steal by V. Micić),,3,91,90,1,2068.0
+1:27.0,L. Dort makes 2-pt layup from 5 ft (assist by K. Williams),92-91, ,Lead change,3,91,92,-1,2073.0
+1:09.0, ,92-94,H. Highsmith makes 3-pt jump shot from 28 ft (assist by K. Love),Lead change,3,94,92,2,2091.0
+0:55.0,S. Gilgeous-Alexander makes 3-pt jump shot from 27 ft (assist by V. Micić),95-94, ,Lead change,3,94,95,-1,2105.0
+0:35.0, ,95-96,J. Richardson makes 2-pt jump shot from 15 ft (assist by T. Herro),Lead change,3,96,95,1,2125.0
+0:29.0,S. Gilgeous-Alexander makes 2-pt layup from 8 ft,97-96, ,Lead change,3,96,97,-1,2131.0
+0:04.0, ,97-96,K. Love misses 2-pt layup from 4 ft,,3,96,97,-1,2156.0
+0:04.0, ,97-96,Offensive rebound by Team,,3,96,97,-1,2156.0
+0:04.0,C. Holmgren enters the game for I. Joe,97-96, ,,3,96,97,-1,2156.0
+0:04.0,C. Wallace enters the game for V. Micić,97-96, ,,3,96,97,-1,2156.0
+0:04.0, ,97-96,J. Jaquez enters the game for T. Herro,,3,96,97,-1,2156.0
+0:04.0, ,97-96,Turnover by J. Richardson (bad pass),,3,96,97,-1,2156.0
+0:04.0,J. Giddey enters the game for L. Dort,97-96, ,,3,96,97,-1,2156.0
+0:04.0,I. Joe enters the game for C. Wallace,97-96, ,,3,96,97,-1,2156.0
+0:04.0,J. Williams enters the game for K. Williams,97-96, ,,3,96,97,-1,2156.0
+0:04.0, ,97-96,B. Adebayo enters the game for K. Love,,3,96,97,-1,2156.0
+0:00.0,Shooting foul by J. Richardson (drawn by J. Williams),97-96, ,,3,96,97,-1,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),97-96, ,,3,96,97,-1,2160.0
+0:00.0,J. Williams makes free throw 1 of 2,98-96, ,,3,96,98,-2,2160.0
+0:00.0,J. Williams makes free throw 2 of 2,99-96, ,,3,96,99,-3,2160.0
+0:00.0,End of 3rd quarter,99-96,,,3,96,99,-3,2160.0
+12:00.0,Start of 4th quarter,99-96,,,4,96,99,-3,2160.0
+11:49.0, ,99-96,D. Robinson misses 3-pt jump shot from 28 ft,,4,96,99,-3,2171.0
+11:44.0,Defensive rebound by J. Williams,99-96, ,,4,96,99,-3,2176.0
+11:34.0,Shooting foul by B. Adebayo (drawn by L. Dort),99-96, ,,4,96,99,-3,2186.0
+11:34.0,L. Dort misses free throw 1 of 2,99-96, ,,4,96,99,-3,2186.0
+11:34.0,Offensive rebound by Team,99-96, ,,4,96,99,-3,2186.0
+11:34.0,L. Dort makes free throw 2 of 2,100-96, ,,4,96,100,-4,2186.0
+11:20.0, ,100-96,J. Richardson misses 2-pt hook shot from 4 ft (block by C. Holmgren),,4,96,100,-4,2200.0
+11:17.0,Defensive rebound by C. Holmgren,100-96, ,,4,96,100,-4,2203.0
+11:09.0,L. Dort makes 2-pt layup from 8 ft (assist by V. Micić),102-96, ,,4,96,102,-6,2211.0
+10:52.0, ,102-96,B. Adebayo misses 2-pt jump shot from 10 ft,,4,96,102,-6,2228.0
+10:49.0,Defensive rebound by J. Williams,102-96, ,,4,96,102,-6,2231.0
+10:36.0,K. Williams makes 3-pt jump shot from 24 ft (assist by J. Williams),105-96, ,,4,96,105,-9,2244.0
+10:35.0, ,105-96,Miami full timeout,,4,96,105,-9,2245.0
+10:13.0, ,105-96,J. Richardson misses 3-pt jump shot from 26 ft,,4,96,105,-9,2267.0
+10:11.0,Defensive rebound by K. Williams,105-96, ,,4,96,105,-9,2269.0
+9:54.0,J. Williams misses 2-pt jump shot from 8 ft,105-96, ,,4,96,105,-9,2286.0
+9:54.0, ,105-96,Defensive rebound by K. Love,,4,96,105,-9,2286.0
+9:37.0, ,105-96,B. Adebayo misses 2-pt jump shot from 15 ft,,4,96,105,-9,2303.0
+9:34.0,Defensive rebound by C. Holmgren,105-96, ,,4,96,105,-9,2306.0
+9:22.0,L. Dort misses 3-pt jump shot from 27 ft,105-96, ,,4,96,105,-9,2318.0
+9:18.0, ,105-96,Defensive rebound by B. Adebayo,,4,96,105,-9,2322.0
+9:10.0, ,105-96,K. Love misses 3-pt jump shot from 27 ft,,4,96,105,-9,2330.0
+9:06.0,Defensive rebound by K. Williams,105-96, ,,4,96,105,-9,2334.0
+8:52.0,J. Williams makes 2-pt layup from 7 ft (assist by V. Micić),107-96, ,,4,96,107,-11,2348.0
+8:52.0, ,107-96,N. Jović enters the game for K. Love,,4,96,107,-11,2348.0
+8:31.0, ,107-96,D. Robinson misses 3-pt jump shot from 26 ft,,4,96,107,-11,2369.0
+8:28.0,Defensive rebound by K. Williams,107-96, ,,4,96,107,-11,2372.0
+8:13.0,J. Williams misses 2-pt jump shot from 11 ft,107-96, ,,4,96,107,-11,2387.0
+8:10.0, ,107-96,Defensive rebound by D. Robinson,,4,96,107,-11,2390.0
+7:57.0, ,107-96,J. Richardson misses 3-pt jump shot from 27 ft,,4,96,107,-11,2403.0
+7:53.0,Defensive rebound by J. Williams,107-96, ,,4,96,107,-11,2407.0
+7:38.0,C. Holmgren makes 2-pt layup from 6 ft (assist by J. Williams),109-96, ,,4,96,109,-13,2422.0
+7:25.0, ,109-96,J. Jaquez misses 3-pt jump shot from 26 ft,,4,96,109,-13,2435.0
+7:20.0,Defensive rebound by J. Williams,109-96, ,,4,96,109,-13,2440.0
+7:18.0,L. Dort misses 2-pt layup from 6 ft (block by B. Adebayo),109-96, ,,4,96,109,-13,2442.0
+7:18.0,Offensive rebound by K. Williams,109-96, ,,4,96,109,-13,2442.0
+7:14.0,L. Dort makes 3-pt jump shot from 23 ft (assist by K. Williams),112-96, ,,4,96,112,-16,2446.0
+7:14.0, ,112-96,Miami full timeout,,4,96,112,-16,2446.0
+7:14.0, ,112-96,T. Herro enters the game for J. Richardson,,4,96,112,-16,2446.0
+7:00.0, ,112-98,B. Adebayo makes 2-pt dunk from 4 ft (assist by D. Robinson),,4,98,112,-14,2460.0
+6:40.0,K. Williams misses 3-pt jump shot from 23 ft,112-98, ,,4,98,112,-14,2480.0
+6:38.0, ,112-98,Defensive rebound by J. Jaquez,,4,98,112,-14,2482.0
+6:34.0, ,112-100,J. Jaquez makes 2-pt layup from 5 ft,,4,100,112,-12,2486.0
+6:34.0, ,112-100,Shooting foul by V. Micić (drawn by J. Jaquez),,4,100,112,-12,2486.0
+6:34.0,J. Giddey enters the game for C. Holmgren,112-100, ,,4,100,112,-12,2486.0
+6:34.0,S. Gilgeous-Alexander enters the game for V. Micić,112-100, ,,4,100,112,-12,2486.0
+6:34.0,I. Joe enters the game for J. Williams,112-100, ,,4,100,112,-12,2486.0
+6:34.0, ,112-100,J. Jaquez misses free throw 1 of 1,,4,100,112,-12,2486.0
+6:29.0,Defensive rebound by K. Williams,112-100, ,,4,100,112,-12,2491.0
+6:20.0,I. Joe misses 3-pt jump shot from 27 ft,112-100, ,,4,100,112,-12,2500.0
+6:17.0, ,112-100,Defensive rebound by T. Herro,,4,100,112,-12,2503.0
+6:09.0, ,112-103,J. Jaquez makes 3-pt jump shot from 24 ft (assist by T. Herro),,4,103,112,-9,2511.0
+6:09.0,Oklahoma City full timeout,112-103, ,,4,103,112,-9,2511.0
+5:56.0,Shooting foul by J. Jaquez (drawn by S. Gilgeous-Alexander),112-103, ,,4,103,112,-9,2524.0
+5:56.0,S. Gilgeous-Alexander makes free throw 1 of 2,113-103, ,,4,103,113,-10,2524.0
+5:56.0,S. Gilgeous-Alexander makes free throw 2 of 2,114-103, ,,4,103,114,-11,2524.0
+5:42.0, ,114-105,B. Adebayo makes 2-pt layup from 4 ft,,4,105,114,-9,2538.0
+5:42.0, ,114-105,Shooting foul by S. Gilgeous-Alexander (drawn by B. Adebayo),,4,105,114,-9,2538.0
+5:42.0,C. Holmgren enters the game for L. Dort,114-105, ,,4,105,114,-9,2538.0
+5:42.0,J. Williams enters the game for K. Williams,114-105, ,,4,105,114,-9,2538.0
+5:42.0, ,114-105,H. Highsmith enters the game for N. Jović,,4,105,114,-9,2538.0
+5:42.0, ,114-106,B. Adebayo makes free throw 1 of 1,,4,106,114,-8,2538.0
+5:23.0,C. Holmgren makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),117-106, ,,4,106,117,-11,2557.0
+5:12.0, ,117-106,T. Herro misses 2-pt jump shot from 10 ft,,4,106,117,-11,2568.0
+5:08.0,Defensive rebound by C. Holmgren,117-106, ,,4,106,117,-11,2572.0
+5:04.0,C. Holmgren makes 2-pt layup from 4 ft,119-106, ,,4,106,119,-13,2576.0
+4:51.0, ,119-108,B. Adebayo makes 2-pt hook shot from 7 ft,,4,108,119,-11,2589.0
+4:32.0,S. Gilgeous-Alexander makes 2-pt jump shot from 13 ft,121-108, ,,4,108,121,-13,2608.0
+4:20.0, ,121-108,Turnover by J. Jaquez (bad pass; steal by J. Giddey),,4,108,121,-13,2620.0
+4:19.0,Shooting foul by J. Jaquez (drawn by J. Giddey),121-108, ,,4,108,121,-13,2621.0
+4:19.0,J. Giddey makes free throw 1 of 2,122-108, ,,4,108,122,-14,2621.0
+4:19.0, ,122-108,N. Jović enters the game for D. Robinson,,4,108,122,-14,2621.0
+4:19.0,J. Giddey makes free throw 2 of 2,123-108, ,,4,108,123,-15,2621.0
+4:08.0, ,123-110,J. Jaquez makes 2-pt layup from 5 ft (assist by N. Jović),,4,110,123,-13,2632.0
+3:53.0,S. Gilgeous-Alexander makes 3-pt jump shot from 27 ft (assist by J. Williams),126-110, ,,4,110,126,-16,2647.0
+3:31.0, ,126-112,B. Adebayo makes 2-pt jump shot from 10 ft,,4,112,126,-14,2669.0
+3:18.0,I. Joe misses 3-pt jump shot from 27 ft,126-112, ,,4,112,126,-14,2682.0
+3:15.0, ,126-112,Defensive rebound by B. Adebayo,,4,112,126,-14,2685.0
+3:10.0, ,126-112,Shooting foul by J. Williams (drawn by J. Jaquez),,4,112,126,-14,2690.0
+3:10.0, ,126-113,J. Jaquez makes free throw 1 of 2,,4,113,126,-13,2690.0
+3:10.0,Oklahoma City full timeout,126-113, ,,4,113,126,-13,2690.0
+3:10.0,L. Dort enters the game for J. Giddey,126-113, ,,4,113,126,-13,2690.0
+3:10.0, ,126-114,J. Jaquez makes free throw 2 of 2,,4,114,126,-12,2690.0
+2:52.0,J. Williams misses 3-pt jump shot from 27 ft,126-114, ,,4,114,126,-12,2708.0
+2:50.0, ,126-114,Defensive rebound by T. Herro,,4,114,126,-12,2710.0
+2:38.0, ,126-114,Shooting foul by C. Holmgren (drawn by B. Adebayo),,4,114,126,-12,2722.0
+2:38.0, ,126-115,B. Adebayo makes free throw 1 of 2,,4,115,126,-11,2722.0
+2:38.0, ,126-116,B. Adebayo makes free throw 2 of 2,,4,116,126,-10,2722.0
+2:21.0,J. Williams misses 2-pt jump shot from 5 ft,126-116, ,,4,116,126,-10,2739.0
+2:18.0, ,126-116,Defensive rebound by B. Adebayo,,4,116,126,-10,2742.0
+2:09.0, ,126-116,B. Adebayo misses 2-pt jump shot from 12 ft,,4,116,126,-10,2751.0
+2:07.0,Defensive rebound by L. Dort,126-116, ,,4,116,126,-10,2753.0
+1:51.0,S. Gilgeous-Alexander misses 2-pt jump shot from 9 ft,126-116, ,,4,116,126,-10,2769.0
+1:48.0, ,126-116,Defensive rebound by J. Jaquez,,4,116,126,-10,2772.0
+1:46.0,Oklahoma City full timeout,126-116, ,,4,116,126,-10,2774.0
+1:46.0,Instant Replay (Challenge: Ruling Stands),126-116, ,,4,116,126,-10,2774.0
+1:46.0, ,126-116,Turnover by J. Jaquez (out of bounds lost ball),,4,116,126,-10,2774.0
+1:46.0,J. Williams enters the game for L. Dort,126-116, ,,4,116,126,-10,2774.0
+1:30.0,Turnover by S. Gilgeous-Alexander (traveling),126-116, ,,4,116,126,-10,2790.0
+1:13.0, ,126-116,H. Highsmith misses 2-pt jump shot from 6 ft,,4,116,126,-10,2807.0
+1:09.0, ,126-116,Offensive rebound by B. Adebayo,,4,116,126,-10,2811.0
+1:09.0, ,126-118,B. Adebayo makes 2-pt layup at rim,,4,118,126,-8,2811.0
+1:08.0,Turnover by S. Gilgeous-Alexander (bad pass),126-118, ,,4,118,126,-8,2812.0
+1:08.0,Loose ball foul by C. Holmgren (drawn by J. Jaquez),126-118, ,,4,118,126,-8,2812.0
+1:08.0, ,126-119,J. Jaquez makes free throw 1 of 2,,4,119,126,-7,2812.0
+1:08.0,J. Giddey enters the game for I. Joe,126-119, ,,4,119,126,-7,2812.0
+1:08.0, ,126-120,J. Jaquez makes free throw 2 of 2,,4,120,126,-6,2812.0
+1:01.0,Personal foul by H. Highsmith (drawn by S. Gilgeous-Alexander),126-120, ,,4,120,126,-6,2819.0
+1:01.0,Oklahoma City full timeout,126-120, ,,4,120,126,-6,2819.0
+1:01.0,L. Dort enters the game for J. Williams,126-120, ,,4,120,126,-6,2819.0
+0:52.0,C. Holmgren misses 3-pt jump shot from 23 ft,126-120, ,,4,120,126,-6,2828.0
+0:50.0, ,126-120,Defensive rebound by N. Jović,,4,120,126,-6,2830.0
+0:44.0, ,126-120,T. Herro misses 3-pt jump shot from 27 ft,,4,120,126,-6,2836.0
+0:40.0,Defensive rebound by J. Giddey,126-120, ,,4,120,126,-6,2840.0
+0:37.0,C. Holmgren makes 2-pt dunk from 6 ft (assist by J. Giddey),128-120, ,,4,120,128,-8,2843.0
+0:37.0, ,128-120,Miami full timeout,,4,120,128,-8,2843.0
+0:37.0, ,128-120,D. Robinson enters the game for N. Jović,,4,120,128,-8,2843.0
+0:29.0, ,128-120,H. Highsmith misses 2-pt jump shot from 18 ft,,4,120,128,-8,2851.0
+0:25.0,Defensive rebound by J. Giddey,128-120, ,,4,120,128,-8,2855.0
+0:17.0,Turnover by C. Holmgren (bad pass; steal by D. Robinson),128-120, ,,4,120,128,-8,2863.0
+0:13.0, ,128-120,T. Herro misses 2-pt layup from 5 ft (block by C. Holmgren),,4,120,128,-8,2867.0
+0:10.0,Defensive rebound by J. Giddey,128-120, ,,4,120,128,-8,2870.0
+0:00.0,End of 4th quarter,128-120,,,4,120,128,-8,2880.0

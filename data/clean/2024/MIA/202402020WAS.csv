@@ -1,0 +1,491 @@
+Time,Miami,Score,Washington,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. D. Gafford (T. Rozier gains possession),0-0,,,1,0,0,0,0.0
+11:38.0,Turnover by H. Highsmith (step out of bounds),0-0, ,,1,0,0,0,22.0
+11:26.0, ,0-0,Shooting foul by H. Highsmith (drawn by K. Kuzma),,1,0,0,0,34.0
+11:26.0, ,0-1,K. Kuzma makes free throw 1 of 2,,1,0,1,-1,34.0
+11:26.0, ,0-2,K. Kuzma makes free throw 2 of 2,,1,0,2,-2,34.0
+11:11.0,T. Herro makes 2-pt jump shot from 13 ft,2-2, ,Tie,1,2,2,0,49.0
+10:55.0, ,2-2,J. Poole misses 3-pt jump shot from 26 ft,,1,2,2,0,65.0
+10:52.0,Defensive rebound by H. Highsmith,2-2, ,,1,2,2,0,68.0
+10:36.0,H. Highsmith misses 3-pt jump shot from 26 ft,2-2, ,,1,2,2,0,84.0
+10:33.0, ,2-2,Defensive rebound by J. Poole,,1,2,2,0,87.0
+10:27.0, ,2-2,K. Kuzma misses 3-pt jump shot from 25 ft,,1,2,2,0,93.0
+10:23.0,Defensive rebound by T. Herro,2-2, ,,1,2,2,0,97.0
+10:19.0,T. Herro misses 2-pt layup from 7 ft,2-2, ,,1,2,2,0,101.0
+10:17.0, ,2-2,Defensive rebound by K. Kuzma,,1,2,2,0,103.0
+10:05.0, ,2-4,J. Poole makes 2-pt layup from 4 ft (assist by D. Gafford),,1,2,4,-2,115.0
+9:45.0,Turnover by T. Herro (bad pass),2-4, ,,1,2,4,-2,135.0
+9:31.0, ,2-7,K. Kuzma makes 3-pt jump shot from 24 ft (assist by T. Jones),,1,2,7,-5,149.0
+9:15.0,H. Highsmith misses 3-pt jump shot from 24 ft,2-7, ,,1,2,7,-5,165.0
+9:12.0,Offensive rebound by H. Highsmith,2-7, ,,1,2,7,-5,168.0
+9:11.0,H. Highsmith makes 2-pt hook shot from 6 ft,4-7, ,,1,4,7,-3,169.0
+8:50.0, ,4-7,J. Poole misses 3-pt jump shot from 26 ft,,1,4,7,-3,190.0
+8:47.0,Defensive rebound by B. Adebayo,4-7, ,,1,4,7,-3,193.0
+8:41.0,Turnover by J. Butler (bad pass),4-7, ,,1,4,7,-3,199.0
+8:32.0, ,4-7,T. Jones misses 3-pt jump shot from 29 ft,,1,4,7,-3,208.0
+8:30.0,Defensive rebound by Team,4-7, ,,1,4,7,-3,210.0
+8:18.0,J. Butler makes 2-pt layup from 6 ft,6-7, ,,1,6,7,-1,222.0
+8:13.0, ,6-9,D. Avdija makes 2-pt layup from 3 ft (assist by J. Poole),,1,6,9,-3,227.0
+8:13.0,Violation by Team (def goaltending),6-9, ,,1,6,9,-3,227.0
+8:01.0,T. Herro misses 2-pt jump shot from 15 ft,6-9, ,,1,6,9,-3,239.0
+7:58.0, ,6-9,Defensive rebound by D. Avdija,,1,6,9,-3,242.0
+7:54.0, ,6-9,Turnover by T. Jones (bad pass; steal by J. Butler),,1,6,9,-3,246.0
+7:49.0,Shooting foul by K. Kuzma (drawn by J. Butler),6-9, ,,1,6,9,-3,251.0
+7:49.0,J. Butler makes free throw 1 of 2,7-9, ,,1,7,9,-2,251.0
+7:49.0,J. Butler makes free throw 2 of 2,8-9, ,,1,8,9,-1,251.0
+7:32.0, ,8-11,J. Poole makes 2-pt jump shot from 20 ft (assist by T. Jones),,1,8,11,-3,268.0
+7:16.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),10-11, ,,1,10,11,-1,284.0
+6:54.0, ,10-13,D. Avdija makes 2-pt layup from 1 ft (assist by T. Jones),,1,10,13,-3,306.0
+6:46.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by T. Rozier),12-13, ,,1,12,13,-1,314.0
+6:46.0,Shooting foul by D. Gafford (drawn by B. Adebayo),12-13, ,,1,12,13,-1,314.0
+6:46.0, ,12-13,Washington full timeout,,1,12,13,-1,314.0
+6:46.0,J. Jaquez enters the game for T. Herro,12-13, ,,1,12,13,-1,314.0
+6:46.0, ,12-13,B. Coulibaly enters the game for D. Gafford,,1,12,13,-1,314.0
+6:46.0, ,12-13,C. Kispert enters the game for J. Poole,,1,12,13,-1,314.0
+6:46.0,B. Adebayo makes free throw 1 of 1,13-13, ,Tie,1,13,13,0,314.0
+6:35.0, ,13-15,K. Kuzma makes 2-pt dunk at rim,,1,13,15,-2,325.0
+6:14.0,Shooting foul by K. Kuzma (drawn by T. Rozier),13-15, ,,1,13,15,-2,346.0
+6:14.0,T. Rozier makes free throw 1 of 2,14-15, ,,1,14,15,-1,346.0
+6:14.0,T. Rozier makes free throw 2 of 2,15-15, ,Tie,1,15,15,0,346.0
+6:14.0,K. Love enters the game for B. Adebayo,15-15, ,,1,15,15,0,346.0
+6:07.0, ,15-18,C. Kispert makes 3-pt jump shot from 23 ft (assist by T. Jones),,1,15,18,-3,353.0
+5:55.0,J. Butler misses 2-pt layup from 4 ft,15-18, ,,1,15,18,-3,365.0
+5:51.0, ,15-18,Defensive rebound by C. Kispert,,1,15,18,-3,369.0
+5:33.0, ,15-18,Shooting foul by H. Highsmith (drawn by T. Jones),,1,15,18,-3,387.0
+5:33.0, ,15-19,T. Jones makes free throw 1 of 2,,1,15,19,-4,387.0
+5:33.0,C. Martin enters the game for H. Highsmith,15-19, ,,1,15,19,-4,387.0
+5:33.0, ,15-20,T. Jones makes free throw 2 of 2,,1,15,20,-5,387.0
+5:22.0,T. Rozier misses 2-pt jump shot from 16 ft,15-20, ,,1,15,20,-5,398.0
+5:19.0,Offensive rebound by K. Love,15-20, ,,1,15,20,-5,401.0
+5:19.0,Shooting foul by D. Avdija (drawn by K. Love),15-20, ,,1,15,20,-5,401.0
+5:19.0,K. Love makes free throw 1 of 2,16-20, ,,1,16,20,-4,401.0
+5:19.0,K. Love makes free throw 2 of 2,17-20, ,,1,17,20,-3,401.0
+5:09.0, ,17-20,T. Jones misses 2-pt jump shot from 13 ft,,1,17,20,-3,411.0
+5:06.0,Defensive rebound by K. Love,17-20, ,,1,17,20,-3,414.0
+4:51.0,C. Martin misses 3-pt jump shot from 27 ft,17-20, ,,1,17,20,-3,429.0
+4:46.0,Offensive rebound by T. Rozier,17-20, ,,1,17,20,-3,434.0
+4:44.0,K. Love misses 3-pt jump shot from 23 ft,17-20, ,,1,17,20,-3,436.0
+4:40.0,Offensive rebound by J. Jaquez,17-20, ,,1,17,20,-3,440.0
+4:37.0,J. Butler makes 2-pt dunk from 1 ft (assist by C. Martin),19-20, ,,1,19,20,-1,443.0
+4:25.0, ,19-20,Turnover by D. Avdija (bad pass),,1,19,20,-1,455.0
+4:05.0,Offensive foul by C. Martin (drawn by T. Jones),19-20, ,,1,19,20,-1,475.0
+4:05.0,Turnover by C. Martin (offensive foul),19-20, ,,1,19,20,-1,475.0
+3:54.0, ,19-22,B. Coulibaly makes 2-pt jump shot from 4 ft,,1,19,22,-3,486.0
+3:54.0, ,19-22,Shooting foul by K. Love (drawn by B. Coulibaly),,1,19,22,-3,486.0
+3:54.0, ,19-23,B. Coulibaly makes free throw 1 of 1,,1,19,23,-4,486.0
+3:37.0,J. Butler makes 2-pt layup from 6 ft,21-23, ,,1,21,23,-2,503.0
+3:25.0, ,21-26,C. Kispert makes 3-pt jump shot from 27 ft (assist by T. Jones),,1,21,26,-5,515.0
+3:13.0,J. Butler makes 2-pt layup from 5 ft,23-26, ,,1,23,26,-3,527.0
+3:03.0, ,23-26,K. Kuzma misses 3-pt jump shot from 24 ft,,1,23,26,-3,537.0
+2:59.0,Defensive rebound by J. Butler,23-26, ,,1,23,26,-3,541.0
+2:54.0,T. Rozier misses 3-pt jump shot from 24 ft,23-26, ,,1,23,26,-3,546.0
+2:49.0, ,23-26,Defensive rebound by D. Avdija,,1,23,26,-3,551.0
+2:44.0, ,23-26,C. Kispert misses 3-pt jump shot from 26 ft,,1,23,26,-3,556.0
+2:41.0,Defensive rebound by K. Love,23-26, ,,1,23,26,-3,559.0
+2:28.0,Miami full timeout,23-26, ,,1,23,26,-3,572.0
+2:28.0,J. Richardson enters the game for T. Rozier,23-26, ,,1,23,26,-3,572.0
+2:28.0, ,23-26,J. Davis enters the game for D. Avdija,,1,23,26,-3,572.0
+2:28.0, ,23-26,D. Gafford enters the game for T. Jones,,1,23,26,-3,572.0
+2:28.0, ,23-26,J. Poole enters the game for K. Kuzma,,1,23,26,-3,572.0
+2:22.0,Turnover by K. Love (bad pass; steal by B. Coulibaly),23-26, ,,1,23,26,-3,578.0
+2:14.0, ,23-28,J. Davis makes 2-pt layup from 1 ft (assist by J. Poole),,1,23,28,-5,586.0
+1:59.0,Turnover by J. Butler (bad pass; steal by J. Poole),23-28, ,,1,23,28,-5,601.0
+1:55.0, ,23-31,C. Kispert makes 3-pt jump shot from 27 ft (assist by J. Poole),,1,23,31,-8,605.0
+1:42.0,K. Love makes 3-pt jump shot from 27 ft (assist by J. Richardson),26-31, ,,1,26,31,-5,618.0
+1:16.0, ,26-31,J. Poole misses 3-pt jump shot from 27 ft,,1,26,31,-5,644.0
+1:13.0,Defensive rebound by K. Love,26-31, ,,1,26,31,-5,647.0
+0:56.0,C. Martin makes 2-pt layup from 3 ft (assist by K. Love),28-31, ,,1,28,31,-3,664.0
+0:48.0, ,28-31,Shooting foul by J. Richardson (drawn by B. Coulibaly),,1,28,31,-3,672.0
+0:48.0, ,28-32,B. Coulibaly makes free throw 1 of 2,,1,28,32,-4,672.0
+0:48.0,T. Herro enters the game for J. Butler,28-32, ,,1,28,32,-4,672.0
+0:48.0, ,28-32,D. Avdija enters the game for D. Gafford,,1,28,32,-4,672.0
+0:48.0, ,28-33,B. Coulibaly makes free throw 2 of 2,,1,28,33,-5,672.0
+0:29.0,Personal foul by B. Coulibaly (drawn by K. Love),28-33, ,,1,28,33,-5,691.0
+0:29.0,K. Love misses free throw 1 of 2,28-33, ,,1,28,33,-5,691.0
+0:29.0,Offensive rebound by Team,28-33, ,,1,28,33,-5,691.0
+0:29.0, ,28-33,L. Shamet enters the game for J. Davis,,1,28,33,-5,691.0
+0:29.0,K. Love makes free throw 2 of 2,29-33, ,,1,29,33,-4,691.0
+0:22.0, ,29-33,Turnover by D. Avdija (lost ball; steal by C. Martin),,1,29,33,-4,698.0
+0:21.0,J. Jaquez makes 2-pt dunk from 2 ft (assist by C. Martin),31-33, ,,1,31,33,-2,699.0
+0:00.0, ,31-33,L. Shamet misses 2-pt jump shot from 13 ft,,1,31,33,-2,720.0
+0:00.0, ,31-33,Offensive rebound by Team,,1,31,33,-2,720.0
+0:00.0,End of 1st quarter,31-33,,,1,31,33,-2,720.0
+12:00.0,Start of 2nd quarter,31-33,,,2,31,33,-2,720.0
+11:35.0, ,31-33,Shooting foul by B. Adebayo (drawn by L. Shamet),,2,31,33,-2,745.0
+11:35.0, ,31-34,L. Shamet makes free throw 1 of 2,,2,31,34,-3,745.0
+11:35.0, ,31-35,L. Shamet makes free throw 2 of 2,,2,31,35,-4,745.0
+11:22.0,T. Herro makes 3-pt jump shot from 28 ft (assist by J. Jaquez),34-35, ,,2,34,35,-1,758.0
+11:06.0, ,34-38,C. Kispert makes 3-pt jump shot from 28 ft (assist by D. Wright),,2,34,38,-4,774.0
+10:51.0,J. Jaquez misses 3-pt jump shot from 23 ft,34-38, ,,2,34,38,-4,789.0
+10:48.0, ,34-38,Defensive rebound by B. Coulibaly,,2,34,38,-4,792.0
+10:32.0, ,34-38,C. Kispert misses 3-pt jump shot from 25 ft,,2,34,38,-4,808.0
+10:29.0,Defensive rebound by C. Martin,34-38, ,,2,34,38,-4,811.0
+10:23.0,C. Martin misses 2-pt layup from 7 ft (block by D. Gafford),34-38, ,,2,34,38,-4,817.0
+10:20.0, ,34-38,Defensive rebound by C. Kispert,,2,34,38,-4,820.0
+10:08.0, ,34-40,D. Gafford makes 2-pt layup from 3 ft (assist by C. Kispert),,2,34,40,-6,832.0
+9:51.0,B. Adebayo misses 2-pt jump shot from 10 ft,34-40, ,,2,34,40,-6,849.0
+9:49.0, ,34-40,Defensive rebound by D. Gafford,,2,34,40,-6,851.0
+9:34.0, ,34-40,B. Coulibaly misses 3-pt jump shot from 27 ft,,2,34,40,-6,866.0
+9:31.0, ,34-40,Offensive rebound by Team,,2,34,40,-6,869.0
+9:28.0, ,34-40,L. Shamet misses 3-pt jump shot from 23 ft,,2,34,40,-6,872.0
+9:25.0,Defensive rebound by B. Adebayo,34-40, ,,2,34,40,-6,875.0
+9:18.0,T. Herro misses 3-pt jump shot from 26 ft,34-40, ,,2,34,40,-6,882.0
+9:14.0, ,34-40,Defensive rebound by D. Wright,,2,34,40,-6,886.0
+9:05.0, ,34-40,Shooting foul by C. Martin (drawn by D. Gafford),,2,34,40,-6,895.0
+9:05.0, ,34-41,D. Gafford makes free throw 1 of 2,,2,34,41,-7,895.0
+9:05.0, ,34-42,D. Gafford makes free throw 2 of 2,,2,34,42,-8,895.0
+8:54.0,T. Herro misses 2-pt jump shot from 13 ft,34-42, ,,2,34,42,-8,906.0
+8:50.0, ,34-42,Defensive rebound by L. Shamet,,2,34,42,-8,910.0
+8:43.0, ,34-42,D. Wright misses 2-pt jump shot from 13 ft,,2,34,42,-8,917.0
+8:39.0, ,34-42,Offensive rebound by D. Wright,,2,34,42,-8,921.0
+8:34.0, ,34-45,D. Wright makes 3-pt jump shot from 24 ft (assist by B. Coulibaly),,2,34,45,-11,926.0
+8:33.0,Miami full timeout,34-45, ,,2,34,45,-11,927.0
+8:19.0,J. Jaquez misses 2-pt jump shot from 7 ft (block by D. Wright),34-45, ,,2,34,45,-11,941.0
+8:15.0,Offensive rebound by B. Adebayo,34-45, ,,2,34,45,-11,945.0
+8:09.0,B. Adebayo misses 2-pt jump shot from 15 ft,34-45, ,,2,34,45,-11,951.0
+8:05.0, ,34-45,Defensive rebound by B. Coulibaly,,2,34,45,-11,955.0
+7:53.0, ,34-45,C. Kispert misses 3-pt jump shot from 27 ft,,2,34,45,-11,967.0
+7:49.0,Defensive rebound by B. Adebayo,34-45, ,,2,34,45,-11,971.0
+7:40.0,B. Adebayo makes 2-pt jump shot from 12 ft,36-45, ,,2,36,45,-9,980.0
+7:21.0, ,36-45,C. Kispert misses 3-pt jump shot from 26 ft,,2,36,45,-9,999.0
+7:16.0,Defensive rebound by B. Adebayo,36-45, ,,2,36,45,-9,1004.0
+7:13.0,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo),39-45, ,,2,39,45,-6,1007.0
+7:11.0, ,39-45,Washington full timeout,,2,39,45,-6,1009.0
+7:11.0,J. Butler enters the game for J. Jaquez,39-45, ,,2,39,45,-6,1009.0
+7:11.0, ,39-45,D. Avdija enters the game for B. Coulibaly,,2,39,45,-6,1009.0
+7:11.0, ,39-45,K. Kuzma enters the game for C. Kispert,,2,39,45,-6,1009.0
+6:53.0, ,39-45,L. Shamet misses 2-pt jump shot from 16 ft,,2,39,45,-6,1027.0
+6:48.0,Defensive rebound by J. Butler,39-45, ,,2,39,45,-6,1032.0
+6:37.0,T. Herro misses 2-pt layup from 5 ft,39-45, ,,2,39,45,-6,1043.0
+6:35.0, ,39-45,Defensive rebound by D. Gafford,,2,39,45,-6,1045.0
+6:27.0, ,39-47,K. Kuzma makes 2-pt hook shot from 7 ft (assist by L. Shamet),,2,39,47,-8,1053.0
+6:01.0,C. Martin misses 2-pt jump shot from 18 ft,39-47, ,,2,39,47,-8,1079.0
+5:58.0,Offensive rebound by C. Martin,39-47, ,,2,39,47,-8,1082.0
+5:55.0,J. Richardson misses 3-pt jump shot from 26 ft,39-47, ,,2,39,47,-8,1085.0
+5:52.0, ,39-47,Defensive rebound by D. Avdija,,2,39,47,-8,1088.0
+5:46.0, ,39-47,D. Avdija misses 2-pt layup from 7 ft (block by B. Adebayo),,2,39,47,-8,1094.0
+5:46.0, ,39-47,Offensive rebound by Team,,2,39,47,-8,1094.0
+5:46.0,J. Jaquez enters the game for B. Adebayo,39-47, ,,2,39,47,-8,1094.0
+5:46.0,K. Love enters the game for T. Herro,39-47, ,,2,39,47,-8,1094.0
+5:46.0,T. Rozier enters the game for C. Martin,39-47, ,,2,39,47,-8,1094.0
+5:46.0, ,39-47,B. Coulibaly enters the game for D. Gafford,,2,39,47,-8,1094.0
+5:46.0, ,39-47,T. Jones enters the game for L. Shamet,,2,39,47,-8,1094.0
+5:46.0, ,39-47,J. Poole enters the game for D. Wright,,2,39,47,-8,1094.0
+5:39.0, ,39-47,B. Coulibaly misses 3-pt jump shot from 24 ft,,2,39,47,-8,1101.0
+5:36.0,Defensive rebound by K. Love,39-47, ,,2,39,47,-8,1104.0
+5:32.0,T. Rozier misses 2-pt layup from 7 ft,39-47, ,,2,39,47,-8,1108.0
+5:28.0, ,39-47,Defensive rebound by T. Jones,,2,39,47,-8,1112.0
+5:26.0, ,39-47,K. Kuzma misses 2-pt jump shot from 13 ft,,2,39,47,-8,1114.0
+5:22.0,Defensive rebound by K. Love,39-47, ,,2,39,47,-8,1118.0
+5:01.0,J. Richardson misses 3-pt jump shot from 26 ft,39-47, ,,2,39,47,-8,1139.0
+4:58.0,Offensive rebound by J. Butler,39-47, ,,2,39,47,-8,1142.0
+4:57.0,J. Butler makes 2-pt layup from 3 ft,41-47, ,,2,41,47,-6,1143.0
+4:41.0, ,41-50,J. Poole makes 3-pt jump shot from 27 ft (assist by B. Coulibaly),,2,41,50,-9,1159.0
+4:18.0,Shooting foul by B. Coulibaly (drawn by J. Butler),41-50, ,,2,41,50,-9,1182.0
+4:18.0,J. Butler makes free throw 1 of 2,42-50, ,,2,42,50,-8,1182.0
+4:18.0,J. Butler makes free throw 2 of 2,43-50, ,,2,43,50,-7,1182.0
+4:04.0, ,43-50,K. Kuzma misses 2-pt jump shot from 16 ft,,2,43,50,-7,1196.0
+4:00.0,Defensive rebound by J. Richardson,43-50, ,,2,43,50,-7,1200.0
+3:57.0,J. Richardson makes 2-pt layup from 3 ft,45-50, ,,2,45,50,-5,1203.0
+3:52.0, ,45-52,D. Avdija makes 2-pt layup from 2 ft (assist by J. Poole),,2,45,52,-7,1208.0
+3:52.0, ,45-52,Shooting foul by J. Jaquez (drawn by D. Avdija),,2,45,52,-7,1208.0
+3:52.0, ,45-52,D. Avdija misses free throw 1 of 1,,2,45,52,-7,1208.0
+3:49.0,Defensive rebound by K. Love,45-52, ,,2,45,52,-7,1211.0
+3:32.0,T. Rozier misses 2-pt layup from 9 ft,45-52, ,,2,45,52,-7,1228.0
+3:30.0, ,45-52,Defensive rebound by B. Coulibaly,,2,45,52,-7,1230.0
+3:18.0, ,45-54,D. Avdija makes 2-pt dunk from 1 ft (assist by J. Poole),,2,45,54,-9,1242.0
+3:08.0,Shooting foul by D. Avdija (drawn by J. Butler),45-54, ,,2,45,54,-9,1252.0
+3:08.0, ,45-54,Washington full timeout,,2,45,54,-9,1252.0
+3:08.0, ,45-54,Instant Replay (Challenge: Stands),,2,45,54,-9,1252.0
+3:08.0,J. Butler makes free throw 1 of 2,46-54, ,,2,46,54,-8,1252.0
+3:08.0,B. Adebayo enters the game for J. Jaquez,46-54, ,,2,46,54,-8,1252.0
+3:08.0,T. Herro enters the game for K. Love,46-54, ,,2,46,54,-8,1252.0
+3:08.0,C. Martin enters the game for J. Richardson,46-54, ,,2,46,54,-8,1252.0
+3:08.0,J. Butler makes free throw 2 of 2,47-54, ,,2,47,54,-7,1252.0
+2:56.0, ,47-54,T. Jones misses 2-pt jump shot from 14 ft,,2,47,54,-7,1264.0
+2:53.0,Defensive rebound by T. Rozier,47-54, ,,2,47,54,-7,1267.0
+2:40.0,T. Rozier misses 2-pt hook shot from 7 ft,47-54, ,,2,47,54,-7,1280.0
+2:38.0,Offensive rebound by T. Rozier,47-54, ,,2,47,54,-7,1282.0
+2:36.0,T. Rozier makes 2-pt layup from 4 ft,49-54, ,,2,49,54,-5,1284.0
+2:27.0, ,49-54,J. Poole misses 3-pt jump shot from 29 ft,,2,49,54,-5,1293.0
+2:23.0,Defensive rebound by J. Butler,49-54, ,,2,49,54,-5,1297.0
+2:11.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Rozier),51-54, ,,2,51,54,-3,1309.0
+1:42.0, ,51-54,J. Poole misses 3-pt jump shot from 26 ft,,2,51,54,-3,1338.0
+1:38.0,Defensive rebound by T. Rozier,51-54, ,,2,51,54,-3,1342.0
+1:36.0,Turnover by B. Adebayo (bad pass),51-54, ,,2,51,54,-3,1344.0
+1:36.0, ,51-54,C. Kispert enters the game for B. Coulibaly,,2,51,54,-3,1344.0
+1:22.0, ,51-54,J. Poole misses 2-pt layup from 5 ft,,2,51,54,-3,1358.0
+1:19.0,Defensive rebound by T. Herro,51-54, ,,2,51,54,-3,1361.0
+1:14.0,T. Herro misses 2-pt layup from 6 ft,51-54, ,,2,51,54,-3,1366.0
+1:10.0,Offensive rebound by J. Butler,51-54, ,,2,51,54,-3,1370.0
+1:09.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),53-54, ,,2,53,54,-1,1371.0
+1:09.0,Shooting foul by C. Kispert (drawn by B. Adebayo),53-54, ,,2,53,54,-1,1371.0
+1:09.0,B. Adebayo misses free throw 1 of 1,53-54, ,,2,53,54,-1,1371.0
+1:05.0, ,53-54,Defensive rebound by K. Kuzma,,2,53,54,-1,1375.0
+0:49.0, ,53-56,T. Jones makes 2-pt jump shot from 13 ft (assist by C. Kispert),,2,53,56,-3,1391.0
+0:27.0,B. Adebayo misses 2-pt jump shot from 16 ft,53-56, ,,2,53,56,-3,1413.0
+0:27.0, ,53-56,Defensive rebound by K. Kuzma,,2,53,56,-3,1413.0
+0:04.0, ,53-59,C. Kispert makes 3-pt jump shot from 28 ft (assist by T. Jones),,2,53,59,-6,1436.0
+0:00.0,J. Butler makes 3-pt jump shot from 26 ft (assist by T. Herro),56-59, ,,2,56,59,-3,1440.0
+0:00.0,Instant Replay (Request: Stands),56-59, ,,2,56,59,-3,1440.0
+0:00.0,End of 2nd quarter,56-59,,,2,56,59,-3,1440.0
+12:00.0,Start of 3rd quarter,56-59,,,3,56,59,-3,1440.0
+11:42.0, ,56-59,K. Kuzma misses 3-pt jump shot from 28 ft,,3,56,59,-3,1458.0
+11:38.0,Defensive rebound by B. Adebayo,56-59, ,,3,56,59,-3,1462.0
+11:27.0,H. Highsmith makes 2-pt jump shot from 9 ft (assist by T. Rozier),58-59, ,,3,58,59,-1,1473.0
+11:10.0, ,58-59,K. Kuzma misses 2-pt jump shot from 11 ft,,3,58,59,-1,1490.0
+11:06.0,Defensive rebound by J. Butler,58-59, ,,3,58,59,-1,1494.0
+11:03.0,T. Herro misses 3-pt jump shot from 26 ft,58-59, ,,3,58,59,-1,1497.0
+11:03.0,Offensive rebound by Team,58-59, ,,3,58,59,-1,1497.0
+10:58.0,Shooting foul by T. Jones (drawn by T. Rozier),58-59, ,,3,58,59,-1,1502.0
+10:58.0,T. Rozier makes free throw 1 of 2,59-59, ,Tie,3,59,59,0,1502.0
+10:58.0,T. Rozier makes free throw 2 of 2,60-59, ,Lead change,3,60,59,1,1502.0
+10:38.0, ,60-59,K. Kuzma misses 2-pt jump shot from 21 ft,,3,60,59,1,1522.0
+10:35.0,Defensive rebound by B. Adebayo,60-59, ,,3,60,59,1,1525.0
+10:25.0,Personal foul by J. Poole (drawn by J. Butler),60-59, ,,3,60,59,1,1535.0
+10:15.0,Turnover by T. Herro (bad pass; steal by T. Jones),60-59, ,,3,60,59,1,1545.0
+10:11.0, ,60-61,K. Kuzma makes 2-pt layup from 5 ft,Lead change,3,60,61,-1,1549.0
+9:52.0,B. Adebayo misses 2-pt jump shot from 12 ft,60-61, ,,3,60,61,-1,1568.0
+9:48.0, ,60-61,Defensive rebound by D. Avdija,,3,60,61,-1,1572.0
+9:34.0, ,60-61,J. Poole misses 3-pt jump shot from 29 ft,,3,60,61,-1,1586.0
+9:31.0,Defensive rebound by T. Rozier,60-61, ,,3,60,61,-1,1589.0
+9:26.0,J. Butler misses 2-pt layup from 6 ft,60-61, ,,3,60,61,-1,1594.0
+9:24.0, ,60-61,Defensive rebound by J. Poole,,3,60,61,-1,1596.0
+9:19.0, ,60-61,K. Kuzma misses 3-pt jump shot from 23 ft,,3,60,61,-1,1601.0
+9:19.0,Defensive rebound by T. Rozier,60-61, ,,3,60,61,-1,1601.0
+9:13.0,Shooting foul by T. Jones (drawn by T. Rozier),60-61, ,,3,60,61,-1,1607.0
+9:13.0,T. Rozier makes free throw 1 of 2,61-61, ,Tie,3,61,61,0,1607.0
+9:13.0,T. Rozier makes free throw 2 of 2,62-61, ,Lead change,3,62,61,1,1607.0
+9:01.0, ,62-61,D. Avdija misses 3-pt jump shot from 28 ft,,3,62,61,1,1619.0
+8:56.0,Defensive rebound by B. Adebayo,62-61, ,,3,62,61,1,1624.0
+8:40.0,T. Rozier misses 3-pt jump shot from 27 ft,62-61, ,,3,62,61,1,1640.0
+8:36.0, ,62-61,Defensive rebound by J. Poole,,3,62,61,1,1644.0
+8:27.0, ,62-64,D. Avdija makes 3-pt jump shot from 26 ft (assist by K. Kuzma),Lead change,3,62,64,-2,1653.0
+8:12.0,H. Highsmith misses 3-pt jump shot from 24 ft,62-64, ,,3,62,64,-2,1668.0
+8:10.0,Offensive rebound by J. Butler,62-64, ,,3,62,64,-2,1670.0
+8:06.0,T. Herro misses 3-pt jump shot from 24 ft,62-64, ,,3,62,64,-2,1674.0
+8:02.0, ,62-64,Defensive rebound by Team,,3,62,64,-2,1678.0
+7:48.0, ,62-64,J. Poole misses 3-pt jump shot from 27 ft,,3,62,64,-2,1692.0
+7:44.0,Defensive rebound by B. Adebayo,62-64, ,,3,62,64,-2,1696.0
+7:37.0,Personal foul by J. Poole (drawn by T. Herro),62-64, ,,3,62,64,-2,1703.0
+7:32.0,J. Butler makes 2-pt layup from 3 ft (assist by T. Herro),64-64, ,Tie,3,64,64,0,1708.0
+7:32.0,Shooting foul by D. Gafford (drawn by J. Butler),64-64, ,,3,64,64,0,1708.0
+7:32.0,J. Butler misses free throw 1 of 1,64-64, ,,3,64,64,0,1708.0
+7:28.0, ,64-64,Defensive rebound by D. Gafford,,3,64,64,0,1712.0
+7:18.0, ,64-66,T. Jones makes 2-pt jump shot from 9 ft,,3,64,66,-2,1722.0
+7:00.0,J. Butler misses 2-pt jump shot from 12 ft,64-66, ,,3,64,66,-2,1740.0
+6:56.0, ,64-66,Defensive rebound by J. Poole,,3,64,66,-2,1744.0
+6:53.0, ,64-68,J. Poole makes 2-pt layup from 2 ft,,3,64,68,-4,1747.0
+6:28.0,Turnover by B. Adebayo (bad pass; steal by D. Gafford),64-68, ,,3,64,68,-4,1772.0
+6:17.0, ,64-68,Personal foul by T. Rozier (drawn by T. Jones),,3,64,68,-4,1783.0
+6:17.0, ,64-68,Washington full timeout,,3,64,68,-4,1783.0
+6:17.0,J. Jaquez enters the game for B. Adebayo,64-68, ,,3,64,68,-4,1783.0
+6:17.0,K. Love enters the game for T. Herro,64-68, ,,3,64,68,-4,1783.0
+6:17.0, ,64-68,B. Coulibaly enters the game for D. Gafford,,3,64,68,-4,1783.0
+6:17.0, ,64-68,C. Kispert enters the game for J. Poole,,3,64,68,-4,1783.0
+6:03.0, ,64-68,Personal foul by T. Rozier (drawn by D. Avdija),,3,64,68,-4,1797.0
+6:03.0, ,64-68,Instant Replay (Request: Ruling Stands),,3,64,68,-4,1797.0
+6:03.0, ,64-68,Technical foul by D. Avdija,,3,64,68,-4,1797.0
+6:03.0,T. Rozier makes technical free throw,65-68, ,,3,65,68,-3,1797.0
+5:49.0, ,65-68,Turnover by Team (shot clock),,3,65,68,-3,1811.0
+5:37.0,T. Rozier misses 2-pt layup from 3 ft (block by B. Coulibaly),65-68, ,,3,65,68,-3,1823.0
+5:36.0,Offensive rebound by J. Butler,65-68, ,,3,65,68,-3,1824.0
+5:36.0,Shooting foul by D. Avdija (drawn by J. Butler),65-68, ,,3,65,68,-3,1824.0
+5:36.0,J. Butler makes free throw 1 of 2,66-68, ,,3,66,68,-2,1824.0
+5:36.0,J. Butler misses free throw 2 of 2,66-68, ,,3,66,68,-2,1824.0
+5:33.0, ,66-68,Defensive rebound by C. Kispert,,3,66,68,-2,1827.0
+5:23.0, ,66-68,K. Kuzma misses 2-pt jump shot from 18 ft,,3,66,68,-2,1837.0
+5:18.0,Defensive rebound by K. Love,66-68, ,,3,66,68,-2,1842.0
+5:10.0,J. Jaquez makes 2-pt layup from 4 ft (assist by J. Butler),68-68, ,Tie,3,68,68,0,1850.0
+5:04.0, ,68-68,Turnover by B. Coulibaly (traveling),,3,68,68,0,1856.0
+4:54.0,Personal foul by K. Kuzma (drawn by J. Butler),68-68, ,,3,68,68,0,1866.0
+4:54.0,J. Butler makes free throw 1 of 2,69-68, ,Lead change,3,69,68,1,1866.0
+4:54.0,J. Butler makes free throw 2 of 2,70-68, ,,3,70,68,2,1866.0
+4:40.0, ,70-71,C. Kispert makes 3-pt jump shot from 26 ft (assist by B. Coulibaly),Lead change,3,70,71,-1,1880.0
+4:29.0,K. Love makes 2-pt layup from 2 ft (assist by T. Rozier),72-71, ,Lead change,3,72,71,1,1891.0
+4:16.0, ,72-71,T. Jones misses 2-pt jump shot from 14 ft,,3,72,71,1,1904.0
+4:13.0,Defensive rebound by T. Rozier,72-71, ,,3,72,71,1,1907.0
+4:07.0,T. Rozier makes 2-pt layup from 2 ft,74-71, ,,3,74,71,3,1913.0
+3:48.0, ,74-71,B. Coulibaly misses 2-pt jump shot from 13 ft,,3,74,71,3,1932.0
+3:45.0,Defensive rebound by J. Butler,74-71, ,,3,74,71,3,1935.0
+3:30.0,H. Highsmith misses 3-pt jump shot from 26 ft,74-71, ,,3,74,71,3,1950.0
+3:26.0, ,74-71,Defensive rebound by D. Avdija,,3,74,71,3,1954.0
+3:22.0, ,74-71,Offensive foul by D. Avdija (drawn by T. Rozier),,3,74,71,3,1958.0
+3:22.0, ,74-71,Turnover by D. Avdija (offensive foul),,3,74,71,3,1958.0
+3:22.0,C. Martin enters the game for H. Highsmith,74-71, ,,3,74,71,3,1958.0
+3:22.0, ,74-71,L. Shamet enters the game for D. Avdija,,3,74,71,3,1958.0
+3:04.0,K. Love makes 2-pt hook shot from 6 ft,76-71, ,,3,76,71,5,1976.0
+2:48.0, ,76-71,K. Kuzma misses 2-pt jump shot from 15 ft,,3,76,71,5,1992.0
+2:43.0,Defensive rebound by K. Love,76-71, ,,3,76,71,5,1997.0
+2:29.0,T. Rozier misses 3-pt jump shot from 26 ft,76-71, ,,3,76,71,5,2011.0
+2:25.0, ,76-71,Defensive rebound by K. Kuzma,,3,76,71,5,2015.0
+2:18.0, ,76-71,C. Kispert misses 3-pt jump shot from 27 ft,,3,76,71,5,2022.0
+2:15.0,Defensive rebound by K. Love,76-71, ,,3,76,71,5,2025.0
+1:57.0,K. Love makes 3-pt jump shot from 25 ft (assist by C. Martin),79-71, ,,3,79,71,8,2043.0
+1:42.0, ,79-71,T. Jones misses 3-pt jump shot from 27 ft,,3,79,71,8,2058.0
+1:39.0,Defensive rebound by J. Jaquez,79-71, ,,3,79,71,8,2061.0
+1:25.0,J. Jaquez makes 2-pt layup from 1 ft (assist by T. Rozier),81-71, ,,3,81,71,10,2075.0
+1:25.0, ,81-71,Washington full timeout,,3,81,71,10,2075.0
+1:25.0,T. Herro enters the game for J. Butler,81-71, ,,3,81,71,10,2075.0
+1:25.0,J. Richardson enters the game for T. Rozier,81-71, ,,3,81,71,10,2075.0
+1:25.0, ,81-71,D. Gafford enters the game for T. Jones,,3,81,71,10,2075.0
+1:25.0, ,81-71,J. Poole enters the game for K. Kuzma,,3,81,71,10,2075.0
+1:03.0, ,81-71,Turnover by L. Shamet (bad pass; steal by J. Jaquez),,3,81,71,10,2097.0
+0:57.0,J. Jaquez misses 2-pt layup from 5 ft (block by J. Poole),81-71, ,,3,81,71,10,2103.0
+0:53.0, ,81-71,Defensive rebound by D. Gafford,,3,81,71,10,2107.0
+0:50.0, ,81-71,J. Poole misses 2-pt layup from 5 ft,,3,81,71,10,2110.0
+0:47.0, ,81-71,Offensive rebound by D. Gafford,,3,81,71,10,2113.0
+0:47.0, ,81-73,D. Gafford makes 2-pt dunk at rim,,3,81,73,8,2113.0
+0:35.0,C. Martin misses 3-pt jump shot from 26 ft,81-73, ,,3,81,73,8,2125.0
+0:30.0, ,81-73,Defensive rebound by D. Gafford,,3,81,73,8,2130.0
+0:28.0, ,81-73,Shooting foul by J. Richardson (drawn by D. Gafford),,3,81,73,8,2132.0
+0:28.0, ,81-73,D. Gafford misses free throw 1 of 2,,3,81,73,8,2132.0
+0:28.0, ,81-73,Offensive rebound by Team,,3,81,73,8,2132.0
+0:28.0, ,81-74,D. Gafford makes free throw 2 of 2,,3,81,74,7,2132.0
+0:08.0,J. Richardson makes 3-pt jump shot from 26 ft (assist by T. Herro),84-74, ,,3,84,74,10,2152.0
+0:05.0, ,84-74,Turnover by J. Poole (dbl dribble),,3,84,74,10,2155.0
+0:05.0, ,84-74,A. Gill enters the game for D. Gafford,,3,84,74,10,2155.0
+0:03.0,T. Herro makes 3-pt jump shot from 26 ft (assist by K. Love),87-74, ,,3,87,74,13,2157.0
+0:01.0, ,87-74,C. Kispert misses 3-pt jump shot from 45 ft,,3,87,74,13,2159.0
+0:01.0, ,87-74,Offensive rebound by Team,,3,87,74,13,2159.0
+0:00.0,End of 3rd quarter,87-74,,,3,87,74,13,2160.0
+12:00.0,Start of 4th quarter,87-74,,,4,87,74,13,2160.0
+12:00.0,Violation by Team (delay of game),87-74, ,,4,87,74,13,2160.0
+11:54.0,Personal foul by C. Kispert (drawn by B. Adebayo),87-74, ,,4,87,74,13,2166.0
+11:37.0,B. Adebayo misses 2-pt jump shot from 12 ft,87-74, ,,4,87,74,13,2183.0
+11:34.0, ,87-74,Defensive rebound by L. Shamet,,4,87,74,13,2186.0
+11:20.0, ,87-76,L. Shamet makes 2-pt jump shot from 7 ft (assist by J. Poole),,4,87,76,11,2200.0
+11:20.0,Violation by Team (def goaltending),87-76, ,,4,87,76,11,2200.0
+11:20.0, ,87-76,Shooting foul by C. Martin (drawn by L. Shamet),,4,87,76,11,2200.0
+11:20.0, ,87-77,L. Shamet makes free throw 1 of 1,,4,87,77,10,2200.0
+11:13.0,T. Herro misses 3-pt jump shot from 27 ft,87-77, ,,4,87,77,10,2207.0
+11:10.0,Offensive rebound by C. Martin,87-77, ,,4,87,77,10,2210.0
+11:06.0,Offensive foul by B. Adebayo (drawn by L. Shamet),87-77, ,,4,87,77,10,2214.0
+11:06.0,Turnover by B. Adebayo (offensive foul),87-77, ,,4,87,77,10,2214.0
+10:42.0, ,87-77,D. Gafford misses 2-pt hook shot from 8 ft,,4,87,77,10,2238.0
+10:37.0,Defensive rebound by B. Adebayo,87-77, ,,4,87,77,10,2243.0
+10:17.0,T. Herro misses 2-pt jump shot from 18 ft,87-77, ,,4,87,77,10,2263.0
+10:14.0, ,87-77,Defensive rebound by B. Coulibaly,,4,87,77,10,2266.0
+10:04.0, ,87-77,J. Poole misses 3-pt jump shot from 29 ft,,4,87,77,10,2276.0
+10:00.0, ,87-77,Offensive rebound by D. Gafford,,4,87,77,10,2280.0
+9:59.0, ,87-77,C. Kispert misses 3-pt jump shot from 28 ft,,4,87,77,10,2281.0
+9:56.0,Defensive rebound by J. Richardson,87-77, ,,4,87,77,10,2284.0
+9:52.0,Personal foul by L. Shamet (drawn by T. Herro),87-77, ,,4,87,77,10,2288.0
+9:44.0,T. Herro makes 2-pt layup from 1 ft (assist by J. Jaquez),89-77, ,,4,89,77,12,2296.0
+9:22.0, ,89-77,L. Shamet misses 3-pt jump shot from 31 ft,,4,89,77,12,2318.0
+9:20.0,Defensive rebound by J. Richardson,89-77, ,,4,89,77,12,2320.0
+9:16.0,J. Richardson misses 3-pt jump shot from 26 ft,89-77, ,,4,89,77,12,2324.0
+9:12.0, ,89-77,Defensive rebound by D. Gafford,,4,89,77,12,2328.0
+9:05.0, ,89-77,Personal foul by J. Jaquez (drawn by B. Coulibaly),,4,89,77,12,2335.0
+9:01.0, ,89-77,Turnover by D. Gafford (lost ball; steal by J. Jaquez),,4,89,77,12,2339.0
+8:57.0,J. Richardson makes 2-pt layup from 3 ft (assist by C. Martin),91-77, ,,4,91,77,14,2343.0
+8:56.0, ,91-77,Washington full timeout,,4,91,77,14,2344.0
+8:56.0, ,91-77,D. Avdija enters the game for B. Coulibaly,,4,91,77,14,2344.0
+8:56.0, ,91-77,K. Kuzma enters the game for L. Shamet,,4,91,77,14,2344.0
+8:43.0, ,91-77,J. Poole misses 3-pt jump shot from 28 ft,,4,91,77,14,2357.0
+8:38.0,Defensive rebound by C. Martin,91-77, ,,4,91,77,14,2362.0
+8:19.0,J. Jaquez makes 2-pt layup from 4 ft,93-77, ,,4,93,77,16,2381.0
+8:04.0, ,93-79,K. Kuzma makes 2-pt layup from 3 ft (assist by D. Gafford),,4,93,79,14,2396.0
+7:51.0,Turnover by B. Adebayo (traveling),93-79, ,,4,93,79,14,2409.0
+7:41.0, ,93-81,D. Gafford makes 2-pt layup from 3 ft (assist by J. Poole),,4,93,81,12,2419.0
+7:23.0,B. Adebayo makes 2-pt layup from 4 ft (assist by T. Herro),95-81, ,,4,95,81,14,2437.0
+7:17.0, ,95-81,Personal foul by T. Herro (drawn by J. Poole),,4,95,81,14,2443.0
+7:17.0,Technical foul by B. Adebayo,95-81, ,,4,95,81,14,2443.0
+7:17.0, ,95-82,J. Poole makes technical free throw,,4,95,82,13,2443.0
+7:13.0, ,95-82,J. Poole misses 3-pt jump shot from 23 ft,,4,95,82,13,2447.0
+7:10.0,Defensive rebound by J. Jaquez,95-82, ,,4,95,82,13,2450.0
+7:01.0,J. Richardson misses 3-pt jump shot from 26 ft,95-82, ,,4,95,82,13,2459.0
+6:56.0,Offensive rebound by J. Jaquez,95-82, ,,4,95,82,13,2464.0
+6:54.0,T. Herro misses 2-pt jump shot from 14 ft,95-82, ,,4,95,82,13,2466.0
+6:51.0, ,95-82,Defensive rebound by D. Gafford,,4,95,82,13,2469.0
+6:42.0, ,95-84,J. Poole makes 2-pt jump shot from 13 ft,,4,95,84,11,2478.0
+6:42.0,Miami full timeout,95-84, ,,4,95,84,11,2478.0
+6:42.0,J. Butler enters the game for T. Herro,95-84, ,,4,95,84,11,2478.0
+6:42.0,T. Rozier enters the game for J. Jaquez,95-84, ,,4,95,84,11,2478.0
+6:33.0,B. Adebayo makes 2-pt layup from 2 ft (assist by J. Richardson),97-84, ,,4,97,84,13,2487.0
+6:33.0,Shooting foul by D. Gafford (drawn by B. Adebayo),97-84, ,,4,97,84,13,2487.0
+6:33.0,B. Adebayo makes free throw 1 of 1,98-84, ,,4,98,84,14,2487.0
+6:19.0, ,98-84,J. Poole misses 3-pt jump shot from 27 ft,,4,98,84,14,2501.0
+6:15.0,Defensive rebound by T. Rozier,98-84, ,,4,98,84,14,2505.0
+6:04.0,C. Martin makes 2-pt jump shot from 12 ft,100-84, ,,4,100,84,16,2516.0
+5:50.0, ,100-84,K. Kuzma misses 2-pt layup from 4 ft,,4,100,84,16,2530.0
+5:45.0,Defensive rebound by B. Adebayo,100-84, ,,4,100,84,16,2535.0
+5:36.0,T. Rozier misses 3-pt jump shot from 26 ft,100-84, ,,4,100,84,16,2544.0
+5:32.0, ,100-84,Defensive rebound by C. Kispert,,4,100,84,16,2548.0
+5:21.0, ,100-86,D. Gafford makes 2-pt dunk from 2 ft (assist by D. Avdija),,4,100,86,14,2559.0
+5:04.0,Personal foul by C. Kispert (drawn by B. Adebayo),100-86, ,,4,100,86,14,2576.0
+4:51.0,T. Rozier misses 3-pt jump shot from 25 ft,100-86, ,,4,100,86,14,2589.0
+4:48.0, ,100-86,Defensive rebound by D. Gafford,,4,100,86,14,2592.0
+4:43.0, ,100-86,J. Poole misses 2-pt layup from 2 ft,,4,100,86,14,2597.0
+4:43.0, ,100-86,Offensive rebound by D. Gafford,,4,100,86,14,2597.0
+4:42.0, ,100-86,D. Gafford misses 2-pt dunk at rim,,4,100,86,14,2598.0
+4:41.0, ,100-86,Offensive rebound by D. Avdija,,4,100,86,14,2599.0
+4:40.0, ,100-88,D. Avdija makes 2-pt layup at rim,,4,100,88,12,2600.0
+4:20.0,Turnover by J. Richardson (bad pass; steal by J. Poole),100-88, ,,4,100,88,12,2620.0
+4:15.0, ,100-90,C. Kispert makes 2-pt dunk from 2 ft (assist by J. Poole),,4,100,90,10,2625.0
+4:15.0,Miami full timeout,100-90, ,,4,100,90,10,2625.0
+4:15.0,T. Herro enters the game for T. Rozier,100-90, ,,4,100,90,10,2625.0
+3:56.0,T. Herro misses 3-pt jump shot from 26 ft,100-90, ,,4,100,90,10,2644.0
+3:56.0,Offensive rebound by Team,100-90, ,,4,100,90,10,2644.0
+3:56.0, ,100-90,Loose ball foul by D. Gafford (drawn by B. Adebayo),,4,100,90,10,2644.0
+3:56.0,B. Adebayo makes free throw 1 of 2,101-90, ,,4,101,90,11,2644.0
+3:56.0,B. Adebayo misses free throw 2 of 2,101-90, ,,4,101,90,11,2644.0
+3:53.0, ,101-90,Defensive rebound by D. Gafford,,4,101,90,11,2647.0
+3:45.0, ,101-90,D. Gafford misses 2-pt layup from 6 ft,,4,101,90,11,2655.0
+3:43.0,Defensive rebound by B. Adebayo,101-90, ,,4,101,90,11,2657.0
+3:28.0,J. Richardson misses 3-pt jump shot from 26 ft,101-90, ,,4,101,90,11,2672.0
+3:25.0,Offensive rebound by B. Adebayo,101-90, ,,4,101,90,11,2675.0
+3:17.0, ,101-90,Violation by Team (kicked ball),,4,101,90,11,2683.0
+3:08.0,T. Herro makes 2-pt layup from 5 ft,103-90, ,,4,103,90,13,2692.0
+3:08.0, ,103-90,Violation by Team (def goaltending),,4,103,90,13,2692.0
+2:55.0, ,103-92,C. Kispert makes 2-pt layup from 5 ft (assist by J. Poole),,4,103,92,11,2705.0
+2:49.0,Personal foul by K. Kuzma (drawn by J. Butler),103-92, ,,4,103,92,11,2711.0
+2:49.0,J. Butler misses free throw 1 of 2,103-92, ,,4,103,92,11,2711.0
+2:49.0,Offensive rebound by Team,103-92, ,,4,103,92,11,2711.0
+2:49.0,J. Butler misses free throw 2 of 2,103-92, ,,4,103,92,11,2711.0
+2:46.0, ,103-92,Defensive rebound by D. Avdija,,4,103,92,11,2714.0
+2:29.0, ,103-92,Shooting foul by T. Herro (drawn by D. Avdija),,4,103,92,11,2731.0
+2:29.0, ,103-93,D. Avdija makes free throw 1 of 2,,4,103,93,10,2731.0
+2:29.0, ,103-94,D. Avdija makes free throw 2 of 2,,4,103,94,9,2731.0
+2:09.0,B. Adebayo misses 2-pt hook shot from 4 ft,103-94, ,,4,103,94,9,2751.0
+2:07.0, ,103-94,Defensive rebound by D. Avdija,,4,103,94,9,2753.0
+2:02.0, ,103-96,C. Kispert makes 2-pt layup from 5 ft (assist by D. Avdija),,4,103,96,7,2758.0
+2:02.0, ,103-96,Shooting foul by B. Adebayo (drawn by C. Kispert),,4,103,96,7,2758.0
+2:02.0,T. Rozier enters the game for C. Martin,103-96, ,,4,103,96,7,2758.0
+2:02.0, ,103-96,C. Kispert misses free throw 1 of 1,,4,103,96,7,2758.0
+2:00.0,Defensive rebound by T. Herro,103-96, ,,4,103,96,7,2760.0
+1:41.0,T. Rozier misses 3-pt jump shot from 25 ft,103-96, ,,4,103,96,7,2779.0
+1:40.0,Offensive rebound by Team,103-96, ,,4,103,96,7,2780.0
+1:40.0, ,103-96,Loose ball foul by D. Avdija (drawn by B. Adebayo),,4,103,96,7,2780.0
+1:40.0,B. Adebayo misses free throw 1 of 2,103-96, ,,4,103,96,7,2780.0
+1:40.0,B. Adebayo makes free throw 2 of 2,104-96, ,,4,104,96,8,2780.0
+1:18.0, ,104-98,C. Kispert makes 2-pt jump shot from 14 ft (assist by J. Poole),,4,104,98,6,2802.0
+0:57.0,B. Adebayo makes 2-pt jump shot from 11 ft (assist by J. Butler),106-98, ,,4,106,98,8,2823.0
+0:52.0, ,106-101,J. Poole makes 3-pt jump shot from 26 ft,,4,106,101,5,2828.0
+0:37.0,T. Herro misses 2-pt jump shot from 10 ft,106-101, ,,4,106,101,5,2843.0
+0:37.0, ,106-101,Defensive rebound by D. Gafford,,4,106,101,5,2843.0
+0:31.0, ,106-101,Shooting foul by T. Rozier (drawn by J. Poole),,4,106,101,5,2849.0
+0:31.0, ,106-102,J. Poole makes free throw 1 of 2,,4,106,102,4,2849.0
+0:31.0,K. Love enters the game for J. Richardson,106-102, ,,4,106,102,4,2849.0
+0:31.0, ,106-102,J. Poole misses free throw 2 of 2,,4,106,102,4,2849.0
+0:30.0,Defensive rebound by T. Herro,106-102, ,,4,106,102,4,2850.0
+0:30.0,Miami full timeout,106-102, ,,4,106,102,4,2850.0
+0:30.0,J. Richardson enters the game for K. Love,106-102, ,,4,106,102,4,2850.0
+0:30.0, ,106-102,B. Coulibaly enters the game for D. Avdija,,4,106,102,4,2850.0
+0:24.0,Personal foul by K. Kuzma (drawn by T. Rozier),106-102, ,,4,106,102,4,2856.0
+0:24.0,T. Rozier makes free throw 1 of 2,107-102, ,,4,107,102,5,2856.0
+0:24.0,C. Martin enters the game for T. Herro,107-102, ,,4,107,102,5,2856.0
+0:24.0, ,107-102,D. Avdija enters the game for B. Coulibaly,,4,107,102,5,2856.0
+0:24.0,T. Rozier makes free throw 2 of 2,108-102, ,,4,108,102,6,2856.0
+0:18.0, ,108-102,J. Poole misses 3-pt jump shot from 30 ft,,4,108,102,6,2862.0
+0:14.0,Defensive rebound by J. Richardson,108-102, ,,4,108,102,6,2866.0
+0:08.0,Personal take foul by J. Poole (drawn by T. Rozier),108-102, ,,4,108,102,6,2872.0
+0:08.0,T. Rozier makes free throw 1 of 2,109-102, ,,4,109,102,7,2872.0
+0:08.0,T. Rozier makes free throw 2 of 2,110-102, ,,4,110,102,8,2872.0
+0:08.0, ,110-102,Washington full timeout,,4,110,102,8,2872.0
+0:08.0,T. Herro enters the game for J. Butler,110-102, ,,4,110,102,8,2872.0
+0:06.0, ,110-102,C. Kispert misses 3-pt jump shot from 29 ft,,4,110,102,8,2874.0
+0:02.0, ,110-102,Offensive rebound by D. Gafford,,4,110,102,8,2878.0
+0:02.0, ,110-102,D. Gafford misses 2-pt layup from 3 ft,,4,110,102,8,2878.0
+0:01.0,Defensive rebound by B. Adebayo,110-102, ,,4,110,102,8,2879.0
+0:00.0,End of 4th quarter,110-102,,,4,110,102,8,2880.0

@@ -1,0 +1,436 @@
+Time,Orlando,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: W. Carter vs. B. Adebayo (J. Suggs gains possession),0-0,,,1,0,0,0,0.0
+11:36.0,Turnover by F. Wagner (bad pass),0-0, ,,1,0,0,0,24.0
+11:12.0, ,0-3,C. Martin makes 3-pt jump shot from 23 ft (assist by T. Rozier),,1,3,0,3,48.0
+10:57.0,M. Fultz misses 2-pt hook shot from 6 ft,0-3, ,,1,3,0,3,63.0
+10:56.0, ,0-3,Defensive rebound by J. Butler,,1,3,0,3,64.0
+10:43.0, ,0-3,T. Herro misses 2-pt jump shot from 13 ft,,1,3,0,3,77.0
+10:39.0, ,0-3,Offensive rebound by B. Adebayo,,1,3,0,3,81.0
+10:33.0, ,0-5,B. Adebayo makes 2-pt dunk from 4 ft (assist by T. Herro),,1,5,0,5,87.0
+10:15.0,J. Suggs misses 2-pt layup from 3 ft,0-5, ,,1,5,0,5,105.0
+10:11.0, ,0-5,Defensive rebound by J. Butler,,1,5,0,5,109.0
+10:09.0, ,0-7,C. Martin makes 2-pt jump shot from 21 ft (assist by J. Butler),,1,7,0,7,111.0
+9:48.0,Turnover by F. Wagner (bad pass; steal by J. Butler),0-7, ,,1,7,0,7,132.0
+9:43.0, ,0-7,Turnover by J. Butler (bad pass; steal by P. Banchero),,1,7,0,7,137.0
+9:39.0,Turnover by P. Banchero (lost ball; steal by C. Martin),0-7, ,,1,7,0,7,141.0
+9:27.0, ,0-7,T. Rozier misses 2-pt jump shot from 8 ft,,1,7,0,7,153.0
+9:25.0,Defensive rebound by F. Wagner,0-7, ,,1,7,0,7,155.0
+9:20.0,P. Banchero makes 2-pt dunk from 3 ft (assist by F. Wagner),2-7, ,,1,7,2,5,160.0
+8:56.0, ,2-7,J. Butler misses 3-pt jump shot from 23 ft,,1,7,2,5,184.0
+8:52.0,Defensive rebound by J. Suggs,2-7, ,,1,7,2,5,188.0
+8:48.0,W. Carter misses 2-pt jump shot from 16 ft,2-7, ,,1,7,2,5,192.0
+8:44.0, ,2-7,Defensive rebound by T. Herro,,1,7,2,5,196.0
+8:37.0, ,2-9,T. Herro makes 2-pt layup from 5 ft,,1,9,2,7,203.0
+8:23.0,Turnover by F. Wagner (out of bounds lost ball),2-9, ,,1,9,2,7,217.0
+8:09.0, ,2-9,B. Adebayo misses 2-pt dunk from 2 ft,,1,9,2,7,231.0
+8:07.0,Defensive rebound by P. Banchero,2-9, ,,1,9,2,7,233.0
+7:54.0,P. Banchero misses 3-pt jump shot from 27 ft,2-9, ,,1,9,2,7,246.0
+7:51.0, ,2-9,Defensive rebound by J. Butler,,1,9,2,7,249.0
+7:49.0, ,2-11,B. Adebayo makes 2-pt dunk from 2 ft (assist by T. Herro),,1,11,2,9,251.0
+7:48.0,Orlando full timeout,2-11, ,,1,11,2,9,252.0
+7:35.0,J. Suggs misses 3-pt jump shot from 26 ft,2-11, ,,1,11,2,9,265.0
+7:30.0, ,2-11,Defensive rebound by B. Adebayo,,1,11,2,9,270.0
+7:15.0, ,2-11,B. Adebayo misses 2-pt jump shot from 9 ft,,1,11,2,9,285.0
+7:13.0,Defensive rebound by F. Wagner,2-11, ,,1,11,2,9,287.0
+6:57.0,M. Fultz misses 2-pt jump shot from 4 ft,2-11, ,,1,11,2,9,303.0
+6:55.0, ,2-11,Defensive rebound by C. Martin,,1,11,2,9,305.0
+6:49.0, ,2-11,Turnover by T. Herro (bad pass; steal by F. Wagner),,1,11,2,9,311.0
+6:45.0,Shooting foul by B. Adebayo (drawn by P. Banchero),2-11, ,,1,11,2,9,315.0
+6:45.0,P. Banchero misses free throw 1 of 2,2-11, ,,1,11,2,9,315.0
+6:45.0,Offensive rebound by Team,2-11, ,,1,11,2,9,315.0
+6:45.0,P. Banchero misses free throw 2 of 2,2-11, ,,1,11,2,9,315.0
+6:42.0, ,2-11,Defensive rebound by T. Herro,,1,11,2,9,318.0
+6:31.0, ,2-11,Shooting foul by W. Carter (drawn by J. Butler),,1,11,2,9,329.0
+6:31.0, ,2-12,J. Butler makes free throw 1 of 2,,1,12,2,10,329.0
+6:31.0, ,2-13,J. Butler makes free throw 2 of 2,,1,13,2,11,329.0
+6:10.0,W. Carter makes 2-pt jump shot from 7 ft (assist by M. Fultz),4-13, ,,1,13,4,9,350.0
+5:58.0, ,4-16,T. Rozier makes 3-pt jump shot from 25 ft (assist by J. Butler),,1,16,4,12,362.0
+5:42.0,F. Wagner misses 3-pt jump shot from 24 ft,4-16, ,,1,16,4,12,378.0
+5:39.0, ,4-16,Defensive rebound by B. Adebayo,,1,16,4,12,381.0
+5:33.0, ,4-16,Turnover by J. Butler (bad pass),,1,16,4,12,387.0
+5:33.0,J. Ingles enters the game for F. Wagner,4-16, ,,1,16,4,12,387.0
+5:33.0, ,4-16,J. Jaquez enters the game for J. Butler,,1,16,4,12,387.0
+5:12.0,P. Banchero makes 2-pt dunk from 4 ft (assist by W. Carter),6-16, ,,1,16,6,10,408.0
+4:59.0, ,6-18,T. Herro makes 2-pt layup from 4 ft (assist by B. Adebayo),,1,18,6,12,421.0
+4:46.0,P. Banchero misses 2-pt jump shot from 11 ft,6-18, ,,1,18,6,12,434.0
+4:44.0, ,6-18,Defensive rebound by B. Adebayo,,1,18,6,12,436.0
+4:38.0, ,6-18,T. Rozier misses 2-pt layup from 4 ft,,1,18,6,12,442.0
+4:38.0,Defensive rebound by W. Carter,6-18, ,,1,18,6,12,442.0
+4:23.0,M. Fultz makes 3-pt jump shot from 23 ft (assist by J. Suggs),9-18, ,,1,18,9,9,457.0
+4:21.0, ,9-18,Miami full timeout,,1,18,9,9,459.0
+4:05.0, ,9-18,T. Herro misses 2-pt jump shot from 9 ft,,1,18,9,9,475.0
+4:02.0,Defensive rebound by W. Carter,9-18, ,,1,18,9,9,478.0
+3:58.0,M. Fultz makes 2-pt layup from 4 ft (assist by J. Suggs),11-18, ,,1,18,11,7,482.0
+3:52.0, ,11-18,Shooting foul by J. Suggs (drawn by T. Rozier),,1,18,11,7,488.0
+3:52.0, ,11-19,T. Rozier makes free throw 1 of 2,,1,19,11,8,488.0
+3:52.0, ,11-20,T. Rozier makes free throw 2 of 2,,1,20,11,9,488.0
+3:39.0,Personal foul by J. Jaquez (drawn by P. Banchero),11-20, ,,1,20,11,9,501.0
+3:39.0,M. Wagner enters the game for W. Carter,11-20, ,,1,20,11,9,501.0
+3:39.0, ,11-20,J. Butler enters the game for B. Adebayo,,1,20,11,9,501.0
+3:39.0, ,11-20,K. Love enters the game for T. Herro,,1,20,11,9,501.0
+3:39.0, ,11-20,J. Richardson enters the game for C. Martin,,1,20,11,9,501.0
+3:39.0, ,11-20,D. Robinson enters the game for T. Rozier,,1,20,11,9,501.0
+3:24.0,J. Suggs misses 3-pt jump shot from 27 ft,11-20, ,,1,20,11,9,516.0
+3:20.0,Offensive rebound by M. Wagner,11-20, ,,1,20,11,9,520.0
+3:18.0,J. Suggs misses 3-pt jump shot from 25 ft,11-20, ,,1,20,11,9,522.0
+3:14.0, ,11-20,Defensive rebound by J. Jaquez,,1,20,11,9,526.0
+3:02.0, ,11-20,D. Robinson misses 3-pt jump shot from 23 ft,,1,20,11,9,538.0
+3:00.0,Defensive rebound by P. Banchero,11-20, ,,1,20,11,9,540.0
+2:50.0,J. Ingles makes 3-pt jump shot from 26 ft (assist by P. Banchero),14-20, ,,1,20,14,6,550.0
+2:33.0, ,14-20,K. Love misses 3-pt jump shot from 25 ft,,1,20,14,6,567.0
+2:31.0,Defensive rebound by J. Ingles,14-20, ,,1,20,14,6,569.0
+2:22.0,M. Wagner misses 2-pt layup from 6 ft,14-20, ,,1,20,14,6,578.0
+2:20.0,Offensive rebound by M. Wagner,14-20, ,,1,20,14,6,580.0
+2:20.0,Shooting foul by K. Love (drawn by M. Wagner),14-20, ,,1,20,14,6,580.0
+2:20.0,G. Harris enters the game for J. Suggs,14-20, ,,1,20,14,6,580.0
+2:20.0,M. Wagner makes free throw 1 of 2,15-20, ,,1,20,15,5,580.0
+2:20.0,M. Wagner misses free throw 2 of 2,15-20, ,,1,20,15,5,580.0
+2:13.0, ,15-20,Defensive rebound by J. Richardson,,1,20,15,5,587.0
+2:07.0, ,15-20,Turnover by J. Jaquez (bad pass; steal by M. Fultz),,1,20,15,5,593.0
+2:01.0,M. Fultz makes 2-pt layup from 4 ft (assist by P. Banchero),17-20, ,,1,20,17,3,599.0
+1:42.0, ,17-22,J. Jaquez makes 2-pt layup from 3 ft (assist by J. Butler),,1,22,17,5,618.0
+1:34.0,J. Ingles misses 3-pt jump shot from 22 ft,17-22, ,,1,22,17,5,626.0
+1:34.0,Offensive rebound by G. Harris,17-22, ,,1,22,17,5,626.0
+1:30.0,Offensive foul by M. Wagner (drawn by K. Love),17-22, ,,1,22,17,5,630.0
+1:30.0,Turnover by M. Wagner (offensive foul),17-22, ,,1,22,17,5,630.0
+1:30.0,Orlando full timeout,17-22, ,,1,22,17,5,630.0
+1:30.0,Instant Replay (Challenge: Ruling Stands),17-22, ,,1,22,17,5,630.0
+1:15.0, ,17-22,K. Love misses 3-pt jump shot from 25 ft,,1,22,17,5,645.0
+1:12.0, ,17-22,Offensive rebound by J. Jaquez,,1,22,17,5,648.0
+1:09.0, ,17-22,J. Butler misses 3-pt jump shot from 25 ft,,1,22,17,5,651.0
+1:06.0, ,17-22,Offensive rebound by K. Love,,1,22,17,5,654.0
+1:03.0, ,17-22,Turnover by J. Butler (lost ball; steal by G. Harris),,1,22,17,5,657.0
+1:01.0,Shooting foul by D. Robinson (drawn by M. Fultz),17-22, ,,1,22,17,5,659.0
+1:01.0,M. Fultz makes free throw 1 of 2,18-22, ,,1,22,18,4,659.0
+1:01.0,M. Fultz makes free throw 2 of 2,19-22, ,,1,22,19,3,659.0
+0:45.0, ,19-22,J. Richardson misses 2-pt hook shot from 7 ft,,1,22,19,3,675.0
+0:44.0, ,19-22,Offensive rebound by J. Jaquez,,1,22,19,3,676.0
+0:44.0, ,19-22,J. Jaquez misses 2-pt layup from 1 ft,,1,22,19,3,676.0
+0:43.0, ,19-22,Offensive rebound by K. Love,,1,22,19,3,677.0
+0:43.0, ,19-24,K. Love makes 2-pt layup from 2 ft,,1,24,19,5,677.0
+0:39.0,Offensive foul by M. Fultz (drawn by K. Love),19-24, ,,1,24,19,5,681.0
+0:39.0,Turnover by M. Fultz (offensive foul),19-24, ,,1,24,19,5,681.0
+0:39.0,C. Anthony enters the game for P. Banchero,19-24, ,,1,24,19,5,681.0
+0:39.0,J. Isaac enters the game for M. Fultz,19-24, ,,1,24,19,5,681.0
+0:18.0, ,19-26,D. Robinson makes 2-pt layup from 6 ft (assist by K. Love),,1,26,19,7,702.0
+0:00.0,M. Wagner misses 2-pt hook shot from 6 ft,19-26, ,,1,26,19,7,720.0
+0:00.0,Offensive rebound by Team,19-26, ,,1,26,19,7,720.0
+0:00.0,End of 1st quarter,19-26,,,1,26,19,7,720.0
+12:00.0,Start of 2nd quarter,19-26,,,2,26,19,7,720.0
+11:41.0, ,19-26,Personal foul by G. Harris (drawn by D. Robinson),,2,26,19,7,739.0
+11:36.0, ,19-26,D. Robinson misses 3-pt jump shot from 28 ft,,2,26,19,7,744.0
+11:32.0, ,19-26,Offensive rebound by J. Richardson,,2,26,19,7,748.0
+11:31.0, ,19-26,K. Love misses 3-pt jump shot from 26 ft,,2,26,19,7,749.0
+11:26.0,Defensive rebound by J. Isaac,19-26, ,,2,26,19,7,754.0
+11:04.0,J. Isaac misses 3-pt jump shot from 23 ft,19-26, ,,2,26,19,7,776.0
+11:01.0, ,19-26,Defensive rebound by J. Butler,,2,26,19,7,779.0
+10:46.0, ,19-28,D. Robinson makes 2-pt jump shot from 7 ft (assist by J. Butler),,2,28,19,9,794.0
+10:31.0,Offensive foul by F. Wagner (drawn by D. Robinson),19-28, ,,2,28,19,9,809.0
+10:31.0,Turnover by F. Wagner (offensive foul),19-28, ,,2,28,19,9,809.0
+10:15.0, ,19-28,K. Love misses 3-pt jump shot from 23 ft (block by M. Wagner),,2,28,19,9,825.0
+10:12.0,Defensive rebound by C. Anthony,19-28, ,,2,28,19,9,828.0
+10:09.0,Turnover by C. Anthony (bad pass; steal by J. Jaquez),19-28, ,,2,28,19,9,831.0
+10:05.0, ,19-30,J. Butler makes 2-pt dunk from 4 ft (assist by J. Jaquez),,2,30,19,11,835.0
+9:51.0,Personal foul by D. Robinson (drawn by M. Wagner),19-30, ,,2,30,19,11,849.0
+9:42.0,G. Harris makes 2-pt layup from 6 ft (assist by F. Wagner),21-30, ,,2,30,21,9,858.0
+9:42.0,Shooting foul by K. Love (drawn by G. Harris),21-30, ,,2,30,21,9,858.0
+9:42.0,G. Harris makes free throw 1 of 1,22-30, ,,2,30,22,8,858.0
+9:31.0, ,22-33,J. Richardson makes 3-pt jump shot from 25 ft (assist by D. Robinson),,2,33,22,11,869.0
+9:05.0,C. Anthony misses 3-pt jump shot from 25 ft,22-33, ,,2,33,22,11,895.0
+8:59.0, ,22-33,Defensive rebound by J. Butler,,2,33,22,11,901.0
+8:52.0, ,22-35,J. Butler makes 2-pt layup from 5 ft (assist by K. Love),,2,35,22,13,908.0
+8:52.0,Orlando full timeout,22-35, ,,2,35,22,13,908.0
+8:35.0,Turnover by C. Anthony (bad pass),22-35, ,,2,35,22,13,925.0
+8:17.0, ,22-35,J. Jaquez misses 3-pt jump shot from 27 ft,,2,35,22,13,943.0
+8:13.0,Defensive rebound by J. Isaac,22-35, ,,2,35,22,13,947.0
+8:05.0,F. Wagner makes 2-pt dunk from 4 ft,24-35, ,,2,35,24,11,955.0
+7:41.0, ,24-35,Personal foul by M. Wagner (drawn by K. Love),,2,35,24,11,979.0
+7:41.0,P. Banchero enters the game for C. Anthony,24-35, ,,2,35,24,11,979.0
+7:41.0,W. Carter enters the game for M. Wagner,24-35, ,,2,35,24,11,979.0
+7:41.0, ,24-35,B. Adebayo enters the game for J. Butler,,2,35,24,11,979.0
+7:41.0, ,24-35,T. Herro enters the game for K. Love,,2,35,24,11,979.0
+7:36.0, ,24-37,J. Jaquez makes 2-pt jump shot from 6 ft,,2,37,24,13,984.0
+7:36.0, ,24-37,Shooting foul by W. Carter (drawn by J. Jaquez),,2,37,24,13,984.0
+7:36.0, ,24-37,T. Rozier enters the game for D. Robinson,,2,37,24,13,984.0
+7:36.0, ,24-38,J. Jaquez makes free throw 1 of 1,,2,38,24,14,984.0
+7:15.0,P. Banchero makes 2-pt jump shot from 11 ft,26-38, ,,2,38,26,12,1005.0
+7:00.0, ,26-40,T. Rozier makes 2-pt layup from 7 ft,,2,40,26,14,1020.0
+6:44.0,G. Harris makes 2-pt layup from 3 ft (assist by W. Carter),28-40, ,,2,40,28,12,1036.0
+6:35.0, ,28-40,Offensive foul by B. Adebayo (drawn by F. Wagner),,2,40,28,12,1045.0
+6:35.0, ,28-40,Turnover by B. Adebayo (offensive foul),,2,40,28,12,1045.0
+6:10.0,P. Banchero misses 2-pt layup from 4 ft,28-40, ,,2,40,28,12,1070.0
+6:08.0, ,28-40,Defensive rebound by J. Richardson,,2,40,28,12,1072.0
+6:05.0, ,28-43,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Richardson),,2,43,28,15,1075.0
+5:45.0,F. Wagner misses 2-pt layup from 8 ft (block by B. Adebayo),28-43, ,,2,43,28,15,1095.0
+5:41.0, ,28-43,Defensive rebound by T. Herro,,2,43,28,15,1099.0
+5:37.0, ,28-46,J. Richardson makes 3-pt jump shot from 24 ft (assist by T. Rozier),,2,46,28,18,1103.0
+5:37.0,Orlando full timeout,28-46, ,,2,46,28,18,1103.0
+5:37.0,M. Fultz enters the game for G. Harris,28-46, ,,2,46,28,18,1103.0
+5:37.0,J. Suggs enters the game for J. Isaac,28-46, ,,2,46,28,18,1103.0
+5:18.0,Turnover by F. Wagner (lost ball; steal by J. Richardson),28-46, ,,2,46,28,18,1122.0
+5:13.0, ,28-48,T. Rozier makes 2-pt layup from 5 ft,,2,48,28,20,1127.0
+4:59.0,P. Banchero makes 2-pt jump shot from 16 ft (assist by M. Fultz),30-48, ,,2,48,30,18,1141.0
+4:41.0, ,30-48,J. Jaquez misses 3-pt jump shot from 23 ft,,2,48,30,18,1159.0
+4:38.0, ,30-48,Offensive rebound by T. Rozier,,2,48,30,18,1162.0
+4:36.0, ,30-48,T. Herro misses 3-pt jump shot from 26 ft,,2,48,30,18,1164.0
+4:33.0,Defensive rebound by P. Banchero,30-48, ,,2,48,30,18,1167.0
+4:22.0,Shooting foul by J. Jaquez (drawn by F. Wagner),30-48, ,,2,48,30,18,1178.0
+4:22.0,F. Wagner makes free throw 1 of 2,31-48, ,,2,48,31,17,1178.0
+4:22.0, ,31-48,C. Martin enters the game for J. Jaquez,,2,48,31,17,1178.0
+4:22.0,F. Wagner makes free throw 2 of 2,32-48, ,,2,48,32,16,1178.0
+4:11.0, ,32-51,J. Richardson makes 3-pt jump shot from 25 ft (assist by T. Rozier),,2,51,32,19,1189.0
+3:56.0,M. Fultz misses 2-pt jump shot from 9 ft,32-51, ,,2,51,32,19,1204.0
+3:55.0,Offensive rebound by W. Carter,32-51, ,,2,51,32,19,1205.0
+3:55.0,Shooting foul by J. Richardson (drawn by W. Carter),32-51, ,,2,51,32,19,1205.0
+3:55.0,W. Carter misses free throw 1 of 2,32-51, ,,2,51,32,19,1205.0
+3:55.0,Offensive rebound by Team,32-51, ,,2,51,32,19,1205.0
+3:55.0,W. Carter makes free throw 2 of 2,33-51, ,,2,51,33,18,1205.0
+3:45.0, ,33-53,T. Herro makes 2-pt layup from 7 ft (assist by T. Rozier),,2,53,33,20,1215.0
+3:30.0,W. Carter makes 2-pt jump shot from 11 ft (assist by P. Banchero),35-53, ,,2,53,35,18,1230.0
+3:14.0, ,35-53,Turnover by B. Adebayo (traveling),,2,53,35,18,1246.0
+3:14.0, ,35-53,J. Butler enters the game for J. Richardson,,2,53,35,18,1246.0
+3:00.0,F. Wagner misses 3-pt jump shot from 26 ft,35-53, ,,2,53,35,18,1260.0
+2:58.0, ,35-53,Defensive rebound by C. Martin,,2,53,35,18,1262.0
+2:48.0, ,35-53,T. Rozier misses 3-pt jump shot from 26 ft,,2,53,35,18,1272.0
+2:44.0,Defensive rebound by F. Wagner,35-53, ,,2,53,35,18,1276.0
+2:38.0,P. Banchero misses 2-pt dunk from 3 ft,35-53, ,,2,53,35,18,1282.0
+2:34.0,Offensive rebound by P. Banchero,35-53, ,,2,53,35,18,1286.0
+2:33.0,P. Banchero makes 2-pt layup from 3 ft,37-53, ,,2,53,37,16,1287.0
+2:14.0, ,37-55,T. Rozier makes 2-pt jump shot from 10 ft (assist by B. Adebayo),,2,55,37,18,1306.0
+2:14.0, ,37-55,Shooting foul by M. Fultz (drawn by T. Rozier),,2,55,37,18,1306.0
+2:14.0, ,37-55,T. Rozier misses free throw 1 of 1,,2,55,37,18,1306.0
+2:12.0,Defensive rebound by W. Carter,37-55, ,,2,55,37,18,1308.0
+2:02.0,J. Suggs makes 3-pt jump shot from 23 ft (assist by F. Wagner),40-55, ,,2,55,40,15,1318.0
+1:42.0, ,40-55,C. Martin misses 2-pt layup from 3 ft,,2,55,40,15,1338.0
+1:40.0, ,40-55,Offensive rebound by C. Martin,,2,55,40,15,1340.0
+1:37.0, ,40-55,Offensive foul by B. Adebayo (drawn by W. Carter),,2,55,40,15,1343.0
+1:37.0, ,40-55,Turnover by B. Adebayo (offensive foul),,2,55,40,15,1343.0
+1:37.0, ,40-55,K. Love enters the game for B. Adebayo,,2,55,40,15,1343.0
+1:23.0,M. Fultz makes 2-pt layup from 6 ft,42-55, ,,2,55,42,13,1357.0
+1:11.0, ,42-55,Turnover by K. Love (lost ball; steal by F. Wagner),,2,55,42,13,1369.0
+1:02.0,Shooting foul by T. Rozier (drawn by P. Banchero),42-55, ,,2,55,42,13,1378.0
+1:02.0,P. Banchero makes free throw 1 of 2,43-55, ,,2,55,43,12,1378.0
+1:02.0,P. Banchero makes free throw 2 of 2,44-55, ,,2,55,44,11,1378.0
+0:48.0, ,44-55,K. Love misses 3-pt jump shot from 24 ft,,2,55,44,11,1392.0
+0:45.0,Defensive rebound by P. Banchero,44-55, ,,2,55,44,11,1395.0
+0:41.0,Personal foul by C. Martin (drawn by P. Banchero),44-55, ,,2,55,44,11,1399.0
+0:41.0,P. Banchero makes free throw 1 of 2,45-55, ,,2,55,45,10,1399.0
+0:41.0,G. Harris enters the game for W. Carter,45-55, ,,2,55,45,10,1399.0
+0:41.0,J. Isaac enters the game for M. Fultz,45-55, ,,2,55,45,10,1399.0
+0:41.0,P. Banchero makes free throw 2 of 2,46-55, ,,2,55,46,9,1399.0
+0:32.0, ,46-55,T. Herro misses 2-pt jump shot from 13 ft,,2,55,46,9,1408.0
+0:28.0,Defensive rebound by P. Banchero,46-55, ,,2,55,46,9,1412.0
+0:24.0,G. Harris misses 3-pt jump shot from 23 ft,46-55, ,,2,55,46,9,1416.0
+0:21.0, ,46-55,Defensive rebound by K. Love,,2,55,46,9,1419.0
+0:16.0, ,46-55,Personal foul by J. Suggs (drawn by J. Butler),,2,55,46,9,1424.0
+0:16.0, ,46-56,J. Butler makes free throw 1 of 2,,2,56,46,10,1424.0
+0:16.0, ,46-56,J. Richardson enters the game for T. Herro,,2,56,46,10,1424.0
+0:16.0, ,46-56,J. Butler misses free throw 2 of 2,,2,56,46,10,1424.0
+0:14.0,Defensive rebound by P. Banchero,46-56, ,,2,56,46,10,1426.0
+0:03.0,J. Isaac makes 3-pt jump shot from 23 ft (assist by P. Banchero),49-56, ,,2,56,49,7,1437.0
+0:00.0,End of 2nd quarter,49-56,,,2,56,49,7,1440.0
+12:00.0,Start of 3rd quarter,49-56,,,3,56,49,7,1440.0
+11:41.0, ,49-58,C. Martin makes 2-pt jump shot from 23 ft (assist by T. Herro),,3,58,49,9,1459.0
+11:31.0,Personal foul by C. Martin (drawn by P. Banchero),49-58, ,,3,58,49,9,1469.0
+11:22.0,W. Carter makes 3-pt jump shot from 27 ft (assist by P. Banchero),52-58, ,,3,58,52,6,1478.0
+11:09.0, ,52-58,J. Butler misses 2-pt jump shot from 7 ft (block by M. Fultz),,3,58,52,6,1491.0
+11:09.0, ,52-58,Offensive rebound by Team,,3,58,52,6,1491.0
+11:04.0, ,52-58,T. Rozier misses 2-pt jump shot from 10 ft,,3,58,52,6,1496.0
+11:01.0, ,52-58,Offensive rebound by B. Adebayo,,3,58,52,6,1499.0
+11:00.0, ,52-60,B. Adebayo makes 2-pt layup from 3 ft,,3,60,52,8,1500.0
+10:46.0,P. Banchero misses 3-pt jump shot from 27 ft,52-60, ,,3,60,52,8,1514.0
+10:44.0, ,52-60,Defensive rebound by J. Butler,,3,60,52,8,1516.0
+10:37.0, ,52-60,T. Herro misses 3-pt jump shot from 24 ft,,3,60,52,8,1523.0
+10:33.0,Defensive rebound by P. Banchero,52-60, ,,3,60,52,8,1527.0
+10:24.0,F. Wagner misses 2-pt jump shot from 8 ft (block by C. Martin),52-60, ,,3,60,52,8,1536.0
+10:20.0, ,52-60,Defensive rebound by B. Adebayo,,3,60,52,8,1540.0
+10:13.0, ,52-60,T. Herro misses 2-pt jump shot from 7 ft,,3,60,52,8,1547.0
+10:10.0,Defensive rebound by F. Wagner,52-60, ,,3,60,52,8,1550.0
+10:06.0,W. Carter makes 3-pt jump shot from 24 ft (assist by M. Fultz),55-60, ,,3,60,55,5,1554.0
+9:50.0, ,55-63,T. Rozier makes 3-pt jump shot from 25 ft (assist by B. Adebayo),,3,63,55,8,1570.0
+9:34.0,P. Banchero misses 2-pt layup from 4 ft,55-63, ,,3,63,55,8,1586.0
+9:33.0,Offensive rebound by F. Wagner,55-63, ,,3,63,55,8,1587.0
+9:31.0,F. Wagner misses 3-pt jump shot from 24 ft,55-63, ,,3,63,55,8,1589.0
+9:29.0, ,55-63,Defensive rebound by B. Adebayo,,3,63,55,8,1591.0
+9:23.0, ,55-65,B. Adebayo makes 2-pt layup from 4 ft (assist by J. Butler),,3,65,55,10,1597.0
+9:07.0,Turnover by P. Banchero (bad pass; steal by J. Butler),55-65, ,,3,65,55,10,1613.0
+9:01.0, ,55-65,C. Martin misses 3-pt jump shot from 25 ft,,3,65,55,10,1619.0
+8:57.0,Defensive rebound by J. Suggs,55-65, ,,3,65,55,10,1623.0
+8:54.0,P. Banchero makes 3-pt jump shot from 25 ft (assist by J. Suggs),58-65, ,,3,65,58,7,1626.0
+8:32.0, ,58-67,B. Adebayo makes 2-pt jump shot from 8 ft (assist by J. Butler),,3,67,58,9,1648.0
+8:17.0,W. Carter misses 3-pt jump shot from 26 ft,58-67, ,,3,67,58,9,1663.0
+8:13.0, ,58-67,Defensive rebound by B. Adebayo,,3,67,58,9,1667.0
+8:08.0, ,58-69,B. Adebayo makes 2-pt jump shot from 12 ft,,3,69,58,11,1672.0
+7:52.0,W. Carter makes 2-pt dunk from 2 ft (assist by M. Fultz),60-69, ,,3,69,60,9,1688.0
+7:38.0, ,60-69,Turnover by T. Rozier (bad pass; steal by P. Banchero),,3,69,60,9,1702.0
+7:24.0,M. Fultz misses 3-pt jump shot from 23 ft,60-69, ,,3,69,60,9,1716.0
+7:20.0, ,60-69,Defensive rebound by J. Butler,,3,69,60,9,1720.0
+7:09.0, ,60-69,Shooting foul by W. Carter (drawn by J. Butler),,3,69,60,9,1731.0
+7:09.0, ,60-70,J. Butler makes free throw 1 of 2,,3,70,60,10,1731.0
+7:09.0, ,60-70,J. Butler misses free throw 2 of 2,,3,70,60,10,1731.0
+7:07.0,Defensive rebound by P. Banchero,60-70, ,,3,70,60,10,1733.0
+6:55.0,J. Suggs misses 3-pt jump shot from 26 ft,60-70, ,,3,70,60,10,1745.0
+6:52.0,Offensive rebound by M. Fultz,60-70, ,,3,70,60,10,1748.0
+6:52.0,Turnover by M. Fultz (step out of bounds),60-70, ,,3,70,60,10,1748.0
+6:52.0, ,60-70,Miami full timeout,,3,70,60,10,1748.0
+6:39.0, ,60-70,Shooting foul by P. Banchero (drawn by J. Butler),,3,70,60,10,1761.0
+6:39.0, ,60-71,J. Butler makes free throw 1 of 2,,3,71,60,11,1761.0
+6:39.0, ,60-71,J. Butler misses free throw 2 of 2,,3,71,60,11,1761.0
+6:36.0,Defensive rebound by W. Carter,60-71, ,,3,71,60,11,1764.0
+6:23.0,Turnover by F. Wagner (lost ball; steal by T. Rozier),60-71, ,,3,71,60,11,1777.0
+6:06.0, ,60-71,Shooting foul by M. Fultz (drawn by J. Butler),,3,71,60,11,1794.0
+6:06.0, ,60-72,J. Butler makes free throw 1 of 2,,3,72,60,12,1794.0
+6:06.0, ,60-73,J. Butler makes free throw 2 of 2,,3,73,60,13,1794.0
+5:47.0,M. Fultz makes 2-pt jump shot from 6 ft,62-73, ,,3,73,62,11,1813.0
+5:29.0, ,62-73,T. Herro misses 3-pt jump shot from 28 ft,,3,73,62,11,1831.0
+5:25.0,Defensive rebound by J. Suggs,62-73, ,,3,73,62,11,1835.0
+5:24.0,W. Carter makes 2-pt dunk from 4 ft (assist by J. Suggs),64-73, ,,3,73,64,9,1836.0
+5:16.0, ,64-75,J. Butler makes 2-pt layup from 6 ft,,3,75,64,11,1844.0
+4:59.0,P. Banchero makes 2-pt jump shot from 10 ft,66-75, ,,3,75,66,9,1861.0
+4:36.0, ,66-78,T. Herro makes 3-pt jump shot from 23 ft (assist by J. Butler),,3,78,66,12,1884.0
+4:14.0,Turnover by F. Wagner (lost ball; steal by J. Butler),66-78, ,,3,78,66,12,1906.0
+4:06.0, ,66-78,Miami full timeout,,3,78,66,12,1914.0
+4:06.0,G. Harris enters the game for M. Fultz,66-78, ,,3,78,66,12,1914.0
+4:06.0,J. Ingles enters the game for F. Wagner,66-78, ,,3,78,66,12,1914.0
+4:06.0, ,66-78,J. Jaquez enters the game for J. Butler,,3,78,66,12,1914.0
+4:02.0, ,66-78,Personal foul by W. Carter (drawn by T. Herro),,3,78,66,12,1918.0
+3:52.0, ,66-80,B. Adebayo makes 2-pt dunk from 4 ft,,3,80,66,14,1928.0
+3:29.0,J. Ingles makes 3-pt jump shot from 28 ft (assist by P. Banchero),69-80, ,,3,80,69,11,1951.0
+3:20.0, ,69-83,J. Jaquez makes 3-pt jump shot from 26 ft (assist by T. Herro),,3,83,69,14,1960.0
+2:54.0,W. Carter misses 3-pt jump shot from 23 ft,69-83, ,,3,83,69,14,1986.0
+2:51.0, ,69-83,Defensive rebound by T. Rozier,,3,83,69,14,1989.0
+2:40.0, ,69-85,T. Herro makes 2-pt jump shot from 13 ft (assist by T. Rozier),,3,85,69,16,2000.0
+2:40.0,J. Isaac enters the game for W. Carter,69-85, ,,3,85,69,16,2000.0
+2:40.0,M. Wagner enters the game for J. Suggs,69-85, ,,3,85,69,16,2000.0
+2:40.0, ,69-85,K. Love enters the game for B. Adebayo,,3,85,69,16,2000.0
+2:40.0, ,69-85,J. Richardson enters the game for T. Rozier,,3,85,69,16,2000.0
+2:22.0,Turnover by J. Isaac (bad pass; steal by J. Richardson),69-85, ,,3,85,69,16,2018.0
+2:14.0, ,69-88,K. Love makes 3-pt jump shot from 27 ft (assist by C. Martin),,3,88,69,19,2026.0
+2:12.0,Orlando full timeout,69-88, ,,3,88,69,19,2028.0
+1:54.0,P. Banchero misses 2-pt jump shot from 8 ft,69-88, ,,3,88,69,19,2046.0
+1:52.0, ,69-88,Defensive rebound by J. Jaquez,,3,88,69,19,2048.0
+1:48.0, ,69-90,C. Martin makes 2-pt dunk from 4 ft (assist by J. Jaquez),,3,90,69,21,2052.0
+1:34.0,Personal foul by J. Richardson (drawn by G. Harris),69-90, ,,3,90,69,21,2066.0
+1:34.0, ,69-90,D. Robinson enters the game for T. Herro,,3,90,69,21,2066.0
+1:22.0,P. Banchero misses 3-pt jump shot from 26 ft,69-90, ,,3,90,69,21,2078.0
+1:21.0, ,69-90,Defensive rebound by Team,,3,90,69,21,2079.0
+1:07.0, ,69-90,J. Jaquez misses 2-pt dunk from 6 ft (block by J. Isaac),,3,90,69,21,2093.0
+1:05.0,Defensive rebound by J. Isaac,69-90, ,,3,90,69,21,2095.0
+1:05.0,Turnover by J. Isaac (bad pass; steal by J. Jaquez),69-90, ,,3,90,69,21,2095.0
+1:05.0, ,69-90,Shooting foul by P. Banchero (drawn by J. Jaquez),,3,90,69,21,2095.0
+1:05.0, ,69-91,J. Jaquez makes free throw 1 of 2,,3,91,69,22,2095.0
+1:05.0, ,69-92,J. Jaquez makes free throw 2 of 2,,3,92,69,23,2095.0
+0:54.0,Shooting foul by K. Love (drawn by P. Banchero),69-92, ,,3,92,69,23,2106.0
+0:54.0,P. Banchero makes free throw 1 of 2,70-92, ,,3,92,70,22,2106.0
+0:54.0,P. Banchero misses free throw 2 of 2,70-92, ,,3,92,70,22,2106.0
+0:53.0, ,70-92,Defensive rebound by J. Jaquez,,3,92,70,22,2107.0
+0:42.0, ,70-92,C. Martin misses 2-pt layup from 4 ft,,3,92,70,22,2118.0
+0:41.0, ,70-92,Offensive rebound by K. Love,,3,92,70,22,2119.0
+0:41.0, ,70-94,K. Love makes 2-pt layup at rim,,3,94,70,24,2119.0
+0:34.0,M. Wagner makes 2-pt layup from 3 ft (assist by J. Isaac),72-94, ,,3,94,72,22,2126.0
+0:24.0, ,72-94,C. Martin misses 3-pt jump shot from 23 ft,,3,94,72,22,2136.0
+0:20.0, ,72-94,Offensive rebound by J. Richardson,,3,94,72,22,2140.0
+0:12.0, ,72-96,C. Martin makes 2-pt layup from 2 ft (assist by K. Love),,3,96,72,24,2148.0
+0:06.0,Shooting foul by J. Richardson (drawn by P. Banchero),72-96, ,,3,96,72,24,2154.0
+0:06.0,P. Banchero makes free throw 1 of 2,73-96, ,,3,96,73,23,2154.0
+0:06.0,C. Anthony enters the game for J. Isaac,73-96, ,,3,96,73,23,2154.0
+0:06.0, ,73-96,T. Herro enters the game for C. Martin,,3,96,73,23,2154.0
+0:06.0,P. Banchero misses free throw 2 of 2,73-96, ,,3,96,73,23,2154.0
+0:03.0,Offensive rebound by Team,73-96, ,,3,96,73,23,2157.0
+0:03.0, ,73-96,C. Martin enters the game for T. Herro,,3,96,73,23,2157.0
+0:03.0,Personal foul by K. Love (drawn by P. Banchero),73-96, ,,3,96,73,23,2157.0
+0:03.0,P. Banchero makes free throw 1 of 2,74-96, ,,3,96,74,22,2157.0
+0:03.0,P. Banchero makes free throw 2 of 2,75-96, ,,3,96,75,21,2157.0
+0:01.0, ,75-96,J. Jaquez misses 3-pt jump shot from 38 ft,,3,96,75,21,2159.0
+0:01.0, ,75-96,Offensive rebound by Team,,3,96,75,21,2159.0
+0:00.0,End of 3rd quarter,75-96,,,3,96,75,21,2160.0
+12:00.0,Start of 4th quarter,75-96,,,4,96,75,21,2160.0
+11:49.0,C. Anthony makes 2-pt jump shot from 12 ft,77-96, ,,4,96,77,19,2171.0
+11:22.0, ,77-96,K. Love misses 3-pt jump shot from 27 ft,,4,96,77,19,2198.0
+11:19.0,Defensive rebound by C. Anthony,77-96, ,,4,96,77,19,2201.0
+11:15.0,G. Harris misses 3-pt jump shot from 24 ft,77-96, ,,4,96,77,19,2205.0
+11:13.0, ,77-96,Defensive rebound by Team,,4,96,77,19,2207.0
+10:58.0, ,77-96,Personal foul by C. Anthony (drawn by J. Butler),,4,96,77,19,2222.0
+10:49.0, ,77-96,Turnover by J. Butler (bad pass),,4,96,77,19,2231.0
+10:35.0,M. Wagner misses 3-pt jump shot from 26 ft,77-96, ,,4,96,77,19,2245.0
+10:32.0, ,77-96,Defensive rebound by J. Richardson,,4,96,77,19,2248.0
+10:24.0, ,77-98,J. Richardson makes 2-pt layup from 3 ft (assist by K. Love),,4,98,77,21,2256.0
+10:05.0,F. Wagner misses 2-pt jump shot from 10 ft,77-98, ,,4,98,77,21,2275.0
+10:05.0,Offensive rebound by Team,77-98, ,,4,98,77,21,2275.0
+10:05.0, ,77-98,Loose ball foul by J. Jaquez (drawn by M. Wagner),,4,98,77,21,2275.0
+9:55.0,G. Harris misses 3-pt jump shot from 23 ft,77-98, ,,4,98,77,21,2285.0
+9:52.0,Offensive rebound by M. Wagner,77-98, ,,4,98,77,21,2288.0
+9:49.0,J. Ingles makes 3-pt jump shot from 25 ft (assist by G. Harris),80-98, ,,4,98,80,18,2291.0
+9:28.0, ,80-98,D. Robinson misses 3-pt jump shot from 25 ft,,4,98,80,18,2312.0
+9:24.0,Defensive rebound by C. Anthony,80-98, ,,4,98,80,18,2316.0
+9:15.0,C. Anthony makes 2-pt layup from 4 ft,82-98, ,,4,98,82,16,2325.0
+9:06.0, ,82-98,J. Jaquez misses 2-pt layup from 4 ft,,4,98,82,16,2334.0
+9:04.0,Defensive rebound by F. Wagner,82-98, ,,4,98,82,16,2336.0
+9:00.0,F. Wagner makes 2-pt dunk from 4 ft,84-98, ,,4,98,84,14,2340.0
+9:00.0, ,84-98,Miami full timeout,,4,98,84,14,2340.0
+9:00.0, ,84-98,B. Adebayo enters the game for J. Jaquez,,4,98,84,14,2340.0
+9:00.0, ,84-98,T. Rozier enters the game for K. Love,,4,98,84,14,2340.0
+8:39.0, ,84-98,Turnover by J. Butler (lost ball; steal by C. Anthony),,4,98,84,14,2361.0
+8:31.0,F. Wagner makes 2-pt hook shot from 8 ft,86-98, ,,4,98,86,12,2369.0
+8:10.0, ,86-98,T. Rozier misses 3-pt jump shot from 26 ft,,4,98,86,12,2390.0
+8:07.0,Defensive rebound by F. Wagner,86-98, ,,4,98,86,12,2393.0
+7:47.0,G. Harris makes 2-pt jump shot from 14 ft (assist by J. Ingles),88-98, ,,4,98,88,10,2413.0
+7:21.0, ,88-101,J. Butler makes 3-pt jump shot from 23 ft,,4,101,88,13,2439.0
+7:03.0,F. Wagner misses 2-pt jump shot from 8 ft,88-101, ,,4,101,88,13,2457.0
+7:00.0, ,88-101,Defensive rebound by T. Rozier,,4,101,88,13,2460.0
+6:56.0, ,88-104,J. Butler makes 3-pt jump shot from 25 ft (assist by T. Rozier),,4,104,88,16,2464.0
+6:37.0,F. Wagner misses 3-pt jump shot from 26 ft,88-104, ,,4,104,88,16,2483.0
+6:34.0, ,88-104,Defensive rebound by Team,,4,104,88,16,2486.0
+6:34.0,P. Banchero enters the game for C. Anthony,88-104, ,,4,104,88,16,2486.0
+6:34.0,M. Fultz enters the game for J. Ingles,88-104, ,,4,104,88,16,2486.0
+6:18.0, ,88-106,J. Butler makes 2-pt jump shot from 6 ft,,4,106,88,18,2502.0
+6:14.0,Orlando full timeout,88-106, ,,4,106,88,18,2506.0
+6:14.0,W. Carter enters the game for G. Harris,88-106, ,,4,106,88,18,2506.0
+6:14.0,J. Suggs enters the game for M. Wagner,88-106, ,,4,106,88,18,2506.0
+6:03.0,M. Fultz misses 2-pt layup from 4 ft (block by D. Robinson),88-106, ,,4,106,88,18,2517.0
+6:03.0,Offensive rebound by Team,88-106, ,,4,106,88,18,2517.0
+5:56.0,F. Wagner makes 2-pt layup from 5 ft (assist by W. Carter),90-106, ,,4,106,90,16,2524.0
+5:29.0, ,90-108,T. Rozier makes 2-pt jump shot from 14 ft,,4,108,90,18,2551.0
+5:16.0,P. Banchero misses 2-pt layup from 4 ft,90-108, ,,4,108,90,18,2564.0
+5:14.0, ,90-108,Defensive rebound by T. Rozier,,4,108,90,18,2566.0
+5:12.0, ,90-110,D. Robinson makes 2-pt layup from 3 ft (assist by J. Butler),,4,110,90,20,2568.0
+4:56.0,F. Wagner misses 3-pt jump shot from 26 ft,90-110, ,,4,110,90,20,2584.0
+4:54.0, ,90-110,Defensive rebound by J. Butler,,4,110,90,20,2586.0
+4:39.0, ,90-112,T. Rozier makes 2-pt jump shot from 16 ft,,4,112,90,22,2601.0
+4:23.0,F. Wagner makes 3-pt jump shot from 27 ft (assist by P. Banchero),93-112, ,,4,112,93,19,2617.0
+4:10.0, ,93-115,D. Robinson makes 3-pt jump shot from 26 ft (assist by T. Rozier),,4,115,93,22,2630.0
+3:56.0,J. Suggs misses 3-pt jump shot from 26 ft,93-115, ,,4,115,93,22,2644.0
+3:53.0, ,93-115,Defensive rebound by T. Rozier,,4,115,93,22,2647.0
+3:32.0, ,93-115,J. Richardson misses 2-pt jump shot from 18 ft,,4,115,93,22,2668.0
+3:27.0,Defensive rebound by W. Carter,93-115, ,,4,115,93,22,2673.0
+3:23.0,F. Wagner misses 3-pt jump shot from 27 ft,93-115, ,,4,115,93,22,2677.0
+3:20.0, ,93-115,Defensive rebound by T. Rozier,,4,115,93,22,2680.0
+3:07.0, ,93-115,Shooting foul by W. Carter (drawn by J. Butler),,4,115,93,22,2693.0
+3:07.0, ,93-116,J. Butler makes free throw 1 of 2,,4,116,93,23,2693.0
+3:07.0,C. Anthony enters the game for P. Banchero,93-116, ,,4,116,93,23,2693.0
+3:07.0,G. Bitadze enters the game for W. Carter,93-116, ,,4,116,93,23,2693.0
+3:07.0,A. Black enters the game for M. Fultz,93-116, ,,4,116,93,23,2693.0
+3:07.0,C. Houstan enters the game for J. Suggs,93-116, ,,4,116,93,23,2693.0
+3:07.0,C. Okeke enters the game for F. Wagner,93-116, ,,4,116,93,23,2693.0
+3:07.0, ,93-116,J. Jaquez enters the game for B. Adebayo,,4,116,93,23,2693.0
+3:07.0, ,93-116,O. Robinson enters the game for T. Rozier,,4,116,93,23,2693.0
+3:07.0, ,93-117,J. Butler makes free throw 2 of 2,,4,117,93,24,2693.0
+3:06.0,Personal take foul by J. Richardson (drawn by C. Anthony),93-117, ,,4,117,93,24,2694.0
+3:06.0, ,93-117,H. Highsmith enters the game for J. Butler,,4,117,93,24,2694.0
+2:50.0,C. Okeke makes 2-pt layup from 3 ft (assist by G. Bitadze),95-117, ,,4,117,95,22,2710.0
+2:38.0, ,95-119,J. Jaquez makes 2-pt layup from 5 ft,,4,119,95,24,2722.0
+2:21.0,C. Okeke misses 2-pt jump shot from 10 ft,95-119, ,,4,119,95,24,2739.0
+2:16.0, ,95-119,Defensive rebound by O. Robinson,,4,119,95,24,2744.0
+1:59.0, ,95-121,J. Richardson makes 2-pt layup from 5 ft,,4,121,95,26,2761.0
+1:35.0,A. Black misses 2-pt jump shot from 18 ft,95-121, ,,4,121,95,26,2785.0
+1:31.0, ,95-121,Defensive rebound by J. Jaquez,,4,121,95,26,2789.0
+1:27.0, ,95-121,Turnover by J. Jaquez (bad pass),,4,121,95,26,2793.0
+1:13.0,Turnover by G. Bitadze (bad pass; steal by J. Jaquez),95-121, ,,4,121,95,26,2807.0
+1:04.0, ,95-121,O. Robinson misses 3-pt jump shot from 26 ft,,4,121,95,26,2816.0
+1:01.0,Defensive rebound by G. Bitadze,95-121, ,,4,121,95,26,2819.0
+0:48.0,C. Houstan misses 3-pt jump shot from 25 ft,95-121, ,,4,121,95,26,2832.0
+0:44.0, ,95-121,Defensive rebound by D. Robinson,,4,121,95,26,2836.0
+0:21.0, ,95-121,J. Jaquez misses 3-pt jump shot from 28 ft,,4,121,95,26,2859.0
+0:18.0,Defensive rebound by A. Black,95-121, ,,4,121,95,26,2862.0
+0:11.0,Turnover by A. Black (bad pass),95-121, ,,4,121,95,26,2869.0
+0:00.0,End of 4th quarter,95-121,,,4,121,95,26,2880.0

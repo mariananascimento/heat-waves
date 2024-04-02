@@ -4,8 +4,42 @@ import csv
 import pandas as pd
 import re
 import time
+import os
 
-def get_urls(team="MIA", season="2024"):
+def scrape(team, season):
+
+    urls = get_urls(team, season)
+    counter = 0
+
+    for url in urls:
+
+        print(f"Iteration {counter}")
+        counter = counter + 1
+
+        # Extract the filename form the URL
+        filename = url.split('/')[-1].replace('.html', '.csv')
+
+        # Build the full path to the file
+        file_path = os.path.join('data', 'raw', season, team, filename)
+
+        # Skips if file exists
+        if os.path.isfile(file_path):
+            continue
+
+        # Add 4s delay to prevent website block
+        time.sleep(4)
+
+        # Run the functions
+        scraped = scrape_raw_pbp(url, filename, team, season)
+
+        if scraped:
+            clean_pbp(filename, team, season)
+        else:
+            print(f"Failed to scrape {filename}")
+
+    combine(team, season)
+
+def get_urls(team, season):
 
     source = f"https://www.basketball-reference.com/teams/{team}/{season}_games.html"
 
@@ -22,6 +56,9 @@ def get_urls(team="MIA", season="2024"):
         # Find all links within the table#games that start with /boxscore/ in the href
         links = soup.select('table#games a[href^="/boxscores/"][href$=".html"]')
 
+        # Filtering links that contain any textual content (future games)
+        links = [link for link in links if link.text.strip()]
+
         # Process each link individually
         for link in links:
             # Get the href attribute of the link
@@ -36,10 +73,9 @@ def get_urls(team="MIA", season="2024"):
 
     return urls
 
+def scrape_raw_pbp(url, filename, team, season):
 
-def scrape_raw_pbp(url, filename):
-
-    raw_directory = "data/raw/"
+    raw_directory = f"data/raw/{season}/{team}/"
 
     # Send a request to the URL
     response = requests.get(url)
@@ -92,6 +128,10 @@ def scrape_raw_pbp(url, filename):
                 if row:
                     rows.append(row)
 
+            # Check if the directory exists, and if not, create it
+            if not os.path.exists(raw_directory):
+                os.makedirs(raw_directory)
+
             # Save the data to a CSV file
             with open(raw_directory + filename, 'w', newline='', encoding='utf-8') as f:
                 writer = csv.writer(f)
@@ -106,10 +146,10 @@ def scrape_raw_pbp(url, filename):
         print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
         return False
 
-def clean_pbp(filename):
+def clean_pbp(filename, team, season):
 
-    raw_directory = "data/raw/"
-    clean_directory = "data/clean/"
+    raw_directory = f"data/raw/{season}/{team}/"
+    clean_directory = f"data/clean/{season}/{team}/"
 
     # Read the rawCSV file into a DataFrame
     df = pd.read_csv(raw_directory + filename)
@@ -236,27 +276,63 @@ def clean_pbp(filename):
     # TEMP: Remove duplicated ElapsedTime rows
     # df = df.drop_duplicates(subset='ElapsedTime', keep='first')
 
+    # Check if the directory exists, and if not, create it
+    if not os.path.exists(clean_directory):
+        os.makedirs(clean_directory)
+
     # Overwrite the original file with the filtered data
     df.to_csv(clean_directory + filename, index=False)
 
     # Display the message
     print(f"The file '{filename}' has been written with the filtered data.")
 
-urls = get_urls()
-counter = 0
+def combine(team, season):
 
-for url in urls:
+    clean_directory = f"data/clean/{season}/{team}/"
+    combined_directory = f"data/combined/"
 
-    time.sleep(5)
+    # Check if the directory exists, and if not, create it
+    if not os.path.exists(combined_directory):
+        os.makedirs(combined_directory)
 
-    print(f"Iteration {counter}")
-    counter = counter + 1
+    # List all CSV files in the folder
+    csv_files = [f for f in os.listdir(clean_directory) if f.endswith('.csv')]
 
-    # Extract the filename form the URL
-    filename = url.split('/')[-1].replace('.html', '.csv')
+    # Initialize an empty DataFrame to hold the combined data
+    combined_df = pd.DataFrame()
 
-    # Run the functions
-    scrape_raw_pbp(url, filename)
-    clean_pbp(filename)
+    # Loop through each CSV file
+    for file in csv_files:
+        file_path = os.path.join(clean_directory, file)
+        df = pd.read_csv(file_path)
+        
+        # Check the conditions and adjust the DataFrame accordingly
+        if df.columns[1] == 'Miami':
+            # Rename 2nd column to "Notes" and combine it with the 4th column
+            df['Notes'] = df.iloc[:, 1].combine_first(df.iloc[:, 3])
+            # Create new column "OpponentName" with the name of the 4th column
+            df['OpponentName'] = df.columns[3]
+            # Delete the 4th column
+            df.drop(df.columns[[1, 3]], axis=1, inplace=True)
 
-    
+        elif df.columns[3] == 'Miami':
+            # Rename 4th column to "Notes" and combine it with the 2nd column
+            df['Notes'] = df.iloc[:, 3].combine_first(df.iloc[:, 1])
+            # Create new column "OpponentName" with the name of the 2nd column
+            df['OpponentName'] = df.columns[1]
+            # Delete the 2nd column
+            df.drop(df.columns[[1, 3]], axis=1, inplace=True)
+
+        df['id'] = file.replace(".csv","")
+        
+        # Append the adjusted DataFrame to the combined DataFrame
+        combined_df = pd.concat([combined_df, df], ignore_index=True)
+
+    filename = f"{ season }-{ team }.csv"
+    # Save the combined DataFrame to a new CSV file
+    combined_df.to_csv(combined_directory + filename, index=False)
+
+    print("Save combined file " + filename) 
+
+# Takes 3-letter team name and season as string (ex: 23-24 is "2024")
+scrape("MIA", "2024")
