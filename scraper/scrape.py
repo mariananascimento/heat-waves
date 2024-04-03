@@ -369,6 +369,30 @@ def combine(team, season):
 
     print("Save combined file " + quarter_filename) 
 
+    # Create minimal version for visualization
+
+    # Step 1: Filter and group by 'id' and 'ElapsedTime', then get the first 'PointDifference' for each group
+    filtered = quarter_combined_df[quarter_combined_df['ElapsedTime'].isin([720.0, 1440.0, 2160.0, 2880.0])]
+    grouped = filtered.groupby(['id', 'ElapsedTime'])['PointDifference'].first().reset_index()
+
+    # Step 2: Pivot the table to have 'ElapsedTime' as columns
+    pivot_table = grouped.pivot(index='id', columns='ElapsedTime', values='PointDifference')
+
+    # Renaming columns to match Q1, Q2, Q3, Q4
+    pivot_table.columns = ['Q1', 'Q2', 'Q3', 'Q4']
+
+    # Step 3: Merge with the distinct 'id' and 'OpponentName' from the original DataFrame
+    opponents = quarter_combined_df[['id', 'OpponentName']].drop_duplicates()
+    quarter_viz_df = pd.merge(opponents, pivot_table, on='id')
+
+    # Filter by Quarter scores only
+    quarter_viz_filename = f"{ season }-{ team }-quarters-viz.csv"
+
+    # Save the combined DataFrame to a new CSV file
+    quarter_viz_df.to_csv(combined_directory + quarter_viz_filename, index=False)
+
+    print("Save combined file " + quarter_viz_filename) 
+
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
 scrape("MIA", "2022")
