@@ -328,11 +328,42 @@ def combine(team, season):
         # Append the adjusted DataFrame to the combined DataFrame
         combined_df = pd.concat([combined_df, df], ignore_index=True)
 
+    # Sort quarter_combined_df by 'id' alphabetically and then by 'ElapsedTime' from lowest to highest
+    combined_df = combined_df.sort_values(by=['id', 'ElapsedTime'])
+
+    # Reset the index after sorting, if desired
+    combined_df = combined_df.reset_index(drop=True)
+
     filename = f"{ season }-{ team }.csv"
     # Save the combined DataFrame to a new CSV file
     combined_df.to_csv(combined_directory + filename, index=False)
 
     print("Save combined file " + filename) 
+
+    # Filter rows where Time is "12:00.0"
+    time_12_df = combined_df[combined_df['Time'] == '12:00.0']
+
+    # Filter the last occurrence of each id where Time is "0:00.0"
+    time_0_df = combined_df[combined_df['Time'] == '0:00.0']
+    last_time_0_df = time_0_df.groupby('id').tail(1)
+
+    # Concatenate the filtered DataFrames
+    quarter_combined_df = pd.concat([time_12_df, last_time_0_df]).drop_duplicates().reset_index(drop=True)
+
+    # Sort quarter_combined_df by 'id' alphabetically and then by 'ElapsedTime' from lowest to highest
+    quarter_combined_df = quarter_combined_df.sort_values(by=['id', 'ElapsedTime'])
+
+    # Reset the index after sorting, if desired
+    quarter_combined_df = quarter_combined_df.reset_index(drop=True)
+
+    # Filter by Quarter scores only
+    quarter_filename = f"{ season }-{ team }-quarters.csv"
+
+    # Save the combined DataFrame to a new CSV file
+    quarter_combined_df.to_csv(combined_directory + quarter_filename, index=False)
+
+    print("Save combined file " + quarter_filename) 
+
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
 scrape("MIA", "2024")
