@@ -1,0 +1,454 @@
+Time,Miami,Score,Phoenix,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: O. Yurtseven vs. D. Ayton (C. Paul gains possession),0-0,,,1,0,0,0,0.0
+11:45.0, ,0-0,Turnover by C. Paul (bad pass),,1,0,0,0,15.0
+11:33.0,K. Lowry misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,27.0
+11:29.0, ,0-0,Defensive rebound by C. Paul,,1,0,0,0,31.0
+11:19.0, ,0-0,Turnover by D. Booker (bad pass),,1,0,0,0,41.0
+10:55.0,Turnover by P. Tucker (bad pass; steal by D. Booker),0-0, ,,1,0,0,0,65.0
+10:50.0, ,0-3,D. Booker makes 3-pt jump shot from 25 ft,,1,0,3,-3,70.0
+10:29.0,M. Strus makes 3-pt jump shot from 24 ft (assist by O. Yurtseven),3-3, ,Tie,1,3,3,0,91.0
+10:16.0, ,3-3,J. Crowder misses 3-pt jump shot from 25 ft,,1,3,3,0,104.0
+10:14.0,Defensive rebound by C. Martin,3-3, ,,1,3,3,0,106.0
+10:06.0,C. Martin makes 3-pt jump shot from 24 ft (assist by K. Lowry),6-3, ,Lead change,1,6,3,3,114.0
+9:50.0, ,6-6,C. Paul makes 3-pt jump shot from 23 ft (assist by M. Bridges),Tie,1,6,6,0,130.0
+9:30.0,M. Strus misses 3-pt jump shot from 26 ft,6-6, ,,1,6,6,0,150.0
+9:28.0, ,6-6,Defensive rebound by D. Ayton,,1,6,6,0,152.0
+9:25.0, ,6-9,M. Bridges makes 3-pt jump shot from 26 ft (assist by C. Paul),Lead change,1,6,9,-3,155.0
+9:14.0,Turnover by K. Lowry (bad pass; steal by J. Crowder),6-9, ,,1,6,9,-3,166.0
+9:07.0, ,6-12,M. Bridges makes 3-pt jump shot from 24 ft (assist by J. Crowder),,1,6,12,-6,173.0
+8:46.0,P. Tucker misses 3-pt jump shot from 23 ft,6-12, ,,1,6,12,-6,194.0
+8:44.0, ,6-12,Defensive rebound by Team,,1,6,12,-6,196.0
+8:28.0, ,6-12,J. Crowder misses 2-pt jump shot from 14 ft,,1,6,12,-6,212.0
+8:26.0,Defensive rebound by O. Yurtseven,6-12, ,,1,6,12,-6,214.0
+8:22.0,C. Martin misses 3-pt jump shot from 23 ft,6-12, ,,1,6,12,-6,218.0
+8:19.0,Offensive rebound by K. Lowry,6-12, ,,1,6,12,-6,221.0
+8:18.0,K. Lowry makes 2-pt layup from 1 ft,8-12, ,,1,8,12,-4,222.0
+8:06.0, ,8-12,C. Paul misses 2-pt jump shot from 13 ft,,1,8,12,-4,234.0
+8:05.0,Defensive rebound by P. Tucker,8-12, ,,1,8,12,-4,235.0
+8:05.0,Personal foul by C. Paul (drawn by P. Tucker),8-12, ,,1,8,12,-4,235.0
+7:53.0, ,8-12,Violation by Team (kicked ball),,1,8,12,-4,247.0
+7:47.0,M. Strus makes 3-pt jump shot from 25 ft (assist by O. Yurtseven),11-12, ,,1,11,12,-1,253.0
+7:30.0, ,11-14,J. Crowder makes 2-pt jump shot from 6 ft (assist by C. Paul),,1,11,14,-3,270.0
+7:16.0,M. Strus misses 3-pt jump shot from 25 ft,11-14, ,,1,11,14,-3,284.0
+7:15.0, ,11-14,Defensive rebound by J. Crowder,,1,11,14,-3,285.0
+7:06.0, ,11-14,Shooting foul by O. Yurtseven (drawn by D. Booker),,1,11,14,-3,294.0
+7:06.0, ,11-15,D. Booker makes free throw 1 of 2,,1,11,15,-4,294.0
+7:06.0, ,11-16,D. Booker makes free throw 2 of 2,,1,11,16,-5,294.0
+6:53.0,P. Tucker makes 2-pt layup from 3 ft (assist by K. Lowry),13-16, ,,1,13,16,-3,307.0
+6:43.0, ,13-16,M. Bridges misses 3-pt jump shot from 23 ft,,1,13,16,-3,317.0
+6:40.0,Defensive rebound by O. Yurtseven,13-16, ,,1,13,16,-3,320.0
+6:30.0,Personal foul by D. Booker (drawn by K. Lowry),13-16, ,,1,13,16,-3,330.0
+6:30.0, ,13-16,Phoenix full timeout,,1,13,16,-3,330.0
+6:21.0,K. Lowry makes 3-pt jump shot from 25 ft,16-16, ,Tie,1,16,16,0,339.0
+5:57.0, ,16-16,J. Crowder misses 3-pt jump shot from 25 ft,,1,16,16,0,363.0
+5:55.0,Defensive rebound by O. Yurtseven,16-16, ,,1,16,16,0,365.0
+5:55.0,T. Herro enters the game for C. Martin,16-16, ,,1,16,16,0,365.0
+5:55.0, ,16-16,C. Johnson enters the game for J. Crowder,,1,16,16,0,365.0
+5:40.0,P. Tucker makes 2-pt layup from 2 ft (assist by O. Yurtseven),18-16, ,Lead change,1,18,16,2,380.0
+5:30.0, ,18-16,D. Booker misses 2-pt jump shot from 13 ft (block by T. Herro),,1,18,16,2,390.0
+5:27.0,Defensive rebound by M. Strus,18-16, ,,1,18,16,2,393.0
+5:15.0,P. Tucker misses 2-pt jump shot from 10 ft,18-16, ,,1,18,16,2,405.0
+5:11.0, ,18-16,Defensive rebound by D. Booker,,1,18,16,2,409.0
+5:04.0, ,18-16,D. Booker misses 2-pt jump shot from 11 ft,,1,18,16,2,416.0
+5:03.0,Defensive rebound by M. Strus,18-16, ,,1,18,16,2,417.0
+4:55.0,P. Tucker makes 3-pt jump shot from 26 ft (assist by K. Lowry),21-16, ,,1,21,16,5,425.0
+4:36.0, ,21-16,M. Bridges misses 3-pt jump shot from 26 ft,,1,21,16,5,444.0
+4:34.0,Defensive rebound by T. Herro,21-16, ,,1,21,16,5,446.0
+4:28.0,K. Lowry misses 3-pt jump shot from 27 ft,21-16, ,,1,21,16,5,452.0
+4:28.0,Offensive rebound by O. Yurtseven,21-16, ,,1,21,16,5,452.0
+4:28.0,Instant Replay (Request: Ruling Stands),21-16, ,,1,21,16,5,452.0
+4:28.0,Turnover by M. Strus (step out of bounds),21-16, ,,1,21,16,5,452.0
+4:28.0,D. Robinson enters the game for M. Strus,21-16, ,,1,21,16,5,452.0
+4:28.0,C. Silva enters the game for O. Yurtseven,21-16, ,,1,21,16,5,452.0
+4:28.0, ,21-16,J. McGee enters the game for D. Ayton,,1,21,16,5,452.0
+4:28.0, ,21-16,C. Payne enters the game for C. Paul,,1,21,16,5,452.0
+4:14.0, ,21-16,Offensive foul by J. McGee (drawn by D. Robinson),,1,21,16,5,466.0
+4:14.0, ,21-16,Turnover by J. McGee (offensive foul),,1,21,16,5,466.0
+3:50.0,K. Lowry misses 2-pt jump shot from 3 ft,21-16, ,,1,21,16,5,490.0
+3:48.0, ,21-16,Defensive rebound by J. McGee,,1,21,16,5,492.0
+3:35.0, ,21-19,D. Booker makes 3-pt jump shot from 23 ft (assist by C. Payne),,1,21,19,2,505.0
+3:22.0,P. Tucker misses 3-pt jump shot from 23 ft,21-19, ,,1,21,19,2,518.0
+3:19.0,Offensive rebound by C. Silva,21-19, ,,1,21,19,2,521.0
+3:17.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by C. Silva),24-19, ,,1,24,19,5,523.0
+3:05.0, ,24-19,Shooting foul by P. Tucker (drawn by D. Booker),,1,24,19,5,535.0
+3:05.0, ,24-20,D. Booker makes free throw 1 of 2,,1,24,20,4,535.0
+3:05.0,C. Martin enters the game for P. Tucker,24-20, ,,1,24,20,4,535.0
+3:05.0, ,24-20,J. Smith enters the game for M. Bridges,,1,24,20,4,535.0
+3:05.0, ,24-21,D. Booker makes free throw 2 of 2,,1,24,21,3,535.0
+2:49.0,T. Herro misses 2-pt layup from 4 ft,24-21, ,,1,24,21,3,551.0
+2:47.0,Offensive rebound by C. Silva,24-21, ,,1,24,21,3,553.0
+2:47.0,Shooting foul by J. Smith (drawn by C. Silva),24-21, ,,1,24,21,3,553.0
+2:47.0,Miami full timeout,24-21, ,,1,24,21,3,553.0
+2:47.0,C. Silva misses free throw 1 of 2,24-21, ,,1,24,21,3,553.0
+2:47.0,Offensive rebound by Team,24-21, ,,1,24,21,3,553.0
+2:47.0,C. Silva makes free throw 2 of 2,25-21, ,,1,25,21,4,553.0
+2:22.0, ,25-21,J. McGee misses 2-pt jump shot from 9 ft,,1,25,21,4,578.0
+2:19.0,Defensive rebound by D. Robinson,25-21, ,,1,25,21,4,581.0
+2:09.0,C. Silva makes 2-pt layup from 2 ft (assist by T. Herro),27-21, ,,1,27,21,6,591.0
+1:51.0, ,27-21,J. Smith misses 3-pt jump shot from 24 ft,,1,27,21,6,609.0
+1:49.0,Defensive rebound by C. Silva,27-21, ,,1,27,21,6,611.0
+1:40.0,T. Herro misses 2-pt jump shot from 7 ft,27-21, ,,1,27,21,6,620.0
+1:38.0, ,27-21,Defensive rebound by D. Booker,,1,27,21,6,622.0
+1:26.0, ,27-21,D. Booker misses 2-pt jump shot from 12 ft,,1,27,21,6,634.0
+1:23.0,Defensive rebound by D. Robinson,27-21, ,,1,27,21,6,637.0
+1:13.0,T. Herro makes 3-pt jump shot from 26 ft,30-21, ,,1,30,21,9,647.0
+0:53.0, ,30-23,C. Payne makes 2-pt jump shot from 9 ft,,1,30,23,7,667.0
+0:43.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by C. Martin),33-23, ,,1,33,23,10,677.0
+0:31.0, ,33-26,C. Payne makes 3-pt jump shot from 27 ft (assist by D. Booker),,1,33,26,7,689.0
+0:07.0,Turnover by Team (shot clock),33-26, ,,1,33,26,7,713.0
+0:07.0,K. Guy enters the game for K. Lowry,33-26, ,,1,33,26,7,713.0
+0:07.0, ,33-26,Away from play foul by T. Herro (drawn by D. Booker),,1,33,26,7,713.0
+0:07.0, ,33-27,D. Booker makes free throw 1 of 1,,1,33,27,6,713.0
+0:07.0,H. Highsmith enters the game for K. Guy,33-27, ,,1,33,27,6,713.0
+0:00.0, ,33-29,D. Booker makes 2-pt jump shot from 19 ft,,1,33,29,4,720.0
+0:00.0, ,33-29,Instant Replay (Request: Ruling Stands),,1,33,29,4,720.0
+0:00.0,End of 1st quarter,33-29,,,1,33,29,4,720.0
+12:00.0,Start of 2nd quarter,33-29,,,2,33,29,4,720.0
+11:36.0,D. Robinson misses 3-pt jump shot from 26 ft,33-29, ,,2,33,29,4,744.0
+11:33.0, ,33-29,Defensive rebound by J. Crowder,,2,33,29,4,747.0
+11:26.0, ,33-29,J. Crowder misses 2-pt jump shot from 4 ft,,2,33,29,4,754.0
+11:24.0, ,33-29,Offensive rebound by D. Ayton,,2,33,29,4,756.0
+11:20.0, ,33-32,C. Johnson makes 3-pt jump shot from 25 ft (assist by C. Payne),,2,33,32,1,760.0
+11:06.0,K. Guy misses 3-pt jump shot from 25 ft,33-32, ,,2,33,32,1,774.0
+11:03.0, ,33-32,Defensive rebound by D. Ayton,,2,33,32,1,777.0
+10:55.0, ,33-32,C. Payne misses 2-pt layup from 2 ft,,2,33,32,1,785.0
+10:54.0, ,33-32,Offensive rebound by C. Payne,,2,33,32,1,786.0
+10:43.0, ,33-32,C. Johnson misses 3-pt jump shot from 23 ft,,2,33,32,1,797.0
+10:38.0,Defensive rebound by D. Robinson,33-32, ,,2,33,32,1,802.0
+10:34.0,T. Herro misses 3-pt jump shot from 26 ft,33-32, ,,2,33,32,1,806.0
+10:30.0, ,33-32,Defensive rebound by C. Johnson,,2,33,32,1,810.0
+10:23.0, ,33-32,Turnover by C. Paul (lost ball; steal by C. Martin),,2,33,32,1,817.0
+10:21.0,T. Herro misses 2-pt layup from 2 ft (block by D. Ayton),33-32, ,,2,33,32,1,819.0
+10:20.0,Offensive rebound by Team,33-32, ,,2,33,32,1,820.0
+10:20.0,O. Yurtseven enters the game for C. Silva,33-32, ,,2,33,32,1,820.0
+10:09.0,C. Martin makes 3-pt jump shot from 25 ft (assist by K. Guy),36-32, ,,2,36,32,4,831.0
+9:49.0, ,36-32,C. Johnson misses 3-pt jump shot from 25 ft,,2,36,32,4,851.0
+9:48.0,Defensive rebound by Team,36-32, ,,2,36,32,4,852.0
+9:39.0,T. Herro misses 2-pt jump shot from 22 ft,36-32, ,,2,36,32,4,861.0
+9:37.0,Offensive rebound by Team,36-32, ,,2,36,32,4,863.0
+9:37.0, ,36-32,M. Bridges enters the game for C. Payne,,2,36,32,4,863.0
+9:35.0,D. Robinson misses 3-pt jump shot from 24 ft,36-32, ,,2,36,32,4,865.0
+9:32.0,Offensive rebound by O. Yurtseven,36-32, ,,2,36,32,4,868.0
+9:31.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by O. Yurtseven),39-32, ,,2,39,32,7,869.0
+9:17.0, ,39-32,Shooting foul by O. Yurtseven (drawn by C. Paul),,2,39,32,7,883.0
+9:17.0, ,39-33,C. Paul makes free throw 1 of 2,,2,39,33,6,883.0
+9:17.0, ,39-34,C. Paul makes free throw 2 of 2,,2,39,34,5,883.0
+9:01.0,T. Herro makes 2-pt layup from 2 ft (assist by O. Yurtseven),41-34, ,,2,41,34,7,899.0
+8:49.0, ,41-36,C. Paul makes 2-pt jump shot from 19 ft,,2,41,36,5,911.0
+8:39.0,O. Yurtseven misses 2-pt jump shot from 17 ft,41-36, ,,2,41,36,5,921.0
+8:35.0, ,41-36,Defensive rebound by C. Johnson,,2,41,36,5,925.0
+8:31.0, ,41-38,M. Bridges makes 2-pt layup from 1 ft (assist by C. Paul),,2,41,38,3,929.0
+8:10.0,K. Guy makes 2-pt jump shot from 12 ft (assist by O. Yurtseven),43-38, ,,2,43,38,5,950.0
+7:54.0, ,43-38,C. Johnson misses 2-pt jump shot from 16 ft,,2,43,38,5,966.0
+7:51.0,Defensive rebound by T. Herro,43-38, ,,2,43,38,5,969.0
+7:45.0,D. Robinson makes 3-pt jump shot from 25 ft,46-38, ,,2,46,38,8,975.0
+7:28.0, ,46-38,D. Ayton misses 2-pt jump shot from 10 ft,,2,46,38,8,992.0
+7:26.0,Defensive rebound by O. Yurtseven,46-38, ,,2,46,38,8,994.0
+7:14.0,T. Herro makes 2-pt layup from 1 ft (assist by K. Guy),48-38, ,,2,48,38,10,1006.0
+7:14.0, ,48-38,Phoenix full timeout,,2,48,38,10,1006.0
+7:14.0, ,48-38,Violation by Team (delay of game),,2,48,38,10,1006.0
+6:54.0, ,48-38,C. Johnson misses 3-pt jump shot from 23 ft,,2,48,38,10,1026.0
+6:50.0,Defensive rebound by O. Yurtseven,48-38, ,,2,48,38,10,1030.0
+6:39.0,K. Guy misses 3-pt jump shot from 24 ft,48-38, ,,2,48,38,10,1041.0
+6:36.0, ,48-38,Defensive rebound by J. Crowder,,2,48,38,10,1044.0
+6:27.0, ,48-38,C. Paul misses 2-pt jump shot from 14 ft,,2,48,38,10,1053.0
+6:25.0,Defensive rebound by O. Yurtseven,48-38, ,,2,48,38,10,1055.0
+6:10.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by O. Yurtseven),51-38, ,,2,51,38,13,1070.0
+5:51.0, ,51-40,D. Ayton makes 2-pt jump shot from 14 ft (assist by M. Bridges),,2,51,40,11,1089.0
+5:31.0,O. Yurtseven misses 2-pt jump shot from 12 ft,51-40, ,,2,51,40,11,1109.0
+5:28.0,Offensive rebound by D. Robinson,51-40, ,,2,51,40,11,1112.0
+5:25.0,T. Herro misses 2-pt jump shot from 6 ft,51-40, ,,2,51,40,11,1115.0
+5:25.0, ,51-40,Defensive rebound by C. Johnson,,2,51,40,11,1115.0
+5:19.0, ,51-40,Turnover by M. Bridges (bad pass),,2,51,40,11,1121.0
+5:19.0,K. Lowry enters the game for K. Guy,51-40, ,,2,51,40,11,1121.0
+5:19.0,M. Strus enters the game for T. Herro,51-40, ,,2,51,40,11,1121.0
+5:19.0,P. Tucker enters the game for C. Martin,51-40, ,,2,51,40,11,1121.0
+5:19.0, ,51-40,D. Booker enters the game for J. Crowder,,2,51,40,11,1121.0
+5:19.0, ,51-40,C. Payne enters the game for C. Paul,,2,51,40,11,1121.0
+5:01.0,D. Robinson misses 3-pt jump shot from 25 ft,51-40, ,,2,51,40,11,1139.0
+4:58.0, ,51-40,Defensive rebound by C. Johnson,,2,51,40,11,1142.0
+4:50.0, ,51-40,C. Payne misses 2-pt jump shot from 18 ft,,2,51,40,11,1150.0
+4:47.0,Defensive rebound by M. Strus,51-40, ,,2,51,40,11,1153.0
+4:42.0,D. Robinson misses 3-pt jump shot from 25 ft,51-40, ,,2,51,40,11,1158.0
+4:38.0,Offensive rebound by O. Yurtseven,51-40, ,,2,51,40,11,1162.0
+4:34.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by D. Robinson),54-40, ,,2,54,40,14,1166.0
+4:17.0, ,54-42,D. Ayton makes 2-pt hook shot from 4 ft (assist by M. Bridges),,2,54,42,12,1183.0
+4:06.0,Turnover by K. Lowry (bad pass; steal by D. Booker),54-42, ,,2,54,42,12,1194.0
+4:01.0, ,54-44,M. Bridges makes 2-pt dunk from 1 ft (assist by C. Johnson),,2,54,44,10,1199.0
+4:01.0,Miami full timeout,54-44, ,,2,54,44,10,1199.0
+4:01.0,T. Herro enters the game for D. Robinson,54-44, ,,2,54,44,10,1199.0
+4:01.0, ,54-44,J. McGee enters the game for D. Ayton,,2,54,44,10,1199.0
+3:44.0,Personal foul by D. Booker (drawn by O. Yurtseven),54-44, ,,2,54,44,10,1216.0
+3:44.0,C. Silva enters the game for O. Yurtseven,54-44, ,,2,54,44,10,1216.0
+3:37.0,M. Strus makes 2-pt layup from 3 ft,56-44, ,,2,56,44,12,1223.0
+3:37.0, ,56-44,Violation by Team (def goaltending),,2,56,44,12,1223.0
+3:18.0, ,56-44,Turnover by M. Bridges (bad pass; steal by T. Herro),,2,56,44,12,1242.0
+3:14.0,T. Herro makes 2-pt dunk from 1 ft,58-44, ,,2,58,44,14,1246.0
+3:00.0, ,58-44,Turnover by D. Booker (bad pass),,2,58,44,14,1260.0
+2:51.0,K. Lowry makes 2-pt layup from 2 ft,60-44, ,,2,60,44,16,1269.0
+2:38.0, ,60-44,C. Johnson misses 3-pt jump shot from 24 ft,,2,60,44,16,1282.0
+2:37.0,Defensive rebound by M. Strus,60-44, ,,2,60,44,16,1283.0
+2:31.0,T. Herro makes 2-pt layup from 4 ft,62-44, ,,2,62,44,18,1289.0
+2:16.0, ,62-44,D. Booker misses 2-pt jump shot from 7 ft,,2,62,44,18,1304.0
+2:16.0, ,62-44,Offensive rebound by Team,,2,62,44,18,1304.0
+2:16.0, ,62-44,D. Ayton enters the game for J. McGee,,2,62,44,18,1304.0
+2:16.0, ,62-44,C. Paul enters the game for C. Payne,,2,62,44,18,1304.0
+2:14.0, ,62-44,D. Booker misses 2-pt jump shot from 16 ft,,2,62,44,18,1306.0
+2:10.0,Defensive rebound by T. Herro,62-44, ,,2,62,44,18,1310.0
+1:53.0,M. Strus misses 3-pt jump shot from 23 ft,62-44, ,,2,62,44,18,1327.0
+1:51.0, ,62-44,Defensive rebound by D. Ayton,,2,62,44,18,1329.0
+1:51.0, ,62-44,Personal foul by P. Tucker (drawn by D. Ayton),,2,62,44,18,1329.0
+1:44.0, ,62-44,Personal foul by K. Lowry (drawn by D. Booker),,2,62,44,18,1336.0
+1:44.0, ,62-45,D. Booker makes free throw 1 of 2,,2,62,45,17,1336.0
+1:44.0, ,62-45,J. Crowder enters the game for C. Johnson,,2,62,45,17,1336.0
+1:44.0, ,62-46,D. Booker makes free throw 2 of 2,,2,62,46,16,1336.0
+1:20.0,T. Herro makes 3-pt jump shot from 23 ft (assist by K. Lowry),65-46, ,,2,65,46,19,1360.0
+1:00.0, ,65-48,D. Ayton makes 2-pt hook shot from 6 ft (assist by C. Paul),,2,65,48,17,1380.0
+0:39.0,Turnover by T. Herro (lost ball; steal by M. Bridges),65-48, ,,2,65,48,17,1401.0
+0:35.0, ,65-48,Shooting foul by K. Lowry (drawn by D. Booker),,2,65,48,17,1405.0
+0:35.0, ,65-49,D. Booker makes free throw 1 of 2,,2,65,49,16,1405.0
+0:35.0,C. Martin enters the game for P. Tucker,65-49, ,,2,65,49,16,1405.0
+0:35.0, ,65-50,D. Booker makes free throw 2 of 2,,2,65,50,15,1405.0
+0:28.0,Flagrant foul type 1 by D. Ayton (drawn by T. Herro),65-50, ,,2,65,50,15,1412.0
+0:28.0,Instant Replay (Request: Ruling Stands),65-50, ,,2,65,50,15,1412.0
+0:28.0,T. Herro makes flagrant free throw 1 of 3,66-50, ,,2,66,50,16,1412.0
+0:28.0,T. Herro makes flagrant free throw 2 of 3,67-50, ,,2,67,50,17,1412.0
+0:28.0,T. Herro makes flagrant free throw 3 of 3,68-50, ,,2,68,50,18,1412.0
+0:28.0,D. Robinson enters the game for C. Martin,68-50, ,,2,68,50,18,1412.0
+0:06.0,D. Robinson makes 3-pt jump shot from 23 ft (assist by T. Herro),71-50, ,,2,71,50,21,1434.0
+0:00.0,End of 2nd quarter,71-50,,,2,71,50,21,1440.0
+12:00.0,Start of 3rd quarter,71-50,,,3,71,50,21,1440.0
+11:38.0,Turnover by M. Strus (bad pass; steal by J. Crowder),71-50, ,,3,71,50,21,1462.0
+11:25.0, ,71-53,M. Bridges makes 3-pt jump shot from 24 ft (assist by D. Booker),,3,71,53,18,1475.0
+11:11.0,K. Lowry makes 2-pt jump shot from 14 ft,73-53, ,,3,73,53,20,1489.0
+10:46.0, ,73-55,M. Bridges makes 2-pt jump shot from 7 ft (assist by D. Ayton),,3,73,55,18,1514.0
+10:26.0,M. Strus makes 3-pt jump shot from 25 ft (assist by K. Lowry),76-55, ,,3,76,55,21,1534.0
+10:09.0, ,76-58,M. Bridges makes 3-pt jump shot from 23 ft (assist by C. Paul),,3,76,58,18,1551.0
+9:44.0,O. Yurtseven makes 2-pt jump shot from 9 ft (assist by K. Lowry),78-58, ,,3,78,58,20,1576.0
+9:24.0, ,78-58,Turnover by D. Booker (bad pass; steal by P. Tucker),,3,78,58,20,1596.0
+9:05.0,C. Martin makes 2-pt jump shot from 12 ft (assist by P. Tucker),80-58, ,,3,80,58,22,1615.0
+8:54.0, ,80-58,D. Booker misses 3-pt jump shot from 26 ft,,3,80,58,22,1626.0
+8:52.0, ,80-58,Offensive rebound by Team,,3,80,58,22,1628.0
+8:41.0, ,80-58,Shooting foul by K. Lowry (drawn by J. Crowder),,3,80,58,22,1639.0
+8:41.0, ,80-58,J. Crowder misses free throw 1 of 2,,3,80,58,22,1639.0
+8:41.0, ,80-58,Offensive rebound by Team,,3,80,58,22,1639.0
+8:41.0, ,80-59,J. Crowder makes free throw 2 of 2,,3,80,59,21,1639.0
+8:24.0,P. Tucker misses 2-pt hook shot from 11 ft,80-59, ,,3,80,59,21,1656.0
+8:20.0, ,80-59,Defensive rebound by M. Bridges,,3,80,59,21,1660.0
+8:14.0, ,80-61,M. Bridges makes 2-pt layup from 3 ft (assist by C. Paul),,3,80,61,19,1666.0
+8:02.0,C. Martin misses 2-pt jump shot from 18 ft,80-61, ,,3,80,61,19,1678.0
+8:01.0, ,80-61,Defensive rebound by D. Booker,,3,80,61,19,1679.0
+7:56.0, ,80-61,Turnover by D. Booker (bad pass; steal by P. Tucker),,3,80,61,19,1684.0
+7:49.0,C. Martin makes 2-pt layup from 2 ft (assist by K. Lowry),82-61, ,,3,82,61,21,1691.0
+7:34.0, ,82-61,D. Booker misses 3-pt jump shot from 25 ft,,3,82,61,21,1706.0
+7:31.0,Defensive rebound by O. Yurtseven,82-61, ,,3,82,61,21,1709.0
+7:25.0,M. Strus makes 3-pt jump shot from 25 ft (assist by K. Lowry),85-61, ,,3,85,61,24,1715.0
+7:24.0, ,85-61,Phoenix full timeout,,3,85,61,24,1716.0
+7:12.0, ,85-61,M. Bridges misses 3-pt jump shot from 25 ft,,3,85,61,24,1728.0
+7:08.0,Defensive rebound by O. Yurtseven,85-61, ,,3,85,61,24,1732.0
+6:52.0,Shooting foul by D. Booker (drawn by O. Yurtseven),85-61, ,,3,85,61,24,1748.0
+6:52.0,O. Yurtseven makes free throw 1 of 2,86-61, ,,3,86,61,25,1748.0
+6:52.0,O. Yurtseven makes free throw 2 of 2,87-61, ,,3,87,61,26,1748.0
+6:40.0, ,87-61,Shooting foul by M. Strus (drawn by D. Booker),,3,87,61,26,1760.0
+6:40.0, ,87-62,D. Booker makes free throw 1 of 2,,3,87,62,25,1760.0
+6:40.0, ,87-63,D. Booker makes free throw 2 of 2,,3,87,63,24,1760.0
+6:20.0,P. Tucker misses 2-pt jump shot from 6 ft,87-63, ,,3,87,63,24,1780.0
+6:19.0,Offensive rebound by P. Tucker,87-63, ,,3,87,63,24,1781.0
+6:17.0,M. Strus misses 3-pt jump shot from 25 ft,87-63, ,,3,87,63,24,1783.0
+6:17.0, ,87-63,Defensive rebound by J. Crowder,,3,87,63,24,1783.0
+6:10.0, ,87-66,D. Booker makes 3-pt jump shot from 25 ft (assist by M. Bridges),,3,87,66,21,1790.0
+5:55.0,Turnover by M. Strus (bad pass; steal by J. Crowder),87-66, ,,3,87,66,21,1805.0
+5:51.0, ,87-68,D. Booker makes 2-pt layup at rim,,3,87,68,19,1809.0
+5:51.0,Miami full timeout,87-68, ,,3,87,68,19,1809.0
+5:51.0,T. Herro enters the game for C. Martin,87-68, ,,3,87,68,19,1809.0
+5:51.0, ,87-68,C. Johnson enters the game for J. Crowder,,3,87,68,19,1809.0
+5:32.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by T. Herro),90-68, ,,3,90,68,22,1828.0
+5:10.0, ,90-71,C. Johnson makes 3-pt jump shot from 23 ft (assist by M. Bridges),,3,90,71,19,1850.0
+4:46.0,O. Yurtseven misses 2-pt jump shot from 9 ft,90-71, ,,3,90,71,19,1874.0
+4:44.0, ,90-71,Defensive rebound by D. Ayton,,3,90,71,19,1876.0
+4:30.0, ,90-71,Turnover by C. Paul (bad pass; steal by T. Herro),,3,90,71,19,1890.0
+4:23.0,Turnover by T. Herro (bad pass; steal by C. Paul),90-71, ,,3,90,71,19,1897.0
+4:11.0, ,90-71,C. Paul misses 2-pt jump shot from 3 ft,,3,90,71,19,1909.0
+4:09.0,Defensive rebound by P. Tucker,90-71, ,,3,90,71,19,1911.0
+3:56.0,T. Herro misses 2-pt jump shot from 17 ft,90-71, ,,3,90,71,19,1924.0
+3:54.0, ,90-71,Defensive rebound by D. Ayton,,3,90,71,19,1926.0
+3:50.0, ,90-71,Offensive foul by D. Booker (drawn by M. Strus),,3,90,71,19,1930.0
+3:50.0, ,90-71,Turnover by D. Booker (offensive foul),,3,90,71,19,1930.0
+3:50.0,Miami full timeout,90-71, ,,3,90,71,19,1930.0
+3:50.0,Instant Replay (Challenge: Ruling Stands),90-71, ,,3,90,71,19,1930.0
+3:50.0,D. Robinson enters the game for M. Strus,90-71, ,,3,90,71,19,1930.0
+3:50.0, ,90-71,C. Payne enters the game for C. Paul,,3,90,71,19,1930.0
+3:37.0,Shooting foul by M. Bridges (drawn by K. Lowry),90-71, ,,3,90,71,19,1943.0
+3:37.0,K. Lowry makes free throw 1 of 2,91-71, ,,3,91,71,20,1943.0
+3:37.0,C. Martin enters the game for P. Tucker,91-71, ,,3,91,71,20,1943.0
+3:37.0,K. Lowry makes free throw 2 of 2,92-71, ,,3,92,71,21,1943.0
+3:15.0, ,92-71,D. Booker misses 2-pt jump shot from 1 ft,,3,92,71,21,1965.0
+3:14.0,Defensive rebound by O. Yurtseven,92-71, ,,3,92,71,21,1966.0
+3:07.0,D. Robinson misses 3-pt jump shot from 27 ft,92-71, ,,3,92,71,21,1973.0
+3:04.0, ,92-71,Defensive rebound by D. Ayton,,3,92,71,21,1976.0
+3:00.0, ,92-71,C. Johnson misses 3-pt jump shot from 26 ft,,3,92,71,21,1980.0
+2:57.0,Defensive rebound by C. Martin,92-71, ,,3,92,71,21,1983.0
+2:50.0,Shooting foul by C. Payne (drawn by O. Yurtseven),92-71, ,,3,92,71,21,1990.0
+2:50.0,O. Yurtseven makes free throw 1 of 2,93-71, ,,3,93,71,22,1990.0
+2:50.0, ,93-71,J. Jackson enters the game for D. Ayton,,3,93,71,22,1990.0
+2:50.0, ,93-71,J. Smith enters the game for M. Bridges,,3,93,71,22,1990.0
+2:50.0,O. Yurtseven misses free throw 2 of 2,93-71, ,,3,93,71,22,1990.0
+2:48.0, ,93-71,Defensive rebound by D. Booker,,3,93,71,22,1992.0
+2:41.0, ,93-71,C. Payne misses 2-pt jump shot from 1 ft,,3,93,71,22,1999.0
+2:39.0, ,93-71,Offensive rebound by J. Jackson,,3,93,71,22,2001.0
+2:37.0, ,93-71,C. Payne misses 2-pt jump shot from 22 ft,,3,93,71,22,2003.0
+2:32.0,Defensive rebound by T. Herro,93-71, ,,3,93,71,22,2008.0
+2:22.0,T. Herro makes 2-pt jump shot from 12 ft,95-71, ,,3,95,71,24,2018.0
+1:59.0, ,95-71,J. Smith misses 2-pt jump shot from 13 ft,,3,95,71,24,2041.0
+1:56.0,Defensive rebound by K. Lowry,95-71, ,,3,95,71,24,2044.0
+1:50.0,K. Lowry misses 2-pt jump shot from 13 ft,95-71, ,,3,95,71,24,2050.0
+1:48.0, ,95-71,Defensive rebound by J. Jackson,,3,95,71,24,2052.0
+1:42.0, ,95-71,D. Booker misses 2-pt layup from 2 ft,,3,95,71,24,2058.0
+1:42.0,Defensive rebound by Team,95-71, ,,3,95,71,24,2058.0
+1:42.0, ,95-71,Loose ball foul by J. Smith (drawn by O. Yurtseven),,3,95,71,24,2058.0
+1:42.0,K. Guy enters the game for K. Lowry,95-71, ,,3,95,71,24,2058.0
+1:42.0,C. Silva enters the game for O. Yurtseven,95-71, ,,3,95,71,24,2058.0
+1:42.0, ,95-71,C. Paul enters the game for D. Booker,,3,95,71,24,2058.0
+1:33.0,Shooting foul by C. Payne (drawn by T. Herro),95-71, ,,3,95,71,24,2067.0
+1:33.0, ,95-71,Technical foul by C. Payne,,3,95,71,24,2067.0
+1:33.0,D. Robinson makes technical free throw,96-71, ,,3,96,71,25,2067.0
+1:33.0,T. Herro makes free throw 1 of 2,97-71, ,,3,97,71,26,2067.0
+1:33.0,T. Herro makes free throw 2 of 2,98-71, ,,3,98,71,27,2067.0
+1:20.0, ,98-71,Def 3 sec tech foul by Team,,3,98,71,27,2080.0
+1:20.0, ,98-71,C. Paul misses technical free throw,,3,98,71,27,2080.0
+1:20.0, ,98-71,Offensive rebound by Team,,3,98,71,27,2080.0
+1:16.0, ,98-73,C. Johnson makes 2-pt jump shot from 2 ft (assist by C. Payne),,3,98,73,25,2084.0
+1:16.0, ,98-73,Shooting foul by C. Silva (drawn by C. Johnson),,3,98,73,25,2084.0
+1:16.0, ,98-74,C. Johnson makes free throw 1 of 1,,3,98,74,24,2084.0
+1:00.0,T. Herro misses 2-pt jump shot from 22 ft,98-74, ,,3,98,74,24,2100.0
+1:00.0, ,98-74,Defensive rebound by C. Johnson,,3,98,74,24,2100.0
+0:50.0, ,98-74,C. Payne misses 3-pt jump shot from 28 ft,,3,98,74,24,2110.0
+0:46.0, ,98-74,Offensive rebound by C. Payne,,3,98,74,24,2114.0
+0:44.0, ,98-74,C. Payne misses 3-pt jump shot from 27 ft,,3,98,74,24,2116.0
+0:42.0, ,98-74,Offensive rebound by J. Smith,,3,98,74,24,2118.0
+0:31.0, ,98-74,Shooting foul by T. Herro (drawn by J. Smith),,3,98,74,24,2129.0
+0:31.0, ,98-75,J. Smith makes free throw 1 of 2,,3,98,75,23,2129.0
+0:31.0,P. Tucker enters the game for C. Silva,98-75, ,,3,98,75,23,2129.0
+0:31.0, ,98-76,J. Smith makes free throw 2 of 2,,3,98,76,22,2129.0
+0:07.0,Turnover by Team (shot clock),98-76, ,,3,98,76,22,2153.0
+0:07.0,C. Silva enters the game for K. Guy,98-76, ,,3,98,76,22,2153.0
+0:01.0, ,98-79,J. Jackson makes 3-pt jump shot from 27 ft (assist by C. Paul),,3,98,79,19,2159.0
+0:01.0, ,98-79,Away from play foul by C. Silva (drawn by J. Smith),,3,98,79,19,2159.0
+0:01.0, ,98-79,J. Smith misses free throw 1 of 1,,3,98,79,19,2159.0
+0:01.0,Defensive rebound by C. Silva,98-79, ,,3,98,79,19,2159.0
+0:00.0,End of 3rd quarter,98-79,,,3,98,79,19,2160.0
+12:00.0,Start of 4th quarter,98-79,,,4,98,79,19,2160.0
+11:50.0, ,98-79,Def 3 sec tech foul by Team,,4,98,79,19,2170.0
+11:50.0, ,98-80,C. Johnson makes technical free throw,,4,98,80,18,2170.0
+11:34.0, ,98-80,C. Payne misses 3-pt jump shot from 31 ft,,4,98,80,18,2186.0
+11:34.0, ,98-80,Offensive rebound by Team,,4,98,80,18,2186.0
+11:34.0, ,98-80,Turnover by Team (shot clock),,4,98,80,18,2186.0
+11:21.0,Turnover by C. Martin (out of bounds lost ball),98-80, ,,4,98,80,18,2199.0
+11:13.0, ,98-80,Turnover by C. Paul (bad pass; steal by O. Yurtseven),,4,98,80,18,2207.0
+11:03.0,D. Robinson makes 2-pt jump shot from 12 ft (assist by K. Guy),100-80, ,,4,100,80,20,2217.0
+10:45.0, ,100-80,C. Paul misses 2-pt jump shot from 19 ft,,4,100,80,20,2235.0
+10:41.0,Defensive rebound by T. Herro,100-80, ,,4,100,80,20,2239.0
+10:30.0,Personal foul by C. Paul (drawn by C. Martin),100-80, ,,4,100,80,20,2250.0
+10:30.0, ,100-80,D. Booker enters the game for J. Jackson,,4,100,80,20,2250.0
+10:30.0, ,100-80,J. Crowder enters the game for C. Payne,,4,100,80,20,2250.0
+10:26.0,Offensive foul by O. Yurtseven (drawn by J. Smith),100-80, ,,4,100,80,20,2254.0
+10:26.0,Turnover by O. Yurtseven (offensive foul),100-80, ,,4,100,80,20,2254.0
+10:15.0, ,100-83,C. Johnson makes 3-pt jump shot from 28 ft (assist by D. Booker),,4,100,83,17,2265.0
+9:58.0,K. Guy misses 2-pt layup from 4 ft,100-83, ,,4,100,83,17,2282.0
+9:57.0,Offensive rebound by C. Martin,100-83, ,,4,100,83,17,2283.0
+9:55.0,C. Martin misses 2-pt jump shot from 9 ft,100-83, ,,4,100,83,17,2285.0
+9:53.0, ,100-83,Defensive rebound by J. Crowder,,4,100,83,17,2287.0
+9:49.0, ,100-83,Personal foul by T. Herro (drawn by D. Booker),,4,100,83,17,2291.0
+9:49.0,K. Lowry enters the game for K. Guy,100-83, ,,4,100,83,17,2291.0
+9:49.0, ,100-83,D. Ayton enters the game for J. Smith,,4,100,83,17,2291.0
+9:43.0, ,100-83,C. Paul misses 2-pt jump shot from 16 ft,,4,100,83,17,2297.0
+9:40.0,Defensive rebound by O. Yurtseven,100-83, ,,4,100,83,17,2300.0
+9:25.0,D. Robinson misses 3-pt jump shot from 26 ft,100-83, ,,4,100,83,17,2315.0
+9:23.0, ,100-83,Defensive rebound by C. Paul,,4,100,83,17,2317.0
+9:20.0, ,100-83,Shooting foul by K. Lowry (drawn by D. Ayton),,4,100,83,17,2320.0
+9:20.0, ,100-84,D. Ayton makes free throw 1 of 2,,4,100,84,16,2320.0
+9:20.0, ,100-85,D. Ayton makes free throw 2 of 2,,4,100,85,15,2320.0
+9:00.0,O. Yurtseven misses 2-pt jump shot from 12 ft,100-85, ,,4,100,85,15,2340.0
+8:58.0, ,100-85,Defensive rebound by D. Ayton,,4,100,85,15,2342.0
+8:52.0, ,100-85,Shooting foul by O. Yurtseven (drawn by D. Ayton),,4,100,85,15,2348.0
+8:52.0, ,100-86,D. Ayton makes free throw 1 of 2,,4,100,86,14,2348.0
+8:52.0, ,100-87,D. Ayton makes free throw 2 of 2,,4,100,87,13,2348.0
+8:47.0,Miami full timeout,100-87, ,,4,100,87,13,2353.0
+8:47.0,P. Tucker enters the game for C. Martin,100-87, ,,4,100,87,13,2353.0
+8:47.0,Away from play foul by C. Paul (drawn by T. Herro),100-87, ,,4,100,87,13,2353.0
+8:47.0,T. Herro makes free throw 1 of 1,101-87, ,,4,101,87,14,2353.0
+8:37.0,K. Lowry misses 2-pt jump shot from 14 ft,101-87, ,,4,101,87,14,2363.0
+8:33.0,Offensive rebound by P. Tucker,101-87, ,,4,101,87,14,2367.0
+8:32.0,D. Robinson makes 3-pt jump shot from 28 ft (assist by P. Tucker),104-87, ,,4,104,87,17,2368.0
+8:12.0, ,104-87,C. Paul misses 2-pt jump shot from 13 ft,,4,104,87,17,2388.0
+8:10.0,Defensive rebound by O. Yurtseven,104-87, ,,4,104,87,17,2390.0
+7:54.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by K. Lowry),107-87, ,,4,107,87,20,2406.0
+7:39.0, ,107-89,C. Paul makes 2-pt jump shot from 10 ft,,4,107,89,18,2421.0
+7:21.0,T. Herro makes 2-pt jump shot from 13 ft,109-89, ,,4,109,89,20,2439.0
+7:10.0, ,109-89,D. Booker misses 2-pt layup from 3 ft,,4,109,89,20,2450.0
+7:07.0,Defensive rebound by P. Tucker,109-89, ,,4,109,89,20,2453.0
+6:58.0,T. Herro makes 2-pt layup from 1 ft (assist by K. Lowry),111-89, ,,4,111,89,22,2462.0
+6:58.0, ,111-89,Phoenix full timeout,,4,111,89,22,2462.0
+6:58.0, ,111-89,M. Bridges enters the game for C. Johnson,,4,111,89,22,2462.0
+6:43.0, ,111-91,D. Ayton makes 2-pt layup from 2 ft (assist by M. Bridges),,4,111,91,20,2477.0
+6:28.0,D. Robinson misses 3-pt jump shot from 25 ft,111-91, ,,4,111,91,20,2492.0
+6:28.0,Offensive rebound by P. Tucker,111-91, ,,4,111,91,20,2492.0
+6:25.0,T. Herro makes 3-pt jump shot from 23 ft (assist by P. Tucker),114-91, ,,4,114,91,23,2495.0
+6:10.0, ,114-91,Shooting foul by D. Robinson (drawn by D. Booker),,4,114,91,23,2510.0
+6:10.0, ,114-92,D. Booker makes free throw 1 of 2,,4,114,92,22,2510.0
+6:10.0, ,114-92,C. Payne enters the game for C. Paul,,4,114,92,22,2510.0
+6:10.0, ,114-93,D. Booker makes free throw 2 of 2,,4,114,93,21,2510.0
+5:46.0,O. Yurtseven misses 2-pt jump shot from 13 ft,114-93, ,,4,114,93,21,2534.0
+5:45.0, ,114-93,Defensive rebound by Team,,4,114,93,21,2535.0
+5:23.0, ,114-93,Turnover by C. Payne (bad pass; steal by O. Yurtseven),,4,114,93,21,2557.0
+5:17.0,O. Yurtseven makes 2-pt dunk from 1 ft (assist by K. Lowry),116-93, ,,4,116,93,23,2563.0
+4:57.0, ,116-93,Turnover by M. Bridges (bad pass; steal by T. Herro),,4,116,93,23,2583.0
+4:54.0,Turnover by T. Herro (bad pass; steal by J. Crowder),116-93, ,,4,116,93,23,2586.0
+4:51.0, ,116-93,J. Crowder misses 3-pt jump shot from 23 ft,,4,116,93,23,2589.0
+4:49.0,Defensive rebound by O. Yurtseven,116-93, ,,4,116,93,23,2591.0
+4:46.0,T. Herro makes 2-pt dunk at rim (assist by K. Lowry),118-93, ,,4,118,93,25,2594.0
+4:46.0, ,118-93,Phoenix full timeout,,4,118,93,25,2594.0
+4:46.0, ,118-93,J. Jackson enters the game for D. Ayton,,4,118,93,25,2594.0
+4:46.0, ,118-93,C. Johnson enters the game for D. Booker,,4,118,93,25,2594.0
+4:46.0, ,118-93,J. Smith enters the game for M. Bridges,,4,118,93,25,2594.0
+4:46.0, ,118-93,I. Wainright enters the game for J. Crowder,,4,118,93,25,2594.0
+4:26.0, ,118-93,C. Johnson misses 3-pt jump shot from 23 ft,,4,118,93,25,2614.0
+4:22.0,Defensive rebound by P. Tucker,118-93, ,,4,118,93,25,2618.0
+4:09.0,O. Yurtseven misses 2-pt jump shot from 6 ft,118-93, ,,4,118,93,25,2631.0
+4:08.0, ,118-93,Defensive rebound by J. Smith,,4,118,93,25,2632.0
+3:53.0, ,118-95,J. Jackson makes 2-pt jump shot from 4 ft (assist by C. Payne),,4,118,95,23,2647.0
+3:33.0,T. Herro makes 2-pt layup from 3 ft (assist by K. Lowry),120-95, ,,4,120,95,25,2667.0
+3:16.0, ,120-98,C. Payne makes 3-pt jump shot from 25 ft (assist by C. Johnson),,4,120,98,22,2684.0
+2:49.0,K. Lowry makes 3-pt jump shot from 34 ft (assist by O. Yurtseven),123-98, ,,4,123,98,25,2711.0
+2:37.0, ,123-98,C. Payne misses 3-pt jump shot from 26 ft,,4,123,98,25,2723.0
+2:37.0,Defensive rebound by O. Yurtseven,123-98, ,,4,123,98,25,2723.0
+2:25.0,Turnover by O. Yurtseven (bad pass),123-98, ,,4,123,98,25,2735.0
+2:25.0,K. Guy enters the game for K. Lowry,123-98, ,,4,123,98,25,2735.0
+2:25.0,H. Highsmith enters the game for P. Tucker,123-98, ,,4,123,98,25,2735.0
+2:25.0,C. Silva enters the game for O. Yurtseven,123-98, ,,4,123,98,25,2735.0
+2:09.0, ,123-98,C. Payne misses 2-pt jump shot from 2 ft,,4,123,98,25,2751.0
+2:08.0, ,123-98,Offensive rebound by Team,,4,123,98,25,2752.0
+2:06.0, ,123-98,C. Johnson misses 2-pt jump shot from 16 ft,,4,123,98,25,2754.0
+2:04.0,Defensive rebound by C. Silva,123-98, ,,4,123,98,25,2756.0
+1:51.0,Turnover by T. Herro (bad pass; steal by I. Wainright),123-98, ,,4,123,98,25,2769.0
+1:46.0, ,123-98,C. Johnson misses 3-pt jump shot from 24 ft,,4,123,98,25,2774.0
+1:43.0,Defensive rebound by C. Silva,123-98, ,,4,123,98,25,2777.0
+1:30.0,H. Highsmith misses 3-pt jump shot from 24 ft,123-98, ,,4,123,98,25,2790.0
+1:26.0, ,123-98,Defensive rebound by J. Smith,,4,123,98,25,2794.0
+1:16.0, ,123-98,J. Smith misses 2-pt jump shot from 12 ft,,4,123,98,25,2804.0
+1:14.0,Defensive rebound by C. Silva,123-98, ,,4,123,98,25,2806.0
+1:02.0,Turnover by K. Guy (bad pass; steal by I. Wainright),123-98, ,,4,123,98,25,2818.0
+1:00.0, ,123-98,Turnover by I. Wainright (bad pass; steal by K. Guy),,4,123,98,25,2820.0
+0:53.0,D. Robinson misses 3-pt jump shot from 29 ft,123-98, ,,4,123,98,25,2827.0
+0:51.0, ,123-98,Defensive rebound by I. Wainright,,4,123,98,25,2829.0
+0:47.0, ,123-98,Shooting foul by D. Robinson (drawn by C. Johnson),,4,123,98,25,2833.0
+0:47.0, ,123-99,C. Johnson makes free throw 1 of 2,,4,123,99,24,2833.0
+0:47.0,C. Martin enters the game for T. Herro,123-99, ,,4,123,99,24,2833.0
+0:47.0, ,123-100,C. Johnson makes free throw 2 of 2,,4,123,100,23,2833.0
+0:28.0,C. Martin misses 3-pt jump shot from 27 ft,123-100, ,,4,123,100,23,2852.0
+0:25.0, ,123-100,Defensive rebound by Team,,4,123,100,23,2855.0
+0:16.0, ,123-100,C. Payne misses 2-pt jump shot from 9 ft,,4,123,100,23,2864.0
+0:14.0, ,123-100,Offensive rebound by J. Smith,,4,123,100,23,2866.0
+0:14.0, ,123-100,J. Smith misses 2-pt layup from 2 ft,,4,123,100,23,2866.0
+0:09.0,Defensive rebound by C. Martin,123-100, ,,4,123,100,23,2871.0
+0:00.0,End of 4th quarter,123-100,,,4,123,100,23,2880.0

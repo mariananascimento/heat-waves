@@ -1,0 +1,483 @@
+Time,Miami,Score,Brooklyn,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. K. Durant (K. Lowry gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,K. Lowry makes 2-pt jump shot from 14 ft,2-0, ,,1,2,0,2,17.0
+11:23.0, ,2-3,J. Harris makes 3-pt jump shot from 26 ft (assist by J. Harden),Lead change,1,2,3,-1,37.0
+11:16.0,B. Adebayo misses 2-pt jump shot from 14 ft,2-3, ,,1,2,3,-1,44.0
+11:13.0, ,2-3,Defensive rebound by K. Durant,,1,2,3,-1,47.0
+11:05.0, ,2-3,B. Brown misses 3-pt jump shot from 23 ft,,1,2,3,-1,55.0
+11:02.0,Defensive rebound by D. Robinson,2-3, ,,1,2,3,-1,58.0
+10:57.0,J. Butler makes 2-pt jump shot from 19 ft (assist by K. Lowry),4-3, ,Lead change,1,4,3,1,63.0
+10:37.0, ,4-3,J. Harris misses 2-pt jump shot from 20 ft,,1,4,3,1,83.0
+10:35.0,Defensive rebound by J. Butler,4-3, ,,1,4,3,1,85.0
+10:26.0,D. Robinson misses 3-pt jump shot from 25 ft,4-3, ,,1,4,3,1,94.0
+10:23.0, ,4-3,Defensive rebound by K. Durant,,1,4,3,1,97.0
+10:17.0, ,4-3,J. Harden misses 2-pt jump shot from 7 ft,,1,4,3,1,103.0
+10:14.0,Defensive rebound by B. Adebayo,4-3, ,,1,4,3,1,106.0
+10:02.0,B. Adebayo makes 2-pt jump shot from 12 ft (assist by K. Lowry),6-3, ,,1,6,3,3,118.0
+9:48.0, ,6-3,J. Harris misses 3-pt jump shot from 25 ft,,1,6,3,3,132.0
+9:45.0,Defensive rebound by B. Adebayo,6-3, ,,1,6,3,3,135.0
+9:32.0,J. Butler misses 2-pt jump shot from 6 ft,6-3, ,,1,6,3,3,148.0
+9:30.0, ,6-3,Defensive rebound by B. Brown,,1,6,3,3,150.0
+9:26.0, ,6-5,B. Brown makes 2-pt layup from 1 ft,,1,6,5,1,154.0
+9:21.0,Turnover by K. Lowry (bad pass),6-5, ,,1,6,5,1,159.0
+9:01.0, ,6-8,B. Griffin makes 3-pt jump shot from 23 ft (assist by K. Durant),Lead change,1,6,8,-2,179.0
+8:48.0,D. Robinson misses 3-pt jump shot from 23 ft,6-8, ,,1,6,8,-2,192.0
+8:44.0, ,6-8,Defensive rebound by J. Harden,,1,6,8,-2,196.0
+8:22.0, ,6-8,Turnover by Team (shot clock),,1,6,8,-2,218.0
+8:12.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by D. Robinson),9-8, ,Lead change,1,9,8,1,228.0
+7:59.0, ,9-10,K. Durant makes 2-pt jump shot from 12 ft,Lead change,1,9,10,-1,241.0
+7:50.0,P. Tucker misses 3-pt jump shot from 23 ft,9-10, ,,1,9,10,-1,250.0
+7:48.0, ,9-10,Defensive rebound by J. Harris,,1,9,10,-1,252.0
+7:43.0, ,9-10,Personal foul by P. Tucker (drawn by K. Durant),,1,9,10,-1,257.0
+7:43.0, ,9-10,P. Mills enters the game for B. Brown,,1,9,10,-1,257.0
+7:40.0, ,9-10,J. Harden misses 3-pt jump shot from 25 ft,,1,9,10,-1,260.0
+7:38.0,Defensive rebound by J. Butler,9-10, ,,1,9,10,-1,262.0
+7:27.0,J. Butler makes 2-pt layup from 1 ft,11-10, ,Lead change,1,11,10,1,273.0
+7:20.0, ,11-10,P. Mills misses 3-pt jump shot from 23 ft,,1,11,10,1,280.0
+7:17.0,Defensive rebound by J. Butler,11-10, ,,1,11,10,1,283.0
+7:10.0,Turnover by J. Butler (out of bounds lost ball),11-10, ,,1,11,10,1,290.0
+6:58.0, ,11-10,K. Durant misses 2-pt layup from 3 ft,,1,11,10,1,302.0
+6:56.0,Defensive rebound by D. Robinson,11-10, ,,1,11,10,1,304.0
+6:49.0,J. Butler misses 2-pt jump shot from 4 ft,11-10, ,,1,11,10,1,311.0
+6:47.0,Offensive rebound by J. Butler,11-10, ,,1,11,10,1,313.0
+6:46.0,J. Butler makes 2-pt layup from 1 ft,13-10, ,,1,13,10,3,314.0
+6:37.0, ,13-10,Brooklyn full timeout,,1,13,10,3,323.0
+6:30.0, ,13-10,K. Durant misses 2-pt jump shot from 10 ft,,1,13,10,3,330.0
+6:28.0, ,13-10,Offensive rebound by Team,,1,13,10,3,332.0
+6:28.0,Loose ball foul by D. Robinson (drawn by B. Griffin),13-10, ,,1,13,10,3,332.0
+6:24.0, ,13-10,J. Harden misses 3-pt jump shot from 26 ft,,1,13,10,3,336.0
+6:21.0,Defensive rebound by K. Lowry,13-10, ,,1,13,10,3,339.0
+6:19.0,J. Butler makes 2-pt layup from 1 ft (assist by K. Lowry),15-10, ,,1,15,10,5,341.0
+6:11.0, ,15-10,Shooting foul by B. Adebayo (drawn by K. Durant),,1,15,10,5,349.0
+6:11.0, ,15-11,K. Durant makes free throw 1 of 3,,1,15,11,4,349.0
+6:11.0, ,15-12,K. Durant makes free throw 2 of 3,,1,15,12,3,349.0
+6:11.0, ,15-12,L. Aldridge enters the game for B. Griffin,,1,15,12,3,349.0
+6:11.0, ,15-13,K. Durant makes free throw 3 of 3,,1,15,13,2,349.0
+5:56.0,B. Adebayo misses 2-pt jump shot from 12 ft,15-13, ,,1,15,13,2,364.0
+5:53.0, ,15-13,Defensive rebound by K. Durant,,1,15,13,2,367.0
+5:44.0, ,15-13,K. Durant misses 2-pt jump shot from 4 ft,,1,15,13,2,376.0
+5:41.0,Defensive rebound by D. Robinson,15-13, ,,1,15,13,2,379.0
+5:37.0,K. Lowry misses 3-pt jump shot from 25 ft,15-13, ,,1,15,13,2,383.0
+5:33.0, ,15-13,Defensive rebound by P. Mills,,1,15,13,2,387.0
+5:19.0, ,15-15,L. Aldridge makes 2-pt layup from 1 ft (assist by P. Mills),Tie,1,15,15,0,401.0
+5:03.0,B. Adebayo misses 2-pt jump shot from 9 ft (block by L. Aldridge),15-15, ,,1,15,15,0,417.0
+5:00.0, ,15-15,Defensive rebound by J. Harden,,1,15,15,0,420.0
+4:59.0, ,15-18,J. Harris makes 3-pt jump shot from 23 ft (assist by J. Harden),Lead change,1,15,18,-3,421.0
+4:58.0,Miami full timeout,15-18, ,,1,15,18,-3,422.0
+4:58.0,D. Dedmon enters the game for B. Adebayo,15-18, ,,1,15,18,-3,422.0
+4:58.0,T. Herro enters the game for K. Lowry,15-18, ,,1,15,18,-3,422.0
+4:41.0,T. Herro misses 3-pt jump shot from 24 ft,15-18, ,,1,15,18,-3,439.0
+4:40.0,Offensive rebound by Team,15-18, ,,1,15,18,-3,440.0
+4:36.0,T. Herro makes 2-pt layup from 1 ft (assist by J. Butler),17-18, ,,1,17,18,-1,444.0
+4:14.0, ,17-18,K. Durant misses 2-pt jump shot from 13 ft,,1,17,18,-1,466.0
+4:11.0,Defensive rebound by D. Dedmon,17-18, ,,1,17,18,-1,469.0
+4:02.0,D. Dedmon makes 2-pt jump shot from 11 ft (assist by J. Butler),19-18, ,Lead change,1,19,18,1,478.0
+3:49.0, ,19-18,Turnover by J. Harden (lost ball; steal by J. Butler),,1,19,18,1,491.0
+3:49.0, ,19-18,Clear path foul by T. Herro,,1,19,18,1,491.0
+3:49.0, ,19-18,Instant Replay (Request: Ruling Stands),,1,19,18,1,491.0
+3:49.0,T. Herro misses clear path free throw 1 of 2,19-18, ,,1,19,18,1,491.0
+3:49.0,Offensive rebound by Team,19-18, ,,1,19,18,1,491.0
+3:49.0,T. Herro makes clear path free throw 2 of 2,20-18, ,,1,20,18,2,491.0
+3:37.0,J. Butler misses 2-pt jump shot from 14 ft,20-18, ,,1,20,18,2,503.0
+3:34.0,Offensive rebound by P. Tucker,20-18, ,,1,20,18,2,506.0
+3:32.0,P. Tucker misses 2-pt hook shot from 4 ft (block by K. Durant),20-18, ,,1,20,18,2,508.0
+3:29.0,Offensive rebound by J. Butler,20-18, ,,1,20,18,2,511.0
+3:27.0,J. Butler misses 2-pt jump shot from 14 ft,20-18, ,,1,20,18,2,513.0
+3:25.0,Offensive rebound by T. Herro,20-18, ,,1,20,18,2,515.0
+3:22.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by T. Herro),23-18, ,,1,23,18,5,518.0
+2:59.0, ,23-18,L. Aldridge misses 2-pt hook shot from 7 ft,,1,23,18,5,541.0
+2:57.0,Defensive rebound by J. Butler,23-18, ,,1,23,18,5,543.0
+2:44.0,T. Herro makes 2-pt jump shot from 9 ft (assist by P. Tucker),25-18, ,,1,25,18,7,556.0
+2:30.0, ,25-18,K. Durant misses 3-pt jump shot from 26 ft,,1,25,18,7,570.0
+2:26.0,Defensive rebound by T. Herro,25-18, ,,1,25,18,7,574.0
+2:23.0,Personal foul by J. Harden (drawn by T. Herro),25-18, ,,1,25,18,7,577.0
+2:23.0, ,25-18,D. Bembry enters the game for J. Harden,,1,25,18,7,577.0
+2:23.0, ,25-18,B. Brown enters the game for J. Harris,,1,25,18,7,577.0
+2:16.0,T. Herro makes 2-pt jump shot from 13 ft,27-18, ,,1,27,18,9,584.0
+1:52.0, ,27-20,D. Bembry makes 2-pt jump shot from 6 ft,,1,27,20,7,608.0
+1:41.0,T. Herro misses 3-pt jump shot from 27 ft,27-20, ,,1,27,20,7,619.0
+1:38.0, ,27-20,Defensive rebound by K. Durant,,1,27,20,7,622.0
+1:31.0, ,27-20,Offensive foul by D. Bembry (drawn by D. Dedmon),,1,27,20,7,629.0
+1:31.0, ,27-20,Turnover by D. Bembry (offensive foul),,1,27,20,7,629.0
+1:31.0,K. Lowry enters the game for J. Butler,27-20, ,,1,27,20,7,629.0
+1:31.0,M. Strus enters the game for D. Robinson,27-20, ,,1,27,20,7,629.0
+1:19.0,T. Herro misses 2-pt jump shot from 11 ft,27-20, ,,1,27,20,7,641.0
+1:16.0, ,27-20,Defensive rebound by K. Durant,,1,27,20,7,644.0
+1:13.0, ,27-20,Offensive foul by K. Durant (drawn by K. Lowry),,1,27,20,7,647.0
+1:13.0, ,27-20,Turnover by K. Durant (offensive foul),,1,27,20,7,647.0
+1:01.0,Personal foul by D. Bembry (drawn by T. Herro),27-20, ,,1,27,20,7,659.0
+0:52.0,T. Herro misses 2-pt jump shot from 13 ft,27-20, ,,1,27,20,7,668.0
+0:51.0,Offensive rebound by D. Dedmon,27-20, ,,1,27,20,7,669.0
+0:50.0,D. Dedmon misses 2-pt layup from 1 ft,27-20, ,,1,27,20,7,670.0
+0:49.0,Offensive rebound by P. Tucker,27-20, ,,1,27,20,7,671.0
+0:39.0,K. Lowry misses 3-pt jump shot from 25 ft,27-20, ,,1,27,20,7,681.0
+0:36.0, ,27-20,Defensive rebound by K. Durant,,1,27,20,7,684.0
+0:30.0, ,27-22,K. Durant makes 2-pt jump shot from 10 ft,,1,27,22,5,690.0
+0:05.0,P. Tucker misses 2-pt jump shot from 10 ft,27-22, ,,1,27,22,5,715.0
+0:04.0,Offensive rebound by D. Dedmon,27-22, ,,1,27,22,5,716.0
+0:04.0,D. Dedmon makes 2-pt layup at rim,29-22, ,,1,29,22,7,716.0
+0:00.0, ,29-22,L. Aldridge misses 3-pt jump shot from 25 ft,,1,29,22,7,720.0
+0:00.0, ,29-22,Offensive rebound by Team,,1,29,22,7,720.0
+0:00.0,End of 1st quarter,29-22,,,1,29,22,7,720.0
+12:00.0,Start of 2nd quarter,29-22,,,2,29,22,7,720.0
+11:46.0, ,29-22,J. Harris misses 3-pt jump shot from 26 ft,,2,29,22,7,734.0
+11:41.0,Defensive rebound by D. Dedmon,29-22, ,,2,29,22,7,739.0
+11:31.0,M. Morris misses 3-pt jump shot from 25 ft,29-22, ,,2,29,22,7,749.0
+11:28.0, ,29-22,Defensive rebound by B. Brown,,2,29,22,7,752.0
+11:21.0, ,29-22,Turnover by P. Millsap (traveling),,2,29,22,7,759.0
+11:02.0,M. Strus misses 3-pt jump shot from 24 ft (block by D. Bembry),29-22, ,,2,29,22,7,778.0
+10:58.0,Offensive rebound by T. Herro,29-22, ,,2,29,22,7,782.0
+10:56.0,T. Herro misses 2-pt jump shot from 9 ft,29-22, ,,2,29,22,7,784.0
+10:52.0,Offensive rebound by D. Dedmon,29-22, ,,2,29,22,7,788.0
+10:51.0,D. Dedmon makes 2-pt layup from 2 ft,31-22, ,,2,31,22,9,789.0
+10:38.0, ,31-24,P. Millsap makes 2-pt layup from 3 ft (assist by B. Brown),,2,31,24,7,802.0
+10:27.0,M. Morris makes 2-pt jump shot from 12 ft (assist by K. Lowry),33-24, ,,2,33,24,9,813.0
+10:12.0, ,33-27,P. Millsap makes 3-pt jump shot from 26 ft (assist by D. Bembry),,2,33,27,6,828.0
+10:12.0,B. Adebayo enters the game for D. Dedmon,33-27, ,,2,33,27,6,828.0
+9:57.0,Turnover by T. Herro (bad pass),33-27, ,,2,33,27,6,843.0
+9:39.0, ,33-29,D. Bembry makes 2-pt layup from 2 ft (assist by J. Carter),,2,33,29,4,861.0
+9:34.0,Personal foul by J. Harris (drawn by K. Lowry),33-29, ,,2,33,29,4,866.0
+9:22.0,M. Strus misses 3-pt jump shot from 23 ft,33-29, ,,2,33,29,4,878.0
+9:19.0, ,33-29,Defensive rebound by J. Carter,,2,33,29,4,881.0
+9:14.0, ,33-29,Offensive foul by B. Brown (drawn by M. Morris),,2,33,29,4,886.0
+9:14.0, ,33-29,Turnover by B. Brown (offensive foul),,2,33,29,4,886.0
+9:04.0,M. Morris misses 2-pt jump shot from 13 ft,33-29, ,,2,33,29,4,896.0
+9:02.0, ,33-29,Defensive rebound by D. Bembry,,2,33,29,4,898.0
+8:59.0, ,33-29,D. Bembry misses 2-pt jump shot from 5 ft,,2,33,29,4,901.0
+8:56.0,Defensive rebound by B. Adebayo,33-29, ,,2,33,29,4,904.0
+8:47.0,T. Herro misses 2-pt jump shot from 22 ft,33-29, ,,2,33,29,4,913.0
+8:44.0, ,33-29,Defensive rebound by J. Harris,,2,33,29,4,916.0
+8:38.0, ,33-29,J. Carter misses 3-pt jump shot from 25 ft,,2,33,29,4,922.0
+8:35.0,Defensive rebound by B. Adebayo,33-29, ,,2,33,29,4,925.0
+8:28.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by K. Lowry),35-29, ,,2,35,29,6,932.0
+8:13.0, ,35-29,J. Harris misses 2-pt layup from 1 ft,,2,35,29,6,947.0
+8:11.0,Defensive rebound by B. Adebayo,35-29, ,,2,35,29,6,949.0
+8:04.0,Turnover by T. Herro (bad pass; steal by D. Bembry),35-29, ,,2,35,29,6,956.0
+7:55.0, ,35-29,J. Carter misses 3-pt jump shot from 26 ft,,2,35,29,6,965.0
+7:46.0,Defensive rebound by B. Adebayo,35-29, ,,2,35,29,6,974.0
+7:41.0,Shooting foul by D. Bembry (drawn by B. Adebayo),35-29, ,,2,35,29,6,979.0
+7:41.0,B. Adebayo makes free throw 1 of 2,36-29, ,,2,36,29,7,979.0
+7:41.0, ,36-29,Brooklyn full timeout,,2,36,29,7,979.0
+7:41.0,J. Butler enters the game for T. Herro,36-29, ,,2,36,29,7,979.0
+7:41.0, ,36-29,J. Harden enters the game for J. Carter,,2,36,29,7,979.0
+7:41.0,B. Adebayo makes free throw 2 of 2,37-29, ,,2,37,29,8,979.0
+7:30.0, ,37-29,D. Bembry misses 3-pt jump shot from 26 ft,,2,37,29,8,990.0
+7:27.0,Defensive rebound by M. Morris,37-29, ,,2,37,29,8,993.0
+7:22.0,B. Adebayo makes 2-pt layup from 1 ft,39-29, ,,2,39,29,10,998.0
+7:12.0, ,39-29,Turnover by J. Harden (bad pass; steal by M. Strus),,2,39,29,10,1008.0
+7:07.0,J. Butler makes 2-pt layup from 1 ft (assist by K. Lowry),41-29, ,,2,41,29,12,1013.0
+6:43.0, ,41-32,J. Harden makes 3-pt jump shot from 25 ft,,2,41,32,9,1037.0
+6:21.0,J. Butler misses 2-pt layup from 1 ft,41-32, ,,2,41,32,9,1059.0
+6:20.0, ,41-32,Defensive rebound by P. Millsap,,2,41,32,9,1060.0
+6:16.0, ,41-32,Turnover by J. Harden (out of bounds lost ball),,2,41,32,9,1064.0
+6:16.0,T. Herro enters the game for K. Lowry,41-32, ,,2,41,32,9,1064.0
+6:16.0, ,41-32,K. Durant enters the game for D. Bembry,,2,41,32,9,1064.0
+6:16.0, ,41-32,B. Griffin enters the game for J. Harris,,2,41,32,9,1064.0
+6:16.0, ,41-32,P. Mills enters the game for P. Millsap,,2,41,32,9,1064.0
+5:59.0,J. Butler misses 2-pt jump shot from 14 ft,41-32, ,,2,41,32,9,1081.0
+5:55.0, ,41-32,Defensive rebound by K. Durant,,2,41,32,9,1085.0
+5:50.0, ,41-34,J. Harden makes 2-pt dunk from 1 ft (assist by B. Griffin),,2,41,34,7,1090.0
+5:38.0,M. Strus misses 3-pt jump shot from 25 ft,41-34, ,,2,41,34,7,1102.0
+5:36.0,Offensive rebound by J. Butler,41-34, ,,2,41,34,7,1104.0
+5:35.0,J. Butler makes 2-pt layup from 1 ft,43-34, ,,2,43,34,9,1105.0
+5:27.0, ,43-34,Personal foul by J. Butler (drawn by P. Mills),,2,43,34,9,1113.0
+5:27.0,D. Robinson enters the game for M. Strus,43-34, ,,2,43,34,9,1113.0
+5:18.0, ,43-34,P. Mills misses 3-pt jump shot from 26 ft,,2,43,34,9,1122.0
+5:15.0,Defensive rebound by T. Herro,43-34, ,,2,43,34,9,1125.0
+5:13.0,Offensive foul by M. Morris (drawn by P. Mills),43-34, ,,2,43,34,9,1127.0
+5:13.0,Turnover by M. Morris (offensive foul),43-34, ,,2,43,34,9,1127.0
+5:03.0, ,43-37,J. Harden makes 3-pt jump shot from 26 ft,,2,43,37,6,1137.0
+5:03.0, ,43-37,Shooting foul by D. Robinson (drawn by J. Harden),,2,43,37,6,1137.0
+5:03.0, ,43-38,J. Harden makes free throw 1 of 1,,2,43,38,5,1137.0
+4:52.0,T. Herro misses 2-pt jump shot from 13 ft,43-38, ,,2,43,38,5,1148.0
+4:48.0, ,43-38,Defensive rebound by B. Griffin,,2,43,38,5,1152.0
+4:42.0, ,43-38,Shooting foul by M. Morris (drawn by J. Harden),,2,43,38,5,1158.0
+4:42.0, ,43-39,J. Harden makes free throw 1 of 2,,2,43,39,4,1158.0
+4:42.0,D. Dedmon enters the game for B. Adebayo,43-39, ,,2,43,39,4,1158.0
+4:42.0,P. Tucker enters the game for M. Morris,43-39, ,,2,43,39,4,1158.0
+4:42.0, ,43-40,J. Harden makes free throw 2 of 2,,2,43,40,3,1158.0
+4:20.0,J. Butler misses 2-pt jump shot from 15 ft,43-40, ,,2,43,40,3,1180.0
+4:16.0,Offensive rebound by D. Dedmon,43-40, ,,2,43,40,3,1184.0
+4:15.0,D. Dedmon makes 2-pt layup from 1 ft,45-40, ,,2,45,40,5,1185.0
+4:05.0, ,45-40,P. Mills misses 3-pt jump shot from 26 ft,,2,45,40,5,1195.0
+4:03.0, ,45-40,Offensive rebound by P. Mills,,2,45,40,5,1197.0
+3:58.0, ,45-42,K. Durant makes 2-pt dunk from 1 ft (assist by P. Mills),,2,45,42,3,1202.0
+3:39.0,D. Dedmon misses 2-pt jump shot from 16 ft,45-42, ,,2,45,42,3,1221.0
+3:38.0, ,45-42,Defensive rebound by K. Durant,,2,45,42,3,1222.0
+3:38.0, ,45-42,Personal foul by P. Tucker (drawn by K. Durant),,2,45,42,3,1222.0
+3:27.0, ,45-42,P. Mills misses 3-pt jump shot from 26 ft,,2,45,42,3,1233.0
+3:24.0,Defensive rebound by J. Butler,45-42, ,,2,45,42,3,1236.0
+3:04.0,T. Herro makes 2-pt jump shot from 12 ft,47-42, ,,2,47,42,5,1256.0
+2:47.0, ,47-42,Shooting foul by P. Tucker (drawn by K. Durant),,2,47,42,5,1273.0
+2:47.0,Miami full timeout,47-42, ,,2,47,42,5,1273.0
+2:47.0,B. Adebayo enters the game for D. Dedmon,47-42, ,,2,47,42,5,1273.0
+2:47.0,K. Lowry enters the game for P. Tucker,47-42, ,,2,47,42,5,1273.0
+2:47.0, ,47-43,K. Durant makes free throw 1 of 2,,2,47,43,4,1273.0
+2:47.0, ,47-43,K. Durant misses free throw 2 of 2,,2,47,43,4,1273.0
+2:44.0,Defensive rebound by T. Herro,47-43, ,,2,47,43,4,1276.0
+2:33.0,B. Adebayo misses 2-pt dunk from 1 ft,47-43, ,,2,47,43,4,1287.0
+2:31.0, ,47-43,Defensive rebound by B. Griffin,,2,47,43,4,1289.0
+2:27.0, ,47-45,K. Durant makes 2-pt jump shot from 1 ft,,2,47,45,2,1293.0
+2:22.0,Technical foul by P. Tucker,47-45, ,,2,47,45,2,1298.0
+2:22.0, ,47-46,K. Durant makes technical free throw,,2,47,46,1,1298.0
+2:14.0,D. Robinson misses 3-pt jump shot from 26 ft,47-46, ,,2,47,46,1,1306.0
+2:10.0, ,47-46,Defensive rebound by J. Harden,,2,47,46,1,1310.0
+2:04.0, ,47-46,B. Brown misses 2-pt layup from 1 ft (block by D. Robinson),,2,47,46,1,1316.0
+2:02.0,Defensive rebound by D. Robinson,47-46, ,,2,47,46,1,1318.0
+1:59.0,K. Lowry misses 3-pt jump shot from 25 ft,47-46, ,,2,47,46,1,1321.0
+1:59.0, ,47-46,Defensive rebound by B. Griffin,,2,47,46,1,1321.0
+1:53.0, ,47-46,Personal foul by D. Robinson (drawn by P. Mills),,2,47,46,1,1327.0
+1:53.0, ,47-47,P. Mills makes free throw 1 of 2,Tie,2,47,47,0,1327.0
+1:53.0,M. Morris enters the game for D. Robinson,47-47, ,,2,47,47,0,1327.0
+1:53.0, ,47-48,P. Mills makes free throw 2 of 2,Lead change,2,47,48,-1,1327.0
+1:39.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by J. Butler),49-48, ,Lead change,2,49,48,1,1341.0
+1:12.0, ,49-48,B. Griffin misses 2-pt layup from 1 ft,,2,49,48,1,1368.0
+1:12.0,Defensive rebound by Team,49-48, ,,2,49,48,1,1368.0
+1:12.0, ,49-48,Loose ball foul by B. Griffin (drawn by K. Lowry),,2,49,48,1,1368.0
+0:50.0,J. Butler misses 2-pt jump shot from 4 ft,49-48, ,,2,49,48,1,1390.0
+0:48.0, ,49-48,Defensive rebound by B. Brown,,2,49,48,1,1392.0
+0:45.0, ,49-48,P. Mills misses 3-pt jump shot from 23 ft,,2,49,48,1,1395.0
+0:41.0,Defensive rebound by T. Herro,49-48, ,,2,49,48,1,1399.0
+0:37.0,Turnover by T. Herro (lost ball; steal by B. Brown),49-48, ,,2,49,48,1,1403.0
+0:34.0, ,49-50,B. Griffin makes 2-pt dunk from 1 ft (assist by J. Harden),Lead change,2,49,50,-1,1406.0
+0:34.0, ,49-50,Shooting foul by K. Lowry (drawn by B. Griffin),,2,49,50,-1,1406.0
+0:34.0, ,49-51,B. Griffin makes free throw 1 of 1,,2,49,51,-2,1406.0
+0:29.0,T. Herro misses 3-pt jump shot from 24 ft,49-51, ,,2,49,51,-2,1411.0
+0:26.0, ,49-51,Defensive rebound by B. Griffin,,2,49,51,-2,1414.0
+0:07.0, ,49-51,J. Harden misses 3-pt jump shot from 28 ft,,2,49,51,-2,1433.0
+0:04.0,Defensive rebound by B. Adebayo,49-51, ,,2,49,51,-2,1436.0
+0:01.0,Turnover by B. Adebayo (bad pass),49-51, ,,2,49,51,-2,1439.0
+0:00.0,End of 2nd quarter,49-51,,,2,49,51,-2,1440.0
+12:00.0,Start of 3rd quarter,49-51,,,3,49,51,-2,1440.0
+11:46.0, ,49-54,K. Durant makes 3-pt jump shot from 26 ft (assist by J. Harden),,3,49,54,-5,1454.0
+11:31.0,Personal foul by J. Harden (drawn by B. Adebayo),49-54, ,,3,49,54,-5,1469.0
+11:21.0,B. Adebayo misses 2-pt jump shot from 19 ft,49-54, ,,3,49,54,-5,1479.0
+11:17.0, ,49-54,Defensive rebound by J. Harden,,3,49,54,-5,1483.0
+11:09.0, ,49-57,J. Harris makes 3-pt jump shot from 24 ft (assist by B. Griffin),,3,49,57,-8,1491.0
+10:55.0,Shooting foul by J. Harden (drawn by B. Adebayo),49-57, ,,3,49,57,-8,1505.0
+10:55.0,B. Adebayo makes free throw 1 of 2,50-57, ,,3,50,57,-7,1505.0
+10:55.0,B. Adebayo makes free throw 2 of 2,51-57, ,,3,51,57,-6,1505.0
+10:36.0, ,51-57,B. Griffin misses 3-pt jump shot from 23 ft,,3,51,57,-6,1524.0
+10:33.0,Defensive rebound by B. Adebayo,51-57, ,,3,51,57,-6,1527.0
+10:30.0,Shooting foul by B. Griffin (drawn by B. Adebayo),51-57, ,,3,51,57,-6,1530.0
+10:30.0,B. Adebayo makes free throw 1 of 2,52-57, ,,3,52,57,-5,1530.0
+10:30.0,B. Adebayo makes free throw 2 of 2,53-57, ,,3,53,57,-4,1530.0
+10:18.0, ,53-57,B. Griffin misses 3-pt jump shot from 24 ft,,3,53,57,-4,1542.0
+10:14.0,Defensive rebound by P. Tucker,53-57, ,,3,53,57,-4,1546.0
+10:12.0,K. Lowry makes 3-pt jump shot from 25 ft,56-57, ,,3,56,57,-1,1548.0
+9:54.0, ,56-57,J. Harris misses 3-pt jump shot from 25 ft,,3,56,57,-1,1566.0
+9:51.0,Defensive rebound by J. Butler,56-57, ,,3,56,57,-1,1569.0
+9:46.0,Personal foul by B. Brown (drawn by J. Butler),56-57, ,,3,56,57,-1,1574.0
+9:33.0,Offensive foul by J. Butler (drawn by B. Griffin),56-57, ,,3,56,57,-1,1587.0
+9:33.0,Turnover by J. Butler (offensive foul),56-57, ,,3,56,57,-1,1587.0
+9:19.0, ,56-57,J. Harden misses 3-pt jump shot from 28 ft,,3,56,57,-1,1601.0
+9:15.0,Defensive rebound by K. Lowry,56-57, ,,3,56,57,-1,1605.0
+9:09.0,P. Tucker misses 3-pt jump shot from 23 ft,56-57, ,,3,56,57,-1,1611.0
+9:07.0, ,56-57,Defensive rebound by Team,,3,56,57,-1,1613.0
+8:54.0, ,56-57,K. Durant misses 2-pt jump shot from 18 ft,,3,56,57,-1,1626.0
+8:52.0,Defensive rebound by J. Butler,56-57, ,,3,56,57,-1,1628.0
+8:36.0,P. Tucker makes 2-pt jump shot from 11 ft (assist by K. Lowry),58-57, ,Lead change,3,58,57,1,1644.0
+8:22.0, ,58-57,Personal foul by K. Lowry (drawn by B. Griffin),,3,58,57,1,1658.0
+8:22.0, ,58-57,P. Mills enters the game for B. Brown,,3,58,57,1,1658.0
+8:17.0, ,58-57,Personal foul by B. Adebayo (drawn by K. Durant),,3,58,57,1,1663.0
+8:02.0, ,58-57,B. Griffin misses 3-pt jump shot from 25 ft,,3,58,57,1,1678.0
+7:59.0,Defensive rebound by P. Tucker,58-57, ,,3,58,57,1,1681.0
+7:54.0,K. Lowry makes 2-pt layup at rim,60-57, ,,3,60,57,3,1686.0
+7:44.0, ,60-57,Turnover by K. Durant (bad pass; steal by J. Butler),,3,60,57,3,1696.0
+7:38.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by K. Lowry),63-57, ,,3,63,57,6,1702.0
+7:38.0, ,63-57,Brooklyn full timeout,,3,63,57,6,1702.0
+7:22.0, ,63-59,K. Durant makes 2-pt jump shot from 10 ft,,3,63,59,4,1718.0
+7:03.0,D. Robinson misses 3-pt jump shot from 25 ft,63-59, ,,3,63,59,4,1737.0
+7:00.0, ,63-59,Defensive rebound by J. Harris,,3,63,59,4,1740.0
+6:38.0, ,63-59,J. Harris misses 3-pt jump shot from 23 ft,,3,63,59,4,1762.0
+6:34.0,Defensive rebound by P. Tucker,63-59, ,,3,63,59,4,1766.0
+6:20.0,D. Robinson misses 3-pt jump shot from 23 ft,63-59, ,,3,63,59,4,1780.0
+6:18.0, ,63-59,Defensive rebound by K. Durant,,3,63,59,4,1782.0
+6:00.0, ,63-62,J. Harris makes 3-pt jump shot from 25 ft (assist by P. Mills),,3,63,62,1,1800.0
+5:32.0,B. Adebayo misses 2-pt jump shot from 8 ft,63-62, ,,3,63,62,1,1828.0
+5:31.0,Offensive rebound by P. Tucker,63-62, ,,3,63,62,1,1829.0
+5:31.0,P. Tucker makes 2-pt hook shot from 6 ft,65-62, ,,3,65,62,3,1829.0
+5:31.0,Shooting foul by J. Harris (drawn by P. Tucker),65-62, ,,3,65,62,3,1829.0
+5:31.0,D. Dedmon enters the game for B. Adebayo,65-62, ,,3,65,62,3,1829.0
+5:31.0,T. Herro enters the game for K. Lowry,65-62, ,,3,65,62,3,1829.0
+5:31.0, ,65-62,L. Aldridge enters the game for B. Griffin,,3,65,62,3,1829.0
+5:31.0, ,65-62,B. Brown enters the game for J. Harris,,3,65,62,3,1829.0
+5:31.0,P. Tucker makes free throw 1 of 1,66-62, ,,3,66,62,4,1829.0
+5:21.0, ,66-62,Turnover by J. Harden (bad pass),,3,66,62,4,1839.0
+5:05.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by P. Tucker),69-62, ,,3,69,62,7,1855.0
+4:48.0, ,69-62,K. Durant misses 2-pt jump shot from 12 ft,,3,69,62,7,1872.0
+4:45.0, ,69-62,Offensive rebound by B. Brown,,3,69,62,7,1875.0
+4:42.0,Jump ball: B. Brown vs. D. Robinson (P. Mills gains possession),69-62,,,3,69,62,7,1878.0
+4:39.0, ,69-62,B. Brown misses 2-pt jump shot from 7 ft,,3,69,62,7,1881.0
+4:35.0, ,69-62,Offensive rebound by L. Aldridge,,3,69,62,7,1885.0
+4:35.0, ,69-64,L. Aldridge makes 2-pt layup at rim,,3,69,64,5,1885.0
+4:28.0,Personal foul by B. Brown (drawn by T. Herro),69-64, ,,3,69,64,5,1892.0
+4:28.0,T. Herro makes free throw 1 of 2,70-64, ,,3,70,64,6,1892.0
+4:28.0,T. Herro makes free throw 2 of 2,71-64, ,,3,71,64,7,1892.0
+4:14.0, ,71-67,B. Brown makes 3-pt jump shot from 24 ft (assist by J. Harden),,3,71,67,4,1906.0
+3:51.0,Turnover by J. Butler (bad pass; steal by B. Brown),71-67, ,,3,71,67,4,1929.0
+3:39.0, ,71-67,Turnover by L. Aldridge (bad pass; steal by D. Dedmon),,3,71,67,4,1941.0
+3:35.0,Shooting foul by P. Mills (drawn by J. Butler),71-67, ,,3,71,67,4,1945.0
+3:35.0,J. Butler makes free throw 1 of 2,72-67, ,,3,72,67,5,1945.0
+3:35.0,J. Butler makes free throw 2 of 2,73-67, ,,3,73,67,6,1945.0
+3:29.0, ,73-69,K. Durant makes 2-pt layup from 2 ft (assist by J. Harden),,3,73,69,4,1951.0
+3:10.0,P. Tucker misses 2-pt jump shot from 9 ft,73-69, ,,3,73,69,4,1970.0
+3:08.0,Offensive rebound by D. Dedmon,73-69, ,,3,73,69,4,1972.0
+3:07.0,D. Dedmon misses 2-pt layup from 4 ft (block by J. Harden),73-69, ,,3,73,69,4,1973.0
+3:07.0, ,73-69,Defensive rebound by L. Aldridge,,3,73,69,4,1973.0
+3:00.0, ,73-69,K. Durant misses 3-pt jump shot from 26 ft,,3,73,69,4,1980.0
+2:58.0,Defensive rebound by T. Herro,73-69, ,,3,73,69,4,1982.0
+2:55.0,Offensive foul by D. Dedmon (drawn by P. Mills),73-69, ,,3,73,69,4,1985.0
+2:55.0,Turnover by D. Dedmon (offensive foul),73-69, ,,3,73,69,4,1985.0
+2:55.0,Miami full timeout,73-69, ,,3,73,69,4,1985.0
+2:55.0, ,73-69,J. Harris enters the game for J. Harden,,3,73,69,4,1985.0
+2:43.0, ,73-69,Turnover by K. Durant (lost ball; steal by J. Butler),,3,73,69,4,1997.0
+2:38.0,T. Herro misses 2-pt jump shot from 14 ft,73-69, ,,3,73,69,4,2002.0
+2:35.0,Offensive rebound by P. Tucker,73-69, ,,3,73,69,4,2005.0
+2:27.0,T. Herro makes 3-pt jump shot from 26 ft,76-69, ,,3,76,69,7,2013.0
+2:06.0, ,76-69,J. Harris misses 3-pt jump shot from 25 ft,,3,76,69,7,2034.0
+2:03.0,Defensive rebound by J. Butler,76-69, ,,3,76,69,7,2037.0
+1:50.0,D. Dedmon makes 2-pt layup from 2 ft (assist by J. Butler),78-69, ,,3,78,69,9,2050.0
+1:36.0, ,78-71,L. Aldridge makes 2-pt jump shot from 19 ft (assist by P. Mills),,3,78,71,7,2064.0
+1:13.0,D. Dedmon makes 2-pt jump shot from 23 ft (assist by J. Butler),80-71, ,,3,80,71,9,2087.0
+0:55.0, ,80-74,B. Brown makes 3-pt jump shot from 23 ft (assist by K. Durant),,3,80,74,6,2105.0
+0:44.0,J. Butler misses 2-pt layup from 4 ft,80-74, ,,3,80,74,6,2116.0
+0:41.0, ,80-74,Defensive rebound by K. Durant,,3,80,74,6,2119.0
+0:40.0, ,80-74,Turnover by P. Mills (step out of bounds),,3,80,74,6,2120.0
+0:40.0,K. Lowry enters the game for J. Butler,80-74, ,,3,80,74,6,2120.0
+0:31.0,T. Herro misses 3-pt jump shot from 25 ft,80-74, ,,3,80,74,6,2129.0
+0:29.0,Offensive rebound by Team,80-74, ,,3,80,74,6,2131.0
+0:29.0, ,80-74,Loose ball foul by L. Aldridge (drawn by P. Tucker),,3,80,74,6,2131.0
+0:29.0,P. Tucker makes free throw 1 of 2,81-74, ,,3,81,74,7,2131.0
+0:29.0,M. Strus enters the game for D. Robinson,81-74, ,,3,81,74,7,2131.0
+0:29.0,P. Tucker misses free throw 2 of 2,81-74, ,,3,81,74,7,2131.0
+0:27.0, ,81-74,Defensive rebound by L. Aldridge,,3,81,74,7,2133.0
+0:12.0, ,81-74,Personal foul by M. Strus (drawn by K. Durant),,3,81,74,7,2148.0
+0:02.0, ,81-74,J. Harris misses 3-pt jump shot from 23 ft,,3,81,74,7,2158.0
+0:02.0,Defensive rebound by D. Dedmon,81-74, ,,3,81,74,7,2158.0
+0:00.0,End of 3rd quarter,81-74,,,3,81,74,7,2160.0
+12:00.0,Start of 4th quarter,81-74,,,4,81,74,7,2160.0
+11:43.0,Turnover by B. Adebayo (bad pass; steal by J. Harris),81-74, ,,4,81,74,7,2177.0
+11:39.0, ,81-77,J. Harris makes 3-pt jump shot from 25 ft (assist by P. Mills),,4,81,77,4,2181.0
+11:23.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by K. Lowry),83-77, ,,4,83,77,6,2197.0
+10:55.0, ,83-77,P. Millsap misses 2-pt hook shot from 3 ft,,4,83,77,6,2225.0
+10:53.0,Defensive rebound by M. Morris,83-77, ,,4,83,77,6,2227.0
+10:37.0,M. Strus misses 2-pt layup from 2 ft (block by J. Harris),83-77, ,,4,83,77,6,2243.0
+10:36.0, ,83-77,Defensive rebound by J. Harden,,4,83,77,6,2244.0
+10:36.0, ,83-77,Personal foul by M. Morris (drawn by J. Harden),,4,83,77,6,2244.0
+10:22.0, ,83-77,P. Millsap misses 3-pt jump shot from 23 ft,,4,83,77,6,2258.0
+10:18.0,Defensive rebound by K. Lowry,83-77, ,,4,83,77,6,2262.0
+10:10.0,B. Adebayo misses 2-pt layup from 1 ft,83-77, ,,4,83,77,6,2270.0
+10:10.0,Offensive rebound by Team,83-77, ,,4,83,77,6,2270.0
+10:02.0,M. Strus makes 3-pt jump shot from 26 ft (assist by T. Herro),86-77, ,,4,86,77,9,2278.0
+9:41.0, ,86-77,D. Bembry misses 2-pt layup from 1 ft,,4,86,77,9,2299.0
+9:38.0,Defensive rebound by M. Strus,86-77, ,,4,86,77,9,2302.0
+9:37.0,Shooting foul by J. Harris (drawn by B. Adebayo),86-77, ,,4,86,77,9,2303.0
+9:37.0,Instant Replay (Challenge: Ruling Stands),86-77, ,,4,86,77,9,2303.0
+9:37.0, ,86-77,Brooklyn full timeout,,4,86,77,9,2303.0
+9:37.0,B. Adebayo makes free throw 1 of 2,87-77, ,,4,87,77,10,2303.0
+9:37.0,B. Adebayo makes free throw 2 of 2,88-77, ,,4,88,77,11,2303.0
+9:23.0, ,88-77,J. Harris misses 2-pt jump shot from 13 ft,,4,88,77,11,2317.0
+9:19.0,Defensive rebound by T. Herro,88-77, ,,4,88,77,11,2321.0
+9:13.0,K. Lowry misses 3-pt jump shot from 25 ft,88-77, ,,4,88,77,11,2327.0
+9:09.0, ,88-77,Defensive rebound by P. Millsap,,4,88,77,11,2331.0
+9:02.0, ,88-80,J. Harden makes 3-pt jump shot from 25 ft (assist by P. Millsap),,4,88,80,8,2338.0
+8:45.0,M. Strus misses 3-pt jump shot from 25 ft,88-80, ,,4,88,80,8,2355.0
+8:45.0, ,88-80,Defensive rebound by J. Harden,,4,88,80,8,2355.0
+8:32.0, ,88-80,Shooting foul by B. Adebayo (drawn by P. Millsap),,4,88,80,8,2368.0
+8:32.0, ,88-81,P. Millsap makes free throw 1 of 2,,4,88,81,7,2368.0
+8:32.0,J. Butler enters the game for M. Strus,88-81, ,,4,88,81,7,2368.0
+8:32.0, ,88-81,K. Durant enters the game for D. Bembry,,4,88,81,7,2368.0
+8:32.0, ,88-82,P. Millsap makes free throw 2 of 2,,4,88,82,6,2368.0
+8:19.0,B. Adebayo makes 2-pt layup from 2 ft,90-82, ,,4,90,82,8,2381.0
+8:19.0,Shooting foul by P. Millsap (drawn by B. Adebayo),90-82, ,,4,90,82,8,2381.0
+8:19.0,B. Adebayo misses free throw 1 of 1,90-82, ,,4,90,82,8,2381.0
+8:17.0, ,90-82,Defensive rebound by J. Harden,,4,90,82,8,2383.0
+8:06.0, ,90-82,P. Millsap misses 3-pt jump shot from 23 ft,,4,90,82,8,2394.0
+8:03.0,Defensive rebound by M. Morris,90-82, ,,4,90,82,8,2397.0
+7:42.0,Turnover by K. Lowry (bad pass; steal by K. Durant),90-82, ,,4,90,82,8,2418.0
+7:35.0, ,90-84,P. Mills makes 2-pt layup from 1 ft (assist by J. Harden),,4,90,84,6,2425.0
+7:17.0,B. Adebayo misses 2-pt layup from 3 ft,90-84, ,,4,90,84,6,2443.0
+7:13.0, ,90-84,Defensive rebound by K. Durant,,4,90,84,6,2447.0
+7:06.0, ,90-84,J. Harden misses 2-pt jump shot from 11 ft,,4,90,84,6,2454.0
+7:04.0, ,90-84,Offensive rebound by P. Mills,,4,90,84,6,2456.0
+6:53.0, ,90-84,P. Mills misses 2-pt jump shot from 22 ft,,4,90,84,6,2467.0
+6:53.0,Defensive rebound by Team,90-84, ,,4,90,84,6,2467.0
+6:53.0,Miami full timeout,90-84, ,,4,90,84,6,2467.0
+6:53.0,D. Dedmon enters the game for B. Adebayo,90-84, ,,4,90,84,6,2467.0
+6:53.0,D. Robinson enters the game for K. Lowry,90-84, ,,4,90,84,6,2467.0
+6:53.0,P. Tucker enters the game for M. Morris,90-84, ,,4,90,84,6,2467.0
+6:53.0, ,90-84,B. Brown enters the game for J. Harden,,4,90,84,6,2467.0
+6:33.0,T. Herro misses 2-pt jump shot from 15 ft,90-84, ,,4,90,84,6,2487.0
+6:29.0, ,90-84,Defensive rebound by B. Brown,,4,90,84,6,2491.0
+6:08.0, ,90-87,K. Durant makes 3-pt jump shot from 27 ft,,4,90,87,3,2512.0
+5:42.0,T. Herro misses 3-pt jump shot from 26 ft,90-87, ,,4,90,87,3,2538.0
+5:40.0,Offensive rebound by D. Dedmon,90-87, ,,4,90,87,3,2540.0
+5:40.0,Shooting foul by B. Brown (drawn by D. Dedmon),90-87, ,,4,90,87,3,2540.0
+5:40.0,D. Dedmon makes free throw 1 of 2,91-87, ,,4,91,87,4,2540.0
+5:40.0,K. Lowry enters the game for T. Herro,91-87, ,,4,91,87,4,2540.0
+5:40.0, ,91-87,J. Harden enters the game for P. Mills,,4,91,87,4,2540.0
+5:40.0,D. Dedmon makes free throw 2 of 2,92-87, ,,4,92,87,5,2540.0
+5:24.0, ,92-87,Personal foul by J. Butler (drawn by J. Harden),,4,92,87,5,2556.0
+5:15.0, ,92-87,J. Harris misses 2-pt layup from 1 ft,,4,92,87,5,2565.0
+5:12.0,Defensive rebound by K. Lowry,92-87, ,,4,92,87,5,2568.0
+5:07.0,J. Butler misses 2-pt layup from 1 ft,92-87, ,,4,92,87,5,2573.0
+5:06.0,Offensive rebound by J. Butler,92-87, ,,4,92,87,5,2574.0
+5:06.0,Shooting foul by P. Millsap (drawn by J. Butler),92-87, ,,4,92,87,5,2574.0
+5:06.0,J. Butler makes free throw 1 of 2,93-87, ,,4,93,87,6,2574.0
+5:06.0,J. Butler makes free throw 2 of 2,94-87, ,,4,94,87,7,2574.0
+4:50.0, ,94-87,Turnover by K. Durant (bad pass; steal by J. Butler),,4,94,87,7,2590.0
+4:40.0,J. Butler misses 2-pt layup from 1 ft,94-87, ,,4,94,87,7,2600.0
+4:38.0, ,94-87,Defensive rebound by P. Millsap,,4,94,87,7,2602.0
+4:35.0, ,94-89,K. Durant makes 2-pt jump shot from 12 ft (assist by P. Millsap),,4,94,89,5,2605.0
+4:35.0,Violation by Team (def goaltending),94-89, ,,4,94,89,5,2605.0
+4:20.0,Turnover by D. Robinson (bad pass; steal by J. Harden),94-89, ,,4,94,89,5,2620.0
+4:15.0, ,94-89,Offensive foul by J. Harris (drawn by P. Tucker),,4,94,89,5,2625.0
+4:15.0, ,94-89,Turnover by J. Harris (offensive foul),,4,94,89,5,2625.0
+4:15.0,B. Adebayo enters the game for D. Dedmon,94-89, ,,4,94,89,5,2625.0
+4:01.0,B. Adebayo makes 2-pt dunk at rim (assist by J. Butler),96-89, ,,4,96,89,7,2639.0
+4:01.0, ,96-89,Brooklyn full timeout,,4,96,89,7,2639.0
+4:01.0, ,96-89,P. Mills enters the game for J. Harris,,4,96,89,7,2639.0
+3:44.0, ,96-89,J. Harden misses 2-pt layup from 2 ft (block by J. Butler),,4,96,89,7,2656.0
+3:41.0,Defensive rebound by D. Robinson,96-89, ,,4,96,89,7,2659.0
+3:27.0,J. Butler misses 2-pt layup at rim,96-89, ,,4,96,89,7,2673.0
+3:27.0,Offensive rebound by B. Adebayo,96-89, ,,4,96,89,7,2673.0
+3:23.0,B. Adebayo makes 2-pt dunk at rim,98-89, ,,4,98,89,9,2677.0
+3:15.0, ,98-89,J. Harden misses 3-pt jump shot from 28 ft,,4,98,89,9,2685.0
+3:12.0,Defensive rebound by J. Butler,98-89, ,,4,98,89,9,2688.0
+3:05.0,Turnover by K. Lowry (bad pass; steal by B. Brown),98-89, ,,4,98,89,9,2695.0
+3:00.0, ,98-89,Turnover by K. Durant (step out of bounds),,4,98,89,9,2700.0
+2:44.0,B. Adebayo misses 2-pt layup from 2 ft (block by K. Durant),98-89, ,,4,98,89,9,2716.0
+2:41.0, ,98-89,Defensive rebound by P. Millsap,,4,98,89,9,2719.0
+2:31.0, ,98-89,K. Durant misses 2-pt jump shot from 13 ft,,4,98,89,9,2729.0
+2:29.0,Defensive rebound by K. Lowry,98-89, ,,4,98,89,9,2731.0
+2:20.0,Shooting foul by P. Millsap (drawn by K. Lowry),98-89, ,,4,98,89,9,2740.0
+2:20.0,K. Lowry makes free throw 1 of 2,99-89, ,,4,99,89,10,2740.0
+2:20.0, ,99-89,J. Harris enters the game for P. Millsap,,4,99,89,10,2740.0
+2:20.0,K. Lowry makes free throw 2 of 2,100-89, ,,4,100,89,11,2740.0
+2:08.0, ,100-89,P. Mills misses 2-pt jump shot from 19 ft,,4,100,89,11,2752.0
+2:05.0,Defensive rebound by J. Butler,100-89, ,,4,100,89,11,2755.0
+2:00.0,Personal foul by J. Harris (drawn by J. Butler),100-89, ,,4,100,89,11,2760.0
+2:00.0,J. Butler misses free throw 1 of 2,100-89, ,,4,100,89,11,2760.0
+2:00.0,Offensive rebound by Team,100-89, ,,4,100,89,11,2760.0
+2:00.0,J. Butler makes free throw 2 of 2,101-89, ,,4,101,89,12,2760.0
+1:51.0, ,101-89,P. Mills misses 3-pt jump shot from 25 ft,,4,101,89,12,2769.0
+1:46.0,Defensive rebound by K. Lowry,101-89, ,,4,101,89,12,2774.0
+1:34.0,P. Tucker makes 3-pt jump shot from 22 ft (assist by J. Butler),104-89, ,,4,104,89,15,2786.0
+1:34.0, ,104-89,Brooklyn full timeout,,4,104,89,15,2786.0
+1:34.0, ,104-89,D. Bembry enters the game for K. Durant,,4,104,89,15,2786.0
+1:34.0, ,104-89,J. Carter enters the game for J. Harden,,4,104,89,15,2786.0
+1:34.0, ,104-89,D. Sharpe enters the game for J. Harris,,4,104,89,15,2786.0
+1:34.0, ,104-89,C. Thomas enters the game for P. Mills,,4,104,89,15,2786.0
+1:14.0, ,104-91,B. Brown makes 2-pt jump shot from 14 ft,,4,104,91,13,2806.0
+0:51.0,K. Lowry misses 2-pt layup from 1 ft (block by D. Bembry),104-91, ,,4,104,91,13,2829.0
+0:51.0,Offensive rebound by Team,104-91, ,,4,104,91,13,2829.0
+0:51.0,C. Martin enters the game for B. Adebayo,104-91, ,,4,104,91,13,2829.0
+0:51.0,K. Okpala enters the game for J. Butler,104-91, ,,4,104,91,13,2829.0
+0:51.0,M. Strus enters the game for K. Lowry,104-91, ,,4,104,91,13,2829.0
+0:51.0,G. Vincent enters the game for D. Robinson,104-91, ,,4,104,91,13,2829.0
+0:51.0,O. Yurtseven enters the game for P. Tucker,104-91, ,,4,104,91,13,2829.0
+0:50.0,Turnover by Team (shot clock),104-91, ,,4,104,91,13,2830.0
+0:35.0, ,104-93,B. Brown makes 2-pt hook shot from 11 ft,,4,104,93,11,2845.0
+0:20.0,C. Martin makes 2-pt layup from 4 ft,106-93, ,,4,106,93,13,2860.0
+0:00.0,End of 4th quarter,106-93,,,4,106,93,13,2880.0

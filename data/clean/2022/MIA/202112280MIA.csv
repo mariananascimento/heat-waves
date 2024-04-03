@@ -1,0 +1,433 @@
+Time,Washington,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Gafford vs. O. Yurtseven (D. Robinson gains possession),0-0,,,1,0,0,0,0.0
+11:45.0, ,0-0,D. Robinson misses 3-pt jump shot from 26 ft,,1,0,0,0,15.0
+11:43.0,Defensive rebound by K. Kuzma,0-0, ,,1,0,0,0,17.0
+11:22.0,K. Kuzma makes 2-pt dunk from 1 ft (assist by C. Kispert),2-0, ,,1,0,2,-2,38.0
+11:06.0, ,2-3,D. Robinson makes 3-pt jump shot from 26 ft (assist by O. Yurtseven),Lead change,1,3,2,1,54.0
+10:53.0,Turnover by D. Avdija (lost ball; steal by G. Vincent),2-3, ,,1,3,2,1,67.0
+10:45.0, ,2-3,D. Robinson misses 3-pt jump shot from 26 ft,,1,3,2,1,75.0
+10:41.0,Defensive rebound by K. Kuzma,2-3, ,,1,3,2,1,79.0
+10:35.0,Shooting foul by O. Yurtseven (drawn by D. Avdija),2-3, ,,1,3,2,1,85.0
+10:35.0,D. Avdija misses free throw 1 of 2,2-3, ,,1,3,2,1,85.0
+10:35.0,Offensive rebound by Team,2-3, ,,1,3,2,1,85.0
+10:35.0,D. Avdija makes free throw 2 of 2,3-3, ,Tie,1,3,3,0,85.0
+10:18.0, ,3-3,C. Martin misses 3-pt jump shot from 26 ft,,1,3,3,0,102.0
+10:14.0,Defensive rebound by S. Dinwiddie,3-3, ,,1,3,3,0,106.0
+10:11.0,K. Kuzma makes 2-pt layup from 1 ft,5-3, ,Lead change,1,3,5,-2,109.0
+10:11.0,Shooting foul by D. Robinson (drawn by K. Kuzma),5-3, ,,1,3,5,-2,109.0
+10:11.0,K. Kuzma makes free throw 1 of 1,6-3, ,,1,3,6,-3,109.0
+9:54.0, ,6-3,D. Robinson misses 3-pt jump shot from 23 ft,,1,3,6,-3,126.0
+9:51.0,Defensive rebound by S. Dinwiddie,6-3, ,,1,3,6,-3,129.0
+9:49.0,Offensive foul by D. Avdija (drawn by C. Martin),6-3, ,,1,3,6,-3,131.0
+9:49.0,Turnover by D. Avdija (offensive foul),6-3, ,,1,3,6,-3,131.0
+9:34.0, ,6-6,G. Vincent makes 3-pt jump shot from 27 ft (assist by J. Butler),Tie,1,6,6,0,146.0
+9:13.0,C. Kispert misses 2-pt jump shot from 19 ft,6-6, ,,1,6,6,0,167.0
+9:11.0, ,6-6,Defensive rebound by J. Butler,,1,6,6,0,169.0
+9:05.0, ,6-6,J. Butler misses 2-pt jump shot from 7 ft,,1,6,6,0,175.0
+9:05.0,Defensive rebound by C. Kispert,6-6, ,,1,6,6,0,175.0
+8:50.0,K. Kuzma misses 2-pt jump shot from 9 ft,6-6, ,,1,6,6,0,190.0
+8:48.0, ,6-6,Defensive rebound by O. Yurtseven,,1,6,6,0,192.0
+8:38.0, ,6-8,O. Yurtseven makes 2-pt dunk from 1 ft (assist by D. Robinson),Lead change,1,8,6,2,202.0
+8:21.0,K. Kuzma makes 3-pt jump shot from 25 ft (assist by D. Gafford),9-8, ,Lead change,1,8,9,-1,219.0
+8:10.0, ,9-8,Shooting foul by D. Gafford (drawn by J. Butler),,1,8,9,-1,230.0
+8:10.0, ,9-9,J. Butler makes free throw 1 of 2,Tie,1,9,9,0,230.0
+8:10.0, ,9-10,J. Butler makes free throw 2 of 2,Lead change,1,10,9,1,230.0
+7:58.0,C. Kispert makes 3-pt jump shot from 28 ft (assist by S. Dinwiddie),12-10, ,Lead change,1,10,12,-2,242.0
+7:36.0, ,12-13,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),Lead change,1,13,12,1,264.0
+7:18.0,C. Kispert misses 3-pt jump shot from 24 ft,12-13, ,,1,13,12,1,282.0
+7:15.0, ,12-13,Defensive rebound by J. Butler,,1,13,12,1,285.0
+6:56.0, ,12-13,C. Martin misses 2-pt layup from 4 ft,,1,13,12,1,304.0
+6:53.0,Defensive rebound by D. Avdija,12-13, ,,1,13,12,1,307.0
+6:48.0,K. Kuzma misses 2-pt jump shot from 9 ft,12-13, ,,1,13,12,1,312.0
+6:45.0, ,12-13,Defensive rebound by O. Yurtseven,,1,13,12,1,315.0
+6:38.0, ,12-13,Miami full timeout,,1,13,12,1,322.0
+6:27.0, ,12-15,C. Martin makes 2-pt layup from 2 ft,,1,15,12,3,333.0
+6:13.0,Turnover by D. Avdija (bad pass; steal by O. Yurtseven),12-15, ,,1,15,12,3,347.0
+6:03.0, ,12-15,G. Vincent misses 3-pt jump shot from 25 ft,,1,15,12,3,357.0
+6:00.0, ,12-15,Offensive rebound by O. Yurtseven,,1,15,12,3,360.0
+5:58.0, ,12-15,O. Yurtseven misses 2-pt dunk from 1 ft (block by C. Kispert),,1,15,12,3,362.0
+5:54.0,Defensive rebound by D. Gafford,12-15, ,,1,15,12,3,366.0
+5:42.0,D. Gafford makes 2-pt jump shot from 5 ft (assist by S. Dinwiddie),14-15, ,,1,15,14,1,378.0
+5:35.0, ,14-15,Personal foul by C. Kispert (drawn by G. Vincent),,1,15,14,1,385.0
+5:35.0,D. Bertāns enters the game for K. Kuzma,14-15, ,,1,15,14,1,385.0
+5:35.0, ,14-15,T. Herro enters the game for G. Vincent,,1,15,14,1,385.0
+5:30.0, ,14-15,J. Butler misses 2-pt layup from 2 ft,,1,15,14,1,390.0
+5:28.0,Defensive rebound by D. Avdija,14-15, ,,1,15,14,1,392.0
+5:19.0,C. Kispert makes 2-pt jump shot from 15 ft,16-15, ,Lead change,1,15,16,-1,401.0
+5:04.0, ,16-17,J. Butler makes 2-pt layup from 2 ft (assist by C. Martin),Lead change,1,17,16,1,416.0
+4:54.0,D. Bertāns makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie),19-17, ,Lead change,1,17,19,-2,426.0
+4:44.0, ,19-20,T. Herro makes 3-pt jump shot from 24 ft (assist by J. Butler),Lead change,1,20,19,1,436.0
+4:27.0,D. Gafford makes 2-pt dunk from 1 ft (assist by S. Dinwiddie),21-20, ,Lead change,1,20,21,-1,453.0
+4:15.0, ,21-22,J. Butler makes 2-pt layup from 1 ft,Lead change,1,22,21,1,465.0
+4:15.0, ,21-22,Shooting foul by D. Avdija (drawn by J. Butler),,1,22,21,1,465.0
+4:15.0,I. Todd enters the game for D. Gafford,21-22, ,,1,22,21,1,465.0
+4:15.0, ,21-22,K. Okpala enters the game for O. Yurtseven,,1,22,21,1,465.0
+4:15.0, ,21-23,J. Butler makes free throw 1 of 1,,1,23,21,2,465.0
+3:54.0,C. Kispert misses 3-pt jump shot from 24 ft,21-23, ,,1,23,21,2,486.0
+3:50.0, ,21-23,Defensive rebound by T. Herro,,1,23,21,2,490.0
+3:41.0, ,21-25,J. Butler makes 2-pt layup from 6 ft,,1,25,21,4,499.0
+3:41.0, ,21-25,Shooting foul by D. Bertāns (drawn by J. Butler),,1,25,21,4,499.0
+3:41.0,K. Kuzma enters the game for D. Avdija,21-25, ,,1,25,21,4,499.0
+3:41.0, ,21-25,M. Garrett enters the game for C. Martin,,1,25,21,4,499.0
+3:41.0, ,21-26,J. Butler makes free throw 1 of 1,,1,26,21,5,499.0
+3:30.0,S. Dinwiddie misses 3-pt jump shot from 27 ft,21-26, ,,1,26,21,5,510.0
+3:27.0, ,21-26,Defensive rebound by T. Herro,,1,26,21,5,513.0
+3:19.0, ,21-26,J. Butler misses 2-pt jump shot from 12 ft,,1,26,21,5,521.0
+3:14.0,Defensive rebound by K. Kuzma,21-26, ,,1,26,21,5,526.0
+3:05.0,I. Todd misses 3-pt jump shot from 24 ft,21-26, ,,1,26,21,5,535.0
+3:02.0, ,21-26,Defensive rebound by M. Garrett,,1,26,21,5,538.0
+2:57.0, ,21-26,T. Herro misses 2-pt jump shot from 19 ft,,1,26,21,5,543.0
+2:54.0, ,21-26,Offensive rebound by J. Butler,,1,26,21,5,546.0
+2:53.0, ,21-28,J. Butler makes 2-pt layup from 2 ft,,1,28,21,7,547.0
+2:52.0,Washington full timeout,21-28, ,,1,28,21,7,548.0
+2:52.0,J. Goodwin enters the game for S. Dinwiddie,21-28, ,,1,28,21,7,548.0
+2:32.0,D. Bertāns makes 3-pt jump shot from 30 ft (assist by I. Todd),24-28, ,,1,28,24,4,568.0
+2:08.0, ,24-31,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,31,24,7,592.0
+1:44.0,Offensive foul by K. Kuzma (drawn by D. Robinson),24-31, ,,1,31,24,7,616.0
+1:44.0,Turnover by K. Kuzma (offensive foul),24-31, ,,1,31,24,7,616.0
+1:32.0, ,24-33,K. Okpala makes 2-pt layup from 3 ft (assist by T. Herro),,1,33,24,9,628.0
+1:32.0, ,24-33,Shooting foul by D. Bertāns (drawn by K. Okpala),,1,33,24,9,628.0
+1:32.0, ,24-33,K. Okpala misses free throw 1 of 1,,1,33,24,9,628.0
+1:29.0,Defensive rebound by I. Todd,24-33, ,,1,33,24,9,631.0
+1:22.0,D. Bertāns misses 3-pt jump shot from 28 ft,24-33, ,,1,33,24,9,638.0
+1:19.0,Offensive rebound by Team,24-33, ,,1,33,24,9,641.0
+1:10.0,J. Goodwin misses 2-pt jump shot from 21 ft,24-33, ,,1,33,24,9,650.0
+1:08.0, ,24-33,Defensive rebound by J. Butler,,1,33,24,9,652.0
+0:53.0, ,24-33,M. Garrett misses 2-pt layup from 1 ft,,1,33,24,9,667.0
+0:50.0, ,24-33,Offensive rebound by M. Garrett,,1,33,24,9,670.0
+0:38.0, ,24-33,J. Butler misses 2-pt jump shot from 19 ft,,1,33,24,9,682.0
+0:37.0, ,24-33,Offensive rebound by Team,,1,33,24,9,683.0
+0:37.0, ,24-33,C. Martin enters the game for J. Butler,,1,33,24,9,683.0
+0:37.0, ,24-33,G. Vincent enters the game for D. Robinson,,1,33,24,9,683.0
+0:36.0, ,24-35,T. Herro makes 2-pt jump shot from 19 ft (assist by G. Vincent),,1,35,24,11,684.0
+0:16.0,J. Goodwin misses 2-pt layup from 2 ft,24-35, ,,1,35,24,11,704.0
+0:14.0, ,24-35,Defensive rebound by M. Garrett,,1,35,24,11,706.0
+0:02.0, ,24-38,T. Herro makes 3-pt jump shot from 26 ft,,1,38,24,14,718.0
+0:00.0,End of 1st quarter,24-38,,,1,38,24,14,720.0
+12:00.0,Start of 2nd quarter,24-38,,,2,38,24,14,720.0
+11:51.0,Shooting foul by M. Garrett (drawn by S. Dinwiddie),24-38, ,,2,38,24,14,729.0
+11:51.0,S. Dinwiddie makes free throw 1 of 2,25-38, ,,2,38,25,13,729.0
+11:51.0,S. Dinwiddie makes free throw 2 of 2,26-38, ,,2,38,26,12,729.0
+11:36.0, ,26-38,M. Garrett misses 2-pt layup from 2 ft,,2,38,26,12,744.0
+11:32.0, ,26-38,Offensive rebound by M. Garrett,,2,38,26,12,748.0
+11:32.0, ,26-38,M. Garrett misses 2-pt layup at rim,,2,38,26,12,748.0
+11:31.0,Defensive rebound by I. Todd,26-38, ,,2,38,26,12,749.0
+11:12.0,S. Dinwiddie misses 3-pt jump shot from 32 ft,26-38, ,,2,38,26,12,768.0
+11:08.0, ,26-38,Defensive rebound by C. Martin,,2,38,26,12,772.0
+11:06.0, ,26-38,Personal foul by D. Bertāns (drawn by T. Herro),,2,38,26,12,774.0
+11:06.0,A. Johnson enters the game for D. Bertāns,26-38, ,,2,38,26,12,774.0
+10:56.0, ,26-38,T. Herro misses 2-pt layup from 3 ft,,2,38,26,12,784.0
+10:54.0,Defensive rebound by I. Todd,26-38, ,,2,38,26,12,786.0
+10:43.0,K. Kuzma misses 3-pt jump shot from 22 ft,26-38, ,,2,38,26,12,797.0
+10:40.0, ,26-38,Defensive rebound by T. Herro,,2,38,26,12,800.0
+10:31.0, ,26-40,C. Martin makes 2-pt dunk at rim (assist by T. Herro),,2,40,26,14,809.0
+10:09.0,S. Dinwiddie makes 2-pt layup from 1 ft,28-40, ,,2,40,28,12,831.0
+10:09.0,Shooting foul by M. Garrett (drawn by S. Dinwiddie),28-40, ,,2,40,28,12,831.0
+10:09.0,D. Gafford enters the game for I. Todd,28-40, ,,2,40,28,12,831.0
+10:09.0,S. Dinwiddie makes free throw 1 of 1,29-40, ,,2,40,29,11,831.0
+9:58.0, ,29-42,T. Herro makes 2-pt jump shot from 4 ft,,2,42,29,13,842.0
+9:49.0,A. Johnson misses 3-pt jump shot from 23 ft,29-42, ,,2,42,29,13,851.0
+9:48.0, ,29-42,Defensive rebound by Team,,2,42,29,13,852.0
+9:26.0, ,29-44,C. Martin makes 2-pt layup from 2 ft (assist by K. Okpala),,2,44,29,15,874.0
+9:11.0,K. Kuzma misses 2-pt jump shot from 6 ft,29-44, ,,2,44,29,15,889.0
+9:09.0,Offensive rebound by D. Gafford,29-44, ,,2,44,29,15,891.0
+9:08.0,D. Gafford makes 2-pt layup from 1 ft,31-44, ,,2,44,31,13,892.0
+8:56.0, ,31-47,G. Vincent makes 3-pt jump shot from 27 ft,,2,47,31,16,904.0
+8:55.0,Washington full timeout,31-47, ,,2,47,31,16,905.0
+8:55.0,C. Kispert enters the game for D. Avdija,31-47, ,,2,47,31,16,905.0
+8:55.0, ,31-47,O. Yurtseven enters the game for K. Okpala,,2,47,31,16,905.0
+8:40.0,C. Kispert misses 2-pt layup from 5 ft (block by M. Garrett),31-47, ,,2,47,31,16,920.0
+8:35.0,Offensive rebound by A. Johnson,31-47, ,,2,47,31,16,925.0
+8:35.0,Turnover by A. Johnson (step out of bounds),31-47, ,,2,47,31,16,925.0
+8:18.0, ,31-47,T. Herro misses 2-pt jump shot from 12 ft,,2,47,31,16,942.0
+8:14.0,Defensive rebound by D. Gafford,31-47, ,,2,47,31,16,946.0
+8:08.0,K. Kuzma makes 2-pt layup from 6 ft,33-47, ,,2,47,33,14,952.0
+7:52.0, ,33-47,O. Yurtseven misses 2-pt jump shot from 10 ft,,2,47,33,14,968.0
+7:49.0,Defensive rebound by A. Johnson,33-47, ,,2,47,33,14,971.0
+7:37.0,S. Dinwiddie misses 3-pt jump shot from 26 ft,33-47, ,,2,47,33,14,983.0
+7:33.0,Offensive rebound by S. Dinwiddie,33-47, ,,2,47,33,14,987.0
+7:26.0,Turnover by D. Gafford (lost ball; steal by M. Garrett),33-47, ,,2,47,33,14,994.0
+7:22.0, ,33-49,M. Garrett makes 2-pt layup from 2 ft (assist by C. Martin),,2,49,33,16,998.0
+7:22.0, ,33-49,Shooting foul by C. Kispert (drawn by M. Garrett),,2,49,33,16,998.0
+7:22.0, ,33-50,M. Garrett makes free throw 1 of 1,,2,50,33,17,998.0
+7:11.0,C. Kispert makes 3-pt jump shot from 27 ft (assist by S. Dinwiddie),36-50, ,,2,50,36,14,1009.0
+6:54.0, ,36-52,T. Herro makes 2-pt layup from 8 ft,,2,52,36,16,1026.0
+6:44.0,D. Gafford makes 2-pt dunk from 1 ft (assist by S. Dinwiddie),38-52, ,,2,52,38,14,1036.0
+6:43.0, ,38-52,Miami full timeout,,2,52,38,14,1037.0
+6:43.0,D. Bertāns enters the game for A. Johnson,38-52, ,,2,52,38,14,1037.0
+6:43.0,C. Sword enters the game for K. Kuzma,38-52, ,,2,52,38,14,1037.0
+6:43.0, ,38-52,J. Butler enters the game for M. Garrett,,2,52,38,14,1037.0
+6:43.0, ,38-52,D. Robinson enters the game for C. Martin,,2,52,38,14,1037.0
+6:28.0, ,38-52,G. Vincent misses 2-pt jump shot from 18 ft,,2,52,38,14,1052.0
+6:24.0,Defensive rebound by S. Dinwiddie,38-52, ,,2,52,38,14,1056.0
+6:20.0,Turnover by D. Bertāns (bad pass; steal by O. Yurtseven),38-52, ,,2,52,38,14,1060.0
+6:10.0, ,38-52,Shooting foul by C. Sword (drawn by T. Herro),,2,52,38,14,1070.0
+6:10.0, ,38-53,T. Herro makes free throw 1 of 2,,2,53,38,15,1070.0
+6:10.0, ,38-53,M. Garrett enters the game for G. Vincent,,2,53,38,15,1070.0
+6:10.0, ,38-54,T. Herro makes free throw 2 of 2,,2,54,38,16,1070.0
+5:48.0,D. Bertāns misses 3-pt jump shot from 26 ft,38-54, ,,2,54,38,16,1092.0
+5:46.0, ,38-54,Defensive rebound by Team,,2,54,38,16,1094.0
+5:39.0, ,38-54,Shooting foul by C. Sword (drawn by T. Herro),,2,54,38,16,1101.0
+5:39.0, ,38-55,T. Herro makes free throw 1 of 2,,2,55,38,17,1101.0
+5:39.0, ,38-55,T. Herro misses free throw 2 of 2,,2,55,38,17,1101.0
+5:35.0,Defensive rebound by D. Gafford,38-55, ,,2,55,38,17,1105.0
+5:22.0,C. Kispert misses 3-pt jump shot from 25 ft (block by J. Butler),38-55, ,,2,55,38,17,1118.0
+5:16.0,Offensive rebound by D. Gafford,38-55, ,,2,55,38,17,1124.0
+5:14.0,C. Kispert misses 2-pt layup from 3 ft,38-55, ,,2,55,38,17,1126.0
+5:14.0, ,38-55,Defensive rebound by O. Yurtseven,,2,55,38,17,1126.0
+5:12.0, ,38-55,Turnover by J. Butler (bad pass),,2,55,38,17,1128.0
+4:57.0,S. Dinwiddie misses 2-pt jump shot from 9 ft,38-55, ,,2,55,38,17,1143.0
+4:55.0,Offensive rebound by S. Dinwiddie,38-55, ,,2,55,38,17,1145.0
+4:53.0,S. Dinwiddie makes 3-pt jump shot from 23 ft,41-55, ,,2,55,41,14,1147.0
+4:40.0, ,41-55,Turnover by J. Butler (bad pass; steal by C. Sword),,2,55,41,14,1160.0
+4:37.0,Jump ball: C. Sword vs. T. Herro (D. Gafford gains possession),41-55,,,2,55,41,14,1163.0
+4:31.0,D. Bertāns misses 3-pt jump shot from 27 ft,41-55, ,,2,55,41,14,1169.0
+4:28.0, ,41-55,Defensive rebound by T. Herro,,2,55,41,14,1172.0
+4:17.0, ,41-55,Turnover by T. Herro (lost ball; steal by C. Sword),,2,55,41,14,1183.0
+4:14.0,C. Sword makes 2-pt layup from 2 ft (assist by D. Bertāns),43-55, ,,2,55,43,12,1186.0
+4:01.0, ,43-58,T. Herro makes 3-pt jump shot from 24 ft (assist by J. Butler),,2,58,43,15,1199.0
+3:49.0,Turnover by S. Dinwiddie (bad pass),43-58, ,,2,58,43,15,1211.0
+3:40.0, ,43-58,Personal foul by C. Sword (drawn by J. Butler),,2,58,43,15,1220.0
+3:40.0, ,43-59,J. Butler makes free throw 1 of 2,,2,59,43,16,1220.0
+3:40.0,K. Kuzma enters the game for D. Bertāns,43-59, ,,2,59,43,16,1220.0
+3:40.0, ,43-59,G. Vincent enters the game for M. Garrett,,2,59,43,16,1220.0
+3:40.0, ,43-60,J. Butler makes free throw 2 of 2,,2,60,43,17,1220.0
+3:19.0,D. Gafford makes 2-pt layup from 2 ft (assist by K. Kuzma),45-60, ,,2,60,45,15,1241.0
+3:12.0, ,45-60,G. Vincent misses 3-pt jump shot from 23 ft,,2,60,45,15,1248.0
+3:08.0, ,45-60,Offensive rebound by J. Butler,,2,60,45,15,1252.0
+3:00.0, ,45-60,J. Butler misses 2-pt jump shot from 13 ft,,2,60,45,15,1260.0
+2:56.0, ,45-60,Offensive rebound by O. Yurtseven,,2,60,45,15,1264.0
+2:54.0, ,45-60,O. Yurtseven misses 2-pt hook shot from 6 ft,,2,60,45,15,1266.0
+2:52.0,Defensive rebound by D. Gafford,45-60, ,,2,60,45,15,1268.0
+2:50.0,C. Sword makes 2-pt layup from 2 ft (assist by C. Kispert),47-60, ,,2,60,47,13,1270.0
+2:33.0, ,47-60,Turnover by J. Butler (bad pass; steal by C. Sword),,2,60,47,13,1287.0
+2:17.0,K. Kuzma misses 2-pt jump shot from 13 ft,47-60, ,,2,60,47,13,1303.0
+2:14.0, ,47-60,Defensive rebound by G. Vincent,,2,60,47,13,1306.0
+2:02.0, ,47-60,Shooting foul by C. Sword (drawn by T. Herro),,2,60,47,13,1318.0
+2:02.0, ,47-61,T. Herro makes free throw 1 of 2,,2,61,47,14,1318.0
+2:02.0,D. Avdija enters the game for C. Sword,47-61, ,,2,61,47,14,1318.0
+2:02.0, ,47-62,T. Herro makes free throw 2 of 2,,2,62,47,15,1318.0
+1:48.0,Turnover by S. Dinwiddie (bad pass; steal by O. Yurtseven),47-62, ,,2,62,47,15,1332.0
+1:37.0, ,47-62,Turnover by T. Herro (bad pass; steal by D. Gafford),,2,62,47,15,1343.0
+1:32.0,Shooting foul by T. Herro (drawn by K. Kuzma),47-62, ,,2,62,47,15,1348.0
+1:32.0,K. Kuzma makes free throw 1 of 2,48-62, ,,2,62,48,14,1348.0
+1:32.0,K. Kuzma makes free throw 2 of 2,49-62, ,,2,62,49,13,1348.0
+1:10.0, ,49-62,G. Vincent misses 3-pt jump shot from 27 ft,,2,62,49,13,1370.0
+1:06.0,Defensive rebound by D. Avdija,49-62, ,,2,62,49,13,1374.0
+1:01.0,K. Kuzma makes 2-pt hook shot from 8 ft,51-62, ,,2,62,51,11,1379.0
+0:47.0, ,51-62,D. Robinson misses 3-pt jump shot from 26 ft,,2,62,51,11,1393.0
+0:47.0, ,51-62,Offensive rebound by G. Vincent,,2,62,51,11,1393.0
+0:42.0, ,51-62,Turnover by J. Butler (bad pass),,2,62,51,11,1398.0
+0:29.0,Turnover by K. Kuzma (bad pass; steal by D. Robinson),51-62, ,,2,62,51,11,1411.0
+0:25.0, ,51-65,D. Robinson makes 3-pt jump shot from 27 ft (assist by J. Butler),,2,65,51,14,1415.0
+0:00.0,End of 2nd quarter,51-65,,,2,65,51,14,1440.0
+12:00.0,Start of 3rd quarter,51-65,,,3,65,51,14,1440.0
+11:47.0,Turnover by C. Kispert (bad pass; steal by C. Martin),51-65, ,,3,65,51,14,1453.0
+11:30.0, ,51-65,J. Butler misses 2-pt jump shot from 10 ft,,3,65,51,14,1470.0
+11:27.0,Defensive rebound by C. Kispert,51-65, ,,3,65,51,14,1473.0
+11:19.0,S. Dinwiddie makes 2-pt jump shot from 13 ft,53-65, ,,3,65,53,12,1481.0
+10:55.0, ,53-68,D. Robinson makes 3-pt jump shot from 23 ft (assist by J. Butler),,3,68,53,15,1505.0
+10:42.0,Personal foul by D. Robinson (drawn by D. Avdija),53-68, ,,3,68,53,15,1518.0
+10:31.0,S. Dinwiddie makes 2-pt layup from 2 ft,55-68, ,,3,68,55,13,1529.0
+10:21.0, ,55-68,G. Vincent misses 3-pt jump shot from 27 ft,,3,68,55,13,1539.0
+10:16.0,Defensive rebound by K. Kuzma,55-68, ,,3,68,55,13,1544.0
+10:09.0,K. Kuzma misses 2-pt jump shot from 12 ft,55-68, ,,3,68,55,13,1551.0
+10:06.0,Offensive rebound by S. Dinwiddie,55-68, ,,3,68,55,13,1554.0
+10:03.0,S. Dinwiddie misses 3-pt jump shot from 29 ft,55-68, ,,3,68,55,13,1557.0
+10:01.0, ,55-68,Defensive rebound by O. Yurtseven,,3,68,55,13,1559.0
+9:51.0, ,55-70,D. Robinson makes 2-pt jump shot from 5 ft (assist by J. Butler),,3,70,55,15,1569.0
+9:31.0,K. Kuzma misses 3-pt jump shot from 23 ft (block by J. Butler),55-70, ,,3,70,55,15,1589.0
+9:31.0,Offensive rebound by Team,55-70, ,,3,70,55,15,1589.0
+9:26.0,K. Kuzma misses 2-pt jump shot from 15 ft,55-70, ,,3,70,55,15,1594.0
+9:23.0,Offensive rebound by D. Gafford,55-70, ,,3,70,55,15,1597.0
+9:21.0,Turnover by D. Gafford (bad pass; steal by J. Butler),55-70, ,,3,70,55,15,1599.0
+9:17.0, ,55-70,G. Vincent misses 2-pt layup from 2 ft (block by D. Avdija),,3,70,55,15,1603.0
+9:16.0,Defensive rebound by Team,55-70, ,,3,70,55,15,1604.0
+9:00.0,K. Kuzma misses 2-pt layup from 5 ft,55-70, ,,3,70,55,15,1620.0
+8:58.0, ,55-70,Defensive rebound by O. Yurtseven,,3,70,55,15,1622.0
+8:53.0, ,55-70,D. Robinson misses 3-pt jump shot from 28 ft,,3,70,55,15,1627.0
+8:49.0, ,55-70,Offensive rebound by O. Yurtseven,,3,70,55,15,1631.0
+8:40.0, ,55-70,Personal foul by S. Dinwiddie (drawn by C. Martin),,3,70,55,15,1640.0
+8:34.0, ,55-73,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),,3,73,55,18,1646.0
+8:13.0,D. Avdija misses 3-pt jump shot from 23 ft,55-73, ,,3,73,55,18,1667.0
+8:10.0, ,55-73,Defensive rebound by O. Yurtseven,,3,73,55,18,1670.0
+7:54.0, ,55-76,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),,3,76,55,21,1686.0
+7:53.0,Washington full timeout,55-76, ,,3,76,55,21,1687.0
+7:33.0,C. Kispert misses 2-pt jump shot from 5 ft,55-76, ,,3,76,55,21,1707.0
+7:30.0, ,55-76,Defensive rebound by G. Vincent,,3,76,55,21,1710.0
+7:15.0, ,55-78,O. Yurtseven makes 2-pt jump shot from 11 ft (assist by J. Butler),,3,78,55,23,1725.0
+7:01.0,Turnover by D. Gafford (bad pass; steal by J. Butler),55-78, ,,3,78,55,23,1739.0
+6:59.0, ,55-80,J. Butler makes 2-pt dunk from 2 ft,,3,80,55,25,1741.0
+6:41.0,D. Avdija misses 2-pt jump shot from 16 ft,55-80, ,,3,80,55,25,1759.0
+6:38.0, ,55-80,Defensive rebound by J. Butler,,3,80,55,25,1762.0
+6:35.0, ,55-82,O. Yurtseven makes 2-pt dunk from 1 ft (assist by J. Butler),,3,82,55,27,1765.0
+6:14.0,S. Dinwiddie makes 2-pt jump shot from 12 ft,57-82, ,,3,82,57,25,1786.0
+6:13.0,Technical foul by S. Dinwiddie,57-82, ,,3,82,57,25,1787.0
+6:13.0, ,57-83,J. Butler makes technical free throw,,3,83,57,26,1787.0
+6:13.0,D. Bertāns enters the game for D. Avdija,57-83, ,,3,83,57,26,1787.0
+6:13.0,C. Sword enters the game for C. Kispert,57-83, ,,3,83,57,26,1787.0
+6:05.0,Violation by Team (kicked ball),57-83, ,,3,83,57,26,1795.0
+5:55.0, ,57-83,J. Butler misses 2-pt jump shot from 18 ft,,3,83,57,26,1805.0
+5:52.0,Defensive rebound by K. Kuzma,57-83, ,,3,83,57,26,1808.0
+5:45.0,Turnover by S. Dinwiddie (bad pass; steal by G. Vincent),57-83, ,,3,83,57,26,1815.0
+5:45.0, ,57-83,Personal take foul by S. Dinwiddie (drawn by G. Vincent),,3,83,57,26,1815.0
+5:45.0, ,57-83,T. Herro enters the game for G. Vincent,,3,83,57,26,1815.0
+5:30.0, ,57-85,C. Martin makes 2-pt layup from 4 ft (assist by T. Herro),,3,85,57,28,1830.0
+5:15.0,D. Bertāns makes 3-pt jump shot from 24 ft (assist by K. Kuzma),60-85, ,,3,85,60,25,1845.0
+4:48.0, ,60-85,C. Martin misses 3-pt jump shot from 27 ft,,3,85,60,25,1872.0
+4:44.0,Defensive rebound by K. Kuzma,60-85, ,,3,85,60,25,1876.0
+4:33.0,K. Kuzma misses 3-pt jump shot from 25 ft,60-85, ,,3,85,60,25,1887.0
+4:30.0, ,60-85,Defensive rebound by O. Yurtseven,,3,85,60,25,1890.0
+4:23.0, ,60-85,T. Herro misses 2-pt jump shot from 16 ft,,3,85,60,25,1897.0
+4:21.0, ,60-85,Offensive rebound by Team,,3,85,60,25,1899.0
+4:21.0,I. Todd enters the game for K. Kuzma,60-85, ,,3,85,60,25,1899.0
+4:21.0, ,60-85,M. Garrett enters the game for C. Martin,,3,85,60,25,1899.0
+4:10.0, ,60-85,D. Robinson misses 3-pt jump shot from 26 ft,,3,85,60,25,1910.0
+4:06.0,Defensive rebound by D. Bertāns,60-85, ,,3,85,60,25,1914.0
+3:57.0,D. Bertāns misses 3-pt jump shot from 27 ft,60-85, ,,3,85,60,25,1923.0
+3:54.0, ,60-85,Defensive rebound by T. Herro,,3,85,60,25,1926.0
+3:48.0, ,60-85,T. Herro misses 2-pt jump shot from 19 ft,,3,85,60,25,1932.0
+3:47.0,Defensive rebound by Team,60-85, ,,3,85,60,25,1933.0
+3:47.0, ,60-85,Loose ball foul by O. Yurtseven (drawn by D. Gafford),,3,85,60,25,1933.0
+3:32.0,C. Sword misses 3-pt jump shot from 23 ft,60-85, ,,3,85,60,25,1948.0
+3:27.0,Offensive rebound by D. Bertāns,60-85, ,,3,85,60,25,1953.0
+3:26.0,S. Dinwiddie makes 3-pt jump shot from 26 ft (assist by D. Bertāns),63-85, ,,3,85,63,22,1954.0
+3:02.0, ,63-85,Turnover by Team (shot clock),,3,85,63,22,1978.0
+3:02.0, ,63-85,K. Okpala enters the game for O. Yurtseven,,3,85,63,22,1978.0
+2:46.0,D. Bertāns makes 3-pt jump shot from 25 ft (assist by D. Gafford),66-85, ,,3,85,66,19,1994.0
+2:45.0, ,66-85,Miami full timeout,,3,85,66,19,1995.0
+2:27.0, ,66-87,T. Herro makes 2-pt jump shot from 16 ft,,3,87,66,21,2013.0
+2:10.0,I. Todd misses 3-pt jump shot from 23 ft,66-87, ,,3,87,66,21,2030.0
+2:06.0, ,66-87,Defensive rebound by D. Robinson,,3,87,66,21,2034.0
+1:48.0, ,66-87,T. Herro misses 3-pt jump shot from 27 ft,,3,87,66,21,2052.0
+1:44.0,Defensive rebound by D. Gafford,66-87, ,,3,87,66,21,2056.0
+1:39.0,C. Sword makes 2-pt layup from 2 ft (assist by S. Dinwiddie),68-87, ,,3,87,68,19,2061.0
+1:15.0, ,68-89,K. Okpala makes 2-pt layup from 2 ft (assist by J. Butler),,3,89,68,21,2085.0
+0:54.0,S. Dinwiddie makes 3-pt jump shot from 25 ft,71-89, ,,3,89,71,18,2106.0
+0:31.0, ,71-91,K. Okpala makes 2-pt layup from 2 ft (assist by J. Butler),,3,91,71,20,2129.0
+0:11.0,D. Bertāns makes 2-pt layup from 1 ft (assist by D. Gafford),73-91, ,,3,91,73,18,2149.0
+0:01.0, ,73-91,T. Herro misses 3-pt jump shot from 29 ft,,3,91,73,18,2159.0
+0:00.0,Defensive rebound by I. Todd,73-91, ,,3,91,73,18,2160.0
+0:00.0,End of 3rd quarter,73-91,,,3,91,73,18,2160.0
+12:00.0,Start of 4th quarter,73-91,,,4,91,73,18,2160.0
+11:48.0, ,73-94,T. Herro makes 3-pt jump shot from 24 ft (assist by M. Garrett),,4,94,73,21,2172.0
+11:34.0,D. Bertāns misses 3-pt jump shot from 25 ft,73-94, ,,4,94,73,21,2186.0
+11:31.0,Offensive rebound by A. Johnson,73-94, ,,4,94,73,21,2189.0
+11:31.0,A. Johnson misses 2-pt layup from 2 ft (block by K. Okpala),73-94, ,,4,94,73,21,2189.0
+11:31.0, ,73-94,Defensive rebound by T. Herro,,4,94,73,21,2189.0
+11:19.0, ,73-94,M. Garrett misses 2-pt layup from 2 ft (block by D. Avdija),,4,94,73,21,2201.0
+11:16.0,Defensive rebound by A. Johnson,73-94, ,,4,94,73,21,2204.0
+11:08.0,D. Avdija makes 3-pt jump shot from 27 ft (assist by C. Sword),76-94, ,,4,94,76,18,2212.0
+10:49.0, ,76-94,T. Herro misses 2-pt layup from 6 ft,,4,94,76,18,2231.0
+10:47.0,Defensive rebound by D. Avdija,76-94, ,,4,94,76,18,2233.0
+10:35.0,D. Bertāns makes 3-pt jump shot from 27 ft (assist by D. Avdija),79-94, ,,4,94,79,15,2245.0
+10:13.0, ,79-94,M. Garrett misses 3-pt jump shot from 28 ft,,4,94,79,15,2267.0
+10:10.0, ,79-94,Offensive rebound by C. Martin,,4,94,79,15,2270.0
+10:01.0, ,79-97,G. Vincent makes 3-pt jump shot from 29 ft (assist by C. Martin),,4,97,79,18,2279.0
+9:43.0,Turnover by C. Sword (lost ball; steal by M. Garrett),79-97, ,,4,97,79,18,2297.0
+9:23.0, ,79-100,T. Herro makes 3-pt jump shot from 26 ft,,4,100,79,21,2317.0
+9:00.0,D. Bertāns makes 2-pt jump shot from 20 ft (assist by D. Avdija),81-100, ,,4,100,81,19,2340.0
+8:44.0, ,81-100,Turnover by C. Martin (lost ball; steal by D. Avdija),,4,100,81,19,2356.0
+8:40.0,Turnover by A. Johnson (bad pass; steal by G. Vincent),81-100, ,,4,100,81,19,2360.0
+8:37.0, ,81-100,Shooting foul by C. Sword (drawn by T. Herro),,4,100,81,19,2363.0
+8:37.0, ,81-101,T. Herro makes free throw 1 of 2,,4,101,81,20,2363.0
+8:37.0,S. Dinwiddie enters the game for C. Sword,81-101, ,,4,101,81,20,2363.0
+8:37.0, ,81-102,T. Herro makes free throw 2 of 2,,4,102,81,21,2363.0
+8:17.0,S. Dinwiddie misses 2-pt jump shot from 15 ft,81-102, ,,4,102,81,21,2383.0
+8:15.0,Offensive rebound by A. Johnson,81-102, ,,4,102,81,21,2385.0
+8:12.0,Turnover by A. Johnson (lost ball; steal by M. Garrett),81-102, ,,4,102,81,21,2388.0
+8:02.0, ,81-102,C. Martin misses 3-pt jump shot from 26 ft,,4,102,81,21,2398.0
+7:58.0,Defensive rebound by C. Kispert,81-102, ,,4,102,81,21,2402.0
+7:54.0,A. Johnson misses 2-pt layup from 3 ft (block by C. Martin),81-102, ,,4,102,81,21,2406.0
+7:51.0,Offensive rebound by A. Johnson,81-102, ,,4,102,81,21,2409.0
+7:50.0,A. Johnson makes 2-pt layup from 1 ft,83-102, ,,4,102,83,19,2410.0
+7:32.0, ,83-102,K. Okpala misses 2-pt hook shot from 6 ft,,4,102,83,19,2428.0
+7:30.0,Defensive rebound by A. Johnson,83-102, ,,4,102,83,19,2430.0
+7:17.0,C. Kispert misses 3-pt jump shot from 26 ft,83-102, ,,4,102,83,19,2443.0
+7:14.0,Offensive rebound by A. Johnson,83-102, ,,4,102,83,19,2446.0
+7:14.0,A. Johnson makes 2-pt layup from 3 ft,85-102, ,,4,102,85,17,2446.0
+7:14.0,Shooting foul by K. Okpala (drawn by A. Johnson),85-102, ,,4,102,85,17,2446.0
+7:14.0, ,85-102,O. Yurtseven enters the game for K. Okpala,,4,102,85,17,2446.0
+7:14.0,A. Johnson misses free throw 1 of 1,85-102, ,,4,102,85,17,2446.0
+7:12.0, ,85-102,Defensive rebound by C. Martin,,4,102,85,17,2448.0
+6:54.0, ,85-102,Personal foul by S. Dinwiddie (drawn by G. Vincent),,4,102,85,17,2466.0
+6:54.0, ,85-102,Miami full timeout,,4,102,85,17,2466.0
+6:54.0,D. Gafford enters the game for D. Bertāns,85-102, ,,4,102,85,17,2466.0
+6:54.0,K. Kuzma enters the game for A. Johnson,85-102, ,,4,102,85,17,2466.0
+6:47.0, ,85-102,O. Yurtseven misses 2-pt jump shot from 8 ft,,4,102,85,17,2473.0
+6:43.0, ,85-102,Offensive rebound by M. Garrett,,4,102,85,17,2477.0
+6:43.0, ,85-102,M. Garrett misses 2-pt layup at rim,,4,102,85,17,2477.0
+6:41.0, ,85-102,Offensive rebound by O. Yurtseven,,4,102,85,17,2479.0
+6:41.0, ,85-104,O. Yurtseven makes 2-pt layup at rim,,4,104,85,19,2479.0
+6:27.0,Personal foul by G. Vincent (drawn by S. Dinwiddie),85-104, ,,4,104,85,19,2493.0
+6:16.0,C. Kispert misses 3-pt jump shot from 26 ft,85-104, ,,4,104,85,19,2504.0
+6:14.0,Offensive rebound by D. Gafford,85-104, ,,4,104,85,19,2506.0
+6:14.0,D. Gafford makes 2-pt layup at rim,87-104, ,,4,104,87,17,2506.0
+6:14.0,Shooting foul by O. Yurtseven (drawn by D. Gafford),87-104, ,,4,104,87,17,2506.0
+6:14.0,D. Gafford makes free throw 1 of 1,88-104, ,,4,104,88,16,2506.0
+6:03.0, ,88-104,O. Yurtseven misses 2-pt layup from 5 ft,,4,104,88,16,2517.0
+6:00.0,Defensive rebound by K. Kuzma,88-104, ,,4,104,88,16,2520.0
+5:57.0,S. Dinwiddie makes 3-pt jump shot from 29 ft,91-104, ,,4,104,91,13,2523.0
+5:55.0, ,91-104,Miami full timeout,,4,104,91,13,2525.0
+5:55.0, ,91-104,J. Butler enters the game for M. Garrett,,4,104,91,13,2525.0
+5:55.0, ,91-104,D. Robinson enters the game for C. Martin,,4,104,91,13,2525.0
+5:37.0, ,91-107,D. Robinson makes 3-pt jump shot from 28 ft (assist by J. Butler),,4,107,91,16,2543.0
+5:14.0,D. Avdija makes 3-pt jump shot from 27 ft (assist by K. Kuzma),94-107, ,,4,107,94,13,2566.0
+4:48.0, ,94-107,T. Herro misses 2-pt jump shot from 20 ft,,4,107,94,13,2592.0
+4:47.0, ,94-107,Offensive rebound by O. Yurtseven,,4,107,94,13,2593.0
+4:46.0, ,94-107,O. Yurtseven misses 2-pt layup from 3 ft,,4,107,94,13,2594.0
+4:45.0, ,94-107,Offensive rebound by O. Yurtseven,,4,107,94,13,2595.0
+4:43.0, ,94-107,O. Yurtseven misses 2-pt hook shot from 7 ft,,4,107,94,13,2597.0
+4:41.0,Defensive rebound by D. Avdija,94-107, ,,4,107,94,13,2599.0
+4:37.0,S. Dinwiddie misses 3-pt jump shot from 28 ft,94-107, ,,4,107,94,13,2603.0
+4:37.0, ,94-107,Defensive rebound by J. Butler,,4,107,94,13,2603.0
+4:26.0, ,94-107,J. Butler misses 2-pt layup from 6 ft,,4,107,94,13,2614.0
+4:25.0, ,94-107,Offensive rebound by O. Yurtseven,,4,107,94,13,2615.0
+4:23.0, ,94-107,O. Yurtseven misses 2-pt hook shot from 5 ft,,4,107,94,13,2617.0
+4:21.0,Defensive rebound by S. Dinwiddie,94-107, ,,4,107,94,13,2619.0
+4:18.0,Turnover by D. Avdija (lost ball; steal by G. Vincent),94-107, ,,4,107,94,13,2622.0
+4:11.0, ,94-107,T. Herro misses 2-pt jump shot from 19 ft,,4,107,94,13,2629.0
+4:09.0,Defensive rebound by D. Gafford,94-107, ,,4,107,94,13,2631.0
+4:09.0,Washington full timeout,94-107, ,,4,107,94,13,2631.0
+3:51.0,Shooting foul by O. Yurtseven (drawn by S. Dinwiddie),94-107, ,,4,107,94,13,2649.0
+3:51.0,S. Dinwiddie makes free throw 1 of 2,95-107, ,,4,107,95,12,2649.0
+3:51.0,S. Dinwiddie misses free throw 2 of 2,95-107, ,,4,107,95,12,2649.0
+3:48.0, ,95-107,Defensive rebound by G. Vincent,,4,107,95,12,2652.0
+3:28.0, ,95-109,J. Butler makes 2-pt jump shot from 12 ft,,4,109,95,14,2672.0
+3:27.0,Washington full timeout,95-109, ,,4,109,95,14,2673.0
+3:12.0,S. Dinwiddie misses 3-pt jump shot from 26 ft,95-109, ,,4,109,95,14,2688.0
+3:08.0, ,95-109,Defensive rebound by J. Butler,,4,109,95,14,2692.0
+2:50.0, ,95-109,D. Robinson misses 3-pt jump shot from 26 ft,,4,109,95,14,2710.0
+2:46.0,Defensive rebound by D. Gafford,95-109, ,,4,109,95,14,2714.0
+2:44.0,K. Kuzma makes 2-pt layup from 3 ft (assist by C. Kispert),97-109, ,,4,109,97,12,2716.0
+2:44.0,Shooting foul by J. Butler (drawn by K. Kuzma),97-109, ,,4,109,97,12,2716.0
+2:44.0,K. Kuzma makes free throw 1 of 1,98-109, ,,4,109,98,11,2716.0
+2:25.0, ,98-109,D. Robinson misses 3-pt jump shot from 23 ft,,4,109,98,11,2735.0
+2:23.0,Defensive rebound by Team,98-109, ,,4,109,98,11,2737.0
+2:12.0,C. Kispert makes 3-pt jump shot from 24 ft (assist by S. Dinwiddie),101-109, ,,4,109,101,8,2748.0
+1:54.0, ,101-111,J. Butler makes 2-pt jump shot from 16 ft,,4,111,101,10,2766.0
+1:40.0,K. Kuzma makes 2-pt layup from 3 ft (assist by D. Avdija),103-111, ,,4,111,103,8,2780.0
+1:20.0, ,103-113,J. Butler makes 2-pt jump shot from 17 ft,,4,113,103,10,2800.0
+1:16.0,D. Gafford makes 2-pt dunk from 2 ft (assist by S. Dinwiddie),105-113, ,,4,113,105,8,2804.0
+1:16.0,Shooting foul by D. Robinson (drawn by D. Gafford),105-113, ,,4,113,105,8,2804.0
+1:16.0,D. Gafford makes free throw 1 of 1,106-113, ,,4,113,106,7,2804.0
+1:03.0, ,106-113,Shooting foul by D. Gafford (drawn by J. Butler),,4,113,106,7,2817.0
+1:03.0,Washington full timeout,106-113, ,,4,113,106,7,2817.0
+1:03.0,Instant Replay (Challenge: Stands),106-113, ,,4,113,106,7,2817.0
+1:03.0, ,106-114,J. Butler makes free throw 1 of 2,,4,114,106,8,2817.0
+1:03.0, ,106-115,J. Butler makes free throw 2 of 2,,4,115,106,9,2817.0
+0:52.0,C. Kispert makes 3-pt jump shot from 27 ft (assist by S. Dinwiddie),109-115, ,,4,115,109,6,2828.0
+0:37.0, ,109-115,Shooting foul by K. Kuzma (drawn by O. Yurtseven),,4,115,109,6,2843.0
+0:37.0, ,109-116,O. Yurtseven makes free throw 1 of 2,,4,116,109,7,2843.0
+0:37.0, ,109-116,C. Martin enters the game for D. Robinson,,4,116,109,7,2843.0
+0:37.0, ,109-117,O. Yurtseven makes free throw 2 of 2,,4,117,109,8,2843.0
+0:28.0,K. Kuzma makes 3-pt jump shot from 25 ft (assist by S. Dinwiddie),112-117, ,,4,117,112,5,2852.0
+0:23.0, ,112-117,Personal take foul by C. Kispert (drawn by T. Herro),,4,117,112,5,2857.0
+0:23.0, ,112-118,T. Herro makes free throw 1 of 2,,4,118,112,6,2857.0
+0:23.0,D. Bertāns enters the game for D. Gafford,112-118, ,,4,118,112,6,2857.0
+0:23.0, ,112-118,M. Garrett enters the game for J. Butler,,4,118,112,6,2857.0
+0:23.0, ,112-118,K. Okpala enters the game for O. Yurtseven,,4,118,112,6,2857.0
+0:23.0, ,112-119,T. Herro makes free throw 2 of 2,,4,119,112,7,2857.0
+0:16.0,K. Kuzma misses 3-pt jump shot from 26 ft,112-119, ,,4,119,112,7,2864.0
+0:12.0, ,112-119,Defensive rebound by G. Vincent,,4,119,112,7,2868.0
+0:00.0,End of 4th quarter,112-119,,,4,119,112,7,2880.0

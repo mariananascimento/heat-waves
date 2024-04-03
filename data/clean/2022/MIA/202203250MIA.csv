@@ -1,0 +1,440 @@
+Time,New York,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Sims vs. B. Adebayo (K. Lowry gains possession),0-0,,,1,0,0,0,0.0
+11:42.0, ,0-2,B. Adebayo makes 2-pt layup from 2 ft (assist by K. Lowry),,1,2,0,2,18.0
+11:23.0,Turnover by R. Barrett (bad pass),0-2, ,,1,2,0,2,37.0
+11:12.0, ,0-4,J. Butler makes 2-pt jump shot from 7 ft (assist by K. Lowry),,1,4,0,4,48.0
+10:48.0,E. Fournier makes 3-pt jump shot from 25 ft (assist by R. Barrett),3-4, ,,1,4,3,1,72.0
+10:33.0, ,3-4,K. Lowry misses 3-pt jump shot from 26 ft,,1,4,3,1,87.0
+10:29.0,Defensive rebound by R. Barrett,3-4, ,,1,4,3,1,91.0
+10:20.0,J. Sims makes 2-pt layup from 6 ft (assist by R. Barrett),5-4, ,Lead change,1,4,5,-1,100.0
+9:59.0, ,5-6,P. Tucker makes 2-pt hook shot from 7 ft (assist by D. Robinson),Lead change,1,6,5,1,121.0
+9:38.0,E. Fournier misses 3-pt jump shot from 27 ft,5-6, ,,1,6,5,1,142.0
+9:34.0, ,5-6,Defensive rebound by P. Tucker,,1,6,5,1,146.0
+9:17.0, ,5-6,Def 3 sec tech foul by Team,,1,6,5,1,163.0
+9:17.0, ,5-7,J. Butler makes technical free throw,,1,7,5,2,163.0
+9:04.0, ,5-9,B. Adebayo makes 2-pt hook shot from 5 ft (assist by J. Butler),,1,9,5,4,176.0
+8:56.0,Turnover by A. Burks (bad pass; steal by D. Robinson),5-9, ,,1,9,5,4,184.0
+8:52.0, ,5-9,Shooting foul by O. Toppin (drawn by B. Adebayo),,1,9,5,4,188.0
+8:52.0, ,5-9,B. Adebayo misses free throw 1 of 2,,1,9,5,4,188.0
+8:52.0, ,5-9,Offensive rebound by Team,,1,9,5,4,188.0
+8:52.0, ,5-10,B. Adebayo makes free throw 2 of 2,,1,10,5,5,188.0
+8:35.0,A. Burks makes 3-pt jump shot from 27 ft (assist by R. Barrett),8-10, ,,1,10,8,2,205.0
+8:25.0, ,8-10,K. Lowry misses 3-pt jump shot from 26 ft,,1,10,8,2,215.0
+8:23.0,Defensive rebound by E. Fournier,8-10, ,,1,10,8,2,217.0
+8:19.0,R. Barrett makes 3-pt jump shot from 26 ft (assist by E. Fournier),11-10, ,Lead change,1,10,11,-1,221.0
+7:50.0, ,11-10,K. Lowry misses 3-pt jump shot from 26 ft,,1,10,11,-1,250.0
+7:45.0,Defensive rebound by A. Burks,11-10, ,,1,10,11,-1,255.0
+7:44.0,Turnover by A. Burks (bad pass; steal by K. Lowry),11-10, ,,1,10,11,-1,256.0
+7:38.0, ,11-10,Shooting foul by R. Barrett (drawn by J. Butler),,1,10,11,-1,262.0
+7:38.0, ,11-11,J. Butler makes free throw 1 of 2,Tie,1,11,11,0,262.0
+7:38.0, ,11-11,J. Butler misses free throw 2 of 2,,1,11,11,0,262.0
+7:34.0,Defensive rebound by O. Toppin,11-11, ,,1,11,11,0,266.0
+7:21.0,Personal foul by D. Robinson (drawn by E. Fournier),11-11, ,,1,11,11,0,279.0
+7:16.0,A. Burks misses 3-pt jump shot from 26 ft,11-11, ,,1,11,11,0,284.0
+7:08.0,Offensive rebound by A. Burks,11-11, ,,1,11,11,0,292.0
+7:07.0,R. Barrett misses 3-pt jump shot from 26 ft,11-11, ,,1,11,11,0,293.0
+7:03.0,Offensive rebound by O. Toppin,11-11, ,,1,11,11,0,297.0
+7:03.0,O. Toppin makes 2-pt layup at rim,13-11, ,,1,11,13,-2,297.0
+6:46.0, ,13-14,K. Lowry makes 3-pt jump shot from 26 ft (assist by J. Butler),Lead change,1,14,13,1,314.0
+6:33.0,A. Burks misses 3-pt jump shot from 27 ft,13-14, ,,1,14,13,1,327.0
+6:29.0, ,13-14,Defensive rebound by B. Adebayo,,1,14,13,1,331.0
+6:12.0, ,13-14,Offensive foul by B. Adebayo (drawn by J. Sims),,1,14,13,1,348.0
+6:12.0, ,13-14,Turnover by B. Adebayo (offensive foul),,1,14,13,1,348.0
+6:12.0, ,13-14,Miami full timeout,,1,14,13,1,348.0
+6:02.0,J. Sims makes 2-pt dunk from 1 ft (assist by E. Fournier),15-14, ,Lead change,1,14,15,-1,358.0
+5:50.0, ,15-14,Personal foul by O. Toppin (drawn by P. Tucker),,1,14,15,-1,370.0
+5:50.0,T. Gibson enters the game for O. Toppin,15-14, ,,1,14,15,-1,370.0
+5:43.0, ,15-16,J. Butler makes 2-pt layup from 2 ft (assist by B. Adebayo),Lead change,1,16,15,1,377.0
+5:17.0,T. Gibson misses 3-pt jump shot from 23 ft,15-16, ,,1,16,15,1,403.0
+5:12.0,Offensive rebound by J. Sims,15-16, ,,1,16,15,1,408.0
+5:09.0,Shooting foul by K. Lowry (drawn by E. Fournier),15-16, ,,1,16,15,1,411.0
+5:09.0,E. Fournier makes free throw 1 of 2,16-16, ,Tie,1,16,16,0,411.0
+5:09.0, ,16-16,M. Strus enters the game for K. Lowry,,1,16,16,0,411.0
+5:09.0,E. Fournier misses free throw 2 of 2,16-16, ,,1,16,16,0,411.0
+5:04.0, ,16-16,Defensive rebound by B. Adebayo,,1,16,16,0,416.0
+4:51.0, ,16-19,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,19,16,3,429.0
+4:30.0,Turnover by R. Barrett (lost ball; steal by B. Adebayo),16-19, ,,1,19,16,3,450.0
+4:21.0, ,16-19,M. Strus misses 3-pt jump shot from 25 ft,,1,19,16,3,459.0
+4:17.0, ,16-19,Offensive rebound by B. Adebayo,,1,19,16,3,463.0
+4:13.0, ,16-19,Personal foul by T. Gibson (drawn by J. Butler),,1,19,16,3,467.0
+4:13.0,I. Quickley enters the game for A. Burks,16-19, ,,1,19,16,3,467.0
+4:13.0,M. Robinson enters the game for J. Sims,16-19, ,,1,19,16,3,467.0
+4:13.0, ,16-19,D. Dedmon enters the game for B. Adebayo,,1,19,16,3,467.0
+4:00.0, ,16-22,D. Robinson makes 3-pt jump shot from 27 ft (assist by P. Tucker),,1,22,16,6,480.0
+3:42.0,E. Fournier misses 3-pt jump shot from 28 ft,16-22, ,,1,22,16,6,498.0
+3:40.0,Offensive rebound by M. Robinson,16-22, ,,1,22,16,6,500.0
+3:40.0,M. Robinson makes 2-pt layup from 2 ft,18-22, ,,1,22,18,4,500.0
+3:40.0,Shooting foul by D. Dedmon (drawn by M. Robinson),18-22, ,,1,22,18,4,500.0
+3:40.0,M. Robinson makes free throw 1 of 1,19-22, ,,1,22,19,3,500.0
+3:23.0, ,19-22,P. Tucker misses 3-pt jump shot from 23 ft,,1,22,19,3,517.0
+3:22.0,Defensive rebound by R. Barrett,19-22, ,,1,22,19,3,518.0
+3:05.0,R. Barrett misses 3-pt jump shot from 24 ft,19-22, ,,1,22,19,3,535.0
+3:02.0,Offensive rebound by M. Robinson,19-22, ,,1,22,19,3,538.0
+3:02.0, ,19-22,C. Martin enters the game for P. Tucker,,1,22,19,3,538.0
+3:00.0,E. Fournier misses 3-pt jump shot from 23 ft,19-22, ,,1,22,19,3,540.0
+2:56.0, ,19-22,Defensive rebound by J. Butler,,1,22,19,3,544.0
+2:51.0, ,19-22,Shooting foul by T. Gibson (drawn by J. Butler),,1,22,19,3,549.0
+2:51.0,New York full timeout,19-22, ,,1,22,19,3,549.0
+2:51.0,Q. Grimes enters the game for E. Fournier,19-22, ,,1,22,19,3,549.0
+2:51.0, ,19-23,J. Butler makes free throw 1 of 2,,1,23,19,4,549.0
+2:51.0, ,19-24,J. Butler makes free throw 2 of 2,,1,24,19,5,549.0
+2:37.0,T. Gibson makes 3-pt jump shot from 23 ft (assist by Q. Grimes),22-24, ,,1,24,22,2,563.0
+2:37.0, ,22-24,M. Morris enters the game for D. Robinson,,1,24,22,2,563.0
+2:12.0, ,22-26,J. Butler makes 2-pt jump shot from 9 ft,,1,26,22,4,588.0
+1:49.0,R. Barrett misses 3-pt jump shot from 27 ft,22-26, ,,1,26,22,4,611.0
+1:48.0, ,22-26,Defensive rebound by Team,,1,26,22,4,612.0
+1:37.0, ,22-26,Turnover by C. Martin (out of bounds lost ball),,1,26,22,4,623.0
+1:26.0,I. Quickley makes 3-pt jump shot from 25 ft,25-26, ,,1,26,25,1,634.0
+1:06.0, ,25-29,M. Morris makes 3-pt jump shot from 23 ft (assist by J. Butler),,1,29,25,4,654.0
+0:50.0,Q. Grimes misses 3-pt jump shot from 24 ft,25-29, ,,1,29,25,4,670.0
+0:50.0, ,25-29,Defensive rebound by C. Martin,,1,29,25,4,670.0
+0:28.0, ,25-32,D. Dedmon makes 3-pt jump shot from 24 ft (assist by J. Butler),,1,32,25,7,692.0
+0:09.0,R. Barrett misses 3-pt jump shot from 24 ft,25-32, ,,1,32,25,7,711.0
+0:03.0, ,25-32,Defensive rebound by J. Butler,,1,32,25,7,717.0
+0:00.0, ,25-32,J. Butler misses 3-pt jump shot from 30 ft,,1,32,25,7,720.0
+0:00.0, ,25-32,Offensive rebound by Team,,1,32,25,7,720.0
+0:00.0, ,25-32,Instant Replay (Request: Ruling Stands),,1,32,25,7,720.0
+0:00.0,End of 1st quarter,25-32,,,1,32,25,7,720.0
+12:00.0,Start of 2nd quarter,25-32,,,2,32,25,7,720.0
+11:49.0,I. Quickley misses 3-pt jump shot from 27 ft,25-32, ,,2,32,25,7,731.0
+11:43.0, ,25-32,Defensive rebound by M. Morris,,2,32,25,7,737.0
+11:28.0, ,25-32,Turnover by C. Martin (bad pass; steal by M. Robinson),,2,32,25,7,752.0
+11:20.0,M. McBride misses 2-pt jump shot from 17 ft,25-32, ,,2,32,25,7,760.0
+11:14.0, ,25-32,Defensive rebound by C. Martin,,2,32,25,7,766.0
+11:05.0, ,25-35,M. Morris makes 3-pt jump shot from 26 ft (assist by M. Strus),,2,35,25,10,775.0
+10:46.0, ,25-35,Violation by Team (kicked ball),,2,35,25,10,794.0
+10:37.0,M. Robinson makes 2-pt dunk from 3 ft (assist by M. McBride),27-35, ,,2,35,27,8,803.0
+10:09.0, ,27-37,M. Morris makes 2-pt layup from 3 ft,,2,37,27,10,831.0
+10:00.0,M. Robinson makes 2-pt dunk from 1 ft (assist by I. Quickley),29-37, ,,2,37,29,8,840.0
+9:44.0, ,29-37,Shooting foul by Q. Grimes (drawn by C. Martin),,2,37,29,8,856.0
+9:44.0, ,29-37,C. Martin misses free throw 1 of 2,,2,37,29,8,856.0
+9:44.0, ,29-37,Offensive rebound by Team,,2,37,29,8,856.0
+9:44.0, ,29-38,C. Martin makes free throw 2 of 2,,2,38,29,9,856.0
+9:30.0,Q. Grimes misses 3-pt jump shot from 25 ft,29-38, ,,2,38,29,9,870.0
+9:26.0, ,29-38,Defensive rebound by D. Dedmon,,2,38,29,9,874.0
+9:22.0, ,29-38,D. Dedmon misses 3-pt jump shot from 27 ft,,2,38,29,9,878.0
+9:18.0, ,29-38,Offensive rebound by C. Martin,,2,38,29,9,882.0
+9:15.0, ,29-38,Shooting foul by M. McBride (drawn by D. Dedmon),,2,38,29,9,885.0
+9:15.0, ,29-39,D. Dedmon makes free throw 1 of 2,,2,39,29,10,885.0
+9:15.0, ,29-40,D. Dedmon makes free throw 2 of 2,,2,40,29,11,885.0
+9:03.0,Personal foul by M. Strus (drawn by T. Gibson),29-40, ,,2,40,29,11,897.0
+8:55.0,Offensive foul by Q. Grimes (drawn by D. Dedmon),29-40, ,,2,40,29,11,905.0
+8:55.0,Turnover by Q. Grimes (offensive foul),29-40, ,,2,40,29,11,905.0
+8:38.0, ,29-42,C. Martin makes 2-pt layup from 2 ft,,2,42,29,13,922.0
+8:32.0,New York full timeout,29-42, ,,2,42,29,13,928.0
+8:32.0,E. Fournier enters the game for Q. Grimes,29-42, ,,2,42,29,13,928.0
+8:32.0,J. Sims enters the game for M. Robinson,29-42, ,,2,42,29,13,928.0
+8:32.0, ,29-42,B. Adebayo enters the game for D. Dedmon,,2,42,29,13,928.0
+8:17.0,T. Gibson misses 2-pt jump shot from 12 ft,29-42, ,,2,42,29,13,943.0
+8:13.0, ,29-42,Defensive rebound by B. Adebayo,,2,42,29,13,947.0
+7:56.0, ,29-42,C. Martin misses 3-pt jump shot from 24 ft,,2,42,29,13,964.0
+7:54.0,Defensive rebound by J. Sims,29-42, ,,2,42,29,13,966.0
+7:41.0,M. McBride misses 3-pt jump shot from 28 ft,29-42, ,,2,42,29,13,979.0
+7:37.0,Offensive rebound by J. Sims,29-42, ,,2,42,29,13,983.0
+7:36.0,E. Fournier makes 3-pt jump shot from 28 ft (assist by J. Sims),32-42, ,,2,42,32,10,984.0
+7:18.0, ,32-44,B. Adebayo makes 2-pt jump shot from 14 ft,,2,44,32,12,1002.0
+7:04.0,E. Fournier misses 3-pt jump shot from 24 ft,32-44, ,,2,44,32,12,1016.0
+7:04.0, ,32-44,Defensive rebound by K. Lowry,,2,44,32,12,1016.0
+6:56.0,Loose ball foul by M. McBride (drawn by K. Lowry),32-44, ,,2,44,32,12,1024.0
+6:56.0,R. Barrett enters the game for T. Gibson,32-44, ,,2,44,32,12,1024.0
+6:56.0,A. Burks enters the game for M. McBride,32-44, ,,2,44,32,12,1024.0
+6:56.0,O. Toppin enters the game for I. Quickley,32-44, ,,2,44,32,12,1024.0
+6:41.0, ,32-44,Turnover by M. Strus (bad pass; steal by E. Fournier),,2,44,32,12,1039.0
+6:29.0,Offensive foul by R. Barrett (drawn by C. Martin),32-44, ,,2,44,32,12,1051.0
+6:29.0,Turnover by R. Barrett (offensive foul),32-44, ,,2,44,32,12,1051.0
+6:29.0, ,32-44,J. Butler enters the game for K. Lowry,,2,44,32,12,1051.0
+6:29.0, ,32-44,D. Robinson enters the game for M. Strus,,2,44,32,12,1051.0
+6:11.0, ,32-44,C. Martin misses 2-pt layup from 4 ft (block by J. Sims),,2,44,32,12,1069.0
+6:08.0, ,32-44,Offensive rebound by B. Adebayo,,2,44,32,12,1072.0
+6:01.0, ,32-46,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),,2,46,32,14,1079.0
+5:49.0,Personal foul by C. Martin (drawn by R. Barrett),32-46, ,,2,46,32,14,1091.0
+5:41.0,A. Burks makes 3-pt jump shot from 26 ft,35-46, ,,2,46,35,11,1099.0
+5:20.0, ,35-46,D. Robinson misses 2-pt jump shot from 12 ft,,2,46,35,11,1120.0
+5:18.0,Defensive rebound by J. Sims,35-46, ,,2,46,35,11,1122.0
+5:07.0,Def 3 sec tech foul by Team,35-46, ,,2,46,35,11,1133.0
+5:07.0, ,35-46,Violation by Team (delay of game),,2,46,35,11,1133.0
+5:07.0,A. Burks makes technical free throw,36-46, ,,2,46,36,10,1133.0
+5:07.0, ,36-46,P. Tucker enters the game for M. Morris,,2,46,36,10,1133.0
+4:55.0,J. Sims makes 2-pt dunk from 1 ft (assist by A. Burks),38-46, ,,2,46,38,8,1145.0
+4:30.0, ,38-48,P. Tucker makes 2-pt jump shot from 7 ft (assist by C. Martin),,2,48,38,10,1170.0
+4:08.0,Turnover by R. Barrett (bad pass; steal by P. Tucker),38-48, ,,2,48,38,10,1192.0
+3:54.0, ,38-48,Turnover by D. Robinson (traveling),,2,48,38,10,1206.0
+3:38.0,E. Fournier misses 3-pt jump shot from 24 ft,38-48, ,,2,48,38,10,1222.0
+3:36.0, ,38-48,Defensive rebound by Team,,2,48,38,10,1224.0
+3:36.0, ,38-48,K. Lowry enters the game for C. Martin,,2,48,38,10,1224.0
+3:21.0, ,38-48,D. Robinson misses 3-pt jump shot from 26 ft,,2,48,38,10,1239.0
+3:19.0,Defensive rebound by R. Barrett,38-48, ,,2,48,38,10,1241.0
+3:15.0,R. Barrett misses 3-pt jump shot from 26 ft,38-48, ,,2,48,38,10,1245.0
+3:10.0,Offensive rebound by R. Barrett,38-48, ,,2,48,38,10,1250.0
+3:07.0,R. Barrett makes 2-pt layup from 2 ft,40-48, ,,2,48,40,8,1253.0
+2:53.0, ,40-48,J. Butler misses 2-pt layup from 2 ft,,2,48,40,8,1267.0
+2:51.0, ,40-48,Offensive rebound by J. Butler,,2,48,40,8,1269.0
+2:49.0, ,40-50,J. Butler makes 2-pt layup from 3 ft,,2,50,40,10,1271.0
+2:41.0,New York full timeout,40-50, ,,2,50,40,10,1279.0
+2:41.0,M. Robinson enters the game for J. Sims,40-50, ,,2,50,40,10,1279.0
+2:41.0, ,40-50,M. Strus enters the game for D. Robinson,,2,50,40,10,1279.0
+2:28.0,O. Toppin misses 2-pt layup from 4 ft,40-50, ,,2,50,40,10,1292.0
+2:28.0,Offensive rebound by M. Robinson,40-50, ,,2,50,40,10,1292.0
+2:28.0,M. Robinson makes 2-pt dunk from 3 ft,42-50, ,,2,50,42,8,1292.0
+2:28.0,Shooting foul by M. Strus (drawn by M. Robinson),42-50, ,,2,50,42,8,1292.0
+2:28.0,M. Robinson misses free throw 1 of 1,42-50, ,,2,50,42,8,1292.0
+2:25.0,Offensive rebound by R. Barrett,42-50, ,,2,50,42,8,1295.0
+2:23.0,R. Barrett misses 2-pt jump shot from 11 ft,42-50, ,,2,50,42,8,1297.0
+2:19.0, ,42-50,Defensive rebound by B. Adebayo,,2,50,42,8,1301.0
+2:03.0, ,42-53,M. Strus makes 3-pt jump shot from 23 ft (assist by K. Lowry),,2,53,42,11,1317.0
+1:47.0,Turnover by R. Barrett (bad pass; steal by J. Butler),42-53, ,,2,53,42,11,1333.0
+1:46.0, ,42-53,Personal take foul by E. Fournier (drawn by J. Butler),,2,53,42,11,1334.0
+1:38.0, ,42-53,M. Strus misses 3-pt jump shot from 27 ft,,2,53,42,11,1342.0
+1:33.0,Defensive rebound by O. Toppin,42-53, ,,2,53,42,11,1347.0
+1:30.0,Personal foul by B. Adebayo (drawn by R. Barrett),42-53, ,,2,53,42,11,1350.0
+1:23.0,O. Toppin misses 3-pt jump shot from 28 ft,42-53, ,,2,53,42,11,1357.0
+1:18.0,Offensive rebound by M. Robinson,42-53, ,,2,53,42,11,1362.0
+1:17.0,Personal foul by J. Butler (drawn by R. Barrett),42-53, ,,2,53,42,11,1363.0
+1:17.0,R. Barrett makes free throw 1 of 2,43-53, ,,2,53,43,10,1363.0
+1:17.0, ,43-53,D. Dedmon enters the game for B. Adebayo,,2,53,43,10,1363.0
+1:17.0,R. Barrett makes free throw 2 of 2,44-53, ,,2,53,44,9,1363.0
+1:04.0, ,44-53,J. Butler misses 2-pt jump shot from 8 ft,,2,53,44,9,1376.0
+1:03.0, ,44-53,Offensive rebound by J. Butler,,2,53,44,9,1377.0
+1:03.0, ,44-55,J. Butler makes 2-pt jump shot from 3 ft,,2,55,44,11,1377.0
+1:03.0, ,44-55,Shooting foul by M. Robinson (drawn by J. Butler),,2,55,44,11,1377.0
+1:03.0, ,44-56,J. Butler makes free throw 1 of 1,,2,56,44,12,1377.0
+0:39.0,R. Barrett makes 3-pt jump shot from 27 ft (assist by E. Fournier),47-56, ,,2,56,47,9,1401.0
+0:32.0, ,47-56,K. Lowry misses 3-pt jump shot from 27 ft,,2,56,47,9,1408.0
+0:28.0,Defensive rebound by Team,47-56, ,,2,56,47,9,1412.0
+0:08.0,Shooting foul by M. Strus (drawn by A. Burks),47-56, ,,2,56,47,9,1432.0
+0:08.0,A. Burks makes free throw 1 of 2,48-56, ,,2,56,48,8,1432.0
+0:08.0,Q. Grimes enters the game for R. Barrett,48-56, ,,2,56,48,8,1432.0
+0:08.0,M. McBride enters the game for E. Fournier,48-56, ,,2,56,48,8,1432.0
+0:08.0,A. Burks makes free throw 2 of 2,49-56, ,,2,56,49,7,1432.0
+0:00.0, ,49-58,J. Butler makes 2-pt jump shot from 14 ft,,2,58,49,9,1440.0
+0:00.0, ,49-58,Instant Replay (Request: Ruling Stands),,2,58,49,9,1440.0
+0:00.0,End of 2nd quarter,49-58,,,2,58,49,9,1440.0
+12:00.0,Start of 3rd quarter,49-58,,,3,58,49,9,1440.0
+11:40.0,E. Fournier misses 3-pt jump shot from 25 ft,49-58, ,,3,58,49,9,1460.0
+11:36.0, ,49-58,Defensive rebound by J. Butler,,3,58,49,9,1464.0
+11:18.0, ,49-58,D. Robinson misses 3-pt jump shot from 27 ft,,3,58,49,9,1482.0
+11:15.0,Defensive rebound by O. Toppin,49-58, ,,3,58,49,9,1485.0
+11:11.0,A. Burks misses 2-pt jump shot from 20 ft,49-58, ,,3,58,49,9,1489.0
+11:08.0, ,49-58,Defensive rebound by P. Tucker,,3,58,49,9,1492.0
+11:03.0, ,49-58,Personal foul by E. Fournier (drawn by B. Adebayo),,3,58,49,9,1497.0
+10:57.0, ,49-58,Personal foul by E. Fournier (drawn by B. Adebayo),,3,58,49,9,1503.0
+10:47.0, ,49-58,Shooting foul by A. Burks (drawn by K. Lowry),,3,58,49,9,1513.0
+10:47.0, ,49-59,K. Lowry makes free throw 1 of 2,,3,59,49,10,1513.0
+10:47.0, ,49-60,K. Lowry makes free throw 2 of 2,,3,60,49,11,1513.0
+10:37.0,O. Toppin makes 3-pt jump shot from 23 ft (assist by A. Burks),52-60, ,,3,60,52,8,1523.0
+10:16.0, ,52-62,B. Adebayo makes 2-pt jump shot from 14 ft,,3,62,52,10,1544.0
+10:16.0, ,52-62,Shooting foul by J. Sims (drawn by B. Adebayo),,3,62,52,10,1544.0
+10:16.0, ,52-63,B. Adebayo makes free throw 1 of 1,,3,63,52,11,1544.0
+10:02.0,Personal foul by D. Robinson (drawn by A. Burks),52-63, ,,3,63,52,11,1558.0
+9:56.0,Turnover by J. Sims (bad pass; steal by P. Tucker),52-63, ,,3,63,52,11,1564.0
+9:41.0, ,52-65,J. Butler makes 2-pt jump shot from 13 ft,,3,65,52,13,1579.0
+9:23.0,O. Toppin makes 3-pt jump shot from 26 ft (assist by A. Burks),55-65, ,,3,65,55,10,1597.0
+9:09.0, ,55-65,Turnover by J. Butler (lost ball; steal by A. Burks),,3,65,55,10,1611.0
+9:07.0,Personal take foul by K. Lowry (drawn by E. Fournier),55-65, ,,3,65,55,10,1613.0
+9:07.0,M. Robinson enters the game for J. Sims,55-65, ,,3,65,55,10,1613.0
+8:48.0,R. Barrett misses 2-pt layup from 3 ft,55-65, ,,3,65,55,10,1632.0
+8:46.0,Offensive rebound by R. Barrett,55-65, ,,3,65,55,10,1634.0
+8:46.0,R. Barrett misses 2-pt layup at rim,55-65, ,,3,65,55,10,1634.0
+8:45.0, ,55-65,Defensive rebound by P. Tucker,,3,65,55,10,1635.0
+8:41.0, ,55-65,P. Tucker misses 2-pt layup from 2 ft,,3,65,55,10,1639.0
+8:40.0, ,55-65,Offensive rebound by J. Butler,,3,65,55,10,1640.0
+8:39.0, ,55-67,J. Butler makes 2-pt layup from 3 ft,,3,67,55,12,1641.0
+8:38.0,New York full timeout,55-67, ,,3,67,55,12,1642.0
+8:27.0,Turnover by M. Robinson (traveling),55-67, ,,3,67,55,12,1653.0
+8:07.0, ,55-67,P. Tucker misses 2-pt hook shot from 10 ft,,3,67,55,12,1673.0
+8:03.0,Defensive rebound by O. Toppin,55-67, ,,3,67,55,12,1677.0
+7:49.0,O. Toppin misses 3-pt jump shot from 23 ft,55-67, ,,3,67,55,12,1691.0
+7:47.0,Offensive rebound by M. Robinson,55-67, ,,3,67,55,12,1693.0
+7:47.0,Shooting foul by D. Robinson (drawn by M. Robinson),55-67, ,,3,67,55,12,1693.0
+7:47.0,M. Robinson misses free throw 1 of 2,55-67, ,,3,67,55,12,1693.0
+7:47.0,Offensive rebound by Team,55-67, ,,3,67,55,12,1693.0
+7:47.0,M. Robinson makes free throw 2 of 2,56-67, ,,3,67,56,11,1693.0
+7:30.0, ,56-67,D. Robinson misses 3-pt jump shot from 26 ft,,3,67,56,11,1710.0
+7:26.0,Defensive rebound by O. Toppin,56-67, ,,3,67,56,11,1714.0
+7:21.0,R. Barrett makes 2-pt layup from 5 ft,58-67, ,,3,67,58,9,1719.0
+7:06.0, ,58-69,J. Butler makes 2-pt layup from 3 ft,,3,69,58,11,1734.0
+6:51.0,A. Burks misses 3-pt jump shot from 26 ft,58-69, ,,3,69,58,11,1749.0
+6:49.0,Offensive rebound by O. Toppin,58-69, ,,3,69,58,11,1751.0
+6:49.0,O. Toppin misses 2-pt layup at rim,58-69, ,,3,69,58,11,1751.0
+6:49.0,Offensive rebound by Team,58-69, ,,3,69,58,11,1751.0
+6:49.0,Personal foul by B. Adebayo (drawn by M. Robinson),58-69, ,,3,69,58,11,1751.0
+6:47.0,E. Fournier misses 3-pt jump shot from 25 ft,58-69, ,,3,69,58,11,1753.0
+6:41.0, ,58-69,Defensive rebound by J. Butler,,3,69,58,11,1759.0
+6:37.0, ,58-69,J. Butler misses 2-pt layup from 2 ft,,3,69,58,11,1763.0
+6:34.0,Defensive rebound by A. Burks,58-69, ,,3,69,58,11,1766.0
+6:30.0,R. Barrett makes 2-pt layup from 4 ft,60-69, ,,3,69,60,9,1770.0
+6:14.0, ,60-72,K. Lowry makes 3-pt jump shot from 27 ft,,3,72,60,12,1786.0
+5:56.0,M. Robinson misses 2-pt layup from 4 ft (block by P. Tucker),60-72, ,,3,72,60,12,1804.0
+5:56.0, ,60-72,Defensive rebound by K. Lowry,,3,72,60,12,1804.0
+5:47.0, ,60-72,Shooting foul by A. Burks (drawn by B. Adebayo),,3,72,60,12,1813.0
+5:47.0, ,60-73,B. Adebayo makes free throw 1 of 2,,3,73,60,13,1813.0
+5:47.0, ,60-74,B. Adebayo makes free throw 2 of 2,,3,74,60,14,1813.0
+5:26.0,R. Barrett misses 3-pt jump shot from 27 ft,60-74, ,,3,74,60,14,1834.0
+5:21.0, ,60-74,Defensive rebound by B. Adebayo,,3,74,60,14,1839.0
+5:13.0, ,60-74,Shooting foul by O. Toppin (drawn by J. Butler),,3,74,60,14,1847.0
+5:13.0, ,60-75,J. Butler makes free throw 1 of 2,,3,75,60,15,1847.0
+5:13.0, ,60-76,J. Butler makes free throw 2 of 2,,3,76,60,16,1847.0
+5:02.0,Shooting foul by P. Tucker (drawn by R. Barrett),60-76, ,,3,76,60,16,1858.0
+5:02.0,R. Barrett misses free throw 1 of 2,60-76, ,,3,76,60,16,1858.0
+5:02.0,Offensive rebound by Team,60-76, ,,3,76,60,16,1858.0
+5:02.0, ,60-76,M. Strus enters the game for K. Lowry,,3,76,60,16,1858.0
+5:02.0,R. Barrett makes free throw 2 of 2,61-76, ,,3,76,61,15,1858.0
+4:51.0, ,61-76,D. Robinson misses 3-pt jump shot from 28 ft,,3,76,61,15,1869.0
+4:46.0,Defensive rebound by A. Burks,61-76, ,,3,76,61,15,1874.0
+4:42.0,E. Fournier misses 3-pt jump shot from 23 ft,61-76, ,,3,76,61,15,1878.0
+4:39.0,Offensive rebound by O. Toppin,61-76, ,,3,76,61,15,1881.0
+4:39.0,O. Toppin makes 2-pt layup from 2 ft,63-76, ,,3,76,63,13,1881.0
+4:39.0,Shooting foul by P. Tucker (drawn by O. Toppin),63-76, ,,3,76,63,13,1881.0
+4:39.0,O. Toppin makes free throw 1 of 1,64-76, ,,3,76,64,12,1881.0
+4:17.0, ,64-76,Turnover by P. Tucker (lost ball; steal by E. Fournier),,3,76,64,12,1903.0
+4:13.0,O. Toppin makes 2-pt layup from 2 ft (assist by E. Fournier),66-76, ,,3,76,66,10,1907.0
+3:48.0, ,66-78,B. Adebayo makes 2-pt jump shot from 21 ft,,3,78,66,12,1932.0
+3:33.0,A. Burks misses 2-pt layup from 5 ft (block by B. Adebayo),66-78, ,,3,78,66,12,1947.0
+3:31.0, ,66-78,Defensive rebound by B. Adebayo,,3,78,66,12,1949.0
+3:15.0, ,66-78,Turnover by J. Butler (out of bounds lost ball),,3,78,66,12,1965.0
+3:15.0, ,66-78,D. Dedmon enters the game for B. Adebayo,,3,78,66,12,1965.0
+3:00.0,E. Fournier misses 2-pt hook shot from 9 ft,66-78, ,,3,78,66,12,1980.0
+2:57.0,Offensive rebound by M. Robinson,66-78, ,,3,78,66,12,1983.0
+2:57.0,A. Burks makes 3-pt jump shot from 25 ft (assist by M. Robinson),69-78, ,,3,78,69,9,1983.0
+2:56.0, ,69-78,Miami full timeout,,3,78,69,9,1984.0
+2:56.0,I. Quickley enters the game for A. Burks,69-78, ,,3,78,69,9,1984.0
+2:56.0, ,69-78,C. Martin enters the game for P. Tucker,,3,78,69,9,1984.0
+2:38.0, ,69-81,M. Strus makes 3-pt jump shot from 26 ft (assist by C. Martin),,3,81,69,12,2002.0
+2:21.0,R. Barrett misses 3-pt jump shot from 27 ft,69-81, ,,3,81,69,12,2019.0
+2:20.0,Offensive rebound by Team,69-81, ,,3,81,69,12,2020.0
+2:20.0, ,69-81,Loose ball foul by D. Dedmon (drawn by M. Robinson),,3,81,69,12,2020.0
+2:20.0,M. Robinson makes free throw 1 of 2,70-81, ,,3,81,70,11,2020.0
+2:20.0, ,70-81,M. Morris enters the game for D. Robinson,,3,81,70,11,2020.0
+2:20.0,M. Robinson misses free throw 2 of 2,70-81, ,,3,81,70,11,2020.0
+2:18.0, ,70-81,Defensive rebound by D. Dedmon,,3,81,70,11,2022.0
+1:58.0, ,70-81,M. Morris misses 2-pt hook shot from 4 ft,,3,81,70,11,2042.0
+1:55.0, ,70-81,Offensive rebound by D. Dedmon,,3,81,70,11,2045.0
+1:54.0, ,70-81,Turnover by D. Dedmon (bad pass; steal by I. Quickley),,3,81,70,11,2046.0
+1:52.0,R. Barrett misses 2-pt layup from 2 ft (block by J. Butler),70-81, ,,3,81,70,11,2048.0
+1:52.0, ,70-81,Defensive rebound by M. Strus,,3,81,70,11,2048.0
+1:47.0, ,70-83,M. Strus makes 2-pt layup from 1 ft,,3,83,70,13,2053.0
+1:26.0,O. Toppin makes 2-pt jump shot from 15 ft (assist by I. Quickley),72-83, ,,3,83,72,11,2074.0
+1:04.0, ,72-83,Turnover by C. Martin (off goaltending),,3,83,72,11,2096.0
+1:04.0,T. Gibson enters the game for O. Toppin,72-83, ,,3,83,72,11,2096.0
+1:04.0, ,72-83,K. Lowry enters the game for J. Butler,,3,83,72,11,2096.0
+0:56.0,I. Quickley misses 3-pt jump shot from 28 ft,72-83, ,,3,83,72,11,2104.0
+0:53.0, ,72-83,Defensive rebound by K. Lowry,,3,83,72,11,2107.0
+0:37.0, ,72-86,K. Lowry makes 3-pt jump shot from 30 ft (assist by M. Strus),,3,86,72,14,2123.0
+0:17.0,Shooting foul by D. Dedmon (drawn by R. Barrett),72-86, ,,3,86,72,14,2143.0
+0:17.0,R. Barrett misses free throw 1 of 2,72-86, ,,3,86,72,14,2143.0
+0:17.0,Offensive rebound by Team,72-86, ,,3,86,72,14,2143.0
+0:17.0,Q. Grimes enters the game for E. Fournier,72-86, ,,3,86,72,14,2143.0
+0:17.0,R. Barrett makes free throw 2 of 2,73-86, ,,3,86,73,13,2143.0
+0:04.0, ,73-86,Shooting foul by I. Quickley (drawn by K. Lowry),,3,86,73,13,2156.0
+0:04.0, ,73-87,K. Lowry makes free throw 1 of 2,,3,87,73,14,2156.0
+0:04.0, ,73-88,K. Lowry makes free throw 2 of 2,,3,88,73,15,2156.0
+0:01.0,R. Barrett misses 3-pt jump shot from 26 ft,73-88, ,,3,88,73,15,2159.0
+0:01.0,Offensive rebound by Team,73-88, ,,3,88,73,15,2159.0
+0:00.0,End of 3rd quarter,73-88,,,3,88,73,15,2160.0
+12:00.0,Start of 4th quarter,73-88,,,4,88,73,15,2160.0
+11:37.0, ,73-90,M. Morris makes 2-pt jump shot from 13 ft,,4,90,73,17,2183.0
+11:13.0,I. Quickley makes 3-pt jump shot from 24 ft (assist by M. McBride),76-90, ,,4,90,76,14,2207.0
+10:59.0, ,76-90,Personal foul by T. Gibson (drawn by M. Morris),,4,90,76,14,2221.0
+10:55.0, ,76-90,Turnover by D. Dedmon (traveling),,4,90,76,14,2225.0
+10:42.0,Shooting foul by C. Martin (drawn by I. Quickley),76-90, ,,4,90,76,14,2238.0
+10:42.0,I. Quickley makes free throw 1 of 2,77-90, ,,4,90,77,13,2238.0
+10:42.0,I. Quickley makes free throw 2 of 2,78-90, ,,4,90,78,12,2238.0
+10:22.0, ,78-90,C. Martin misses 2-pt layup from 3 ft,,4,90,78,12,2258.0
+10:19.0,Defensive rebound by T. Gibson,78-90, ,,4,90,78,12,2261.0
+10:15.0,I. Quickley makes 3-pt jump shot from 27 ft,81-90, ,,4,90,81,9,2265.0
+9:47.0, ,81-90,M. Strus misses 3-pt jump shot from 32 ft,,4,90,81,9,2293.0
+9:43.0, ,81-90,Offensive rebound by Team,,4,90,81,9,2297.0
+9:37.0, ,81-90,M. Strus misses 3-pt jump shot from 26 ft,,4,90,81,9,2303.0
+9:33.0,Defensive rebound by I. Quickley,81-90, ,,4,90,81,9,2307.0
+9:27.0,M. McBride misses 3-pt jump shot from 26 ft,81-90, ,,4,90,81,9,2313.0
+9:23.0, ,81-90,Defensive rebound by D. Dedmon,,4,90,81,9,2317.0
+9:19.0, ,81-90,Shooting foul by M. McBride (drawn by K. Lowry),,4,90,81,9,2321.0
+9:19.0, ,81-91,K. Lowry makes free throw 1 of 2,,4,91,81,10,2321.0
+9:19.0, ,81-92,K. Lowry makes free throw 2 of 2,,4,92,81,11,2321.0
+9:04.0,Q. Grimes makes 3-pt jump shot from 26 ft (assist by M. McBride),84-92, ,,4,92,84,8,2336.0
+8:35.0, ,84-92,D. Dedmon misses 2-pt jump shot from 7 ft (block by T. Gibson),,4,92,84,8,2365.0
+8:30.0,Defensive rebound by Q. Grimes,84-92, ,,4,92,84,8,2370.0
+8:29.0,Q. Grimes misses 3-pt jump shot from 28 ft,84-92, ,,4,92,84,8,2371.0
+8:23.0, ,84-92,Defensive rebound by C. Martin,,4,92,84,8,2377.0
+8:21.0, ,84-92,M. Strus misses 3-pt jump shot from 28 ft,,4,92,84,8,2379.0
+8:16.0,Defensive rebound by T. Gibson,84-92, ,,4,92,84,8,2384.0
+8:08.0,Turnover by Q. Grimes (traveling),84-92, ,,4,92,84,8,2392.0
+8:08.0, ,84-92,B. Adebayo enters the game for D. Dedmon,,4,92,84,8,2392.0
+7:52.0, ,84-92,C. Martin misses 2-pt layup from 3 ft,,4,92,84,8,2408.0
+7:47.0,Defensive rebound by T. Gibson,84-92, ,,4,92,84,8,2413.0
+7:47.0,Personal foul by M. Morris (drawn by I. Quickley),84-92, ,,4,92,84,8,2413.0
+7:44.0,Personal foul by C. Martin (drawn by J. Sims),84-92, ,,4,92,84,8,2416.0
+7:36.0,M. McBride makes 3-pt jump shot from 23 ft (assist by I. Quickley),87-92, ,,4,92,87,5,2424.0
+7:36.0, ,87-92,Miami full timeout,,4,92,87,5,2424.0
+7:36.0, ,87-92,J. Butler enters the game for M. Morris,,4,92,87,5,2424.0
+7:13.0, ,87-92,Turnover by K. Lowry (lost ball; steal by M. McBride),,4,92,87,5,2447.0
+7:08.0,M. McBride makes 2-pt layup from 1 ft,89-92, ,,4,92,89,3,2452.0
+7:02.0, ,89-92,Personal foul by M. McBride (drawn by K. Lowry),,4,92,89,3,2458.0
+6:58.0, ,89-92,Personal foul by Q. Grimes (drawn by J. Butler),,4,92,89,3,2462.0
+6:43.0, ,89-92,B. Adebayo misses 2-pt jump shot from 19 ft,,4,92,89,3,2477.0
+6:40.0,Defensive rebound by I. Quickley,89-92, ,,4,92,89,3,2480.0
+6:23.0,I. Quickley misses 3-pt jump shot from 25 ft,89-92, ,,4,92,89,3,2497.0
+6:20.0,Offensive rebound by J. Sims,89-92, ,,4,92,89,3,2500.0
+6:19.0,Q. Grimes makes 3-pt jump shot from 25 ft (assist by J. Sims),92-92, ,Tie,4,92,92,0,2501.0
+5:59.0, ,92-94,J. Butler makes 2-pt jump shot from 7 ft,,4,94,92,2,2521.0
+5:32.0,I. Quickley makes 2-pt jump shot from 11 ft (assist by M. McBride),94-94, ,Tie,4,94,94,0,2548.0
+5:15.0, ,94-94,Turnover by J. Butler (bad pass; steal by M. McBride),,4,94,94,0,2565.0
+4:57.0,Q. Grimes makes 3-pt jump shot from 26 ft (assist by M. McBride),97-94, ,Lead change,4,94,97,-3,2583.0
+4:55.0, ,97-94,Miami full timeout,,4,94,97,-3,2585.0
+4:55.0, ,97-94,P. Tucker enters the game for C. Martin,,4,94,97,-3,2585.0
+4:42.0, ,97-94,Turnover by J. Butler (bad pass),,4,94,97,-3,2598.0
+4:21.0,I. Quickley misses 2-pt jump shot from 2 ft,97-94, ,,4,94,97,-3,2619.0
+4:17.0, ,97-94,Defensive rebound by P. Tucker,,4,94,97,-3,2623.0
+4:05.0, ,97-94,K. Lowry misses 3-pt jump shot from 28 ft,,4,94,97,-3,2635.0
+4:05.0,Defensive rebound by J. Sims,97-94, ,,4,94,97,-3,2635.0
+3:57.0,M. McBride misses 3-pt jump shot from 25 ft,97-94, ,,4,94,97,-3,2643.0
+3:52.0, ,97-94,Defensive rebound by P. Tucker,,4,94,97,-3,2648.0
+3:44.0, ,97-94,J. Butler misses 2-pt jump shot from 16 ft,,4,94,97,-3,2656.0
+3:40.0,Defensive rebound by M. McBride,97-94, ,,4,94,97,-3,2660.0
+3:22.0,I. Quickley misses 3-pt jump shot from 28 ft,97-94, ,,4,94,97,-3,2678.0
+3:17.0, ,97-94,Defensive rebound by K. Lowry,,4,94,97,-3,2683.0
+3:04.0, ,97-94,Personal foul by Q. Grimes (drawn by B. Adebayo),,4,94,97,-3,2696.0
+3:04.0,New York full timeout,97-94, ,,4,94,97,-3,2696.0
+3:04.0,R. Barrett enters the game for T. Gibson,97-94, ,,4,94,97,-3,2696.0
+3:04.0,O. Toppin enters the game for Q. Grimes,97-94, ,,4,94,97,-3,2696.0
+3:04.0, ,97-94,B. Adebayo misses free throw 1 of 2,,4,94,97,-3,2696.0
+3:04.0, ,97-94,Offensive rebound by Team,,4,94,97,-3,2696.0
+3:04.0, ,97-95,B. Adebayo makes free throw 2 of 2,,4,95,97,-2,2696.0
+2:39.0,I. Quickley makes 2-pt layup from 10 ft,99-95, ,,4,95,99,-4,2721.0
+2:22.0, ,99-95,K. Lowry misses 3-pt jump shot from 27 ft,,4,95,99,-4,2738.0
+2:17.0,Defensive rebound by R. Barrett,99-95, ,,4,95,99,-4,2743.0
+2:00.0,Shooting foul by M. Strus (drawn by I. Quickley),99-95, ,,4,95,99,-4,2760.0
+2:00.0, ,99-95,Miami full timeout,,4,95,99,-4,2760.0
+2:00.0, ,99-95,Instant Replay (Challenge: Stands),,4,95,99,-4,2760.0
+2:00.0,I. Quickley makes free throw 1 of 2,100-95, ,,4,95,100,-5,2760.0
+2:00.0,I. Quickley makes free throw 2 of 2,101-95, ,,4,95,101,-6,2760.0
+1:46.0, ,101-95,J. Butler misses 2-pt jump shot from 14 ft,,4,95,101,-6,2774.0
+1:41.0, ,101-95,Offensive rebound by B. Adebayo,,4,95,101,-6,2779.0
+1:40.0, ,101-95,Turnover by M. Strus (bad pass; steal by I. Quickley),,4,95,101,-6,2780.0
+1:39.0,I. Quickley makes 2-pt layup from 2 ft,103-95, ,,4,95,103,-8,2781.0
+1:28.0, ,103-98,M. Strus makes 3-pt jump shot from 28 ft (assist by J. Butler),,4,98,103,-5,2792.0
+1:05.0,I. Quickley misses 3-pt jump shot from 29 ft,103-98, ,,4,98,103,-5,2815.0
+1:00.0,Offensive rebound by J. Sims,103-98, ,,4,98,103,-5,2820.0
+0:57.0,Personal foul by M. Strus (drawn by R. Barrett),103-98, ,,4,98,103,-5,2823.0
+0:57.0,R. Barrett makes free throw 1 of 2,104-98, ,,4,98,104,-6,2823.0
+0:57.0,R. Barrett makes free throw 2 of 2,105-98, ,,4,98,105,-7,2823.0
+0:47.0, ,105-100,K. Lowry makes 2-pt layup from 2 ft,,4,100,105,-5,2833.0
+0:42.0,New York full timeout,105-100, ,,4,100,105,-5,2838.0
+0:42.0,A. Burks enters the game for J. Sims,105-100, ,,4,100,105,-5,2838.0
+0:42.0,T. Gibson enters the game for O. Toppin,105-100, ,,4,100,105,-5,2838.0
+0:42.0,Violation by Team (delay of game),105-100, ,,4,100,105,-5,2838.0
+0:38.0,New York full timeout,105-100, ,,4,100,105,-5,2842.0
+0:32.0,T. Gibson makes 2-pt dunk from 1 ft (assist by R. Barrett),107-100, ,,4,100,107,-7,2848.0
+0:29.0, ,107-103,J. Butler makes 3-pt jump shot from 28 ft (assist by M. Strus),,4,103,107,-4,2851.0
+0:21.0,Personal take foul by M. Strus (drawn by I. Quickley),107-103, ,,4,103,107,-4,2859.0
+0:21.0, ,107-103,D. Robinson enters the game for M. Strus,,4,103,107,-4,2859.0
+0:21.0,I. Quickley makes free throw 1 of 2,108-103, ,,4,103,108,-5,2859.0
+0:21.0,I. Quickley makes free throw 2 of 2,109-103, ,,4,103,109,-6,2859.0
+0:16.0, ,109-103,K. Lowry misses 3-pt jump shot from 26 ft,,4,103,109,-6,2864.0
+0:11.0,Defensive rebound by M. McBride,109-103, ,,4,103,109,-6,2869.0
+0:10.0,Personal take foul by B. Adebayo (drawn by I. Quickley),109-103, ,,4,103,109,-6,2870.0
+0:10.0,I. Quickley makes free throw 1 of 2,110-103, ,,4,103,110,-7,2870.0
+0:10.0,I. Quickley makes free throw 2 of 2,111-103, ,,4,103,111,-8,2870.0
+0:03.0, ,111-103,D. Robinson misses 3-pt jump shot from 26 ft,,4,103,111,-8,2877.0
+0:02.0,Defensive rebound by R. Barrett,111-103, ,,4,103,111,-8,2878.0
+0:00.0,End of 4th quarter,111-103,,,4,103,111,-8,2880.0

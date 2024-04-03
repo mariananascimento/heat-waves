@@ -1,0 +1,513 @@
+Time,Milwaukee,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: G. Antetokounmpo vs. B. Adebayo (G. Hill gains possession),0-0,,,1,0,0,0,0.0
+11:46.0,Turnover by K. Middleton (bad pass; steal by K. Lowry),0-0, ,,1,0,0,0,14.0
+11:40.0, ,0-2,B. Adebayo makes 2-pt layup from 5 ft,,1,2,0,2,20.0
+11:22.0,Shooting foul by P. Tucker (drawn by G. Antetokounmpo),0-2, ,,1,2,0,2,38.0
+11:22.0,G. Antetokounmpo misses free throw 1 of 2,0-2, ,,1,2,0,2,38.0
+11:22.0,Offensive rebound by Team,0-2, ,,1,2,0,2,38.0
+11:22.0,G. Antetokounmpo makes free throw 2 of 2,1-2, ,,1,2,1,1,38.0
+11:10.0, ,1-2,Shooting foul by G. Antetokounmpo (drawn by B. Adebayo),,1,2,1,1,50.0
+11:10.0, ,1-3,B. Adebayo makes free throw 1 of 2,,1,3,1,2,50.0
+11:10.0, ,1-3,B. Adebayo misses free throw 2 of 2,,1,3,1,2,50.0
+11:08.0, ,1-3,Offensive rebound by Team,,1,3,1,2,52.0
+11:06.0, ,1-3,D. Robinson misses 3-pt jump shot from 24 ft,,1,3,1,2,54.0
+11:00.0,Defensive rebound by K. Middleton,1-3, ,,1,3,1,2,60.0
+10:59.0,P. Connaughton makes 2-pt layup from 2 ft (assist by K. Middleton),3-3, ,Tie,1,3,3,0,61.0
+10:50.0, ,3-3,B. Adebayo misses 2-pt jump shot from 17 ft,,1,3,3,0,70.0
+10:47.0,Defensive rebound by P. Connaughton,3-3, ,,1,3,3,0,73.0
+10:36.0,P. Connaughton misses 3-pt jump shot from 26 ft,3-3, ,,1,3,3,0,84.0
+10:33.0, ,3-3,Defensive rebound by P. Tucker,,1,3,3,0,87.0
+10:25.0, ,3-3,Personal foul by G. Allen (drawn by B. Adebayo),,1,3,3,0,95.0
+10:14.0, ,3-3,K. Lowry misses 3-pt jump shot from 27 ft,,1,3,3,0,106.0
+10:10.0,Defensive rebound by G. Antetokounmpo,3-3, ,,1,3,3,0,110.0
+10:03.0,G. Allen misses 3-pt jump shot from 25 ft,3-3, ,,1,3,3,0,117.0
+10:01.0, ,3-3,Defensive rebound by P. Tucker,,1,3,3,0,119.0
+9:57.0, ,3-3,D. Robinson misses 2-pt layup from 3 ft,,1,3,3,0,123.0
+9:53.0,Defensive rebound by G. Allen,3-3, ,,1,3,3,0,127.0
+9:52.0,K. Middleton misses 3-pt jump shot from 26 ft,3-3, ,,1,3,3,0,128.0
+9:47.0, ,3-3,Defensive rebound by D. Robinson,,1,3,3,0,133.0
+9:43.0, ,3-5,J. Butler makes 2-pt jump shot from 9 ft,,1,5,3,2,137.0
+9:28.0,Turnover by K. Middleton (bad pass; steal by P. Tucker),3-5, ,,1,5,3,2,152.0
+9:24.0, ,3-7,J. Butler makes 2-pt dunk from 1 ft (assist by P. Tucker),,1,7,3,4,156.0
+9:08.0,P. Connaughton misses 3-pt jump shot from 26 ft,3-7, ,,1,7,3,4,172.0
+9:06.0, ,3-7,Defensive rebound by K. Lowry,,1,7,3,4,174.0
+8:55.0, ,3-7,Personal foul by K. Middleton (drawn by B. Adebayo),,1,7,3,4,185.0
+8:48.0, ,3-7,K. Lowry misses 2-pt jump shot from 13 ft,,1,7,3,4,192.0
+8:45.0, ,3-7,Offensive rebound by Team,,1,7,3,4,195.0
+8:40.0, ,3-9,B. Adebayo makes 2-pt layup from 3 ft,,1,9,3,6,200.0
+8:23.0,K. Middleton misses 3-pt jump shot from 24 ft,3-9, ,,1,9,3,6,217.0
+8:20.0, ,3-9,Defensive rebound by D. Robinson,,1,9,3,6,220.0
+8:11.0, ,3-11,B. Adebayo makes 2-pt jump shot from 17 ft,,1,11,3,8,229.0
+7:53.0,G. Hill misses 2-pt layup from 3 ft,3-11, ,,1,11,3,8,247.0
+7:53.0, ,3-11,Defensive rebound by Team,,1,11,3,8,247.0
+7:53.0,Loose ball foul by G. Hill (drawn by J. Butler),3-11, ,,1,11,3,8,247.0
+7:40.0, ,3-11,Personal foul by G. Hill (drawn by B. Adebayo),,1,11,3,8,260.0
+7:40.0, ,3-11,B. Adebayo misses free throw 1 of 2,,1,11,3,8,260.0
+7:40.0, ,3-11,Offensive rebound by Team,,1,11,3,8,260.0
+7:40.0, ,3-11,B. Adebayo misses free throw 2 of 2,,1,11,3,8,260.0
+7:40.0,Defensive rebound by Team,3-11, ,,1,11,3,8,260.0
+7:40.0,J. Robinson enters the game for G. Hill,3-11, ,,1,11,3,8,260.0
+7:39.0, ,3-11,Loose ball foul by K. Lowry (drawn by K. Middleton),,1,11,3,8,261.0
+7:24.0,J. Robinson misses 3-pt jump shot from 27 ft,3-11, ,,1,11,3,8,276.0
+7:20.0, ,3-11,Defensive rebound by P. Tucker,,1,11,3,8,280.0
+7:14.0, ,3-13,P. Tucker makes 2-pt layup from 5 ft (assist by D. Robinson),,1,13,3,10,286.0
+7:14.0,Milwaukee full timeout,3-13, ,,1,13,3,10,286.0
+7:14.0,J. Nwora enters the game for K. Middleton,3-13, ,,1,13,3,10,286.0
+6:51.0,Turnover by G. Antetokounmpo (bad pass),3-13, ,,1,13,3,10,309.0
+6:38.0, ,3-13,Turnover by B. Adebayo (lost ball; steal by G. Antetokounmpo),,1,13,3,10,322.0
+6:38.0,Personal foul by D. Robinson (drawn by P. Connaughton),3-13, ,,1,13,3,10,322.0
+6:29.0,Turnover by G. Allen (traveling),3-13, ,,1,13,3,10,331.0
+6:29.0, ,3-13,T. Herro enters the game for K. Lowry,,1,13,3,10,331.0
+6:15.0, ,3-15,J. Butler makes 2-pt layup from 3 ft,,1,15,3,12,345.0
+6:08.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,3-15, ,,1,15,3,12,352.0
+6:08.0, ,3-15,Defensive rebound by T. Herro,,1,15,3,12,352.0
+5:49.0, ,3-15,T. Herro misses 2-pt layup from 6 ft,,1,15,3,12,371.0
+5:48.0, ,3-15,Offensive rebound by J. Butler,,1,15,3,12,372.0
+5:46.0, ,3-15,Shooting foul by G. Antetokounmpo (drawn by J. Butler),,1,15,3,12,374.0
+5:46.0, ,3-16,J. Butler makes free throw 1 of 2,,1,16,3,13,374.0
+5:46.0,T. Antetokounmpo enters the game for G. Antetokounmpo,3-16, ,,1,16,3,13,374.0
+5:46.0,S. Mamukelashvili enters the game for P. Connaughton,3-16, ,,1,16,3,13,374.0
+5:46.0, ,3-16,D. Dedmon enters the game for B. Adebayo,,1,16,3,13,374.0
+5:46.0, ,3-17,J. Butler makes free throw 2 of 2,,1,17,3,14,374.0
+5:46.0, ,3-17,Violation by Team (delay of game),,1,17,3,14,374.0
+5:35.0,J. Nwora misses 2-pt jump shot from 17 ft,3-17, ,,1,17,3,14,385.0
+5:30.0, ,3-17,Defensive rebound by D. Dedmon,,1,17,3,14,390.0
+5:18.0, ,3-19,D. Dedmon makes 2-pt layup from 2 ft (assist by J. Butler),,1,19,3,16,402.0
+5:02.0,S. Mamukelashvili misses 3-pt jump shot from 24 ft,3-19, ,,1,19,3,16,418.0
+4:56.0, ,3-19,Defensive rebound by P. Tucker,,1,19,3,16,424.0
+4:46.0, ,3-22,P. Tucker makes 3-pt jump shot from 25 ft (assist by T. Herro),,1,22,3,19,434.0
+4:30.0,Shooting foul by D. Robinson (drawn by G. Allen),3-22, ,,1,22,3,19,450.0
+4:30.0,G. Allen makes free throw 1 of 2,4-22, ,,1,22,4,18,450.0
+4:30.0, ,4-22,M. Strus enters the game for D. Robinson,,1,22,4,18,450.0
+4:30.0,G. Allen makes free throw 2 of 2,5-22, ,,1,22,5,17,450.0
+4:18.0, ,5-24,M. Strus makes 2-pt layup from 2 ft (assist by P. Tucker),,1,24,5,19,462.0
+4:18.0, ,5-24,Shooting foul by T. Antetokounmpo (drawn by M. Strus),,1,24,5,19,462.0
+4:18.0,K. Middleton enters the game for G. Allen,5-24, ,,1,24,5,19,462.0
+4:18.0, ,5-24,M. Strus misses free throw 1 of 1,,1,24,5,19,462.0
+4:15.0, ,5-24,Offensive rebound by P. Tucker,,1,24,5,19,465.0
+4:09.0, ,5-24,P. Tucker misses 3-pt jump shot from 24 ft,,1,24,5,19,471.0
+4:04.0,Defensive rebound by J. Nwora,5-24, ,,1,24,5,19,476.0
+3:54.0,Turnover by K. Middleton (bad pass),5-24, ,,1,24,5,19,486.0
+3:31.0, ,5-26,T. Herro makes 2-pt jump shot from 20 ft,,1,26,5,21,509.0
+3:26.0,Milwaukee full timeout,5-26, ,,1,26,5,21,514.0
+3:17.0,J. Nwora misses 3-pt jump shot from 23 ft,5-26, ,,1,26,5,21,523.0
+3:14.0, ,5-26,Defensive rebound by T. Herro,,1,26,5,21,526.0
+3:12.0, ,5-29,M. Strus makes 3-pt jump shot from 27 ft (assist by T. Herro),,1,29,5,24,528.0
+2:58.0,K. Middleton misses 2-pt jump shot from 16 ft,5-29, ,,1,29,5,24,542.0
+2:53.0, ,5-29,Defensive rebound by M. Strus,,1,29,5,24,547.0
+2:49.0, ,5-29,T. Herro misses 2-pt jump shot from 9 ft,,1,29,5,24,551.0
+2:44.0,Defensive rebound by S. Mamukelashvili,5-29, ,,1,29,5,24,556.0
+2:41.0,Personal foul by D. Dedmon (drawn by S. Mamukelashvili),5-29, ,,1,29,5,24,559.0
+2:41.0,S. Mamukelashvili makes free throw 1 of 2,6-29, ,,1,29,6,23,559.0
+2:41.0, ,6-29,K. Lowry enters the game for J. Butler,,1,29,6,23,559.0
+2:41.0, ,6-29,M. Morris enters the game for P. Tucker,,1,29,6,23,559.0
+2:41.0,S. Mamukelashvili makes free throw 2 of 2,7-29, ,,1,29,7,22,559.0
+2:29.0, ,7-32,T. Herro makes 3-pt jump shot from 26 ft (assist by M. Morris),,1,32,7,25,571.0
+2:07.0,K. Middleton misses 3-pt jump shot from 27 ft,7-32, ,,1,32,7,25,593.0
+2:04.0, ,7-32,Defensive rebound by D. Dedmon,,1,32,7,25,596.0
+2:04.0, ,7-32,Offensive foul by D. Dedmon (drawn by T. Antetokounmpo),,1,32,7,25,596.0
+2:04.0, ,7-32,Turnover by D. Dedmon (offensive foul),,1,32,7,25,596.0
+2:04.0,P. Connaughton enters the game for T. Antetokounmpo,7-32, ,,1,32,7,25,596.0
+1:54.0,J. Nwora makes 3-pt jump shot from 24 ft (assist by P. Connaughton),10-32, ,,1,32,10,22,606.0
+1:35.0, ,10-32,T. Herro misses 3-pt jump shot from 26 ft,,1,32,10,22,625.0
+1:34.0, ,10-32,Offensive rebound by M. Morris,,1,32,10,22,626.0
+1:33.0, ,10-32,Turnover by M. Morris (bad pass; steal by K. Middleton),,1,32,10,22,627.0
+1:30.0,K. Middleton misses 2-pt jump shot from 16 ft,10-32, ,,1,32,10,22,630.0
+1:30.0,Offensive rebound by S. Mamukelashvili,10-32, ,,1,32,10,22,630.0
+1:28.0,S. Mamukelashvili misses 2-pt layup at rim,10-32, ,,1,32,10,22,632.0
+1:28.0,Offensive rebound by S. Mamukelashvili,10-32, ,,1,32,10,22,632.0
+1:27.0,S. Mamukelashvili makes 2-pt layup at rim,12-32, ,,1,32,12,20,633.0
+1:12.0, ,12-32,M. Morris misses 2-pt jump shot from 15 ft,,1,32,12,20,648.0
+1:08.0,Defensive rebound by S. Mamukelashvili,12-32, ,,1,32,12,20,652.0
+1:02.0,J. Nwora misses 3-pt jump shot from 27 ft,12-32, ,,1,32,12,20,658.0
+0:58.0, ,12-32,Defensive rebound by D. Dedmon,,1,32,12,20,662.0
+0:52.0, ,12-35,D. Dedmon makes 3-pt jump shot from 26 ft (assist by K. Lowry),,1,35,12,23,668.0
+0:40.0,J. Robinson makes 3-pt jump shot from 28 ft,15-35, ,,1,35,15,20,680.0
+0:33.0, ,15-35,Personal foul by J. Robinson (drawn by D. Dedmon),,1,35,15,20,687.0
+0:33.0, ,15-36,D. Dedmon makes free throw 1 of 2,,1,36,15,21,687.0
+0:33.0, ,15-37,D. Dedmon makes free throw 2 of 2,,1,37,15,22,687.0
+0:30.0,K. Middleton makes 2-pt jump shot from 21 ft,17-37, ,,1,37,17,20,690.0
+0:06.0, ,17-37,K. Lowry misses 2-pt layup from 6 ft,,1,37,17,20,714.0
+0:04.0,Defensive rebound by P. Connaughton,17-37, ,,1,37,17,20,716.0
+0:03.0,J. Nwora misses 2-pt dunk from 1 ft (block by M. Strus),17-37, ,,1,37,17,20,717.0
+0:03.0, ,17-37,Defensive rebound by T. Herro,,1,37,17,20,717.0
+0:00.0, ,17-40,T. Herro makes 3-pt jump shot from 32 ft,,1,40,17,23,720.0
+0:00.0, ,17-40,Instant Replay (Request: Ruling Stands),,1,40,17,23,720.0
+0:00.0,End of 1st quarter,17-40,,,1,40,17,23,720.0
+12:00.0,Start of 2nd quarter,17-40,,,2,40,17,23,720.0
+11:46.0, ,17-40,T. Herro misses 2-pt jump shot from 7 ft,,2,40,17,23,734.0
+11:44.0,Defensive rebound by G. Antetokounmpo,17-40, ,,2,40,17,23,736.0
+11:43.0,Shooting foul by M. Morris (drawn by G. Antetokounmpo),17-40, ,,2,40,17,23,737.0
+11:43.0,G. Antetokounmpo makes free throw 1 of 2,18-40, ,,2,40,18,22,737.0
+11:43.0,G. Antetokounmpo makes free throw 2 of 2,19-40, ,,2,40,19,21,737.0
+11:31.0, ,19-40,B. Adebayo misses 2-pt jump shot from 14 ft,,2,40,19,21,749.0
+11:28.0,Defensive rebound by G. Hill,19-40, ,,2,40,19,21,752.0
+11:18.0,G. Allen makes 2-pt layup from 4 ft,21-40, ,,2,40,21,19,762.0
+11:04.0, ,21-43,M. Morris makes 3-pt jump shot from 23 ft (assist by T. Herro),,2,43,21,22,776.0
+10:52.0,G. Hill makes 3-pt jump shot from 24 ft (assist by K. Middleton),24-43, ,,2,43,24,19,788.0
+10:37.0, ,24-43,T. Herro misses 3-pt jump shot from 25 ft,,2,43,24,19,803.0
+10:35.0,Defensive rebound by G. Antetokounmpo,24-43, ,,2,43,24,19,805.0
+10:34.0,Personal take foul by K. Lowry (drawn by G. Antetokounmpo),24-43, ,,2,43,24,19,806.0
+10:34.0, ,24-43,J. Butler enters the game for K. Lowry,,2,43,24,19,806.0
+10:17.0,G. Hill makes 2-pt dunk from 1 ft (assist by G. Antetokounmpo),26-43, ,,2,43,26,17,823.0
+10:05.0, ,26-43,Turnover by T. Herro (bad pass; steal by G. Hill),,2,43,26,17,835.0
+10:05.0,Personal foul by B. Adebayo (drawn by G. Hill),26-43, ,,2,43,26,17,835.0
+9:52.0,P. Connaughton misses 3-pt jump shot from 26 ft,26-43, ,,2,43,26,17,848.0
+9:48.0, ,26-43,Defensive rebound by J. Butler,,2,43,26,17,852.0
+9:35.0, ,26-43,J. Butler misses 2-pt jump shot from 5 ft,,2,43,26,17,865.0
+9:32.0,Defensive rebound by G. Antetokounmpo,26-43, ,,2,43,26,17,868.0
+9:29.0,G. Allen misses 3-pt jump shot from 27 ft,26-43, ,,2,43,26,17,871.0
+9:25.0, ,26-43,Defensive rebound by B. Adebayo,,2,43,26,17,875.0
+9:18.0, ,26-43,Shooting foul by G. Allen (drawn by J. Butler),,2,43,26,17,882.0
+9:18.0, ,26-44,J. Butler makes free throw 1 of 2,,2,44,26,18,882.0
+9:18.0,J. Nwora enters the game for K. Middleton,26-44, ,,2,44,26,18,882.0
+9:18.0, ,26-45,J. Butler makes free throw 2 of 2,,2,45,26,19,882.0
+9:05.0,G. Antetokounmpo misses 2-pt jump shot from 19 ft,26-45, ,,2,45,26,19,895.0
+9:03.0,Offensive rebound by Team,26-45, ,,2,45,26,19,897.0
+9:03.0, ,26-45,Loose ball foul by T. Herro (drawn by G. Hill),,2,45,26,19,897.0
+8:54.0,J. Nwora misses 3-pt jump shot from 24 ft,26-45, ,,2,45,26,19,906.0
+8:50.0, ,26-45,Defensive rebound by B. Adebayo,,2,45,26,19,910.0
+8:34.0, ,26-45,J. Butler misses 2-pt hook shot from 6 ft,,2,45,26,19,926.0
+8:30.0,Defensive rebound by G. Antetokounmpo,26-45, ,,2,45,26,19,930.0
+8:28.0,Milwaukee full timeout,26-45, ,,2,45,26,19,932.0
+8:28.0,Instant Replay (Challenge: Ruling Stands),26-45, ,,2,45,26,19,932.0
+8:28.0,Personal foul by J. Butler (drawn by G. Antetokounmpo),26-45, ,,2,45,26,19,932.0
+8:28.0,S. Mamukelashvili enters the game for P. Connaughton,26-45, ,,2,45,26,19,932.0
+8:28.0,G. Antetokounmpo misses free throw 1 of 2,26-45, ,,2,45,26,19,932.0
+8:28.0,Offensive rebound by Team,26-45, ,,2,45,26,19,932.0
+8:28.0,G. Antetokounmpo makes free throw 2 of 2,27-45, ,,2,45,27,18,932.0
+8:14.0, ,27-45,T. Herro misses 2-pt jump shot from 8 ft,,2,45,27,18,946.0
+8:08.0,Defensive rebound by G. Hill,27-45, ,,2,45,27,18,952.0
+8:08.0,Turnover by G. Hill (bad pass; steal by J. Butler),27-45, ,,2,45,27,18,952.0
+8:04.0, ,27-47,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),,2,47,27,20,956.0
+7:51.0,G. Antetokounmpo makes 2-pt layup from 3 ft,29-47, ,,2,47,29,18,969.0
+7:51.0,Shooting foul by M. Strus (drawn by G. Antetokounmpo),29-47, ,,2,47,29,18,969.0
+7:51.0, ,29-47,K. Lowry enters the game for M. Strus,,2,47,29,18,969.0
+7:51.0,G. Antetokounmpo misses free throw 1 of 1,29-47, ,,2,47,29,18,969.0
+7:48.0, ,29-47,Defensive rebound by B. Adebayo,,2,47,29,18,972.0
+7:33.0, ,29-47,K. Lowry misses 3-pt jump shot from 25 ft,,2,47,29,18,987.0
+7:29.0, ,29-47,Offensive rebound by B. Adebayo,,2,47,29,18,991.0
+7:18.0, ,29-49,M. Morris makes 2-pt layup from 2 ft (assist by T. Herro),,2,49,29,20,1002.0
+7:10.0,G. Hill misses 2-pt layup from 7 ft,29-49, ,,2,49,29,20,1010.0
+7:06.0,Offensive rebound by G. Antetokounmpo,29-49, ,,2,49,29,20,1014.0
+7:06.0,G. Antetokounmpo misses 2-pt layup at rim,29-49, ,,2,49,29,20,1014.0
+7:06.0, ,29-49,Defensive rebound by B. Adebayo,,2,49,29,20,1014.0
+6:50.0, ,29-49,T. Herro misses 3-pt jump shot from 26 ft,,2,49,29,20,1030.0
+6:48.0, ,29-49,Offensive rebound by Team,,2,49,29,20,1032.0
+6:48.0, ,29-49,D. Robinson enters the game for T. Herro,,2,49,29,20,1032.0
+6:48.0,Jump ball: B. Adebayo vs. G. Hill (J. Butler gains possession),29-49,,,2,49,29,20,1032.0
+6:34.0, ,29-49,B. Adebayo misses 2-pt jump shot from 7 ft,,2,49,29,20,1046.0
+6:30.0,Defensive rebound by G. Antetokounmpo,29-49, ,,2,49,29,20,1050.0
+6:17.0,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by G. Hill),31-49, ,,2,49,31,18,1063.0
+6:16.0,Violation by Team (delay of game),31-49, ,,2,49,31,18,1064.0
+6:09.0, ,31-51,J. Butler makes 2-pt layup from 3 ft (assist by K. Lowry),,2,51,31,20,1071.0
+5:45.0,G. Hill misses 3-pt jump shot from 25 ft,31-51, ,,2,51,31,20,1095.0
+5:42.0, ,31-51,Defensive rebound by J. Butler,,2,51,31,20,1098.0
+5:38.0, ,31-51,Shooting foul by J. Nwora (drawn by J. Butler),,2,51,31,20,1102.0
+5:38.0, ,31-51,J. Butler misses free throw 1 of 2,,2,51,31,20,1102.0
+5:38.0, ,31-51,Offensive rebound by Team,,2,51,31,20,1102.0
+5:38.0,T. Antetokounmpo enters the game for G. Antetokounmpo,31-51, ,,2,51,31,20,1102.0
+5:38.0,J. Robinson enters the game for G. Hill,31-51, ,,2,51,31,20,1102.0
+5:38.0, ,31-51,P. Tucker enters the game for B. Adebayo,,2,51,31,20,1102.0
+5:38.0, ,31-52,J. Butler makes free throw 2 of 2,,2,52,31,21,1102.0
+5:27.0,Personal foul by P. Tucker (drawn by J. Nwora),31-52, ,,2,52,31,21,1113.0
+5:27.0,J. Nwora makes free throw 1 of 2,32-52, ,,2,52,32,20,1113.0
+5:27.0, ,32-52,D. Dedmon enters the game for M. Morris,,2,52,32,20,1113.0
+5:27.0,J. Nwora makes free throw 2 of 2,33-52, ,,2,52,33,19,1113.0
+5:15.0, ,33-52,Shooting foul by T. Antetokounmpo (drawn by J. Butler),,2,52,33,19,1125.0
+5:15.0, ,33-52,J. Butler misses free throw 1 of 2,,2,52,33,19,1125.0
+5:15.0, ,33-52,Offensive rebound by Team,,2,52,33,19,1125.0
+5:15.0, ,33-53,J. Butler makes free throw 2 of 2,,2,53,33,20,1125.0
+4:59.0,J. Nwora makes 2-pt jump shot from 11 ft,35-53, ,,2,53,35,18,1141.0
+4:48.0, ,35-53,K. Lowry misses 3-pt jump shot from 24 ft,,2,53,35,18,1152.0
+4:48.0,Defensive rebound by T. Antetokounmpo,35-53, ,,2,53,35,18,1152.0
+4:43.0,Personal foul by J. Butler (drawn by T. Antetokounmpo),35-53, ,,2,53,35,18,1157.0
+4:43.0,T. Antetokounmpo makes free throw 1 of 2,36-53, ,,2,53,36,17,1157.0
+4:43.0,K. Middleton enters the game for G. Allen,36-53, ,,2,53,36,17,1157.0
+4:43.0,T. Antetokounmpo misses free throw 2 of 2,36-53, ,,2,53,36,17,1157.0
+4:40.0, ,36-53,Defensive rebound by D. Dedmon,,2,53,36,17,1160.0
+4:21.0, ,36-53,J. Butler misses 2-pt jump shot from 14 ft,,2,53,36,17,1179.0
+4:16.0,Defensive rebound by T. Antetokounmpo,36-53, ,,2,53,36,17,1184.0
+4:14.0,J. Nwora misses 2-pt jump shot from 12 ft,36-53, ,,2,53,36,17,1186.0
+4:09.0, ,36-53,Defensive rebound by D. Robinson,,2,53,36,17,1191.0
+4:09.0, ,36-53,Turnover by K. Lowry (bad pass),,2,53,36,17,1191.0
+4:09.0,P. Connaughton enters the game for S. Mamukelashvili,36-53, ,,2,53,36,17,1191.0
+3:57.0,K. Middleton misses 3-pt jump shot from 25 ft,36-53, ,,2,53,36,17,1203.0
+3:55.0, ,36-53,Defensive rebound by D. Dedmon,,2,53,36,17,1205.0
+3:49.0, ,36-53,D. Robinson misses 3-pt jump shot from 25 ft,,2,53,36,17,1211.0
+3:45.0,Defensive rebound by Team,36-53, ,,2,53,36,17,1215.0
+3:45.0,G. Kalaitzakis enters the game for J. Nwora,36-53, ,,2,53,36,17,1215.0
+3:45.0, ,36-53,T. Herro enters the game for J. Butler,,2,53,36,17,1215.0
+3:35.0,T. Antetokounmpo makes 2-pt dunk from 1 ft (assist by P. Connaughton),38-53, ,,2,53,38,15,1225.0
+3:35.0, ,38-53,Miami full timeout,,2,53,38,15,1225.0
+3:35.0, ,38-53,B. Adebayo enters the game for D. Dedmon,,2,53,38,15,1225.0
+3:17.0, ,38-55,T. Herro makes 2-pt layup from 7 ft,,2,55,38,17,1243.0
+3:05.0,J. Robinson misses 3-pt jump shot from 25 ft,38-55, ,,2,55,38,17,1255.0
+3:02.0, ,38-55,Defensive rebound by T. Herro,,2,55,38,17,1258.0
+3:00.0, ,38-57,B. Adebayo makes 2-pt layup from 5 ft (assist by T. Herro),,2,57,38,19,1260.0
+3:00.0, ,38-57,Shooting foul by T. Antetokounmpo (drawn by B. Adebayo),,2,57,38,19,1260.0
+3:00.0,G. Antetokounmpo enters the game for G. Kalaitzakis,38-57, ,,2,57,38,19,1260.0
+3:00.0, ,38-58,B. Adebayo makes free throw 1 of 1,,2,58,38,20,1260.0
+2:49.0,K. Middleton misses 3-pt jump shot from 26 ft,38-58, ,,2,58,38,20,1271.0
+2:44.0, ,38-58,Defensive rebound by P. Tucker,,2,58,38,20,1276.0
+2:38.0, ,38-61,D. Robinson makes 3-pt jump shot from 23 ft (assist by K. Lowry),,2,61,38,23,1282.0
+2:18.0,Turnover by K. Middleton (lost ball; steal by B. Adebayo),38-61, ,,2,61,38,23,1302.0
+2:13.0, ,38-61,Shooting foul by J. Robinson (drawn by T. Herro),,2,61,38,23,1307.0
+2:13.0, ,38-62,T. Herro makes free throw 1 of 2,,2,62,38,24,1307.0
+2:13.0, ,38-63,T. Herro makes free throw 2 of 2,,2,63,38,25,1307.0
+1:57.0,Offensive foul by P. Connaughton (drawn by P. Tucker),38-63, ,,2,63,38,25,1323.0
+1:57.0,Turnover by P. Connaughton (offensive foul),38-63, ,,2,63,38,25,1323.0
+1:37.0, ,38-65,B. Adebayo makes 2-pt jump shot from 15 ft,,2,65,38,27,1343.0
+1:22.0,G. Antetokounmpo misses 2-pt jump shot from 17 ft,38-65, ,,2,65,38,27,1358.0
+1:21.0, ,38-65,Defensive rebound by Team,,2,65,38,27,1359.0
+1:21.0,Loose ball foul by T. Antetokounmpo (drawn by K. Lowry),38-65, ,,2,65,38,27,1359.0
+1:21.0,Instant Replay (Request: Stands),38-65, ,,2,65,38,27,1359.0
+1:21.0, ,38-66,K. Lowry makes free throw 1 of 2,,2,66,38,28,1359.0
+1:21.0,S. Mamukelashvili enters the game for T. Antetokounmpo,38-66, ,,2,66,38,28,1359.0
+1:21.0, ,38-66,J. Butler enters the game for P. Tucker,,2,66,38,28,1359.0
+1:21.0, ,38-67,K. Lowry makes free throw 2 of 2,,2,67,38,29,1359.0
+1:12.0,K. Middleton makes 3-pt jump shot from 27 ft (assist by P. Connaughton),41-67, ,,2,67,41,26,1368.0
+0:53.0, ,41-69,T. Herro makes 2-pt jump shot from 10 ft,,2,69,41,28,1387.0
+0:46.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,41-69, ,,2,69,41,28,1394.0
+0:42.0, ,41-69,Defensive rebound by B. Adebayo,,2,69,41,28,1398.0
+0:39.0, ,41-69,T. Herro misses 3-pt jump shot from 26 ft,,2,69,41,28,1401.0
+0:36.0, ,41-69,Offensive rebound by B. Adebayo,,2,69,41,28,1404.0
+0:35.0, ,41-72,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,2,72,41,31,1405.0
+0:20.0,P. Connaughton makes 2-pt jump shot from 7 ft (assist by K. Middleton),43-72, ,,2,72,43,29,1420.0
+0:00.0, ,43-72,B. Adebayo misses 2-pt jump shot from 12 ft,,2,72,43,29,1440.0
+0:00.0, ,43-72,Offensive rebound by Team,,2,72,43,29,1440.0
+0:00.0,End of 2nd quarter,43-72,,,2,72,43,29,1440.0
+12:00.0,Start of 3rd quarter,43-72,,,3,72,43,29,1440.0
+11:39.0, ,43-75,K. Lowry makes 3-pt jump shot from 27 ft (assist by D. Robinson),,3,75,43,32,1461.0
+11:22.0,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),45-75, ,,3,75,45,30,1478.0
+11:22.0,Shooting foul by P. Tucker (drawn by G. Antetokounmpo),45-75, ,,3,75,45,30,1478.0
+11:22.0,G. Antetokounmpo makes free throw 1 of 1,46-75, ,,3,75,46,29,1478.0
+11:06.0, ,46-75,Turnover by B. Adebayo (lost ball; steal by G. Antetokounmpo),,3,75,46,29,1494.0
+10:59.0,G. Antetokounmpo misses 2-pt layup from 3 ft,46-75, ,,3,75,46,29,1501.0
+10:57.0, ,46-75,Defensive rebound by D. Robinson,,3,75,46,29,1503.0
+10:54.0, ,46-75,D. Robinson misses 3-pt jump shot from 27 ft,,3,75,46,29,1506.0
+10:52.0, ,46-75,Offensive rebound by B. Adebayo,,3,75,46,29,1508.0
+10:52.0, ,46-75,Personal foul by K. Middleton (drawn by B. Adebayo),,3,75,46,29,1508.0
+10:48.0, ,46-75,D. Robinson misses 3-pt jump shot from 26 ft,,3,75,46,29,1512.0
+10:43.0,Defensive rebound by K. Middleton,46-75, ,,3,75,46,29,1517.0
+10:39.0,K. Middleton misses 2-pt layup from 3 ft,46-75, ,,3,75,46,29,1521.0
+10:37.0, ,46-75,Defensive rebound by B. Adebayo,,3,75,46,29,1523.0
+10:33.0, ,46-75,D. Robinson misses 3-pt jump shot from 27 ft,,3,75,46,29,1527.0
+10:30.0,Defensive rebound by G. Antetokounmpo,46-75, ,,3,75,46,29,1530.0
+10:14.0,G. Antetokounmpo makes 3-pt jump shot from 26 ft,49-75, ,,3,75,49,26,1546.0
+10:00.0, ,49-75,Turnover by B. Adebayo (lost ball; steal by G. Antetokounmpo),,3,75,49,26,1560.0
+9:48.0,G. Antetokounmpo misses 2-pt jump shot from 20 ft,49-75, ,,3,75,49,26,1572.0
+9:42.0, ,49-75,Defensive rebound by D. Robinson,,3,75,49,26,1578.0
+9:33.0, ,49-78,P. Tucker makes 3-pt jump shot from 24 ft (assist by K. Lowry),,3,78,49,29,1587.0
+9:15.0,G. Hill misses 3-pt jump shot from 26 ft (block by K. Lowry),49-78, ,,3,78,49,29,1605.0
+9:15.0, ,49-78,Defensive rebound by Team,,3,78,49,29,1605.0
+9:15.0,Loose ball foul by G. Antetokounmpo (drawn by P. Tucker),49-78, ,,3,78,49,29,1605.0
+9:03.0, ,49-80,B. Adebayo makes 2-pt jump shot from 14 ft (assist by K. Lowry),,3,80,49,31,1617.0
+8:51.0,K. Middleton misses 2-pt jump shot from 13 ft,49-80, ,,3,80,49,31,1629.0
+8:47.0, ,49-80,Defensive rebound by B. Adebayo,,3,80,49,31,1633.0
+8:38.0, ,49-80,D. Robinson misses 3-pt jump shot from 25 ft,,3,80,49,31,1642.0
+8:33.0, ,49-80,Offensive rebound by B. Adebayo,,3,80,49,31,1647.0
+8:33.0, ,49-80,Shooting foul by P. Connaughton (drawn by J. Butler),,3,80,49,31,1647.0
+8:33.0,Technical foul by K. Middleton,49-80, ,,3,80,49,31,1647.0
+8:33.0, ,49-81,J. Butler makes technical free throw,,3,81,49,32,1647.0
+8:33.0, ,49-82,J. Butler makes free throw 1 of 2,,3,82,49,33,1647.0
+8:33.0, ,49-83,J. Butler makes free throw 2 of 2,,3,83,49,34,1647.0
+8:23.0,G. Allen misses 3-pt jump shot from 27 ft,49-83, ,,3,83,49,34,1657.0
+8:19.0, ,49-83,Defensive rebound by D. Robinson,,3,83,49,34,1661.0
+8:02.0, ,49-85,J. Butler makes 2-pt jump shot from 15 ft,,3,85,49,36,1678.0
+8:01.0,Milwaukee full timeout,49-85, ,,3,85,49,36,1679.0
+7:41.0,G. Hill makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),52-85, ,,3,85,52,33,1699.0
+7:23.0, ,52-85,K. Lowry misses 3-pt jump shot from 26 ft,,3,85,52,33,1717.0
+7:19.0,Defensive rebound by G. Antetokounmpo,52-85, ,,3,85,52,33,1721.0
+7:16.0,K. Middleton makes 2-pt layup from 3 ft,54-85, ,,3,85,54,31,1724.0
+7:16.0, ,54-85,Violation by Team (def goaltending),,3,85,54,31,1724.0
+7:16.0,Shooting foul by J. Butler (drawn by K. Middleton),54-85, ,,3,85,54,31,1724.0
+7:16.0,K. Middleton makes free throw 1 of 1,55-85, ,,3,85,55,30,1724.0
+7:02.0, ,55-87,J. Butler makes 2-pt layup from 4 ft,,3,87,55,32,1738.0
+6:46.0,K. Middleton misses 2-pt jump shot from 16 ft,55-87, ,,3,87,55,32,1754.0
+6:42.0, ,55-87,Defensive rebound by B. Adebayo,,3,87,55,32,1758.0
+6:36.0, ,55-89,B. Adebayo makes 2-pt layup from 1 ft,,3,89,55,34,1764.0
+6:28.0,G. Allen makes 2-pt layup from 2 ft,57-89, ,,3,89,57,32,1772.0
+6:23.0, ,57-91,D. Robinson makes 2-pt layup from 2 ft (assist by K. Lowry),,3,91,57,34,1777.0
+6:23.0,Violation by Team (def goaltending),57-91, ,,3,91,57,34,1777.0
+6:23.0, ,57-91,Shooting foul by P. Connaughton (drawn by D. Robinson),,3,91,57,34,1777.0
+6:23.0, ,57-91,D. Robinson misses free throw 1 of 1,,3,91,57,34,1777.0
+6:20.0,Defensive rebound by P. Connaughton,57-91, ,,3,91,57,34,1780.0
+6:15.0,Personal foul by B. Adebayo (drawn by K. Middleton),57-91, ,,3,91,57,34,1785.0
+6:07.0,G. Allen misses 3-pt jump shot from 28 ft,57-91, ,,3,91,57,34,1793.0
+6:03.0, ,57-91,Defensive rebound by B. Adebayo,,3,91,57,34,1797.0
+5:56.0, ,57-91,Turnover by J. Butler (lost ball; steal by K. Middleton),,3,91,57,34,1804.0
+5:48.0,Turnover by G. Antetokounmpo (bad pass; steal by D. Robinson),57-91, ,,3,91,57,34,1812.0
+5:30.0, ,57-93,B. Adebayo makes 2-pt jump shot from 11 ft (assist by J. Butler),,3,93,57,36,1830.0
+5:15.0,K. Middleton makes 2-pt layup from 3 ft,59-93, ,,3,93,59,34,1845.0
+5:07.0, ,59-93,K. Lowry misses 3-pt jump shot from 26 ft,,3,93,59,34,1853.0
+5:05.0,Defensive rebound by G. Antetokounmpo,59-93, ,,3,93,59,34,1855.0
+5:01.0,Shooting foul by B. Adebayo (drawn by G. Antetokounmpo),59-93, ,,3,93,59,34,1859.0
+5:01.0,G. Antetokounmpo makes free throw 1 of 2,60-93, ,,3,93,60,33,1859.0
+5:01.0,T. Antetokounmpo enters the game for G. Allen,60-93, ,,3,93,60,33,1859.0
+5:01.0,G. Kalaitzakis enters the game for P. Connaughton,60-93, ,,3,93,60,33,1859.0
+5:01.0,J. Nwora enters the game for G. Hill,60-93, ,,3,93,60,33,1859.0
+5:01.0,J. Robinson enters the game for K. Middleton,60-93, ,,3,93,60,33,1859.0
+5:01.0, ,60-93,T. Herro enters the game for B. Adebayo,,3,93,60,33,1859.0
+5:01.0, ,60-93,M. Morris enters the game for K. Lowry,,3,93,60,33,1859.0
+5:01.0,G. Antetokounmpo misses free throw 2 of 2,60-93, ,,3,93,60,33,1859.0
+4:58.0, ,60-93,Defensive rebound by M. Morris,,3,93,60,33,1862.0
+4:58.0,S. Mamukelashvili enters the game for G. Antetokounmpo,60-93, ,,3,93,60,33,1862.0
+4:40.0, ,60-93,J. Butler misses 2-pt jump shot from 10 ft,,3,93,60,33,1880.0
+4:38.0, ,60-93,Offensive rebound by Team,,3,93,60,33,1882.0
+4:32.0, ,60-95,T. Herro makes 2-pt jump shot from 6 ft (assist by J. Butler),,3,95,60,35,1888.0
+4:09.0,G. Kalaitzakis makes 2-pt layup from 2 ft (assist by T. Antetokounmpo),62-95, ,,3,95,62,33,1911.0
+3:49.0, ,62-95,M. Morris misses 2-pt jump shot from 13 ft,,3,95,62,33,1931.0
+3:47.0,Defensive rebound by J. Robinson,62-95, ,,3,95,62,33,1933.0
+3:40.0,S. Mamukelashvili makes 3-pt jump shot from 25 ft (assist by J. Robinson),65-95, ,,3,95,65,30,1940.0
+3:38.0, ,65-95,Miami full timeout,,3,95,65,30,1942.0
+3:38.0, ,65-95,D. Dedmon enters the game for P. Tucker,,3,95,65,30,1942.0
+3:24.0, ,65-98,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Butler),,3,98,65,33,1956.0
+3:08.0,J. Nwora makes 3-pt jump shot from 26 ft,68-98, ,,3,98,68,30,1972.0
+2:49.0, ,68-100,D. Dedmon makes 2-pt layup from 2 ft (assist by J. Butler),,3,100,68,32,1991.0
+2:48.0, ,68-100,Technical foul by D. Dedmon,,3,100,68,32,1992.0
+2:48.0, ,68-100,Instant Replay (Request: Stands),,3,100,68,32,1992.0
+2:48.0,J. Nwora misses technical free throw,68-100, ,,3,100,68,32,1992.0
+2:48.0,Offensive rebound by Team,68-100, ,,3,100,68,32,1992.0
+2:48.0, ,68-100,M. Strus enters the game for D. Robinson,,3,100,68,32,1992.0
+2:26.0,S. Mamukelashvili misses 2-pt hook shot from 8 ft,68-100, ,,3,100,68,32,2014.0
+2:22.0, ,68-100,Defensive rebound by J. Butler,,3,100,68,32,2018.0
+2:21.0, ,68-100,Shooting foul by J. Robinson (drawn by T. Herro),,3,100,68,32,2019.0
+2:21.0, ,68-101,T. Herro makes free throw 1 of 2,,3,101,68,33,2019.0
+2:21.0, ,68-101,T. Herro misses free throw 2 of 2,,3,101,68,33,2019.0
+2:19.0, ,68-101,Offensive rebound by M. Morris,,3,101,68,33,2021.0
+2:06.0, ,68-101,M. Morris misses 2-pt jump shot from 19 ft,,3,101,68,33,2034.0
+2:06.0,Defensive rebound by Team,68-101, ,,3,101,68,33,2034.0
+1:51.0,Turnover by J. Nwora (bad pass; steal by M. Morris),68-101, ,,3,101,68,33,2049.0
+1:40.0, ,68-101,M. Morris misses 3-pt jump shot from 24 ft,,3,101,68,33,2060.0
+1:35.0, ,68-101,Offensive rebound by T. Herro,,3,101,68,33,2065.0
+1:30.0, ,68-101,M. Morris misses 3-pt jump shot from 24 ft,,3,101,68,33,2070.0
+1:25.0,Defensive rebound by G. Kalaitzakis,68-101, ,,3,101,68,33,2075.0
+1:25.0,Offensive foul by G. Kalaitzakis (drawn by M. Strus),68-101, ,,3,101,68,33,2075.0
+1:25.0,Turnover by G. Kalaitzakis (offensive foul),68-101, ,,3,101,68,33,2075.0
+1:25.0,Instant Replay (Challenge: Ruling Stands),68-101, ,,3,101,68,33,2075.0
+1:25.0,P. Connaughton enters the game for T. Antetokounmpo,68-101, ,,3,101,68,33,2075.0
+1:15.0, ,68-101,M. Morris misses 2-pt layup from 2 ft,,3,101,68,33,2085.0
+1:15.0, ,68-101,Offensive rebound by D. Dedmon,,3,101,68,33,2085.0
+1:13.0, ,68-101,D. Dedmon misses 2-pt layup from 1 ft,,3,101,68,33,2087.0
+1:13.0, ,68-101,Offensive rebound by D. Dedmon,,3,101,68,33,2087.0
+1:11.0, ,68-103,D. Dedmon makes 2-pt layup from 4 ft,,3,103,68,35,2089.0
+1:00.0,Turnover by G. Kalaitzakis (traveling),68-103, ,,3,103,68,35,2100.0
+0:47.0, ,68-105,M. Morris makes 2-pt layup from 3 ft,,3,105,68,37,2113.0
+0:30.0,J. Robinson misses 3-pt jump shot from 26 ft,68-105, ,,3,105,68,37,2130.0
+0:27.0,Offensive rebound by G. Kalaitzakis,68-105, ,,3,105,68,37,2133.0
+0:27.0,Personal foul by M. Morris (drawn by G. Kalaitzakis),68-105, ,,3,105,68,37,2133.0
+0:27.0,G. Kalaitzakis misses free throw 1 of 2,68-105, ,,3,105,68,37,2133.0
+0:27.0,Offensive rebound by Team,68-105, ,,3,105,68,37,2133.0
+0:27.0, ,68-105,G. Vincent enters the game for J. Butler,,3,105,68,37,2133.0
+0:27.0,G. Kalaitzakis makes free throw 2 of 2,69-105, ,,3,105,69,36,2133.0
+0:08.0, ,69-105,Offensive foul by M. Morris (drawn by J. Nwora),,3,105,69,36,2152.0
+0:08.0, ,69-105,Turnover by M. Morris (offensive foul),,3,105,69,36,2152.0
+0:00.0,J. Nwora misses 2-pt jump shot from 16 ft,69-105, ,,3,105,69,36,2160.0
+0:00.0, ,69-105,Defensive rebound by M. Morris,,3,105,69,36,2160.0
+0:00.0,End of 3rd quarter,69-105,,,3,105,69,36,2160.0
+12:00.0,Start of 4th quarter,69-105,,,4,105,69,36,2160.0
+11:41.0,P. Connaughton makes 2-pt jump shot from 10 ft (assist by G. Allen),71-105, ,,4,105,71,34,2179.0
+11:24.0, ,71-105,M. Strus misses 3-pt jump shot from 26 ft,,4,105,71,34,2196.0
+11:22.0,Defensive rebound by G. Kalaitzakis,71-105, ,,4,105,71,34,2198.0
+11:08.0,G. Kalaitzakis misses 3-pt jump shot from 26 ft,71-105, ,,4,105,71,34,2212.0
+11:04.0, ,71-105,Defensive rebound by D. Dedmon,,4,105,71,34,2216.0
+10:51.0, ,71-107,D. Dedmon makes 2-pt layup from 2 ft,,4,107,71,36,2229.0
+10:34.0,G. Kalaitzakis makes 2-pt layup from 4 ft,73-107, ,,4,107,73,34,2246.0
+10:23.0, ,73-109,T. Herro makes 2-pt jump shot from 7 ft,,4,109,73,36,2257.0
+10:11.0,G. Allen makes 3-pt jump shot from 26 ft (assist by P. Connaughton),76-109, ,,4,109,76,33,2269.0
+9:58.0, ,76-109,M. Morris misses 2-pt jump shot from 11 ft,,4,109,76,33,2282.0
+9:55.0,Defensive rebound by P. Connaughton,76-109, ,,4,109,76,33,2285.0
+9:47.0,S. Mamukelashvili misses 2-pt layup from 3 ft,76-109, ,,4,109,76,33,2293.0
+9:45.0, ,76-109,Defensive rebound by D. Dedmon,,4,109,76,33,2295.0
+9:43.0, ,76-112,T. Herro makes 3-pt jump shot from 25 ft,,4,112,76,36,2297.0
+9:30.0,S. Mamukelashvili makes 3-pt jump shot from 28 ft (assist by G. Hill),79-112, ,,4,112,79,33,2310.0
+9:09.0, ,79-112,Turnover by T. Herro (bad pass),,4,112,79,33,2331.0
+9:09.0,T. Antetokounmpo enters the game for P. Connaughton,79-112, ,,4,112,79,33,2331.0
+9:09.0,J. Robinson enters the game for S. Mamukelashvili,79-112, ,,4,112,79,33,2331.0
+8:55.0,G. Allen misses 3-pt jump shot from 26 ft,79-112, ,,4,112,79,33,2345.0
+8:52.0, ,79-112,Defensive rebound by G. Vincent,,4,112,79,33,2348.0
+8:43.0, ,79-115,G. Vincent makes 3-pt jump shot from 27 ft,,4,115,79,36,2357.0
+8:29.0,J. Robinson misses 3-pt jump shot from 26 ft,79-115, ,,4,115,79,36,2371.0
+8:26.0, ,79-115,Defensive rebound by T. Herro,,4,115,79,36,2374.0
+8:21.0, ,79-117,T. Herro makes 2-pt layup from 3 ft,,4,117,79,38,2379.0
+8:15.0,Milwaukee full timeout,79-117, ,,4,117,79,38,2385.0
+8:15.0,S. Mamukelashvili enters the game for T. Antetokounmpo,79-117, ,,4,117,79,38,2385.0
+8:15.0,J. Nwora enters the game for G. Hill,79-117, ,,4,117,79,38,2385.0
+8:15.0, ,79-117,C. Martin enters the game for D. Dedmon,,4,117,79,38,2385.0
+8:15.0, ,79-117,K. Okpala enters the game for T. Herro,,4,117,79,38,2385.0
+8:15.0, ,79-117,O. Yurtseven enters the game for M. Morris,,4,117,79,38,2385.0
+8:05.0,G. Allen makes 3-pt jump shot from 23 ft (assist by J. Robinson),82-117, ,,4,117,82,35,2395.0
+7:45.0, ,82-120,K. Okpala makes 3-pt jump shot from 26 ft (assist by M. Strus),,4,120,82,38,2415.0
+7:22.0,G. Allen makes 2-pt layup from 6 ft,84-120, ,,4,120,84,36,2438.0
+7:14.0, ,84-120,Personal foul by S. Mamukelashvili (drawn by O. Yurtseven),,4,120,84,36,2446.0
+7:08.0, ,84-120,Offensive foul by G. Vincent (drawn by J. Robinson),,4,120,84,36,2452.0
+7:08.0, ,84-120,Turnover by G. Vincent (offensive foul),,4,120,84,36,2452.0
+6:53.0,J. Robinson misses 2-pt jump shot from 15 ft,84-120, ,,4,120,84,36,2467.0
+6:49.0, ,84-120,Defensive rebound by C. Martin,,4,120,84,36,2471.0
+6:40.0, ,84-122,G. Vincent makes 2-pt layup from 3 ft,,4,122,84,38,2480.0
+6:20.0,G. Kalaitzakis makes 3-pt jump shot from 25 ft (assist by J. Nwora),87-122, ,,4,122,87,35,2500.0
+6:06.0, ,87-122,O. Yurtseven misses 2-pt layup from 1 ft,,4,122,87,35,2514.0
+6:03.0,Defensive rebound by G. Allen,87-122, ,,4,122,87,35,2517.0
+5:57.0,G. Allen misses 3-pt jump shot from 27 ft,87-122, ,,4,122,87,35,2523.0
+5:53.0, ,87-122,Defensive rebound by O. Yurtseven,,4,122,87,35,2527.0
+5:43.0, ,87-122,M. Strus misses 3-pt jump shot from 27 ft,,4,122,87,35,2537.0
+5:40.0,Defensive rebound by G. Allen,87-122, ,,4,122,87,35,2540.0
+5:31.0,S. Mamukelashvili misses 3-pt jump shot from 27 ft,87-122, ,,4,122,87,35,2549.0
+5:27.0, ,87-122,Defensive rebound by M. Strus,,4,122,87,35,2553.0
+5:20.0, ,87-124,O. Yurtseven makes 2-pt jump shot from 12 ft (assist by G. Vincent),,4,124,87,37,2560.0
+5:20.0, ,87-124,Shooting foul by S. Mamukelashvili (drawn by O. Yurtseven),,4,124,87,37,2560.0
+5:20.0,T. Antetokounmpo enters the game for G. Allen,87-124, ,,4,124,87,37,2560.0
+5:20.0, ,87-124,M. Garrett enters the game for M. Strus,,4,124,87,37,2560.0
+5:20.0, ,87-124,O. Yurtseven misses free throw 1 of 1,,4,124,87,37,2560.0
+5:15.0,Defensive rebound by J. Nwora,87-124, ,,4,124,87,37,2565.0
+5:02.0,Turnover by T. Antetokounmpo (lost ball; steal by C. Martin),87-124, ,,4,124,87,37,2578.0
+4:55.0, ,87-124,K. Okpala misses 2-pt jump shot from 6 ft,,4,124,87,37,2585.0
+4:52.0,Defensive rebound by J. Nwora,87-124, ,,4,124,87,37,2588.0
+4:39.0,Turnover by G. Kalaitzakis (bad pass),87-124, ,,4,124,87,37,2601.0
+4:25.0, ,87-124,O. Yurtseven misses 2-pt layup from 4 ft,,4,124,87,37,2615.0
+4:25.0,Defensive rebound by Team,87-124, ,,4,124,87,37,2615.0
+4:09.0,J. Nwora misses 2-pt layup from 3 ft,87-124, ,,4,124,87,37,2631.0
+4:09.0,Offensive rebound by T. Antetokounmpo,87-124, ,,4,124,87,37,2631.0
+4:09.0,Personal foul by G. Vincent (drawn by J. Nwora),87-124, ,,4,124,87,37,2631.0
+4:02.0,Turnover by J. Robinson (bad pass; steal by C. Martin),87-124, ,,4,124,87,37,2638.0
+4:02.0, ,87-124,Personal foul by J. Robinson (drawn by C. Martin),,4,124,87,37,2638.0
+3:42.0, ,87-124,Shooting foul by J. Nwora (drawn by C. Martin),,4,124,87,37,2658.0
+3:42.0, ,87-125,C. Martin makes free throw 1 of 2,,4,125,87,38,2658.0
+3:42.0, ,87-125,C. Martin misses free throw 2 of 2,,4,125,87,38,2658.0
+3:39.0,Defensive rebound by T. Antetokounmpo,87-125, ,,4,125,87,38,2661.0
+3:26.0,J. Nwora misses 3-pt jump shot from 27 ft,87-125, ,,4,125,87,38,2674.0
+3:23.0, ,87-125,Defensive rebound by K. Okpala,,4,125,87,38,2677.0
+3:09.0, ,87-127,O. Yurtseven makes 2-pt hook shot from 6 ft,,4,127,87,40,2691.0
+2:56.0,T. Antetokounmpo makes 2-pt layup from 2 ft (assist by S. Mamukelashvili),89-127, ,,4,127,89,38,2704.0
+2:56.0,Shooting foul by G. Vincent (drawn by T. Antetokounmpo),89-127, ,,4,127,89,38,2704.0
+2:56.0, ,89-127,Miami full timeout,,4,127,89,38,2704.0
+2:56.0,T. Antetokounmpo makes free throw 1 of 1,90-127, ,,4,127,90,37,2704.0
+2:42.0, ,90-129,O. Yurtseven makes 2-pt hook shot from 6 ft (assist by M. Garrett),,4,129,90,39,2718.0
+2:23.0,J. Robinson misses 3-pt jump shot from 25 ft,90-129, ,,4,129,90,39,2737.0
+2:20.0, ,90-129,Defensive rebound by O. Yurtseven,,4,129,90,39,2740.0
+2:15.0, ,90-132,C. Martin makes 3-pt jump shot from 24 ft (assist by G. Vincent),,4,132,90,42,2745.0
+1:59.0,Shooting foul by K. Okpala (drawn by J. Nwora),90-132, ,,4,132,90,42,2761.0
+1:59.0,J. Nwora misses free throw 1 of 2,90-132, ,,4,132,90,42,2761.0
+1:59.0,Offensive rebound by Team,90-132, ,,4,132,90,42,2761.0
+1:59.0,J. Nwora makes free throw 2 of 2,91-132, ,,4,132,91,41,2761.0
+1:41.0, ,91-132,M. Garrett misses 2-pt jump shot from 4 ft,,4,132,91,41,2779.0
+1:38.0,Defensive rebound by J. Nwora,91-132, ,,4,132,91,41,2782.0
+1:26.0,S. Mamukelashvili makes 2-pt layup from 3 ft (assist by J. Nwora),93-132, ,,4,132,93,39,2794.0
+1:21.0, ,93-132,Personal foul by G. Kalaitzakis (drawn by C. Martin),,4,132,93,39,2799.0
+1:21.0, ,93-133,C. Martin makes free throw 1 of 2,,4,133,93,40,2799.0
+1:21.0, ,93-133,C. Martin misses free throw 2 of 2,,4,133,93,40,2799.0
+1:18.0,Defensive rebound by J. Nwora,93-133, ,,4,133,93,40,2802.0
+1:13.0,Personal foul by C. Martin (drawn by J. Robinson),93-133, ,,4,133,93,40,2807.0
+1:13.0,J. Robinson makes free throw 1 of 2,94-133, ,,4,133,94,39,2807.0
+1:13.0,J. Robinson makes free throw 2 of 2,95-133, ,,4,133,95,38,2807.0
+0:57.0, ,95-135,O. Yurtseven makes 2-pt jump shot from 7 ft (assist by M. Garrett),,4,135,95,40,2823.0
+0:34.0,G. Kalaitzakis misses 2-pt jump shot from 16 ft,95-135, ,,4,135,95,40,2846.0
+0:30.0, ,95-135,Defensive rebound by G. Vincent,,4,135,95,40,2850.0
+0:27.0, ,95-137,G. Vincent makes 2-pt layup from 5 ft,,4,137,95,42,2853.0
+0:11.0,Personal foul by M. Garrett (drawn by G. Kalaitzakis),95-137, ,,4,137,95,42,2869.0
+0:11.0,G. Kalaitzakis misses free throw 1 of 2,95-137, ,,4,137,95,42,2869.0
+0:11.0,Offensive rebound by Team,95-137, ,,4,137,95,42,2869.0
+0:11.0,G. Kalaitzakis misses free throw 2 of 2,95-137, ,,4,137,95,42,2869.0
+0:10.0, ,95-137,Defensive rebound by O. Yurtseven,,4,137,95,42,2870.0
+0:00.0,End of 4th quarter,95-137,,,4,137,95,42,2880.0

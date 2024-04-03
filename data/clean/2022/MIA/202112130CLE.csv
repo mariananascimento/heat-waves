@@ -1,0 +1,425 @@
+Time,Miami,Score,Cleveland,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Dedmon vs. J. Allen (L. Markkanen gains possession),0-0,,,1,0,0,0,0.0
+11:45.0, ,0-0,L. Markkanen misses 2-pt layup from 2 ft (block by G. Vincent),,1,0,0,0,15.0
+11:45.0, ,0-0,Offensive rebound by Team,,1,0,0,0,15.0
+11:44.0, ,0-0,Away from play foul by D. Robinson (drawn by L. Markkanen),,1,0,0,0,16.0
+11:44.0, ,0-1,D. Garland makes free throw 1 of 1,,1,0,1,-1,16.0
+11:31.0, ,0-1,E. Mobley misses 2-pt jump shot from 21 ft,,1,0,1,-1,29.0
+11:30.0, ,0-1,Offensive rebound by Team,,1,0,1,-1,30.0
+11:30.0, ,0-1,Turnover by Team (shot clock),,1,0,1,-1,30.0
+11:12.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by D. Robinson),3-1, ,Lead change,1,3,1,2,48.0
+10:57.0, ,3-1,L. Markkanen misses 3-pt jump shot from 23 ft,,1,3,1,2,63.0
+10:52.0,Defensive rebound by D. Robinson,3-1, ,,1,3,1,2,68.0
+10:48.0,P. Tucker misses 2-pt jump shot from 20 ft,3-1, ,,1,3,1,2,72.0
+10:43.0, ,3-1,Defensive rebound by E. Mobley,,1,3,1,2,77.0
+10:36.0, ,3-1,D. Garland misses 3-pt jump shot from 31 ft,,1,3,1,2,84.0
+10:31.0,Defensive rebound by P. Tucker,3-1, ,,1,3,1,2,89.0
+10:27.0,Turnover by K. Lowry (bad pass; steal by D. Garland),3-1, ,,1,3,1,2,93.0
+10:21.0, ,3-3,L. Markkanen makes 2-pt dunk from 1 ft (assist by E. Mobley),Tie,1,3,3,0,99.0
+9:58.0,D. Dedmon misses 2-pt jump shot from 14 ft,3-3, ,,1,3,3,0,122.0
+9:54.0, ,3-3,Defensive rebound by D. Garland,,1,3,3,0,126.0
+9:47.0, ,3-3,L. Markkanen misses 2-pt jump shot from 16 ft (block by K. Lowry),,1,3,3,0,133.0
+9:46.0,Defensive rebound by P. Tucker,3-3, ,,1,3,3,0,134.0
+9:40.0,Turnover by P. Tucker (lost ball; steal by E. Mobley),3-3, ,,1,3,3,0,140.0
+9:32.0, ,3-3,D. Garland misses 2-pt jump shot from 11 ft,,1,3,3,0,148.0
+9:30.0,Defensive rebound by P. Tucker,3-3, ,,1,3,3,0,150.0
+9:18.0,P. Tucker misses 3-pt jump shot from 25 ft,3-3, ,,1,3,3,0,162.0
+9:14.0, ,3-3,Defensive rebound by L. Markkanen,,1,3,3,0,166.0
+9:01.0, ,3-3,Shooting foul by D. Dedmon (drawn by J. Allen),,1,3,3,0,179.0
+9:01.0, ,3-4,J. Allen makes free throw 1 of 2,Lead change,1,3,4,-1,179.0
+9:01.0, ,3-5,J. Allen makes free throw 2 of 2,,1,3,5,-2,179.0
+8:44.0,D. Robinson misses 3-pt jump shot from 26 ft,3-5, ,,1,3,5,-2,196.0
+8:41.0,Offensive rebound by P. Tucker,3-5, ,,1,3,5,-2,199.0
+8:39.0,Turnover by P. Tucker (bad pass; steal by D. Garland),3-5, ,,1,3,5,-2,201.0
+8:31.0, ,3-8,I. Okoro makes 3-pt jump shot from 23 ft (assist by L. Markkanen),,1,3,8,-5,209.0
+8:22.0,K. Lowry makes 2-pt jump shot from 20 ft,5-8, ,,1,5,8,-3,218.0
+8:08.0, ,5-11,L. Markkanen makes 3-pt jump shot from 24 ft (assist by J. Allen),,1,5,11,-6,232.0
+7:57.0,P. Tucker misses 3-pt jump shot from 25 ft,5-11, ,,1,5,11,-6,243.0
+7:53.0,Offensive rebound by D. Dedmon,5-11, ,,1,5,11,-6,247.0
+7:50.0,K. Lowry makes 3-pt jump shot from 28 ft (assist by G. Vincent),8-11, ,,1,8,11,-3,250.0
+7:31.0, ,8-14,D. Garland makes 3-pt jump shot from 23 ft (assist by L. Markkanen),,1,8,14,-6,269.0
+7:12.0,D. Robinson misses 3-pt jump shot from 25 ft,8-14, ,,1,8,14,-6,288.0
+7:09.0, ,8-14,Defensive rebound by E. Mobley,,1,8,14,-6,291.0
+7:01.0, ,8-14,Turnover by J. Allen (traveling),,1,8,14,-6,299.0
+6:50.0,P. Tucker misses 2-pt jump shot from 12 ft,8-14, ,,1,8,14,-6,310.0
+6:46.0,Offensive rebound by P. Tucker,8-14, ,,1,8,14,-6,314.0
+6:41.0,P. Tucker makes 2-pt jump shot from 14 ft,10-14, ,,1,10,14,-4,319.0
+6:22.0, ,10-14,I. Okoro misses 3-pt jump shot from 24 ft,,1,10,14,-4,338.0
+6:17.0,Defensive rebound by G. Vincent,10-14, ,,1,10,14,-4,343.0
+6:09.0,K. Lowry misses 3-pt jump shot from 30 ft,10-14, ,,1,10,14,-4,351.0
+6:09.0, ,10-14,Defensive rebound by I. Okoro,,1,10,14,-4,351.0
+5:56.0, ,10-14,D. Garland misses 2-pt jump shot from 3 ft,,1,10,14,-4,364.0
+5:52.0,Defensive rebound by K. Lowry,10-14, ,,1,10,14,-4,368.0
+5:44.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by D. Dedmon),13-14, ,,1,13,14,-1,376.0
+5:43.0, ,13-14,Cleveland full timeout,,1,13,14,-1,377.0
+5:43.0,T. Herro enters the game for P. Tucker,13-14, ,,1,13,14,-1,377.0
+5:43.0,K. Okpala enters the game for G. Vincent,13-14, ,,1,13,14,-1,377.0
+5:43.0, ,13-14,K. Love enters the game for D. Garland,,1,13,14,-1,377.0
+5:43.0, ,13-14,R. Rubio enters the game for E. Mobley,,1,13,14,-1,377.0
+5:25.0, ,13-14,Personal foul by D. Dedmon (drawn by J. Allen),,1,13,14,-1,395.0
+5:25.0,O. Yurtseven enters the game for D. Dedmon,13-14, ,,1,13,14,-1,395.0
+5:13.0, ,13-16,I. Okoro makes 2-pt dunk from 1 ft (assist by R. Rubio),,1,13,16,-3,407.0
+4:51.0,Personal foul by L. Markkanen (drawn by K. Lowry),13-16, ,,1,13,16,-3,429.0
+4:51.0, ,13-16,C. Osman enters the game for L. Markkanen,,1,13,16,-3,429.0
+4:46.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by O. Yurtseven),16-16, ,Tie,1,16,16,0,434.0
+4:31.0, ,16-16,K. Love misses 2-pt hook shot from 8 ft,,1,16,16,0,449.0
+4:28.0,Defensive rebound by D. Robinson,16-16, ,,1,16,16,0,452.0
+4:17.0,K. Lowry misses 2-pt layup from 2 ft,16-16, ,,1,16,16,0,463.0
+4:16.0,Offensive rebound by O. Yurtseven,16-16, ,,1,16,16,0,464.0
+4:16.0,O. Yurtseven misses 2-pt layup at rim,16-16, ,,1,16,16,0,464.0
+4:15.0,Offensive rebound by O. Yurtseven,16-16, ,,1,16,16,0,465.0
+4:14.0,O. Yurtseven misses 2-pt hook shot from 1 ft,16-16, ,,1,16,16,0,466.0
+4:12.0, ,16-16,Defensive rebound by Team,,1,16,16,0,468.0
+3:51.0, ,16-16,Turnover by R. Rubio (lost ball; steal by K. Okpala),,1,16,16,0,489.0
+3:42.0,Personal foul by R. Rubio (drawn by T. Herro),16-16, ,,1,16,16,0,498.0
+3:42.0, ,16-16,D. Garland enters the game for J. Allen,,1,16,16,0,498.0
+3:42.0, ,16-16,E. Mobley enters the game for I. Okoro,,1,16,16,0,498.0
+3:33.0,Violation by Team (kicked ball),16-16, ,,1,16,16,0,507.0
+3:20.0, ,16-16,C. Osman misses 2-pt layup from 1 ft,,1,16,16,0,520.0
+3:16.0,Defensive rebound by O. Yurtseven,16-16, ,,1,16,16,0,524.0
+3:09.0,D. Robinson makes 2-pt layup from 7 ft,18-16, ,Lead change,1,18,16,2,531.0
+3:02.0, ,18-16,C. Osman misses 2-pt layup from 1 ft,,1,18,16,2,538.0
+2:59.0,Defensive rebound by K. Okpala,18-16, ,,1,18,16,2,541.0
+2:53.0,Turnover by K. Okpala (bad pass; steal by D. Garland),18-16, ,,1,18,16,2,547.0
+2:32.0, ,18-19,R. Rubio makes 3-pt jump shot from 27 ft (assist by C. Osman),Lead change,1,18,19,-1,568.0
+2:28.0,T. Herro makes 2-pt jump shot from 1 ft,20-19, ,Lead change,1,20,19,1,572.0
+2:22.0, ,20-19,C. Osman misses 3-pt jump shot from 27 ft,,1,20,19,1,578.0
+2:22.0,Defensive rebound by D. Robinson,20-19, ,,1,20,19,1,578.0
+2:15.0,K. Lowry misses 3-pt jump shot from 30 ft,20-19, ,,1,20,19,1,585.0
+2:11.0, ,20-19,Defensive rebound by R. Rubio,,1,20,19,1,589.0
+2:04.0, ,20-19,R. Rubio misses 3-pt jump shot from 26 ft,,1,20,19,1,596.0
+2:01.0,Defensive rebound by K. Okpala,20-19, ,,1,20,19,1,599.0
+1:54.0,T. Herro misses 3-pt jump shot from 26 ft,20-19, ,,1,20,19,1,606.0
+1:49.0, ,20-19,Defensive rebound by K. Love,,1,20,19,1,611.0
+1:40.0, ,20-19,Personal foul by K. Lowry (drawn by R. Rubio),,1,20,19,1,620.0
+1:40.0,Miami full timeout,20-19, ,,1,20,19,1,620.0
+1:40.0,M. Strus enters the game for K. Lowry,20-19, ,,1,20,19,1,620.0
+1:40.0,P. Tucker enters the game for D. Robinson,20-19, ,,1,20,19,1,620.0
+1:40.0,G. Vincent enters the game for O. Yurtseven,20-19, ,,1,20,19,1,620.0
+1:26.0, ,20-19,R. Rubio misses 2-pt jump shot from 14 ft,,1,20,19,1,634.0
+1:25.0, ,20-19,Offensive rebound by Team,,1,20,19,1,635.0
+1:24.0, ,20-19,Turnover by Team (shot clock),,1,20,19,1,636.0
+1:14.0,K. Okpala makes 3-pt jump shot from 24 ft (assist by T. Herro),23-19, ,,1,23,19,4,646.0
+0:51.0, ,23-22,D. Garland makes 3-pt jump shot from 33 ft (assist by E. Mobley),,1,23,22,1,669.0
+0:39.0,T. Herro misses 2-pt jump shot from 17 ft,23-22, ,,1,23,22,1,681.0
+0:35.0,Offensive rebound by P. Tucker,23-22, ,,1,23,22,1,685.0
+0:29.0,Turnover by T. Herro (bad pass),23-22, ,,1,23,22,1,691.0
+0:12.0, ,23-22,Shooting foul by K. Okpala (drawn by E. Mobley),,1,23,22,1,708.0
+0:12.0, ,23-22,E. Mobley misses free throw 1 of 2,,1,23,22,1,708.0
+0:12.0, ,23-22,Offensive rebound by Team,,1,23,22,1,708.0
+0:12.0, ,23-22,I. Okoro enters the game for K. Love,,1,23,22,1,708.0
+0:12.0, ,23-23,E. Mobley makes free throw 2 of 2,Tie,1,23,23,0,708.0
+0:00.0,T. Herro makes 2-pt jump shot from 23 ft,25-23, ,,1,25,23,2,720.0
+0:00.0,End of 1st quarter,25-23,,,1,25,23,2,720.0
+12:00.0,Start of 2nd quarter,25-23,,,2,25,23,2,720.0
+11:46.0,M. Strus misses 3-pt jump shot from 23 ft,25-23, ,,2,25,23,2,734.0
+11:43.0, ,25-23,Defensive rebound by K. Love,,2,25,23,2,737.0
+11:30.0, ,25-23,D. Garland misses 2-pt jump shot from 11 ft,,2,25,23,2,750.0
+11:26.0,Defensive rebound by T. Herro,25-23, ,,2,25,23,2,754.0
+11:21.0,T. Herro misses 3-pt jump shot from 25 ft,25-23, ,,2,25,23,2,759.0
+11:14.0, ,25-23,Defensive rebound by R. Rubio,,2,25,23,2,766.0
+11:08.0, ,25-23,E. Mobley misses 2-pt jump shot from 8 ft,,2,25,23,2,772.0
+11:07.0, ,25-23,Offensive rebound by E. Mobley,,2,25,23,2,773.0
+11:07.0, ,25-23,Shooting foul by P. Tucker (drawn by E. Mobley),,2,25,23,2,773.0
+11:07.0, ,25-24,E. Mobley makes free throw 1 of 2,,2,25,24,1,773.0
+11:07.0, ,25-25,E. Mobley makes free throw 2 of 2,Tie,2,25,25,0,773.0
+10:51.0,M. Strus misses 3-pt jump shot from 25 ft,25-25, ,,2,25,25,0,789.0
+10:50.0,Offensive rebound by P. Tucker,25-25, ,,2,25,25,0,790.0
+10:48.0,G. Vincent misses 3-pt jump shot from 25 ft,25-25, ,,2,25,25,0,792.0
+10:44.0, ,25-25,Defensive rebound by Team,,2,25,25,0,796.0
+10:44.0, ,25-25,Cleveland full timeout,,2,25,25,0,796.0
+10:44.0,O. Yurtseven enters the game for K. Okpala,25-25, ,,2,25,25,0,796.0
+10:44.0, ,25-25,L. Stevens enters the game for C. Osman,,2,25,25,0,796.0
+10:27.0, ,25-25,E. Mobley misses 2-pt jump shot from 16 ft,,2,25,25,0,813.0
+10:27.0,Defensive rebound by T. Herro,25-25, ,,2,25,25,0,813.0
+10:17.0,T. Herro makes 2-pt layup from 1 ft,27-25, ,,2,27,25,2,823.0
+10:17.0, ,27-25,Violation by Team (def goaltending),,2,27,25,2,823.0
+10:02.0, ,27-25,R. Rubio misses 2-pt jump shot from 14 ft,,2,27,25,2,838.0
+10:00.0,Defensive rebound by O. Yurtseven,27-25, ,,2,27,25,2,840.0
+9:52.0,Personal foul by K. Love (drawn by T. Herro),27-25, ,,2,27,25,2,848.0
+9:46.0,M. Strus misses 3-pt jump shot from 28 ft,27-25, ,,2,27,25,2,854.0
+9:41.0, ,27-25,Defensive rebound by D. Garland,,2,27,25,2,859.0
+9:38.0, ,27-25,K. Love misses 3-pt jump shot from 31 ft,,2,27,25,2,862.0
+9:33.0,Defensive rebound by G. Vincent,27-25, ,,2,27,25,2,867.0
+9:29.0,O. Yurtseven makes 2-pt hook shot from 8 ft (assist by M. Strus),29-25, ,,2,29,25,4,871.0
+9:14.0, ,29-25,E. Mobley misses 2-pt jump shot from 3 ft (block by O. Yurtseven),,2,29,25,4,886.0
+9:09.0,Defensive rebound by M. Strus,29-25, ,,2,29,25,4,891.0
+9:09.0,Turnover by G. Vincent (bad pass),29-25, ,,2,29,25,4,891.0
+9:09.0, ,29-25,L. Markkanen enters the game for E. Mobley,,2,29,25,4,891.0
+9:09.0, ,29-25,I. Okoro enters the game for R. Rubio,,2,29,25,4,891.0
+8:44.0, ,29-25,L. Markkanen misses 3-pt jump shot from 23 ft,,2,29,25,4,916.0
+8:43.0,Defensive rebound by Team,29-25, ,,2,29,25,4,917.0
+8:32.0,T. Herro makes 2-pt layup at rim (assist by P. Tucker),31-25, ,,2,31,25,6,928.0
+8:20.0, ,31-28,L. Stevens makes 3-pt jump shot from 23 ft (assist by D. Garland),,2,31,28,3,940.0
+8:05.0,T. Herro misses 2-pt jump shot from 11 ft,31-28, ,,2,31,28,3,955.0
+8:03.0, ,31-28,Defensive rebound by K. Love,,2,31,28,3,957.0
+8:02.0, ,31-28,I. Okoro misses 2-pt layup from 2 ft (block by P. Tucker),,2,31,28,3,958.0
+8:02.0,Defensive rebound by Team,31-28, ,,2,31,28,3,958.0
+8:02.0, ,31-28,J. Allen enters the game for K. Love,,2,31,28,3,958.0
+7:48.0,O. Yurtseven misses 2-pt dunk from 1 ft (block by J. Allen),31-28, ,,2,31,28,3,972.0
+7:46.0, ,31-28,Defensive rebound by I. Okoro,,2,31,28,3,974.0
+7:35.0, ,31-31,D. Garland makes 3-pt jump shot from 27 ft,Tie,2,31,31,0,985.0
+7:26.0,Miami full timeout,31-31, ,,2,31,31,0,994.0
+7:26.0,D. Dedmon enters the game for M. Strus,31-31, ,,2,31,31,0,994.0
+7:26.0,K. Lowry enters the game for P. Tucker,31-31, ,,2,31,31,0,994.0
+7:26.0,K. Okpala enters the game for G. Vincent,31-31, ,,2,31,31,0,994.0
+7:26.0,D. Robinson enters the game for O. Yurtseven,31-31, ,,2,31,31,0,994.0
+7:09.0,Turnover by Team (shot clock),31-31, ,,2,31,31,0,1011.0
+6:56.0, ,31-33,J. Allen makes 2-pt jump shot from 18 ft,Lead change,2,31,33,-2,1024.0
+6:29.0,D. Dedmon misses 3-pt jump shot from 22 ft,31-33, ,,2,31,33,-2,1051.0
+6:25.0, ,31-33,Defensive rebound by L. Stevens,,2,31,33,-2,1055.0
+6:20.0, ,31-35,J. Allen makes 2-pt dunk from 1 ft (assist by D. Garland),,2,31,35,-4,1060.0
+5:58.0,K. Lowry makes 2-pt jump shot from 8 ft (assist by D. Dedmon),33-35, ,,2,33,35,-2,1082.0
+5:43.0, ,33-37,D. Garland makes 2-pt jump shot from 12 ft,,2,33,37,-4,1097.0
+5:25.0,D. Dedmon makes 2-pt dunk from 1 ft (assist by K. Lowry),35-37, ,,2,35,37,-2,1115.0
+5:09.0, ,35-37,L. Markkanen misses 3-pt jump shot from 28 ft,,2,35,37,-2,1131.0
+5:06.0,Defensive rebound by D. Robinson,35-37, ,,2,35,37,-2,1134.0
+4:54.0,D. Dedmon makes 2-pt layup at rim (assist by K. Okpala),37-37, ,Tie,2,37,37,0,1146.0
+4:39.0, ,37-40,L. Markkanen makes 3-pt jump shot from 28 ft (assist by I. Okoro),,2,37,40,-3,1161.0
+4:18.0,K. Lowry misses 3-pt jump shot from 28 ft,37-40, ,,2,37,40,-3,1182.0
+4:12.0, ,37-40,Defensive rebound by L. Stevens,,2,37,40,-3,1188.0
+4:02.0, ,37-40,D. Garland misses 2-pt layup from 2 ft,,2,37,40,-3,1198.0
+4:00.0, ,37-40,Offensive rebound by J. Allen,,2,37,40,-3,1200.0
+4:00.0, ,37-40,Shooting foul by K. Lowry (drawn by J. Allen),,2,37,40,-3,1200.0
+4:00.0, ,37-41,J. Allen makes free throw 1 of 2,,2,37,41,-4,1200.0
+4:00.0,P. Tucker enters the game for K. Okpala,37-41, ,,2,37,41,-4,1200.0
+4:00.0, ,37-41,E. Mobley enters the game for D. Garland,,2,37,41,-4,1200.0
+4:00.0, ,37-41,R. Rubio enters the game for L. Stevens,,2,37,41,-4,1200.0
+4:00.0, ,37-42,J. Allen makes free throw 2 of 2,,2,37,42,-5,1200.0
+3:50.0,Shooting foul by I. Okoro (drawn by D. Robinson),37-42, ,,2,37,42,-5,1210.0
+3:50.0,D. Robinson misses free throw 1 of 3,37-42, ,,2,37,42,-5,1210.0
+3:50.0,Offensive rebound by Team,37-42, ,,2,37,42,-5,1210.0
+3:50.0,D. Robinson makes free throw 2 of 3,38-42, ,,2,38,42,-4,1210.0
+3:50.0,D. Robinson misses free throw 3 of 3,38-42, ,,2,38,42,-4,1210.0
+3:47.0,Offensive rebound by D. Dedmon,38-42, ,,2,38,42,-4,1213.0
+3:43.0,D. Robinson misses 3-pt jump shot from 25 ft,38-42, ,,2,38,42,-4,1217.0
+3:39.0, ,38-42,Defensive rebound by J. Allen,,2,38,42,-4,1221.0
+3:27.0, ,38-44,L. Markkanen makes 2-pt hook shot from 7 ft,,2,38,44,-6,1233.0
+3:13.0,T. Herro misses 2-pt jump shot from 12 ft,38-44, ,,2,38,44,-6,1247.0
+3:10.0, ,38-44,Defensive rebound by J. Allen,,2,38,44,-6,1250.0
+2:59.0, ,38-44,R. Rubio misses 2-pt jump shot from 9 ft,,2,38,44,-6,1261.0
+2:51.0, ,38-44,Offensive rebound by J. Allen,,2,38,44,-6,1269.0
+2:51.0, ,38-46,J. Allen makes 2-pt dunk at rim,,2,38,46,-8,1269.0
+2:44.0,Turnover by K. Lowry (step out of bounds),38-46, ,,2,38,46,-8,1276.0
+2:44.0,G. Vincent enters the game for T. Herro,38-46, ,,2,38,46,-8,1276.0
+2:33.0, ,38-46,Personal foul by K. Lowry (drawn by L. Markkanen),,2,38,46,-8,1287.0
+2:19.0, ,38-48,J. Allen makes 2-pt hook shot from 12 ft,,2,38,48,-10,1301.0
+2:12.0,Offensive foul by P. Tucker (drawn by I. Okoro),38-48, ,,2,38,48,-10,1308.0
+2:12.0,Turnover by P. Tucker (offensive foul),38-48, ,,2,38,48,-10,1308.0
+1:58.0, ,38-48,L. Markkanen misses 3-pt jump shot from 33 ft,,2,38,48,-10,1322.0
+1:54.0, ,38-48,Offensive rebound by J. Allen,,2,38,48,-10,1326.0
+1:53.0, ,38-50,I. Okoro makes 2-pt dunk from 1 ft (assist by J. Allen),,2,38,50,-12,1327.0
+1:53.0,Miami full timeout,38-50, ,,2,38,50,-12,1327.0
+1:53.0,K. Okpala enters the game for D. Dedmon,38-50, ,,2,38,50,-12,1327.0
+1:33.0,K. Okpala misses 3-pt jump shot from 23 ft,38-50, ,,2,38,50,-12,1347.0
+1:32.0,Offensive rebound by Team,38-50, ,,2,38,50,-12,1348.0
+1:29.0,Jump ball: E. Mobley vs. P. Tucker (L. Markkanen gains possession),38-50,,,2,38,50,-12,1351.0
+1:29.0,Turnover by K. Okpala (lost ball; steal by E. Mobley),38-50, ,,2,38,50,-12,1351.0
+1:18.0, ,38-52,E. Mobley makes 2-pt dunk from 1 ft (assist by R. Rubio),,2,38,52,-14,1362.0
+1:02.0,P. Tucker makes 3-pt jump shot from 24 ft (assist by G. Vincent),41-52, ,,2,41,52,-11,1378.0
+0:53.0, ,41-55,I. Okoro makes 3-pt jump shot from 23 ft (assist by R. Rubio),,2,41,55,-14,1387.0
+0:44.0,D. Robinson misses 3-pt jump shot from 25 ft,41-55, ,,2,41,55,-14,1396.0
+0:42.0, ,41-55,Defensive rebound by I. Okoro,,2,41,55,-14,1398.0
+0:36.0, ,41-55,I. Okoro misses 3-pt jump shot from 24 ft,,2,41,55,-14,1404.0
+0:30.0,Defensive rebound by G. Vincent,41-55, ,,2,41,55,-14,1410.0
+0:30.0,Personal take foul by R. Rubio (drawn by G. Vincent),41-55, ,,2,41,55,-14,1410.0
+0:30.0,T. Herro enters the game for K. Lowry,41-55, ,,2,41,55,-14,1410.0
+0:18.0,P. Tucker makes 3-pt jump shot from 24 ft (assist by G. Vincent),44-55, ,,2,44,55,-11,1422.0
+0:00.0, ,44-55,E. Mobley misses 2-pt jump shot from 11 ft,,2,44,55,-11,1440.0
+0:00.0, ,44-55,Offensive rebound by Team,,2,44,55,-11,1440.0
+0:00.0,End of 2nd quarter,44-55,,,2,44,55,-11,1440.0
+12:00.0,Start of 3rd quarter,44-55,,,3,44,55,-11,1440.0
+11:41.0,G. Vincent makes 3-pt jump shot from 27 ft (assist by P. Tucker),47-55, ,,3,47,55,-8,1459.0
+11:19.0, ,47-55,L. Markkanen misses 3-pt jump shot from 25 ft,,3,47,55,-8,1481.0
+11:16.0,Defensive rebound by D. Dedmon,47-55, ,,3,47,55,-8,1484.0
+11:03.0,P. Tucker makes 2-pt jump shot from 11 ft (assist by D. Robinson),49-55, ,,3,49,55,-6,1497.0
+10:50.0, ,49-55,D. Garland misses 3-pt jump shot from 23 ft,,3,49,55,-6,1510.0
+10:47.0,Defensive rebound by P. Tucker,49-55, ,,3,49,55,-6,1513.0
+10:40.0,P. Tucker misses 2-pt jump shot from 11 ft,49-55, ,,3,49,55,-6,1520.0
+10:37.0, ,49-55,Defensive rebound by D. Garland,,3,49,55,-6,1523.0
+10:24.0, ,49-55,E. Mobley misses 2-pt hook shot from 10 ft,,3,49,55,-6,1536.0
+10:21.0,Defensive rebound by P. Tucker,49-55, ,,3,49,55,-6,1539.0
+10:09.0,D. Dedmon makes 2-pt layup from 3 ft (assist by D. Robinson),51-55, ,,3,51,55,-4,1551.0
+9:49.0, ,51-55,D. Garland misses 3-pt jump shot from 27 ft,,3,51,55,-4,1571.0
+9:47.0,Defensive rebound by K. Lowry,51-55, ,,3,51,55,-4,1573.0
+9:37.0,D. Robinson misses 2-pt layup from 1 ft,51-55, ,,3,51,55,-4,1583.0
+9:34.0,Offensive rebound by D. Dedmon,51-55, ,,3,51,55,-4,1586.0
+9:32.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by P. Tucker),54-55, ,,3,54,55,-1,1588.0
+9:32.0, ,54-55,Cleveland full timeout,,3,54,55,-1,1588.0
+9:03.0, ,54-58,I. Okoro makes 3-pt jump shot from 23 ft (assist by D. Garland),,3,54,58,-4,1617.0
+8:38.0,D. Dedmon makes 2-pt dunk at rim (assist by P. Tucker),56-58, ,,3,56,58,-2,1642.0
+8:14.0, ,56-58,Offensive foul by I. Okoro (drawn by G. Vincent),,3,56,58,-2,1666.0
+8:14.0, ,56-58,Turnover by I. Okoro (offensive foul),,3,56,58,-2,1666.0
+8:04.0,Turnover by G. Vincent (bad pass),56-58, ,,3,56,58,-2,1676.0
+7:49.0, ,56-58,Shooting foul by D. Robinson (drawn by D. Garland),,3,56,58,-2,1691.0
+7:49.0, ,56-59,D. Garland makes free throw 1 of 2,,3,56,59,-3,1691.0
+7:49.0, ,56-60,D. Garland makes free throw 2 of 2,,3,56,60,-4,1691.0
+7:34.0,Personal foul by J. Allen (drawn by D. Dedmon),56-60, ,,3,56,60,-4,1706.0
+7:27.0,D. Robinson misses 3-pt jump shot from 26 ft,56-60, ,,3,56,60,-4,1713.0
+7:23.0, ,56-60,Defensive rebound by L. Markkanen,,3,56,60,-4,1717.0
+7:08.0, ,56-60,Turnover by E. Mobley (traveling),,3,56,60,-4,1732.0
+6:58.0,Turnover by D. Dedmon (traveling),56-60, ,,3,56,60,-4,1742.0
+6:45.0, ,56-60,Personal foul by G. Vincent (drawn by D. Garland),,3,56,60,-4,1755.0
+6:34.0, ,56-62,D. Garland makes 2-pt jump shot from 14 ft (assist by I. Okoro),,3,56,62,-6,1766.0
+6:21.0,K. Lowry makes 3-pt jump shot from 26 ft,59-62, ,,3,59,62,-3,1779.0
+6:07.0, ,59-62,I. Okoro misses 3-pt jump shot from 24 ft,,3,59,62,-3,1793.0
+6:04.0,Defensive rebound by K. Lowry,59-62, ,,3,59,62,-3,1796.0
+6:01.0,Personal foul by I. Okoro (drawn by K. Lowry),59-62, ,,3,59,62,-3,1799.0
+6:01.0,T. Herro enters the game for G. Vincent,59-62, ,,3,59,62,-3,1799.0
+6:01.0, ,59-62,K. Love enters the game for E. Mobley,,3,59,62,-3,1799.0
+5:57.0,Turnover by D. Robinson (traveling),59-62, ,,3,59,62,-3,1803.0
+5:42.0, ,59-62,L. Markkanen misses 2-pt layup from 2 ft,,3,59,62,-3,1818.0
+5:40.0, ,59-62,Offensive rebound by L. Markkanen,,3,59,62,-3,1820.0
+5:39.0, ,59-64,L. Markkanen makes 2-pt layup from 9 ft,,3,59,64,-5,1821.0
+5:23.0,K. Lowry makes 3-pt jump shot from 29 ft,62-64, ,,3,62,64,-2,1837.0
+5:08.0, ,62-64,Offensive foul by K. Love (drawn by K. Lowry),,3,62,64,-2,1852.0
+5:08.0, ,62-64,Turnover by K. Love (offensive foul),,3,62,64,-2,1852.0
+5:08.0,M. Strus enters the game for D. Dedmon,62-64, ,,3,62,64,-2,1852.0
+5:08.0,O. Yurtseven enters the game for D. Robinson,62-64, ,,3,62,64,-2,1852.0
+5:08.0, ,62-64,R. Rubio enters the game for D. Garland,,3,62,64,-2,1852.0
+4:46.0,P. Tucker makes 2-pt jump shot from 9 ft (assist by M. Strus),64-64, ,Tie,3,64,64,0,1874.0
+4:35.0, ,64-67,K. Love makes 3-pt jump shot from 25 ft (assist by R. Rubio),,3,64,67,-3,1885.0
+4:21.0,T. Herro misses 2-pt jump shot from 10 ft,64-67, ,,3,64,67,-3,1899.0
+4:19.0, ,64-67,Defensive rebound by K. Love,,3,64,67,-3,1901.0
+4:14.0, ,64-69,I. Okoro makes 2-pt layup from 1 ft,,3,64,69,-5,1906.0
+4:14.0,Miami full timeout,64-69, ,,3,64,69,-5,1906.0
+3:59.0,T. Herro makes 2-pt layup from 1 ft (assist by K. Lowry),66-69, ,,3,66,69,-3,1921.0
+3:38.0, ,66-69,I. Okoro misses 3-pt jump shot from 23 ft,,3,66,69,-3,1942.0
+3:36.0, ,66-69,Offensive rebound by J. Allen,,3,66,69,-3,1944.0
+3:34.0, ,66-72,K. Love makes 3-pt jump shot from 23 ft (assist by R. Rubio),,3,66,72,-6,1946.0
+3:05.0,T. Herro misses 2-pt jump shot from 12 ft,66-72, ,,3,66,72,-6,1975.0
+3:05.0,Offensive rebound by Team,66-72, ,,3,66,72,-6,1975.0
+3:05.0,Turnover by Team (shot clock),66-72, ,,3,66,72,-6,1975.0
+3:05.0, ,66-72,E. Mobley enters the game for J. Allen,,3,66,72,-6,1975.0
+3:05.0, ,66-72,L. Stevens enters the game for I. Okoro,,3,66,72,-6,1975.0
+2:56.0, ,66-72,Shooting foul by P. Tucker (drawn by K. Love),,3,66,72,-6,1984.0
+2:56.0, ,66-73,K. Love makes free throw 1 of 3,,3,66,73,-7,1984.0
+2:56.0, ,66-74,K. Love makes free throw 2 of 3,,3,66,74,-8,1984.0
+2:56.0, ,66-75,K. Love makes free throw 3 of 3,,3,66,75,-9,1984.0
+2:48.0,M. Strus misses 3-pt jump shot from 30 ft,66-75, ,,3,66,75,-9,1992.0
+2:44.0, ,66-75,Defensive rebound by L. Markkanen,,3,66,75,-9,1996.0
+2:44.0, ,66-75,D. Garland enters the game for L. Markkanen,,3,66,75,-9,1996.0
+2:36.0, ,66-75,D. Garland misses 2-pt jump shot from 10 ft,,3,66,75,-9,2004.0
+2:31.0,Defensive rebound by M. Strus,66-75, ,,3,66,75,-9,2009.0
+2:30.0,Shooting foul by L. Stevens (drawn by O. Yurtseven),66-75, ,,3,66,75,-9,2010.0
+2:30.0,O. Yurtseven makes free throw 1 of 2,67-75, ,,3,67,75,-8,2010.0
+2:30.0,O. Yurtseven makes free throw 2 of 2,68-75, ,,3,68,75,-7,2010.0
+2:14.0, ,68-75,K. Love misses 3-pt jump shot from 23 ft,,3,68,75,-7,2026.0
+2:14.0,Defensive rebound by Team,68-75, ,,3,68,75,-7,2026.0
+1:58.0,P. Tucker makes 3-pt jump shot from 24 ft (assist by T. Herro),71-75, ,,3,71,75,-4,2042.0
+1:37.0, ,71-75,R. Rubio misses 3-pt jump shot from 24 ft,,3,71,75,-4,2063.0
+1:35.0, ,71-75,Offensive rebound by K. Love,,3,71,75,-4,2065.0
+1:29.0, ,71-75,Turnover by D. Garland (bad pass),,3,71,75,-4,2071.0
+1:08.0,P. Tucker makes 2-pt jump shot from 14 ft (assist by K. Lowry),73-75, ,,3,73,75,-2,2092.0
+0:56.0, ,73-75,E. Mobley misses 2-pt hook shot from 5 ft,,3,73,75,-2,2104.0
+0:54.0,Defensive rebound by O. Yurtseven,73-75, ,,3,73,75,-2,2106.0
+0:44.0,T. Herro misses 3-pt jump shot from 26 ft,73-75, ,,3,73,75,-2,2116.0
+0:41.0, ,73-75,Defensive rebound by L. Stevens,,3,73,75,-2,2119.0
+0:26.0, ,73-77,K. Love makes 2-pt jump shot from 1 ft,,3,73,77,-4,2134.0
+0:26.0, ,73-77,Shooting foul by M. Strus (drawn by K. Love),,3,73,77,-4,2134.0
+0:26.0,G. Vincent enters the game for P. Tucker,73-77, ,,3,73,77,-4,2134.0
+0:26.0, ,73-77,I. Okoro enters the game for D. Garland,,3,73,77,-4,2134.0
+0:26.0, ,73-78,K. Love makes free throw 1 of 1,,3,73,78,-5,2134.0
+0:06.0,G. Vincent misses 2-pt layup from 2 ft,73-78, ,,3,73,78,-5,2154.0
+0:05.0,Offensive rebound by O. Yurtseven,73-78, ,,3,73,78,-5,2155.0
+0:05.0,Shooting foul by L. Stevens (drawn by O. Yurtseven),73-78, ,,3,73,78,-5,2155.0
+0:05.0,O. Yurtseven misses free throw 1 of 2,73-78, ,,3,73,78,-5,2155.0
+0:05.0,Offensive rebound by Team,73-78, ,,3,73,78,-5,2155.0
+0:05.0,K. Okpala enters the game for K. Lowry,73-78, ,,3,73,78,-5,2155.0
+0:05.0, ,73-78,D. Garland enters the game for I. Okoro,,3,73,78,-5,2155.0
+0:05.0, ,73-78,L. Markkanen enters the game for L. Stevens,,3,73,78,-5,2155.0
+0:05.0,O. Yurtseven misses free throw 2 of 2,73-78, ,,3,73,78,-5,2155.0
+0:05.0, ,73-78,Defensive rebound by K. Love,,3,73,78,-5,2155.0
+0:00.0,End of 3rd quarter,73-78,,,3,73,78,-5,2160.0
+12:00.0,Start of 4th quarter,73-78,,,4,73,78,-5,2160.0
+11:46.0, ,73-78,Shooting foul by D. Dedmon (drawn by K. Love),,4,73,78,-5,2174.0
+11:46.0, ,73-79,K. Love makes free throw 1 of 2,,4,73,79,-6,2174.0
+11:46.0, ,73-80,K. Love makes free throw 2 of 2,,4,73,80,-7,2174.0
+11:33.0,T. Herro makes 2-pt layup from 1 ft (assist by G. Vincent),75-80, ,,4,75,80,-5,2187.0
+11:33.0,Violation by Team (delay of game),75-80, ,,4,75,80,-5,2187.0
+11:16.0, ,75-82,R. Rubio makes 2-pt jump shot from 10 ft,,4,75,82,-7,2204.0
+11:03.0,T. Herro misses 2-pt jump shot from 17 ft,75-82, ,,4,75,82,-7,2217.0
+10:58.0, ,75-82,Defensive rebound by L. Stevens,,4,75,82,-7,2222.0
+10:43.0, ,75-82,D. Garland misses 2-pt jump shot from 1 ft,,4,75,82,-7,2237.0
+10:30.0, ,75-82,Offensive rebound by E. Mobley,,4,75,82,-7,2250.0
+10:30.0, ,75-84,E. Mobley makes 2-pt dunk at rim,,4,75,84,-9,2250.0
+10:24.0,K. Okpala misses 3-pt jump shot from 23 ft,75-84, ,,4,75,84,-9,2256.0
+10:20.0, ,75-84,Defensive rebound by D. Garland,,4,75,84,-9,2260.0
+10:10.0, ,75-84,Turnover by K. Love (lost ball; steal by D. Dedmon),,4,75,84,-9,2270.0
+9:50.0,G. Vincent makes 2-pt jump shot from 16 ft,77-84, ,,4,77,84,-7,2290.0
+9:25.0, ,77-84,R. Rubio misses 3-pt jump shot from 23 ft,,4,77,84,-7,2315.0
+9:21.0,Defensive rebound by D. Dedmon,77-84, ,,4,77,84,-7,2319.0
+9:01.0,G. Vincent misses 3-pt jump shot from 27 ft,77-84, ,,4,77,84,-7,2339.0
+8:59.0,Offensive rebound by K. Okpala,77-84, ,,4,77,84,-7,2341.0
+8:54.0,K. Okpala misses 2-pt jump shot from 17 ft,77-84, ,,4,77,84,-7,2346.0
+8:52.0, ,77-84,Defensive rebound by K. Love,,4,77,84,-7,2348.0
+8:48.0, ,77-84,E. Mobley misses 2-pt layup from 2 ft,,4,77,84,-7,2352.0
+8:48.0,Defensive rebound by Team,77-84, ,,4,77,84,-7,2352.0
+8:48.0,K. Lowry enters the game for T. Herro,77-84, ,,4,77,84,-7,2352.0
+8:48.0, ,77-84,L. Markkanen enters the game for R. Rubio,,4,77,84,-7,2352.0
+8:48.0, ,77-84,I. Okoro enters the game for L. Stevens,,4,77,84,-7,2352.0
+8:28.0,D. Dedmon makes 2-pt layup from 2 ft (assist by K. Okpala),79-84, ,,4,79,84,-5,2372.0
+8:12.0, ,79-87,I. Okoro makes 3-pt jump shot from 24 ft (assist by E. Mobley),,4,79,87,-8,2388.0
+7:59.0,K. Okpala misses 3-pt jump shot from 26 ft,79-87, ,,4,79,87,-8,2401.0
+7:55.0, ,79-87,Defensive rebound by I. Okoro,,4,79,87,-8,2405.0
+7:45.0, ,79-90,K. Love makes 3-pt jump shot from 24 ft (assist by D. Garland),,4,79,90,-11,2415.0
+7:44.0,Miami full timeout,79-90, ,,4,79,90,-11,2416.0
+7:44.0,D. Robinson enters the game for D. Dedmon,79-90, ,,4,79,90,-11,2416.0
+7:44.0,P. Tucker enters the game for K. Okpala,79-90, ,,4,79,90,-11,2416.0
+7:44.0,O. Yurtseven enters the game for M. Strus,79-90, ,,4,79,90,-11,2416.0
+7:25.0,K. Lowry misses 2-pt jump shot from 16 ft,79-90, ,,4,79,90,-11,2435.0
+7:20.0, ,79-90,Defensive rebound by K. Love,,4,79,90,-11,2440.0
+7:04.0, ,79-92,E. Mobley makes 2-pt layup from 1 ft (assist by K. Love),,4,79,92,-13,2456.0
+6:51.0,K. Lowry misses 2-pt jump shot from 16 ft,79-92, ,,4,79,92,-13,2469.0
+6:46.0, ,79-92,Defensive rebound by K. Love,,4,79,92,-13,2474.0
+6:46.0, ,79-92,Offensive foul by E. Mobley (drawn by G. Vincent),,4,79,92,-13,2474.0
+6:46.0, ,79-92,Turnover by E. Mobley (offensive foul),,4,79,92,-13,2474.0
+6:46.0, ,79-92,J. Allen enters the game for D. Garland,,4,79,92,-13,2474.0
+6:46.0, ,79-92,R. Rubio enters the game for E. Mobley,,4,79,92,-13,2474.0
+6:25.0,O. Yurtseven makes 2-pt hook shot from 8 ft,81-92, ,,4,81,92,-11,2495.0
+6:09.0, ,81-95,K. Love makes 3-pt jump shot from 25 ft,,4,81,95,-14,2511.0
+5:56.0,G. Vincent makes 3-pt jump shot from 28 ft (assist by P. Tucker),84-95, ,,4,84,95,-11,2524.0
+5:33.0, ,84-97,R. Rubio makes 2-pt layup at rim (assist by J. Allen),,4,84,97,-13,2547.0
+5:25.0,K. Lowry misses 3-pt jump shot from 26 ft,84-97, ,,4,84,97,-13,2555.0
+5:21.0, ,84-97,Defensive rebound by I. Okoro,,4,84,97,-13,2559.0
+5:10.0, ,84-100,K. Love makes 3-pt jump shot from 25 ft (assist by R. Rubio),,4,84,100,-16,2570.0
+5:09.0,Miami full timeout,84-100, ,,4,84,100,-16,2571.0
+4:48.0,K. Lowry makes 2-pt jump shot from 14 ft,86-100, ,,4,86,100,-14,2592.0
+4:19.0, ,86-100,K. Love misses 3-pt jump shot from 26 ft,,4,86,100,-14,2621.0
+4:16.0,Defensive rebound by O. Yurtseven,86-100, ,,4,86,100,-14,2624.0
+4:12.0,K. Lowry makes 2-pt layup at rim,88-100, ,,4,88,100,-12,2628.0
+3:57.0, ,88-100,Turnover by J. Allen (bad pass; steal by D. Robinson),,4,88,100,-12,2643.0
+3:43.0,G. Vincent makes 2-pt jump shot from 13 ft (assist by K. Lowry),90-100, ,,4,90,100,-10,2657.0
+3:42.0, ,90-100,Cleveland full timeout,,4,90,100,-10,2658.0
+3:42.0, ,90-100,D. Garland enters the game for K. Love,,4,90,100,-10,2658.0
+3:42.0, ,90-100,E. Mobley enters the game for L. Markkanen,,4,90,100,-10,2658.0
+3:31.0, ,90-102,J. Allen makes 2-pt dunk from 1 ft (assist by D. Garland),,4,90,102,-12,2669.0
+3:31.0, ,90-102,Shooting foul by K. Lowry (drawn by J. Allen),,4,90,102,-12,2669.0
+3:31.0, ,90-103,J. Allen makes free throw 1 of 1,,4,90,103,-13,2669.0
+3:16.0,Turnover by G. Vincent (lost ball; steal by R. Rubio),90-103, ,,4,90,103,-13,2684.0
+3:01.0, ,90-103,Offensive foul by D. Garland (drawn by G. Vincent),,4,90,103,-13,2699.0
+3:01.0, ,90-103,Turnover by D. Garland (offensive foul),,4,90,103,-13,2699.0
+2:50.0,Personal foul by R. Rubio (drawn by G. Vincent),90-103, ,,4,90,103,-13,2710.0
+2:44.0,K. Lowry misses 2-pt layup from 2 ft,90-103, ,,4,90,103,-13,2716.0
+2:40.0, ,90-103,Defensive rebound by R. Rubio,,4,90,103,-13,2720.0
+2:24.0, ,90-103,D. Garland misses 2-pt jump shot from 14 ft,,4,90,103,-13,2736.0
+2:21.0,Defensive rebound by D. Robinson,90-103, ,,4,90,103,-13,2739.0
+2:14.0,P. Tucker misses 3-pt jump shot from 23 ft,90-103, ,,4,90,103,-13,2746.0
+2:09.0, ,90-103,Defensive rebound by J. Allen,,4,90,103,-13,2751.0
+1:53.0, ,90-103,Turnover by D. Garland (bad pass),,4,90,103,-13,2767.0
+1:40.0,O. Yurtseven makes 2-pt jump shot from 8 ft (assist by K. Lowry),92-103, ,,4,92,103,-11,2780.0
+1:18.0, ,92-103,Turnover by J. Allen (lost ball; steal by K. Lowry),,4,92,103,-11,2802.0
+1:12.0,D. Robinson misses 3-pt jump shot from 26 ft,92-103, ,,4,92,103,-11,2808.0
+1:09.0, ,92-103,Defensive rebound by E. Mobley,,4,92,103,-11,2811.0
+0:49.0, ,92-103,D. Garland misses 3-pt jump shot from 26 ft,,4,92,103,-11,2831.0
+0:49.0,Defensive rebound by Team,92-103, ,,4,92,103,-11,2831.0
+0:49.0, ,92-103,Loose ball foul by J. Allen (drawn by P. Tucker),,4,92,103,-11,2831.0
+0:43.0,Personal foul by D. Garland (drawn by K. Lowry),92-103, ,,4,92,103,-11,2837.0
+0:43.0,K. Lowry makes free throw 1 of 2,93-103, ,,4,93,103,-10,2837.0
+0:43.0,K. Okpala enters the game for P. Tucker,93-103, ,,4,93,103,-10,2837.0
+0:43.0, ,93-103,L. Markkanen enters the game for I. Okoro,,4,93,103,-10,2837.0
+0:43.0,K. Lowry makes free throw 2 of 2,94-103, ,,4,94,103,-9,2837.0
+0:23.0, ,94-105,J. Allen makes 2-pt hook shot from 1 ft (assist by R. Rubio),,4,94,105,-11,2857.0
+0:11.0,O. Yurtseven misses 3-pt jump shot from 29 ft,94-105, ,,4,94,105,-11,2869.0
+0:07.0, ,94-105,Defensive rebound by J. Allen,,4,94,105,-11,2873.0
+0:00.0,End of 4th quarter,94-105,,,4,94,105,-11,2880.0

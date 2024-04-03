@@ -371,4 +371,4 @@ def combine(team, season):
 
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
-scrape("MIA", "2023")
+scrape("MIA", "2022")

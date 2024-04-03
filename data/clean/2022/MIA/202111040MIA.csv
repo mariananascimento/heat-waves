@@ -1,0 +1,453 @@
+Time,Boston,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: R. Williams vs. B. Adebayo (K. Lowry gains possession),0-0,,,1,0,0,0,0.0
+11:40.0, ,0-0,K. Lowry misses 3-pt jump shot from 25 ft,,1,0,0,0,20.0
+11:35.0,Defensive rebound by R. Williams,0-0, ,,1,0,0,0,25.0
+11:19.0,J. Brown misses 2-pt jump shot from 13 ft,0-0, ,,1,0,0,0,41.0
+11:13.0, ,0-0,Defensive rebound by P. Tucker,,1,0,0,0,47.0
+11:08.0, ,0-0,P. Tucker misses 2-pt hook shot from 4 ft,,1,0,0,0,52.0
+11:06.0,Defensive rebound by J. Brown,0-0, ,,1,0,0,0,54.0
+10:57.0,M. Smart misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,63.0
+10:53.0, ,0-0,Defensive rebound by K. Lowry,,1,0,0,0,67.0
+10:53.0, ,0-0,Personal foul by A. Horford (drawn by J. Butler),,1,0,0,0,67.0
+10:45.0, ,0-0,P. Tucker misses 3-pt jump shot from 23 ft,,1,0,0,0,75.0
+10:42.0,Defensive rebound by A. Horford,0-0, ,,1,0,0,0,78.0
+10:26.0,Turnover by M. Smart (bad pass; steal by K. Lowry),0-0, ,,1,0,0,0,94.0
+10:06.0, ,0-0,J. Butler misses 2-pt jump shot from 16 ft,,1,0,0,0,114.0
+10:03.0,Defensive rebound by J. Tatum,0-0, ,,1,0,0,0,117.0
+9:51.0,M. Smart misses 3-pt jump shot from 24 ft,0-0, ,,1,0,0,0,129.0
+9:48.0, ,0-0,Defensive rebound by K. Lowry,,1,0,0,0,132.0
+9:37.0, ,0-0,B. Adebayo misses 2-pt jump shot from 11 ft,,1,0,0,0,143.0
+9:34.0, ,0-0,Offensive rebound by P. Tucker,,1,0,0,0,146.0
+9:33.0, ,0-0,D. Robinson misses 3-pt jump shot from 26 ft,,1,0,0,0,147.0
+9:28.0,Defensive rebound by A. Horford,0-0, ,,1,0,0,0,152.0
+9:10.0,J. Tatum misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,170.0
+9:07.0, ,0-0,Defensive rebound by D. Robinson,,1,0,0,0,173.0
+9:04.0, ,0-0,Shooting foul by M. Smart (drawn by B. Adebayo),,1,0,0,0,176.0
+9:04.0, ,0-1,B. Adebayo makes free throw 1 of 2,,1,1,0,1,176.0
+9:04.0, ,0-2,B. Adebayo makes free throw 2 of 2,,1,2,0,2,176.0
+8:51.0,A. Horford misses 3-pt jump shot from 23 ft,0-2, ,,1,2,0,2,189.0
+8:48.0, ,0-2,Defensive rebound by D. Robinson,,1,2,0,2,192.0
+8:41.0, ,0-5,D. Robinson makes 3-pt jump shot from 28 ft (assist by J. Butler),,1,5,0,5,199.0
+8:27.0,A. Horford makes 3-pt jump shot from 27 ft (assist by J. Tatum),3-5, ,,1,5,3,2,213.0
+8:07.0, ,3-5,B. Adebayo misses 2-pt jump shot from 12 ft (block by A. Horford),,1,5,3,2,233.0
+8:04.0,Defensive rebound by R. Williams,3-5, ,,1,5,3,2,236.0
+7:58.0,A. Horford misses 2-pt hook shot from 8 ft,3-5, ,,1,5,3,2,242.0
+7:55.0,Offensive rebound by R. Williams,3-5, ,,1,5,3,2,245.0
+7:54.0,Shooting foul by K. Lowry (drawn by J. Brown),3-5, ,,1,5,3,2,246.0
+7:54.0,J. Brown misses free throw 1 of 2,3-5, ,,1,5,3,2,246.0
+7:54.0,Offensive rebound by Team,3-5, ,,1,5,3,2,246.0
+7:54.0,J. Brown makes free throw 2 of 2,4-5, ,,1,5,4,1,246.0
+7:44.0, ,4-5,Offensive foul by B. Adebayo (drawn by M. Smart),,1,5,4,1,256.0
+7:44.0, ,4-5,Turnover by B. Adebayo (offensive foul),,1,5,4,1,256.0
+7:27.0,J. Tatum misses 2-pt jump shot from 19 ft,4-5, ,,1,5,4,1,273.0
+7:24.0, ,4-5,Defensive rebound by K. Lowry,,1,5,4,1,276.0
+7:19.0, ,4-7,J. Butler makes 2-pt layup from 2 ft (assist by K. Lowry),,1,7,4,3,281.0
+7:05.0,A. Horford misses 3-pt jump shot from 26 ft,4-7, ,,1,7,4,3,295.0
+7:02.0, ,4-7,Defensive rebound by K. Lowry,,1,7,4,3,298.0
+6:57.0, ,4-7,J. Butler misses 3-pt jump shot from 23 ft,,1,7,4,3,303.0
+6:54.0, ,4-7,Offensive rebound by P. Tucker,,1,7,4,3,306.0
+6:49.0, ,4-7,K. Lowry misses 3-pt jump shot from 25 ft,,1,7,4,3,311.0
+6:46.0, ,4-7,Offensive rebound by P. Tucker,,1,7,4,3,314.0
+6:42.0, ,4-9,J. Butler makes 2-pt layup from 2 ft (assist by P. Tucker),,1,9,4,5,318.0
+6:42.0,Boston full timeout,4-9, ,,1,9,4,5,318.0
+6:42.0,G. Williams enters the game for A. Horford,4-9, ,,1,9,4,5,318.0
+6:30.0,J. Brown misses 2-pt layup from 5 ft,4-9, ,,1,9,4,5,330.0
+6:26.0, ,4-9,Defensive rebound by B. Adebayo,,1,9,4,5,334.0
+6:19.0, ,4-12,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,1,12,4,8,341.0
+6:01.0,G. Williams makes 3-pt jump shot from 23 ft (assist by R. Williams),7-12, ,,1,12,7,5,359.0
+5:42.0, ,7-15,D. Robinson makes 3-pt jump shot from 28 ft (assist by J. Butler),,1,15,7,8,378.0
+5:19.0,J. Brown makes 3-pt jump shot from 24 ft (assist by M. Smart),10-15, ,,1,15,10,5,401.0
+4:58.0, ,10-15,B. Adebayo misses 2-pt jump shot from 12 ft,,1,15,10,5,422.0
+4:55.0,Defensive rebound by J. Tatum,10-15, ,,1,15,10,5,425.0
+4:50.0,M. Smart misses 3-pt jump shot from 27 ft,10-15, ,,1,15,10,5,430.0
+4:45.0, ,10-15,Defensive rebound by D. Robinson,,1,15,10,5,435.0
+4:31.0, ,10-18,P. Tucker makes 3-pt jump shot from 24 ft (assist by B. Adebayo),,1,18,10,8,449.0
+4:12.0,J. Brown makes 2-pt layup from 3 ft,12-18, ,,1,18,12,6,468.0
+4:01.0, ,12-18,K. Lowry misses 3-pt jump shot from 24 ft,,1,18,12,6,479.0
+3:58.0,Defensive rebound by J. Tatum,12-18, ,,1,18,12,6,482.0
+3:43.0,J. Tatum misses 2-pt jump shot from 2 ft,12-18, ,,1,18,12,6,497.0
+3:42.0,Offensive rebound by R. Williams,12-18, ,,1,18,12,6,498.0
+3:42.0,R. Williams makes 2-pt layup at rim,14-18, ,,1,18,14,4,498.0
+3:42.0, ,14-18,Miami full timeout,,1,18,14,4,498.0
+3:42.0,R. Langford enters the game for M. Smart,14-18, ,,1,18,14,4,498.0
+3:42.0,D. Schröder enters the game for J. Tatum,14-18, ,,1,18,14,4,498.0
+3:42.0, ,14-18,D. Dedmon enters the game for B. Adebayo,,1,18,14,4,498.0
+3:42.0, ,14-18,T. Herro enters the game for K. Lowry,,1,18,14,4,498.0
+3:20.0, ,14-18,D. Robinson misses 3-pt jump shot from 24 ft,,1,18,14,4,520.0
+3:19.0, ,14-18,Offensive rebound by Team,,1,18,14,4,521.0
+3:08.0, ,14-18,Turnover by P. Tucker (bad pass),,1,18,14,4,532.0
+2:54.0,Turnover by R. Williams (step out of bounds),14-18, ,,1,18,14,4,546.0
+2:40.0, ,14-18,J. Butler misses 2-pt jump shot from 5 ft (block by J. Brown),,1,18,14,4,560.0
+2:35.0, ,14-18,Offensive rebound by J. Butler,,1,18,14,4,565.0
+2:27.0, ,14-18,J. Butler misses 3-pt jump shot from 23 ft,,1,18,14,4,573.0
+2:23.0,Defensive rebound by R. Williams,14-18, ,,1,18,14,4,577.0
+2:23.0,A. Horford enters the game for J. Brown,14-18, ,,1,18,14,4,577.0
+2:23.0,A. Nesmith enters the game for R. Williams,14-18, ,,1,18,14,4,577.0
+2:23.0, ,14-18,M. Morris enters the game for P. Tucker,,1,18,14,4,577.0
+2:12.0,G. Williams misses 3-pt jump shot from 26 ft,14-18, ,,1,18,14,4,588.0
+2:09.0, ,14-18,Defensive rebound by D. Robinson,,1,18,14,4,591.0
+1:57.0, ,14-20,J. Butler makes 2-pt jump shot from 10 ft,,1,20,14,6,603.0
+1:44.0,D. Schröder misses 2-pt jump shot from 16 ft,14-20, ,,1,20,14,6,616.0
+1:39.0, ,14-20,Defensive rebound by D. Dedmon,,1,20,14,6,621.0
+1:32.0, ,14-20,D. Robinson misses 3-pt jump shot from 29 ft,,1,20,14,6,628.0
+1:26.0,Defensive rebound by A. Horford,14-20, ,,1,20,14,6,634.0
+1:18.0,A. Nesmith makes 2-pt layup from 3 ft (assist by D. Schröder),16-20, ,,1,20,16,4,642.0
+0:59.0, ,16-20,Shooting foul by A. Horford (drawn by M. Morris),,1,20,16,4,661.0
+0:59.0, ,16-21,M. Morris makes free throw 1 of 2,,1,21,16,5,661.0
+0:59.0,J. Parker enters the game for A. Horford,16-21, ,,1,21,16,5,661.0
+0:59.0, ,16-21,K. Lowry enters the game for J. Butler,,1,21,16,5,661.0
+0:59.0, ,16-21,C. Martin enters the game for D. Robinson,,1,21,16,5,661.0
+0:59.0, ,16-22,M. Morris makes free throw 2 of 2,,1,22,16,6,661.0
+0:49.0,D. Schröder makes 2-pt layup from 2 ft,18-22, ,,1,22,18,4,671.0
+0:33.0, ,18-22,T. Herro misses 2-pt jump shot from 16 ft,,1,22,18,4,687.0
+0:28.0, ,18-22,Offensive rebound by M. Morris,,1,22,18,4,692.0
+0:25.0, ,18-24,D. Dedmon makes 2-pt hook shot from 6 ft,,1,24,18,6,695.0
+0:03.0,A. Nesmith misses 3-pt jump shot from 26 ft,18-24, ,,1,24,18,6,717.0
+0:03.0, ,18-24,Defensive rebound by T. Herro,,1,24,18,6,717.0
+0:00.0, ,18-24,M. Morris misses 3-pt jump shot from 36 ft,,1,24,18,6,720.0
+0:00.0, ,18-24,Offensive rebound by Team,,1,24,18,6,720.0
+0:00.0,End of 1st quarter,18-24,,,1,24,18,6,720.0
+12:00.0,Start of 2nd quarter,18-24,,,2,24,18,6,720.0
+11:46.0,A. Nesmith makes 3-pt jump shot from 25 ft (assist by D. Schröder),21-24, ,,2,24,21,3,734.0
+11:27.0, ,21-26,M. Morris makes 2-pt jump shot from 11 ft,,2,26,21,5,753.0
+11:09.0,D. Schröder misses 2-pt layup from 3 ft,21-26, ,,2,26,21,5,771.0
+11:05.0, ,21-26,Defensive rebound by M. Morris,,2,26,21,5,775.0
+10:50.0, ,21-28,T. Herro makes 2-pt layup from 2 ft,,2,28,21,7,790.0
+10:38.0,Turnover by J. Parker (lost ball; steal by T. Herro),21-28, ,,2,28,21,7,802.0
+10:38.0,R. Williams enters the game for J. Parker,21-28, ,,2,28,21,7,802.0
+10:38.0, ,21-28,B. Adebayo enters the game for D. Dedmon,,2,28,21,7,802.0
+10:31.0, ,21-28,Turnover by K. Lowry (bad pass),,2,28,21,7,809.0
+10:31.0,J. Tatum enters the game for G. Williams,21-28, ,,2,28,21,7,809.0
+10:06.0,Turnover by D. Schröder (bad pass; steal by K. Lowry),21-28, ,,2,28,21,7,834.0
+10:01.0, ,21-28,T. Herro misses 3-pt jump shot from 26 ft,,2,28,21,7,839.0
+9:57.0,Defensive rebound by J. Tatum,21-28, ,,2,28,21,7,843.0
+9:56.0,Personal foul by K. Lowry (drawn by D. Schröder),21-28, ,,2,28,21,7,844.0
+9:48.0,R. Williams makes 2-pt dunk from 1 ft (assist by J. Tatum),23-28, ,,2,28,23,5,852.0
+9:41.0, ,23-28,Personal foul by R. Langford (drawn by K. Lowry),,2,28,23,5,859.0
+9:29.0, ,23-28,Turnover by M. Morris (bad pass; steal by R. Williams),,2,28,23,5,871.0
+9:21.0,D. Schröder misses 2-pt layup from 1 ft,23-28, ,,2,28,23,5,879.0
+9:17.0, ,23-28,Defensive rebound by B. Adebayo,,2,28,23,5,883.0
+9:16.0, ,23-28,Turnover by B. Adebayo (bad pass),,2,28,23,5,884.0
+9:06.0,R. Langford makes 3-pt jump shot from 24 ft (assist by D. Schröder),26-28, ,,2,28,26,2,894.0
+8:44.0, ,26-28,Turnover by M. Morris (bad pass),,2,28,26,2,916.0
+8:32.0,J. Tatum misses 2-pt jump shot from 6 ft,26-28, ,,2,28,26,2,928.0
+8:29.0, ,26-28,Defensive rebound by M. Morris,,2,28,26,2,931.0
+8:29.0, ,26-28,Shooting foul by R. Langford (drawn by C. Martin),,2,28,26,2,931.0
+8:29.0, ,26-28,C. Martin misses free throw 1 of 2,,2,28,26,2,931.0
+8:29.0, ,26-28,Offensive rebound by Team,,2,28,26,2,931.0
+8:29.0, ,26-29,C. Martin makes free throw 2 of 2,,2,29,26,3,931.0
+8:19.0,Personal foul by C. Martin (drawn by J. Tatum),26-29, ,,2,29,26,3,941.0
+8:06.0,J. Tatum misses 2-pt jump shot from 5 ft,26-29, ,,2,29,26,3,954.0
+8:04.0,Offensive rebound by R. Langford,26-29, ,,2,29,26,3,956.0
+8:02.0,R. Langford makes 2-pt dunk from 1 ft,28-29, ,,2,29,28,1,958.0
+7:58.0, ,28-29,Personal foul by J. Tatum (drawn by K. Lowry),,2,29,28,1,962.0
+7:55.0, ,28-29,Turnover by B. Adebayo (bad pass),,2,29,28,1,965.0
+7:41.0,A. Nesmith makes 3-pt jump shot from 26 ft (assist by D. Schröder),31-29, ,Lead change,2,29,31,-2,979.0
+7:40.0, ,31-29,Miami full timeout,,2,29,31,-2,980.0
+7:40.0,J. Brown enters the game for R. Langford,31-29, ,,2,29,31,-2,980.0
+7:40.0,A. Horford enters the game for D. Schröder,31-29, ,,2,29,31,-2,980.0
+7:40.0,M. Smart enters the game for R. Williams,31-29, ,,2,29,31,-2,980.0
+7:40.0, ,31-29,J. Butler enters the game for K. Lowry,,2,29,31,-2,980.0
+7:40.0, ,31-29,D. Robinson enters the game for C. Martin,,2,29,31,-2,980.0
+7:20.0, ,31-31,T. Herro makes 2-pt jump shot from 9 ft,Tie,2,31,31,0,1000.0
+7:01.0,A. Nesmith misses 3-pt jump shot from 26 ft,31-31, ,,2,31,31,0,1019.0
+6:58.0, ,31-31,Defensive rebound by T. Herro,,2,31,31,0,1022.0
+6:57.0, ,31-31,Turnover by T. Herro (bad pass),,2,31,31,0,1023.0
+6:43.0,Turnover by M. Smart (bad pass; steal by B. Adebayo),31-31, ,,2,31,31,0,1037.0
+6:21.0, ,31-31,M. Morris misses 3-pt jump shot from 24 ft,,2,31,31,0,1059.0
+6:18.0,Defensive rebound by J. Tatum,31-31, ,,2,31,31,0,1062.0
+6:01.0,Shooting foul by M. Morris (drawn by A. Horford),31-31, ,,2,31,31,0,1079.0
+6:01.0,A. Horford makes free throw 1 of 2,32-31, ,,2,31,32,-1,1079.0
+6:01.0,R. Langford enters the game for A. Nesmith,32-31, ,,2,31,32,-1,1079.0
+6:01.0,D. Schröder enters the game for J. Tatum,32-31, ,,2,31,32,-1,1079.0
+6:01.0, ,32-31,P. Tucker enters the game for M. Morris,,2,31,32,-1,1079.0
+6:01.0,A. Horford makes free throw 2 of 2,33-31, ,,2,31,33,-2,1079.0
+5:48.0, ,33-31,T. Herro misses 2-pt jump shot from 10 ft (block by A. Horford),,2,31,33,-2,1092.0
+5:48.0, ,33-31,Offensive rebound by Team,,2,31,33,-2,1092.0
+5:43.0, ,33-31,D. Robinson misses 3-pt jump shot from 24 ft,,2,31,33,-2,1097.0
+5:39.0,Defensive rebound by J. Brown,33-31, ,,2,31,33,-2,1101.0
+5:33.0,J. Brown misses 2-pt dunk from 1 ft,33-31, ,,2,31,33,-2,1107.0
+5:31.0,Offensive rebound by A. Horford,33-31, ,,2,31,33,-2,1109.0
+5:24.0,Shooting foul by D. Robinson (drawn by J. Brown),33-31, ,,2,31,33,-2,1116.0
+5:24.0,J. Brown makes free throw 1 of 2,34-31, ,,2,31,34,-3,1116.0
+5:24.0,J. Brown makes free throw 2 of 2,35-31, ,,2,31,35,-4,1116.0
+5:03.0, ,35-31,Turnover by J. Butler (out of bounds lost ball),,2,31,35,-4,1137.0
+4:47.0,D. Schröder makes 3-pt jump shot from 26 ft,38-31, ,,2,31,38,-7,1153.0
+4:38.0, ,38-31,D. Robinson misses 3-pt jump shot from 23 ft,,2,31,38,-7,1162.0
+4:34.0,Defensive rebound by A. Horford,38-31, ,,2,31,38,-7,1166.0
+4:33.0,Offensive foul by J. Brown (drawn by D. Robinson),38-31, ,,2,31,38,-7,1167.0
+4:33.0,Turnover by J. Brown (offensive foul),38-31, ,,2,31,38,-7,1167.0
+4:33.0, ,38-31,D. Dedmon enters the game for B. Adebayo,,2,31,38,-7,1167.0
+4:33.0, ,38-31,K. Lowry enters the game for D. Robinson,,2,31,38,-7,1167.0
+4:10.0, ,38-31,J. Butler misses 2-pt jump shot from 12 ft,,2,31,38,-7,1190.0
+4:10.0,Defensive rebound by Team,38-31, ,,2,31,38,-7,1190.0
+4:10.0, ,38-31,Loose ball foul by D. Dedmon (drawn by M. Smart),,2,31,38,-7,1190.0
+4:10.0,M. Smart makes free throw 1 of 2,39-31, ,,2,31,39,-8,1190.0
+4:10.0,M. Smart makes free throw 2 of 2,40-31, ,,2,31,40,-9,1190.0
+3:53.0, ,40-31,K. Lowry misses 2-pt jump shot from 19 ft,,2,31,40,-9,1207.0
+3:46.0,Defensive rebound by M. Smart,40-31, ,,2,31,40,-9,1214.0
+3:37.0,Personal foul by D. Dedmon (drawn by M. Smart),40-31, ,,2,31,40,-9,1223.0
+3:37.0,M. Smart makes free throw 1 of 2,41-31, ,,2,31,41,-10,1223.0
+3:37.0,M. Smart makes free throw 2 of 2,42-31, ,,2,31,42,-11,1223.0
+3:23.0, ,42-31,Shooting foul by A. Horford (drawn by J. Butler),,2,31,42,-11,1237.0
+3:23.0, ,42-31,J. Butler misses free throw 1 of 2,,2,31,42,-11,1237.0
+3:23.0, ,42-31,Offensive rebound by Team,,2,31,42,-11,1237.0
+3:23.0,R. Williams enters the game for A. Horford,42-31, ,,2,31,42,-11,1237.0
+3:23.0, ,42-31,J. Butler misses free throw 2 of 2,,2,31,42,-11,1237.0
+3:18.0,Defensive rebound by R. Williams,42-31, ,,2,31,42,-11,1242.0
+3:08.0,D. Schröder makes 2-pt jump shot from 17 ft,44-31, ,,2,31,44,-13,1252.0
+3:08.0, ,44-31,Miami full timeout,,2,31,44,-13,1252.0
+3:08.0, ,44-31,B. Adebayo enters the game for D. Dedmon,,2,31,44,-13,1252.0
+2:49.0, ,44-31,K. Lowry misses 2-pt jump shot from 10 ft,,2,31,44,-13,1271.0
+2:46.0, ,44-31,Offensive rebound by P. Tucker,,2,31,44,-13,1274.0
+2:43.0, ,44-31,Turnover by K. Lowry (bad pass; steal by M. Smart),,2,31,44,-13,1277.0
+2:35.0,Shooting foul by T. Herro (drawn by D. Schröder),44-31, ,,2,31,44,-13,1285.0
+2:35.0,D. Schröder makes free throw 1 of 2,45-31, ,,2,31,45,-14,1285.0
+2:35.0,D. Schröder makes free throw 2 of 2,46-31, ,,2,31,46,-15,1285.0
+2:20.0, ,46-31,P. Tucker misses 3-pt jump shot from 23 ft,,2,31,46,-15,1300.0
+2:13.0,Defensive rebound by M. Smart,46-31, ,,2,31,46,-15,1307.0
+1:56.0,D. Schröder misses 3-pt jump shot from 26 ft,46-31, ,,2,31,46,-15,1324.0
+1:52.0, ,46-31,Defensive rebound by B. Adebayo,,2,31,46,-15,1328.0
+1:42.0, ,46-31,Shooting foul by R. Langford (drawn by J. Butler),,2,31,46,-15,1338.0
+1:42.0, ,46-32,J. Butler makes free throw 1 of 2,,2,32,46,-14,1338.0
+1:42.0,J. Tatum enters the game for R. Langford,46-32, ,,2,32,46,-14,1338.0
+1:42.0, ,46-33,J. Butler makes free throw 2 of 2,,2,33,46,-13,1338.0
+1:23.0,M. Smart makes 2-pt jump shot from 8 ft (assist by J. Brown),48-33, ,,2,33,48,-15,1357.0
+1:10.0, ,48-33,Turnover by J. Butler (lost ball; steal by J. Brown),,2,33,48,-15,1370.0
+1:05.0,J. Brown misses 2-pt layup from 1 ft,48-33, ,,2,33,48,-15,1375.0
+1:02.0, ,48-33,Defensive rebound by T. Herro,,2,33,48,-15,1378.0
+0:57.0, ,48-33,Offensive foul by B. Adebayo (drawn by M. Smart),,2,33,48,-15,1383.0
+0:57.0, ,48-33,Turnover by B. Adebayo (offensive foul),,2,33,48,-15,1383.0
+0:57.0, ,48-33,D. Dedmon enters the game for B. Adebayo,,2,33,48,-15,1383.0
+0:38.0,Turnover by D. Schröder (back court),48-33, ,,2,33,48,-15,1402.0
+0:33.0, ,48-33,P. Tucker misses 3-pt jump shot from 23 ft,,2,33,48,-15,1407.0
+0:31.0,Defensive rebound by Team,48-33, ,,2,33,48,-15,1409.0
+0:12.0,D. Schröder misses 3-pt jump shot from 26 ft,48-33, ,,2,33,48,-15,1428.0
+0:07.0,Offensive rebound by R. Williams,48-33, ,,2,33,48,-15,1433.0
+0:04.0,J. Brown makes 3-pt jump shot from 25 ft (assist by M. Smart),51-33, ,,2,33,51,-18,1436.0
+0:00.0,End of 2nd quarter,51-33,,,2,33,51,-18,1440.0
+12:00.0,Start of 3rd quarter,51-33,,,3,33,51,-18,1440.0
+11:48.0,M. Smart misses 3-pt jump shot from 26 ft,51-33, ,,3,33,51,-18,1452.0
+11:45.0,Offensive rebound by R. Williams,51-33, ,,3,33,51,-18,1455.0
+11:45.0,Turnover by R. Williams (back court),51-33, ,,3,33,51,-18,1455.0
+11:35.0, ,51-33,K. Lowry misses 3-pt jump shot from 26 ft,,3,33,51,-18,1465.0
+11:32.0,Defensive rebound by R. Williams,51-33, ,,3,33,51,-18,1468.0
+11:28.0,Turnover by J. Brown (bad pass; steal by P. Tucker),51-33, ,,3,33,51,-18,1472.0
+11:13.0, ,51-35,B. Adebayo makes 2-pt jump shot from 6 ft (assist by P. Tucker),,3,35,51,-16,1487.0
+10:51.0,A. Horford makes 3-pt jump shot from 24 ft,54-35, ,,3,35,54,-19,1509.0
+10:34.0, ,54-37,B. Adebayo makes 2-pt jump shot from 13 ft (assist by K. Lowry),,3,37,54,-17,1526.0
+10:12.0,J. Tatum misses 2-pt layup from 3 ft,54-37, ,,3,37,54,-17,1548.0
+10:10.0, ,54-37,Defensive rebound by B. Adebayo,,3,37,54,-17,1550.0
+9:52.0, ,54-37,Turnover by K. Lowry (bad pass; steal by J. Tatum),,3,37,54,-17,1568.0
+9:44.0,M. Smart makes 3-pt jump shot from 25 ft (assist by J. Brown),57-37, ,,3,37,57,-20,1576.0
+9:26.0, ,57-39,J. Butler makes 2-pt layup from 3 ft (assist by K. Lowry),,3,39,57,-18,1594.0
+9:26.0, ,57-39,Shooting foul by J. Tatum (drawn by J. Butler),,3,39,57,-18,1594.0
+9:26.0, ,57-39,J. Butler misses free throw 1 of 1,,3,39,57,-18,1594.0
+9:19.0,Defensive rebound by J. Tatum,57-39, ,,3,39,57,-18,1601.0
+9:08.0,Personal foul by J. Butler (drawn by J. Brown),57-39, ,,3,39,57,-18,1612.0
+9:00.0,J. Tatum misses 3-pt jump shot from 26 ft,57-39, ,,3,39,57,-18,1620.0
+8:55.0, ,57-39,Defensive rebound by K. Lowry,,3,39,57,-18,1625.0
+8:49.0, ,57-42,K. Lowry makes 3-pt jump shot from 25 ft (assist by P. Tucker),,3,42,57,-15,1631.0
+8:49.0,Boston full timeout,57-42, ,,3,42,57,-15,1631.0
+8:28.0,J. Brown makes 2-pt layup from 1 ft (assist by A. Horford),59-42, ,,3,42,59,-17,1652.0
+8:10.0, ,59-42,P. Tucker misses 3-pt jump shot from 24 ft,,3,42,59,-17,1670.0
+8:08.0,Defensive rebound by M. Smart,59-42, ,,3,42,59,-17,1672.0
+8:07.0,Personal foul by P. Tucker (drawn by J. Brown),59-42, ,,3,42,59,-17,1673.0
+7:48.0,J. Brown makes 3-pt jump shot from 25 ft,62-42, ,,3,42,62,-20,1692.0
+7:44.0, ,62-42,Turnover by K. Lowry (bad pass),,3,42,62,-20,1696.0
+7:31.0,J. Brown misses 3-pt jump shot from 26 ft,62-42, ,,3,42,62,-20,1709.0
+7:28.0, ,62-42,Defensive rebound by J. Butler,,3,42,62,-20,1712.0
+7:15.0, ,62-44,B. Adebayo makes 2-pt jump shot from 11 ft,,3,44,62,-18,1725.0
+7:00.0,Turnover by M. Smart (bad pass; steal by J. Butler),62-44, ,,3,44,62,-18,1740.0
+6:56.0, ,62-44,Shooting foul by J. Tatum (drawn by B. Adebayo),,3,44,62,-18,1744.0
+6:56.0, ,62-45,B. Adebayo makes free throw 1 of 2,,3,45,62,-17,1744.0
+6:56.0,G. Williams enters the game for A. Horford,62-45, ,,3,45,62,-17,1744.0
+6:56.0, ,62-46,B. Adebayo makes free throw 2 of 2,,3,46,62,-16,1744.0
+6:33.0,Turnover by G. Williams (bad pass; steal by B. Adebayo),62-46, ,,3,46,62,-16,1767.0
+6:28.0, ,62-46,Turnover by K. Lowry (bad pass; steal by R. Williams),,3,46,62,-16,1772.0
+6:17.0,Offensive foul by J. Tatum (drawn by B. Adebayo),62-46, ,,3,46,62,-16,1783.0
+6:17.0,Turnover by J. Tatum (offensive foul),62-46, ,,3,46,62,-16,1783.0
+6:17.0,D. Schröder enters the game for J. Tatum,62-46, ,,3,46,62,-16,1783.0
+6:17.0,Technical foul by J. Tatum,62-46, ,,3,46,62,-16,1783.0
+6:17.0, ,62-47,D. Robinson makes technical free throw,,3,47,62,-15,1783.0
+5:58.0, ,62-47,D. Robinson misses 3-pt jump shot from 25 ft,,3,47,62,-15,1802.0
+5:55.0, ,62-47,Offensive rebound by J. Butler,,3,47,62,-15,1805.0
+5:52.0, ,62-47,J. Butler misses 3-pt jump shot from 25 ft,,3,47,62,-15,1808.0
+5:48.0,Defensive rebound by G. Williams,62-47, ,,3,47,62,-15,1812.0
+5:44.0,Jump ball: G. Williams vs. P. Tucker (G. Williams gains possession),62-47,,,3,47,62,-15,1816.0
+5:40.0,Turnover by G. Williams (bad pass; steal by K. Lowry),62-47, ,,3,47,62,-15,1820.0
+5:34.0, ,62-50,K. Lowry makes 3-pt jump shot from 25 ft,,3,50,62,-12,1826.0
+5:34.0,Boston full timeout,62-50, ,,3,50,62,-12,1826.0
+5:34.0,R. Langford enters the game for G. Williams,62-50, ,,3,50,62,-12,1826.0
+5:18.0,J. Brown misses 2-pt jump shot from 21 ft,62-50, ,,3,50,62,-12,1842.0
+5:15.0,Offensive rebound by R. Williams,62-50, ,,3,50,62,-12,1845.0
+5:11.0,J. Brown misses 3-pt jump shot from 27 ft,62-50, ,,3,50,62,-12,1849.0
+5:05.0, ,62-50,Defensive rebound by K. Lowry,,3,50,62,-12,1855.0
+5:03.0, ,62-50,K. Lowry misses 3-pt jump shot from 26 ft,,3,50,62,-12,1857.0
+5:02.0, ,62-50,Offensive rebound by Team,,3,50,62,-12,1858.0
+5:02.0,Loose ball foul by J. Brown (drawn by P. Tucker),62-50, ,,3,50,62,-12,1858.0
+5:02.0, ,62-50,T. Herro enters the game for D. Robinson,,3,50,62,-12,1858.0
+4:50.0, ,62-50,B. Adebayo misses 2-pt hook shot from 8 ft,,3,50,62,-12,1870.0
+4:46.0,Defensive rebound by J. Brown,62-50, ,,3,50,62,-12,1874.0
+4:36.0,D. Schröder misses 2-pt layup from 5 ft,62-50, ,,3,50,62,-12,1884.0
+4:35.0, ,62-50,Turnover by B. Adebayo (step out of bounds),,3,50,62,-12,1885.0
+4:35.0, ,62-50,Defensive rebound by B. Adebayo,,3,50,62,-12,1885.0
+4:35.0, ,62-50,D. Dedmon enters the game for B. Adebayo,,3,50,62,-12,1885.0
+4:19.0,R. Williams misses 2-pt jump shot from 1 ft,62-50, ,,3,50,62,-12,1901.0
+4:15.0,Offensive rebound by D. Schröder,62-50, ,,3,50,62,-12,1905.0
+4:12.0,J. Brown misses 2-pt jump shot from 21 ft,62-50, ,,3,50,62,-12,1908.0
+4:08.0, ,62-50,Defensive rebound by K. Lowry,,3,50,62,-12,1912.0
+4:01.0, ,62-52,J. Butler makes 2-pt layup from 2 ft (assist by K. Lowry),,3,52,62,-10,1919.0
+4:01.0,A. Horford enters the game for M. Smart,62-52, ,,3,52,62,-10,1919.0
+4:01.0,A. Nesmith enters the game for R. Williams,62-52, ,,3,52,62,-10,1919.0
+3:43.0,Shooting foul by T. Herro (drawn by R. Langford),62-52, ,,3,52,62,-10,1937.0
+3:43.0,R. Langford makes free throw 1 of 2,63-52, ,,3,52,63,-11,1937.0
+3:43.0,R. Langford makes free throw 2 of 2,64-52, ,,3,52,64,-12,1937.0
+3:26.0, ,64-52,T. Herro misses 3-pt jump shot from 26 ft,,3,52,64,-12,1954.0
+3:26.0, ,64-52,Offensive rebound by Team,,3,52,64,-12,1954.0
+3:22.0, ,64-54,J. Butler makes 2-pt layup from 1 ft (assist by K. Lowry),,3,54,64,-10,1958.0
+3:07.0,Personal foul by J. Butler (drawn by J. Brown),64-54, ,,3,54,64,-10,1973.0
+3:01.0,Turnover by D. Schröder (traveling),64-54, ,,3,54,64,-10,1979.0
+2:49.0, ,64-54,Shooting foul by R. Langford (drawn by J. Butler),,3,54,64,-10,1991.0
+2:49.0, ,64-55,J. Butler makes free throw 1 of 2,,3,55,64,-9,1991.0
+2:49.0, ,64-55,D. Robinson enters the game for K. Lowry,,3,55,64,-9,1991.0
+2:49.0, ,64-55,J. Butler misses free throw 2 of 2,,3,55,64,-9,1991.0
+2:44.0,Defensive rebound by D. Schröder,64-55, ,,3,55,64,-9,1996.0
+2:32.0,J. Brown misses 2-pt jump shot from 7 ft,64-55, ,,3,55,64,-9,2008.0
+2:30.0, ,64-55,Defensive rebound by T. Herro,,3,55,64,-9,2010.0
+2:30.0,Technical foul by M. Smart,64-55, ,,3,55,64,-9,2010.0
+2:30.0, ,64-56,J. Butler makes technical free throw,,3,56,64,-8,2010.0
+2:19.0, ,64-56,J. Butler misses 3-pt jump shot from 24 ft,,3,56,64,-8,2021.0
+2:13.0, ,64-56,Offensive rebound by P. Tucker,,3,56,64,-8,2027.0
+2:12.0, ,64-56,Turnover by P. Tucker (lost ball; steal by D. Schröder),,3,56,64,-8,2028.0
+2:07.0,D. Schröder makes 2-pt layup from 1 ft,66-56, ,,3,56,66,-10,2033.0
+2:00.0, ,66-56,D. Robinson misses 3-pt jump shot from 27 ft,,3,56,66,-10,2040.0
+1:56.0,Defensive rebound by J. Brown,66-56, ,,3,56,66,-10,2044.0
+1:45.0,A. Horford misses 3-pt jump shot from 25 ft,66-56, ,,3,56,66,-10,2055.0
+1:43.0, ,66-56,Defensive rebound by P. Tucker,,3,56,66,-10,2057.0
+1:27.0, ,66-56,D. Robinson misses 3-pt jump shot from 22 ft,,3,56,66,-10,2073.0
+1:25.0,Defensive rebound by J. Brown,66-56, ,,3,56,66,-10,2075.0
+1:10.0,R. Langford makes 3-pt jump shot from 25 ft (assist by A. Nesmith),69-56, ,,3,56,69,-13,2090.0
+0:48.0, ,69-56,T. Herro misses 3-pt jump shot from 26 ft,,3,56,69,-13,2112.0
+0:45.0,Defensive rebound by D. Schröder,69-56, ,,3,56,69,-13,2115.0
+0:42.0,Away from play foul by T. Herro (drawn by J. Brown),69-56, ,,3,56,69,-13,2118.0
+0:42.0,J. Brown makes free throw 1 of 1,70-56, ,,3,56,70,-14,2118.0
+0:42.0, ,70-56,B. Adebayo enters the game for J. Butler,,3,56,70,-14,2118.0
+0:42.0, ,70-56,K. Lowry enters the game for D. Dedmon,,3,56,70,-14,2118.0
+0:42.0, ,70-56,M. Morris enters the game for P. Tucker,,3,56,70,-14,2118.0
+0:38.0,A. Horford makes 2-pt dunk from 1 ft,72-56, ,,3,56,72,-16,2122.0
+0:38.0,Shooting foul by M. Morris (drawn by A. Horford),72-56, ,,3,56,72,-16,2122.0
+0:38.0,A. Horford misses free throw 1 of 1,72-56, ,,3,56,72,-16,2122.0
+0:38.0, ,72-56,Defensive rebound by Team,,3,56,72,-16,2122.0
+0:38.0,Loose ball foul by A. Nesmith (drawn by B. Adebayo),72-56, ,,3,56,72,-16,2122.0
+0:38.0, ,72-56,B. Adebayo misses free throw 1 of 2,,3,56,72,-16,2122.0
+0:38.0, ,72-56,Offensive rebound by Team,,3,56,72,-16,2122.0
+0:38.0, ,72-57,B. Adebayo makes free throw 2 of 2,,3,57,72,-15,2122.0
+0:32.0,D. Schröder makes 2-pt layup from 2 ft,74-57, ,,3,57,74,-17,2128.0
+0:32.0,Shooting foul by D. Robinson (drawn by D. Schröder),74-57, ,,3,57,74,-17,2128.0
+0:32.0,D. Schröder makes free throw 1 of 1,75-57, ,,3,57,75,-18,2128.0
+0:19.0, ,75-57,Turnover by K. Lowry (bad pass; steal by D. Schröder),,3,57,75,-18,2141.0
+0:13.0,A. Nesmith misses 2-pt layup from 2 ft,75-57, ,,3,57,75,-18,2147.0
+0:09.0,Offensive rebound by A. Horford,75-57, ,,3,57,75,-18,2151.0
+0:03.0,R. Langford misses 3-pt jump shot from 23 ft,75-57, ,,3,57,75,-18,2157.0
+0:00.0,Offensive rebound by Team,75-57, ,,3,57,75,-18,2160.0
+0:00.0,End of 3rd quarter,75-57,,,3,57,75,-18,2160.0
+12:00.0,Start of 4th quarter,75-57,,,4,57,75,-18,2160.0
+11:35.0, ,75-57,T. Herro misses 3-pt jump shot from 25 ft,,4,57,75,-18,2185.0
+11:32.0,Defensive rebound by A. Nesmith,75-57, ,,4,57,75,-18,2188.0
+11:19.0,Shooting foul by J. Butler (drawn by J. Tatum),75-57, ,,4,57,75,-18,2201.0
+11:19.0,J. Tatum misses free throw 1 of 2,75-57, ,,4,57,75,-18,2201.0
+11:19.0,Offensive rebound by Team,75-57, ,,4,57,75,-18,2201.0
+11:19.0,J. Tatum makes free throw 2 of 2,76-57, ,,4,57,76,-19,2201.0
+11:07.0, ,76-60,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,4,60,76,-16,2213.0
+10:46.0,J. Tatum misses 2-pt jump shot from 21 ft,76-60, ,,4,60,76,-16,2234.0
+10:43.0, ,76-60,Defensive rebound by B. Adebayo,,4,60,76,-16,2237.0
+10:37.0, ,76-60,D. Robinson misses 3-pt jump shot from 29 ft,,4,60,76,-16,2243.0
+10:32.0,Defensive rebound by J. Tatum,76-60, ,,4,60,76,-16,2248.0
+10:21.0,A. Nesmith makes 3-pt jump shot from 23 ft (assist by R. Langford),79-60, ,,4,60,79,-19,2259.0
+10:03.0, ,79-60,T. Herro misses 2-pt jump shot from 18 ft,,4,60,79,-19,2277.0
+9:59.0,Defensive rebound by A. Nesmith,79-60, ,,4,60,79,-19,2281.0
+9:58.0,R. Langford misses 2-pt layup from 2 ft,79-60, ,,4,60,79,-19,2282.0
+9:58.0,Offensive rebound by A. Nesmith,79-60, ,,4,60,79,-19,2282.0
+9:53.0,A. Nesmith makes 2-pt layup from 2 ft,81-60, ,,4,60,81,-21,2287.0
+9:53.0, ,81-60,Violation by Team (def goaltending),,4,60,81,-21,2287.0
+9:33.0, ,81-60,J. Butler misses 2-pt jump shot from 3 ft,,4,60,81,-21,2307.0
+9:23.0, ,81-60,Offensive rebound by J. Butler,,4,60,81,-21,2317.0
+9:23.0, ,81-62,J. Butler makes 2-pt layup at rim,,4,62,81,-19,2317.0
+9:17.0,A. Horford misses 3-pt jump shot from 26 ft,81-62, ,,4,62,81,-19,2323.0
+9:17.0, ,81-62,Defensive rebound by T. Herro,,4,62,81,-19,2323.0
+9:09.0, ,81-62,J. Butler misses 2-pt jump shot from 7 ft,,4,62,81,-19,2331.0
+9:06.0, ,81-62,Offensive rebound by M. Morris,,4,62,81,-19,2334.0
+9:01.0, ,81-62,D. Robinson misses 3-pt jump shot from 26 ft,,4,62,81,-19,2339.0
+8:57.0,Defensive rebound by R. Langford,81-62, ,,4,62,81,-19,2343.0
+8:35.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by D. Schröder),84-62, ,,4,62,84,-22,2365.0
+8:31.0, ,84-62,Miami full timeout,,4,62,84,-22,2369.0
+8:31.0,M. Smart enters the game for A. Nesmith,84-62, ,,4,62,84,-22,2369.0
+8:31.0, ,84-62,P. Tucker enters the game for B. Adebayo,,4,62,84,-22,2369.0
+8:08.0, ,84-62,M. Morris misses 2-pt jump shot from 10 ft,,4,62,84,-22,2392.0
+8:08.0, ,84-62,Offensive rebound by Team,,4,62,84,-22,2392.0
+8:08.0,Loose ball foul by A. Horford (drawn by J. Butler),84-62, ,,4,62,84,-22,2392.0
+7:54.0, ,84-62,M. Morris misses 2-pt jump shot from 13 ft,,4,62,84,-22,2406.0
+7:51.0,Defensive rebound by A. Horford,84-62, ,,4,62,84,-22,2409.0
+7:32.0,J. Tatum misses 2-pt jump shot from 9 ft,84-62, ,,4,62,84,-22,2428.0
+7:28.0, ,84-62,Defensive rebound by T. Herro,,4,62,84,-22,2432.0
+7:19.0, ,84-64,T. Herro makes 2-pt layup from 2 ft,,4,64,84,-20,2441.0
+7:00.0, ,84-64,Violation by Team (kicked ball),,4,64,84,-20,2460.0
+7:00.0, ,84-64,Technical foul by M. Morris,,4,64,84,-20,2460.0
+7:00.0,J. Tatum makes technical free throw,85-64, ,,4,64,85,-21,2460.0
+6:45.0,R. Langford misses 3-pt jump shot from 22 ft,85-64, ,,4,64,85,-21,2475.0
+6:43.0, ,85-64,Defensive rebound by Team,,4,64,85,-21,2477.0
+6:33.0, ,85-66,M. Morris makes 2-pt dunk from 1 ft (assist by T. Herro),,4,66,85,-19,2487.0
+6:10.0,J. Tatum makes 2-pt layup from 2 ft,87-66, ,,4,66,87,-21,2510.0
+5:47.0, ,87-66,T. Herro misses 2-pt jump shot from 18 ft,,4,66,87,-21,2533.0
+5:43.0,Defensive rebound by M. Smart,87-66, ,,4,66,87,-21,2537.0
+5:35.0,J. Tatum makes 3-pt jump shot from 25 ft,90-66, ,,4,66,90,-24,2545.0
+5:27.0, ,90-66,Miami full timeout,,4,66,90,-24,2553.0
+5:27.0,Boston full timeout,90-66, ,,4,66,90,-24,2553.0
+5:27.0, ,90-66,B. Adebayo enters the game for M. Morris,,4,66,90,-24,2553.0
+5:13.0, ,90-66,D. Robinson misses 3-pt jump shot from 26 ft,,4,66,90,-24,2567.0
+5:10.0,Defensive rebound by D. Schröder,90-66, ,,4,66,90,-24,2570.0
+4:59.0,D. Schröder misses 3-pt jump shot from 26 ft,90-66, ,,4,66,90,-24,2581.0
+4:55.0,Offensive rebound by D. Schröder,90-66, ,,4,66,90,-24,2585.0
+4:49.0,R. Langford makes 2-pt layup from 1 ft (assist by D. Schröder),92-66, ,,4,66,92,-26,2591.0
+4:23.0, ,92-66,J. Butler misses 2-pt jump shot from 8 ft,,4,66,92,-26,2617.0
+4:21.0, ,92-66,Offensive rebound by B. Adebayo,,4,66,92,-26,2619.0
+4:17.0, ,92-68,B. Adebayo makes 2-pt hook shot from 10 ft,,4,68,92,-24,2623.0
+4:00.0,J. Tatum misses 3-pt jump shot from 26 ft,92-68, ,,4,68,92,-24,2640.0
+3:54.0, ,92-68,Defensive rebound by T. Herro,,4,68,92,-24,2646.0
+3:44.0, ,92-70,J. Butler makes 2-pt layup from 2 ft (assist by B. Adebayo),,4,70,92,-22,2656.0
+3:44.0,Boston full timeout,92-70, ,,4,70,92,-22,2656.0
+3:44.0, ,92-70,C. Martin enters the game for B. Adebayo,,4,70,92,-22,2656.0
+3:44.0, ,92-70,M. Morris enters the game for J. Butler,,4,70,92,-22,2656.0
+3:44.0, ,92-70,G. Vincent enters the game for T. Herro,,4,70,92,-22,2656.0
+3:44.0, ,92-70,O. Yurtseven enters the game for P. Tucker,,4,70,92,-22,2656.0
+3:27.0,A. Horford misses 3-pt jump shot from 25 ft,92-70, ,,4,70,92,-22,2673.0
+3:24.0, ,92-70,Defensive rebound by C. Martin,,4,70,92,-22,2676.0
+3:08.0, ,92-70,O. Yurtseven misses 2-pt jump shot from 3 ft,,4,70,92,-22,2692.0
+3:04.0,Defensive rebound by J. Tatum,92-70, ,,4,70,92,-22,2696.0
+2:51.0,R. Langford misses 3-pt jump shot from 24 ft,92-70, ,,4,70,92,-22,2709.0
+2:49.0, ,92-70,Defensive rebound by G. Vincent,,4,70,92,-22,2711.0
+2:40.0, ,92-72,O. Yurtseven makes 2-pt layup from 2 ft (assist by G. Vincent),,4,72,92,-20,2720.0
+2:31.0,Boston full timeout,92-72, ,,4,72,92,-20,2729.0
+2:31.0,B. Fernando enters the game for A. Horford,92-72, ,,4,72,92,-20,2729.0
+2:31.0,J. Hernangómez enters the game for R. Langford,92-72, ,,4,72,92,-20,2729.0
+2:31.0,A. Nesmith enters the game for D. Schröder,92-72, ,,4,72,92,-20,2729.0
+2:31.0,P. Pritchard enters the game for M. Smart,92-72, ,,4,72,92,-20,2729.0
+2:31.0,G. Williams enters the game for J. Tatum,92-72, ,,4,72,92,-20,2729.0
+2:20.0,P. Pritchard makes 3-pt jump shot from 28 ft,95-72, ,,4,72,95,-23,2740.0
+1:53.0, ,95-72,C. Martin misses 3-pt jump shot from 26 ft,,4,72,95,-23,2767.0
+1:50.0, ,95-72,Offensive rebound by C. Martin,,4,72,95,-23,2770.0
+1:48.0, ,95-72,C. Martin misses 2-pt layup from 3 ft (block by B. Fernando),,4,72,95,-23,2772.0
+1:44.0, ,95-72,Offensive rebound by G. Vincent,,4,72,95,-23,2776.0
+1:42.0, ,95-72,D. Robinson misses 3-pt jump shot from 26 ft,,4,72,95,-23,2778.0
+1:35.0,Defensive rebound by G. Williams,95-72, ,,4,72,95,-23,2785.0
+1:30.0,Turnover by B. Fernando (step out of bounds),95-72, ,,4,72,95,-23,2790.0
+1:15.0, ,95-75,D. Robinson makes 3-pt jump shot from 23 ft (assist by G. Vincent),,4,75,95,-20,2805.0
+0:57.0,G. Williams misses 3-pt jump shot from 25 ft,95-75, ,,4,75,95,-20,2823.0
+0:55.0,Offensive rebound by Team,95-75, ,,4,75,95,-20,2825.0
+0:47.0,Personal foul by D. Robinson (drawn by G. Williams),95-75, ,,4,75,95,-20,2833.0
+0:42.0,P. Pritchard misses 3-pt jump shot from 25 ft,95-75, ,,4,75,95,-20,2838.0
+0:40.0,Offensive rebound by Team,95-75, ,,4,75,95,-20,2840.0
+0:31.0,Turnover by P. Pritchard (traveling),95-75, ,,4,75,95,-20,2849.0
+0:23.0, ,95-78,M. Morris makes 3-pt jump shot from 24 ft (assist by G. Vincent),,4,78,95,-17,2857.0
+0:00.0,End of 4th quarter,95-78,,,4,78,95,-17,2880.0

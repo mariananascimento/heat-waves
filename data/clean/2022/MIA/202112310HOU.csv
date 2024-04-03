@@ -1,0 +1,476 @@
+Time,Miami,Score,Houston,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: O. Yurtseven vs. C. Wood (K. Porter gains possession),0-0,,,1,0,0,0,0.0
+11:52.0, ,0-0,D. Nwaba misses 3-pt jump shot from 26 ft,,1,0,0,0,8.0
+11:51.0,Defensive rebound by T. Herro,0-0, ,,1,0,0,0,9.0
+11:34.0,O. Yurtseven makes 2-pt layup from 1 ft (assist by K. Lowry),2-0, ,,1,2,0,2,26.0
+11:18.0, ,2-0,J. Green misses 3-pt jump shot from 23 ft,,1,2,0,2,42.0
+11:17.0, ,2-0,Offensive rebound by Team,,1,2,0,2,43.0
+11:06.0, ,2-3,E. Gordon makes 3-pt jump shot from 27 ft,Lead change,1,2,3,-1,54.0
+10:41.0,C. Martin misses 2-pt jump shot from 10 ft,2-3, ,,1,2,3,-1,79.0
+10:39.0, ,2-3,Defensive rebound by D. Nwaba,,1,2,3,-1,81.0
+10:31.0, ,2-6,C. Wood makes 3-pt jump shot from 26 ft,,1,2,6,-4,89.0
+10:14.0,K. Lowry makes 3-pt jump shot from 27 ft (assist by T. Herro),5-6, ,,1,5,6,-1,106.0
+9:56.0, ,5-8,K. Porter makes 2-pt layup from 1 ft,,1,5,8,-3,124.0
+9:49.0,O. Yurtseven makes 2-pt layup from 1 ft (assist by K. Lowry),7-8, ,,1,7,8,-1,131.0
+9:39.0, ,7-10,D. Nwaba makes 2-pt dunk from 1 ft (assist by J. Green),,1,7,10,-3,141.0
+9:25.0,J. Butler makes 3-pt jump shot from 23 ft (assist by T. Herro),10-10, ,Tie,1,10,10,0,155.0
+9:11.0, ,10-10,Turnover by K. Porter (bad pass; steal by J. Butler),,1,10,10,0,169.0
+9:08.0,J. Butler makes 2-pt dunk from 1 ft,12-10, ,Lead change,1,12,10,2,172.0
+8:48.0, ,12-10,E. Gordon misses 2-pt layup from 3 ft,,1,12,10,2,192.0
+8:47.0, ,12-10,Offensive rebound by K. Porter,,1,12,10,2,193.0
+8:46.0, ,12-13,J. Green makes 3-pt jump shot from 23 ft (assist by K. Porter),Lead change,1,12,13,-1,194.0
+8:29.0,J. Butler makes 2-pt jump shot from 14 ft,14-13, ,Lead change,1,14,13,1,211.0
+8:11.0, ,14-13,Offensive foul by J. Green (drawn by C. Martin),,1,14,13,1,229.0
+8:11.0, ,14-13,Turnover by J. Green (offensive foul),,1,14,13,1,229.0
+7:57.0,Shooting foul by J. Green (drawn by C. Martin),14-13, ,,1,14,13,1,243.0
+7:57.0,C. Martin makes free throw 1 of 2,15-13, ,,1,15,13,2,243.0
+7:57.0,C. Martin makes free throw 2 of 2,16-13, ,,1,16,13,3,243.0
+7:38.0, ,16-13,D. Nwaba misses 2-pt layup from 3 ft (block by J. Butler),,1,16,13,3,262.0
+7:37.0, ,16-13,Offensive rebound by D. Nwaba,,1,16,13,3,263.0
+7:35.0, ,16-15,D. Nwaba makes 2-pt layup from 2 ft,,1,16,15,1,265.0
+7:12.0,O. Yurtseven makes 2-pt jump shot from 11 ft (assist by T. Herro),18-15, ,,1,18,15,3,288.0
+6:59.0, ,18-17,E. Gordon makes 2-pt layup from 2 ft,,1,18,17,1,301.0
+6:54.0, ,18-17,Houston full timeout,,1,18,17,1,306.0
+6:48.0,O. Yurtseven misses 2-pt hook shot from 8 ft (block by C. Wood),18-17, ,,1,18,17,1,312.0
+6:45.0, ,18-17,Defensive rebound by E. Gordon,,1,18,17,1,315.0
+6:40.0, ,18-17,Shooting foul by O. Yurtseven (drawn by C. Wood),,1,18,17,1,320.0
+6:40.0, ,18-17,C. Wood misses free throw 1 of 3,,1,18,17,1,320.0
+6:40.0, ,18-17,Offensive rebound by Team,,1,18,17,1,320.0
+6:40.0, ,18-17,C. Wood misses free throw 2 of 3,,1,18,17,1,320.0
+6:40.0, ,18-18,C. Wood makes free throw 3 of 3,Tie,1,18,18,0,320.0
+6:23.0,J. Butler misses 2-pt jump shot from 8 ft,18-18, ,,1,18,18,0,337.0
+6:19.0,Offensive rebound by O. Yurtseven,18-18, ,,1,18,18,0,341.0
+6:19.0,O. Yurtseven misses 2-pt layup from 2 ft (block by K. Porter),18-18, ,,1,18,18,0,341.0
+6:18.0, ,18-18,Defensive rebound by C. Wood,,1,18,18,0,342.0
+6:11.0, ,18-18,E. Gordon misses 3-pt jump shot from 28 ft,,1,18,18,0,349.0
+6:08.0,Defensive rebound by C. Martin,18-18, ,,1,18,18,0,352.0
+5:56.0,J. Butler makes 2-pt layup from 8 ft,20-18, ,,1,20,18,2,364.0
+5:35.0, ,20-20,C. Wood makes 2-pt layup from 2 ft (assist by E. Gordon),Tie,1,20,20,0,385.0
+5:24.0,Def 3 sec tech foul by Team,20-20, ,,1,20,20,0,396.0
+5:24.0,K. Guy enters the game for K. Lowry,20-20, ,,1,20,20,0,396.0
+5:24.0,H. Highsmith enters the game for C. Martin,20-20, ,,1,20,20,0,396.0
+5:24.0, ,20-20,J. Christopher enters the game for E. Gordon,,1,20,20,0,396.0
+5:24.0, ,20-20,J. Tate enters the game for D. Nwaba,,1,20,20,0,396.0
+5:24.0,J. Butler makes technical free throw,21-20, ,,1,21,20,1,396.0
+5:13.0,T. Herro misses 3-pt jump shot from 26 ft,21-20, ,,1,21,20,1,407.0
+5:10.0, ,21-20,Defensive rebound by J. Christopher,,1,21,20,1,410.0
+5:07.0, ,21-20,Personal foul by H. Highsmith (drawn by C. Wood),,1,21,20,1,413.0
+4:58.0, ,21-22,K. Porter makes 2-pt jump shot from 20 ft,Lead change,1,21,22,-1,422.0
+4:42.0,T. Herro misses 3-pt jump shot from 25 ft,21-22, ,,1,21,22,-1,438.0
+4:40.0, ,21-22,Defensive rebound by C. Wood,,1,21,22,-1,440.0
+4:27.0, ,21-22,Shooting foul by K. Guy (drawn by J. Green),,1,21,22,-1,453.0
+4:27.0, ,21-23,J. Green makes free throw 1 of 2,,1,21,23,-2,453.0
+4:27.0,C. Silva enters the game for O. Yurtseven,21-23, ,,1,21,23,-2,453.0
+4:27.0, ,21-24,J. Green makes free throw 2 of 2,,1,21,24,-3,453.0
+4:19.0,K. Guy makes 3-pt jump shot from 28 ft (assist by T. Herro),24-24, ,Tie,1,24,24,0,461.0
+4:07.0, ,24-27,J. Christopher makes 3-pt jump shot from 24 ft (assist by C. Wood),,1,24,27,-3,473.0
+3:54.0,Turnover by T. Herro (lost ball; steal by K. Porter),24-27, ,,1,24,27,-3,486.0
+3:50.0, ,24-27,K. Porter misses 2-pt dunk from 3 ft,,1,24,27,-3,490.0
+3:50.0,Defensive rebound by Team,24-27, ,,1,24,27,-3,490.0
+3:50.0, ,24-27,Loose ball foul by J. Christopher (drawn by C. Silva),,1,24,27,-3,490.0
+3:50.0, ,24-27,A. Brooks enters the game for J. Green,,1,24,27,-3,490.0
+3:50.0, ,24-27,D. Nix enters the game for K. Porter,,1,24,27,-3,490.0
+3:39.0,K. Guy makes 3-pt jump shot from 23 ft (assist by T. Herro),27-27, ,Tie,1,27,27,0,501.0
+3:39.0, ,27-27,A. Sengun enters the game for C. Wood,,1,27,27,0,501.0
+3:19.0, ,27-27,J. Tate misses 2-pt layup from 6 ft,,1,27,27,0,521.0
+3:17.0,Defensive rebound by K. Guy,27-27, ,,1,27,27,0,523.0
+3:14.0,K. Guy makes 3-pt jump shot from 27 ft,30-27, ,Lead change,1,30,27,3,526.0
+2:56.0, ,30-27,Turnover by J. Christopher (traveling),,1,30,27,3,544.0
+2:56.0,Miami full timeout,30-27, ,,1,30,27,3,544.0
+2:43.0,K. Guy misses 3-pt jump shot from 26 ft,30-27, ,,1,30,27,3,557.0
+2:42.0,Offensive rebound by C. Silva,30-27, ,,1,30,27,3,558.0
+2:40.0,C. Silva makes 2-pt hook shot from 6 ft,32-27, ,,1,32,27,5,560.0
+2:16.0, ,32-27,J. Tate misses 2-pt layup from 8 ft,,1,32,27,5,584.0
+2:13.0,Defensive rebound by J. Butler,32-27, ,,1,32,27,5,587.0
+2:03.0,H. Highsmith makes 3-pt jump shot from 23 ft (assist by T. Herro),35-27, ,,1,35,27,8,597.0
+1:45.0, ,35-27,J. Christopher misses 3-pt jump shot from 25 ft,,1,35,27,8,615.0
+1:43.0, ,35-27,Offensive rebound by J. Tate,,1,35,27,8,617.0
+1:43.0, ,35-29,J. Tate makes 2-pt layup from 3 ft,,1,35,29,6,617.0
+1:31.0,Personal foul by J. Tate (drawn by C. Silva),35-29, ,,1,35,29,6,629.0
+1:31.0,K. Lowry enters the game for J. Butler,35-29, ,,1,35,29,6,629.0
+1:23.0,Personal foul by A. Sengun (drawn by T. Herro),35-29, ,,1,35,29,6,637.0
+1:23.0,T. Herro misses free throw 1 of 2,35-29, ,,1,35,29,6,637.0
+1:23.0,Offensive rebound by Team,35-29, ,,1,35,29,6,637.0
+1:23.0,T. Herro makes free throw 2 of 2,36-29, ,,1,36,29,7,637.0
+1:08.0, ,36-29,Shooting foul by C. Silva (drawn by A. Sengun),,1,36,29,7,652.0
+1:08.0, ,36-29,A. Sengun misses free throw 1 of 2,,1,36,29,7,652.0
+1:08.0, ,36-29,Offensive rebound by Team,,1,36,29,7,652.0
+1:08.0, ,36-30,A. Sengun makes free throw 2 of 2,,1,36,30,6,652.0
+0:56.0,Shooting foul by D. Nix (drawn by T. Herro),36-30, ,,1,36,30,6,664.0
+0:56.0,T. Herro makes free throw 1 of 2,37-30, ,,1,37,30,7,664.0
+0:56.0,T. Herro makes free throw 2 of 2,38-30, ,,1,38,30,8,664.0
+0:35.0, ,38-30,Turnover by A. Sengun (lost ball; steal by K. Guy),,1,38,30,8,685.0
+0:26.0,T. Herro makes 3-pt jump shot from 25 ft (assist by K. Guy),41-30, ,,1,41,30,11,694.0
+0:03.0, ,41-30,J. Christopher misses 3-pt jump shot from 26 ft,,1,41,30,11,717.0
+0:01.0,Defensive rebound by C. Silva,41-30, ,,1,41,30,11,719.0
+0:00.0,End of 1st quarter,41-30,,,1,41,30,11,720.0
+12:00.0,Start of 2nd quarter,41-30,,,2,41,30,11,720.0
+11:49.0,K. Lowry misses 3-pt jump shot from 27 ft,41-30, ,,2,41,30,11,731.0
+11:45.0, ,41-30,Defensive rebound by A. Sengun,,2,41,30,11,735.0
+11:36.0, ,41-33,K. Porter makes 3-pt jump shot from 25 ft (assist by A. Sengun),,2,41,33,8,744.0
+11:29.0,C. Silva misses 2-pt layup from 3 ft (block by A. Sengun),41-33, ,,2,41,33,8,751.0
+11:29.0,Offensive rebound by K. Guy,41-33, ,,2,41,33,8,751.0
+11:29.0,Shooting foul by K. Porter (drawn by K. Guy),41-33, ,,2,41,33,8,751.0
+11:29.0,K. Guy misses free throw 1 of 2,41-33, ,,2,41,33,8,751.0
+11:29.0,Offensive rebound by Team,41-33, ,,2,41,33,8,751.0
+11:29.0,K. Guy makes free throw 2 of 2,42-33, ,,2,42,33,9,751.0
+11:18.0, ,42-33,Shooting foul by C. Silva (drawn by A. Sengun),,2,42,33,9,762.0
+11:18.0, ,42-34,A. Sengun makes free throw 1 of 2,,2,42,34,8,762.0
+11:18.0,O. Yurtseven enters the game for C. Silva,42-34, ,,2,42,34,8,762.0
+11:18.0, ,42-35,A. Sengun makes free throw 2 of 2,,2,42,35,7,762.0
+11:04.0,C. Martin makes 3-pt jump shot from 23 ft (assist by N. Stauskas),45-35, ,,2,45,35,10,776.0
+10:46.0, ,45-35,K. Martin misses 2-pt layup from 3 ft (block by K. Lowry),,2,45,35,10,794.0
+10:45.0, ,45-35,Offensive rebound by K. Martin,,2,45,35,10,795.0
+10:45.0, ,45-35,Turnover by K. Martin (out of bounds lost ball),,2,45,35,10,795.0
+10:30.0,O. Yurtseven makes 2-pt layup from 3 ft (assist by K. Guy),47-35, ,,2,47,35,12,810.0
+10:09.0, ,47-38,A. Sengun makes 3-pt jump shot from 26 ft,,2,47,38,9,831.0
+10:01.0,Turnover by K. Guy (step out of bounds),47-38, ,,2,47,38,9,839.0
+9:51.0, ,47-38,Turnover by K. Porter (out of bounds lost ball),,2,47,38,9,849.0
+9:39.0,Shooting foul by A. Sengun (drawn by N. Stauskas),47-38, ,,2,47,38,9,861.0
+9:39.0,N. Stauskas makes free throw 1 of 2,48-38, ,,2,48,38,10,861.0
+9:39.0,N. Stauskas makes free throw 2 of 2,49-38, ,,2,49,38,11,861.0
+9:20.0, ,49-38,K. Porter misses 3-pt jump shot from 26 ft,,2,49,38,11,880.0
+9:17.0, ,49-38,Offensive rebound by K. Martin,,2,49,38,11,883.0
+9:14.0, ,49-38,Turnover by K. Martin (lost ball; steal by K. Guy),,2,49,38,11,886.0
+9:08.0,Turnover by O. Yurtseven (bad pass; steal by J. Christopher),49-38, ,,2,49,38,11,892.0
+9:04.0, ,49-38,J. Christopher misses 2-pt layup from 2 ft,,2,49,38,11,896.0
+9:02.0,Defensive rebound by O. Yurtseven,49-38, ,,2,49,38,11,898.0
+8:54.0,O. Yurtseven misses 2-pt layup from 2 ft,49-38, ,,2,49,38,11,906.0
+8:52.0, ,49-38,Defensive rebound by A. Brooks,,2,49,38,11,908.0
+8:48.0, ,49-38,Offensive foul by A. Brooks (drawn by K. Guy),,2,49,38,11,912.0
+8:48.0, ,49-38,Turnover by A. Brooks (offensive foul),,2,49,38,11,912.0
+8:48.0, ,49-38,C. Wood enters the game for A. Sengun,,2,49,38,11,912.0
+8:36.0,Personal foul by K. Porter (drawn by K. Lowry),49-38, ,,2,49,38,11,924.0
+8:32.0,K. Guy makes 2-pt jump shot from 18 ft,51-38, ,,2,51,38,13,928.0
+8:18.0, ,51-38,K. Porter misses 2-pt jump shot from 5 ft,,2,51,38,13,942.0
+8:17.0,Defensive rebound by O. Yurtseven,51-38, ,,2,51,38,13,943.0
+8:12.0,C. Martin makes 2-pt layup from 1 ft,53-38, ,,2,53,38,15,948.0
+8:12.0, ,53-38,Houston full timeout,,2,53,38,15,948.0
+7:56.0, ,53-38,C. Wood misses 2-pt jump shot from 6 ft,,2,53,38,15,964.0
+7:53.0,Defensive rebound by O. Yurtseven,53-38, ,,2,53,38,15,967.0
+7:47.0,K. Lowry makes 2-pt jump shot from 13 ft,55-38, ,,2,55,38,17,973.0
+7:47.0,Shooting foul by J. Christopher (drawn by K. Lowry),55-38, ,,2,55,38,17,973.0
+7:47.0, ,55-38,J. Green enters the game for J. Christopher,,2,55,38,17,973.0
+7:47.0,K. Lowry misses free throw 1 of 1,55-38, ,,2,55,38,17,973.0
+7:47.0, ,55-38,Defensive rebound by C. Wood,,2,55,38,17,973.0
+7:36.0, ,55-38,K. Martin misses 3-pt jump shot from 27 ft,,2,55,38,17,984.0
+7:34.0,Defensive rebound by O. Yurtseven,55-38, ,,2,55,38,17,986.0
+7:28.0,N. Stauskas makes 3-pt jump shot from 24 ft (assist by K. Lowry),58-38, ,,2,58,38,20,992.0
+7:12.0, ,58-38,A. Brooks misses 3-pt jump shot from 27 ft,,2,58,38,20,1008.0
+7:10.0,Defensive rebound by N. Stauskas,58-38, ,,2,58,38,20,1010.0
+7:03.0,K. Lowry misses 2-pt jump shot from 5 ft,58-38, ,,2,58,38,20,1017.0
+7:01.0, ,58-38,Defensive rebound by J. Green,,2,58,38,20,1019.0
+6:47.0, ,58-38,Turnover by K. Porter (bad pass; steal by K. Guy),,2,58,38,20,1033.0
+6:41.0,C. Martin makes 2-pt layup from 1 ft (assist by K. Guy),60-38, ,,2,60,38,22,1039.0
+6:24.0, ,60-38,J. Green misses 3-pt jump shot from 26 ft,,2,60,38,22,1056.0
+6:21.0,Defensive rebound by O. Yurtseven,60-38, ,,2,60,38,22,1059.0
+6:21.0,J. Butler enters the game for K. Lowry,60-38, ,,2,60,38,22,1059.0
+6:21.0, ,60-38,J. Tate enters the game for K. Martin,,2,60,38,22,1059.0
+6:09.0,N. Stauskas misses 2-pt jump shot from 19 ft,60-38, ,,2,60,38,22,1071.0
+6:06.0, ,60-38,Defensive rebound by C. Wood,,2,60,38,22,1074.0
+5:56.0, ,60-38,J. Green misses 3-pt jump shot from 25 ft,,2,60,38,22,1084.0
+5:53.0,Defensive rebound by K. Guy,60-38, ,,2,60,38,22,1087.0
+5:39.0,J. Butler misses 2-pt jump shot from 11 ft,60-38, ,,2,60,38,22,1101.0
+5:35.0, ,60-38,Defensive rebound by J. Tate,,2,60,38,22,1105.0
+5:25.0, ,60-38,C. Wood misses 3-pt jump shot from 26 ft,,2,60,38,22,1115.0
+5:23.0,Defensive rebound by K. Guy,60-38, ,,2,60,38,22,1117.0
+5:17.0,O. Yurtseven makes 2-pt dunk at rim (assist by K. Guy),62-38, ,,2,62,38,24,1123.0
+5:15.0, ,62-38,Houston full timeout,,2,62,38,24,1125.0
+5:15.0,T. Herro enters the game for N. Stauskas,62-38, ,,2,62,38,24,1125.0
+4:58.0, ,62-40,C. Wood makes 2-pt dunk from 1 ft (assist by K. Porter),,2,62,40,22,1142.0
+4:40.0,K. Guy makes 3-pt jump shot from 25 ft (assist by O. Yurtseven),65-40, ,,2,65,40,25,1160.0
+4:23.0, ,65-42,J. Tate makes 2-pt layup from 3 ft,,2,65,42,23,1177.0
+4:12.0,O. Yurtseven misses 2-pt jump shot from 7 ft,65-42, ,,2,65,42,23,1188.0
+4:10.0, ,65-42,Defensive rebound by J. Tate,,2,65,42,23,1190.0
+4:01.0, ,65-42,Turnover by K. Porter (bad pass),,2,65,42,23,1199.0
+4:01.0, ,65-42,E. Gordon enters the game for K. Porter,,2,65,42,23,1199.0
+3:41.0,C. Martin misses 2-pt jump shot from 22 ft,65-42, ,,2,65,42,23,1219.0
+3:38.0, ,65-42,Defensive rebound by J. Green,,2,65,42,23,1222.0
+3:30.0, ,65-42,Turnover by C. Wood (lost ball; steal by C. Martin),,2,65,42,23,1230.0
+3:27.0,Turnover by T. Herro (bad pass),65-42, ,,2,65,42,23,1233.0
+3:27.0,C. Silva enters the game for O. Yurtseven,65-42, ,,2,65,42,23,1233.0
+3:27.0, ,65-42,D. Nwaba enters the game for A. Brooks,,2,65,42,23,1233.0
+3:11.0, ,65-42,C. Wood misses 3-pt jump shot from 26 ft,,2,65,42,23,1249.0
+3:08.0,Defensive rebound by T. Herro,65-42, ,,2,65,42,23,1252.0
+2:55.0,J. Butler misses 2-pt jump shot from 7 ft,65-42, ,,2,65,42,23,1265.0
+2:50.0,Offensive rebound by C. Silva,65-42, ,,2,65,42,23,1270.0
+2:48.0,J. Butler misses 3-pt jump shot from 23 ft,65-42, ,,2,65,42,23,1272.0
+2:46.0, ,65-42,Defensive rebound by J. Tate,,2,65,42,23,1274.0
+2:40.0, ,65-45,E. Gordon makes 3-pt jump shot from 26 ft (assist by J. Tate),,2,65,45,20,1280.0
+2:12.0,C. Martin misses 3-pt jump shot from 24 ft,65-45, ,,2,65,45,20,1308.0
+2:10.0, ,65-45,Defensive rebound by D. Nwaba,,2,65,45,20,1310.0
+2:05.0, ,65-48,J. Tate makes 3-pt jump shot from 23 ft (assist by E. Gordon),,2,65,48,17,1315.0
+2:04.0,Miami full timeout,65-48, ,,2,65,48,17,1316.0
+2:04.0,K. Lowry enters the game for K. Guy,65-48, ,,2,65,48,17,1316.0
+2:04.0,O. Yurtseven enters the game for C. Silva,65-48, ,,2,65,48,17,1316.0
+1:51.0,Shooting foul by C. Wood (drawn by J. Butler),65-48, ,,2,65,48,17,1329.0
+1:51.0,J. Butler makes free throw 1 of 2,66-48, ,,2,66,48,18,1329.0
+1:51.0,J. Butler makes free throw 2 of 2,67-48, ,,2,67,48,19,1329.0
+1:34.0, ,67-48,E. Gordon misses 3-pt jump shot from 29 ft,,2,67,48,19,1346.0
+1:32.0, ,67-48,Offensive rebound by J. Tate,,2,67,48,19,1348.0
+1:31.0, ,67-50,J. Tate makes 2-pt layup from 2 ft,,2,67,50,17,1349.0
+1:31.0, ,67-50,Shooting foul by O. Yurtseven (drawn by J. Tate),,2,67,50,17,1349.0
+1:31.0, ,67-51,J. Tate makes free throw 1 of 1,,2,67,51,16,1349.0
+1:15.0,T. Herro misses 3-pt jump shot from 26 ft (block by J. Tate),67-51, ,,2,67,51,16,1365.0
+1:12.0, ,67-51,Defensive rebound by D. Nwaba,,2,67,51,16,1368.0
+1:07.0, ,67-51,Personal foul by C. Martin (drawn by E. Gordon),,2,67,51,16,1373.0
+1:07.0, ,67-52,E. Gordon makes free throw 1 of 2,,2,67,52,15,1373.0
+1:07.0, ,67-53,E. Gordon makes free throw 2 of 2,,2,67,53,14,1373.0
+1:07.0,C. Silva enters the game for O. Yurtseven,67-53, ,,2,67,53,14,1373.0
+0:58.0,J. Butler makes 2-pt jump shot from 11 ft,69-53, ,,2,69,53,16,1382.0
+0:45.0, ,69-55,J. Green makes 2-pt layup from 2 ft,,2,69,55,14,1395.0
+0:41.0,Shooting foul by D. Nwaba (drawn by J. Butler),69-55, ,,2,69,55,14,1399.0
+0:41.0,J. Butler makes free throw 1 of 2,70-55, ,,2,70,55,15,1399.0
+0:41.0, ,70-55,K. Martin enters the game for J. Tate,,2,70,55,15,1399.0
+0:41.0,J. Butler makes free throw 2 of 2,71-55, ,,2,71,55,16,1399.0
+0:32.0, ,71-55,Shooting foul by C. Silva (drawn by J. Green),,2,71,55,16,1408.0
+0:32.0, ,71-56,J. Green makes free throw 1 of 2,,2,71,56,15,1408.0
+0:32.0,H. Highsmith enters the game for C. Silva,71-56, ,,2,71,56,15,1408.0
+0:32.0, ,71-57,J. Green makes free throw 2 of 2,,2,71,57,14,1408.0
+0:27.0,Turnover by K. Lowry (bad pass; steal by D. Nwaba),71-57, ,,2,71,57,14,1413.0
+0:05.0, ,71-60,J. Green makes 3-pt jump shot from 26 ft (assist by E. Gordon),,2,71,60,11,1435.0
+0:00.0,J. Butler makes 3-pt jump shot from 26 ft,74-60, ,,2,74,60,14,1440.0
+0:00.0,End of 2nd quarter,74-60,,,2,74,60,14,1440.0
+12:00.0,Start of 3rd quarter,74-60,,,3,74,60,14,1440.0
+11:43.0,T. Herro makes 2-pt jump shot from 13 ft (assist by J. Butler),76-60, ,,3,76,60,16,1457.0
+11:22.0, ,76-62,J. Green makes 2-pt jump shot from 21 ft,,3,76,62,14,1478.0
+10:52.0,T. Herro misses 2-pt jump shot from 12 ft,76-62, ,,3,76,62,14,1508.0
+10:50.0, ,76-62,Defensive rebound by C. Wood,,3,76,62,14,1510.0
+10:37.0, ,76-64,C. Wood makes 2-pt layup from 6 ft,,3,76,64,12,1523.0
+10:25.0,T. Herro misses 3-pt jump shot from 24 ft,76-64, ,,3,76,64,12,1535.0
+10:21.0, ,76-64,Defensive rebound by D. Nwaba,,3,76,64,12,1539.0
+10:10.0, ,76-64,C. Wood misses 3-pt jump shot from 26 ft,,3,76,64,12,1550.0
+10:06.0,Defensive rebound by T. Herro,76-64, ,,3,76,64,12,1554.0
+10:03.0,T. Herro misses 3-pt jump shot from 26 ft,76-64, ,,3,76,64,12,1557.0
+10:01.0, ,76-64,Defensive rebound by D. Nwaba,,3,76,64,12,1559.0
+9:52.0, ,76-64,J. Green misses 3-pt jump shot from 27 ft,,3,76,64,12,1568.0
+9:49.0, ,76-64,Offensive rebound by D. Nwaba,,3,76,64,12,1571.0
+9:40.0, ,76-64,D. Nwaba misses 2-pt layup from 6 ft,,3,76,64,12,1580.0
+9:39.0, ,76-64,Offensive rebound by C. Wood,,3,76,64,12,1581.0
+9:39.0, ,76-66,C. Wood makes 2-pt layup at rim,,3,76,66,10,1581.0
+9:28.0,J. Butler makes 2-pt jump shot from 7 ft,78-66, ,,3,78,66,12,1592.0
+9:16.0, ,78-66,Turnover by C. Wood (traveling),,3,78,66,12,1604.0
+9:08.0,T. Herro makes 2-pt hook shot from 8 ft,80-66, ,,3,80,66,14,1612.0
+8:52.0, ,80-66,Turnover by K. Porter (lost ball; steal by O. Yurtseven),,3,80,66,14,1628.0
+8:41.0,T. Herro misses 2-pt jump shot from 11 ft,80-66, ,,3,80,66,14,1639.0
+8:41.0, ,80-66,Defensive rebound by Team,,3,80,66,14,1639.0
+8:41.0,Loose ball foul by O. Yurtseven (drawn by K. Porter),80-66, ,,3,80,66,14,1639.0
+8:18.0, ,80-66,D. Nwaba misses 2-pt layup from 4 ft (block by O. Yurtseven),,3,80,66,14,1662.0
+8:17.0,Defensive rebound by O. Yurtseven,80-66, ,,3,80,66,14,1663.0
+8:13.0,J. Butler makes 2-pt dunk from 1 ft (assist by T. Herro),82-66, ,,3,82,66,16,1667.0
+8:05.0, ,82-69,D. Nwaba makes 3-pt jump shot from 23 ft (assist by J. Green),,3,82,69,13,1675.0
+7:50.0,Turnover by T. Herro (lost ball; steal by K. Porter),82-69, ,,3,82,69,13,1690.0
+7:47.0, ,82-69,K. Porter misses 2-pt layup from 2 ft,,3,82,69,13,1693.0
+7:46.0, ,82-69,Offensive rebound by Team,,3,82,69,13,1694.0
+7:43.0, ,82-69,Offensive foul by J. Green (drawn by K. Lowry),,3,82,69,13,1697.0
+7:43.0, ,82-69,Turnover by J. Green (offensive foul),,3,82,69,13,1697.0
+7:34.0,Personal foul by J. Green (drawn by J. Butler),82-69, ,,3,82,69,13,1706.0
+7:34.0, ,82-69,J. Christopher enters the game for J. Green,,3,82,69,13,1706.0
+7:27.0,O. Yurtseven misses 2-pt jump shot from 9 ft,82-69, ,,3,82,69,13,1713.0
+7:24.0, ,82-69,Defensive rebound by D. Nwaba,,3,82,69,13,1716.0
+7:18.0, ,82-69,Turnover by D. Nwaba (bad pass; steal by O. Yurtseven),,3,82,69,13,1722.0
+7:11.0,J. Butler makes 2-pt jump shot from 13 ft,84-69, ,,3,84,69,15,1729.0
+7:00.0, ,84-72,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Christopher),,3,84,72,12,1740.0
+6:40.0,J. Butler makes 2-pt jump shot from 8 ft,86-72, ,,3,86,72,14,1760.0
+6:19.0, ,86-72,K. Porter misses 3-pt jump shot from 26 ft,,3,86,72,14,1781.0
+6:17.0,Defensive rebound by O. Yurtseven,86-72, ,,3,86,72,14,1783.0
+6:09.0,Personal foul by K. Porter (drawn by K. Lowry),86-72, ,,3,86,72,14,1791.0
+6:09.0, ,86-72,Houston full timeout,,3,86,72,14,1791.0
+6:09.0, ,86-72,Technical foul by K. Porter,,3,86,72,14,1791.0
+6:09.0, ,86-72,J. Tate enters the game for D. Nwaba,,3,86,72,14,1791.0
+6:09.0,T. Herro misses technical free throw,86-72, ,,3,86,72,14,1791.0
+6:09.0,Offensive rebound by Team,86-72, ,,3,86,72,14,1791.0
+6:02.0,T. Herro makes 2-pt layup from 2 ft (assist by O. Yurtseven),88-72, ,,3,88,72,16,1798.0
+5:41.0, ,88-72,K. Porter misses 2-pt layup from 3 ft,,3,88,72,16,1819.0
+5:39.0,Defensive rebound by O. Yurtseven,88-72, ,,3,88,72,16,1821.0
+5:34.0,C. Martin misses 3-pt jump shot from 23 ft,88-72, ,,3,88,72,16,1826.0
+5:31.0,Offensive rebound by K. Lowry,88-72, ,,3,88,72,16,1829.0
+5:30.0,T. Herro misses 3-pt jump shot from 26 ft,88-72, ,,3,88,72,16,1830.0
+5:27.0,Offensive rebound by C. Martin,88-72, ,,3,88,72,16,1833.0
+5:26.0,Turnover by C. Martin (out of bounds lost ball),88-72, ,,3,88,72,16,1834.0
+5:26.0, ,88-72,A. Brooks enters the game for K. Porter,,3,88,72,16,1834.0
+5:15.0, ,88-72,E. Gordon misses 3-pt jump shot from 27 ft,,3,88,72,16,1845.0
+5:12.0,Defensive rebound by O. Yurtseven,88-72, ,,3,88,72,16,1848.0
+5:04.0,Shooting foul by A. Brooks (drawn by K. Lowry),88-72, ,,3,88,72,16,1856.0
+5:04.0,K. Lowry makes free throw 1 of 2,89-72, ,,3,89,72,17,1856.0
+5:04.0,H. Highsmith enters the game for C. Martin,89-72, ,,3,89,72,17,1856.0
+5:04.0,K. Lowry makes free throw 2 of 2,90-72, ,,3,90,72,18,1856.0
+4:56.0, ,90-74,C. Wood makes 2-pt jump shot from 7 ft (assist by J. Christopher),,3,90,74,16,1864.0
+4:43.0,J. Butler misses 2-pt jump shot from 11 ft,90-74, ,,3,90,74,16,1877.0
+4:39.0,Offensive rebound by K. Lowry,90-74, ,,3,90,74,16,1881.0
+4:36.0,Jump ball: J. Tate vs. K. Lowry (C. Wood gains possession),90-74,,,3,90,74,16,1884.0
+4:36.0,Turnover by K. Lowry (lost ball; steal by J. Tate),90-74, ,,3,90,74,16,1884.0
+4:34.0, ,90-74,Personal foul by K. Lowry (drawn by J. Christopher),,3,90,74,16,1886.0
+4:34.0,K. Guy enters the game for K. Lowry,90-74, ,,3,90,74,16,1886.0
+4:30.0, ,90-76,J. Tate makes 2-pt layup from 2 ft (assist by C. Wood),,3,90,76,14,1890.0
+4:30.0, ,90-76,Shooting foul by O. Yurtseven (drawn by J. Tate),,3,90,76,14,1890.0
+4:30.0,C. Silva enters the game for O. Yurtseven,90-76, ,,3,90,76,14,1890.0
+4:30.0, ,90-77,J. Tate makes free throw 1 of 1,,3,90,77,13,1890.0
+4:10.0,J. Butler misses 2-pt jump shot from 8 ft,90-77, ,,3,90,77,13,1910.0
+4:06.0,Offensive rebound by H. Highsmith,90-77, ,,3,90,77,13,1914.0
+4:06.0,H. Highsmith misses 2-pt layup at rim,90-77, ,,3,90,77,13,1914.0
+4:05.0, ,90-77,Defensive rebound by C. Wood,,3,90,77,13,1915.0
+3:59.0, ,90-79,C. Wood makes 2-pt layup from 2 ft (assist by J. Tate),,3,90,79,11,1921.0
+3:59.0,Miami full timeout,90-79, ,,3,90,79,11,1921.0
+3:59.0, ,90-79,T. Queen enters the game for E. Gordon,,3,90,79,11,1921.0
+3:48.0,H. Highsmith makes 3-pt jump shot from 23 ft (assist by T. Herro),93-79, ,,3,93,79,14,1932.0
+3:30.0, ,93-79,C. Wood misses 2-pt hook shot from 12 ft,,3,93,79,14,1950.0
+3:25.0, ,93-79,Offensive rebound by J. Christopher,,3,93,79,14,1955.0
+3:25.0, ,93-79,J. Christopher misses 2-pt layup at rim,,3,93,79,14,1955.0
+3:25.0,Defensive rebound by C. Silva,93-79, ,,3,93,79,14,1955.0
+3:13.0,T. Herro makes 2-pt jump shot from 10 ft,95-79, ,,3,95,79,16,1967.0
+3:02.0, ,95-79,Personal foul by H. Highsmith (drawn by J. Tate),,3,95,79,16,1978.0
+2:51.0, ,95-79,Turnover by T. Queen (out of bounds lost ball),,3,95,79,16,1989.0
+2:36.0,Turnover by K. Guy (lost ball; steal by J. Tate),95-79, ,,3,95,79,16,2004.0
+2:18.0, ,95-82,A. Brooks makes 3-pt jump shot from 23 ft (assist by C. Wood),,3,95,82,13,2022.0
+1:51.0,H. Highsmith makes 3-pt jump shot from 23 ft (assist by J. Butler),98-82, ,,3,98,82,16,2049.0
+1:38.0, ,98-82,J. Christopher misses 2-pt layup from 4 ft,,3,98,82,16,2062.0
+1:37.0,Defensive rebound by C. Silva,98-82, ,,3,98,82,16,2063.0
+1:33.0,T. Herro misses 3-pt jump shot from 27 ft,98-82, ,,3,98,82,16,2067.0
+1:29.0, ,98-82,Defensive rebound by J. Christopher,,3,98,82,16,2071.0
+1:22.0, ,98-82,Offensive foul by T. Queen (drawn by C. Silva),,3,98,82,16,2078.0
+1:22.0, ,98-82,Turnover by T. Queen (offensive foul),,3,98,82,16,2078.0
+1:22.0,K. Lowry enters the game for J. Butler,98-82, ,,3,98,82,16,2078.0
+1:22.0, ,98-82,K. Martin enters the game for C. Wood,,3,98,82,16,2078.0
+1:02.0,K. Guy makes 2-pt layup from 2 ft,100-82, ,,3,100,82,18,2098.0
+0:50.0, ,100-82,K. Martin misses 3-pt jump shot from 24 ft,,3,100,82,18,2110.0
+0:48.0,Defensive rebound by C. Silva,100-82, ,,3,100,82,18,2112.0
+0:41.0,K. Guy misses 3-pt jump shot from 26 ft,100-82, ,,3,100,82,18,2119.0
+0:39.0, ,100-82,Defensive rebound by A. Brooks,,3,100,82,18,2121.0
+0:33.0, ,100-85,A. Brooks makes 3-pt jump shot from 29 ft,,3,100,85,15,2127.0
+0:14.0,T. Herro misses 2-pt jump shot from 9 ft,100-85, ,,3,100,85,15,2146.0
+0:12.0, ,100-85,Defensive rebound by J. Tate,,3,100,85,15,2148.0
+0:01.0, ,100-87,K. Martin makes 2-pt dunk from 2 ft (assist by J. Christopher),,3,100,87,13,2159.0
+0:00.0,K. Lowry misses 3-pt jump shot from 52 ft,100-87, ,,3,100,87,13,2160.0
+0:00.0,Offensive rebound by Team,100-87, ,,3,100,87,13,2160.0
+0:00.0,End of 3rd quarter,100-87,,,3,100,87,13,2160.0
+12:00.0,Start of 4th quarter,100-87,,,4,100,87,13,2160.0
+11:40.0, ,100-87,J. Christopher misses 3-pt jump shot from 24 ft,,4,100,87,13,2180.0
+11:39.0,Defensive rebound by C. Silva,100-87, ,,4,100,87,13,2181.0
+11:32.0,K. Lowry misses 3-pt jump shot from 27 ft,100-87, ,,4,100,87,13,2188.0
+11:28.0, ,100-87,Defensive rebound by A. Brooks,,4,100,87,13,2192.0
+11:19.0, ,100-89,J. Tate makes 2-pt layup from 2 ft (assist by A. Brooks),,4,100,89,11,2201.0
+11:00.0,N. Stauskas misses 3-pt jump shot from 23 ft,100-89, ,,4,100,89,11,2220.0
+10:58.0,Offensive rebound by K. Lowry,100-89, ,,4,100,89,11,2222.0
+10:57.0,Offensive foul by C. Martin (drawn by E. Gordon),100-89, ,,4,100,89,11,2223.0
+10:57.0,Turnover by C. Martin (offensive foul),100-89, ,,4,100,89,11,2223.0
+10:38.0, ,100-89,J. Tate misses 3-pt jump shot from 26 ft,,4,100,89,11,2242.0
+10:36.0,Defensive rebound by Team,100-89, ,,4,100,89,11,2244.0
+10:18.0,K. Lowry misses 2-pt jump shot from 21 ft,100-89, ,,4,100,89,11,2262.0
+10:17.0,Offensive rebound by Team,100-89, ,,4,100,89,11,2263.0
+10:17.0, ,100-89,Loose ball foul by K. Martin (drawn by C. Silva),,4,100,89,11,2263.0
+10:17.0, ,100-89,D. Nwaba enters the game for J. Tate,,4,100,89,11,2263.0
+10:07.0,K. Lowry misses 3-pt jump shot from 31 ft,100-89, ,,4,100,89,11,2273.0
+10:04.0, ,100-89,Defensive rebound by A. Brooks,,4,100,89,11,2276.0
+9:57.0, ,100-89,A. Brooks misses 3-pt jump shot from 28 ft,,4,100,89,11,2283.0
+9:55.0,Defensive rebound by N. Stauskas,100-89, ,,4,100,89,11,2285.0
+9:49.0,Shooting foul by E. Gordon (drawn by N. Stauskas),100-89, ,,4,100,89,11,2291.0
+9:49.0,N. Stauskas misses free throw 1 of 2,100-89, ,,4,100,89,11,2291.0
+9:49.0,Offensive rebound by Team,100-89, ,,4,100,89,11,2291.0
+9:49.0,N. Stauskas makes free throw 2 of 2,101-89, ,,4,101,89,12,2291.0
+9:29.0, ,101-89,A. Brooks misses 3-pt jump shot from 27 ft,,4,101,89,12,2311.0
+9:26.0, ,101-89,Offensive rebound by K. Martin,,4,101,89,12,2314.0
+9:22.0, ,101-91,K. Martin makes 2-pt layup from 5 ft,,4,101,91,10,2318.0
+9:03.0,C. Martin misses 2-pt layup from 7 ft,101-91, ,,4,101,91,10,2337.0
+9:01.0, ,101-91,Defensive rebound by J. Christopher,,4,101,91,10,2339.0
+9:00.0, ,101-91,Personal foul by K. Lowry (drawn by J. Christopher),,4,101,91,10,2340.0
+9:00.0,O. Yurtseven enters the game for C. Silva,101-91, ,,4,101,91,10,2340.0
+8:43.0, ,101-91,E. Gordon misses 3-pt jump shot from 29 ft,,4,101,91,10,2357.0
+8:41.0, ,101-91,Offensive rebound by D. Nwaba,,4,101,91,10,2359.0
+8:34.0, ,101-93,E. Gordon makes 2-pt layup from 2 ft,,4,101,93,8,2366.0
+8:34.0,Miami full timeout,101-93, ,,4,101,93,8,2366.0
+8:34.0, ,101-93,K. Porter enters the game for E. Gordon,,4,101,93,8,2366.0
+8:25.0,Turnover by K. Lowry (bad pass; steal by D. Nwaba),101-93, ,,4,101,93,8,2375.0
+8:21.0, ,101-93,Shooting foul by N. Stauskas (drawn by K. Martin),,4,101,93,8,2379.0
+8:21.0, ,101-94,K. Martin makes free throw 1 of 2,,4,101,94,7,2379.0
+8:21.0,J. Butler enters the game for K. Guy,101-94, ,,4,101,94,7,2379.0
+8:21.0,T. Herro enters the game for N. Stauskas,101-94, ,,4,101,94,7,2379.0
+8:21.0, ,101-95,K. Martin makes free throw 2 of 2,,4,101,95,6,2379.0
+8:04.0,Turnover by T. Herro (bad pass; steal by J. Christopher),101-95, ,,4,101,95,6,2396.0
+8:04.0, ,101-95,Personal take foul by K. Lowry (drawn by K. Martin),,4,101,95,6,2396.0
+7:52.0, ,101-95,A. Brooks misses 3-pt jump shot from 27 ft,,4,101,95,6,2408.0
+7:49.0,Defensive rebound by C. Martin,101-95, ,,4,101,95,6,2411.0
+7:42.0,J. Butler makes 2-pt jump shot from 12 ft,103-95, ,,4,103,95,8,2418.0
+7:42.0,Shooting foul by D. Nwaba (drawn by J. Butler),103-95, ,,4,103,95,8,2418.0
+7:42.0, ,103-95,J. Green enters the game for A. Brooks,,4,103,95,8,2418.0
+7:42.0,J. Butler makes free throw 1 of 1,104-95, ,,4,104,95,9,2418.0
+7:27.0, ,104-95,K. Martin misses 2-pt layup from 3 ft,,4,104,95,9,2433.0
+7:25.0,Defensive rebound by O. Yurtseven,104-95, ,,4,104,95,9,2435.0
+7:13.0,T. Herro misses 3-pt jump shot from 27 ft,104-95, ,,4,104,95,9,2447.0
+7:08.0, ,104-95,Defensive rebound by K. Porter,,4,104,95,9,2452.0
+7:00.0, ,104-95,J. Christopher misses 2-pt layup from 6 ft (block by K. Lowry),,4,104,95,9,2460.0
+6:57.0, ,104-95,Offensive rebound by J. Christopher,,4,104,95,9,2463.0
+6:55.0, ,104-97,J. Christopher makes 2-pt jump shot from 8 ft,,4,104,97,7,2465.0
+6:32.0,J. Butler misses 2-pt jump shot from 6 ft,104-97, ,,4,104,97,7,2488.0
+6:30.0, ,104-97,Defensive rebound by K. Martin,,4,104,97,7,2490.0
+6:22.0, ,104-97,K. Porter misses 3-pt jump shot from 26 ft,,4,104,97,7,2498.0
+6:20.0, ,104-97,Offensive rebound by D. Nwaba,,4,104,97,7,2500.0
+6:14.0, ,104-97,K. Martin misses 2-pt dunk from 1 ft (block by O. Yurtseven),,4,104,97,7,2506.0
+6:11.0,Defensive rebound by T. Herro,104-97, ,,4,104,97,7,2509.0
+6:00.0,J. Butler makes 2-pt jump shot from 7 ft,106-97, ,,4,106,97,9,2520.0
+6:00.0,Shooting foul by J. Green (drawn by J. Butler),106-97, ,,4,106,97,9,2520.0
+6:00.0, ,106-97,J. Tate enters the game for K. Martin,,4,106,97,9,2520.0
+6:00.0, ,106-97,C. Wood enters the game for D. Nwaba,,4,106,97,9,2520.0
+6:00.0,J. Butler makes free throw 1 of 1,107-97, ,,4,107,97,10,2520.0
+5:50.0, ,107-99,J. Tate makes 2-pt layup from 2 ft (assist by K. Porter),,4,107,99,8,2530.0
+5:42.0,K. Lowry misses 2-pt layup from 8 ft,107-99, ,,4,107,99,8,2538.0
+5:38.0,Offensive rebound by O. Yurtseven,107-99, ,,4,107,99,8,2542.0
+5:36.0,O. Yurtseven misses 2-pt hook shot from 2 ft,107-99, ,,4,107,99,8,2544.0
+5:34.0, ,107-99,Defensive rebound by C. Wood,,4,107,99,8,2546.0
+5:20.0, ,107-99,J. Green misses 3-pt jump shot from 28 ft,,4,107,99,8,2560.0
+5:18.0,Defensive rebound by O. Yurtseven,107-99, ,,4,107,99,8,2562.0
+4:56.0,J. Butler misses 2-pt jump shot from 10 ft,107-99, ,,4,107,99,8,2584.0
+4:55.0, ,107-99,Defensive rebound by Team,,4,107,99,8,2585.0
+4:55.0, ,107-99,E. Gordon enters the game for J. Christopher,,4,107,99,8,2585.0
+4:41.0, ,107-102,J. Tate makes 3-pt jump shot from 24 ft (assist by K. Porter),,4,107,102,5,2599.0
+4:41.0,Miami full timeout,107-102, ,,4,107,102,5,2599.0
+4:24.0,Turnover by K. Lowry (bad pass; steal by C. Wood),107-102, ,,4,107,102,5,2616.0
+4:18.0, ,107-102,J. Tate misses 2-pt layup from 4 ft,,4,107,102,5,2622.0
+4:15.0, ,107-102,Offensive rebound by J. Tate,,4,107,102,5,2625.0
+4:15.0, ,107-102,J. Tate misses 2-pt layup at rim,,4,107,102,5,2625.0
+4:14.0, ,107-102,Offensive rebound by K. Porter,,4,107,102,5,2626.0
+4:13.0, ,107-102,E. Gordon misses 3-pt jump shot from 25 ft,,4,107,102,5,2627.0
+4:10.0,Defensive rebound by C. Martin,107-102, ,,4,107,102,5,2630.0
+4:08.0,Personal foul by K. Porter (drawn by J. Butler),107-102, ,,4,107,102,5,2632.0
+4:08.0,J. Butler makes free throw 1 of 2,108-102, ,,4,108,102,6,2632.0
+4:08.0,J. Butler makes free throw 2 of 2,109-102, ,,4,109,102,7,2632.0
+3:48.0, ,109-102,C. Wood misses 2-pt layup from 2 ft,,4,109,102,7,2652.0
+3:45.0,Defensive rebound by T. Herro,109-102, ,,4,109,102,7,2655.0
+3:31.0,Personal foul by J. Tate (drawn by T. Herro),109-102, ,,4,109,102,7,2669.0
+3:31.0,T. Herro makes free throw 1 of 2,110-102, ,,4,110,102,8,2669.0
+3:31.0,H. Highsmith enters the game for O. Yurtseven,110-102, ,,4,110,102,8,2669.0
+3:31.0,T. Herro makes free throw 2 of 2,111-102, ,,4,111,102,9,2669.0
+3:19.0, ,111-102,K. Porter misses 3-pt jump shot from 24 ft,,4,111,102,9,2681.0
+3:16.0,Defensive rebound by T. Herro,111-102, ,,4,111,102,9,2684.0
+3:07.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by T. Herro),114-102, ,,4,114,102,12,2693.0
+2:54.0, ,114-104,J. Tate makes 2-pt dunk from 1 ft (assist by C. Wood),,4,114,104,10,2706.0
+2:32.0,T. Herro misses 2-pt jump shot from 12 ft,114-104, ,,4,114,104,10,2728.0
+2:32.0, ,114-104,Defensive rebound by Team,,4,114,104,10,2728.0
+2:32.0, ,114-104,Houston full timeout,,4,114,104,10,2728.0
+2:32.0, ,114-104,Instant Replay (Challenge: Ruling Stands),,4,114,104,10,2728.0
+2:14.0, ,114-106,C. Wood makes 2-pt layup from 2 ft (assist by E. Gordon),,4,114,106,8,2746.0
+1:55.0,C. Martin makes 2-pt layup from 3 ft,116-106, ,,4,116,106,10,2765.0
+1:49.0, ,116-106,Offensive foul by C. Wood (drawn by T. Herro),,4,116,106,10,2771.0
+1:49.0, ,116-106,Turnover by C. Wood (offensive foul),,4,116,106,10,2771.0
+1:29.0,K. Lowry misses 3-pt jump shot from 26 ft,116-106, ,,4,116,106,10,2791.0
+1:27.0, ,116-106,Defensive rebound by J. Green,,4,116,106,10,2793.0
+1:18.0, ,116-106,J. Tate misses 2-pt layup from 1 ft,,4,116,106,10,2802.0
+1:16.0,Defensive rebound by C. Martin,116-106, ,,4,116,106,10,2804.0
+1:14.0,Turnover by C. Martin (bad pass),116-106, ,,4,116,106,10,2806.0
+0:57.0, ,116-108,J. Green makes 2-pt layup at rim,,4,116,108,8,2823.0
+0:53.0,Personal take foul by K. Porter (drawn by J. Butler),116-108, ,,4,116,108,8,2827.0
+0:53.0,J. Butler makes free throw 1 of 2,117-108, ,,4,117,108,9,2827.0
+0:53.0,J. Butler makes free throw 2 of 2,118-108, ,,4,118,108,10,2827.0
+0:47.0, ,118-108,J. Green misses 2-pt layup from 1 ft (block by J. Butler),,4,118,108,10,2833.0
+0:47.0,Defensive rebound by Team,118-108, ,,4,118,108,10,2833.0
+0:25.0,J. Butler misses 2-pt jump shot from 19 ft,118-108, ,,4,118,108,10,2855.0
+0:22.0,Offensive rebound by C. Martin,118-108, ,,4,118,108,10,2858.0
+0:22.0,Personal take foul by K. Porter (drawn by K. Lowry),118-108, ,,4,118,108,10,2858.0
+0:22.0, ,118-108,J. Christopher enters the game for K. Porter,,4,118,108,10,2858.0
+0:22.0,K. Lowry makes free throw 1 of 2,119-108, ,,4,119,108,11,2858.0
+0:22.0,N. Stauskas enters the game for J. Butler,119-108, ,,4,119,108,11,2858.0
+0:22.0, ,119-108,A. Brooks enters the game for E. Gordon,,4,119,108,11,2858.0
+0:22.0, ,119-108,T. Queen enters the game for J. Green,,4,119,108,11,2858.0
+0:22.0,K. Lowry makes free throw 2 of 2,120-108, ,,4,120,108,12,2858.0
+0:16.0, ,120-110,J. Christopher makes 2-pt layup from 2 ft,,4,120,110,10,2864.0
+0:00.0,End of 4th quarter,120-110,,,4,120,110,10,2880.0

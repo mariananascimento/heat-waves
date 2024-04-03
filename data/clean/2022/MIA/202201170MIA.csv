@@ -1,0 +1,447 @@
+Time,Toronto,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: P. Achiuwa vs. B. Adebayo (G. Vincent gains possession),0-0,,,1,0,0,0,0.0
+11:38.0, ,0-0,G. Vincent misses 2-pt jump shot from 9 ft,,1,0,0,0,22.0
+11:34.0,Defensive rebound by P. Achiuwa,0-0, ,,1,0,0,0,26.0
+11:31.0,P. Siakam misses 2-pt layup from 5 ft,0-0, ,,1,0,0,0,29.0
+11:31.0, ,0-0,Defensive rebound by J. Butler,,1,0,0,0,29.0
+11:19.0, ,0-0,J. Butler misses 3-pt jump shot from 25 ft,,1,0,0,0,41.0
+11:16.0,Defensive rebound by S. Barnes,0-0, ,,1,0,0,0,44.0
+10:58.0,P. Achiuwa misses 2-pt jump shot from 11 ft,0-0, ,,1,0,0,0,62.0
+10:54.0, ,0-0,Defensive rebound by P. Tucker,,1,0,0,0,66.0
+10:41.0, ,0-0,B. Adebayo misses 2-pt hook shot from 6 ft,,1,0,0,0,79.0
+10:37.0, ,0-0,Offensive rebound by J. Butler,,1,0,0,0,83.0
+10:37.0, ,0-2,J. Butler makes 2-pt layup from 1 ft,,1,2,0,2,83.0
+10:13.0,S. Barnes makes 2-pt hook shot from 10 ft,2-2, ,Tie,1,2,2,0,107.0
+10:02.0, ,2-2,B. Adebayo misses 2-pt layup from 5 ft (block by P. Achiuwa),,1,2,2,0,118.0
+10:01.0,Defensive rebound by Team,2-2, ,,1,2,2,0,119.0
+9:45.0,F. VanVleet makes 3-pt jump shot from 27 ft (assist by O. Anunoby),5-2, ,Lead change,1,2,5,-3,135.0
+9:28.0, ,5-2,Turnover by G. Vincent (bad pass; steal by P. Siakam),,1,2,5,-3,152.0
+9:26.0,Personal take foul by P. Tucker (drawn by P. Siakam),5-2, ,,1,2,5,-3,154.0
+9:26.0,Instant Replay (Request: Ruling Stands),5-2, ,,1,2,5,-3,154.0
+9:16.0,F. VanVleet misses 3-pt jump shot from 26 ft,5-2, ,,1,2,5,-3,164.0
+9:11.0, ,5-2,Defensive rebound by B. Adebayo,,1,2,5,-3,169.0
+9:05.0, ,5-5,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),Tie,1,5,5,0,175.0
+8:50.0,S. Barnes misses 2-pt jump shot from 8 ft,5-5, ,,1,5,5,0,190.0
+8:46.0, ,5-5,Defensive rebound by B. Adebayo,,1,5,5,0,194.0
+8:34.0, ,5-7,D. Robinson makes 2-pt layup from 1 ft (assist by J. Butler),Lead change,1,7,5,2,206.0
+8:34.0,Violation by Team (def goaltending),5-7, ,,1,7,5,2,206.0
+8:20.0,O. Anunoby misses 3-pt jump shot from 26 ft,5-7, ,,1,7,5,2,220.0
+8:15.0, ,5-7,Defensive rebound by B. Adebayo,,1,7,5,2,225.0
+8:03.0, ,5-7,Turnover by J. Butler (bad pass),,1,7,5,2,237.0
+7:43.0,P. Siakam misses 2-pt jump shot from 12 ft,5-7, ,,1,7,5,2,257.0
+7:36.0, ,5-7,Defensive rebound by J. Butler,,1,7,5,2,264.0
+7:31.0, ,5-7,Turnover by G. Vincent (bad pass; steal by P. Achiuwa),,1,7,5,2,269.0
+7:24.0,S. Barnes misses 2-pt jump shot from 19 ft,5-7, ,,1,7,5,2,276.0
+7:19.0, ,5-7,Defensive rebound by J. Butler,,1,7,5,2,281.0
+7:14.0, ,5-10,G. Vincent makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,10,5,5,286.0
+6:59.0,F. VanVleet misses 3-pt jump shot from 27 ft,5-10, ,,1,10,5,5,301.0
+6:59.0, ,5-10,Defensive rebound by J. Butler,,1,10,5,5,301.0
+6:55.0, ,5-10,Personal foul by F. VanVleet (drawn by P. Tucker),,1,10,5,5,305.0
+6:55.0,Toronto full timeout,5-10, ,,1,10,5,5,305.0
+6:47.0, ,5-12,J. Butler makes 2-pt layup from 7 ft,,1,12,5,7,313.0
+6:47.0, ,5-12,Shooting foul by P. Achiuwa (drawn by J. Butler),,1,12,5,7,313.0
+6:47.0, ,5-12,J. Butler misses free throw 1 of 1,,1,12,5,7,313.0
+6:44.0,Defensive rebound by P. Achiuwa,5-12, ,,1,12,5,7,316.0
+6:28.0,Shooting foul by P. Tucker (drawn by S. Barnes),5-12, ,,1,12,5,7,332.0
+6:28.0,S. Barnes makes free throw 1 of 2,6-12, ,,1,12,6,6,332.0
+6:28.0,C. Boucher enters the game for P. Achiuwa,6-12, ,,1,12,6,6,332.0
+6:28.0, ,6-12,C. Martin enters the game for P. Tucker,,1,12,6,6,332.0
+6:28.0,S. Barnes makes free throw 2 of 2,7-12, ,,1,12,7,5,332.0
+6:22.0, ,7-12,Offensive foul by D. Robinson (drawn by F. VanVleet),,1,12,7,5,338.0
+6:22.0, ,7-12,Turnover by D. Robinson (offensive foul),,1,12,7,5,338.0
+6:07.0,Turnover by F. VanVleet (bad pass; steal by J. Butler),7-12, ,,1,12,7,5,353.0
+6:03.0, ,7-12,D. Robinson misses 3-pt jump shot from 24 ft,,1,12,7,5,357.0
+5:58.0,Defensive rebound by C. Boucher,7-12, ,,1,12,7,5,362.0
+5:52.0,Turnover by O. Anunoby (bad pass; steal by D. Robinson),7-12, ,,1,12,7,5,368.0
+5:46.0, ,7-12,Personal foul by O. Anunoby (drawn by J. Butler),,1,12,7,5,374.0
+5:46.0,P. Achiuwa enters the game for O. Anunoby,7-12, ,,1,12,7,5,374.0
+5:46.0, ,7-12,T. Herro enters the game for G. Vincent,,1,12,7,5,374.0
+5:37.0, ,7-12,Turnover by C. Martin (bad pass; steal by P. Siakam),,1,12,7,5,383.0
+5:33.0,P. Siakam makes 2-pt layup from 3 ft (assist by S. Barnes),9-12, ,,1,12,9,3,387.0
+5:27.0, ,9-14,J. Butler makes 2-pt layup from 3 ft (assist by T. Herro),,1,14,9,5,393.0
+5:27.0, ,9-14,Shooting foul by C. Boucher (drawn by J. Butler),,1,14,9,5,393.0
+5:27.0, ,9-15,J. Butler makes free throw 1 of 1,,1,15,9,6,393.0
+5:10.0,P. Siakam makes 2-pt hook shot from 5 ft,11-15, ,,1,15,11,4,410.0
+4:56.0, ,11-15,Turnover by T. Herro (lost ball; steal by P. Siakam),,1,15,11,4,424.0
+4:53.0,Shooting foul by C. Martin (drawn by C. Boucher),11-15, ,,1,15,11,4,427.0
+4:53.0,C. Boucher misses free throw 1 of 2,11-15, ,,1,15,11,4,427.0
+4:53.0,Offensive rebound by Team,11-15, ,,1,15,11,4,427.0
+4:53.0,O. Anunoby enters the game for S. Barnes,11-15, ,,1,15,11,4,427.0
+4:53.0,C. Boucher misses free throw 2 of 2,11-15, ,,1,15,11,4,427.0
+4:50.0, ,11-15,Defensive rebound by D. Robinson,,1,15,11,4,430.0
+4:42.0, ,11-15,J. Butler misses 2-pt layup from 2 ft,,1,15,11,4,438.0
+4:39.0, ,11-15,Offensive rebound by J. Butler,,1,15,11,4,441.0
+4:39.0, ,11-17,J. Butler makes 2-pt jump shot from 6 ft,,1,17,11,6,441.0
+4:24.0,C. Boucher makes 2-pt dunk from 2 ft (assist by P. Siakam),13-17, ,,1,17,13,4,456.0
+4:00.0, ,13-19,C. Martin makes 2-pt jump shot from 20 ft (assist by T. Herro),,1,19,13,6,480.0
+3:39.0,O. Anunoby makes 2-pt jump shot from 5 ft (assist by F. VanVleet),15-19, ,,1,19,15,4,501.0
+3:27.0, ,15-19,D. Robinson misses 3-pt jump shot from 26 ft,,1,19,15,4,513.0
+3:27.0,Defensive rebound by P. Achiuwa,15-19, ,,1,19,15,4,513.0
+3:17.0,O. Anunoby misses 3-pt jump shot from 23 ft,15-19, ,,1,19,15,4,523.0
+3:14.0,Offensive rebound by C. Boucher,15-19, ,,1,19,15,4,526.0
+3:13.0,Turnover by C. Boucher (bad pass; steal by T. Herro),15-19, ,,1,19,15,4,527.0
+3:06.0, ,15-19,J. Butler misses 2-pt dunk from 2 ft,,1,19,15,4,534.0
+3:02.0,Defensive rebound by O. Anunoby,15-19, ,,1,19,15,4,538.0
+3:02.0,C. Boucher makes 2-pt layup from 2 ft (assist by P. Siakam),17-19, ,,1,19,17,2,538.0
+3:02.0,Shooting foul by D. Robinson (drawn by C. Boucher),17-19, ,,1,19,17,2,538.0
+3:02.0,S. Barnes enters the game for P. Siakam,17-19, ,,1,19,17,2,538.0
+3:02.0, ,17-19,D. Dedmon enters the game for B. Adebayo,,1,19,17,2,538.0
+3:02.0, ,17-19,M. Strus enters the game for D. Robinson,,1,19,17,2,538.0
+3:02.0,C. Boucher makes free throw 1 of 1,18-19, ,,1,19,18,1,538.0
+2:52.0, ,18-21,T. Herro makes 2-pt dunk from 1 ft (assist by J. Butler),,1,21,18,3,548.0
+2:39.0,F. VanVleet misses 3-pt jump shot from 27 ft,18-21, ,,1,21,18,3,561.0
+2:34.0, ,18-21,Defensive rebound by D. Dedmon,,1,21,18,3,566.0
+2:30.0, ,18-21,T. Herro misses 2-pt layup from 2 ft,,1,21,18,3,570.0
+2:30.0,Defensive rebound by Team,18-21, ,,1,21,18,3,570.0
+2:30.0, ,18-21,Loose ball foul by D. Dedmon (drawn by F. VanVleet),,1,21,18,3,570.0
+2:30.0,Toronto full timeout,18-21, ,,1,21,18,3,570.0
+2:30.0, ,18-21,G. Vincent enters the game for J. Butler,,1,21,18,3,570.0
+2:30.0,F. VanVleet makes free throw 1 of 2,19-21, ,,1,21,19,2,570.0
+2:30.0,F. VanVleet makes free throw 2 of 2,20-21, ,,1,21,20,1,570.0
+2:15.0, ,20-21,G. Vincent misses 2-pt jump shot from 18 ft,,1,21,20,1,585.0
+2:13.0,Defensive rebound by F. VanVleet,20-21, ,,1,21,20,1,587.0
+2:13.0,Personal foul by C. Martin (drawn by C. Boucher),20-21, ,,1,21,20,1,587.0
+2:13.0,C. Boucher makes free throw 1 of 2,21-21, ,Tie,1,21,21,0,587.0
+2:13.0,J. Champagnie enters the game for O. Anunoby,21-21, ,,1,21,21,0,587.0
+2:13.0,C. Boucher makes free throw 2 of 2,22-21, ,Lead change,1,21,22,-1,587.0
+1:51.0, ,22-21,T. Herro misses 2-pt jump shot from 14 ft,,1,21,22,-1,609.0
+1:44.0,Defensive rebound by C. Boucher,22-21, ,,1,21,22,-1,616.0
+1:36.0,P. Achiuwa makes 2-pt jump shot from 8 ft,24-21, ,,1,21,24,-3,624.0
+1:27.0, ,24-21,Personal foul by J. Champagnie (drawn by T. Herro),,1,21,24,-3,633.0
+1:27.0, ,24-22,T. Herro makes free throw 1 of 2,,1,22,24,-2,633.0
+1:27.0, ,24-23,T. Herro makes free throw 2 of 2,,1,23,24,-1,633.0
+1:10.0,F. VanVleet makes 3-pt jump shot from 23 ft (assist by J. Champagnie),27-23, ,,1,23,27,-4,650.0
+0:46.0, ,27-23,G. Vincent misses 3-pt jump shot from 26 ft,,1,23,27,-4,674.0
+0:43.0, ,27-23,Offensive rebound by D. Dedmon,,1,23,27,-4,677.0
+0:43.0, ,27-25,D. Dedmon makes 2-pt dunk from 2 ft,,1,25,27,-2,677.0
+0:32.0,F. VanVleet makes 3-pt jump shot from 27 ft,30-25, ,,1,25,30,-5,688.0
+0:15.0, ,30-27,G. Vincent makes 2-pt layup from 1 ft,,1,27,30,-3,705.0
+0:00.0,F. VanVleet misses 3-pt jump shot from 28 ft,30-27, ,,1,27,30,-3,720.0
+0:00.0,Offensive rebound by Team,30-27, ,,1,27,30,-3,720.0
+0:00.0,End of 1st quarter,30-27,,,1,27,30,-3,720.0
+12:00.0,Start of 2nd quarter,30-27,,,2,27,30,-3,720.0
+11:43.0,P. Siakam misses 3-pt jump shot from 26 ft,30-27, ,,2,27,30,-3,737.0
+11:41.0,Offensive rebound by P. Achiuwa,30-27, ,,2,27,30,-3,739.0
+11:41.0,Personal foul by G. Vincent (drawn by P. Achiuwa),30-27, ,,2,27,30,-3,739.0
+11:29.0,P. Achiuwa misses 2-pt jump shot from 13 ft,30-27, ,,2,27,30,-3,751.0
+11:25.0, ,30-27,Defensive rebound by M. Strus,,2,27,30,-3,755.0
+11:10.0, ,30-29,D. Dedmon makes 2-pt jump shot from 5 ft (assist by M. Strus),,2,29,30,-1,770.0
+10:55.0,S. Barnes misses 2-pt hook shot from 7 ft,30-29, ,,2,29,30,-1,785.0
+10:53.0,Offensive rebound by P. Achiuwa,30-29, ,,2,29,30,-1,787.0
+10:49.0,S. Barnes misses 2-pt dunk from 1 ft,30-29, ,,2,29,30,-1,791.0
+10:46.0, ,30-29,Defensive rebound by T. Herro,,2,29,30,-1,794.0
+10:40.0, ,30-29,Shooting foul by O. Anunoby (drawn by T. Herro),,2,29,30,-1,800.0
+10:40.0, ,30-30,T. Herro makes free throw 1 of 2,Tie,2,30,30,0,800.0
+10:40.0, ,30-31,T. Herro makes free throw 2 of 2,Lead change,2,31,30,1,800.0
+10:23.0,O. Anunoby misses 3-pt jump shot from 26 ft,30-31, ,,2,31,30,1,817.0
+10:19.0,Offensive rebound by P. Achiuwa,30-31, ,,2,31,30,1,821.0
+10:15.0,C. Boucher makes 3-pt jump shot from 25 ft (assist by P. Siakam),33-31, ,Lead change,2,31,33,-2,825.0
+9:47.0, ,33-31,G. Vincent misses 3-pt jump shot from 23 ft,,2,31,33,-2,853.0
+9:43.0, ,33-31,Offensive rebound by D. Dedmon,,2,31,33,-2,857.0
+9:39.0, ,33-31,D. Dedmon misses 2-pt hook shot from 6 ft,,2,31,33,-2,861.0
+9:36.0,Defensive rebound by P. Achiuwa,33-31, ,,2,31,33,-2,864.0
+9:29.0,O. Anunoby misses 2-pt layup from 4 ft,33-31, ,,2,31,33,-2,871.0
+9:25.0,C. Boucher misses 2-pt layup from 2 ft,33-31, ,,2,31,33,-2,875.0
+9:25.0,Offensive rebound by C. Boucher,33-31, ,,2,31,33,-2,875.0
+9:24.0,Offensive rebound by C. Boucher,33-31, ,,2,31,33,-2,876.0
+9:23.0,C. Boucher misses 2-pt layup from 2 ft (block by D. Dedmon),33-31, ,,2,31,33,-2,877.0
+9:21.0, ,33-31,Defensive rebound by D. Dedmon,,2,31,33,-2,879.0
+9:08.0, ,33-31,C. Martin misses 3-pt jump shot from 23 ft,,2,31,33,-2,892.0
+9:06.0, ,33-31,Offensive rebound by D. Dedmon,,2,31,33,-2,894.0
+9:03.0, ,33-31,D. Dedmon misses 2-pt hook shot from 6 ft,,2,31,33,-2,897.0
+9:00.0,Defensive rebound by P. Achiuwa,33-31, ,,2,31,33,-2,900.0
+8:56.0,C. Boucher makes 2-pt layup from 2 ft (assist by S. Barnes),35-31, ,,2,31,35,-4,904.0
+8:38.0, ,35-33,T. Herro makes 2-pt layup from 2 ft,,2,33,35,-2,922.0
+8:20.0,P. Siakam makes 2-pt jump shot from 9 ft,37-33, ,,2,33,37,-4,940.0
+8:11.0, ,37-33,Personal foul by O. Anunoby (drawn by T. Herro),,2,33,37,-4,949.0
+8:11.0,J. Champagnie enters the game for O. Anunoby,37-33, ,,2,33,37,-4,949.0
+8:11.0, ,37-33,B. Adebayo enters the game for D. Dedmon,,2,33,37,-4,949.0
+8:11.0, ,37-33,J. Butler enters the game for G. Vincent,,2,33,37,-4,949.0
+8:04.0, ,37-35,T. Herro makes 2-pt layup from 2 ft,,2,35,37,-2,956.0
+7:43.0,P. Siakam makes 2-pt layup from 3 ft,39-35, ,,2,35,39,-4,977.0
+7:31.0, ,39-35,Shooting foul by P. Achiuwa (drawn by T. Herro),,2,35,39,-4,989.0
+7:31.0, ,39-36,T. Herro makes free throw 1 of 2,,2,36,39,-3,989.0
+7:31.0,F. VanVleet enters the game for S. Barnes,39-36, ,,2,36,39,-3,989.0
+7:31.0, ,39-36,P. Tucker enters the game for C. Martin,,2,36,39,-3,989.0
+7:31.0, ,39-37,T. Herro makes free throw 2 of 2,,2,37,39,-2,989.0
+7:10.0,P. Siakam misses 2-pt jump shot from 12 ft,39-37, ,,2,37,39,-2,1010.0
+7:03.0, ,39-37,Defensive rebound by P. Tucker,,2,37,39,-2,1017.0
+7:00.0, ,39-37,T. Herro misses 2-pt jump shot from 11 ft,,2,37,39,-2,1020.0
+6:55.0,Defensive rebound by C. Boucher,39-37, ,,2,37,39,-2,1025.0
+6:51.0,Personal foul by M. Strus (drawn by P. Siakam),39-37, ,,2,37,39,-2,1029.0
+6:51.0, ,39-37,Miami full timeout,,2,37,39,-2,1029.0
+6:36.0,P. Siakam misses 3-pt jump shot from 23 ft,39-37, ,,2,37,39,-2,1044.0
+6:35.0, ,39-37,Defensive rebound by Team,,2,37,39,-2,1045.0
+6:22.0, ,39-37,Turnover by M. Strus (bad pass; steal by P. Siakam),,2,37,39,-2,1058.0
+6:15.0,P. Achiuwa misses 2-pt layup from 5 ft (block by B. Adebayo),39-37, ,,2,37,39,-2,1065.0
+6:09.0, ,39-37,Defensive rebound by M. Strus,,2,37,39,-2,1071.0
+6:08.0, ,39-39,J. Butler makes 2-pt layup from 3 ft,Tie,2,39,39,0,1072.0
+5:52.0,P. Siakam makes 2-pt jump shot from 15 ft (assist by F. VanVleet),41-39, ,,2,39,41,-2,1088.0
+5:33.0, ,41-42,M. Strus makes 3-pt jump shot from 28 ft (assist by J. Butler),Lead change,2,42,41,1,1107.0
+5:11.0,C. Boucher makes 2-pt layup from 2 ft (assist by P. Siakam),43-42, ,Lead change,2,42,43,-1,1129.0
+4:53.0, ,43-42,Shooting foul by C. Boucher (drawn by J. Butler),,2,42,43,-1,1147.0
+4:53.0, ,43-43,J. Butler makes free throw 1 of 2,Tie,2,43,43,0,1147.0
+4:53.0,S. Barnes enters the game for P. Achiuwa,43-43, ,,2,43,43,0,1147.0
+4:53.0, ,43-44,J. Butler makes free throw 2 of 2,Lead change,2,44,43,1,1147.0
+4:37.0,S. Barnes misses 3-pt jump shot from 23 ft,43-44, ,,2,44,43,1,1163.0
+4:32.0, ,43-44,Defensive rebound by T. Herro,,2,44,43,1,1168.0
+4:28.0, ,43-44,Turnover by J. Butler (bad pass; steal by S. Barnes),,2,44,43,1,1172.0
+4:25.0,P. Siakam makes 2-pt layup from 2 ft (assist by S. Barnes),45-44, ,Lead change,2,44,45,-1,1175.0
+4:12.0, ,45-46,B. Adebayo makes 2-pt layup from 2 ft,Lead change,2,46,45,1,1188.0
+4:12.0, ,45-46,Shooting foul by S. Barnes (drawn by B. Adebayo),,2,46,45,1,1188.0
+4:12.0,P. Achiuwa enters the game for J. Champagnie,45-46, ,,2,46,45,1,1188.0
+4:12.0, ,45-46,D. Robinson enters the game for M. Strus,,2,46,45,1,1188.0
+4:12.0, ,45-47,B. Adebayo makes free throw 1 of 1,,2,47,45,2,1188.0
+3:51.0,S. Barnes misses 2-pt layup from 3 ft,45-47, ,,2,47,45,2,1209.0
+3:46.0,Offensive rebound by S. Barnes,45-47, ,,2,47,45,2,1214.0
+3:46.0,S. Barnes makes 2-pt layup at rim,47-47, ,Tie,2,47,47,0,1214.0
+3:41.0, ,47-50,D. Robinson makes 3-pt jump shot from 25 ft (assist by B. Adebayo),,2,50,47,3,1219.0
+3:16.0,Turnover by S. Barnes (bad pass; steal by T. Herro),47-50, ,,2,50,47,3,1244.0
+3:07.0, ,47-50,J. Butler misses 2-pt layup from 2 ft,,2,50,47,3,1253.0
+3:05.0,Defensive rebound by P. Achiuwa,47-50, ,,2,50,47,3,1255.0
+2:49.0,Turnover by F. VanVleet (bad pass; steal by D. Robinson),47-50, ,,2,50,47,3,1271.0
+2:33.0, ,47-50,Shooting foul by P. Siakam (drawn by B. Adebayo),,2,50,47,3,1287.0
+2:33.0,Toronto full timeout,47-50, ,,2,50,47,3,1287.0
+2:33.0, ,47-51,B. Adebayo makes free throw 1 of 2,,2,51,47,4,1287.0
+2:33.0, ,47-52,B. Adebayo makes free throw 2 of 2,,2,52,47,5,1287.0
+2:11.0,Turnover by F. VanVleet (bad pass; steal by B. Adebayo),47-52, ,,2,52,47,5,1309.0
+2:05.0, ,47-54,B. Adebayo makes 2-pt layup from 1 ft,,2,54,47,7,1315.0
+1:49.0,Turnover by F. VanVleet (bad pass; steal by D. Robinson),47-54, ,,2,54,47,7,1331.0
+1:40.0, ,47-54,B. Adebayo misses 2-pt hook shot from 6 ft,,2,54,47,7,1340.0
+1:38.0,Defensive rebound by S. Barnes,47-54, ,,2,54,47,7,1342.0
+1:33.0,S. Barnes misses 2-pt jump shot from 6 ft,47-54, ,,2,54,47,7,1347.0
+1:30.0, ,47-54,Defensive rebound by D. Robinson,,2,54,47,7,1350.0
+1:29.0, ,47-54,Personal foul by F. VanVleet (drawn by J. Butler),,2,54,47,7,1351.0
+1:29.0, ,47-55,J. Butler makes free throw 1 of 2,,2,55,47,8,1351.0
+1:29.0, ,47-55,C. Martin enters the game for D. Robinson,,2,55,47,8,1351.0
+1:29.0, ,47-55,M. Strus enters the game for P. Tucker,,2,55,47,8,1351.0
+1:29.0, ,47-56,J. Butler makes free throw 2 of 2,,2,56,47,9,1351.0
+1:08.0,S. Barnes makes 2-pt hook shot from 4 ft (assist by P. Siakam),49-56, ,,2,56,49,7,1372.0
+0:57.0, ,49-58,T. Herro makes 2-pt jump shot from 13 ft,,2,58,49,9,1383.0
+0:43.0,P. Achiuwa makes 2-pt dunk from 2 ft (assist by P. Siakam),51-58, ,,2,58,51,7,1397.0
+0:23.0, ,51-58,B. Adebayo misses 2-pt jump shot from 13 ft,,2,58,51,7,1417.0
+0:18.0,Defensive rebound by P. Achiuwa,51-58, ,,2,58,51,7,1422.0
+0:00.0,P. Achiuwa misses 3-pt jump shot from 26 ft,51-58, ,,2,58,51,7,1440.0
+0:00.0,Offensive rebound by Team,51-58, ,,2,58,51,7,1440.0
+0:00.0,End of 2nd quarter,51-58,,,2,58,51,7,1440.0
+12:00.0,Start of 3rd quarter,51-58,,,3,58,51,7,1440.0
+11:44.0,F. VanVleet misses 3-pt jump shot from 27 ft,51-58, ,,3,58,51,7,1456.0
+11:38.0, ,51-58,Defensive rebound by J. Butler,,3,58,51,7,1462.0
+11:34.0, ,51-58,P. Tucker misses 3-pt jump shot from 23 ft,,3,58,51,7,1466.0
+11:34.0,Defensive rebound by F. VanVleet,51-58, ,,3,58,51,7,1466.0
+11:25.0,P. Siakam misses 2-pt layup from 2 ft,51-58, ,,3,58,51,7,1475.0
+11:22.0, ,51-58,Defensive rebound by P. Tucker,,3,58,51,7,1478.0
+11:15.0, ,51-58,Personal foul by F. VanVleet (drawn by B. Adebayo),,3,58,51,7,1485.0
+11:08.0, ,51-58,G. Vincent misses 3-pt jump shot from 25 ft,,3,58,51,7,1492.0
+11:04.0, ,51-58,Offensive rebound by B. Adebayo,,3,58,51,7,1496.0
+11:00.0, ,51-58,Turnover by B. Adebayo (lost ball; steal by P. Siakam),,3,58,51,7,1500.0
+10:56.0,F. VanVleet makes 3-pt jump shot from 25 ft (assist by P. Siakam),54-58, ,,3,58,54,4,1504.0
+10:34.0, ,54-58,B. Adebayo misses 2-pt hook shot from 8 ft,,3,58,54,4,1526.0
+10:30.0,Defensive rebound by S. Barnes,54-58, ,,3,58,54,4,1530.0
+10:20.0,S. Barnes misses 2-pt jump shot from 10 ft,54-58, ,,3,58,54,4,1540.0
+10:16.0,Offensive rebound by P. Siakam,54-58, ,,3,58,54,4,1544.0
+10:11.0,S. Barnes makes 3-pt jump shot from 25 ft (assist by P. Achiuwa),57-58, ,,3,58,57,1,1549.0
+9:44.0, ,57-58,J. Butler misses 2-pt jump shot from 17 ft,,3,58,57,1,1576.0
+9:40.0,Defensive rebound by S. Barnes,57-58, ,,3,58,57,1,1580.0
+9:40.0,O. Anunoby makes 2-pt layup from 3 ft (assist by S. Barnes),59-58, ,Lead change,3,58,59,-1,1580.0
+9:40.0,Shooting foul by D. Robinson (drawn by O. Anunoby),59-58, ,,3,58,59,-1,1580.0
+9:40.0,O. Anunoby misses free throw 1 of 1,59-58, ,,3,58,59,-1,1580.0
+9:40.0, ,59-58,Defensive rebound by B. Adebayo,,3,58,59,-1,1580.0
+9:21.0, ,59-58,B. Adebayo misses 2-pt hook shot from 5 ft,,3,58,59,-1,1599.0
+9:18.0,Defensive rebound by P. Achiuwa,59-58, ,,3,58,59,-1,1602.0
+9:11.0,Turnover by O. Anunoby (lost ball; steal by G. Vincent),59-58, ,,3,58,59,-1,1609.0
+9:05.0, ,59-58,B. Adebayo misses 2-pt layup from 4 ft,,3,58,59,-1,1615.0
+9:03.0,Defensive rebound by F. VanVleet,59-58, ,,3,58,59,-1,1617.0
+8:59.0,F. VanVleet misses 3-pt jump shot from 26 ft,59-58, ,,3,58,59,-1,1621.0
+8:55.0, ,59-58,Defensive rebound by J. Butler,,3,58,59,-1,1625.0
+8:39.0, ,59-58,Personal foul by O. Anunoby (drawn by J. Butler),,3,58,59,-1,1641.0
+8:27.0, ,59-60,B. Adebayo makes 2-pt dunk from 2 ft (assist by D. Robinson),Lead change,3,60,59,1,1653.0
+8:02.0,P. Siakam makes 2-pt jump shot from 12 ft (assist by S. Barnes),61-60, ,Lead change,3,60,61,-1,1678.0
+7:43.0, ,61-60,Personal foul by S. Barnes (drawn by B. Adebayo),,3,60,61,-1,1697.0
+7:43.0,C. Boucher enters the game for S. Barnes,61-60, ,,3,60,61,-1,1697.0
+7:37.0, ,61-62,J. Butler makes 2-pt dunk from 2 ft (assist by P. Tucker),Lead change,3,62,61,1,1703.0
+7:16.0,O. Anunoby makes 3-pt jump shot from 26 ft (assist by F. VanVleet),64-62, ,Lead change,3,62,64,-2,1724.0
+7:02.0, ,64-65,G. Vincent makes 3-pt jump shot from 26 ft (assist by J. Butler),Lead change,3,65,64,1,1738.0
+6:48.0,F. VanVleet makes 2-pt jump shot from 21 ft,66-65, ,Lead change,3,65,66,-1,1752.0
+6:37.0, ,66-65,D. Robinson misses 3-pt jump shot from 26 ft (block by C. Boucher),,3,65,66,-1,1763.0
+6:35.0, ,66-65,Offensive rebound by D. Robinson,,3,65,66,-1,1765.0
+6:22.0, ,66-67,P. Tucker makes 2-pt layup from 3 ft (assist by J. Butler),Lead change,3,67,66,1,1778.0
+6:06.0,Personal foul by D. Robinson (drawn by P. Siakam),66-67, ,,3,67,66,1,1794.0
+6:06.0, ,66-67,Miami full timeout,,3,67,66,1,1794.0
+6:06.0, ,66-67,M. Strus enters the game for D. Robinson,,3,67,66,1,1794.0
+5:53.0,F. VanVleet misses 3-pt jump shot from 26 ft,66-67, ,,3,67,66,1,1807.0
+5:49.0,Offensive rebound by P. Achiuwa,66-67, ,,3,67,66,1,1811.0
+5:41.0,Personal foul by B. Adebayo (drawn by P. Achiuwa),66-67, ,,3,67,66,1,1819.0
+5:33.0,O. Anunoby misses 2-pt layup from 4 ft,66-67, ,,3,67,66,1,1827.0
+5:30.0, ,66-67,Defensive rebound by P. Tucker,,3,67,66,1,1830.0
+5:20.0, ,66-67,Turnover by B. Adebayo (bad pass; steal by O. Anunoby),,3,67,66,1,1840.0
+5:15.0,P. Siakam makes 2-pt dunk from 1 ft,68-67, ,Lead change,3,67,68,-1,1845.0
+4:58.0, ,68-69,G. Vincent makes 2-pt jump shot from 12 ft,Lead change,3,69,68,1,1862.0
+4:42.0, ,68-69,Violation by Team (kicked ball),,3,69,68,1,1878.0
+4:42.0,Technical foul by O. Anunoby,68-69, ,,3,69,68,1,1878.0
+4:42.0, ,68-69,Technical foul by G. Vincent,,3,69,68,1,1878.0
+4:42.0,S. Barnes enters the game for O. Anunoby,68-69, ,,3,69,68,1,1878.0
+4:42.0, ,68-69,D. Dedmon enters the game for B. Adebayo,,3,69,68,1,1878.0
+4:42.0, ,68-69,T. Herro enters the game for G. Vincent,,3,69,68,1,1878.0
+4:30.0,S. Barnes misses 2-pt dunk from 2 ft (block by M. Strus),68-69, ,,3,69,68,1,1890.0
+4:29.0,Offensive rebound by P. Achiuwa,68-69, ,,3,69,68,1,1891.0
+4:28.0,Turnover by Team (shot clock),68-69, ,,3,69,68,1,1892.0
+4:04.0, ,68-69,Turnover by D. Dedmon (3 sec),,3,69,68,1,1916.0
+3:47.0,P. Siakam misses 2-pt jump shot from 9 ft,68-69, ,,3,69,68,1,1933.0
+3:44.0, ,68-69,Defensive rebound by D. Dedmon,,3,69,68,1,1936.0
+3:30.0, ,68-69,J. Butler misses 2-pt jump shot from 6 ft,,3,69,68,1,1950.0
+3:25.0,Defensive rebound by P. Achiuwa,68-69, ,,3,69,68,1,1955.0
+3:21.0,C. Boucher misses 3-pt jump shot from 26 ft,68-69, ,,3,69,68,1,1959.0
+3:17.0,Offensive rebound by P. Siakam,68-69, ,,3,69,68,1,1963.0
+3:16.0,F. VanVleet makes 3-pt jump shot from 26 ft (assist by P. Siakam),71-69, ,Lead change,3,69,71,-2,1964.0
+2:55.0, ,71-69,Shooting foul by S. Barnes (drawn by J. Butler),,3,69,71,-2,1985.0
+2:55.0,Toronto full timeout,71-69, ,,3,69,71,-2,1985.0
+2:55.0,O. Anunoby enters the game for P. Achiuwa,71-69, ,,3,69,71,-2,1985.0
+2:55.0,J. Champagnie enters the game for P. Siakam,71-69, ,,3,69,71,-2,1985.0
+2:55.0, ,71-70,J. Butler makes free throw 1 of 2,,3,70,71,-1,1985.0
+2:55.0, ,71-71,J. Butler makes free throw 2 of 2,Tie,3,71,71,0,1985.0
+2:38.0,O. Anunoby misses 2-pt layup from 2 ft (block by D. Dedmon),71-71, ,,3,71,71,0,2002.0
+2:35.0, ,71-71,Defensive rebound by D. Dedmon,,3,71,71,0,2005.0
+2:23.0, ,71-71,T. Herro misses 2-pt jump shot from 19 ft,,3,71,71,0,2017.0
+2:19.0, ,71-71,Offensive rebound by D. Dedmon,,3,71,71,0,2021.0
+2:18.0, ,71-73,D. Dedmon makes 2-pt layup from 1 ft,Lead change,3,73,71,2,2022.0
+2:11.0,Shooting foul by D. Dedmon (drawn by C. Boucher),71-73, ,,3,73,71,2,2029.0
+2:11.0,C. Boucher makes free throw 1 of 2,72-73, ,,3,73,72,1,2029.0
+2:11.0,C. Boucher makes free throw 2 of 2,73-73, ,Tie,3,73,73,0,2029.0
+1:58.0, ,73-73,M. Strus misses 2-pt jump shot from 8 ft,,3,73,73,0,2042.0
+1:54.0,Defensive rebound by F. VanVleet,73-73, ,,3,73,73,0,2046.0
+1:39.0,Turnover by S. Barnes (lost ball; steal by M. Strus),73-73, ,,3,73,73,0,2061.0
+1:21.0, ,73-75,T. Herro makes 2-pt layup from 7 ft (assist by J. Butler),,3,75,73,2,2079.0
+1:08.0,Personal foul by M. Strus (drawn by C. Boucher),73-75, ,,3,75,73,2,2092.0
+1:08.0,C. Boucher makes free throw 1 of 2,74-75, ,,3,75,74,1,2092.0
+1:08.0,P. Achiuwa enters the game for O. Anunoby,74-75, ,,3,75,74,1,2092.0
+1:08.0, ,74-75,C. Martin enters the game for P. Tucker,,3,75,74,1,2092.0
+1:08.0,C. Boucher makes free throw 2 of 2,75-75, ,Tie,3,75,75,0,2092.0
+0:55.0, ,75-77,T. Herro makes 2-pt jump shot from 11 ft,,3,77,75,2,2105.0
+0:40.0,F. VanVleet misses 3-pt jump shot from 27 ft,75-77, ,,3,77,75,2,2120.0
+0:35.0, ,75-77,Defensive rebound by C. Martin,,3,77,75,2,2125.0
+0:32.0, ,75-77,C. Martin misses 2-pt jump shot from 8 ft,,3,77,75,2,2128.0
+0:29.0, ,75-77,Offensive rebound by J. Butler,,3,77,75,2,2131.0
+0:28.0, ,75-80,T. Herro makes 3-pt jump shot from 22 ft (assist by J. Butler),,3,80,75,5,2132.0
+0:08.0,Turnover by F. VanVleet (lost ball; steal by C. Martin),75-80, ,,3,80,75,5,2152.0
+0:04.0, ,75-80,T. Herro misses 3-pt jump shot from 28 ft,,3,80,75,5,2156.0
+0:02.0, ,75-80,Offensive rebound by M. Strus,,3,80,75,5,2158.0
+0:01.0, ,75-80,M. Strus misses 3-pt jump shot from 23 ft,,3,80,75,5,2159.0
+0:00.0, ,75-80,Offensive rebound by Team,,3,80,75,5,2160.0
+0:00.0,End of 3rd quarter,75-80,,,3,80,75,5,2160.0
+12:00.0,Start of 4th quarter,75-80,,,4,80,75,5,2160.0
+11:36.0, ,75-82,T. Herro makes 2-pt jump shot from 21 ft,,4,82,75,7,2184.0
+11:07.0,P. Siakam misses 2-pt jump shot from 18 ft,75-82, ,,4,82,75,7,2213.0
+11:06.0,Offensive rebound by Team,75-82, ,,4,82,75,7,2214.0
+11:06.0, ,75-82,Loose ball foul by D. Dedmon (drawn by C. Boucher),,4,82,75,7,2214.0
+10:54.0,O. Anunoby misses 3-pt jump shot from 23 ft,75-82, ,,4,82,75,7,2226.0
+10:49.0, ,75-82,Defensive rebound by D. Dedmon,,4,82,75,7,2231.0
+10:46.0, ,75-82,C. Martin misses 2-pt layup from 3 ft (block by P. Siakam),,4,82,75,7,2234.0
+10:43.0,Defensive rebound by P. Siakam,75-82, ,,4,82,75,7,2237.0
+10:41.0,P. Siakam misses 2-pt layup from 2 ft (block by G. Vincent),75-82, ,,4,82,75,7,2239.0
+10:41.0,Offensive rebound by Team,75-82, ,,4,82,75,7,2239.0
+10:27.0,S. Barnes misses 3-pt jump shot from 24 ft,75-82, ,,4,82,75,7,2253.0
+10:23.0, ,75-82,Defensive rebound by M. Strus,,4,82,75,7,2257.0
+10:07.0, ,75-84,G. Vincent makes 2-pt jump shot from 13 ft,,4,84,75,9,2273.0
+9:56.0,C. Boucher makes 3-pt jump shot from 26 ft,78-84, ,,4,84,78,6,2284.0
+9:40.0, ,78-86,D. Dedmon makes 2-pt hook shot from 3 ft (assist by M. Strus),,4,86,78,8,2300.0
+9:27.0,C. Boucher misses 3-pt jump shot from 27 ft,78-86, ,,4,86,78,8,2313.0
+9:24.0, ,78-86,Defensive rebound by C. Martin,,4,86,78,8,2316.0
+9:13.0, ,78-86,T. Herro misses 2-pt jump shot from 17 ft,,4,86,78,8,2327.0
+9:10.0,Defensive rebound by S. Barnes,78-86, ,,4,86,78,8,2330.0
+9:09.0,S. Barnes makes 2-pt dunk from 3 ft,80-86, ,,4,86,80,6,2331.0
+9:09.0,Shooting foul by C. Martin (drawn by S. Barnes),80-86, ,,4,86,80,6,2331.0
+9:09.0,Instant Replay (Request: Stands),80-86, ,,4,86,80,6,2331.0
+9:09.0,F. VanVleet enters the game for P. Achiuwa,80-86, ,,4,86,80,6,2331.0
+9:09.0,S. Barnes misses free throw 1 of 1,80-86, ,,4,86,80,6,2331.0
+9:06.0, ,80-86,Defensive rebound by C. Martin,,4,86,80,6,2334.0
+8:53.0, ,80-86,M. Strus misses 3-pt jump shot from 27 ft,,4,86,80,6,2347.0
+8:48.0,Defensive rebound by P. Siakam,80-86, ,,4,86,80,6,2352.0
+8:44.0,O. Anunoby makes 3-pt jump shot from 24 ft (assist by P. Siakam),83-86, ,,4,86,83,3,2356.0
+8:21.0, ,83-89,G. Vincent makes 3-pt jump shot from 27 ft,,4,89,83,6,2379.0
+7:53.0,S. Barnes makes 3-pt jump shot from 24 ft (assist by P. Siakam),86-89, ,,4,89,86,3,2407.0
+7:32.0, ,86-89,G. Vincent misses 2-pt jump shot from 14 ft,,4,89,86,3,2428.0
+7:29.0,Defensive rebound by S. Barnes,86-89, ,,4,89,86,3,2431.0
+7:23.0,S. Barnes misses 2-pt jump shot from 6 ft (block by D. Dedmon),86-89, ,,4,89,86,3,2437.0
+7:21.0,C. Boucher misses 2-pt layup from 4 ft (block by M. Strus),86-89, ,,4,89,86,3,2439.0
+7:20.0,Offensive rebound by C. Boucher,86-89, ,,4,89,86,3,2440.0
+7:18.0,C. Boucher misses 2-pt layup from 2 ft (block by G. Vincent),86-89, ,,4,89,86,3,2442.0
+7:18.0,Offensive rebound by C. Boucher,86-89, ,,4,89,86,3,2442.0
+7:18.0, ,86-89,Defensive rebound by C. Martin,,4,89,86,3,2442.0
+7:18.0, ,86-91,C. Martin makes 2-pt dunk from 2 ft,,4,91,86,5,2442.0
+7:14.0,Toronto full timeout,86-91, ,,4,91,86,5,2446.0
+7:14.0, ,86-91,B. Adebayo enters the game for D. Dedmon,,4,91,86,5,2446.0
+6:57.0,O. Anunoby makes 3-pt jump shot from 25 ft (assist by S. Barnes),89-91, ,,4,91,89,2,2463.0
+6:39.0, ,89-91,Personal foul by S. Barnes (drawn by B. Adebayo),,4,91,89,2,2481.0
+6:39.0, ,89-91,J. Butler enters the game for G. Vincent,,4,91,89,2,2481.0
+6:32.0, ,89-93,B. Adebayo makes 2-pt jump shot from 12 ft (assist by J. Butler),,4,93,89,4,2488.0
+6:12.0,F. VanVleet misses 3-pt jump shot from 23 ft,89-93, ,,4,93,89,4,2508.0
+6:08.0, ,89-93,Defensive rebound by T. Herro,,4,93,89,4,2512.0
+6:00.0, ,89-96,M. Strus makes 3-pt jump shot from 23 ft (assist by C. Martin),,4,96,89,7,2520.0
+5:41.0,O. Anunoby misses 3-pt jump shot from 23 ft,89-96, ,,4,96,89,7,2539.0
+5:37.0, ,89-96,Defensive rebound by T. Herro,,4,96,89,7,2543.0
+5:33.0, ,89-98,C. Martin makes 2-pt layup from 2 ft (assist by T. Herro),,4,98,89,9,2547.0
+5:33.0, ,89-98,Shooting foul by P. Siakam (drawn by C. Martin),,4,98,89,9,2547.0
+5:33.0, ,89-98,C. Martin misses free throw 1 of 1,,4,98,89,9,2547.0
+5:30.0,Defensive rebound by P. Siakam,89-98, ,,4,98,89,9,2550.0
+5:28.0,Toronto full timeout,89-98, ,,4,98,89,9,2552.0
+5:28.0,P. Achiuwa enters the game for S. Barnes,89-98, ,,4,98,89,9,2552.0
+5:16.0,Shooting foul by C. Martin (drawn by O. Anunoby),89-98, ,,4,98,89,9,2564.0
+5:16.0, ,89-98,Miami full timeout,,4,98,89,9,2564.0
+5:16.0, ,89-98,Instant Replay (Challenge: Stands),,4,98,89,9,2564.0
+5:16.0,O. Anunoby misses free throw 1 of 2,89-98, ,,4,98,89,9,2564.0
+5:16.0,Offensive rebound by Team,89-98, ,,4,98,89,9,2564.0
+5:16.0,O. Anunoby makes free throw 2 of 2,90-98, ,,4,98,90,8,2564.0
+4:56.0, ,90-98,M. Strus misses 2-pt jump shot from 16 ft,,4,98,90,8,2584.0
+4:52.0,Defensive rebound by C. Boucher,90-98, ,,4,98,90,8,2588.0
+4:43.0,P. Achiuwa misses 2-pt layup from 7 ft,90-98, ,,4,98,90,8,2597.0
+4:39.0,Offensive rebound by P. Achiuwa,90-98, ,,4,98,90,8,2601.0
+4:39.0,P. Achiuwa makes 2-pt layup at rim,92-98, ,,4,98,92,6,2601.0
+4:25.0, ,92-98,T. Herro misses 3-pt jump shot from 28 ft,,4,98,92,6,2615.0
+4:23.0, ,92-98,Offensive rebound by C. Martin,,4,98,92,6,2617.0
+4:17.0, ,92-98,J. Butler misses 2-pt jump shot from 7 ft (block by C. Boucher),,4,98,92,6,2623.0
+4:16.0, ,92-98,Offensive rebound by B. Adebayo,,4,98,92,6,2624.0
+4:13.0, ,92-98,Shooting foul by C. Boucher (drawn by B. Adebayo),,4,98,92,6,2627.0
+4:13.0, ,92-98,B. Adebayo misses free throw 1 of 2,,4,98,92,6,2627.0
+4:13.0, ,92-98,Offensive rebound by Team,,4,98,92,6,2627.0
+4:13.0, ,92-99,B. Adebayo makes free throw 2 of 2,,4,99,92,7,2627.0
+4:13.0,S. Barnes enters the game for P. Achiuwa,92-99, ,,4,99,92,7,2627.0
+4:13.0, ,92-99,P. Tucker enters the game for C. Martin,,4,99,92,7,2627.0
+4:05.0,P. Siakam misses 2-pt jump shot from 19 ft,92-99, ,,4,99,92,7,2635.0
+4:03.0, ,92-99,Defensive rebound by M. Strus,,4,99,92,7,2637.0
+3:47.0, ,92-99,B. Adebayo misses 2-pt jump shot from 15 ft,,4,99,92,7,2653.0
+3:43.0,Defensive rebound by S. Barnes,92-99, ,,4,99,92,7,2657.0
+3:25.0,S. Barnes misses 3-pt jump shot from 25 ft,92-99, ,,4,99,92,7,2675.0
+3:21.0, ,92-99,Defensive rebound by B. Adebayo,,4,99,92,7,2679.0
+3:15.0, ,92-99,Miami full timeout,,4,99,92,7,2685.0
+3:06.0, ,92-99,M. Strus misses 3-pt jump shot from 26 ft,,4,99,92,7,2694.0
+3:02.0,Defensive rebound by O. Anunoby,92-99, ,,4,99,92,7,2698.0
+2:43.0,P. Siakam misses 2-pt jump shot from 11 ft,92-99, ,,4,99,92,7,2717.0
+2:42.0,Offensive rebound by C. Boucher,92-99, ,,4,99,92,7,2718.0
+2:40.0,C. Boucher makes 2-pt layup from 9 ft,94-99, ,,4,99,94,5,2720.0
+2:18.0, ,94-99,M. Strus misses 3-pt jump shot from 27 ft,,4,99,94,5,2742.0
+2:16.0,Defensive rebound by Team,94-99, ,,4,99,94,5,2744.0
+2:03.0,O. Anunoby misses 2-pt jump shot from 5 ft,94-99, ,,4,99,94,5,2757.0
+1:57.0, ,94-99,Defensive rebound by B. Adebayo,,4,99,94,5,2763.0
+1:51.0, ,94-99,Turnover by J. Butler (lost ball; steal by F. VanVleet),,4,99,94,5,2769.0
+1:48.0,P. Siakam makes 2-pt dunk from 2 ft (assist by F. VanVleet),96-99, ,,4,99,96,3,2772.0
+1:26.0, ,96-99,Personal foul by P. Siakam (drawn by B. Adebayo),,4,99,96,3,2794.0
+1:26.0,Toronto full timeout,96-99, ,,4,99,96,3,2794.0
+1:26.0,Instant Replay (Challenge: Stands),96-99, ,,4,99,96,3,2794.0
+1:26.0, ,96-99,G. Vincent enters the game for M. Strus,,4,99,96,3,2794.0
+1:12.0, ,96-99,J. Butler misses 2-pt jump shot from 16 ft,,4,99,96,3,2808.0
+1:08.0, ,96-99,Offensive rebound by B. Adebayo,,4,99,96,3,2812.0
+0:58.0, ,96-99,T. Herro misses 2-pt jump shot from 10 ft (block by O. Anunoby),,4,99,96,3,2822.0
+0:54.0,Defensive rebound by P. Siakam,96-99, ,,4,99,96,3,2826.0
+0:54.0,Personal foul by G. Vincent (drawn by S. Barnes),96-99, ,,4,99,96,3,2826.0
+0:38.0,Jump ball: G. Vincent vs. O. Anunoby (F. VanVleet gains possession),96-99,,,4,99,96,3,2842.0
+0:38.0,Turnover by O. Anunoby (lost ball; steal by G. Vincent),96-99, ,,4,99,96,3,2842.0
+0:20.0, ,96-102,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Butler),,4,102,96,6,2860.0
+0:19.0,Toronto full timeout,96-102, ,,4,102,96,6,2861.0
+0:14.0,F. VanVleet makes 3-pt jump shot from 29 ft (assist by O. Anunoby),99-102, ,,4,102,99,3,2866.0
+0:08.0, ,99-102,Personal take foul by O. Anunoby (drawn by B. Adebayo),,4,102,99,3,2872.0
+0:08.0, ,99-103,B. Adebayo makes free throw 1 of 2,,4,103,99,4,2872.0
+0:08.0, ,99-104,B. Adebayo makes free throw 2 of 2,,4,104,99,5,2872.0
+0:02.0,F. VanVleet misses 3-pt jump shot from 27 ft,99-104, ,,4,104,99,5,2878.0
+0:00.0, ,99-104,Defensive rebound by J. Butler,,4,104,99,5,2880.0
+0:00.0,End of 4th quarter,99-104,,,4,104,99,5,2880.0
