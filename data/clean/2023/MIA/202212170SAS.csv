@@ -1,0 +1,473 @@
+Time,Miami,Score,San Antonio,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. J. Poeltl (M. Strus gains possession),0-0,,,1,0,0,0,0.0
+11:35.0,M. Strus misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,25.0
+11:32.0, ,0-0,Defensive rebound by J. Sochan,,1,0,0,0,28.0
+11:20.0, ,0-3,D. Vassell makes 3-pt jump shot from 25 ft (assist by T. Jones),,1,0,3,-3,40.0
+11:06.0,T. Herro makes 2-pt jump shot from 8 ft,2-3, ,,1,2,3,-1,54.0
+10:47.0, ,2-3,J. Sochan misses 2-pt layup from 8 ft,,1,2,3,-1,73.0
+10:47.0, ,2-3,Offensive rebound by Team,,1,2,3,-1,73.0
+10:47.0,Loose ball foul by M. Strus (drawn by J. Poeltl),2-3, ,,1,2,3,-1,73.0
+10:34.0, ,2-3,T. Jones misses 2-pt jump shot from 9 ft,,1,2,3,-1,86.0
+10:32.0,Defensive rebound by M. Strus,2-3, ,,1,2,3,-1,88.0
+10:23.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by M. Strus),4-3, ,Lead change,1,4,3,1,97.0
+10:17.0, ,4-3,D. Vassell misses 3-pt jump shot from 24 ft,,1,4,3,1,103.0
+10:14.0,Defensive rebound by T. Herro,4-3, ,,1,4,3,1,106.0
+10:07.0,Shooting foul by T. Jones (drawn by T. Herro),4-3, ,,1,4,3,1,113.0
+10:07.0,T. Herro makes free throw 1 of 2,5-3, ,,1,5,3,2,113.0
+10:07.0,T. Herro makes free throw 2 of 2,6-3, ,,1,6,3,3,113.0
+9:41.0, ,6-3,Turnover by T. Jones (bad pass; steal by N. Jović),,1,6,3,3,139.0
+9:34.0,M. Strus misses 3-pt jump shot from 25 ft,6-3, ,,1,6,3,3,146.0
+9:31.0, ,6-3,Defensive rebound by J. Poeltl,,1,6,3,3,149.0
+9:25.0, ,6-3,Personal foul by N. Jović (drawn by J. Poeltl),,1,6,3,3,155.0
+9:08.0, ,6-3,J. Sochan misses 2-pt jump shot from 9 ft,,1,6,3,3,172.0
+9:03.0, ,6-3,Offensive rebound by D. Vassell,,1,6,3,3,177.0
+9:03.0, ,6-3,D. Vassell misses 2-pt layup at rim,,1,6,3,3,177.0
+9:02.0,Defensive rebound by B. Adebayo,6-3, ,,1,6,3,3,178.0
+9:00.0,T. Herro makes 3-pt jump shot from 25 ft (assist by B. Adebayo),9-3, ,,1,9,3,6,180.0
+8:47.0, ,9-3,Turnover by D. Vassell (bad pass; steal by T. Herro),,1,9,3,6,193.0
+8:29.0,N. Jović misses 3-pt jump shot from 23 ft,9-3, ,,1,9,3,6,211.0
+8:25.0, ,9-3,Defensive rebound by J. Poeltl,,1,9,3,6,215.0
+8:15.0, ,9-5,D. Vassell makes 2-pt layup from 3 ft (assist by K. Johnson),,1,9,5,4,225.0
+8:05.0,B. Adebayo misses 2-pt jump shot from 8 ft,9-5, ,,1,9,5,4,235.0
+8:03.0, ,9-5,Defensive rebound by J. Sochan,,1,9,5,4,237.0
+7:49.0, ,9-7,T. Jones makes 2-pt jump shot from 9 ft (assist by J. Sochan),,1,9,7,2,251.0
+7:34.0,N. Jović makes 3-pt jump shot from 25 ft (assist by T. Herro),12-7, ,,1,12,7,5,266.0
+7:18.0, ,12-7,Personal foul by T. Herro (drawn by K. Johnson),,1,12,7,5,282.0
+7:18.0, ,12-7,Z. Collins enters the game for J. Poeltl,,1,12,7,5,282.0
+7:10.0, ,12-7,J. Sochan misses 2-pt jump shot from 9 ft,,1,12,7,5,290.0
+7:08.0,Defensive rebound by B. Adebayo,12-7, ,,1,12,7,5,292.0
+7:02.0,Offensive foul by B. Adebayo (drawn by Z. Collins),12-7, ,,1,12,7,5,298.0
+7:02.0,Turnover by B. Adebayo (offensive foul),12-7, ,,1,12,7,5,298.0
+7:02.0, ,12-7,K. Bates-Diop enters the game for J. Sochan,,1,12,7,5,298.0
+6:52.0, ,12-7,K. Johnson misses 2-pt jump shot from 6 ft,,1,12,7,5,308.0
+6:51.0,Defensive rebound by N. Jović,12-7, ,,1,12,7,5,309.0
+6:33.0,M. Strus makes 3-pt jump shot from 23 ft (assist by T. Herro),15-7, ,,1,15,7,8,327.0
+6:31.0, ,15-7,San Antonio full timeout,,1,15,7,8,329.0
+6:31.0,V. Oladipo enters the game for T. Herro,15-7, ,,1,15,7,8,329.0
+6:08.0, ,15-9,D. Vassell makes 2-pt jump shot from 18 ft (assist by Z. Collins),,1,15,9,6,352.0
+6:00.0,Personal foul by K. Johnson (drawn by J. Butler),15-9, ,,1,15,9,6,360.0
+5:43.0,J. Butler makes 2-pt jump shot from 14 ft,17-9, ,,1,17,9,8,377.0
+5:26.0, ,17-9,Turnover by Z. Collins (lost ball; steal by V. Oladipo),,1,17,9,8,394.0
+5:18.0,Turnover by N. Jović (bad pass; steal by D. Vassell),17-9, ,,1,17,9,8,402.0
+5:11.0, ,17-9,K. Johnson misses 3-pt jump shot from 26 ft,,1,17,9,8,409.0
+5:09.0,Defensive rebound by B. Adebayo,17-9, ,,1,17,9,8,411.0
+5:00.0,M. Strus makes 3-pt jump shot from 26 ft (assist by J. Butler),20-9, ,,1,20,9,11,420.0
+4:36.0, ,20-12,K. Johnson makes 3-pt jump shot from 26 ft (assist by K. Bates-Diop),,1,20,12,8,444.0
+4:19.0,Personal foul by D. Vassell (drawn by B. Adebayo),20-12, ,,1,20,12,8,461.0
+4:19.0,D. Dedmon enters the game for B. Adebayo,20-12, ,,1,20,12,8,461.0
+4:19.0,D. Robinson enters the game for N. Jović,20-12, ,,1,20,12,8,461.0
+4:19.0, ,20-12,D. McDermott enters the game for D. Vassell,,1,20,12,8,461.0
+4:06.0,J. Butler misses 2-pt jump shot from 11 ft,20-12, ,,1,20,12,8,474.0
+4:03.0, ,20-12,Defensive rebound by D. McDermott,,1,20,12,8,477.0
+3:54.0, ,20-12,T. Jones misses 2-pt jump shot from 11 ft,,1,20,12,8,486.0
+3:52.0, ,20-12,Offensive rebound by Z. Collins,,1,20,12,8,488.0
+3:46.0, ,20-12,K. Bates-Diop misses 2-pt jump shot from 10 ft,,1,20,12,8,494.0
+3:44.0, ,20-12,Offensive rebound by Z. Collins,,1,20,12,8,496.0
+3:43.0, ,20-12,Turnover by Z. Collins (lost ball; steal by D. Robinson),,1,20,12,8,497.0
+3:38.0,Turnover by V. Oladipo (bad pass; steal by T. Jones),20-12, ,,1,20,12,8,502.0
+3:32.0,Loose ball foul by J. Butler (drawn by T. Jones),20-12, ,,1,20,12,8,508.0
+3:32.0,T. Herro enters the game for J. Butler,20-12, ,,1,20,12,8,508.0
+3:32.0,H. Highsmith enters the game for M. Strus,20-12, ,,1,20,12,8,508.0
+3:32.0, ,20-12,M. Branham enters the game for T. Jones,,1,20,12,8,508.0
+3:25.0, ,20-12,Shooting foul by V. Oladipo (drawn by K. Johnson),,1,20,12,8,515.0
+3:25.0, ,20-13,K. Johnson makes free throw 1 of 2,,1,20,13,7,515.0
+3:25.0, ,20-14,K. Johnson makes free throw 2 of 2,,1,20,14,6,515.0
+3:12.0,Turnover by D. Dedmon (lost ball; steal by M. Branham),20-14, ,,1,20,14,6,528.0
+3:08.0, ,20-14,Shooting foul by D. Robinson (drawn by K. Johnson),,1,20,14,6,532.0
+3:08.0, ,20-15,K. Johnson makes free throw 1 of 2,,1,20,15,5,532.0
+3:08.0, ,20-16,K. Johnson makes free throw 2 of 2,,1,20,16,4,532.0
+2:57.0,V. Oladipo misses 2-pt layup from 2 ft (block by Z. Collins),20-16, ,,1,20,16,4,543.0
+2:55.0, ,20-16,Defensive rebound by Team,,1,20,16,4,545.0
+2:55.0,Miami full timeout,20-16, ,,1,20,16,4,545.0
+2:37.0, ,20-19,K. Johnson makes 3-pt jump shot from 23 ft (assist by D. McDermott),,1,20,19,1,563.0
+2:22.0,T. Herro misses 3-pt jump shot from 26 ft,20-19, ,,1,20,19,1,578.0
+2:20.0, ,20-19,Defensive rebound by K. Johnson,,1,20,19,1,580.0
+2:18.0, ,20-19,D. McDermott misses 3-pt jump shot from 28 ft,,1,20,19,1,582.0
+2:11.0, ,20-19,Offensive rebound by K. Bates-Diop,,1,20,19,1,589.0
+2:11.0, ,20-21,K. Bates-Diop makes 2-pt layup at rim,Lead change,1,20,21,-1,589.0
+1:58.0,D. Dedmon misses 3-pt jump shot from 25 ft,20-21, ,,1,20,21,-1,602.0
+1:55.0, ,20-21,Defensive rebound by D. McDermott,,1,20,21,-1,605.0
+1:50.0, ,20-24,D. McDermott makes 3-pt jump shot from 29 ft (assist by K. Johnson),,1,20,24,-4,610.0
+1:25.0,Turnover by V. Oladipo (bad pass; steal by M. Branham),20-24, ,,1,20,24,-4,635.0
+1:25.0, ,20-24,Personal foul by D. Dedmon (drawn by M. Branham),,1,20,24,-4,635.0
+1:25.0, ,20-25,M. Branham makes free throw 1 of 1,,1,20,25,-5,635.0
+1:25.0,B. Adebayo enters the game for D. Dedmon,20-25, ,,1,20,25,-5,635.0
+1:25.0, ,20-25,J. Sochan enters the game for K. Bates-Diop,,1,20,25,-5,635.0
+1:25.0, ,20-25,D. Vassell enters the game for K. Johnson,,1,20,25,-5,635.0
+1:12.0, ,20-28,D. McDermott makes 3-pt jump shot from 27 ft (assist by D. Vassell),,1,20,28,-8,648.0
+0:51.0,V. Oladipo makes 3-pt jump shot from 25 ft (assist by T. Herro),23-28, ,,1,23,28,-5,669.0
+0:42.0, ,23-28,Turnover by D. Vassell (bad pass; steal by B. Adebayo),,1,23,28,-5,678.0
+0:26.0,V. Oladipo misses 3-pt jump shot from 25 ft,23-28, ,,1,23,28,-5,694.0
+0:26.0, ,23-28,Defensive rebound by J. Sochan,,1,23,28,-5,694.0
+0:26.0, ,23-28,Personal foul by H. Highsmith (drawn by J. Sochan),,1,23,28,-5,694.0
+0:26.0, ,23-28,J. Sochan misses free throw 1 of 2,,1,23,28,-5,694.0
+0:26.0, ,23-28,Offensive rebound by Team,,1,23,28,-5,694.0
+0:26.0, ,23-28,K. Bates-Diop enters the game for M. Branham,,1,23,28,-5,694.0
+0:26.0, ,23-28,T. Jones enters the game for D. McDermott,,1,23,28,-5,694.0
+0:26.0, ,23-28,J. Sochan misses free throw 2 of 2,,1,23,28,-5,694.0
+0:24.0,Defensive rebound by Team,23-28, ,,1,23,28,-5,696.0
+0:06.0,Shooting foul by J. Sochan (drawn by T. Herro),23-28, ,,1,23,28,-5,714.0
+0:06.0,T. Herro makes free throw 1 of 2,24-28, ,,1,24,28,-4,714.0
+0:06.0, ,24-28,D. McDermott enters the game for K. Bates-Diop,,1,24,28,-4,714.0
+0:06.0,T. Herro makes free throw 2 of 2,25-28, ,,1,25,28,-3,714.0
+0:06.0, ,25-28,M. Branham enters the game for Z. Collins,,1,25,28,-3,714.0
+0:00.0, ,25-28,D. Vassell misses 3-pt jump shot from 24 ft,,1,25,28,-3,720.0
+0:00.0, ,25-28,Offensive rebound by Team,,1,25,28,-3,720.0
+0:00.0,End of 1st quarter,25-28,,,1,25,28,-3,720.0
+12:00.0,Start of 2nd quarter,25-28,,,2,25,28,-3,720.0
+12:00.0, ,25-28,Violation by Team (delay of game),,2,25,28,-3,720.0
+12:00.0, ,25-28,J. Poeltl enters the game for T. Jones,,2,25,28,-3,720.0
+11:44.0, ,25-28,J. Sochan misses 2-pt layup from 5 ft,,2,25,28,-3,736.0
+11:42.0,Defensive rebound by B. Adebayo,25-28, ,,2,25,28,-3,738.0
+11:26.0,D. Robinson misses 3-pt jump shot from 23 ft,25-28, ,,2,25,28,-3,754.0
+11:24.0, ,25-28,Defensive rebound by D. McDermott,,2,25,28,-3,756.0
+11:18.0, ,25-28,J. Poeltl misses 2-pt layup from 3 ft (block by H. Highsmith),,2,25,28,-3,762.0
+11:18.0, ,25-28,Offensive rebound by Team,,2,25,28,-3,762.0
+11:13.0, ,25-28,D. Vassell misses 3-pt jump shot from 26 ft,,2,25,28,-3,767.0
+11:13.0,Defensive rebound by Team,25-28, ,,2,25,28,-3,767.0
+10:59.0,B. Adebayo misses 2-pt hook shot from 6 ft,25-28, ,,2,25,28,-3,781.0
+10:57.0, ,25-28,Defensive rebound by D. Vassell,,2,25,28,-3,783.0
+10:52.0, ,25-28,Personal foul by D. Robinson (drawn by J. Sochan),,2,25,28,-3,788.0
+10:43.0, ,25-28,J. Poeltl misses 2-pt hook shot from 9 ft,,2,25,28,-3,797.0
+10:41.0,Defensive rebound by D. Robinson,25-28, ,,2,25,28,-3,799.0
+10:35.0,B. Adebayo makes 2-pt dunk at rim (assist by T. Herro),27-28, ,,2,27,28,-1,805.0
+10:21.0, ,27-28,D. McDermott misses 2-pt jump shot from 4 ft,,2,27,28,-1,819.0
+10:19.0,Defensive rebound by D. Robinson,27-28, ,,2,27,28,-1,821.0
+10:16.0,Personal foul by J. Sochan (drawn by B. Adebayo),27-28, ,,2,27,28,-1,824.0
+10:16.0, ,27-28,K. Bates-Diop enters the game for M. Branham,,2,27,28,-1,824.0
+10:16.0, ,27-28,T. Jones enters the game for J. Sochan,,2,27,28,-1,824.0
+10:04.0,B. Adebayo makes 2-pt layup from 1 ft (assist by V. Oladipo),29-28, ,Lead change,2,29,28,1,836.0
+9:49.0, ,29-28,D. McDermott misses 3-pt jump shot from 26 ft,,2,29,28,1,851.0
+9:46.0,Defensive rebound by H. Highsmith,29-28, ,,2,29,28,1,854.0
+9:43.0,D. Robinson misses 3-pt jump shot from 25 ft,29-28, ,,2,29,28,1,857.0
+9:43.0, ,29-28,Defensive rebound by J. Poeltl,,2,29,28,1,857.0
+9:30.0, ,29-28,T. Jones misses 3-pt jump shot from 27 ft,,2,29,28,1,870.0
+9:28.0,Defensive rebound by B. Adebayo,29-28, ,,2,29,28,1,872.0
+9:21.0,B. Adebayo misses 2-pt jump shot from 13 ft,29-28, ,,2,29,28,1,879.0
+9:18.0, ,29-28,Defensive rebound by T. Jones,,2,29,28,1,882.0
+9:07.0, ,29-28,Shooting foul by B. Adebayo (drawn by D. Vassell),,2,29,28,1,893.0
+9:07.0, ,29-29,D. Vassell makes free throw 1 of 2,Tie,2,29,29,0,893.0
+9:07.0, ,29-29,D. Vassell misses free throw 2 of 2,,2,29,29,0,893.0
+9:05.0,Defensive rebound by B. Adebayo,29-29, ,,2,29,29,0,895.0
+8:52.0,Shooting foul by J. Poeltl (drawn by H. Highsmith),29-29, ,,2,29,29,0,908.0
+8:52.0,H. Highsmith misses free throw 1 of 2,29-29, ,,2,29,29,0,908.0
+8:52.0,Offensive rebound by Team,29-29, ,,2,29,29,0,908.0
+8:52.0,H. Highsmith makes free throw 2 of 2,30-29, ,,2,30,29,1,908.0
+8:37.0, ,30-31,J. Poeltl makes 2-pt dunk from 1 ft (assist by T. Jones),Lead change,2,30,31,-1,923.0
+8:25.0,B. Adebayo makes 2-pt jump shot from 8 ft (assist by T. Herro),32-31, ,Lead change,2,32,31,1,935.0
+8:20.0, ,32-31,Personal foul by V. Oladipo (drawn by J. Poeltl),,2,32,31,1,940.0
+8:07.0, ,32-31,T. Jones misses 2-pt layup from 3 ft,,2,32,31,1,953.0
+8:07.0, ,32-31,Offensive rebound by J. Poeltl,,2,32,31,1,953.0
+8:07.0, ,32-31,Shooting foul by D. Robinson (drawn by J. Poeltl),,2,32,31,1,953.0
+8:07.0, ,32-31,J. Poeltl misses free throw 1 of 2,,2,32,31,1,953.0
+8:07.0, ,32-31,Offensive rebound by Team,,2,32,31,1,953.0
+8:07.0,J. Butler enters the game for V. Oladipo,32-31, ,,2,32,31,1,953.0
+8:07.0,M. Strus enters the game for D. Robinson,32-31, ,,2,32,31,1,953.0
+8:07.0, ,32-32,J. Poeltl makes free throw 2 of 2,Tie,2,32,32,0,953.0
+7:57.0,Turnover by T. Herro (bad pass; steal by J. Poeltl),32-32, ,,2,32,32,0,963.0
+7:52.0, ,32-32,Turnover by J. Poeltl (bad pass; steal by J. Butler),,2,32,32,0,968.0
+7:48.0,J. Butler misses 2-pt layup from 2 ft,32-32, ,,2,32,32,0,972.0
+7:42.0,Offensive rebound by J. Butler,32-32, ,,2,32,32,0,978.0
+7:42.0,J. Butler makes 2-pt dunk at rim,34-32, ,,2,34,32,2,978.0
+7:34.0, ,34-32,San Antonio full timeout,,2,34,32,2,986.0
+7:34.0, ,34-32,K. Johnson enters the game for D. McDermott,,2,34,32,2,986.0
+7:26.0, ,34-32,K. Johnson misses 2-pt jump shot from 13 ft,,2,34,32,2,994.0
+7:23.0,Defensive rebound by H. Highsmith,34-32, ,,2,34,32,2,997.0
+7:08.0,B. Adebayo makes 2-pt layup from 2 ft,36-32, ,,2,36,32,4,1012.0
+6:44.0, ,36-32,T. Jones misses 2-pt jump shot from 11 ft,,2,36,32,4,1036.0
+6:42.0,Defensive rebound by T. Herro,36-32, ,,2,36,32,4,1038.0
+6:41.0,Turnover by T. Herro (bad pass),36-32, ,,2,36,32,4,1039.0
+6:41.0, ,36-32,M. Branham enters the game for D. Vassell,,2,36,32,4,1039.0
+6:20.0, ,36-34,J. Poeltl makes 2-pt jump shot from 7 ft (assist by T. Jones),,2,36,34,2,1060.0
+6:07.0,T. Herro misses 2-pt jump shot from 8 ft,36-34, ,,2,36,34,2,1073.0
+6:03.0,Offensive rebound by B. Adebayo,36-34, ,,2,36,34,2,1077.0
+6:03.0,B. Adebayo misses 2-pt layup at rim,36-34, ,,2,36,34,2,1077.0
+6:02.0, ,36-34,Defensive rebound by J. Poeltl,,2,36,34,2,1078.0
+6:02.0,D. Dedmon enters the game for B. Adebayo,36-34, ,,2,36,34,2,1078.0
+6:02.0,V. Oladipo enters the game for T. Herro,36-34, ,,2,36,34,2,1078.0
+6:02.0, ,36-34,Z. Collins enters the game for T. Jones,,2,36,34,2,1078.0
+6:02.0, ,36-34,J. Sochan enters the game for J. Poeltl,,2,36,34,2,1078.0
+5:53.0, ,36-37,M. Branham makes 3-pt jump shot from 26 ft (assist by Z. Collins),Lead change,2,36,37,-1,1087.0
+5:32.0,D. Dedmon makes 2-pt hook shot from 3 ft (assist by M. Strus),38-37, ,Lead change,2,38,37,1,1108.0
+5:18.0, ,38-37,Turnover by Z. Collins (bad pass; steal by V. Oladipo),,2,38,37,1,1122.0
+5:03.0,M. Strus makes 2-pt layup from 2 ft (assist by J. Butler),40-37, ,,2,40,37,3,1137.0
+4:43.0, ,40-39,K. Johnson makes 2-pt layup from 2 ft (assist by Z. Collins),,2,40,39,1,1157.0
+4:22.0,V. Oladipo makes 2-pt jump shot from 13 ft,42-39, ,,2,42,39,3,1178.0
+4:04.0, ,42-41,K. Bates-Diop makes 2-pt layup from 1 ft (assist by J. Sochan),,2,42,41,1,1196.0
+3:55.0,Miami full timeout,42-41, ,,2,42,41,1,1205.0
+3:55.0,T. Herro enters the game for H. Highsmith,42-41, ,,2,42,41,1,1205.0
+3:55.0, ,42-41,D. McDermott enters the game for K. Bates-Diop,,2,42,41,1,1205.0
+3:38.0,T. Herro misses 2-pt jump shot from 4 ft,42-41, ,,2,42,41,1,1222.0
+3:37.0,Offensive rebound by D. Dedmon,42-41, ,,2,42,41,1,1223.0
+3:37.0,D. Dedmon misses 2-pt layup from 2 ft (block by D. McDermott),42-41, ,,2,42,41,1,1223.0
+3:37.0,Offensive rebound by Team,42-41, ,,2,42,41,1,1223.0
+3:34.0,M. Strus misses 3-pt jump shot from 24 ft,42-41, ,,2,42,41,1,1226.0
+3:32.0, ,42-41,Defensive rebound by Z. Collins,,2,42,41,1,1228.0
+3:23.0, ,42-43,Z. Collins makes 2-pt layup from 3 ft (assist by J. Sochan),Lead change,2,42,43,-1,1237.0
+3:11.0,J. Butler makes 2-pt jump shot from 2 ft,44-43, ,Lead change,2,44,43,1,1249.0
+3:11.0,Shooting foul by J. Sochan (drawn by J. Butler),44-43, ,,2,44,43,1,1249.0
+3:11.0, ,44-43,T. Jones enters the game for J. Sochan,,2,44,43,1,1249.0
+3:11.0,J. Butler misses free throw 1 of 1,44-43, ,,2,44,43,1,1249.0
+3:02.0, ,44-43,Defensive rebound by D. McDermott,,2,44,43,1,1258.0
+2:57.0, ,44-46,Z. Collins makes 3-pt jump shot from 27 ft (assist by T. Jones),Lead change,2,44,46,-2,1263.0
+2:40.0,J. Butler misses 3-pt jump shot from 23 ft,44-46, ,,2,44,46,-2,1280.0
+2:37.0, ,44-46,Defensive rebound by T. Jones,,2,44,46,-2,1283.0
+2:33.0, ,44-49,K. Johnson makes 3-pt jump shot from 24 ft (assist by T. Jones),,2,44,49,-5,1287.0
+2:12.0,J. Butler makes 2-pt jump shot from 20 ft (assist by D. Dedmon),46-49, ,,2,46,49,-3,1308.0
+1:54.0, ,46-49,D. McDermott misses 3-pt jump shot from 23 ft (block by J. Butler),,2,46,49,-3,1326.0
+1:51.0,Defensive rebound by T. Herro,46-49, ,,2,46,49,-3,1329.0
+1:46.0,Shooting foul by Z. Collins (drawn by D. Dedmon),46-49, ,,2,46,49,-3,1334.0
+1:46.0,D. Dedmon makes free throw 1 of 2,47-49, ,,2,47,49,-2,1334.0
+1:46.0, ,47-49,D. Vassell enters the game for M. Branham,,2,47,49,-2,1334.0
+1:46.0,D. Dedmon misses free throw 2 of 2,47-49, ,,2,47,49,-2,1334.0
+1:44.0, ,47-49,Defensive rebound by K. Johnson,,2,47,49,-2,1336.0
+1:34.0, ,47-49,Shooting foul by T. Herro (drawn by K. Johnson),,2,47,49,-2,1346.0
+1:34.0, ,47-50,K. Johnson makes free throw 1 of 2,,2,47,50,-3,1346.0
+1:34.0,B. Adebayo enters the game for D. Dedmon,47-50, ,,2,47,50,-3,1346.0
+1:34.0, ,47-51,K. Johnson makes free throw 2 of 2,,2,47,51,-4,1346.0
+1:14.0,T. Herro misses 3-pt jump shot from 23 ft,47-51, ,,2,47,51,-4,1366.0
+1:09.0,Offensive rebound by B. Adebayo,47-51, ,,2,47,51,-4,1371.0
+1:09.0,B. Adebayo makes 2-pt dunk at rim,49-51, ,,2,49,51,-2,1371.0
+0:52.0, ,49-51,Shooting foul by M. Strus (drawn by Z. Collins),,2,49,51,-2,1388.0
+0:52.0, ,49-52,Z. Collins makes free throw 1 of 2,,2,49,52,-3,1388.0
+0:52.0, ,49-53,Z. Collins makes free throw 2 of 2,,2,49,53,-4,1388.0
+0:36.0,M. Strus misses 2-pt dunk from 1 ft (block by Z. Collins),49-53, ,,2,49,53,-4,1404.0
+0:32.0, ,49-53,Defensive rebound by D. McDermott,,2,49,53,-4,1408.0
+0:29.0, ,49-55,D. Vassell makes 2-pt layup from 3 ft (assist by T. Jones),,2,49,55,-6,1411.0
+0:24.0,J. Butler makes 2-pt layup from 1 ft (assist by B. Adebayo),51-55, ,,2,51,55,-4,1416.0
+0:24.0,Shooting foul by Z. Collins (drawn by J. Butler),51-55, ,,2,51,55,-4,1416.0
+0:24.0,D. Dedmon enters the game for B. Adebayo,51-55, ,,2,51,55,-4,1416.0
+0:24.0,H. Highsmith enters the game for T. Herro,51-55, ,,2,51,55,-4,1416.0
+0:24.0,J. Butler makes free throw 1 of 1,52-55, ,,2,52,55,-3,1416.0
+0:07.0, ,52-55,T. Jones misses 2-pt layup from 2 ft (block by D. Dedmon),,2,52,55,-3,1433.0
+0:07.0, ,52-55,Offensive rebound by Team,,2,52,55,-3,1433.0
+0:00.0, ,52-55,T. Jones misses 2-pt jump shot from 8 ft,,2,52,55,-3,1440.0
+0:00.0, ,52-55,Offensive rebound by Team,,2,52,55,-3,1440.0
+0:00.0,End of 2nd quarter,52-55,,,2,52,55,-3,1440.0
+12:00.0,Start of 3rd quarter,52-55,,,3,52,55,-3,1440.0
+11:46.0, ,52-55,D. Vassell misses 3-pt jump shot from 24 ft,,3,52,55,-3,1454.0
+11:42.0,Defensive rebound by J. Butler,52-55, ,,3,52,55,-3,1458.0
+11:23.0,Turnover by B. Adebayo (bad pass; steal by K. Bates-Diop),52-55, ,,3,52,55,-3,1477.0
+11:19.0, ,52-57,D. Vassell makes 2-pt dunk from 1 ft (assist by K. Bates-Diop),,3,52,57,-5,1481.0
+11:00.0, ,52-57,Violation by Team (kicked ball),,3,52,57,-5,1500.0
+10:47.0,N. Jović misses 2-pt hook shot from 10 ft,52-57, ,,3,52,57,-5,1513.0
+10:44.0, ,52-57,Defensive rebound by K. Bates-Diop,,3,52,57,-5,1516.0
+10:41.0, ,52-57,K. Johnson misses 2-pt layup from 1 ft,,3,52,57,-5,1519.0
+10:39.0, ,52-57,Offensive rebound by Team,,3,52,57,-5,1521.0
+10:39.0,Loose ball foul by N. Jović (drawn by K. Johnson),52-57, ,,3,52,57,-5,1521.0
+10:28.0, ,52-57,K. Johnson misses 2-pt jump shot from 9 ft,,3,52,57,-5,1532.0
+10:26.0,Defensive rebound by B. Adebayo,52-57, ,,3,52,57,-5,1534.0
+10:16.0,J. Butler makes 3-pt jump shot from 28 ft,55-57, ,,3,55,57,-2,1544.0
+9:58.0, ,55-59,T. Jones makes 2-pt layup from 2 ft,,3,55,59,-4,1562.0
+9:47.0,J. Butler makes 2-pt layup from 4 ft,57-59, ,,3,57,59,-2,1573.0
+9:30.0, ,57-59,Turnover by K. Johnson (bad pass; steal by J. Butler),,3,57,59,-2,1590.0
+9:25.0,Turnover by T. Herro (bad pass; steal by J. Poeltl),57-59, ,,3,57,59,-2,1595.0
+9:07.0, ,57-61,K. Johnson makes 2-pt jump shot from 8 ft (assist by T. Jones),,3,57,61,-4,1613.0
+8:55.0,T. Herro misses 2-pt layup from 8 ft,57-61, ,,3,57,61,-4,1625.0
+8:53.0, ,57-61,Defensive rebound by J. Poeltl,,3,57,61,-4,1627.0
+8:50.0, ,57-63,K. Bates-Diop makes 2-pt dunk at rim (assist by T. Jones),,3,57,63,-6,1630.0
+8:32.0,B. Adebayo makes 2-pt jump shot from 11 ft (assist by M. Strus),59-63, ,,3,59,63,-4,1648.0
+8:13.0, ,59-63,K. Bates-Diop misses 3-pt jump shot from 23 ft,,3,59,63,-4,1667.0
+8:10.0, ,59-63,Offensive rebound by J. Poeltl,,3,59,63,-4,1670.0
+8:01.0, ,59-63,K. Johnson misses 2-pt layup from 2 ft,,3,59,63,-4,1679.0
+7:59.0,Defensive rebound by B. Adebayo,59-63, ,,3,59,63,-4,1681.0
+7:47.0,Turnover by B. Adebayo (traveling),59-63, ,,3,59,63,-4,1693.0
+7:31.0, ,59-65,J. Poeltl makes 2-pt hook shot from 6 ft,,3,59,65,-6,1709.0
+7:18.0,B. Adebayo misses 2-pt jump shot from 17 ft,59-65, ,,3,59,65,-6,1722.0
+7:14.0,Offensive rebound by M. Strus,59-65, ,,3,59,65,-6,1726.0
+7:14.0,M. Strus makes 2-pt layup at rim,61-65, ,,3,61,65,-4,1726.0
+7:02.0, ,61-65,J. Poeltl misses 2-pt jump shot from 8 ft,,3,61,65,-4,1738.0
+7:00.0,Defensive rebound by M. Strus,61-65, ,,3,61,65,-4,1740.0
+6:59.0,Turnover by T. Herro (bad pass),61-65, ,,3,61,65,-4,1741.0
+6:59.0, ,61-65,San Antonio full timeout,,3,61,65,-4,1741.0
+6:46.0, ,61-65,Shooting foul by T. Herro (drawn by D. Vassell),,3,61,65,-4,1754.0
+6:46.0, ,61-65,D. Vassell misses free throw 1 of 3,,3,61,65,-4,1754.0
+6:46.0, ,61-65,Offensive rebound by Team,,3,61,65,-4,1754.0
+6:46.0, ,61-66,D. Vassell makes free throw 2 of 3,,3,61,66,-5,1754.0
+6:46.0, ,61-67,D. Vassell makes free throw 3 of 3,,3,61,67,-6,1754.0
+6:30.0,Personal foul by K. Bates-Diop (drawn by J. Butler),61-67, ,,3,61,67,-6,1770.0
+6:17.0,M. Strus misses 3-pt jump shot from 25 ft,61-67, ,,3,61,67,-6,1783.0
+6:16.0,Offensive rebound by Team,61-67, ,,3,61,67,-6,1784.0
+6:16.0,Turnover by Team (shot clock),61-67, ,,3,61,67,-6,1784.0
+5:55.0, ,61-67,D. Vassell misses 3-pt jump shot from 26 ft,,3,61,67,-6,1805.0
+5:51.0,Defensive rebound by T. Herro,61-67, ,,3,61,67,-6,1809.0
+5:44.0,T. Herro makes 2-pt jump shot from 14 ft,63-67, ,,3,63,67,-4,1816.0
+5:31.0, ,63-67,K. Johnson misses 3-pt jump shot from 25 ft,,3,63,67,-4,1829.0
+5:29.0,Defensive rebound by J. Butler,63-67, ,,3,63,67,-4,1831.0
+5:25.0,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Butler),66-67, ,,3,66,67,-1,1835.0
+5:22.0, ,66-67,San Antonio full timeout,,3,66,67,-1,1838.0
+5:22.0,V. Oladipo enters the game for B. Adebayo,66-67, ,,3,66,67,-1,1838.0
+5:22.0,D. Robinson enters the game for T. Herro,66-67, ,,3,66,67,-1,1838.0
+5:22.0,O. Robinson enters the game for N. Jović,66-67, ,,3,66,67,-1,1838.0
+5:22.0, ,66-67,Z. Collins enters the game for J. Poeltl,,3,66,67,-1,1838.0
+5:22.0, ,66-67,D. McDermott enters the game for D. Vassell,,3,66,67,-1,1838.0
+5:21.0,Technical foul by E. Spoelstra,66-67, ,,3,66,67,-1,1839.0
+5:21.0, ,66-68,K. Johnson makes technical free throw,,3,66,68,-2,1839.0
+5:11.0, ,66-68,K. Johnson misses 2-pt jump shot from 6 ft,,3,66,68,-2,1849.0
+5:10.0,Defensive rebound by M. Strus,66-68, ,,3,66,68,-2,1850.0
+4:55.0,J. Butler misses 2-pt jump shot from 17 ft,66-68, ,,3,66,68,-2,1865.0
+4:52.0, ,66-68,Defensive rebound by T. Jones,,3,66,68,-2,1868.0
+4:49.0, ,66-70,K. Johnson makes 2-pt layup from 1 ft (assist by T. Jones),,3,66,70,-4,1871.0
+4:31.0,V. Oladipo misses 3-pt jump shot from 27 ft,66-70, ,,3,66,70,-4,1889.0
+4:26.0, ,66-70,Defensive rebound by Z. Collins,,3,66,70,-4,1894.0
+4:11.0, ,66-72,Z. Collins makes 2-pt layup from 2 ft,,3,66,72,-6,1909.0
+4:03.0,Shooting foul by D. McDermott (drawn by J. Butler),66-72, ,,3,66,72,-6,1917.0
+4:03.0,J. Butler makes free throw 1 of 2,67-72, ,,3,67,72,-5,1917.0
+4:03.0, ,67-72,M. Branham enters the game for K. Bates-Diop,,3,67,72,-5,1917.0
+4:03.0, ,67-72,J. Sochan enters the game for T. Jones,,3,67,72,-5,1917.0
+4:03.0,J. Butler makes free throw 2 of 2,68-72, ,,3,68,72,-4,1917.0
+3:52.0, ,68-74,M. Branham makes 2-pt layup from 2 ft (assist by Z. Collins),,3,68,74,-6,1928.0
+3:42.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),71-74, ,,3,71,74,-3,1938.0
+3:34.0, ,71-74,Offensive foul by Z. Collins (drawn by V. Oladipo),,3,71,74,-3,1946.0
+3:34.0, ,71-74,Turnover by Z. Collins (offensive foul),,3,71,74,-3,1946.0
+3:24.0,J. Butler makes 2-pt layup from 3 ft,73-74, ,,3,73,74,-1,1956.0
+3:24.0,Shooting foul by D. McDermott (drawn by J. Butler),73-74, ,,3,73,74,-1,1956.0
+3:24.0,J. Butler misses free throw 1 of 1,73-74, ,,3,73,74,-1,1956.0
+3:23.0, ,73-74,Defensive rebound by Team,,3,73,74,-1,1957.0
+3:09.0, ,73-74,Turnover by D. McDermott (bad pass; steal by M. Strus),,3,73,74,-1,1971.0
+2:59.0,O. Robinson makes 2-pt hook shot from 3 ft (assist by V. Oladipo),75-74, ,Lead change,3,75,74,1,1981.0
+2:43.0, ,75-76,J. Sochan makes 2-pt dunk from 1 ft (assist by K. Johnson),Lead change,3,75,76,-1,1997.0
+2:20.0,V. Oladipo misses 3-pt jump shot from 26 ft,75-76, ,,3,75,76,-1,2020.0
+2:16.0, ,75-76,Defensive rebound by J. Sochan,,3,75,76,-1,2024.0
+2:11.0, ,75-79,M. Branham makes 3-pt jump shot from 24 ft (assist by J. Sochan),,3,75,79,-4,2029.0
+1:45.0,M. Strus makes 2-pt jump shot from 10 ft (assist by O. Robinson),77-79, ,,3,77,79,-2,2055.0
+1:34.0, ,77-79,D. McDermott misses 3-pt jump shot from 27 ft,,3,77,79,-2,2066.0
+1:31.0,Defensive rebound by O. Robinson,77-79, ,,3,77,79,-2,2069.0
+1:23.0,Shooting foul by J. Sochan (drawn by J. Butler),77-79, ,,3,77,79,-2,2077.0
+1:23.0,J. Butler misses free throw 1 of 2,77-79, ,,3,77,79,-2,2077.0
+1:23.0,Offensive rebound by Team,77-79, ,,3,77,79,-2,2077.0
+1:23.0,B. Adebayo enters the game for O. Robinson,77-79, ,,3,77,79,-2,2077.0
+1:23.0,T. Herro enters the game for M. Strus,77-79, ,,3,77,79,-2,2077.0
+1:23.0, ,77-79,K. Bates-Diop enters the game for K. Johnson,,3,77,79,-2,2077.0
+1:23.0, ,77-79,D. Vassell enters the game for J. Sochan,,3,77,79,-2,2077.0
+1:23.0,J. Butler makes free throw 2 of 2,78-79, ,,3,78,79,-1,2077.0
+1:08.0, ,78-79,Personal foul by B. Adebayo (drawn by Z. Collins),,3,78,79,-1,2092.0
+1:08.0,H. Highsmith enters the game for J. Butler,78-79, ,,3,78,79,-1,2092.0
+0:57.0, ,78-82,M. Branham makes 3-pt jump shot from 26 ft (assist by K. Bates-Diop),,3,78,82,-4,2103.0
+0:39.0,D. Robinson makes 2-pt jump shot from 20 ft (assist by T. Herro),80-82, ,,3,80,82,-2,2121.0
+0:30.0, ,80-82,D. Vassell misses 3-pt jump shot from 25 ft,,3,80,82,-2,2130.0
+0:28.0,Defensive rebound by V. Oladipo,80-82, ,,3,80,82,-2,2132.0
+0:16.0,T. Herro misses 3-pt jump shot from 26 ft,80-82, ,,3,80,82,-2,2144.0
+0:13.0, ,80-82,Defensive rebound by K. Bates-Diop,,3,80,82,-2,2147.0
+0:00.0, ,80-82,Shooting foul by V. Oladipo (drawn by D. Vassell),,3,80,82,-2,2160.0
+0:00.0, ,80-83,D. Vassell makes free throw 1 of 2,,3,80,83,-3,2160.0
+0:00.0, ,80-84,D. Vassell makes free throw 2 of 2,,3,80,84,-4,2160.0
+0:00.0,End of 3rd quarter,80-84,,,3,80,84,-4,2160.0
+12:00.0,Start of 4th quarter,80-84,,,4,80,84,-4,2160.0
+11:42.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by D. Robinson),82-84, ,,4,82,84,-2,2178.0
+11:23.0, ,82-84,D. Vassell misses 2-pt jump shot from 8 ft,,4,82,84,-2,2197.0
+11:23.0, ,82-84,Offensive rebound by Team,,4,82,84,-2,2197.0
+11:23.0,Loose ball foul by H. Highsmith (drawn by Z. Collins),82-84, ,,4,82,84,-2,2197.0
+11:15.0, ,82-86,D. McDermott makes 2-pt layup from 1 ft (assist by Z. Collins),,4,82,86,-4,2205.0
+10:59.0,T. Herro makes 2-pt layup from 2 ft,84-86, ,,4,84,86,-2,2221.0
+10:39.0, ,84-86,Z. Collins misses 2-pt layup from 2 ft,,4,84,86,-2,2241.0
+10:37.0,Defensive rebound by H. Highsmith,84-86, ,,4,84,86,-2,2243.0
+10:31.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),87-86, ,Lead change,4,87,86,1,2249.0
+10:31.0,Shooting foul by K. Bates-Diop (drawn by D. Robinson),87-86, ,,4,87,86,1,2249.0
+10:31.0, ,87-86,J. Poeltl enters the game for Z. Collins,,4,87,86,1,2249.0
+10:31.0,D. Robinson makes free throw 1 of 1,88-86, ,,4,88,86,2,2249.0
+10:19.0, ,88-86,Personal foul by H. Highsmith (drawn by M. Branham),,4,88,86,2,2261.0
+10:19.0, ,88-86,T. Jones enters the game for K. Bates-Diop,,4,88,86,2,2261.0
+10:07.0, ,88-86,D. Vassell misses 2-pt jump shot from 15 ft,,4,88,86,2,2273.0
+10:05.0,Defensive rebound by V. Oladipo,88-86, ,,4,88,86,2,2275.0
+10:00.0,D. Robinson misses 3-pt jump shot from 27 ft,88-86, ,,4,88,86,2,2280.0
+9:58.0, ,88-86,Defensive rebound by Team,,4,88,86,2,2282.0
+9:41.0, ,88-86,Shooting foul by T. Herro (drawn by J. Poeltl),,4,88,86,2,2299.0
+9:41.0, ,88-86,J. Poeltl misses free throw 1 of 2,,4,88,86,2,2299.0
+9:41.0, ,88-86,Offensive rebound by Team,,4,88,86,2,2299.0
+9:41.0, ,88-86,J. Poeltl misses free throw 2 of 2,,4,88,86,2,2299.0
+9:36.0,Defensive rebound by T. Herro,88-86, ,,4,88,86,2,2304.0
+9:30.0,Shooting foul by D. Vassell (drawn by H. Highsmith),88-86, ,,4,88,86,2,2310.0
+9:30.0,H. Highsmith misses free throw 1 of 2,88-86, ,,4,88,86,2,2310.0
+9:30.0,Offensive rebound by Team,88-86, ,,4,88,86,2,2310.0
+9:30.0,H. Highsmith misses free throw 2 of 2,88-86, ,,4,88,86,2,2310.0
+9:27.0, ,88-86,Defensive rebound by D. Vassell,,4,88,86,2,2313.0
+9:15.0, ,88-86,Turnover by T. Jones (bad pass),,4,88,86,2,2325.0
+8:56.0,V. Oladipo makes 2-pt jump shot from 10 ft,90-86, ,,4,90,86,4,2344.0
+8:42.0, ,90-86,Shooting foul by V. Oladipo (drawn by T. Jones),,4,90,86,4,2358.0
+8:42.0, ,90-87,T. Jones makes free throw 1 of 2,,4,90,87,3,2358.0
+8:42.0, ,90-87,K. Bates-Diop enters the game for M. Branham,,4,90,87,3,2358.0
+8:42.0, ,90-87,J. Sochan enters the game for D. McDermott,,4,90,87,3,2358.0
+8:42.0, ,90-88,T. Jones makes free throw 2 of 2,,4,90,88,2,2358.0
+8:22.0,T. Herro misses 2-pt jump shot from 16 ft,90-88, ,,4,90,88,2,2378.0
+8:20.0,Offensive rebound by H. Highsmith,90-88, ,,4,90,88,2,2380.0
+8:20.0,H. Highsmith makes 2-pt layup at rim,92-88, ,,4,92,88,4,2380.0
+7:58.0, ,92-88,K. Bates-Diop misses 2-pt layup from 1 ft,,4,92,88,4,2402.0
+7:56.0,Defensive rebound by B. Adebayo,92-88, ,,4,92,88,4,2404.0
+7:42.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by T. Herro),95-88, ,,4,95,88,7,2418.0
+7:27.0, ,95-88,Shooting foul by D. Robinson (drawn by T. Jones),,4,95,88,7,2433.0
+7:27.0, ,95-89,T. Jones makes free throw 1 of 2,,4,95,89,6,2433.0
+7:27.0,J. Butler enters the game for H. Highsmith,95-89, ,,4,95,89,6,2433.0
+7:27.0, ,95-89,K. Johnson enters the game for D. Vassell,,4,95,89,6,2433.0
+7:27.0, ,95-90,T. Jones makes free throw 2 of 2,,4,95,90,5,2433.0
+7:10.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by D. Robinson),97-90, ,,4,97,90,7,2450.0
+7:03.0, ,97-90,Personal foul by B. Adebayo (drawn by T. Jones),,4,97,90,7,2457.0
+7:03.0, ,97-91,T. Jones makes free throw 1 of 2,,4,97,91,6,2457.0
+7:03.0, ,97-91,Z. Collins enters the game for J. Poeltl,,4,97,91,6,2457.0
+7:03.0, ,97-91,T. Jones misses free throw 2 of 2,,4,97,91,6,2457.0
+6:59.0,Defensive rebound by J. Butler,97-91, ,,4,97,91,6,2461.0
+6:50.0,T. Herro misses 3-pt jump shot from 25 ft,97-91, ,,4,97,91,6,2470.0
+6:47.0,Offensive rebound by B. Adebayo,97-91, ,,4,97,91,6,2473.0
+6:47.0, ,97-91,San Antonio full timeout,,4,97,91,6,2473.0
+6:45.0,J. Butler makes 2-pt jump shot from 17 ft (assist by V. Oladipo),99-91, ,,4,99,91,8,2475.0
+6:28.0, ,99-91,Turnover by Z. Collins (bad pass; steal by V. Oladipo),,4,99,91,8,2492.0
+6:08.0,B. Adebayo makes 2-pt jump shot from 16 ft,101-91, ,,4,101,91,10,2512.0
+5:56.0, ,101-91,T. Jones misses 3-pt jump shot from 26 ft,,4,101,91,10,2524.0
+5:53.0, ,101-91,Offensive rebound by K. Bates-Diop,,4,101,91,10,2527.0
+5:49.0, ,101-91,Personal foul by J. Butler (drawn by Z. Collins),,4,101,91,10,2531.0
+5:49.0, ,101-92,Z. Collins makes free throw 1 of 2,,4,101,92,9,2531.0
+5:49.0, ,101-92,D. Vassell enters the game for J. Sochan,,4,101,92,9,2531.0
+5:49.0, ,101-93,Z. Collins makes free throw 2 of 2,,4,101,93,8,2531.0
+5:34.0,D. Robinson misses 2-pt jump shot from 2 ft,101-93, ,,4,101,93,8,2546.0
+5:27.0,Offensive rebound by B. Adebayo,101-93, ,,4,101,93,8,2553.0
+5:27.0,B. Adebayo makes 2-pt dunk at rim,103-93, ,,4,103,93,10,2553.0
+5:18.0, ,103-95,Z. Collins makes 2-pt layup from 1 ft (assist by K. Bates-Diop),,4,103,95,8,2562.0
+5:06.0,Shooting foul by D. Vassell (drawn by T. Herro),103-95, ,,4,103,95,8,2574.0
+5:06.0,T. Herro makes free throw 1 of 2,104-95, ,,4,104,95,9,2574.0
+5:06.0,T. Herro makes free throw 2 of 2,105-95, ,,4,105,95,10,2574.0
+4:52.0, ,105-95,Shooting foul by D. Robinson (drawn by D. Vassell),,4,105,95,10,2588.0
+4:52.0, ,105-96,D. Vassell makes free throw 1 of 2,,4,105,96,9,2588.0
+4:52.0, ,105-97,D. Vassell makes free throw 2 of 2,,4,105,97,8,2588.0
+4:42.0,Shooting foul by K. Johnson (drawn by J. Butler),105-97, ,,4,105,97,8,2598.0
+4:42.0,J. Butler makes free throw 1 of 2,106-97, ,,4,106,97,9,2598.0
+4:42.0,J. Butler makes free throw 2 of 2,107-97, ,,4,107,97,10,2598.0
+4:25.0, ,107-97,Turnover by T. Jones (bad pass; steal by D. Robinson),,4,107,97,10,2615.0
+4:10.0,J. Butler misses 2-pt jump shot from 16 ft,107-97, ,,4,107,97,10,2630.0
+4:07.0, ,107-97,Defensive rebound by Z. Collins,,4,107,97,10,2633.0
+4:02.0, ,107-97,Turnover by T. Jones (lost ball; steal by V. Oladipo),,4,107,97,10,2638.0
+3:55.0,T. Herro makes 3-pt jump shot from 24 ft (assist by D. Robinson),110-97, ,,4,110,97,13,2645.0
+3:54.0, ,110-97,San Antonio full timeout,,4,110,97,13,2646.0
+3:40.0, ,110-99,K. Bates-Diop makes 2-pt layup from 1 ft (assist by D. Vassell),,4,110,99,11,2660.0
+3:18.0,Turnover by B. Adebayo (bad pass; steal by K. Johnson),110-99, ,,4,110,99,11,2682.0
+3:06.0, ,110-99,Turnover by K. Bates-Diop (bad pass; steal by V. Oladipo),,4,110,99,11,2694.0
+2:57.0,T. Herro misses 3-pt jump shot from 27 ft,110-99, ,,4,110,99,11,2703.0
+2:54.0, ,110-99,Defensive rebound by Z. Collins,,4,110,99,11,2706.0
+2:48.0, ,110-99,Offensive foul by K. Johnson (drawn by D. Robinson),,4,110,99,11,2712.0
+2:48.0, ,110-99,Turnover by K. Johnson (offensive foul),,4,110,99,11,2712.0
+2:48.0, ,110-99,C. Bassey enters the game for Z. Collins,,4,110,99,11,2712.0
+2:48.0, ,110-99,S. Johnson enters the game for D. Vassell,,4,110,99,11,2712.0
+2:48.0, ,110-99,Violation by Team (delay of game),,4,110,99,11,2712.0
+2:48.0,J. Butler makes technical free throw,111-99, ,,4,111,99,12,2712.0
+2:48.0, ,111-99,M. Branham enters the game for K. Johnson,,4,111,99,12,2712.0
+2:48.0, ,111-99,I. Roby enters the game for T. Jones,,4,111,99,12,2712.0
+2:28.0,B. Adebayo misses 2-pt layup from 1 ft,111-99, ,,4,111,99,12,2732.0
+2:26.0, ,111-99,Defensive rebound by I. Roby,,4,111,99,12,2734.0
+2:23.0, ,111-101,K. Bates-Diop makes 2-pt layup from 2 ft (assist by I. Roby),,4,111,101,10,2737.0
+2:05.0,B. Adebayo misses 2-pt jump shot from 10 ft,111-101, ,,4,111,101,10,2755.0
+2:03.0, ,111-101,Defensive rebound by C. Bassey,,4,111,101,10,2757.0
+1:56.0, ,111-101,K. Bates-Diop misses 3-pt jump shot from 26 ft,,4,111,101,10,2764.0
+1:51.0,Defensive rebound by J. Butler,111-101, ,,4,111,101,10,2769.0
+1:29.0,J. Butler misses 2-pt jump shot from 12 ft,111-101, ,,4,111,101,10,2791.0
+1:26.0, ,111-101,Defensive rebound by C. Bassey,,4,111,101,10,2794.0
+1:19.0, ,111-101,M. Branham misses 3-pt jump shot from 25 ft,,4,111,101,10,2801.0
+1:17.0,Defensive rebound by T. Herro,111-101, ,,4,111,101,10,2803.0
+1:01.0,T. Herro misses 3-pt jump shot from 28 ft,111-101, ,,4,111,101,10,2819.0
+0:58.0, ,111-101,Defensive rebound by C. Bassey,,4,111,101,10,2822.0
+0:51.0, ,111-101,Turnover by S. Johnson (bad pass; steal by T. Herro),,4,111,101,10,2829.0
+0:28.0,Turnover by Team (shot clock),111-101, ,,4,111,101,10,2852.0
+0:28.0,H. Highsmith enters the game for B. Adebayo,111-101, ,,4,111,101,10,2852.0
+0:28.0,N. Jović enters the game for J. Butler,111-101, ,,4,111,101,10,2852.0
+0:28.0,O. Robinson enters the game for T. Herro,111-101, ,,4,111,101,10,2852.0
+0:15.0, ,111-101,S. Johnson misses 2-pt jump shot from 5 ft,,4,111,101,10,2865.0
+0:12.0,Defensive rebound by H. Highsmith,111-101, ,,4,111,101,10,2868.0
+0:00.0,End of 4th quarter,111-101,,,4,111,101,10,2880.0

@@ -1,0 +1,452 @@
+Time,Miami,Score,Phoenix,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. D. Ayton (C. Paul gains possession),0-0,,,1,0,0,0,0.0
+11:38.0, ,0-3,C. Paul makes 3-pt jump shot from 27 ft (assist by M. Bridges),,1,0,3,-3,22.0
+11:20.0,K. Lowry misses 3-pt jump shot from 25 ft,0-3, ,,1,0,3,-3,40.0
+11:17.0, ,0-3,Defensive rebound by M. Bridges,,1,0,3,-3,43.0
+11:11.0, ,0-3,Shooting foul by M. Strus (drawn by M. Bridges),,1,0,3,-3,49.0
+11:11.0, ,0-4,M. Bridges makes free throw 1 of 2,,1,0,4,-4,49.0
+11:11.0, ,0-5,M. Bridges makes free throw 2 of 2,,1,0,5,-5,49.0
+10:57.0,B. Adebayo misses 2-pt jump shot from 16 ft,0-5, ,,1,0,5,-5,63.0
+10:53.0, ,0-5,Defensive rebound by M. Bridges,,1,0,5,-5,67.0
+10:47.0, ,0-5,M. Bridges misses 3-pt jump shot from 26 ft,,1,0,5,-5,73.0
+10:44.0,Defensive rebound by B. Adebayo,0-5, ,,1,0,5,-5,76.0
+10:29.0,B. Adebayo makes 2-pt jump shot from 6 ft,2-5, ,,1,2,5,-3,91.0
+10:19.0, ,2-5,L. Shamet misses 3-pt jump shot from 26 ft,,1,2,5,-3,101.0
+10:17.0,Defensive rebound by H. Highsmith,2-5, ,,1,2,5,-3,103.0
+10:12.0,H. Highsmith misses 3-pt jump shot from 24 ft,2-5, ,,1,2,5,-3,108.0
+10:09.0, ,2-5,Defensive rebound by D. Ayton,,1,2,5,-3,111.0
+10:00.0, ,2-7,D. Ayton makes 2-pt jump shot from 12 ft (assist by C. Paul),,1,2,7,-5,120.0
+9:44.0,B. Adebayo makes 2-pt jump shot from 15 ft,4-7, ,,1,4,7,-3,136.0
+9:18.0, ,4-7,M. Bridges misses 3-pt jump shot from 27 ft,,1,4,7,-3,162.0
+9:13.0,Defensive rebound by B. Adebayo,4-7, ,,1,4,7,-3,167.0
+8:55.0,M. Strus misses 2-pt layup from 3 ft,4-7, ,,1,4,7,-3,185.0
+8:53.0, ,4-7,Defensive rebound by T. Craig,,1,4,7,-3,187.0
+8:48.0, ,4-7,M. Bridges misses 2-pt layup from 3 ft,,1,4,7,-3,192.0
+8:46.0,Defensive rebound by B. Adebayo,4-7, ,,1,4,7,-3,194.0
+8:42.0,J. Butler makes 2-pt jump shot from 10 ft,6-7, ,,1,6,7,-1,198.0
+8:42.0,Shooting foul by C. Paul (drawn by J. Butler),6-7, ,,1,6,7,-1,198.0
+8:42.0,J. Butler makes free throw 1 of 1,7-7, ,Tie,1,7,7,0,198.0
+8:26.0, ,7-10,T. Craig makes 3-pt jump shot from 26 ft (assist by M. Bridges),,1,7,10,-3,214.0
+8:12.0,M. Strus makes 3-pt jump shot from 25 ft (assist by J. Butler),10-10, ,Tie,1,10,10,0,228.0
+7:55.0, ,10-12,D. Ayton makes 2-pt hook shot from 11 ft (assist by M. Bridges),,1,10,12,-2,245.0
+7:38.0,H. Highsmith misses 2-pt hook shot from 9 ft,10-12, ,,1,10,12,-2,262.0
+7:35.0, ,10-12,Defensive rebound by D. Ayton,,1,10,12,-2,265.0
+7:25.0, ,10-15,T. Craig makes 3-pt jump shot from 24 ft (assist by M. Bridges),,1,10,15,-5,275.0
+7:07.0,Shooting foul by D. Ayton (drawn by J. Butler),10-15, ,,1,10,15,-5,293.0
+7:07.0,J. Butler makes free throw 1 of 2,11-15, ,,1,11,15,-4,293.0
+7:07.0,J. Butler makes free throw 2 of 2,12-15, ,,1,12,15,-3,293.0
+6:53.0, ,12-15,C. Paul misses 2-pt jump shot from 13 ft,,1,12,15,-3,307.0
+6:45.0, ,12-15,Offensive rebound by M. Bridges,,1,12,15,-3,315.0
+6:45.0, ,12-15,M. Bridges misses 2-pt layup at rim,,1,12,15,-3,315.0
+6:45.0,Defensive rebound by J. Butler,12-15, ,,1,12,15,-3,315.0
+6:40.0,M. Strus makes 3-pt jump shot from 23 ft (assist by K. Lowry),15-15, ,Tie,1,15,15,0,320.0
+6:17.0, ,15-15,Turnover by D. Ayton (3 sec),,1,15,15,0,343.0
+6:17.0, ,15-15,Phoenix full timeout,,1,15,15,0,343.0
+6:17.0,V. Oladipo enters the game for H. Highsmith,15-15, ,,1,15,15,0,343.0
+5:58.0,B. Adebayo makes 2-pt jump shot from 8 ft,17-15, ,Lead change,1,17,15,2,362.0
+5:36.0, ,17-15,Turnover by D. Ayton (lost ball; steal by K. Lowry),,1,17,15,2,384.0
+5:32.0,J. Butler makes 2-pt layup at rim (assist by M. Strus),19-15, ,,1,19,15,4,388.0
+5:15.0, ,19-15,D. Ayton misses 2-pt hook shot from 6 ft,,1,19,15,4,405.0
+5:14.0,Defensive rebound by B. Adebayo,19-15, ,,1,19,15,4,406.0
+5:03.0,Turnover by V. Oladipo (bad pass; steal by M. Bridges),19-15, ,,1,19,15,4,417.0
+4:54.0, ,19-15,D. Ayton misses 2-pt jump shot from 3 ft (block by M. Strus),,1,19,15,4,426.0
+4:54.0, ,19-15,Offensive rebound by Team,,1,19,15,4,426.0
+4:54.0,D. Dedmon enters the game for B. Adebayo,19-15, ,,1,19,15,4,426.0
+4:54.0,G. Vincent enters the game for M. Strus,19-15, ,,1,19,15,4,426.0
+4:54.0, ,19-15,D. Lee enters the game for L. Shamet,,1,19,15,4,426.0
+4:51.0, ,19-15,D. Ayton misses 2-pt jump shot from 15 ft,,1,19,15,4,429.0
+4:49.0,Defensive rebound by Team,19-15, ,,1,19,15,4,431.0
+4:25.0,G. Vincent misses 3-pt jump shot from 23 ft,19-15, ,,1,19,15,4,455.0
+4:23.0, ,19-15,Defensive rebound by D. Lee,,1,19,15,4,457.0
+4:10.0, ,19-17,D. Ayton makes 2-pt jump shot from 8 ft,,1,19,17,2,470.0
+3:52.0,J. Butler misses 2-pt jump shot from 10 ft,19-17, ,,1,19,17,2,488.0
+3:49.0, ,19-17,Defensive rebound by D. Lee,,1,19,17,2,491.0
+3:43.0, ,19-17,D. Ayton misses 3-pt jump shot from 27 ft,,1,19,17,2,497.0
+3:39.0,Defensive rebound by K. Lowry,19-17, ,,1,19,17,2,501.0
+3:22.0,D. Dedmon misses 2-pt jump shot from 4 ft,19-17, ,,1,19,17,2,518.0
+3:20.0, ,19-17,Defensive rebound by D. Ayton,,1,19,17,2,520.0
+3:13.0, ,19-19,C. Paul makes 2-pt jump shot from 16 ft,Tie,1,19,19,0,527.0
+2:50.0,G. Vincent makes 3-pt jump shot from 23 ft (assist by J. Butler),22-19, ,,1,22,19,3,550.0
+2:30.0,Miami full timeout,22-19, ,,1,22,19,3,570.0
+2:30.0,B. Adebayo enters the game for J. Butler,22-19, ,,1,22,19,3,570.0
+2:30.0,H. Highsmith enters the game for D. Dedmon,22-19, ,,1,22,19,3,570.0
+2:30.0,M. Strus enters the game for K. Lowry,22-19, ,,1,22,19,3,570.0
+2:30.0, ,22-19,J. Landale enters the game for D. Ayton,,1,22,19,3,570.0
+2:30.0, ,22-19,I. Wainright enters the game for T. Craig,,1,22,19,3,570.0
+2:30.0, ,22-19,D. Washington enters the game for C. Paul,,1,22,19,3,570.0
+2:26.0,Jump ball: M. Bridges vs. V. Oladipo (D. Washington gains possession),22-19,,,1,22,19,3,574.0
+2:22.0, ,22-19,D. Washington misses 2-pt jump shot from 8 ft,,1,22,19,3,578.0
+2:22.0, ,22-19,Offensive rebound by Team,,1,22,19,3,578.0
+2:12.0, ,22-19,J. Landale misses 2-pt jump shot from 11 ft,,1,22,19,3,588.0
+2:09.0,Defensive rebound by B. Adebayo,22-19, ,,1,22,19,3,591.0
+1:48.0,B. Adebayo misses 2-pt jump shot from 9 ft,22-19, ,,1,22,19,3,612.0
+1:45.0, ,22-19,Defensive rebound by D. Washington,,1,22,19,3,615.0
+1:41.0, ,22-19,I. Wainright misses 3-pt jump shot from 23 ft,,1,22,19,3,619.0
+1:38.0,Defensive rebound by G. Vincent,22-19, ,,1,22,19,3,622.0
+1:32.0,B. Adebayo makes 2-pt jump shot from 11 ft (assist by G. Vincent),24-19, ,,1,24,19,5,628.0
+1:15.0, ,24-19,D. Washington misses 2-pt jump shot from 10 ft,,1,24,19,5,645.0
+1:14.0,Defensive rebound by H. Highsmith,24-19, ,,1,24,19,5,646.0
+1:14.0,Turnover by H. Highsmith (step out of bounds),24-19, ,,1,24,19,5,646.0
+1:14.0, ,24-19,J. Okogie enters the game for M. Bridges,,1,24,19,5,646.0
+1:11.0, ,24-21,J. Landale makes 2-pt hook shot from 8 ft (assist by D. Washington),,1,24,21,3,649.0
+0:52.0,M. Strus makes 3-pt jump shot from 25 ft (assist by B. Adebayo),27-21, ,,1,27,21,6,668.0
+0:32.0, ,27-21,Turnover by I. Wainright (bad pass; steal by H. Highsmith),,1,27,21,6,688.0
+0:15.0,M. Strus misses 3-pt jump shot from 26 ft,27-21, ,,1,27,21,6,705.0
+0:13.0, ,27-21,Defensive rebound by D. Lee,,1,27,21,6,707.0
+0:03.0, ,27-23,D. Washington makes 2-pt jump shot from 10 ft,,1,27,23,4,717.0
+0:00.0,V. Oladipo makes 3-pt jump shot from 36 ft,30-23, ,,1,30,23,7,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),30-23, ,,1,30,23,7,720.0
+0:00.0,End of 1st quarter,30-23,,,1,30,23,7,720.0
+12:00.0,Start of 2nd quarter,30-23,,,2,30,23,7,720.0
+11:49.0,Personal foul by D. Lee (drawn by M. Strus),30-23, ,,2,30,23,7,731.0
+11:42.0,M. Strus misses 3-pt jump shot from 25 ft,30-23, ,,2,30,23,7,738.0
+11:38.0, ,30-23,Defensive rebound by J. Landale,,2,30,23,7,742.0
+11:24.0, ,30-25,D. Lee makes 2-pt jump shot from 13 ft (assist by D. Washington),,2,30,25,5,756.0
+11:04.0,M. Strus misses 2-pt jump shot from 10 ft,30-25, ,,2,30,25,5,776.0
+11:04.0, ,30-25,Defensive rebound by Team,,2,30,25,5,776.0
+10:51.0, ,30-25,D. Washington misses 3-pt jump shot from 23 ft,,2,30,25,5,789.0
+10:47.0,Defensive rebound by B. Adebayo,30-25, ,,2,30,25,5,793.0
+10:33.0,V. Oladipo makes 3-pt jump shot from 25 ft (assist by G. Vincent),33-25, ,,2,33,25,8,807.0
+10:19.0, ,33-25,Shooting foul by B. Adebayo (drawn by J. Landale),,2,33,25,8,821.0
+10:19.0, ,33-26,J. Landale makes free throw 1 of 2,,2,33,26,7,821.0
+10:19.0, ,33-27,J. Landale makes free throw 2 of 2,,2,33,27,6,821.0
+10:00.0,G. Vincent makes 3-pt jump shot from 25 ft (assist by B. Adebayo),36-27, ,,2,36,27,9,840.0
+9:50.0, ,36-27,Def 3 sec tech foul by Team,,2,36,27,9,850.0
+9:50.0, ,36-28,D. Lee makes technical free throw,,2,36,28,8,850.0
+9:40.0, ,36-28,D. Washington misses 3-pt jump shot from 25 ft,,2,36,28,8,860.0
+9:39.0,Defensive rebound by Team,36-28, ,,2,36,28,8,861.0
+9:28.0,G. Vincent misses 3-pt jump shot from 24 ft,36-28, ,,2,36,28,8,872.0
+9:24.0, ,36-28,Defensive rebound by I. Wainright,,2,36,28,8,876.0
+9:14.0, ,36-30,D. Washington makes 2-pt jump shot from 21 ft,,2,36,30,6,886.0
+9:04.0,Personal foul by D. Lee (drawn by B. Adebayo),36-30, ,,2,36,30,6,896.0
+9:04.0, ,36-30,L. Shamet enters the game for J. Okogie,,2,36,30,6,896.0
+8:57.0,Def 3 sec tech foul by Team,36-30, ,,2,36,30,6,903.0
+8:57.0,M. Strus makes technical free throw,37-30, ,,2,37,30,7,903.0
+8:50.0,M. Strus misses 3-pt jump shot from 25 ft,37-30, ,,2,37,30,7,910.0
+8:47.0, ,37-30,Defensive rebound by J. Landale,,2,37,30,7,913.0
+8:37.0, ,37-32,I. Wainright makes 2-pt layup from 2 ft (assist by D. Washington),,2,37,32,5,923.0
+8:17.0,H. Highsmith misses 3-pt jump shot from 25 ft,37-32, ,,2,37,32,5,943.0
+8:14.0,Offensive rebound by H. Highsmith,37-32, ,,2,37,32,5,946.0
+8:12.0,Turnover by H. Highsmith (bad pass; steal by D. Lee),37-32, ,,2,37,32,5,948.0
+7:57.0, ,37-34,L. Shamet makes 2-pt jump shot from 8 ft,,2,37,34,3,963.0
+7:48.0,Turnover by V. Oladipo (bad pass),37-34, ,,2,37,34,3,972.0
+7:36.0, ,37-34,D. Washington misses 2-pt layup from 3 ft (block by B. Adebayo),,2,37,34,3,984.0
+7:33.0,Defensive rebound by H. Highsmith,37-34, ,,2,37,34,3,987.0
+7:29.0,B. Adebayo makes 2-pt layup from 2 ft (assist by M. Strus),39-34, ,,2,39,34,5,991.0
+7:29.0, ,39-34,Phoenix full timeout,,2,39,34,5,991.0
+7:29.0, ,39-34,D. Ayton enters the game for J. Landale,,2,39,34,5,991.0
+7:29.0, ,39-34,C. Paul enters the game for D. Washington,,2,39,34,5,991.0
+7:12.0, ,39-34,Turnover by C. Paul (bad pass; steal by V. Oladipo),,2,39,34,5,1008.0
+7:12.0, ,39-34,Clear path foul by V. Oladipo,,2,39,34,5,1008.0
+7:12.0, ,39-34,Instant Replay (Request: Ruling Stands),,2,39,34,5,1008.0
+7:12.0,V. Oladipo misses clear path free throw 1 of 2,39-34, ,,2,39,34,5,1008.0
+7:12.0,Offensive rebound by Team,39-34, ,,2,39,34,5,1008.0
+7:12.0,V. Oladipo makes clear path free throw 2 of 2,40-34, ,,2,40,34,6,1008.0
+7:12.0,J. Butler enters the game for B. Adebayo,40-34, ,,2,40,34,6,1008.0
+7:12.0,D. Dedmon enters the game for H. Highsmith,40-34, ,,2,40,34,6,1008.0
+7:12.0,K. Lowry enters the game for M. Strus,40-34, ,,2,40,34,6,1008.0
+7:12.0, ,40-34,M. Bridges enters the game for D. Lee,,2,40,34,6,1008.0
+7:12.0, ,40-34,T. Craig enters the game for I. Wainright,,2,40,34,6,1008.0
+6:53.0,V. Oladipo misses 3-pt jump shot from 25 ft,40-34, ,,2,40,34,6,1027.0
+6:49.0, ,40-34,Defensive rebound by D. Ayton,,2,40,34,6,1031.0
+6:41.0, ,40-34,D. Ayton misses 2-pt jump shot from 18 ft,,2,40,34,6,1039.0
+6:40.0,Defensive rebound by J. Butler,40-34, ,,2,40,34,6,1040.0
+6:29.0,G. Vincent misses 3-pt jump shot from 23 ft,40-34, ,,2,40,34,6,1051.0
+6:27.0, ,40-34,Defensive rebound by D. Ayton,,2,40,34,6,1053.0
+6:20.0, ,40-34,L. Shamet misses 2-pt jump shot from 21 ft,,2,40,34,6,1060.0
+6:16.0,Defensive rebound by K. Lowry,40-34, ,,2,40,34,6,1064.0
+6:07.0,K. Lowry makes 2-pt jump shot from 12 ft,42-34, ,,2,42,34,8,1073.0
+5:52.0, ,42-34,T. Craig misses 3-pt jump shot from 24 ft,,2,42,34,8,1088.0
+5:50.0,Defensive rebound by D. Dedmon,42-34, ,,2,42,34,8,1090.0
+5:43.0,Turnover by V. Oladipo (lost ball; steal by C. Paul),42-34, ,,2,42,34,8,1097.0
+5:40.0, ,42-34,Shooting foul by K. Lowry (drawn by M. Bridges),,2,42,34,8,1100.0
+5:40.0, ,42-35,M. Bridges makes free throw 1 of 2,,2,42,35,7,1100.0
+5:40.0, ,42-36,M. Bridges makes free throw 2 of 2,,2,42,36,6,1100.0
+5:28.0,G. Vincent misses 3-pt jump shot from 25 ft,42-36, ,,2,42,36,6,1112.0
+5:26.0,Offensive rebound by D. Dedmon,42-36, ,,2,42,36,6,1114.0
+5:24.0,K. Lowry misses 3-pt jump shot from 23 ft,42-36, ,,2,42,36,6,1116.0
+5:22.0, ,42-36,Defensive rebound by L. Shamet,,2,42,36,6,1118.0
+5:16.0, ,42-36,Turnover by T. Craig (bad pass),,2,42,36,6,1124.0
+4:58.0,Shooting foul by T. Craig (drawn by J. Butler),42-36, ,,2,42,36,6,1142.0
+4:58.0,J. Butler makes free throw 1 of 2,43-36, ,,2,43,36,7,1142.0
+4:58.0, ,43-36,D. Washington enters the game for C. Paul,,2,43,36,7,1142.0
+4:58.0,J. Butler makes free throw 2 of 2,44-36, ,,2,44,36,8,1142.0
+4:44.0, ,44-38,D. Ayton makes 2-pt jump shot from 13 ft (assist by D. Washington),,2,44,38,6,1156.0
+4:24.0,G. Vincent misses 3-pt jump shot from 23 ft,44-38, ,,2,44,38,6,1176.0
+4:21.0, ,44-38,Defensive rebound by D. Ayton,,2,44,38,6,1179.0
+4:10.0, ,44-40,D. Washington makes 2-pt jump shot from 18 ft,,2,44,40,4,1190.0
+3:57.0,K. Lowry misses 3-pt jump shot from 24 ft,44-40, ,,2,44,40,4,1203.0
+3:53.0, ,44-40,Defensive rebound by T. Craig,,2,44,40,4,1207.0
+3:32.0, ,44-40,M. Bridges misses 2-pt layup from 2 ft,,2,44,40,4,1228.0
+3:30.0, ,44-40,Offensive rebound by T. Craig,,2,44,40,4,1230.0
+3:30.0, ,44-42,T. Craig makes 2-pt layup at rim,,2,44,42,2,1230.0
+3:30.0,Miami full timeout,44-42, ,,2,44,42,2,1230.0
+3:30.0,B. Adebayo enters the game for D. Dedmon,44-42, ,,2,44,42,2,1230.0
+3:30.0,M. Strus enters the game for V. Oladipo,44-42, ,,2,44,42,2,1230.0
+3:18.0,K. Lowry misses 2-pt layup from 4 ft (block by T. Craig),44-42, ,,2,44,42,2,1242.0
+3:18.0,Offensive rebound by Team,44-42, ,,2,44,42,2,1242.0
+3:09.0,J. Butler misses 2-pt jump shot from 15 ft,44-42, ,,2,44,42,2,1251.0
+3:04.0, ,44-42,Defensive rebound by D. Ayton,,2,44,42,2,1256.0
+2:53.0, ,44-42,D. Washington misses 2-pt jump shot from 16 ft,,2,44,42,2,1267.0
+2:50.0,Defensive rebound by K. Lowry,44-42, ,,2,44,42,2,1270.0
+2:29.0,B. Adebayo misses 2-pt jump shot from 14 ft,44-42, ,,2,44,42,2,1291.0
+2:27.0, ,44-42,Defensive rebound by T. Craig,,2,44,42,2,1293.0
+2:17.0, ,44-42,Shooting foul by J. Butler (drawn by M. Bridges),,2,44,42,2,1303.0
+2:17.0, ,44-43,M. Bridges makes free throw 1 of 2,,2,44,43,1,1303.0
+2:17.0, ,44-44,M. Bridges makes free throw 2 of 2,Tie,2,44,44,0,1303.0
+1:59.0,B. Adebayo makes 2-pt jump shot from 14 ft (assist by K. Lowry),46-44, ,,2,46,44,2,1321.0
+1:37.0,Violation by Team (kicked ball),46-44, ,,2,46,44,2,1343.0
+1:37.0,V. Oladipo enters the game for G. Vincent,46-44, ,,2,46,44,2,1343.0
+1:29.0, ,46-44,Turnover by D. Ayton (bad pass; steal by B. Adebayo),,2,46,44,2,1351.0
+1:25.0,Turnover by V. Oladipo (bad pass; steal by M. Bridges),46-44, ,,2,46,44,2,1355.0
+1:20.0, ,46-44,D. Washington misses 3-pt jump shot from 26 ft,,2,46,44,2,1360.0
+1:19.0,Defensive rebound by Team,46-44, ,,2,46,44,2,1361.0
+1:07.0,Def 3 sec tech foul by Team,46-44, ,,2,46,44,2,1373.0
+1:07.0,J. Butler makes technical free throw,47-44, ,,2,47,44,3,1373.0
+0:57.0,Personal foul by T. Craig (drawn by J. Butler),47-44, ,,2,47,44,3,1383.0
+0:57.0,J. Butler makes free throw 1 of 2,48-44, ,,2,48,44,4,1383.0
+0:57.0,J. Butler makes free throw 2 of 2,49-44, ,,2,49,44,5,1383.0
+0:34.0, ,49-44,D. Washington misses 3-pt jump shot from 29 ft,,2,49,44,5,1406.0
+0:30.0,Defensive rebound by B. Adebayo,49-44, ,,2,49,44,5,1410.0
+0:23.0,J. Butler makes 2-pt layup from 2 ft (assist by K. Lowry),51-44, ,,2,51,44,7,1417.0
+0:04.0, ,51-44,D. Washington misses 2-pt jump shot from 18 ft,,2,51,44,7,1436.0
+0:04.0, ,51-44,Offensive rebound by T. Craig,,2,51,44,7,1436.0
+0:00.0, ,51-44,T. Craig misses 2-pt layup at rim,,2,51,44,7,1440.0
+0:00.0, ,51-44,Offensive rebound by T. Craig,,2,51,44,7,1440.0
+0:00.0, ,51-46,T. Craig makes 2-pt layup at rim,,2,51,46,5,1440.0
+0:00.0, ,51-46,Instant Replay (Request: Ruling Stands),,2,51,46,5,1440.0
+0:00.0,End of 2nd quarter,51-46,,,2,51,46,5,1440.0
+12:00.0,Start of 3rd quarter,51-46,,,3,51,46,5,1440.0
+11:42.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by J. Butler),54-46, ,,3,54,46,8,1458.0
+11:22.0, ,54-46,L. Shamet misses 2-pt layup from 3 ft,,3,54,46,8,1478.0
+11:20.0,Defensive rebound by H. Highsmith,54-46, ,,3,54,46,8,1480.0
+11:12.0,K. Lowry makes 2-pt jump shot from 18 ft (assist by J. Butler),56-46, ,,3,56,46,10,1488.0
+11:12.0,Shooting foul by L. Shamet (drawn by K. Lowry),56-46, ,,3,56,46,10,1488.0
+11:12.0,K. Lowry makes free throw 1 of 1,57-46, ,,3,57,46,11,1488.0
+10:58.0, ,57-46,D. Ayton misses 2-pt hook shot from 9 ft,,3,57,46,11,1502.0
+10:56.0,Defensive rebound by J. Butler,57-46, ,,3,57,46,11,1504.0
+10:45.0,M. Strus misses 3-pt jump shot from 26 ft,57-46, ,,3,57,46,11,1515.0
+10:40.0, ,57-46,Defensive rebound by D. Lee,,3,57,46,11,1520.0
+10:28.0, ,57-48,D. Ayton makes 2-pt layup from 6 ft (assist by L. Shamet),,3,57,48,9,1532.0
+10:09.0,M. Strus misses 2-pt jump shot from 12 ft,57-48, ,,3,57,48,9,1551.0
+10:06.0, ,57-48,Defensive rebound by D. Ayton,,3,57,48,9,1554.0
+10:00.0, ,57-48,M. Bridges misses 3-pt jump shot from 23 ft,,3,57,48,9,1560.0
+10:00.0,Defensive rebound by B. Adebayo,57-48, ,,3,57,48,9,1560.0
+9:53.0,Shooting foul by M. Bridges (drawn by K. Lowry),57-48, ,,3,57,48,9,1567.0
+9:53.0,K. Lowry makes free throw 1 of 2,58-48, ,,3,58,48,10,1567.0
+9:53.0,K. Lowry makes free throw 2 of 2,59-48, ,,3,59,48,11,1567.0
+9:39.0, ,59-48,Turnover by L. Shamet (bad pass; steal by J. Butler),,3,59,48,11,1581.0
+9:36.0,J. Butler makes 2-pt layup from 2 ft,61-48, ,,3,61,48,13,1584.0
+9:36.0, ,61-48,Phoenix full timeout,,3,61,48,13,1584.0
+9:23.0, ,61-50,D. Ayton makes 2-pt layup from 3 ft (assist by L. Shamet),,3,61,50,11,1597.0
+9:09.0,Personal foul by D. Lee (drawn by B. Adebayo),61-50, ,,3,61,50,11,1611.0
+8:59.0,K. Lowry misses 3-pt jump shot from 25 ft,61-50, ,,3,61,50,11,1621.0
+8:56.0, ,61-50,Defensive rebound by L. Shamet,,3,61,50,11,1624.0
+8:35.0, ,61-50,D. Lee misses 3-pt jump shot from 25 ft,,3,61,50,11,1645.0
+8:32.0,Defensive rebound by M. Strus,61-50, ,,3,61,50,11,1648.0
+8:13.0,M. Strus misses 3-pt jump shot from 27 ft,61-50, ,,3,61,50,11,1667.0
+8:09.0, ,61-50,Defensive rebound by D. Lee,,3,61,50,11,1671.0
+8:01.0, ,61-52,L. Shamet makes 2-pt layup from 4 ft (assist by D. Lee),,3,61,52,9,1679.0
+7:40.0,B. Adebayo makes 2-pt layup from 4 ft (assist by M. Strus),63-52, ,,3,63,52,11,1700.0
+7:25.0, ,63-52,T. Craig misses 2-pt layup from 4 ft,,3,63,52,11,1715.0
+7:23.0,Defensive rebound by J. Butler,63-52, ,,3,63,52,11,1717.0
+7:20.0,Personal foul by D. Lee (drawn by B. Adebayo),63-52, ,,3,63,52,11,1720.0
+7:20.0, ,63-52,I. Wainright enters the game for D. Lee,,3,63,52,11,1720.0
+7:20.0, ,63-52,D. Washington enters the game for L. Shamet,,3,63,52,11,1720.0
+7:15.0,B. Adebayo makes 2-pt jump shot from 16 ft,65-52, ,,3,65,52,13,1725.0
+6:52.0, ,65-54,T. Craig makes 2-pt layup from 3 ft (assist by D. Ayton),,3,65,54,11,1748.0
+6:24.0,K. Lowry misses 3-pt jump shot from 27 ft,65-54, ,,3,65,54,11,1776.0
+6:21.0,Offensive rebound by B. Adebayo,65-54, ,,3,65,54,11,1779.0
+6:21.0,Shooting foul by T. Craig (drawn by B. Adebayo),65-54, ,,3,65,54,11,1779.0
+6:21.0,B. Adebayo misses free throw 1 of 2,65-54, ,,3,65,54,11,1779.0
+6:21.0,Offensive rebound by Team,65-54, ,,3,65,54,11,1779.0
+6:21.0,B. Adebayo misses free throw 2 of 2,65-54, ,,3,65,54,11,1779.0
+6:19.0, ,65-54,Defensive rebound by T. Craig,,3,65,54,11,1781.0
+6:08.0, ,65-54,D. Washington misses 2-pt jump shot from 11 ft,,3,65,54,11,1792.0
+6:06.0,Defensive rebound by Team,65-54, ,,3,65,54,11,1794.0
+5:48.0,M. Strus misses 3-pt jump shot from 23 ft,65-54, ,,3,65,54,11,1812.0
+5:46.0, ,65-54,Defensive rebound by T. Craig,,3,65,54,11,1814.0
+5:46.0,D. Dedmon enters the game for B. Adebayo,65-54, ,,3,65,54,11,1814.0
+5:46.0,V. Oladipo enters the game for H. Highsmith,65-54, ,,3,65,54,11,1814.0
+5:46.0,G. Vincent enters the game for M. Strus,65-54, ,,3,65,54,11,1814.0
+5:37.0, ,65-54,D. Ayton misses 2-pt jump shot from 15 ft,,3,65,54,11,1823.0
+5:33.0,Defensive rebound by J. Butler,65-54, ,,3,65,54,11,1827.0
+5:16.0,V. Oladipo makes 3-pt jump shot from 23 ft (assist by G. Vincent),68-54, ,,3,68,54,14,1844.0
+5:01.0, ,68-56,T. Craig makes 2-pt layup from 2 ft (assist by M. Bridges),,3,68,56,12,1859.0
+5:01.0, ,68-56,Shooting foul by D. Dedmon (drawn by T. Craig),,3,68,56,12,1859.0
+5:01.0, ,68-57,T. Craig makes free throw 1 of 1,,3,68,57,11,1859.0
+4:50.0,Shooting foul by D. Ayton (drawn by J. Butler),68-57, ,,3,68,57,11,1870.0
+4:50.0,J. Butler makes free throw 1 of 2,69-57, ,,3,69,57,12,1870.0
+4:50.0,J. Butler makes free throw 2 of 2,70-57, ,,3,70,57,13,1870.0
+4:35.0, ,70-59,D. Ayton makes 2-pt jump shot from 12 ft (assist by D. Washington),,3,70,59,11,1885.0
+4:28.0,Offensive foul by D. Dedmon (drawn by I. Wainright),70-59, ,,3,70,59,11,1892.0
+4:28.0,Turnover by D. Dedmon (offensive foul),70-59, ,,3,70,59,11,1892.0
+4:19.0, ,70-59,D. Washington misses 3-pt jump shot from 24 ft,,3,70,59,11,1901.0
+4:19.0, ,70-59,Offensive rebound by Team,,3,70,59,11,1901.0
+4:12.0, ,70-61,T. Craig makes 2-pt layup from 1 ft (assist by D. Washington),,3,70,61,9,1908.0
+3:51.0,K. Lowry misses 3-pt jump shot from 23 ft,70-61, ,,3,70,61,9,1929.0
+3:48.0, ,70-61,Defensive rebound by D. Ayton,,3,70,61,9,1932.0
+3:41.0, ,70-63,D. Washington makes 2-pt jump shot from 13 ft,,3,70,63,7,1939.0
+3:40.0,Miami full timeout,70-63, ,,3,70,63,7,1940.0
+3:18.0,Turnover by J. Butler (out of bounds lost ball),70-63, ,,3,70,63,7,1962.0
+3:00.0, ,70-63,D. Ayton misses 2-pt jump shot from 11 ft,,3,70,63,7,1980.0
+2:58.0, ,70-63,Offensive rebound by D. Ayton,,3,70,63,7,1982.0
+2:58.0, ,70-63,Shooting foul by V. Oladipo (drawn by D. Ayton),,3,70,63,7,1982.0
+2:58.0, ,70-64,D. Ayton makes free throw 1 of 2,,3,70,64,6,1982.0
+2:58.0, ,70-65,D. Ayton makes free throw 2 of 2,,3,70,65,5,1982.0
+2:48.0,G. Vincent misses 2-pt layup from 2 ft,70-65, ,,3,70,65,5,1992.0
+2:44.0,Offensive rebound by D. Dedmon,70-65, ,,3,70,65,5,1996.0
+2:44.0,D. Dedmon makes 2-pt layup at rim,72-65, ,,3,72,65,7,1996.0
+2:31.0, ,72-65,D. Ayton misses 2-pt layup from 1 ft (block by K. Lowry),,3,72,65,7,2009.0
+2:28.0,Defensive rebound by D. Dedmon,72-65, ,,3,72,65,7,2012.0
+2:11.0,V. Oladipo makes 2-pt layup from 3 ft (assist by J. Butler),74-65, ,,3,74,65,9,2029.0
+2:01.0, ,74-65,Shooting foul by V. Oladipo (drawn by M. Bridges),,3,74,65,9,2039.0
+2:01.0, ,74-66,M. Bridges makes free throw 1 of 2,,3,74,66,8,2039.0
+2:01.0,B. Adebayo enters the game for J. Butler,74-66, ,,3,74,66,8,2039.0
+2:01.0,H. Highsmith enters the game for D. Dedmon,74-66, ,,3,74,66,8,2039.0
+2:01.0,M. Strus enters the game for K. Lowry,74-66, ,,3,74,66,8,2039.0
+2:01.0, ,74-66,J. Landale enters the game for D. Ayton,,3,74,66,8,2039.0
+2:01.0, ,74-66,J. Okogie enters the game for T. Craig,,3,74,66,8,2039.0
+2:01.0, ,74-67,M. Bridges makes free throw 2 of 2,,3,74,67,7,2039.0
+1:42.0,H. Highsmith misses 2-pt jump shot from 14 ft,74-67, ,,3,74,67,7,2058.0
+1:39.0, ,74-67,Defensive rebound by J. Landale,,3,74,67,7,2061.0
+1:27.0, ,74-70,D. Washington makes 3-pt jump shot from 26 ft (assist by M. Bridges),,3,74,70,4,2073.0
+1:10.0,G. Vincent misses 2-pt jump shot from 11 ft,74-70, ,,3,74,70,4,2090.0
+1:07.0, ,74-70,Defensive rebound by J. Landale,,3,74,70,4,2093.0
+1:04.0, ,74-70,Shooting foul by M. Strus (drawn by D. Washington),,3,74,70,4,2096.0
+1:04.0, ,74-71,D. Washington makes free throw 1 of 2,,3,74,71,3,2096.0
+1:04.0, ,74-72,D. Washington makes free throw 2 of 2,,3,74,72,2,2096.0
+0:43.0,B. Adebayo misses 2-pt jump shot from 14 ft,74-72, ,,3,74,72,2,2117.0
+0:42.0, ,74-72,Defensive rebound by J. Okogie,,3,74,72,2,2118.0
+0:39.0, ,74-72,Personal foul by G. Vincent (drawn by J. Okogie),,3,74,72,2,2121.0
+0:39.0, ,74-72,J. Okogie misses free throw 1 of 2,,3,74,72,2,2121.0
+0:39.0, ,74-72,Offensive rebound by Team,,3,74,72,2,2121.0
+0:39.0, ,74-73,J. Okogie makes free throw 2 of 2,,3,74,73,1,2121.0
+0:30.0,Shooting foul by J. Landale (drawn by V. Oladipo),74-73, ,,3,74,73,1,2130.0
+0:30.0,V. Oladipo makes free throw 1 of 2,75-73, ,,3,75,73,2,2130.0
+0:30.0, ,75-73,L. Shamet enters the game for J. Okogie,,3,75,73,2,2130.0
+0:30.0,V. Oladipo makes free throw 2 of 2,76-73, ,,3,76,73,3,2130.0
+0:12.0, ,76-73,L. Shamet misses 3-pt jump shot from 24 ft,,3,76,73,3,2148.0
+0:08.0,Defensive rebound by H. Highsmith,76-73, ,,3,76,73,3,2152.0
+0:00.0,V. Oladipo makes 2-pt layup from 3 ft,78-73, ,,3,78,73,5,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),78-73, ,,3,78,73,5,2160.0
+0:00.0,End of 3rd quarter,78-73,,,3,78,73,5,2160.0
+12:00.0,Start of 4th quarter,78-73,,,4,78,73,5,2160.0
+11:38.0, ,78-73,Turnover by L. Shamet (lost ball; steal by B. Adebayo),,4,78,73,5,2182.0
+11:38.0,Turnover by M. Strus (step out of bounds),78-73, ,,4,78,73,5,2182.0
+11:32.0, ,78-73,D. Washington misses 2-pt jump shot from 12 ft,,4,78,73,5,2188.0
+11:28.0,Defensive rebound by G. Vincent,78-73, ,,4,78,73,5,2192.0
+11:06.0,V. Oladipo misses 2-pt jump shot from 13 ft,78-73, ,,4,78,73,5,2214.0
+10:57.0,Offensive rebound by Team,78-73, ,,4,78,73,5,2223.0
+10:56.0,Turnover by Team (shot clock),78-73, ,,4,78,73,5,2224.0
+10:53.0, ,78-73,J. Landale misses 2-pt hook shot from 8 ft,,4,78,73,5,2227.0
+10:51.0,Defensive rebound by B. Adebayo,78-73, ,,4,78,73,5,2229.0
+10:43.0,B. Adebayo makes 2-pt jump shot from 8 ft,80-73, ,,4,80,73,7,2237.0
+10:22.0, ,80-73,M. Bridges misses 3-pt jump shot from 25 ft,,4,80,73,7,2258.0
+10:16.0, ,80-73,Offensive rebound by I. Wainright,,4,80,73,7,2264.0
+10:16.0, ,80-73,I. Wainright misses 2-pt dunk at rim,,4,80,73,7,2264.0
+10:15.0,Defensive rebound by G. Vincent,80-73, ,,4,80,73,7,2265.0
+10:08.0,B. Adebayo makes 2-pt jump shot from 9 ft (assist by V. Oladipo),82-73, ,,4,82,73,9,2272.0
+9:52.0, ,82-73,M. Bridges misses 2-pt jump shot from 15 ft,,4,82,73,9,2288.0
+9:49.0, ,82-73,Offensive rebound by M. Bridges,,4,82,73,9,2291.0
+9:49.0, ,82-75,M. Bridges makes 2-pt layup at rim,,4,82,75,7,2291.0
+9:42.0,H. Highsmith misses 3-pt jump shot from 23 ft (block by I. Wainright),82-75, ,,4,82,75,7,2298.0
+9:40.0,Offensive rebound by Team,82-75, ,,4,82,75,7,2300.0
+9:40.0, ,82-75,D. Lee enters the game for M. Bridges,,4,82,75,7,2300.0
+9:37.0,V. Oladipo misses 3-pt jump shot from 25 ft,82-75, ,,4,82,75,7,2303.0
+9:35.0, ,82-75,Defensive rebound by D. Washington,,4,82,75,7,2305.0
+9:19.0, ,82-75,D. Washington misses 2-pt jump shot from 11 ft,,4,82,75,7,2321.0
+9:17.0,Defensive rebound by B. Adebayo,82-75, ,,4,82,75,7,2323.0
+9:14.0,Shooting foul by I. Wainright (drawn by B. Adebayo),82-75, ,,4,82,75,7,2326.0
+9:14.0,B. Adebayo misses free throw 1 of 2,82-75, ,,4,82,75,7,2326.0
+9:14.0,Offensive rebound by Team,82-75, ,,4,82,75,7,2326.0
+9:14.0,B. Adebayo makes free throw 2 of 2,83-75, ,,4,83,75,8,2326.0
+8:54.0, ,83-75,I. Wainright misses 3-pt jump shot from 23 ft,,4,83,75,8,2346.0
+8:49.0,Defensive rebound by H. Highsmith,83-75, ,,4,83,75,8,2351.0
+8:46.0,Shooting foul by I. Wainright (drawn by V. Oladipo),83-75, ,,4,83,75,8,2354.0
+8:46.0,V. Oladipo makes free throw 1 of 2,84-75, ,,4,84,75,9,2354.0
+8:46.0, ,84-75,D. Ayton enters the game for J. Landale,,4,84,75,9,2354.0
+8:46.0, ,84-75,T. Craig enters the game for I. Wainright,,4,84,75,9,2354.0
+8:46.0,V. Oladipo makes free throw 2 of 2,85-75, ,,4,85,75,10,2354.0
+8:35.0, ,85-75,D. Lee misses 3-pt jump shot from 29 ft,,4,85,75,10,2365.0
+8:31.0,Defensive rebound by G. Vincent,85-75, ,,4,85,75,10,2369.0
+8:16.0,H. Highsmith misses 3-pt jump shot from 23 ft,85-75, ,,4,85,75,10,2384.0
+8:13.0, ,85-75,Defensive rebound by T. Craig,,4,85,75,10,2387.0
+8:04.0, ,85-75,T. Craig misses 2-pt jump shot from 5 ft,,4,85,75,10,2396.0
+8:04.0, ,85-75,Offensive rebound by Team,,4,85,75,10,2396.0
+8:01.0, ,85-75,Turnover by D. Washington (bad pass; steal by H. Highsmith),,4,85,75,10,2399.0
+8:00.0,Shooting foul by T. Craig (drawn by V. Oladipo),85-75, ,,4,85,75,10,2400.0
+8:00.0, ,85-75,Phoenix full timeout,,4,85,75,10,2400.0
+8:00.0, ,85-75,Instant Replay (Challenge: Stands),,4,85,75,10,2400.0
+8:00.0,V. Oladipo makes free throw 1 of 2,86-75, ,,4,86,75,11,2400.0
+8:00.0,V. Oladipo makes free throw 2 of 2,87-75, ,,4,87,75,12,2400.0
+7:48.0, ,87-75,Turnover by D. Washington (lost ball; steal by V. Oladipo),,4,87,75,12,2412.0
+7:45.0,V. Oladipo makes 2-pt dunk from 1 ft,89-75, ,,4,89,75,14,2415.0
+7:31.0, ,89-77,D. Ayton makes 2-pt jump shot from 15 ft (assist by D. Washington),,4,89,77,12,2429.0
+7:18.0,Turnover by V. Oladipo (lost ball; steal by D. Washington),89-77, ,,4,89,77,12,2442.0
+7:18.0, ,89-77,M. Bridges enters the game for D. Washington,,4,89,77,12,2442.0
+6:54.0, ,89-79,D. Ayton makes 2-pt jump shot from 8 ft (assist by T. Craig),,4,89,79,10,2466.0
+6:29.0,G. Vincent misses 3-pt jump shot from 28 ft,89-79, ,,4,89,79,10,2491.0
+6:28.0, ,89-79,Defensive rebound by Team,,4,89,79,10,2492.0
+6:17.0, ,89-82,L. Shamet makes 3-pt jump shot from 25 ft,,4,89,82,7,2503.0
+6:15.0,Miami full timeout,89-82, ,,4,89,82,7,2505.0
+6:15.0,J. Butler enters the game for H. Highsmith,89-82, ,,4,89,82,7,2505.0
+6:15.0,K. Lowry enters the game for G. Vincent,89-82, ,,4,89,82,7,2505.0
+5:54.0,M. Strus makes 3-pt jump shot from 23 ft (assist by V. Oladipo),92-82, ,,4,92,82,10,2526.0
+5:54.0,Shooting foul by D. Lee (drawn by M. Strus),92-82, ,,4,92,82,10,2526.0
+5:54.0,M. Strus makes free throw 1 of 1,93-82, ,,4,93,82,11,2526.0
+5:37.0, ,93-82,Turnover by L. Shamet (out of bounds lost ball),,4,93,82,11,2543.0
+5:16.0,B. Adebayo misses 2-pt jump shot from 13 ft,93-82, ,,4,93,82,11,2564.0
+5:11.0, ,93-82,Defensive rebound by D. Ayton,,4,93,82,11,2569.0
+5:01.0, ,93-82,Turnover by M. Bridges (bad pass; steal by M. Strus),,4,93,82,11,2579.0
+4:52.0,M. Strus makes 3-pt jump shot from 29 ft (assist by J. Butler),96-82, ,,4,96,82,14,2588.0
+4:50.0, ,96-82,Phoenix full timeout,,4,96,82,14,2590.0
+4:49.0, ,96-82,Violation by Team (delay of game),,4,96,82,14,2591.0
+4:35.0, ,96-82,D. Ayton misses 2-pt hook shot from 1 ft,,4,96,82,14,2605.0
+4:31.0,Defensive rebound by M. Strus,96-82, ,,4,96,82,14,2609.0
+4:10.0,J. Butler misses 2-pt layup from 9 ft,96-82, ,,4,96,82,14,2630.0
+4:09.0, ,96-82,Defensive rebound by D. Ayton,,4,96,82,14,2631.0
+3:58.0, ,96-85,M. Bridges makes 3-pt jump shot from 23 ft (assist by D. Ayton),,4,96,85,11,2642.0
+3:40.0,Turnover by J. Butler (out of bounds lost ball),96-85, ,,4,96,85,11,2660.0
+3:34.0, ,96-85,Personal foul by K. Lowry (drawn by D. Ayton),,4,96,85,11,2666.0
+3:23.0, ,96-87,D. Lee makes 2-pt layup from 2 ft (assist by M. Bridges),,4,96,87,9,2677.0
+3:23.0,Miami full timeout,96-87, ,,4,96,87,9,2677.0
+3:05.0,J. Butler makes 2-pt jump shot from 12 ft,98-87, ,,4,98,87,11,2695.0
+2:51.0, ,98-87,Shooting foul by K. Lowry (drawn by L. Shamet),,4,98,87,11,2709.0
+2:51.0,Miami full timeout,98-87, ,,4,98,87,11,2709.0
+2:51.0,Instant Replay (Challenge: Ruling Stands),98-87, ,,4,98,87,11,2709.0
+2:51.0, ,98-88,L. Shamet makes free throw 1 of 3,,4,98,88,10,2709.0
+2:51.0, ,98-88,L. Shamet misses free throw 2 of 3,,4,98,88,10,2709.0
+2:51.0, ,98-88,Offensive rebound by Team,,4,98,88,10,2709.0
+2:51.0, ,98-89,L. Shamet makes free throw 3 of 3,,4,98,89,9,2709.0
+2:39.0,Personal foul by T. Craig (drawn by V. Oladipo),98-89, ,,4,98,89,9,2721.0
+2:39.0,V. Oladipo misses free throw 1 of 2,98-89, ,,4,98,89,9,2721.0
+2:39.0,Offensive rebound by Team,98-89, ,,4,98,89,9,2721.0
+2:39.0,V. Oladipo makes free throw 2 of 2,99-89, ,,4,99,89,10,2721.0
+2:30.0, ,99-91,D. Ayton makes 2-pt hook shot from 9 ft (assist by L. Shamet),,4,99,91,8,2730.0
+2:09.0,Turnover by B. Adebayo (traveling),99-91, ,,4,99,91,8,2751.0
+1:58.0, ,99-91,L. Shamet misses 2-pt layup from 3 ft,,4,99,91,8,2762.0
+1:58.0, ,99-91,Offensive rebound by D. Ayton,,4,99,91,8,2762.0
+1:58.0, ,99-91,Shooting foul by V. Oladipo (drawn by D. Ayton),,4,99,91,8,2762.0
+1:58.0, ,99-91,D. Ayton misses free throw 1 of 2,,4,99,91,8,2762.0
+1:58.0, ,99-91,Offensive rebound by Team,,4,99,91,8,2762.0
+1:58.0, ,99-92,D. Ayton makes free throw 2 of 2,,4,99,92,7,2762.0
+1:36.0,V. Oladipo makes 3-pt jump shot from 26 ft,102-92, ,,4,102,92,10,2784.0
+1:34.0, ,102-92,Personal foul by K. Lowry (drawn by M. Bridges),,4,102,92,10,2786.0
+1:34.0, ,102-93,M. Bridges makes free throw 1 of 2,,4,102,93,9,2786.0
+1:34.0, ,102-94,M. Bridges makes free throw 2 of 2,,4,102,94,8,2786.0
+1:17.0,J. Butler misses 2-pt jump shot from 13 ft,102-94, ,,4,102,94,8,2803.0
+1:14.0, ,102-94,Defensive rebound by D. Ayton,,4,102,94,8,2806.0
+1:10.0, ,102-96,L. Shamet makes 2-pt layup from 5 ft,,4,102,96,6,2810.0
+0:53.0,K. Lowry misses 3-pt jump shot from 26 ft,102-96, ,,4,102,96,6,2827.0
+0:51.0, ,102-96,Defensive rebound by D. Lee,,4,102,96,6,2829.0
+0:51.0, ,102-96,Phoenix full timeout,,4,102,96,6,2829.0
+0:50.0, ,102-96,Turnover by M. Bridges (bad pass),,4,102,96,6,2830.0
+0:28.0,M. Strus misses 3-pt jump shot from 27 ft,102-96, ,,4,102,96,6,2852.0
+0:24.0,Offensive rebound by V. Oladipo,102-96, ,,4,102,96,6,2856.0
+0:18.0,Personal foul by D. Lee (drawn by M. Strus),102-96, ,,4,102,96,6,2862.0
+0:18.0, ,102-96,D. Washington enters the game for D. Lee,,4,102,96,6,2862.0
+0:18.0,M. Strus makes free throw 1 of 2,103-96, ,,4,103,96,7,2862.0
+0:18.0,M. Strus makes free throw 2 of 2,104-96, ,,4,104,96,8,2862.0
+0:05.0, ,104-96,Turnover by D. Washington (bad pass; steal by J. Butler),,4,104,96,8,2875.0
+0:00.0,End of 4th quarter,104-96,,,4,104,96,8,2880.0

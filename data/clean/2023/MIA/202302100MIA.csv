@@ -1,0 +1,475 @@
+Time,Houston,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Smith vs. B. Adebayo (C. Martin gains possession),0-0,,,1,0,0,0,0.0
+11:41.0, ,0-0,T. Herro misses 2-pt layup from 5 ft (block by K. Martin),,1,0,0,0,19.0
+11:37.0,Defensive rebound by K. Martin,0-0, ,,1,0,0,0,23.0
+11:24.0,J. Tate misses 2-pt layup from 3 ft,0-0, ,,1,0,0,0,36.0
+11:24.0,Offensive rebound by Team,0-0, ,,1,0,0,0,36.0
+11:17.0,J. Green misses 3-pt jump shot from 23 ft,0-0, ,,1,0,0,0,43.0
+11:14.0, ,0-0,Defensive rebound by C. Martin,,1,0,0,0,46.0
+11:03.0, ,0-3,C. Martin makes 3-pt jump shot from 23 ft (assist by T. Herro),,1,3,0,3,57.0
+10:37.0,K. Martin makes 3-pt jump shot from 24 ft (assist by J. Green),3-3, ,Tie,1,3,3,0,83.0
+10:20.0, ,3-6,T. Herro makes 3-pt jump shot from 27 ft (assist by G. Vincent),,1,6,3,3,100.0
+10:06.0,J. Smith makes 3-pt jump shot from 23 ft (assist by K. Martin),6-6, ,Tie,1,6,6,0,114.0
+9:56.0, ,6-9,C. Martin makes 3-pt jump shot from 26 ft (assist by T. Herro),,1,9,6,3,124.0
+9:44.0,J. Green misses 3-pt jump shot from 26 ft,6-9, ,,1,9,6,3,136.0
+9:41.0, ,6-9,Defensive rebound by C. Martin,,1,9,6,3,139.0
+9:36.0, ,6-9,C. Martin misses 3-pt jump shot from 26 ft,,1,9,6,3,144.0
+9:31.0,Defensive rebound by K. Martin,6-9, ,,1,9,6,3,149.0
+9:22.0,A. Sengun misses 2-pt layup from 2 ft (block by C. Martin),6-9, ,,1,9,6,3,158.0
+9:17.0, ,6-9,Defensive rebound by C. Martin,,1,9,6,3,163.0
+9:10.0, ,6-9,Turnover by J. Butler (bad pass; steal by J. Green),,1,9,6,3,170.0
+9:04.0,J. Green misses 2-pt layup from 4 ft (block by J. Butler),6-9, ,,1,9,6,3,176.0
+9:04.0, ,6-9,Defensive rebound by T. Herro,,1,9,6,3,176.0
+8:56.0, ,6-11,B. Adebayo makes 2-pt dunk from 2 ft (assist by T. Herro),,1,11,6,5,184.0
+8:32.0,A. Sengun misses 2-pt hook shot from 6 ft,6-11, ,,1,11,6,5,208.0
+8:28.0, ,6-11,Defensive rebound by B. Adebayo,,1,11,6,5,212.0
+8:20.0, ,6-11,T. Herro misses 3-pt jump shot from 28 ft,,1,11,6,5,220.0
+8:17.0,Defensive rebound by J. Green,6-11, ,,1,11,6,5,223.0
+8:14.0,K. Martin misses 2-pt layup from 4 ft,6-11, ,,1,11,6,5,226.0
+8:13.0, ,6-11,Defensive rebound by C. Martin,,1,11,6,5,227.0
+8:09.0, ,6-11,C. Martin misses 2-pt layup from 4 ft,,1,11,6,5,231.0
+8:09.0, ,6-11,Offensive rebound by B. Adebayo,,1,11,6,5,231.0
+8:09.0, ,6-13,B. Adebayo makes 2-pt layup at rim,,1,13,6,7,231.0
+7:46.0,Shooting foul by B. Adebayo (drawn by A. Sengun),6-13, ,,1,13,6,7,254.0
+7:46.0,A. Sengun makes free throw 1 of 2,7-13, ,,1,13,7,6,254.0
+7:46.0,A. Sengun makes free throw 2 of 2,8-13, ,,1,13,8,5,254.0
+7:24.0, ,8-13,C. Martin misses 3-pt jump shot from 24 ft,,1,13,8,5,276.0
+7:22.0,Defensive rebound by J. Smith,8-13, ,,1,13,8,5,278.0
+7:12.0,J. Green makes 2-pt layup from 3 ft (assist by A. Sengun),10-13, ,,1,13,10,3,288.0
+6:59.0, ,10-15,T. Herro makes 2-pt layup from 4 ft (assist by B. Adebayo),,1,15,10,5,301.0
+6:59.0, ,10-15,Shooting foul by J. Tate (drawn by T. Herro),,1,15,10,5,301.0
+6:59.0, ,10-15,Miami full timeout,,1,15,10,5,301.0
+6:59.0, ,10-16,T. Herro makes free throw 1 of 1,,1,16,10,6,301.0
+6:43.0,J. Tate misses 2-pt layup from 3 ft,10-16, ,,1,16,10,6,317.0
+6:40.0, ,10-16,Defensive rebound by B. Adebayo,,1,16,10,6,320.0
+6:34.0, ,10-16,C. Martin misses 2-pt jump shot from 10 ft,,1,16,10,6,326.0
+6:30.0,Defensive rebound by J. Green,10-16, ,,1,16,10,6,330.0
+6:23.0,Turnover by J. Green (lost ball; steal by G. Vincent),10-16, ,,1,16,10,6,337.0
+6:04.0, ,10-16,Shooting foul by J. Smith (drawn by B. Adebayo),,1,16,10,6,356.0
+6:04.0, ,10-16,B. Adebayo misses free throw 1 of 2,,1,16,10,6,356.0
+6:04.0, ,10-16,Offensive rebound by Team,,1,16,10,6,356.0
+6:04.0,D. Nix enters the game for J. Tate,10-16, ,,1,16,10,6,356.0
+6:04.0, ,10-16,M. Strus enters the game for T. Herro,,1,16,10,6,356.0
+6:04.0, ,10-17,B. Adebayo makes free throw 2 of 2,,1,17,10,7,356.0
+5:43.0,Turnover by A. Sengun (lost ball; steal by B. Adebayo),10-17, ,,1,17,10,7,377.0
+5:40.0, ,10-19,B. Adebayo makes 2-pt layup from 5 ft,,1,19,10,9,380.0
+5:40.0, ,10-19,Shooting foul by K. Martin (drawn by B. Adebayo),,1,19,10,9,380.0
+5:40.0, ,10-20,B. Adebayo makes free throw 1 of 1,,1,20,10,10,380.0
+5:30.0,J. Green misses 3-pt jump shot from 26 ft,10-20, ,,1,20,10,10,390.0
+5:26.0, ,10-20,Defensive rebound by C. Martin,,1,20,10,10,394.0
+5:07.0, ,10-20,C. Martin misses 3-pt jump shot from 27 ft,,1,20,10,10,413.0
+5:04.0,Defensive rebound by D. Nix,10-20, ,,1,20,10,10,416.0
+4:57.0,J. Smith makes 3-pt jump shot from 26 ft (assist by D. Nix),13-20, ,,1,20,13,7,423.0
+4:39.0, ,13-22,B. Adebayo makes 2-pt jump shot from 10 ft (assist by J. Butler),,1,22,13,9,441.0
+4:26.0,Turnover by K. Martin (bad pass),13-22, ,,1,22,13,9,454.0
+4:26.0, ,13-22,O. Robinson enters the game for B. Adebayo,,1,22,13,9,454.0
+4:12.0, ,13-22,M. Strus misses 3-pt jump shot from 26 ft,,1,22,13,9,468.0
+4:06.0, ,13-22,Offensive rebound by J. Butler,,1,22,13,9,474.0
+4:02.0, ,13-22,Turnover by C. Martin (lost ball; steal by K. Martin),,1,22,13,9,478.0
+3:56.0,J. Green makes 2-pt layup from 3 ft (assist by K. Martin),15-22, ,,1,22,15,7,484.0
+3:56.0,Violation by Team (delay of game),15-22, ,,1,22,15,7,484.0
+3:46.0, ,15-22,Offensive foul by O. Robinson (drawn by J. Green),,1,22,15,7,494.0
+3:46.0, ,15-22,Turnover by O. Robinson (offensive foul),,1,22,15,7,494.0
+3:46.0,T. Eason enters the game for K. Martin,15-22, ,,1,22,15,7,494.0
+3:46.0, ,15-22,H. Highsmith enters the game for C. Martin,,1,22,15,7,494.0
+3:20.0,A. Sengun makes 2-pt hook shot from 7 ft,17-22, ,,1,22,17,5,520.0
+3:02.0, ,17-22,G. Vincent misses 3-pt jump shot from 27 ft,,1,22,17,5,538.0
+2:58.0,Defensive rebound by J. Smith,17-22, ,,1,22,17,5,542.0
+2:49.0,J. Smith makes 2-pt jump shot from 19 ft (assist by A. Sengun),19-22, ,,1,22,19,3,551.0
+2:31.0, ,19-22,M. Strus misses 3-pt jump shot from 26 ft,,1,22,19,3,569.0
+2:22.0, ,19-22,Offensive rebound by H. Highsmith,,1,22,19,3,578.0
+2:20.0, ,19-22,J. Butler misses 2-pt layup from 5 ft,,1,22,19,3,580.0
+2:16.0,Defensive rebound by T. Eason,19-22, ,,1,22,19,3,584.0
+2:14.0,J. Smith makes 3-pt jump shot from 27 ft (assist by T. Eason),22-22, ,Tie,1,22,22,0,586.0
+2:06.0, ,22-24,J. Butler makes 2-pt jump shot from 9 ft,,1,24,22,2,594.0
+1:48.0,A. Sengun makes 2-pt layup from 3 ft (assist by T. Eason),24-24, ,Tie,1,24,24,0,612.0
+1:39.0, ,24-24,Personal foul by D. Nix (drawn by J. Butler),,1,24,24,0,621.0
+1:39.0,Houston full timeout,24-24, ,,1,24,24,0,621.0
+1:39.0,T. Washington enters the game for J. Green,24-24, ,,1,24,24,0,621.0
+1:39.0, ,24-24,J. Bouyea enters the game for J. Butler,,1,24,24,0,621.0
+1:39.0, ,24-24,T. Herro enters the game for G. Vincent,,1,24,24,0,621.0
+1:25.0, ,24-26,J. Bouyea makes 2-pt layup from 4 ft (assist by T. Herro),,1,26,24,2,635.0
+1:15.0,Personal foul by O. Robinson (drawn by A. Sengun),24-26, ,,1,26,24,2,645.0
+1:03.0,J. Smith misses 3-pt jump shot from 26 ft,24-26, ,,1,26,24,2,657.0
+0:59.0,Offensive rebound by A. Sengun,24-26, ,,1,26,24,2,661.0
+0:58.0,A. Sengun misses 2-pt layup from 5 ft,24-26, ,,1,26,24,2,662.0
+0:55.0, ,24-26,Defensive rebound by O. Robinson,,1,26,24,2,665.0
+0:42.0, ,24-26,T. Herro misses 2-pt jump shot from 12 ft,,1,26,24,2,678.0
+0:39.0,Defensive rebound by T. Washington,24-26, ,,1,26,24,2,681.0
+0:36.0,T. Eason makes 2-pt jump shot from 4 ft (assist by T. Washington),26-26, ,Tie,1,26,26,0,684.0
+0:36.0,Shooting foul by J. Bouyea (drawn by T. Eason),26-26, ,,1,26,26,0,684.0
+0:36.0,U. Garuba enters the game for A. Sengun,26-26, ,,1,26,26,0,684.0
+0:36.0,K. Martin enters the game for J. Smith,26-26, ,,1,26,26,0,684.0
+0:36.0,T. Eason misses free throw 1 of 1,26-26, ,,1,26,26,0,684.0
+0:35.0,Offensive rebound by U. Garuba,26-26, ,,1,26,26,0,685.0
+0:31.0,D. Nix misses 3-pt jump shot from 26 ft,26-26, ,,1,26,26,0,689.0
+0:27.0, ,26-26,Defensive rebound by O. Robinson,,1,26,26,0,693.0
+0:10.0, ,26-26,Shooting foul by D. Nix (drawn by T. Herro),,1,26,26,0,710.0
+0:10.0, ,26-27,T. Herro makes free throw 1 of 2,,1,27,26,1,710.0
+0:10.0,J. Green enters the game for D. Nix,26-27, ,,1,27,26,1,710.0
+0:10.0, ,26-27,C. Martin enters the game for J. Bouyea,,1,27,26,1,710.0
+0:10.0, ,26-28,T. Herro makes free throw 2 of 2,,1,28,26,2,710.0
+0:00.0,T. Eason makes 3-pt jump shot from 26 ft (assist by J. Green),29-28, ,Lead change,1,28,29,-1,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),29-28, ,,1,28,29,-1,720.0
+0:00.0,End of 1st quarter,29-28,,,1,28,29,-1,720.0
+12:00.0,Start of 2nd quarter,29-28,,,2,28,29,-1,720.0
+11:47.0,J. Green makes 2-pt jump shot from 15 ft (assist by T. Washington),31-28, ,,2,28,31,-3,733.0
+11:30.0, ,31-31,M. Strus makes 3-pt jump shot from 27 ft (assist by B. Adebayo),Tie,2,31,31,0,750.0
+11:17.0,K. Martin makes 2-pt dunk from 2 ft (assist by J. Green),33-31, ,,2,31,33,-2,763.0
+11:02.0, ,33-31,B. Adebayo misses 2-pt jump shot from 13 ft,,2,31,33,-2,778.0
+10:58.0,Defensive rebound by K. Martin,33-31, ,,2,31,33,-2,782.0
+10:49.0,J. Green misses 3-pt jump shot from 25 ft,33-31, ,,2,31,33,-2,791.0
+10:45.0, ,33-31,Defensive rebound by T. Herro,,2,31,33,-2,795.0
+10:42.0, ,33-34,T. Herro makes 3-pt jump shot from 27 ft,Lead change,2,34,33,1,798.0
+10:26.0,Turnover by K. Martin (lost ball; steal by J. Bouyea),33-34, ,,2,34,33,1,814.0
+10:19.0, ,33-34,Personal foul by J. Green (drawn by B. Adebayo),,2,34,33,1,821.0
+10:12.0, ,33-34,Turnover by T. Herro (bad pass; steal by U. Garuba),,2,34,33,1,828.0
+10:08.0,K. Martin makes 2-pt layup from 4 ft,35-34, ,Lead change,2,34,35,-1,832.0
+9:55.0, ,35-37,T. Herro makes 3-pt jump shot from 26 ft,Lead change,2,37,35,2,845.0
+9:31.0,J. Green misses 3-pt jump shot from 26 ft,35-37, ,,2,37,35,2,869.0
+9:30.0, ,35-37,Defensive rebound by Team,,2,37,35,2,870.0
+9:16.0, ,35-37,H. Highsmith misses 3-pt jump shot from 23 ft,,2,37,35,2,884.0
+9:13.0,Defensive rebound by T. Eason,35-37, ,,2,37,35,2,887.0
+9:06.0,T. Washington misses 3-pt jump shot from 26 ft,35-37, ,,2,37,35,2,894.0
+9:02.0, ,35-37,Defensive rebound by B. Adebayo,,2,37,35,2,898.0
+8:54.0, ,35-37,Shooting foul by U. Garuba (drawn by B. Adebayo),,2,37,35,2,906.0
+8:54.0, ,35-38,B. Adebayo makes free throw 1 of 2,,2,38,35,3,906.0
+8:54.0,J. Christopher enters the game for J. Green,35-38, ,,2,38,35,3,906.0
+8:54.0, ,35-39,B. Adebayo makes free throw 2 of 2,,2,39,35,4,906.0
+8:32.0,Shooting foul by H. Highsmith (drawn by K. Martin),35-39, ,,2,39,35,4,928.0
+8:32.0,K. Martin makes free throw 1 of 2,36-39, ,,2,39,36,3,928.0
+8:32.0,K. Martin misses free throw 2 of 2,36-39, ,,2,39,36,3,928.0
+8:29.0, ,36-39,Defensive rebound by B. Adebayo,,2,39,36,3,931.0
+8:21.0, ,36-41,B. Adebayo makes 2-pt dunk from 5 ft (assist by T. Herro),,2,41,36,5,939.0
+8:16.0,Houston full timeout,36-41, ,,2,41,36,5,944.0
+8:07.0,K. Martin makes 2-pt layup from 3 ft (assist by J. Christopher),38-41, ,,2,41,38,3,953.0
+8:07.0,Shooting foul by H. Highsmith (drawn by K. Martin),38-41, ,,2,41,38,3,953.0
+8:07.0,K. Martin makes free throw 1 of 1,39-41, ,,2,41,39,2,953.0
+7:57.0, ,39-41,Personal foul by U. Garuba (drawn by T. Herro),,2,41,39,2,963.0
+7:43.0, ,39-41,B. Adebayo misses 2-pt jump shot from 15 ft,,2,41,39,2,977.0
+7:37.0,Defensive rebound by T. Washington,39-41, ,,2,41,39,2,983.0
+7:32.0,T. Washington misses 2-pt jump shot from 9 ft,39-41, ,,2,41,39,2,988.0
+7:26.0,Offensive rebound by T. Washington,39-41, ,,2,41,39,2,994.0
+7:25.0,U. Garuba makes 2-pt layup from 4 ft (assist by T. Washington),41-41, ,Tie,2,41,41,0,995.0
+7:15.0, ,41-44,M. Strus makes 3-pt jump shot from 28 ft (assist by T. Herro),,2,44,41,3,1005.0
+6:55.0,Turnover by J. Christopher (bad pass),41-44, ,,2,44,41,3,1025.0
+6:55.0,A. Sengun enters the game for T. Eason,41-44, ,,2,44,41,3,1025.0
+6:55.0,J. Tate enters the game for U. Garuba,41-44, ,,2,44,41,3,1025.0
+6:55.0, ,41-44,C. Martin enters the game for H. Highsmith,,2,44,41,3,1025.0
+6:43.0, ,41-46,B. Adebayo makes 2-pt layup from 3 ft (assist by T. Herro),,2,46,41,5,1037.0
+6:25.0,Shooting foul by M. Strus (drawn by T. Washington),41-46, ,,2,46,41,5,1055.0
+6:25.0,T. Washington misses free throw 1 of 2,41-46, ,,2,46,41,5,1055.0
+6:25.0,Offensive rebound by Team,41-46, ,,2,46,41,5,1055.0
+6:25.0,T. Washington makes free throw 2 of 2,42-46, ,,2,46,42,4,1055.0
+6:08.0, ,42-46,M. Strus misses 3-pt jump shot from 26 ft,,2,46,42,4,1072.0
+6:05.0,Defensive rebound by T. Washington,42-46, ,,2,46,42,4,1075.0
+5:57.0,J. Christopher misses 2-pt layup from 2 ft,42-46, ,,2,46,42,4,1083.0
+5:55.0, ,42-46,Defensive rebound by T. Herro,,2,46,42,4,1085.0
+5:55.0, ,42-46,Personal foul by J. Christopher (drawn by T. Herro),,2,46,42,4,1085.0
+5:55.0,J. Smith enters the game for K. Martin,42-46, ,,2,46,42,4,1085.0
+5:55.0, ,42-46,J. Butler enters the game for B. Adebayo,,2,46,42,4,1085.0
+5:55.0, ,42-46,O. Robinson enters the game for J. Bouyea,,2,46,42,4,1085.0
+5:55.0, ,42-46,G. Vincent enters the game for T. Herro,,2,46,42,4,1085.0
+5:36.0, ,42-46,G. Vincent misses 3-pt jump shot from 24 ft,,2,46,42,4,1104.0
+5:33.0,Defensive rebound by A. Sengun,42-46, ,,2,46,42,4,1107.0
+5:26.0,Shooting foul by C. Martin (drawn by J. Tate),42-46, ,,2,46,42,4,1114.0
+5:26.0,J. Tate misses free throw 1 of 2,42-46, ,,2,46,42,4,1114.0
+5:26.0,Offensive rebound by Team,42-46, ,,2,46,42,4,1114.0
+5:26.0,J. Tate makes free throw 2 of 2,43-46, ,,2,46,43,3,1114.0
+5:12.0, ,43-46,Shooting foul by J. Tate (drawn by M. Strus),,2,46,43,3,1128.0
+5:12.0, ,43-47,M. Strus makes free throw 1 of 3,,2,47,43,4,1128.0
+5:12.0, ,43-48,M. Strus makes free throw 2 of 3,,2,48,43,5,1128.0
+5:12.0, ,43-49,M. Strus makes free throw 3 of 3,,2,49,43,6,1128.0
+4:53.0,T. Washington misses 2-pt jump shot from 12 ft,43-49, ,,2,49,43,6,1147.0
+4:49.0, ,43-49,Defensive rebound by C. Martin,,2,49,43,6,1151.0
+4:29.0, ,43-49,C. Martin misses 2-pt jump shot from 12 ft,,2,49,43,6,1171.0
+4:29.0,Defensive rebound by A. Sengun,43-49, ,,2,49,43,6,1171.0
+4:29.0,Personal foul by C. Martin (drawn by A. Sengun),43-49, ,,2,49,43,6,1171.0
+4:29.0,A. Sengun makes free throw 1 of 2,44-49, ,,2,49,44,5,1171.0
+4:29.0,J. Green enters the game for J. Christopher,44-49, ,,2,49,44,5,1171.0
+4:29.0,A. Sengun makes free throw 2 of 2,45-49, ,,2,49,45,4,1171.0
+4:06.0, ,45-49,J. Butler misses 2-pt jump shot from 13 ft,,2,49,45,4,1194.0
+4:02.0,Defensive rebound by A. Sengun,45-49, ,,2,49,45,4,1198.0
+3:50.0,J. Green misses 2-pt layup from 3 ft,45-49, ,,2,49,45,4,1210.0
+3:50.0,Offensive rebound by A. Sengun,45-49, ,,2,49,45,4,1210.0
+3:49.0,A. Sengun makes 2-pt dunk at rim,47-49, ,,2,49,47,2,1211.0
+3:36.0, ,47-49,G. Vincent misses 3-pt jump shot from 27 ft,,2,49,47,2,1224.0
+3:32.0,Defensive rebound by J. Smith,47-49, ,,2,49,47,2,1228.0
+3:25.0,Personal foul by M. Strus (drawn by A. Sengun),47-49, ,,2,49,47,2,1235.0
+3:25.0,A. Sengun makes free throw 1 of 2,48-49, ,,2,49,48,1,1235.0
+3:25.0,A. Sengun makes free throw 2 of 2,49-49, ,Tie,2,49,49,0,1235.0
+3:07.0, ,49-49,J. Butler misses 3-pt jump shot from 23 ft,,2,49,49,0,1253.0
+3:06.0, ,49-49,Offensive rebound by Team,,2,49,49,0,1254.0
+3:03.0, ,49-49,Shooting foul by J. Smith (drawn by J. Butler),,2,49,49,0,1257.0
+3:03.0, ,49-50,J. Butler makes free throw 1 of 2,,2,50,49,1,1257.0
+3:03.0,K. Martin enters the game for T. Washington,49-50, ,,2,50,49,1,1257.0
+3:03.0, ,49-51,J. Butler makes free throw 2 of 2,,2,51,49,2,1257.0
+2:54.0,J. Tate makes 2-pt layup from 3 ft,51-51, ,Tie,2,51,51,0,1266.0
+2:54.0,Shooting foul by O. Robinson (drawn by J. Tate),51-51, ,,2,51,51,0,1266.0
+2:54.0, ,51-51,Miami full timeout,,2,51,51,0,1266.0
+2:54.0, ,51-51,B. Adebayo enters the game for O. Robinson,,2,51,51,0,1266.0
+2:54.0, ,51-51,T. Herro enters the game for M. Strus,,2,51,51,0,1266.0
+2:54.0,J. Tate misses free throw 1 of 1,51-51, ,,2,51,51,0,1266.0
+2:52.0, ,51-51,Defensive rebound by C. Martin,,2,51,51,0,1268.0
+2:31.0, ,51-53,G. Vincent makes 2-pt jump shot from 20 ft (assist by C. Martin),,2,53,51,2,1289.0
+2:06.0,A. Sengun misses 2-pt jump shot from 9 ft,51-53, ,,2,53,51,2,1314.0
+1:59.0,Offensive rebound by J. Tate,51-53, ,,2,53,51,2,1321.0
+1:58.0,J. Tate misses 2-pt layup from 3 ft (block by T. Herro),51-53, ,,2,53,51,2,1322.0
+1:58.0, ,51-53,Defensive rebound by B. Adebayo,,2,53,51,2,1322.0
+1:52.0, ,51-55,T. Herro makes 2-pt jump shot from 16 ft (assist by B. Adebayo),,2,55,51,4,1328.0
+1:27.0,J. Green misses 3-pt jump shot from 27 ft,51-55, ,,2,55,51,4,1353.0
+1:23.0,Offensive rebound by J. Green,51-55, ,,2,55,51,4,1357.0
+1:22.0,K. Martin makes 2-pt layup from 2 ft (assist by J. Green),53-55, ,,2,55,53,2,1358.0
+1:06.0, ,53-55,Turnover by G. Vincent (bad pass; steal by A. Sengun),,2,55,53,2,1374.0
+1:00.0,J. Smith makes 2-pt jump shot from 7 ft (assist by K. Martin),55-55, ,Tie,2,55,55,0,1380.0
+1:00.0,Shooting foul by C. Martin (drawn by J. Smith),55-55, ,,2,55,55,0,1380.0
+1:00.0, ,55-55,M. Strus enters the game for C. Martin,,2,55,55,0,1380.0
+1:00.0,J. Smith makes free throw 1 of 1,56-55, ,Lead change,2,55,56,-1,1380.0
+0:46.0, ,56-58,M. Strus makes 3-pt jump shot from 27 ft (assist by G. Vincent),Lead change,2,58,56,2,1394.0
+0:31.0,Turnover by J. Green (lost ball; steal by M. Strus),56-58, ,,2,58,56,2,1409.0
+0:27.0, ,56-58,Offensive foul by B. Adebayo (drawn by J. Tate),,2,58,56,2,1413.0
+0:27.0, ,56-58,Turnover by B. Adebayo (offensive foul),,2,58,56,2,1413.0
+0:14.0,Turnover by A. Sengun (out of bounds lost ball),56-58, ,,2,58,56,2,1426.0
+0:14.0,U. Garuba enters the game for J. Green,56-58, ,,2,58,56,2,1426.0
+0:14.0,D. Nix enters the game for A. Sengun,56-58, ,,2,58,56,2,1426.0
+0:01.0, ,56-58,Turnover by T. Herro (lost ball; steal by K. Martin),,2,58,56,2,1439.0
+0:00.0,K. Martin misses 3-pt jump shot from 33 ft,56-58, ,,2,58,56,2,1440.0
+0:00.0,Offensive rebound by Team,56-58, ,,2,58,56,2,1440.0
+0:00.0,End of 2nd quarter,56-58,,,2,58,56,2,1440.0
+12:00.0,Start of 3rd quarter,56-58,,,3,58,56,2,1440.0
+11:51.0,Houston full timeout,56-58, ,,3,58,56,2,1449.0
+11:46.0,Personal foul by C. Martin (drawn by A. Sengun),56-58, ,,3,58,56,2,1454.0
+11:46.0, ,56-58,H. Highsmith enters the game for C. Martin,,3,58,56,2,1454.0
+11:40.0,J. Smith makes 2-pt dunk from 4 ft (assist by J. Tate),58-58, ,Tie,3,58,58,0,1460.0
+11:14.0, ,58-58,Turnover by Team (shot clock),,3,58,58,0,1486.0
+11:01.0,J. Green misses 2-pt jump shot from 15 ft,58-58, ,,3,58,58,0,1499.0
+10:57.0, ,58-58,Defensive rebound by H. Highsmith,,3,58,58,0,1503.0
+10:53.0, ,58-61,G. Vincent makes 3-pt jump shot from 25 ft (assist by J. Butler),,3,61,58,3,1507.0
+10:28.0,A. Sengun misses 2-pt hook shot from 4 ft,58-61, ,,3,61,58,3,1532.0
+10:24.0,Offensive rebound by J. Smith,58-61, ,,3,61,58,3,1536.0
+10:21.0,J. Smith makes 2-pt layup from 6 ft (assist by A. Sengun),60-61, ,,3,61,60,1,1539.0
+10:02.0, ,60-63,T. Herro makes 2-pt jump shot from 18 ft,,3,63,60,3,1558.0
+9:41.0,K. Martin misses 3-pt jump shot from 26 ft,60-63, ,,3,63,60,3,1579.0
+9:38.0, ,60-63,Defensive rebound by T. Herro,,3,63,60,3,1582.0
+9:16.0, ,60-63,J. Butler misses 2-pt jump shot from 11 ft,,3,63,60,3,1604.0
+9:13.0,Defensive rebound by A. Sengun,60-63, ,,3,63,60,3,1607.0
+9:06.0,Turnover by J. Green (out of bounds lost ball),60-63, ,,3,63,60,3,1614.0
+8:47.0, ,60-63,Turnover by H. Highsmith (traveling),,3,63,60,3,1633.0
+8:28.0,J. Smith misses 2-pt jump shot from 19 ft,60-63, ,,3,63,60,3,1652.0
+8:24.0, ,60-63,Defensive rebound by J. Butler,,3,63,60,3,1656.0
+8:18.0, ,60-63,J. Butler misses 2-pt dunk from 3 ft,,3,63,60,3,1662.0
+8:13.0, ,60-63,Offensive rebound by J. Butler,,3,63,60,3,1667.0
+8:13.0, ,60-65,J. Butler makes 2-pt layup from 2 ft,,3,65,60,5,1667.0
+8:01.0,J. Tate misses 2-pt jump shot from 6 ft,60-65, ,,3,65,60,5,1679.0
+7:58.0, ,60-65,Defensive rebound by J. Butler,,3,65,60,5,1682.0
+7:53.0, ,60-68,H. Highsmith makes 3-pt jump shot from 23 ft (assist by J. Butler),,3,68,60,8,1687.0
+7:53.0,Houston full timeout,60-68, ,,3,68,60,8,1687.0
+7:53.0,D. Nix enters the game for J. Tate,60-68, ,,3,68,60,8,1687.0
+7:28.0,Turnover by A. Sengun (bad pass; steal by J. Butler),60-68, ,,3,68,60,8,1712.0
+7:23.0, ,60-68,G. Vincent misses 3-pt jump shot from 23 ft,,3,68,60,8,1717.0
+7:17.0,Defensive rebound by A. Sengun,60-68, ,,3,68,60,8,1723.0
+7:16.0,Turnover by A. Sengun (bad pass; steal by G. Vincent),60-68, ,,3,68,60,8,1724.0
+7:09.0, ,60-68,T. Herro misses 3-pt jump shot from 26 ft,,3,68,60,8,1731.0
+7:05.0, ,60-68,Offensive rebound by T. Herro,,3,68,60,8,1735.0
+7:05.0, ,60-68,Personal foul by A. Sengun (drawn by T. Herro),,3,68,60,8,1735.0
+6:53.0, ,60-68,Turnover by B. Adebayo (lost ball; steal by J. Green),,3,68,60,8,1747.0
+6:49.0,J. Green misses 2-pt layup from 4 ft,60-68, ,,3,68,60,8,1751.0
+6:45.0, ,60-68,Defensive rebound by G. Vincent,,3,68,60,8,1755.0
+6:32.0, ,60-68,B. Adebayo misses 2-pt dunk from 4 ft (block by J. Smith),,3,68,60,8,1768.0
+6:27.0,Defensive rebound by D. Nix,60-68, ,,3,68,60,8,1773.0
+6:26.0,K. Martin makes 2-pt layup from 4 ft (assist by J. Smith),62-68, ,,3,68,62,6,1774.0
+6:14.0, ,62-68,T. Herro misses 2-pt jump shot from 14 ft,,3,68,62,6,1786.0
+6:12.0,Defensive rebound by J. Smith,62-68, ,,3,68,62,6,1788.0
+5:59.0,J. Green misses 3-pt jump shot from 26 ft,62-68, ,,3,68,62,6,1801.0
+5:58.0,Offensive rebound by Team,62-68, ,,3,68,62,6,1802.0
+5:58.0, ,62-68,Loose ball foul by B. Adebayo (drawn by A. Sengun),,3,68,62,6,1802.0
+5:58.0, ,62-68,Technical foul by B. Adebayo,,3,68,62,6,1802.0
+5:58.0,J. Green makes technical free throw,63-68, ,,3,68,63,5,1802.0
+5:58.0, ,63-68,M. Strus enters the game for J. Butler,,3,68,63,5,1802.0
+5:46.0,J. Green makes 2-pt layup from 4 ft,65-68, ,,3,68,65,3,1814.0
+5:21.0, ,65-68,T. Herro misses 3-pt jump shot from 23 ft,,3,68,65,3,1839.0
+5:18.0,Defensive rebound by K. Martin,65-68, ,,3,68,65,3,1842.0
+5:10.0,Personal foul by B. Adebayo (drawn by A. Sengun),65-68, ,,3,68,65,3,1850.0
+5:10.0,U. Garuba enters the game for A. Sengun,65-68, ,,3,68,65,3,1850.0
+5:10.0, ,65-68,O. Robinson enters the game for B. Adebayo,,3,68,65,3,1850.0
+5:03.0,J. Green misses 3-pt jump shot from 27 ft,65-68, ,,3,68,65,3,1857.0
+5:02.0, ,65-68,Defensive rebound by Team,,3,68,65,3,1858.0
+4:43.0, ,65-68,G. Vincent misses 2-pt jump shot from 8 ft,,3,68,65,3,1877.0
+4:38.0, ,65-68,Offensive rebound by T. Herro,,3,68,65,3,1882.0
+4:37.0, ,65-68,M. Strus misses 3-pt jump shot from 25 ft,,3,68,65,3,1883.0
+4:33.0,Defensive rebound by J. Smith,65-68, ,,3,68,65,3,1887.0
+4:29.0,J. Smith misses 3-pt jump shot from 30 ft,65-68, ,,3,68,65,3,1891.0
+4:28.0, ,65-68,Defensive rebound by T. Herro,,3,68,65,3,1892.0
+4:26.0, ,65-68,Personal foul by J. Smith (drawn by O. Robinson),,3,68,65,3,1894.0
+4:26.0,T. Eason enters the game for J. Smith,65-68, ,,3,68,65,3,1894.0
+4:12.0, ,65-68,M. Strus misses 3-pt jump shot from 26 ft,,3,68,65,3,1908.0
+4:09.0,Defensive rebound by U. Garuba,65-68, ,,3,68,65,3,1911.0
+3:48.0,Turnover by K. Martin (bad pass; steal by H. Highsmith),65-68, ,,3,68,65,3,1932.0
+3:40.0, ,65-70,T. Herro makes 2-pt layup from 3 ft,,3,70,65,5,1940.0
+3:25.0,Personal foul by O. Robinson (drawn by J. Green),65-70, ,,3,70,65,5,1955.0
+3:25.0,T. Washington enters the game for J. Green,65-70, ,,3,70,65,5,1955.0
+3:25.0, ,65-70,J. Bouyea enters the game for G. Vincent,,3,70,65,5,1955.0
+3:18.0,T. Washington makes 2-pt jump shot from 11 ft,67-70, ,,3,70,67,3,1962.0
+3:18.0,Shooting foul by J. Bouyea (drawn by T. Washington),67-70, ,,3,70,67,3,1962.0
+3:18.0,T. Washington makes free throw 1 of 1,68-70, ,,3,70,68,2,1962.0
+3:11.0, ,68-72,T. Herro makes 2-pt dunk from 1 ft (assist by M. Strus),,3,72,68,4,1969.0
+3:11.0, ,68-72,Shooting foul by T. Washington (drawn by T. Herro),,3,72,68,4,1969.0
+3:11.0, ,68-73,T. Herro makes free throw 1 of 1,,3,73,68,5,1969.0
+2:57.0,T. Eason misses 2-pt jump shot from 7 ft (block by O. Robinson),68-73, ,,3,73,68,5,1983.0
+2:52.0, ,68-73,Defensive rebound by H. Highsmith,,3,73,68,5,1988.0
+2:48.0, ,68-73,Turnover by T. Herro (lost ball; steal by U. Garuba),,3,73,68,5,1992.0
+2:41.0,D. Nix makes 3-pt jump shot from 25 ft (assist by T. Washington),71-73, ,,3,73,71,2,1999.0
+2:14.0,Violation by Team (kicked ball),71-73, ,,3,73,71,2,2026.0
+2:05.0, ,71-73,M. Strus misses 3-pt jump shot from 26 ft,,3,73,71,2,2035.0
+2:00.0,Defensive rebound by U. Garuba,71-73, ,,3,73,71,2,2040.0
+1:45.0,T. Washington misses 3-pt jump shot from 27 ft,71-73, ,,3,73,71,2,2055.0
+1:43.0, ,71-73,Defensive rebound by T. Herro,,3,73,71,2,2057.0
+1:34.0, ,71-73,T. Herro misses 3-pt jump shot from 27 ft,,3,73,71,2,2066.0
+1:31.0,Defensive rebound by U. Garuba,71-73, ,,3,73,71,2,2069.0
+1:23.0,Turnover by D. Nix (bad pass; steal by T. Herro),71-73, ,,3,73,71,2,2077.0
+1:19.0, ,71-75,T. Herro makes 2-pt dunk from 2 ft,,3,75,71,4,2081.0
+0:53.0,U. Garuba misses 3-pt jump shot from 26 ft,71-75, ,,3,75,71,4,2107.0
+0:53.0,Offensive rebound by Team,71-75, ,,3,75,71,4,2107.0
+0:50.0,Turnover by Team (shot clock),71-75, ,,3,75,71,4,2110.0
+0:35.0, ,71-75,J. Bouyea misses 3-pt jump shot from 26 ft,,3,75,71,4,2125.0
+0:31.0,Defensive rebound by K. Martin,71-75, ,,3,75,71,4,2129.0
+0:13.0,D. Nix makes 2-pt layup from 4 ft,73-75, ,,3,75,73,2,2147.0
+0:00.0, ,73-75,Turnover by J. Bouyea (lost ball; steal by D. Nix),,3,75,73,2,2160.0
+0:00.0,End of 3rd quarter,73-75,,,3,75,73,2,2160.0
+12:00.0,Start of 4th quarter,73-75,,,4,75,73,2,2160.0
+11:46.0, ,73-75,G. Vincent misses 3-pt jump shot from 27 ft,,4,75,73,2,2174.0
+11:43.0,Defensive rebound by J. Tate,73-75, ,,4,75,73,2,2177.0
+11:23.0,J. Christopher misses 2-pt jump shot from 17 ft,73-75, ,,4,75,73,2,2197.0
+11:20.0, ,73-75,Defensive rebound by G. Vincent,,4,75,73,2,2200.0
+11:17.0, ,73-75,H. Highsmith misses 3-pt jump shot from 27 ft,,4,75,73,2,2203.0
+11:17.0,Defensive rebound by J. Christopher,73-75, ,,4,75,73,2,2203.0
+11:06.0,Turnover by J. Tate (lost ball; steal by H. Highsmith),73-75, ,,4,75,73,2,2214.0
+11:01.0, ,73-75,J. Bouyea misses 2-pt layup from 3 ft (block by T. Eason),,4,75,73,2,2219.0
+11:01.0, ,73-75,Offensive rebound by Team,,4,75,73,2,2219.0
+10:58.0, ,73-75,Turnover by B. Adebayo (bad pass),,4,75,73,2,2222.0
+10:40.0,J. Tate misses 2-pt layup from 5 ft (block by B. Adebayo),73-75, ,,4,75,73,2,2240.0
+10:35.0, ,73-75,Defensive rebound by G. Vincent,,4,75,73,2,2245.0
+10:22.0, ,73-77,M. Strus makes 2-pt layup from 4 ft,,4,77,73,4,2258.0
+9:55.0,J. Christopher makes 3-pt jump shot from 26 ft,76-77, ,,4,77,76,1,2285.0
+9:31.0, ,76-77,Turnover by G. Vincent (lost ball; steal by J. Christopher),,4,77,76,1,2309.0
+9:27.0,T. Eason makes 2-pt dunk from 4 ft (assist by J. Christopher),78-77, ,Lead change,4,77,78,-1,2313.0
+9:14.0, ,78-77,Turnover by J. Bouyea (lost ball; steal by T. Eason),,4,77,78,-1,2326.0
+9:12.0,Shooting foul by M. Strus (drawn by T. Eason),78-77, ,,4,77,78,-1,2328.0
+9:12.0,T. Eason makes free throw 1 of 2,79-77, ,,4,77,79,-2,2328.0
+9:12.0,J. Smith enters the game for U. Garuba,79-77, ,,4,77,79,-2,2328.0
+9:12.0,T. Eason misses free throw 2 of 2,79-77, ,,4,77,79,-2,2328.0
+9:09.0, ,79-77,Defensive rebound by B. Adebayo,,4,77,79,-2,2331.0
+8:53.0, ,79-77,Shooting foul by J. Tate (drawn by B. Adebayo),,4,77,79,-2,2347.0
+8:53.0, ,79-78,B. Adebayo makes free throw 1 of 2,,4,78,79,-1,2347.0
+8:53.0, ,79-78,T. Herro enters the game for J. Bouyea,,4,78,79,-1,2347.0
+8:53.0, ,79-78,C. Martin enters the game for H. Highsmith,,4,78,79,-1,2347.0
+8:53.0, ,79-79,B. Adebayo makes free throw 2 of 2,Tie,4,79,79,0,2347.0
+8:41.0,J. Smith makes 2-pt jump shot from 11 ft (assist by T. Washington),81-79, ,,4,79,81,-2,2359.0
+8:22.0, ,81-79,B. Adebayo misses 2-pt hook shot from 7 ft,,4,79,81,-2,2378.0
+8:19.0,Defensive rebound by T. Eason,81-79, ,,4,79,81,-2,2381.0
+8:02.0,J. Christopher makes 2-pt layup from 5 ft,83-79, ,,4,79,83,-4,2398.0
+8:02.0, ,83-79,Miami full timeout,,4,79,83,-4,2398.0
+8:02.0,K. Martin enters the game for J. Tate,83-79, ,,4,79,83,-4,2398.0
+7:56.0, ,83-79,Personal foul by J. Smith (drawn by B. Adebayo),,4,79,83,-4,2404.0
+7:44.0, ,83-79,M. Strus misses 3-pt jump shot from 26 ft,,4,79,83,-4,2416.0
+7:41.0,Defensive rebound by T. Washington,83-79, ,,4,79,83,-4,2419.0
+7:24.0,J. Christopher misses 2-pt layup from 5 ft,83-79, ,,4,79,83,-4,2436.0
+7:22.0, ,83-79,Defensive rebound by B. Adebayo,,4,79,83,-4,2438.0
+7:06.0, ,83-81,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),,4,81,83,-2,2454.0
+6:52.0,T. Eason misses 3-pt jump shot from 26 ft,83-81, ,,4,81,83,-2,2468.0
+6:49.0, ,83-81,Defensive rebound by C. Martin,,4,81,83,-2,2471.0
+6:48.0, ,83-81,Turnover by T. Herro (bad pass),,4,81,83,-2,2472.0
+6:27.0,J. Christopher misses 2-pt jump shot from 14 ft,83-81, ,,4,81,83,-2,2493.0
+6:25.0, ,83-81,Defensive rebound by C. Martin,,4,81,83,-2,2495.0
+6:19.0, ,83-81,Turnover by C. Martin (lost ball; steal by J. Christopher),,4,81,83,-2,2501.0
+6:15.0,J. Christopher makes 2-pt dunk from 5 ft,85-81, ,,4,81,85,-4,2505.0
+6:05.0, ,85-81,Personal foul by J. Christopher (drawn by M. Strus),,4,81,85,-4,2515.0
+6:05.0,J. Green enters the game for J. Christopher,85-81, ,,4,81,85,-4,2515.0
+6:05.0,A. Sengun enters the game for T. Eason,85-81, ,,4,81,85,-4,2515.0
+6:05.0, ,85-81,J. Butler enters the game for G. Vincent,,4,81,85,-4,2515.0
+5:59.0, ,85-81,Personal foul by A. Sengun (drawn by T. Herro),,4,81,85,-4,2521.0
+5:50.0, ,85-81,T. Herro misses 2-pt jump shot from 8 ft,,4,81,85,-4,2530.0
+5:47.0,Defensive rebound by J. Smith,85-81, ,,4,81,85,-4,2533.0
+5:33.0,J. Smith misses 3-pt jump shot from 27 ft,85-81, ,,4,81,85,-4,2547.0
+5:30.0,Offensive rebound by K. Martin,85-81, ,,4,81,85,-4,2550.0
+5:29.0,Turnover by K. Martin (lost ball; steal by J. Butler),85-81, ,,4,81,85,-4,2551.0
+5:23.0, ,85-84,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Butler),,4,84,85,-1,2557.0
+4:55.0,T. Washington misses 3-pt jump shot from 24 ft,85-84, ,,4,84,85,-1,2585.0
+4:55.0,Offensive rebound by Team,85-84, ,,4,84,85,-1,2585.0
+4:55.0, ,85-84,Loose ball foul by B. Adebayo (drawn by A. Sengun),,4,84,85,-1,2585.0
+4:55.0, ,85-84,O. Robinson enters the game for B. Adebayo,,4,84,85,-1,2585.0
+4:41.0,J. Smith misses 2-pt layup from 5 ft,85-84, ,,4,84,85,-1,2599.0
+4:38.0, ,85-84,Defensive rebound by O. Robinson,,4,84,85,-1,2602.0
+4:30.0, ,85-84,C. Martin misses 3-pt jump shot from 26 ft,,4,84,85,-1,2610.0
+4:26.0,Defensive rebound by T. Washington,85-84, ,,4,84,85,-1,2614.0
+4:26.0,Shooting foul by T. Herro (drawn by K. Martin),85-84, ,,4,84,85,-1,2614.0
+4:26.0,K. Martin makes free throw 1 of 2,86-84, ,,4,84,86,-2,2614.0
+4:26.0,K. Martin makes free throw 2 of 2,87-84, ,,4,84,87,-3,2614.0
+4:02.0, ,87-84,T. Herro misses 3-pt jump shot from 26 ft,,4,84,87,-3,2638.0
+3:58.0,Defensive rebound by A. Sengun,87-84, ,,4,84,87,-3,2642.0
+3:51.0, ,87-84,Loose ball foul by C. Martin (drawn by A. Sengun),,4,84,87,-3,2649.0
+3:51.0, ,87-84,G. Vincent enters the game for C. Martin,,4,84,87,-3,2649.0
+3:40.0,T. Washington makes 2-pt jump shot from 12 ft,89-84, ,,4,84,89,-5,2660.0
+3:30.0, ,89-84,Miami full timeout,,4,84,89,-5,2670.0
+3:30.0,J. Tate enters the game for T. Washington,89-84, ,,4,84,89,-5,2670.0
+3:30.0, ,89-84,B. Adebayo enters the game for O. Robinson,,4,84,89,-5,2670.0
+3:23.0, ,89-84,M. Strus misses 3-pt jump shot from 23 ft,,4,84,89,-5,2677.0
+3:21.0,Defensive rebound by J. Green,89-84, ,,4,84,89,-5,2679.0
+3:16.0,Houston full timeout,89-84, ,,4,84,89,-5,2684.0
+3:01.0,J. Green misses 2-pt layup from 5 ft (block by G. Vincent),89-84, ,,4,84,89,-5,2699.0
+3:01.0,Offensive rebound by Team,89-84, ,,4,84,89,-5,2699.0
+2:57.0,J. Green misses 3-pt jump shot from 25 ft,89-84, ,,4,84,89,-5,2703.0
+2:57.0,Offensive rebound by Team,89-84, ,,4,84,89,-5,2703.0
+2:57.0,Turnover by Team (shot clock),89-84, ,,4,84,89,-5,2703.0
+2:45.0, ,89-84,J. Butler misses 2-pt dunk from 3 ft (block by K. Martin),,4,84,89,-5,2715.0
+2:37.0,Defensive rebound by J. Tate,89-84, ,,4,84,89,-5,2723.0
+2:35.0,J. Smith misses 3-pt jump shot from 26 ft,89-84, ,,4,84,89,-5,2725.0
+2:33.0, ,89-84,Defensive rebound by B. Adebayo,,4,84,89,-5,2727.0
+2:31.0, ,89-84,Personal foul by J. Smith (drawn by J. Butler),,4,84,89,-5,2729.0
+2:31.0, ,89-85,J. Butler makes free throw 1 of 2,,4,85,89,-4,2729.0
+2:31.0, ,89-86,J. Butler makes free throw 2 of 2,,4,86,89,-3,2729.0
+2:09.0,J. Smith misses 3-pt jump shot from 26 ft,89-86, ,,4,86,89,-3,2751.0
+2:05.0, ,89-86,Defensive rebound by T. Herro,,4,86,89,-3,2755.0
+1:54.0, ,89-86,Shooting foul by K. Martin (drawn by J. Butler),,4,86,89,-3,2766.0
+1:54.0, ,89-87,J. Butler makes free throw 1 of 2,,4,87,89,-2,2766.0
+1:54.0, ,89-88,J. Butler makes free throw 2 of 2,,4,88,89,-1,2766.0
+1:42.0,Turnover by K. Martin (bad pass),89-88, ,,4,88,89,-1,2778.0
+1:24.0, ,89-88,J. Butler misses 2-pt jump shot from 6 ft,,4,88,89,-1,2796.0
+1:22.0,Defensive rebound by J. Green,89-88, ,,4,88,89,-1,2798.0
+1:03.0,J. Smith misses 3-pt jump shot from 27 ft,89-88, ,,4,88,89,-1,2817.0
+1:03.0,Offensive rebound by J. Tate,89-88, ,,4,88,89,-1,2817.0
+1:03.0,J. Tate makes 2-pt layup from 2 ft,91-88, ,,4,88,91,-3,2817.0
+0:51.0, ,91-90,J. Butler makes 2-pt jump shot from 5 ft,,4,90,91,-1,2829.0
+0:51.0,Violation by Team (def goaltending),91-90, ,,4,90,91,-1,2829.0
+0:51.0,Instant Replay (Request: Ruling Stands),91-90, ,,4,90,91,-1,2829.0
+0:29.0,Turnover by J. Green (bad pass; steal by B. Adebayo),91-90, ,,4,90,91,-1,2851.0
+0:24.0, ,91-93,T. Herro makes 3-pt jump shot from 24 ft (assist by G. Vincent),Lead change,4,93,91,2,2856.0
+0:17.0,Houston full timeout,91-93, ,,4,93,91,2,2863.0
+0:17.0, ,91-93,C. Martin enters the game for T. Herro,,4,93,91,2,2863.0
+0:10.0,A. Sengun misses 2-pt layup from 3 ft,91-93, ,,4,93,91,2,2870.0
+0:10.0,Offensive rebound by J. Smith,91-93, ,,4,93,91,2,2870.0
+0:10.0,Shooting foul by M. Strus (drawn by J. Smith),91-93, ,,4,93,91,2,2870.0
+0:10.0,J. Smith makes free throw 1 of 2,92-93, ,,4,93,92,1,2870.0
+0:10.0, ,92-93,H. Highsmith enters the game for M. Strus,,4,93,92,1,2870.0
+0:10.0,J. Smith makes free throw 2 of 2,93-93, ,Tie,4,93,93,0,2870.0
+0:10.0, ,93-93,Miami full timeout,,4,93,93,0,2870.0
+0:10.0,D. Nix enters the game for A. Sengun,93-93, ,,4,93,93,0,2870.0
+0:10.0, ,93-93,T. Herro enters the game for H. Highsmith,,4,93,93,0,2870.0
+0:10.0, ,93-93,M. Strus enters the game for C. Martin,,4,93,93,0,2870.0
+0:07.0, ,93-93,Shooting foul by J. Tate (drawn by J. Butler),,4,93,93,0,2873.0
+0:07.0,Houston full timeout,93-93, ,,4,93,93,0,2873.0
+0:07.0,Instant Replay (Challenge: Ruling Stands),93-93, ,,4,93,93,0,2873.0
+0:07.0,A. Sengun enters the game for K. Martin,93-93, ,,4,93,93,0,2873.0
+0:07.0,T. Washington enters the game for D. Nix,93-93, ,,4,93,93,0,2873.0
+0:07.0, ,93-94,J. Butler makes free throw 1 of 2,,4,94,93,1,2873.0
+0:07.0, ,93-94,H. Highsmith enters the game for T. Herro,,4,94,93,1,2873.0
+0:07.0, ,93-94,C. Martin enters the game for M. Strus,,4,94,93,1,2873.0
+0:07.0, ,93-95,J. Butler makes free throw 2 of 2,,4,95,93,2,2873.0
+0:00.0,J. Green makes 2-pt layup from 3 ft (assist by T. Washington),95-95, ,Tie,4,95,95,0,2880.0
+0:00.0, ,95-95,Miami full timeout,,4,95,95,0,2880.0
+0:00.0,K. Martin enters the game for A. Sengun,95-95, ,,4,95,95,0,2880.0
+0:00.0,D. Nix enters the game for T. Washington,95-95, ,,4,95,95,0,2880.0
+0:00.0, ,95-95,T. Herro enters the game for H. Highsmith,,4,95,95,0,2880.0
+0:00.0, ,95-95,M. Strus enters the game for C. Martin,,4,95,95,0,2880.0
+0:00.0, ,95-97,J. Butler makes 2-pt dunk from 4 ft (assist by G. Vincent),,4,97,95,2,2880.0
+0:00.0,End of 4th quarter,95-97,,,4,97,95,2,2880.0

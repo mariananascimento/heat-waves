@@ -1,0 +1,437 @@
+Time,Miami,Score,Atlanta,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. O. Okongwu (G. Vincent gains possession),0-0,,,1,0,0,0,0.0
+11:38.0,T. Herro misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,22.0
+11:35.0,Offensive rebound by C. Martin,0-0, ,,1,0,0,0,25.0
+11:34.0,C. Martin misses 2-pt layup from 1 ft,0-0, ,,1,0,0,0,26.0
+11:32.0, ,0-0,Defensive rebound by O. Okongwu,,1,0,0,0,28.0
+11:19.0, ,0-2,O. Okongwu makes 2-pt layup from 2 ft (assist by D. Hunter),,1,0,2,-2,41.0
+10:59.0,T. Herro misses 3-pt jump shot from 25 ft,0-2, ,,1,0,2,-2,61.0
+10:56.0, ,0-2,Defensive rebound by D. Hunter,,1,0,2,-2,64.0
+10:47.0, ,0-2,Shooting foul by C. Martin (drawn by J. Collins),,1,0,2,-2,73.0
+10:47.0, ,0-3,J. Collins makes free throw 1 of 2,,1,0,3,-3,73.0
+10:47.0, ,0-4,J. Collins makes free throw 2 of 2,,1,0,4,-4,73.0
+10:35.0,B. Adebayo makes 2-pt jump shot from 12 ft (assist by T. Herro),2-4, ,,1,2,4,-2,85.0
+10:21.0, ,2-4,D. Hunter misses 3-pt jump shot from 23 ft,,1,2,4,-2,99.0
+10:18.0,Defensive rebound by T. Herro,2-4, ,,1,2,4,-2,102.0
+10:13.0,G. Vincent misses 3-pt jump shot from 23 ft,2-4, ,,1,2,4,-2,107.0
+10:07.0,Offensive rebound by C. Martin,2-4, ,,1,2,4,-2,113.0
+10:06.0,Shooting foul by T. Young (drawn by J. Butler),2-4, ,,1,2,4,-2,114.0
+10:06.0,J. Butler makes free throw 1 of 2,3-4, ,,1,3,4,-1,114.0
+10:06.0,J. Butler makes free throw 2 of 2,4-4, ,Tie,1,4,4,0,114.0
+9:49.0, ,4-4,D. Murray misses 2-pt jump shot from 12 ft (block by B. Adebayo),,1,4,4,0,131.0
+9:46.0,Defensive rebound by J. Butler,4-4, ,,1,4,4,0,134.0
+9:40.0,G. Vincent misses 2-pt layup from 2 ft,4-4, ,,1,4,4,0,140.0
+9:37.0, ,4-4,Defensive rebound by D. Murray,,1,4,4,0,143.0
+9:31.0, ,4-6,D. Murray makes 2-pt layup from 1 ft (assist by T. Young),,1,4,6,-2,149.0
+9:15.0,B. Adebayo misses 2-pt jump shot from 11 ft,4-6, ,,1,4,6,-2,165.0
+9:12.0, ,4-6,Defensive rebound by T. Young,,1,4,6,-2,168.0
+9:06.0, ,4-6,Shooting foul by B. Adebayo (drawn by T. Young),,1,4,6,-2,174.0
+9:06.0, ,4-7,T. Young makes free throw 1 of 3,,1,4,7,-3,174.0
+9:06.0, ,4-8,T. Young makes free throw 2 of 3,,1,4,8,-4,174.0
+9:06.0, ,4-9,T. Young makes free throw 3 of 3,,1,4,9,-5,174.0
+8:57.0,J. Butler makes 2-pt dunk from 1 ft,6-9, ,,1,6,9,-3,183.0
+8:39.0, ,6-11,J. Collins makes 2-pt jump shot from 9 ft (assist by T. Young),,1,6,11,-5,201.0
+8:27.0,T. Herro makes 2-pt jump shot from 12 ft (assist by B. Adebayo),8-11, ,,1,8,11,-3,213.0
+8:13.0, ,8-11,Turnover by T. Young (lost ball; steal by G. Vincent),,1,8,11,-3,227.0
+8:09.0,J. Butler makes 2-pt dunk at rim (assist by G. Vincent),10-11, ,,1,10,11,-1,231.0
+7:57.0, ,10-13,D. Murray makes 2-pt layup from 2 ft,,1,10,13,-3,243.0
+7:34.0,C. Martin makes 2-pt layup from 1 ft (assist by J. Butler),12-13, ,,1,12,13,-1,266.0
+7:25.0, ,12-13,Personal foul by G. Vincent (drawn by J. Collins),,1,12,13,-1,275.0
+7:18.0, ,12-13,Shooting foul by C. Martin (drawn by O. Okongwu),,1,12,13,-1,282.0
+7:18.0, ,12-14,O. Okongwu makes free throw 1 of 2,,1,12,14,-2,282.0
+7:18.0,V. Oladipo enters the game for C. Martin,12-14, ,,1,12,14,-2,282.0
+7:18.0, ,12-15,O. Okongwu makes free throw 2 of 2,,1,12,15,-3,282.0
+7:03.0,Turnover by T. Herro (bad pass; steal by T. Young),12-15, ,,1,12,15,-3,297.0
+6:59.0, ,12-15,D. Murray misses 2-pt layup from 2 ft,,1,12,15,-3,301.0
+6:57.0,Defensive rebound by G. Vincent,12-15, ,,1,12,15,-3,303.0
+6:45.0,J. Butler makes 2-pt layup from 1 ft (assist by V. Oladipo),14-15, ,,1,14,15,-1,315.0
+6:33.0, ,14-18,D. Hunter makes 3-pt jump shot from 25 ft (assist by D. Murray),,1,14,18,-4,327.0
+6:19.0,T. Herro makes 2-pt jump shot from 11 ft (assist by V. Oladipo),16-18, ,,1,16,18,-2,341.0
+6:11.0, ,16-21,T. Young makes 3-pt jump shot from 26 ft,,1,16,21,-5,349.0
+6:11.0,Miami full timeout,16-21, ,,1,16,21,-5,349.0
+6:11.0,O. Robinson enters the game for B. Adebayo,16-21, ,,1,16,21,-5,349.0
+6:11.0,M. Strus enters the game for G. Vincent,16-21, ,,1,16,21,-5,349.0
+6:11.0, ,16-21,B. Bogdanović enters the game for T. Young,,1,16,21,-5,349.0
+5:57.0,Turnover by M. Strus (bad pass; steal by D. Murray),16-21, ,,1,16,21,-5,363.0
+5:54.0, ,16-23,D. Murray makes 2-pt layup from 2 ft,,1,16,23,-7,366.0
+5:38.0,V. Oladipo makes 2-pt layup from 1 ft (assist by M. Strus),18-23, ,,1,18,23,-5,382.0
+5:23.0, ,18-25,J. Collins makes 2-pt jump shot from 16 ft,,1,18,25,-7,397.0
+5:07.0,Turnover by J. Butler (bad pass; steal by O. Okongwu),18-25, ,,1,18,25,-7,413.0
+5:01.0, ,18-25,Shooting foul by M. Strus (drawn by D. Hunter),,1,18,25,-7,419.0
+5:01.0, ,18-26,D. Hunter makes free throw 1 of 2,,1,18,26,-8,419.0
+5:01.0, ,18-26,C. Capela enters the game for O. Okongwu,,1,18,26,-8,419.0
+5:01.0, ,18-27,D. Hunter makes free throw 2 of 2,,1,18,27,-9,419.0
+4:48.0,V. Oladipo makes 2-pt jump shot from 17 ft,20-27, ,,1,20,27,-7,432.0
+4:30.0, ,20-29,C. Capela makes 2-pt layup from 4 ft (assist by D. Hunter),,1,20,29,-9,450.0
+4:30.0, ,20-29,Shooting foul by V. Oladipo (drawn by C. Capela),,1,20,29,-9,450.0
+4:30.0, ,20-29,A. Holiday enters the game for J. Collins,,1,20,29,-9,450.0
+4:30.0, ,20-29,T. Young enters the game for D. Murray,,1,20,29,-9,450.0
+4:30.0, ,20-29,C. Capela misses free throw 1 of 1,,1,20,29,-9,450.0
+4:28.0,Defensive rebound by T. Herro,20-29, ,,1,20,29,-9,452.0
+4:12.0,Shooting foul by A. Holiday (drawn by J. Butler),20-29, ,,1,20,29,-9,468.0
+4:12.0,J. Butler makes free throw 1 of 2,21-29, ,,1,21,29,-8,468.0
+4:12.0,G. Vincent enters the game for T. Herro,21-29, ,,1,21,29,-8,468.0
+4:12.0,J. Butler makes free throw 2 of 2,22-29, ,,1,22,29,-7,468.0
+3:54.0, ,22-32,T. Young makes 3-pt jump shot from 24 ft (assist by B. Bogdanović),,1,22,32,-10,486.0
+3:35.0,J. Butler makes 2-pt layup at rim,24-32, ,,1,24,32,-8,505.0
+3:29.0, ,24-32,B. Bogdanović misses 3-pt jump shot from 25 ft,,1,24,32,-8,511.0
+3:26.0,Defensive rebound by G. Vincent,24-32, ,,1,24,32,-8,514.0
+3:14.0,Turnover by J. Butler (bad pass; steal by T. Young),24-32, ,,1,24,32,-8,526.0
+3:05.0, ,24-32,Shooting foul by G. Vincent (drawn by T. Young),,1,24,32,-8,535.0
+3:05.0, ,24-33,T. Young makes free throw 1 of 2,,1,24,33,-9,535.0
+3:05.0,B. Adebayo enters the game for J. Butler,24-33, ,,1,24,33,-9,535.0
+3:05.0,T. Herro enters the game for O. Robinson,24-33, ,,1,24,33,-9,535.0
+3:05.0,H. Highsmith enters the game for G. Vincent,24-33, ,,1,24,33,-9,535.0
+3:05.0, ,24-33,A. Griffin enters the game for D. Hunter,,1,24,33,-9,535.0
+3:05.0, ,24-33,T. Young misses free throw 2 of 2,,1,24,33,-9,535.0
+3:03.0,Defensive rebound by H. Highsmith,24-33, ,,1,24,33,-9,537.0
+2:52.0,H. Highsmith makes 2-pt hook shot from 2 ft (assist by M. Strus),26-33, ,,1,26,33,-7,548.0
+2:26.0, ,26-33,B. Bogdanović misses 3-pt jump shot from 24 ft,,1,26,33,-7,574.0
+2:24.0,Defensive rebound by M. Strus,26-33, ,,1,26,33,-7,576.0
+2:14.0,Turnover by M. Strus (bad pass; steal by B. Bogdanović),26-33, ,,1,26,33,-7,586.0
+2:09.0, ,26-33,B. Bogdanović misses 2-pt layup from 2 ft,,1,26,33,-7,591.0
+2:06.0,Defensive rebound by B. Adebayo,26-33, ,,1,26,33,-7,594.0
+1:56.0,Turnover by B. Adebayo (lost ball; steal by B. Bogdanović),26-33, ,,1,26,33,-7,604.0
+1:36.0, ,26-33,C. Capela misses 2-pt hook shot from 5 ft,,1,26,33,-7,624.0
+1:34.0,Defensive rebound by T. Herro,26-33, ,,1,26,33,-7,626.0
+1:22.0,T. Herro misses 2-pt jump shot from 11 ft,26-33, ,,1,26,33,-7,638.0
+1:20.0, ,26-33,Defensive rebound by C. Capela,,1,26,33,-7,640.0
+1:11.0, ,26-35,C. Capela makes 2-pt layup from 2 ft (assist by T. Young),,1,26,35,-9,649.0
+0:57.0,M. Strus misses 2-pt layup from 2 ft,26-35, ,,1,26,35,-9,663.0
+0:56.0,Offensive rebound by B. Adebayo,26-35, ,,1,26,35,-9,664.0
+0:56.0,B. Adebayo misses 2-pt layup at rim,26-35, ,,1,26,35,-9,664.0
+0:55.0,Offensive rebound by B. Adebayo,26-35, ,,1,26,35,-9,665.0
+0:55.0,B. Adebayo misses 2-pt layup at rim,26-35, ,,1,26,35,-9,665.0
+0:55.0, ,26-35,Defensive rebound by Team,,1,26,35,-9,665.0
+0:55.0, ,26-35,Atlanta full timeout,,1,26,35,-9,665.0
+0:34.0, ,26-38,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by A. Griffin),,1,26,38,-12,686.0
+0:10.0,T. Herro misses 3-pt jump shot from 23 ft,26-38, ,,1,26,38,-12,710.0
+0:09.0,Offensive rebound by Team,26-38, ,,1,26,38,-12,711.0
+0:09.0,Turnover by Team (shot clock),26-38, ,,1,26,38,-12,711.0
+0:01.0, ,26-38,Turnover by T. Young (bad pass; steal by V. Oladipo),,1,26,38,-12,719.0
+0:00.0,V. Oladipo misses 3-pt jump shot from 26 ft,26-38, ,,1,26,38,-12,720.0
+0:00.0,Offensive rebound by Team,26-38, ,,1,26,38,-12,720.0
+0:00.0,End of 1st quarter,26-38,,,1,26,38,-12,720.0
+12:00.0,Start of 2nd quarter,26-38,,,2,26,38,-12,720.0
+11:39.0, ,26-40,O. Okongwu makes 2-pt layup from 1 ft (assist by B. Bogdanović),,2,26,40,-14,741.0
+11:20.0,H. Highsmith makes 3-pt jump shot from 23 ft (assist by V. Oladipo),29-40, ,,2,29,40,-11,760.0
+11:07.0, ,29-40,J. Collins misses 2-pt jump shot from 6 ft (block by B. Adebayo),,2,29,40,-11,773.0
+11:05.0,Defensive rebound by H. Highsmith,29-40, ,,2,29,40,-11,775.0
+11:00.0,Shooting foul by A. Griffin (drawn by M. Strus),29-40, ,,2,29,40,-11,780.0
+11:00.0,M. Strus makes free throw 1 of 2,30-40, ,,2,30,40,-10,780.0
+11:00.0,M. Strus makes free throw 2 of 2,31-40, ,,2,31,40,-9,780.0
+10:45.0, ,31-42,D. Murray makes 2-pt jump shot from 18 ft,,2,31,42,-11,795.0
+10:29.0,H. Highsmith makes 2-pt layup from 3 ft (assist by V. Oladipo),33-42, ,,2,33,42,-9,811.0
+10:13.0, ,33-44,J. Collins makes 2-pt jump shot from 10 ft (assist by D. Murray),,2,33,44,-11,827.0
+9:52.0,T. Herro misses 3-pt jump shot from 24 ft,33-44, ,,2,33,44,-11,848.0
+9:49.0, ,33-44,Defensive rebound by A. Griffin,,2,33,44,-11,851.0
+9:47.0, ,33-46,J. Collins makes 2-pt dunk from 1 ft (assist by A. Griffin),,2,33,46,-13,853.0
+9:35.0,T. Herro misses 3-pt jump shot from 25 ft,33-46, ,,2,33,46,-13,865.0
+9:32.0, ,33-46,Defensive rebound by B. Bogdanović,,2,33,46,-13,868.0
+9:19.0, ,33-49,A. Griffin makes 3-pt jump shot from 23 ft (assist by D. Murray),,2,33,49,-16,881.0
+9:18.0,Miami full timeout,33-49, ,,2,33,49,-16,882.0
+9:18.0,G. Vincent enters the game for T. Herro,33-49, ,,2,33,49,-16,882.0
+9:02.0,B. Adebayo misses 2-pt jump shot from 6 ft,33-49, ,,2,33,49,-16,898.0
+8:59.0, ,33-49,Defensive rebound by O. Okongwu,,2,33,49,-16,901.0
+8:52.0, ,33-51,A. Griffin makes 2-pt jump shot from 12 ft,,2,33,51,-18,908.0
+8:37.0,H. Highsmith misses 3-pt jump shot from 25 ft,33-51, ,,2,33,51,-18,923.0
+8:35.0, ,33-51,Defensive rebound by D. Murray,,2,33,51,-18,925.0
+8:15.0, ,33-51,B. Bogdanović misses 2-pt layup from 2 ft,,2,33,51,-18,945.0
+8:10.0,Defensive rebound by B. Adebayo,33-51, ,,2,33,51,-18,950.0
+7:55.0,G. Vincent makes 3-pt jump shot from 23 ft (assist by B. Adebayo),36-51, ,,2,36,51,-15,965.0
+7:38.0, ,36-54,A. Griffin makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),,2,36,54,-18,982.0
+7:26.0,G. Vincent misses 3-pt jump shot from 25 ft,36-54, ,,2,36,54,-18,994.0
+7:25.0, ,36-54,Defensive rebound by Team,,2,36,54,-18,995.0
+7:25.0,J. Butler enters the game for V. Oladipo,36-54, ,,2,36,54,-18,995.0
+7:25.0, ,36-54,D. Hunter enters the game for B. Bogdanović,,2,36,54,-18,995.0
+7:17.0, ,36-54,Personal foul by H. Highsmith (drawn by O. Okongwu),,2,36,54,-18,1003.0
+7:09.0, ,36-57,D. Murray makes 3-pt jump shot from 26 ft (assist by D. Hunter),,2,36,57,-21,1011.0
+6:53.0,G. Vincent misses 3-pt jump shot from 25 ft,36-57, ,,2,36,57,-21,1027.0
+6:50.0,Offensive rebound by G. Vincent,36-57, ,,2,36,57,-21,1030.0
+6:48.0,M. Strus makes 3-pt jump shot from 23 ft (assist by G. Vincent),39-57, ,,2,39,57,-18,1032.0
+6:39.0, ,39-57,Offensive foul by D. Hunter (drawn by M. Strus),,2,39,57,-18,1041.0
+6:39.0, ,39-57,Turnover by D. Hunter (offensive foul),,2,39,57,-18,1041.0
+6:39.0,C. Martin enters the game for B. Adebayo,39-57, ,,2,39,57,-18,1041.0
+6:39.0,O. Robinson enters the game for H. Highsmith,39-57, ,,2,39,57,-18,1041.0
+6:39.0, ,39-57,T. Young enters the game for A. Griffin,,2,39,57,-18,1041.0
+6:29.0,O. Robinson misses 2-pt layup from 2 ft (block by O. Okongwu),39-57, ,,2,39,57,-18,1051.0
+6:24.0, ,39-57,Defensive rebound by J. Collins,,2,39,57,-18,1056.0
+6:17.0, ,39-59,J. Collins makes 2-pt layup from 2 ft,,2,39,59,-20,1063.0
+5:59.0,Turnover by G. Vincent (bad pass; steal by T. Young),39-59, ,,2,39,59,-20,1081.0
+5:52.0, ,39-59,Turnover by O. Okongwu (bad pass),,2,39,59,-20,1088.0
+5:47.0,Offensive foul by C. Martin (drawn by T. Young),39-59, ,,2,39,59,-20,1093.0
+5:47.0,Turnover by C. Martin (offensive foul),39-59, ,,2,39,59,-20,1093.0
+5:47.0, ,39-59,C. Capela enters the game for O. Okongwu,,2,39,59,-20,1093.0
+5:39.0, ,39-62,D. Murray makes 3-pt jump shot from 25 ft (assist by T. Young),,2,39,62,-23,1101.0
+5:16.0,J. Butler misses 2-pt layup from 2 ft (block by C. Capela),39-62, ,,2,39,62,-23,1124.0
+5:13.0, ,39-62,Defensive rebound by D. Hunter,,2,39,62,-23,1127.0
+5:13.0,V. Oladipo enters the game for C. Martin,39-62, ,,2,39,62,-23,1127.0
+4:53.0, ,39-62,T. Young misses 2-pt jump shot from 12 ft,,2,39,62,-23,1147.0
+4:52.0, ,39-62,Offensive rebound by Team,,2,39,62,-23,1148.0
+4:50.0, ,39-62,Turnover by T. Young (bad pass; steal by G. Vincent),,2,39,62,-23,1150.0
+4:35.0,M. Strus makes 3-pt jump shot from 24 ft (assist by O. Robinson),42-62, ,,2,42,62,-20,1165.0
+4:16.0, ,42-64,D. Hunter makes 2-pt jump shot from 13 ft (assist by D. Murray),,2,42,64,-22,1184.0
+3:59.0, ,42-64,Violation by Team (kicked ball),,2,42,64,-22,1201.0
+3:54.0,M. Strus misses 3-pt jump shot from 24 ft,42-64, ,,2,42,64,-22,1206.0
+3:53.0, ,42-64,Defensive rebound by Team,,2,42,64,-22,1207.0
+3:53.0,Loose ball foul by O. Robinson (drawn by J. Collins),42-64, ,,2,42,64,-22,1207.0
+3:53.0, ,42-64,B. Bogdanović enters the game for J. Collins,,2,42,64,-22,1207.0
+3:53.0, ,42-64,A. Griffin enters the game for D. Murray,,2,42,64,-22,1207.0
+3:41.0, ,42-64,Turnover by T. Young (bad pass; steal by J. Butler),,2,42,64,-22,1219.0
+3:35.0,J. Butler misses 2-pt layup from 4 ft,42-64, ,,2,42,64,-22,1225.0
+3:33.0, ,42-64,Defensive rebound by C. Capela,,2,42,64,-22,1227.0
+3:29.0, ,42-64,T. Young misses 2-pt jump shot from 19 ft,,2,42,64,-22,1231.0
+3:26.0,Defensive rebound by O. Robinson,42-64, ,,2,42,64,-22,1234.0
+3:17.0,J. Butler misses 2-pt layup from 1 ft (block by C. Capela),42-64, ,,2,42,64,-22,1243.0
+3:13.0, ,42-64,Defensive rebound by A. Griffin,,2,42,64,-22,1247.0
+3:09.0, ,42-66,A. Griffin makes 2-pt layup from 7 ft,,2,42,66,-24,1251.0
+2:59.0,Personal foul by D. Hunter (drawn by V. Oladipo),42-66, ,,2,42,66,-24,1261.0
+2:59.0, ,42-66,Atlanta full timeout,,2,42,66,-24,1261.0
+2:59.0,B. Adebayo enters the game for O. Robinson,42-66, ,,2,42,66,-24,1261.0
+2:59.0,T. Herro enters the game for G. Vincent,42-66, ,,2,42,66,-24,1261.0
+2:46.0,B. Adebayo misses 2-pt hook shot from 7 ft,42-66, ,,2,42,66,-24,1274.0
+2:45.0,Offensive rebound by Team,42-66, ,,2,42,66,-24,1275.0
+2:45.0, ,42-66,Loose ball foul by C. Capela (drawn by J. Butler),,2,42,66,-24,1275.0
+2:39.0,M. Strus misses 3-pt jump shot from 28 ft,42-66, ,,2,42,66,-24,1281.0
+2:35.0, ,42-66,Defensive rebound by C. Capela,,2,42,66,-24,1285.0
+2:28.0, ,42-68,T. Young makes 2-pt jump shot from 9 ft,,2,42,68,-26,1292.0
+2:10.0,J. Butler misses 2-pt layup from 1 ft,42-68, ,,2,42,68,-26,1310.0
+2:07.0,Offensive rebound by J. Butler,42-68, ,,2,42,68,-26,1313.0
+2:05.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by J. Butler),44-68, ,,2,44,68,-24,1315.0
+1:44.0, ,44-70,A. Griffin makes 2-pt jump shot from 20 ft (assist by T. Young),,2,44,70,-26,1336.0
+1:34.0,B. Adebayo misses 2-pt jump shot from 12 ft,44-70, ,,2,44,70,-26,1346.0
+1:30.0,Offensive rebound by J. Butler,44-70, ,,2,44,70,-26,1350.0
+1:30.0,J. Butler makes 2-pt layup at rim,46-70, ,,2,46,70,-24,1350.0
+1:16.0, ,46-70,Turnover by T. Young (traveling),,2,46,70,-24,1364.0
+1:16.0, ,46-70,J. Collins enters the game for D. Hunter,,2,46,70,-24,1364.0
+1:06.0,T. Herro makes 2-pt jump shot from 12 ft (assist by V. Oladipo),48-70, ,,2,48,70,-22,1374.0
+0:49.0, ,48-70,A. Griffin misses 3-pt jump shot from 25 ft,,2,48,70,-22,1391.0
+0:46.0,Defensive rebound by V. Oladipo,48-70, ,,2,48,70,-22,1394.0
+0:38.0,T. Herro makes 2-pt jump shot from 12 ft (assist by V. Oladipo),50-70, ,,2,50,70,-20,1402.0
+0:31.0, ,50-70,T. Young misses 2-pt jump shot from 15 ft,,2,50,70,-20,1409.0
+0:28.0,Defensive rebound by B. Adebayo,50-70, ,,2,50,70,-20,1412.0
+0:10.0,T. Herro misses 2-pt jump shot from 11 ft,50-70, ,,2,50,70,-20,1430.0
+0:07.0, ,50-70,Defensive rebound by C. Capela,,2,50,70,-20,1433.0
+0:00.0, ,50-70,Turnover by T. Young (bad pass; steal by B. Adebayo),,2,50,70,-20,1440.0
+0:00.0,End of 2nd quarter,50-70,,,2,50,70,-20,1440.0
+12:00.0,Start of 3rd quarter,50-70,,,3,50,70,-20,1440.0
+11:49.0, ,50-72,D. Hunter makes 2-pt jump shot from 19 ft (assist by D. Murray),,3,50,72,-22,1451.0
+11:26.0,Turnover by G. Vincent (out of bounds lost ball),50-72, ,,3,50,72,-22,1474.0
+11:23.0, ,50-72,Personal foul by J. Butler (drawn by D. Hunter),,3,50,72,-22,1477.0
+11:16.0, ,50-72,T. Young misses 2-pt hook shot from 7 ft,,3,50,72,-22,1484.0
+11:12.0, ,50-72,Offensive rebound by J. Collins,,3,50,72,-22,1488.0
+11:12.0, ,50-74,J. Collins makes 2-pt layup at rim,,3,50,74,-24,1488.0
+10:56.0,C. Martin makes 3-pt jump shot from 26 ft (assist by T. Herro),53-74, ,,3,53,74,-21,1504.0
+10:38.0, ,53-74,T. Young misses 3-pt jump shot from 26 ft,,3,53,74,-21,1522.0
+10:34.0,Defensive rebound by B. Adebayo,53-74, ,,3,53,74,-21,1526.0
+10:21.0,Shooting foul by T. Young (drawn by B. Adebayo),53-74, ,,3,53,74,-21,1539.0
+10:21.0,B. Adebayo makes free throw 1 of 2,54-74, ,,3,54,74,-20,1539.0
+10:21.0,B. Adebayo makes free throw 2 of 2,55-74, ,,3,55,74,-19,1539.0
+10:03.0, ,55-76,D. Murray makes 2-pt jump shot from 18 ft,,3,55,76,-21,1557.0
+9:51.0,G. Vincent makes 2-pt layup from 4 ft (assist by J. Butler),57-76, ,,3,57,76,-19,1569.0
+9:43.0, ,57-76,D. Hunter misses 3-pt jump shot from 25 ft,,3,57,76,-19,1577.0
+9:40.0,Defensive rebound by C. Martin,57-76, ,,3,57,76,-19,1580.0
+9:32.0,B. Adebayo makes 2-pt jump shot from 12 ft (assist by G. Vincent),59-76, ,,3,59,76,-17,1588.0
+9:15.0, ,59-78,D. Hunter makes 2-pt jump shot from 10 ft (assist by D. Murray),,3,59,78,-19,1605.0
+9:02.0,B. Adebayo makes 2-pt jump shot from 11 ft,61-78, ,,3,61,78,-17,1618.0
+8:50.0, ,61-80,T. Young makes 2-pt jump shot from 6 ft,,3,61,80,-19,1630.0
+8:34.0,B. Adebayo misses 2-pt jump shot from 12 ft,61-80, ,,3,61,80,-19,1646.0
+8:32.0, ,61-80,Defensive rebound by J. Collins,,3,61,80,-19,1648.0
+8:24.0, ,61-80,D. Murray misses 3-pt jump shot from 25 ft,,3,61,80,-19,1656.0
+8:20.0,Defensive rebound by T. Herro,61-80, ,,3,61,80,-19,1660.0
+8:07.0,Personal foul by O. Okongwu (drawn by T. Herro),61-80, ,,3,61,80,-19,1673.0
+8:02.0,J. Butler makes 2-pt dunk from 1 ft (assist by B. Adebayo),63-80, ,,3,63,80,-17,1678.0
+7:46.0, ,63-80,D. Murray misses 2-pt jump shot from 11 ft,,3,63,80,-17,1694.0
+7:43.0,Defensive rebound by B. Adebayo,63-80, ,,3,63,80,-17,1697.0
+7:38.0,G. Vincent makes 3-pt jump shot from 23 ft (assist by B. Adebayo),66-80, ,,3,66,80,-14,1702.0
+7:38.0, ,66-80,Atlanta full timeout,,3,66,80,-14,1702.0
+7:22.0, ,66-80,J. Collins misses 3-pt jump shot from 25 ft (block by J. Butler),,3,66,80,-14,1718.0
+7:17.0,Defensive rebound by C. Martin,66-80, ,,3,66,80,-14,1723.0
+7:09.0,Turnover by B. Adebayo (bad pass),66-80, ,,3,66,80,-14,1731.0
+6:44.0, ,66-80,Turnover by T. Young (bad pass; steal by B. Adebayo),,3,66,80,-14,1756.0
+6:30.0,T. Herro makes 2-pt layup from 2 ft,68-80, ,,3,68,80,-12,1770.0
+6:15.0, ,68-80,Turnover by D. Murray (lost ball; steal by C. Martin),,3,68,80,-12,1785.0
+6:10.0,C. Martin misses 2-pt layup from 1 ft,68-80, ,,3,68,80,-12,1790.0
+6:08.0,Offensive rebound by B. Adebayo,68-80, ,,3,68,80,-12,1792.0
+6:08.0,B. Adebayo makes 2-pt dunk at rim,70-80, ,,3,70,80,-10,1792.0
+6:08.0, ,70-80,B. Bogdanović enters the game for T. Young,,3,70,80,-10,1792.0
+5:43.0, ,70-80,B. Bogdanović misses 2-pt jump shot from 22 ft,,3,70,80,-10,1817.0
+5:42.0,Defensive rebound by Team,70-80, ,,3,70,80,-10,1818.0
+5:32.0,T. Herro misses 3-pt jump shot from 25 ft,70-80, ,,3,70,80,-10,1828.0
+5:30.0,Offensive rebound by B. Adebayo,70-80, ,,3,70,80,-10,1830.0
+5:30.0,B. Adebayo misses 2-pt layup from 2 ft (block by D. Murray),70-80, ,,3,70,80,-10,1830.0
+5:29.0,Offensive rebound by Team,70-80, ,,3,70,80,-10,1831.0
+5:24.0,Offensive foul by B. Adebayo (drawn by D. Hunter),70-80, ,,3,70,80,-10,1836.0
+5:24.0,Turnover by B. Adebayo (offensive foul),70-80, ,,3,70,80,-10,1836.0
+5:24.0,V. Oladipo enters the game for G. Vincent,70-80, ,,3,70,80,-10,1836.0
+5:05.0, ,70-80,B. Bogdanović misses 2-pt jump shot from 9 ft,,3,70,80,-10,1855.0
+5:02.0,Defensive rebound by B. Adebayo,70-80, ,,3,70,80,-10,1858.0
+4:52.0,Shooting foul by J. Collins (drawn by J. Butler),70-80, ,,3,70,80,-10,1868.0
+4:52.0,J. Butler makes free throw 1 of 2,71-80, ,,3,71,80,-9,1868.0
+4:52.0,O. Robinson enters the game for B. Adebayo,71-80, ,,3,71,80,-9,1868.0
+4:52.0, ,71-80,C. Capela enters the game for O. Okongwu,,3,71,80,-9,1868.0
+4:52.0,J. Butler makes free throw 2 of 2,72-80, ,,3,72,80,-8,1868.0
+4:30.0, ,72-80,Turnover by J. Collins (lost ball; steal by J. Butler),,3,72,80,-8,1890.0
+4:30.0, ,72-80,A. Griffin enters the game for J. Collins,,3,72,80,-8,1890.0
+4:30.0, ,72-80,T. Young enters the game for D. Murray,,3,72,80,-8,1890.0
+4:16.0,T. Herro misses 3-pt jump shot from 25 ft,72-80, ,,3,72,80,-8,1904.0
+4:12.0, ,72-80,Defensive rebound by C. Capela,,3,72,80,-8,1908.0
+4:06.0, ,72-80,Personal foul by O. Robinson (drawn by D. Hunter),,3,72,80,-8,1914.0
+3:55.0, ,72-82,C. Capela makes 2-pt dunk at rim (assist by T. Young),,3,72,82,-10,1925.0
+3:37.0,J. Butler makes 3-pt jump shot from 23 ft (assist by T. Herro),75-82, ,,3,75,82,-7,1943.0
+3:18.0, ,75-84,D. Hunter makes 2-pt jump shot from 14 ft,,3,75,84,-9,1962.0
+3:05.0,V. Oladipo misses 3-pt jump shot from 26 ft,75-84, ,,3,75,84,-9,1975.0
+3:01.0, ,75-84,Defensive rebound by C. Capela,,3,75,84,-9,1979.0
+2:41.0, ,75-87,B. Bogdanović makes 3-pt jump shot from 27 ft,,3,75,87,-12,1999.0
+2:41.0,Miami full timeout,75-87, ,,3,75,87,-12,1999.0
+2:41.0,M. Strus enters the game for T. Herro,75-87, ,,3,75,87,-12,1999.0
+2:31.0,J. Butler makes 2-pt jump shot from 10 ft (assist by V. Oladipo),77-87, ,,3,77,87,-10,2009.0
+2:31.0,Shooting foul by D. Hunter (drawn by J. Butler),77-87, ,,3,77,87,-10,2009.0
+2:31.0,J. Butler makes free throw 1 of 1,78-87, ,,3,78,87,-9,2009.0
+2:19.0, ,78-87,B. Bogdanović misses 3-pt jump shot from 26 ft,,3,78,87,-9,2021.0
+2:15.0,Defensive rebound by V. Oladipo,78-87, ,,3,78,87,-9,2025.0
+2:15.0,B. Adebayo enters the game for J. Butler,78-87, ,,3,78,87,-9,2025.0
+2:15.0,G. Vincent enters the game for O. Robinson,78-87, ,,3,78,87,-9,2025.0
+1:55.0,M. Strus misses 3-pt jump shot from 25 ft,78-87, ,,3,78,87,-9,2045.0
+1:51.0, ,78-87,Defensive rebound by T. Young,,3,78,87,-9,2049.0
+1:43.0, ,78-89,C. Capela makes 2-pt layup at rim (assist by T. Young),,3,78,89,-11,2057.0
+1:29.0,M. Strus makes 2-pt layup from 2 ft (assist by V. Oladipo),80-89, ,,3,80,89,-9,2071.0
+1:18.0, ,80-89,Turnover by T. Young (bad pass; steal by C. Martin),,3,80,89,-9,2082.0
+1:17.0,Turnover by C. Martin (bad pass),80-89, ,,3,80,89,-9,2083.0
+1:17.0, ,80-89,J. Collins enters the game for D. Hunter,,3,80,89,-9,2083.0
+1:01.0, ,80-91,T. Young makes 2-pt jump shot from 16 ft,,3,80,91,-11,2099.0
+0:54.0,V. Oladipo misses 2-pt layup from 2 ft (block by C. Capela),80-91, ,,3,80,91,-11,2106.0
+0:51.0, ,80-91,Defensive rebound by A. Griffin,,3,80,91,-11,2109.0
+0:45.0, ,80-91,Offensive foul by T. Young (drawn by G. Vincent),,3,80,91,-11,2115.0
+0:45.0, ,80-91,Turnover by T. Young (offensive foul),,3,80,91,-11,2115.0
+0:45.0,H. Highsmith enters the game for C. Martin,80-91, ,,3,80,91,-11,2115.0
+0:23.0,G. Vincent misses 3-pt jump shot from 25 ft,80-91, ,,3,80,91,-11,2137.0
+0:20.0, ,80-91,Defensive rebound by T. Young,,3,80,91,-11,2140.0
+0:08.0, ,80-91,Personal foul by M. Strus (drawn by T. Young),,3,80,91,-11,2152.0
+0:00.0, ,80-91,T. Young misses 3-pt jump shot from 28 ft,,3,80,91,-11,2160.0
+0:00.0, ,80-91,Offensive rebound by Team,,3,80,91,-11,2160.0
+0:00.0,End of 3rd quarter,80-91,,,3,80,91,-11,2160.0
+12:00.0,Start of 4th quarter,80-91,,,4,80,91,-11,2160.0
+11:45.0,Personal foul by B. Bogdanović (drawn by B. Adebayo),80-91, ,,4,80,91,-11,2175.0
+11:31.0,Shooting foul by O. Okongwu (drawn by M. Strus),80-91, ,,4,80,91,-11,2189.0
+11:31.0,Instant Replay (Request: Ruling Stands),80-91, ,,4,80,91,-11,2189.0
+11:31.0,M. Strus makes free throw 1 of 3,81-91, ,,4,81,91,-10,2189.0
+11:31.0,M. Strus makes free throw 2 of 3,82-91, ,,4,82,91,-9,2189.0
+11:31.0,M. Strus makes free throw 3 of 3,83-91, ,,4,83,91,-8,2189.0
+11:07.0, ,83-91,B. Bogdanović misses 2-pt jump shot from 21 ft,,4,83,91,-8,2213.0
+11:04.0,Defensive rebound by V. Oladipo,83-91, ,,4,83,91,-8,2216.0
+10:49.0,M. Strus misses 3-pt jump shot from 26 ft,83-91, ,,4,83,91,-8,2231.0
+10:47.0, ,83-91,Defensive rebound by Team,,4,83,91,-8,2233.0
+10:47.0,Loose ball foul by B. Adebayo (drawn by O. Okongwu),83-91, ,,4,83,91,-8,2233.0
+10:32.0, ,83-91,Offensive foul by O. Okongwu (drawn by G. Vincent),,4,83,91,-8,2248.0
+10:32.0, ,83-91,Turnover by O. Okongwu (offensive foul),,4,83,91,-8,2248.0
+10:22.0,H. Highsmith misses 3-pt jump shot from 23 ft,83-91, ,,4,83,91,-8,2258.0
+10:18.0, ,83-91,Defensive rebound by D. Murray,,4,83,91,-8,2262.0
+10:12.0, ,83-91,Personal foul by M. Strus (drawn by J. Collins),,4,83,91,-8,2268.0
+10:07.0, ,83-94,D. Murray makes 3-pt jump shot from 26 ft (assist by J. Collins),,4,83,94,-11,2273.0
+9:48.0,G. Vincent makes 2-pt layup from 1 ft,85-94, ,,4,85,94,-9,2292.0
+9:34.0, ,85-94,Turnover by D. Murray (bad pass; steal by B. Adebayo),,4,85,94,-9,2306.0
+9:32.0,Turnover by H. Highsmith (bad pass; steal by D. Murray),85-94, ,,4,85,94,-9,2308.0
+9:25.0, ,85-97,D. Murray makes 3-pt jump shot from 24 ft (assist by B. Bogdanović),,4,85,97,-12,2315.0
+9:13.0,B. Adebayo misses 2-pt layup from 5 ft,85-97, ,,4,85,97,-12,2327.0
+9:10.0, ,85-97,Defensive rebound by J. Collins,,4,85,97,-12,2330.0
+9:05.0, ,85-97,D. Murray misses 3-pt jump shot from 26 ft,,4,85,97,-12,2335.0
+9:03.0,Defensive rebound by V. Oladipo,85-97, ,,4,85,97,-12,2337.0
+9:00.0,G. Vincent misses 3-pt jump shot from 26 ft,85-97, ,,4,85,97,-12,2340.0
+8:55.0,Offensive rebound by B. Adebayo,85-97, ,,4,85,97,-12,2345.0
+8:55.0,B. Adebayo misses 2-pt layup at rim,85-97, ,,4,85,97,-12,2345.0
+8:52.0,Offensive rebound by B. Adebayo,85-97, ,,4,85,97,-12,2348.0
+8:52.0,B. Adebayo makes 2-pt dunk at rim,87-97, ,,4,87,97,-10,2348.0
+8:36.0, ,87-97,J. Collins misses 2-pt jump shot from 6 ft,,4,87,97,-10,2364.0
+8:33.0,Defensive rebound by M. Strus,87-97, ,,4,87,97,-10,2367.0
+8:29.0,Shooting foul by O. Okongwu (drawn by V. Oladipo),87-97, ,,4,87,97,-10,2371.0
+8:29.0,Technical foul by B. Adebayo,87-97, ,,4,87,97,-10,2371.0
+8:29.0, ,87-98,D. Murray makes technical free throw,,4,87,98,-11,2371.0
+8:29.0,V. Oladipo misses free throw 1 of 2,87-98, ,,4,87,98,-11,2371.0
+8:29.0,Offensive rebound by Team,87-98, ,,4,87,98,-11,2371.0
+8:29.0,C. Martin enters the game for H. Highsmith,87-98, ,,4,87,98,-11,2371.0
+8:29.0, ,87-98,T. Young enters the game for A. Griffin,,4,87,98,-11,2371.0
+8:29.0,V. Oladipo makes free throw 2 of 2,88-98, ,,4,88,98,-10,2371.0
+8:13.0, ,88-100,O. Okongwu makes 2-pt hook shot from 6 ft (assist by D. Murray),,4,88,100,-12,2387.0
+7:59.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by M. Strus),90-100, ,,4,90,100,-10,2401.0
+7:37.0, ,90-102,D. Murray makes 2-pt jump shot from 18 ft,,4,90,102,-12,2423.0
+7:37.0,Miami full timeout,90-102, ,,4,90,102,-12,2423.0
+7:37.0,J. Butler enters the game for B. Adebayo,90-102, ,,4,90,102,-12,2423.0
+7:37.0,O. Robinson enters the game for G. Vincent,90-102, ,,4,90,102,-12,2423.0
+7:37.0, ,90-102,D. Hunter enters the game for J. Collins,,4,90,102,-12,2423.0
+7:24.0,V. Oladipo makes 2-pt layup from 1 ft,92-102, ,,4,92,102,-10,2436.0
+7:04.0, ,92-102,D. Hunter misses 3-pt jump shot from 24 ft,,4,92,102,-10,2456.0
+7:00.0,Defensive rebound by V. Oladipo,92-102, ,,4,92,102,-10,2460.0
+6:57.0,J. Butler makes 2-pt dunk from 1 ft (assist by V. Oladipo),94-102, ,,4,94,102,-8,2463.0
+6:39.0, ,94-102,Shooting foul by V. Oladipo (drawn by B. Bogdanović),,4,94,102,-8,2481.0
+6:39.0, ,94-103,B. Bogdanović makes free throw 1 of 2,,4,94,103,-9,2481.0
+6:39.0, ,94-104,B. Bogdanović makes free throw 2 of 2,,4,94,104,-10,2481.0
+6:20.0,V. Oladipo misses 3-pt jump shot from 26 ft,94-104, ,,4,94,104,-10,2500.0
+6:16.0, ,94-104,Defensive rebound by D. Hunter,,4,94,104,-10,2504.0
+6:03.0, ,94-104,D. Murray misses 3-pt jump shot from 25 ft,,4,94,104,-10,2517.0
+5:59.0, ,94-104,Offensive rebound by O. Okongwu,,4,94,104,-10,2521.0
+5:58.0, ,94-107,T. Young makes 3-pt jump shot from 26 ft (assist by D. Hunter),,4,94,107,-13,2522.0
+5:44.0,Turnover by M. Strus (lost ball; steal by T. Young),94-107, ,,4,94,107,-13,2536.0
+5:28.0, ,94-109,D. Hunter makes 2-pt jump shot from 11 ft,,4,94,109,-15,2552.0
+5:27.0,Miami full timeout,94-109, ,,4,94,109,-15,2553.0
+5:27.0,B. Adebayo enters the game for O. Robinson,94-109, ,,4,94,109,-15,2553.0
+5:27.0,T. Herro enters the game for M. Strus,94-109, ,,4,94,109,-15,2553.0
+5:13.0,J. Butler makes 2-pt layup from 2 ft,96-109, ,,4,96,109,-13,2567.0
+5:03.0, ,96-109,T. Young misses 3-pt jump shot from 25 ft,,4,96,109,-13,2577.0
+5:02.0,Defensive rebound by Team,96-109, ,,4,96,109,-13,2578.0
+5:02.0, ,96-109,Loose ball foul by O. Okongwu (drawn by B. Adebayo),,4,96,109,-13,2578.0
+5:02.0, ,96-109,C. Capela enters the game for O. Okongwu,,4,96,109,-13,2578.0
+4:41.0,Shooting foul by T. Young (drawn by J. Butler),96-109, ,,4,96,109,-13,2599.0
+4:41.0,J. Butler makes free throw 1 of 3,97-109, ,,4,97,109,-12,2599.0
+4:41.0,J. Butler makes free throw 2 of 3,98-109, ,,4,98,109,-11,2599.0
+4:41.0,J. Butler makes free throw 3 of 3,99-109, ,,4,99,109,-10,2599.0
+4:20.0, ,99-109,Turnover by T. Young (out of bounds lost ball),,4,99,109,-10,2620.0
+4:20.0, ,99-109,Technical foul by T. Young,,4,99,109,-10,2620.0
+4:20.0, ,99-109,Instant Replay (Request: Ruling Stands),,4,99,109,-10,2620.0
+4:20.0,J. Butler makes technical free throw,100-109, ,,4,100,109,-9,2620.0
+4:02.0,J. Butler misses 2-pt jump shot from 12 ft,100-109, ,,4,100,109,-9,2638.0
+3:58.0, ,100-109,Defensive rebound by D. Hunter,,4,100,109,-9,2642.0
+3:41.0, ,100-111,C. Capela makes 2-pt layup from 1 ft (assist by B. Bogdanović),,4,100,111,-11,2659.0
+3:19.0,B. Adebayo makes 2-pt jump shot from 13 ft,102-111, ,,4,102,111,-9,2681.0
+2:54.0, ,102-111,B. Bogdanović misses 2-pt jump shot from 12 ft,,4,102,111,-9,2706.0
+2:51.0,Defensive rebound by T. Herro,102-111, ,,4,102,111,-9,2709.0
+2:47.0,C. Martin makes 2-pt dunk from 1 ft (assist by T. Herro),104-111, ,,4,104,111,-7,2713.0
+2:23.0, ,104-111,D. Hunter misses 2-pt layup from 4 ft (block by B. Adebayo),,4,104,111,-7,2737.0
+2:20.0,Defensive rebound by B. Adebayo,104-111, ,,4,104,111,-7,2740.0
+2:18.0,J. Butler makes 2-pt dunk from 1 ft (assist by B. Adebayo),106-111, ,,4,106,111,-5,2742.0
+1:51.0, ,106-111,Personal foul by J. Butler (drawn by D. Murray),,4,106,111,-5,2769.0
+1:51.0, ,106-111,J. Collins enters the game for B. Bogdanović,,4,106,111,-5,2769.0
+1:36.0, ,106-114,D. Murray makes 3-pt jump shot from 26 ft,,4,106,114,-8,2784.0
+1:36.0, ,106-114,Shooting foul by V. Oladipo (drawn by D. Murray),,4,106,114,-8,2784.0
+1:36.0, ,106-114,Instant Replay (Request: Ruling Stands),,4,106,114,-8,2784.0
+1:36.0, ,106-114,D. Murray misses free throw 1 of 1,,4,106,114,-8,2784.0
+1:34.0,Defensive rebound by C. Martin,106-114, ,,4,106,114,-8,2786.0
+1:22.0,B. Adebayo makes 2-pt layup from 1 ft (assist by V. Oladipo),108-114, ,,4,108,114,-6,2798.0
+1:09.0, ,108-114,Personal foul by C. Martin (drawn by T. Young),,4,108,114,-6,2811.0
+1:09.0, ,108-115,T. Young makes free throw 1 of 2,,4,108,115,-7,2811.0
+1:09.0, ,108-115,T. Young misses free throw 2 of 2,,4,108,115,-7,2811.0
+1:07.0,Defensive rebound by C. Martin,108-115, ,,4,108,115,-7,2813.0
+0:58.0,T. Herro makes 3-pt jump shot from 26 ft (assist by C. Martin),111-115, ,,4,111,115,-4,2822.0
+0:42.0, ,111-117,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),,4,111,117,-6,2838.0
+0:34.0,T. Herro makes 2-pt jump shot from 9 ft,113-117, ,,4,113,117,-4,2846.0
+0:34.0, ,113-117,Atlanta full timeout,,4,113,117,-4,2846.0
+0:34.0, ,113-117,B. Bogdanović enters the game for C. Capela,,4,113,117,-4,2846.0
+0:25.0, ,113-117,Personal take foul by T. Herro (drawn by T. Young),,4,113,117,-4,2855.0
+0:25.0, ,113-118,T. Young makes free throw 1 of 2,,4,113,118,-5,2855.0
+0:25.0, ,113-118,C. Capela enters the game for B. Bogdanović,,4,113,118,-5,2855.0
+0:25.0, ,113-119,T. Young makes free throw 2 of 2,,4,113,119,-6,2855.0
+0:25.0,Miami full timeout,113-119, ,,4,113,119,-6,2855.0
+0:25.0,M. Strus enters the game for C. Martin,113-119, ,,4,113,119,-6,2855.0
+0:25.0,Turnover by  (5 sec),113-119, ,,4,113,119,-6,2855.0
+0:25.0,C. Martin enters the game for M. Strus,113-119, ,,4,113,119,-6,2855.0
+0:25.0, ,113-119,B. Bogdanović enters the game for C. Capela,,4,113,119,-6,2855.0
+0:23.0, ,113-119,Personal take foul by C. Martin (drawn by T. Young),,4,113,119,-6,2857.0
+0:23.0, ,113-120,T. Young makes free throw 1 of 2,,4,113,120,-7,2857.0
+0:23.0,M. Strus enters the game for C. Martin,113-120, ,,4,113,120,-7,2857.0
+0:23.0, ,113-120,C. Capela enters the game for B. Bogdanović,,4,113,120,-7,2857.0
+0:23.0, ,113-121,T. Young makes free throw 2 of 2,,4,113,121,-8,2857.0
+0:16.0,V. Oladipo misses 3-pt jump shot from 23 ft,113-121, ,,4,113,121,-8,2864.0
+0:12.0,Offensive rebound by V. Oladipo,113-121, ,,4,113,121,-8,2868.0
+0:10.0,M. Strus misses 3-pt jump shot from 26 ft,113-121, ,,4,113,121,-8,2870.0
+0:07.0, ,113-121,Defensive rebound by D. Murray,,4,113,121,-8,2873.0
+0:00.0,End of 4th quarter,113-121,,,4,113,121,-8,2880.0

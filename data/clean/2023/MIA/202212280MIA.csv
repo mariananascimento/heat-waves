@@ -1,0 +1,427 @@
+Time,LA Lakers,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: T. Bryant vs. B. Adebayo (J. Butler gains possession),0-0,,,1,0,0,0,0.0
+11:44.0, ,0-0,B. Adebayo misses 2-pt jump shot from 6 ft,,1,0,0,0,16.0
+11:42.0,Defensive rebound by L. Walker,0-0, ,,1,0,0,0,18.0
+11:23.0,L. James makes 2-pt jump shot from 13 ft,2-0, ,,1,0,2,-2,37.0
+11:09.0, ,2-3,G. Vincent makes 3-pt jump shot from 25 ft (assist by T. Herro),Lead change,1,3,2,1,51.0
+10:46.0,P. Beverley makes 3-pt jump shot from 25 ft (assist by L. James),5-3, ,Lead change,1,3,5,-2,74.0
+10:29.0, ,5-3,T. Herro misses 3-pt jump shot from 26 ft,,1,3,5,-2,91.0
+10:27.0,Defensive rebound by L. Walker,5-3, ,,1,3,5,-2,93.0
+10:20.0,L. James misses 3-pt jump shot from 29 ft,5-3, ,,1,3,5,-2,100.0
+10:20.0,Offensive rebound by P. Beverley,5-3, ,,1,3,5,-2,100.0
+10:08.0,L. Walker misses 3-pt jump shot from 23 ft,5-3, ,,1,3,5,-2,112.0
+10:05.0, ,5-3,Defensive rebound by C. Martin,,1,3,5,-2,115.0
+9:53.0, ,5-5,J. Butler makes 2-pt layup from 2 ft,Tie,1,5,5,0,127.0
+9:43.0,Turnover by D. Schröder (bad pass; steal by J. Butler),5-5, ,,1,5,5,0,137.0
+9:39.0, ,5-7,J. Butler makes 2-pt layup from 2 ft,Lead change,1,7,5,2,141.0
+9:28.0,L. James makes 3-pt jump shot from 26 ft (assist by P. Beverley),8-7, ,Lead change,1,7,8,-1,152.0
+9:14.0, ,8-7,J. Butler misses 3-pt jump shot from 24 ft,,1,7,8,-1,166.0
+9:10.0,Defensive rebound by L. James,8-7, ,,1,7,8,-1,170.0
+9:01.0,D. Schröder misses 3-pt jump shot from 26 ft,8-7, ,,1,7,8,-1,179.0
+8:56.0, ,8-7,Defensive rebound by B. Adebayo,,1,7,8,-1,184.0
+8:51.0, ,8-9,B. Adebayo makes 2-pt layup from 1 ft,Lead change,1,9,8,1,189.0
+8:41.0,P. Beverley misses 2-pt jump shot from 10 ft,8-9, ,,1,9,8,1,199.0
+8:38.0, ,8-9,Defensive rebound by C. Martin,,1,9,8,1,202.0
+8:36.0, ,8-11,J. Butler makes 2-pt dunk from 1 ft (assist by C. Martin),,1,11,8,3,204.0
+8:19.0,Offensive foul by L. James (drawn by C. Martin),8-11, ,,1,11,8,3,221.0
+8:19.0,Turnover by L. James (offensive foul),8-11, ,,1,11,8,3,221.0
+8:00.0, ,8-11,Shooting foul by P. Beverley (drawn by J. Butler),,1,11,8,3,240.0
+8:00.0, ,8-12,J. Butler makes free throw 1 of 2,,1,12,8,4,240.0
+8:00.0, ,8-13,J. Butler makes free throw 2 of 2,,1,13,8,5,240.0
+7:33.0,L. James makes 2-pt jump shot from 19 ft (assist by L. Walker),10-13, ,,1,13,10,3,267.0
+7:10.0, ,10-13,T. Herro misses 3-pt jump shot from 27 ft,,1,13,10,3,290.0
+7:06.0,Defensive rebound by T. Bryant,10-13, ,,1,13,10,3,294.0
+6:58.0,L. James makes 3-pt jump shot from 26 ft (assist by P. Beverley),13-13, ,Tie,1,13,13,0,302.0
+6:40.0, ,13-13,T. Herro misses 2-pt jump shot from 20 ft,,1,13,13,0,320.0
+6:32.0,Defensive rebound by P. Beverley,13-13, ,,1,13,13,0,328.0
+6:21.0,T. Bryant makes 2-pt hook shot from 4 ft (assist by L. James),15-13, ,Lead change,1,13,15,-2,339.0
+6:14.0, ,15-13,Miami full timeout,,1,13,15,-2,346.0
+6:14.0,R. Westbrook enters the game for P. Beverley,15-13, ,,1,13,15,-2,346.0
+5:58.0, ,15-13,J. Butler misses 2-pt layup from 2 ft (block by T. Bryant),,1,13,15,-2,362.0
+5:56.0, ,15-13,Offensive rebound by J. Butler,,1,13,15,-2,364.0
+5:56.0, ,15-13,Shooting foul by T. Bryant (drawn by J. Butler),,1,13,15,-2,364.0
+5:56.0, ,15-14,J. Butler makes free throw 1 of 2,,1,14,15,-1,364.0
+5:56.0, ,15-15,J. Butler makes free throw 2 of 2,Tie,1,15,15,0,364.0
+5:45.0,R. Westbrook makes 2-pt layup from 2 ft,17-15, ,,1,15,17,-2,375.0
+5:29.0, ,17-15,T. Herro misses 2-pt jump shot from 13 ft,,1,15,17,-2,391.0
+5:27.0, ,17-15,Offensive rebound by B. Adebayo,,1,15,17,-2,393.0
+5:27.0, ,17-17,B. Adebayo makes 2-pt jump shot from 11 ft,Tie,1,17,17,0,393.0
+5:24.0,Shooting foul by G. Vincent (drawn by L. James),17-17, ,,1,17,17,0,396.0
+5:24.0,L. James makes free throw 1 of 2,18-17, ,,1,17,18,-1,396.0
+5:24.0,A. Reaves enters the game for L. Walker,18-17, ,,1,17,18,-1,396.0
+5:24.0, ,18-17,V. Oladipo enters the game for J. Butler,,1,17,18,-1,396.0
+5:24.0,L. James makes free throw 2 of 2,19-17, ,,1,17,19,-2,396.0
+5:09.0, ,19-17,V. Oladipo misses 3-pt jump shot from 26 ft,,1,17,19,-2,411.0
+5:06.0,Defensive rebound by L. James,19-17, ,,1,17,19,-2,414.0
+5:04.0,R. Westbrook misses 2-pt layup from 2 ft,19-17, ,,1,17,19,-2,416.0
+5:01.0, ,19-17,Defensive rebound by C. Martin,,1,17,19,-2,419.0
+4:48.0, ,19-19,B. Adebayo makes 2-pt jump shot from 11 ft,Tie,1,19,19,0,432.0
+4:39.0, ,19-19,Violation by Team (kicked ball),,1,19,19,0,441.0
+4:39.0,T. Brown enters the game for L. James,19-19, ,,1,19,19,0,441.0
+4:39.0, ,19-19,M. Strus enters the game for G. Vincent,,1,19,19,0,441.0
+4:28.0,T. Brown misses 3-pt jump shot from 26 ft,19-19, ,,1,19,19,0,452.0
+4:26.0, ,19-19,Defensive rebound by B. Adebayo,,1,19,19,0,454.0
+4:19.0, ,19-19,B. Adebayo misses 2-pt jump shot from 12 ft,,1,19,19,0,461.0
+4:16.0,Defensive rebound by T. Brown,19-19, ,,1,19,19,0,464.0
+4:01.0,Turnover by T. Brown (bad pass; steal by V. Oladipo),19-19, ,,1,19,19,0,479.0
+3:53.0, ,19-21,M. Strus makes 2-pt layup from 2 ft (assist by T. Herro),Lead change,1,21,19,2,487.0
+3:36.0,Turnover by A. Reaves (lost ball; steal by V. Oladipo),19-21, ,,1,21,19,2,504.0
+3:32.0, ,19-23,C. Martin makes 2-pt jump shot from 20 ft (assist by T. Herro),,1,23,19,4,508.0
+3:32.0,LA Lakers full timeout,19-23, ,,1,23,19,4,508.0
+3:32.0,W. Gabriel enters the game for T. Bryant,19-23, ,,1,23,19,4,508.0
+3:32.0,L. Walker enters the game for D. Schröder,19-23, ,,1,23,19,4,508.0
+3:18.0,Personal foul by B. Adebayo (drawn by W. Gabriel),19-23, ,,1,23,19,4,522.0
+3:09.0,R. Westbrook misses 2-pt jump shot from 18 ft,19-23, ,,1,23,19,4,531.0
+3:07.0,Offensive rebound by T. Brown,19-23, ,,1,23,19,4,533.0
+3:06.0,L. Walker misses 3-pt jump shot from 26 ft,19-23, ,,1,23,19,4,534.0
+3:02.0, ,19-23,Defensive rebound by C. Martin,,1,23,19,4,538.0
+2:45.0, ,19-23,M. Strus misses 3-pt jump shot from 28 ft,,1,23,19,4,555.0
+2:38.0, ,19-23,Offensive rebound by B. Adebayo,,1,23,19,4,562.0
+2:34.0, ,19-25,C. Martin makes 2-pt jump shot from 22 ft,,1,25,19,6,566.0
+2:15.0,Turnover by A. Reaves (lost ball; steal by T. Herro),19-25, ,,1,25,19,6,585.0
+2:06.0, ,19-25,B. Adebayo misses 2-pt jump shot from 6 ft,,1,25,19,6,594.0
+2:00.0, ,19-25,Offensive rebound by B. Adebayo,,1,25,19,6,600.0
+2:00.0, ,19-27,B. Adebayo makes 2-pt layup at rim,,1,27,19,8,600.0
+1:52.0,A. Reaves misses 3-pt jump shot from 25 ft,19-27, ,,1,27,19,8,608.0
+1:49.0, ,19-27,Defensive rebound by B. Adebayo,,1,27,19,8,611.0
+1:42.0, ,19-27,Shooting foul by W. Gabriel (drawn by B. Adebayo),,1,27,19,8,618.0
+1:42.0, ,19-27,B. Adebayo misses free throw 1 of 2,,1,27,19,8,618.0
+1:42.0, ,19-27,Offensive rebound by Team,,1,27,19,8,618.0
+1:42.0, ,19-27,J. Butler enters the game for T. Herro,,1,27,19,8,618.0
+1:42.0, ,19-27,D. Robinson enters the game for C. Martin,,1,27,19,8,618.0
+1:42.0, ,19-28,B. Adebayo makes free throw 2 of 2,,1,28,19,9,618.0
+1:30.0,R. Westbrook makes 2-pt jump shot from 9 ft,21-28, ,,1,28,21,7,630.0
+1:30.0,Shooting foul by D. Robinson (drawn by R. Westbrook),21-28, ,,1,28,21,7,630.0
+1:30.0, ,21-28,O. Robinson enters the game for B. Adebayo,,1,28,21,7,630.0
+1:30.0,R. Westbrook makes free throw 1 of 1,22-28, ,,1,28,22,6,630.0
+1:20.0, ,22-28,M. Strus misses 3-pt jump shot from 26 ft,,1,28,22,6,640.0
+1:16.0, ,22-28,Offensive rebound by V. Oladipo,,1,28,22,6,644.0
+1:03.0, ,22-30,J. Butler makes 2-pt jump shot from 6 ft,,1,30,22,8,657.0
+0:52.0,R. Westbrook misses 2-pt layup from 2 ft,22-30, ,,1,30,22,8,668.0
+0:50.0, ,22-30,Defensive rebound by O. Robinson,,1,30,22,8,670.0
+0:47.0, ,22-30,Turnover by M. Strus (out of bounds lost ball),,1,30,22,8,673.0
+0:39.0,Offensive foul by A. Reaves (drawn by M. Strus),22-30, ,,1,30,22,8,681.0
+0:39.0,Turnover by A. Reaves (offensive foul),22-30, ,,1,30,22,8,681.0
+0:28.0, ,22-30,O. Robinson misses 2-pt jump shot from 6 ft,,1,30,22,8,692.0
+0:26.0, ,22-30,Offensive rebound by O. Robinson,,1,30,22,8,694.0
+0:24.0, ,22-33,M. Strus makes 3-pt jump shot from 25 ft (assist by O. Robinson),,1,33,22,11,696.0
+0:05.0,W. Gabriel makes 2-pt layup from 2 ft (assist by R. Westbrook),24-33, ,,1,33,24,9,715.0
+0:05.0,Shooting foul by M. Strus (drawn by W. Gabriel),24-33, ,,1,33,24,9,715.0
+0:05.0,W. Gabriel makes free throw 1 of 1,25-33, ,,1,33,25,8,715.0
+0:01.0, ,25-33,J. Butler misses 2-pt jump shot from 11 ft,,1,33,25,8,719.0
+0:00.0, ,25-33,Offensive rebound by Team,,1,33,25,8,720.0
+0:00.0,End of 1st quarter,25-33,,,1,33,25,8,720.0
+12:00.0,Start of 2nd quarter,25-33,,,2,33,25,8,720.0
+11:44.0,A. Reaves misses 3-pt jump shot from 24 ft,25-33, ,,2,33,25,8,736.0
+11:44.0, ,25-33,Defensive rebound by Team,,2,33,25,8,736.0
+11:20.0, ,25-33,V. Oladipo misses 3-pt jump shot from 25 ft,,2,33,25,8,760.0
+11:15.0,Defensive rebound by L. James,25-33, ,,2,33,25,8,765.0
+11:10.0,R. Westbrook makes 3-pt jump shot from 24 ft (assist by L. James),28-33, ,,2,33,28,5,770.0
+10:51.0, ,28-35,D. Robinson makes 2-pt layup from 1 ft (assist by J. Butler),,2,35,28,7,789.0
+10:38.0,W. Gabriel makes 3-pt jump shot from 22 ft (assist by R. Westbrook),31-35, ,,2,35,31,4,802.0
+10:25.0, ,31-35,J. Butler misses 3-pt jump shot from 25 ft,,2,35,31,4,815.0
+10:22.0,Defensive rebound by W. Gabriel,31-35, ,,2,35,31,4,818.0
+10:12.0,Turnover by R. Westbrook (bad pass),31-35, ,,2,35,31,4,828.0
+10:03.0, ,31-35,D. Robinson misses 3-pt jump shot from 26 ft,,2,35,31,4,837.0
+9:59.0, ,31-35,Offensive rebound by Team,,2,35,31,4,841.0
+9:52.0, ,31-35,Turnover by V. Oladipo (bad pass; steal by A. Reaves),,2,35,31,4,848.0
+9:49.0,Offensive foul by L. James (drawn by M. Strus),31-35, ,,2,35,31,4,851.0
+9:49.0,Turnover by L. James (offensive foul),31-35, ,,2,35,31,4,851.0
+9:33.0, ,31-37,J. Butler makes 2-pt jump shot from 10 ft,,2,37,31,6,867.0
+9:23.0,T. Brown makes 2-pt layup from 2 ft (assist by L. James),33-37, ,,2,37,33,4,877.0
+9:09.0, ,33-37,O. Robinson misses 2-pt layup from 4 ft,,2,37,33,4,891.0
+9:07.0,Defensive rebound by L. James,33-37, ,,2,37,33,4,893.0
+8:56.0,Personal foul by O. Robinson (drawn by L. James),33-37, ,,2,37,33,4,904.0
+8:56.0,P. Beverley enters the game for T. Brown,33-37, ,,2,37,33,4,904.0
+8:56.0,D. Schröder enters the game for R. Westbrook,33-37, ,,2,37,33,4,904.0
+8:43.0,L. James misses 2-pt jump shot from 17 ft,33-37, ,,2,37,33,4,917.0
+8:39.0, ,33-37,Defensive rebound by D. Robinson,,2,37,33,4,921.0
+8:25.0, ,33-37,M. Strus misses 3-pt jump shot from 24 ft,,2,37,33,4,935.0
+8:21.0,Defensive rebound by P. Beverley,33-37, ,,2,37,33,4,939.0
+8:12.0,W. Gabriel makes 2-pt dunk from 1 ft (assist by L. James),35-37, ,,2,37,35,2,948.0
+7:56.0, ,35-37,M. Strus misses 2-pt layup from 1 ft (block by W. Gabriel),,2,37,35,2,964.0
+7:53.0,Defensive rebound by L. James,35-37, ,,2,37,35,2,967.0
+7:53.0,L. James makes 2-pt layup from 1 ft,37-37, ,Tie,2,37,37,0,967.0
+7:53.0,Shooting foul by D. Robinson (drawn by L. James),37-37, ,,2,37,37,0,967.0
+7:53.0,L. James makes free throw 1 of 1,38-37, ,Lead change,2,37,38,-1,967.0
+7:32.0, ,38-37,M. Strus misses 2-pt jump shot from 7 ft,,2,37,38,-1,988.0
+7:29.0,Defensive rebound by P. Beverley,38-37, ,,2,37,38,-1,991.0
+7:24.0,P. Beverley misses 3-pt jump shot from 25 ft,38-37, ,,2,37,38,-1,996.0
+7:20.0, ,38-37,Defensive rebound by V. Oladipo,,2,37,38,-1,1000.0
+7:17.0, ,38-37,Shooting foul by W. Gabriel (drawn by V. Oladipo),,2,37,38,-1,1003.0
+7:17.0, ,38-38,V. Oladipo makes free throw 1 of 2,Tie,2,38,38,0,1003.0
+7:17.0, ,38-39,V. Oladipo makes free throw 2 of 2,Lead change,2,39,38,1,1003.0
+7:17.0,T. Bryant enters the game for W. Gabriel,38-39, ,,2,39,38,1,1003.0
+7:17.0,R. Westbrook enters the game for L. James,38-39, ,,2,39,38,1,1003.0
+7:17.0, ,38-39,B. Adebayo enters the game for J. Butler,,2,39,38,1,1003.0
+7:17.0, ,38-39,T. Herro enters the game for D. Robinson,,2,39,38,1,1003.0
+7:17.0, ,38-39,C. Martin enters the game for O. Robinson,,2,39,38,1,1003.0
+7:17.0, ,38-39,G. Vincent enters the game for M. Strus,,2,39,38,1,1003.0
+7:01.0,A. Reaves misses 3-pt jump shot from 25 ft,38-39, ,,2,39,38,1,1019.0
+7:00.0,Offensive rebound by Team,38-39, ,,2,39,38,1,1020.0
+7:00.0,L. Walker enters the game for A. Reaves,38-39, ,,2,39,38,1,1020.0
+7:00.0, ,38-39,D. Robinson enters the game for V. Oladipo,,2,39,38,1,1020.0
+6:45.0,T. Bryant makes 2-pt layup from 5 ft (assist by R. Westbrook),40-39, ,Lead change,2,39,40,-1,1035.0
+6:31.0, ,40-39,G. Vincent misses 3-pt jump shot from 26 ft,,2,39,40,-1,1049.0
+6:27.0,Defensive rebound by T. Bryant,40-39, ,,2,39,40,-1,1053.0
+6:22.0,Shooting foul by T. Herro (drawn by D. Schröder),40-39, ,,2,39,40,-1,1058.0
+6:22.0, ,40-39,Miami full timeout,,2,39,40,-1,1058.0
+6:22.0,D. Schröder makes free throw 1 of 2,41-39, ,,2,39,41,-2,1058.0
+6:22.0,D. Schröder makes free throw 2 of 2,42-39, ,,2,39,42,-3,1058.0
+6:08.0, ,42-41,T. Herro makes 2-pt jump shot from 10 ft,,2,41,42,-1,1072.0
+6:08.0, ,42-41,Shooting foul by D. Schröder (drawn by T. Herro),,2,41,42,-1,1072.0
+6:08.0, ,42-42,T. Herro makes free throw 1 of 1,Tie,2,42,42,0,1072.0
+5:43.0,L. Walker misses 3-pt jump shot from 24 ft (block by B. Adebayo),42-42, ,,2,42,42,0,1097.0
+5:37.0, ,42-42,Defensive rebound by T. Herro,,2,42,42,0,1103.0
+5:25.0, ,42-45,T. Herro makes 3-pt jump shot from 25 ft (assist by C. Martin),Lead change,2,45,42,3,1115.0
+5:11.0,P. Beverley makes 3-pt jump shot from 26 ft (assist by R. Westbrook),45-45, ,Tie,2,45,45,0,1129.0
+4:52.0, ,45-47,G. Vincent makes 2-pt jump shot from 13 ft,,2,47,45,2,1148.0
+4:32.0,Turnover by L. Walker (bad pass; steal by B. Adebayo),45-47, ,,2,47,45,2,1168.0
+4:25.0, ,45-47,B. Adebayo misses 2-pt layup from 1 ft (block by R. Westbrook),,2,47,45,2,1175.0
+4:20.0, ,45-47,Offensive rebound by G. Vincent,,2,47,45,2,1180.0
+4:19.0, ,45-49,G. Vincent makes 2-pt layup from 2 ft,,2,49,45,4,1181.0
+4:07.0,D. Schröder makes 3-pt jump shot from 23 ft (assist by R. Westbrook),48-49, ,,2,49,48,1,1193.0
+3:50.0, ,48-49,T. Herro misses 2-pt layup from 1 ft,,2,49,48,1,1210.0
+3:47.0,Defensive rebound by P. Beverley,48-49, ,,2,49,48,1,1213.0
+3:44.0,Turnover by P. Beverley (bad pass; steal by T. Herro),48-49, ,,2,49,48,1,1216.0
+3:33.0, ,48-51,B. Adebayo makes 2-pt jump shot from 10 ft,,2,51,48,3,1227.0
+3:04.0,R. Westbrook misses 3-pt jump shot from 25 ft,48-51, ,,2,51,48,3,1256.0
+3:01.0, ,48-51,Defensive rebound by B. Adebayo,,2,51,48,3,1259.0
+2:47.0, ,48-53,T. Herro makes 2-pt layup from 2 ft,,2,53,48,5,1273.0
+2:47.0,LA Lakers full timeout,48-53, ,,2,53,48,5,1273.0
+2:47.0,L. James enters the game for L. Walker,48-53, ,,2,53,48,5,1273.0
+2:47.0,A. Reaves enters the game for R. Westbrook,48-53, ,,2,53,48,5,1273.0
+2:47.0, ,48-53,J. Butler enters the game for C. Martin,,2,53,48,5,1273.0
+2:47.0, ,48-53,V. Oladipo enters the game for D. Robinson,,2,53,48,5,1273.0
+2:36.0,Turnover by A. Reaves (out of bounds lost ball),48-53, ,,2,53,48,5,1284.0
+2:19.0, ,48-53,T. Herro misses 2-pt jump shot from 9 ft,,2,53,48,5,1301.0
+2:16.0,Defensive rebound by L. James,48-53, ,,2,53,48,5,1304.0
+2:11.0,L. James misses 2-pt jump shot from 9 ft,48-53, ,,2,53,48,5,1309.0
+2:08.0,Offensive rebound by T. Bryant,48-53, ,,2,53,48,5,1312.0
+2:07.0,T. Bryant misses 2-pt layup from 1 ft,48-53, ,,2,53,48,5,1313.0
+2:04.0, ,48-53,Defensive rebound by B. Adebayo,,2,53,48,5,1316.0
+1:49.0, ,48-56,G. Vincent makes 3-pt jump shot from 25 ft (assist by T. Herro),,2,56,48,8,1331.0
+1:35.0,T. Bryant makes 2-pt jump shot from 15 ft (assist by P. Beverley),50-56, ,,2,56,50,6,1345.0
+1:14.0, ,50-56,G. Vincent misses 3-pt jump shot from 26 ft,,2,56,50,6,1366.0
+1:11.0,Defensive rebound by T. Bryant,50-56, ,,2,56,50,6,1369.0
+0:56.0,L. James misses 3-pt jump shot from 26 ft,50-56, ,,2,56,50,6,1384.0
+0:54.0, ,50-56,Defensive rebound by J. Butler,,2,56,50,6,1386.0
+0:43.0, ,50-58,J. Butler makes 2-pt jump shot from 12 ft,,2,58,50,8,1397.0
+0:35.0,D. Schröder misses 2-pt jump shot from 11 ft,50-58, ,,2,58,50,8,1405.0
+0:30.0,Offensive rebound by T. Bryant,50-58, ,,2,58,50,8,1410.0
+0:30.0,T. Bryant makes 2-pt dunk at rim,52-58, ,,2,58,52,6,1410.0
+0:16.0, ,52-60,J. Butler makes 2-pt layup from 3 ft,,2,60,52,8,1424.0
+0:16.0, ,52-60,Shooting foul by T. Bryant (drawn by J. Butler),,2,60,52,8,1424.0
+0:16.0,R. Westbrook enters the game for P. Beverley,52-60, ,,2,60,52,8,1424.0
+0:16.0, ,52-60,C. Martin enters the game for T. Herro,,2,60,52,8,1424.0
+0:16.0, ,52-61,J. Butler makes free throw 1 of 1,,2,61,52,9,1424.0
+0:03.0,Offensive foul by T. Bryant (drawn by V. Oladipo),52-61, ,,2,61,52,9,1437.0
+0:03.0,Turnover by T. Bryant (offensive foul),52-61, ,,2,61,52,9,1437.0
+0:03.0, ,52-61,T. Herro enters the game for C. Martin,,2,61,52,9,1437.0
+0:00.0, ,52-61,B. Adebayo misses 2-pt jump shot from 14 ft,,2,61,52,9,1440.0
+0:00.0, ,52-61,Offensive rebound by Team,,2,61,52,9,1440.0
+0:00.0,End of 2nd quarter,52-61,,,2,61,52,9,1440.0
+12:00.0,Start of 3rd quarter,52-61,,,3,61,52,9,1440.0
+11:50.0,Turnover by T. Bryant (bad pass),52-61, ,,3,61,52,9,1450.0
+11:30.0, ,52-61,G. Vincent misses 3-pt jump shot from 26 ft,,3,61,52,9,1470.0
+11:27.0,Defensive rebound by T. Bryant,52-61, ,,3,61,52,9,1473.0
+11:23.0,D. Schröder misses 3-pt jump shot from 24 ft,52-61, ,,3,61,52,9,1477.0
+11:18.0, ,52-61,Defensive rebound by C. Martin,,3,61,52,9,1482.0
+11:12.0, ,52-64,T. Herro makes 3-pt jump shot from 26 ft,,3,64,52,12,1488.0
+10:59.0,Turnover by D. Schröder (bad pass),52-64, ,,3,64,52,12,1501.0
+10:39.0, ,52-66,B. Adebayo makes 2-pt layup from 2 ft (assist by T. Herro),,3,66,52,14,1521.0
+10:24.0,D. Schröder makes 2-pt layup from 1 ft (assist by L. James),54-66, ,,3,66,54,12,1536.0
+10:24.0,Shooting foul by G. Vincent (drawn by D. Schröder),54-66, ,,3,66,54,12,1536.0
+10:24.0,D. Schröder makes free throw 1 of 1,55-66, ,,3,66,55,11,1536.0
+10:14.0, ,55-68,B. Adebayo makes 2-pt dunk from 1 ft (assist by G. Vincent),,3,68,55,13,1546.0
+10:03.0,Turnover by L. Walker (traveling),55-68, ,,3,68,55,13,1557.0
+9:48.0, ,55-68,T. Herro misses 2-pt jump shot from 19 ft,,3,68,55,13,1572.0
+9:45.0,Defensive rebound by P. Beverley,55-68, ,,3,68,55,13,1575.0
+9:28.0,P. Beverley misses 3-pt jump shot from 27 ft,55-68, ,,3,68,55,13,1592.0
+9:23.0, ,55-68,Defensive rebound by T. Herro,,3,68,55,13,1597.0
+9:03.0, ,55-68,T. Herro misses 3-pt jump shot from 27 ft,,3,68,55,13,1617.0
+9:01.0,Defensive rebound by T. Bryant,55-68, ,,3,68,55,13,1619.0
+8:52.0,L. James makes 2-pt layup from 2 ft,57-68, ,,3,68,57,11,1628.0
+8:25.0, ,57-70,J. Butler makes 2-pt jump shot from 10 ft,,3,70,57,13,1655.0
+8:19.0,Shooting foul by B. Adebayo (drawn by T. Bryant),57-70, ,,3,70,57,13,1661.0
+8:19.0,T. Bryant misses free throw 1 of 2,57-70, ,,3,70,57,13,1661.0
+8:19.0,Offensive rebound by Team,57-70, ,,3,70,57,13,1661.0
+8:19.0,T. Bryant makes free throw 2 of 2,58-70, ,,3,70,58,12,1661.0
+8:01.0, ,58-73,C. Martin makes 3-pt jump shot from 27 ft (assist by G. Vincent),,3,73,58,15,1679.0
+7:35.0,Turnover by L. James (lost ball; steal by G. Vincent),58-73, ,,3,73,58,15,1705.0
+7:33.0,Jump ball: P. Beverley vs. G. Vincent (L. Walker gains possession),58-73,,,3,73,58,15,1707.0
+7:33.0, ,58-73,Turnover by G. Vincent (lost ball; steal by P. Beverley),,3,73,58,15,1707.0
+7:24.0,L. James misses 3-pt jump shot from 26 ft,58-73, ,,3,73,58,15,1716.0
+7:21.0, ,58-73,Defensive rebound by T. Herro,,3,73,58,15,1719.0
+7:14.0, ,58-73,C. Martin misses 3-pt jump shot from 23 ft,,3,73,58,15,1726.0
+7:09.0,Defensive rebound by D. Schröder,58-73, ,,3,73,58,15,1731.0
+6:58.0,Turnover by D. Schröder (bad pass; steal by J. Butler),58-73, ,,3,73,58,15,1742.0
+6:52.0, ,58-73,T. Herro misses 3-pt jump shot from 25 ft,,3,73,58,15,1748.0
+6:48.0,Defensive rebound by T. Bryant,58-73, ,,3,73,58,15,1752.0
+6:45.0,LA Lakers full timeout,58-73, ,,3,73,58,15,1755.0
+6:45.0,A. Reaves enters the game for D. Schröder,58-73, ,,3,73,58,15,1755.0
+6:45.0,R. Westbrook enters the game for L. Walker,58-73, ,,3,73,58,15,1755.0
+6:34.0,L. James makes 2-pt layup from 1 ft (assist by A. Reaves),60-73, ,,3,73,60,13,1766.0
+6:34.0,Shooting foul by G. Vincent (drawn by L. James),60-73, ,,3,73,60,13,1766.0
+6:34.0,L. James makes free throw 1 of 1,61-73, ,,3,73,61,12,1766.0
+6:07.0, ,61-75,J. Butler makes 2-pt jump shot from 14 ft,,3,75,61,14,1793.0
+5:52.0,T. Bryant makes 2-pt layup from 2 ft (assist by P. Beverley),63-75, ,,3,75,63,12,1808.0
+5:35.0, ,63-78,C. Martin makes 3-pt jump shot from 25 ft (assist by J. Butler),,3,78,63,15,1825.0
+5:21.0,A. Reaves misses 2-pt jump shot from 9 ft,63-78, ,,3,78,63,15,1839.0
+5:18.0, ,63-78,Defensive rebound by C. Martin,,3,78,63,15,1842.0
+5:06.0, ,63-80,B. Adebayo makes 2-pt layup from 2 ft (assist by T. Herro),,3,80,63,17,1854.0
+5:05.0,Turnover by T. Bryant (step out of bounds),63-80, ,,3,80,63,17,1855.0
+5:05.0, ,63-80,V. Oladipo enters the game for J. Butler,,3,80,63,17,1855.0
+5:01.0, ,63-80,G. Vincent misses 2-pt layup from 3 ft (block by P. Beverley),,3,80,63,17,1859.0
+5:01.0, ,63-80,Offensive rebound by G. Vincent,,3,80,63,17,1859.0
+5:01.0, ,63-82,G. Vincent makes 2-pt layup from 2 ft,,3,82,63,19,1859.0
+4:54.0,Personal foul by C. Martin (drawn by L. James),63-82, ,,3,82,63,19,1866.0
+4:54.0,T. Brown enters the game for T. Bryant,63-82, ,,3,82,63,19,1866.0
+4:54.0,W. Gabriel enters the game for L. James,63-82, ,,3,82,63,19,1866.0
+4:43.0,R. Westbrook makes 2-pt jump shot from 14 ft,65-82, ,,3,82,65,17,1877.0
+4:32.0, ,65-82,T. Herro misses 2-pt jump shot from 8 ft,,3,82,65,17,1888.0
+4:32.0,Defensive rebound by T. Brown,65-82, ,,3,82,65,17,1888.0
+4:15.0,R. Westbrook misses 2-pt layup from 3 ft (block by B. Adebayo),65-82, ,,3,82,65,17,1905.0
+4:15.0,Offensive rebound by Team,65-82, ,,3,82,65,17,1905.0
+4:09.0,W. Gabriel makes 2-pt jump shot from 8 ft (assist by R. Westbrook),67-82, ,,3,82,67,15,1911.0
+3:48.0, ,67-82,Personal foul by P. Beverley (drawn by B. Adebayo),,3,82,67,15,1932.0
+3:48.0,L. Walker enters the game for P. Beverley,67-82, ,,3,82,67,15,1932.0
+3:48.0, ,67-82,M. Strus enters the game for G. Vincent,,3,82,67,15,1932.0
+3:42.0, ,67-82,Offensive foul by T. Herro (drawn by A. Reaves),,3,82,67,15,1938.0
+3:42.0, ,67-82,Turnover by T. Herro (offensive foul),,3,82,67,15,1938.0
+3:25.0,Turnover by R. Westbrook (bad pass; steal by V. Oladipo),67-82, ,,3,82,67,15,1955.0
+3:18.0, ,67-82,M. Strus misses 3-pt jump shot from 25 ft,,3,82,67,15,1962.0
+3:15.0, ,67-82,Offensive rebound by B. Adebayo,,3,82,67,15,1965.0
+3:12.0, ,67-82,V. Oladipo misses 3-pt jump shot from 27 ft,,3,82,67,15,1968.0
+3:12.0, ,67-82,Offensive rebound by B. Adebayo,,3,82,67,15,1968.0
+3:06.0, ,67-84,B. Adebayo makes 2-pt dunk at rim,,3,84,67,17,1974.0
+2:57.0,L. Walker misses 3-pt jump shot from 26 ft,67-84, ,,3,84,67,17,1983.0
+2:53.0, ,67-84,Defensive rebound by B. Adebayo,,3,84,67,17,1987.0
+2:34.0, ,67-87,C. Martin makes 3-pt jump shot from 25 ft (assist by M. Strus),,3,87,67,20,2006.0
+2:32.0,LA Lakers full timeout,67-87, ,,3,87,67,20,2008.0
+2:32.0,J. Toscano-Anderson enters the game for L. Walker,67-87, ,,3,87,67,20,2008.0
+2:18.0,A. Reaves misses 3-pt jump shot from 26 ft,67-87, ,,3,87,67,20,2022.0
+2:15.0, ,67-87,Defensive rebound by T. Herro,,3,87,67,20,2025.0
+1:58.0, ,67-89,B. Adebayo makes 2-pt dunk from 2 ft (assist by T. Herro),,3,89,67,22,2042.0
+1:46.0,T. Brown makes 3-pt jump shot from 23 ft (assist by R. Westbrook),70-89, ,,3,89,70,19,2054.0
+1:24.0, ,70-91,M. Strus makes 2-pt layup from 2 ft (assist by T. Herro),,3,91,70,21,2076.0
+1:10.0,R. Westbrook makes 3-pt jump shot from 24 ft (assist by J. Toscano-Anderson),73-91, ,,3,91,73,18,2090.0
+0:58.0, ,73-93,T. Herro makes 2-pt jump shot from 12 ft,,3,93,73,20,2102.0
+0:41.0,T. Brown makes 3-pt jump shot from 27 ft (assist by J. Toscano-Anderson),76-93, ,,3,93,76,17,2119.0
+0:19.0, ,76-95,V. Oladipo makes 2-pt jump shot from 15 ft (assist by T. Herro),,3,95,76,19,2141.0
+0:01.0,R. Westbrook makes 2-pt layup from 1 ft,78-95, ,,3,95,78,17,2159.0
+0:01.0, ,78-95,Violation by Team (def goaltending),,3,95,78,17,2159.0
+0:00.0, ,78-95,M. Strus misses 3-pt jump shot from 32 ft,,3,95,78,17,2160.0
+0:00.0, ,78-95,Offensive rebound by Team,,3,95,78,17,2160.0
+0:00.0,End of 3rd quarter,78-95,,,3,95,78,17,2160.0
+12:00.0,Start of 4th quarter,78-95,,,4,95,78,17,2160.0
+11:35.0, ,78-95,J. Butler misses 3-pt jump shot from 24 ft,,4,95,78,17,2185.0
+11:33.0,Defensive rebound by J. Toscano-Anderson,78-95, ,,4,95,78,17,2187.0
+11:23.0,R. Westbrook misses 3-pt jump shot from 23 ft,78-95, ,,4,95,78,17,2197.0
+11:18.0, ,78-95,Defensive rebound by M. Strus,,4,95,78,17,2202.0
+11:05.0, ,78-95,J. Butler misses 2-pt layup from 2 ft,,4,95,78,17,2215.0
+11:03.0,Defensive rebound by T. Brown,78-95, ,,4,95,78,17,2217.0
+10:57.0,J. Toscano-Anderson misses 2-pt layup from 2 ft,78-95, ,,4,95,78,17,2223.0
+10:55.0, ,78-95,Defensive rebound by J. Butler,,4,95,78,17,2225.0
+10:51.0, ,78-95,D. Robinson misses 3-pt jump shot from 25 ft,,4,95,78,17,2229.0
+10:46.0,Defensive rebound by L. James,78-95, ,,4,95,78,17,2234.0
+10:41.0,T. Brown makes 3-pt jump shot from 27 ft (assist by D. Schröder),81-95, ,,4,95,81,14,2239.0
+10:18.0,Violation by Team (kicked ball),81-95, ,,4,95,81,14,2262.0
+10:04.0, ,81-95,M. Strus misses 2-pt jump shot from 21 ft,,4,95,81,14,2276.0
+10:01.0,Defensive rebound by J. Toscano-Anderson,81-95, ,,4,95,81,14,2279.0
+9:56.0,L. James makes 2-pt layup from 1 ft,83-95, ,,4,95,83,12,2284.0
+9:55.0, ,83-95,Miami full timeout,,4,95,83,12,2285.0
+9:55.0, ,83-95,B. Adebayo enters the game for O. Robinson,,4,95,83,12,2285.0
+9:37.0, ,83-98,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),,4,98,83,15,2303.0
+9:18.0,T. Brown makes 3-pt jump shot from 28 ft (assist by D. Schröder),86-98, ,,4,98,86,12,2322.0
+9:00.0, ,86-98,M. Strus misses 3-pt jump shot from 23 ft,,4,98,86,12,2340.0
+8:58.0,Defensive rebound by D. Schröder,86-98, ,,4,98,86,12,2342.0
+8:44.0,L. James makes 2-pt layup from 2 ft (assist by R. Westbrook),88-98, ,,4,98,88,10,2356.0
+8:30.0, ,88-101,D. Robinson makes 3-pt jump shot from 26 ft (assist by V. Oladipo),,4,101,88,13,2370.0
+8:22.0,D. Schröder makes 2-pt layup from 1 ft,90-101, ,,4,101,90,11,2378.0
+8:03.0, ,90-101,Shooting foul by L. James (drawn by B. Adebayo),,4,101,90,11,2397.0
+8:03.0, ,90-102,B. Adebayo makes free throw 1 of 2,,4,102,90,12,2397.0
+8:03.0, ,90-102,G. Vincent enters the game for M. Strus,,4,102,90,12,2397.0
+8:03.0, ,90-102,B. Adebayo misses free throw 2 of 2,,4,102,90,12,2397.0
+8:01.0,Defensive rebound by R. Westbrook,90-102, ,,4,102,90,12,2399.0
+7:45.0,L. James misses 2-pt layup from 2 ft,90-102, ,,4,102,90,12,2415.0
+7:43.0, ,90-102,Defensive rebound by B. Adebayo,,4,102,90,12,2417.0
+7:43.0, ,90-102,Turnover by B. Adebayo (bad pass),,4,102,90,12,2417.0
+7:36.0,D. Schröder makes 2-pt layup from 2 ft,92-102, ,,4,102,92,10,2424.0
+7:36.0,Shooting foul by B. Adebayo (drawn by D. Schröder),92-102, ,,4,102,92,10,2424.0
+7:36.0,D. Schröder misses free throw 1 of 1,92-102, ,,4,102,92,10,2424.0
+7:31.0,Offensive rebound by J. Toscano-Anderson,92-102, ,,4,102,92,10,2429.0
+7:29.0,L. James misses 2-pt layup from 2 ft (block by V. Oladipo),92-102, ,,4,102,92,10,2431.0
+7:29.0,Offensive rebound by Team,92-102, ,,4,102,92,10,2431.0
+7:21.0,R. Westbrook misses 2-pt jump shot from 20 ft (block by V. Oladipo),92-102, ,,4,102,92,10,2439.0
+7:20.0,Offensive rebound by Team,92-102, ,,4,102,92,10,2440.0
+7:18.0,Turnover by Team (shot clock),92-102, ,,4,102,92,10,2442.0
+6:56.0, ,92-102,V. Oladipo misses 2-pt layup from 2 ft,,4,102,92,10,2464.0
+6:53.0,Defensive rebound by L. James,92-102, ,,4,102,92,10,2467.0
+6:49.0,R. Westbrook misses 3-pt jump shot from 26 ft,92-102, ,,4,102,92,10,2471.0
+6:48.0,Offensive rebound by Team,92-102, ,,4,102,92,10,2472.0
+6:48.0,LA Lakers full timeout,92-102, ,,4,102,92,10,2472.0
+6:48.0, ,92-102,T. Herro enters the game for D. Robinson,,4,102,92,10,2472.0
+6:44.0,Turnover by R. Westbrook (bad pass; steal by J. Butler),92-102, ,,4,102,92,10,2476.0
+6:29.0, ,92-102,Shooting foul by L. James (drawn by B. Adebayo),,4,102,92,10,2491.0
+6:29.0, ,92-103,B. Adebayo makes free throw 1 of 2,,4,103,92,11,2491.0
+6:29.0, ,92-103,B. Adebayo misses free throw 2 of 2,,4,103,92,11,2491.0
+6:27.0,Defensive rebound by L. James,92-103, ,,4,103,92,11,2493.0
+6:09.0,D. Schröder misses 3-pt jump shot from 23 ft,92-103, ,,4,103,92,11,2511.0
+6:05.0, ,92-103,Defensive rebound by B. Adebayo,,4,103,92,11,2515.0
+5:45.0, ,92-105,J. Butler makes 2-pt layup from 4 ft,,4,105,92,13,2535.0
+5:26.0,L. James misses 2-pt jump shot from 4 ft,92-105, ,,4,105,92,13,2554.0
+5:22.0, ,92-105,Defensive rebound by B. Adebayo,,4,105,92,13,2558.0
+5:03.0, ,92-105,V. Oladipo misses 2-pt jump shot from 2 ft,,4,105,92,13,2577.0
+5:01.0,Defensive rebound by J. Toscano-Anderson,92-105, ,,4,105,92,13,2579.0
+4:57.0,L. James makes 2-pt layup from 2 ft,94-105, ,,4,105,94,11,2583.0
+4:57.0,Shooting foul by B. Adebayo (drawn by L. James),94-105, ,,4,105,94,11,2583.0
+4:57.0,P. Beverley enters the game for T. Brown,94-105, ,,4,105,94,11,2583.0
+4:57.0,L. James makes free throw 1 of 1,95-105, ,,4,105,95,10,2583.0
+4:37.0, ,95-105,V. Oladipo misses 3-pt jump shot from 26 ft,,4,105,95,10,2603.0
+4:34.0,Defensive rebound by J. Toscano-Anderson,95-105, ,,4,105,95,10,2606.0
+4:19.0,R. Westbrook misses 3-pt jump shot from 25 ft,95-105, ,,4,105,95,10,2621.0
+4:16.0,Offensive rebound by Team,95-105, ,,4,105,95,10,2624.0
+4:16.0, ,95-105,C. Martin enters the game for V. Oladipo,,4,105,95,10,2624.0
+4:14.0,P. Beverley misses 2-pt jump shot from 8 ft,95-105, ,,4,105,95,10,2626.0
+4:13.0,Offensive rebound by R. Westbrook,95-105, ,,4,105,95,10,2627.0
+4:12.0,Shooting foul by T. Herro (drawn by R. Westbrook),95-105, ,,4,105,95,10,2628.0
+4:12.0,R. Westbrook misses free throw 1 of 2,95-105, ,,4,105,95,10,2628.0
+4:12.0,Offensive rebound by Team,95-105, ,,4,105,95,10,2628.0
+4:12.0,R. Westbrook misses free throw 2 of 2,95-105, ,,4,105,95,10,2628.0
+4:10.0,Offensive rebound by J. Toscano-Anderson,95-105, ,,4,105,95,10,2630.0
+4:00.0,D. Schröder makes 3-pt jump shot from 25 ft (assist by J. Toscano-Anderson),98-105, ,,4,105,98,7,2640.0
+3:59.0, ,98-105,Miami full timeout,,4,105,98,7,2641.0
+3:32.0, ,98-105,T. Herro misses 2-pt jump shot from 18 ft,,4,105,98,7,2668.0
+3:29.0,Defensive rebound by R. Westbrook,98-105, ,,4,105,98,7,2671.0
+3:21.0,Turnover by D. Schröder (bad pass; steal by J. Butler),98-105, ,,4,105,98,7,2679.0
+3:16.0, ,98-105,J. Butler misses 3-pt jump shot from 24 ft,,4,105,98,7,2684.0
+3:11.0,Defensive rebound by P. Beverley,98-105, ,,4,105,98,7,2689.0
+2:58.0,P. Beverley misses 3-pt jump shot from 26 ft,98-105, ,,4,105,98,7,2702.0
+2:54.0, ,98-105,Defensive rebound by J. Butler,,4,105,98,7,2706.0
+2:47.0, ,98-105,Personal foul by J. Toscano-Anderson (drawn by J. Butler),,4,105,98,7,2713.0
+2:31.0, ,98-105,B. Adebayo misses 2-pt jump shot from 12 ft,,4,105,98,7,2729.0
+2:29.0,Defensive rebound by R. Westbrook,98-105, ,,4,105,98,7,2731.0
+2:22.0,Turnover by L. James (bad pass; steal by C. Martin),98-105, ,,4,105,98,7,2738.0
+2:00.0, ,98-108,T. Herro makes 3-pt jump shot from 24 ft (assist by J. Butler),,4,108,98,10,2760.0
+1:37.0,D. Schröder misses 2-pt layup from 3 ft,98-108, ,,4,108,98,10,2783.0
+1:33.0,Offensive rebound by J. Toscano-Anderson,98-108, ,,4,108,98,10,2787.0
+1:33.0,R. Westbrook misses 3-pt jump shot from 24 ft,98-108, ,,4,108,98,10,2787.0
+1:28.0, ,98-108,Defensive rebound by J. Butler,,4,108,98,10,2792.0
+1:15.0, ,98-110,J. Butler makes 2-pt layup from 8 ft,,4,110,98,12,2805.0
+1:15.0,LA Lakers full timeout,98-110, ,,4,110,98,12,2805.0
+1:15.0,T. Brown enters the game for J. Toscano-Anderson,98-110, ,,4,110,98,12,2805.0
+1:05.0,Turnover by L. James (lost ball; steal by J. Butler),98-110, ,,4,110,98,12,2815.0
+0:59.0, ,98-110,Personal foul by T. Brown (drawn by C. Martin),,4,110,98,12,2821.0
+0:41.0, ,98-110,Turnover by Team (shot clock),,4,110,98,12,2839.0
+0:36.0,Turnover by L. James (bad pass; steal by J. Butler),98-110, ,,4,110,98,12,2844.0
+0:27.0, ,98-110,Personal foul by R. Westbrook (drawn by T. Herro),,4,110,98,12,2853.0
+0:27.0, ,98-111,T. Herro makes free throw 1 of 2,,4,111,98,13,2853.0
+0:27.0,M. Christie enters the game for L. James,98-111, ,,4,111,98,13,2853.0
+0:27.0,W. Gabriel enters the game for R. Westbrook,98-111, ,,4,111,98,13,2853.0
+0:27.0, ,98-111,H. Highsmith enters the game for B. Adebayo,,4,111,98,13,2853.0
+0:27.0, ,98-111,N. Jović enters the game for J. Butler,,4,111,98,13,2853.0
+0:27.0, ,98-111,O. Robinson enters the game for C. Martin,,4,111,98,13,2853.0
+0:27.0, ,98-112,T. Herro makes free throw 2 of 2,,4,112,98,14,2853.0
+0:03.0,Turnover by Team (shot clock),98-112, ,,4,112,98,14,2877.0
+0:00.0,End of 4th quarter,98-112,,,4,112,98,14,2880.0

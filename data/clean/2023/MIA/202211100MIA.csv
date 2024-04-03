@@ -1,0 +1,511 @@
+Time,Charlotte,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: M. Plumlee vs. B. Adebayo (K. Lowry gains possession),0-0,,,1,0,0,0,0.0
+11:47.0, ,0-0,Personal foul by D. Smith (drawn by B. Adebayo),,1,0,0,0,13.0
+11:38.0, ,0-0,B. Adebayo misses 2-pt jump shot from 18 ft,,1,0,0,0,22.0
+11:35.0,Defensive rebound by K. Oubre,0-0, ,,1,0,0,0,25.0
+11:18.0,K. Oubre makes 3-pt jump shot from 27 ft,3-0, ,,1,0,3,-3,42.0
+11:04.0, ,3-3,C. Martin makes 3-pt jump shot from 28 ft (assist by B. Adebayo),Tie,1,3,3,0,56.0
+10:44.0,D. Smith misses 3-pt jump shot from 25 ft,3-3, ,,1,3,3,0,76.0
+10:41.0, ,3-3,Defensive rebound by J. Butler,,1,3,3,0,79.0
+10:29.0, ,3-3,Shooting foul by K. Oubre (drawn by B. Adebayo),,1,3,3,0,91.0
+10:29.0, ,3-4,B. Adebayo makes free throw 1 of 2,Lead change,1,4,3,1,91.0
+10:29.0, ,3-5,B. Adebayo makes free throw 2 of 2,,1,5,3,2,91.0
+10:14.0,Turnover by D. Smith (bad pass; steal by M. Strus),3-5, ,,1,5,3,2,106.0
+10:07.0, ,3-7,M. Strus makes 2-pt layup from 1 ft,,1,7,3,4,113.0
+9:51.0,T. Rozier misses 2-pt layup from 2 ft,3-7, ,,1,7,3,4,129.0
+9:49.0, ,3-7,Defensive rebound by B. Adebayo,,1,7,3,4,131.0
+9:45.0, ,3-7,J. Butler misses 2-pt layup from 1 ft,,1,7,3,4,135.0
+9:42.0,Defensive rebound by K. Oubre,3-7, ,,1,7,3,4,138.0
+9:42.0,Personal foul by J. Butler (drawn by K. Oubre),3-7, ,,1,7,3,4,138.0
+9:26.0,Turnover by D. Smith (bad pass),3-7, ,,1,7,3,4,154.0
+9:24.0, ,3-7,M. Strus misses 3-pt jump shot from 24 ft,,1,7,3,4,156.0
+9:20.0,Defensive rebound by P. Washington,3-7, ,,1,7,3,4,160.0
+9:15.0,P. Washington misses 3-pt jump shot from 28 ft,3-7, ,,1,7,3,4,165.0
+9:08.0,Offensive rebound by M. Plumlee,3-7, ,,1,7,3,4,172.0
+9:08.0,M. Plumlee makes 2-pt layup at rim,5-7, ,,1,7,5,2,172.0
+8:54.0, ,5-10,M. Strus makes 3-pt jump shot from 25 ft (assist by K. Lowry),,1,10,5,5,186.0
+8:42.0,K. Oubre makes 2-pt dunk from 1 ft (assist by M. Plumlee),7-10, ,,1,10,7,3,198.0
+8:22.0, ,7-10,K. Lowry misses 3-pt jump shot from 23 ft,,1,10,7,3,218.0
+8:18.0, ,7-10,Offensive rebound by B. Adebayo,,1,10,7,3,222.0
+8:15.0, ,7-10,B. Adebayo misses 2-pt hook shot from 4 ft,,1,10,7,3,225.0
+8:14.0, ,7-10,Offensive rebound by Team,,1,10,7,3,226.0
+8:07.0, ,7-10,M. Strus misses 3-pt jump shot from 26 ft,,1,10,7,3,233.0
+8:07.0,Defensive rebound by Team,7-10, ,,1,10,7,3,233.0
+7:53.0,T. Rozier makes 2-pt jump shot from 8 ft,9-10, ,,1,10,9,1,247.0
+7:39.0, ,9-10,J. Butler misses 2-pt layup from 2 ft (block by K. Oubre),,1,10,9,1,261.0
+7:37.0,Defensive rebound by K. Oubre,9-10, ,,1,10,9,1,263.0
+7:34.0,K. Oubre misses 2-pt layup from 3 ft,9-10, ,,1,10,9,1,266.0
+7:32.0, ,9-10,Defensive rebound by K. Lowry,,1,10,9,1,268.0
+7:21.0, ,9-13,C. Martin makes 3-pt jump shot from 23 ft (assist by J. Butler),,1,13,9,4,279.0
+7:03.0,T. Rozier misses 2-pt jump shot from 11 ft,9-13, ,,1,13,9,4,297.0
+7:01.0,Offensive rebound by T. Rozier,9-13, ,,1,13,9,4,299.0
+6:59.0,T. Rozier makes 3-pt jump shot from 24 ft,12-13, ,,1,13,12,1,301.0
+6:38.0, ,12-13,Miami full timeout,,1,13,12,1,322.0
+6:30.0, ,12-13,M. Strus misses 3-pt jump shot from 26 ft,,1,13,12,1,330.0
+6:29.0,Defensive rebound by K. Oubre,12-13, ,,1,13,12,1,331.0
+6:20.0,Turnover by K. Oubre (bad pass; steal by J. Butler),12-13, ,,1,13,12,1,340.0
+6:12.0, ,12-16,K. Lowry makes 3-pt jump shot from 25 ft (assist by C. Martin),,1,16,12,4,348.0
+5:56.0,P. Washington misses 2-pt hook shot from 5 ft,12-16, ,,1,16,12,4,364.0
+5:56.0, ,12-16,Defensive rebound by Team,,1,16,12,4,364.0
+5:56.0,J. Bouknight enters the game for T. Rozier,12-16, ,,1,16,12,4,364.0
+5:56.0,J. McDaniels enters the game for P. Washington,12-16, ,,1,16,12,4,364.0
+5:56.0, ,12-16,D. Dedmon enters the game for B. Adebayo,,1,16,12,4,364.0
+5:56.0, ,12-16,D. Robinson enters the game for C. Martin,,1,16,12,4,364.0
+5:56.0, ,12-16,G. Vincent enters the game for M. Strus,,1,16,12,4,364.0
+5:42.0, ,12-19,D. Robinson makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,19,12,7,378.0
+5:27.0,J. McDaniels misses 2-pt layup from 3 ft,12-19, ,,1,19,12,7,393.0
+5:26.0, ,12-19,Defensive rebound by J. Butler,,1,19,12,7,394.0
+5:23.0, ,12-19,Turnover by J. Butler (bad pass; steal by D. Smith),,1,19,12,7,397.0
+5:16.0,Turnover by J. McDaniels (step out of bounds),12-19, ,,1,19,12,7,404.0
+4:56.0, ,12-21,D. Dedmon makes 2-pt jump shot from 10 ft (assist by D. Robinson),,1,21,12,9,424.0
+4:39.0,K. Oubre misses 3-pt jump shot from 25 ft,12-21, ,,1,21,12,9,441.0
+4:38.0,Offensive rebound by Team,12-21, ,,1,21,12,9,442.0
+4:36.0, ,12-21,Loose ball foul by D. Robinson (drawn by K. Oubre),,1,21,12,9,444.0
+4:36.0,N. Richards enters the game for M. Plumlee,12-21, ,,1,21,12,9,444.0
+4:26.0,K. Oubre makes 2-pt jump shot from 2 ft,14-21, ,,1,21,14,7,454.0
+4:07.0, ,14-21,D. Dedmon misses 3-pt jump shot from 26 ft,,1,21,14,7,473.0
+4:05.0,Defensive rebound by J. McDaniels,14-21, ,,1,21,14,7,475.0
+3:57.0,K. Oubre makes 3-pt jump shot from 24 ft (assist by D. Smith),17-21, ,,1,21,17,4,483.0
+3:27.0, ,17-21,G. Vincent misses 2-pt jump shot from 13 ft,,1,21,17,4,513.0
+3:25.0,Defensive rebound by D. Smith,17-21, ,,1,21,17,4,515.0
+3:16.0,J. Bouknight misses 3-pt jump shot from 24 ft,17-21, ,,1,21,17,4,524.0
+3:13.0, ,17-21,Defensive rebound by J. Butler,,1,21,17,4,527.0
+3:11.0, ,17-21,Personal foul by N. Richards (drawn by D. Dedmon),,1,21,17,4,529.0
+3:11.0,P. Washington enters the game for K. Oubre,17-21, ,,1,21,17,4,529.0
+2:55.0, ,17-24,G. Vincent makes 3-pt jump shot from 23 ft (assist by J. Butler),,1,24,17,7,545.0
+2:38.0,D. Smith makes 2-pt jump shot from 10 ft,19-24, ,,1,24,19,5,562.0
+2:27.0, ,19-26,J. Butler makes 2-pt layup from 4 ft,,1,26,19,7,573.0
+2:27.0, ,19-26,Shooting foul by N. Richards (drawn by J. Butler),,1,26,19,7,573.0
+2:27.0,Charlotte full timeout,19-26, ,,1,26,19,7,573.0
+2:27.0,T. Rozier enters the game for D. Smith,19-26, ,,1,26,19,7,573.0
+2:27.0, ,19-26,C. Martin enters the game for K. Lowry,,1,26,19,7,573.0
+2:27.0, ,19-27,J. Butler makes free throw 1 of 1,,1,27,19,8,573.0
+2:26.0,Turnover by P. Washington (bad pass),19-27, ,,1,27,19,8,574.0
+2:14.0, ,19-27,C. Martin misses 3-pt jump shot from 23 ft,,1,27,19,8,586.0
+2:08.0,Defensive rebound by T. Rozier,19-27, ,,1,27,19,8,592.0
+1:59.0,T. Rozier misses 2-pt jump shot from 10 ft,19-27, ,,1,27,19,8,601.0
+1:58.0, ,19-27,Defensive rebound by Team,,1,27,19,8,602.0
+1:41.0, ,19-29,D. Dedmon makes 2-pt layup from 1 ft (assist by J. Butler),,1,29,19,10,619.0
+1:29.0,N. Richards makes 2-pt hook shot from 7 ft (assist by J. McDaniels),21-29, ,,1,29,21,8,631.0
+1:16.0, ,21-29,Shooting foul by T. Rozier (drawn by C. Martin),,1,29,21,8,644.0
+1:16.0, ,21-30,C. Martin makes free throw 1 of 2,,1,30,21,9,644.0
+1:16.0, ,21-30,M. Strus enters the game for J. Butler,,1,30,21,9,644.0
+1:16.0, ,21-30,C. Martin misses free throw 2 of 2,,1,30,21,9,644.0
+1:13.0,Defensive rebound by P. Washington,21-30, ,,1,30,21,9,647.0
+0:55.0,J. Bouknight misses 3-pt jump shot from 26 ft,21-30, ,,1,30,21,9,665.0
+0:54.0,Offensive rebound by N. Richards,21-30, ,,1,30,21,9,666.0
+0:53.0,N. Richards makes 2-pt layup at rim,23-30, ,,1,30,23,7,667.0
+0:53.0,Shooting foul by D. Dedmon (drawn by N. Richards),23-30, ,,1,30,23,7,667.0
+0:53.0,N. Richards misses free throw 1 of 1,23-30, ,,1,30,23,7,667.0
+0:51.0, ,23-30,Defensive rebound by D. Dedmon,,1,30,23,7,669.0
+0:42.0, ,23-30,Shooting foul by J. McDaniels (drawn by D. Robinson),,1,30,23,7,678.0
+0:42.0, ,23-30,D. Robinson misses free throw 1 of 3,,1,30,23,7,678.0
+0:42.0, ,23-30,Offensive rebound by Team,,1,30,23,7,678.0
+0:42.0, ,23-31,D. Robinson makes free throw 2 of 3,,1,31,23,8,678.0
+0:42.0, ,23-32,D. Robinson makes free throw 3 of 3,,1,32,23,9,678.0
+0:27.0,J. McDaniels makes 2-pt jump shot from 13 ft,25-32, ,,1,32,25,7,693.0
+0:27.0,Shooting foul by M. Strus (drawn by J. McDaniels),25-32, ,,1,32,25,7,693.0
+0:27.0,J. McDaniels makes free throw 1 of 1,26-32, ,,1,32,26,6,693.0
+0:12.0, ,26-32,G. Vincent misses 2-pt layup from 2 ft (block by N. Richards),,1,32,26,6,708.0
+0:10.0,Defensive rebound by Team,26-32, ,,1,32,26,6,710.0
+0:10.0, ,26-32,Loose ball foul by D. Dedmon (drawn by J. Bouknight),,1,32,26,6,710.0
+0:10.0,J. Bouknight misses free throw 1 of 2,26-32, ,,1,32,26,6,710.0
+0:10.0,Offensive rebound by Team,26-32, ,,1,32,26,6,710.0
+0:10.0,J. Bouknight makes free throw 2 of 2,27-32, ,,1,32,27,5,710.0
+0:03.0, ,27-32,D. Robinson misses 3-pt jump shot from 26 ft,,1,32,27,5,717.0
+0:02.0,Defensive rebound by J. Bouknight,27-32, ,,1,32,27,5,718.0
+0:00.0,End of 1st quarter,27-32,,,1,32,27,5,720.0
+12:00.0,Start of 2nd quarter,27-32,,,2,32,27,5,720.0
+11:39.0,Personal foul by D. Robinson (drawn by J. Bouknight),27-32, ,,2,32,27,5,741.0
+11:22.0,T. Rozier makes 3-pt jump shot from 26 ft (assist by J. McDaniels),30-32, ,,2,32,30,2,758.0
+10:58.0, ,30-34,D. Robinson makes 2-pt jump shot from 10 ft,,2,34,30,4,782.0
+10:41.0,P. Washington misses 2-pt jump shot from 10 ft,30-34, ,,2,34,30,4,799.0
+10:38.0, ,30-34,Defensive rebound by G. Vincent,,2,34,30,4,802.0
+10:29.0, ,30-34,B. Adebayo misses 3-pt jump shot from 26 ft,,2,34,30,4,811.0
+10:26.0,Defensive rebound by T. Rozier,30-34, ,,2,34,30,4,814.0
+10:22.0,T. Rozier misses 3-pt jump shot from 26 ft,30-34, ,,2,34,30,4,818.0
+10:19.0, ,30-34,Defensive rebound by C. Martin,,2,34,30,4,821.0
+10:09.0, ,30-34,Turnover by C. Martin (bad pass; steal by N. Richards),,2,34,30,4,831.0
+10:06.0,Offensive foul by J. Bouknight (drawn by D. Robinson),30-34, ,,2,34,30,4,834.0
+10:06.0,Turnover by J. Bouknight (offensive foul),30-34, ,,2,34,30,4,834.0
+9:50.0, ,30-34,M. Strus misses 3-pt jump shot from 25 ft,,2,34,30,4,850.0
+9:49.0,Defensive rebound by N. Richards,30-34, ,,2,34,30,4,851.0
+9:45.0,J. McDaniels misses 2-pt layup from 7 ft,30-34, ,,2,34,30,4,855.0
+9:43.0,Offensive rebound by N. Richards,30-34, ,,2,34,30,4,857.0
+9:42.0,N. Richards makes 2-pt layup at rim,32-34, ,,2,34,32,2,858.0
+9:25.0, ,32-34,G. Vincent misses 3-pt jump shot from 26 ft,,2,34,32,2,875.0
+9:23.0,Defensive rebound by N. Richards,32-34, ,,2,34,32,2,877.0
+9:16.0,Turnover by J. McDaniels (discontinued dribble),32-34, ,,2,34,32,2,884.0
+9:16.0,J. Thor enters the game for P. Washington,32-34, ,,2,34,32,2,884.0
+9:05.0, ,32-36,D. Robinson makes 2-pt layup from 2 ft (assist by B. Adebayo),,2,36,32,4,895.0
+8:42.0,J. Bouknight misses 3-pt jump shot from 24 ft,32-36, ,,2,36,32,4,918.0
+8:39.0, ,32-36,Defensive rebound by M. Strus,,2,36,32,4,921.0
+8:32.0, ,32-38,C. Martin makes 2-pt dunk from 1 ft (assist by M. Strus),,2,38,32,6,928.0
+8:32.0,Violation by Team (def goaltending),32-38, ,,2,38,32,6,928.0
+8:32.0,Charlotte full timeout,32-38, ,,2,38,32,6,928.0
+8:17.0,Personal foul by G. Vincent (drawn by T. Rozier),32-38, ,,2,38,32,6,943.0
+8:02.0,T. Rozier misses 2-pt jump shot from 5 ft,32-38, ,,2,38,32,6,958.0
+8:00.0, ,32-38,Defensive rebound by B. Adebayo,,2,38,32,6,960.0
+7:56.0, ,32-41,G. Vincent makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,2,41,32,9,964.0
+7:28.0,J. Thor misses 2-pt jump shot from 12 ft,32-41, ,,2,41,32,9,992.0
+7:25.0, ,32-41,Defensive rebound by B. Adebayo,,2,41,32,9,995.0
+7:21.0, ,32-43,D. Robinson makes 2-pt jump shot from 5 ft (assist by B. Adebayo),,2,43,32,11,999.0
+7:00.0,Turnover by J. Thor (bad pass; steal by C. Martin),32-43, ,,2,43,32,11,1020.0
+6:41.0, ,32-45,B. Adebayo makes 2-pt jump shot from 12 ft,,2,45,32,13,1039.0
+6:38.0,Charlotte full timeout,32-45, ,,2,45,32,13,1042.0
+6:38.0,T. Maledon enters the game for J. Bouknight,32-45, ,,2,45,32,13,1042.0
+6:38.0,K. Oubre enters the game for J. McDaniels,32-45, ,,2,45,32,13,1042.0
+6:38.0,M. Plumlee enters the game for N. Richards,32-45, ,,2,45,32,13,1042.0
+6:38.0,D. Smith enters the game for T. Rozier,32-45, ,,2,45,32,13,1042.0
+6:38.0,P. Washington enters the game for J. Thor,32-45, ,,2,45,32,13,1042.0
+6:38.0, ,32-45,J. Butler enters the game for C. Martin,,2,45,32,13,1042.0
+6:38.0, ,32-45,K. Lowry enters the game for G. Vincent,,2,45,32,13,1042.0
+6:28.0,P. Washington misses 2-pt jump shot from 2 ft,32-45, ,,2,45,32,13,1052.0
+6:25.0, ,32-45,Defensive rebound by J. Butler,,2,45,32,13,1055.0
+6:10.0, ,32-45,Personal foul by K. Oubre (drawn by B. Adebayo),,2,45,32,13,1070.0
+5:55.0, ,32-45,K. Lowry misses 3-pt jump shot from 23 ft,,2,45,32,13,1085.0
+5:50.0,Defensive rebound by M. Plumlee,32-45, ,,2,45,32,13,1090.0
+5:43.0,K. Oubre misses 3-pt jump shot from 26 ft,32-45, ,,2,45,32,13,1097.0
+5:40.0, ,32-45,Defensive rebound by B. Adebayo,,2,45,32,13,1100.0
+5:27.0, ,32-45,D. Robinson misses 3-pt jump shot from 24 ft,,2,45,32,13,1113.0
+5:23.0,Defensive rebound by M. Plumlee,32-45, ,,2,45,32,13,1117.0
+5:14.0,Turnover by P. Washington (bad pass; steal by M. Strus),32-45, ,,2,45,32,13,1126.0
+5:10.0, ,32-47,M. Strus makes 2-pt dunk from 2 ft,,2,47,32,15,1130.0
+4:53.0,K. Oubre makes 3-pt jump shot from 23 ft (assist by D. Smith),35-47, ,,2,47,35,12,1147.0
+4:41.0, ,35-47,Personal foul by M. Plumlee (drawn by B. Adebayo),,2,47,35,12,1159.0
+4:41.0, ,35-47,D. Dedmon enters the game for B. Adebayo,,2,47,35,12,1159.0
+4:27.0, ,35-47,Turnover by Team (shot clock),,2,47,35,12,1173.0
+4:14.0,K. Oubre makes 3-pt jump shot from 26 ft (assist by T. Maledon),38-47, ,,2,47,38,9,1186.0
+3:56.0, ,38-47,M. Strus misses 3-pt jump shot from 26 ft,,2,47,38,9,1204.0
+3:55.0,Defensive rebound by M. Plumlee,38-47, ,,2,47,38,9,1205.0
+3:53.0,Turnover by M. Plumlee (lost ball; steal by D. Dedmon),38-47, ,,2,47,38,9,1207.0
+3:52.0, ,38-47,Shooting foul by P. Washington (drawn by D. Dedmon),,2,47,38,9,1208.0
+3:52.0, ,38-47,D. Dedmon misses free throw 1 of 2,,2,47,38,9,1208.0
+3:52.0, ,38-47,Offensive rebound by Team,,2,47,38,9,1208.0
+3:52.0, ,38-47,C. Martin enters the game for D. Robinson,,2,47,38,9,1208.0
+3:52.0, ,38-47,G. Vincent enters the game for M. Strus,,2,47,38,9,1208.0
+3:52.0, ,38-48,D. Dedmon makes free throw 2 of 2,,2,48,38,10,1208.0
+3:35.0,Shooting foul by C. Martin (drawn by M. Plumlee),38-48, ,,2,48,38,10,1225.0
+3:35.0,M. Plumlee makes free throw 1 of 2,39-48, ,,2,48,39,9,1225.0
+3:35.0,T. Rozier enters the game for T. Maledon,39-48, ,,2,48,39,9,1225.0
+3:35.0,M. Plumlee makes free throw 2 of 2,40-48, ,,2,48,40,8,1225.0
+3:19.0, ,40-50,J. Butler makes 2-pt layup from 2 ft,,2,50,40,10,1241.0
+2:59.0,D. Smith makes 2-pt layup from 2 ft (assist by K. Oubre),42-50, ,,2,50,42,8,1261.0
+2:50.0, ,42-50,Shooting foul by D. Smith (drawn by K. Lowry),,2,50,42,8,1270.0
+2:50.0, ,42-51,K. Lowry makes free throw 1 of 2,,2,51,42,9,1270.0
+2:50.0, ,42-52,K. Lowry makes free throw 2 of 2,,2,52,42,10,1270.0
+2:47.0,Turnover by P. Washington (bad pass; steal by G. Vincent),42-52, ,,2,52,42,10,1273.0
+2:33.0, ,42-52,C. Martin misses 2-pt jump shot from 9 ft,,2,52,42,10,1287.0
+2:33.0,Defensive rebound by Team,42-52, ,,2,52,42,10,1287.0
+2:22.0,T. Rozier misses 2-pt jump shot from 20 ft,42-52, ,,2,52,42,10,1298.0
+2:20.0, ,42-52,Defensive rebound by J. Butler,,2,52,42,10,1300.0
+2:12.0, ,42-52,G. Vincent misses 3-pt jump shot from 27 ft,,2,52,42,10,1308.0
+2:07.0,Defensive rebound by K. Oubre,42-52, ,,2,52,42,10,1313.0
+2:00.0,K. Oubre makes 3-pt jump shot from 25 ft,45-52, ,,2,52,45,7,1320.0
+1:34.0, ,45-52,C. Martin misses 2-pt jump shot from 9 ft,,2,52,45,7,1346.0
+1:33.0,Defensive rebound by P. Washington,45-52, ,,2,52,45,7,1347.0
+1:29.0,Shooting foul by D. Dedmon (drawn by M. Plumlee),45-52, ,,2,52,45,7,1351.0
+1:29.0,M. Plumlee makes free throw 1 of 2,46-52, ,,2,52,46,6,1351.0
+1:29.0,T. Maledon enters the game for D. Smith,46-52, ,,2,52,46,6,1351.0
+1:29.0, ,46-52,B. Adebayo enters the game for D. Dedmon,,2,52,46,6,1351.0
+1:29.0, ,46-52,M. Strus enters the game for C. Martin,,2,52,46,6,1351.0
+1:29.0,M. Plumlee misses free throw 2 of 2,46-52, ,,2,52,46,6,1351.0
+1:26.0, ,46-52,Defensive rebound by G. Vincent,,2,52,46,6,1354.0
+1:15.0, ,46-54,J. Butler makes 2-pt layup from 2 ft,,2,54,46,8,1365.0
+1:08.0,Personal foul by G. Vincent (drawn by T. Rozier),46-54, ,,2,54,46,8,1372.0
+1:08.0,T. Rozier makes free throw 1 of 2,47-54, ,,2,54,47,7,1372.0
+1:08.0,T. Rozier makes free throw 2 of 2,48-54, ,,2,54,48,6,1372.0
+0:44.0, ,48-54,B. Adebayo misses 2-pt jump shot from 10 ft,,2,54,48,6,1396.0
+0:41.0,Defensive rebound by T. Maledon,48-54, ,,2,54,48,6,1399.0
+0:34.0,T. Rozier makes 2-pt jump shot from 13 ft,50-54, ,,2,54,50,4,1406.0
+0:32.0, ,50-56,J. Butler makes 2-pt dunk from 1 ft,,2,56,50,6,1408.0
+0:14.0,K. Oubre misses 2-pt layup from 2 ft (block by K. Lowry),50-56, ,,2,56,50,6,1426.0
+0:14.0,Offensive rebound by Team,50-56, ,,2,56,50,6,1426.0
+0:11.0,K. Oubre misses 2-pt jump shot from 10 ft,50-56, ,,2,56,50,6,1429.0
+0:08.0, ,50-56,Defensive rebound by B. Adebayo,,2,56,50,6,1432.0
+0:00.0, ,50-58,G. Vincent makes 2-pt jump shot from 16 ft (assist by J. Butler),,2,58,50,8,1440.0
+0:00.0,End of 2nd quarter,50-58,,,2,58,50,8,1440.0
+12:00.0,Start of 3rd quarter,50-58,,,3,58,50,8,1440.0
+11:52.0,Personal foul by M. Strus (drawn by P. Washington),50-58, ,,3,58,50,8,1448.0
+11:35.0,T. Rozier misses 2-pt jump shot from 18 ft,50-58, ,,3,58,50,8,1465.0
+11:33.0, ,50-58,Defensive rebound by J. Butler,,3,58,50,8,1467.0
+11:28.0, ,50-60,M. Strus makes 2-pt layup from 4 ft (assist by K. Lowry),,3,60,50,10,1472.0
+11:16.0,K. Oubre misses 3-pt jump shot from 24 ft,50-60, ,,3,60,50,10,1484.0
+11:16.0, ,50-60,Defensive rebound by K. Lowry,,3,60,50,10,1484.0
+11:08.0, ,50-63,K. Lowry makes 3-pt jump shot from 29 ft (assist by J. Butler),,3,63,50,13,1492.0
+10:56.0,Turnover by M. Plumlee (lost ball; steal by J. Butler),50-63, ,,3,63,50,13,1504.0
+10:53.0,Clear path foul by D. Smith,50-63, ,,3,63,50,13,1507.0
+10:53.0,Instant Replay (Request: Ruling Stands),50-63, ,,3,63,50,13,1507.0
+10:53.0, ,50-64,J. Butler makes clear path free throw 1 of 2,,3,64,50,14,1507.0
+10:53.0, ,50-65,J. Butler makes clear path free throw 2 of 2,,3,65,50,15,1507.0
+10:34.0, ,50-65,Turnover by B. Adebayo (traveling),,3,65,50,15,1526.0
+10:13.0,T. Rozier makes 3-pt jump shot from 23 ft (assist by D. Smith),53-65, ,,3,65,53,12,1547.0
+9:57.0,Charlotte full timeout,53-65, ,,3,65,53,12,1563.0
+9:57.0, ,53-65,J. Butler misses 2-pt layup from 4 ft,,3,65,53,12,1563.0
+9:57.0, ,53-65,Offensive rebound by Team,,3,65,53,12,1563.0
+9:57.0, ,53-65,Instant Replay (Challenge: Ruling Stands),,3,65,53,12,1563.0
+9:54.0,Jump ball: B. Adebayo vs. M. Plumlee (M. Strus gains possession),53-65,,,3,65,53,12,1566.0
+9:45.0,Violation by Team (kicked ball),53-65, ,,3,65,53,12,1575.0
+9:32.0, ,53-67,J. Butler makes 2-pt jump shot from 7 ft (assist by K. Lowry),,3,67,53,14,1588.0
+9:15.0,T. Rozier misses 2-pt jump shot from 19 ft,53-67, ,,3,67,53,14,1605.0
+9:12.0, ,53-67,Defensive rebound by B. Adebayo,,3,67,53,14,1608.0
+9:05.0, ,53-67,M. Strus misses 3-pt jump shot from 23 ft,,3,67,53,14,1615.0
+9:03.0, ,53-67,Offensive rebound by J. Butler,,3,67,53,14,1617.0
+8:59.0, ,53-67,B. Adebayo misses 2-pt hook shot from 7 ft,,3,67,53,14,1621.0
+8:55.0,Defensive rebound by M. Plumlee,53-67, ,,3,67,53,14,1625.0
+8:50.0,K. Oubre misses 3-pt jump shot from 23 ft,53-67, ,,3,67,53,14,1630.0
+8:47.0,Offensive rebound by T. Rozier,53-67, ,,3,67,53,14,1633.0
+8:47.0,T. Rozier makes 2-pt jump shot from 4 ft,55-67, ,,3,67,55,12,1633.0
+8:35.0, ,55-69,B. Adebayo makes 2-pt jump shot from 6 ft,,3,69,55,14,1645.0
+8:22.0,P. Washington makes 3-pt jump shot from 26 ft (assist by D. Smith),58-69, ,,3,69,58,11,1658.0
+8:02.0, ,58-69,C. Martin misses 2-pt layup from 3 ft,,3,69,58,11,1678.0
+8:00.0,Defensive rebound by M. Plumlee,58-69, ,,3,69,58,11,1680.0
+7:57.0,T. Rozier misses 3-pt jump shot from 25 ft,58-69, ,,3,69,58,11,1683.0
+7:52.0, ,58-69,Defensive rebound by B. Adebayo,,3,69,58,11,1688.0
+7:39.0, ,58-69,Turnover by B. Adebayo (lost ball; steal by K. Oubre),,3,69,58,11,1701.0
+7:35.0,K. Oubre makes 2-pt dunk from 2 ft,60-69, ,,3,69,60,9,1705.0
+7:24.0, ,60-69,Personal foul by M. Plumlee (drawn by B. Adebayo),,3,69,60,9,1716.0
+7:22.0, ,60-69,Offensive foul by B. Adebayo (drawn by T. Rozier),,3,69,60,9,1718.0
+7:22.0, ,60-69,Turnover by B. Adebayo (offensive foul),,3,69,60,9,1718.0
+7:08.0,Offensive foul by M. Plumlee (drawn by K. Lowry),60-69, ,,3,69,60,9,1732.0
+7:08.0,Turnover by M. Plumlee (offensive foul),60-69, ,,3,69,60,9,1732.0
+6:52.0, ,60-69,M. Strus misses 3-pt jump shot from 24 ft,,3,69,60,9,1748.0
+6:47.0, ,60-69,Offensive rebound by B. Adebayo,,3,69,60,9,1753.0
+6:46.0, ,60-71,B. Adebayo makes 2-pt hook shot from 4 ft,,3,71,60,11,1754.0
+6:32.0,D. Smith makes 2-pt jump shot from 11 ft,62-71, ,,3,71,62,9,1768.0
+6:22.0, ,62-71,Personal foul by D. Smith (drawn by B. Adebayo),,3,71,62,9,1778.0
+6:17.0, ,62-71,Turnover by K. Lowry (bad pass; steal by K. Oubre),,3,71,62,9,1783.0
+6:10.0,T. Rozier misses 2-pt layup from 1 ft,62-71, ,,3,71,62,9,1790.0
+6:08.0, ,62-71,Defensive rebound by K. Lowry,,3,71,62,9,1792.0
+6:00.0, ,62-71,B. Adebayo misses 2-pt dunk from 1 ft,,3,71,62,9,1800.0
+5:57.0,Defensive rebound by K. Oubre,62-71, ,,3,71,62,9,1803.0
+5:52.0,T. Rozier misses 3-pt jump shot from 26 ft,62-71, ,,3,71,62,9,1808.0
+5:52.0, ,62-71,Defensive rebound by Team,,3,71,62,9,1808.0
+5:52.0,J. Bouknight enters the game for D. Smith,62-71, ,,3,71,62,9,1808.0
+5:52.0,J. McDaniels enters the game for P. Washington,62-71, ,,3,71,62,9,1808.0
+5:52.0, ,62-71,D. Robinson enters the game for M. Strus,,3,71,62,9,1808.0
+5:39.0, ,62-71,Shooting foul by J. Bouknight (drawn by J. Butler),,3,71,62,9,1821.0
+5:39.0, ,62-72,J. Butler makes free throw 1 of 2,,3,72,62,10,1821.0
+5:39.0, ,62-72,D. Dedmon enters the game for B. Adebayo,,3,72,62,10,1821.0
+5:39.0, ,62-72,G. Vincent enters the game for C. Martin,,3,72,62,10,1821.0
+5:39.0, ,62-72,J. Butler misses free throw 2 of 2,,3,72,62,10,1821.0
+5:37.0,Defensive rebound by M. Plumlee,62-72, ,,3,72,62,10,1823.0
+5:33.0,Personal foul by G. Vincent (drawn by K. Oubre),62-72, ,,3,72,62,10,1827.0
+5:22.0,M. Plumlee makes 2-pt dunk from 1 ft (assist by J. McDaniels),64-72, ,,3,72,64,8,1838.0
+5:03.0, ,64-72,G. Vincent misses 3-pt jump shot from 26 ft,,3,72,64,8,1857.0
+5:00.0,Defensive rebound by J. Bouknight,64-72, ,,3,72,64,8,1860.0
+4:51.0,J. McDaniels makes 3-pt jump shot from 23 ft (assist by M. Plumlee),67-72, ,,3,72,67,5,1869.0
+4:25.0, ,67-72,G. Vincent misses 3-pt jump shot from 26 ft,,3,72,67,5,1895.0
+4:22.0, ,67-72,Offensive rebound by J. Butler,,3,72,67,5,1898.0
+4:12.0, ,67-72,Shooting foul by J. McDaniels (drawn by J. Butler),,3,72,67,5,1908.0
+4:12.0, ,67-73,J. Butler makes free throw 1 of 2,,3,73,67,6,1908.0
+4:12.0,N. Richards enters the game for M. Plumlee,67-73, ,,3,73,67,6,1908.0
+4:12.0, ,67-74,J. Butler makes free throw 2 of 2,,3,74,67,7,1908.0
+4:00.0,T. Rozier makes 2-pt layup from 1 ft (assist by K. Oubre),69-74, ,,3,74,69,5,1920.0
+3:49.0, ,69-74,D. Dedmon misses 2-pt hook shot from 1 ft,,3,74,69,5,1931.0
+3:46.0,Defensive rebound by T. Rozier,69-74, ,,3,74,69,5,1934.0
+3:44.0,N. Richards makes 2-pt dunk from 1 ft (assist by T. Rozier),71-74, ,,3,74,71,3,1936.0
+3:43.0, ,71-74,Miami full timeout,,3,74,71,3,1937.0
+3:43.0, ,71-74,C. Martin enters the game for K. Lowry,,3,74,71,3,1937.0
+3:22.0, ,71-76,J. Butler makes 2-pt hook shot from 4 ft,,3,76,71,5,1958.0
+3:05.0,Offensive foul by N. Richards (drawn by D. Robinson),71-76, ,,3,76,71,5,1975.0
+3:05.0,Turnover by N. Richards (offensive foul),71-76, ,,3,76,71,5,1975.0
+3:05.0,T. Maledon enters the game for K. Oubre,71-76, ,,3,76,71,5,1975.0
+3:05.0,P. Washington enters the game for T. Rozier,71-76, ,,3,76,71,5,1975.0
+2:48.0, ,71-76,D. Robinson misses 3-pt jump shot from 25 ft,,3,76,71,5,1992.0
+2:46.0,Defensive rebound by J. Bouknight,71-76, ,,3,76,71,5,1994.0
+2:35.0,J. Bouknight misses 2-pt jump shot from 12 ft,71-76, ,,3,76,71,5,2005.0
+2:35.0, ,71-76,Defensive rebound by Team,,3,76,71,5,2005.0
+2:35.0,Loose ball foul by N. Richards (drawn by D. Dedmon),71-76, ,,3,76,71,5,2005.0
+2:35.0, ,71-76,D. Dedmon misses free throw 1 of 2,,3,76,71,5,2005.0
+2:35.0, ,71-76,Offensive rebound by Team,,3,76,71,5,2005.0
+2:35.0, ,71-76,D. Dedmon misses free throw 2 of 2,,3,76,71,5,2005.0
+2:32.0, ,71-76,Offensive rebound by C. Martin,,3,76,71,5,2008.0
+2:27.0, ,71-79,D. Robinson makes 3-pt jump shot from 24 ft (assist by C. Martin),,3,79,71,8,2013.0
+2:22.0,Turnover by T. Maledon (bad pass),71-79, ,,3,79,71,8,2018.0
+2:03.0, ,71-81,D. Dedmon makes 2-pt jump shot from 9 ft (assist by J. Butler),,3,81,71,10,2037.0
+2:00.0,Personal foul by C. Martin (drawn by T. Maledon),71-81, ,,3,81,71,10,2040.0
+1:43.0,Shooting foul by D. Dedmon (drawn by P. Washington),71-81, ,,3,81,71,10,2057.0
+1:43.0,P. Washington misses free throw 1 of 2,71-81, ,,3,81,71,10,2057.0
+1:43.0,Offensive rebound by Team,71-81, ,,3,81,71,10,2057.0
+1:43.0,P. Washington misses free throw 2 of 2,71-81, ,,3,81,71,10,2057.0
+1:40.0, ,71-81,Defensive rebound by C. Martin,,3,81,71,10,2060.0
+1:19.0, ,71-81,D. Robinson misses 2-pt jump shot from 10 ft,,3,81,71,10,2081.0
+1:15.0,Defensive rebound by T. Maledon,71-81, ,,3,81,71,10,2085.0
+1:13.0,Offensive foul by P. Washington (drawn by G. Vincent),71-81, ,,3,81,71,10,2087.0
+1:13.0,Turnover by P. Washington (offensive foul),71-81, ,,3,81,71,10,2087.0
+0:55.0, ,71-81,G. Vincent misses 3-pt jump shot from 25 ft,,3,81,71,10,2105.0
+0:53.0, ,71-81,Offensive rebound by D. Dedmon,,3,81,71,10,2107.0
+0:52.0, ,71-81,D. Dedmon misses 2-pt layup from 2 ft,,3,81,71,10,2108.0
+0:52.0, ,71-81,Offensive rebound by C. Martin,,3,81,71,10,2108.0
+0:40.0, ,71-81,Shooting foul by J. McDaniels (drawn by J. Butler),,3,81,71,10,2120.0
+0:40.0, ,71-82,J. Butler makes free throw 1 of 3,,3,82,71,11,2120.0
+0:40.0, ,71-83,J. Butler makes free throw 2 of 3,,3,83,71,12,2120.0
+0:40.0, ,71-84,J. Butler makes free throw 3 of 3,,3,84,71,13,2120.0
+0:24.0,J. Bouknight misses 3-pt jump shot from 29 ft,71-84, ,,3,84,71,13,2136.0
+0:23.0,Offensive rebound by Team,71-84, ,,3,84,71,13,2137.0
+0:23.0, ,71-84,Loose ball foul by D. Dedmon (drawn by N. Richards),,3,84,71,13,2137.0
+0:23.0,N. Richards makes free throw 1 of 2,72-84, ,,3,84,72,12,2137.0
+0:23.0, ,72-84,B. Adebayo enters the game for D. Dedmon,,3,84,72,12,2137.0
+0:23.0,N. Richards makes free throw 2 of 2,73-84, ,,3,84,73,11,2137.0
+0:04.0, ,73-84,Shooting foul by P. Washington (drawn by J. Butler),,3,84,73,11,2156.0
+0:04.0, ,73-85,J. Butler makes free throw 1 of 2,,3,85,73,12,2156.0
+0:04.0, ,73-85,J. Butler misses free throw 2 of 2,,3,85,73,12,2156.0
+0:02.0,Defensive rebound by P. Washington,73-85, ,,3,85,73,12,2158.0
+0:01.0,T. Maledon misses 3-pt jump shot from 43 ft,73-85, ,,3,85,73,12,2159.0
+0:00.0,Offensive rebound by Team,73-85, ,,3,85,73,12,2160.0
+0:00.0,End of 3rd quarter,73-85,,,3,85,73,12,2160.0
+12:00.0,Start of 4th quarter,73-85,,,4,85,73,12,2160.0
+11:45.0, ,73-85,C. Martin misses 3-pt jump shot from 23 ft,,4,85,73,12,2175.0
+11:39.0,Defensive rebound by T. Rozier,73-85, ,,4,85,73,12,2181.0
+11:28.0,P. Washington makes 2-pt dunk from 1 ft (assist by M. Plumlee),75-85, ,,4,85,75,10,2192.0
+11:05.0, ,75-87,B. Adebayo makes 2-pt jump shot from 8 ft,,4,87,75,12,2215.0
+10:43.0,J. McDaniels makes 3-pt jump shot from 23 ft (assist by D. Smith),78-87, ,,4,87,78,9,2237.0
+10:24.0, ,78-87,Offensive foul by M. Strus (drawn by J. McDaniels),,4,87,78,9,2256.0
+10:24.0, ,78-87,Turnover by M. Strus (offensive foul),,4,87,78,9,2256.0
+10:07.0,P. Washington makes 2-pt jump shot from 9 ft (assist by D. Smith),80-87, ,,4,87,80,7,2273.0
+9:52.0, ,80-87,B. Adebayo misses 2-pt jump shot from 4 ft,,4,87,80,7,2288.0
+9:52.0,Defensive rebound by D. Smith,80-87, ,,4,87,80,7,2288.0
+9:45.0,J. McDaniels makes 2-pt jump shot from 10 ft,82-87, ,,4,87,82,5,2295.0
+9:45.0,Shooting foul by D. Robinson (drawn by J. McDaniels),82-87, ,,4,87,82,5,2295.0
+9:45.0,J. McDaniels misses free throw 1 of 1,82-87, ,,4,87,82,5,2295.0
+9:42.0, ,82-87,Defensive rebound by B. Adebayo,,4,87,82,5,2298.0
+9:36.0, ,82-87,D. Robinson misses 3-pt jump shot from 28 ft,,4,87,82,5,2304.0
+9:31.0,Defensive rebound by P. Washington,82-87, ,,4,87,82,5,2309.0
+9:24.0,P. Washington misses 3-pt jump shot from 25 ft,82-87, ,,4,87,82,5,2316.0
+9:22.0,Offensive rebound by J. McDaniels,82-87, ,,4,87,82,5,2318.0
+9:22.0,J. McDaniels makes 2-pt layup from 1 ft,84-87, ,,4,87,84,3,2318.0
+9:22.0, ,84-87,Miami full timeout,,4,87,84,3,2318.0
+9:22.0,K. Oubre enters the game for P. Washington,84-87, ,,4,87,84,3,2318.0
+9:22.0, ,84-87,K. Lowry enters the game for D. Robinson,,4,87,84,3,2318.0
+9:09.0, ,84-87,Offensive foul by B. Adebayo (drawn by T. Rozier),,4,87,84,3,2331.0
+9:09.0, ,84-87,Turnover by B. Adebayo (offensive foul),,4,87,84,3,2331.0
+8:50.0,T. Rozier misses 3-pt jump shot from 25 ft,84-87, ,,4,87,84,3,2350.0
+8:47.0, ,84-87,Defensive rebound by G. Vincent,,4,87,84,3,2353.0
+8:43.0, ,84-87,Turnover by B. Adebayo (bad pass),,4,87,84,3,2357.0
+8:26.0,J. McDaniels misses 3-pt jump shot from 26 ft,84-87, ,,4,87,84,3,2374.0
+8:21.0,Offensive rebound by T. Rozier,84-87, ,,4,87,84,3,2379.0
+8:21.0,Turnover by T. Rozier (bad pass; steal by B. Adebayo),84-87, ,,4,87,84,3,2379.0
+8:15.0, ,84-87,K. Lowry misses 3-pt jump shot from 26 ft,,4,87,84,3,2385.0
+8:13.0,Defensive rebound by M. Plumlee,84-87, ,,4,87,84,3,2387.0
+7:57.0,Shooting foul by K. Lowry (drawn by M. Plumlee),84-87, ,,4,87,84,3,2403.0
+7:57.0,M. Plumlee misses free throw 1 of 2,84-87, ,,4,87,84,3,2403.0
+7:57.0,Offensive rebound by Team,84-87, ,,4,87,84,3,2403.0
+7:57.0, ,84-87,J. Butler enters the game for C. Martin,,4,87,84,3,2403.0
+7:57.0,M. Plumlee makes free throw 2 of 2,85-87, ,,4,87,85,2,2403.0
+7:39.0, ,85-87,M. Strus misses 3-pt jump shot from 24 ft,,4,87,85,2,2421.0
+7:37.0,Defensive rebound by K. Oubre,85-87, ,,4,87,85,2,2423.0
+7:22.0,K. Oubre makes 2-pt jump shot from 11 ft (assist by M. Plumlee),87-87, ,Tie,4,87,87,0,2438.0
+7:05.0, ,87-87,Shooting foul by K. Oubre (drawn by J. Butler),,4,87,87,0,2455.0
+7:05.0, ,87-88,J. Butler makes free throw 1 of 2,,4,88,87,1,2455.0
+7:05.0, ,87-89,J. Butler makes free throw 2 of 2,,4,89,87,2,2455.0
+6:50.0,M. Plumlee makes 2-pt hook shot from 3 ft (assist by D. Smith),89-89, ,Tie,4,89,89,0,2470.0
+6:50.0,Shooting foul by B. Adebayo (drawn by M. Plumlee),89-89, ,,4,89,89,0,2470.0
+6:50.0,M. Plumlee makes free throw 1 of 1,90-89, ,Lead change,4,89,90,-1,2470.0
+6:38.0, ,90-91,B. Adebayo makes 2-pt dunk from 1 ft (assist by G. Vincent),Lead change,4,91,90,1,2482.0
+6:14.0,T. Rozier makes 2-pt layup from 1 ft,92-91, ,Lead change,4,91,92,-1,2506.0
+5:59.0, ,92-91,G. Vincent misses 2-pt jump shot from 18 ft,,4,91,92,-1,2521.0
+5:54.0, ,92-91,Offensive rebound by J. Butler,,4,91,92,-1,2526.0
+5:54.0, ,92-91,J. Butler misses 2-pt layup at rim,,4,91,92,-1,2526.0
+5:51.0,Defensive rebound by M. Plumlee,92-91, ,,4,91,92,-1,2529.0
+5:48.0,J. McDaniels makes 3-pt jump shot from 26 ft (assist by D. Smith),95-91, ,,4,91,95,-4,2532.0
+5:26.0, ,95-91,M. Strus misses 2-pt layup from 2 ft,,4,91,95,-4,2554.0
+5:24.0,Defensive rebound by M. Plumlee,95-91, ,,4,91,95,-4,2556.0
+5:19.0,J. McDaniels misses 3-pt jump shot from 22 ft,95-91, ,,4,91,95,-4,2561.0
+5:14.0, ,95-91,Defensive rebound by B. Adebayo,,4,91,95,-4,2566.0
+5:03.0, ,95-93,B. Adebayo makes 2-pt jump shot from 15 ft,,4,93,95,-2,2577.0
+4:38.0,D. Smith misses 3-pt jump shot from 25 ft,95-93, ,,4,93,95,-2,2602.0
+4:37.0,Offensive rebound by Team,95-93, ,,4,93,95,-2,2603.0
+4:37.0,Turnover by Team (shot clock),95-93, ,,4,93,95,-2,2603.0
+4:15.0, ,95-93,B. Adebayo misses 2-pt layup from 2 ft,,4,93,95,-2,2625.0
+4:12.0,Defensive rebound by J. McDaniels,95-93, ,,4,93,95,-2,2628.0
+4:11.0,Personal foul by G. Vincent (drawn by K. Oubre),95-93, ,,4,93,95,-2,2629.0
+3:58.0,K. Oubre makes 3-pt jump shot from 24 ft (assist by T. Rozier),98-93, ,,4,93,98,-5,2642.0
+3:57.0, ,98-93,Miami full timeout,,4,93,98,-5,2643.0
+3:44.0, ,98-96,M. Strus makes 3-pt jump shot from 28 ft (assist by J. Butler),,4,96,98,-2,2656.0
+3:20.0,D. Smith makes 2-pt dunk from 2 ft (assist by T. Rozier),100-96, ,,4,96,100,-4,2680.0
+2:58.0, ,100-98,J. Butler makes 2-pt layup from 3 ft,,4,98,100,-2,2702.0
+2:39.0,T. Rozier misses 2-pt jump shot from 9 ft,100-98, ,,4,98,100,-2,2721.0
+2:36.0, ,100-98,Defensive rebound by B. Adebayo,,4,98,100,-2,2724.0
+2:24.0, ,100-100,J. Butler makes 2-pt jump shot from 18 ft,Tie,4,100,100,0,2736.0
+1:58.0,D. Smith makes 2-pt jump shot from 14 ft,102-100, ,,4,100,102,-2,2762.0
+1:49.0, ,102-100,J. Butler misses 3-pt jump shot from 26 ft,,4,100,102,-2,2771.0
+1:46.0,Defensive rebound by M. Plumlee,102-100, ,,4,100,102,-2,2774.0
+1:25.0,D. Smith misses 3-pt jump shot from 24 ft,102-100, ,,4,100,102,-2,2795.0
+1:22.0,Offensive rebound by M. Plumlee,102-100, ,,4,100,102,-2,2798.0
+1:20.0,K. Oubre misses 3-pt jump shot from 26 ft,102-100, ,,4,100,102,-2,2800.0
+1:20.0, ,102-100,Defensive rebound by G. Vincent,,4,100,102,-2,2800.0
+1:15.0, ,102-102,J. Butler makes 2-pt layup from 2 ft (assist by G. Vincent),Tie,4,102,102,0,2805.0
+0:50.0,K. Oubre misses 3-pt jump shot from 24 ft,102-102, ,,4,102,102,0,2830.0
+0:46.0, ,102-102,Defensive rebound by B. Adebayo,,4,102,102,0,2834.0
+0:36.0, ,102-104,J. Butler makes 2-pt jump shot from 8 ft,Lead change,4,104,102,2,2844.0
+0:36.0,Charlotte full timeout,102-104, ,,4,104,102,2,2844.0
+0:36.0, ,102-104,C. Martin enters the game for M. Strus,,4,104,102,2,2844.0
+0:26.0,D. Smith makes 2-pt layup from 2 ft,104-104, ,Tie,4,104,104,0,2854.0
+0:26.0, ,104-104,Miami full timeout,,4,104,104,0,2854.0
+0:26.0, ,104-104,M. Strus enters the game for C. Martin,,4,104,104,0,2854.0
+0:05.0, ,104-104,Offensive foul by J. Butler (drawn by T. Rozier),,4,104,104,0,2875.0
+0:05.0, ,104-104,Turnover by J. Butler (offensive foul),,4,104,104,0,2875.0
+0:05.0,Charlotte full timeout,104-104, ,,4,104,104,0,2875.0
+0:05.0, ,104-104,C. Martin enters the game for M. Strus,,4,104,104,0,2875.0
+0:01.0,T. Rozier misses 3-pt jump shot from 25 ft,104-104, ,,4,104,104,0,2879.0
+0:00.0,Offensive rebound by Team,104-104, ,,4,104,104,0,2880.0
+0:00.0,End of 4th quarter,104-104,,,4,104,104,0,2880.0
+5:00.0,Start of 1st overtime,104-104,,,5,104,104,0,3300.0
+5:00.0,Jump ball: M. Plumlee vs. B. Adebayo (G. Vincent gains possession),104-104,,,5,104,104,0,3300.0
+4:42.0, ,104-104,Shooting foul by K. Oubre (drawn by B. Adebayo),,5,104,104,0,3318.0
+4:42.0, ,104-105,B. Adebayo makes free throw 1 of 2,,5,105,104,1,3318.0
+4:42.0, ,104-106,B. Adebayo makes free throw 2 of 2,,5,106,104,2,3318.0
+4:22.0,M. Plumlee makes 2-pt layup from 1 ft (assist by J. McDaniels),106-106, ,Tie,5,106,106,0,3338.0
+4:17.0, ,106-106,Personal take foul by K. Oubre (drawn by J. Butler),,5,106,106,0,3343.0
+4:17.0,P. Washington enters the game for D. Smith,106-106, ,,5,106,106,0,3343.0
+3:56.0, ,106-106,B. Adebayo misses 2-pt jump shot from 17 ft,,5,106,106,0,3364.0
+3:54.0,Defensive rebound by J. McDaniels,106-106, ,,5,106,106,0,3366.0
+3:45.0,Personal foul by B. Adebayo (drawn by T. Rozier),106-106, ,,5,106,106,0,3375.0
+3:34.0,K. Oubre makes 3-pt jump shot from 26 ft (assist by M. Plumlee),109-106, ,Lead change,5,106,109,-3,3386.0
+3:23.0, ,109-106,M. Strus misses 3-pt jump shot from 24 ft,,5,106,109,-3,3397.0
+3:20.0,Defensive rebound by M. Plumlee,109-106, ,,5,106,109,-3,3400.0
+3:18.0,Offensive foul by J. McDaniels (drawn by G. Vincent),109-106, ,,5,106,109,-3,3402.0
+3:18.0,Turnover by J. McDaniels (offensive foul),109-106, ,,5,106,109,-3,3402.0
+3:08.0, ,109-108,J. Butler makes 2-pt jump shot from 6 ft,,5,108,109,-1,3412.0
+3:08.0, ,109-108,Shooting foul by P. Washington (drawn by J. Butler),,5,108,109,-1,3412.0
+3:08.0, ,109-109,J. Butler makes free throw 1 of 1,Tie,5,109,109,0,3412.0
+2:55.0,T. Rozier misses 3-pt jump shot from 25 ft,109-109, ,,5,109,109,0,3425.0
+2:53.0, ,109-109,Defensive rebound by J. Butler,,5,109,109,0,3427.0
+2:38.0, ,109-109,J. Butler misses 2-pt layup from 2 ft,,5,109,109,0,3442.0
+2:35.0,Defensive rebound by M. Plumlee,109-109, ,,5,109,109,0,3445.0
+2:33.0,Turnover by K. Oubre (lost ball; steal by B. Adebayo),109-109, ,,5,109,109,0,3447.0
+2:09.0, ,109-111,K. Lowry makes 2-pt jump shot from 12 ft,Lead change,5,111,109,2,3471.0
+1:51.0,P. Washington makes 2-pt layup from 2 ft,111-111, ,Tie,5,111,111,0,3489.0
+1:30.0, ,111-111,Shooting foul by M. Plumlee (drawn by B. Adebayo),,5,111,111,0,3510.0
+1:30.0, ,111-112,B. Adebayo makes free throw 1 of 2,,5,112,111,1,3510.0
+1:30.0, ,111-113,B. Adebayo makes free throw 2 of 2,,5,113,111,2,3510.0
+1:13.0,Shooting foul by B. Adebayo (drawn by T. Rozier),111-113, ,,5,113,111,2,3527.0
+1:13.0,T. Rozier misses free throw 1 of 2,111-113, ,,5,113,111,2,3527.0
+1:13.0,Offensive rebound by Team,111-113, ,,5,113,111,2,3527.0
+1:13.0,T. Rozier makes free throw 2 of 2,112-113, ,,5,113,112,1,3527.0
+0:56.0, ,112-113,J. Butler misses 2-pt layup from 1 ft,,5,113,112,1,3544.0
+0:53.0,Defensive rebound by M. Plumlee,112-113, ,,5,113,112,1,3547.0
+0:39.0,T. Rozier misses 2-pt layup from 2 ft,112-113, ,,5,113,112,1,3561.0
+0:36.0, ,112-113,Defensive rebound by B. Adebayo,,5,113,112,1,3564.0
+0:16.0, ,112-113,J. Butler misses 2-pt jump shot from 20 ft,,5,113,112,1,3584.0
+0:15.0,Defensive rebound by T. Rozier,112-113, ,,5,113,112,1,3585.0
+0:14.0,Charlotte full timeout,112-113, ,,5,113,112,1,3586.0
+0:14.0, ,112-113,C. Martin enters the game for M. Strus,,5,113,112,1,3586.0
+0:13.0,Turnover by K. Oubre (traveling),112-113, ,,5,113,112,1,3587.0
+0:13.0, ,112-113,M. Strus enters the game for C. Martin,,5,113,112,1,3587.0
+0:09.0, ,112-113,Personal take foul by T. Rozier (drawn by G. Vincent),,5,113,112,1,3591.0
+0:09.0, ,112-114,G. Vincent makes free throw 1 of 2,,5,114,112,2,3591.0
+0:09.0, ,112-114,C. Martin enters the game for M. Strus,,5,114,112,2,3591.0
+0:09.0, ,112-115,G. Vincent makes free throw 2 of 2,,5,115,112,3,3591.0
+0:09.0,Charlotte full timeout,112-115, ,,5,115,112,3,3591.0
+0:06.0,T. Rozier misses 3-pt jump shot from 24 ft,112-115, ,,5,115,112,3,3594.0
+0:06.0, ,112-115,Defensive rebound by Team,,5,115,112,3,3594.0
+0:06.0, ,112-115,Miami full timeout,,5,115,112,3,3594.0
+0:06.0, ,112-115,M. Strus enters the game for C. Martin,,5,115,112,3,3594.0
+0:03.0, ,112-115,Personal foul by P. Washington (drawn by G. Vincent),,5,115,112,3,3597.0
+0:03.0, ,112-116,G. Vincent makes free throw 1 of 2,,5,116,112,4,3597.0
+0:03.0, ,112-116,C. Martin enters the game for M. Strus,,5,116,112,4,3597.0
+0:03.0, ,112-117,G. Vincent makes free throw 2 of 2,,5,117,112,5,3597.0
+0:00.0, ,112-117,Instant Replay (Request: Ruling Stands),,5,117,112,5,3600.0
+0:00.0,End of 1st overtime,112-117,,,5,117,112,5,3600.0

@@ -1,0 +1,425 @@
+Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
+12:00.0,0-0,,1,0,0,0,0.0,Violation by Team (delay of game),Chicago,202210190MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. B. Adebayo (T. Herro gains possession),Chicago,202210190MIA
+12:00.0,28-33,,2,33,28,5,720.0,Start of 2nd quarter,Chicago,202210190MIA
+12:00.0,59-59,,3,59,59,0,1440.0,Start of 3rd quarter,Chicago,202210190MIA
+12:00.0,59-59,,3,59,59,0,1440.0, ,Chicago,202210190MIA
+12:00.0,59-59,,3,59,59,0,1440.0,Violation by Team (delay of game),Chicago,202210190MIA
+12:00.0,96-86,,4,86,96,-10,2160.0,Start of 4th quarter,Chicago,202210190MIA
+0:00.0,116-108,,4,108,116,-8,2880.0,End of 4th quarter,Chicago,202210190MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. B. Adebayo (K. Lowry gains possession),Boston,202210210MIA
+12:00.0,30-22,,2,22,30,-8,720.0,Start of 2nd quarter,Boston,202210210MIA
+12:00.0,59-51,,3,51,59,-8,1440.0,Start of 3rd quarter,Boston,202210210MIA
+12:00.0,89-77,,4,77,89,-12,2160.0,Start of 4th quarter,Boston,202210210MIA
+0:00.0,111-104,,4,104,111,-7,2880.0,End of 4th quarter,Boston,202210210MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: S. Barnes vs. B. Adebayo (F. VanVleet gains possession),Toronto,202210220MIA
+12:00.0,33-38,,2,38,33,5,720.0,Start of 2nd quarter,Toronto,202210220MIA
+12:00.0,50-71,,3,71,50,21,1440.0,Start of 3rd quarter,Toronto,202210220MIA
+12:00.0,83-92,,4,92,83,9,2160.0,Start of 4th quarter,Toronto,202210220MIA
+0:00.0,109-112,,4,112,109,3,2880.0,End of 4th quarter,Toronto,202210220MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Koloko vs. B. Adebayo (M. Strus gains possession),Toronto,202210240MIA
+12:00.0,27-23,,2,23,27,-4,720.0,Start of 2nd quarter,Toronto,202210240MIA
+12:00.0,48-43,,3,43,48,-5,1440.0,Start of 3rd quarter,Toronto,202210240MIA
+12:00.0,71-76,,4,76,71,5,2160.0,Start of 4th quarter,Toronto,202210240MIA
+0:00.0,98-90,,4,90,98,-8,2880.0,End of 4th quarter,Toronto,202210240MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Nurkić (K. Lowry gains possession),Portland,202210260POR
+12:00.0,28-31,,2,28,31,-3,720.0,Start of 2nd quarter,Portland,202210260POR
+12:00.0,61-56,,3,61,56,5,1440.0,Start of 3rd quarter,Portland,202210260POR
+12:00.0,94-81,,4,94,81,13,2160.0,Start of 4th quarter,Portland,202210260POR
+0:00.0,119-98,,4,119,98,21,2880.0,End of 4th quarter,Portland,202210260POR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Looney (K. Lowry gains possession),Golden State,202210270GSW
+12:00.0,30-31,,2,30,31,-1,720.0,Start of 2nd quarter,Golden State,202210270GSW
+12:00.0,59-63,,3,59,63,-4,1440.0,Start of 3rd quarter,Golden State,202210270GSW
+12:00.0,87-92,,4,87,92,-5,2160.0,Start of 4th quarter,Golden State,202210270GSW
+0:00.0,110-123,,4,110,123,-13,2880.0,End of 4th quarter,Golden State,202210270GSW
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Sabonis (K. Lowry gains possession),Sacramento,202210290SAC
+12:00.0,23-32,,2,23,32,-9,720.0,Start of 2nd quarter,Sacramento,202210290SAC
+12:00.0,49-71,,3,49,71,-22,1440.0,Start of 3rd quarter,Sacramento,202210290SAC
+12:00.0,82-90,,4,82,90,-8,2160.0,Start of 4th quarter,Sacramento,202210290SAC
+0:00.0,113-119,,4,113,119,-6,2880.0,End of 4th quarter,Sacramento,202210290SAC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Looney vs. B. Adebayo (J. Butler gains possession),Golden State,202211010MIA
+12:00.0,24-33,,2,33,24,9,720.0,Start of 2nd quarter,Golden State,202211010MIA
+12:00.0,24-33,,2,33,24,9,720.0, ,Golden State,202211010MIA
+12:00.0,56-58,,3,58,56,2,1440.0,Start of 3rd quarter,Golden State,202211010MIA
+12:00.0,94-86,,4,86,94,-8,2160.0,Start of 4th quarter,Golden State,202211010MIA
+0:00.0,109-116,,4,116,109,7,2880.0,End of 4th quarter,Golden State,202211010MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Sabonis vs. B. Adebayo (M. Strus gains possession),Sacramento,202211020MIA
+12:00.0,32-33,,2,33,32,1,720.0,Start of 2nd quarter,Sacramento,202211020MIA
+12:00.0,51-53,,3,53,51,2,1440.0,Start of 3rd quarter,Sacramento,202211020MIA
+12:00.0,76-77,,4,77,76,1,2160.0,Start of 4th quarter,Sacramento,202211020MIA
+0:00.0,107-110,,4,110,107,3,2880.0,End of 4th quarter,Sacramento,202211020MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Turner (T. Haliburton gains possession),Indiana,202211040IND
+12:00.0,29-28,,2,29,28,1,720.0,Start of 2nd quarter,Indiana,202211040IND
+12:00.0,50-62,,3,50,62,-12,1440.0,Start of 3rd quarter,Indiana,202211040IND
+12:00.0,77-80,,4,77,80,-3,2160.0,Start of 4th quarter,Indiana,202211040IND
+0:00.0,99-101,,4,99,101,-2,2880.0,End of 4th quarter,Indiana,202211040IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Nurkić vs. B. Adebayo (K. Lowry gains possession),Portland,202211070MIA
+12:00.0,28-28,,2,28,28,0,720.0,Start of 2nd quarter,Portland,202211070MIA
+12:00.0,53-60,,3,60,53,7,1440.0,Start of 3rd quarter,Portland,202211070MIA
+12:00.0,73-81,,4,81,73,8,2160.0,Start of 4th quarter,Portland,202211070MIA
+0:00.0,110-107,,4,107,110,-3,2880.0,End of 4th quarter,Portland,202211070MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Plumlee vs. B. Adebayo (K. Lowry gains possession),Charlotte,202211100MIA
+12:00.0,27-32,,2,32,27,5,720.0,Start of 2nd quarter,Charlotte,202211100MIA
+12:00.0,50-58,,3,58,50,8,1440.0,Start of 3rd quarter,Charlotte,202211100MIA
+12:00.0,73-85,,4,85,73,12,2160.0,Start of 4th quarter,Charlotte,202211100MIA
+0:00.0,112-117,,5,117,112,5,3600.0,End of 1st overtime,Charlotte,202211100MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Plumlee vs. B. Adebayo (L. Ball gains possession),Charlotte,202211120MIA
+12:00.0,33-34,,2,34,33,1,720.0,Start of 2nd quarter,Charlotte,202211120MIA
+12:00.0,59-57,,3,57,59,-2,1440.0,Start of 3rd quarter,Charlotte,202211120MIA
+12:00.0,84-102,,4,102,84,18,2160.0,Start of 4th quarter,Charlotte,202211120MIA
+0:00.0,115-132,,4,132,115,17,2880.0,End of 4th quarter,Charlotte,202211120MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Ayton vs. B. Adebayo (C. Martin gains possession),Phoenix,202211140MIA
+12:00.0,31-35,,2,35,31,4,720.0,Start of 2nd quarter,Phoenix,202211140MIA
+12:00.0,57-58,,3,58,57,1,1440.0,Start of 3rd quarter,Phoenix,202211140MIA
+12:00.0,91-84,,4,84,91,-7,2160.0,Start of 4th quarter,Phoenix,202211140MIA
+0:00.0,112-113,,4,113,112,1,2880.0,End of 4th quarter,Phoenix,202211140MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jović vs. S. Barnes (D. Banton gains possession),Toronto,202211160TOR
+12:00.0,31-27,,2,31,27,4,720.0,Start of 2nd quarter,Toronto,202211160TOR
+12:00.0,60-54,,3,60,54,6,1440.0,Start of 3rd quarter,Toronto,202211160TOR
+12:00.0,79-84,,4,79,84,-5,2160.0,Start of 4th quarter,Toronto,202211160TOR
+0:00.0,104-112,,4,104,112,-8,2880.0,End of 4th quarter,Toronto,202211160TOR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jović vs. K. Porziņģis (K. Kuzma gains possession),Washington,202211180WAS
+12:00.0,31-33,,2,31,33,-2,720.0,Start of 2nd quarter,Washington,202211180WAS
+12:00.0,69-57,,3,69,57,12,1440.0,Start of 3rd quarter,Washington,202211180WAS
+12:00.0,88-81,,4,88,81,7,2160.0,Start of 4th quarter,Washington,202211180WAS
+0:00.0,106-107,,5,106,107,-1,3600.0,End of 1st overtime,Washington,202211180WAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Allen (M. Strus gains possession),Cleveland,202211200CLE
+12:00.0,27-28,,2,27,28,-1,720.0,Start of 2nd quarter,Cleveland,202211200CLE
+12:00.0,42-59,,3,42,59,-17,1440.0,Start of 3rd quarter,Cleveland,202211200CLE
+12:00.0,64-95,,4,64,95,-31,2160.0,Start of 4th quarter,Cleveland,202211200CLE
+0:00.0,87-113,,4,87,113,-26,2880.0,End of 4th quarter,Cleveland,202211200CLE
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. R. Gobert (C. Martin gains possession),Minnesota,202211210MIN
+12:00.0,33-30,,2,33,30,3,720.0,Start of 2nd quarter,Minnesota,202211210MIN
+12:00.0,60-47,,3,60,47,13,1440.0,Start of 3rd quarter,Minnesota,202211210MIN
+12:00.0,79-84,,4,79,84,-5,2160.0,Start of 4th quarter,Minnesota,202211210MIN
+0:00.0,101-105,,4,101,105,-4,2880.0,End of 4th quarter,Minnesota,202211210MIN
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Adebayo (C. Kispert gains possession),Washington,202211230MIA
+12:00.0,26-28,,2,28,26,2,720.0,Start of 2nd quarter,Washington,202211230MIA
+12:00.0,43-60,,3,60,43,17,1440.0,Start of 3rd quarter,Washington,202211230MIA
+12:00.0,80-83,,4,83,80,3,2160.0,Start of 4th quarter,Washington,202211230MIA
+0:00.0,105-113,,4,113,105,8,2880.0,End of 4th quarter,Washington,202211230MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Adebayo (C. Kispert gains possession),Washington,202211250MIA
+12:00.0,38-28,,2,28,38,-10,720.0,Start of 2nd quarter,Washington,202211250MIA
+12:00.0,59-56,,3,56,59,-3,1440.0,Start of 3rd quarter,Washington,202211250MIA
+12:00.0,85-85,,4,85,85,0,2160.0,Start of 4th quarter,Washington,202211250MIA
+0:00.0,107-110,,4,110,107,3,2880.0,End of 4th quarter,Washington,202211250MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. O. Okongwu (J. Collins gains possession),Atlanta,202211270ATL
+12:00.0,23-31,,2,23,31,-8,720.0,Start of 2nd quarter,Atlanta,202211270ATL
+12:00.0,51-60,,3,51,60,-9,1440.0,Start of 3rd quarter,Atlanta,202211270ATL
+12:00.0,85-81,,4,85,81,4,2160.0,Start of 4th quarter,Atlanta,202211270ATL
+0:00.0,106-98,,4,106,98,8,2880.0,End of 4th quarter,Atlanta,202211270ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. A. Horford (M. Smart gains possession),Boston,202211300BOS
+12:00.0,35-38,,2,35,38,-3,720.0,Start of 2nd quarter,Boston,202211300BOS
+12:00.0,60-68,,3,60,68,-8,1440.0,Start of 3rd quarter,Boston,202211300BOS
+12:00.0,96-102,,4,96,102,-6,2160.0,Start of 4th quarter,Boston,202211300BOS
+0:00.0,121-134,,4,121,134,-13,2880.0,End of 4th quarter,Boston,202211300BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. A. Horford (D. White gains possession),Boston,202212020BOS
+12:00.0,0-0,,1,0,0,0,0.0, ,Boston,202212020BOS
+12:00.0,0-0,,1,0,0,0,0.0,Violation by Team (delay of game),Boston,202212020BOS
+12:00.0,27-27,,2,27,27,0,720.0,Start of 2nd quarter,Boston,202212020BOS
+12:00.0,59-62,,3,59,62,-3,1440.0,Start of 3rd quarter,Boston,202212020BOS
+12:00.0,81-87,,4,81,87,-6,2160.0,Start of 4th quarter,Boston,202212020BOS
+0:00.0,120-116,,5,120,116,4,3600.0,End of 1st overtime,Boston,202212020BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. S. Adams (T. Jones gains possession),Memphis,202212050MEM
+12:00.0,32-27,,2,32,27,5,720.0,Start of 2nd quarter,Memphis,202212050MEM
+12:00.0,51-58,,3,51,58,-7,1440.0,Start of 3rd quarter,Memphis,202212050MEM
+12:00.0,77-82,,4,77,82,-5,2160.0,Start of 4th quarter,Memphis,202212050MEM
+0:00.0,93-101,,4,93,101,-8,2880.0,End of 4th quarter,Memphis,202212050MEM
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Bagley vs. B. Adebayo (I. Stewart gains possession),Detroit,202212060MIA
+12:00.0,20-25,,2,25,20,5,720.0,Start of 2nd quarter,Detroit,202212060MIA
+12:00.0,20-25,,2,25,20,5,720.0,Violation by Team (delay of game),Detroit,202212060MIA
+12:00.0,47-50,,3,50,47,3,1440.0,Start of 3rd quarter,Detroit,202212060MIA
+12:00.0,78-73,,4,73,78,-5,2160.0,Start of 4th quarter,Detroit,202212060MIA
+0:00.0,116-96,,4,96,116,-20,2880.0,End of 4th quarter,Detroit,202212060MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: I. Zubac vs. B. Adebayo (D. Smith gains possession),LA Clippers,202212080MIA
+12:00.0,28-20,,2,20,28,-8,720.0,Start of 2nd quarter,LA Clippers,202212080MIA
+12:00.0,54-56,,3,56,54,2,1440.0,Start of 3rd quarter,LA Clippers,202212080MIA
+12:00.0,87-84,,4,84,87,-3,2160.0,Start of 4th quarter,LA Clippers,202212080MIA
+0:00.0,110-115,,4,115,110,5,2880.0,End of 4th quarter,LA Clippers,202212080MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: Z. Collins vs. B. Adebayo (K. Lowry gains possession),San Antonio,202212100MIA
+12:00.0,25-29,,2,29,25,4,720.0,Start of 2nd quarter,San Antonio,202212100MIA
+12:00.0,59-57,,3,57,59,-2,1440.0,Start of 3rd quarter,San Antonio,202212100MIA
+12:00.0,86-84,,4,84,86,-2,2160.0,Start of 4th quarter,San Antonio,202212100MIA
+0:00.0,115-111,,4,111,115,-4,2880.0,End of 4th quarter,San Antonio,202212100MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Turner (T. Herro gains possession),Indiana,202212120IND
+12:00.0,26-19,,2,26,19,7,720.0,Start of 2nd quarter,Indiana,202212120IND
+12:00.0,47-42,,3,47,42,5,1440.0,Start of 3rd quarter,Indiana,202212120IND
+12:00.0,67-64,,4,67,64,3,2160.0,Start of 4th quarter,Indiana,202212120IND
+0:00.0,87-82,,4,87,82,5,2880.0,End of 4th quarter,Indiana,202212120IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Bazley (S. Gilgeous-Alexander gains possession),Oklahoma City,202212140OKC
+12:00.0,31-31,,2,31,31,0,720.0,Start of 2nd quarter,Oklahoma City,202212140OKC
+12:00.0,64-52,,3,64,52,12,1440.0,Start of 3rd quarter,Oklahoma City,202212140OKC
+12:00.0,86-84,,4,86,84,2,2160.0,Start of 4th quarter,Oklahoma City,202212140OKC
+0:00.0,110-108,,4,110,108,2,2880.0,End of 4th quarter,Oklahoma City,202212140OKC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: U. Haslem vs. A. Sengun (E. Gordon gains possession),Houston,202212150HOU
+12:00.0,29-29,,2,29,29,0,720.0,Start of 2nd quarter,Houston,202212150HOU
+12:00.0,66-52,,3,66,52,14,1440.0,Start of 3rd quarter,Houston,202212150HOU
+12:00.0,86-85,,4,86,85,1,2160.0,Start of 4th quarter,Houston,202212150HOU
+0:00.0,111-108,,4,111,108,3,2880.0,End of 4th quarter,Houston,202212150HOU
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Poeltl (M. Strus gains possession),San Antonio,202212170SAS
+12:00.0,25-28,,2,25,28,-3,720.0,Start of 2nd quarter,San Antonio,202212170SAS
+12:00.0,25-28,,2,25,28,-3,720.0, ,San Antonio,202212170SAS
+12:00.0,52-55,,3,52,55,-3,1440.0,Start of 3rd quarter,San Antonio,202212170SAS
+12:00.0,80-84,,4,80,84,-4,2160.0,Start of 4th quarter,San Antonio,202212170SAS
+0:00.0,111-101,,4,111,101,10,2880.0,End of 4th quarter,San Antonio,202212170SAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. B. Adebayo (D. DeRozan gains possession),Chicago,202212200MIA
+12:00.0,31-21,,2,21,31,-10,720.0,Start of 2nd quarter,Chicago,202212200MIA
+12:00.0,52-57,,3,57,52,5,1440.0,Start of 3rd quarter,Chicago,202212200MIA
+12:00.0,88-77,,4,77,88,-11,2160.0,Start of 4th quarter,Chicago,202212200MIA
+0:00.0,113-103,,4,103,113,-10,2880.0,End of 4th quarter,Chicago,202212200MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. B. Adebayo (J. Butler gains possession),Indiana,202212230MIA
+12:00.0,31-28,,2,28,31,-3,720.0,Start of 2nd quarter,Indiana,202212230MIA
+12:00.0,56-58,,3,58,56,2,1440.0,Start of 3rd quarter,Indiana,202212230MIA
+12:00.0,84-82,,4,82,84,-2,2160.0,Start of 4th quarter,Indiana,202212230MIA
+0:00.0,111-108,,4,108,111,-3,2880.0,End of 4th quarter,Indiana,202212230MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: R. Gobert vs. N. Jović (D. Russell gains possession),Minnesota,202212260MIA
+12:00.0,31-33,,2,33,31,2,720.0,Start of 2nd quarter,Minnesota,202212260MIA
+12:00.0,56-59,,3,59,56,3,1440.0,Start of 3rd quarter,Minnesota,202212260MIA
+12:00.0,86-93,,4,93,86,7,2160.0,Start of 4th quarter,Minnesota,202212260MIA
+0:00.0,110-113,,4,113,110,3,2880.0,End of 4th quarter,Minnesota,202212260MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Bryant vs. B. Adebayo (J. Butler gains possession),LA Lakers,202212280MIA
+12:00.0,25-33,,2,33,25,8,720.0,Start of 2nd quarter,LA Lakers,202212280MIA
+12:00.0,52-61,,3,61,52,9,1440.0,Start of 3rd quarter,LA Lakers,202212280MIA
+12:00.0,78-95,,4,95,78,17,2160.0,Start of 4th quarter,LA Lakers,202212280MIA
+0:00.0,98-112,,4,112,98,14,2880.0,End of 4th quarter,LA Lakers,202212280MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Jokić (J. Murray gains possession),Denver,202212300DEN
+12:00.0,19-23,,2,19,23,-4,720.0,Start of 2nd quarter,Denver,202212300DEN
+12:00.0,57-60,,3,57,60,-3,1440.0,Start of 3rd quarter,Denver,202212300DEN
+12:00.0,90-85,,4,90,85,5,2160.0,Start of 4th quarter,Denver,202212300DEN
+0:00.0,119-124,,4,119,124,-5,2880.0,End of 4th quarter,Denver,202212300DEN
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Olynyk (M. Strus gains possession),Utah,202212310UTA
+12:00.0,31-30,,2,31,30,1,720.0,Start of 2nd quarter,Utah,202212310UTA
+12:00.0,69-63,,3,69,63,6,1440.0,Start of 3rd quarter,Utah,202212310UTA
+12:00.0,96-98,,4,96,98,-2,2160.0,Start of 4th quarter,Utah,202212310UTA
+0:00.0,126-123,,4,126,123,3,2880.0,End of 4th quarter,Utah,202212310UTA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. I. Zubac (K. Lowry gains possession),LA Clippers,202301020LAC
+12:00.0,34-28,,2,34,28,6,720.0,Start of 2nd quarter,LA Clippers,202301020LAC
+12:00.0,67-49,,3,67,49,18,1440.0,Start of 3rd quarter,LA Clippers,202301020LAC
+12:00.0,81-83,,4,81,83,-2,2160.0,Start of 4th quarter,LA Clippers,202301020LAC
+0:00.0,110-100,,4,110,100,10,2880.0,End of 4th quarter,LA Clippers,202301020LAC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. T. Bryant (D. Schröder gains possession),LA Lakers,202301040LAL
+12:00.0,23-32,,2,23,32,-9,720.0,Start of 2nd quarter,LA Lakers,202301040LAL
+12:00.0,48-52,,3,48,52,-4,1440.0,Start of 3rd quarter,LA Lakers,202301040LAL
+12:00.0,78-79,,4,78,79,-1,2160.0,Start of 4th quarter,LA Lakers,202301040LAL
+0:00.0,109-112,,4,109,112,-3,2880.0,End of 4th quarter,LA Lakers,202301040LAL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Ayton (C. Paul gains possession),Phoenix,202301060PHO
+12:00.0,30-23,,2,30,23,7,720.0,Start of 2nd quarter,Phoenix,202301060PHO
+12:00.0,51-46,,3,51,46,5,1440.0,Start of 3rd quarter,Phoenix,202301060PHO
+12:00.0,78-73,,4,78,73,5,2160.0,Start of 4th quarter,Phoenix,202301060PHO
+0:00.0,104-96,,4,104,96,8,2880.0,End of 4th quarter,Phoenix,202301060PHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Claxton vs. B. Adebayo (T. Herro gains possession),Brooklyn,202301080MIA
+12:00.0,31-30,,2,30,31,-1,720.0,Start of 2nd quarter,Brooklyn,202301080MIA
+12:00.0,66-64,,3,64,66,-2,1440.0,Start of 3rd quarter,Brooklyn,202301080MIA
+12:00.0,79-82,,4,82,79,3,2160.0,Start of 4th quarter,Brooklyn,202301080MIA
+0:00.0,102-101,,4,101,102,-1,2880.0,End of 4th quarter,Brooklyn,202301080MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: E. Omoruyi vs. O. Robinson (G. Vincent gains possession),Oklahoma City,202301100MIA
+12:00.0,26-31,,2,31,26,5,720.0,Start of 2nd quarter,Oklahoma City,202301100MIA
+12:00.0,56-63,,3,63,56,7,1440.0,Start of 3rd quarter,Oklahoma City,202301100MIA
+12:00.0,88-89,,4,89,88,1,2160.0,Start of 4th quarter,Oklahoma City,202301100MIA
+0:00.0,111-112,,4,112,111,1,2880.0,End of 4th quarter,Oklahoma City,202301100MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Lopez vs. B. Adebayo (B. Portis gains possession),Milwaukee,202301120MIA
+12:00.0,23-14,,2,14,23,-9,720.0,Start of 2nd quarter,Milwaukee,202301120MIA
+12:00.0,45-45,,3,45,45,0,1440.0,Start of 3rd quarter,Milwaukee,202301120MIA
+12:00.0,73-78,,4,78,73,5,2160.0,Start of 4th quarter,Milwaukee,202301120MIA
+0:00.0,102-108,,4,108,102,6,2880.0,End of 4th quarter,Milwaukee,202301120MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Lopez vs. B. Adebayo (H. Highsmith gains possession),Milwaukee,202301140MIA
+12:00.0,20-28,,2,28,20,8,720.0,Start of 2nd quarter,Milwaukee,202301140MIA
+12:00.0,45-53,,3,53,45,8,1440.0,Start of 3rd quarter,Milwaukee,202301140MIA
+12:00.0,71-77,,4,77,71,6,2160.0,Start of 4th quarter,Milwaukee,202301140MIA
+0:00.0,95-111,,4,111,95,16,2880.0,End of 4th quarter,Milwaukee,202301140MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. O. Okongwu (G. Vincent gains possession),Atlanta,202301160ATL
+12:00.0,26-38,,2,26,38,-12,720.0,Start of 2nd quarter,Atlanta,202301160ATL
+12:00.0,50-70,,3,50,70,-20,1440.0,Start of 3rd quarter,Atlanta,202301160ATL
+12:00.0,80-91,,4,80,91,-11,2160.0,Start of 4th quarter,Atlanta,202301160ATL
+0:00.0,113-121,,4,113,121,-8,2880.0,End of 4th quarter,Atlanta,202301160ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Valančiūnas (C. Martin gains possession),New Orleans,202301180NOP
+12:00.0,36-23,,2,36,23,13,720.0,Start of 2nd quarter,New Orleans,202301180NOP
+12:00.0,70-51,,3,70,51,19,1440.0,Start of 3rd quarter,New Orleans,202301180NOP
+12:00.0,98-76,,4,98,76,22,2160.0,Start of 4th quarter,New Orleans,202301180NOP
+0:00.0,124-98,,4,124,98,26,2880.0,End of 4th quarter,New Orleans,202301180NOP
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Powell (S. Dinwiddie gains possession),Dallas,202301200DAL
+12:00.0,19-31,,2,19,31,-12,720.0,Start of 2nd quarter,Dallas,202301200DAL
+12:00.0,51-60,,3,51,60,-9,1440.0,Start of 3rd quarter,Dallas,202301200DAL
+12:00.0,67-92,,4,67,92,-25,2160.0,Start of 4th quarter,Dallas,202301200DAL
+0:00.0,90-115,,4,90,115,-25,2880.0,End of 4th quarter,Dallas,202301200DAL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Valančiūnas vs. B. Adebayo (J. Butler gains possession),New Orleans,202301220MIA
+12:00.0,32-23,,2,23,32,-9,720.0,Start of 2nd quarter,New Orleans,202301220MIA
+12:00.0,47-41,,3,41,47,-6,1440.0,Start of 3rd quarter,New Orleans,202301220MIA
+12:00.0,72-69,,4,69,72,-3,2160.0,Start of 4th quarter,New Orleans,202301220MIA
+0:00.0,96-100,,4,100,96,4,2880.0,End of 4th quarter,New Orleans,202301220MIA
+12:00.0,30-32,,2,32,30,2,720.0,Start of 2nd quarter,Boston,202301240MIA
+12:00.0,58-50,,3,50,58,-8,1440.0,Start of 3rd quarter,Boston,202301240MIA
+12:00.0,82-75,,4,75,82,-7,2160.0,Start of 4th quarter,Boston,202301240MIA
+0:00.0,95-98,,4,98,95,3,2880.0,End of 4th quarter,Boston,202301240MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: W. Carter vs. B. Adebayo (M. Fultz gains possession),Orlando,202301270MIA
+12:00.0,31-26,,2,26,31,-5,720.0,Start of 2nd quarter,Orlando,202301270MIA
+12:00.0,59-50,,3,50,59,-9,1440.0,Start of 3rd quarter,Orlando,202301270MIA
+12:00.0,79-73,,4,73,79,-6,2160.0,Start of 4th quarter,Orlando,202301270MIA
+0:00.0,105-110,,4,110,105,5,2880.0,End of 4th quarter,Orlando,202301270MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Plumlee (K. Lowry gains possession),Charlotte,202301290CHO
+12:00.0,28-26,,2,28,26,2,720.0,Start of 2nd quarter,Charlotte,202301290CHO
+12:00.0,62-58,,3,62,58,4,1440.0,Start of 3rd quarter,Charlotte,202301290CHO
+12:00.0,86-91,,4,86,91,-5,2160.0,Start of 4th quarter,Charlotte,202301290CHO
+0:00.0,117-122,,4,117,122,-5,2880.0,End of 4th quarter,Charlotte,202301290CHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Allen (E. Mobley gains possession),Cleveland,202301310CLE
+12:00.0,24-26,,2,24,26,-2,720.0,Start of 2nd quarter,Cleveland,202301310CLE
+12:00.0,55-52,,3,55,52,3,1440.0,Start of 3rd quarter,Cleveland,202301310CLE
+12:00.0,79-79,,4,79,79,0,2160.0,Start of 4th quarter,Cleveland,202301310CLE
+0:00.0,100-97,,4,100,97,3,2880.0,End of 4th quarter,Cleveland,202301310CLE
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Sims (T. Herro gains possession),New York,202302020NYK
+12:00.0,22-28,,2,22,28,-6,720.0,Start of 2nd quarter,New York,202302020NYK
+12:00.0,48-51,,3,48,51,-3,1440.0,Start of 3rd quarter,New York,202302020NYK
+12:00.0,72-77,,4,72,77,-5,2160.0,Start of 4th quarter,New York,202302020NYK
+0:00.0,104-106,,4,104,106,-2,2880.0,End of 4th quarter,New York,202302020NYK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. B. Lopez (P. Connaughton gains possession),Milwaukee,202302040MIL
+12:00.0,26-34,,2,26,34,-8,720.0,Start of 2nd quarter,Milwaukee,202302040MIL
+12:00.0,62-62,,3,62,62,0,1440.0,Start of 3rd quarter,Milwaukee,202302040MIL
+12:00.0,92-94,,4,92,94,-2,2160.0,Start of 4th quarter,Milwaukee,202302040MIL
+0:00.0,115-123,,4,115,123,-8,2880.0,End of 4th quarter,Milwaukee,202302040MIL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. B. Adebayo (T. Herro gains possession),Indiana,202302080MIA
+12:00.0,30-39,,2,39,30,9,720.0,Start of 2nd quarter,Indiana,202302080MIA
+12:00.0,63-60,,3,60,63,-3,1440.0,Start of 3rd quarter,Indiana,202302080MIA
+12:00.0,83-89,,4,89,83,6,2160.0,Start of 4th quarter,Indiana,202302080MIA
+0:00.0,111-116,,4,116,111,5,2880.0,End of 4th quarter,Indiana,202302080MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Smith vs. B. Adebayo (C. Martin gains possession),Houston,202302100MIA
+12:00.0,29-28,,2,28,29,-1,720.0,Start of 2nd quarter,Houston,202302100MIA
+12:00.0,56-58,,3,58,56,2,1440.0,Start of 3rd quarter,Houston,202302100MIA
+12:00.0,73-75,,4,75,73,2,2160.0,Start of 4th quarter,Houston,202302100MIA
+0:00.0,95-97,,4,97,95,2,2880.0,End of 4th quarter,Houston,202302100MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. W. Carter (J. Butler gains possession),Orlando,202302110ORL
+12:00.0,19-29,,2,19,29,-10,720.0,Start of 2nd quarter,Orlando,202302110ORL
+12:00.0,46-54,,3,46,54,-8,1440.0,Start of 3rd quarter,Orlando,202302110ORL
+12:00.0,72-79,,4,72,79,-7,2160.0,Start of 4th quarter,Orlando,202302110ORL
+0:00.0,107-103,,5,107,103,4,3600.0,End of 1st overtime,Orlando,202302110ORL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jokić vs. B. Adebayo (J. Butler gains possession),Denver,202302130MIA
+12:00.0,27-36,,2,36,27,9,720.0,Start of 2nd quarter,Denver,202302130MIA
+12:00.0,65-62,,3,62,65,-3,1440.0,Start of 3rd quarter,Denver,202302130MIA
+12:00.0,89-83,,4,83,89,-6,2160.0,Start of 4th quarter,Denver,202302130MIA
+0:00.0,112-108,,4,108,112,-4,2880.0,End of 4th quarter,Denver,202302130MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Claxton (J. Butler gains possession),Brooklyn,202302150BRK
+12:00.0,25-26,,2,25,26,-1,720.0,Start of 2nd quarter,Brooklyn,202302150BRK
+12:00.0,56-52,,3,56,52,4,1440.0,Start of 3rd quarter,Brooklyn,202302150BRK
+12:00.0,80-83,,4,80,83,-3,2160.0,Start of 4th quarter,Brooklyn,202302150BRK
+0:00.0,105-116,,4,105,116,-11,2880.0,End of 4th quarter,Brooklyn,202302150BRK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. B. Lopez (J. Carter gains possession),Milwaukee,202302240MIL
+12:00.0,32-42,,2,32,42,-10,720.0,Start of 2nd quarter,Milwaukee,202302240MIL
+12:00.0,56-73,,3,56,73,-17,1440.0,Start of 3rd quarter,Milwaukee,202302240MIL
+12:00.0,74-95,,4,74,95,-21,2160.0,Start of 4th quarter,Milwaukee,202302240MIL
+0:00.0,99-128,,4,99,128,-29,2880.0,End of 4th quarter,Milwaukee,202302240MIL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Williams (G. Vincent gains possession),Charlotte,202302250CHO
+12:00.0,16-29,,2,16,29,-13,720.0,Start of 2nd quarter,Charlotte,202302250CHO
+12:00.0,51-54,,3,51,54,-3,1440.0,Start of 3rd quarter,Charlotte,202302250CHO
+12:00.0,72-82,,4,72,82,-10,2160.0,Start of 4th quarter,Charlotte,202302250CHO
+0:00.0,103-108,,4,103,108,-5,2880.0,End of 4th quarter,Charlotte,202302250CHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Embiid (J. Harden gains possession),Philadelphia,202302270PHI
+12:00.0,28-22,,2,28,22,6,720.0,Start of 2nd quarter,Philadelphia,202302270PHI
+12:00.0,58-50,,3,58,50,8,1440.0,Start of 3rd quarter,Philadelphia,202302270PHI
+12:00.0,84-80,,4,84,80,4,2160.0,Start of 4th quarter,Philadelphia,202302270PHI
+0:00.0,101-99,,4,101,99,2,2880.0,End of 4th quarter,Philadelphia,202302270PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Harris vs. B. Adebayo (J. Butler gains possession),Philadelphia,202303010MIA
+12:00.0,34-38,,2,38,34,4,720.0,Start of 2nd quarter,Philadelphia,202303010MIA
+12:00.0,71-53,,3,53,71,-18,1440.0,Start of 3rd quarter,Philadelphia,202303010MIA
+12:00.0,96-77,,4,77,96,-19,2160.0,Start of 4th quarter,Philadelphia,202303010MIA
+0:00.0,119-96,,4,96,119,-23,2880.0,End of 4th quarter,Philadelphia,202303010MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. B. Adebayo (J. Randle gains possession),New York,202303030MIA
+12:00.0,37-31,,2,31,37,-6,720.0,Start of 2nd quarter,New York,202303030MIA
+12:00.0,71-56,,3,56,71,-15,1440.0,Start of 3rd quarter,New York,202303030MIA
+12:00.0,96-88,,4,88,96,-8,2160.0,Start of 4th quarter,New York,202303030MIA
+0:00.0,122-120,,4,120,122,-2,2880.0,End of 4th quarter,New York,202303030MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (T. Young gains possession),Atlanta,202303040MIA
+12:00.0,26-29,,2,29,26,3,720.0,Start of 2nd quarter,Atlanta,202303040MIA
+12:00.0,26-29,,2,29,26,3,720.0,Violation by Team (delay of game),Atlanta,202303040MIA
+12:00.0,49-66,,3,66,49,17,1440.0,Start of 3rd quarter,Atlanta,202303040MIA
+12:00.0,75-87,,4,87,75,12,2160.0,Start of 4th quarter,Atlanta,202303040MIA
+0:00.0,109-117,,4,117,109,8,2880.0,End of 4th quarter,Atlanta,202303040MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. B. Adebayo (E. Mobley gains possession),Cleveland,202303080MIA
+12:00.0,26-30,,2,30,26,4,720.0,Start of 2nd quarter,Cleveland,202303080MIA
+12:00.0,57-53,,3,53,57,-4,1440.0,Start of 3rd quarter,Cleveland,202303080MIA
+12:00.0,87-82,,4,82,87,-5,2160.0,Start of 4th quarter,Cleveland,202303080MIA
+0:00.0,104-100,,4,100,104,-4,2880.0,End of 4th quarter,Cleveland,202303080MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. B. Adebayo (D. Mitchell gains possession),Cleveland,202303100MIA
+12:00.0,26-27,,2,27,26,1,720.0,Start of 2nd quarter,Cleveland,202303100MIA
+12:00.0,59-50,,3,50,59,-9,1440.0,Start of 3rd quarter,Cleveland,202303100MIA
+12:00.0,89-82,,4,82,89,-7,2160.0,Start of 4th quarter,Cleveland,202303100MIA
+0:00.0,115-119,,4,119,115,4,2880.0,End of 4th quarter,Cleveland,202303100MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. W. Carter (J. Butler gains possession),Orlando,202303110ORL
+12:00.0,24-34,,2,24,34,-10,720.0,Start of 2nd quarter,Orlando,202303110ORL
+12:00.0,55-58,,3,55,58,-3,1440.0,Start of 3rd quarter,Orlando,202303110ORL
+12:00.0,78-81,,4,78,81,-3,2160.0,Start of 4th quarter,Orlando,202303110ORL
+0:00.0,114-126,,5,114,126,-12,3600.0,End of 1st overtime,Orlando,202303110ORL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: W. Kessler vs. B. Adebayo (T. Herro gains possession),Utah,202303130MIA
+12:00.0,26-33,,2,33,26,7,720.0,Start of 2nd quarter,Utah,202303130MIA
+12:00.0,57-56,,3,56,57,-1,1440.0,Start of 3rd quarter,Utah,202303130MIA
+12:00.0,90-90,,4,90,90,0,2160.0,Start of 4th quarter,Utah,202303130MIA
+0:00.0,115-119,,4,119,115,4,2880.0,End of 4th quarter,Utah,202303130MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Jackson vs. B. Adebayo (T. Jones gains possession),Memphis,202303150MIA
+12:00.0,27-29,,2,29,27,2,720.0,Start of 2nd quarter,Memphis,202303150MIA
+12:00.0,51-63,,3,63,51,12,1440.0,Start of 3rd quarter,Memphis,202303150MIA
+12:00.0,51-63,,3,63,51,12,1440.0,Violation by Team (delay of game),Memphis,202303150MIA
+12:00.0,77-105,,4,105,77,28,2160.0,Start of 4th quarter,Memphis,202303150MIA
+0:00.0,119-138,,4,138,119,19,2880.0,End of 4th quarter,Memphis,202303150MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Vučević (K. Love gains possession),Chicago,202303180CHI
+12:00.0,19-33,,2,19,33,-14,720.0,Start of 2nd quarter,Chicago,202303180CHI
+12:00.0,45-70,,3,45,70,-25,1440.0,Start of 3rd quarter,Chicago,202303180CHI
+12:00.0,77-90,,4,77,90,-13,2160.0,Start of 4th quarter,Chicago,202303180CHI
+0:00.0,99-113,,4,99,113,-14,2880.0,End of 4th quarter,Chicago,202303180CHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Wiseman (R. McGruder gains possession),Detroit,202303190DET
+12:00.0,26-29,,2,26,29,-3,720.0,Start of 2nd quarter,Detroit,202303190DET
+12:00.0,52-47,,3,52,47,5,1440.0,Start of 3rd quarter,Detroit,202303190DET
+12:00.0,74-81,,4,74,81,-7,2160.0,Start of 4th quarter,Detroit,202303190DET
+0:00.0,112-100,,4,112,100,12,2880.0,End of 4th quarter,Detroit,202303190DET
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. B. Adebayo (J. Brunson gains possession),New York,202303220MIA
+12:00.0,32-31,,2,31,32,-1,720.0,Start of 2nd quarter,New York,202303220MIA
+12:00.0,61-64,,3,64,61,3,1440.0,Start of 3rd quarter,New York,202303220MIA
+12:00.0,86-92,,4,92,86,6,2160.0,Start of 4th quarter,New York,202303220MIA
+0:00.0,120-127,,4,127,120,7,2880.0,End of 4th quarter,New York,202303220MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Claxton vs. B. Adebayo (S. Dinwiddie gains possession),Brooklyn,202303250MIA
+12:00.0,28-36,,2,36,28,8,720.0,Start of 2nd quarter,Brooklyn,202303250MIA
+12:00.0,65-69,,3,69,65,4,1440.0,Start of 3rd quarter,Brooklyn,202303250MIA
+12:00.0,104-87,,4,87,104,-17,2160.0,Start of 4th quarter,Brooklyn,202303250MIA
+0:00.0,129-100,,4,100,129,-29,2880.0,End of 4th quarter,Brooklyn,202303250MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Poeltl (G. Vincent gains possession),Toronto,202303280TOR
+12:00.0,23-24,,2,23,24,-1,720.0,Start of 2nd quarter,Toronto,202303280TOR
+12:00.0,47-53,,3,47,53,-6,1440.0,Start of 3rd quarter,Toronto,202303280TOR
+12:00.0,67-84,,4,67,84,-17,2160.0,Start of 4th quarter,Toronto,202303280TOR
+0:00.0,92-106,,4,92,106,-14,2880.0,End of 4th quarter,Toronto,202303280TOR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Robinson (B. Adebayo gains possession),New York,202303290NYK
+12:00.0,23-19,,2,23,19,4,720.0,Start of 2nd quarter,New York,202303290NYK
+12:00.0,46-48,,3,46,48,-2,1440.0,Start of 3rd quarter,New York,202303290NYK
+12:00.0,76-76,,4,76,76,0,2160.0,Start of 4th quarter,New York,202303290NYK
+0:00.0,92-101,,4,92,101,-9,2880.0,End of 4th quarter,New York,202303290NYK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Powell vs. C. Zeller (R. Bullock gains possession),Dallas,202304010MIA
+12:00.0,31-44,,2,44,31,13,720.0,Start of 2nd quarter,Dallas,202304010MIA
+12:00.0,64-76,,3,76,64,12,1440.0,Start of 3rd quarter,Dallas,202304010MIA
+12:00.0,96-102,,4,102,96,6,2160.0,Start of 4th quarter,Dallas,202304010MIA
+0:00.0,122-129,,4,129,122,7,2880.0,End of 4th quarter,Dallas,202304010MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Wiseman (J. Butler gains possession),Detroit,202304040DET
+12:00.0,31-27,,2,31,27,4,720.0,Start of 2nd quarter,Detroit,202304040DET
+12:00.0,59-52,,3,59,52,7,1440.0,Start of 3rd quarter,Detroit,202304040DET
+12:00.0,80-79,,4,80,79,1,2160.0,Start of 4th quarter,Detroit,202304040DET
+0:00.0,118-105,,4,118,105,13,2880.0,End of 4th quarter,Detroit,202304040DET
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Embiid (J. Harden gains possession),Philadelphia,202304060PHI
+12:00.0,41-31,,2,41,31,10,720.0,Start of 2nd quarter,Philadelphia,202304060PHI
+12:00.0,67-46,,3,67,46,21,1440.0,Start of 3rd quarter,Philadelphia,202304060PHI
+12:00.0,96-78,,4,96,78,18,2160.0,Start of 4th quarter,Philadelphia,202304060PHI
+0:00.0,129-101,,4,129,101,28,2880.0,End of 4th quarter,Philadelphia,202304060PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Zeller vs. D. Gafford (A. Gill gains possession),Washington,202304070WAS
+12:00.0,23-26,,2,23,26,-3,720.0,Start of 2nd quarter,Washington,202304070WAS
+12:00.0,51-53,,3,51,53,-2,1440.0,Start of 3rd quarter,Washington,202304070WAS
+12:00.0,71-89,,4,71,89,-18,2160.0,Start of 4th quarter,Washington,202304070WAS
+0:00.0,108-114,,4,108,114,-6,2880.0,End of 4th quarter,Washington,202304070WAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: W. Carter vs. B. Adebayo (G. Vincent gains possession),Orlando,202304090MIA
+12:00.0,24-23,,2,23,24,-1,720.0,Start of 2nd quarter,Orlando,202304090MIA
+12:00.0,50-52,,3,52,50,2,1440.0,Start of 3rd quarter,Orlando,202304090MIA
+12:00.0,85-84,,4,84,85,-1,2160.0,Start of 4th quarter,Orlando,202304090MIA
+0:00.0,110-123,,4,123,110,13,2880.0,End of 4th quarter,Orlando,202304090MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (T. Young gains possession),Atlanta,202304110MIA
+12:00.0,36-27,,2,27,36,-9,720.0,Start of 2nd quarter,Atlanta,202304110MIA
+12:00.0,65-50,,3,50,65,-15,1440.0,Start of 3rd quarter,Atlanta,202304110MIA
+12:00.0,91-78,,4,78,91,-13,2160.0,Start of 4th quarter,Atlanta,202304110MIA
+0:00.0,116-105,,4,105,116,-11,2880.0,End of 4th quarter,Atlanta,202304110MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. B. Adebayo (A. Caruso gains possession),Chicago,202304140MIA
+12:00.0,21-29,,2,29,21,8,720.0,Start of 2nd quarter,Chicago,202304140MIA
+12:00.0,44-49,,3,49,44,5,1440.0,Start of 3rd quarter,Chicago,202304140MIA
+12:00.0,68-67,,4,67,68,-1,2160.0,Start of 4th quarter,Chicago,202304140MIA
+0:00.0,91-102,,4,102,91,11,2880.0,End of 4th quarter,Chicago,202304140MIA

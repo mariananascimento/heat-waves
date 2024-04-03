@@ -1,0 +1,426 @@
+Time,Brooklyn,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Claxton vs. B. Adebayo (S. Dinwiddie gains possession),0-0,,,1,0,0,0,0.0
+11:39.0,M. Bridges misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,21.0
+11:34.0, ,0-0,Defensive rebound by T. Herro,,1,0,0,0,26.0
+11:27.0, ,0-2,B. Adebayo makes 2-pt jump shot from 8 ft (assist by K. Love),,1,2,0,2,33.0
+11:05.0,C. Johnson misses 3-pt jump shot from 25 ft,0-2, ,,1,2,0,2,55.0
+11:01.0, ,0-2,Defensive rebound by G. Vincent,,1,2,0,2,59.0
+10:54.0, ,0-2,Shooting foul by S. Dinwiddie (drawn by J. Butler),,1,2,0,2,66.0
+10:54.0, ,0-2,J. Butler misses free throw 1 of 2,,1,2,0,2,66.0
+10:54.0, ,0-2,Offensive rebound by Team,,1,2,0,2,66.0
+10:54.0, ,0-3,J. Butler makes free throw 2 of 2,,1,3,0,3,66.0
+10:36.0,Shooting foul by G. Vincent (drawn by M. Bridges),0-3, ,,1,3,0,3,84.0
+10:36.0,M. Bridges misses free throw 1 of 2,0-3, ,,1,3,0,3,84.0
+10:36.0,Offensive rebound by Team,0-3, ,,1,3,0,3,84.0
+10:36.0,M. Bridges makes free throw 2 of 2,1-3, ,,1,3,1,2,84.0
+10:28.0, ,1-3,Turnover by B. Adebayo (bad pass; steal by C. Johnson),,1,3,1,2,92.0
+10:24.0,C. Johnson makes 2-pt dunk from 2 ft,3-3, ,Tie,1,3,3,0,96.0
+10:06.0, ,3-5,T. Herro makes 2-pt jump shot from 10 ft,,1,5,3,2,114.0
+9:51.0,C. Johnson makes 3-pt jump shot from 23 ft (assist by N. Claxton),6-5, ,Lead change,1,5,6,-1,129.0
+9:45.0, ,6-5,Shooting foul by C. Johnson (drawn by G. Vincent),,1,5,6,-1,135.0
+9:45.0, ,6-6,G. Vincent makes free throw 1 of 2,Tie,1,6,6,0,135.0
+9:45.0, ,6-7,G. Vincent makes free throw 2 of 2,Lead change,1,7,6,1,135.0
+9:29.0,C. Johnson makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie),9-7, ,Lead change,1,7,9,-2,151.0
+9:09.0, ,9-10,G. Vincent makes 3-pt jump shot from 26 ft,Lead change,1,10,9,1,171.0
+8:52.0,D. Finney-Smith misses 2-pt layup from 6 ft,9-10, ,,1,10,9,1,188.0
+8:50.0, ,9-10,Defensive rebound by K. Love,,1,10,9,1,190.0
+8:38.0, ,9-13,T. Herro makes 3-pt jump shot from 27 ft (assist by B. Adebayo),,1,13,9,4,202.0
+8:16.0,S. Dinwiddie misses 3-pt jump shot from 26 ft,9-13, ,,1,13,9,4,224.0
+8:13.0, ,9-13,Defensive rebound by K. Love,,1,13,9,4,227.0
+8:05.0, ,9-13,J. Butler misses 2-pt layup from 4 ft (block by N. Claxton),,1,13,9,4,235.0
+8:05.0, ,9-13,Offensive rebound by Team,,1,13,9,4,235.0
+7:57.0, ,9-13,Shooting foul by D. Finney-Smith (drawn by J. Butler),,1,13,9,4,243.0
+7:57.0, ,9-14,J. Butler makes free throw 1 of 2,,1,14,9,5,243.0
+7:57.0, ,9-14,J. Butler misses free throw 2 of 2,,1,14,9,5,243.0
+7:55.0,Defensive rebound by M. Bridges,9-14, ,,1,14,9,5,245.0
+7:42.0,C. Johnson misses 2-pt jump shot from 7 ft (block by B. Adebayo),9-14, ,,1,14,9,5,258.0
+7:38.0, ,9-14,Defensive rebound by G. Vincent,,1,14,9,5,262.0
+7:38.0, ,9-16,J. Butler makes 2-pt dunk from 1 ft (assist by T. Herro),,1,16,9,7,262.0
+7:38.0,Brooklyn full timeout,9-16, ,,1,16,9,7,262.0
+7:14.0,S. Dinwiddie misses 3-pt jump shot from 36 ft,9-16, ,,1,16,9,7,286.0
+7:11.0, ,9-16,Defensive rebound by Team,,1,16,9,7,289.0
+7:11.0,R. O'Neale enters the game for D. Finney-Smith,9-16, ,,1,16,9,7,289.0
+6:49.0, ,9-16,Turnover by G. Vincent (step out of bounds),,1,16,9,7,311.0
+6:32.0,Shooting foul by B. Adebayo (drawn by M. Bridges),9-16, ,,1,16,9,7,328.0
+6:32.0,M. Bridges makes free throw 1 of 2,10-16, ,,1,16,10,6,328.0
+6:32.0,M. Bridges makes free throw 2 of 2,11-16, ,,1,16,11,5,328.0
+6:09.0, ,11-16,G. Vincent misses 3-pt jump shot from 26 ft,,1,16,11,5,351.0
+6:02.0,Defensive rebound by N. Claxton,11-16, ,,1,16,11,5,358.0
+5:51.0,M. Bridges makes 2-pt jump shot from 9 ft (assist by C. Johnson),13-16, ,,1,16,13,3,369.0
+5:31.0, ,13-19,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,19,13,6,389.0
+5:31.0, ,13-19,H. Highsmith enters the game for B. Adebayo,,1,19,13,6,389.0
+5:31.0, ,13-19,M. Strus enters the game for T. Herro,,1,19,13,6,389.0
+5:06.0,N. Claxton makes 2-pt jump shot from 11 ft (assist by C. Johnson),15-19, ,,1,19,15,4,414.0
+4:53.0, ,15-19,Turnover by J. Butler (out of bounds lost ball),,1,19,15,4,427.0
+4:53.0,D. Sharpe enters the game for N. Claxton,15-19, ,,1,19,15,4,427.0
+4:39.0,M. Bridges misses 3-pt jump shot from 23 ft,15-19, ,,1,19,15,4,441.0
+4:38.0,Offensive rebound by D. Sharpe,15-19, ,,1,19,15,4,442.0
+4:38.0,D. Sharpe makes 2-pt layup at rim,17-19, ,,1,19,17,2,442.0
+4:38.0,Shooting foul by K. Love (drawn by D. Sharpe),17-19, ,,1,19,17,2,442.0
+4:38.0,D. Sharpe makes free throw 1 of 1,18-19, ,,1,19,18,1,442.0
+4:21.0, ,18-22,M. Strus makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,22,18,4,459.0
+4:07.0,Turnover by S. Dinwiddie (bad pass; steal by G. Vincent),18-22, ,,1,22,18,4,473.0
+4:02.0, ,18-25,M. Strus makes 3-pt jump shot from 24 ft (assist by H. Highsmith),,1,25,18,7,478.0
+3:45.0,Shooting foul by H. Highsmith (drawn by M. Bridges),18-25, ,,1,25,18,7,495.0
+3:45.0,M. Bridges makes free throw 1 of 2,19-25, ,,1,25,19,6,495.0
+3:45.0,E. Sumner enters the game for S. Dinwiddie,19-25, ,,1,25,19,6,495.0
+3:45.0,M. Bridges makes free throw 2 of 2,20-25, ,,1,25,20,5,495.0
+3:33.0, ,20-25,Turnover by G. Vincent (bad pass; steal by D. Sharpe),,1,25,20,5,507.0
+3:22.0,M. Bridges misses 3-pt jump shot from 24 ft,20-25, ,,1,25,20,5,518.0
+3:19.0,Offensive rebound by D. Sharpe,20-25, ,,1,25,20,5,521.0
+3:19.0,D. Sharpe makes 2-pt layup at rim,22-25, ,,1,25,22,3,521.0
+3:19.0, ,22-25,Miami full timeout,,1,25,22,3,521.0
+3:19.0, ,22-25,B. Adebayo enters the game for J. Butler,,1,25,22,3,521.0
+3:19.0, ,22-25,T. Herro enters the game for H. Highsmith,,1,25,22,3,521.0
+3:19.0, ,22-25,K. Lowry enters the game for K. Love,,1,25,22,3,521.0
+3:19.0, ,22-25,C. Martin enters the game for G. Vincent,,1,25,22,3,521.0
+3:08.0, ,22-25,Personal foul by D. Sharpe (drawn by B. Adebayo),,1,25,22,3,532.0
+3:00.0, ,22-27,M. Strus makes 2-pt layup from 5 ft,,1,27,22,5,540.0
+2:35.0,M. Bridges misses 2-pt jump shot from 9 ft,22-27, ,,1,27,22,5,565.0
+2:33.0, ,22-27,Defensive rebound by T. Herro,,1,27,22,5,567.0
+2:30.0, ,22-30,M. Strus makes 3-pt jump shot from 23 ft (assist by T. Herro),,1,30,22,8,570.0
+2:02.0,R. O'Neale makes 2-pt layup from 6 ft (assist by M. Bridges),24-30, ,,1,30,24,6,598.0
+1:46.0, ,24-32,M. Strus makes 2-pt layup from 5 ft (assist by K. Lowry),,1,32,24,8,614.0
+1:37.0,Personal foul by C. Martin (drawn by M. Bridges),24-32, ,,1,32,24,8,623.0
+1:37.0,M. Bridges makes free throw 1 of 2,25-32, ,,1,32,25,7,623.0
+1:37.0,N. Claxton enters the game for C. Johnson,25-32, ,,1,32,25,7,623.0
+1:37.0,S. Dinwiddie enters the game for D. Sharpe,25-32, ,,1,32,25,7,623.0
+1:37.0,M. Bridges makes free throw 2 of 2,26-32, ,,1,32,26,6,623.0
+1:28.0, ,26-34,T. Herro makes 2-pt dunk from 4 ft,,1,34,26,8,632.0
+1:05.0,N. Claxton makes 2-pt layup from 3 ft (assist by R. O'Neale),28-34, ,,1,34,28,6,655.0
+0:46.0, ,28-34,C. Martin misses 2-pt layup from 2 ft,,1,34,28,6,674.0
+0:43.0, ,28-34,Offensive rebound by B. Adebayo,,1,34,28,6,677.0
+0:43.0, ,28-36,B. Adebayo makes 2-pt dunk at rim,,1,36,28,8,677.0
+0:27.0,E. Sumner misses 2-pt jump shot from 4 ft,28-36, ,,1,36,28,8,693.0
+0:27.0, ,28-36,Defensive rebound by C. Martin,,1,36,28,8,693.0
+0:03.0, ,28-36,Turnover by Team (shot clock),,1,36,28,8,717.0
+0:00.0,End of 1st quarter,28-36,,,1,36,28,8,720.0
+12:00.0,Start of 2nd quarter,28-36,,,2,36,28,8,720.0
+11:47.0, ,28-38,B. Adebayo makes 2-pt hook shot from 6 ft (assist by C. Martin),,2,38,28,10,733.0
+11:22.0,J. Harris misses 3-pt jump shot from 23 ft,28-38, ,,2,38,28,10,758.0
+11:19.0, ,28-38,Defensive rebound by K. Lowry,,2,38,28,10,761.0
+11:11.0, ,28-40,M. Strus makes 2-pt layup from 3 ft (assist by K. Lowry),,2,40,28,12,769.0
+11:02.0,E. Sumner makes 3-pt jump shot from 24 ft (assist by S. Dinwiddie),31-40, ,,2,40,31,9,778.0
+10:48.0, ,31-42,B. Adebayo makes 2-pt jump shot from 7 ft,,2,42,31,11,792.0
+10:35.0,S. Dinwiddie misses 2-pt jump shot from 8 ft,31-42, ,,2,42,31,11,805.0
+10:34.0,Offensive rebound by N. Claxton,31-42, ,,2,42,31,11,806.0
+10:34.0,N. Claxton makes 2-pt jump shot from 7 ft,33-42, ,,2,42,33,9,806.0
+10:34.0,Shooting foul by K. Lowry (drawn by N. Claxton),33-42, ,,2,42,33,9,806.0
+10:34.0,Y. Watanabe enters the game for R. O'Neale,33-42, ,,2,42,33,9,806.0
+10:34.0,N. Claxton makes free throw 1 of 1,34-42, ,,2,42,34,8,806.0
+10:24.0, ,34-42,T. Herro misses 3-pt jump shot from 27 ft,,2,42,34,8,816.0
+10:21.0,Defensive rebound by J. Harris,34-42, ,,2,42,34,8,819.0
+10:11.0,Shooting foul by M. Strus (drawn by S. Dinwiddie),34-42, ,,2,42,34,8,829.0
+10:11.0,S. Dinwiddie makes free throw 1 of 2,35-42, ,,2,42,35,7,829.0
+10:11.0,S. Dinwiddie misses free throw 2 of 2,35-42, ,,2,42,35,7,829.0
+10:09.0, ,35-42,Defensive rebound by C. Martin,,2,42,35,7,831.0
+10:00.0, ,35-42,Shooting foul by E. Sumner (drawn by T. Herro),,2,42,35,7,840.0
+10:00.0, ,35-43,T. Herro makes free throw 1 of 2,,2,43,35,8,840.0
+10:00.0, ,35-44,T. Herro makes free throw 2 of 2,,2,44,35,9,840.0
+9:38.0,N. Claxton misses 2-pt jump shot from 12 ft,35-44, ,,2,44,35,9,862.0
+9:37.0,Offensive rebound by Team,35-44, ,,2,44,35,9,863.0
+9:33.0,E. Sumner makes 2-pt layup from 2 ft (assist by J. Harris),37-44, ,,2,44,37,7,867.0
+9:12.0, ,37-44,C. Martin misses 2-pt layup from 3 ft,,2,44,37,7,888.0
+9:08.0, ,37-44,Offensive rebound by C. Martin,,2,44,37,7,892.0
+9:07.0, ,37-47,M. Strus makes 3-pt jump shot from 27 ft (assist by C. Martin),,2,47,37,10,893.0
+8:51.0,Turnover by E. Sumner (bad pass; steal by B. Adebayo),37-47, ,,2,47,37,10,909.0
+8:45.0, ,37-47,T. Herro misses 3-pt jump shot from 25 ft,,2,47,37,10,915.0
+8:44.0,Defensive rebound by S. Dinwiddie,37-47, ,,2,47,37,10,916.0
+8:43.0,S. Dinwiddie misses 2-pt layup from 5 ft (block by K. Lowry),37-47, ,,2,47,37,10,917.0
+8:43.0,Offensive rebound by Team,37-47, ,,2,47,37,10,917.0
+8:38.0,E. Sumner misses 3-pt jump shot from 28 ft,37-47, ,,2,47,37,10,922.0
+8:35.0, ,37-47,Defensive rebound by B. Adebayo,,2,47,37,10,925.0
+8:23.0, ,37-49,B. Adebayo makes 2-pt dunk from 2 ft (assist by K. Lowry),,2,49,37,12,937.0
+8:04.0,S. Dinwiddie misses 2-pt layup from 4 ft,37-49, ,,2,49,37,12,956.0
+8:04.0, ,37-49,Defensive rebound by B. Adebayo,,2,49,37,12,956.0
+7:51.0, ,37-49,Personal foul by S. Dinwiddie (drawn by C. Martin),,2,49,37,12,969.0
+7:51.0,D. Sharpe enters the game for N. Claxton,37-49, ,,2,49,37,12,969.0
+7:51.0, ,37-49,J. Butler enters the game for B. Adebayo,,2,49,37,12,969.0
+7:51.0, ,37-49,K. Love enters the game for T. Herro,,2,49,37,12,969.0
+7:44.0, ,37-51,M. Strus makes 2-pt layup from 3 ft (assist by J. Butler),,2,51,37,14,976.0
+7:40.0,E. Sumner makes 2-pt layup from 6 ft (assist by S. Dinwiddie),39-51, ,,2,51,39,12,980.0
+7:40.0,Shooting foul by K. Love (drawn by E. Sumner),39-51, ,,2,51,39,12,980.0
+7:40.0,D. Finney-Smith enters the game for Y. Watanabe,39-51, ,,2,51,39,12,980.0
+7:40.0,E. Sumner makes free throw 1 of 1,40-51, ,,2,51,40,11,980.0
+7:18.0, ,40-53,J. Butler makes 2-pt layup from 3 ft,,2,53,40,13,1002.0
+7:10.0,Personal foul by K. Lowry (drawn by D. Sharpe),40-53, ,,2,53,40,13,1010.0
+7:05.0,J. Harris makes 3-pt jump shot from 26 ft (assist by D. Sharpe),43-53, ,,2,53,43,10,1015.0
+6:47.0, ,43-55,K. Love makes 2-pt layup from 2 ft (assist by J. Butler),,2,55,43,12,1033.0
+6:38.0,D. Finney-Smith misses 3-pt jump shot from 25 ft,43-55, ,,2,55,43,12,1042.0
+6:36.0, ,43-55,Defensive rebound by M. Strus,,2,55,43,12,1044.0
+6:18.0, ,43-55,J. Butler misses 2-pt layup from 3 ft,,2,55,43,12,1062.0
+6:16.0,Defensive rebound by J. Harris,43-55, ,,2,55,43,12,1064.0
+6:11.0,D. Finney-Smith makes 2-pt dunk from 5 ft (assist by S. Dinwiddie),45-55, ,,2,55,45,10,1069.0
+6:11.0, ,45-55,Miami full timeout,,2,55,45,10,1069.0
+6:11.0,M. Bridges enters the game for J. Harris,45-55, ,,2,55,45,10,1069.0
+6:11.0,C. Johnson enters the game for E. Sumner,45-55, ,,2,55,45,10,1069.0
+5:50.0, ,45-57,C. Martin makes 2-pt jump shot from 21 ft,,2,57,45,12,1090.0
+5:22.0,D. Finney-Smith misses 2-pt jump shot from 8 ft,45-57, ,,2,57,45,12,1118.0
+5:17.0,Offensive rebound by D. Finney-Smith,45-57, ,,2,57,45,12,1123.0
+5:09.0,M. Bridges makes 3-pt jump shot from 24 ft (assist by D. Finney-Smith),48-57, ,,2,57,48,9,1131.0
+5:09.0, ,48-57,G. Vincent enters the game for K. Lowry,,2,57,48,9,1131.0
+4:59.0,Jump ball: J. Butler vs. D. Finney-Smith (M. Strus gains possession),48-57,,,2,57,48,9,1141.0
+4:47.0, ,48-59,J. Butler makes 2-pt jump shot from 4 ft,,2,59,48,11,1153.0
+4:37.0,Personal foul by J. Butler (drawn by S. Dinwiddie),48-59, ,,2,59,48,11,1163.0
+4:37.0,S. Dinwiddie makes free throw 1 of 2,49-59, ,,2,59,49,10,1163.0
+4:37.0,S. Dinwiddie makes free throw 2 of 2,50-59, ,,2,59,50,9,1163.0
+4:22.0, ,50-62,K. Love makes 3-pt jump shot from 25 ft (assist by C. Martin),,2,62,50,12,1178.0
+4:07.0,D. Finney-Smith misses 2-pt jump shot from 10 ft,50-62, ,,2,62,50,12,1193.0
+4:03.0,Offensive rebound by D. Sharpe,50-62, ,,2,62,50,12,1197.0
+4:00.0,C. Johnson misses 3-pt jump shot from 27 ft,50-62, ,,2,62,50,12,1200.0
+3:57.0,Offensive rebound by D. Sharpe,50-62, ,,2,62,50,12,1203.0
+3:55.0,M. Bridges misses 3-pt jump shot from 26 ft,50-62, ,,2,62,50,12,1205.0
+3:51.0, ,50-62,Defensive rebound by C. Martin,,2,62,50,12,1209.0
+3:42.0, ,50-62,K. Love misses 2-pt jump shot from 6 ft (block by D. Sharpe),,2,62,50,12,1218.0
+3:39.0, ,50-62,Offensive rebound by K. Love,,2,62,50,12,1221.0
+3:37.0, ,50-62,K. Love misses 2-pt layup from 3 ft,,2,62,50,12,1223.0
+3:32.0,Defensive rebound by C. Johnson,50-62, ,,2,62,50,12,1228.0
+3:16.0,Turnover by S. Dinwiddie (bad pass; steal by C. Martin),50-62, ,,2,62,50,12,1244.0
+3:10.0, ,50-62,C. Martin misses 2-pt layup from 5 ft,,2,62,50,12,1250.0
+3:07.0,Defensive rebound by M. Bridges,50-62, ,,2,62,50,12,1253.0
+3:04.0,C. Johnson misses 3-pt jump shot from 24 ft,50-62, ,,2,62,50,12,1256.0
+3:04.0,Offensive rebound by D. Finney-Smith,50-62, ,,2,62,50,12,1256.0
+2:59.0,Shooting foul by G. Vincent (drawn by M. Bridges),50-62, ,,2,62,50,12,1261.0
+2:59.0,Brooklyn full timeout,50-62, ,,2,62,50,12,1261.0
+2:59.0,N. Claxton enters the game for D. Sharpe,50-62, ,,2,62,50,12,1261.0
+2:59.0, ,50-62,B. Adebayo enters the game for K. Love,,2,62,50,12,1261.0
+2:59.0, ,50-62,T. Herro enters the game for C. Martin,,2,62,50,12,1261.0
+2:59.0,M. Bridges makes free throw 1 of 2,51-62, ,,2,62,51,11,1261.0
+2:59.0,M. Bridges makes free throw 2 of 2,52-62, ,,2,62,52,10,1261.0
+2:50.0, ,52-62,Personal foul by S. Dinwiddie (drawn by B. Adebayo),,2,62,52,10,1270.0
+2:50.0, ,52-62,Instant Replay (Request: Stands),,2,62,52,10,1270.0
+2:50.0,R. O'Neale enters the game for S. Dinwiddie,52-62, ,,2,62,52,10,1270.0
+2:35.0, ,52-64,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),,2,64,52,12,1285.0
+2:12.0,C. Johnson makes 3-pt jump shot from 25 ft (assist by M. Bridges),55-64, ,,2,64,55,9,1308.0
+2:00.0, ,55-64,G. Vincent misses 3-pt jump shot from 23 ft,,2,64,55,9,1320.0
+2:00.0, ,55-64,Offensive rebound by Team,,2,64,55,9,1320.0
+2:00.0,Loose ball foul by N. Claxton (drawn by B. Adebayo),55-64, ,,2,64,55,9,1320.0
+1:56.0, ,55-64,B. Adebayo misses 2-pt jump shot from 7 ft,,2,64,55,9,1324.0
+1:52.0,Defensive rebound by D. Finney-Smith,55-64, ,,2,64,55,9,1328.0
+1:49.0,R. O'Neale makes 3-pt jump shot from 26 ft (assist by C. Johnson),58-64, ,,2,64,58,6,1331.0
+1:27.0, ,58-67,M. Strus makes 3-pt jump shot from 26 ft (assist by T. Herro),,2,67,58,9,1353.0
+1:05.0,C. Johnson makes 2-pt jump shot from 20 ft (assist by M. Bridges),60-67, ,,2,67,60,7,1375.0
+0:57.0, ,60-69,T. Herro makes 2-pt jump shot from 15 ft,,2,69,60,9,1383.0
+0:40.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,60-69, ,,2,69,60,9,1400.0
+0:35.0,Offensive rebound by C. Johnson,60-69, ,,2,69,60,9,1405.0
+0:35.0,R. O'Neale makes 3-pt jump shot from 26 ft (assist by C. Johnson),63-69, ,,2,69,63,6,1405.0
+0:28.0, ,63-69,T. Herro misses 3-pt jump shot from 26 ft,,2,69,63,6,1412.0
+0:22.0,Defensive rebound by C. Johnson,63-69, ,,2,69,63,6,1418.0
+0:04.0,C. Johnson makes 2-pt jump shot from 9 ft,65-69, ,,2,69,65,4,1436.0
+0:00.0, ,65-69,M. Strus misses 3-pt jump shot from 26 ft,,2,69,65,4,1440.0
+0:00.0, ,65-69,Offensive rebound by Team,,2,69,65,4,1440.0
+0:00.0, ,65-69,Instant Replay (Request: Ruling Stands),,2,69,65,4,1440.0
+0:00.0,End of 2nd quarter,65-69,,,2,69,65,4,1440.0
+12:00.0,Start of 3rd quarter,65-69,,,3,69,65,4,1440.0
+11:43.0, ,65-69,B. Adebayo misses 2-pt layup from 4 ft (block by N. Claxton),,3,69,65,4,1457.0
+11:40.0,Defensive rebound by D. Finney-Smith,65-69, ,,3,69,65,4,1460.0
+11:25.0,C. Johnson makes 3-pt jump shot from 23 ft (assist by M. Bridges),68-69, ,,3,69,68,1,1475.0
+11:12.0, ,68-69,G. Vincent misses 2-pt layup from 6 ft,,3,69,68,1,1488.0
+11:10.0,Defensive rebound by S. Dinwiddie,68-69, ,,3,69,68,1,1490.0
+11:05.0,M. Bridges makes 3-pt jump shot from 25 ft (assist by S. Dinwiddie),71-69, ,Lead change,3,69,71,-2,1495.0
+10:40.0, ,71-69,J. Butler misses 2-pt jump shot from 12 ft,,3,69,71,-2,1520.0
+10:37.0,Defensive rebound by N. Claxton,71-69, ,,3,69,71,-2,1523.0
+10:22.0,D. Finney-Smith misses 2-pt layup from 3 ft,71-69, ,,3,69,71,-2,1538.0
+10:20.0, ,71-69,Defensive rebound by G. Vincent,,3,69,71,-2,1540.0
+10:09.0, ,71-69,Personal foul by C. Johnson (drawn by B. Adebayo),,3,69,71,-2,1551.0
+9:59.0, ,71-71,T. Herro makes 2-pt layup from 6 ft,Tie,3,71,71,0,1561.0
+9:50.0,D. Finney-Smith makes 3-pt jump shot from 23 ft (assist by M. Bridges),74-71, ,,3,71,74,-3,1570.0
+9:38.0, ,74-71,T. Herro misses 3-pt jump shot from 27 ft,,3,71,74,-3,1582.0
+9:35.0,Defensive rebound by S. Dinwiddie,74-71, ,,3,71,74,-3,1585.0
+9:25.0,M. Bridges misses 3-pt jump shot from 25 ft,74-71, ,,3,71,74,-3,1595.0
+9:21.0,Offensive rebound by D. Finney-Smith,74-71, ,,3,71,74,-3,1599.0
+9:17.0,D. Finney-Smith makes 3-pt jump shot from 27 ft (assist by S. Dinwiddie),77-71, ,,3,71,77,-6,1603.0
+8:58.0, ,77-71,G. Vincent misses 2-pt jump shot from 9 ft,,3,71,77,-6,1622.0
+8:54.0,Defensive rebound by N. Claxton,77-71, ,,3,71,77,-6,1626.0
+8:50.0,N. Claxton makes 2-pt dunk from 2 ft (assist by S. Dinwiddie),79-71, ,,3,71,79,-8,1630.0
+8:50.0, ,79-71,Miami full timeout,,3,71,79,-8,1630.0
+8:36.0, ,79-73,B. Adebayo makes 2-pt layup from 5 ft (assist by K. Love),,3,73,79,-6,1644.0
+8:09.0,Turnover by Team (shot clock),79-73, ,,3,73,79,-6,1671.0
+7:54.0, ,79-73,Shooting foul by D. Finney-Smith (drawn by J. Butler),,3,73,79,-6,1686.0
+7:54.0, ,79-74,J. Butler makes free throw 1 of 2,,3,74,79,-5,1686.0
+7:54.0, ,79-75,J. Butler makes free throw 2 of 2,,3,75,79,-4,1686.0
+7:41.0,C. Johnson makes 2-pt layup from 4 ft (assist by N. Claxton),81-75, ,,3,75,81,-6,1699.0
+7:28.0, ,81-75,Personal foul by C. Johnson (drawn by K. Love),,3,75,81,-6,1712.0
+7:13.0, ,81-75,G. Vincent misses 3-pt jump shot from 30 ft,,3,75,81,-6,1727.0
+7:07.0,Defensive rebound by N. Claxton,81-75, ,,3,75,81,-6,1733.0
+6:58.0,C. Johnson makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie),84-75, ,,3,75,84,-9,1742.0
+6:43.0, ,84-75,Turnover by B. Adebayo (bad pass),,3,75,84,-9,1757.0
+6:43.0, ,84-75,C. Martin enters the game for K. Love,,3,75,84,-9,1757.0
+6:26.0,M. Bridges misses 3-pt jump shot from 25 ft,84-75, ,,3,75,84,-9,1774.0
+6:25.0,Offensive rebound by D. Finney-Smith,84-75, ,,3,75,84,-9,1775.0
+6:25.0,D. Finney-Smith makes 2-pt dunk at rim,86-75, ,,3,75,86,-11,1775.0
+6:03.0, ,86-75,T. Herro misses 2-pt jump shot from 11 ft,,3,75,86,-11,1797.0
+5:58.0,Defensive rebound by N. Claxton,86-75, ,,3,75,86,-11,1802.0
+5:48.0,D. Finney-Smith makes 2-pt jump shot from 6 ft (assist by M. Bridges),88-75, ,,3,75,88,-13,1812.0
+5:30.0, ,88-75,J. Butler misses 2-pt jump shot from 12 ft,,3,75,88,-13,1830.0
+5:26.0,Defensive rebound by S. Dinwiddie,88-75, ,,3,75,88,-13,1834.0
+5:23.0,S. Dinwiddie makes 3-pt jump shot from 25 ft,91-75, ,,3,75,91,-16,1837.0
+5:22.0, ,91-75,Miami full timeout,,3,75,91,-16,1838.0
+5:22.0, ,91-75,M. Strus enters the game for T. Herro,,3,75,91,-16,1838.0
+5:11.0, ,91-75,Turnover by C. Martin (bad pass),,3,75,91,-16,1849.0
+4:53.0,M. Bridges misses 2-pt jump shot from 9 ft,91-75, ,,3,75,91,-16,1867.0
+4:51.0, ,91-75,Defensive rebound by C. Martin,,3,75,91,-16,1869.0
+4:34.0, ,91-75,C. Martin misses 3-pt jump shot from 27 ft,,3,75,91,-16,1886.0
+4:32.0,Defensive rebound by M. Bridges,91-75, ,,3,75,91,-16,1888.0
+4:28.0,M. Bridges makes 2-pt jump shot from 9 ft,93-75, ,,3,75,93,-18,1892.0
+4:28.0,Shooting foul by M. Strus (drawn by M. Bridges),93-75, ,,3,75,93,-18,1892.0
+4:28.0, ,93-75,H. Highsmith enters the game for B. Adebayo,,3,75,93,-18,1892.0
+4:28.0,M. Bridges makes free throw 1 of 1,94-75, ,,3,75,94,-19,1892.0
+4:07.0, ,94-75,Turnover by G. Vincent (bad pass; steal by S. Dinwiddie),,3,75,94,-19,1913.0
+3:58.0,S. Dinwiddie makes 2-pt jump shot from 8 ft,96-75, ,,3,75,96,-21,1922.0
+3:39.0, ,96-75,C. Martin misses 2-pt layup from 3 ft,,3,75,96,-21,1941.0
+3:36.0,Defensive rebound by N. Claxton,96-75, ,,3,75,96,-21,1944.0
+3:32.0,D. Finney-Smith misses 3-pt jump shot from 25 ft,96-75, ,,3,75,96,-21,1948.0
+3:28.0, ,96-75,Defensive rebound by M. Strus,,3,75,96,-21,1952.0
+3:26.0, ,96-75,Personal foul by C. Johnson (drawn by J. Butler),,3,75,96,-21,1954.0
+3:26.0,R. O'Neale enters the game for N. Claxton,96-75, ,,3,75,96,-21,1954.0
+3:26.0,D. Sharpe enters the game for C. Johnson,96-75, ,,3,75,96,-21,1954.0
+3:26.0, ,96-75,K. Lowry enters the game for G. Vincent,,3,75,96,-21,1954.0
+3:19.0, ,96-78,J. Butler makes 3-pt jump shot from 26 ft,,3,78,96,-18,1961.0
+2:58.0,M. Bridges misses 2-pt jump shot from 14 ft,96-78, ,,3,78,96,-18,1982.0
+2:57.0,Offensive rebound by D. Sharpe,96-78, ,,3,78,96,-18,1983.0
+2:57.0,Personal foul by K. Lowry (drawn by D. Sharpe),96-78, ,,3,78,96,-18,1983.0
+2:45.0,R. O'Neale misses 3-pt jump shot from 27 ft,96-78, ,,3,78,96,-18,1995.0
+2:40.0, ,96-78,Defensive rebound by M. Strus,,3,78,96,-18,2000.0
+2:35.0, ,96-78,M. Strus misses 3-pt jump shot from 27 ft,,3,78,96,-18,2005.0
+2:32.0,Defensive rebound by S. Dinwiddie,96-78, ,,3,78,96,-18,2008.0
+2:14.0,S. Dinwiddie makes 2-pt layup from 4 ft,98-78, ,,3,78,98,-20,2026.0
+1:54.0, ,98-78,J. Butler misses 2-pt jump shot from 7 ft,,3,78,98,-20,2046.0
+1:50.0, ,98-78,Offensive rebound by J. Butler,,3,78,98,-20,2050.0
+1:50.0, ,98-80,J. Butler makes 2-pt layup at rim,,3,80,98,-18,2050.0
+1:45.0,D. Sharpe misses 2-pt layup from 3 ft (block by C. Martin),98-80, ,,3,80,98,-18,2055.0
+1:45.0, ,98-80,Defensive rebound by C. Martin,,3,80,98,-18,2055.0
+1:34.0, ,98-80,Turnover by K. Lowry (bad pass; steal by R. O'Neale),,3,80,98,-18,2066.0
+1:31.0,D. Sharpe makes 2-pt dunk from 1 ft (assist by R. O'Neale),100-80, ,,3,80,100,-20,2069.0
+1:19.0, ,100-82,J. Butler makes 2-pt jump shot from 9 ft,,3,82,100,-18,2081.0
+1:19.0, ,100-82,Shooting foul by D. Finney-Smith (drawn by J. Butler),,3,82,100,-18,2081.0
+1:19.0,N. Claxton enters the game for M. Bridges,100-82, ,,3,82,100,-18,2081.0
+1:19.0,E. Sumner enters the game for D. Sharpe,100-82, ,,3,82,100,-18,2081.0
+1:19.0, ,100-82,B. Adebayo enters the game for H. Highsmith,,3,82,100,-18,2081.0
+1:19.0, ,100-83,J. Butler makes free throw 1 of 1,,3,83,100,-17,2081.0
+0:59.0,S. Dinwiddie misses 2-pt jump shot from 11 ft,100-83, ,,3,83,100,-17,2101.0
+0:54.0, ,100-83,Defensive rebound by B. Adebayo,,3,83,100,-17,2106.0
+0:52.0, ,100-83,K. Lowry misses 2-pt layup from 8 ft (block by N. Claxton),,3,83,100,-17,2108.0
+0:52.0, ,100-83,Offensive rebound by Team,,3,83,100,-17,2108.0
+0:52.0, ,100-83,T. Herro enters the game for J. Butler,,3,83,100,-17,2108.0
+0:51.0, ,100-85,T. Herro makes 2-pt layup from 3 ft (assist by K. Lowry),,3,85,100,-15,2109.0
+0:25.0,E. Sumner misses 2-pt layup from 6 ft,100-85, ,,3,85,100,-15,2135.0
+0:21.0,Offensive rebound by S. Dinwiddie,100-85, ,,3,85,100,-15,2139.0
+0:13.0,R. O'Neale misses 3-pt jump shot from 26 ft,100-85, ,,3,85,100,-15,2147.0
+0:09.0,Offensive rebound by N. Claxton,100-85, ,,3,85,100,-15,2151.0
+0:09.0,N. Claxton makes 2-pt hook shot from 8 ft,102-85, ,,3,85,102,-17,2151.0
+0:04.0, ,102-85,Shooting foul by N. Claxton (drawn by C. Martin),,3,85,102,-17,2156.0
+0:04.0, ,102-86,C. Martin makes free throw 1 of 2,,3,86,102,-16,2156.0
+0:04.0,M. Bridges enters the game for S. Dinwiddie,102-86, ,,3,86,102,-16,2156.0
+0:04.0, ,102-86,H. Highsmith enters the game for M. Strus,,3,86,102,-16,2156.0
+0:04.0, ,102-87,C. Martin makes free throw 2 of 2,,3,87,102,-15,2156.0
+0:00.0,E. Sumner makes 2-pt layup from 10 ft,104-87, ,,3,87,104,-17,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),104-87, ,,3,87,104,-17,2160.0
+0:00.0,End of 3rd quarter,104-87,,,3,87,104,-17,2160.0
+12:00.0,Start of 4th quarter,104-87,,,4,87,104,-17,2160.0
+11:36.0,R. O'Neale misses 2-pt layup from 6 ft,104-87, ,,4,87,104,-17,2184.0
+11:33.0, ,104-87,Defensive rebound by C. Martin,,4,87,104,-17,2187.0
+11:22.0, ,104-87,B. Adebayo misses 2-pt hook shot from 4 ft (block by R. O'Neale),,4,87,104,-17,2198.0
+11:18.0,Defensive rebound by R. O'Neale,104-87, ,,4,87,104,-17,2202.0
+11:08.0,M. Bridges misses 2-pt jump shot from 10 ft,104-87, ,,4,87,104,-17,2212.0
+11:03.0, ,104-87,Defensive rebound by M. Strus,,4,87,104,-17,2217.0
+10:55.0, ,104-87,B. Adebayo misses 2-pt jump shot from 12 ft,,4,87,104,-17,2225.0
+10:49.0,Defensive rebound by N. Claxton,104-87, ,,4,87,104,-17,2231.0
+10:42.0,N. Claxton makes 2-pt dunk from 3 ft (assist by M. Bridges),106-87, ,,4,87,106,-19,2238.0
+10:42.0,Shooting foul by C. Martin (drawn by N. Claxton),106-87, ,,4,87,106,-19,2238.0
+10:42.0,N. Claxton makes free throw 1 of 1,107-87, ,,4,87,107,-20,2238.0
+10:28.0, ,107-90,K. Lowry makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,4,90,107,-17,2252.0
+10:11.0,M. Bridges misses 2-pt jump shot from 16 ft,107-90, ,,4,90,107,-17,2269.0
+10:09.0, ,107-90,Defensive rebound by C. Martin,,4,90,107,-17,2271.0
+10:03.0, ,107-90,Turnover by C. Martin (bad pass; steal by M. Bridges),,4,90,107,-17,2277.0
+9:59.0,M. Bridges misses 2-pt layup from 8 ft (block by K. Lowry),107-90, ,,4,90,107,-17,2281.0
+9:59.0,Offensive rebound by E. Sumner,107-90, ,,4,90,107,-17,2281.0
+9:59.0,Shooting foul by B. Adebayo (drawn by E. Sumner),107-90, ,,4,90,107,-17,2281.0
+9:59.0,E. Sumner makes free throw 1 of 2,108-90, ,,4,90,108,-18,2281.0
+9:59.0,E. Sumner makes free throw 2 of 2,109-90, ,,4,90,109,-19,2281.0
+9:48.0, ,109-90,C. Martin misses 3-pt jump shot from 23 ft,,4,90,109,-19,2292.0
+9:47.0, ,109-90,Offensive rebound by B. Adebayo,,4,90,109,-19,2293.0
+9:47.0, ,109-90,Personal foul by E. Sumner (drawn by B. Adebayo),,4,90,109,-19,2293.0
+9:41.0, ,109-90,K. Lowry misses 3-pt jump shot from 26 ft,,4,90,109,-19,2299.0
+9:37.0,Defensive rebound by N. Claxton,109-90, ,,4,90,109,-19,2303.0
+9:29.0,J. Harris makes 3-pt jump shot from 25 ft (assist by N. Claxton),112-90, ,,4,90,112,-22,2311.0
+9:16.0, ,112-90,Personal foul by M. Bridges (drawn by B. Adebayo),,4,90,112,-22,2324.0
+9:04.0, ,112-90,M. Strus misses 3-pt jump shot from 22 ft,,4,90,112,-22,2336.0
+8:57.0, ,112-90,Offensive rebound by M. Strus,,4,90,112,-22,2343.0
+8:55.0, ,112-92,T. Herro makes 2-pt jump shot from 11 ft,,4,92,112,-20,2345.0
+8:55.0,Brooklyn full timeout,112-92, ,,4,92,112,-20,2345.0
+8:33.0,J. Harris misses 3-pt jump shot from 25 ft,112-92, ,,4,92,112,-20,2367.0
+8:31.0, ,112-92,Defensive rebound by Team,,4,92,112,-20,2369.0
+8:31.0, ,112-92,J. Butler enters the game for C. Martin,,4,92,112,-20,2369.0
+8:15.0, ,112-92,J. Butler misses 3-pt jump shot from 23 ft,,4,92,112,-20,2385.0
+8:13.0,Defensive rebound by Team,112-92, ,,4,92,112,-20,2387.0
+8:13.0,S. Dinwiddie enters the game for E. Sumner,112-92, ,,4,92,112,-20,2387.0
+8:00.0,M. Bridges makes 2-pt jump shot from 7 ft (assist by N. Claxton),114-92, ,,4,92,114,-22,2400.0
+7:44.0, ,114-92,T. Herro misses 2-pt jump shot from 15 ft,,4,92,114,-22,2416.0
+7:40.0,Defensive rebound by S. Dinwiddie,114-92, ,,4,92,114,-22,2420.0
+7:28.0,Shooting foul by M. Strus (drawn by S. Dinwiddie),114-92, ,,4,92,114,-22,2432.0
+7:28.0,S. Dinwiddie makes free throw 1 of 2,115-92, ,,4,92,115,-23,2432.0
+7:28.0,S. Dinwiddie makes free throw 2 of 2,116-92, ,,4,92,116,-24,2432.0
+7:17.0, ,116-92,J. Butler misses 2-pt layup from 5 ft (block by R. O'Neale),,4,92,116,-24,2443.0
+7:15.0, ,116-92,Offensive rebound by Team,,4,92,116,-24,2445.0
+7:04.0, ,116-92,B. Adebayo misses 2-pt jump shot from 6 ft,,4,92,116,-24,2456.0
+7:04.0, ,116-92,Offensive rebound by Team,,4,92,116,-24,2456.0
+7:04.0, ,116-92,Turnover by Team (shot clock),,4,92,116,-24,2456.0
+6:42.0,Turnover by M. Bridges (bad pass; steal by T. Herro),116-92, ,,4,92,116,-24,2478.0
+6:38.0, ,116-92,Turnover by K. Lowry (out of bounds lost ball),,4,92,116,-24,2482.0
+6:18.0,S. Dinwiddie makes 3-pt jump shot from 27 ft,119-92, ,,4,92,119,-27,2502.0
+6:08.0, ,119-92,Offensive foul by B. Adebayo (drawn by S. Dinwiddie),,4,92,119,-27,2512.0
+6:08.0, ,119-92,Turnover by B. Adebayo (offensive foul),,4,92,119,-27,2512.0
+6:08.0,Brooklyn full timeout,119-92, ,,4,92,119,-27,2512.0
+6:08.0,Instant Replay (Challenge: Ruling Stands),119-92, ,,4,92,119,-27,2512.0
+5:44.0,M. Bridges makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie),122-92, ,,4,92,122,-30,2536.0
+5:26.0, ,122-95,T. Herro makes 3-pt jump shot from 25 ft (assist by M. Strus),,4,95,122,-27,2554.0
+4:56.0,M. Bridges makes 2-pt jump shot from 13 ft,124-95, ,,4,95,124,-29,2584.0
+4:39.0, ,124-95,T. Herro misses 3-pt jump shot from 27 ft,,4,95,124,-29,2601.0
+4:35.0, ,124-95,Offensive rebound by B. Adebayo,,4,95,124,-29,2605.0
+4:32.0, ,124-95,Turnover by B. Adebayo (lost ball; steal by M. Bridges),,4,95,124,-29,2608.0
+4:10.0,Turnover by M. Bridges (lost ball; steal by T. Herro),124-95, ,,4,95,124,-29,2630.0
+3:58.0, ,124-95,B. Adebayo misses 2-pt hook shot from 7 ft,,4,95,124,-29,2642.0
+3:55.0, ,124-95,Offensive rebound by B. Adebayo,,4,95,124,-29,2645.0
+3:53.0, ,124-97,B. Adebayo makes 2-pt layup from 3 ft,,4,97,124,-27,2647.0
+3:31.0,S. Dinwiddie misses 3-pt jump shot from 26 ft,124-97, ,,4,97,124,-27,2669.0
+3:30.0,Offensive rebound by R. O'Neale,124-97, ,,4,97,124,-27,2670.0
+3:30.0,Personal foul by K. Lowry (drawn by R. O'Neale),124-97, ,,4,97,124,-27,2670.0
+3:30.0,D. Sharpe enters the game for N. Claxton,124-97, ,,4,97,124,-27,2670.0
+3:30.0,D. Smith enters the game for S. Dinwiddie,124-97, ,,4,97,124,-27,2670.0
+3:30.0, ,124-97,H. Highsmith enters the game for B. Adebayo,,4,97,124,-27,2670.0
+3:30.0, ,124-97,C. Martin enters the game for J. Butler,,4,97,124,-27,2670.0
+3:30.0, ,124-97,D. Robinson enters the game for T. Herro,,4,97,124,-27,2670.0
+3:30.0, ,124-97,O. Yurtseven enters the game for K. Lowry,,4,97,124,-27,2670.0
+3:20.0,J. Harris misses 3-pt jump shot from 26 ft,124-97, ,,4,97,124,-27,2680.0
+3:18.0, ,124-97,Defensive rebound by C. Martin,,4,97,124,-27,2682.0
+3:00.0, ,124-97,M. Strus misses 2-pt jump shot from 11 ft,,4,97,124,-27,2700.0
+2:55.0,Defensive rebound by D. Smith,124-97, ,,4,97,124,-27,2705.0
+2:50.0,Brooklyn full timeout,124-97, ,,4,97,124,-27,2710.0
+2:50.0,D. Duke enters the game for M. Bridges,124-97, ,,4,97,124,-27,2710.0
+2:50.0,Y. Watanabe enters the game for J. Harris,124-97, ,,4,97,124,-27,2710.0
+2:39.0,Turnover by D. Duke (traveling),124-97, ,,4,97,124,-27,2721.0
+2:20.0, ,124-97,M. Strus misses 3-pt jump shot from 24 ft,,4,97,124,-27,2740.0
+2:17.0,Defensive rebound by D. Duke,124-97, ,,4,97,124,-27,2743.0
+2:04.0,Y. Watanabe makes 3-pt jump shot from 26 ft (assist by D. Sharpe),127-97, ,,4,97,127,-30,2756.0
+1:49.0, ,127-97,D. Robinson misses 3-pt jump shot from 26 ft,,4,97,127,-30,2771.0
+1:43.0,Defensive rebound by D. Sharpe,127-97, ,,4,97,127,-30,2777.0
+1:29.0,Y. Watanabe misses 2-pt hook shot from 4 ft,127-97, ,,4,97,127,-30,2791.0
+1:29.0,Offensive rebound by D. Sharpe,127-97, ,,4,97,127,-30,2791.0
+1:29.0,Shooting foul by H. Highsmith (drawn by D. Sharpe),127-97, ,,4,97,127,-30,2791.0
+1:29.0,D. Sharpe makes free throw 1 of 2,128-97, ,,4,97,128,-31,2791.0
+1:29.0,D. Sharpe makes free throw 2 of 2,129-97, ,,4,97,129,-32,2791.0
+1:17.0, ,129-97,Personal foul by D. Smith (drawn by C. Martin),,4,97,129,-32,2803.0
+1:10.0, ,129-97,H. Highsmith misses 3-pt jump shot from 26 ft,,4,97,129,-32,2810.0
+1:06.0,Defensive rebound by D. Sharpe,129-97, ,,4,97,129,-32,2814.0
+0:44.0,R. O'Neale misses 2-pt jump shot from 20 ft,129-97, ,,4,97,129,-32,2836.0
+0:41.0,Offensive rebound by R. O'Neale,129-97, ,,4,97,129,-32,2839.0
+0:40.0,R. O'Neale misses 2-pt layup from 6 ft,129-97, ,,4,97,129,-32,2840.0
+0:40.0,Offensive rebound by Team,129-97, ,,4,97,129,-32,2840.0
+0:34.0,Y. Watanabe misses 3-pt jump shot from 25 ft,129-97, ,,4,97,129,-32,2846.0
+0:31.0, ,129-97,Defensive rebound by O. Yurtseven,,4,97,129,-32,2849.0
+0:25.0, ,129-99,O. Yurtseven makes 2-pt layup from 3 ft (assist by M. Strus),,4,99,129,-30,2855.0
+0:25.0, ,129-99,Shooting foul by Y. Watanabe (drawn by O. Yurtseven),,4,99,129,-30,2855.0
+0:25.0, ,129-100,O. Yurtseven makes free throw 1 of 1,,4,100,129,-29,2855.0
+0:01.0,Turnover by Team (shot clock),129-100, ,,4,100,129,-29,2879.0
+0:00.0,End of 4th quarter,129-100,,,4,100,129,-29,2880.0

@@ -1,0 +1,435 @@
+Time,Memphis,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Jackson vs. B. Adebayo (T. Jones gains possession),0-0,,,1,0,0,0,0.0
+11:41.0,D. Bane misses 2-pt layup from 1 ft (block by B. Adebayo),0-0, ,,1,0,0,0,19.0
+11:40.0,Offensive rebound by J. Jackson,0-0, ,,1,0,0,0,20.0
+11:37.0,J. Jackson misses 2-pt layup from 4 ft,0-0, ,,1,0,0,0,23.0
+11:36.0, ,0-0,Defensive rebound by K. Love,,1,0,0,0,24.0
+11:18.0, ,0-0,K. Love misses 3-pt jump shot from 26 ft,,1,0,0,0,42.0
+11:15.0,Defensive rebound by T. Jones,0-0, ,,1,0,0,0,45.0
+11:11.0,Turnover by D. Bane (traveling),0-0, ,,1,0,0,0,49.0
+10:58.0, ,0-0,G. Vincent misses 2-pt jump shot from 10 ft,,1,0,0,0,62.0
+10:55.0,Defensive rebound by J. Jackson,0-0, ,,1,0,0,0,65.0
+10:50.0,D. Brooks makes 2-pt jump shot from 10 ft,2-0, ,,1,0,2,-2,70.0
+10:50.0,Shooting foul by G. Vincent (drawn by D. Brooks),2-0, ,,1,0,2,-2,70.0
+10:50.0,D. Brooks misses free throw 1 of 1,2-0, ,,1,0,2,-2,70.0
+10:46.0, ,2-0,Defensive rebound by K. Love,,1,0,2,-2,74.0
+10:29.0, ,2-2,B. Adebayo makes 2-pt jump shot from 6 ft (assist by G. Vincent),Tie,1,2,2,0,91.0
+10:20.0,D. Bane makes 2-pt layup from 3 ft (assist by X. Tillman),4-2, ,,1,2,4,-2,100.0
+10:04.0, ,4-2,J. Butler misses 2-pt hook shot from 4 ft,,1,2,4,-2,116.0
+10:02.0,Defensive rebound by X. Tillman,4-2, ,,1,2,4,-2,118.0
+9:56.0,J. Jackson misses 3-pt jump shot from 26 ft,4-2, ,,1,2,4,-2,124.0
+9:53.0, ,4-2,Defensive rebound by J. Butler,,1,2,4,-2,127.0
+9:46.0, ,4-4,J. Butler makes 2-pt layup from 1 ft,Tie,1,4,4,0,134.0
+9:36.0,X. Tillman misses 2-pt layup from 3 ft (block by B. Adebayo),4-4, ,,1,4,4,0,144.0
+9:31.0,Offensive rebound by J. Jackson,4-4, ,,1,4,4,0,149.0
+9:29.0,J. Jackson makes 2-pt hook shot from 8 ft,6-4, ,,1,4,6,-2,151.0
+9:17.0, ,6-4,T. Herro misses 3-pt jump shot from 26 ft,,1,4,6,-2,163.0
+9:16.0,Defensive rebound by T. Jones,6-4, ,,1,4,6,-2,164.0
+9:09.0,T. Jones makes 2-pt layup from 2 ft,8-4, ,,1,4,8,-4,171.0
+8:58.0, ,8-4,K. Love misses 3-pt jump shot from 26 ft,,1,4,8,-4,182.0
+8:52.0,Defensive rebound by D. Brooks,8-4, ,,1,4,8,-4,188.0
+8:49.0,D. Brooks misses 2-pt layup from 2 ft,8-4, ,,1,4,8,-4,191.0
+8:46.0, ,8-4,Defensive rebound by K. Love,,1,4,8,-4,194.0
+8:35.0, ,8-4,Offensive foul by B. Adebayo (drawn by D. Bane),,1,4,8,-4,205.0
+8:35.0, ,8-4,Turnover by B. Adebayo (offensive foul),,1,4,8,-4,205.0
+8:21.0,Turnover by D. Bane (lost ball; steal by J. Butler),8-4, ,,1,4,8,-4,219.0
+8:18.0, ,8-6,J. Butler makes 2-pt layup from 1 ft,,1,6,8,-2,222.0
+8:08.0,Turnover by J. Jackson (traveling),8-6, ,,1,6,8,-2,232.0
+7:55.0, ,8-6,J. Butler misses 2-pt jump shot from 10 ft,,1,6,8,-2,245.0
+7:54.0, ,8-6,Offensive rebound by J. Butler,,1,6,8,-2,246.0
+7:52.0, ,8-6,Shooting foul by X. Tillman (drawn by J. Butler),,1,6,8,-2,248.0
+7:52.0, ,8-6,J. Butler misses free throw 1 of 2,,1,6,8,-2,248.0
+7:52.0, ,8-6,Offensive rebound by Team,,1,6,8,-2,248.0
+7:52.0, ,8-7,J. Butler makes free throw 2 of 2,,1,7,8,-1,248.0
+7:29.0,J. Jackson misses 2-pt jump shot from 5 ft,8-7, ,,1,7,8,-1,271.0
+7:26.0, ,8-7,Defensive rebound by B. Adebayo,,1,7,8,-1,274.0
+7:15.0, ,8-7,Turnover by K. Love (bad pass),,1,7,8,-1,285.0
+6:59.0,J. Jackson makes 3-pt jump shot from 25 ft (assist by T. Jones),11-7, ,,1,7,11,-4,301.0
+6:48.0, ,11-7,T. Herro misses 3-pt jump shot from 28 ft,,1,7,11,-4,312.0
+6:43.0,Defensive rebound by T. Jones,11-7, ,,1,7,11,-4,317.0
+6:37.0,T. Jones misses 2-pt jump shot from 2 ft,11-7, ,,1,7,11,-4,323.0
+6:35.0, ,11-7,Defensive rebound by K. Love,,1,7,11,-4,325.0
+6:29.0, ,11-10,G. Vincent makes 3-pt jump shot from 27 ft (assist by K. Love),,1,10,11,-1,331.0
+6:27.0,Memphis full timeout,11-10, ,,1,10,11,-1,333.0
+6:27.0,Technical foul by T. Jenkins,11-10, ,,1,10,11,-1,333.0
+6:27.0,S. Aldama enters the game for X. Tillman,11-10, ,,1,10,11,-1,333.0
+6:27.0, ,11-11,J. Butler makes technical free throw,Tie,1,11,11,0,333.0
+6:08.0,J. Jackson makes 2-pt layup from 3 ft (assist by S. Aldama),13-11, ,,1,11,13,-2,352.0
+5:54.0, ,13-11,B. Adebayo misses 2-pt jump shot from 11 ft,,1,11,13,-2,366.0
+5:52.0,Defensive rebound by J. Jackson,13-11, ,,1,11,13,-2,368.0
+5:52.0,J. Konchar enters the game for D. Bane,13-11, ,,1,11,13,-2,368.0
+5:52.0, ,13-11,M. Strus enters the game for B. Adebayo,,1,11,13,-2,368.0
+5:52.0, ,13-11,O. Yurtseven enters the game for T. Herro,,1,11,13,-2,368.0
+5:48.0,Jump ball: J. Jackson vs. K. Love (D. Brooks gains possession),13-11,,,1,11,13,-2,372.0
+5:46.0,Personal foul by O. Yurtseven (drawn by J. Jackson),13-11, ,,1,11,13,-2,374.0
+5:37.0,J. Jackson makes 2-pt hook shot from 6 ft,15-11, ,,1,11,15,-4,383.0
+5:18.0, ,15-11,K. Love misses 3-pt jump shot from 27 ft,,1,11,15,-4,402.0
+5:15.0,Defensive rebound by J. Jackson,15-11, ,,1,11,15,-4,405.0
+5:11.0,Turnover by D. Brooks (discontinued dribble),15-11, ,,1,11,15,-4,409.0
+4:54.0, ,15-14,K. Love makes 3-pt jump shot from 25 ft (assist by J. Butler),,1,14,15,-1,426.0
+4:43.0,Personal foul by O. Yurtseven (drawn by J. Jackson),15-14, ,,1,14,15,-1,437.0
+4:34.0,T. Jones makes 2-pt layup from 2 ft,17-14, ,,1,14,17,-3,446.0
+4:34.0, ,17-14,Miami full timeout,,1,14,17,-3,446.0
+4:11.0, ,17-16,J. Butler makes 2-pt jump shot from 12 ft,,1,16,17,-1,469.0
+3:57.0,J. Jackson makes 3-pt jump shot from 28 ft (assist by T. Jones),20-16, ,,1,16,20,-4,483.0
+3:41.0, ,20-16,Turnover by G. Vincent (lost ball; steal by J. Jackson),,1,16,20,-4,499.0
+3:41.0,Personal foul by O. Yurtseven (drawn by D. Brooks),20-16, ,,1,16,20,-4,499.0
+3:41.0, ,20-16,B. Adebayo enters the game for K. Love,,1,16,20,-4,499.0
+3:41.0, ,20-16,C. Martin enters the game for O. Yurtseven,,1,16,20,-4,499.0
+3:27.0,S. Aldama misses 3-pt jump shot from 25 ft,20-16, ,,1,16,20,-4,513.0
+3:24.0, ,20-16,Defensive rebound by J. Butler,,1,16,20,-4,516.0
+3:11.0, ,20-16,J. Butler misses 2-pt jump shot from 10 ft,,1,16,20,-4,529.0
+3:08.0,Defensive rebound by J. Jackson,20-16, ,,1,16,20,-4,532.0
+3:04.0,J. Jackson misses 3-pt jump shot from 25 ft,20-16, ,,1,16,20,-4,536.0
+3:00.0,Offensive rebound by J. Konchar,20-16, ,,1,16,20,-4,540.0
+2:58.0,T. Jones misses 3-pt jump shot from 26 ft,20-16, ,,1,16,20,-4,542.0
+2:54.0, ,20-16,Defensive rebound by G. Vincent,,1,16,20,-4,546.0
+2:54.0,D. Bane enters the game for J. Jackson,20-16, ,,1,16,20,-4,546.0
+2:54.0,X. Tillman enters the game for T. Jones,20-16, ,,1,16,20,-4,546.0
+2:54.0, ,20-16,T. Herro enters the game for G. Vincent,,1,16,20,-4,546.0
+2:34.0, ,20-19,C. Martin makes 3-pt jump shot from 24 ft (assist by T. Herro),,1,19,20,-1,566.0
+2:15.0,S. Aldama misses 3-pt jump shot from 26 ft,20-19, ,,1,19,20,-1,585.0
+2:11.0,Offensive rebound by X. Tillman,20-19, ,,1,19,20,-1,589.0
+2:10.0,X. Tillman makes 2-pt layup from 2 ft,22-19, ,,1,19,22,-3,590.0
+1:59.0, ,22-21,B. Adebayo makes 2-pt jump shot from 10 ft,,1,21,22,-1,601.0
+1:47.0,J. Konchar makes 3-pt jump shot from 23 ft (assist by X. Tillman),25-21, ,,1,21,25,-4,613.0
+1:31.0, ,25-21,M. Strus misses 3-pt jump shot from 24 ft,,1,21,25,-4,629.0
+1:28.0,Defensive rebound by D. Brooks,25-21, ,,1,21,25,-4,632.0
+1:24.0,J. Konchar misses 3-pt jump shot from 23 ft,25-21, ,,1,21,25,-4,636.0
+1:21.0, ,25-21,Defensive rebound by C. Martin,,1,21,25,-4,639.0
+1:13.0, ,25-23,T. Herro makes 2-pt jump shot from 7 ft,,1,23,25,-2,647.0
+1:01.0,D. Brooks misses 3-pt jump shot from 25 ft,25-23, ,,1,23,25,-2,659.0
+0:58.0, ,25-23,Defensive rebound by B. Adebayo,,1,23,25,-2,662.0
+0:50.0, ,25-23,Shooting foul by D. Brooks (drawn by J. Butler),,1,23,25,-2,670.0
+0:50.0, ,25-24,J. Butler makes free throw 1 of 2,,1,24,25,-1,670.0
+0:50.0, ,25-25,J. Butler makes free throw 2 of 2,Tie,1,25,25,0,670.0
+0:33.0,D. Bane makes 2-pt jump shot from 9 ft,27-25, ,,1,25,27,-2,687.0
+0:28.0, ,27-25,Personal foul by J. Konchar (drawn by J. Butler),,1,25,27,-2,692.0
+0:28.0, ,27-26,J. Butler makes free throw 1 of 2,,1,26,27,-1,692.0
+0:28.0, ,27-27,J. Butler makes free throw 2 of 2,Tie,1,27,27,0,692.0
+0:10.0,Turnover by D. Bane (bad pass; steal by J. Butler),27-27, ,,1,27,27,0,710.0
+0:06.0, ,27-27,Shooting foul by D. Bane (drawn by J. Butler),,1,27,27,0,714.0
+0:06.0, ,27-28,J. Butler makes free throw 1 of 2,Lead change,1,28,27,1,714.0
+0:06.0, ,27-29,J. Butler makes free throw 2 of 2,,1,29,27,2,714.0
+0:06.0,T. Jones enters the game for X. Tillman,27-29, ,,1,29,27,2,714.0
+0:00.0,T. Jones misses 2-pt jump shot from 12 ft,27-29, ,,1,29,27,2,720.0
+0:00.0,Offensive rebound by Team,27-29, ,,1,29,27,2,720.0
+0:00.0,End of 1st quarter,27-29,,,1,29,27,2,720.0
+12:00.0,Start of 2nd quarter,27-29,,,2,29,27,2,720.0
+11:45.0, ,27-31,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),,2,31,27,4,735.0
+11:20.0,D. Roddy misses 2-pt jump shot from 17 ft,27-31, ,,2,31,27,4,760.0
+11:16.0, ,27-31,Defensive rebound by T. Herro,,2,31,27,4,764.0
+11:00.0, ,27-31,K. Lowry misses 3-pt jump shot from 25 ft,,2,31,27,4,780.0
+10:56.0,Defensive rebound by D. Bane,27-31, ,,2,31,27,4,784.0
+10:53.0,D. Bane misses 3-pt jump shot from 29 ft,27-31, ,,2,31,27,4,787.0
+10:49.0,Offensive rebound by S. Aldama,27-31, ,,2,31,27,4,791.0
+10:48.0,S. Aldama makes 2-pt layup from 2 ft,29-31, ,,2,31,29,2,792.0
+10:37.0, ,29-33,M. Strus makes 2-pt layup from 2 ft (assist by K. Lowry),,2,33,29,4,803.0
+10:15.0,D. Bane misses 3-pt jump shot from 26 ft,29-33, ,,2,33,29,4,825.0
+10:11.0, ,29-33,Defensive rebound by B. Adebayo,,2,33,29,4,829.0
+10:04.0, ,29-33,B. Adebayo misses 2-pt jump shot from 5 ft,,2,33,29,4,836.0
+10:01.0,Defensive rebound by D. Bane,29-33, ,,2,33,29,4,839.0
+9:58.0,D. Roddy makes 3-pt jump shot from 28 ft (assist by D. Bane),32-33, ,,2,33,32,1,842.0
+9:34.0, ,32-35,T. Herro makes 2-pt layup from 2 ft (assist by M. Strus),,2,35,32,3,866.0
+9:18.0,X. Tillman makes 2-pt dunk from 1 ft (assist by D. Bane),34-35, ,,2,35,34,1,882.0
+9:02.0, ,34-38,C. Martin makes 3-pt jump shot from 23 ft (assist by T. Herro),,2,38,34,4,898.0
+8:49.0,D. Roddy makes 3-pt jump shot from 26 ft (assist by L. Kennard),37-38, ,,2,38,37,1,911.0
+8:34.0, ,37-38,Shooting foul by L. Kennard (drawn by T. Herro),,2,38,37,1,926.0
+8:34.0, ,37-39,T. Herro makes free throw 1 of 3,,2,39,37,2,926.0
+8:34.0, ,37-40,T. Herro makes free throw 2 of 3,,2,40,37,3,926.0
+8:34.0, ,37-40,H. Highsmith enters the game for B. Adebayo,,2,40,37,3,926.0
+8:34.0, ,37-41,T. Herro makes free throw 3 of 3,,2,41,37,4,926.0
+8:17.0,X. Tillman makes 2-pt dunk from 1 ft (assist by D. Roddy),39-41, ,,2,41,39,2,943.0
+8:01.0, ,39-41,Turnover by C. Martin (bad pass; steal by L. Kennard),,2,41,39,2,959.0
+7:40.0,S. Aldama misses 3-pt jump shot from 25 ft,39-41, ,,2,41,39,2,980.0
+7:39.0, ,39-41,Defensive rebound by Team,,2,41,39,2,981.0
+7:29.0, ,39-41,T. Herro misses 2-pt jump shot from 2 ft,,2,41,39,2,991.0
+7:26.0,Defensive rebound by X. Tillman,39-41, ,,2,41,39,2,994.0
+7:20.0,S. Aldama misses 3-pt jump shot from 25 ft,39-41, ,,2,41,39,2,1000.0
+7:18.0, ,39-41,Defensive rebound by H. Highsmith,,2,41,39,2,1002.0
+7:10.0, ,39-43,T. Herro makes 2-pt jump shot from 14 ft,,2,43,39,4,1010.0
+6:55.0,D. Bane makes 3-pt jump shot from 28 ft,42-43, ,,2,43,42,1,1025.0
+6:54.0, ,42-43,Miami full timeout,,2,43,42,1,1026.0
+6:54.0,J. Jackson enters the game for S. Aldama,42-43, ,,2,43,42,1,1026.0
+6:54.0,T. Jones enters the game for D. Bane,42-43, ,,2,43,42,1,1026.0
+6:54.0,J. Konchar enters the game for X. Tillman,42-43, ,,2,43,42,1,1026.0
+6:28.0, ,42-46,K. Lowry makes 3-pt jump shot from 23 ft (assist by T. Herro),,2,46,42,4,1052.0
+6:09.0,L. Kennard misses 3-pt jump shot from 25 ft,42-46, ,,2,46,42,4,1071.0
+6:08.0,Offensive rebound by D. Roddy,42-46, ,,2,46,42,4,1072.0
+6:08.0,Shooting foul by H. Highsmith (drawn by D. Roddy),42-46, ,,2,46,42,4,1072.0
+6:08.0,D. Roddy makes free throw 1 of 2,43-46, ,,2,46,43,3,1072.0
+6:08.0,D. Roddy makes free throw 2 of 2,44-46, ,,2,46,44,2,1072.0
+5:56.0, ,44-46,Shooting foul by D. Roddy (drawn by M. Strus),,2,46,44,2,1084.0
+5:56.0, ,44-47,M. Strus makes free throw 1 of 2,,2,47,44,3,1084.0
+5:56.0,D. Brooks enters the game for L. Kennard,44-47, ,,2,47,44,3,1084.0
+5:56.0, ,44-47,J. Butler enters the game for T. Herro,,2,47,44,3,1084.0
+5:56.0, ,44-48,M. Strus makes free throw 2 of 2,,2,48,44,4,1084.0
+5:39.0,D. Roddy misses 2-pt layup from 4 ft,44-48, ,,2,48,44,4,1101.0
+5:35.0, ,44-48,Defensive rebound by M. Strus,,2,48,44,4,1105.0
+5:32.0, ,44-48,M. Strus misses 3-pt jump shot from 26 ft,,2,48,44,4,1108.0
+5:29.0,Defensive rebound by D. Roddy,44-48, ,,2,48,44,4,1111.0
+5:23.0,Turnover by D. Brooks (traveling),44-48, ,,2,48,44,4,1117.0
+4:57.0, ,44-50,K. Lowry makes 2-pt layup from 3 ft (assist by M. Strus),,2,50,44,6,1143.0
+4:37.0,J. Konchar misses 3-pt jump shot from 24 ft,44-50, ,,2,50,44,6,1163.0
+4:33.0, ,44-50,Defensive rebound by J. Butler,,2,50,44,6,1167.0
+4:21.0, ,44-50,J. Butler misses 2-pt jump shot from 13 ft,,2,50,44,6,1179.0
+4:18.0, ,44-50,Offensive rebound by H. Highsmith,,2,50,44,6,1182.0
+4:16.0, ,44-53,M. Strus makes 3-pt jump shot from 26 ft (assist by K. Lowry),,2,53,44,9,1184.0
+4:16.0,Memphis full timeout,44-53, ,,2,53,44,9,1184.0
+4:16.0, ,44-53,B. Adebayo enters the game for H. Highsmith,,2,53,44,9,1184.0
+3:51.0,J. Jackson makes 2-pt jump shot from 8 ft,46-53, ,,2,53,46,7,1209.0
+3:34.0, ,46-53,Shooting foul by D. Brooks (drawn by J. Butler),,2,53,46,7,1226.0
+3:34.0, ,46-54,J. Butler makes free throw 1 of 2,,2,54,46,8,1226.0
+3:34.0, ,46-55,J. Butler makes free throw 2 of 2,,2,55,46,9,1226.0
+3:19.0,D. Roddy misses 3-pt jump shot from 23 ft,46-55, ,,2,55,46,9,1241.0
+3:17.0, ,46-55,Defensive rebound by B. Adebayo,,2,55,46,9,1243.0
+3:09.0, ,46-55,B. Adebayo misses 2-pt layup from 1 ft,,2,55,46,9,1251.0
+3:08.0, ,46-55,Offensive rebound by J. Butler,,2,55,46,9,1252.0
+3:06.0, ,46-57,J. Butler makes 2-pt layup from 1 ft,,2,57,46,11,1254.0
+2:44.0,D. Brooks misses 3-pt jump shot from 27 ft,46-57, ,,2,57,46,11,1276.0
+2:40.0,Offensive rebound by J. Konchar,46-57, ,,2,57,46,11,1280.0
+2:40.0,Turnover by J. Konchar (bad pass),46-57, ,,2,57,46,11,1280.0
+2:40.0,D. Bane enters the game for J. Konchar,46-57, ,,2,57,46,11,1280.0
+2:40.0,X. Tillman enters the game for D. Roddy,46-57, ,,2,57,46,11,1280.0
+2:40.0, ,46-57,G. Vincent enters the game for K. Lowry,,2,57,46,11,1280.0
+2:25.0, ,46-57,B. Adebayo misses 2-pt layup from 2 ft,,2,57,46,11,1295.0
+2:24.0, ,46-57,Offensive rebound by B. Adebayo,,2,57,46,11,1296.0
+2:24.0, ,46-59,B. Adebayo makes 2-pt layup at rim,,2,59,46,13,1296.0
+2:24.0,Memphis full timeout,46-59, ,,2,59,46,13,1296.0
+2:24.0, ,46-59,T. Herro enters the game for M. Strus,,2,59,46,13,1296.0
+2:06.0,D. Bane makes 3-pt jump shot from 25 ft (assist by D. Brooks),49-59, ,,2,59,49,10,1314.0
+1:47.0, ,49-59,Shooting foul by D. Brooks (drawn by B. Adebayo),,2,59,49,10,1333.0
+1:47.0, ,49-60,B. Adebayo makes free throw 1 of 2,,2,60,49,11,1333.0
+1:47.0,D. Roddy enters the game for D. Brooks,49-60, ,,2,60,49,11,1333.0
+1:47.0, ,49-61,B. Adebayo makes free throw 2 of 2,,2,61,49,12,1333.0
+1:34.0,D. Roddy misses 3-pt jump shot from 28 ft,49-61, ,,2,61,49,12,1346.0
+1:34.0, ,49-61,Defensive rebound by Team,,2,61,49,12,1346.0
+1:11.0, ,49-61,B. Adebayo misses 2-pt jump shot from 18 ft,,2,61,49,12,1369.0
+1:09.0,Defensive rebound by D. Bane,49-61, ,,2,61,49,12,1371.0
+0:59.0,X. Tillman makes 2-pt jump shot from 7 ft (assist by T. Jones),51-61, ,,2,61,51,10,1381.0
+0:55.0,Violation by Team (kicked ball),51-61, ,,2,61,51,10,1385.0
+0:46.0, ,51-61,T. Herro misses 3-pt jump shot from 25 ft,,2,61,51,10,1394.0
+0:44.0,Defensive rebound by J. Jackson,51-61, ,,2,61,51,10,1396.0
+0:31.0,D. Bane misses 3-pt jump shot from 24 ft,51-61, ,,2,61,51,10,1409.0
+0:28.0,Offensive rebound by J. Jackson,51-61, ,,2,61,51,10,1412.0
+0:26.0,T. Jones misses 3-pt jump shot from 24 ft,51-61, ,,2,61,51,10,1414.0
+0:24.0, ,51-61,Defensive rebound by J. Butler,,2,61,51,10,1416.0
+0:21.0, ,51-63,B. Adebayo makes 2-pt dunk at rim (assist by J. Butler),,2,63,51,12,1419.0
+0:21.0, ,51-63,Shooting foul by D. Bane (drawn by B. Adebayo),,2,63,51,12,1419.0
+0:21.0, ,51-63,B. Adebayo misses free throw 1 of 1,,2,63,51,12,1419.0
+0:18.0,Defensive rebound by D. Bane,51-63, ,,2,63,51,12,1422.0
+0:02.0,Turnover by T. Jones (bad pass),51-63, ,,2,63,51,12,1438.0
+0:00.0,End of 2nd quarter,51-63,,,2,63,51,12,1440.0
+12:00.0,Start of 3rd quarter,51-63,,,3,63,51,12,1440.0
+12:00.0, ,51-63,Violation by Team (delay of game),,3,63,51,12,1440.0
+11:41.0, ,51-63,J. Butler misses 2-pt layup from 4 ft (block by J. Jackson),,3,63,51,12,1459.0
+11:37.0, ,51-63,Offensive rebound by J. Butler,,3,63,51,12,1463.0
+11:36.0, ,51-65,J. Butler makes 2-pt layup from 4 ft,,3,65,51,14,1464.0
+11:20.0,J. Jackson makes 2-pt layup from 3 ft,53-65, ,,3,65,53,12,1480.0
+10:56.0, ,53-67,T. Herro makes 2-pt jump shot from 15 ft,,3,67,53,14,1504.0
+10:48.0,Personal foul by T. Herro (drawn by D. Brooks),53-67, ,,3,67,53,14,1512.0
+10:48.0, ,53-67,Technical foul by T. Herro,,3,67,53,14,1512.0
+10:48.0,D. Bane makes technical free throw,54-67, ,,3,67,54,13,1512.0
+10:39.0,D. Bane misses 2-pt layup from 2 ft (block by J. Butler),54-67, ,,3,67,54,13,1521.0
+10:34.0, ,54-67,Defensive rebound by T. Herro,,3,67,54,13,1526.0
+10:31.0, ,54-67,Turnover by J. Butler (bad pass; steal by D. Bane),,3,67,54,13,1529.0
+10:26.0,Turnover by D. Bane (bad pass; steal by G. Vincent),54-67, ,,3,67,54,13,1534.0
+10:16.0, ,54-70,K. Love makes 3-pt jump shot from 25 ft (assist by J. Butler),,3,70,54,16,1544.0
+10:00.0,D. Bane misses 3-pt jump shot from 24 ft,54-70, ,,3,70,54,16,1560.0
+9:56.0, ,54-70,Defensive rebound by K. Love,,3,70,54,16,1564.0
+9:49.0, ,54-70,T. Herro misses 3-pt jump shot from 26 ft,,3,70,54,16,1571.0
+9:45.0,Defensive rebound by J. Jackson,54-70, ,,3,70,54,16,1575.0
+9:31.0,D. Brooks makes 3-pt jump shot from 27 ft (assist by D. Bane),57-70, ,,3,70,57,13,1589.0
+9:14.0, ,57-73,T. Herro makes 3-pt jump shot from 23 ft (assist by K. Love),,3,73,57,16,1606.0
+8:55.0,J. Jackson makes 3-pt jump shot from 24 ft (assist by T. Jones),60-73, ,,3,73,60,13,1625.0
+8:44.0, ,60-73,K. Love misses 3-pt jump shot from 26 ft,,3,73,60,13,1636.0
+8:41.0,Defensive rebound by T. Jones,60-73, ,,3,73,60,13,1639.0
+8:36.0,D. Bane misses 3-pt jump shot from 27 ft,60-73, ,,3,73,60,13,1644.0
+8:32.0, ,60-73,Defensive rebound by B. Adebayo,,3,73,60,13,1648.0
+8:16.0, ,60-75,G. Vincent makes 2-pt jump shot from 19 ft,,3,75,60,15,1664.0
+8:05.0,T. Jones makes 2-pt layup from 1 ft (assist by X. Tillman),62-75, ,,3,75,62,13,1675.0
+7:48.0, ,62-77,B. Adebayo makes 2-pt jump shot from 11 ft (assist by K. Love),,3,77,62,15,1692.0
+7:36.0,T. Jones makes 2-pt jump shot from 1 ft,64-77, ,,3,77,64,13,1704.0
+7:33.0, ,64-79,J. Butler makes 2-pt layup from 2 ft (assist by T. Herro),,3,79,64,15,1707.0
+7:33.0, ,64-79,Shooting foul by X. Tillman (drawn by J. Butler),,3,79,64,15,1707.0
+7:33.0,Memphis full timeout,64-79, ,,3,79,64,15,1707.0
+7:33.0, ,64-80,J. Butler makes free throw 1 of 1,,3,80,64,16,1707.0
+7:15.0,J. Jackson makes 2-pt layup from 1 ft,66-80, ,,3,80,66,14,1725.0
+7:15.0,Shooting foul by K. Love (drawn by J. Jackson),66-80, ,,3,80,66,14,1725.0
+7:15.0,J. Jackson misses free throw 1 of 1,66-80, ,,3,80,66,14,1725.0
+7:13.0, ,66-80,Defensive rebound by Team,,3,80,66,14,1727.0
+7:12.0,Loose ball foul by J. Jackson (drawn by B. Adebayo),66-80, ,,3,80,66,14,1728.0
+6:59.0, ,66-80,Violation by Team (kicked ball),,3,80,66,14,1741.0
+6:44.0, ,66-80,Flagrant foul type 2 by D. Bane (drawn by K. Love),,3,80,66,14,1756.0
+6:44.0,Turnover by D. Bane (offensive foul),66-80, ,,3,80,66,14,1756.0
+6:44.0,Instant Replay (Request: Ruling Stands),66-80, ,,3,80,66,14,1756.0
+6:44.0,D. Bane ejected from game,66-80, ,,3,80,66,14,1756.0
+6:44.0, ,66-80,K. Love misses flagrant free throw 1 of 2,,3,80,66,14,1756.0
+6:44.0, ,66-80,Offensive rebound by Team,,3,80,66,14,1756.0
+6:44.0, ,66-81,K. Love makes flagrant free throw 2 of 2,,3,81,66,15,1756.0
+6:44.0,D. Roddy enters the game for D. Bane,66-81, ,,3,81,66,15,1756.0
+6:35.0, ,66-83,T. Herro makes 2-pt jump shot from 12 ft (assist by B. Adebayo),,3,83,66,17,1765.0
+6:21.0,J. Jackson makes 3-pt jump shot from 26 ft (assist by T. Jones),69-83, ,,3,83,69,14,1779.0
+6:02.0, ,69-83,Turnover by T. Herro (out of bounds lost ball),,3,83,69,14,1798.0
+5:51.0,X. Tillman misses 2-pt hook shot from 5 ft,69-83, ,,3,83,69,14,1809.0
+5:48.0, ,69-83,Defensive rebound by K. Love,,3,83,69,14,1812.0
+5:47.0, ,69-83,Turnover by G. Vincent (step out of bounds),,3,83,69,14,1813.0
+5:34.0,J. Jackson misses 3-pt jump shot from 26 ft,69-83, ,,3,83,69,14,1826.0
+5:31.0, ,69-83,Defensive rebound by T. Herro,,3,83,69,14,1829.0
+5:19.0, ,69-86,G. Vincent makes 3-pt jump shot from 24 ft (assist by J. Butler),,3,86,69,17,1841.0
+5:06.0,Shooting foul by K. Love (drawn by J. Jackson),69-86, ,,3,86,69,17,1854.0
+5:06.0,J. Jackson makes free throw 1 of 2,70-86, ,,3,86,70,16,1854.0
+5:06.0,S. Aldama enters the game for X. Tillman,70-86, ,,3,86,70,16,1854.0
+5:06.0, ,70-86,H. Highsmith enters the game for B. Adebayo,,3,86,70,16,1854.0
+5:06.0, ,70-86,M. Strus enters the game for T. Herro,,3,86,70,16,1854.0
+5:06.0,J. Jackson misses free throw 2 of 2,70-86, ,,3,86,70,16,1854.0
+5:02.0, ,70-86,Defensive rebound by H. Highsmith,,3,86,70,16,1858.0
+4:51.0, ,70-88,G. Vincent makes 2-pt jump shot from 18 ft,,3,88,70,18,1869.0
+4:32.0,D. Brooks makes 2-pt jump shot from 16 ft,72-88, ,,3,88,72,16,1888.0
+4:16.0, ,72-91,K. Love makes 3-pt jump shot from 25 ft (assist by J. Butler),,3,91,72,19,1904.0
+4:16.0,Memphis full timeout,72-91, ,,3,91,72,19,1904.0
+3:52.0,S. Aldama makes 2-pt jump shot from 6 ft (assist by J. Jackson),74-91, ,,3,91,74,17,1928.0
+3:25.0, ,74-91,Turnover by K. Love (lost ball; steal by J. Jackson),,3,91,74,17,1955.0
+3:18.0,T. Jones makes 3-pt jump shot from 26 ft (assist by S. Aldama),77-91, ,,3,91,77,14,1962.0
+3:15.0, ,77-91,Miami full timeout,,3,91,77,14,1965.0
+3:00.0, ,77-91,H. Highsmith misses 3-pt jump shot from 24 ft,,3,91,77,14,1980.0
+2:56.0,Defensive rebound by S. Aldama,77-91, ,,3,91,77,14,1984.0
+2:51.0,S. Aldama misses 3-pt jump shot from 26 ft,77-91, ,,3,91,77,14,1989.0
+2:46.0, ,77-91,Defensive rebound by J. Butler,,3,91,77,14,1994.0
+2:42.0, ,77-94,M. Strus makes 3-pt jump shot from 23 ft (assist by H. Highsmith),,3,94,77,17,1998.0
+2:31.0,Turnover by D. Brooks (bad pass; steal by G. Vincent),77-94, ,,3,94,77,17,2009.0
+2:15.0, ,77-96,H. Highsmith makes 2-pt jump shot from 5 ft (assist by J. Butler),,3,96,77,19,2025.0
+2:15.0, ,77-96,B. Adebayo enters the game for J. Butler,,3,96,77,19,2025.0
+2:15.0, ,77-96,T. Herro enters the game for H. Highsmith,,3,96,77,19,2025.0
+2:15.0, ,77-96,K. Lowry enters the game for K. Love,,3,96,77,19,2025.0
+2:15.0, ,77-96,C. Martin enters the game for G. Vincent,,3,96,77,19,2025.0
+1:51.0,D. Brooks misses 3-pt jump shot from 25 ft,77-96, ,,3,96,77,19,2049.0
+1:48.0, ,77-96,Defensive rebound by C. Martin,,3,96,77,19,2052.0
+1:39.0, ,77-96,Shooting foul by J. Jackson (drawn by B. Adebayo),,3,96,77,19,2061.0
+1:39.0, ,77-96,B. Adebayo misses free throw 1 of 2,,3,96,77,19,2061.0
+1:39.0, ,77-96,Offensive rebound by Team,,3,96,77,19,2061.0
+1:39.0,L. Kennard enters the game for D. Brooks,77-96, ,,3,96,77,19,2061.0
+1:39.0, ,77-97,B. Adebayo makes free throw 2 of 2,,3,97,77,20,2061.0
+1:23.0,Turnover by T. Jones (bad pass; steal by T. Herro),77-97, ,,3,97,77,20,2077.0
+1:03.0, ,77-97,M. Strus misses 3-pt jump shot from 25 ft,,3,97,77,20,2097.0
+1:01.0, ,77-97,Offensive rebound by B. Adebayo,,3,97,77,20,2099.0
+1:00.0, ,77-99,C. Martin makes 2-pt layup from 3 ft (assist by B. Adebayo),,3,99,77,22,2100.0
+0:47.0,T. Jones misses 3-pt jump shot from 26 ft,77-99, ,,3,99,77,22,2113.0
+0:45.0, ,77-99,Defensive rebound by T. Herro,,3,99,77,22,2115.0
+0:45.0, ,77-99,Personal foul by T. Jones (drawn by B. Adebayo),,3,99,77,22,2115.0
+0:45.0, ,77-100,B. Adebayo makes free throw 1 of 2,,3,100,77,23,2115.0
+0:45.0, ,77-101,B. Adebayo makes free throw 2 of 2,,3,101,77,24,2115.0
+0:33.0,Turnover by T. Jones (lost ball; steal by C. Martin),77-101, ,,3,101,77,24,2127.0
+0:31.0, ,77-103,B. Adebayo makes 2-pt dunk from 1 ft (assist by M. Strus),,3,103,77,26,2129.0
+0:22.0,D. Roddy misses 3-pt jump shot from 24 ft,77-103, ,,3,103,77,26,2138.0
+0:18.0,Offensive rebound by S. Aldama,77-103, ,,3,103,77,26,2142.0
+0:15.0,S. Aldama misses 2-pt layup from 7 ft,77-103, ,,3,103,77,26,2145.0
+0:13.0, ,77-103,Defensive rebound by B. Adebayo,,3,103,77,26,2147.0
+0:01.0, ,77-105,T. Herro makes 2-pt jump shot from 19 ft,,3,105,77,28,2159.0
+0:00.0,End of 3rd quarter,77-105,,,3,105,77,28,2160.0
+12:00.0,Start of 4th quarter,77-105,,,4,105,77,28,2160.0
+11:44.0,Turnover by Z. Williams (lost ball; steal by C. Martin),77-105, ,,4,105,77,28,2176.0
+11:35.0, ,77-105,M. Strus misses 3-pt jump shot from 25 ft,,4,105,77,28,2185.0
+11:33.0,Defensive rebound by Z. Williams,77-105, ,,4,105,77,28,2187.0
+11:19.0,Z. Williams makes 2-pt dunk from 1 ft (assist by S. Aldama),79-105, ,,4,105,79,26,2201.0
+11:02.0, ,79-107,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Herro),,4,107,79,28,2218.0
+10:45.0,Shooting foul by M. Strus (drawn by S. Aldama),79-107, ,,4,107,79,28,2235.0
+10:45.0,S. Aldama makes free throw 1 of 2,80-107, ,,4,107,80,27,2235.0
+10:45.0,S. Aldama misses free throw 2 of 2,80-107, ,,4,107,80,27,2235.0
+10:41.0,Offensive rebound by S. Aldama,80-107, ,,4,107,80,27,2239.0
+10:39.0,L. Kennard makes 3-pt jump shot from 27 ft (assist by S. Aldama),83-107, ,,4,107,83,24,2241.0
+10:27.0, ,83-107,Offensive foul by B. Adebayo (drawn by Z. Williams),,4,107,83,24,2253.0
+10:27.0, ,83-107,Turnover by B. Adebayo (offensive foul),,4,107,83,24,2253.0
+10:09.0,Z. Williams makes 3-pt jump shot from 24 ft (assist by J. Konchar),86-107, ,,4,107,86,21,2271.0
+9:53.0, ,86-107,M. Strus misses 2-pt jump shot from 5 ft,,4,107,86,21,2287.0
+9:50.0,Defensive rebound by L. Kennard,86-107, ,,4,107,86,21,2290.0
+9:44.0,J. Konchar misses 3-pt jump shot from 24 ft,86-107, ,,4,107,86,21,2296.0
+9:41.0,Offensive rebound by Z. Williams,86-107, ,,4,107,86,21,2299.0
+9:37.0,Z. Williams misses 3-pt jump shot from 27 ft,86-107, ,,4,107,86,21,2303.0
+9:37.0, ,86-107,Defensive rebound by M. Strus,,4,107,86,21,2303.0
+9:25.0, ,86-107,M. Strus misses 2-pt hook shot from 5 ft,,4,107,86,21,2315.0
+9:23.0,Defensive rebound by L. Kennard,86-107, ,,4,107,86,21,2317.0
+9:21.0,Shooting foul by K. Lowry (drawn by L. Kennard),86-107, ,,4,107,86,21,2319.0
+9:21.0,L. Kennard makes free throw 1 of 2,87-107, ,,4,107,87,20,2319.0
+9:21.0,L. Kennard makes free throw 2 of 2,88-107, ,,4,107,88,19,2319.0
+9:13.0, ,88-109,T. Herro makes 2-pt jump shot from 7 ft,,4,109,88,21,2327.0
+9:13.0, ,88-109,Shooting foul by J. Konchar (drawn by T. Herro),,4,109,88,21,2327.0
+9:13.0, ,88-110,T. Herro makes free throw 1 of 1,,4,110,88,22,2327.0
+9:01.0,Personal foul by B. Adebayo (drawn by K. Lofton),88-110, ,,4,110,88,22,2339.0
+8:57.0,Offensive foul by K. Lofton (drawn by K. Lowry),88-110, ,,4,110,88,22,2343.0
+8:57.0,Turnover by K. Lofton (offensive foul),88-110, ,,4,110,88,22,2343.0
+8:43.0, ,88-110,Turnover by T. Herro (lost ball; steal by Z. Williams),,4,110,88,22,2357.0
+8:38.0,Z. Williams makes 2-pt layup from 1 ft,90-110, ,,4,110,90,20,2362.0
+8:19.0, ,90-113,T. Herro makes 3-pt jump shot from 24 ft (assist by B. Adebayo),,4,113,90,23,2381.0
+8:03.0,K. Lofton misses 2-pt layup from 2 ft (block by B. Adebayo),90-113, ,,4,113,90,23,2397.0
+8:00.0, ,90-113,Defensive rebound by K. Lowry,,4,113,90,23,2400.0
+7:52.0, ,90-113,Turnover by K. Lowry (bad pass),,4,113,90,23,2408.0
+7:52.0,K. Chandler enters the game for S. Aldama,90-113, ,,4,113,90,23,2408.0
+7:30.0,L. Kennard makes 3-pt jump shot from 26 ft (assist by K. Lofton),93-113, ,,4,113,93,20,2430.0
+7:30.0, ,93-113,Miami full timeout,,4,113,93,20,2430.0
+7:05.0, ,93-116,K. Lowry makes 3-pt jump shot from 31 ft,,4,116,93,23,2455.0
+6:47.0,L. Kennard makes 3-pt jump shot from 25 ft (assist by K. Lofton),96-116, ,,4,116,96,20,2473.0
+6:30.0, ,96-118,B. Adebayo makes 2-pt jump shot from 5 ft,,4,118,96,22,2490.0
+6:30.0, ,96-118,Shooting foul by K. Lofton (drawn by B. Adebayo),,4,118,96,22,2490.0
+6:30.0, ,96-119,B. Adebayo makes free throw 1 of 1,,4,119,96,23,2490.0
+6:16.0,Z. Williams misses 3-pt jump shot from 25 ft,96-119, ,,4,119,96,23,2504.0
+6:12.0, ,96-119,Defensive rebound by K. Lowry,,4,119,96,23,2508.0
+6:07.0, ,96-119,Turnover by K. Lowry (lost ball; steal by J. Konchar),,4,119,96,23,2513.0
+6:00.0,Personal foul by K. Lowry (drawn by L. Kennard),96-119, ,,4,119,96,23,2520.0
+5:51.0,Z. Williams makes 2-pt jump shot from 6 ft (assist by K. Chandler),98-119, ,,4,119,98,21,2529.0
+5:31.0, ,98-121,B. Adebayo makes 2-pt jump shot from 13 ft (assist by K. Lowry),,4,121,98,23,2549.0
+5:20.0,K. Lofton misses 2-pt layup from 1 ft,98-121, ,,4,121,98,23,2560.0
+5:18.0, ,98-121,Defensive rebound by K. Lowry,,4,121,98,23,2562.0
+5:17.0, ,98-123,C. Martin makes 2-pt dunk from 1 ft (assist by M. Strus),,4,123,98,25,2563.0
+5:17.0, ,98-123,Shooting foul by L. Kennard (drawn by C. Martin),,4,123,98,25,2563.0
+5:17.0, ,98-123,H. Highsmith enters the game for B. Adebayo,,4,123,98,25,2563.0
+5:17.0, ,98-124,C. Martin makes free throw 1 of 1,,4,124,98,26,2563.0
+5:06.0,K. Lofton makes 2-pt layup from 1 ft (assist by K. Chandler),100-124, ,,4,124,100,24,2574.0
+4:49.0, ,100-126,H. Highsmith makes 2-pt jump shot from 5 ft (assist by M. Strus),,4,126,100,26,2591.0
+4:44.0,Personal take foul by T. Herro (drawn by K. Chandler),100-126, ,,4,126,100,26,2596.0
+4:44.0,K. Chandler misses free throw 1 of 2,100-126, ,,4,126,100,26,2596.0
+4:44.0,Offensive rebound by Team,100-126, ,,4,126,100,26,2596.0
+4:44.0, ,100-126,O. Yurtseven enters the game for T. Herro,,4,126,100,26,2596.0
+4:44.0,K. Chandler makes free throw 2 of 2,101-126, ,,4,126,101,25,2596.0
+4:39.0, ,101-126,M. Strus misses 2-pt dunk from 1 ft,,4,126,101,25,2601.0
+4:35.0,Defensive rebound by J. Konchar,101-126, ,,4,126,101,25,2605.0
+4:34.0,Z. Williams makes 2-pt layup from 2 ft (assist by J. Konchar),103-126, ,,4,126,103,23,2606.0
+4:34.0,Shooting foul by C. Martin (drawn by Z. Williams),103-126, ,,4,126,103,23,2606.0
+4:34.0,Z. Williams makes free throw 1 of 1,104-126, ,,4,126,104,22,2606.0
+4:22.0, ,104-126,Shooting foul by Z. Williams (drawn by H. Highsmith),,4,126,104,22,2618.0
+4:22.0, ,104-127,H. Highsmith makes free throw 1 of 2,,4,127,104,23,2618.0
+4:22.0, ,104-127,H. Highsmith misses free throw 2 of 2,,4,127,104,23,2618.0
+4:19.0, ,104-127,Offensive rebound by H. Highsmith,,4,127,104,23,2621.0
+4:12.0, ,104-129,O. Yurtseven makes 2-pt jump shot from 4 ft (assist by K. Lowry),,4,129,104,25,2628.0
+3:58.0,Turnover by Z. Williams (lost ball; steal by H. Highsmith),104-129, ,,4,129,104,25,2642.0
+3:52.0, ,104-131,M. Strus makes 2-pt layup from 3 ft (assist by H. Highsmith),,4,131,104,27,2648.0
+3:43.0,L. Kennard makes 3-pt jump shot from 25 ft (assist by K. Chandler),107-131, ,,4,131,107,24,2657.0
+3:29.0, ,107-131,O. Yurtseven misses 2-pt dunk from 1 ft,,4,131,107,24,2671.0
+3:29.0,Defensive rebound by K. Lofton,107-131, ,,4,131,107,24,2671.0
+3:19.0,J. Konchar misses 2-pt jump shot from 8 ft,107-131, ,,4,131,107,24,2681.0
+3:19.0, ,107-131,Defensive rebound by K. Lowry,,4,131,107,24,2681.0
+3:19.0, ,107-131,D. Robinson enters the game for K. Lowry,,4,131,107,24,2681.0
+2:59.0, ,107-131,C. Martin misses 3-pt jump shot from 26 ft,,4,131,107,24,2701.0
+2:55.0,Defensive rebound by K. Lofton,107-131, ,,4,131,107,24,2705.0
+2:45.0,K. Lofton makes 3-pt jump shot from 26 ft (assist by Z. Williams),110-131, ,,4,131,110,21,2715.0
+2:23.0, ,110-133,D. Robinson makes 2-pt layup from 2 ft (assist by H. Highsmith),,4,133,110,23,2737.0
+2:06.0,Z. Williams misses 2-pt jump shot from 15 ft,110-133, ,,4,133,110,23,2754.0
+2:02.0, ,110-133,Defensive rebound by D. Robinson,,4,133,110,23,2758.0
+1:43.0, ,110-133,D. Robinson misses 2-pt hook shot from 9 ft,,4,133,110,23,2777.0
+1:40.0,Defensive rebound by J. Konchar,110-133, ,,4,133,110,23,2780.0
+1:39.0,K. Lofton makes 3-pt jump shot from 25 ft (assist by J. Konchar),113-133, ,,4,133,113,20,2781.0
+1:26.0, ,113-135,H. Highsmith makes 2-pt dunk from 1 ft (assist by M. Strus),,4,135,113,22,2794.0
+1:19.0,K. Chandler makes 2-pt jump shot from 9 ft,115-135, ,,4,135,115,20,2801.0
+1:07.0, ,115-135,Personal foul by K. Lofton (drawn by O. Yurtseven),,4,135,115,20,2813.0
+1:07.0,Memphis full timeout,115-135, ,,4,135,115,20,2813.0
+1:07.0, ,115-135,O. Yurtseven misses free throw 1 of 2,,4,135,115,20,2813.0
+1:07.0, ,115-135,Offensive rebound by Team,,4,135,115,20,2813.0
+1:07.0, ,115-136,O. Yurtseven makes free throw 2 of 2,,4,136,115,21,2813.0
+0:52.0,L. Kennard misses 2-pt jump shot from 11 ft (block by O. Yurtseven),115-136, ,,4,136,115,21,2828.0
+0:50.0,Offensive rebound by K. Lofton,115-136, ,,4,136,115,21,2830.0
+0:49.0,K. Lofton makes 2-pt layup from 2 ft,117-136, ,,4,136,117,19,2831.0
+0:36.0, ,117-136,D. Robinson misses 3-pt jump shot from 26 ft,,4,136,117,19,2844.0
+0:31.0, ,117-136,Offensive rebound by C. Martin,,4,136,117,19,2849.0
+0:22.0, ,117-138,O. Yurtseven makes 2-pt layup from 2 ft (assist by C. Martin),,4,138,117,21,2858.0
+0:08.0,K. Chandler makes 2-pt layup from 2 ft (assist by J. Konchar),119-138, ,,4,138,119,19,2872.0
+0:00.0,End of 4th quarter,119-138,,,4,138,119,19,2880.0

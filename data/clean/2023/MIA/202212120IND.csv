@@ -1,0 +1,444 @@
+Time,Miami,Score,Indiana,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. M. Turner (T. Herro gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,Shooting foul by A. Nembhard (drawn by J. Butler),0-0, ,,1,0,0,0,15.0
+11:45.0,J. Butler makes free throw 1 of 2,1-0, ,,1,1,0,1,15.0
+11:45.0,J. Butler makes free throw 2 of 2,2-0, ,,1,2,0,2,15.0
+11:32.0, ,2-3,A. Nesmith makes 3-pt jump shot from 23 ft (assist by A. Nembhard),Lead change,1,2,3,-1,28.0
+11:19.0,K. Lowry misses 3-pt jump shot from 24 ft,2-3, ,,1,2,3,-1,41.0
+11:16.0, ,2-3,Defensive rebound by M. Turner,,1,2,3,-1,44.0
+11:08.0, ,2-3,Turnover by A. Nembhard (lost ball; steal by J. Butler),,1,2,3,-1,52.0
+11:05.0,J. Butler misses 2-pt layup from 3 ft,2-3, ,,1,2,3,-1,55.0
+11:02.0, ,2-3,Defensive rebound by T. Haliburton,,1,2,3,-1,58.0
+10:57.0, ,2-3,M. Turner misses 2-pt layup from 4 ft,,1,2,3,-1,63.0
+10:55.0,Defensive rebound by B. Adebayo,2-3, ,,1,2,3,-1,65.0
+10:51.0,B. Adebayo misses 2-pt layup from 2 ft,2-3, ,,1,2,3,-1,69.0
+10:48.0, ,2-3,Defensive rebound by B. Hield,,1,2,3,-1,72.0
+10:41.0, ,2-3,B. Hield misses 3-pt jump shot from 24 ft,,1,2,3,-1,79.0
+10:37.0,Defensive rebound by C. Martin,2-3, ,,1,2,3,-1,83.0
+10:25.0,B. Adebayo makes 2-pt jump shot from 10 ft (assist by T. Herro),4-3, ,Lead change,1,4,3,1,95.0
+10:08.0, ,4-5,A. Nesmith makes 2-pt jump shot from 12 ft,Lead change,1,4,5,-1,112.0
+9:52.0,T. Herro misses 2-pt hook shot from 5 ft (block by A. Nesmith),4-5, ,,1,4,5,-1,128.0
+9:52.0,Offensive rebound by Team,4-5, ,,1,4,5,-1,128.0
+9:46.0,B. Adebayo makes 2-pt jump shot from 12 ft,6-5, ,Lead change,1,6,5,1,134.0
+9:27.0, ,6-7,B. Hield makes 2-pt layup from 4 ft (assist by M. Turner),Lead change,1,6,7,-1,153.0
+9:06.0,J. Butler makes 2-pt dunk at rim (assist by T. Herro),8-7, ,Lead change,1,8,7,1,174.0
+8:53.0, ,8-9,B. Hield makes 2-pt jump shot from 18 ft (assist by T. Haliburton),Lead change,1,8,9,-1,187.0
+8:34.0,B. Adebayo misses 2-pt jump shot from 7 ft,8-9, ,,1,8,9,-1,206.0
+8:31.0, ,8-9,Defensive rebound by B. Hield,,1,8,9,-1,209.0
+8:26.0, ,8-9,Turnover by T. Haliburton (traveling),,1,8,9,-1,214.0
+8:07.0,T. Herro makes 3-pt jump shot from 28 ft (assist by J. Butler),11-9, ,Lead change,1,11,9,2,233.0
+7:47.0, ,11-9,T. Haliburton misses 3-pt jump shot from 26 ft,,1,11,9,2,253.0
+7:43.0,Defensive rebound by B. Adebayo,11-9, ,,1,11,9,2,257.0
+7:40.0,Offensive foul by T. Herro (drawn by A. Nesmith),11-9, ,,1,11,9,2,260.0
+7:40.0,Turnover by T. Herro (offensive foul),11-9, ,,1,11,9,2,260.0
+7:19.0, ,11-11,M. Turner makes 2-pt jump shot from 10 ft,Tie,1,11,11,0,281.0
+7:05.0,C. Martin misses 2-pt layup from 2 ft (block by T. Haliburton),11-11, ,,1,11,11,0,295.0
+7:05.0, ,11-11,Defensive rebound by Team,,1,11,11,0,295.0
+6:57.0, ,11-11,Turnover by T. Haliburton (bad pass; steal by C. Martin),,1,11,11,0,303.0
+6:50.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by T. Herro),14-11, ,,1,14,11,3,310.0
+6:49.0, ,14-11,Indiana full timeout,,1,14,11,3,311.0
+6:49.0, ,14-11,B. Mathurin enters the game for B. Hield,,1,14,11,3,311.0
+6:49.0, ,14-11,Violation by Team (delay of game),,1,14,11,3,311.0
+6:32.0, ,14-11,A. Nembhard misses 3-pt jump shot from 26 ft,,1,14,11,3,328.0
+6:29.0,Defensive rebound by J. Butler,14-11, ,,1,14,11,3,331.0
+6:14.0,Turnover by B. Adebayo (bad pass; steal by A. Nembhard),14-11, ,,1,14,11,3,346.0
+6:02.0, ,14-11,T. Haliburton misses 2-pt layup from 3 ft,,1,14,11,3,358.0
+5:59.0,Defensive rebound by J. Butler,14-11, ,,1,14,11,3,361.0
+5:50.0,J. Butler misses 2-pt jump shot from 5 ft,14-11, ,,1,14,11,3,370.0
+5:48.0, ,14-11,Defensive rebound by A. Nesmith,,1,14,11,3,372.0
+5:44.0, ,14-11,T. Haliburton misses 3-pt jump shot from 26 ft,,1,14,11,3,376.0
+5:40.0,Defensive rebound by J. Butler,14-11, ,,1,14,11,3,380.0
+5:27.0,Shooting foul by A. Nesmith (drawn by J. Butler),14-11, ,,1,14,11,3,393.0
+5:27.0,J. Butler makes free throw 1 of 2,15-11, ,,1,15,11,4,393.0
+5:27.0,V. Oladipo enters the game for T. Herro,15-11, ,,1,15,11,4,393.0
+5:27.0,M. Strus enters the game for C. Martin,15-11, ,,1,15,11,4,393.0
+5:27.0,J. Butler misses free throw 2 of 2,15-11, ,,1,15,11,4,393.0
+5:25.0, ,15-11,Defensive rebound by A. Nesmith,,1,15,11,4,395.0
+5:02.0, ,15-11,T. Haliburton misses 2-pt jump shot from 9 ft,,1,15,11,4,418.0
+5:01.0, ,15-11,Offensive rebound by Team,,1,15,11,4,419.0
+5:01.0, ,15-11,Turnover by Team (shot clock),,1,15,11,4,419.0
+4:48.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),17-11, ,,1,17,11,6,432.0
+4:30.0, ,17-11,A. Nesmith misses 3-pt jump shot from 26 ft,,1,17,11,6,450.0
+4:27.0,Defensive rebound by B. Adebayo,17-11, ,,1,17,11,6,453.0
+4:18.0,Offensive foul by B. Adebayo (drawn by B. Mathurin),17-11, ,,1,17,11,6,462.0
+4:18.0,Turnover by B. Adebayo (offensive foul),17-11, ,,1,17,11,6,462.0
+4:18.0,D. Dedmon enters the game for B. Adebayo,17-11, ,,1,17,11,6,462.0
+4:18.0, ,17-11,J. Smith enters the game for M. Turner,,1,17,11,6,462.0
+4:04.0, ,17-11,B. Mathurin misses 3-pt jump shot from 23 ft,,1,17,11,6,476.0
+4:00.0, ,17-11,Offensive rebound by J. Smith,,1,17,11,6,480.0
+3:58.0, ,17-11,J. Smith misses 3-pt jump shot from 22 ft,,1,17,11,6,482.0
+3:55.0, ,17-11,Offensive rebound by A. Nesmith,,1,17,11,6,485.0
+3:55.0, ,17-13,A. Nesmith makes 2-pt layup from 2 ft,,1,17,13,4,485.0
+3:39.0,K. Lowry misses 3-pt jump shot from 25 ft,17-13, ,,1,17,13,4,501.0
+3:36.0, ,17-13,Defensive rebound by A. Nembhard,,1,17,13,4,504.0
+3:25.0, ,17-13,Offensive foul by A. Nesmith (drawn by J. Butler),,1,17,13,4,515.0
+3:25.0, ,17-13,Turnover by A. Nesmith (offensive foul),,1,17,13,4,515.0
+3:25.0, ,17-13,O. Brissett enters the game for T. Haliburton,,1,17,13,4,515.0
+3:25.0, ,17-13,B. Hield enters the game for A. Nembhard,,1,17,13,4,515.0
+3:25.0, ,17-13,T. McConnell enters the game for A. Nesmith,,1,17,13,4,515.0
+3:07.0,J. Butler makes 2-pt jump shot from 7 ft,19-13, ,,1,19,13,6,533.0
+2:41.0, ,19-13,Turnover by B. Hield (lost ball; steal by V. Oladipo),,1,19,13,6,559.0
+2:38.0,K. Lowry makes 2-pt layup from 2 ft (assist by V. Oladipo),21-13, ,,1,21,13,8,562.0
+2:38.0, ,21-13,Indiana full timeout,,1,21,13,8,562.0
+2:38.0,T. Herro enters the game for J. Butler,21-13, ,,1,21,13,8,562.0
+2:38.0,C. Martin enters the game for K. Lowry,21-13, ,,1,21,13,8,562.0
+2:21.0, ,21-13,B. Hield misses 3-pt jump shot from 24 ft,,1,21,13,8,579.0
+2:18.0,Defensive rebound by D. Dedmon,21-13, ,,1,21,13,8,582.0
+2:00.0,Turnover by T. Herro (bad pass; steal by J. Smith),21-13, ,,1,21,13,8,600.0
+1:55.0, ,21-13,Turnover by B. Hield (bad pass; steal by T. Herro),,1,21,13,8,605.0
+1:42.0,T. Herro misses 3-pt jump shot from 26 ft,21-13, ,,1,21,13,8,618.0
+1:39.0, ,21-13,Defensive rebound by B. Hield,,1,21,13,8,621.0
+1:22.0, ,21-13,B. Mathurin misses 3-pt jump shot from 29 ft,,1,21,13,8,638.0
+1:18.0,Defensive rebound by C. Martin,21-13, ,,1,21,13,8,642.0
+1:01.0,C. Martin makes 3-pt jump shot from 23 ft (assist by V. Oladipo),24-13, ,,1,24,13,11,659.0
+0:41.0, ,24-16,B. Hield makes 3-pt jump shot from 24 ft (assist by T. McConnell),,1,24,16,8,679.0
+0:23.0,D. Dedmon makes 2-pt layup from 2 ft (assist by M. Strus),26-16, ,,1,26,16,10,697.0
+0:01.0, ,26-19,B. Hield makes 3-pt jump shot from 26 ft (assist by T. McConnell),,1,26,19,7,719.0
+0:00.0,End of 1st quarter,26-19,,,1,26,19,7,720.0
+12:00.0,Start of 2nd quarter,26-19,,,2,26,19,7,720.0
+11:47.0, ,26-22,B. Mathurin makes 3-pt jump shot from 26 ft (assist by T. McConnell),,2,26,22,4,733.0
+11:22.0,V. Oladipo misses 3-pt jump shot from 26 ft,26-22, ,,2,26,22,4,758.0
+11:19.0,Offensive rebound by D. Dedmon,26-22, ,,2,26,22,4,761.0
+11:19.0,Shooting foul by T. McConnell (drawn by D. Dedmon),26-22, ,,2,26,22,4,761.0
+11:19.0,D. Dedmon makes free throw 1 of 2,27-22, ,,2,27,22,5,761.0
+11:19.0,D. Dedmon makes free throw 2 of 2,28-22, ,,2,28,22,6,761.0
+10:57.0, ,28-22,O. Brissett misses 2-pt layup from 3 ft,,2,28,22,6,783.0
+10:54.0,Defensive rebound by V. Oladipo,28-22, ,,2,28,22,6,786.0
+10:37.0,T. Herro misses 3-pt jump shot from 30 ft,28-22, ,,2,28,22,6,803.0
+10:36.0, ,28-22,Defensive rebound by Team,,2,28,22,6,804.0
+10:36.0,Loose ball foul by D. Dedmon (drawn by J. Smith),28-22, ,,2,28,22,6,804.0
+10:27.0, ,28-24,T. McConnell makes 2-pt layup from 2 ft,,2,28,24,4,813.0
+10:27.0, ,28-24,Shooting foul by T. Herro (drawn by T. McConnell),,2,28,24,4,813.0
+10:27.0, ,28-24,T. McConnell misses free throw 1 of 1,,2,28,24,4,813.0
+10:26.0,Defensive rebound by M. Strus,28-24, ,,2,28,24,4,814.0
+10:14.0,Turnover by V. Oladipo (traveling),28-24, ,,2,28,24,4,826.0
+10:09.0, ,28-24,Turnover by B. Hield (traveling),,2,28,24,4,831.0
+9:52.0,M. Strus misses 3-pt jump shot from 25 ft,28-24, ,,2,28,24,4,848.0
+9:48.0,Offensive rebound by D. Dedmon,28-24, ,,2,28,24,4,852.0
+9:42.0,D. Dedmon makes 2-pt layup from 2 ft (assist by V. Oladipo),30-24, ,,2,30,24,6,858.0
+9:23.0, ,30-24,J. Smith misses 2-pt jump shot from 10 ft,,2,30,24,6,877.0
+9:18.0,Defensive rebound by M. Strus,30-24, ,,2,30,24,6,882.0
+9:07.0,V. Oladipo misses 3-pt jump shot from 24 ft,30-24, ,,2,30,24,6,893.0
+9:05.0,Offensive rebound by D. Dedmon,30-24, ,,2,30,24,6,895.0
+9:04.0,D. Dedmon misses 2-pt layup from 3 ft (block by J. Smith),30-24, ,,2,30,24,6,896.0
+9:04.0,Offensive rebound by C. Martin,30-24, ,,2,30,24,6,896.0
+9:01.0,C. Martin misses 3-pt jump shot from 25 ft,30-24, ,,2,30,24,6,899.0
+8:56.0, ,30-24,Defensive rebound by J. Smith,,2,30,24,6,904.0
+8:40.0, ,30-24,Shooting foul by D. Dedmon (drawn by J. Smith),,2,30,24,6,920.0
+8:40.0, ,30-24,J. Smith misses free throw 1 of 2,,2,30,24,6,920.0
+8:40.0, ,30-24,Offensive rebound by Team,,2,30,24,6,920.0
+8:40.0,B. Adebayo enters the game for D. Dedmon,30-24, ,,2,30,24,6,920.0
+8:40.0, ,30-24,J. Smith misses free throw 2 of 2,,2,30,24,6,920.0
+8:39.0,Defensive rebound by B. Adebayo,30-24, ,,2,30,24,6,921.0
+8:27.0,B. Adebayo makes 2-pt layup from 2 ft (assist by T. Herro),32-24, ,,2,32,24,8,933.0
+8:08.0, ,32-24,O. Brissett misses 3-pt jump shot from 27 ft,,2,32,24,8,952.0
+8:05.0,Defensive rebound by B. Adebayo,32-24, ,,2,32,24,8,955.0
+8:05.0,K. Lowry enters the game for V. Oladipo,32-24, ,,2,32,24,8,955.0
+8:05.0, ,32-24,M. Turner enters the game for J. Smith,,2,32,24,8,955.0
+7:50.0,M. Strus makes 3-pt jump shot from 28 ft (assist by B. Adebayo),35-24, ,,2,35,24,11,970.0
+7:40.0, ,35-24,Indiana full timeout,,2,35,24,11,980.0
+7:40.0,J. Butler enters the game for C. Martin,35-24, ,,2,35,24,11,980.0
+7:40.0, ,35-24,T. Haliburton enters the game for B. Hield,,2,35,24,11,980.0
+7:40.0, ,35-24,A. Nembhard enters the game for B. Mathurin,,2,35,24,11,980.0
+7:40.0, ,35-24,A. Nesmith enters the game for T. McConnell,,2,35,24,11,980.0
+7:23.0, ,35-24,M. Turner misses 2-pt jump shot from 15 ft,,2,35,24,11,997.0
+7:22.0, ,35-24,Offensive rebound by Team,,2,35,24,11,998.0
+7:22.0, ,35-24,Turnover by Team (shot clock),,2,35,24,11,998.0
+6:59.0,B. Adebayo makes 2-pt jump shot from 13 ft (assist by J. Butler),37-24, ,,2,37,24,13,1021.0
+6:58.0,Violation by Team (delay of game),37-24, ,,2,37,24,13,1022.0
+6:37.0,Jump ball: M. Turner vs. K. Lowry (O. Brissett gains possession),37-24,,,2,37,24,13,1043.0
+6:36.0, ,37-24,O. Brissett misses 2-pt jump shot from 18 ft,,2,37,24,13,1044.0
+6:33.0,Defensive rebound by B. Adebayo,37-24, ,,2,37,24,13,1047.0
+6:26.0,B. Adebayo makes 2-pt layup from 3 ft (assist by T. Herro),39-24, ,,2,39,24,15,1054.0
+6:26.0,Shooting foul by O. Brissett (drawn by B. Adebayo),39-24, ,,2,39,24,15,1054.0
+6:26.0,B. Adebayo makes free throw 1 of 1,40-24, ,,2,40,24,16,1054.0
+6:19.0, ,40-24,A. Nesmith misses 3-pt jump shot from 26 ft,,2,40,24,16,1061.0
+6:15.0,Defensive rebound by B. Adebayo,40-24, ,,2,40,24,16,1065.0
+6:07.0,M. Strus makes 3-pt jump shot from 26 ft (assist by K. Lowry),43-24, ,,2,43,24,19,1073.0
+5:47.0, ,43-24,O. Brissett misses 2-pt layup from 3 ft,,2,43,24,19,1093.0
+5:45.0,Defensive rebound by B. Adebayo,43-24, ,,2,43,24,19,1095.0
+5:43.0,M. Strus misses 3-pt jump shot from 25 ft,43-24, ,,2,43,24,19,1097.0
+5:40.0, ,43-24,Defensive rebound by M. Turner,,2,43,24,19,1100.0
+5:29.0, ,43-26,A. Nembhard makes 2-pt jump shot from 5 ft,,2,43,26,17,1111.0
+5:14.0,K. Lowry misses 3-pt jump shot from 27 ft,43-26, ,,2,43,26,17,1126.0
+5:10.0, ,43-26,Defensive rebound by T. Haliburton,,2,43,26,17,1130.0
+4:58.0, ,43-26,A. Nesmith misses 2-pt layup from 4 ft (block by B. Adebayo),,2,43,26,17,1142.0
+4:58.0, ,43-26,Offensive rebound by Team,,2,43,26,17,1142.0
+4:58.0, ,43-26,B. Hield enters the game for O. Brissett,,2,43,26,17,1142.0
+4:51.0, ,43-29,A. Nesmith makes 3-pt jump shot from 24 ft (assist by A. Nembhard),,2,43,29,14,1149.0
+4:29.0,B. Adebayo makes 2-pt jump shot from 8 ft,45-29, ,,2,45,29,16,1171.0
+4:15.0, ,45-29,Shooting foul by T. Herro (drawn by M. Turner),,2,45,29,16,1185.0
+4:15.0, ,45-30,M. Turner makes free throw 1 of 2,,2,45,30,15,1185.0
+4:15.0,C. Martin enters the game for T. Herro,45-30, ,,2,45,30,15,1185.0
+4:15.0, ,45-30,M. Turner misses free throw 2 of 2,,2,45,30,15,1185.0
+4:13.0,Defensive rebound by B. Adebayo,45-30, ,,2,45,30,15,1187.0
+4:01.0,K. Lowry misses 3-pt jump shot from 25 ft,45-30, ,,2,45,30,15,1199.0
+3:59.0,Offensive rebound by Team,45-30, ,,2,45,30,15,1201.0
+3:59.0, ,45-30,Loose ball foul by A. Nembhard (drawn by J. Butler),,2,45,30,15,1201.0
+3:49.0,B. Adebayo misses 2-pt jump shot from 18 ft,45-30, ,,2,45,30,15,1211.0
+3:45.0, ,45-30,Defensive rebound by A. Nembhard,,2,45,30,15,1215.0
+3:40.0, ,45-30,T. Haliburton misses 3-pt jump shot from 27 ft,,2,45,30,15,1220.0
+3:36.0,Defensive rebound by B. Adebayo,45-30, ,,2,45,30,15,1224.0
+3:35.0,Turnover by B. Adebayo (bad pass; steal by A. Nesmith),45-30, ,,2,45,30,15,1225.0
+3:31.0, ,45-30,A. Nesmith misses 2-pt layup from 3 ft,,2,45,30,15,1229.0
+3:29.0,Defensive rebound by B. Adebayo,45-30, ,,2,45,30,15,1231.0
+3:20.0,Offensive foul by M. Strus (drawn by A. Nembhard),45-30, ,,2,45,30,15,1240.0
+3:20.0,Turnover by M. Strus (offensive foul),45-30, ,,2,45,30,15,1240.0
+3:20.0, ,45-30,B. Mathurin enters the game for A. Nesmith,,2,45,30,15,1240.0
+3:11.0, ,45-30,B. Hield misses 2-pt jump shot from 16 ft,,2,45,30,15,1249.0
+3:06.0,Defensive rebound by J. Butler,45-30, ,,2,45,30,15,1254.0
+2:59.0,M. Strus misses 3-pt jump shot from 26 ft,45-30, ,,2,45,30,15,1261.0
+2:56.0, ,45-30,Defensive rebound by M. Turner,,2,45,30,15,1264.0
+2:52.0, ,45-33,M. Turner makes 3-pt jump shot from 27 ft (assist by B. Hield),,2,45,33,12,1268.0
+2:50.0,Miami full timeout,45-33, ,,2,45,33,12,1270.0
+2:26.0,K. Lowry misses 3-pt jump shot from 24 ft,45-33, ,,2,45,33,12,1294.0
+2:22.0, ,45-33,Defensive rebound by B. Hield,,2,45,33,12,1298.0
+2:14.0, ,45-36,A. Nembhard makes 3-pt jump shot from 23 ft (assist by T. Haliburton),,2,45,36,9,1306.0
+1:56.0,B. Adebayo misses 2-pt dunk from 2 ft (block by M. Turner),45-36, ,,2,45,36,9,1324.0
+1:52.0,Offensive rebound by B. Adebayo,45-36, ,,2,45,36,9,1328.0
+1:51.0,B. Adebayo misses 2-pt hook shot from 2 ft,45-36, ,,2,45,36,9,1329.0
+1:51.0,Offensive rebound by K. Lowry,45-36, ,,2,45,36,9,1329.0
+1:51.0,K. Lowry misses 2-pt layup from 2 ft,45-36, ,,2,45,36,9,1329.0
+1:51.0, ,45-36,Defensive rebound by M. Turner,,2,45,36,9,1329.0
+1:36.0, ,45-38,B. Mathurin makes 2-pt layup from 1 ft,,2,45,38,7,1344.0
+1:18.0,J. Butler misses 2-pt jump shot from 10 ft,45-38, ,,2,45,38,7,1362.0
+1:15.0, ,45-38,Defensive rebound by M. Turner,,2,45,38,7,1365.0
+1:04.0, ,45-38,Shooting foul by J. Butler (drawn by B. Mathurin),,2,45,38,7,1376.0
+1:04.0, ,45-39,B. Mathurin makes free throw 1 of 2,,2,45,39,6,1376.0
+1:04.0, ,45-40,B. Mathurin makes free throw 2 of 2,,2,45,40,5,1376.0
+0:44.0,J. Butler misses 2-pt layup from 6 ft (block by A. Nembhard),45-40, ,,2,45,40,5,1396.0
+0:42.0, ,45-40,Defensive rebound by A. Nembhard,,2,45,40,5,1398.0
+0:28.0, ,45-40,A. Nembhard misses 3-pt jump shot from 24 ft,,2,45,40,5,1412.0
+0:26.0, ,45-40,Offensive rebound by Team,,2,45,40,5,1414.0
+0:26.0,Loose ball foul by K. Lowry (drawn by M. Turner),45-40, ,,2,45,40,5,1414.0
+0:26.0, ,45-41,M. Turner makes free throw 1 of 2,,2,45,41,4,1414.0
+0:26.0, ,45-41,T. McConnell enters the game for T. Haliburton,,2,45,41,4,1414.0
+0:26.0, ,45-42,M. Turner makes free throw 2 of 2,,2,45,42,3,1414.0
+0:03.0,J. Butler makes 2-pt jump shot from 17 ft (assist by C. Martin),47-42, ,,2,47,42,5,1437.0
+0:00.0,End of 2nd quarter,47-42,,,2,47,42,5,1440.0
+12:00.0,Start of 3rd quarter,47-42,,,3,47,42,5,1440.0
+11:38.0, ,47-42,Turnover by A. Nembhard (lost ball; steal by J. Butler),,3,47,42,5,1462.0
+11:24.0,B. Adebayo misses 2-pt jump shot from 13 ft,47-42, ,,3,47,42,5,1476.0
+11:22.0, ,47-42,Defensive rebound by M. Turner,,3,47,42,5,1478.0
+11:15.0, ,47-42,T. Haliburton misses 2-pt layup from 2 ft,,3,47,42,5,1485.0
+11:13.0,Defensive rebound by J. Butler,47-42, ,,3,47,42,5,1487.0
+11:08.0,C. Martin makes 2-pt layup from 11 ft (assist by J. Butler),49-42, ,,3,49,42,7,1492.0
+10:51.0, ,49-42,A. Nembhard misses 3-pt jump shot from 26 ft,,3,49,42,7,1509.0
+10:49.0,Defensive rebound by B. Adebayo,49-42, ,,3,49,42,7,1511.0
+10:33.0,T. Herro misses 3-pt jump shot from 23 ft,49-42, ,,3,49,42,7,1527.0
+10:30.0, ,49-42,Defensive rebound by B. Hield,,3,49,42,7,1530.0
+10:25.0, ,49-44,A. Nembhard makes 2-pt layup from 1 ft,,3,49,44,5,1535.0
+10:03.0,T. Herro misses 3-pt jump shot from 27 ft (block by A. Nesmith),49-44, ,,3,49,44,5,1557.0
+10:00.0, ,49-44,Defensive rebound by T. Haliburton,,3,49,44,5,1560.0
+9:51.0, ,49-44,Personal foul by C. Martin (drawn by A. Nembhard),,3,49,44,5,1569.0
+9:41.0, ,49-44,A. Nesmith misses 3-pt jump shot from 25 ft,,3,49,44,5,1579.0
+9:39.0, ,49-44,Offensive rebound by M. Turner,,3,49,44,5,1581.0
+9:38.0, ,49-46,M. Turner makes 2-pt layup from 2 ft,,3,49,46,3,1582.0
+9:25.0,C. Martin misses 3-pt jump shot from 25 ft (block by T. Haliburton),49-46, ,,3,49,46,3,1595.0
+9:25.0, ,49-46,Defensive rebound by B. Hield,,3,49,46,3,1595.0
+9:25.0, ,49-46,Indiana full timeout,,3,49,46,3,1595.0
+9:25.0, ,49-46,Instant Replay (Challenge: Ruling Stands),,3,49,46,3,1595.0
+9:04.0, ,49-46,A. Nesmith misses 2-pt layup from 7 ft,,3,49,46,3,1616.0
+9:02.0, ,49-46,Offensive rebound by B. Hield,,3,49,46,3,1618.0
+9:01.0, ,49-46,Turnover by B. Hield (traveling),,3,49,46,3,1619.0
+8:39.0,B. Adebayo misses 2-pt layup from 3 ft (block by M. Turner),49-46, ,,3,49,46,3,1641.0
+8:37.0,Offensive rebound by C. Martin,49-46, ,,3,49,46,3,1643.0
+8:37.0,Turnover by Team (shot clock),49-46, ,,3,49,46,3,1643.0
+8:15.0, ,49-46,B. Hield misses 2-pt layup from 2 ft (block by T. Herro),,3,49,46,3,1665.0
+8:12.0,Defensive rebound by C. Martin,49-46, ,,3,49,46,3,1668.0
+8:09.0,T. Herro misses 3-pt jump shot from 26 ft,49-46, ,,3,49,46,3,1671.0
+8:04.0,Offensive rebound by B. Adebayo,49-46, ,,3,49,46,3,1676.0
+8:04.0,B. Adebayo makes 2-pt layup at rim,51-46, ,,3,51,46,5,1676.0
+7:56.0, ,51-46,T. Haliburton misses 3-pt jump shot from 28 ft,,3,51,46,5,1684.0
+7:53.0, ,51-46,Offensive rebound by A. Nesmith,,3,51,46,5,1687.0
+7:50.0, ,51-49,A. Nembhard makes 3-pt jump shot from 27 ft (assist by T. Haliburton),,3,51,49,2,1690.0
+7:34.0,T. Herro makes 2-pt jump shot from 9 ft (assist by B. Adebayo),53-49, ,,3,53,49,4,1706.0
+7:25.0, ,53-52,M. Turner makes 3-pt jump shot from 27 ft (assist by B. Hield),,3,53,52,1,1715.0
+7:11.0, ,53-52,Violation by Team (kicked ball),,3,53,52,1,1729.0
+7:02.0,J. Butler makes 2-pt layup from 2 ft (assist by K. Lowry),55-52, ,,3,55,52,3,1738.0
+6:49.0, ,55-54,B. Hield makes 2-pt layup from 3 ft (assist by T. Haliburton),,3,55,54,1,1751.0
+6:44.0,Shooting foul by M. Turner (drawn by B. Adebayo),55-54, ,,3,55,54,1,1756.0
+6:44.0,B. Adebayo makes free throw 1 of 2,56-54, ,,3,56,54,2,1756.0
+6:44.0,B. Adebayo makes free throw 2 of 2,57-54, ,,3,57,54,3,1756.0
+6:44.0,M. Strus enters the game for T. Herro,57-54, ,,3,57,54,3,1756.0
+6:22.0, ,57-56,A. Nesmith makes 2-pt jump shot from 10 ft (assist by M. Turner),,3,57,56,1,1778.0
+5:57.0,C. Martin misses 2-pt layup from 5 ft,57-56, ,,3,57,56,1,1803.0
+5:54.0, ,57-56,Defensive rebound by M. Turner,,3,57,56,1,1806.0
+5:51.0, ,57-56,B. Hield misses 3-pt jump shot from 25 ft,,3,57,56,1,1809.0
+5:50.0,Defensive rebound by Team,57-56, ,,3,57,56,1,1810.0
+5:50.0, ,57-56,Loose ball foul by A. Nesmith (drawn by K. Lowry),,3,57,56,1,1810.0
+5:50.0, ,57-56,B. Mathurin enters the game for B. Hield,,3,57,56,1,1810.0
+5:38.0,Turnover by K. Lowry (bad pass; steal by A. Nesmith),57-56, ,,3,57,56,1,1822.0
+5:34.0, ,57-56,Shooting foul by J. Butler (drawn by M. Turner),,3,57,56,1,1826.0
+5:34.0, ,57-57,M. Turner makes free throw 1 of 2,Tie,3,57,57,0,1826.0
+5:34.0, ,57-58,M. Turner makes free throw 2 of 2,Lead change,3,57,58,-1,1826.0
+5:28.0,B. Adebayo misses 2-pt jump shot from 9 ft,57-58, ,,3,57,58,-1,1832.0
+5:24.0, ,57-58,Defensive rebound by A. Nesmith,,3,57,58,-1,1836.0
+5:13.0, ,57-61,A. Nembhard makes 3-pt jump shot from 26 ft (assist by T. Haliburton),,3,57,61,-4,1847.0
+4:55.0,K. Lowry misses 3-pt jump shot from 28 ft,57-61, ,,3,57,61,-4,1865.0
+4:51.0, ,57-61,Defensive rebound by M. Turner,,3,57,61,-4,1869.0
+4:46.0, ,57-61,A. Nembhard misses 3-pt jump shot from 25 ft,,3,57,61,-4,1874.0
+4:44.0,Defensive rebound by K. Lowry,57-61, ,,3,57,61,-4,1876.0
+4:44.0,Personal foul by A. Nembhard (drawn by K. Lowry),57-61, ,,3,57,61,-4,1876.0
+4:44.0,V. Oladipo enters the game for C. Martin,57-61, ,,3,57,61,-4,1876.0
+4:44.0,Technical foul by K. Lowry,57-61, ,,3,57,61,-4,1876.0
+4:44.0, ,57-62,T. Haliburton makes technical free throw,,3,57,62,-5,1876.0
+4:32.0,J. Butler makes 2-pt layup from 2 ft,59-62, ,,3,59,62,-3,1888.0
+4:10.0, ,59-62,M. Turner misses 2-pt jump shot from 9 ft,,3,59,62,-3,1910.0
+4:06.0,Defensive rebound by V. Oladipo,59-62, ,,3,59,62,-3,1914.0
+4:02.0,Personal foul by M. Turner (drawn by B. Adebayo),59-62, ,,3,59,62,-3,1918.0
+3:51.0,J. Butler misses 2-pt jump shot from 3 ft (block by A. Nesmith),59-62, ,,3,59,62,-3,1929.0
+3:49.0,Offensive rebound by Team,59-62, ,,3,59,62,-3,1931.0
+3:48.0,M. Strus misses 3-pt jump shot from 27 ft,59-62, ,,3,59,62,-3,1932.0
+3:43.0,Offensive rebound by V. Oladipo,59-62, ,,3,59,62,-3,1937.0
+3:34.0,J. Butler misses 3-pt jump shot from 25 ft,59-62, ,,3,59,62,-3,1946.0
+3:32.0, ,59-62,Defensive rebound by A. Nembhard,,3,59,62,-3,1948.0
+3:24.0, ,59-62,T. Haliburton misses 3-pt jump shot from 26 ft,,3,59,62,-3,1956.0
+3:21.0,Defensive rebound by B. Adebayo,59-62, ,,3,59,62,-3,1959.0
+3:07.0,M. Strus misses 3-pt jump shot from 27 ft,59-62, ,,3,59,62,-3,1973.0
+3:03.0, ,59-62,Defensive rebound by A. Nembhard,,3,59,62,-3,1977.0
+2:57.0, ,59-62,A. Nesmith misses 2-pt layup from 2 ft,,3,59,62,-3,1983.0
+2:54.0,Defensive rebound by J. Butler,59-62, ,,3,59,62,-3,1986.0
+2:48.0,V. Oladipo misses 2-pt layup from 5 ft,59-62, ,,3,59,62,-3,1992.0
+2:46.0, ,59-62,Defensive rebound by A. Nesmith,,3,59,62,-3,1994.0
+2:42.0, ,59-62,Personal foul by J. Butler (drawn by M. Turner),,3,59,62,-3,1998.0
+2:42.0,Miami full timeout,59-62, ,,3,59,62,-3,1998.0
+2:42.0,D. Dedmon enters the game for B. Adebayo,59-62, ,,3,59,62,-3,1998.0
+2:42.0,T. Herro enters the game for J. Butler,59-62, ,,3,59,62,-3,1998.0
+2:42.0,C. Martin enters the game for K. Lowry,59-62, ,,3,59,62,-3,1998.0
+2:42.0, ,59-62,B. Hield enters the game for T. Haliburton,,3,59,62,-3,1998.0
+2:42.0, ,59-62,T. McConnell enters the game for A. Nesmith,,3,59,62,-3,1998.0
+2:42.0, ,59-62,J. Smith enters the game for M. Turner,,3,59,62,-3,1998.0
+2:36.0, ,59-62,T. McConnell misses 2-pt jump shot from 10 ft,,3,59,62,-3,2004.0
+2:32.0,Defensive rebound by D. Dedmon,59-62, ,,3,59,62,-3,2008.0
+2:10.0,M. Strus misses 3-pt jump shot from 23 ft,59-62, ,,3,59,62,-3,2030.0
+2:07.0, ,59-62,Defensive rebound by B. Mathurin,,3,59,62,-3,2033.0
+2:01.0, ,59-62,B. Mathurin misses 3-pt jump shot from 26 ft,,3,59,62,-3,2039.0
+1:58.0,Defensive rebound by M. Strus,59-62, ,,3,59,62,-3,2042.0
+1:40.0,T. Herro makes 3-pt jump shot from 23 ft (assist by V. Oladipo),62-62, ,Tie,3,62,62,0,2060.0
+1:21.0, ,62-64,B. Hield makes 2-pt layup from 4 ft (assist by J. Smith),,3,62,64,-2,2079.0
+0:55.0,C. Martin makes 2-pt jump shot from 20 ft,64-64, ,Tie,3,64,64,0,2105.0
+0:50.0, ,64-64,B. Hield misses 3-pt jump shot from 27 ft,,3,64,64,0,2110.0
+0:47.0,Defensive rebound by T. Herro,64-64, ,,3,64,64,0,2113.0
+0:35.0,V. Oladipo makes 3-pt jump shot from 26 ft,67-64, ,Lead change,3,67,64,3,2125.0
+0:13.0, ,67-64,B. Hield misses 2-pt layup from 4 ft,,3,67,64,3,2147.0
+0:09.0,Defensive rebound by C. Martin,67-64, ,,3,67,64,3,2151.0
+0:00.0,Turnover by V. Oladipo (lost ball; steal by J. Smith),67-64, ,,3,67,64,3,2160.0
+0:00.0,End of 3rd quarter,67-64,,,3,67,64,3,2160.0
+12:00.0,Start of 4th quarter,67-64,,,4,67,64,3,2160.0
+11:48.0,M. Strus misses 3-pt jump shot from 28 ft,67-64, ,,4,67,64,3,2172.0
+11:44.0, ,67-64,Defensive rebound by O. Brissett,,4,67,64,3,2176.0
+11:27.0, ,67-66,T. McConnell makes 2-pt hook shot from 4 ft,,4,67,66,1,2193.0
+11:04.0,V. Oladipo makes 2-pt jump shot from 17 ft (assist by D. Dedmon),69-66, ,,4,69,66,3,2216.0
+10:46.0, ,69-66,J. Smith misses 3-pt jump shot from 26 ft,,4,69,66,3,2234.0
+10:43.0, ,69-66,Offensive rebound by O. Brissett,,4,69,66,3,2237.0
+10:40.0, ,69-66,J. Smith misses 2-pt hook shot from 8 ft,,4,69,66,3,2240.0
+10:38.0,Defensive rebound by D. Dedmon,69-66, ,,4,69,66,3,2242.0
+10:29.0,Personal foul by B. Hield (drawn by M. Strus),69-66, ,,4,69,66,3,2251.0
+10:16.0,T. Herro misses 2-pt jump shot from 10 ft,69-66, ,,4,69,66,3,2264.0
+10:12.0, ,69-66,Defensive rebound by O. Brissett,,4,69,66,3,2268.0
+10:06.0, ,69-66,B. Hield misses 2-pt layup from 2 ft,,4,69,66,3,2274.0
+10:04.0, ,69-66,Offensive rebound by T. McConnell,,4,69,66,3,2276.0
+9:59.0, ,69-66,Shooting foul by D. Dedmon (drawn by J. Smith),,4,69,66,3,2281.0
+9:59.0, ,69-67,J. Smith makes free throw 1 of 2,,4,69,67,2,2281.0
+9:59.0, ,69-68,J. Smith makes free throw 2 of 2,,4,69,68,1,2281.0
+9:41.0,Turnover by C. Martin (lost ball; steal by J. Smith),69-68, ,,4,69,68,1,2299.0
+9:38.0, ,69-68,Turnover by J. Smith (bad pass),,4,69,68,1,2302.0
+9:38.0,B. Adebayo enters the game for D. Dedmon,69-68, ,,4,69,68,1,2302.0
+9:38.0, ,69-68,M. Turner enters the game for J. Smith,,4,69,68,1,2302.0
+9:17.0,M. Strus misses 3-pt jump shot from 27 ft,69-68, ,,4,69,68,1,2323.0
+9:14.0, ,69-68,Defensive rebound by T. McConnell,,4,69,68,1,2326.0
+8:57.0, ,69-68,Shooting foul by M. Strus (drawn by B. Mathurin),,4,69,68,1,2343.0
+8:57.0, ,69-69,B. Mathurin makes free throw 1 of 2,Tie,4,69,69,0,2343.0
+8:57.0, ,69-69,A. Nesmith enters the game for B. Hield,,4,69,69,0,2343.0
+8:57.0, ,69-70,B. Mathurin makes free throw 2 of 2,Lead change,4,69,70,-1,2343.0
+8:44.0,M. Strus makes 3-pt jump shot from 23 ft (assist by T. Herro),72-70, ,Lead change,4,72,70,2,2356.0
+8:23.0, ,72-70,Offensive foul by O. Brissett (drawn by B. Adebayo),,4,72,70,2,2377.0
+8:23.0, ,72-70,Turnover by O. Brissett (offensive foul),,4,72,70,2,2377.0
+8:10.0,T. Herro misses 2-pt layup from 4 ft,72-70, ,,4,72,70,2,2390.0
+8:07.0, ,72-70,Defensive rebound by T. McConnell,,4,72,70,2,2393.0
+8:03.0, ,72-72,T. McConnell makes 2-pt layup from 3 ft,Tie,4,72,72,0,2397.0
+7:47.0,M. Strus misses 3-pt jump shot from 26 ft,72-72, ,,4,72,72,0,2413.0
+7:43.0, ,72-72,Defensive rebound by M. Turner,,4,72,72,0,2417.0
+7:32.0, ,72-72,O. Brissett misses 3-pt jump shot from 24 ft,,4,72,72,0,2428.0
+7:30.0,Defensive rebound by V. Oladipo,72-72, ,,4,72,72,0,2430.0
+7:24.0,Miami full timeout,72-72, ,,4,72,72,0,2436.0
+7:24.0,J. Butler enters the game for T. Herro,72-72, ,,4,72,72,0,2436.0
+7:24.0,K. Lowry enters the game for V. Oladipo,72-72, ,,4,72,72,0,2436.0
+7:24.0, ,72-72,T. Haliburton enters the game for O. Brissett,,4,72,72,0,2436.0
+7:19.0,Personal foul by A. Nesmith (drawn by J. Butler),72-72, ,,4,72,72,0,2441.0
+7:09.0,Shooting foul by M. Turner (drawn by B. Adebayo),72-72, ,,4,72,72,0,2451.0
+7:09.0,B. Adebayo makes free throw 1 of 2,73-72, ,,4,73,72,1,2451.0
+7:09.0,B. Adebayo makes free throw 2 of 2,74-72, ,,4,74,72,2,2451.0
+6:45.0, ,74-72,T. McConnell misses 3-pt jump shot from 24 ft,,4,74,72,2,2475.0
+6:45.0, ,74-72,Offensive rebound by Team,,4,74,72,2,2475.0
+6:45.0, ,74-72,Turnover by Team (shot clock),,4,74,72,2,2475.0
+6:22.0,J. Butler misses 2-pt jump shot from 19 ft,74-72, ,,4,74,72,2,2498.0
+6:18.0, ,74-72,Defensive rebound by M. Turner,,4,74,72,2,2502.0
+6:13.0, ,74-72,Turnover by B. Mathurin (lost ball; steal by B. Adebayo),,4,74,72,2,2507.0
+5:51.0,B. Adebayo misses 2-pt jump shot from 13 ft,74-72, ,,4,74,72,2,2529.0
+5:49.0, ,74-72,Defensive rebound by Team,,4,74,72,2,2531.0
+5:49.0, ,74-72,B. Hield enters the game for B. Mathurin,,4,74,72,2,2531.0
+5:49.0, ,74-72,A. Nembhard enters the game for T. McConnell,,4,74,72,2,2531.0
+5:23.0,Jump ball: B. Adebayo vs. A. Nembhard (J. Butler gains possession),74-72,,,4,74,72,2,2557.0
+5:23.0, ,74-72,Turnover by A. Nembhard (lost ball; steal by B. Adebayo),,4,74,72,2,2557.0
+5:12.0,Turnover by J. Butler (traveling),74-72, ,,4,74,72,2,2568.0
+4:59.0, ,74-72,Shooting foul by B. Adebayo (drawn by A. Nembhard),,4,74,72,2,2581.0
+4:59.0, ,74-73,A. Nembhard makes free throw 1 of 2,,4,74,73,1,2581.0
+4:59.0, ,74-73,A. Nembhard misses free throw 2 of 2,,4,74,73,1,2581.0
+4:58.0,Defensive rebound by B. Adebayo,74-73, ,,4,74,73,1,2582.0
+4:37.0,B. Adebayo misses 2-pt jump shot from 15 ft,74-73, ,,4,74,73,1,2603.0
+4:33.0, ,74-73,Defensive rebound by B. Hield,,4,74,73,1,2607.0
+4:28.0, ,74-73,Personal foul by C. Martin (drawn by M. Turner),,4,74,73,1,2612.0
+4:28.0,T. Herro enters the game for M. Strus,74-73, ,,4,74,73,1,2612.0
+4:13.0, ,74-73,A. Nembhard misses 2-pt layup from 7 ft,,4,74,73,1,2627.0
+4:08.0, ,74-73,Offensive rebound by M. Turner,,4,74,73,1,2632.0
+4:08.0, ,74-73,M. Turner misses 2-pt layup at rim,,4,74,73,1,2632.0
+4:08.0,Defensive rebound by J. Butler,74-73, ,,4,74,73,1,2632.0
+3:54.0,K. Lowry makes 3-pt jump shot from 23 ft (assist by J. Butler),77-73, ,,4,77,73,4,2646.0
+3:51.0, ,77-73,Indiana full timeout,,4,77,73,4,2649.0
+3:33.0, ,77-75,B. Hield makes 2-pt jump shot from 21 ft,,4,77,75,2,2667.0
+3:11.0,J. Butler makes 2-pt layup from 3 ft (assist by B. Adebayo),79-75, ,,4,79,75,4,2689.0
+3:11.0,Shooting foul by T. Haliburton (drawn by J. Butler),79-75, ,,4,79,75,4,2689.0
+3:11.0,J. Butler makes free throw 1 of 1,80-75, ,,4,80,75,5,2689.0
+3:06.0, ,80-75,A. Nembhard misses 2-pt jump shot from 9 ft,,4,80,75,5,2694.0
+3:02.0,Defensive rebound by T. Herro,80-75, ,,4,80,75,5,2698.0
+2:52.0,J. Butler makes 2-pt layup from 2 ft,82-75, ,,4,82,75,7,2708.0
+2:43.0, ,82-75,M. Turner misses 3-pt jump shot from 27 ft,,4,82,75,7,2717.0
+2:39.0,Defensive rebound by B. Adebayo,82-75, ,,4,82,75,7,2721.0
+2:26.0,J. Butler makes 2-pt jump shot from 11 ft,84-75, ,,4,84,75,9,2734.0
+2:25.0, ,84-75,Indiana full timeout,,4,84,75,9,2735.0
+2:17.0, ,84-75,Personal foul by T. Herro (drawn by A. Nembhard),,4,84,75,9,2743.0
+2:17.0, ,84-76,A. Nembhard makes free throw 1 of 2,,4,84,76,8,2743.0
+2:17.0, ,84-77,A. Nembhard makes free throw 2 of 2,,4,84,77,7,2743.0
+2:03.0,J. Butler misses 2-pt layup from 7 ft (block by M. Turner),84-77, ,,4,84,77,7,2757.0
+2:02.0,Offensive rebound by Team,84-77, ,,4,84,77,7,2758.0
+1:55.0,C. Martin misses 2-pt layup from 2 ft (block by M. Turner),84-77, ,,4,84,77,7,2765.0
+1:52.0, ,84-77,Defensive rebound by M. Turner,,4,84,77,7,2768.0
+1:36.0, ,84-77,T. Haliburton misses 3-pt jump shot from 25 ft,,4,84,77,7,2784.0
+1:32.0, ,84-77,Offensive rebound by Team,,4,84,77,7,2788.0
+1:32.0, ,84-77,Violation by Team (kicked ball),,4,84,77,7,2788.0
+1:32.0, ,84-77,B. Mathurin enters the game for A. Nesmith,,4,84,77,7,2788.0
+1:09.0,Shooting foul by M. Turner (drawn by C. Martin),84-77, ,,4,84,77,7,2811.0
+1:09.0,C. Martin makes free throw 1 of 2,85-77, ,,4,85,77,8,2811.0
+1:09.0,C. Martin makes free throw 2 of 2,86-77, ,,4,86,77,9,2811.0
+1:01.0, ,86-79,A. Nembhard makes 2-pt layup from 3 ft,,4,86,79,7,2819.0
+0:47.0,Turnover by B. Adebayo (lost ball; steal by M. Turner),86-79, ,,4,86,79,7,2833.0
+0:42.0, ,86-82,B. Hield makes 3-pt jump shot from 25 ft (assist by T. Haliburton),,4,86,82,4,2838.0
+0:41.0,Miami full timeout,86-82, ,,4,86,82,4,2839.0
+0:40.0,Turnover by K. Lowry (bad pass),86-82, ,,4,86,82,4,2840.0
+0:33.0, ,86-82,Turnover by M. Turner (step out of bounds),,4,86,82,4,2847.0
+0:22.0,Personal take foul by M. Turner (drawn by B. Adebayo),86-82, ,,4,86,82,4,2858.0
+0:22.0,B. Adebayo misses free throw 1 of 2,86-82, ,,4,86,82,4,2858.0
+0:22.0,Offensive rebound by Team,86-82, ,,4,86,82,4,2858.0
+0:22.0,B. Adebayo makes free throw 2 of 2,87-82, ,,4,87,82,5,2858.0
+0:16.0, ,87-82,B. Mathurin misses 3-pt jump shot from 25 ft,,4,87,82,5,2864.0
+0:12.0,Defensive rebound by T. Herro,87-82, ,,4,87,82,5,2868.0
+0:11.0,Personal take foul by B. Mathurin (drawn by J. Butler),87-82, ,,4,87,82,5,2869.0
+0:11.0,J. Butler misses free throw 1 of 2,87-82, ,,4,87,82,5,2869.0
+0:11.0,Offensive rebound by Team,87-82, ,,4,87,82,5,2869.0
+0:11.0,J. Butler misses free throw 2 of 2,87-82, ,,4,87,82,5,2869.0
+0:09.0, ,87-82,Defensive rebound by B. Hield,,4,87,82,5,2871.0
+0:00.0, ,87-82,B. Mathurin misses 3-pt jump shot from 25 ft,,4,87,82,5,2880.0
+0:00.0, ,87-82,Offensive rebound by Team,,4,87,82,5,2880.0
+0:00.0,End of 4th quarter,87-82,,,4,87,82,5,2880.0

@@ -1,0 +1,454 @@
+Time,Chicago,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Vučević vs. B. Adebayo (A. Caruso gains possession),0-0,,,1,0,0,0,0.0
+11:48.0,Turnover by D. DeRozan (bad pass),0-0, ,,1,0,0,0,12.0
+11:33.0, ,0-0,Turnover by G. Vincent (lost ball; steal by A. Caruso),,1,0,0,0,27.0
+11:19.0,A. Caruso makes 2-pt layup from 5 ft (assist by P. Beverley),2-0, ,,1,0,2,-2,41.0
+11:08.0, ,2-0,T. Herro misses 3-pt jump shot from 26 ft,,1,0,2,-2,52.0
+11:06.0,Defensive rebound by N. Vučević,2-0, ,,1,0,2,-2,54.0
+10:59.0,N. Vučević misses 3-pt jump shot from 25 ft,2-0, ,,1,0,2,-2,61.0
+10:54.0, ,2-0,Defensive rebound by T. Herro,,1,0,2,-2,66.0
+10:44.0, ,2-3,M. Strus makes 3-pt jump shot from 27 ft (assist by B. Adebayo),Lead change,1,3,2,1,76.0
+10:28.0,Personal foul by B. Adebayo (drawn by A. Caruso),2-3, ,,1,3,2,1,92.0
+10:21.0,Z. LaVine misses 3-pt jump shot from 26 ft,2-3, ,,1,3,2,1,99.0
+10:15.0, ,2-3,Defensive rebound by B. Adebayo,,1,3,2,1,105.0
+9:59.0, ,2-6,M. Strus makes 3-pt jump shot from 25 ft (assist by T. Herro),,1,6,2,4,121.0
+9:47.0,Personal foul by T. Herro (drawn by P. Beverley),2-6, ,,1,6,2,4,133.0
+9:35.0, ,2-6,Violation by Team (kicked ball),,1,6,2,4,145.0
+9:27.0,A. Caruso makes 3-pt jump shot from 27 ft (assist by D. DeRozan),5-6, ,,1,6,5,1,153.0
+9:09.0, ,5-6,B. Adebayo misses 2-pt jump shot from 12 ft,,1,6,5,1,171.0
+9:04.0,Defensive rebound by Z. LaVine,5-6, ,,1,6,5,1,176.0
+9:01.0,A. Caruso makes 3-pt jump shot from 24 ft (assist by Z. LaVine),8-6, ,Lead change,1,6,8,-2,179.0
+8:43.0, ,8-9,M. Strus makes 3-pt jump shot from 23 ft (assist by B. Adebayo),Lead change,1,9,8,1,197.0
+8:26.0,Z. LaVine misses 3-pt jump shot from 27 ft,8-9, ,,1,9,8,1,214.0
+8:23.0, ,8-9,Defensive rebound by B. Adebayo,,1,9,8,1,217.0
+8:09.0, ,8-9,M. Strus misses 3-pt jump shot from 26 ft,,1,9,8,1,231.0
+8:06.0,Defensive rebound by N. Vučević,8-9, ,,1,9,8,1,234.0
+7:56.0,P. Beverley misses 2-pt hook shot from 6 ft,8-9, ,,1,9,8,1,244.0
+7:54.0,Offensive rebound by P. Beverley,8-9, ,,1,9,8,1,246.0
+7:54.0,A. Caruso misses 3-pt jump shot from 27 ft,8-9, ,,1,9,8,1,246.0
+7:50.0, ,8-9,Defensive rebound by J. Butler,,1,9,8,1,250.0
+7:36.0, ,8-12,M. Strus makes 3-pt jump shot from 26 ft (assist by T. Herro),,1,12,8,4,264.0
+7:18.0,Z. LaVine makes 2-pt layup from 6 ft (assist by D. DeRozan),10-12, ,,1,12,10,2,282.0
+7:05.0, ,10-12,T. Herro misses 2-pt jump shot from 14 ft,,1,12,10,2,295.0
+7:02.0,Defensive rebound by N. Vučević,10-12, ,,1,12,10,2,298.0
+6:49.0,P. Beverley misses 3-pt jump shot from 27 ft,10-12, ,,1,12,10,2,311.0
+6:45.0, ,10-12,Defensive rebound by T. Herro,,1,12,10,2,315.0
+6:35.0, ,10-12,Turnover by B. Adebayo (traveling),,1,12,10,2,325.0
+6:35.0, ,10-12,Miami full timeout,,1,12,10,2,325.0
+6:22.0,A. Caruso misses 3-pt jump shot from 27 ft,10-12, ,,1,12,10,2,338.0
+6:18.0, ,10-12,Defensive rebound by B. Adebayo,,1,12,10,2,342.0
+6:00.0, ,10-12,B. Adebayo misses 2-pt jump shot from 16 ft,,1,12,10,2,360.0
+5:56.0,Defensive rebound by Z. LaVine,10-12, ,,1,12,10,2,364.0
+5:55.0,Offensive foul by Z. LaVine (drawn by G. Vincent),10-12, ,,1,12,10,2,365.0
+5:55.0,Turnover by Z. LaVine (offensive foul),10-12, ,,1,12,10,2,365.0
+5:55.0,C. White enters the game for D. DeRozan,10-12, ,,1,12,10,2,365.0
+5:38.0, ,10-12,Shooting foul by A. Caruso (drawn by B. Adebayo),,1,12,10,2,382.0
+5:38.0, ,10-13,B. Adebayo makes free throw 1 of 2,,1,13,10,3,382.0
+5:38.0, ,10-13,K. Lowry enters the game for T. Herro,,1,13,10,3,382.0
+5:38.0, ,10-14,B. Adebayo makes free throw 2 of 2,,1,14,10,4,382.0
+5:38.0,P. Williams enters the game for A. Caruso,10-14, ,,1,14,10,4,382.0
+5:20.0,Turnover by Z. LaVine (out of bounds lost ball),10-14, ,,1,14,10,4,400.0
+5:03.0, ,10-16,J. Butler makes 2-pt layup from 6 ft (assist by G. Vincent),,1,16,10,6,417.0
+4:38.0,C. White makes 3-pt jump shot from 29 ft (assist by P. Beverley),13-16, ,,1,16,13,3,442.0
+4:21.0, ,13-18,B. Adebayo makes 2-pt jump shot from 7 ft,,1,18,13,5,459.0
+4:03.0,Turnover by N. Vučević (lost ball; steal by K. Lowry),13-18, ,,1,18,13,5,477.0
+4:00.0, ,13-18,Shooting foul by P. Beverley (drawn by M. Strus),,1,18,13,5,480.0
+4:00.0, ,13-19,M. Strus makes free throw 1 of 2,,1,19,13,6,480.0
+4:00.0,D. DeRozan enters the game for P. Beverley,13-19, ,,1,19,13,6,480.0
+4:00.0,A. Dosunmu enters the game for Z. LaVine,13-19, ,,1,19,13,6,480.0
+4:00.0, ,13-19,C. Martin enters the game for G. Vincent,,1,19,13,6,480.0
+4:00.0, ,13-20,M. Strus makes free throw 2 of 2,,1,20,13,7,480.0
+3:39.0,D. DeRozan misses 2-pt jump shot from 16 ft,13-20, ,,1,20,13,7,501.0
+3:36.0, ,13-20,Defensive rebound by B. Adebayo,,1,20,13,7,504.0
+3:34.0, ,13-22,J. Butler makes 2-pt layup from 3 ft (assist by B. Adebayo),,1,22,13,9,506.0
+3:34.0, ,13-22,Shooting foul by C. White (drawn by J. Butler),,1,22,13,9,506.0
+3:34.0, ,13-22,K. Love enters the game for B. Adebayo,,1,22,13,9,506.0
+3:34.0,Chicago full timeout,13-22, ,,1,22,13,9,506.0
+3:34.0, ,13-23,J. Butler makes free throw 1 of 1,,1,23,13,10,506.0
+3:23.0,D. DeRozan misses 2-pt jump shot from 21 ft,13-23, ,,1,23,13,10,517.0
+3:21.0, ,13-23,Defensive rebound by K. Lowry,,1,23,13,10,519.0
+3:18.0, ,13-23,Offensive foul by J. Butler (drawn by C. White),,1,23,13,10,522.0
+3:18.0, ,13-23,Turnover by J. Butler (offensive foul),,1,23,13,10,522.0
+3:05.0,C. White misses 3-pt jump shot from 27 ft,13-23, ,,1,23,13,10,535.0
+3:02.0, ,13-23,Defensive rebound by K. Love,,1,23,13,10,538.0
+2:51.0, ,13-23,K. Love misses 3-pt jump shot from 25 ft,,1,23,13,10,549.0
+2:48.0, ,13-23,Offensive rebound by C. Martin,,1,23,13,10,552.0
+2:35.0, ,13-23,Turnover by J. Butler (bad pass; steal by P. Williams),,1,23,13,10,565.0
+2:20.0,A. Dosunmu misses 3-pt jump shot from 24 ft,13-23, ,,1,23,13,10,580.0
+2:16.0, ,13-23,Defensive rebound by C. Martin,,1,23,13,10,584.0
+2:08.0, ,13-25,J. Butler makes 2-pt layup from 2 ft (assist by K. Love),,1,25,13,12,592.0
+1:51.0,D. DeRozan makes 2-pt layup from 4 ft (assist by C. White),15-25, ,,1,25,15,10,609.0
+1:36.0, ,15-27,K. Love makes 2-pt jump shot from 16 ft (assist by K. Lowry),,1,27,15,12,624.0
+1:08.0,Turnover by C. White (lost ball; steal by J. Butler),15-27, ,,1,27,15,12,652.0
+1:04.0, ,15-29,J. Butler makes 2-pt dunk from 2 ft (assist by K. Love),,1,29,15,14,656.0
+0:52.0,N. Vučević makes 2-pt jump shot from 21 ft (assist by D. DeRozan),17-29, ,,1,29,17,12,668.0
+0:47.0, ,17-29,M. Strus misses 2-pt dunk from 4 ft,,1,29,17,12,673.0
+0:44.0,Defensive rebound by N. Vučević,17-29, ,,1,29,17,12,676.0
+0:36.0,Personal foul by M. Strus (drawn by C. White),17-29, ,,1,29,17,12,684.0
+0:36.0,Z. LaVine enters the game for A. Dosunmu,17-29, ,,1,29,17,12,684.0
+0:36.0, ,17-29,T. Herro enters the game for J. Butler,,1,29,17,12,684.0
+0:32.0,Shooting foul by K. Love (drawn by D. DeRozan),17-29, ,,1,29,17,12,688.0
+0:32.0,D. DeRozan makes free throw 1 of 2,18-29, ,,1,29,18,11,688.0
+0:32.0,D. Jones enters the game for N. Vučević,18-29, ,,1,29,18,11,688.0
+0:32.0, ,18-29,J. Butler enters the game for M. Strus,,1,29,18,11,688.0
+0:32.0,D. DeRozan makes free throw 2 of 2,19-29, ,,1,29,19,10,688.0
+0:25.0, ,19-29,K. Lowry misses 2-pt jump shot from 13 ft,,1,29,19,10,695.0
+0:22.0,Defensive rebound by C. White,19-29, ,,1,29,19,10,698.0
+0:08.0,Shooting foul by C. Martin (drawn by D. DeRozan),19-29, ,,1,29,19,10,712.0
+0:08.0,D. DeRozan makes free throw 1 of 2,20-29, ,,1,29,20,9,712.0
+0:08.0, ,20-29,M. Strus enters the game for C. Martin,,1,29,20,9,712.0
+0:08.0,D. DeRozan makes free throw 2 of 2,21-29, ,,1,29,21,8,712.0
+0:01.0, ,21-29,Personal foul by P. Williams (drawn by J. Butler),,1,29,21,8,719.0
+0:00.0, ,21-29,J. Butler misses 3-pt jump shot from 35 ft,,1,29,21,8,720.0
+0:00.0, ,21-29,Offensive rebound by Team,,1,29,21,8,720.0
+0:00.0,End of 1st quarter,21-29,,,1,29,21,8,720.0
+12:00.0,Start of 2nd quarter,21-29,,,2,29,21,8,720.0
+11:46.0, ,21-31,K. Love makes 2-pt jump shot from 12 ft,,2,31,21,10,734.0
+11:34.0,D. DeRozan makes 2-pt jump shot from 8 ft,23-31, ,,2,31,23,8,746.0
+11:10.0,Jump ball: C. Martin vs. P. Williams (G. Vincent gains possession),23-31,,,2,31,23,8,770.0
+11:08.0, ,23-31,K. Love misses 3-pt jump shot from 25 ft,,2,31,23,8,772.0
+11:05.0,Defensive rebound by P. Williams,23-31, ,,2,31,23,8,775.0
+11:01.0,Personal foul by G. Vincent (drawn by D. DeRozan),23-31, ,,2,31,23,8,779.0
+10:52.0,Z. LaVine misses 2-pt jump shot from 21 ft,23-31, ,,2,31,23,8,788.0
+10:48.0, ,23-31,Defensive rebound by K. Love,,2,31,23,8,792.0
+10:27.0, ,23-31,C. Martin misses 3-pt jump shot from 25 ft,,2,31,23,8,813.0
+10:24.0,Defensive rebound by C. White,23-31, ,,2,31,23,8,816.0
+10:12.0,C. White makes 2-pt jump shot from 13 ft (assist by D. DeRozan),25-31, ,,2,31,25,6,828.0
+9:55.0, ,25-31,T. Herro misses 2-pt jump shot from 10 ft,,2,31,25,6,845.0
+9:55.0,Defensive rebound by Team,25-31, ,,2,31,25,6,845.0
+9:55.0,A. Drummond enters the game for D. Jones,25-31, ,,2,31,25,6,845.0
+9:55.0, ,25-31,B. Adebayo enters the game for K. Love,,2,31,25,6,845.0
+9:43.0,P. Williams misses 3-pt jump shot from 27 ft,25-31, ,,2,31,25,6,857.0
+9:41.0, ,25-31,Defensive rebound by K. Lowry,,2,31,25,6,859.0
+9:23.0, ,25-31,B. Adebayo misses 2-pt jump shot from 13 ft,,2,31,25,6,877.0
+9:20.0,Defensive rebound by D. DeRozan,25-31, ,,2,31,25,6,880.0
+9:13.0,D. DeRozan misses 2-pt jump shot from 20 ft,25-31, ,,2,31,25,6,887.0
+9:10.0, ,25-31,Defensive rebound by B. Adebayo,,2,31,25,6,890.0
+9:06.0, ,25-31,Personal foul by D. DeRozan (drawn by B. Adebayo),,2,31,25,6,894.0
+9:06.0,A. Caruso enters the game for P. Williams,25-31, ,,2,31,25,6,894.0
+9:06.0, ,25-31,J. Butler enters the game for C. Martin,,2,31,25,6,894.0
+9:02.0, ,25-31,Turnover by B. Adebayo (bad pass),,2,31,25,6,898.0
+8:38.0,A. Drummond misses 2-pt layup from 5 ft,25-31, ,,2,31,25,6,922.0
+8:36.0, ,25-31,Defensive rebound by B. Adebayo,,2,31,25,6,924.0
+8:27.0, ,25-31,Offensive foul by B. Adebayo (drawn by D. DeRozan),,2,31,25,6,933.0
+8:27.0, ,25-31,Turnover by B. Adebayo (offensive foul),,2,31,25,6,933.0
+8:27.0,P. Beverley enters the game for C. White,25-31, ,,2,31,25,6,933.0
+8:15.0,D. DeRozan makes 2-pt jump shot from 18 ft (assist by Z. LaVine),27-31, ,,2,31,27,4,945.0
+7:50.0, ,27-31,B. Adebayo misses 2-pt jump shot from 12 ft,,2,31,27,4,970.0
+7:47.0,Defensive rebound by A. Drummond,27-31, ,,2,31,27,4,973.0
+7:32.0,Z. LaVine misses 2-pt jump shot from 17 ft,27-31, ,,2,31,27,4,988.0
+7:28.0, ,27-31,Defensive rebound by T. Herro,,2,31,27,4,992.0
+7:23.0, ,27-31,T. Herro misses 3-pt jump shot from 25 ft,,2,31,27,4,997.0
+7:19.0,Defensive rebound by A. Drummond,27-31, ,,2,31,27,4,1001.0
+7:12.0,A. Caruso makes 3-pt jump shot from 26 ft (assist by D. DeRozan),30-31, ,,2,31,30,1,1008.0
+6:54.0, ,30-34,K. Lowry makes 3-pt jump shot from 27 ft (assist by T. Herro),,2,34,30,4,1026.0
+6:35.0,Z. LaVine misses 3-pt jump shot from 26 ft,30-34, ,,2,34,30,4,1045.0
+6:33.0, ,30-34,Defensive rebound by B. Adebayo,,2,34,30,4,1047.0
+6:23.0, ,30-36,T. Herro makes 2-pt jump shot from 11 ft,,2,36,30,6,1057.0
+6:23.0,Chicago full timeout,30-36, ,,2,36,30,6,1057.0
+6:23.0,N. Vučević enters the game for D. DeRozan,30-36, ,,2,36,30,6,1057.0
+6:23.0,C. White enters the game for A. Drummond,30-36, ,,2,36,30,6,1057.0
+6:08.0,C. White misses 2-pt layup from 4 ft,30-36, ,,2,36,30,6,1072.0
+6:08.0,Offensive rebound by Team,30-36, ,,2,36,30,6,1072.0
+5:58.0,N. Vučević makes 2-pt hook shot from 9 ft (assist by C. White),32-36, ,,2,36,32,4,1082.0
+5:36.0, ,32-36,Turnover by G. Vincent (bad pass),,2,36,32,4,1104.0
+5:36.0, ,32-36,M. Strus enters the game for K. Lowry,,2,36,32,4,1104.0
+5:22.0,N. Vučević misses 2-pt jump shot from 19 ft,32-36, ,,2,36,32,4,1118.0
+5:19.0, ,32-36,Defensive rebound by T. Herro,,2,36,32,4,1121.0
+5:04.0, ,32-36,J. Butler misses 2-pt layup from 5 ft,,2,36,32,4,1136.0
+5:00.0,Defensive rebound by N. Vučević,32-36, ,,2,36,32,4,1140.0
+4:55.0,P. Beverley misses 3-pt jump shot from 25 ft,32-36, ,,2,36,32,4,1145.0
+4:52.0, ,32-36,Defensive rebound by B. Adebayo,,2,36,32,4,1148.0
+4:45.0, ,32-36,M. Strus misses 3-pt jump shot from 26 ft,,2,36,32,4,1155.0
+4:41.0, ,32-36,Offensive rebound by B. Adebayo,,2,36,32,4,1159.0
+4:31.0, ,32-36,J. Butler misses 2-pt jump shot from 14 ft,,2,36,32,4,1169.0
+4:28.0,Defensive rebound by C. White,32-36, ,,2,36,32,4,1172.0
+4:17.0,N. Vučević makes 2-pt jump shot from 20 ft (assist by A. Caruso),34-36, ,,2,36,34,2,1183.0
+3:51.0, ,34-39,M. Strus makes 3-pt jump shot from 25 ft (assist by T. Herro),,2,39,34,5,1209.0
+3:34.0,Z. LaVine makes 2-pt layup from 4 ft,36-39, ,,2,39,36,3,1226.0
+3:16.0, ,36-39,Turnover by M. Strus (step out of bounds),,2,39,36,3,1244.0
+3:05.0,Personal foul by J. Butler (drawn by Z. LaVine),36-39, ,,2,39,36,3,1255.0
+3:05.0,D. DeRozan enters the game for P. Beverley,36-39, ,,2,39,36,3,1255.0
+3:05.0, ,36-39,C. Martin enters the game for G. Vincent,,2,39,36,3,1255.0
+2:56.0,Z. LaVine misses 2-pt jump shot from 10 ft,36-39, ,,2,39,36,3,1264.0
+2:53.0, ,36-39,Defensive rebound by M. Strus,,2,39,36,3,1267.0
+2:48.0, ,36-39,Shooting foul by C. White (drawn by T. Herro),,2,39,36,3,1272.0
+2:48.0, ,36-39,Miami full timeout,,2,39,36,3,1272.0
+2:48.0,P. Beverley enters the game for D. DeRozan,36-39, ,,2,39,36,3,1272.0
+2:48.0, ,36-39,G. Vincent enters the game for C. Martin,,2,39,36,3,1272.0
+2:48.0, ,36-39,Instant Replay,,2,39,36,3,1272.0
+2:48.0,D. DeRozan enters the game for P. Beverley,36-39, ,,2,39,36,3,1272.0
+2:48.0, ,36-39,C. Martin enters the game for G. Vincent,,2,39,36,3,1272.0
+2:48.0, ,36-40,T. Herro makes free throw 1 of 2,,2,40,36,4,1272.0
+2:48.0, ,36-41,T. Herro makes free throw 2 of 2,,2,41,36,5,1272.0
+2:34.0,N. Vučević makes 2-pt hook shot from 8 ft,38-41, ,,2,41,38,3,1286.0
+2:16.0, ,38-41,Shooting foul by A. Caruso (drawn by M. Strus),,2,41,38,3,1304.0
+2:16.0, ,38-42,M. Strus makes free throw 1 of 3,,2,42,38,4,1304.0
+2:16.0, ,38-43,M. Strus makes free throw 2 of 3,,2,43,38,5,1304.0
+2:16.0, ,38-44,M. Strus makes free throw 3 of 3,,2,44,38,6,1304.0
+1:58.0,A. Caruso makes 3-pt jump shot from 23 ft (assist by C. White),41-44, ,,2,44,41,3,1322.0
+1:34.0, ,41-44,J. Butler misses 2-pt jump shot from 14 ft,,2,44,41,3,1346.0
+1:28.0, ,41-44,Offensive rebound by B. Adebayo,,2,44,41,3,1352.0
+1:20.0, ,41-47,M. Strus makes 3-pt jump shot from 28 ft (assist by T. Herro),,2,47,41,6,1360.0
+0:54.0,Z. LaVine misses 2-pt jump shot from 18 ft,41-47, ,,2,47,41,6,1386.0
+0:47.0, ,41-47,Defensive rebound by T. Herro,,2,47,41,6,1393.0
+0:44.0, ,41-49,T. Herro makes 2-pt jump shot from 7 ft,,2,49,41,8,1396.0
+0:33.0,Z. LaVine makes 2-pt layup from 4 ft (assist by C. White),43-49, ,,2,49,43,6,1407.0
+0:33.0,Shooting foul by M. Strus (drawn by Z. LaVine),43-49, ,,2,49,43,6,1407.0
+0:33.0,P. Beverley enters the game for A. Caruso,43-49, ,,2,49,43,6,1407.0
+0:33.0, ,43-49,K. Love enters the game for B. Adebayo,,2,49,43,6,1407.0
+0:33.0,Z. LaVine makes free throw 1 of 1,44-49, ,,2,49,44,5,1407.0
+0:12.0, ,44-49,T. Herro misses 3-pt jump shot from 25 ft,,2,49,44,5,1428.0
+0:10.0, ,44-49,Offensive rebound by M. Strus,,2,49,44,5,1430.0
+0:04.0, ,44-49,Personal foul by P. Beverley (drawn by M. Strus),,2,49,44,5,1436.0
+0:04.0, ,44-49,K. Lowry enters the game for C. Martin,,2,49,44,5,1436.0
+0:00.0, ,44-49,Instant Replay (Request: Ruling Stands),,2,49,44,5,1440.0
+0:00.0,End of 2nd quarter,44-49,,,2,49,44,5,1440.0
+12:00.0,Start of 3rd quarter,44-49,,,3,49,44,5,1440.0
+11:38.0, ,44-51,J. Butler makes 2-pt layup from 5 ft (assist by B. Adebayo),,3,51,44,7,1462.0
+11:25.0,P. Beverley misses 3-pt jump shot from 25 ft,44-51, ,,3,51,44,7,1475.0
+11:22.0, ,44-51,Defensive rebound by B. Adebayo,,3,51,44,7,1478.0
+11:16.0, ,44-51,B. Adebayo misses 2-pt jump shot from 6 ft,,3,51,44,7,1484.0
+11:13.0,Defensive rebound by N. Vučević,44-51, ,,3,51,44,7,1487.0
+10:55.0,Z. LaVine misses 3-pt jump shot from 24 ft,44-51, ,,3,51,44,7,1505.0
+10:52.0, ,44-51,Defensive rebound by G. Vincent,,3,51,44,7,1508.0
+10:47.0, ,44-51,Personal foul by P. Beverley (drawn by B. Adebayo),,3,51,44,7,1513.0
+10:47.0, ,44-51,Instant Replay (Request: Ruling Stands),,3,51,44,7,1513.0
+10:43.0, ,44-53,J. Butler makes 2-pt jump shot from 11 ft (assist by G. Vincent),,3,53,44,9,1517.0
+10:43.0, ,44-53,Shooting foul by A. Caruso (drawn by J. Butler),,3,53,44,9,1517.0
+10:43.0, ,44-54,J. Butler makes free throw 1 of 1,,3,54,44,10,1517.0
+10:33.0,D. DeRozan makes 2-pt jump shot from 21 ft (assist by P. Beverley),46-54, ,,3,54,46,8,1527.0
+10:11.0, ,46-54,J. Butler misses 2-pt layup from 5 ft,,3,54,46,8,1549.0
+10:07.0, ,46-54,Offensive rebound by B. Adebayo,,3,54,46,8,1553.0
+10:06.0, ,46-54,B. Adebayo misses 2-pt jump shot from 4 ft,,3,54,46,8,1554.0
+10:04.0,Defensive rebound by N. Vučević,46-54, ,,3,54,46,8,1556.0
+9:56.0,D. DeRozan misses 3-pt jump shot from 26 ft,46-54, ,,3,54,46,8,1564.0
+9:50.0, ,46-54,Defensive rebound by T. Herro,,3,54,46,8,1570.0
+9:41.0, ,46-54,M. Strus misses 3-pt jump shot from 28 ft,,3,54,46,8,1579.0
+9:37.0,Defensive rebound by D. DeRozan,46-54, ,,3,54,46,8,1583.0
+9:30.0,N. Vučević makes 2-pt hook shot from 4 ft (assist by D. DeRozan),48-54, ,,3,54,48,6,1590.0
+9:15.0, ,48-56,T. Herro makes 2-pt jump shot from 7 ft,,3,56,48,8,1605.0
+8:55.0,Z. LaVine makes 2-pt layup from 5 ft (assist by A. Caruso),50-56, ,,3,56,50,6,1625.0
+8:40.0, ,50-56,G. Vincent misses 3-pt jump shot from 24 ft,,3,56,50,6,1640.0
+8:38.0,Defensive rebound by N. Vučević,50-56, ,,3,56,50,6,1642.0
+8:26.0,N. Vučević makes 2-pt hook shot from 5 ft (assist by D. DeRozan),52-56, ,,3,56,52,4,1654.0
+8:09.0, ,52-56,B. Adebayo misses 2-pt jump shot from 11 ft,,3,56,52,4,1671.0
+8:06.0,Defensive rebound by Z. LaVine,52-56, ,,3,56,52,4,1674.0
+8:01.0,Z. LaVine makes 2-pt layup from 5 ft,54-56, ,,3,56,54,2,1679.0
+7:44.0, ,54-56,Turnover by T. Herro (lost ball; steal by D. DeRozan),,3,56,54,2,1696.0
+7:40.0,A. Caruso makes 2-pt layup from 2 ft,56-56, ,Tie,3,56,56,0,1700.0
+7:40.0, ,56-56,Miami full timeout,,3,56,56,0,1700.0
+7:24.0, ,56-58,J. Butler makes 2-pt dunk from 4 ft (assist by T. Herro),,3,58,56,2,1716.0
+7:05.0,D. DeRozan makes 2-pt jump shot from 16 ft,58-58, ,Tie,3,58,58,0,1735.0
+6:46.0, ,58-58,J. Butler misses 2-pt jump shot from 7 ft,,3,58,58,0,1754.0
+6:45.0, ,58-58,Offensive rebound by B. Adebayo,,3,58,58,0,1755.0
+6:45.0, ,58-58,B. Adebayo misses 2-pt layup from 1 ft,,3,58,58,0,1755.0
+6:43.0,Defensive rebound by A. Caruso,58-58, ,,3,58,58,0,1757.0
+6:29.0,A. Caruso misses 2-pt jump shot from 18 ft (block by T. Herro),58-58, ,,3,58,58,0,1771.0
+6:26.0, ,58-58,Defensive rebound by G. Vincent,,3,58,58,0,1774.0
+6:21.0, ,58-58,M. Strus misses 3-pt jump shot from 27 ft,,3,58,58,0,1779.0
+6:16.0,Defensive rebound by Z. LaVine,58-58, ,,3,58,58,0,1784.0
+6:05.0,Turnover by D. DeRozan (bad pass; steal by B. Adebayo),58-58, ,,3,58,58,0,1795.0
+5:58.0, ,58-58,G. Vincent misses 3-pt jump shot from 24 ft,,3,58,58,0,1802.0
+5:55.0,Defensive rebound by N. Vučević,58-58, ,,3,58,58,0,1805.0
+5:53.0,Z. LaVine makes 2-pt dunk from 3 ft (assist by N. Vučević),60-58, ,Lead change,3,58,60,-2,1807.0
+5:53.0,C. White enters the game for D. DeRozan,60-58, ,,3,58,60,-2,1807.0
+5:53.0, ,60-58,K. Lowry enters the game for T. Herro,,3,58,60,-2,1807.0
+5:53.0, ,60-58,C. Martin enters the game for G. Vincent,,3,58,60,-2,1807.0
+5:27.0, ,60-58,M. Strus misses 2-pt jump shot from 15 ft,,3,58,60,-2,1833.0
+5:24.0,Defensive rebound by P. Beverley,60-58, ,,3,58,60,-2,1836.0
+5:18.0,A. Caruso misses 3-pt jump shot from 26 ft,60-58, ,,3,58,60,-2,1842.0
+5:14.0, ,60-58,Defensive rebound by C. Martin,,3,58,60,-2,1846.0
+5:05.0, ,60-58,J. Butler misses 2-pt layup at rim,,3,58,60,-2,1855.0
+5:03.0, ,60-58,Offensive rebound by C. Martin,,3,58,60,-2,1857.0
+5:02.0, ,60-60,C. Martin makes 2-pt layup from 5 ft,Tie,3,60,60,0,1858.0
+4:49.0,Z. LaVine misses 2-pt jump shot from 24 ft,60-60, ,,3,60,60,0,1871.0
+4:45.0, ,60-60,Defensive rebound by M. Strus,,3,60,60,0,1875.0
+4:44.0, ,60-60,Offensive foul by B. Adebayo (drawn by Z. LaVine),,3,60,60,0,1876.0
+4:44.0, ,60-60,Turnover by B. Adebayo (offensive foul),,3,60,60,0,1876.0
+4:44.0,A. Dosunmu enters the game for P. Beverley,60-60, ,,3,60,60,0,1876.0
+4:44.0,P. Williams enters the game for A. Caruso,60-60, ,,3,60,60,0,1876.0
+4:30.0,P. Williams misses 2-pt jump shot from 13 ft,60-60, ,,3,60,60,0,1890.0
+4:25.0, ,60-60,Defensive rebound by K. Lowry,,3,60,60,0,1895.0
+4:25.0, ,60-60,Personal foul by C. White (drawn by K. Lowry),,3,60,60,0,1895.0
+4:25.0, ,60-60,K. Love enters the game for B. Adebayo,,3,60,60,0,1895.0
+4:17.0, ,60-60,Turnover by K. Lowry (bad pass; steal by C. White),,3,60,60,0,1903.0
+3:59.0,Turnover by Z. LaVine (lost ball; steal by K. Love),60-60, ,,3,60,60,0,1921.0
+3:56.0, ,60-60,Shooting foul by A. Dosunmu (drawn by J. Butler),,3,60,60,0,1924.0
+3:56.0, ,60-61,J. Butler makes free throw 1 of 2,Lead change,3,61,60,1,1924.0
+3:56.0,Chicago full timeout,60-61, ,,3,61,60,1,1924.0
+3:56.0, ,60-62,J. Butler makes free throw 2 of 2,,3,62,60,2,1924.0
+3:38.0,C. White misses 2-pt jump shot from 7 ft,60-62, ,,3,62,60,2,1942.0
+3:34.0, ,60-62,Defensive rebound by M. Strus,,3,62,60,2,1946.0
+3:22.0, ,60-62,C. Martin misses 2-pt layup from 2 ft (block by C. White),,3,62,60,2,1958.0
+3:22.0, ,60-62,Offensive rebound by Team,,3,62,60,2,1958.0
+3:22.0,D. DeRozan enters the game for A. Dosunmu,60-62, ,,3,62,60,2,1958.0
+3:22.0,A. Drummond enters the game for N. Vučević,60-62, ,,3,62,60,2,1958.0
+3:16.0, ,60-62,K. Love misses 3-pt jump shot from 28 ft,,3,62,60,2,1964.0
+3:14.0,Defensive rebound by D. DeRozan,60-62, ,,3,62,60,2,1966.0
+2:58.0,Z. LaVine misses 2-pt jump shot from 13 ft,60-62, ,,3,62,60,2,1982.0
+2:55.0, ,60-62,Defensive rebound by K. Love,,3,62,60,2,1985.0
+2:42.0, ,60-65,K. Love makes 3-pt jump shot from 27 ft (assist by J. Butler),,3,65,60,5,1998.0
+2:19.0,Shooting foul by K. Love (drawn by Z. LaVine),60-65, ,,3,65,60,5,2021.0
+2:19.0,Z. LaVine misses free throw 1 of 2,60-65, ,,3,65,60,5,2021.0
+2:19.0,Offensive rebound by Team,60-65, ,,3,65,60,5,2021.0
+2:19.0,Z. LaVine makes free throw 2 of 2,61-65, ,,3,65,61,4,2021.0
+2:01.0, ,61-65,J. Butler misses 2-pt jump shot from 7 ft,,3,65,61,4,2039.0
+2:01.0, ,61-65,Offensive rebound by J. Butler,,3,65,61,4,2039.0
+2:01.0, ,61-65,J. Butler misses 2-pt layup at rim,,3,65,61,4,2039.0
+2:01.0, ,61-65,Offensive rebound by Team,,3,65,61,4,2039.0
+1:55.0, ,61-65,M. Strus misses 2-pt jump shot from 12 ft,,3,65,61,4,2045.0
+1:53.0,Defensive rebound by A. Drummond,61-65, ,,3,65,61,4,2047.0
+1:44.0,D. DeRozan misses 2-pt jump shot from 12 ft,61-65, ,,3,65,61,4,2056.0
+1:43.0,Offensive rebound by A. Drummond,61-65, ,,3,65,61,4,2057.0
+1:43.0,Personal foul by K. Love (drawn by A. Drummond),61-65, ,,3,65,61,4,2057.0
+1:43.0, ,61-65,T. Herro enters the game for M. Strus,,3,65,61,4,2057.0
+1:30.0,P. Williams makes 2-pt jump shot from 16 ft (assist by D. DeRozan),63-65, ,,3,65,63,2,2070.0
+1:13.0, ,63-65,K. Lowry misses 3-pt jump shot from 27 ft,,3,65,63,2,2087.0
+1:12.0, ,63-65,Offensive rebound by K. Love,,3,65,63,2,2088.0
+1:12.0, ,63-65,Personal foul by P. Williams (drawn by K. Love),,3,65,63,2,2088.0
+1:12.0, ,63-66,K. Love makes free throw 1 of 2,,3,66,63,3,2088.0
+1:12.0, ,63-67,K. Love makes free throw 2 of 2,,3,67,63,4,2088.0
+1:00.0,D. DeRozan misses 2-pt jump shot from 17 ft,63-67, ,,3,67,63,4,2100.0
+0:58.0,Offensive rebound by A. Drummond,63-67, ,,3,67,63,4,2102.0
+0:58.0,A. Drummond makes 2-pt layup from 5 ft,65-67, ,,3,67,65,2,2102.0
+0:58.0,Shooting foul by K. Lowry (drawn by A. Drummond),65-67, ,,3,67,65,2,2102.0
+0:58.0,A. Drummond misses free throw 1 of 1,65-67, ,,3,67,65,2,2102.0
+0:55.0, ,65-67,Defensive rebound by T. Herro,,3,67,65,2,2105.0
+0:34.0, ,65-67,J. Butler misses 3-pt jump shot from 25 ft,,3,67,65,2,2126.0
+0:30.0,Defensive rebound by A. Drummond,65-67, ,,3,67,65,2,2130.0
+0:18.0,D. DeRozan misses 3-pt jump shot from 25 ft,65-67, ,,3,67,65,2,2142.0
+0:14.0,Offensive rebound by D. DeRozan,65-67, ,,3,67,65,2,2146.0
+0:13.0,D. DeRozan makes 2-pt jump shot from 16 ft,67-67, ,Tie,3,67,67,0,2147.0
+0:13.0,Shooting foul by K. Love (drawn by D. DeRozan),67-67, ,,3,67,67,0,2147.0
+0:13.0,P. Beverley enters the game for A. Drummond,67-67, ,,3,67,67,0,2147.0
+0:13.0,D. Jones enters the game for Z. LaVine,67-67, ,,3,67,67,0,2147.0
+0:13.0, ,67-67,M. Strus enters the game for C. Martin,,3,67,67,0,2147.0
+0:13.0,D. DeRozan makes free throw 1 of 1,68-67, ,Lead change,3,67,68,-1,2147.0
+0:00.0, ,68-67,T. Herro misses 3-pt jump shot from 27 ft,,3,67,68,-1,2160.0
+0:00.0, ,68-67,Offensive rebound by Team,,3,67,68,-1,2160.0
+0:00.0,End of 3rd quarter,68-67,,,3,67,68,-1,2160.0
+12:00.0,Start of 4th quarter,68-67,,,4,67,68,-1,2160.0
+11:59.0,Turnover by P. Williams (bad pass),68-67, ,,4,67,68,-1,2161.0
+11:57.0, ,68-67,Offensive foul by T. Herro (drawn by P. Beverley),,4,67,68,-1,2163.0
+11:57.0, ,68-67,Turnover by T. Herro (offensive foul),,4,67,68,-1,2163.0
+11:40.0,D. DeRozan misses 2-pt jump shot from 17 ft,68-67, ,,4,67,68,-1,2180.0
+11:37.0, ,68-67,Defensive rebound by K. Lowry,,4,67,68,-1,2183.0
+11:28.0, ,68-69,K. Lowry makes 2-pt jump shot from 12 ft,Lead change,4,69,68,1,2192.0
+11:03.0,C. White makes 3-pt jump shot from 26 ft,71-69, ,Lead change,4,69,71,-2,2217.0
+10:43.0, ,71-69,T. Herro misses 3-pt jump shot from 27 ft (block by A. Drummond),,4,69,71,-2,2237.0
+10:39.0, ,71-69,Offensive rebound by T. Herro,,4,69,71,-2,2241.0
+10:36.0, ,71-72,C. Martin makes 3-pt jump shot from 24 ft (assist by T. Herro),Lead change,4,72,71,1,2244.0
+10:20.0,A. Drummond makes 2-pt dunk from 3 ft (assist by P. Beverley),73-72, ,Lead change,4,72,73,-1,2260.0
+10:04.0, ,73-72,K. Lowry misses 3-pt jump shot from 27 ft,,4,72,73,-1,2276.0
+10:01.0,Defensive rebound by A. Drummond,73-72, ,,4,72,73,-1,2279.0
+9:51.0,D. DeRozan makes 2-pt dunk from 2 ft,75-72, ,,4,72,75,-3,2289.0
+9:51.0,Shooting foul by C. Martin (drawn by D. DeRozan),75-72, ,,4,72,75,-3,2289.0
+9:51.0, ,75-72,J. Butler enters the game for K. Lowry,,4,72,75,-3,2289.0
+9:51.0,D. DeRozan makes free throw 1 of 1,76-72, ,,4,72,76,-4,2289.0
+9:42.0,Violation by Team (kicked ball),76-72, ,,4,72,76,-4,2298.0
+9:27.0, ,76-74,T. Herro makes 2-pt jump shot from 14 ft,,4,74,76,-2,2313.0
+9:00.0,D. DeRozan misses 2-pt jump shot from 15 ft,76-74, ,,4,74,76,-2,2340.0
+8:55.0,Offensive rebound by A. Drummond,76-74, ,,4,74,76,-2,2345.0
+8:55.0,A. Drummond makes 2-pt layup at rim,78-74, ,,4,74,78,-4,2345.0
+8:43.0, ,78-74,Shooting foul by P. Williams (drawn by C. Martin),,4,74,78,-4,2357.0
+8:43.0, ,78-75,C. Martin makes free throw 1 of 2,,4,75,78,-3,2357.0
+8:43.0,Z. LaVine enters the game for C. White,78-75, ,,4,75,78,-3,2357.0
+8:43.0, ,78-75,C. Martin misses free throw 2 of 2,,4,75,78,-3,2357.0
+8:41.0,Defensive rebound by P. Williams,78-75, ,,4,75,78,-3,2359.0
+8:27.0,D. DeRozan makes 2-pt jump shot from 17 ft,80-75, ,,4,75,80,-5,2373.0
+8:27.0,Shooting foul by C. Martin (drawn by D. DeRozan),80-75, ,,4,75,80,-5,2373.0
+8:27.0,A. Caruso enters the game for A. Drummond,80-75, ,,4,75,80,-5,2373.0
+8:27.0,N. Vučević enters the game for P. Williams,80-75, ,,4,75,80,-5,2373.0
+8:27.0,D. DeRozan makes free throw 1 of 1,81-75, ,,4,75,81,-6,2373.0
+8:17.0, ,81-75,Personal foul by P. Beverley (drawn by T. Herro),,4,75,81,-6,2383.0
+8:17.0,C. White enters the game for P. Beverley,81-75, ,,4,75,81,-6,2383.0
+8:17.0, ,81-75,M. Strus enters the game for G. Vincent,,4,75,81,-6,2383.0
+8:11.0, ,81-75,Personal foul by D. DeRozan (drawn by J. Butler),,4,75,81,-6,2389.0
+8:05.0, ,81-75,J. Butler misses 2-pt jump shot from 12 ft,,4,75,81,-6,2395.0
+8:00.0,Defensive rebound by C. White,81-75, ,,4,75,81,-6,2400.0
+7:42.0,Jump ball: M. Strus vs. C. White (C. Martin gains possession),81-75,,,4,75,81,-6,2418.0
+7:42.0,Turnover by C. White (lost ball; steal by M. Strus),81-75, ,,4,75,81,-6,2418.0
+7:30.0, ,81-75,Shooting foul by N. Vučević (drawn by B. Adebayo),,4,75,81,-6,2430.0
+7:30.0, ,81-76,B. Adebayo makes free throw 1 of 2,,4,76,81,-5,2430.0
+7:30.0, ,81-76,B. Adebayo misses free throw 2 of 2,,4,76,81,-5,2430.0
+7:27.0,Defensive rebound by A. Caruso,81-76, ,,4,76,81,-5,2433.0
+7:17.0, ,81-76,Violation by Team (kicked ball),,4,76,81,-5,2443.0
+7:12.0,Shooting foul by M. Strus (drawn by Z. LaVine),81-76, ,,4,76,81,-5,2448.0
+7:12.0,Z. LaVine misses free throw 1 of 2,81-76, ,,4,76,81,-5,2448.0
+7:12.0,Offensive rebound by Team,81-76, ,,4,76,81,-5,2448.0
+7:12.0,Z. LaVine makes free throw 2 of 2,82-76, ,,4,76,82,-6,2448.0
+7:01.0, ,82-78,J. Butler makes 2-pt layup from 5 ft,,4,78,82,-4,2459.0
+6:48.0,Turnover by Z. LaVine (bad pass; steal by J. Butler),82-78, ,,4,78,82,-4,2472.0
+6:43.0, ,82-80,J. Butler makes 2-pt layup from 6 ft,,4,80,82,-2,2477.0
+6:19.0,C. White makes 3-pt jump shot from 26 ft (assist by A. Caruso),85-80, ,,4,80,85,-5,2501.0
+6:17.0, ,85-80,Miami full timeout,,4,80,85,-5,2503.0
+5:56.0, ,85-80,J. Butler misses 2-pt jump shot from 17 ft,,4,80,85,-5,2524.0
+5:50.0,Defensive rebound by A. Caruso,85-80, ,,4,80,85,-5,2530.0
+5:44.0,N. Vučević misses 2-pt jump shot from 16 ft,85-80, ,,4,80,85,-5,2536.0
+5:38.0, ,85-80,Defensive rebound by B. Adebayo,,4,80,85,-5,2542.0
+5:29.0, ,85-82,J. Butler makes 2-pt layup from 5 ft,,4,82,85,-3,2551.0
+5:29.0, ,85-82,Shooting foul by A. Caruso (drawn by J. Butler),,4,82,85,-3,2551.0
+5:29.0, ,85-83,J. Butler makes free throw 1 of 1,,4,83,85,-2,2551.0
+5:13.0,Z. LaVine misses 3-pt jump shot from 26 ft,85-83, ,,4,83,85,-2,2567.0
+5:10.0, ,85-83,Defensive rebound by B. Adebayo,,4,83,85,-2,2570.0
+5:01.0, ,85-85,M. Strus makes 2-pt layup from 5 ft (assist by J. Butler),Tie,4,85,85,0,2579.0
+5:01.0,Chicago full timeout,85-85, ,,4,85,85,0,2579.0
+4:45.0,D. DeRozan makes 2-pt jump shot from 22 ft (assist by A. Caruso),87-85, ,,4,85,87,-2,2595.0
+4:29.0, ,87-85,M. Strus misses 3-pt jump shot from 27 ft,,4,85,87,-2,2611.0
+4:28.0,Defensive rebound by Team,87-85, ,,4,85,87,-2,2612.0
+4:12.0,Turnover by Z. LaVine (bad pass; steal by T. Herro),87-85, ,,4,85,87,-2,2628.0
+4:06.0, ,87-85,Turnover by C. Martin (lost ball; steal by Z. LaVine),,4,85,87,-2,2634.0
+3:59.0,Z. LaVine misses 2-pt layup from 2 ft,87-85, ,,4,85,87,-2,2641.0
+3:59.0, ,87-85,Defensive rebound by J. Butler,,4,85,87,-2,2641.0
+3:59.0, ,87-85,Personal foul by Z. LaVine (drawn by J. Butler),,4,85,87,-2,2641.0
+3:59.0, ,87-86,J. Butler makes free throw 1 of 2,,4,86,87,-1,2641.0
+3:59.0, ,87-87,J. Butler makes free throw 2 of 2,Tie,4,87,87,0,2641.0
+3:47.0,C. White makes 3-pt jump shot from 26 ft (assist by D. DeRozan),90-87, ,,4,87,90,-3,2653.0
+3:45.0, ,90-87,Miami full timeout,,4,87,90,-3,2655.0
+3:29.0, ,90-87,J. Butler misses 2-pt layup from 6 ft (block by A. Caruso),,4,87,90,-3,2671.0
+3:24.0,Defensive rebound by C. White,90-87, ,,4,87,90,-3,2676.0
+3:07.0,C. White misses 2-pt jump shot from 3 ft,90-87, ,,4,87,90,-3,2693.0
+3:03.0, ,90-87,Defensive rebound by M. Strus,,4,87,90,-3,2697.0
+2:54.0, ,90-89,T. Herro makes 2-pt jump shot from 15 ft,,4,89,90,-1,2706.0
+2:29.0,D. DeRozan misses 2-pt jump shot from 16 ft,90-89, ,,4,89,90,-1,2731.0
+2:26.0, ,90-89,Defensive rebound by B. Adebayo,,4,89,90,-1,2734.0
+2:17.0, ,90-91,J. Butler makes 2-pt layup from 5 ft,Lead change,4,91,90,1,2743.0
+2:17.0, ,90-91,Shooting foul by N. Vučević (drawn by J. Butler),,4,91,90,1,2743.0
+2:17.0,P. Beverley enters the game for C. White,90-91, ,,4,91,90,1,2743.0
+2:17.0, ,90-91,J. Butler misses free throw 1 of 1,,4,91,90,1,2743.0
+2:15.0,Defensive rebound by Team,90-91, ,,4,91,90,1,2745.0
+1:59.0,A. Caruso misses 3-pt jump shot from 23 ft,90-91, ,,4,91,90,1,2761.0
+1:55.0, ,90-91,Defensive rebound by C. Martin,,4,91,90,1,2765.0
+1:41.0, ,90-91,Shooting foul by N. Vučević (drawn by B. Adebayo),,4,91,90,1,2779.0
+1:41.0, ,90-92,B. Adebayo makes free throw 1 of 2,,4,92,90,2,2779.0
+1:41.0, ,90-93,B. Adebayo makes free throw 2 of 2,,4,93,90,3,2779.0
+1:33.0,Shooting foul by C. Martin (drawn by D. DeRozan),90-93, ,,4,93,90,3,2787.0
+1:33.0,D. DeRozan misses free throw 1 of 2,90-93, ,,4,93,90,3,2787.0
+1:33.0,Offensive rebound by Team,90-93, ,,4,93,90,3,2787.0
+1:33.0,D. DeRozan makes free throw 2 of 2,91-93, ,,4,93,91,2,2787.0
+1:14.0, ,91-96,M. Strus makes 3-pt jump shot from 26 ft (assist by J. Butler),,4,96,91,5,2806.0
+1:02.0,Z. LaVine misses 2-pt jump shot from 18 ft,91-96, ,,4,96,91,5,2818.0
+0:58.0, ,91-96,Defensive rebound by M. Strus,,4,96,91,5,2822.0
+0:40.0, ,91-96,Shooting foul by A. Caruso (drawn by M. Strus),,4,96,91,5,2840.0
+0:40.0,Chicago full timeout,91-96, ,,4,96,91,5,2840.0
+0:40.0,Instant Replay (Challenge: Ruling Stands),91-96, ,,4,96,91,5,2840.0
+0:40.0,C. White enters the game for P. Beverley,91-96, ,,4,96,91,5,2840.0
+0:40.0, ,91-97,M. Strus makes free throw 1 of 3,,4,97,91,6,2840.0
+0:40.0, ,91-98,M. Strus makes free throw 2 of 3,,4,98,91,7,2840.0
+0:40.0, ,91-99,M. Strus makes free throw 3 of 3,,4,99,91,8,2840.0
+0:33.0,Z. LaVine misses 2-pt layup from 3 ft (block by B. Adebayo),91-99, ,,4,99,91,8,2847.0
+0:33.0, ,91-99,Defensive rebound by B. Adebayo,,4,99,91,8,2847.0
+0:33.0, ,91-99,Personal foul by C. White (drawn by B. Adebayo),,4,99,91,8,2847.0
+0:33.0, ,91-99,B. Adebayo misses free throw 1 of 2,,4,99,91,8,2847.0
+0:33.0, ,91-99,Offensive rebound by Team,,4,99,91,8,2847.0
+0:33.0, ,91-100,B. Adebayo makes free throw 2 of 2,,4,100,91,9,2847.0
+0:29.0,Z. LaVine misses 3-pt jump shot from 26 ft,91-100, ,,4,100,91,9,2851.0
+0:26.0, ,91-100,Defensive rebound by J. Butler,,4,100,91,9,2854.0
+0:26.0, ,91-100,Personal take foul by A. Caruso (drawn by J. Butler),,4,100,91,9,2854.0
+0:26.0,P. Williams enters the game for A. Caruso,91-100, ,,4,100,91,9,2854.0
+0:26.0, ,91-101,J. Butler makes free throw 1 of 2,,4,101,91,10,2854.0
+0:26.0, ,91-102,J. Butler makes free throw 2 of 2,,4,102,91,11,2854.0
+0:20.0,C. White misses 3-pt jump shot from 27 ft,91-102, ,,4,102,91,11,2860.0
+0:15.0, ,91-102,Defensive rebound by J. Butler,,4,102,91,11,2865.0
+0:00.0,End of 4th quarter,91-102,,,4,102,91,11,2880.0

@@ -95,8 +95,13 @@ def scrape_raw_pbp(url, filename, team, season):
                 ['A', 'B','C','D','E','F','Event']
             ]
 
-            # Process the table headers
-            headers = [th.getText() for th in table.find_all('tr')[0].find_all(['th', 'td'])]
+            try:
+                # Process the table headers
+                headers = [th.getText() for th in table.find_all('tr')[0].find_all(['th', 'td'])]
+            except Exception as e:
+                # Catch any other exception that wasn't caught by the specific except blocks
+                print(f"Error on table for game {filename}: {e}")
+                return False
 
             # Initialize a list to hold all rows of the table
             rows.append(headers)
@@ -366,4 +371,4 @@ def combine(team, season):
 
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
-scrape("MIA", "2024")
+scrape("MIA", "2023")

@@ -1,0 +1,504 @@
+Time,Miami,Score,Utah,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. K. Olynyk (M. Strus gains possession),0-0,,,1,0,0,0,0.0
+11:39.0,H. Highsmith makes 2-pt layup from 3 ft (assist by M. Strus),2-0, ,,1,2,0,2,21.0
+11:16.0, ,2-0,Turnover by J. Clarkson (bad pass; steal by T. Herro),,1,2,0,2,44.0
+11:07.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by M. Strus),4-0, ,,1,4,0,4,53.0
+10:50.0, ,4-0,Personal foul by H. Highsmith (drawn by L. Markkanen),,1,4,0,4,70.0
+10:40.0, ,4-2,M. Conley makes 2-pt jump shot from 11 ft (assist by J. Clarkson),,1,4,2,2,80.0
+10:28.0,Turnover by B. Adebayo (lost ball; steal by K. Olynyk),4-2, ,,1,4,2,2,92.0
+10:22.0, ,4-2,K. Olynyk misses 2-pt layup from 4 ft,,1,4,2,2,98.0
+10:20.0, ,4-2,Offensive rebound by J. Vanderbilt,,1,4,2,2,100.0
+10:20.0, ,4-4,J. Vanderbilt makes 2-pt dunk at rim,Tie,1,4,4,0,100.0
+10:06.0,K. Lowry misses 3-pt jump shot from 25 ft,4-4, ,,1,4,4,0,114.0
+10:03.0, ,4-4,Defensive rebound by J. Vanderbilt,,1,4,4,0,117.0
+9:58.0, ,4-7,J. Clarkson makes 3-pt jump shot from 30 ft (assist by J. Vanderbilt),Lead change,1,4,7,-3,122.0
+9:42.0,Flagrant foul type 1 by M. Conley (drawn by T. Herro),4-7, ,,1,4,7,-3,138.0
+9:42.0,Instant Replay (Request: Ruling Stands),4-7, ,,1,4,7,-3,138.0
+9:42.0,T. Herro misses flagrant free throw 1 of 3,4-7, ,,1,4,7,-3,138.0
+9:42.0,Offensive rebound by Team,4-7, ,,1,4,7,-3,138.0
+9:42.0,T. Herro makes flagrant free throw 2 of 3,5-7, ,,1,5,7,-2,138.0
+9:42.0,T. Herro makes flagrant free throw 3 of 3,6-7, ,,1,6,7,-1,138.0
+9:27.0,M. Strus misses 3-pt jump shot from 25 ft,6-7, ,,1,6,7,-1,153.0
+9:22.0, ,6-7,Defensive rebound by Team,,1,6,7,-1,158.0
+9:16.0, ,6-7,L. Markkanen misses 3-pt jump shot from 26 ft,,1,6,7,-1,164.0
+9:12.0,Defensive rebound by T. Herro,6-7, ,,1,6,7,-1,168.0
+9:07.0,Shooting foul by K. Olynyk (drawn by T. Herro),6-7, ,,1,6,7,-1,173.0
+9:07.0,T. Herro makes free throw 1 of 2,7-7, ,Tie,1,7,7,0,173.0
+9:07.0,T. Herro makes free throw 2 of 2,8-7, ,Lead change,1,8,7,1,173.0
+8:53.0, ,8-7,M. Conley misses 3-pt jump shot from 25 ft,,1,8,7,1,187.0
+8:48.0,Defensive rebound by T. Herro,8-7, ,,1,8,7,1,192.0
+8:45.0,Personal foul by M. Conley (drawn by M. Strus),8-7, ,,1,8,7,1,195.0
+8:41.0,K. Lowry makes 3-pt jump shot from 24 ft (assist by B. Adebayo),11-7, ,,1,11,7,4,199.0
+8:34.0, ,11-7,Personal foul by M. Strus (drawn by M. Conley),,1,11,7,4,206.0
+8:27.0, ,11-10,J. Clarkson makes 3-pt jump shot from 27 ft (assist by M. Conley),,1,11,10,1,213.0
+8:12.0,B. Adebayo makes 2-pt jump shot from 10 ft (assist by T. Herro),13-10, ,,1,13,10,3,228.0
+7:57.0, ,13-10,Turnover by M. Conley (step out of bounds),,1,13,10,3,243.0
+7:40.0,T. Herro misses 3-pt jump shot from 26 ft,13-10, ,,1,13,10,3,260.0
+7:38.0, ,13-10,Defensive rebound by J. Vanderbilt,,1,13,10,3,262.0
+7:32.0, ,13-10,J. Clarkson misses 3-pt jump shot from 27 ft,,1,13,10,3,268.0
+7:29.0,Defensive rebound by T. Herro,13-10, ,,1,13,10,3,271.0
+7:25.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by T. Herro),15-10, ,,1,15,10,5,275.0
+7:01.0, ,15-12,J. Clarkson makes 2-pt jump shot from 15 ft (assist by M. Conley),,1,15,12,3,299.0
+6:50.0,Turnover by T. Herro (lost ball; steal by L. Markkanen),15-12, ,,1,15,12,3,310.0
+6:37.0, ,15-12,L. Markkanen misses 3-pt jump shot from 28 ft,,1,15,12,3,323.0
+6:34.0, ,15-12,Offensive rebound by J. Vanderbilt,,1,15,12,3,326.0
+6:31.0, ,15-12,Offensive foul by L. Markkanen (drawn by K. Lowry),,1,15,12,3,329.0
+6:31.0, ,15-12,Turnover by L. Markkanen (offensive foul),,1,15,12,3,329.0
+6:31.0, ,15-12,Utah full timeout,,1,15,12,3,329.0
+6:31.0, ,15-12,W. Kessler enters the game for M. Conley,,1,15,12,3,329.0
+6:31.0, ,15-12,C. Sexton enters the game for J. Vanderbilt,,1,15,12,3,329.0
+6:19.0,K. Lowry makes 2-pt layup from 3 ft (assist by B. Adebayo),17-12, ,,1,17,12,5,341.0
+5:56.0, ,17-12,Personal foul by T. Herro (drawn by J. Clarkson),,1,17,12,5,364.0
+5:56.0,V. Oladipo enters the game for B. Adebayo,17-12, ,,1,17,12,5,364.0
+5:56.0,O. Robinson enters the game for M. Strus,17-12, ,,1,17,12,5,364.0
+5:47.0, ,17-14,K. Olynyk makes 2-pt layup from 4 ft (assist by C. Sexton),,1,17,14,3,373.0
+5:34.0,O. Robinson makes 2-pt jump shot from 6 ft (assist by K. Lowry),19-14, ,,1,19,14,5,386.0
+5:15.0, ,19-14,Personal foul by H. Highsmith (drawn by L. Markkanen),,1,19,14,5,405.0
+5:08.0, ,19-14,K. Olynyk misses 2-pt jump shot from 12 ft,,1,19,14,5,412.0
+5:06.0,Defensive rebound by O. Robinson,19-14, ,,1,19,14,5,414.0
+5:02.0,Turnover by K. Lowry (traveling),19-14, ,,1,19,14,5,418.0
+5:02.0,J. Cain enters the game for H. Highsmith,19-14, ,,1,19,14,5,418.0
+4:43.0, ,19-14,J. Clarkson misses 3-pt jump shot from 26 ft,,1,19,14,5,437.0
+4:42.0, ,19-14,Offensive rebound by Team,,1,19,14,5,438.0
+4:42.0,Loose ball foul by K. Lowry (drawn by K. Olynyk),19-14, ,,1,19,14,5,438.0
+4:42.0, ,19-14,K. Olynyk misses free throw 1 of 2,,1,19,14,5,438.0
+4:42.0, ,19-15,K. Olynyk makes free throw 2 of 2,,1,19,15,4,438.0
+4:42.0, ,19-15,R. Gay enters the game for K. Olynyk,,1,19,15,4,438.0
+4:22.0,V. Oladipo misses 3-pt jump shot from 26 ft,19-15, ,,1,19,15,4,458.0
+4:20.0,Offensive rebound by J. Cain,19-15, ,,1,19,15,4,460.0
+4:20.0,J. Cain makes 2-pt layup at rim,21-15, ,,1,21,15,6,460.0
+4:20.0,Shooting foul by R. Gay (drawn by J. Cain),21-15, ,,1,21,15,6,460.0
+4:20.0,J. Cain misses free throw 1 of 1,21-15, ,,1,21,15,6,460.0
+4:16.0, ,21-15,Defensive rebound by L. Markkanen,,1,21,15,6,464.0
+4:10.0, ,21-15,R. Gay misses 3-pt jump shot from 23 ft,,1,21,15,6,470.0
+4:07.0,Defensive rebound by O. Robinson,21-15, ,,1,21,15,6,473.0
+4:01.0,Turnover by V. Oladipo (bad pass),21-15, ,,1,21,15,6,479.0
+3:48.0, ,21-18,R. Gay makes 3-pt jump shot from 23 ft (assist by J. Clarkson),,1,21,18,3,492.0
+3:29.0,K. Lowry misses 3-pt jump shot from 26 ft,21-18, ,,1,21,18,3,511.0
+3:28.0, ,21-18,Defensive rebound by L. Markkanen,,1,21,18,3,512.0
+3:23.0, ,21-18,L. Markkanen misses 2-pt layup from 3 ft,,1,21,18,3,517.0
+3:19.0, ,21-18,Offensive rebound by W. Kessler,,1,21,18,3,521.0
+3:19.0, ,21-20,W. Kessler makes 2-pt layup at rim,,1,21,20,1,521.0
+3:19.0,Miami full timeout,21-20, ,,1,21,20,1,521.0
+3:19.0,G. Vincent enters the game for K. Lowry,21-20, ,,1,21,20,1,521.0
+3:19.0, ,21-20,M. Beasley enters the game for J. Clarkson,,1,21,20,1,521.0
+3:03.0,G. Vincent misses 3-pt jump shot from 25 ft,21-20, ,,1,21,20,1,537.0
+2:58.0, ,21-20,Defensive rebound by L. Markkanen,,1,21,20,1,542.0
+2:53.0, ,21-20,Shooting foul by O. Robinson (drawn by L. Markkanen),,1,21,20,1,547.0
+2:53.0, ,21-21,L. Markkanen makes free throw 1 of 3,Tie,1,21,21,0,547.0
+2:53.0, ,21-22,L. Markkanen makes free throw 2 of 3,Lead change,1,21,22,-1,547.0
+2:53.0,B. Adebayo enters the game for T. Herro,21-22, ,,1,21,22,-1,547.0
+2:53.0,D. Robinson enters the game for O. Robinson,21-22, ,,1,21,22,-1,547.0
+2:53.0, ,21-23,L. Markkanen makes free throw 3 of 3,,1,21,23,-2,547.0
+2:45.0,D. Robinson makes 3-pt jump shot from 24 ft (assist by B. Adebayo),24-23, ,Lead change,1,24,23,1,555.0
+2:29.0, ,24-23,C. Sexton misses 2-pt jump shot from 7 ft,,1,24,23,1,571.0
+2:25.0,Defensive rebound by B. Adebayo,24-23, ,,1,24,23,1,575.0
+2:19.0,B. Adebayo misses 2-pt layup from 5 ft,24-23, ,,1,24,23,1,581.0
+2:17.0, ,24-23,Defensive rebound by C. Sexton,,1,24,23,1,583.0
+2:08.0, ,24-23,W. Kessler misses 2-pt layup from 4 ft,,1,24,23,1,592.0
+2:06.0, ,24-23,Offensive rebound by W. Kessler,,1,24,23,1,594.0
+2:06.0, ,24-25,W. Kessler makes 2-pt layup at rim,Lead change,1,24,25,-1,594.0
+1:53.0,B. Adebayo misses 2-pt jump shot from 3 ft (block by W. Kessler),24-25, ,,1,24,25,-1,607.0
+1:50.0,Offensive rebound by B. Adebayo,24-25, ,,1,24,25,-1,610.0
+1:48.0,B. Adebayo misses 2-pt jump shot from 7 ft (block by W. Kessler),24-25, ,,1,24,25,-1,612.0
+1:46.0,Offensive rebound by B. Adebayo,24-25, ,,1,24,25,-1,614.0
+1:44.0,D. Robinson misses 3-pt jump shot from 22 ft,24-25, ,,1,24,25,-1,616.0
+1:41.0, ,24-25,Defensive rebound by W. Kessler,,1,24,25,-1,619.0
+1:35.0, ,24-25,C. Sexton misses 2-pt jump shot from 9 ft,,1,24,25,-1,625.0
+1:33.0,Defensive rebound by D. Robinson,24-25, ,,1,24,25,-1,627.0
+1:19.0,B. Adebayo makes 2-pt dunk from 3 ft (assist by G. Vincent),26-25, ,Lead change,1,26,25,1,641.0
+0:58.0, ,26-27,R. Gay makes 2-pt layup from 6 ft,Lead change,1,26,27,-1,662.0
+0:53.0,Shooting foul by C. Sexton (drawn by V. Oladipo),26-27, ,,1,26,27,-1,667.0
+0:53.0,V. Oladipo makes free throw 1 of 2,27-27, ,Tie,1,27,27,0,667.0
+0:53.0,M. Strus enters the game for J. Cain,27-27, ,,1,27,27,0,667.0
+0:53.0,V. Oladipo misses free throw 2 of 2,27-27, ,,1,27,27,0,667.0
+0:51.0, ,27-27,Defensive rebound by W. Kessler,,1,27,27,0,669.0
+0:29.0, ,27-30,M. Beasley makes 3-pt jump shot from 24 ft (assist by C. Sexton),,1,27,30,-3,691.0
+0:08.0,V. Oladipo makes 2-pt layup from 5 ft,29-30, ,,1,29,30,-1,712.0
+0:07.0, ,29-30,Turnover by W. Kessler (bad pass; steal by V. Oladipo),,1,29,30,-1,713.0
+0:01.0,M. Strus makes 2-pt layup from 2 ft (assist by V. Oladipo),31-30, ,Lead change,1,31,30,1,719.0
+0:00.0,End of 1st quarter,31-30,,,1,31,30,1,720.0
+12:00.0,Start of 2nd quarter,31-30,,,2,31,30,1,720.0
+11:46.0, ,31-33,M. Beasley makes 3-pt jump shot from 25 ft (assist by M. Conley),Lead change,2,31,33,-2,734.0
+11:32.0,Turnover by M. Strus (out of bounds lost ball),31-33, ,,2,31,33,-2,748.0
+11:21.0, ,31-36,M. Beasley makes 3-pt jump shot from 26 ft (assist by M. Conley),,2,31,36,-5,759.0
+11:05.0,B. Adebayo makes 2-pt layup from 2 ft (assist by M. Strus),33-36, ,,2,33,36,-3,775.0
+10:53.0, ,33-36,Personal foul by B. Adebayo (drawn by J. Vanderbilt),,2,33,36,-3,787.0
+10:39.0, ,33-36,Shooting foul by V. Oladipo (drawn by R. Gay),,2,33,36,-3,801.0
+10:39.0, ,33-37,R. Gay makes free throw 1 of 2,,2,33,37,-4,801.0
+10:39.0, ,33-38,R. Gay makes free throw 2 of 2,,2,33,38,-5,801.0
+10:23.0,G. Vincent makes 2-pt jump shot from 13 ft,35-38, ,,2,35,38,-3,817.0
+10:02.0, ,35-38,J. Clarkson misses 3-pt jump shot from 26 ft,,2,35,38,-3,838.0
+10:00.0,Defensive rebound by Team,35-38, ,,2,35,38,-3,840.0
+9:48.0,V. Oladipo misses 3-pt jump shot from 25 ft,35-38, ,,2,35,38,-3,852.0
+9:43.0,Offensive rebound by B. Adebayo,35-38, ,,2,35,38,-3,857.0
+9:42.0,V. Oladipo misses 2-pt jump shot from 14 ft,35-38, ,,2,35,38,-3,858.0
+9:39.0,Offensive rebound by B. Adebayo,35-38, ,,2,35,38,-3,861.0
+9:39.0,Shooting foul by J. Vanderbilt (drawn by B. Adebayo),35-38, ,,2,35,38,-3,861.0
+9:39.0,B. Adebayo makes free throw 1 of 2,36-38, ,,2,36,38,-2,861.0
+9:39.0,B. Adebayo makes free throw 2 of 2,37-38, ,,2,37,38,-1,861.0
+9:18.0, ,37-38,M. Beasley misses 3-pt jump shot from 26 ft,,2,37,38,-1,882.0
+9:14.0,Defensive rebound by V. Oladipo,37-38, ,,2,37,38,-1,886.0
+9:08.0,D. Robinson misses 2-pt jump shot from 9 ft,37-38, ,,2,37,38,-1,892.0
+9:06.0,Offensive rebound by D. Robinson,37-38, ,,2,37,38,-1,894.0
+9:05.0,M. Strus makes 3-pt jump shot from 25 ft (assist by D. Robinson),40-38, ,Lead change,2,40,38,2,895.0
+9:03.0, ,40-38,Utah full timeout,,2,40,38,2,897.0
+9:03.0, ,40-38,K. Olynyk enters the game for R. Gay,,2,40,38,2,897.0
+8:48.0, ,40-40,M. Beasley makes 2-pt jump shot from 8 ft (assist by K. Olynyk),Tie,2,40,40,0,912.0
+8:30.0,D. Robinson makes 2-pt layup from 3 ft (assist by B. Adebayo),42-40, ,,2,42,40,2,930.0
+8:30.0,Shooting foul by J. Clarkson (drawn by D. Robinson),42-40, ,,2,42,40,2,930.0
+8:30.0,D. Robinson makes free throw 1 of 1,43-40, ,,2,43,40,3,930.0
+8:17.0, ,43-43,M. Beasley makes 3-pt jump shot from 25 ft (assist by M. Conley),Tie,2,43,43,0,943.0
+8:04.0,G. Vincent misses 3-pt jump shot from 28 ft,43-43, ,,2,43,43,0,956.0
+8:02.0, ,43-43,Defensive rebound by M. Conley,,2,43,43,0,958.0
+7:58.0, ,43-43,Personal foul by G. Vincent (drawn by J. Vanderbilt),,2,43,43,0,962.0
+7:58.0,T. Herro enters the game for M. Strus,43-43, ,,2,43,43,0,962.0
+7:52.0, ,43-43,Offensive foul by K. Olynyk (drawn by G. Vincent),,2,43,43,0,968.0
+7:52.0, ,43-43,Turnover by K. Olynyk (offensive foul),,2,43,43,0,968.0
+7:43.0,D. Robinson makes 2-pt jump shot from 8 ft (assist by G. Vincent),45-43, ,,2,45,43,2,977.0
+7:33.0, ,45-43,Shooting foul by D. Robinson (drawn by M. Conley),,2,45,43,2,987.0
+7:33.0, ,45-44,M. Conley makes free throw 1 of 2,,2,45,44,1,987.0
+7:33.0,K. Lowry enters the game for G. Vincent,45-44, ,,2,45,44,1,987.0
+7:33.0, ,45-45,M. Conley makes free throw 2 of 2,Tie,2,45,45,0,987.0
+7:27.0,Shooting foul by J. Vanderbilt (drawn by V. Oladipo),45-45, ,,2,45,45,0,993.0
+7:27.0,V. Oladipo makes free throw 1 of 2,46-45, ,,2,46,45,1,993.0
+7:27.0,V. Oladipo makes free throw 2 of 2,47-45, ,,2,47,45,2,993.0
+7:05.0, ,47-45,Personal foul by K. Lowry (drawn by M. Conley),,2,47,45,2,1015.0
+7:05.0, ,47-46,M. Conley makes free throw 1 of 2,,2,47,46,1,1015.0
+7:05.0,O. Robinson enters the game for B. Adebayo,47-46, ,,2,47,46,1,1015.0
+7:05.0, ,47-46,L. Markkanen enters the game for J. Clarkson,,2,47,46,1,1015.0
+7:05.0, ,47-47,M. Conley makes free throw 2 of 2,Tie,2,47,47,0,1015.0
+6:44.0,V. Oladipo makes 3-pt jump shot from 24 ft (assist by T. Herro),50-47, ,,2,50,47,3,1036.0
+6:15.0, ,50-49,L. Markkanen makes 2-pt jump shot from 21 ft (assist by M. Beasley),,2,50,49,1,1065.0
+6:01.0,T. Herro makes 2-pt jump shot from 12 ft,52-49, ,,2,52,49,3,1079.0
+5:48.0, ,52-52,K. Olynyk makes 3-pt jump shot from 26 ft (assist by M. Conley),Tie,2,52,52,0,1092.0
+5:31.0,V. Oladipo makes 3-pt jump shot from 25 ft (assist by T. Herro),55-52, ,,2,55,52,3,1109.0
+5:13.0, ,55-52,K. Olynyk misses 2-pt hook shot from 5 ft,,2,55,52,3,1127.0
+5:10.0,Defensive rebound by V. Oladipo,55-52, ,,2,55,52,3,1130.0
+5:08.0,T. Herro makes 3-pt jump shot from 26 ft (assist by V. Oladipo),58-52, ,,2,58,52,6,1132.0
+4:50.0, ,58-52,M. Beasley misses 2-pt jump shot from 16 ft,,2,58,52,6,1150.0
+4:46.0,Defensive rebound by K. Lowry,58-52, ,,2,58,52,6,1154.0
+4:39.0,V. Oladipo makes 2-pt jump shot from 17 ft,60-52, ,,2,60,52,8,1161.0
+4:17.0, ,60-52,Turnover by K. Olynyk (lost ball; steal by V. Oladipo),,2,60,52,8,1183.0
+4:10.0,V. Oladipo misses 2-pt layup from 3 ft,60-52, ,,2,60,52,8,1190.0
+4:09.0,Offensive rebound by Team,60-52, ,,2,60,52,8,1191.0
+4:09.0,Miami full timeout,60-52, ,,2,60,52,8,1191.0
+4:09.0, ,60-52,J. Clarkson enters the game for M. Beasley,,2,60,52,8,1191.0
+4:09.0, ,60-52,W. Kessler enters the game for M. Conley,,2,60,52,8,1191.0
+4:09.0, ,60-52,C. Sexton enters the game for J. Vanderbilt,,2,60,52,8,1191.0
+4:03.0,T. Herro makes 2-pt jump shot from 9 ft (assist by O. Robinson),62-52, ,,2,62,52,10,1197.0
+3:47.0, ,62-54,L. Markkanen makes 2-pt layup from 2 ft (assist by K. Olynyk),,2,62,54,8,1213.0
+3:27.0,O. Robinson misses 2-pt layup from 3 ft,62-54, ,,2,62,54,8,1233.0
+3:26.0, ,62-54,Defensive rebound by L. Markkanen,,2,62,54,8,1234.0
+3:17.0, ,62-54,L. Markkanen misses 3-pt jump shot from 28 ft,,2,62,54,8,1243.0
+3:13.0,Defensive rebound by T. Herro,62-54, ,,2,62,54,8,1247.0
+3:08.0,T. Herro misses 3-pt jump shot from 25 ft,62-54, ,,2,62,54,8,1252.0
+3:06.0, ,62-54,Defensive rebound by K. Olynyk,,2,62,54,8,1254.0
+3:06.0, ,62-54,Personal foul by O. Robinson (drawn by K. Olynyk),,2,62,54,8,1254.0
+3:06.0, ,62-55,K. Olynyk makes free throw 1 of 2,,2,62,55,7,1254.0
+3:06.0,B. Adebayo enters the game for O. Robinson,62-55, ,,2,62,55,7,1254.0
+3:06.0, ,62-56,K. Olynyk makes free throw 2 of 2,,2,62,56,6,1254.0
+3:01.0,Personal foul by C. Sexton (drawn by B. Adebayo),62-56, ,,2,62,56,6,1259.0
+2:53.0,B. Adebayo makes 2-pt jump shot from 7 ft (assist by V. Oladipo),64-56, ,,2,64,56,8,1267.0
+2:26.0, ,64-59,L. Markkanen makes 3-pt jump shot from 23 ft (assist by J. Clarkson),,2,64,59,5,1294.0
+2:14.0,V. Oladipo misses 3-pt jump shot from 25 ft,64-59, ,,2,64,59,5,1306.0
+2:10.0,Offensive rebound by B. Adebayo,64-59, ,,2,64,59,5,1310.0
+2:07.0,D. Robinson misses 3-pt jump shot from 25 ft,64-59, ,,2,64,59,5,1313.0
+2:05.0, ,64-59,Defensive rebound by J. Clarkson,,2,64,59,5,1315.0
+2:00.0, ,64-59,Turnover by J. Clarkson (bad pass),,2,64,59,5,1320.0
+1:45.0,Personal foul by C. Sexton (drawn by B. Adebayo),64-59, ,,2,64,59,5,1335.0
+1:45.0,B. Adebayo misses free throw 1 of 2,64-59, ,,2,64,59,5,1335.0
+1:45.0,Offensive rebound by Team,64-59, ,,2,64,59,5,1335.0
+1:45.0,M. Strus enters the game for V. Oladipo,64-59, ,,2,64,59,5,1335.0
+1:45.0,G. Vincent enters the game for D. Robinson,64-59, ,,2,64,59,5,1335.0
+1:45.0,B. Adebayo misses free throw 2 of 2,64-59, ,,2,64,59,5,1335.0
+1:43.0, ,64-59,Defensive rebound by W. Kessler,,2,64,59,5,1337.0
+1:24.0, ,64-59,Personal foul by B. Adebayo (drawn by W. Kessler),,2,64,59,5,1356.0
+1:24.0, ,64-59,W. Kessler misses free throw 1 of 2,,2,64,59,5,1356.0
+1:24.0, ,64-59,Offensive rebound by Team,,2,64,59,5,1356.0
+1:24.0, ,64-60,W. Kessler makes free throw 2 of 2,,2,64,60,4,1356.0
+1:18.0,Turnover by T. Herro (bad pass; steal by C. Sexton),64-60, ,,2,64,60,4,1362.0
+1:14.0, ,64-60,C. Sexton misses 2-pt layup from 5 ft,,2,64,60,4,1366.0
+1:11.0,Defensive rebound by K. Lowry,64-60, ,,2,64,60,4,1369.0
+1:08.0,T. Herro makes 2-pt dunk from 2 ft (assist by K. Lowry),66-60, ,,2,66,60,6,1372.0
+0:49.0, ,66-60,Personal foul by G. Vincent (drawn by K. Olynyk),,2,66,60,6,1391.0
+0:49.0, ,66-61,K. Olynyk makes free throw 1 of 2,,2,66,61,5,1391.0
+0:49.0,O. Robinson enters the game for B. Adebayo,66-61, ,,2,66,61,5,1391.0
+0:49.0, ,66-62,K. Olynyk makes free throw 2 of 2,,2,66,62,4,1391.0
+0:44.0,T. Herro misses 3-pt jump shot from 25 ft,66-62, ,,2,66,62,4,1396.0
+0:39.0,Offensive rebound by G. Vincent,66-62, ,,2,66,62,4,1401.0
+0:36.0,M. Strus misses 3-pt jump shot from 27 ft,66-62, ,,2,66,62,4,1404.0
+0:33.0, ,66-62,Defensive rebound by J. Clarkson,,2,66,62,4,1407.0
+0:30.0, ,66-62,J. Clarkson misses 3-pt jump shot from 26 ft,,2,66,62,4,1410.0
+0:27.0, ,66-62,Offensive rebound by C. Sexton,,2,66,62,4,1413.0
+0:15.0, ,66-62,Shooting foul by M. Strus (drawn by J. Clarkson),,2,66,62,4,1425.0
+0:15.0, ,66-62,J. Clarkson misses free throw 1 of 2,,2,66,62,4,1425.0
+0:15.0, ,66-62,Offensive rebound by Team,,2,66,62,4,1425.0
+0:15.0, ,66-63,J. Clarkson makes free throw 2 of 2,,2,66,63,3,1425.0
+0:01.0,M. Strus makes 3-pt jump shot from 26 ft (assist by T. Herro),69-63, ,,2,69,63,6,1439.0
+0:00.0,Instant Replay (Request: Ruling Stands),69-63, ,,2,69,63,6,1440.0
+0:00.0,End of 2nd quarter,69-63,,,2,69,63,6,1440.0
+12:00.0,Start of 3rd quarter,69-63,,,3,69,63,6,1440.0
+11:52.0, ,69-65,L. Markkanen makes 2-pt layup from 2 ft (assist by K. Olynyk),,3,69,65,4,1448.0
+11:32.0,Turnover by T. Herro (traveling),69-65, ,,3,69,65,4,1468.0
+11:14.0, ,69-65,Turnover by M. Conley (bad pass),,3,69,65,4,1486.0
+10:55.0,B. Adebayo makes 2-pt hook shot from 8 ft (assist by M. Strus),71-65, ,,3,71,65,6,1505.0
+10:45.0, ,71-65,M. Conley misses 2-pt layup from 4 ft,,3,71,65,6,1515.0
+10:44.0,Defensive rebound by M. Strus,71-65, ,,3,71,65,6,1516.0
+10:44.0,Personal foul by J. Vanderbilt (drawn by M. Strus),71-65, ,,3,71,65,6,1516.0
+10:34.0,K. Lowry misses 2-pt jump shot from 22 ft,71-65, ,,3,71,65,6,1526.0
+10:31.0, ,71-65,Defensive rebound by K. Olynyk,,3,71,65,6,1529.0
+10:23.0, ,71-65,J. Vanderbilt misses 2-pt jump shot from 8 ft,,3,71,65,6,1537.0
+10:23.0, ,71-65,Offensive rebound by J. Vanderbilt,,3,71,65,6,1537.0
+10:23.0, ,71-65,Shooting foul by K. Lowry (drawn by J. Vanderbilt),,3,71,65,6,1537.0
+10:23.0, ,71-66,J. Vanderbilt makes free throw 1 of 2,,3,71,66,5,1537.0
+10:23.0, ,71-67,J. Vanderbilt makes free throw 2 of 2,,3,71,67,4,1537.0
+10:16.0,T. Herro misses 3-pt jump shot from 26 ft,71-67, ,,3,71,67,4,1544.0
+10:13.0, ,71-67,Defensive rebound by M. Conley,,3,71,67,4,1547.0
+10:08.0, ,71-67,K. Olynyk misses 3-pt jump shot from 24 ft,,3,71,67,4,1552.0
+10:06.0, ,71-67,Offensive rebound by Team,,3,71,67,4,1554.0
+10:03.0, ,71-67,Turnover by M. Conley (bad pass; steal by M. Strus),,3,71,67,4,1557.0
+9:59.0,M. Strus misses 2-pt layup from 4 ft,71-67, ,,3,71,67,4,1561.0
+9:57.0, ,71-67,Defensive rebound by K. Olynyk,,3,71,67,4,1563.0
+9:54.0, ,71-67,Turnover by K. Olynyk (bad pass; steal by K. Lowry),,3,71,67,4,1566.0
+9:50.0,M. Strus makes 2-pt layup from 2 ft (assist by K. Lowry),73-67, ,,3,73,67,6,1570.0
+9:40.0, ,73-67,Personal foul by T. Herro (drawn by L. Markkanen),,3,73,67,6,1580.0
+9:34.0, ,73-69,J. Clarkson makes 2-pt hook shot from 7 ft,,3,73,69,4,1586.0
+9:11.0,T. Herro makes 2-pt jump shot from 12 ft,75-69, ,,3,75,69,6,1609.0
+9:01.0, ,75-69,Personal foul by T. Herro (drawn by M. Conley),,3,75,69,6,1619.0
+8:57.0, ,75-69,Shooting foul by H. Highsmith (drawn by L. Markkanen),,3,75,69,6,1623.0
+8:57.0, ,75-70,L. Markkanen makes free throw 1 of 2,,3,75,70,5,1623.0
+8:57.0, ,75-71,L. Markkanen makes free throw 2 of 2,,3,75,71,4,1623.0
+8:43.0,Shooting foul by K. Olynyk (drawn by B. Adebayo),75-71, ,,3,75,71,4,1637.0
+8:43.0,B. Adebayo makes free throw 1 of 2,76-71, ,,3,76,71,5,1637.0
+8:43.0,B. Adebayo makes free throw 2 of 2,77-71, ,,3,77,71,6,1637.0
+8:31.0, ,77-71,J. Vanderbilt misses 3-pt jump shot from 23 ft,,3,77,71,6,1649.0
+8:28.0,Defensive rebound by T. Herro,77-71, ,,3,77,71,6,1652.0
+8:19.0,T. Herro makes 2-pt jump shot from 13 ft (assist by B. Adebayo),79-71, ,,3,79,71,8,1661.0
+8:19.0, ,79-71,W. Kessler enters the game for J. Vanderbilt,,3,79,71,8,1661.0
+7:58.0,Jump ball: J. Clarkson vs. K. Lowry (J. Clarkson gains possession),79-71,,,3,79,71,8,1682.0
+7:56.0, ,79-71,J. Clarkson misses 3-pt jump shot from 25 ft,,3,79,71,8,1684.0
+7:54.0, ,79-71,Offensive rebound by Team,,3,79,71,8,1686.0
+7:42.0, ,79-74,L. Markkanen makes 3-pt jump shot from 22 ft (assist by K. Olynyk),,3,79,74,5,1698.0
+7:20.0,B. Adebayo misses 2-pt jump shot from 15 ft,79-74, ,,3,79,74,5,1720.0
+7:16.0, ,79-74,Defensive rebound by L. Markkanen,,3,79,74,5,1724.0
+7:11.0, ,79-76,K. Olynyk makes 2-pt layup from 3 ft (assist by M. Conley),,3,79,76,3,1729.0
+7:11.0, ,79-76,Shooting foul by B. Adebayo (drawn by K. Olynyk),,3,79,76,3,1729.0
+7:11.0, ,79-77,K. Olynyk makes free throw 1 of 1,,3,79,77,2,1729.0
+7:00.0,T. Herro misses 2-pt jump shot from 16 ft,79-77, ,,3,79,77,2,1740.0
+6:58.0, ,79-77,Defensive rebound by M. Conley,,3,79,77,2,1742.0
+6:50.0, ,79-77,Turnover by M. Conley (bad pass; steal by K. Lowry),,3,79,77,2,1750.0
+6:42.0,K. Lowry misses 3-pt jump shot from 26 ft,79-77, ,,3,79,77,2,1758.0
+6:39.0,Offensive rebound by H. Highsmith,79-77, ,,3,79,77,2,1761.0
+6:38.0,H. Highsmith misses 3-pt jump shot from 24 ft,79-77, ,,3,79,77,2,1762.0
+6:34.0, ,79-77,Defensive rebound by J. Clarkson,,3,79,77,2,1766.0
+6:23.0, ,79-80,M. Conley makes 3-pt jump shot from 23 ft (assist by K. Olynyk),Lead change,3,79,80,-1,1777.0
+6:22.0,Miami full timeout,79-80, ,,3,79,80,-1,1778.0
+6:22.0,V. Oladipo enters the game for B. Adebayo,79-80, ,,3,79,80,-1,1778.0
+6:22.0,O. Robinson enters the game for M. Strus,79-80, ,,3,79,80,-1,1778.0
+6:22.0, ,79-80,C. Sexton enters the game for M. Conley,,3,79,80,-1,1778.0
+6:07.0,Turnover by T. Herro (bad pass; steal by W. Kessler),79-80, ,,3,79,80,-1,1793.0
+6:02.0, ,79-80,Shooting foul by V. Oladipo (drawn by K. Olynyk),,3,79,80,-1,1798.0
+6:02.0, ,79-80,K. Olynyk misses free throw 1 of 2,,3,79,80,-1,1798.0
+6:02.0, ,79-80,Offensive rebound by Team,,3,79,80,-1,1798.0
+6:02.0, ,79-81,K. Olynyk makes free throw 2 of 2,,3,79,81,-2,1798.0
+5:47.0,H. Highsmith makes 2-pt dunk from 2 ft (assist by T. Herro),81-81, ,Tie,3,81,81,0,1813.0
+5:24.0, ,81-81,K. Olynyk misses 2-pt layup from 3 ft,,3,81,81,0,1836.0
+5:22.0, ,81-81,Offensive rebound by L. Markkanen,,3,81,81,0,1838.0
+5:12.0, ,81-84,C. Sexton makes 3-pt jump shot from 25 ft,,3,81,84,-3,1848.0
+4:52.0,T. Herro makes 2-pt jump shot from 7 ft,83-84, ,,3,83,84,-1,1868.0
+4:36.0, ,83-84,W. Kessler misses 2-pt layup from 3 ft,,3,83,84,-1,1884.0
+4:32.0,Defensive rebound by K. Lowry,83-84, ,,3,83,84,-1,1888.0
+4:28.0,H. Highsmith makes 2-pt jump shot from 23 ft (assist by K. Lowry),85-84, ,Lead change,3,85,84,1,1892.0
+4:10.0, ,85-84,C. Sexton misses 3-pt jump shot from 28 ft,,3,85,84,1,1910.0
+4:05.0, ,85-84,Offensive rebound by L. Markkanen,,3,85,84,1,1915.0
+4:05.0, ,85-84,L. Markkanen misses 2-pt layup at rim,,3,85,84,1,1915.0
+4:05.0,Defensive rebound by T. Herro,85-84, ,,3,85,84,1,1915.0
+3:58.0,T. Herro makes 3-pt jump shot from 26 ft,88-84, ,,3,88,84,4,1922.0
+3:42.0, ,88-84,K. Olynyk misses 3-pt jump shot from 23 ft,,3,88,84,4,1938.0
+3:39.0,Defensive rebound by V. Oladipo,88-84, ,,3,88,84,4,1941.0
+3:26.0,T. Herro misses 3-pt jump shot from 26 ft,88-84, ,,3,88,84,4,1954.0
+3:22.0, ,88-84,Defensive rebound by K. Olynyk,,3,88,84,4,1958.0
+3:20.0, ,88-87,J. Clarkson makes 3-pt jump shot from 25 ft (assist by K. Olynyk),,3,88,87,1,1960.0
+2:55.0,O. Robinson misses 2-pt layup from 4 ft,88-87, ,,3,88,87,1,1985.0
+2:53.0,Offensive rebound by O. Robinson,88-87, ,,3,88,87,1,1987.0
+2:50.0,Turnover by O. Robinson (lost ball; steal by K. Olynyk),88-87, ,,3,88,87,1,1990.0
+2:43.0, ,88-90,L. Markkanen makes 3-pt jump shot from 22 ft (assist by C. Sexton),Lead change,3,88,90,-2,1997.0
+2:27.0,T. Herro misses 3-pt jump shot from 29 ft,88-90, ,,3,88,90,-2,2013.0
+2:25.0, ,88-90,Defensive rebound by L. Markkanen,,3,88,90,-2,2015.0
+2:18.0, ,88-92,C. Sexton makes 2-pt jump shot from 10 ft,,3,88,92,-4,2022.0
+2:18.0, ,88-92,Shooting foul by V. Oladipo (drawn by C. Sexton),,3,88,92,-4,2022.0
+2:18.0, ,88-92,Utah full timeout,,3,88,92,-4,2022.0
+2:18.0,B. Adebayo enters the game for T. Herro,88-92, ,,3,88,92,-4,2022.0
+2:18.0,D. Robinson enters the game for K. Lowry,88-92, ,,3,88,92,-4,2022.0
+2:18.0,G. Vincent enters the game for O. Robinson,88-92, ,,3,88,92,-4,2022.0
+2:18.0, ,88-92,M. Beasley enters the game for J. Clarkson,,3,88,92,-4,2022.0
+2:18.0, ,88-92,M. Conley enters the game for L. Markkanen,,3,88,92,-4,2022.0
+2:18.0, ,88-92,R. Gay enters the game for K. Olynyk,,3,88,92,-4,2022.0
+2:18.0, ,88-93,C. Sexton makes free throw 1 of 1,,3,88,93,-5,2022.0
+2:07.0,Turnover by B. Adebayo (bad pass),88-93, ,,3,88,93,-5,2033.0
+2:07.0,M. Strus enters the game for H. Highsmith,88-93, ,,3,88,93,-5,2033.0
+1:56.0, ,88-93,Personal foul by G. Vincent (drawn by C. Sexton),,3,88,93,-5,2044.0
+1:56.0, ,88-94,C. Sexton makes free throw 1 of 2,,3,88,94,-6,2044.0
+1:56.0, ,88-95,C. Sexton makes free throw 2 of 2,,3,88,95,-7,2044.0
+1:43.0,V. Oladipo makes 3-pt jump shot from 25 ft (assist by G. Vincent),91-95, ,,3,91,95,-4,2057.0
+1:23.0, ,91-98,M. Beasley makes 3-pt jump shot from 25 ft (assist by M. Conley),,3,91,98,-7,2077.0
+1:05.0,M. Strus misses 2-pt layup from 4 ft (block by W. Kessler),91-98, ,,3,91,98,-7,2095.0
+1:05.0,Offensive rebound by Team,91-98, ,,3,91,98,-7,2095.0
+0:58.0,D. Robinson misses 3-pt jump shot from 25 ft,91-98, ,,3,91,98,-7,2102.0
+0:55.0,Offensive rebound by Team,91-98, ,,3,91,98,-7,2105.0
+0:48.0,G. Vincent makes 3-pt jump shot from 26 ft,94-98, ,,3,94,98,-4,2112.0
+0:30.0, ,94-98,Turnover by C. Sexton (bad pass; steal by B. Adebayo),,3,94,98,-4,2130.0
+0:08.0,B. Adebayo makes 2-pt jump shot from 9 ft (assist by V. Oladipo),96-98, ,,3,96,98,-2,2152.0
+0:02.0, ,96-98,C. Sexton misses 2-pt layup from 3 ft (block by V. Oladipo),,3,96,98,-2,2158.0
+0:02.0, ,96-98,Offensive rebound by Team,,3,96,98,-2,2158.0
+0:02.0,H. Highsmith enters the game for D. Robinson,96-98, ,,3,96,98,-2,2158.0
+0:00.0, ,96-98,C. Sexton misses 2-pt jump shot from 7 ft,,3,96,98,-2,2160.0
+0:00.0,Defensive rebound by B. Adebayo,96-98, ,,3,96,98,-2,2160.0
+0:00.0,End of 3rd quarter,96-98,,,3,96,98,-2,2160.0
+12:00.0,Start of 4th quarter,96-98,,,4,96,98,-2,2160.0
+11:50.0,G. Vincent misses 2-pt jump shot from 19 ft,96-98, ,,4,96,98,-2,2170.0
+11:49.0,Offensive rebound by Team,96-98, ,,4,96,98,-2,2171.0
+11:49.0,Away from play foul by M. Beasley (drawn by D. Robinson),96-98, ,,4,96,98,-2,2171.0
+11:49.0,D. Robinson makes free throw 1 of 1,97-98, ,,4,97,98,-1,2171.0
+11:43.0,V. Oladipo misses 3-pt jump shot from 23 ft,97-98, ,,4,97,98,-1,2177.0
+11:39.0, ,97-98,Defensive rebound by M. Beasley,,4,97,98,-1,2181.0
+11:23.0, ,97-98,M. Conley misses 3-pt jump shot from 25 ft,,4,97,98,-1,2197.0
+11:22.0,Defensive rebound by V. Oladipo,97-98, ,,4,97,98,-1,2198.0
+11:02.0,B. Adebayo misses 2-pt jump shot from 15 ft,97-98, ,,4,97,98,-1,2218.0
+10:59.0, ,97-98,Defensive rebound by M. Beasley,,4,97,98,-1,2221.0
+10:47.0, ,97-98,M. Beasley misses 2-pt jump shot from 9 ft,,4,97,98,-1,2233.0
+10:45.0,Defensive rebound by G. Vincent,97-98, ,,4,97,98,-1,2235.0
+10:40.0,B. Adebayo makes 2-pt jump shot from 8 ft (assist by G. Vincent),99-98, ,Lead change,4,99,98,1,2240.0
+10:17.0, ,99-100,R. Gay makes 2-pt jump shot from 20 ft,Lead change,4,99,100,-1,2263.0
+9:56.0,M. Strus makes 3-pt jump shot from 23 ft (assist by V. Oladipo),102-100, ,Lead change,4,102,100,2,2284.0
+9:30.0, ,102-100,M. Beasley misses 3-pt jump shot from 24 ft,,4,102,100,2,2310.0
+9:27.0, ,102-100,Offensive rebound by W. Kessler,,4,102,100,2,2313.0
+9:25.0, ,102-100,W. Kessler misses 2-pt hook shot from 5 ft,,4,102,100,2,2315.0
+9:23.0,Defensive rebound by G. Vincent,102-100, ,,4,102,100,2,2317.0
+9:19.0,G. Vincent misses 3-pt jump shot from 27 ft,102-100, ,,4,102,100,2,2321.0
+9:14.0, ,102-100,Defensive rebound by W. Kessler,,4,102,100,2,2326.0
+9:05.0, ,102-103,C. Sexton makes 3-pt jump shot from 25 ft (assist by M. Beasley),Lead change,4,102,103,-1,2335.0
+8:45.0,Personal foul by R. Gay (drawn by V. Oladipo),102-103, ,,4,102,103,-1,2355.0
+8:38.0,Shooting foul by W. Kessler (drawn by B. Adebayo),102-103, ,,4,102,103,-1,2362.0
+8:38.0,B. Adebayo makes free throw 1 of 2,103-103, ,Tie,4,103,103,0,2362.0
+8:38.0,B. Adebayo makes free throw 2 of 2,104-103, ,Lead change,4,104,103,1,2362.0
+8:13.0, ,104-106,C. Sexton makes 3-pt jump shot from 26 ft,Lead change,4,104,106,-2,2387.0
+7:48.0,B. Adebayo misses 2-pt jump shot from 12 ft,104-106, ,,4,104,106,-2,2412.0
+7:45.0, ,104-106,Defensive rebound by M. Beasley,,4,104,106,-2,2415.0
+7:41.0, ,104-106,M. Beasley misses 3-pt jump shot from 26 ft,,4,104,106,-2,2419.0
+7:38.0, ,104-106,Offensive rebound by W. Kessler,,4,104,106,-2,2422.0
+7:24.0, ,104-106,M. Conley misses 2-pt jump shot from 14 ft,,4,104,106,-2,2436.0
+7:20.0, ,104-106,Offensive rebound by W. Kessler,,4,104,106,-2,2440.0
+7:20.0, ,104-106,W. Kessler misses 2-pt layup at rim,,4,104,106,-2,2440.0
+7:19.0,Defensive rebound by M. Strus,104-106, ,,4,104,106,-2,2441.0
+7:15.0,Miami full timeout,104-106, ,,4,104,106,-2,2445.0
+7:15.0,T. Herro enters the game for M. Strus,104-106, ,,4,104,106,-2,2445.0
+7:15.0, ,104-106,J. Clarkson enters the game for M. Beasley,,4,104,106,-2,2445.0
+7:15.0, ,104-106,L. Markkanen enters the game for M. Conley,,4,104,106,-2,2445.0
+7:15.0, ,104-106,K. Olynyk enters the game for R. Gay,,4,104,106,-2,2445.0
+7:06.0,D. Robinson misses 3-pt jump shot from 26 ft,104-106, ,,4,104,106,-2,2454.0
+7:03.0, ,104-106,Defensive rebound by W. Kessler,,4,104,106,-2,2457.0
+6:44.0, ,104-106,Personal foul by D. Robinson (drawn by C. Sexton),,4,104,106,-2,2476.0
+6:30.0, ,104-106,Shooting foul by V. Oladipo (drawn by J. Clarkson),,4,104,106,-2,2490.0
+6:30.0, ,104-106,J. Clarkson misses free throw 1 of 3,,4,104,106,-2,2490.0
+6:30.0, ,104-106,Offensive rebound by Team,,4,104,106,-2,2490.0
+6:30.0, ,104-107,J. Clarkson makes free throw 2 of 3,,4,104,107,-3,2490.0
+6:30.0, ,104-107,J. Clarkson misses free throw 3 of 3,,4,104,107,-3,2490.0
+6:28.0,Defensive rebound by T. Herro,104-107, ,,4,104,107,-3,2492.0
+6:15.0,V. Oladipo makes 2-pt dunk from 3 ft,106-107, ,,4,106,107,-1,2505.0
+6:15.0,Shooting foul by W. Kessler (drawn by V. Oladipo),106-107, ,,4,106,107,-1,2505.0
+6:15.0,M. Strus enters the game for D. Robinson,106-107, ,,4,106,107,-1,2505.0
+6:15.0,V. Oladipo makes free throw 1 of 1,107-107, ,Tie,4,107,107,0,2505.0
+5:57.0, ,107-107,Turnover by K. Olynyk (bad pass; steal by M. Strus),,4,107,107,0,2523.0
+5:53.0,T. Herro makes 2-pt layup from 2 ft (assist by M. Strus),109-107, ,Lead change,4,109,107,2,2527.0
+5:44.0, ,109-107,L. Markkanen misses 3-pt jump shot from 27 ft,,4,109,107,2,2536.0
+5:41.0, ,109-107,Offensive rebound by W. Kessler,,4,109,107,2,2539.0
+5:36.0, ,109-109,J. Clarkson makes 2-pt layup from 5 ft,Tie,4,109,109,0,2544.0
+5:15.0,V. Oladipo misses 2-pt jump shot from 11 ft,109-109, ,,4,109,109,0,2565.0
+5:13.0, ,109-109,Defensive rebound by W. Kessler,,4,109,109,0,2567.0
+5:05.0, ,109-109,C. Sexton misses 3-pt jump shot from 25 ft,,4,109,109,0,2575.0
+5:03.0,Defensive rebound by B. Adebayo,109-109, ,,4,109,109,0,2577.0
+4:56.0,Personal foul by C. Sexton (drawn by T. Herro),109-109, ,,4,109,109,0,2584.0
+4:56.0,T. Herro makes free throw 1 of 2,110-109, ,,4,110,109,1,2584.0
+4:56.0, ,110-109,M. Conley enters the game for C. Sexton,,4,110,109,1,2584.0
+4:56.0,T. Herro makes free throw 2 of 2,111-109, ,,4,111,109,2,2584.0
+4:38.0, ,111-109,Turnover by K. Olynyk (lost ball; steal by V. Oladipo),,4,111,109,2,2602.0
+4:29.0,B. Adebayo makes 2-pt jump shot from 8 ft (assist by M. Strus),113-109, ,,4,113,109,4,2611.0
+4:29.0,Shooting foul by K. Olynyk (drawn by B. Adebayo),113-109, ,,4,113,109,4,2611.0
+4:29.0,B. Adebayo makes free throw 1 of 1,114-109, ,,4,114,109,5,2611.0
+4:16.0, ,114-109,Shooting foul by B. Adebayo (drawn by L. Markkanen),,4,114,109,5,2624.0
+4:16.0, ,114-110,L. Markkanen makes free throw 1 of 2,,4,114,110,4,2624.0
+4:16.0, ,114-111,L. Markkanen makes free throw 2 of 2,,4,114,111,3,2624.0
+4:07.0,Offensive foul by T. Herro (drawn by M. Conley),114-111, ,,4,114,111,3,2633.0
+4:07.0,Turnover by T. Herro (offensive foul),114-111, ,,4,114,111,3,2633.0
+3:51.0, ,114-111,Turnover by J. Clarkson (traveling),,4,114,111,3,2649.0
+3:51.0,Miami full timeout,114-111, ,,4,114,111,3,2649.0
+3:31.0,V. Oladipo misses 3-pt jump shot from 23 ft,114-111, ,,4,114,111,3,2669.0
+3:30.0,Offensive rebound by Team,114-111, ,,4,114,111,3,2670.0
+3:30.0, ,114-111,Loose ball foul by J. Clarkson (drawn by B. Adebayo),,4,114,111,3,2670.0
+3:30.0,B. Adebayo makes free throw 1 of 2,115-111, ,,4,115,111,4,2670.0
+3:30.0,B. Adebayo makes free throw 2 of 2,116-111, ,,4,116,111,5,2670.0
+3:17.0, ,116-111,Turnover by J. Clarkson (lost ball; steal by T. Herro),,4,116,111,5,2683.0
+3:03.0,B. Adebayo makes 2-pt jump shot from 15 ft,118-111, ,,4,118,111,7,2697.0
+3:02.0, ,118-111,Utah full timeout,,4,118,111,7,2698.0
+2:46.0, ,118-111,J. Clarkson misses 2-pt jump shot from 4 ft,,4,118,111,7,2714.0
+2:44.0, ,118-111,Offensive rebound by J. Clarkson,,4,118,111,7,2716.0
+2:44.0, ,118-113,J. Clarkson makes 2-pt layup at rim,,4,118,113,5,2716.0
+2:20.0,T. Herro misses 2-pt jump shot from 17 ft,118-113, ,,4,118,113,5,2740.0
+2:17.0, ,118-113,Defensive rebound by L. Markkanen,,4,118,113,5,2743.0
+2:12.0, ,118-113,Personal foul by M. Strus (drawn by J. Clarkson),,4,118,113,5,2748.0
+2:03.0, ,118-113,K. Olynyk misses 3-pt jump shot from 24 ft,,4,118,113,5,2757.0
+1:59.0,Defensive rebound by T. Herro,118-113, ,,4,118,113,5,2761.0
+1:50.0,T. Herro misses 3-pt jump shot from 25 ft,118-113, ,,4,118,113,5,2770.0
+1:48.0, ,118-113,Defensive rebound by L. Markkanen,,4,118,113,5,2772.0
+1:41.0, ,118-113,Shooting foul by B. Adebayo (drawn by L. Markkanen),,4,118,113,5,2779.0
+1:41.0, ,118-114,L. Markkanen makes free throw 1 of 2,,4,118,114,4,2779.0
+1:41.0, ,118-115,L. Markkanen makes free throw 2 of 2,,4,118,115,3,2779.0
+1:22.0,V. Oladipo makes 3-pt jump shot from 26 ft,121-115, ,,4,121,115,6,2798.0
+1:09.0, ,121-115,M. Conley misses 3-pt jump shot from 25 ft,,4,121,115,6,2811.0
+1:05.0, ,121-115,Offensive rebound by L. Markkanen,,4,121,115,6,2815.0
+1:05.0, ,121-115,L. Markkanen misses 2-pt layup at rim,,4,121,115,6,2815.0
+1:03.0, ,121-117,L. Markkanen makes 2-pt layup at rim,,4,121,117,4,2817.0
+0:55.0,Jump ball: K. Olynyk vs. V. Oladipo (M. Conley gains possession),121-117,,,4,121,117,4,2825.0
+0:55.0,Turnover by V. Oladipo (lost ball; steal by K. Olynyk),121-117, ,,4,121,117,4,2825.0
+0:49.0, ,121-117,J. Clarkson misses 3-pt jump shot from 26 ft,,4,121,117,4,2831.0
+0:45.0,Defensive rebound by V. Oladipo,121-117, ,,4,121,117,4,2835.0
+0:32.0,T. Herro misses 3-pt jump shot from 28 ft,121-117, ,,4,121,117,4,2848.0
+0:29.0, ,121-117,Defensive rebound by M. Conley,,4,121,117,4,2851.0
+0:27.0, ,121-117,Shooting foul by M. Strus (drawn by J. Clarkson),,4,121,117,4,2853.0
+0:27.0, ,121-117,J. Clarkson misses free throw 1 of 2,,4,121,117,4,2853.0
+0:27.0, ,121-117,Offensive rebound by Team,,4,121,117,4,2853.0
+0:27.0,H. Highsmith enters the game for G. Vincent,121-117, ,,4,121,117,4,2853.0
+0:27.0, ,121-117,J. Clarkson misses free throw 2 of 2,,4,121,117,4,2853.0
+0:22.0,Defensive rebound by T. Herro,121-117, ,,4,121,117,4,2858.0
+0:21.0,Miami full timeout,121-117, ,,4,121,117,4,2859.0
+0:21.0,G. Vincent enters the game for H. Highsmith,121-117, ,,4,121,117,4,2859.0
+0:21.0, ,121-117,C. Sexton enters the game for W. Kessler,,4,121,117,4,2859.0
+0:19.0,Personal take foul by L. Markkanen (drawn by B. Adebayo),121-117, ,,4,121,117,4,2861.0
+0:19.0,B. Adebayo makes free throw 1 of 2,122-117, ,,4,122,117,5,2861.0
+0:19.0,B. Adebayo misses free throw 2 of 2,122-117, ,,4,122,117,5,2861.0
+0:16.0, ,122-117,Defensive rebound by J. Clarkson,,4,122,117,5,2864.0
+0:14.0, ,122-117,Shooting foul by G. Vincent (drawn by J. Clarkson),,4,122,117,5,2866.0
+0:14.0, ,122-118,J. Clarkson makes free throw 1 of 3,,4,122,118,4,2866.0
+0:14.0, ,122-119,J. Clarkson makes free throw 2 of 3,,4,122,119,3,2866.0
+0:14.0,H. Highsmith enters the game for G. Vincent,122-119, ,,4,122,119,3,2866.0
+0:14.0, ,122-120,J. Clarkson makes free throw 3 of 3,,4,122,120,2,2866.0
+0:14.0,Miami full timeout,122-120, ,,4,122,120,2,2866.0
+0:14.0,G. Vincent enters the game for H. Highsmith,122-120, ,,4,122,120,2,2866.0
+0:13.0,Shooting foul by M. Conley (drawn by V. Oladipo),122-120, ,,4,122,120,2,2867.0
+0:13.0,V. Oladipo makes free throw 1 of 2,123-120, ,,4,123,120,3,2867.0
+0:13.0,V. Oladipo misses free throw 2 of 2,123-120, ,,4,123,120,3,2867.0
+0:12.0, ,123-120,Defensive rebound by L. Markkanen,,4,123,120,3,2868.0
+0:12.0, ,123-120,Utah full timeout,,4,123,120,3,2868.0
+0:12.0,H. Highsmith enters the game for M. Strus,123-120, ,,4,123,120,3,2868.0
+0:12.0, ,123-120,M. Beasley enters the game for C. Sexton,,4,123,120,3,2868.0
+0:06.0, ,123-120,Shooting foul by H. Highsmith (drawn by L. Markkanen),,4,123,120,3,2874.0
+0:06.0, ,123-121,L. Markkanen makes free throw 1 of 3,,4,123,121,2,2874.0
+0:06.0, ,123-122,L. Markkanen makes free throw 2 of 3,,4,123,122,1,2874.0
+0:06.0,M. Strus enters the game for H. Highsmith,123-122, ,,4,123,122,1,2874.0
+0:06.0, ,123-122,C. Sexton enters the game for M. Beasley,,4,123,122,1,2874.0
+0:06.0, ,123-123,L. Markkanen makes free throw 3 of 3,Tie,4,123,123,0,2874.0
+0:00.0,T. Herro makes 3-pt jump shot from 25 ft,126-123, ,,4,126,123,3,2880.0
+0:00.0,Instant Replay (Request: Ruling Stands),126-123, ,,4,126,123,3,2880.0
+0:00.0,End of 4th quarter,126-123,,,4,126,123,3,2880.0

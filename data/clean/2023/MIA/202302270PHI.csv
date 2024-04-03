@@ -1,0 +1,440 @@
+Time,Miami,Score,Philadelphia,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. J. Embiid (J. Harden gains possession),0-0,,,1,0,0,0,0.0
+11:40.0, ,0-3,D. Melton makes 3-pt jump shot from 26 ft (assist by J. Harden),,1,0,3,-3,20.0
+11:19.0,G. Vincent makes 3-pt jump shot from 27 ft (assist by J. Butler),3-3, ,Tie,1,3,3,0,41.0
+10:52.0, ,3-3,T. Harris misses 2-pt jump shot from 14 ft,,1,3,3,0,68.0
+10:49.0,Defensive rebound by K. Love,3-3, ,,1,3,3,0,71.0
+10:44.0,J. Butler misses 2-pt jump shot from 9 ft,3-3, ,,1,3,3,0,76.0
+10:43.0,Offensive rebound by B. Adebayo,3-3, ,,1,3,3,0,77.0
+10:43.0,B. Adebayo misses 2-pt layup at rim,3-3, ,,1,3,3,0,77.0
+10:41.0, ,3-3,Defensive rebound by J. Embiid,,1,3,3,0,79.0
+10:37.0, ,3-3,Shooting foul by T. Herro (drawn by J. Harden),,1,3,3,0,83.0
+10:37.0, ,3-4,J. Harden makes free throw 1 of 2,,1,3,4,-1,83.0
+10:37.0, ,3-4,J. Harden misses free throw 2 of 2,,1,3,4,-1,83.0
+10:32.0,Defensive rebound by G. Vincent,3-4, ,,1,3,4,-1,88.0
+10:30.0,Personal foul by T. Harris (drawn by G. Vincent),3-4, ,,1,3,4,-1,90.0
+10:23.0,K. Love misses 3-pt jump shot from 26 ft,3-4, ,,1,3,4,-1,97.0
+10:18.0, ,3-4,Defensive rebound by T. Harris,,1,3,4,-1,102.0
+10:10.0, ,3-6,J. Harden makes 2-pt layup at rim,,1,3,6,-3,110.0
+9:58.0,Personal foul by P. Tucker (drawn by J. Butler),3-6, ,,1,3,6,-3,122.0
+9:45.0,J. Butler makes 3-pt jump shot from 26 ft (assist by B. Adebayo),6-6, ,Tie,1,6,6,0,135.0
+9:30.0, ,6-8,J. Embiid makes 2-pt jump shot from 10 ft,,1,6,8,-2,150.0
+9:10.0,T. Herro misses 2-pt jump shot from 12 ft,6-8, ,,1,6,8,-2,170.0
+9:09.0,Offensive rebound by J. Butler,6-8, ,,1,6,8,-2,171.0
+9:06.0,G. Vincent makes 3-pt jump shot from 27 ft (assist by J. Butler),9-8, ,Lead change,1,9,8,1,174.0
+8:52.0, ,9-8,J. Embiid misses 2-pt jump shot from 10 ft,,1,9,8,1,188.0
+8:50.0,Defensive rebound by B. Adebayo,9-8, ,,1,9,8,1,190.0
+8:44.0,B. Adebayo makes 2-pt layup from 1 ft,11-8, ,,1,11,8,3,196.0
+8:36.0, ,11-8,Turnover by D. Melton (bad pass),,1,11,8,3,204.0
+8:20.0,G. Vincent misses 3-pt jump shot from 23 ft,11-8, ,,1,11,8,3,220.0
+8:17.0, ,11-8,Defensive rebound by D. Melton,,1,11,8,3,223.0
+8:12.0, ,11-8,D. Melton misses 3-pt jump shot from 26 ft,,1,11,8,3,228.0
+8:08.0,Defensive rebound by B. Adebayo,11-8, ,,1,11,8,3,232.0
+8:06.0,Turnover by B. Adebayo (bad pass; steal by T. Harris),11-8, ,,1,11,8,3,234.0
+7:59.0, ,11-8,D. Melton misses 3-pt jump shot from 24 ft,,1,11,8,3,241.0
+7:55.0,Defensive rebound by T. Herro,11-8, ,,1,11,8,3,245.0
+7:46.0,T. Herro misses 3-pt jump shot from 27 ft,11-8, ,,1,11,8,3,254.0
+7:43.0,Offensive rebound by G. Vincent,11-8, ,,1,11,8,3,257.0
+7:41.0,B. Adebayo misses 2-pt jump shot from 16 ft,11-8, ,,1,11,8,3,259.0
+7:37.0, ,11-8,Defensive rebound by T. Harris,,1,11,8,3,263.0
+7:22.0, ,11-11,J. Harden makes 3-pt jump shot from 27 ft (assist by D. Melton),Tie,1,11,11,0,278.0
+7:09.0,K. Love misses 3-pt jump shot from 23 ft,11-11, ,,1,11,11,0,291.0
+7:07.0,Offensive rebound by J. Butler,11-11, ,,1,11,11,0,293.0
+6:54.0,J. Butler makes 2-pt hook shot from 3 ft,13-11, ,,1,13,11,2,306.0
+6:48.0, ,13-11,Shooting foul by B. Adebayo (drawn by J. Harden),,1,13,11,2,312.0
+6:48.0, ,13-11,Philadelphia full timeout,,1,13,11,2,312.0
+6:48.0, ,13-12,J. Harden makes free throw 1 of 2,,1,13,12,1,312.0
+6:48.0, ,13-13,J. Harden makes free throw 2 of 2,Tie,1,13,13,0,312.0
+6:36.0,G. Vincent misses 3-pt jump shot from 23 ft,13-13, ,,1,13,13,0,324.0
+6:33.0, ,13-13,Defensive rebound by D. Melton,,1,13,13,0,327.0
+6:24.0, ,13-13,J. Embiid misses 2-pt jump shot from 7 ft,,1,13,13,0,336.0
+6:21.0,Defensive rebound by B. Adebayo,13-13, ,,1,13,13,0,339.0
+6:13.0,B. Adebayo misses 2-pt jump shot from 7 ft,13-13, ,,1,13,13,0,347.0
+6:11.0,Offensive rebound by J. Butler,13-13, ,,1,13,13,0,349.0
+6:10.0,J. Butler makes 2-pt layup at rim,15-13, ,,1,15,13,2,350.0
+5:41.0, ,15-13,J. Harden misses 3-pt jump shot from 27 ft,,1,15,13,2,379.0
+5:39.0,Defensive rebound by K. Love,15-13, ,,1,15,13,2,381.0
+5:35.0,T. Herro makes 2-pt dunk from 1 ft (assist by K. Love),17-13, ,,1,17,13,4,385.0
+5:23.0, ,17-15,J. Embiid makes 2-pt jump shot from 10 ft (assist by J. Harden),,1,17,15,2,397.0
+5:03.0,J. Butler misses 2-pt jump shot from 7 ft,17-15, ,,1,17,15,2,417.0
+5:00.0, ,17-15,Defensive rebound by J. Embiid,,1,17,15,2,420.0
+4:50.0, ,17-15,Shooting foul by J. Butler (drawn by P. Tucker),,1,17,15,2,430.0
+4:50.0, ,17-16,P. Tucker makes free throw 1 of 2,,1,17,16,1,430.0
+4:50.0,M. Strus enters the game for T. Herro,17-16, ,,1,17,16,1,430.0
+4:50.0, ,17-16,T. Maxey enters the game for J. Harden,,1,17,16,1,430.0
+4:50.0, ,17-16,G. Niang enters the game for T. Harris,,1,17,16,1,430.0
+4:50.0, ,17-17,P. Tucker makes free throw 2 of 2,Tie,1,17,17,0,430.0
+4:40.0,Personal foul by G. Niang (drawn by K. Love),17-17, ,,1,17,17,0,440.0
+4:36.0,Personal foul by T. Maxey (drawn by B. Adebayo),17-17, ,,1,17,17,0,444.0
+4:26.0,G. Vincent misses 2-pt jump shot from 13 ft (block by D. Melton),17-17, ,,1,17,17,0,454.0
+4:24.0,Offensive rebound by G. Vincent,17-17, ,,1,17,17,0,456.0
+4:24.0,G. Vincent misses 2-pt jump shot from 11 ft,17-17, ,,1,17,17,0,456.0
+4:21.0,Offensive rebound by K. Love,17-17, ,,1,17,17,0,459.0
+4:10.0,Turnover by J. Butler (bad pass; steal by P. Tucker),17-17, ,,1,17,17,0,470.0
+4:01.0,Violation by Team (kicked ball),17-17, ,,1,17,17,0,479.0
+4:01.0,V. Oladipo enters the game for B. Adebayo,17-17, ,,1,17,17,0,479.0
+4:01.0,C. Zeller enters the game for G. Vincent,17-17, ,,1,17,17,0,479.0
+3:52.0, ,17-17,T. Maxey misses 2-pt jump shot from 9 ft,,1,17,17,0,488.0
+3:50.0,Defensive rebound by V. Oladipo,17-17, ,,1,17,17,0,490.0
+3:39.0,C. Zeller makes 2-pt jump shot from 8 ft (assist by J. Butler),19-17, ,,1,19,17,2,501.0
+3:19.0, ,19-17,Turnover by J. Embiid (bad pass; steal by J. Butler),,1,19,17,2,521.0
+3:06.0,K. Love makes 3-pt jump shot from 29 ft (assist by J. Butler),22-17, ,,1,22,17,5,534.0
+2:52.0, ,22-17,T. Maxey misses 2-pt jump shot from 12 ft,,1,22,17,5,548.0
+2:50.0,Defensive rebound by J. Butler,22-17, ,,1,22,17,5,550.0
+2:33.0,K. Love makes 2-pt jump shot from 10 ft (assist by J. Butler),24-17, ,,1,24,17,7,567.0
+2:14.0, ,24-17,Shooting foul by K. Love (drawn by T. Maxey),,1,24,17,7,586.0
+2:14.0,Miami full timeout,24-17, ,,1,24,17,7,586.0
+2:14.0,T. Herro enters the game for J. Butler,24-17, ,,1,24,17,7,586.0
+2:14.0,C. Martin enters the game for K. Love,24-17, ,,1,24,17,7,586.0
+2:14.0, ,24-17,J. McDaniels enters the game for J. Embiid,,1,24,17,7,586.0
+2:14.0, ,24-17,S. Milton enters the game for D. Melton,,1,24,17,7,586.0
+2:14.0, ,24-18,T. Maxey makes free throw 1 of 2,,1,24,18,6,586.0
+2:14.0, ,24-18,T. Maxey misses free throw 2 of 2,,1,24,18,6,586.0
+2:11.0,Defensive rebound by C. Zeller,24-18, ,,1,24,18,6,589.0
+1:59.0,C. Zeller misses 2-pt layup from 2 ft,24-18, ,,1,24,18,6,601.0
+1:57.0, ,24-18,Defensive rebound by G. Niang,,1,24,18,6,603.0
+1:40.0, ,24-20,G. Niang makes 2-pt jump shot from 9 ft (assist by J. McDaniels),,1,24,20,4,620.0
+1:19.0,T. Herro misses 3-pt jump shot from 28 ft,24-20, ,,1,24,20,4,641.0
+1:19.0,Offensive rebound by M. Strus,24-20, ,,1,24,20,4,641.0
+1:11.0,Shooting foul by S. Milton (drawn by C. Martin),24-20, ,,1,24,20,4,649.0
+1:11.0,C. Martin makes free throw 1 of 2,25-20, ,,1,25,20,5,649.0
+1:11.0, ,25-20,P. Reed enters the game for P. Tucker,,1,25,20,5,649.0
+1:11.0,C. Martin makes free throw 2 of 2,26-20, ,,1,26,20,6,649.0
+0:54.0, ,26-20,Turnover by T. Maxey (palming),,1,26,20,6,666.0
+0:45.0,T. Herro misses 3-pt jump shot from 28 ft,26-20, ,,1,26,20,6,675.0
+0:44.0,Offensive rebound by Team,26-20, ,,1,26,20,6,676.0
+0:44.0, ,26-20,Loose ball foul by G. Niang (drawn by C. Zeller),,1,26,20,6,676.0
+0:44.0,C. Zeller misses free throw 1 of 2,26-20, ,,1,26,20,6,676.0
+0:44.0,C. Zeller misses free throw 2 of 2,26-20, ,,1,26,20,6,676.0
+0:41.0, ,26-20,Defensive rebound by J. McDaniels,,1,26,20,6,679.0
+0:22.0, ,26-22,S. Milton makes 2-pt jump shot from 8 ft,,1,26,22,4,698.0
+0:02.0,V. Oladipo makes 2-pt layup from 2 ft,28-22, ,,1,28,22,6,718.0
+0:00.0,End of 1st quarter,28-22,,,1,28,22,6,720.0
+12:00.0,Start of 2nd quarter,28-22,,,2,28,22,6,720.0
+11:40.0,T. Herro makes 3-pt jump shot from 28 ft (assist by V. Oladipo),31-22, ,,2,31,22,9,740.0
+11:20.0, ,31-22,Shooting foul by M. Strus (drawn by P. Reed),,2,31,22,9,760.0
+11:20.0, ,31-23,P. Reed makes free throw 1 of 2,,2,31,23,8,760.0
+11:20.0, ,31-24,P. Reed makes free throw 2 of 2,,2,31,24,7,760.0
+11:11.0,Turnover by V. Oladipo (lost ball; steal by J. McDaniels),31-24, ,,2,31,24,7,769.0
+11:01.0, ,31-24,Turnover by J. Harden (bad pass; steal by T. Herro),,2,31,24,7,779.0
+10:54.0,V. Oladipo misses 3-pt jump shot from 26 ft,31-24, ,,2,31,24,7,786.0
+10:51.0, ,31-24,Defensive rebound by P. Reed,,2,31,24,7,789.0
+10:37.0, ,31-24,Shooting foul by M. Strus (drawn by J. McDaniels),,2,31,24,7,803.0
+10:37.0, ,31-25,J. McDaniels makes free throw 1 of 2,,2,31,25,6,803.0
+10:37.0, ,31-26,J. McDaniels makes free throw 2 of 2,,2,31,26,5,803.0
+10:24.0,Personal foul by J. McDaniels (drawn by C. Zeller),31-26, ,,2,31,26,5,816.0
+10:19.0,Personal foul by J. McDaniels (drawn by C. Zeller),31-26, ,,2,31,26,5,821.0
+10:08.0,V. Oladipo makes 3-pt jump shot from 27 ft (assist by C. Martin),34-26, ,,2,34,26,8,832.0
+9:38.0, ,34-29,T. Maxey makes 3-pt jump shot from 26 ft (assist by J. Harden),,2,34,29,5,862.0
+9:24.0,M. Strus misses 3-pt jump shot from 27 ft,34-29, ,,2,34,29,5,876.0
+9:20.0,Offensive rebound by T. Herro,34-29, ,,2,34,29,5,880.0
+9:15.0,Personal foul by T. Maxey (drawn by C. Zeller),34-29, ,,2,34,29,5,885.0
+9:15.0, ,34-29,T. Harris enters the game for J. McDaniels,,2,34,29,5,885.0
+9:08.0,T. Herro misses 3-pt jump shot from 28 ft,34-29, ,,2,34,29,5,892.0
+9:08.0, ,34-29,Defensive rebound by Team,,2,34,29,5,892.0
+8:46.0, ,34-29,P. Reed misses 2-pt hook shot from 8 ft (block by C. Zeller),,2,34,29,5,914.0
+8:46.0, ,34-29,Offensive rebound by Team,,2,34,29,5,914.0
+8:46.0,B. Adebayo enters the game for C. Zeller,34-29, ,,2,34,29,5,914.0
+8:44.0, ,34-29,P. Reed misses 2-pt jump shot from 15 ft,,2,34,29,5,916.0
+8:44.0, ,34-29,Offensive rebound by Team,,2,34,29,5,916.0
+8:44.0, ,34-29,Turnover by Team (shot clock),,2,34,29,5,916.0
+8:25.0,V. Oladipo makes 3-pt jump shot from 23 ft (assist by B. Adebayo),37-29, ,,2,37,29,8,935.0
+8:12.0, ,37-29,S. Milton misses 2-pt layup from 9 ft,,2,37,29,8,948.0
+8:11.0, ,37-29,Offensive rebound by P. Reed,,2,37,29,8,949.0
+8:09.0, ,37-31,P. Reed makes 2-pt hook shot from 3 ft,,2,37,31,6,951.0
+7:49.0,Offensive foul by B. Adebayo (drawn by J. Harden),37-31, ,,2,37,31,6,971.0
+7:49.0,Turnover by B. Adebayo (offensive foul),37-31, ,,2,37,31,6,971.0
+7:49.0, ,37-31,J. Embiid enters the game for S. Milton,,2,37,31,6,971.0
+7:49.0, ,37-31,D. Melton enters the game for P. Reed,,2,37,31,6,971.0
+7:30.0, ,37-31,Turnover by J. Embiid (lost ball; steal by V. Oladipo),,2,37,31,6,990.0
+7:25.0,M. Strus misses 3-pt jump shot from 28 ft,37-31, ,,2,37,31,6,995.0
+7:22.0, ,37-31,Defensive rebound by J. Embiid,,2,37,31,6,998.0
+7:16.0, ,37-33,J. Embiid makes 2-pt layup from 5 ft (assist by J. Harden),,2,37,33,4,1004.0
+7:01.0,Shooting foul by J. Embiid (drawn by B. Adebayo),37-33, ,,2,37,33,4,1019.0
+7:01.0,B. Adebayo misses free throw 1 of 2,37-33, ,,2,37,33,4,1019.0
+7:01.0,Offensive rebound by Team,37-33, ,,2,37,33,4,1019.0
+7:01.0,J. Butler enters the game for T. Herro,37-33, ,,2,37,33,4,1019.0
+7:01.0,G. Vincent enters the game for V. Oladipo,37-33, ,,2,37,33,4,1019.0
+7:01.0,B. Adebayo makes free throw 2 of 2,38-33, ,,2,38,33,5,1019.0
+6:48.0, ,38-33,T. Maxey misses 3-pt jump shot from 26 ft,,2,38,33,5,1032.0
+6:46.0,Defensive rebound by J. Butler,38-33, ,,2,38,33,5,1034.0
+6:33.0,M. Strus makes 3-pt jump shot from 24 ft (assist by G. Vincent),41-33, ,,2,41,33,8,1047.0
+6:10.0, ,41-35,J. Embiid makes 2-pt jump shot from 11 ft,,2,41,35,6,1070.0
+5:56.0,M. Strus misses 3-pt jump shot from 26 ft,41-35, ,,2,41,35,6,1084.0
+5:54.0, ,41-35,Defensive rebound by Team,,2,41,35,6,1086.0
+5:54.0, ,41-35,Philadelphia full timeout,,2,41,35,6,1086.0
+5:54.0, ,41-35,P. Tucker enters the game for T. Maxey,,2,41,35,6,1086.0
+5:37.0, ,41-35,Turnover by J. Embiid (lost ball; steal by J. Butler),,2,41,35,6,1103.0
+5:29.0,J. Butler misses 2-pt layup from 5 ft,41-35, ,,2,41,35,6,1111.0
+5:26.0, ,41-35,Defensive rebound by J. Embiid,,2,41,35,6,1114.0
+5:11.0, ,41-35,J. Harden misses 3-pt jump shot from 27 ft,,2,41,35,6,1129.0
+5:07.0, ,41-35,Offensive rebound by P. Tucker,,2,41,35,6,1133.0
+5:02.0, ,41-38,P. Tucker makes 3-pt jump shot from 24 ft (assist by J. Embiid),,2,41,38,3,1138.0
+4:39.0,G. Vincent misses 2-pt jump shot from 11 ft,41-38, ,,2,41,38,3,1161.0
+4:36.0, ,41-38,Defensive rebound by T. Harris,,2,41,38,3,1164.0
+4:30.0, ,41-38,Offensive foul by T. Harris (drawn by M. Strus),,2,41,38,3,1170.0
+4:30.0, ,41-38,Turnover by T. Harris (offensive foul),,2,41,38,3,1170.0
+4:30.0,K. Love enters the game for M. Strus,41-38, ,,2,41,38,3,1170.0
+4:18.0,B. Adebayo misses 2-pt jump shot from 5 ft,41-38, ,,2,41,38,3,1182.0
+4:16.0,Offensive rebound by J. Butler,41-38, ,,2,41,38,3,1184.0
+4:16.0,J. Butler makes 2-pt dunk at rim,43-38, ,,2,43,38,5,1184.0
+3:57.0, ,43-38,Shooting foul by K. Love (drawn by J. Embiid),,2,43,38,5,1203.0
+3:57.0, ,43-39,J. Embiid makes free throw 1 of 2,,2,43,39,4,1203.0
+3:57.0, ,43-40,J. Embiid makes free throw 2 of 2,,2,43,40,3,1203.0
+3:42.0,G. Vincent makes 3-pt jump shot from 26 ft (assist by J. Butler),46-40, ,,2,46,40,6,1218.0
+3:31.0, ,46-40,Offensive foul by P. Tucker (drawn by C. Martin),,2,46,40,6,1229.0
+3:31.0, ,46-40,Turnover by P. Tucker (offensive foul),,2,46,40,6,1229.0
+3:24.0,Personal foul by J. Embiid (drawn by B. Adebayo),46-40, ,,2,46,40,6,1236.0
+3:24.0,B. Adebayo makes free throw 1 of 2,47-40, ,,2,47,40,7,1236.0
+3:24.0,B. Adebayo makes free throw 2 of 2,48-40, ,,2,48,40,8,1236.0
+3:14.0, ,48-40,Turnover by J. Harden (lost ball; steal by K. Love),,2,48,40,8,1246.0
+3:10.0,C. Martin makes 2-pt dunk from 1 ft (assist by K. Love),50-40, ,,2,50,40,10,1250.0
+2:58.0, ,50-40,Personal foul by G. Vincent (drawn by J. Embiid),,2,50,40,10,1262.0
+2:58.0,Miami full timeout,50-40, ,,2,50,40,10,1262.0
+2:47.0, ,50-43,J. Harden makes 3-pt jump shot from 26 ft,,2,50,43,7,1273.0
+2:22.0,B. Adebayo misses 2-pt jump shot from 14 ft,50-43, ,,2,50,43,7,1298.0
+2:19.0, ,50-43,Defensive rebound by J. Harden,,2,50,43,7,1301.0
+2:16.0, ,50-43,Personal foul by B. Adebayo (drawn by J. Embiid),,2,50,43,7,1304.0
+2:16.0, ,50-44,J. Embiid makes free throw 1 of 2,,2,50,44,6,1304.0
+2:16.0,C. Zeller enters the game for B. Adebayo,50-44, ,,2,50,44,6,1304.0
+2:16.0, ,50-45,J. Embiid makes free throw 2 of 2,,2,50,45,5,1304.0
+1:51.0,K. Love misses 3-pt jump shot from 24 ft,50-45, ,,2,50,45,5,1329.0
+1:48.0, ,50-45,Defensive rebound by P. Tucker,,2,50,45,5,1332.0
+1:34.0, ,50-48,P. Tucker makes 3-pt jump shot from 24 ft (assist by J. Harden),,2,50,48,2,1346.0
+1:27.0,C. Zeller makes 2-pt layup from 1 ft (assist by C. Martin),52-48, ,,2,52,48,4,1353.0
+1:03.0, ,52-48,Turnover by J. Embiid (bad pass; steal by J. Butler),,2,52,48,4,1377.0
+0:59.0,J. Butler makes 2-pt dunk from 1 ft,54-48, ,,2,54,48,6,1381.0
+0:49.0, ,54-48,Shooting foul by C. Zeller (drawn by J. Embiid),,2,54,48,6,1391.0
+0:49.0, ,54-49,J. Embiid makes free throw 1 of 2,,2,54,49,5,1391.0
+0:49.0,T. Herro enters the game for K. Love,54-49, ,,2,54,49,5,1391.0
+0:49.0, ,54-50,J. Embiid makes free throw 2 of 2,,2,54,50,4,1391.0
+0:36.0,G. Vincent makes 2-pt jump shot from 8 ft,56-50, ,,2,56,50,6,1404.0
+0:33.0, ,56-50,D. Melton misses 3-pt jump shot from 27 ft,,2,56,50,6,1407.0
+0:30.0,Defensive rebound by C. Martin,56-50, ,,2,56,50,6,1410.0
+0:09.0,J. Butler makes 2-pt jump shot from 12 ft,58-50, ,,2,58,50,8,1431.0
+0:03.0, ,58-50,J. Harden misses 3-pt jump shot from 28 ft,,2,58,50,8,1437.0
+0:00.0, ,58-50,Offensive rebound by Team,,2,58,50,8,1440.0
+0:00.0,V. Oladipo enters the game for T. Herro,58-50, ,,2,58,50,8,1440.0
+0:00.0, ,58-50,D. Melton misses 2-pt layup from 1 ft,,2,58,50,8,1440.0
+0:00.0,End of 2nd quarter,58-50,,,2,58,50,8,1440.0
+12:00.0,Start of 3rd quarter,58-50,,,3,58,50,8,1440.0
+11:39.0,T. Herro misses 2-pt jump shot from 15 ft,58-50, ,,3,58,50,8,1461.0
+11:35.0, ,58-50,Defensive rebound by P. Tucker,,3,58,50,8,1465.0
+11:22.0, ,58-50,J. Embiid misses 2-pt jump shot from 19 ft,,3,58,50,8,1478.0
+11:19.0,Defensive rebound by J. Butler,58-50, ,,3,58,50,8,1481.0
+11:14.0,T. Herro misses 2-pt jump shot from 8 ft (block by D. Melton),58-50, ,,3,58,50,8,1486.0
+11:14.0,Offensive rebound by Team,58-50, ,,3,58,50,8,1486.0
+11:07.0,Turnover by B. Adebayo (out of bounds lost ball),58-50, ,,3,58,50,8,1493.0
+10:55.0, ,58-52,T. Harris makes 2-pt layup from 3 ft (assist by J. Embiid),,3,58,52,6,1505.0
+10:37.0,J. Butler makes 2-pt jump shot from 9 ft,60-52, ,,3,60,52,8,1523.0
+10:26.0, ,60-52,Offensive foul by J. Embiid (drawn by B. Adebayo),,3,60,52,8,1534.0
+10:26.0, ,60-52,Turnover by J. Embiid (offensive foul),,3,60,52,8,1534.0
+10:13.0,B. Adebayo misses 2-pt jump shot from 18 ft,60-52, ,,3,60,52,8,1547.0
+10:10.0,Offensive rebound by K. Love,60-52, ,,3,60,52,8,1550.0
+10:07.0,K. Love misses 3-pt jump shot from 23 ft,60-52, ,,3,60,52,8,1553.0
+10:03.0, ,60-52,Defensive rebound by T. Harris,,3,60,52,8,1557.0
+9:48.0, ,60-52,J. Harden misses 3-pt jump shot from 27 ft,,3,60,52,8,1572.0
+9:42.0,Defensive rebound by B. Adebayo,60-52, ,,3,60,52,8,1578.0
+9:39.0,Turnover by K. Love (bad pass),60-52, ,,3,60,52,8,1581.0
+9:24.0, ,60-52,Personal foul by G. Vincent (drawn by T. Harris),,3,60,52,8,1596.0
+9:11.0, ,60-55,J. Harden makes 3-pt jump shot from 29 ft,,3,60,55,5,1609.0
+9:04.0,K. Love makes 3-pt jump shot from 25 ft (assist by J. Butler),63-55, ,,3,63,55,8,1616.0
+8:55.0,Violation by Team (kicked ball),63-55, ,,3,63,55,8,1625.0
+8:39.0, ,63-55,J. Harden misses 2-pt jump shot from 16 ft,,3,63,55,8,1641.0
+8:36.0,Defensive rebound by J. Butler,63-55, ,,3,63,55,8,1644.0
+8:32.0,B. Adebayo misses 2-pt layup from 3 ft,63-55, ,,3,63,55,8,1648.0
+8:30.0, ,63-55,Defensive rebound by J. Embiid,,3,63,55,8,1650.0
+8:25.0, ,63-57,J. Embiid makes 2-pt layup from 2 ft (assist by D. Melton),,3,63,57,6,1655.0
+8:06.0,B. Adebayo misses 2-pt jump shot from 11 ft,63-57, ,,3,63,57,6,1674.0
+8:03.0,Offensive rebound by B. Adebayo,63-57, ,,3,63,57,6,1677.0
+8:02.0,Turnover by B. Adebayo (lost ball; steal by D. Melton),63-57, ,,3,63,57,6,1678.0
+7:57.0, ,63-57,Turnover by D. Melton (bad pass; steal by J. Butler),,3,63,57,6,1683.0
+7:54.0,G. Vincent makes 3-pt jump shot from 26 ft,66-57, ,,3,66,57,9,1686.0
+7:52.0, ,66-57,Philadelphia full timeout,,3,66,57,9,1688.0
+7:52.0, ,66-57,T. Maxey enters the game for D. Melton,,3,66,57,9,1688.0
+7:33.0, ,66-59,J. Embiid makes 2-pt layup from 2 ft (assist by J. Harden),,3,66,59,7,1707.0
+7:19.0,K. Love misses 2-pt layup from 2 ft,66-59, ,,3,66,59,7,1721.0
+7:18.0, ,66-59,Defensive rebound by J. Harden,,3,66,59,7,1722.0
+7:12.0, ,66-61,T. Maxey makes 2-pt layup from 2 ft (assist by T. Harris),,3,66,61,5,1728.0
+6:49.0,Shooting foul by J. Embiid (drawn by J. Butler),66-61, ,,3,66,61,5,1751.0
+6:49.0,J. Butler makes free throw 1 of 2,67-61, ,,3,67,61,6,1751.0
+6:49.0,J. Butler makes free throw 2 of 2,68-61, ,,3,68,61,7,1751.0
+6:35.0, ,68-63,J. Embiid makes 2-pt layup from 3 ft,,3,68,63,5,1765.0
+6:35.0, ,68-63,Shooting foul by K. Love (drawn by J. Embiid),,3,68,63,5,1765.0
+6:35.0, ,68-64,J. Embiid makes free throw 1 of 1,,3,68,64,4,1765.0
+6:21.0,J. Butler makes 2-pt layup from 1 ft,70-64, ,,3,70,64,6,1779.0
+6:09.0, ,70-66,T. Maxey makes 2-pt jump shot from 10 ft,,3,70,66,4,1791.0
+5:57.0,G. Vincent misses 3-pt jump shot from 27 ft,70-66, ,,3,70,66,4,1803.0
+5:55.0, ,70-66,Defensive rebound by J. Harden,,3,70,66,4,1805.0
+5:55.0,M. Strus enters the game for T. Herro,70-66, ,,3,70,66,4,1805.0
+5:55.0, ,70-66,P. Reed enters the game for J. Embiid,,3,70,66,4,1805.0
+5:40.0, ,70-66,Turnover by T. Harris (bad pass),,3,70,66,4,1820.0
+5:26.0,B. Adebayo misses 2-pt hook shot from 5 ft,70-66, ,,3,70,66,4,1834.0
+5:25.0, ,70-66,Defensive rebound by Team,,3,70,66,4,1835.0
+5:05.0, ,70-66,J. Harden misses 2-pt jump shot from 3 ft,,3,70,66,4,1855.0
+5:04.0,Defensive rebound by B. Adebayo,70-66, ,,3,70,66,4,1856.0
+5:00.0,G. Vincent misses 3-pt jump shot from 25 ft,70-66, ,,3,70,66,4,1860.0
+4:57.0, ,70-66,Defensive rebound by T. Harris,,3,70,66,4,1863.0
+4:37.0, ,70-66,T. Maxey misses 2-pt hook shot from 2 ft,,3,70,66,4,1883.0
+4:34.0,Defensive rebound by K. Love,70-66, ,,3,70,66,4,1886.0
+4:29.0,Turnover by J. Butler (lost ball; steal by P. Tucker),70-66, ,,3,70,66,4,1891.0
+4:24.0, ,70-68,T. Maxey makes 2-pt layup from 1 ft (assist by J. Harden),,3,70,68,2,1896.0
+4:24.0,Miami full timeout,70-68, ,,3,70,68,2,1896.0
+4:24.0,C. Martin enters the game for K. Love,70-68, ,,3,70,68,2,1896.0
+4:04.0,M. Strus makes 2-pt layup from 2 ft (assist by J. Butler),72-68, ,,3,72,68,4,1916.0
+3:44.0, ,72-71,T. Maxey makes 3-pt jump shot from 29 ft,,3,72,71,1,1936.0
+3:21.0,B. Adebayo makes 2-pt jump shot from 13 ft,74-71, ,,3,74,71,3,1959.0
+2:52.0, ,74-71,Turnover by J. Harden (bad pass; steal by B. Adebayo),,3,74,71,3,1988.0
+2:52.0,T. Herro enters the game for J. Butler,74-71, ,,3,74,71,3,1988.0
+2:52.0,V. Oladipo enters the game for G. Vincent,74-71, ,,3,74,71,3,1988.0
+2:47.0,Jump ball: B. Adebayo vs. J. Harden (M. Strus gains possession),74-71,,,3,74,71,3,1993.0
+2:39.0,V. Oladipo makes 3-pt jump shot from 25 ft (assist by T. Herro),77-71, ,,3,77,71,6,2001.0
+2:18.0, ,77-73,P. Reed makes 2-pt hook shot from 4 ft (assist by T. Maxey),,3,77,73,4,2022.0
+2:02.0,B. Adebayo makes 2-pt jump shot from 14 ft,79-73, ,,3,79,73,6,2038.0
+1:41.0, ,79-75,T. Maxey makes 2-pt dunk from 1 ft (assist by J. Harden),,3,79,75,4,2059.0
+1:18.0,M. Strus makes 3-pt jump shot from 25 ft (assist by T. Herro),82-75, ,,3,82,75,7,2082.0
+0:59.0, ,82-77,J. Harden makes 2-pt jump shot from 3 ft,,3,82,77,5,2101.0
+0:49.0,Shooting foul by T. Maxey (drawn by B. Adebayo),82-77, ,,3,82,77,5,2111.0
+0:49.0,B. Adebayo makes free throw 1 of 2,83-77, ,,3,83,77,6,2111.0
+0:49.0, ,83-77,J. McDaniels enters the game for T. Harris,,3,83,77,6,2111.0
+0:49.0, ,83-77,S. Milton enters the game for P. Tucker,,3,83,77,6,2111.0
+0:49.0,B. Adebayo makes free throw 2 of 2,84-77, ,,3,84,77,7,2111.0
+0:36.0, ,84-80,T. Maxey makes 3-pt jump shot from 30 ft (assist by J. Harden),,3,84,80,4,2124.0
+0:18.0,Turnover by V. Oladipo (bad pass; steal by J. Harden),84-80, ,,3,84,80,4,2142.0
+0:00.0, ,84-80,T. Maxey misses 3-pt jump shot from 28 ft,,3,84,80,4,2160.0
+0:00.0, ,84-80,Offensive rebound by Team,,3,84,80,4,2160.0
+0:00.0,End of 3rd quarter,84-80,,,3,84,80,4,2160.0
+12:00.0,Start of 4th quarter,84-80,,,4,84,80,4,2160.0
+11:42.0, ,84-80,Turnover by J. McDaniels (bad pass; steal by V. Oladipo),,4,84,80,4,2178.0
+11:42.0,Personal foul by J. McDaniels (drawn by V. Oladipo),84-80, ,,4,84,80,4,2178.0
+11:34.0,T. Herro misses 3-pt jump shot from 23 ft,84-80, ,,4,84,80,4,2186.0
+11:29.0, ,84-80,Defensive rebound by P. Reed,,4,84,80,4,2191.0
+11:26.0, ,84-80,Shooting foul by V. Oladipo (drawn by S. Milton),,4,84,80,4,2194.0
+11:26.0, ,84-81,S. Milton makes free throw 1 of 2,,4,84,81,3,2194.0
+11:26.0, ,84-81,G. Niang enters the game for J. Harden,,4,84,81,3,2194.0
+11:26.0, ,84-81,S. Milton misses free throw 2 of 2,,4,84,81,3,2194.0
+11:24.0,Defensive rebound by C. Martin,84-81, ,,4,84,81,3,2196.0
+11:14.0,Personal foul by S. Milton (drawn by C. Martin),84-81, ,,4,84,81,3,2206.0
+11:09.0,M. Strus makes 3-pt jump shot from 26 ft (assist by V. Oladipo),87-81, ,,4,87,81,6,2211.0
+10:49.0, ,87-81,Shooting foul by V. Oladipo (drawn by T. Maxey),,4,87,81,6,2231.0
+10:49.0, ,87-82,T. Maxey makes free throw 1 of 2,,4,87,82,5,2231.0
+10:49.0, ,87-83,T. Maxey makes free throw 2 of 2,,4,87,83,4,2231.0
+10:29.0,M. Strus misses 3-pt jump shot from 24 ft,87-83, ,,4,87,83,4,2251.0
+10:27.0, ,87-83,Defensive rebound by T. Maxey,,4,87,83,4,2253.0
+10:27.0, ,87-83,Personal foul by C. Zeller (drawn by T. Maxey),,4,87,83,4,2253.0
+10:17.0, ,87-83,G. Niang misses 3-pt jump shot from 28 ft,,4,87,83,4,2263.0
+10:14.0, ,87-83,Offensive rebound by J. McDaniels,,4,87,83,4,2266.0
+10:10.0, ,87-83,S. Milton misses 2-pt jump shot from 18 ft,,4,87,83,4,2270.0
+10:08.0,Defensive rebound by C. Martin,87-83, ,,4,87,83,4,2272.0
+10:01.0,Turnover by V. Oladipo (bad pass),87-83, ,,4,87,83,4,2279.0
+9:48.0, ,87-83,T. Maxey misses 3-pt jump shot from 28 ft,,4,87,83,4,2292.0
+9:46.0,Defensive rebound by Team,87-83, ,,4,87,83,4,2294.0
+9:46.0, ,87-83,J. Embiid enters the game for P. Reed,,4,87,83,4,2294.0
+9:27.0,T. Herro makes 3-pt jump shot from 23 ft (assist by C. Martin),90-83, ,,4,90,83,7,2313.0
+9:05.0, ,90-83,G. Niang misses 3-pt jump shot from 26 ft,,4,90,83,7,2335.0
+9:02.0,Defensive rebound by V. Oladipo,90-83, ,,4,90,83,7,2338.0
+8:55.0,Shooting foul by J. McDaniels (drawn by C. Martin),90-83, ,,4,90,83,7,2345.0
+8:55.0,C. Martin makes free throw 1 of 2,91-83, ,,4,91,83,8,2345.0
+8:55.0, ,91-83,T. Harris enters the game for S. Milton,,4,91,83,8,2345.0
+8:55.0, ,91-83,D. Melton enters the game for G. Niang,,4,91,83,8,2345.0
+8:55.0,C. Martin makes free throw 2 of 2,92-83, ,,4,92,83,9,2345.0
+8:34.0, ,92-83,T. Harris misses 3-pt jump shot from 28 ft,,4,92,83,9,2366.0
+8:33.0, ,92-83,Offensive rebound by Team,,4,92,83,9,2367.0
+8:33.0,Loose ball foul by C. Zeller (drawn by J. Embiid),92-83, ,,4,92,83,9,2367.0
+8:22.0, ,92-83,J. Embiid misses 2-pt jump shot from 20 ft,,4,92,83,9,2378.0
+8:19.0, ,92-83,Offensive rebound by J. McDaniels,,4,92,83,9,2381.0
+8:18.0, ,92-83,D. Melton misses 3-pt jump shot from 23 ft,,4,92,83,9,2382.0
+8:16.0, ,92-83,Offensive rebound by J. McDaniels,,4,92,83,9,2384.0
+8:16.0, ,92-83,J. McDaniels misses 2-pt dunk at rim,,4,92,83,9,2384.0
+8:15.0, ,92-83,Offensive rebound by J. Embiid,,4,92,83,9,2385.0
+8:10.0, ,92-83,J. McDaniels misses 2-pt layup from 2 ft,,4,92,83,9,2390.0
+8:06.0, ,92-83,Offensive rebound by J. Embiid,,4,92,83,9,2394.0
+8:04.0, ,92-83,Turnover by J. Embiid (bad pass; steal by C. Martin),,4,92,83,9,2396.0
+7:46.0,V. Oladipo misses 3-pt jump shot from 26 ft,92-83, ,,4,92,83,9,2414.0
+7:41.0, ,92-83,Defensive rebound by J. Embiid,,4,92,83,9,2419.0
+7:32.0, ,92-83,Offensive foul by T. Maxey (drawn by V. Oladipo),,4,92,83,9,2428.0
+7:32.0, ,92-83,Turnover by T. Maxey (offensive foul),,4,92,83,9,2428.0
+7:32.0, ,92-83,Philadelphia full timeout,,4,92,83,9,2428.0
+7:32.0, ,92-83,Instant Replay (Challenge: Stands),,4,92,83,9,2428.0
+7:32.0, ,92-83,J. Harden enters the game for J. McDaniels,,4,92,83,9,2428.0
+7:10.0,Shooting foul by T. Maxey (drawn by M. Strus),92-83, ,,4,92,83,9,2450.0
+7:10.0,M. Strus makes free throw 1 of 2,93-83, ,,4,93,83,10,2450.0
+7:10.0,M. Strus makes free throw 2 of 2,94-83, ,,4,94,83,11,2450.0
+6:50.0, ,94-85,J. Embiid makes 2-pt jump shot from 15 ft (assist by J. Harden),,4,94,85,9,2470.0
+6:39.0,T. Herro misses 3-pt jump shot from 26 ft,94-85, ,,4,94,85,9,2481.0
+6:35.0, ,94-85,Defensive rebound by J. Harden,,4,94,85,9,2485.0
+6:29.0, ,94-85,J. Embiid misses 2-pt layup from 2 ft (block by C. Zeller),,4,94,85,9,2491.0
+6:27.0,Defensive rebound by T. Herro,94-85, ,,4,94,85,9,2493.0
+6:15.0,M. Strus misses 3-pt jump shot from 28 ft,94-85, ,,4,94,85,9,2505.0
+6:12.0, ,94-85,Defensive rebound by J. Embiid,,4,94,85,9,2508.0
+6:12.0, ,94-85,Personal foul by M. Strus (drawn by J. Harden),,4,94,85,9,2508.0
+6:12.0, ,94-86,J. Harden makes free throw 1 of 2,,4,94,86,8,2508.0
+6:12.0,J. Butler enters the game for T. Herro,94-86, ,,4,94,86,8,2508.0
+6:12.0,G. Vincent enters the game for M. Strus,94-86, ,,4,94,86,8,2508.0
+6:12.0, ,94-87,J. Harden makes free throw 2 of 2,,4,94,87,7,2508.0
+5:59.0,Shooting foul by T. Harris (drawn by C. Zeller),94-87, ,,4,94,87,7,2521.0
+5:59.0,C. Zeller misses free throw 1 of 2,94-87, ,,4,94,87,7,2521.0
+5:59.0,Offensive rebound by Team,94-87, ,,4,94,87,7,2521.0
+5:59.0,C. Zeller makes free throw 2 of 2,95-87, ,,4,95,87,8,2521.0
+5:46.0, ,95-90,T. Maxey makes 3-pt jump shot from 27 ft (assist by J. Harden),,4,95,90,5,2534.0
+5:45.0,Miami full timeout,95-90, ,,4,95,90,5,2535.0
+5:45.0,B. Adebayo enters the game for C. Zeller,95-90, ,,4,95,90,5,2535.0
+5:27.0,Turnover by B. Adebayo (lost ball; steal by J. Harden),95-90, ,,4,95,90,5,2553.0
+5:22.0, ,95-92,D. Melton makes 2-pt layup from 1 ft (assist by T. Maxey),,4,95,92,3,2558.0
+5:22.0, ,95-92,Shooting foul by V. Oladipo (drawn by D. Melton),,4,95,92,3,2558.0
+5:22.0, ,95-92,P. Tucker enters the game for T. Harris,,4,95,92,3,2558.0
+5:22.0, ,95-93,D. Melton makes free throw 1 of 1,,4,95,93,2,2558.0
+5:03.0,J. Butler misses 2-pt jump shot from 15 ft,95-93, ,,4,95,93,2,2577.0
+5:00.0, ,95-93,Defensive rebound by J. Embiid,,4,95,93,2,2580.0
+4:42.0, ,95-93,J. Harden misses 2-pt jump shot from 7 ft,,4,95,93,2,2598.0
+4:42.0, ,95-93,Offensive rebound by Team,,4,95,93,2,2598.0
+4:42.0,T. Herro enters the game for V. Oladipo,95-93, ,,4,95,93,2,2598.0
+4:40.0, ,95-93,T. Maxey misses 2-pt jump shot from 22 ft,,4,95,93,2,2600.0
+4:37.0,Defensive rebound by C. Martin,95-93, ,,4,95,93,2,2603.0
+4:23.0,B. Adebayo misses 2-pt jump shot from 8 ft,95-93, ,,4,95,93,2,2617.0
+4:21.0, ,95-93,Defensive rebound by P. Tucker,,4,95,93,2,2619.0
+4:17.0, ,95-93,D. Melton misses 2-pt jump shot from 2 ft,,4,95,93,2,2623.0
+4:15.0,Defensive rebound by J. Butler,95-93, ,,4,95,93,2,2625.0
+4:10.0,J. Butler misses 2-pt layup from 18 ft,95-93, ,,4,95,93,2,2630.0
+4:07.0, ,95-93,Defensive rebound by D. Melton,,4,95,93,2,2633.0
+4:00.0, ,95-93,T. Maxey misses 2-pt layup from 3 ft,,4,95,93,2,2640.0
+3:58.0,Defensive rebound by J. Butler,95-93, ,,4,95,93,2,2642.0
+3:54.0,B. Adebayo makes 2-pt layup from 3 ft (assist by J. Butler),97-93, ,,4,97,93,4,2646.0
+3:32.0, ,97-95,J. Embiid makes 2-pt layup from 3 ft (assist by J. Harden),,4,97,95,2,2668.0
+3:32.0,Miami full timeout,97-95, ,,4,97,95,2,2668.0
+3:21.0,Shooting foul by T. Maxey (drawn by J. Butler),97-95, ,,4,97,95,2,2679.0
+3:21.0, ,97-95,T. Harris enters the game for T. Maxey,,4,97,95,2,2679.0
+3:21.0,J. Butler misses free throw 1 of 2,97-95, ,,4,97,95,2,2679.0
+3:21.0,Offensive rebound by Team,97-95, ,,4,97,95,2,2679.0
+3:21.0,J. Butler makes free throw 2 of 2,98-95, ,,4,98,95,3,2679.0
+3:21.0, ,98-95,Philadelphia full timeout,,4,98,95,3,2679.0
+3:01.0, ,98-97,J. Embiid makes 2-pt jump shot from 11 ft,,4,98,97,1,2699.0
+2:33.0,C. Martin misses 2-pt jump shot from 13 ft (block by J. Embiid),98-97, ,,4,98,97,1,2727.0
+2:33.0,Offensive rebound by Team,98-97, ,,4,98,97,1,2727.0
+2:33.0,Turnover by Team (shot clock),98-97, ,,4,98,97,1,2727.0
+2:12.0, ,98-97,T. Harris misses 3-pt jump shot from 24 ft,,4,98,97,1,2748.0
+2:09.0, ,98-97,Offensive rebound by J. Embiid,,4,98,97,1,2751.0
+2:09.0, ,98-97,J. Embiid misses 3-pt jump shot from 27 ft,,4,98,97,1,2751.0
+2:09.0, ,98-97,Offensive rebound by Team,,4,98,97,1,2751.0
+2:09.0, ,98-97,Turnover by Team (shot clock),,4,98,97,1,2751.0
+1:54.0,T. Herro misses 3-pt jump shot from 27 ft,98-97, ,,4,98,97,1,2766.0
+1:52.0, ,98-97,Defensive rebound by J. Harden,,4,98,97,1,2768.0
+1:41.0, ,98-97,Shooting foul by G. Vincent (drawn by J. Harden),,4,98,97,1,2779.0
+1:41.0, ,98-98,J. Harden makes free throw 1 of 2,Tie,4,98,98,0,2779.0
+1:41.0, ,98-99,J. Harden makes free throw 2 of 2,Lead change,4,98,99,-1,2779.0
+1:28.0,J. Butler makes 2-pt layup from 2 ft,100-99, ,Lead change,4,100,99,1,2792.0
+1:10.0, ,100-99,J. Harden misses 2-pt jump shot from 5 ft,,4,100,99,1,2810.0
+1:04.0, ,100-99,Offensive rebound by J. Harden,,4,100,99,1,2816.0
+1:04.0, ,100-99,Turnover by J. Harden (step out of bounds),,4,100,99,1,2816.0
+0:49.0,Turnover by J. Butler (traveling),100-99, ,,4,100,99,1,2831.0
+0:29.0, ,100-99,J. Embiid misses 2-pt jump shot from 10 ft (block by B. Adebayo),,4,100,99,1,2851.0
+0:26.0,Defensive rebound by J. Butler,100-99, ,,4,100,99,1,2854.0
+0:08.0,Shooting foul by J. Harden (drawn by J. Butler),100-99, ,,4,100,99,1,2872.0
+0:08.0,V. Oladipo enters the game for T. Herro,100-99, ,,4,100,99,1,2872.0
+0:08.0,J. Butler makes free throw 1 of 2,101-99, ,,4,101,99,2,2872.0
+0:08.0,J. Butler misses free throw 2 of 2,101-99, ,,4,101,99,2,2872.0
+0:08.0, ,101-99,Defensive rebound by J. Embiid,,4,101,99,2,2872.0
+0:08.0, ,101-99,Philadelphia full timeout,,4,101,99,2,2872.0
+0:01.0, ,101-99,J. Harden misses 3-pt jump shot from 28 ft,,4,101,99,2,2879.0
+0:00.0, ,101-99,Offensive rebound by Team,,4,101,99,2,2880.0
+0:00.0,End of 4th quarter,101-99,,,4,101,99,2,2880.0

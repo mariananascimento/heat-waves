@@ -1,0 +1,402 @@
+Time,Miami,Score,New York,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Adebayo vs. M. Robinson (B. Adebayo gains possession),0-0,,,1,0,0,0,0.0
+11:38.0,K. Love misses 3-pt jump shot from 23 ft,0-0, ,,1,0,0,0,22.0
+11:36.0, ,0-0,Defensive rebound by J. Brunson,,1,0,0,0,24.0
+11:25.0, ,0-0,Turnover by R. Barrett (lost ball; steal by G. Vincent),,1,0,0,0,35.0
+11:16.0,T. Herro misses 2-pt jump shot from 10 ft,0-0, ,,1,0,0,0,44.0
+11:14.0, ,0-0,Defensive rebound by Q. Grimes,,1,0,0,0,46.0
+11:06.0, ,0-2,M. Robinson makes 2-pt dunk from 1 ft (assist by Q. Grimes),,1,0,2,-2,54.0
+10:55.0,K. Love misses 3-pt jump shot from 25 ft,0-2, ,,1,0,2,-2,65.0
+10:53.0, ,0-2,Defensive rebound by Q. Grimes,,1,0,2,-2,67.0
+10:46.0, ,0-5,Q. Grimes makes 3-pt jump shot from 25 ft (assist by J. Randle),,1,0,5,-5,74.0
+10:33.0,T. Herro misses 3-pt jump shot from 25 ft,0-5, ,,1,0,5,-5,87.0
+10:31.0, ,0-5,Defensive rebound by Q. Grimes,,1,0,5,-5,89.0
+10:21.0, ,0-8,Q. Grimes makes 3-pt jump shot from 25 ft (assist by J. Brunson),,1,0,8,-8,99.0
+9:57.0,B. Adebayo misses 2-pt jump shot from 10 ft,0-8, ,,1,0,8,-8,123.0
+9:55.0, ,0-8,Defensive rebound by Q. Grimes,,1,0,8,-8,125.0
+9:49.0, ,0-8,Q. Grimes misses 3-pt jump shot from 26 ft,,1,0,8,-8,131.0
+9:47.0,Defensive rebound by B. Adebayo,0-8, ,,1,0,8,-8,133.0
+9:40.0,G. Vincent makes 3-pt jump shot from 23 ft (assist by B. Adebayo),3-8, ,,1,3,8,-5,140.0
+9:14.0, ,3-8,M. Robinson misses 2-pt layup from 2 ft,,1,3,8,-5,166.0
+9:12.0,Defensive rebound by K. Love,3-8, ,,1,3,8,-5,168.0
+8:58.0,B. Adebayo makes 2-pt hook shot from 6 ft (assist by K. Love),5-8, ,,1,5,8,-3,182.0
+8:43.0, ,5-8,Turnover by Q. Grimes (bad pass; steal by G. Vincent),,1,5,8,-3,197.0
+8:41.0,Shooting foul by Q. Grimes (drawn by T. Herro),5-8, ,,1,5,8,-3,199.0
+8:41.0,T. Herro makes free throw 1 of 2,6-8, ,,1,6,8,-2,199.0
+8:41.0,T. Herro makes free throw 2 of 2,7-8, ,,1,7,8,-1,199.0
+8:26.0, ,7-8,J. Brunson misses 3-pt jump shot from 25 ft,,1,7,8,-1,214.0
+8:24.0, ,7-8,Offensive rebound by R. Barrett,,1,7,8,-1,216.0
+8:20.0, ,7-8,R. Barrett misses 2-pt hook shot from 4 ft,,1,7,8,-1,220.0
+8:18.0,Defensive rebound by B. Adebayo,7-8, ,,1,7,8,-1,222.0
+8:07.0,K. Love misses 3-pt jump shot from 25 ft,7-8, ,,1,7,8,-1,233.0
+8:05.0, ,7-8,Defensive rebound by R. Barrett,,1,7,8,-1,235.0
+7:54.0, ,7-8,J. Randle misses 3-pt jump shot from 26 ft,,1,7,8,-1,246.0
+7:52.0,Defensive rebound by K. Love,7-8, ,,1,7,8,-1,248.0
+7:40.0,J. Butler makes 2-pt jump shot from 14 ft,9-8, ,Lead change,1,9,8,1,260.0
+7:28.0, ,9-8,R. Barrett misses 3-pt jump shot from 25 ft,,1,9,8,1,272.0
+7:26.0,Defensive rebound by T. Herro,9-8, ,,1,9,8,1,274.0
+7:13.0,B. Adebayo misses 2-pt layup from 2 ft,9-8, ,,1,9,8,1,287.0
+7:11.0,Offensive rebound by J. Butler,9-8, ,,1,9,8,1,289.0
+7:09.0,J. Butler misses 2-pt layup from 3 ft (block by R. Barrett),9-8, ,,1,9,8,1,291.0
+7:07.0, ,9-8,Defensive rebound by M. Robinson,,1,9,8,1,293.0
+6:59.0, ,9-8,Q. Grimes misses 3-pt jump shot from 24 ft,,1,9,8,1,301.0
+6:57.0, ,9-8,Offensive rebound by M. Robinson,,1,9,8,1,303.0
+6:54.0, ,9-8,Turnover by M. Robinson (out of bounds lost ball),,1,9,8,1,306.0
+6:54.0, ,9-8,New York full timeout,,1,9,8,1,306.0
+6:40.0,Shooting foul by J. Randle (drawn by B. Adebayo),9-8, ,,1,9,8,1,320.0
+6:40.0,B. Adebayo makes free throw 1 of 2,10-8, ,,1,10,8,2,320.0
+6:40.0,B. Adebayo misses free throw 2 of 2,10-8, ,,1,10,8,2,320.0
+6:38.0, ,10-8,Defensive rebound by J. Randle,,1,10,8,2,322.0
+6:31.0, ,10-8,Turnover by J. Brunson (lost ball; steal by K. Love),,1,10,8,2,329.0
+6:28.0,T. Herro makes 2-pt layup from 1 ft (assist by K. Love),12-8, ,,1,12,8,4,332.0
+6:09.0, ,12-8,Turnover by J. Randle (out of bounds lost ball),,1,12,8,4,351.0
+5:59.0,G. Vincent makes 2-pt jump shot from 12 ft,14-8, ,,1,14,8,6,361.0
+5:50.0, ,14-8,New York full timeout,,1,14,8,6,370.0
+5:50.0,M. Strus enters the game for T. Herro,14-8, ,,1,14,8,6,370.0
+5:38.0, ,14-8,J. Brunson misses 2-pt layup from 2 ft,,1,14,8,6,382.0
+5:36.0, ,14-8,Offensive rebound by M. Robinson,,1,14,8,6,384.0
+5:34.0, ,14-8,R. Barrett misses 2-pt jump shot from 2 ft,,1,14,8,6,386.0
+5:33.0, ,14-8,Offensive rebound by Team,,1,14,8,6,387.0
+5:33.0,Loose ball foul by J. Butler (drawn by M. Robinson),14-8, ,,1,14,8,6,387.0
+5:30.0, ,14-11,Q. Grimes makes 3-pt jump shot from 25 ft (assist by M. Robinson),,1,14,11,3,390.0
+5:30.0, ,14-11,Shooting foul by M. Strus (drawn by Q. Grimes),,1,14,11,3,390.0
+5:30.0, ,14-11,Q. Grimes misses free throw 1 of 1,,1,14,11,3,390.0
+5:28.0,Defensive rebound by G. Vincent,14-11, ,,1,14,11,3,392.0
+5:15.0,J. Butler misses 2-pt jump shot from 10 ft,14-11, ,,1,14,11,3,405.0
+5:13.0, ,14-11,Defensive rebound by Q. Grimes,,1,14,11,3,407.0
+5:06.0, ,14-11,R. Barrett misses 2-pt jump shot from 6 ft,,1,14,11,3,414.0
+5:04.0,Defensive rebound by K. Love,14-11, ,,1,14,11,3,416.0
+4:56.0,K. Love misses 3-pt jump shot from 25 ft,14-11, ,,1,14,11,3,424.0
+4:54.0, ,14-11,Defensive rebound by J. Randle,,1,14,11,3,426.0
+4:44.0, ,14-11,Turnover by J. Randle (bad pass),,1,14,11,3,436.0
+4:33.0,G. Vincent makes 2-pt layup from 3 ft,16-11, ,,1,16,11,5,447.0
+4:19.0, ,16-11,R. Barrett misses 2-pt layup from 2 ft,,1,16,11,5,461.0
+4:18.0, ,16-11,Offensive rebound by M. Robinson,,1,16,11,5,462.0
+4:17.0, ,16-11,M. Robinson misses 2-pt layup at rim,,1,16,11,5,463.0
+4:16.0, ,16-11,Offensive rebound by Team,,1,16,11,5,464.0
+4:16.0,C. Martin enters the game for B. Adebayo,16-11, ,,1,16,11,5,464.0
+4:16.0,C. Zeller enters the game for K. Love,16-11, ,,1,16,11,5,464.0
+4:16.0, ,16-11,I. Hartenstein enters the game for R. Barrett,,1,16,11,5,464.0
+4:16.0, ,16-11,I. Quickley enters the game for M. Robinson,,1,16,11,5,464.0
+4:13.0, ,16-11,Personal foul by M. Strus (drawn by J. Brunson),,1,16,11,5,467.0
+4:05.0, ,16-13,J. Brunson makes 2-pt jump shot from 5 ft,,1,16,13,3,475.0
+3:51.0,C. Martin makes 2-pt jump shot from 20 ft (assist by J. Butler),18-13, ,,1,18,13,5,489.0
+3:41.0,Violation by Team (kicked ball),18-13, ,,1,18,13,5,499.0
+3:29.0, ,18-13,J. Randle misses 2-pt layup from 2 ft,,1,18,13,5,511.0
+3:27.0, ,18-13,Offensive rebound by J. Randle,,1,18,13,5,513.0
+3:20.0, ,18-15,I. Quickley makes 2-pt jump shot from 9 ft,,1,18,15,3,520.0
+3:01.0,C. Zeller misses 2-pt jump shot from 6 ft,18-15, ,,1,18,15,3,539.0
+2:59.0, ,18-15,Defensive rebound by I. Quickley,,1,18,15,3,541.0
+2:57.0, ,18-17,I. Quickley makes 2-pt layup from 2 ft,,1,18,17,1,543.0
+2:57.0, ,18-17,Shooting foul by M. Strus (drawn by I. Quickley),,1,18,17,1,543.0
+2:57.0,V. Oladipo enters the game for M. Strus,18-17, ,,1,18,17,1,543.0
+2:57.0,D. Robinson enters the game for G. Vincent,18-17, ,,1,18,17,1,543.0
+2:57.0, ,18-17,J. Hart enters the game for J. Brunson,,1,18,17,1,543.0
+2:57.0, ,18-17,I. Quickley misses free throw 1 of 1,,1,18,17,1,543.0
+2:55.0,Defensive rebound by C. Zeller,18-17, ,,1,18,17,1,545.0
+2:40.0,V. Oladipo misses 3-pt jump shot from 22 ft,18-17, ,,1,18,17,1,560.0
+2:38.0,Offensive rebound by C. Zeller,18-17, ,,1,18,17,1,562.0
+2:38.0,C. Zeller makes 2-pt layup at rim,20-17, ,,1,20,17,3,562.0
+2:27.0, ,20-17,Personal foul by V. Oladipo (drawn by I. Quickley),,1,20,17,3,573.0
+2:27.0,T. Herro enters the game for J. Butler,20-17, ,,1,20,17,3,573.0
+2:27.0, ,20-17,I. Quickley misses free throw 1 of 2,,1,20,17,3,573.0
+2:27.0, ,20-17,Offensive rebound by Team,,1,20,17,3,573.0
+2:27.0, ,20-17,I. Quickley misses free throw 2 of 2,,1,20,17,3,573.0
+2:25.0,Defensive rebound by C. Zeller,20-17, ,,1,20,17,3,575.0
+2:15.0,D. Robinson makes 3-pt jump shot from 23 ft (assist by V. Oladipo),23-17, ,,1,23,17,6,585.0
+2:03.0, ,23-17,Turnover by I. Quickley (bad pass),,1,23,17,6,597.0
+1:45.0,Turnover by V. Oladipo (bad pass; steal by I. Hartenstein),23-17, ,,1,23,17,6,615.0
+1:28.0, ,23-17,Personal foul by C. Martin (drawn by I. Hartenstein),,1,23,17,6,632.0
+1:28.0, ,23-17,I. Hartenstein misses free throw 1 of 2,,1,23,17,6,632.0
+1:28.0, ,23-17,Offensive rebound by Team,,1,23,17,6,632.0
+1:28.0, ,23-17,I. Hartenstein misses free throw 2 of 2,,1,23,17,6,632.0
+1:26.0,Defensive rebound by C. Martin,23-17, ,,1,23,17,6,634.0
+1:18.0,Personal foul by Q. Grimes (drawn by D. Robinson),23-17, ,,1,23,17,6,642.0
+1:07.0,C. Martin misses 3-pt jump shot from 23 ft,23-17, ,,1,23,17,6,653.0
+1:05.0, ,23-17,Defensive rebound by J. Randle,,1,23,17,6,655.0
+0:58.0, ,23-17,J. Randle misses 2-pt layup from 1 ft,,1,23,17,6,662.0
+0:57.0,Defensive rebound by Team,23-17, ,,1,23,17,6,663.0
+0:40.0,V. Oladipo misses 3-pt jump shot from 25 ft,23-17, ,,1,23,17,6,680.0
+0:38.0,Offensive rebound by C. Zeller,23-17, ,,1,23,17,6,682.0
+0:28.0,T. Herro misses 3-pt jump shot from 27 ft (block by I. Hartenstein),23-17, ,,1,23,17,6,692.0
+0:26.0, ,23-17,Defensive rebound by J. Hart,,1,23,17,6,694.0
+0:03.0, ,23-19,I. Hartenstein makes 2-pt layup from 2 ft (assist by I. Quickley),,1,23,19,4,717.0
+0:01.0,T. Herro misses 3-pt jump shot from 36 ft,23-19, ,,1,23,19,4,719.0
+0:01.0,Offensive rebound by Team,23-19, ,,1,23,19,4,719.0
+0:00.0,End of 1st quarter,23-19,,,1,23,19,4,720.0
+12:00.0,Start of 2nd quarter,23-19,,,2,23,19,4,720.0
+11:41.0, ,23-19,I. Quickley misses 3-pt jump shot from 23 ft,,2,23,19,4,739.0
+11:39.0,Defensive rebound by B. Adebayo,23-19, ,,2,23,19,4,741.0
+11:24.0,T. Herro makes 2-pt jump shot from 15 ft,25-19, ,,2,25,19,6,756.0
+11:02.0, ,25-19,Turnover by J. Hart (bad pass; steal by V. Oladipo),,2,25,19,6,778.0
+10:42.0,D. Robinson makes 3-pt jump shot from 24 ft (assist by V. Oladipo),28-19, ,,2,28,19,9,798.0
+10:27.0, ,28-19,Personal foul by C. Martin (drawn by I. Quickley),,2,28,19,9,813.0
+10:23.0, ,28-19,R. Barrett misses 3-pt jump shot from 26 ft,,2,28,19,9,817.0
+10:21.0,Defensive rebound by C. Martin,28-19, ,,2,28,19,9,819.0
+9:57.0,C. Martin misses 3-pt jump shot from 24 ft,28-19, ,,2,28,19,9,843.0
+9:55.0, ,28-19,Defensive rebound by I. Hartenstein,,2,28,19,9,845.0
+9:51.0, ,28-19,Shooting foul by T. Herro (drawn by R. Barrett),,2,28,19,9,849.0
+9:51.0, ,28-20,R. Barrett makes free throw 1 of 2,,2,28,20,8,849.0
+9:51.0, ,28-20,R. Barrett misses free throw 2 of 2,,2,28,20,8,849.0
+9:49.0,Defensive rebound by T. Herro,28-20, ,,2,28,20,8,851.0
+9:38.0,Offensive foul by D. Robinson (drawn by J. Hart),28-20, ,,2,28,20,8,862.0
+9:38.0,Turnover by D. Robinson (offensive foul),28-20, ,,2,28,20,8,862.0
+9:18.0, ,28-20,R. Barrett misses 3-pt jump shot from 25 ft,,2,28,20,8,882.0
+9:16.0,Defensive rebound by B. Adebayo,28-20, ,,2,28,20,8,884.0
+9:10.0,B. Adebayo makes 2-pt layup from 4 ft,30-20, ,,2,30,20,10,890.0
+9:05.0, ,30-20,New York full timeout,,2,30,20,10,895.0
+9:05.0, ,30-20,J. Brunson enters the game for R. Barrett,,2,30,20,10,895.0
+8:49.0, ,30-23,I. Quickley makes 3-pt jump shot from 26 ft (assist by J. Brunson),,2,30,23,7,911.0
+8:29.0,T. Herro misses 2-pt jump shot from 4 ft,30-23, ,,2,30,23,7,931.0
+8:27.0, ,30-23,Defensive rebound by I. Hartenstein,,2,30,23,7,933.0
+8:16.0, ,30-25,I. Quickley makes 2-pt jump shot from 11 ft,,2,30,25,5,944.0
+8:16.0, ,30-25,Shooting foul by D. Robinson (drawn by I. Quickley),,2,30,25,5,944.0
+8:16.0, ,30-26,I. Quickley makes free throw 1 of 1,,2,30,26,4,944.0
+8:09.0,Turnover by B. Adebayo (lost ball; steal by I. Quickley),30-26, ,,2,30,26,4,951.0
+8:06.0, ,30-26,I. Quickley misses 2-pt layup from 1 ft,,2,30,26,4,954.0
+8:05.0, ,30-26,Offensive rebound by J. Hart,,2,30,26,4,955.0
+8:05.0, ,30-28,J. Hart makes 2-pt layup at rim,,2,30,28,2,955.0
+8:05.0,Miami full timeout,30-28, ,,2,30,28,2,955.0
+8:05.0,J. Butler enters the game for T. Herro,30-28, ,,2,30,28,2,955.0
+7:42.0,B. Adebayo misses 2-pt jump shot from 10 ft,30-28, ,,2,30,28,2,978.0
+7:40.0, ,30-28,Defensive rebound by I. Hartenstein,,2,30,28,2,980.0
+7:37.0, ,30-31,O. Toppin makes 3-pt jump shot from 25 ft (assist by J. Hart),Lead change,2,30,31,-1,983.0
+7:21.0,J. Butler makes 2-pt layup from 1 ft (assist by B. Adebayo),32-31, ,Lead change,2,32,31,1,999.0
+7:03.0, ,32-31,J. Brunson misses 2-pt jump shot from 17 ft,,2,32,31,1,1017.0
+7:01.0,Defensive rebound by V. Oladipo,32-31, ,,2,32,31,1,1019.0
+6:52.0,V. Oladipo misses 3-pt jump shot from 25 ft,32-31, ,,2,32,31,1,1028.0
+6:50.0, ,32-31,Defensive rebound by O. Toppin,,2,32,31,1,1030.0
+6:34.0, ,32-31,J. Brunson misses 2-pt jump shot from 7 ft,,2,32,31,1,1046.0
+6:32.0,Defensive rebound by V. Oladipo,32-31, ,,2,32,31,1,1048.0
+6:25.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by V. Oladipo),35-31, ,,2,35,31,4,1055.0
+6:25.0,G. Vincent enters the game for C. Martin,35-31, ,,2,35,31,4,1055.0
+5:56.0, ,35-31,Shooting foul by V. Oladipo (drawn by I. Quickley),,2,35,31,4,1084.0
+5:56.0,C. Zeller enters the game for B. Adebayo,35-31, ,,2,35,31,4,1084.0
+5:56.0, ,35-32,I. Quickley makes free throw 1 of 2,,2,35,32,3,1084.0
+5:56.0, ,35-33,I. Quickley makes free throw 2 of 2,,2,35,33,2,1084.0
+5:41.0,Offensive foul by C. Zeller (drawn by I. Hartenstein),35-33, ,,2,35,33,2,1099.0
+5:41.0,Turnover by C. Zeller (offensive foul),35-33, ,,2,35,33,2,1099.0
+5:29.0, ,35-35,I. Hartenstein makes 2-pt dunk from 1 ft (assist by O. Toppin),Tie,2,35,35,0,1111.0
+5:18.0,Turnover by G. Vincent (bad pass; steal by J. Hart),35-35, ,,2,35,35,0,1122.0
+5:17.0, ,35-35,Turnover by J. Hart (bad pass),,2,35,35,0,1123.0
+5:17.0, ,35-35,J. Randle enters the game for O. Toppin,,2,35,35,0,1123.0
+4:57.0,Turnover by D. Robinson (bad pass; steal by J. Hart),35-35, ,,2,35,35,0,1143.0
+4:55.0, ,35-35,Turnover by J. Hart (out of bounds lost ball),,2,35,35,0,1145.0
+4:44.0,V. Oladipo misses 3-pt jump shot from 26 ft,35-35, ,,2,35,35,0,1156.0
+4:42.0, ,35-35,Defensive rebound by I. Hartenstein,,2,35,35,0,1158.0
+4:24.0, ,35-37,J. Randle makes 2-pt layup from 1 ft,Lead change,2,35,37,-2,1176.0
+4:24.0,Miami full timeout,35-37, ,,2,35,37,-2,1176.0
+4:24.0,B. Adebayo enters the game for V. Oladipo,35-37, ,,2,35,37,-2,1176.0
+4:24.0,T. Herro enters the game for C. Zeller,35-37, ,,2,35,37,-2,1176.0
+4:05.0,T. Herro misses 3-pt jump shot from 23 ft,35-37, ,,2,35,37,-2,1195.0
+4:03.0, ,35-37,Defensive rebound by I. Hartenstein,,2,35,37,-2,1197.0
+3:57.0, ,35-37,J. Randle misses 3-pt jump shot from 25 ft,,2,35,37,-2,1203.0
+3:55.0, ,35-37,Offensive rebound by I. Hartenstein,,2,35,37,-2,1205.0
+3:51.0, ,35-37,Turnover by J. Brunson (bad pass),,2,35,37,-2,1209.0
+3:40.0,B. Adebayo makes 2-pt jump shot from 11 ft (assist by G. Vincent),37-37, ,Tie,2,37,37,0,1220.0
+3:20.0, ,37-37,J. Brunson misses 3-pt jump shot from 25 ft,,2,37,37,0,1240.0
+3:18.0,Defensive rebound by J. Butler,37-37, ,,2,37,37,0,1242.0
+3:05.0,T. Herro misses 3-pt jump shot from 26 ft,37-37, ,,2,37,37,0,1255.0
+3:03.0, ,37-37,Defensive rebound by J. Hart,,2,37,37,0,1257.0
+2:41.0, ,37-37,I. Quickley misses 3-pt jump shot from 23 ft,,2,37,37,0,1279.0
+2:39.0, ,37-37,Offensive rebound by J. Randle,,2,37,37,0,1281.0
+2:38.0, ,37-37,Personal foul by B. Adebayo (drawn by J. Randle),,2,37,37,0,1282.0
+2:38.0, ,37-37,New York full timeout,,2,37,37,0,1282.0
+2:38.0, ,37-37,J. Randle misses free throw 1 of 2,,2,37,37,0,1282.0
+2:38.0, ,37-37,Offensive rebound by Team,,2,37,37,0,1282.0
+2:38.0, ,37-38,J. Randle makes free throw 2 of 2,,2,37,38,-1,1282.0
+2:35.0,Personal take foul by J. Hart (drawn by G. Vincent),37-38, ,,2,37,38,-1,1285.0
+2:35.0, ,37-38,R. Barrett enters the game for J. Randle,,2,37,38,-1,1285.0
+2:25.0,Shooting foul by J. Hart (drawn by J. Butler),37-38, ,,2,37,38,-1,1295.0
+2:25.0,J. Butler makes free throw 1 of 2,38-38, ,Tie,2,38,38,0,1295.0
+2:25.0,J. Butler makes free throw 2 of 2,39-38, ,Lead change,2,39,38,1,1295.0
+2:06.0, ,39-40,I. Quickley makes 2-pt jump shot from 12 ft,Lead change,2,39,40,-1,1314.0
+1:48.0,Shooting foul by J. Brunson (drawn by G. Vincent),39-40, ,,2,39,40,-1,1332.0
+1:48.0, ,39-40,M. Robinson enters the game for I. Hartenstein,,2,39,40,-1,1332.0
+1:48.0,G. Vincent misses free throw 1 of 2,39-40, ,,2,39,40,-1,1332.0
+1:48.0,Offensive rebound by Team,39-40, ,,2,39,40,-1,1332.0
+1:48.0,G. Vincent makes free throw 2 of 2,40-40, ,Tie,2,40,40,0,1332.0
+1:34.0, ,40-43,J. Hart makes 3-pt jump shot from 23 ft (assist by I. Quickley),,2,40,43,-3,1346.0
+1:20.0,G. Vincent makes 3-pt jump shot from 23 ft (assist by J. Butler),43-43, ,Tie,2,43,43,0,1360.0
+1:02.0, ,43-43,R. Barrett misses 3-pt jump shot from 24 ft,,2,43,43,0,1378.0
+1:00.0,Defensive rebound by G. Vincent,43-43, ,,2,43,43,0,1380.0
+0:47.0,T. Herro makes 3-pt jump shot from 25 ft (assist by B. Adebayo),46-43, ,Lead change,2,46,43,3,1393.0
+0:36.0, ,46-45,J. Brunson makes 2-pt jump shot from 9 ft,,2,46,45,1,1404.0
+0:21.0,J. Butler misses 2-pt layup from 2 ft (block by M. Robinson),46-45, ,,2,46,45,1,1419.0
+0:19.0, ,46-45,Defensive rebound by J. Hart,,2,46,45,1,1421.0
+0:00.0, ,46-48,J. Brunson makes 3-pt jump shot from 22 ft (assist by J. Hart),Lead change,2,46,48,-2,1440.0
+0:00.0, ,46-48,Instant Replay (Request: Ruling Stands),,2,46,48,-2,1440.0
+0:00.0,End of 2nd quarter,46-48,,,2,46,48,-2,1440.0
+12:00.0,Start of 3rd quarter,46-48,,,3,46,48,-2,1440.0
+11:44.0, ,46-48,Turnover by Q. Grimes (bad pass; steal by B. Adebayo),,3,46,48,-2,1456.0
+11:29.0,K. Love misses 3-pt jump shot from 25 ft,46-48, ,,3,46,48,-2,1471.0
+11:27.0, ,46-48,Defensive rebound by R. Barrett,,3,46,48,-2,1473.0
+11:08.0, ,46-48,Q. Grimes misses 3-pt jump shot from 26 ft,,3,46,48,-2,1492.0
+11:06.0,Defensive rebound by B. Adebayo,46-48, ,,3,46,48,-2,1494.0
+10:52.0,K. Love makes 3-pt jump shot from 25 ft (assist by J. Butler),49-48, ,Lead change,3,49,48,1,1508.0
+10:50.0, ,49-48,New York full timeout,,3,49,48,1,1510.0
+10:35.0, ,49-48,Offensive foul by R. Barrett (drawn by G. Vincent),,3,49,48,1,1525.0
+10:35.0, ,49-48,Turnover by R. Barrett (offensive foul),,3,49,48,1,1525.0
+10:22.0,T. Herro misses 3-pt jump shot from 23 ft,49-48, ,,3,49,48,1,1538.0
+10:20.0, ,49-48,Defensive rebound by J. Brunson,,3,49,48,1,1540.0
+10:16.0, ,49-48,Offensive foul by J. Brunson (drawn by G. Vincent),,3,49,48,1,1544.0
+10:16.0, ,49-48,Turnover by J. Brunson (offensive foul),,3,49,48,1,1544.0
+10:03.0,G. Vincent makes 3-pt jump shot from 27 ft,52-48, ,,3,52,48,4,1557.0
+9:44.0, ,52-51,O. Toppin makes 3-pt jump shot from 24 ft (assist by Q. Grimes),,3,52,51,1,1576.0
+9:19.0,K. Love misses 3-pt jump shot from 25 ft,52-51, ,,3,52,51,1,1601.0
+9:16.0, ,52-51,Defensive rebound by R. Barrett,,3,52,51,1,1604.0
+9:06.0, ,52-53,Q. Grimes makes 2-pt layup from 1 ft (assist by O. Toppin),Lead change,3,52,53,-1,1614.0
+8:50.0,T. Herro misses 3-pt jump shot from 25 ft,52-53, ,,3,52,53,-1,1630.0
+8:48.0, ,52-53,Defensive rebound by M. Robinson,,3,52,53,-1,1632.0
+8:29.0, ,52-53,O. Toppin misses 3-pt jump shot from 27 ft,,3,52,53,-1,1651.0
+8:28.0,Defensive rebound by Team,52-53, ,,3,52,53,-1,1652.0
+8:10.0,G. Vincent misses 2-pt jump shot from 18 ft,52-53, ,,3,52,53,-1,1670.0
+8:08.0, ,52-53,Defensive rebound by O. Toppin,,3,52,53,-1,1672.0
+7:58.0, ,52-53,Shooting foul by K. Love (drawn by R. Barrett),,3,52,53,-1,1682.0
+7:58.0, ,52-53,R. Barrett misses free throw 1 of 2,,3,52,53,-1,1682.0
+7:58.0, ,52-53,Offensive rebound by Team,,3,52,53,-1,1682.0
+7:58.0, ,52-54,R. Barrett makes free throw 2 of 2,,3,52,54,-2,1682.0
+7:43.0,G. Vincent makes 2-pt layup from 1 ft (assist by J. Butler),54-54, ,Tie,3,54,54,0,1697.0
+7:20.0, ,54-54,J. Brunson misses 2-pt jump shot from 6 ft,,3,54,54,0,1720.0
+7:18.0,Defensive rebound by B. Adebayo,54-54, ,,3,54,54,0,1722.0
+7:07.0,K. Love makes 2-pt hook shot from 3 ft (assist by G. Vincent),56-54, ,Lead change,3,56,54,2,1733.0
+6:45.0, ,56-56,R. Barrett makes 2-pt layup from 3 ft,Tie,3,56,56,0,1755.0
+6:33.0,B. Adebayo misses 2-pt hook shot from 1 ft,56-56, ,,3,56,56,0,1767.0
+6:31.0, ,56-56,Defensive rebound by Q. Grimes,,3,56,56,0,1769.0
+6:24.0, ,56-58,J. Brunson makes 2-pt layup from 2 ft (assist by Q. Grimes),Lead change,3,56,58,-2,1776.0
+6:16.0,J. Butler makes 2-pt layup from 1 ft (assist by G. Vincent),58-58, ,Tie,3,58,58,0,1784.0
+5:52.0, ,58-58,O. Toppin misses 3-pt jump shot from 23 ft,,3,58,58,0,1808.0
+5:50.0,Defensive rebound by B. Adebayo,58-58, ,,3,58,58,0,1810.0
+5:43.0,J. Butler makes 2-pt layup from 1 ft,60-58, ,Lead change,3,60,58,2,1817.0
+5:22.0, ,60-60,J. Brunson makes 2-pt jump shot from 16 ft,Tie,3,60,60,0,1838.0
+5:22.0, ,60-60,Shooting foul by B. Adebayo (drawn by J. Brunson),,3,60,60,0,1838.0
+5:22.0,D. Robinson enters the game for T. Herro,60-60, ,,3,60,60,0,1838.0
+5:22.0, ,60-61,J. Brunson makes free throw 1 of 1,Lead change,3,60,61,-1,1838.0
+5:07.0,G. Vincent makes 2-pt jump shot from 9 ft,62-61, ,Lead change,3,62,61,1,1853.0
+4:48.0, ,62-61,Q. Grimes misses 3-pt jump shot from 24 ft,,3,62,61,1,1872.0
+4:46.0,Defensive rebound by K. Love,62-61, ,,3,62,61,1,1874.0
+4:33.0,B. Adebayo makes 2-pt layup from 1 ft (assist by J. Butler),64-61, ,,3,64,61,3,1887.0
+4:15.0, ,64-63,Q. Grimes makes 2-pt layup from 2 ft (assist by O. Toppin),,3,64,63,1,1905.0
+3:50.0,Turnover by B. Adebayo (lost ball; steal by Q. Grimes),64-63, ,,3,64,63,1,1930.0
+3:45.0, ,64-63,Q. Grimes misses 2-pt layup from 2 ft,,3,64,63,1,1935.0
+3:43.0,Defensive rebound by B. Adebayo,64-63, ,,3,64,63,1,1937.0
+3:39.0,D. Robinson misses 3-pt jump shot from 25 ft,64-63, ,,3,64,63,1,1941.0
+3:37.0, ,64-63,Defensive rebound by M. Robinson,,3,64,63,1,1943.0
+3:30.0, ,64-66,R. Barrett makes 3-pt jump shot from 25 ft (assist by J. Brunson),Lead change,3,64,66,-2,1950.0
+3:30.0,Miami full timeout,64-66, ,,3,64,66,-2,1950.0
+3:30.0,C. Martin enters the game for B. Adebayo,64-66, ,,3,64,66,-2,1950.0
+3:30.0,C. Zeller enters the game for K. Love,64-66, ,,3,64,66,-2,1950.0
+3:30.0, ,64-66,I. Quickley enters the game for R. Barrett,,3,64,66,-2,1950.0
+3:12.0,Personal foul by Q. Grimes (drawn by J. Butler),64-66, ,,3,64,66,-2,1968.0
+3:12.0,V. Oladipo enters the game for G. Vincent,64-66, ,,3,64,66,-2,1968.0
+3:05.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by C. Zeller),67-66, ,Lead change,3,67,66,1,1975.0
+2:47.0, ,67-69,Q. Grimes makes 3-pt jump shot from 24 ft (assist by O. Toppin),Lead change,3,67,69,-2,1993.0
+2:29.0,Shooting foul by M. Robinson (drawn by C. Zeller),67-69, ,,3,67,69,-2,2011.0
+2:29.0, ,67-69,I. Hartenstein enters the game for M. Robinson,,3,67,69,-2,2011.0
+2:29.0,C. Zeller misses free throw 1 of 2,67-69, ,,3,67,69,-2,2011.0
+2:29.0,Offensive rebound by Team,67-69, ,,3,67,69,-2,2011.0
+2:29.0,C. Zeller misses free throw 2 of 2,67-69, ,,3,67,69,-2,2011.0
+2:27.0, ,67-69,Defensive rebound by O. Toppin,,3,67,69,-2,2013.0
+2:10.0, ,67-69,I. Hartenstein misses 2-pt jump shot from 12 ft,,3,67,69,-2,2030.0
+2:09.0,Defensive rebound by Team,67-69, ,,3,67,69,-2,2031.0
+2:09.0,T. Herro enters the game for J. Butler,67-69, ,,3,67,69,-2,2031.0
+1:56.0,T. Herro makes 2-pt jump shot from 16 ft,69-69, ,Tie,3,69,69,0,2044.0
+1:39.0, ,69-69,Turnover by I. Hartenstein (bad pass),,3,69,69,0,2061.0
+1:39.0, ,69-69,J. Hart enters the game for O. Toppin,,3,69,69,0,2061.0
+1:21.0,V. Oladipo makes 2-pt jump shot from 19 ft,71-69, ,Lead change,3,71,69,2,2079.0
+0:54.0, ,71-72,I. Quickley makes 3-pt jump shot from 26 ft (assist by J. Hart),Lead change,3,71,72,-1,2106.0
+0:39.0,Turnover by V. Oladipo (bad pass; steal by I. Quickley),71-72, ,,3,71,72,-1,2121.0
+0:36.0, ,71-74,I. Quickley makes 2-pt layup from 1 ft,,3,71,74,-3,2124.0
+0:28.0,T. Herro makes 3-pt jump shot from 26 ft,74-74, ,Tie,3,74,74,0,2132.0
+0:06.0, ,74-76,I. Quickley makes 2-pt jump shot from 18 ft,,3,74,76,-2,2154.0
+0:01.0,Shooting foul by I. Hartenstein (drawn by V. Oladipo),74-76, ,,3,74,76,-2,2159.0
+0:01.0,V. Oladipo makes free throw 1 of 2,75-76, ,,3,75,76,-1,2159.0
+0:01.0,V. Oladipo makes free throw 2 of 2,76-76, ,Tie,3,76,76,0,2159.0
+0:00.0,End of 3rd quarter,76-76,,,3,76,76,0,2160.0
+12:00.0,Start of 4th quarter,76-76,,,4,76,76,0,2160.0
+11:45.0,D. Robinson misses 2-pt jump shot from 7 ft,76-76, ,,4,76,76,0,2175.0
+11:44.0,Offensive rebound by Team,76-76, ,,4,76,76,0,2176.0
+11:44.0, ,76-76,Loose ball foul by I. Hartenstein (drawn by C. Zeller),,4,76,76,0,2176.0
+11:31.0,D. Robinson misses 3-pt jump shot from 25 ft,76-76, ,,4,76,76,0,2189.0
+11:29.0,Offensive rebound by C. Martin,76-76, ,,4,76,76,0,2191.0
+11:22.0,V. Oladipo misses 2-pt jump shot from 7 ft,76-76, ,,4,76,76,0,2198.0
+11:20.0,Offensive rebound by C. Zeller,76-76, ,,4,76,76,0,2200.0
+11:18.0,T. Herro misses 3-pt jump shot from 23 ft,76-76, ,,4,76,76,0,2202.0
+11:16.0, ,76-76,Defensive rebound by J. Hart,,4,76,76,0,2204.0
+11:02.0, ,76-79,Q. Grimes makes 3-pt jump shot from 22 ft (assist by I. Quickley),,4,76,79,-3,2218.0
+10:43.0,Personal foul by I. Hartenstein (drawn by C. Zeller),76-79, ,,4,76,79,-3,2237.0
+10:36.0,C. Martin makes 3-pt jump shot from 25 ft (assist by T. Herro),79-79, ,Tie,4,79,79,0,2244.0
+10:06.0, ,79-81,I. Hartenstein makes 2-pt dunk at rim (assist by I. Quickley),,4,79,81,-2,2274.0
+9:41.0,V. Oladipo makes 3-pt jump shot from 26 ft,82-81, ,Lead change,4,82,81,1,2299.0
+9:12.0, ,82-83,J. Hart makes 2-pt layup from 1 ft,Lead change,4,82,83,-1,2328.0
+8:57.0,V. Oladipo makes 2-pt layup from 2 ft,84-83, ,Lead change,4,84,83,1,2343.0
+8:42.0, ,84-83,Def 3 sec tech foul by Team,,4,84,83,1,2358.0
+8:42.0,B. Adebayo enters the game for C. Zeller,84-83, ,,4,84,83,1,2358.0
+8:42.0, ,84-84,I. Quickley makes technical free throw,Tie,4,84,84,0,2358.0
+8:29.0, ,84-84,Q. Grimes misses 3-pt jump shot from 27 ft,,4,84,84,0,2371.0
+8:27.0,Defensive rebound by B. Adebayo,84-84, ,,4,84,84,0,2373.0
+8:13.0,V. Oladipo misses 3-pt jump shot from 23 ft,84-84, ,,4,84,84,0,2387.0
+8:11.0, ,84-84,Defensive rebound by J. Hart,,4,84,84,0,2389.0
+7:52.0, ,84-84,I. Quickley misses 2-pt jump shot from 15 ft,,4,84,84,0,2408.0
+7:50.0,Defensive rebound by B. Adebayo,84-84, ,,4,84,84,0,2410.0
+7:30.0,V. Oladipo misses 3-pt jump shot from 25 ft,84-84, ,,4,84,84,0,2430.0
+7:28.0, ,84-84,Defensive rebound by I. Hartenstein,,4,84,84,0,2432.0
+7:14.0, ,84-86,R. Barrett makes 2-pt hook shot from 10 ft,Lead change,4,84,86,-2,2446.0
+7:12.0,Miami full timeout,84-86, ,,4,84,86,-2,2448.0
+7:12.0,J. Butler enters the game for T. Herro,84-86, ,,4,84,86,-2,2448.0
+7:12.0,G. Vincent enters the game for V. Oladipo,84-86, ,,4,84,86,-2,2448.0
+6:59.0,Turnover by B. Adebayo (traveling),84-86, ,,4,84,86,-2,2461.0
+6:35.0, ,84-86,I. Quickley misses 2-pt jump shot from 4 ft,,4,84,86,-2,2485.0
+6:33.0,Defensive rebound by B. Adebayo,84-86, ,,4,84,86,-2,2487.0
+6:31.0,Shooting foul by Q. Grimes (drawn by C. Martin),84-86, ,,4,84,86,-2,2489.0
+6:31.0,C. Martin misses free throw 1 of 2,84-86, ,,4,84,86,-2,2489.0
+6:31.0,Offensive rebound by Team,84-86, ,,4,84,86,-2,2489.0
+6:31.0,C. Martin makes free throw 2 of 2,85-86, ,,4,85,86,-1,2489.0
+6:19.0, ,85-88,J. Hart makes 2-pt layup from 2 ft (assist by I. Hartenstein),,4,85,88,-3,2501.0
+6:01.0,C. Martin misses 3-pt jump shot from 23 ft,85-88, ,,4,85,88,-3,2519.0
+5:59.0, ,85-88,Defensive rebound by I. Hartenstein,,4,85,88,-3,2521.0
+5:40.0, ,85-88,Shooting foul by D. Robinson (drawn by Q. Grimes),,4,85,88,-3,2540.0
+5:40.0, ,85-89,Q. Grimes makes free throw 1 of 2,,4,85,89,-4,2540.0
+5:40.0, ,85-90,Q. Grimes makes free throw 2 of 2,,4,85,90,-5,2540.0
+5:25.0,J. Butler misses 2-pt hook shot from 10 ft,85-90, ,,4,85,90,-5,2555.0
+5:23.0, ,85-90,Defensive rebound by J. Hart,,4,85,90,-5,2557.0
+5:18.0, ,85-92,J. Hart makes 2-pt dunk from 1 ft,,4,85,92,-7,2562.0
+5:05.0,Turnover by D. Robinson (bad pass; steal by I. Quickley),85-92, ,,4,85,92,-7,2575.0
+5:02.0, ,85-94,Q. Grimes makes 2-pt dunk from 1 ft (assist by I. Hartenstein),,4,85,94,-9,2578.0
+5:02.0,Miami full timeout,85-94, ,,4,85,94,-9,2578.0
+5:02.0,T. Herro enters the game for D. Robinson,85-94, ,,4,85,94,-9,2578.0
+4:35.0,B. Adebayo misses 2-pt jump shot from 15 ft,85-94, ,,4,85,94,-9,2605.0
+4:33.0, ,85-94,Defensive rebound by R. Barrett,,4,85,94,-9,2607.0
+4:17.0, ,85-94,Shooting foul by C. Martin (drawn by I. Quickley),,4,85,94,-9,2623.0
+4:17.0, ,85-94,I. Quickley misses free throw 1 of 2,,4,85,94,-9,2623.0
+4:17.0, ,85-94,Offensive rebound by Team,,4,85,94,-9,2623.0
+4:17.0, ,85-95,I. Quickley makes free throw 2 of 2,,4,85,95,-10,2623.0
+3:59.0,B. Adebayo misses 2-pt jump shot from 10 ft,85-95, ,,4,85,95,-10,2641.0
+3:57.0,Offensive rebound by J. Butler,85-95, ,,4,85,95,-10,2643.0
+3:57.0,J. Butler makes 2-pt layup at rim,87-95, ,,4,87,95,-8,2643.0
+3:31.0, ,87-95,R. Barrett misses 2-pt layup from 1 ft,,4,87,95,-8,2669.0
+3:29.0, ,87-95,Offensive rebound by J. Hart,,4,87,95,-8,2671.0
+3:29.0, ,87-97,J. Hart makes 2-pt layup at rim,,4,87,97,-10,2671.0
+3:15.0,T. Herro makes 2-pt jump shot from 20 ft (assist by J. Butler),89-97, ,,4,89,97,-8,2685.0
+2:45.0, ,89-97,I. Hartenstein misses 2-pt layup from 1 ft,,4,89,97,-8,2715.0
+2:43.0,Defensive rebound by G. Vincent,89-97, ,,4,89,97,-8,2717.0
+2:35.0,J. Butler misses 2-pt jump shot from 9 ft,89-97, ,,4,89,97,-8,2725.0
+2:33.0, ,89-97,Defensive rebound by I. Hartenstein,,4,89,97,-8,2727.0
+2:13.0, ,89-100,R. Barrett makes 3-pt jump shot from 22 ft (assist by Q. Grimes),,4,89,100,-11,2747.0
+1:54.0,G. Vincent makes 3-pt jump shot from 24 ft (assist by B. Adebayo),92-100, ,,4,92,100,-8,2766.0
+1:31.0, ,92-100,J. Hart misses 2-pt jump shot from 10 ft,,4,92,100,-8,2789.0
+1:29.0,Defensive rebound by C. Martin,92-100, ,,4,92,100,-8,2791.0
+1:25.0,Turnover by J. Butler (bad pass; steal by I. Hartenstein),92-100, ,,4,92,100,-8,2795.0
+1:03.0, ,92-100,I. Quickley misses 3-pt jump shot from 28 ft,,4,92,100,-8,2817.0
+1:01.0,Defensive rebound by C. Martin,92-100, ,,4,92,100,-8,2819.0
+0:56.0,G. Vincent misses 3-pt jump shot from 25 ft,92-100, ,,4,92,100,-8,2824.0
+0:53.0, ,92-100,Defensive rebound by Q. Grimes,,4,92,100,-8,2827.0
+0:36.0, ,92-100,Shooting foul by C. Martin (drawn by I. Quickley),,4,92,100,-8,2844.0
+0:36.0,D. Robinson enters the game for C. Martin,92-100, ,,4,92,100,-8,2844.0
+0:36.0, ,92-100,I. Quickley misses free throw 1 of 2,,4,92,100,-8,2844.0
+0:36.0, ,92-100,Offensive rebound by Team,,4,92,100,-8,2844.0
+0:36.0, ,92-101,I. Quickley makes free throw 2 of 2,,4,92,101,-9,2844.0
+0:29.0,G. Vincent misses 2-pt layup from 3 ft,92-101, ,,4,92,101,-9,2851.0
+0:27.0, ,92-101,Defensive rebound by Q. Grimes,,4,92,101,-9,2853.0
+0:04.0, ,92-101,Turnover by Team (shot clock),,4,92,101,-9,2876.0
+0:00.0,End of 4th quarter,92-101,,,4,92,101,-9,2880.0
