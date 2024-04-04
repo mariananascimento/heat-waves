@@ -345,11 +345,12 @@ def combine(team, season):
 
     print("Save combined file " + filename) 
 
-    # Filter rows where Time is "12:00.0"
-    time_12_df = combined_df[combined_df['Time'] == '12:00.0']
+    # Filter for rows where Time is '12:00.0', then drop duplicates based on 'id' and 'Quarter'
+    time_12_df = combined_df[combined_df['Time'] == '12:00.0'].drop_duplicates(['id', 'Quarter'])
 
-    # Filter the last occurrence of each id where Time is "0:00.0"
-    time_0_df = combined_df[combined_df['Time'] == '0:00.0']
+    # Similarly, for '0:00.0'
+    time_0_df = combined_df[combined_df['Time'] == '0:00.0'].drop_duplicates(['id', 'Quarter'])
+
     last_time_0_df = time_0_df.groupby('id').tail(1)
 
     # Concatenate the filtered DataFrames
