@@ -1,411 +1,743 @@
 Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
+6:08.0,3-15,,1,15,3,12,352.0,Defensive rebound by T. Herro,Milwaukee,202110210MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Antetokounmpo vs. B. Adebayo (G. Hill gains possession),Milwaukee,202110210MIA
+6:09.0,31-51,,2,51,31,20,1071.0,J. Butler makes 2-pt layup from 3 ft (assist by K. Lowry),Milwaukee,202110210MIA
 12:00.0,17-40,,2,40,17,23,720.0,Start of 2nd quarter,Milwaukee,202110210MIA
+6:03.0,57-91,,3,91,57,34,1797.0,Defensive rebound by B. Adebayo,Milwaukee,202110210MIA
 12:00.0,43-72,,3,72,43,29,1440.0,Start of 3rd quarter,Milwaukee,202110210MIA
+6:03.0,87-122,,4,122,87,35,2517.0, ,Milwaukee,202110210MIA
 12:00.0,69-105,,4,105,69,36,2160.0,Start of 4th quarter,Milwaukee,202110210MIA
 0:00.0,95-137,,4,137,95,42,2880.0,End of 4th quarter,Milwaukee,202110210MIA
+6:04.0,15-9,,1,15,9,6,356.0,B. Adebayo makes 2-pt jump shot from 2 ft (assist by P. Tucker),Indiana,202110230IND
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Turner (P. Tucker gains possession),Indiana,202110230IND
+6:13.0,35-47,,2,35,47,-12,1067.0, ,Indiana,202110230IND
 12:00.0,24-28,,2,24,28,-4,720.0,Start of 2nd quarter,Indiana,202110230IND
+6:03.0,54-62,,3,54,62,-8,1797.0, ,Indiana,202110230IND
 12:00.0,46-56,,3,46,56,-10,1440.0,Start of 3rd quarter,Indiana,202110230IND
+6:10.0,78-73,,4,78,73,5,2510.0,J. Butler makes 2-pt jump shot from 10 ft,Indiana,202110230IND
 12:00.0,63-64,,4,63,64,-1,2160.0,Start of 4th quarter,Indiana,202110230IND
 0:00.0,91-102,,5,91,102,-11,3600.0,End of 1st overtime,Indiana,202110230IND
+6:04.0,9-11,,1,11,9,2,356.0, ,Orlando,202110250MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Bamba vs. B. Adebayo (K. Lowry gains possession),Orlando,202110250MIA
+6:16.0,25-41,,2,41,25,16,1064.0,M. Morris makes 2-pt jump shot from 15 ft (assist by T. Herro),Orlando,202110250MIA
 12:00.0,15-27,,2,27,15,12,720.0,Start of 2nd quarter,Orlando,202110250MIA
+6:06.0,57-66,,3,66,57,9,1794.0, ,Orlando,202110250MIA
 12:00.0,44-57,,3,57,44,13,1440.0,Start of 3rd quarter,Orlando,202110250MIA
+6:13.0,79-98,,4,98,79,19,2507.0, ,Orlando,202110250MIA
 12:00.0,70-81,,4,81,70,11,2160.0,Start of 4th quarter,Orlando,202110250MIA
 0:00.0,90-107,,4,107,90,17,2880.0,Turnover by Team (shot clock),Orlando,202110250MIA
+6:11.0,15-13,,1,15,13,2,349.0, ,Brooklyn,202110270BRK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Durant (K. Lowry gains possession),Brooklyn,202110270BRK
+6:16.0,41-32,,2,41,32,9,1064.0, ,Brooklyn,202110270BRK
 12:00.0,29-22,,2,29,22,7,720.0,Start of 2nd quarter,Brooklyn,202110270BRK
+6:00.0,63-62,,3,63,62,1,1800.0, ,Brooklyn,202110270BRK
 12:00.0,49-51,,3,49,51,-2,1440.0,Start of 3rd quarter,Brooklyn,202110270BRK
+6:08.0,90-87,,4,90,87,3,2512.0, ,Brooklyn,202110270BRK
 12:00.0,81-74,,4,81,74,7,2160.0,Start of 4th quarter,Brooklyn,202110270BRK
 0:00.0,106-93,,4,106,93,13,2880.0,End of 4th quarter,Brooklyn,202110270BRK
+6:01.0,7-13,,1,13,7,6,359.0,Defensive rebound by K. Lowry,Charlotte,202110290MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Plumlee vs. B. Adebayo (M. Bridges gains possession),Charlotte,202110290MIA
+6:00.0,29-53,,2,53,29,24,1080.0, ,Charlotte,202110290MIA
 12:00.0,22-33,,2,33,22,11,720.0,Start of 2nd quarter,Charlotte,202110290MIA
+6:06.0,58-71,,3,71,58,13,1794.0,J. Butler makes 2-pt jump shot from 11 ft (assist by D. Robinson),Charlotte,202110290MIA
 12:00.0,46-64,,3,64,46,18,1440.0,Start of 3rd quarter,Charlotte,202110290MIA
+6:22.0,87-97,,4,97,87,10,2498.0, ,Charlotte,202110290MIA
 12:00.0,75-84,,4,84,75,9,2160.0,Start of 4th quarter,Charlotte,202110290MIA
 0:00.0,99-114,,4,114,99,15,2880.0,End of 4th quarter,Charlotte,202110290MIA
+6:11.0,21-10,,1,21,10,11,349.0,Defensive rebound by J. Butler,Memphis,202110300MEM
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. S. Adams (J. Jackson gains possession),Memphis,202110300MEM
+6:08.0,51-35,,2,51,35,16,1072.0, ,Memphis,202110300MEM
 12:00.0,38-22,,2,38,22,16,720.0,Start of 2nd quarter,Memphis,202110300MEM
+6:01.0,84-63,,3,84,63,21,1799.0,D. Dedmon misses 2-pt layup from 3 ft,Memphis,202110300MEM
 12:00.0,67-54,,3,67,54,13,1440.0,Start of 3rd quarter,Memphis,202110300MEM
+6:07.0,116-94,,4,116,94,22,2513.0, ,Memphis,202110300MEM
 12:00.0,102-79,,4,102,79,23,2160.0,Start of 4th quarter,Memphis,202110300MEM
 0:00.0,129-103,,4,129,103,26,2880.0,End of 4th quarter,Memphis,202110300MEM
+6:01.0,9-17,,1,9,17,-8,359.0,B. Adebayo misses 2-pt layup from 2 ft,Dallas,202111020DAL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Powell (K. Lowry gains possession),Dallas,202111020DAL
+6:05.0,47-43,,2,47,43,4,1075.0,Defensive rebound by C. Martin,Dallas,202111020DAL
 12:00.0,24-30,,2,24,30,-6,720.0,Start of 2nd quarter,Dallas,202111020DAL
+6:17.0,83-75,,3,83,75,8,1783.0, ,Dallas,202111020DAL
 12:00.0,70-62,,3,70,62,8,1440.0,Start of 3rd quarter,Dallas,202111020DAL
+6:00.0,107-95,,4,107,95,12,2520.0, ,Dallas,202111020DAL
 12:00.0,99-88,,4,99,88,11,2160.0,Start of 4th quarter,Dallas,202111020DAL
 0:00.0,125-110,,4,125,110,15,2880.0,End of 4th quarter,Dallas,202111020DAL
+6:01.0,7-12,,1,12,7,5,359.0, ,Boston,202111040MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: R. Williams vs. B. Adebayo (K. Lowry gains possession),Boston,202111040MIA
+6:01.0,33-31,,2,31,33,-2,1079.0, ,Boston,202111040MIA
 12:00.0,18-24,,2,24,18,6,720.0,Start of 2nd quarter,Boston,202111040MIA
+6:17.0,62-47,,3,47,62,-15,1783.0,D. Robinson makes technical free throw,Boston,202111040MIA
 12:00.0,51-33,,3,33,51,-18,1440.0,Start of 3rd quarter,Boston,202111040MIA
+6:10.0,87-66,,4,66,87,-21,2510.0, ,Boston,202111040MIA
 12:00.0,75-57,,4,57,75,-18,2160.0,Start of 4th quarter,Boston,202111040MIA
 0:00.0,95-78,,4,78,95,-17,2880.0,End of 4th quarter,Boston,202111040MIA
+6:00.0,11-14,,1,14,11,3,360.0, ,Utah,202111060MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: R. Gobert vs. B. Adebayo (P. Tucker gains possession),Utah,202111060MIA
+6:01.0,34-43,,2,43,34,9,1079.0,Turnover by M. Morris (bad pass; steal by D. Mitchell),Utah,202111060MIA
 12:00.0,24-27,,2,27,24,3,720.0,Start of 2nd quarter,Utah,202111060MIA
+6:03.0,63-70,,3,70,63,7,1797.0,T. Herro enters the game for K. Lowry,Utah,202111060MIA
 12:00.0,52-55,,3,55,52,3,1440.0,Start of 3rd quarter,Utah,202111060MIA
+6:08.0,91-109,,4,109,91,18,2512.0,Defensive rebound by M. Morris,Utah,202111060MIA
 12:00.0,78-87,,4,87,78,9,2160.0,Start of 4th quarter,Utah,202111060MIA
 0:00.0,115-118,,4,118,115,3,2880.0,End of 4th quarter,Utah,202111060MIA
+6:12.0,12-21,,1,12,21,-9,348.0, ,Denver,202111080DEN
 12:00.0,0-0,,1,0,0,0,0.0, ,Denver,202111080DEN
+6:20.0,36-47,,2,36,47,-11,1060.0, ,Denver,202111080DEN
 12:00.0,25-30,,2,25,30,-5,720.0,Start of 2nd quarter,Denver,202111080DEN
+6:08.0,56-79,,3,56,79,-23,1792.0, ,Denver,202111080DEN
 12:00.0,49-64,,3,49,64,-15,1440.0,Start of 3rd quarter,Denver,202111080DEN
+6:05.0,86-101,,4,86,101,-15,2515.0, ,Denver,202111080DEN
 12:00.0,70-91,,4,70,91,-21,2160.0,Start of 4th quarter,Denver,202111080DEN
 0:00.0,96-113,,4,96,113,-17,2880.0,End of 4th quarter,Denver,202111080DEN
+6:02.0,6-8,Lead change,1,6,8,-2,358.0, ,LA Lakers,202111100LAL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Jordan (P. Tucker gains possession),LA Lakers,202111100LAL
+6:00.0,34-39,,2,34,39,-5,1080.0,K. Lowry misses 3-pt jump shot from 26 ft,LA Lakers,202111100LAL
 12:00.0,25-28,,2,25,28,-3,720.0,Start of 2nd quarter,LA Lakers,202111100LAL
+6:00.0,65-66,Lead change,3,65,66,-1,1800.0, ,LA Lakers,202111100LAL
 12:00.0,57-55,,3,57,55,2,1440.0,Start of 3rd quarter,LA Lakers,202111100LAL
+6:00.0,102-95,,4,102,95,7,2520.0, ,LA Lakers,202111100LAL
 12:00.0,86-82,,4,86,82,4,2160.0,Start of 4th quarter,LA Lakers,202111100LAL
 0:00.0,117-120,,5,117,120,-3,3600.0,End of 1st overtime,LA Lakers,202111100LAL
+6:00.0,20-10,,1,20,10,10,360.0,G. Vincent enters the game for K. Lowry,LA Clippers,202111110LAC
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. I. Zubac (N. Batum gains possession),LA Clippers,202111110LAC
+6:14.0,52-39,,2,52,39,13,1066.0, ,LA Clippers,202111110LAC
 12:00.0,40-25,,2,40,25,15,720.0,Start of 2nd quarter,LA Clippers,202111110LAC
+6:03.0,68-71,,3,68,71,-3,1797.0,K. Lowry misses 3-pt jump shot from 30 ft,LA Clippers,202111110LAC
 12:00.0,58-56,,3,58,56,2,1440.0,Start of 3rd quarter,LA Clippers,202111110LAC
+6:09.0,88-97,,4,88,97,-9,2511.0,P. Tucker enters the game for C. Martin,LA Clippers,202111110LAC
 12:00.0,78-86,,4,78,86,-8,2160.0,Start of 4th quarter,LA Clippers,202111110LAC
 0:00.0,109-112,,4,109,112,-3,2880.0, ,LA Clippers,202111110LAC
+6:04.0,14-5,,1,14,5,9,356.0,Defensive rebound by D. Robinson,Utah,202111130UTA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. R. Gobert (R. O'Neale gains possession),Utah,202111130UTA
+6:11.0,43-35,,2,43,35,8,1069.0, ,Utah,202111130UTA
 12:00.0,27-24,,2,27,24,3,720.0,Start of 2nd quarter,Utah,202111130UTA
+6:05.0,82-59,,3,82,59,23,1795.0,K. Lowry makes free throw 1 of 1,Utah,202111130UTA
 12:00.0,58-48,,3,58,48,10,1440.0,Start of 3rd quarter,Utah,202111130UTA
+6:02.0,105-83,,4,105,83,22,2518.0,B. Adebayo misses 2-pt jump shot from 14 ft,Utah,202111130UTA
 12:00.0,95-69,,4,95,69,26,2160.0,Start of 4th quarter,Utah,202111130UTA
 0:00.0,111-105,,4,111,105,6,2880.0, ,Utah,202111130UTA
+6:10.0,14-8,,1,14,8,6,350.0,K. Lowry makes 2-pt jump shot from 4 ft,Oklahoma City,202111150OKC
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. J. Robinson-Earl (P. Tucker gains possession),Oklahoma City,202111150OKC
+6:02.0,31-30,,2,31,30,1,1078.0, ,Oklahoma City,202111150OKC
 12:00.0,23-24,,2,23,24,-1,720.0,Start of 2nd quarter,Oklahoma City,202111150OKC
+6:08.0,64-56,,3,64,56,8,1792.0, ,Oklahoma City,202111150OKC
 12:00.0,43-43,,3,43,43,0,1440.0,Start of 3rd quarter,Oklahoma City,202111150OKC
+6:07.0,93-76,,4,93,76,17,2513.0,C. Martin makes 2-pt layup from 1 ft,Oklahoma City,202111150OKC
 12:00.0,74-67,,4,74,67,7,2160.0,Start of 4th quarter,Oklahoma City,202111150OKC
 0:00.0,103-90,,4,103,90,13,2880.0,End of 4th quarter,Oklahoma City,202111150OKC
+6:16.0,17-11,,1,11,17,-6,344.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by K. Okpala),New Orleans,202111170MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Valančiūnas vs. D. Dedmon (D. Robinson gains possession),New Orleans,202111170MIA
+6:15.0,41-31,,2,31,41,-10,1065.0,Defensive rebound by Team,New Orleans,202111170MIA
 12:00.0,34-21,,2,21,34,-13,720.0,Start of 2nd quarter,New Orleans,202111170MIA
+6:03.0,66-67,,3,67,66,1,1797.0,Instant Replay (Challenge: Ruling Stands),New Orleans,202111170MIA
 12:00.0,52-47,,3,47,52,-5,1440.0,Start of 3rd quarter,New Orleans,202111170MIA
+6:12.0,79-95,,4,95,79,16,2508.0, ,New Orleans,202111170MIA
 12:00.0,70-81,,4,81,70,11,2160.0,Start of 4th quarter,New Orleans,202111170MIA
 0:00.0,98-113,,4,113,98,15,2880.0,End of 4th quarter,New Orleans,202111170MIA
+6:00.0,11-6,,1,6,11,-5,360.0, ,Washington,202111180MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Harrell vs. B. Adebayo (K. Lowry gains possession),Washington,202111180MIA
+6:06.0,29-35,,2,35,29,6,1074.0,P. Tucker enters the game for C. Martin,Washington,202111180MIA
 12:00.0,19-21,,2,21,19,2,720.0,Start of 2nd quarter,Washington,202111180MIA
+6:05.0,52-66,,3,66,52,14,1795.0, ,Washington,202111180MIA
 12:00.0,40-47,,3,47,40,7,1440.0,Start of 3rd quarter,Washington,202111180MIA
+6:06.0,82-96,,4,96,82,14,2514.0, ,Washington,202111180MIA
 12:00.0,70-83,,4,83,70,13,2160.0,Start of 4th quarter,Washington,202111180MIA
 0:00.0,97-112,,4,112,97,15,2880.0,End of 4th quarter,Washington,202111180MIA
+6:23.0,10-13,,1,10,13,-3,337.0,J. Butler makes 2-pt layup from 3 ft,Washington,202111200WAS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Gafford (J. Butler gains possession),Washington,202111200WAS
+6:07.0,32-33,,2,32,33,-1,1073.0, ,Washington,202111200WAS
 12:00.0,25-26,,2,25,26,-1,720.0,Start of 2nd quarter,Washington,202111200WAS
+6:01.0,63-52,,3,63,52,11,1799.0, ,Washington,202111200WAS
 12:00.0,43-41,,3,43,41,2,1440.0,Start of 3rd quarter,Washington,202111200WAS
+6:04.0,89-84,,4,89,84,5,2516.0, ,Washington,202111200WAS
 12:00.0,75-71,,4,75,71,4,2160.0,Start of 4th quarter,Washington,202111200WAS
 0:00.0,100-103,,4,100,103,-3,2880.0, ,Washington,202111200WAS
+6:02.0,11-14,,1,11,14,-3,358.0, ,Detroit,202111230DET
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. L. Garza (P. Tucker gains possession),Detroit,202111230DET
+6:12.0,33-35,,2,33,35,-2,1068.0,D. Dedmon makes 2-pt dunk from 4 ft (assist by J. Butler),Detroit,202111230DET
 12:00.0,20-25,,2,20,25,-5,720.0,Start of 2nd quarter,Detroit,202111230DET
+6:12.0,54-61,,3,54,61,-7,1788.0, ,Detroit,202111230DET
 12:00.0,46-53,,3,46,53,-7,1440.0,Start of 3rd quarter,Detroit,202111230DET
+6:01.0,85-80,,4,85,80,5,2519.0, ,Detroit,202111230DET
 12:00.0,67-76,,4,67,76,-9,2160.0,Start of 4th quarter,Detroit,202111230DET
 0:00.0,99-92,,4,99,92,7,2880.0,Defensive rebound by T. Herro,Detroit,202111230DET
+6:06.0,16-11,,1,16,11,5,354.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by B. Adebayo),Minnesota,202111240MIN
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Towns (J. Vanderbilt gains possession),Minnesota,202111240MIN
+6:10.0,44-37,,2,44,37,7,1070.0,Defensive rebound by T. Herro,Minnesota,202111240MIN
 12:00.0,27-30,,2,27,30,-3,720.0,Start of 2nd quarter,Minnesota,202111240MIN
+6:01.0,73-70,,3,73,70,3,1799.0,Defensive rebound by G. Vincent,Minnesota,202111240MIN
 12:00.0,62-54,,3,62,54,8,1440.0,Start of 3rd quarter,Minnesota,202111240MIN
+6:05.0,96-102,,4,96,102,-6,2515.0, ,Minnesota,202111240MIN
 12:00.0,82-86,,4,82,86,-4,2160.0,Start of 4th quarter,Minnesota,202111240MIN
 0:00.0,101-113,,4,101,113,-12,2880.0,End of 4th quarter,Minnesota,202111240MIN
+6:07.0,10-9,,1,10,9,1,353.0, ,Chicago,202111270CHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Vučević (P. Tucker gains possession),Chicago,202111270CHI
+6:00.0,37-32,,2,37,32,5,1080.0,B. Adebayo misses 2-pt jump shot from 10 ft,Chicago,202111270CHI
 12:00.0,27-20,,2,27,20,7,720.0,Start of 2nd quarter,Chicago,202111270CHI
+6:01.0,62-60,,3,62,60,2,1799.0, ,Chicago,202111270CHI
 12:00.0,49-46,,3,49,46,3,1440.0,Start of 3rd quarter,Chicago,202111270CHI
+6:08.0,89-84,,4,89,84,5,2512.0, ,Chicago,202111270CHI
 12:00.0,72-74,,4,72,74,-2,2160.0,Start of 4th quarter,Chicago,202111270CHI
 0:00.0,107-104,,4,107,104,3,2880.0, ,Chicago,202111270CHI
+6:05.0,17-17,Tie,1,17,17,0,355.0,C. Martin makes 3-pt jump shot from 23 ft (assist by K. Lowry),Denver,202111290MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jokić vs. B. Adebayo (A. Gordon gains possession),Denver,202111290MIA
+6:00.0,47-35,,2,35,47,-12,1080.0, ,Denver,202111290MIA
 12:00.0,32-23,,2,23,32,-9,720.0,Start of 2nd quarter,Denver,202111290MIA
+6:22.0,81-59,,3,59,81,-22,1778.0, ,Denver,202111290MIA
 12:00.0,63-43,,3,43,63,-20,1440.0,Start of 3rd quarter,Denver,202111290MIA
+6:10.0,110-95,,4,95,110,-15,2510.0,K. Lowry makes 3-pt jump shot from 27 ft (assist by M. Strus),Denver,202111290MIA
 12:00.0,95-78,,4,78,95,-17,2160.0,Start of 4th quarter,Denver,202111290MIA
 0:00.0,120-111,,4,111,120,-9,2880.0,G. Vincent makes 3-pt jump shot from 29 ft,Denver,202111290MIA
+6:14.0,10-10,,1,10,10,0,346.0, ,Cleveland,202112010MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. D. Dedmon (D. Garland gains possession),Cleveland,202112010MIA
+6:08.0,44-33,,2,33,44,-11,1072.0, ,Cleveland,202112010MIA
 12:00.0,31-16,,2,16,31,-15,720.0,Start of 2nd quarter,Cleveland,202112010MIA
+6:13.0,71-59,,3,59,71,-12,1787.0, ,Cleveland,202112010MIA
 12:00.0,61-43,,3,43,61,-18,1440.0,Start of 3rd quarter,Cleveland,202112010MIA
+6:01.0,92-75,,4,75,92,-17,2519.0,Defensive rebound by Team,Cleveland,202112010MIA
 12:00.0,87-63,,4,63,87,-24,2160.0,Start of 4th quarter,Cleveland,202112010MIA
 0:00.0,111-85,,4,85,111,-26,2880.0,End of 4th quarter,Cleveland,202112010MIA
+6:06.0,19-15,,1,19,15,4,354.0, ,Indiana,202112030IND
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. M. Turner (C. LeVert gains possession),Indiana,202112030IND
+6:05.0,49-41,,2,49,41,8,1075.0, ,Indiana,202112030IND
 12:00.0,32-25,,2,32,25,7,720.0,Start of 2nd quarter,Indiana,202112030IND
+6:11.0,76-70,,3,76,70,6,1789.0, ,Indiana,202112030IND
 12:00.0,62-55,,3,62,55,7,1440.0,Start of 3rd quarter,Indiana,202112030IND
+6:00.0,106-86,,4,106,86,20,2520.0, ,Indiana,202112030IND
 12:00.0,92-81,,4,92,81,11,2160.0,Start of 4th quarter,Indiana,202112030IND
 0:00.0,113-104,,4,113,104,9,2880.0,End of 4th quarter,Indiana,202112030IND
+6:07.0,8-12,,1,8,12,-4,353.0, ,Milwaukee,202112040MIL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. B. Portis (P. Connaughton gains possession),Milwaukee,202112040MIL
+6:17.0,40-54,,2,40,54,-14,1063.0, ,Milwaukee,202112040MIL
 12:00.0,23-34,,2,23,34,-11,720.0,Start of 2nd quarter,Milwaukee,202112040MIL
+6:00.0,64-85,,3,64,85,-21,1800.0,K. Lowry makes 2-pt layup from 4 ft,Milwaukee,202112040MIL
 12:00.0,52-69,,3,52,69,-17,1440.0,Start of 3rd quarter,Milwaukee,202112040MIL
+6:01.0,88-114,,4,88,114,-26,2519.0, ,Milwaukee,202112040MIL
 12:00.0,76-105,,4,76,105,-29,2160.0,Start of 4th quarter,Milwaukee,202112040MIL
 0:00.0,102-124,,4,102,124,-22,2880.0,G. Vincent makes 2-pt jump shot from 18 ft,Milwaukee,202112040MIL
+6:06.0,20-6,,1,6,20,-14,354.0,T. Herro enters the game for D. Robinson,Memphis,202112060MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: S. Adams vs. D. Dedmon (J. Jackson gains possession),Memphis,202112060MIA
+6:02.0,46-33,,2,33,46,-13,1078.0, ,Memphis,202112060MIA
 12:00.0,34-25,,2,25,34,-9,720.0,Start of 2nd quarter,Memphis,202112060MIA
+6:04.0,69-58,,3,58,69,-11,1796.0,K. Lowry makes free throw 2 of 2,Memphis,202112060MIA
 12:00.0,60-49,,3,49,60,-11,1440.0,Start of 3rd quarter,Memphis,202112060MIA
+6:08.0,93-79,,4,79,93,-14,2512.0, ,Memphis,202112060MIA
 12:00.0,82-67,,4,67,82,-15,2160.0,Start of 4th quarter,Memphis,202112060MIA
 0:00.0,105-90,,4,90,105,-15,2880.0,Offensive rebound by Team,Memphis,202112060MIA
+6:04.0,10-16,,1,16,10,6,356.0,O. Yurtseven enters the game for D. Dedmon,Milwaukee,202112080MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Portis vs. D. Dedmon (J. Holiday gains possession),Milwaukee,202112080MIA
+6:02.0,34-32,Lead change,2,32,34,-2,1078.0, ,Milwaukee,202112080MIA
 12:00.0,26-24,,2,24,26,-2,720.0,Start of 2nd quarter,Milwaukee,202112080MIA
+6:00.0,63-61,,3,61,63,-2,1800.0, ,Milwaukee,202112080MIA
 12:00.0,51-44,,3,44,51,-7,1440.0,Start of 3rd quarter,Milwaukee,202112080MIA
+6:00.0,96-99,,4,99,96,3,2520.0,K. Okpala misses 2-pt layup from 2 ft,Milwaukee,202112080MIA
 12:00.0,77-83,,4,83,77,6,2160.0,Start of 4th quarter,Milwaukee,202112080MIA
 0:00.0,104-113,,4,113,104,9,2880.0,End of 4th quarter,Milwaukee,202112080MIA
+6:14.0,6-18,,1,18,6,12,346.0,T. Herro enters the game for G. Vincent,Chicago,202112110MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. D. Dedmon (L. Ball gains possession),Chicago,202112110MIA
+6:06.0,38-50,,2,50,38,12,1074.0,M. Strus makes 3-pt jump shot from 26 ft (assist by T. Herro),Chicago,202112110MIA
 12:00.0,25-39,,2,39,25,14,720.0,Start of 2nd quarter,Chicago,202112110MIA
+6:04.0,60-78,,3,78,60,18,1796.0,Defensive rebound by D. Robinson,Chicago,202112110MIA
 12:00.0,52-65,,3,65,52,13,1440.0,Start of 3rd quarter,Chicago,202112110MIA
+6:03.0,81-102,,4,102,81,21,2517.0,M. Strus misses 3-pt jump shot from 27 ft,Chicago,202112110MIA
 12:00.0,70-86,,4,86,70,16,2160.0,Start of 4th quarter,Chicago,202112110MIA
 0:00.0,92-118,,4,118,92,26,2880.0,End of 4th quarter,Chicago,202112110MIA
+6:09.0,10-14,,1,10,14,-4,351.0, ,Cleveland,202112130CLE
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. J. Allen (L. Markkanen gains possession),Cleveland,202112130CLE
+6:20.0,31-35,,2,31,35,-4,1060.0, ,Cleveland,202112130CLE
 12:00.0,25-23,,2,25,23,2,720.0,Start of 2nd quarter,Cleveland,202112130CLE
+6:01.0,59-62,,3,59,62,-3,1799.0, ,Cleveland,202112130CLE
 12:00.0,44-55,,3,44,55,-11,1440.0,Start of 3rd quarter,Cleveland,202112130CLE
+6:09.0,81-95,,4,81,95,-14,2511.0, ,Cleveland,202112130CLE
 12:00.0,73-78,,4,73,78,-5,2160.0,Start of 4th quarter,Cleveland,202112130CLE
 0:00.0,94-105,,4,94,105,-11,2880.0,End of 4th quarter,Cleveland,202112130CLE
+6:00.0,14-11,,1,14,11,3,360.0, ,Philadelphia,202112150PHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. J. Embiid (K. Lowry gains possession),Philadelphia,202112150PHI
+6:13.0,44-32,,2,44,32,12,1067.0, ,Philadelphia,202112150PHI
 12:00.0,29-18,,2,29,18,11,720.0,Start of 2nd quarter,Philadelphia,202112150PHI
+6:05.0,76-55,,3,76,55,21,1795.0, ,Philadelphia,202112150PHI
 12:00.0,58-49,,3,58,49,9,1440.0,Start of 3rd quarter,Philadelphia,202112150PHI
+6:01.0,90-83,,4,90,83,7,2519.0, ,Philadelphia,202112150PHI
 12:00.0,81-70,,4,81,70,11,2160.0,Start of 4th quarter,Philadelphia,202112150PHI
 0:00.0,101-96,,4,101,96,5,2880.0,End of 4th quarter,Philadelphia,202112150PHI
+6:00.0,8-15,,1,8,15,-7,360.0, ,Orlando,202112170ORL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. R. Lopez (W. Carter gains possession),Orlando,202112170ORL
+6:16.0,48-39,,2,48,39,9,1064.0, ,Orlando,202112170ORL
 12:00.0,31-22,,2,31,22,9,720.0,Start of 2nd quarter,Orlando,202112170ORL
+6:08.0,81-70,,3,81,70,11,1792.0, ,Orlando,202112170ORL
 12:00.0,66-57,,3,66,57,9,1440.0,Start of 3rd quarter,Orlando,202112170ORL
+6:19.0,107-92,,4,107,92,15,2501.0,O. Yurtseven makes 2-pt dunk from 2 ft (assist by P. Tucker),Orlando,202112170ORL
 12:00.0,93-83,,4,93,83,10,2160.0,Start of 4th quarter,Orlando,202112170ORL
 0:00.0,115-105,,4,115,105,10,2880.0,End of 4th quarter,Orlando,202112170ORL
+6:04.0,11-16,,1,11,16,-5,356.0,Defensive rebound by O. Yurtseven,Detroit,202112190DET
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Dedmon vs. I. Stewart (K. Hayes gains possession),Detroit,202112190DET
+6:13.0,34-32,Lead change,2,34,32,2,1067.0,D. Dedmon makes 3-pt jump shot from 26 ft (assist by K. Lowry),Detroit,202112190DET
 12:00.0,23-20,,2,23,20,3,720.0,Start of 2nd quarter,Detroit,202112190DET
+6:01.0,60-58,,3,60,58,2,1799.0, ,Detroit,202112190DET
 12:00.0,48-46,,3,48,46,2,1440.0,Start of 3rd quarter,Detroit,202112190DET
+6:13.0,81-88,,4,81,88,-7,2507.0, ,Detroit,202112190DET
 12:00.0,67-79,,4,67,79,-12,2160.0,Start of 4th quarter,Detroit,202112190DET
 0:00.0,90-100,,4,90,100,-10,2880.0,End of 4th quarter,Detroit,202112190DET
+6:00.0,16-19,,1,19,16,3,360.0, ,Indiana,202112210MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. D. Dedmon (D. Sabonis gains possession),Indiana,202112210MIA
+6:03.0,30-50,,2,50,30,20,1077.0,O. Yurtseven makes free throw 2 of 2,Indiana,202112210MIA
 12:00.0,21-33,,2,33,21,12,720.0,Start of 2nd quarter,Indiana,202112210MIA
+6:13.0,58-79,,3,79,58,21,1787.0,M. Strus makes 2-pt layup from 2 ft (assist by K. Lowry),Indiana,202112210MIA
 12:00.0,45-68,,3,68,45,23,1440.0,Start of 3rd quarter,Indiana,202112210MIA
+6:08.0,81-111,,4,111,81,30,2512.0, ,Indiana,202112210MIA
 12:00.0,69-98,,4,98,69,29,2160.0,Start of 4th quarter,Indiana,202112210MIA
 0:00.0,96-125,,4,125,96,29,2880.0,End of 4th quarter,Indiana,202112210MIA
+6:06.0,16-12,,1,12,16,-4,354.0,Defensive rebound by D. Robinson,Detroit,202112230MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Lyles vs. D. Dedmon (H. Diallo gains possession),Detroit,202112230MIA
+6:00.0,47-43,,2,43,47,-4,1080.0,Offensive rebound by K. Okpala,Detroit,202112230MIA
 12:00.0,29-29,,2,29,29,0,720.0,Start of 2nd quarter,Detroit,202112230MIA
+6:01.0,72-71,,3,71,72,-1,1799.0,Defensive rebound by O. Yurtseven,Detroit,202112230MIA
 12:00.0,61-55,,3,55,61,-6,1440.0,Start of 3rd quarter,Detroit,202112230MIA
+6:08.0,100-98,,4,98,100,-2,2512.0,Defensive rebound by U. Haslem,Detroit,202112230MIA
 12:00.0,87-88,,4,88,87,1,2160.0,Start of 4th quarter,Detroit,202112230MIA
 0:00.0,112-115,,4,115,112,3,2880.0,End of 4th quarter,Detroit,202112230MIA
+6:24.0,15-12,,1,12,15,-3,336.0,O. Yurtseven makes 2-pt dunk from 1 ft (assist by D. Robinson),Orlando,202112260MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: W. Carter vs. O. Yurtseven (H. Gravett gains possession),Orlando,202112260MIA
+6:06.0,29-31,,2,31,29,2,1074.0,Defensive rebound by O. Yurtseven,Orlando,202112260MIA
 12:00.0,24-22,,2,22,24,-2,720.0,Start of 2nd quarter,Orlando,202112260MIA
+6:09.0,50-63,,3,63,50,13,1791.0, ,Orlando,202112260MIA
 12:00.0,39-42,,3,42,39,3,1440.0,Start of 3rd quarter,Orlando,202112260MIA
+6:03.0,72-80,,4,80,72,8,2517.0, ,Orlando,202112260MIA
 12:00.0,60-72,,4,72,60,12,2160.0,Start of 4th quarter,Orlando,202112260MIA
 0:00.0,83-93,,4,93,83,10,2880.0,End of 4th quarter,Orlando,202112260MIA
+6:00.0,12-15,,1,15,12,3,360.0,Offensive rebound by O. Yurtseven,Washington,202112280MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Gafford vs. O. Yurtseven (D. Robinson gains possession),Washington,202112280MIA
+6:10.0,38-54,,2,54,38,16,1070.0,T. Herro makes free throw 2 of 2,Washington,202112280MIA
 12:00.0,24-38,,2,38,24,14,720.0,Start of 2nd quarter,Washington,202112280MIA
+6:05.0,57-83,,3,83,57,26,1795.0, ,Washington,202112280MIA
 12:00.0,51-65,,3,65,51,14,1440.0,Start of 3rd quarter,Washington,202112280MIA
+6:00.0,88-104,,4,104,88,16,2520.0, ,Washington,202112280MIA
 12:00.0,73-91,,4,91,73,18,2160.0,Start of 4th quarter,Washington,202112280MIA
 0:00.0,112-119,,4,119,112,7,2880.0,End of 4th quarter,Washington,202112280MIA
+6:08.0,18-18,,1,18,18,0,352.0,Defensive rebound by C. Martin,Houston,202112310HOU
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. C. Wood (K. Porter gains possession),Houston,202112310HOU
+6:06.0,60-38,,2,60,38,22,1074.0, ,Houston,202112310HOU
 12:00.0,41-30,,2,41,30,11,720.0,Start of 2nd quarter,Houston,202112310HOU
+6:02.0,88-72,,3,88,72,16,1798.0,T. Herro makes 2-pt layup from 2 ft (assist by O. Yurtseven),Houston,202112310HOU
 12:00.0,74-60,,3,74,60,14,1440.0,Start of 3rd quarter,Houston,202112310HOU
+6:00.0,107-97,,4,107,97,10,2520.0,J. Butler makes free throw 1 of 1,Houston,202112310HOU
 12:00.0,100-87,,4,100,87,13,2160.0,Start of 4th quarter,Houston,202112310HOU
 0:00.0,120-110,,4,120,110,10,2880.0,End of 4th quarter,Houston,202112310HOU
+6:04.0,9-9,Tie,1,9,9,0,356.0, ,Sacramento,202201020SAC
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. D. Jones (K. Lowry gains possession),Sacramento,202201020SAC
+6:02.0,38-40,,2,38,40,-2,1078.0, ,Sacramento,202201020SAC
 12:00.0,18-26,,2,18,26,-8,720.0,Start of 2nd quarter,Sacramento,202201020SAC
+6:01.0,73-71,,3,73,71,2,1799.0,Defensive rebound by C. Martin,Sacramento,202201020SAC
 12:00.0,57-61,,3,57,61,-4,1440.0,Start of 3rd quarter,Sacramento,202201020SAC
+6:02.0,103-102,,4,103,102,1,2518.0,J. Butler misses 3-pt jump shot from 25 ft,Sacramento,202201020SAC
 12:00.0,90-90,,4,90,90,0,2160.0,Start of 4th quarter,Sacramento,202201020SAC
 0:00.0,113-115,,4,113,115,-2,2880.0,J. Butler misses 2-pt jump shot from 8 ft,Sacramento,202201020SAC
+6:12.0,10-18,,1,10,18,-8,348.0,C. Silva makes 2-pt layup at rim,Golden State,202201030GSW
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. K. Looney (K. Looney gains possession),Golden State,202201030GSW
+6:04.0,46-45,,2,46,45,1,1076.0, ,Golden State,202201030GSW
 12:00.0,25-33,,2,25,33,-8,720.0,Start of 2nd quarter,Golden State,202201030GSW
+6:06.0,69-70,,3,69,70,-1,1794.0,J. Butler makes 3-pt jump shot from 23 ft (assist by K. Lowry),Golden State,202201030GSW
 12:00.0,54-59,,3,54,59,-5,1440.0,Start of 3rd quarter,Golden State,202201030GSW
+6:01.0,99-106,,4,99,106,-7,2519.0,T. Herro makes 3-pt jump shot from 23 ft (assist by C. Silva),Golden State,202201030GSW
 12:00.0,82-89,,4,82,89,-7,2160.0,Start of 4th quarter,Golden State,202201030GSW
 0:00.0,108-115,,4,108,115,-7,2880.0,End of 4th quarter,Golden State,202201030GSW
+6:00.0,17-10,,1,17,10,7,360.0, ,Portland,202201050POR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. J. Nurkić (M. Strus gains possession),Portland,202201050POR
+6:11.0,45-31,,2,45,31,14,1069.0,P. Tucker enters the game for C. Martin,Portland,202201050POR
 12:00.0,30-23,,2,30,23,7,720.0,Start of 2nd quarter,Portland,202201050POR
+6:07.0,74-68,,3,74,68,6,1793.0, ,Portland,202201050POR
 12:00.0,58-47,,3,58,47,11,1440.0,Start of 3rd quarter,Portland,202201050POR
+6:01.0,96-92,,4,96,92,4,2519.0,Defensive rebound by O. Yurtseven,Portland,202201050POR
 12:00.0,83-80,,4,83,80,3,2160.0,Start of 4th quarter,Portland,202201050POR
 0:00.0,115-109,,4,115,109,6,2880.0,End of 4th quarter,Portland,202201050POR
+6:21.0,16-16,Tie,1,16,16,0,339.0,K. Lowry makes 3-pt jump shot from 25 ft,Phoenix,202201080PHO
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. D. Ayton (C. Paul gains possession),Phoenix,202201080PHO
+6:10.0,51-38,,2,51,38,13,1070.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by O. Yurtseven),Phoenix,202201080PHO
 12:00.0,33-29,,2,33,29,4,720.0,Start of 2nd quarter,Phoenix,202201080PHO
+6:10.0,87-66,,3,87,66,21,1790.0, ,Phoenix,202201080PHO
 12:00.0,71-50,,3,71,50,21,1440.0,Start of 3rd quarter,Phoenix,202201080PHO
+6:10.0,114-93,,4,114,93,21,2510.0, ,Phoenix,202201080PHO
 12:00.0,98-79,,4,98,79,19,2160.0,Start of 4th quarter,Phoenix,202201080PHO
 0:00.0,123-100,,4,123,100,23,2880.0,End of 4th quarter,Phoenix,202201080PHO
+6:05.0,6-13,,1,6,13,-7,355.0,T. Herro makes 2-pt layup from 1 ft (assist by O. Yurtseven),Atlanta,202201120ATL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. O. Okongwu (C. Martin gains possession),Atlanta,202201120ATL
+6:04.0,39-38,,2,39,38,1,1076.0,Turnover by T. Herro (lost ball; steal by T. Luwawu-Cabarrot),Atlanta,202201120ATL
 12:00.0,21-27,,2,21,27,-6,720.0,Start of 2nd quarter,Atlanta,202201120ATL
+6:19.0,75-55,,3,75,55,20,1781.0, ,Atlanta,202201120ATL
 12:00.0,56-51,,3,56,51,5,1440.0,Start of 3rd quarter,Atlanta,202201120ATL
+6:10.0,96-78,,4,96,78,18,2510.0, ,Atlanta,202201120ATL
 12:00.0,86-67,,4,86,67,19,2160.0,Start of 4th quarter,Atlanta,202201120ATL
 0:00.0,115-91,,4,115,91,24,2880.0,End of 4th quarter,Atlanta,202201120ATL
+6:03.0,11-20,,1,20,11,9,357.0, ,Atlanta,202201140MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Dieng vs. O. Yurtseven (D. Hunter gains possession),Atlanta,202201140MIA
+6:00.0,48-46,,2,46,48,-2,1080.0,Miami full timeout,Atlanta,202201140MIA
 12:00.0,30-40,,2,40,30,10,720.0,Start of 2nd quarter,Atlanta,202201140MIA
+6:01.0,86-80,,3,80,86,-6,1799.0,Loose ball foul by P. Tucker (drawn by D. Hunter),Atlanta,202201140MIA
 12:00.0,70-64,,3,64,70,-6,1440.0,Start of 3rd quarter,Atlanta,202201140MIA
+6:05.0,110-103,,4,103,110,-7,2515.0, ,Atlanta,202201140MIA
 12:00.0,99-94,,4,94,99,-5,2160.0,Start of 4th quarter,Atlanta,202201140MIA
 0:00.0,118-124,,4,124,118,6,2880.0, ,Atlanta,202201140MIA
+6:14.0,17-13,,1,13,17,-4,346.0, ,Philadelphia,202201150MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Embiid vs. O. Yurtseven (M. Strus gains possession),Philadelphia,202201150MIA
+6:02.0,35-37,,2,37,35,2,1078.0, ,Philadelphia,202201150MIA
 12:00.0,20-29,,2,29,20,9,720.0,Start of 2nd quarter,Philadelphia,202201150MIA
+6:12.0,58-66,,3,66,58,8,1788.0, ,Philadelphia,202201150MIA
 12:00.0,43-50,,3,50,43,7,1440.0,Start of 3rd quarter,Philadelphia,202201150MIA
+6:18.0,91-85,,4,85,91,-6,2502.0, ,Philadelphia,202201150MIA
 12:00.0,75-73,,4,73,75,-2,2160.0,Start of 4th quarter,Philadelphia,202201150MIA
 0:00.0,109-98,,4,98,109,-11,2880.0,End of 4th quarter,Philadelphia,202201150MIA
+6:03.0,7-12,,1,12,7,5,357.0,D. Robinson misses 3-pt jump shot from 24 ft,Toronto,202201170MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: P. Achiuwa vs. B. Adebayo (G. Vincent gains possession),Toronto,202201170MIA
+6:08.0,39-39,Tie,2,39,39,0,1072.0,J. Butler makes 2-pt layup from 3 ft,Toronto,202201170MIA
 12:00.0,30-27,,2,27,30,-3,720.0,Start of 2nd quarter,Toronto,202201170MIA
+6:06.0,66-67,,3,67,66,1,1794.0,M. Strus enters the game for D. Robinson,Toronto,202201170MIA
 12:00.0,51-58,,3,58,51,7,1440.0,Start of 3rd quarter,Toronto,202201170MIA
+6:00.0,89-96,,4,96,89,7,2520.0,M. Strus makes 3-pt jump shot from 23 ft (assist by C. Martin),Toronto,202201170MIA
 12:00.0,75-80,,4,80,75,5,2160.0,Start of 4th quarter,Toronto,202201170MIA
 0:00.0,99-104,,4,104,99,5,2880.0,Defensive rebound by J. Butler,Toronto,202201170MIA
+6:16.0,13-8,,1,8,13,-5,344.0, ,Portland,202201190MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Nurkić vs. B. Adebayo (R. Covington gains possession),Portland,202201190MIA
+6:20.0,36-41,,2,41,36,5,1060.0,B. Adebayo makes 2-pt layup from 2 ft (assist by K. Guy),Portland,202201190MIA
 12:00.0,26-23,,2,23,26,-3,720.0,Start of 2nd quarter,Portland,202201190MIA
+6:00.0,68-64,,3,64,68,-4,1800.0, ,Portland,202201190MIA
 12:00.0,56-58,,3,58,56,2,1440.0,Start of 3rd quarter,Portland,202201190MIA
+6:09.0,87-89,,4,89,87,2,2511.0, ,Portland,202201190MIA
 12:00.0,80-78,,4,78,80,-2,2160.0,Start of 4th quarter,Portland,202201190MIA
 0:00.0,92-104,,4,104,92,12,2880.0,End of 4th quarter,Portland,202201190MIA
+6:00.0,16-11,,1,16,11,5,360.0, ,Atlanta,202201210ATL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. O. Okongwu (G. Vincent gains possession),Atlanta,202201210ATL
+6:04.0,41-44,,2,41,44,-3,1076.0, ,Atlanta,202201210ATL
 12:00.0,30-31,,2,30,31,-1,720.0,Start of 2nd quarter,Atlanta,202201210ATL
+6:04.0,64-71,,3,64,71,-7,1796.0,O. Yurtseven makes 2-pt dunk from 2 ft (assist by J. Butler),Atlanta,202201210ATL
 12:00.0,51-60,,3,51,60,-9,1440.0,Start of 3rd quarter,Atlanta,202201210ATL
+6:12.0,91-100,,4,91,100,-9,2508.0, ,Atlanta,202201210ATL
 12:00.0,74-88,,4,74,88,-14,2160.0,Start of 4th quarter,Atlanta,202201210ATL
 0:00.0,108-110,,4,108,110,-2,2880.0,End of 4th quarter,Atlanta,202201210ATL
+6:11.0,9-19,,1,19,9,10,349.0,G. Vincent makes 2-pt layup at rim (assist by J. Butler),LA Lakers,202201230MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Howard vs. B. Adebayo (L. James gains possession),LA Lakers,202201230MIA
+6:01.0,39-56,,2,56,39,17,1079.0,B. Adebayo enters the game for D. Dedmon,LA Lakers,202201230MIA
 12:00.0,25-39,,2,39,25,14,720.0,Start of 2nd quarter,LA Lakers,202201230MIA
+6:12.0,59-78,,3,78,59,19,1788.0, ,LA Lakers,202201230MIA
 12:00.0,52-69,,3,69,52,17,1440.0,Start of 3rd quarter,LA Lakers,202201230MIA
+6:13.0,84-100,,4,100,84,16,2507.0, ,LA Lakers,202201230MIA
 12:00.0,70-89,,4,89,70,19,2160.0,Start of 4th quarter,LA Lakers,202201230MIA
 0:00.0,107-113,,4,113,107,6,2880.0,Defensive rebound by C. Martin,LA Lakers,202201230MIA
+6:13.0,8-18,,1,18,8,10,347.0,Defensive rebound by D. Robinson,New York,202201260MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. B. Adebayo (P. Tucker gains possession),New York,202201260MIA
+6:14.0,29-44,,2,44,29,15,1066.0,Turnover by J. Butler (bad pass; steal by Q. Grimes),New York,202201260MIA
 12:00.0,16-30,,2,30,16,14,720.0,Start of 2nd quarter,New York,202201260MIA
+6:04.0,53-76,,3,76,53,23,1796.0,Defensive rebound by Team,New York,202201260MIA
 12:00.0,46-59,,3,59,46,13,1440.0,Start of 3rd quarter,New York,202201260MIA
+6:14.0,78-98,,4,98,78,20,2506.0, ,New York,202201260MIA
 12:00.0,67-92,,4,92,67,25,2160.0,Start of 4th quarter,New York,202201260MIA
 0:00.0,96-110,,4,110,96,14,2880.0, ,New York,202201260MIA
+6:05.0,6-9,,1,9,6,3,355.0, ,LA Clippers,202201280MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: I. Zubac vs. B. Adebayo (G. Vincent gains possession),LA Clippers,202201280MIA
+6:10.0,29-37,,2,37,29,8,1070.0,Defensive rebound by B. Adebayo,LA Clippers,202201280MIA
 12:00.0,19-28,,2,28,19,9,720.0,Start of 2nd quarter,LA Clippers,202201280MIA
+6:07.0,60-79,,3,79,60,19,1793.0,G. Vincent makes 3-pt jump shot from 23 ft (assist by C. Martin),LA Clippers,202201280MIA
 12:00.0,45-57,,3,57,45,12,1440.0,Start of 3rd quarter,LA Clippers,202201280MIA
+6:00.0,95-104,,4,104,95,9,2520.0,Personal foul by B. Boston (drawn by P. Tucker),LA Clippers,202201280MIA
 12:00.0,80-96,,4,96,80,16,2160.0,Start of 4th quarter,LA Clippers,202201280MIA
 0:00.0,114-121,,4,121,114,7,2880.0,End of 4th quarter,LA Clippers,202201280MIA
+6:01.0,15-14,,1,14,15,-1,359.0,P. Tucker makes 2-pt layup from 2 ft (assist by J. Butler),Toronto,202201290MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: S. Barnes vs. B. Adebayo (G. Vincent gains possession),Toronto,202201290MIA
+6:05.0,48-36,,2,36,48,-12,1075.0,B. Adebayo makes 2-pt dunk from 2 ft,Toronto,202201290MIA
 12:00.0,28-27,,2,27,28,-1,720.0,Start of 2nd quarter,Toronto,202201290MIA
+6:19.0,71-63,,3,63,71,-8,1781.0,B. Adebayo makes free throw 2 of 2,Toronto,202201290MIA
 12:00.0,59-53,,3,53,59,-6,1440.0,Start of 3rd quarter,Toronto,202201290MIA
+6:09.0,92-87,,4,87,92,-5,2511.0,Defensive rebound by B. Adebayo,Toronto,202201290MIA
 12:00.0,85-75,,4,75,85,-10,2160.0,Start of 4th quarter,Toronto,202201290MIA
+0:00.0,105-105,,5,105,105,0,3600.0,End of 1st overtime,Toronto,202201290MIA
+0:00.0,114-114,,6,114,114,0,3900.0,End of 2nd overtime,Toronto,202201290MIA
 0:00.0,124-120,,7,120,124,-4,4200.0,End of 3rd overtime,Toronto,202201290MIA
+6:00.0,7-18,,1,7,18,-11,360.0, ,Boston,202201310BOS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. R. Williams (A. Horford gains possession),Boston,202201310BOS
+6:00.0,32-35,,2,32,35,-3,1080.0,Turnover by C. Martin (bad pass; steal by M. Smart),Boston,202201310BOS
 12:00.0,14-27,,2,14,27,-13,720.0,Start of 2nd quarter,Boston,202201310BOS
+6:28.0,60-71,,3,60,71,-11,1772.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by G. Vincent),Boston,202201310BOS
 12:00.0,45-54,,3,45,54,-9,1440.0,Start of 3rd quarter,Boston,202201310BOS
+6:00.0,80-106,,4,80,106,-26,2520.0,G. Vincent makes 3-pt jump shot from 27 ft (assist by B. Adebayo),Boston,202201310BOS
 12:00.0,70-94,,4,70,94,-24,2160.0,Start of 4th quarter,Boston,202201310BOS
 0:00.0,92-122,,4,92,122,-30,2880.0,End of 4th quarter,Boston,202201310BOS
+6:07.0,19-11,,1,19,11,8,353.0,Defensive rebound by J. Butler,Toronto,202202010TOR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. S. Barnes (J. Butler gains possession),Toronto,202202010TOR
+6:10.0,46-36,,2,46,36,10,1070.0, ,Toronto,202202010TOR
 12:00.0,32-22,,2,32,22,10,720.0,Start of 2nd quarter,Toronto,202202010TOR
+6:09.0,73-66,,3,73,66,7,1791.0, ,Toronto,202202010TOR
 12:00.0,62-50,,3,62,50,12,1440.0,Start of 3rd quarter,Toronto,202202010TOR
+6:00.0,93-92,,4,93,92,1,2520.0, ,Toronto,202202010TOR
 12:00.0,83-80,,4,83,80,3,2160.0,Start of 4th quarter,Toronto,202202010TOR
 0:00.0,106-110,,4,106,110,-4,2880.0,End of 4th quarter,Toronto,202202010TOR
+6:02.0,9-12,,1,9,12,-3,358.0,D. Dedmon misses 2-pt layup from 1 ft (block by D. Eubanks),San Antonio,202202030SAS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. T. Young (K. Lowry gains possession),San Antonio,202202030SAS
+6:11.0,42-34,,2,42,34,8,1069.0, ,San Antonio,202202030SAS
 12:00.0,21-19,,2,21,19,2,720.0,Start of 2nd quarter,San Antonio,202202030SAS
+6:01.0,70-57,,3,70,57,13,1799.0, ,San Antonio,202202030SAS
 12:00.0,57-47,,3,57,47,10,1440.0,Start of 3rd quarter,San Antonio,202202030SAS
+6:03.0,104-79,,4,104,79,25,2517.0, ,San Antonio,202202030SAS
 12:00.0,88-66,,4,88,66,22,2160.0,Start of 4th quarter,San Antonio,202202030SAS
 0:00.0,112-95,,4,112,95,17,2880.0,End of 4th quarter,San Antonio,202202030SAS
+6:11.0,8-11,,1,8,11,-3,349.0,J. Butler makes 2-pt layup from 2 ft (assist by K. Lowry),Charlotte,202202050CHO
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Plumlee (P. Tucker gains possession),Charlotte,202202050CHO
+6:00.0,38-34,,2,38,34,4,1080.0, ,Charlotte,202202050CHO
 12:00.0,31-23,,2,31,23,8,720.0,Start of 2nd quarter,Charlotte,202202050CHO
+6:09.0,63-57,,3,63,57,6,1791.0, ,Charlotte,202202050CHO
 12:00.0,46-51,,3,46,51,-5,1440.0,Start of 3rd quarter,Charlotte,202202050CHO
+6:08.0,96-69,,4,96,69,27,2512.0, ,Charlotte,202202050CHO
 12:00.0,81-59,,4,81,59,22,2160.0,Start of 4th quarter,Charlotte,202202050CHO
 0:00.0,104-86,,4,104,86,18,2880.0,End of 4th quarter,Charlotte,202202050CHO
+6:03.0,18-10,,1,18,10,8,357.0, ,Washington,202202070WAS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. T. Bryant (P. Tucker gains possession),Washington,202202070WAS
+6:08.0,50-38,,2,50,38,12,1072.0, ,Washington,202202070WAS
 12:00.0,39-24,,2,39,24,15,720.0,Start of 2nd quarter,Washington,202202070WAS
+6:16.0,72-61,,3,72,61,11,1784.0, ,Washington,202202070WAS
 12:00.0,60-53,,3,60,53,7,1440.0,Start of 3rd quarter,Washington,202202070WAS
+6:01.0,113-81,,4,113,81,32,2519.0, ,Washington,202202070WAS
 12:00.0,91-70,,4,91,70,21,2160.0,Start of 4th quarter,Washington,202202070WAS
 0:00.0,121-100,,4,121,100,21,2880.0,End of 4th quarter,Washington,202202070WAS
+6:09.0,18-13,,1,18,13,5,351.0,J. Butler makes free throw 2 of 2,New Orleans,202202100NOP
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Valančiūnas (C. McCollum gains possession),New Orleans,202202100NOP
+6:07.0,42-42,Tie,2,42,42,0,1073.0, ,New Orleans,202202100NOP
 12:00.0,27-24,,2,27,24,3,720.0,Start of 2nd quarter,New Orleans,202202100NOP
+6:02.0,69-63,,3,69,63,6,1798.0,J. Butler makes 2-pt dunk at rim (assist by K. Lowry),New Orleans,202202100NOP
 12:00.0,56-55,,3,56,55,1,1440.0,Start of 3rd quarter,New Orleans,202202100NOP
+6:00.0,99-92,,4,99,92,7,2520.0, ,New Orleans,202202100NOP
 12:00.0,83-73,,4,83,73,10,2160.0,Start of 4th quarter,New Orleans,202202100NOP
 0:00.0,112-97,,4,112,97,15,2880.0,Turnover by Team (shot clock),New Orleans,202202100NOP
+6:00.0,13-13,,1,13,13,0,360.0,Offensive rebound by J. Butler,Brooklyn,202202120MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Griffin vs. B. Adebayo (D. Robinson gains possession),Brooklyn,202202120MIA
+6:01.0,44-50,,2,50,44,6,1079.0,T. Herro makes free throw 2 of 2,Brooklyn,202202120MIA
 12:00.0,26-26,,2,26,26,0,720.0,Start of 2nd quarter,Brooklyn,202202120MIA
+6:01.0,66-82,,3,82,66,16,1799.0,K. Lowry misses 3-pt jump shot from 30 ft,Brooklyn,202202120MIA
 12:00.0,58-64,,3,64,58,6,1440.0,Start of 3rd quarter,Brooklyn,202202120MIA
+6:04.0,92-101,,4,101,92,9,2516.0, ,Brooklyn,202202120MIA
 12:00.0,76-91,,4,91,76,15,2160.0,Start of 4th quarter,Brooklyn,202202120MIA
 0:00.0,111-115,,4,115,111,4,2880.0,End of 4th quarter,Brooklyn,202202120MIA
+6:07.0,15-10,,1,10,15,-5,353.0,K. Lowry makes 2-pt jump shot from 18 ft,Dallas,202202150MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Powell vs. B. Adebayo (P. Tucker gains possession),Dallas,202202150MIA
+6:20.0,37-44,,2,44,37,7,1060.0,B. Adebayo makes 2-pt jump shot from 6 ft,Dallas,202202150MIA
 12:00.0,23-28,,2,28,23,5,720.0,Start of 2nd quarter,Dallas,202202150MIA
+6:17.0,64-70,,3,70,64,6,1783.0, ,Dallas,202202150MIA
 12:00.0,51-59,,3,59,51,8,1440.0,Start of 3rd quarter,Dallas,202202150MIA
+6:11.0,96-88,,4,88,96,-8,2509.0,J. Butler makes free throw 2 of 2,Dallas,202202150MIA
 12:00.0,81-78,,4,78,81,-3,2160.0,Start of 4th quarter,Dallas,202202150MIA
 0:00.0,107-99,,4,99,107,-8,2880.0,End of 4th quarter,Dallas,202202150MIA
+6:01.0,21-10,,1,21,10,11,359.0,D. Robinson makes 3-pt jump shot from 23 ft (assist by J. Butler),Charlotte,202202170CHO
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Plumlee (K. Lowry gains possession),Charlotte,202202170CHO
+6:03.0,41-46,,2,41,46,-5,1077.0,Offensive rebound by J. Butler,Charlotte,202202170CHO
 12:00.0,37-30,,2,37,30,7,720.0,Start of 2nd quarter,Charlotte,202202170CHO
+6:18.0,60-63,,3,60,63,-3,1782.0, ,Charlotte,202202170CHO
 12:00.0,47-54,,3,47,54,-7,1440.0,Start of 3rd quarter,Charlotte,202202170CHO
+6:00.0,69-80,,4,69,80,-11,2520.0, ,Charlotte,202202170CHO
 12:00.0,64-71,,4,64,71,-7,2160.0,Start of 4th quarter,Charlotte,202202170CHO
+0:00.0,97-97,,5,97,97,0,3600.0,End of 1st overtime,Charlotte,202202170CHO
+0:00.0,111-107,,6,111,107,4,3900.0,End of 2nd overtime,Charlotte,202202170CHO
 0:00.0,111-107,,6,111,107,4,3900.0, ,Charlotte,202202170CHO
+6:12.0,8-15,,1,8,15,-7,348.0, ,New York,202202250NYK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Robinson (P. Tucker gains possession),New York,202202250NYK
+6:14.0,48-40,,2,48,40,8,1066.0, ,New York,202202250NYK
 12:00.0,30-32,,2,30,32,-2,720.0,Start of 2nd quarter,New York,202202250NYK
+6:02.0,76-69,,3,76,69,7,1798.0, ,New York,202202250NYK
 12:00.0,65-55,,3,65,55,10,1440.0,Start of 3rd quarter,New York,202202250NYK
+6:14.0,103-92,,4,103,92,11,2506.0, ,New York,202202250NYK
 12:00.0,90-85,,4,90,85,5,2160.0,Start of 4th quarter,New York,202202250NYK
 0:00.0,115-100,,4,115,100,15,2880.0,End of 4th quarter,New York,202202250NYK
+6:01.0,21-7,,1,7,21,-14,359.0,G. Vincent enters the game for D. Robinson,San Antonio,202202260MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: Z. Collins vs. B. Adebayo (T. Jones gains possession),San Antonio,202202260MIA
+6:05.0,52-44,,2,44,52,-8,1075.0, ,San Antonio,202202260MIA
 12:00.0,40-28,,2,28,40,-12,720.0,Start of 2nd quarter,San Antonio,202202260MIA
+6:14.0,80-78,,3,78,80,-2,1786.0, ,San Antonio,202202260MIA
 12:00.0,58-61,,3,61,58,3,1440.0,Start of 3rd quarter,San Antonio,202202260MIA
+6:02.0,110-123,,4,123,110,13,2518.0,Turnover by T. Herro (bad pass),San Antonio,202202260MIA
 12:00.0,97-99,,4,99,97,2,2160.0,Start of 4th quarter,San Antonio,202202260MIA
 0:00.0,129-133,,4,133,129,4,2880.0,End of 4th quarter,San Antonio,202202260MIA
+6:17.0,10-20,,1,20,10,10,343.0,G. Vincent makes 2-pt jump shot from 17 ft,Chicago,202202280MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. B. Adebayo (A. Dosunmu gains possession),Chicago,202202280MIA
+6:02.0,32-47,,2,47,32,15,1078.0, ,Chicago,202202280MIA
 12:00.0,21-30,,2,30,21,9,720.0,Start of 2nd quarter,Chicago,202202280MIA
+6:06.0,53-72,,3,72,53,19,1794.0, ,Chicago,202202280MIA
 12:00.0,46-55,,3,55,46,9,1440.0,Start of 3rd quarter,Chicago,202202280MIA
+6:03.0,84-104,,4,104,84,20,2517.0, ,Chicago,202202280MIA
 12:00.0,67-91,,4,91,67,24,2160.0,Start of 4th quarter,Chicago,202202280MIA
 0:00.0,99-112,,4,112,99,13,2880.0,End of 4th quarter,Chicago,202202280MIA
+6:02.0,14-24,,1,14,24,-10,358.0, ,Milwaukee,202203020MIL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. B. Portis (P. Tucker gains possession),Milwaukee,202203020MIL
+6:12.0,49-48,,2,49,48,1,1068.0, ,Milwaukee,202203020MIL
 12:00.0,28-36,,2,28,36,-8,720.0,Start of 2nd quarter,Milwaukee,202203020MIL
+6:01.0,79-77,,3,79,77,2,1799.0,J. Butler misses 2-pt jump shot from 13 ft,Milwaukee,202203020MIL
 12:00.0,66-64,,3,66,64,2,1440.0,Start of 3rd quarter,Milwaukee,202203020MIL
+6:06.0,113-99,,4,113,99,14,2514.0, ,Milwaukee,202203020MIL
 12:00.0,97-93,,4,97,93,4,2160.0,Start of 4th quarter,Milwaukee,202203020MIL
 0:00.0,119-120,,4,119,120,-1,2880.0,T. Herro misses 3-pt jump shot from 36 ft,Milwaukee,202203020MIL
+6:03.0,8-19,,1,8,19,-11,357.0,C. Martin enters the game for O. Yurtseven,Brooklyn,202203030BRK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. A. Drummond (S. Curry gains possession),Brooklyn,202203030BRK
+6:03.0,38-49,,2,38,49,-11,1077.0,M. Strus misses 3-pt jump shot from 25 ft,Brooklyn,202203030BRK
 12:00.0,23-35,,2,23,35,-12,720.0,Start of 2nd quarter,Brooklyn,202203030BRK
+6:05.0,76-74,,3,76,74,2,1795.0, ,Brooklyn,202203030BRK
 12:00.0,60-67,,3,60,67,-7,1440.0,Start of 3rd quarter,Brooklyn,202203030BRK
+6:15.0,102-96,,4,102,96,6,2505.0, ,Brooklyn,202203030BRK
 12:00.0,88-84,,4,88,84,4,2160.0,Start of 4th quarter,Brooklyn,202203030BRK
 0:00.0,113-107,,4,113,107,6,2880.0,End of 4th quarter,Brooklyn,202203030BRK
+6:12.0,5-13,,1,13,5,8,348.0,J. Butler makes 2-pt dunk from 1 ft,Philadelphia,202203050MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Embiid vs. B. Adebayo (T. Maxey gains possession),Philadelphia,202203050MIA
+6:03.0,28-42,,2,42,28,14,1077.0,T. Herro makes 2-pt jump shot from 7 ft,Philadelphia,202203050MIA
 12:00.0,14-22,,2,22,14,8,720.0,Start of 2nd quarter,Philadelphia,202203050MIA
+6:00.0,55-63,,3,63,55,8,1800.0,J. Butler makes free throw 2 of 2,Philadelphia,202203050MIA
 12:00.0,40-54,,3,54,40,14,1440.0,Start of 3rd quarter,Philadelphia,202203050MIA
+6:09.0,78-87,,4,87,78,9,2511.0,J. Butler enters the game for G. Vincent,Philadelphia,202203050MIA
 12:00.0,68-73,,4,73,68,5,2160.0,Start of 4th quarter,Philadelphia,202203050MIA
 0:00.0,82-99,,4,99,82,17,2880.0,End of 4th quarter,Philadelphia,202203050MIA
+6:04.0,19-15,,1,15,19,-4,356.0, ,Houston,202203070MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Sengun vs. B. Adebayo (P. Tucker gains possession),Houston,202203070MIA
+6:08.0,48-39,,2,39,48,-9,1072.0,T. Herro makes 2-pt jump shot from 11 ft,Houston,202203070MIA
 12:00.0,32-25,,2,25,32,-7,720.0,Start of 2nd quarter,Houston,202203070MIA
+6:07.0,66-76,,3,76,66,10,1793.0,J. Butler makes free throw 2 of 2,Houston,202203070MIA
 12:00.0,58-62,,3,62,58,4,1440.0,Start of 3rd quarter,Houston,202203070MIA
+6:11.0,92-104,,4,104,92,12,2509.0, ,Houston,202203070MIA
 12:00.0,78-90,,4,90,78,12,2160.0,Start of 4th quarter,Houston,202203070MIA
 0:00.0,106-123,,4,123,106,17,2880.0,End of 4th quarter,Houston,202203070MIA
+6:06.0,14-25,,1,25,14,11,354.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by K. Lowry),Phoenix,202203090MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Ayton vs. B. Adebayo (C. Payne gains possession),Phoenix,202203090MIA
+6:10.0,35-40,,2,40,35,5,1070.0,D. Robinson enters the game for V. Oladipo,Phoenix,202203090MIA
 12:00.0,29-27,,2,27,29,-2,720.0,Start of 2nd quarter,Phoenix,202203090MIA
+6:08.0,75-65,,3,65,75,-10,1792.0, ,Phoenix,202203090MIA
 12:00.0,57-55,,3,55,57,-2,1440.0,Start of 3rd quarter,Phoenix,202203090MIA
+6:06.0,100-76,,4,76,100,-24,2514.0, ,Phoenix,202203090MIA
 12:00.0,91-74,,4,74,91,-17,2160.0,Start of 4th quarter,Phoenix,202203090MIA
 0:00.0,111-90,,4,90,111,-21,2880.0,End of 4th quarter,Phoenix,202203090MIA
+6:12.0,7-15,,1,15,7,8,348.0,Turnover by B. Adebayo (bad pass),Cleveland,202203110MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: E. Mobley vs. B. Adebayo (J. Butler gains possession),Cleveland,202203110MIA
+6:00.0,30-44,,2,44,30,14,1080.0,M. Strus misses 3-pt jump shot from 26 ft,Cleveland,202203110MIA
 12:00.0,18-28,,2,28,18,10,720.0,Start of 2nd quarter,Cleveland,202203110MIA
+6:09.0,63-67,,3,67,63,4,1791.0, ,Cleveland,202203110MIA
 12:00.0,57-58,,3,58,57,1,1440.0,Start of 3rd quarter,Cleveland,202203110MIA
+6:05.0,90-103,,4,103,90,13,2515.0, ,Cleveland,202203110MIA
 12:00.0,72-85,,4,85,72,13,2160.0,Start of 4th quarter,Cleveland,202203110MIA
 0:00.0,105-117,,4,117,105,12,2880.0,End of 4th quarter,Cleveland,202203110MIA
+6:08.0,22-13,,1,13,22,-9,352.0,B. Adebayo makes free throw 1 of 1,Minnesota,202203120MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Towns vs. B. Adebayo (M. Beasley gains possession),Minnesota,202203120MIA
+6:04.0,43-45,,2,45,43,2,1076.0,T. Herro makes free throw 2 of 2,Minnesota,202203120MIA
 12:00.0,30-25,,2,25,30,-5,720.0,Start of 2nd quarter,Minnesota,202203120MIA
+6:04.0,69-76,,3,76,69,7,1796.0, ,Minnesota,202203120MIA
 12:00.0,55-67,,3,67,55,12,1440.0,Start of 3rd quarter,Minnesota,202203120MIA
+6:00.0,97-97,,4,97,97,0,2520.0, ,Minnesota,202203120MIA
 12:00.0,89-86,,4,86,89,-3,2160.0,Start of 4th quarter,Minnesota,202203120MIA
 0:00.0,113-104,,4,104,113,-9,2880.0,End of 4th quarter,Minnesota,202203120MIA
+6:05.0,10-14,,1,14,10,4,355.0, ,Detroit,202203150MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: I. Stewart vs. B. Adebayo (P. Tucker gains possession),Detroit,202203150MIA
+6:05.0,41-38,,2,38,41,-3,1075.0,Defensive rebound by P. Tucker,Detroit,202203150MIA
 12:00.0,22-29,,2,29,22,7,720.0,Start of 2nd quarter,Detroit,202203150MIA
+6:11.0,59-68,,3,68,59,9,1789.0, ,Detroit,202203150MIA
 12:00.0,51-57,,3,57,51,6,1440.0,Start of 3rd quarter,Detroit,202203150MIA
+6:11.0,84-83,Lead change,4,83,84,-1,2509.0, ,Detroit,202203150MIA
 12:00.0,73-68,,4,68,73,-5,2160.0,Start of 4th quarter,Detroit,202203150MIA
 0:00.0,98-105,,4,105,98,7,2880.0, ,Detroit,202203150MIA
+6:15.0,10-15,,1,15,10,5,345.0, ,Oklahoma City,202203180MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Sarr vs. B. Adebayo (G. Vincent gains possession),Oklahoma City,202203180MIA
+6:08.0,39-44,,2,44,39,5,1072.0,K. Lowry enters the game for G. Vincent,Oklahoma City,202203180MIA
 12:00.0,26-27,,2,27,26,1,720.0,Start of 2nd quarter,Oklahoma City,202203180MIA
+6:13.0,62-88,,3,88,62,26,1787.0, ,Oklahoma City,202203180MIA
 12:00.0,54-69,,3,69,54,15,1440.0,Start of 3rd quarter,Oklahoma City,202203180MIA
+6:01.0,95-114,,4,114,95,19,2519.0,M. Strus misses 3-pt jump shot from 24 ft,Oklahoma City,202203180MIA
 12:00.0,79-103,,4,103,79,24,2160.0,Start of 4th quarter,Oklahoma City,202203180MIA
 0:00.0,108-120,,4,120,108,12,2880.0,End of 4th quarter,Oklahoma City,202203180MIA
+6:14.0,15-9,,1,15,9,6,346.0,K. Lowry makes 3-pt jump shot from 27 ft,Philadelphia,202203210PHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. P. Millsap (P. Tucker gains possession),Philadelphia,202203210PHI
+6:12.0,42-47,,2,42,47,-5,1068.0, ,Philadelphia,202203210PHI
 12:00.0,32-26,,2,32,26,6,720.0,Start of 2nd quarter,Philadelphia,202203210PHI
+6:10.0,68-69,,3,68,69,-1,1790.0, ,Philadelphia,202203210PHI
 12:00.0,56-57,,3,56,57,-1,1440.0,Start of 3rd quarter,Philadelphia,202203210PHI
+6:15.0,95-92,,4,95,92,3,2505.0,B. Adebayo makes 2-pt hook shot from 4 ft,Philadelphia,202203210PHI
 12:00.0,78-80,,4,78,80,-2,2160.0,Start of 4th quarter,Philadelphia,202203210PHI
 0:00.0,106-113,,4,106,113,-7,2880.0,End of 4th quarter,Philadelphia,202203210PHI
+6:04.0,8-18,,1,18,8,10,356.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by J. Butler),Golden State,202203230MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Looney vs. B. Adebayo (P. Tucker gains possession),Golden State,202203230MIA
+6:03.0,35-31,,2,31,35,-4,1077.0, ,Golden State,202203230MIA
 12:00.0,23-23,,2,23,23,0,720.0,Start of 2nd quarter,Golden State,202203230MIA
+6:03.0,71-56,,3,56,71,-15,1797.0,P. Tucker makes 2-pt hook shot from 7 ft (assist by D. Robinson),Golden State,202203230MIA
 12:00.0,50-50,,3,50,50,0,1440.0,Start of 3rd quarter,Golden State,202203230MIA
+6:24.0,94-88,,4,88,94,-6,2496.0, ,Golden State,202203230MIA
 12:00.0,81-80,,4,80,81,-1,2160.0,Start of 4th quarter,Golden State,202203230MIA
 0:00.0,118-104,,4,104,118,-14,2880.0,End of 4th quarter,Golden State,202203230MIA
+6:02.0,15-14,Lead change,1,14,15,-1,358.0, ,New York,202203250MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Sims vs. B. Adebayo (K. Lowry gains possession),New York,202203250MIA
+6:01.0,32-46,,2,46,32,14,1079.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Butler),New York,202203250MIA
 12:00.0,25-32,,2,32,25,7,720.0,Start of 2nd quarter,New York,202203250MIA
+6:14.0,60-72,,3,72,60,12,1786.0,K. Lowry makes 3-pt jump shot from 27 ft,New York,202203250MIA
 12:00.0,49-58,,3,58,49,9,1440.0,Start of 3rd quarter,New York,202203250MIA
+6:19.0,92-92,Tie,4,92,92,0,2501.0, ,New York,202203250MIA
 12:00.0,73-88,,4,88,73,15,2160.0,Start of 4th quarter,New York,202203250MIA
 0:00.0,111-103,,4,103,111,-8,2880.0,End of 4th quarter,New York,202203250MIA
+6:14.0,13-19,,1,19,13,6,346.0,J. Butler makes 2-pt jump shot from 5 ft,Brooklyn,202203260MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Drummond vs. B. Adebayo (P. Tucker gains possession),Brooklyn,202203260MIA
+6:01.0,47-38,,2,38,47,-9,1079.0, ,Brooklyn,202203260MIA
 12:00.0,27-25,,2,25,27,-2,720.0,Start of 2nd quarter,Brooklyn,202203260MIA
+6:17.0,82-57,,3,57,82,-25,1783.0,B. Adebayo makes free throw 2 of 2,Brooklyn,202203260MIA
 12:00.0,67-46,,3,46,67,-21,1440.0,Start of 3rd quarter,Brooklyn,202203260MIA
+6:01.0,105-82,,4,82,105,-23,2519.0,Defensive rebound by O. Yurtseven,Brooklyn,202203260MIA
 12:00.0,96-68,,4,68,96,-28,2160.0,Start of 4th quarter,Brooklyn,202203260MIA
 0:00.0,110-95,,4,95,110,-15,2880.0,End of 4th quarter,Brooklyn,202203260MIA
+6:03.0,11-12,,1,12,11,1,357.0,T. Herro enters the game for J. Butler,Sacramento,202203280MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Jones vs. B. Adebayo (D. Jones gains possession),Sacramento,202203280MIA
+6:05.0,35-45,,2,45,35,10,1075.0,J. Butler makes free throw 1 of 1,Sacramento,202203280MIA
 12:00.0,19-31,,2,31,19,12,720.0,Start of 2nd quarter,Sacramento,202203280MIA
+6:11.0,55-75,,3,75,55,20,1789.0,J. Butler makes 3-pt jump shot from 24 ft,Sacramento,202203280MIA
 12:00.0,41-57,,3,57,41,16,1440.0,Start of 3rd quarter,Sacramento,202203280MIA
+6:18.0,85-103,,4,103,85,18,2502.0,Personal foul by D. DiVincenzo (drawn by M. Strus),Sacramento,202203280MIA
 12:00.0,68-93,,4,93,68,25,2160.0,Start of 4th quarter,Sacramento,202203280MIA
 0:00.0,100-123,,4,123,100,23,2880.0,End of 4th quarter,Sacramento,202203280MIA
+6:03.0,13-14,,1,13,14,-1,357.0,Defensive rebound by M. Strus,Boston,202203300BOS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. A. Horford (G. Williams gains possession),Boston,202203300BOS
+6:05.0,36-40,,2,36,40,-4,1075.0,T. Herro makes 2-pt jump shot from 20 ft (assist by B. Adebayo),Boston,202203300BOS
 12:00.0,25-29,,2,25,29,-4,720.0,Start of 2nd quarter,Boston,202203300BOS
+6:14.0,69-66,,3,69,66,3,1786.0,Miami full timeout,Boston,202203300BOS
 12:00.0,53-52,,3,53,52,1,1440.0,Start of 3rd quarter,Boston,202203300BOS
+6:07.0,91-92,,4,91,92,-1,2513.0,M. Strus makes 3-pt jump shot from 27 ft (assist by B. Adebayo),Boston,202203300BOS
 12:00.0,79-83,,4,79,83,-4,2160.0,Start of 4th quarter,Boston,202203300BOS
 0:00.0,106-98,,4,106,98,8,2880.0,End of 4th quarter,Boston,202203300BOS
+6:15.0,20-17,,1,20,17,3,345.0, ,Chicago,202204020CHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Vučević (M. Strus gains possession),Chicago,202204020CHI
+6:09.0,49-43,,2,49,43,6,1071.0,Defensive rebound by B. Adebayo,Chicago,202204020CHI
 12:00.0,31-30,,2,31,30,1,720.0,Start of 2nd quarter,Chicago,202204020CHI
+6:01.0,80-70,,3,80,70,10,1799.0,Personal foul by Z. LaVine (drawn by B. Adebayo),Chicago,202204020CHI
 12:00.0,66-57,,3,66,57,9,1440.0,Start of 3rd quarter,Chicago,202204020CHI
+6:05.0,111-97,,4,111,97,14,2515.0, ,Chicago,202204020CHI
 12:00.0,98-79,,4,98,79,19,2160.0,Start of 4th quarter,Chicago,202204020CHI
 0:00.0,127-109,,4,127,109,18,2880.0,End of 4th quarter,Chicago,202204020CHI
+6:17.0,12-17,,1,12,17,-5,343.0,M. Morris makes 3-pt jump shot from 25 ft (assist by K. Lowry),Toronto,202204030TOR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. S. Barnes (G. Trent gains possession),Toronto,202204030TOR
+6:07.0,35-45,,2,35,45,-10,1073.0,B. Adebayo makes 2-pt jump shot from 8 ft (assist by K. Lowry),Toronto,202204030TOR
 12:00.0,28-34,,2,28,34,-6,720.0,Start of 2nd quarter,Toronto,202204030TOR
+6:04.0,59-64,,3,59,64,-5,1796.0,Defensive rebound by K. Lowry,Toronto,202204030TOR
 12:00.0,45-55,,3,45,55,-10,1440.0,Start of 3rd quarter,Toronto,202204030TOR
+6:08.0,93-91,Lead change,4,93,91,2,2512.0,K. Lowry makes 3-pt jump shot from 23 ft (assist by T. Herro),Toronto,202204030TOR
 12:00.0,79-78,,4,79,78,1,2160.0,Start of 4th quarter,Toronto,202204030TOR
 0:00.0,114-109,,4,114,109,5,2880.0, ,Toronto,202204030TOR
+6:05.0,18-14,,1,14,18,-4,355.0,T. Herro enters the game for J. Butler,Charlotte,202204050MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Plumlee vs. B. Adebayo (P. Tucker gains possession),Charlotte,202204050MIA
+6:02.0,49-48,Lead change,2,48,49,-1,1078.0, ,Charlotte,202204050MIA
 12:00.0,32-29,,2,29,32,-3,720.0,Start of 2nd quarter,Charlotte,202204050MIA
+6:10.0,86-86,,3,86,86,0,1790.0,Defensive rebound by B. Adebayo,Charlotte,202204050MIA
 12:00.0,60-70,,3,70,60,10,1440.0,Start of 3rd quarter,Charlotte,202204050MIA
+6:03.0,104-123,,4,123,104,19,2517.0, ,Charlotte,202204050MIA
 12:00.0,97-102,,4,102,97,5,2160.0,Start of 4th quarter,Charlotte,202204050MIA
 0:00.0,115-144,,4,144,115,29,2880.0,End of 4th quarter,Charlotte,202204050MIA
+6:04.0,10-10,,1,10,10,0,356.0,Defensive rebound by M. Strus,Atlanta,202204080MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (K. Lowry gains possession),Atlanta,202204080MIA
+6:00.0,40-41,,2,41,40,1,1080.0, ,Atlanta,202204080MIA
 12:00.0,22-24,,2,24,22,2,720.0,Start of 2nd quarter,Atlanta,202204080MIA
+6:04.0,76-71,,3,71,76,-5,1796.0, ,Atlanta,202204080MIA
 12:00.0,61-56,,3,56,61,-5,1440.0,Start of 3rd quarter,Atlanta,202204080MIA
+6:22.0,99-97,,4,97,99,-2,2498.0,B. Adebayo makes free throw 2 of 2,Atlanta,202204080MIA
 12:00.0,87-91,,4,91,87,4,2160.0,Start of 4th quarter,Atlanta,202204080MIA
 0:00.0,109-113,,4,113,109,4,2880.0,Defensive rebound by B. Adebayo,Atlanta,202204080MIA
+6:00.0,17-13,,1,17,13,4,360.0, ,Orlando,202204100ORL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Yurtseven vs. M. Bamba (R. Hampton gains possession),Orlando,202204100ORL
+6:14.0,40-51,,2,40,51,-11,1066.0,V. Oladipo makes 2-pt jump shot from 16 ft,Orlando,202204100ORL
 12:00.0,31-31,,2,31,31,0,720.0,Start of 2nd quarter,Orlando,202204100ORL
+6:04.0,75-81,,3,75,81,-6,1796.0,H. Highsmith makes 2-pt layup at rim (assist by V. Oladipo),Orlando,202204100ORL
 12:00.0,59-68,,3,59,68,-9,1440.0,Start of 3rd quarter,Orlando,202204100ORL
+6:05.0,99-112,,4,99,112,-13,2515.0, ,Orlando,202204100ORL
 12:00.0,88-101,,4,88,101,-13,2160.0,Start of 4th quarter,Orlando,202204100ORL
 0:00.0,111-125,,4,111,125,-14,2880.0,End of 4th quarter,Orlando,202204100ORL
