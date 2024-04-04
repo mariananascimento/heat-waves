@@ -1,381 +1,681 @@
 Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
+6:09.0,16-18,,1,18,16,2,351.0, ,Detroit,202310250MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Duren vs. B. Adebayo (A. Thompson gains possession),Detroit,202310250MIA
+6:07.0,35-43,,2,43,35,8,1073.0,J. Butler makes free throw 2 of 2,Detroit,202310250MIA
 12:00.0,29-26,,2,26,29,-3,720.0,Start of 2nd quarter,Detroit,202310250MIA
+6:07.0,57-70,,3,70,57,13,1793.0,C. Martin enters the game for T. Herro,Detroit,202310250MIA
 12:00.0,47-58,,3,58,47,11,1440.0,Start of 3rd quarter,Detroit,202310250MIA
+6:01.0,89-95,,4,95,89,6,2519.0, ,Detroit,202310250MIA
 12:00.0,75-83,,4,83,75,8,2160.0,Start of 4th quarter,Detroit,202310250MIA
 0:00.0,102-103,,4,103,102,1,2880.0,End of 4th quarter,Detroit,202310250MIA
+6:03.0,19-13,,1,19,13,6,357.0,T. Herro makes 3-pt jump shot from 30 ft (assist by K. Love),Boston,202310270BOS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Porziņģis (D. White gains possession),Boston,202310270BOS
+6:18.0,44-43,,2,44,43,1,1062.0, ,Boston,202310270BOS
 12:00.0,28-25,,2,28,25,3,720.0,Start of 2nd quarter,Boston,202310270BOS
+6:10.0,76-76,Tie,3,76,76,0,1790.0,B. Adebayo makes free throw 1 of 1,Boston,202310270BOS
 12:00.0,55-60,,3,55,60,-5,1440.0,Start of 3rd quarter,Boston,202310270BOS
+6:10.0,96-102,,4,96,102,-6,2510.0,Defensive rebound by J. Butler,Boston,202310270BOS
 12:00.0,88-87,,4,88,87,1,2160.0,Start of 4th quarter,Boston,202310270BOS
 0:00.0,111-119,,4,111,119,-8,2880.0,End of 4th quarter,Boston,202310270BOS
+6:16.0,16-14,,1,16,14,2,344.0,B. Adebayo makes 2-pt jump shot from 11 ft (assist by K. Lowry),Minnesota,202310280MIN
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. R. Gobert (K. Lowry gains possession),Minnesota,202310280MIN
 12:00.0,0-0,,1,0,0,0,0.0, ,Minnesota,202310280MIN
+6:06.0,44-40,,2,44,40,4,1074.0, ,Minnesota,202310280MIN
 12:00.0,31-26,,2,31,26,5,720.0,Start of 2nd quarter,Minnesota,202310280MIN
+6:16.0,65-65,Tie,3,65,65,0,1784.0,J. Jaquez makes 3-pt jump shot from 26 ft (assist by N. Jović),Minnesota,202310280MIN
 12:00.0,53-55,,3,53,55,-2,1440.0,Start of 3rd quarter,Minnesota,202310280MIN
+6:00.0,80-93,,4,80,93,-13,2520.0,B. Adebayo makes free throw 2 of 2,Minnesota,202310280MIN
 12:00.0,73-80,,4,73,80,-7,2160.0,Start of 4th quarter,Minnesota,202310280MIN
 0:00.0,90-106,,4,90,106,-16,2880.0,End of 4th quarter,Minnesota,202310280MIN
+6:02.0,15-15,Tie,1,15,15,0,358.0,T. Bryant makes free throw 2 of 2,Milwaukee,202310300MIL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Bryant vs. B. Lopez (K. Love gains possession),Milwaukee,202310300MIL
+6:16.0,38-50,,2,38,50,-12,1064.0, ,Milwaukee,202310300MIL
 12:00.0,28-28,,2,28,28,0,720.0,Start of 2nd quarter,Milwaukee,202310300MIL
+6:03.0,63-79,,3,63,79,-16,1797.0, ,Milwaukee,202310300MIL
 12:00.0,52-62,,3,52,62,-10,1440.0,Start of 3rd quarter,Milwaukee,202310300MIL
+6:08.0,93-107,,4,93,107,-14,2512.0,Personal foul by B. Lopez (drawn by D. Robinson),Milwaukee,202310300MIL
 12:00.0,73-97,,4,73,97,-24,2160.0,Start of 4th quarter,Milwaukee,202310300MIL
 0:00.0,114-122,,4,114,122,-8,2880.0,End of 4th quarter,Milwaukee,202310300MIL
+6:13.0,8-14,,1,14,8,6,347.0,J. Butler makes free throw 1 of 1,Brooklyn,202311010MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Simmons vs. B. Adebayo (K. Lowry gains possession),Brooklyn,202311010MIA
+6:08.0,36-43,,2,43,36,7,1072.0,Defensive rebound by T. Bryant,Brooklyn,202311010MIA
 12:00.0,29-32,,2,32,29,3,720.0,Start of 2nd quarter,Brooklyn,202311010MIA
+6:19.0,57-69,,3,69,57,12,1781.0,B. Adebayo makes free throw 2 of 2,Brooklyn,202311010MIA
 12:00.0,46-56,,3,56,46,10,1440.0,Start of 3rd quarter,Brooklyn,202311010MIA
+6:20.0,94-90,,4,90,94,-4,2500.0, ,Brooklyn,202311010MIA
 12:00.0,75-83,,4,83,75,8,2160.0,Start of 4th quarter,Brooklyn,202311010MIA
 0:00.0,109-105,,4,105,109,-4,2880.0,End of 4th quarter,Brooklyn,202311010MIA
+6:01.0,21-18,,1,18,21,-3,359.0, ,Washington,202311030MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Gafford vs. B. Adebayo (H. Highsmith gains possession),Washington,202311030MIA
+6:01.0,46-49,,2,49,46,3,1079.0,Defensive rebound by T. Herro,Washington,202311030MIA
 12:00.0,34-34,,2,34,34,0,720.0,Start of 2nd quarter,Washington,202311030MIA
+6:04.0,64-78,,3,78,64,14,1796.0, ,Washington,202311030MIA
 12:00.0,54-60,,3,60,54,6,1440.0,Start of 3rd quarter,Washington,202311030MIA
+6:08.0,93-115,,4,115,93,22,2512.0, ,Washington,202311030MIA
 12:00.0,81-101,,4,101,81,20,2160.0,Start of 4th quarter,Washington,202311030MIA
 0:00.0,114-121,,4,121,114,7,2880.0,End of 4th quarter,Washington,202311030MIA
+6:13.0,19-16,,1,16,19,-3,347.0,J. Butler makes 2-pt jump shot from 14 ft,LA Lakers,202311060MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Davis vs. B. Adebayo (K. Lowry gains possession),LA Lakers,202311060MIA
+6:08.0,45-47,,2,47,45,2,1072.0, ,LA Lakers,202311060MIA
 12:00.0,33-33,,2,33,33,0,720.0,Start of 2nd quarter,LA Lakers,202311060MIA
+6:01.0,74-75,,3,75,74,1,1799.0,T. Herro misses 3-pt jump shot from 26 ft,LA Lakers,202311060MIA
 12:00.0,59-62,,3,62,59,3,1440.0,Start of 3rd quarter,LA Lakers,202311060MIA
+6:24.0,94-100,,4,100,94,6,2496.0, ,LA Lakers,202311060MIA
 12:00.0,79-90,,4,90,79,11,2160.0,Start of 4th quarter,LA Lakers,202311060MIA
 0:00.0,107-108,,4,108,107,1,2880.0,End of 4th quarter,LA Lakers,202311060MIA
+6:00.0,20-13,,1,20,13,7,360.0, ,Memphis,202311080MEM
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Jackson (T. Herro gains possession),Memphis,202311080MEM
+6:02.0,43-38,,2,43,38,5,1078.0, ,Memphis,202311080MEM
 12:00.0,33-26,,2,33,26,7,720.0,Start of 2nd quarter,Memphis,202311080MEM
+6:00.0,71-64,,3,71,64,7,1800.0, ,Memphis,202311080MEM
 12:00.0,54-46,,3,54,46,8,1440.0,Start of 3rd quarter,Memphis,202311080MEM
+6:11.0,94-86,,4,94,86,8,2509.0,K. Lowry makes 3-pt jump shot from 26 ft (assist by J. Jaquez),Memphis,202311080MEM
 12:00.0,77-76,,4,77,76,1,2160.0,Start of 4th quarter,Memphis,202311080MEM
 0:00.0,108-102,,4,108,102,6,2880.0,End of 4th quarter,Memphis,202311080MEM
+6:07.0,18-9,,1,18,9,9,353.0,J. Jaquez makes 2-pt layup from 2 ft (assist by B. Adebayo),Atlanta,202311110ATL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. C. Capela (K. Lowry gains possession),Atlanta,202311110ATL
+6:00.0,54-33,,2,54,33,21,1080.0, ,Atlanta,202311110ATL
 12:00.0,41-24,,2,41,24,17,720.0,Start of 2nd quarter,Atlanta,202311110ATL
+6:18.0,74-67,,3,74,67,7,1782.0, ,Atlanta,202311110ATL
 12:00.0,63-52,,3,63,52,11,1440.0,Start of 3rd quarter,Atlanta,202311110ATL
+6:09.0,106-94,,4,106,94,12,2511.0, ,Atlanta,202311110ATL
 12:00.0,93-82,,4,93,82,11,2160.0,Start of 4th quarter,Atlanta,202311110ATL
 0:00.0,117-109,,4,117,109,8,2880.0,End of 4th quarter,Atlanta,202311110ATL
+6:09.0,7-13,,1,7,13,-6,351.0,K. Love enters the game for D. Robinson,San Antonio,202311120SAS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. V. Wembanyama (J. Richardson gains possession),San Antonio,202311120SAS
+6:06.0,34-42,,2,34,42,-8,1074.0, ,San Antonio,202311120SAS
 12:00.0,15-29,,2,15,29,-14,720.0,Start of 2nd quarter,San Antonio,202311120SAS
+6:09.0,59-69,,3,59,69,-10,1791.0, ,San Antonio,202311120SAS
 12:00.0,50-53,,3,50,53,-3,1440.0,Start of 3rd quarter,San Antonio,202311120SAS
+6:06.0,96-103,,4,96,103,-7,2514.0,Defensive rebound by J. Jaquez,San Antonio,202311120SAS
 12:00.0,82-84,,4,82,84,-2,2160.0,Start of 4th quarter,San Antonio,202311120SAS
 0:00.0,118-113,,4,118,113,5,2880.0,End of 4th quarter,San Antonio,202311120SAS
+6:05.0,13-19,,1,13,19,-6,355.0,J. Butler makes 2-pt jump shot from 10 ft (assist by D. Robinson),Charlotte,202311140CHO
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Williams (K. Lowry gains possession),Charlotte,202311140CHO
+6:02.0,38-38,Tie,2,38,38,0,1078.0, ,Charlotte,202311140CHO
 12:00.0,24-32,,2,24,32,-8,720.0,Start of 2nd quarter,Charlotte,202311140CHO
+6:04.0,74-64,,3,74,64,10,1796.0, ,Charlotte,202311140CHO
 12:00.0,57-48,,3,57,48,9,1440.0,Start of 3rd quarter,Charlotte,202311140CHO
+6:17.0,97-93,,4,97,93,4,2503.0, ,Charlotte,202311140CHO
 12:00.0,87-80,,4,87,80,7,2160.0,Start of 4th quarter,Charlotte,202311140CHO
 0:00.0,111-105,,4,111,105,6,2880.0,End of 4th quarter,Charlotte,202311140CHO
+6:13.0,13-9,,1,9,13,-4,347.0,B. Adebayo makes 2-pt jump shot from 16 ft,Brooklyn,202311160MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Claxton vs. B. Adebayo (S. Dinwiddie gains possession),Brooklyn,202311160MIA
+6:05.0,47-43,,2,43,47,-4,1075.0,K. Lowry enters the game for D. Robinson,Brooklyn,202311160MIA
 12:00.0,27-30,,2,30,27,3,720.0,Start of 2nd quarter,Brooklyn,202311160MIA
+6:04.0,64-73,,3,73,64,9,1796.0,Loose ball foul by K. Lowry (drawn by D. Sharpe),Brooklyn,202311160MIA
 12:00.0,52-60,,3,60,52,8,1440.0,Start of 3rd quarter,Brooklyn,202311160MIA
+6:06.0,99-113,,4,113,99,14,2514.0, ,Brooklyn,202311160MIA
 12:00.0,83-95,,4,95,83,12,2160.0,Start of 4th quarter,Brooklyn,202311160MIA
 0:00.0,115-122,,4,122,115,7,2880.0,End of 4th quarter,Brooklyn,202311160MIA
+6:09.0,20-1,,1,20,1,19,351.0,Defensive rebound by B. Adebayo,Chicago,202311180CHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Vučević (J. Butler gains possession),Chicago,202311180CHI
+6:14.0,35-28,,2,35,28,7,1066.0, ,Chicago,202311180CHI
 12:00.0,26-14,,2,26,14,12,720.0,Start of 2nd quarter,Chicago,202311180CHI
+6:21.0,62-53,,3,62,53,9,1779.0,Turnover by H. Highsmith (dbl dribble),Chicago,202311180CHI
 12:00.0,50-40,,3,50,40,10,1440.0,Start of 3rd quarter,Chicago,202311180CHI
+6:01.0,87-81,,4,87,81,6,2519.0,Defensive rebound by J. Jaquez,Chicago,202311180CHI
 12:00.0,76-68,,4,76,68,8,2160.0,Start of 4th quarter,Chicago,202311180CHI
 0:00.0,97-102,,4,97,102,-5,2880.0,End of 4th quarter,Chicago,202311180CHI
+6:08.0,19-15,,1,19,15,4,352.0,B. Adebayo makes free throw 2 of 2,Chicago,202311200CHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Vučević (J. Butler gains possession),Chicago,202311200CHI
+6:01.0,47-44,,2,47,44,3,1079.0,K. Love enters the game for D. Robinson,Chicago,202311200CHI
 12:00.0,33-27,,2,33,27,6,720.0,Start of 2nd quarter,Chicago,202311200CHI
+6:01.0,80-74,,3,80,74,6,1799.0, ,Chicago,202311200CHI
 12:00.0,65-53,,3,65,53,12,1440.0,Start of 3rd quarter,Chicago,202311200CHI
+6:05.0,106-90,,4,106,90,16,2515.0, ,Chicago,202311200CHI
 12:00.0,93-81,,4,93,81,12,2160.0,Start of 4th quarter,Chicago,202311200CHI
 0:00.0,118-100,,4,118,100,18,2880.0,End of 4th quarter,Chicago,202311200CHI
+6:00.0,19-11,,1,19,11,8,360.0, ,Cleveland,202311220CLE
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Bryant vs. J. Allen (D. Garland gains possession),Cleveland,202311220CLE
+6:12.0,54-41,,2,54,41,13,1068.0,J. Butler makes 2-pt jump shot from 21 ft,Cleveland,202311220CLE
 12:00.0,37-26,,2,37,26,11,720.0,Start of 2nd quarter,Cleveland,202311220CLE
+6:16.0,85-62,,3,85,62,23,1784.0,D. Robinson makes 2-pt layup from 2 ft (assist by K. Lowry),Cleveland,202311220CLE
 12:00.0,69-55,,3,69,55,14,1440.0,Start of 3rd quarter,Cleveland,202311220CLE
+6:18.0,113-86,,4,113,86,27,2502.0, ,Cleveland,202311220CLE
 12:00.0,101-79,,4,101,79,22,2160.0,Start of 4th quarter,Cleveland,202311220CLE
 0:00.0,129-96,,4,129,96,33,2880.0,End of 4th quarter,Cleveland,202311220CLE
+6:03.0,14-12,Lead change,1,14,12,2,357.0,B. Adebayo makes 2-pt layup from 1 ft (assist by J. Richardson),New York,202311240NYK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Robinson (K. Lowry gains possession),New York,202311240NYK
+6:05.0,37-35,,2,37,35,2,1075.0, ,New York,202311240NYK
 12:00.0,28-25,,2,28,25,3,720.0,Start of 2nd quarter,New York,202311240NYK
+6:20.0,69-56,,3,69,56,13,1780.0,Miami full timeout,New York,202311240NYK
 12:00.0,50-51,,3,50,51,-1,1440.0,Start of 3rd quarter,New York,202311240NYK
+6:05.0,93-82,,4,93,82,11,2515.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by J. Jaquez),New York,202311240NYK
 12:00.0,87-71,,4,87,71,16,2160.0,Start of 4th quarter,New York,202311240NYK
 0:00.0,98-100,,4,98,100,-2,2880.0,End of 4th quarter,New York,202311240NYK
+6:04.0,5-16,,1,5,16,-11,356.0,Defensive rebound by J. Richardson,Brooklyn,202311250BRK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Bryant vs. N. Claxton (C. Johnson gains possession),Brooklyn,202311250BRK
+6:03.0,41-46,,2,41,46,-5,1077.0, ,Brooklyn,202311250BRK
 12:00.0,22-26,,2,22,26,-4,720.0,Start of 2nd quarter,Brooklyn,202311250BRK
+6:09.0,64-78,,3,64,78,-14,1791.0,C. Martin makes 2-pt layup from 4 ft,Brooklyn,202311250BRK
 12:00.0,53-63,,3,53,63,-10,1440.0,Start of 3rd quarter,Brooklyn,202311250BRK
+6:00.0,83-99,,4,83,99,-16,2520.0, ,Brooklyn,202311250BRK
 12:00.0,76-90,,4,76,90,-14,2160.0,Start of 4th quarter,Brooklyn,202311250BRK
 0:00.0,97-112,,4,97,112,-15,2880.0,End of 4th quarter,Brooklyn,202311250BRK
+6:02.0,15-7,,1,7,15,-8,358.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by K. Lowry),Milwaukee,202311280MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Lopez vs. B. Adebayo (G. Antetokounmpo gains possession),Milwaukee,202311280MIA
+6:10.0,41-44,Lead change,2,44,41,3,1070.0,J. Cain makes 3-pt jump shot from 23 ft (assist by J. Jaquez),Milwaukee,202311280MIA
 12:00.0,31-22,,2,22,31,-9,720.0,Start of 2nd quarter,Milwaukee,202311280MIA
+6:03.0,80-78,,3,78,80,-2,1797.0,B. Adebayo makes 2-pt layup from 2 ft (assist by J. Richardson),Milwaukee,202311280MIA
 12:00.0,59-62,,3,62,59,3,1440.0,Start of 3rd quarter,Milwaukee,202311280MIA
+6:18.0,110-108,,4,108,110,-2,2502.0, ,Milwaukee,202311280MIA
 12:00.0,93-97,,4,97,93,4,2160.0,Start of 4th quarter,Milwaukee,202311280MIA
 0:00.0,131-124,,4,124,131,-7,2880.0,End of 4th quarter,Milwaukee,202311280MIA
+6:08.0,22-14,,1,14,22,-8,352.0, ,Indiana,202311300MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. B. Adebayo (J. Butler gains possession),Indiana,202311300MIA
+6:01.0,48-45,,2,45,48,-3,1079.0,Loose ball foul by K. Lowry (drawn by B. Brown),Indiana,202311300MIA
 12:00.0,38-33,,2,33,38,-5,720.0,Start of 2nd quarter,Indiana,202311300MIA
+6:04.0,92-84,,3,84,92,-8,1796.0,J. Butler makes 2-pt dunk from 2 ft (assist by K. Love),Indiana,202311300MIA
 12:00.0,73-64,,3,64,73,-9,1440.0,Start of 3rd quarter,Indiana,202311300MIA
+6:01.0,107-116,,4,116,107,9,2519.0,J. Butler misses 2-pt jump shot from 6 ft,Indiana,202311300MIA
 12:00.0,100-97,,4,97,100,-3,2160.0,Start of 4th quarter,Indiana,202311300MIA
 0:00.0,132-142,,4,142,132,10,2880.0,End of 4th quarter,Indiana,202311300MIA
+6:08.0,7-11,,1,11,7,4,352.0,K. Love enters the game for O. Robinson,Indiana,202312020MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. O. Robinson (O. Toppin gains possession),Indiana,202312020MIA
+6:08.0,43-49,,2,49,43,6,1072.0,J. Butler makes free throw 2 of 2,Indiana,202312020MIA
 12:00.0,25-31,,2,31,25,6,720.0,Start of 2nd quarter,Indiana,202312020MIA
+6:05.0,84-77,,3,77,84,-7,1795.0,Turnover by C. Martin (bad pass),Indiana,202312020MIA
 12:00.0,65-65,,3,65,65,0,1440.0,Start of 3rd quarter,Indiana,202312020MIA
+6:12.0,125-113,,4,113,125,-12,2508.0, ,Indiana,202312020MIA
 12:00.0,106-98,,4,98,106,-8,2160.0,Start of 4th quarter,Indiana,202312020MIA
 0:00.0,144-129,,4,129,144,-15,2880.0,End of 4th quarter,Indiana,202312020MIA
+6:02.0,20-7,,1,20,7,13,358.0,Defensive rebound by C. Martin,Toronto,202312060TOR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Robinson vs. J. Poeltl (S. Barnes gains possession),Toronto,202312060TOR
+6:02.0,51-48,,2,51,48,3,1078.0,Defensive rebound by N. Jović,Toronto,202312060TOR
 12:00.0,37-32,,2,37,32,5,720.0,Start of 2nd quarter,Toronto,202312060TOR
+6:09.0,78-66,,3,78,66,12,1791.0, ,Toronto,202312060TOR
 12:00.0,64-66,,3,64,66,-2,1440.0,Start of 3rd quarter,Toronto,202312060TOR
+6:18.0,97-89,,4,97,89,8,2502.0, ,Toronto,202312060TOR
 12:00.0,87-84,,4,87,84,3,2160.0,Start of 4th quarter,Toronto,202312060TOR
 0:00.0,112-103,,4,112,103,9,2880.0,End of 4th quarter,Toronto,202312060TOR
+6:00.0,10-8,,1,8,10,-2,360.0,J. Butler misses 2-pt layup from 4 ft,Cleveland,202312080MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. O. Robinson (M. Strus gains possession),Cleveland,202312080MIA
+6:04.0,34-39,,2,39,34,5,1076.0, ,Cleveland,202312080MIA
 12:00.0,17-25,,2,25,17,8,720.0,Start of 2nd quarter,Cleveland,202312080MIA
+6:06.0,74-59,,3,59,74,-15,1794.0, ,Cleveland,202312080MIA
 12:00.0,53-52,,3,52,53,-1,1440.0,Start of 3rd quarter,Cleveland,202312080MIA
+6:08.0,98-88,,4,88,98,-10,2512.0, ,Cleveland,202312080MIA
 12:00.0,88-75,,4,75,88,-13,2160.0,Start of 4th quarter,Cleveland,202312080MIA
 0:00.0,111-99,,4,99,111,-12,2880.0,End of 4th quarter,Cleveland,202312080MIA
+6:07.0,15-6,,1,15,6,9,353.0,D. Robinson makes 3-pt jump shot from 25 ft (assist by J. Butler),Charlotte,202312110CHO
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Robinson vs. N. Richards (T. Rozier gains possession),Charlotte,202312110CHO
+6:03.0,42-35,,2,42,35,7,1077.0,Defensive rebound by T. Bryant,Charlotte,202312110CHO
 12:00.0,29-24,,2,29,24,5,720.0,Start of 2nd quarter,Charlotte,202312110CHO
+6:01.0,76-64,,3,76,64,12,1799.0,Defensive rebound by O. Robinson,Charlotte,202312110CHO
 12:00.0,59-50,,3,59,50,9,1440.0,Start of 3rd quarter,Charlotte,202312110CHO
+6:05.0,98-97,,4,98,97,1,2515.0, ,Charlotte,202312110CHO
 12:00.0,89-77,,4,89,77,12,2160.0,Start of 4th quarter,Charlotte,202312110CHO
 0:00.0,116-114,,4,116,114,2,2880.0,End of 4th quarter,Charlotte,202312110CHO
+6:18.0,16-12,,1,12,16,-4,342.0, ,Charlotte,202312130MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Richards vs. O. Robinson (T. Rozier gains possession),Charlotte,202312130MIA
+6:06.0,37-37,,2,37,37,0,1074.0,K. Lowry enters the game for J. Cain,Charlotte,202312130MIA
 12:00.0,23-22,,2,22,23,-1,720.0,Start of 2nd quarter,Charlotte,202312130MIA
+6:01.0,57-72,,3,72,57,15,1799.0, ,Charlotte,202312130MIA
 12:00.0,45-56,,3,56,45,11,1440.0,Start of 3rd quarter,Charlotte,202312130MIA
+6:02.0,85-101,,4,101,85,16,2518.0, ,Charlotte,202312130MIA
 12:00.0,70-91,,4,91,70,21,2160.0,Start of 4th quarter,Charlotte,202312130MIA
 0:00.0,104-115,,4,115,104,11,2880.0,End of 4th quarter,Charlotte,202312130MIA
+6:16.0,21-5,,1,5,21,-16,344.0,J. Jaquez enters the game for D. Robinson,Chicago,202312140MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. O. Robinson (C. White gains possession),Chicago,202312140MIA
+6:11.0,53-38,,2,38,53,-15,1069.0,D. Robinson makes 3-pt jump shot from 24 ft (assist by K. Lowry),Chicago,202312140MIA
 12:00.0,36-22,,2,22,36,-14,720.0,Start of 2nd quarter,Chicago,202312140MIA
+6:05.0,73-67,,3,67,73,-6,1795.0,Defensive rebound by K. Love,Chicago,202312140MIA
 12:00.0,60-56,,3,56,60,-4,1440.0,Start of 3rd quarter,Chicago,202312140MIA
+6:02.0,110-101,,4,101,110,-9,2518.0, ,Chicago,202312140MIA
 12:00.0,93-88,,4,88,93,-5,2160.0,Start of 4th quarter,Chicago,202312140MIA
 0:00.0,124-116,,4,116,124,-8,2880.0,End of 4th quarter,Chicago,202312140MIA
+6:06.0,10-13,,1,13,10,3,354.0,K. Love enters the game for O. Robinson,Chicago,202312160MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. O. Robinson (C. White gains possession),Chicago,202312160MIA
+6:10.0,38-44,,2,44,38,6,1070.0,J. Richardson makes 2-pt jump shot from 7 ft (assist by K. Lowry),Chicago,202312160MIA
 12:00.0,24-36,,2,36,24,12,720.0,Start of 2nd quarter,Chicago,202312160MIA
+6:07.0,72-67,,3,67,72,-5,1793.0, ,Chicago,202312160MIA
 12:00.0,57-58,,3,58,57,1,1440.0,Start of 3rd quarter,Chicago,202312160MIA
+6:19.0,104-104,Tie,4,104,104,0,2501.0, ,Chicago,202312160MIA
 12:00.0,80-91,,4,91,80,11,2160.0,Start of 4th quarter,Chicago,202312160MIA
 0:00.0,116-118,,4,118,116,2,2880.0,End of 4th quarter,Chicago,202312160MIA
+6:00.0,10-15,,1,15,10,5,360.0,B. Adebayo makes free throw 1 of 1,Minnesota,202312180MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: R. Gobert vs. B. Adebayo (J. Butler gains possession),Minnesota,202312180MIA
+6:15.0,38-51,,2,51,38,13,1065.0,D. Robinson makes 2-pt layup from 1 ft (assist by B. Adebayo),Minnesota,202312180MIA
 12:00.0,22-33,,2,33,22,11,720.0,Start of 2nd quarter,Minnesota,202312180MIA
+6:09.0,64-73,,3,73,64,9,1791.0, ,Minnesota,202312180MIA
 12:00.0,54-66,,3,66,54,12,1440.0,Start of 3rd quarter,Minnesota,202312180MIA
+6:03.0,93-91,,4,91,93,-2,2517.0,Defensive rebound by B. Adebayo,Minnesota,202312180MIA
 12:00.0,77-83,,4,83,77,6,2160.0,Start of 4th quarter,Minnesota,202312180MIA
 0:00.0,112-108,,4,108,112,-4,2880.0,End of 4th quarter,Minnesota,202312180MIA
+6:07.0,13-12,,1,13,12,1,353.0, ,Orlando,202312200ORL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. W. Carter (K. Lowry gains possession),Orlando,202312200ORL
+6:00.0,41-38,,2,41,38,3,1080.0,D. Robinson makes free throw 3 of 3,Orlando,202312200ORL
 12:00.0,25-24,,2,25,24,1,720.0,Start of 2nd quarter,Orlando,202312200ORL
+6:01.0,79-59,,3,79,59,20,1799.0, ,Orlando,202312200ORL
 12:00.0,68-50,,3,68,50,18,1440.0,Start of 3rd quarter,Orlando,202312200ORL
+6:09.0,103-80,,4,103,80,23,2511.0,T. Herro makes 3-pt jump shot from 26 ft,Orlando,202312200ORL
 12:00.0,89-72,,4,89,72,17,2160.0,Start of 4th quarter,Orlando,202312200ORL
 0:00.0,115-106,,4,115,106,9,2880.0,End of 4th quarter,Orlando,202312200ORL
+6:00.0,11-20,,1,20,11,9,360.0,T. Herro makes 3-pt jump shot from 25 ft (assist by C. Martin),Atlanta,202312220MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (K. Lowry gains possession),Atlanta,202312220MIA
+6:09.0,46-49,,2,49,46,3,1071.0, ,Atlanta,202312220MIA
 12:00.0,26-33,,2,33,26,7,720.0,Start of 2nd quarter,Atlanta,202312220MIA
+6:13.0,73-70,,3,70,73,-3,1787.0,K. Love makes free throw 2 of 2,Atlanta,202312220MIA
 12:00.0,60-62,,3,62,60,2,1440.0,Start of 3rd quarter,Atlanta,202312220MIA
+6:02.0,98-104,,4,104,98,6,2518.0, ,Atlanta,202312220MIA
 12:00.0,86-88,,4,88,86,2,2160.0,Start of 4th quarter,Atlanta,202312220MIA
 0:00.0,113-122,,4,122,113,9,2880.0,End of 4th quarter,Atlanta,202312220MIA
+6:01.0,18-10,,1,10,18,-8,359.0,Defensive rebound by C. Martin,Philadelphia,202312250MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: P. Reed vs. B. Adebayo (K. Oubre gains possession),Philadelphia,202312250MIA
+6:16.0,33-45,,2,45,33,12,1064.0,T. Herro makes 3-pt jump shot from 24 ft (assist by K. Love),Philadelphia,202312250MIA
 12:00.0,22-26,,2,26,22,4,720.0,Start of 2nd quarter,Philadelphia,202312250MIA
+6:12.0,64-74,,3,74,64,10,1788.0, ,Philadelphia,202312250MIA
 12:00.0,49-63,,3,63,49,14,1440.0,Start of 3rd quarter,Philadelphia,202312250MIA
+6:13.0,99-99,Tie,4,99,99,0,2507.0, ,Philadelphia,202312250MIA
 12:00.0,86-86,,4,86,86,0,2160.0,Start of 4th quarter,Philadelphia,202312250MIA
 0:00.0,113-119,,4,119,113,6,2880.0,End of 4th quarter,Philadelphia,202312250MIA
+6:09.0,17-9,,1,17,9,8,351.0,Offensive rebound by R. Hampton,Golden State,202312280GSW
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Looney (T. Herro gains possession),Golden State,202312280GSW
+6:08.0,38-34,,2,38,34,4,1072.0, ,Golden State,202312280GSW
 12:00.0,22-25,,2,22,25,-3,720.0,Start of 2nd quarter,Golden State,202312280GSW
+6:01.0,78-68,,3,78,68,10,1799.0,T. Herro makes 3-pt jump shot from 26 ft,Golden State,202312280GSW
 12:00.0,58-51,,3,58,51,7,1440.0,Start of 3rd quarter,Golden State,202312280GSW
+6:00.0,102-82,,4,102,82,20,2520.0, ,Golden State,202312280GSW
 12:00.0,91-76,,4,91,76,15,2160.0,Start of 4th quarter,Golden State,202312280GSW
 0:00.0,114-102,,4,114,102,12,2880.0,End of 4th quarter,Golden State,202312280GSW
+6:08.0,13-15,,1,13,15,-2,352.0,T. Herro makes 2-pt jump shot from 10 ft,Utah,202312300UTA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Collins (J. Butler gains possession),Utah,202312300UTA
+6:04.0,41-37,,2,41,37,4,1076.0,Turnover by H. Highsmith (lost ball; steal by C. Sexton),Utah,202312300UTA
 12:00.0,28-27,,2,28,27,1,720.0,Start of 2nd quarter,Utah,202312300UTA
+6:01.0,73-67,,3,73,67,6,1799.0,B. Adebayo makes free throw 2 of 2,Utah,202312300UTA
 12:00.0,53-54,,3,53,54,-1,1440.0,Start of 3rd quarter,Utah,202312300UTA
+6:17.0,97-100,,4,97,100,-3,2503.0, ,Utah,202312300UTA
 12:00.0,88-88,,4,88,88,0,2160.0,Start of 4th quarter,Utah,202312300UTA
 0:00.0,109-117,,4,109,117,-8,2880.0,End of 4th quarter,Utah,202312300UTA
+6:11.0,11-12,Lead change,1,11,12,-1,349.0, ,LA Clippers,202401010LAC
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. I. Zubac (K. Lowry gains possession),LA Clippers,202401010LAC
+6:04.0,46-38,,2,46,38,8,1076.0, ,LA Clippers,202401010LAC
 12:00.0,35-23,,2,35,23,12,720.0,Start of 2nd quarter,LA Clippers,202401010LAC
+6:02.0,68-75,,3,68,75,-7,1798.0, ,LA Clippers,202401010LAC
 12:00.0,58-59,,3,58,59,-1,1440.0,Start of 3rd quarter,LA Clippers,202401010LAC
+6:16.0,94-110,,4,94,110,-16,2504.0, ,LA Clippers,202401010LAC
 12:00.0,85-95,,4,85,95,-10,2160.0,Start of 4th quarter,LA Clippers,202401010LAC
 0:00.0,104-121,,4,104,121,-17,2880.0,End of 4th quarter,LA Clippers,202401010LAC
+6:12.0,12-9,,1,12,9,3,348.0, ,LA Lakers,202401030LAL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. A. Davis (K. Lowry gains possession),LA Lakers,202401030LAL
+6:02.0,37-27,,2,37,27,10,1078.0,N. Jović makes 2-pt layup from 2 ft (assist by K. Lowry),LA Lakers,202401030LAL
 12:00.0,25-18,,2,25,18,7,720.0,Start of 2nd quarter,LA Lakers,202401030LAL
+6:01.0,64-55,,3,64,55,9,1799.0, ,LA Lakers,202401030LAL
 12:00.0,53-45,,3,53,45,8,1440.0,Start of 3rd quarter,LA Lakers,202401030LAL
+6:08.0,93-82,,4,93,82,11,2512.0, ,LA Lakers,202401030LAL
 12:00.0,72-67,,4,72,67,5,2160.0,Start of 4th quarter,LA Lakers,202401030LAL
 0:00.0,110-96,,4,110,96,14,2880.0,End of 4th quarter,LA Lakers,202401030LAL
+6:13.0,12-16,,1,12,16,-4,347.0, ,Phoenix,202401050PHO
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Nurkić (N. Jović gains possession),Phoenix,202401050PHO
+6:00.0,43-46,,2,43,46,-3,1080.0,J. Richardson misses 3-pt jump shot from 25 ft,Phoenix,202401050PHO
 12:00.0,29-33,,2,29,33,-4,720.0,Start of 2nd quarter,Phoenix,202401050PHO
 12:00.0,29-33,,2,29,33,-4,720.0, ,Phoenix,202401050PHO
+6:11.0,65-83,,3,65,83,-18,1789.0, ,Phoenix,202401050PHO
 12:00.0,55-62,,3,55,62,-7,1440.0,Start of 3rd quarter,Phoenix,202401050PHO
+6:04.0,85-101,,4,85,101,-16,2516.0,Defensive rebound by T. Herro,Phoenix,202401050PHO
 12:00.0,75-94,,4,75,94,-19,2160.0,Start of 4th quarter,Phoenix,202401050PHO
 0:00.0,97-113,,4,97,113,-16,2880.0,End of 4th quarter,Phoenix,202401050PHO
+6:01.0,11-12,,1,12,11,1,359.0, ,Houston,202401080MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Sengun vs. B. Adebayo (T. Herro gains possession),Houston,202401080MIA
+6:04.0,39-48,,2,48,39,9,1076.0,K. Love enters the game for J. Jaquez,Houston,202401080MIA
 12:00.0,27-34,,2,34,27,7,720.0,Start of 2nd quarter,Houston,202401080MIA
+6:04.0,71-75,,3,75,71,4,1796.0, ,Houston,202401080MIA
 12:00.0,59-59,,3,59,59,0,1440.0,Start of 3rd quarter,Houston,202401080MIA
+6:01.0,97-110,,4,110,97,13,2519.0,J. Jaquez makes free throw 2 of 2,Houston,202401080MIA
 12:00.0,82-91,,4,91,82,9,2160.0,Start of 4th quarter,Houston,202401080MIA
 0:00.0,113-120,,4,120,113,7,2880.0,End of 4th quarter,Houston,202401080MIA
+6:02.0,13-21,,1,21,13,8,358.0, ,Oklahoma City,202401100MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Holmgren vs. B. Adebayo (H. Highsmith gains possession),Oklahoma City,202401100MIA
+6:10.0,50-53,,2,53,50,3,1070.0, ,Oklahoma City,202401100MIA
 12:00.0,29-35,,2,35,29,6,720.0,Start of 2nd quarter,Oklahoma City,202401100MIA
+6:09.0,86-79,,3,79,86,-7,1791.0, ,Oklahoma City,202401100MIA
 12:00.0,65-69,,3,69,65,4,1440.0,Start of 3rd quarter,Oklahoma City,202401100MIA
+6:09.0,112-103,,4,103,112,-9,2511.0, ,Oklahoma City,202401100MIA
 12:00.0,99-96,,4,96,99,-3,2160.0,Start of 4th quarter,Oklahoma City,202401100MIA
 0:00.0,128-120,,4,120,128,-8,2880.0,End of 4th quarter,Oklahoma City,202401100MIA
+6:06.0,14-15,,1,15,14,1,354.0, ,Orlando,202401120MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Bitadze vs. B. Adebayo (H. Highsmith gains possession),Orlando,202401120MIA
+6:13.0,35-43,,2,43,35,8,1067.0,J. Jaquez makes 2-pt layup from 7 ft,Orlando,202401120MIA
 12:00.0,22-30,,2,30,22,8,720.0,Start of 2nd quarter,Orlando,202401120MIA
+6:00.0,60-69,,3,69,60,9,1800.0, ,Orlando,202401120MIA
 12:00.0,55-56,,3,56,55,1,1440.0,Start of 3rd quarter,Orlando,202401120MIA
+6:02.0,86-88,,4,88,86,2,2518.0,Defensive rebound by J. Jaquez,Orlando,202401120MIA
 12:00.0,73-75,,4,75,73,2,2160.0,Start of 4th quarter,Orlando,202401120MIA
 0:00.0,96-99,,4,99,96,3,2880.0,End of 4th quarter,Orlando,202401120MIA
+6:03.0,6-11,,1,11,6,5,357.0, ,Charlotte,202401140MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Richards vs. B. Adebayo (N. Jović gains possession),Charlotte,202401140MIA
+6:03.0,23-38,,2,38,23,15,1077.0,N. Jović enters the game for J. Richardson,Charlotte,202401140MIA
 12:00.0,16-26,,2,26,16,10,720.0,Start of 2nd quarter,Charlotte,202401140MIA
+6:06.0,52-67,,3,67,52,15,1794.0,T. Herro makes free throw 1 of 1,Charlotte,202401140MIA
 12:00.0,31-52,,3,52,31,21,1440.0,Start of 3rd quarter,Charlotte,202401140MIA
+6:09.0,72-95,,4,95,72,23,2511.0, ,Charlotte,202401140MIA
 12:00.0,61-77,,4,77,61,16,2160.0,Start of 4th quarter,Charlotte,202401140MIA
 0:00.0,87-104,,4,104,87,17,2880.0,End of 4th quarter,Charlotte,202401140MIA
+6:10.0,8-5,,1,8,5,3,350.0, ,Brooklyn,202401150BRK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Claxton (S. Dinwiddie gains possession),Brooklyn,202401150BRK
+6:12.0,21-35,,2,21,35,-14,1068.0,Defensive rebound by D. Robinson,Brooklyn,202401150BRK
 12:00.0,16-22,,2,16,22,-6,720.0,Start of 2nd quarter,Brooklyn,202401150BRK
+6:00.0,48-50,,3,48,50,-2,1800.0,N. Jović makes 3-pt jump shot from 26 ft (assist by K. Lowry),Brooklyn,202401150BRK
 12:00.0,31-45,,3,31,45,-14,1440.0,Start of 3rd quarter,Brooklyn,202401150BRK
+6:15.0,79-74,,4,79,74,5,2505.0,J. Butler makes 2-pt layup from 2 ft,Brooklyn,202401150BRK
 12:00.0,68-69,,4,68,69,-1,2160.0,Start of 4th quarter,Brooklyn,202401150BRK
 0:00.0,96-95,,5,96,95,1,3600.0,End of 1st overtime,Brooklyn,202401150BRK
+6:02.0,11-22,,1,11,22,-11,358.0, ,Toronto,202401170TOR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. S. Barnes (K. Lowry gains possession),Toronto,202401170TOR
+6:11.0,30-62,,2,30,62,-32,1069.0,C. Martin makes free throw 2 of 2,Toronto,202401170TOR
 12:00.0,18-41,,2,18,41,-23,720.0,Start of 2nd quarter,Toronto,202401170TOR
+6:20.0,61-82,,3,61,82,-21,1780.0,T. Herro makes 2-pt jump shot from 8 ft,Toronto,202401170TOR
 12:00.0,43-78,,3,43,78,-35,1440.0,Start of 3rd quarter,Toronto,202401170TOR
+6:00.0,88-106,,4,88,106,-18,2520.0, ,Toronto,202401170TOR
 12:00.0,73-94,,4,73,94,-21,2160.0,Start of 4th quarter,Toronto,202401170TOR
 0:00.0,97-121,,4,97,121,-24,2880.0,End of 4th quarter,Toronto,202401170TOR
+6:06.0,15-11,,1,11,15,-4,354.0,B. Adebayo makes 2-pt jump shot from 8 ft,Atlanta,202401190MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (D. Murray gains possession),Atlanta,202401190MIA
+6:11.0,36-34,,2,34,36,-2,1069.0, ,Atlanta,202401190MIA
 12:00.0,32-24,,2,24,32,-8,720.0,Start of 2nd quarter,Atlanta,202401190MIA
+6:02.0,70-77,,3,77,70,7,1798.0, ,Atlanta,202401190MIA
 12:00.0,57-56,,3,56,57,-1,1440.0,Start of 3rd quarter,Atlanta,202401190MIA
+6:00.0,92-93,,4,93,92,1,2520.0, ,Atlanta,202401190MIA
 12:00.0,81-83,,4,83,81,2,2160.0,Start of 4th quarter,Atlanta,202401190MIA
 0:00.0,109-108,,4,108,109,-1,2880.0,End of 4th quarter,Atlanta,202401190MIA
+6:13.0,10-10,Tie,1,10,10,0,347.0, ,Orlando,202401210ORL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. W. Carter (T. Herro gains possession),Orlando,202401210ORL
+6:06.0,29-36,,2,29,36,-7,1074.0,Turnover by B. Adebayo (bad pass; steal by C. Anthony),Orlando,202401210ORL
 12:00.0,19-22,,2,19,22,-3,720.0,Start of 2nd quarter,Orlando,202401210ORL
+6:07.0,58-66,,3,58,66,-8,1793.0,J. Butler makes 2-pt layup from 2 ft (assist by B. Adebayo),Orlando,202401210ORL
 12:00.0,46-48,,3,46,48,-2,1440.0,Start of 3rd quarter,Orlando,202401210ORL
+6:23.0,78-100,,4,78,100,-22,2497.0,J. Butler enters the game for D. Robinson,Orlando,202401210ORL
 12:00.0,69-81,,4,69,81,-12,2160.0,Start of 4th quarter,Orlando,202401210ORL
 0:00.0,87-105,,4,87,105,-18,2880.0,End of 4th quarter,Orlando,202401210ORL
+6:02.0,8-11,,1,11,8,3,358.0,Miami full timeout,Memphis,202401240MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Jackson vs. B. Adebayo (J. Konchar gains possession),Memphis,202401240MIA
+6:09.0,31-31,Tie,2,31,31,0,1071.0,J. Butler makes free throw 2 of 2,Memphis,202401240MIA
 12:00.0,21-22,,2,22,21,1,720.0,Start of 2nd quarter,Memphis,202401240MIA
+6:09.0,66-58,,3,58,66,-8,1791.0, ,Memphis,202401240MIA
 12:00.0,49-42,,3,42,49,-7,1440.0,Start of 3rd quarter,Memphis,202401240MIA
+6:11.0,90-83,,4,83,90,-7,2509.0,D. Robinson makes 2-pt jump shot from 11 ft (assist by T. Rozier),Memphis,202401240MIA
 12:00.0,82-68,,4,68,82,-14,2160.0,Start of 4th quarter,Memphis,202401240MIA
 0:00.0,105-96,,4,96,105,-9,2880.0,End of 4th quarter,Memphis,202401240MIA
+6:13.0,20-12,,1,12,20,-8,347.0, ,Boston,202401250MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Adebayo (D. White gains possession),Boston,202401250MIA
+6:05.0,58-44,,2,44,58,-14,1075.0, ,Boston,202401250MIA
 12:00.0,42-29,,2,29,42,-13,720.0,Start of 2nd quarter,Boston,202401250MIA
+6:10.0,98-79,,3,79,98,-19,1790.0,T. Herro makes 3-pt jump shot from 28 ft (assist by J. Butler),Boston,202401250MIA
 12:00.0,77-64,,3,64,77,-13,1440.0,Start of 3rd quarter,Boston,202401250MIA
+6:16.0,126-96,,4,96,126,-30,2504.0,H. Highsmith makes 2-pt dunk from 3 ft,Boston,202401250MIA
 12:00.0,113-90,,4,90,113,-23,2160.0,Start of 4th quarter,Boston,202401250MIA
 0:00.0,143-110,,4,110,143,-33,2880.0,End of 4th quarter,Boston,202401250MIA
+6:05.0,15-9,,1,15,9,6,355.0, ,New York,202401270NYK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. I. Hartenstein (T. Herro gains possession),New York,202401270NYK
+6:03.0,40-41,Lead change,2,40,41,-1,1077.0, ,New York,202401270NYK
 12:00.0,30-27,,2,30,27,3,720.0,Start of 2nd quarter,New York,202401270NYK
+6:00.0,67-70,,3,67,70,-3,1800.0,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo),New York,202401270NYK
 12:00.0,51-61,,3,51,61,-10,1440.0,Start of 3rd quarter,New York,202401270NYK
+6:03.0,96-112,,4,96,112,-16,2517.0, ,New York,202401270NYK
 12:00.0,86-89,,4,86,89,-3,2160.0,Start of 4th quarter,New York,202401270NYK
 0:00.0,109-125,,4,109,125,-16,2880.0,End of 4th quarter,New York,202401270NYK
+6:02.0,14-15,,1,15,14,1,358.0,Turnover by Team (shot clock),Phoenix,202401290MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Nurkić vs. B. Adebayo (B. Beal gains possession),Phoenix,202401290MIA
+6:21.0,46-37,,2,37,46,-9,1059.0,T. Herro makes free throw 2 of 2,Phoenix,202401290MIA
 12:00.0,33-25,,2,25,33,-8,720.0,Start of 2nd quarter,Phoenix,202401290MIA
+6:23.0,79-61,,3,61,79,-18,1777.0,J. Butler makes free throw 2 of 2,Phoenix,202401290MIA
 12:00.0,62-49,,3,49,62,-13,1440.0,Start of 3rd quarter,Phoenix,202401290MIA
+6:03.0,107-91,,4,91,107,-16,2517.0,Violation by Team (kicked ball),Phoenix,202401290MIA
 12:00.0,100-74,,4,74,100,-26,2160.0,Start of 4th quarter,Phoenix,202401290MIA
 0:00.0,118-105,,4,105,118,-13,2880.0,End of 4th quarter,Phoenix,202401290MIA
+6:03.0,12-10,,1,10,12,-2,357.0,K. Love enters the game for T. Herro,Sacramento,202401310MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Sabonis vs. B. Adebayo (J. Butler gains possession),Sacramento,202401310MIA
+6:02.0,31-49,,2,49,31,18,1078.0,C. Martin makes 2-pt layup from 5 ft (assist by T. Rozier),Sacramento,202401310MIA
 12:00.0,22-28,,2,28,22,6,720.0,Start of 2nd quarter,Sacramento,202401310MIA
+6:07.0,75-77,,3,77,75,2,1793.0, ,Sacramento,202401310MIA
 12:00.0,55-59,,3,59,55,4,1440.0,Start of 3rd quarter,Sacramento,202401310MIA
+6:01.0,90-99,,4,99,90,9,2519.0, ,Sacramento,202401310MIA
 12:00.0,84-90,,4,90,84,6,2160.0,Start of 4th quarter,Sacramento,202401310MIA
 0:00.0,106-115,,4,115,106,9,2880.0,End of 4th quarter,Sacramento,202401310MIA
+6:07.0,15-18,,1,15,18,-3,353.0, ,Washington,202402020WAS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Gafford (T. Rozier gains possession),Washington,202402020WAS
+6:01.0,39-47,,2,39,47,-8,1079.0,C. Martin misses 2-pt jump shot from 18 ft,Washington,202402020WAS
 12:00.0,31-33,,2,31,33,-2,720.0,Start of 2nd quarter,Washington,202402020WAS
+6:03.0,65-68,,3,65,68,-3,1797.0,T. Rozier makes technical free throw,Washington,202402020WAS
 12:00.0,56-59,,3,56,59,-3,1440.0,Start of 3rd quarter,Washington,202402020WAS
+6:04.0,100-84,,4,100,84,16,2516.0,C. Martin makes 2-pt jump shot from 12 ft,Washington,202402020WAS
 12:00.0,87-74,,4,87,74,13,2160.0,Start of 4th quarter,Washington,202402020WAS
 12:00.0,87-74,,4,87,74,13,2160.0,Violation by Team (delay of game),Washington,202402020WAS
 0:00.0,110-102,,4,110,102,8,2880.0,End of 4th quarter,Washington,202402020WAS
+6:00.0,7-16,,1,16,7,9,360.0, ,LA Clippers,202402040MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: I. Zubac vs. B. Adebayo (T. Rozier gains possession),LA Clippers,202402040MIA
+6:02.0,33-31,,2,31,33,-2,1078.0,Defensive rebound by H. Highsmith,LA Clippers,202402040MIA
 12:00.0,19-22,,2,22,19,3,720.0,Start of 2nd quarter,LA Clippers,202402040MIA
+6:18.0,59-54,,3,54,59,-5,1782.0,J. Richardson makes 3-pt jump shot from 23 ft (assist by J. Jaquez),LA Clippers,202402040MIA
 12:00.0,43-43,,3,43,43,0,1440.0,Start of 3rd quarter,LA Clippers,202402040MIA
+6:15.0,85-78,,4,78,85,-7,2505.0,J. Butler makes 2-pt jump shot from 7 ft,LA Clippers,202402040MIA
 12:00.0,69-67,,4,67,69,-2,2160.0,Start of 4th quarter,LA Clippers,202402040MIA
 0:00.0,103-95,,4,95,103,-8,2880.0,End of 4th quarter,LA Clippers,202402040MIA
+6:10.0,4-13,,1,13,4,9,350.0, ,Orlando,202402060MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: W. Carter vs. B. Adebayo (J. Suggs gains possession),Orlando,202402060MIA
+6:05.0,28-43,,2,43,28,15,1075.0,T. Herro makes 3-pt jump shot from 26 ft (assist by J. Richardson),Orlando,202402060MIA
 12:00.0,19-26,,2,26,19,7,720.0,Start of 2nd quarter,Orlando,202402060MIA
+6:06.0,60-73,,3,73,60,13,1794.0,J. Butler makes free throw 2 of 2,Orlando,202402060MIA
 12:00.0,49-56,,3,56,49,7,1440.0,Start of 3rd quarter,Orlando,202402060MIA
+6:03.0,88-106,,4,106,88,18,2517.0, ,Orlando,202402060MIA
 12:00.0,75-96,,4,96,75,21,2160.0,Start of 4th quarter,Orlando,202402060MIA
 0:00.0,95-121,,4,121,95,26,2880.0,End of 4th quarter,Orlando,202402060MIA
+6:04.0,16-18,,1,18,16,2,356.0,B. Adebayo makes 2-pt jump shot from 6 ft (assist by T. Rozier),San Antonio,202402070MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: V. Wembanyama vs. B. Adebayo (J. Butler gains possession),San Antonio,202402070MIA
+6:01.0,40-36,,2,36,40,-4,1079.0, ,San Antonio,202402070MIA
 12:00.0,31-32,,2,32,31,1,720.0,Start of 2nd quarter,San Antonio,202402070MIA
+6:02.0,66-67,,3,67,66,1,1798.0, ,San Antonio,202402070MIA
 12:00.0,51-53,,3,53,51,2,1440.0,Start of 3rd quarter,San Antonio,202402070MIA
+6:06.0,87-96,,4,96,87,9,2514.0, ,San Antonio,202402070MIA
 12:00.0,77-78,,4,78,77,1,2160.0,Start of 4th quarter,San Antonio,202402070MIA
 0:00.0,104-116,,4,116,104,12,2880.0,End of 4th quarter,San Antonio,202402070MIA
+6:07.0,13-12,Lead change,1,12,13,-1,353.0, ,Boston,202402110MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Adebayo (D. White gains possession),Boston,202402110MIA
+6:05.0,43-37,,2,37,43,-6,1075.0, ,Boston,202402110MIA
 12:00.0,26-22,,2,22,26,-4,720.0,Start of 2nd quarter,Boston,202402110MIA
+6:04.0,77-67,,3,67,77,-10,1796.0, ,Boston,202402110MIA
 12:00.0,59-50,,3,50,59,-9,1440.0,Start of 3rd quarter,Boston,202402110MIA
+6:06.0,99-94,,4,94,99,-5,2514.0,Defensive rebound by B. Adebayo,Boston,202402110MIA
 12:00.0,86-79,,4,79,86,-7,2160.0,Start of 4th quarter,Boston,202402110MIA
 0:00.0,110-106,,4,106,110,-4,2880.0,End of 4th quarter,Boston,202402110MIA
+6:15.0,22-15,,1,22,15,7,345.0, ,Milwaukee,202402130MIL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. B. Lopez (G. Antetokounmpo gains possession),Milwaukee,202402130MIL
+6:01.0,54-39,,2,54,39,15,1079.0,J. Jaquez makes 2-pt layup from 1 ft,Milwaukee,202402130MIL
 12:00.0,40-28,,2,40,28,12,720.0,Start of 2nd quarter,Milwaukee,202402130MIL
+6:02.0,82-70,,3,82,70,12,1798.0,Defensive rebound by D. Robinson,Milwaukee,202402130MIL
 12:00.0,69-52,,3,69,52,17,1440.0,Start of 3rd quarter,Milwaukee,202402130MIL
+6:03.0,117-87,,4,117,87,30,2517.0,J. Jaquez makes 2-pt layup from 6 ft,Milwaukee,202402130MIL
 12:00.0,98-76,,4,98,76,22,2160.0,Start of 4th quarter,Milwaukee,202402130MIL
 0:00.0,123-97,,4,123,97,26,2880.0,End of 4th quarter,Milwaukee,202402130MIL
+6:02.0,17-22,,1,17,22,-5,358.0,Loose ball foul by N. Jović (drawn by P. Reed),Philadelphia,202402140PHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. P. Reed (D. Robinson gains possession),Philadelphia,202402140PHI
+6:03.0,46-48,,2,46,48,-2,1077.0,Turnover by T. Herro (bad pass),Philadelphia,202402140PHI
 12:00.0,33-33,,2,33,33,0,720.0,Start of 2nd quarter,Philadelphia,202402140PHI
+6:07.0,68-73,,3,68,73,-5,1793.0, ,Philadelphia,202402140PHI
 12:00.0,60-62,,3,60,62,-2,1440.0,Start of 3rd quarter,Philadelphia,202402140PHI
+6:17.0,94-93,,4,94,93,1,2503.0, ,Philadelphia,202402140PHI
 12:00.0,83-82,,4,83,82,1,2160.0,Start of 4th quarter,Philadelphia,202402140PHI
 0:00.0,109-104,,4,109,104,5,2880.0,End of 4th quarter,Philadelphia,202402140PHI
+6:00.0,20-10,,1,20,10,10,360.0,Turnover by J. Butler (bad pass; steal by T. Murphy),New Orleans,202402230NOP
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Valančiūnas (C. McCollum gains possession),New Orleans,202402230NOP
+6:02.0,52-37,,2,52,37,15,1078.0, ,New Orleans,202402230NOP
 12:00.0,31-24,,2,31,24,7,720.0,Start of 2nd quarter,New Orleans,202402230NOP
+6:17.0,72-66,,3,72,66,6,1783.0, ,New Orleans,202402230NOP
 12:00.0,58-58,,3,58,58,0,1440.0,Start of 3rd quarter,New Orleans,202402230NOP
+6:12.0,94-91,,4,94,91,3,2508.0, ,New Orleans,202402230NOP
 12:00.0,84-80,,4,84,80,4,2160.0,Start of 4th quarter,New Orleans,202402230NOP
 0:00.0,106-95,,4,106,95,11,2880.0,End of 4th quarter,New Orleans,202402230NOP
+6:00.0,15-13,,1,15,13,2,360.0, ,Sacramento,202402260SAC
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Sabonis (D. Robinson gains possession),Sacramento,202402260SAC
+6:03.0,45-55,,2,45,55,-10,1077.0, ,Sacramento,202402260SAC
 12:00.0,32-33,,2,32,33,-1,720.0,Start of 2nd quarter,Sacramento,202402260SAC
+6:02.0,81-73,,3,81,73,8,1798.0, ,Sacramento,202402260SAC
 12:00.0,65-62,,3,65,62,3,1440.0,Start of 3rd quarter,Sacramento,202402260SAC
+6:08.0,106-98,,4,106,98,8,2512.0, ,Sacramento,202402260SAC
 12:00.0,101-81,,4,101,81,20,2160.0,Start of 4th quarter,Sacramento,202402260SAC
 0:00.0,121-110,,4,121,110,11,2880.0,End of 4th quarter,Sacramento,202402260SAC
+6:01.0,7-17,,1,7,17,-10,359.0,J. Jaquez enters the game for J. Butler,Portland,202402270POR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Ayton (A. Simons gains possession),Portland,202402270POR
+6:03.0,34-43,,2,34,43,-9,1077.0, ,Portland,202402270POR
 12:00.0,15-28,,2,15,28,-13,720.0,Start of 2nd quarter,Portland,202402270POR
+6:01.0,67-67,Tie,3,67,67,0,1799.0,N. Jović makes 3-pt jump shot from 26 ft (assist by T. Rozier),Portland,202402270POR
 12:00.0,46-56,,3,46,56,-10,1440.0,Start of 3rd quarter,Portland,202402270POR
+6:21.0,95-88,,4,95,88,7,2499.0,B. Adebayo makes free throw 2 of 2,Portland,202402270POR
 12:00.0,80-76,,4,80,76,4,2160.0,Start of 4th quarter,Portland,202402270POR
 0:00.0,106-96,,4,106,96,10,2880.0,End of 4th quarter,Portland,202402270POR
+6:01.0,9-19,,1,9,19,-10,359.0, ,Denver,202402290DEN
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. N. Jokić (J. Butler gains possession),Denver,202402290DEN
+6:08.0,34-43,,2,34,43,-9,1072.0, ,Denver,202402290DEN
 12:00.0,20-36,,2,20,36,-16,720.0,Start of 2nd quarter,Denver,202402290DEN
+6:03.0,63-67,,3,63,67,-4,1797.0, ,Denver,202402290DEN
 12:00.0,51-56,,3,51,56,-5,1440.0,Start of 3rd quarter,Denver,202402290DEN
+6:02.0,81-92,,4,81,92,-11,2518.0,Jump ball: N. Jokić vs. B. Adebayo (C. Braun gains possession),Denver,202402290DEN
 12:00.0,70-83,,4,70,83,-13,2160.0,Start of 4th quarter,Denver,202402290DEN
 0:00.0,97-103,,4,97,103,-6,2880.0,End of 4th quarter,Denver,202402290DEN
+6:09.0,16-18,,1,18,16,2,351.0, ,Utah,202403020MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Collins vs. B. Adebayo (J. Butler gains possession),Utah,202403020MIA
+6:19.0,43-46,Lead change,2,46,43,3,1061.0,D. Robinson makes 3-pt jump shot from 28 ft (assist by B. Adebayo),Utah,202403020MIA
 12:00.0,34-30,,2,30,34,-4,720.0,Start of 2nd quarter,Utah,202403020MIA
+6:06.0,76-72,,3,72,76,-4,1794.0, ,Utah,202403020MIA
 12:00.0,62-58,,3,58,62,-4,1440.0,Start of 3rd quarter,Utah,202403020MIA
+6:03.0,102-106,,4,106,102,4,2517.0,T. Rozier enters the game for D. Robinson,Utah,202403020MIA
 12:00.0,90-90,,4,90,90,0,2160.0,Start of 4th quarter,Utah,202403020MIA
 0:00.0,120-126,,4,126,120,6,2880.0,End of 4th quarter,Utah,202403020MIA
+6:05.0,10-16,,1,16,10,6,355.0, ,Detroit,202403050MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Duren vs. B. Adebayo (J. Butler gains possession),Detroit,202403050MIA
+6:07.0,44-51,,2,51,44,7,1073.0, ,Detroit,202403050MIA
 12:00.0,26-36,,2,36,26,10,720.0,Start of 2nd quarter,Detroit,202403050MIA
 12:00.0,26-36,,2,36,26,10,720.0,Technical foul by N. Jović,Detroit,202403050MIA
 12:00.0,27-36,,2,36,27,9,720.0, ,Detroit,202403050MIA
+6:00.0,74-82,,3,82,74,8,1800.0,N. Jović makes 2-pt layup from 5 ft (assist by B. Adebayo),Detroit,202403050MIA
 12:00.0,60-61,,3,61,60,1,1440.0,Start of 3rd quarter,Detroit,202403050MIA
+6:23.0,98-103,,4,103,98,5,2497.0,J. Jaquez makes 2-pt jump shot from 7 ft (assist by D. Robinson),Detroit,202403050MIA
 12:00.0,88-93,,4,93,88,5,2160.0,Start of 4th quarter,Detroit,202403050MIA
 0:00.0,110-118,,4,118,110,8,2880.0,End of 4th quarter,Detroit,202403050MIA
+6:00.0,23-11,,1,23,11,12,360.0, ,Dallas,202403070DAL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. D. Gafford (D. Robinson gains possession),Dallas,202403070DAL
+6:01.0,48-44,,2,48,44,4,1079.0,H. Highsmith misses 2-pt hook shot from 7 ft,Dallas,202403070DAL
 12:00.0,36-28,,2,36,28,8,720.0,Start of 2nd quarter,Dallas,202403070DAL
+6:00.0,71-69,Lead change,3,71,69,2,1800.0,T. Rozier makes 3-pt jump shot from 25 ft (assist by J. Butler),Dallas,202403070DAL
 12:00.0,58-54,,3,58,54,4,1440.0,Start of 3rd quarter,Dallas,202403070DAL
+6:10.0,99-98,,4,99,98,1,2510.0, ,Dallas,202403070DAL
 12:00.0,83-91,,4,83,91,-8,2160.0,Start of 4th quarter,Dallas,202403070DAL
 0:00.0,108-114,,4,108,114,-6,2880.0,End of 4th quarter,Dallas,202403070DAL
+6:02.0,12-12,Tie,1,12,12,0,358.0,B. Adebayo makes 2-pt jump shot from 13 ft (assist by T. Rozier),Oklahoma City,202403080OKC
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. C. Holmgren (S. Gilgeous-Alexander gains possession),Oklahoma City,202403080OKC
+6:00.0,47-35,,2,47,35,12,1080.0, ,Oklahoma City,202403080OKC
 12:00.0,29-27,,2,29,27,2,720.0,Start of 2nd quarter,Oklahoma City,202403080OKC
+6:12.0,65-62,,3,65,62,3,1788.0, ,Oklahoma City,202403080OKC
 12:00.0,57-47,,3,57,47,10,1440.0,Start of 3rd quarter,Oklahoma City,202403080OKC
+6:01.0,86-91,,4,86,91,-5,2519.0, ,Oklahoma City,202403080OKC
 12:00.0,73-77,,4,73,77,-4,2160.0,Start of 4th quarter,Oklahoma City,202403080OKC
 0:00.0,100-107,,4,100,107,-7,2880.0,End of 4th quarter,Oklahoma City,202403080OKC
+6:06.0,16-15,,1,15,16,-1,354.0,B. Adebayo makes 2-pt dunk from 1 ft,Washington,202403100MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Kuzma vs. B. Adebayo (J. Butler gains possession),Washington,202403100MIA
+6:02.0,35-43,,2,43,35,8,1078.0,P. Mills misses 3-pt jump shot from 28 ft,Washington,202403100MIA
 12:00.0,25-27,,2,27,25,2,720.0,Start of 2nd quarter,Washington,202403100MIA
+6:01.0,65-69,,3,69,65,4,1799.0, ,Washington,202403100MIA
 12:00.0,48-54,,3,54,48,6,1440.0,Start of 3rd quarter,Washington,202403100MIA
+6:18.0,97-92,,4,92,97,-5,2502.0, ,Washington,202403100MIA
 12:00.0,81-82,,4,82,81,1,2160.0,Start of 4th quarter,Washington,202403100MIA
 0:00.0,110-108,,4,108,110,-2,2880.0,End of 4th quarter,Washington,202403100MIA
+6:12.0,16-9,,1,9,16,-7,348.0, ,Denver,202403130MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jokić vs. B. Adebayo (J. Murray gains possession),Denver,202403130MIA
+6:07.0,38-32,,2,32,38,-6,1073.0,Defensive rebound by T. Rozier,Denver,202403130MIA
 12:00.0,26-19,,2,19,26,-7,720.0,Start of 2nd quarter,Denver,202403130MIA
+6:10.0,59-56,,3,56,59,-3,1790.0, ,Denver,202403130MIA
 12:00.0,50-44,,3,44,50,-6,1440.0,Start of 3rd quarter,Denver,202403130MIA
+6:05.0,85-80,,4,80,85,-5,2515.0,Offensive rebound by B. Adebayo,Denver,202403130MIA
 12:00.0,72-71,,4,71,72,-1,2160.0,Start of 4th quarter,Denver,202403130MIA
 0:00.0,100-88,,4,88,100,-12,2880.0,End of 4th quarter,Denver,202403130MIA
+6:06.0,14-11,,1,14,11,3,354.0, ,Detroit,202403150DET
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Duren (N. Jović gains possession),Detroit,202403150DET
+6:28.0,46-40,,2,46,40,6,1052.0,D. Robinson makes 3-pt jump shot from 27 ft (assist by C. Martin),Detroit,202403150DET
 12:00.0,27-28,,2,27,28,-1,720.0,Start of 2nd quarter,Detroit,202403150DET
+6:09.0,68-65,,3,68,65,3,1791.0, ,Detroit,202403150DET
 12:00.0,56-54,,3,56,54,2,1440.0,Start of 3rd quarter,Detroit,202403150DET
+6:05.0,102-83,,4,102,83,19,2515.0,C. Martin makes 2-pt jump shot from 16 ft,Detroit,202403150DET
 12:00.0,84-72,,4,84,72,12,2160.0,Start of 4th quarter,Detroit,202403150DET
 0:00.0,108-95,,4,108,95,13,2880.0,End of 4th quarter,Detroit,202403150DET
+6:14.0,13-9,,1,13,9,4,346.0, ,Detroit,202403170DET
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Duren (T. Rozier gains possession),Detroit,202403170DET
+6:01.0,34-36,,2,34,36,-2,1079.0, ,Detroit,202403170DET
 12:00.0,21-23,,2,21,23,-2,720.0,Start of 2nd quarter,Detroit,202403170DET
+6:08.0,74-58,,3,74,58,16,1792.0,J. Jaquez makes free throw 2 of 2,Detroit,202403170DET
 12:00.0,60-50,,3,60,50,10,1440.0,Start of 3rd quarter,Detroit,202403170DET
+6:01.0,90-88,,4,90,88,2,2519.0,J. Jaquez misses 3-pt jump shot from 26 ft,Detroit,202403170DET
 12:00.0,79-76,,4,79,76,3,2160.0,Start of 4th quarter,Detroit,202403170DET
 0:00.0,104-101,,4,104,101,3,2880.0,End of 4th quarter,Detroit,202403170DET
+6:01.0,14-14,,1,14,14,0,359.0,Defensive rebound by H. Highsmith,Philadelphia,202403180PHI
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Bamba (T. Maxey gains possession),Philadelphia,202403180PHI
+6:03.0,40-37,,2,40,37,3,1077.0,Defensive rebound by B. Adebayo,Philadelphia,202403180PHI
 12:00.0,23-31,,2,23,31,-8,720.0,Start of 2nd quarter,Philadelphia,202403180PHI
+6:03.0,54-68,,3,54,68,-14,1797.0,Offensive rebound by B. Adebayo,Philadelphia,202403180PHI
 12:00.0,49-51,,3,49,51,-2,1440.0,Start of 3rd quarter,Philadelphia,202403180PHI
+6:04.0,85-88,,4,85,88,-3,2516.0,Defensive rebound by J. Jaquez,Philadelphia,202403180PHI
 12:00.0,65-79,,4,65,79,-14,2160.0,Start of 4th quarter,Philadelphia,202403180PHI
 0:00.0,91-98,,4,91,98,-7,2880.0,End of 4th quarter,Philadelphia,202403180PHI
+6:18.0,20-12,,1,20,12,8,342.0,T. Rozier makes 3-pt jump shot from 24 ft (assist by J. Butler),Cleveland,202403200CLE
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Bryant vs. J. Allen (D. Garland gains possession),Cleveland,202403200CLE
+6:04.0,49-39,,2,49,39,10,1076.0,Defensive rebound by N. Jović,Cleveland,202403200CLE
 12:00.0,31-30,,2,31,30,1,720.0,Start of 2nd quarter,Cleveland,202403200CLE
+6:21.0,73-67,,3,73,67,6,1779.0, ,Cleveland,202403200CLE
 12:00.0,61-57,,3,61,57,4,1440.0,Start of 3rd quarter,Cleveland,202403200CLE
+6:13.0,92-88,,4,92,88,4,2507.0,Loose ball foul by N. Jović (drawn by J. Allen),Cleveland,202403200CLE
 12:00.0,83-75,,4,83,75,8,2160.0,Start of 4th quarter,Cleveland,202403200CLE
 0:00.0,107-104,,4,107,104,3,2880.0,End of 4th quarter,Cleveland,202403200CLE
+6:00.0,5-16,,1,16,5,11,360.0,Defensive rebound by B. Adebayo,New Orleans,202403220MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Valančiūnas vs. B. Adebayo (C. McCollum gains possession),New Orleans,202403220MIA
+6:07.0,36-27,,2,27,36,-9,1073.0, ,New Orleans,202403220MIA
 12:00.0,21-20,,2,20,21,-1,720.0,Start of 2nd quarter,New Orleans,202403220MIA
+6:03.0,61-50,,3,50,61,-11,1797.0, ,New Orleans,202403220MIA
 12:00.0,46-42,,3,42,46,-4,1440.0,Start of 3rd quarter,New Orleans,202403220MIA
+6:11.0,92-72,,4,72,92,-20,2509.0, ,New Orleans,202403220MIA
 12:00.0,76-66,,4,66,76,-10,2160.0,Start of 4th quarter,New Orleans,202403220MIA
 0:00.0,111-88,,4,88,111,-23,2880.0,End of 4th quarter,New Orleans,202403220MIA
+6:10.0,9-14,,1,14,9,5,350.0, ,Cleveland,202403240MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. B. Adebayo (T. Rozier gains possession),Cleveland,202403240MIA
+6:10.0,34-49,,2,49,34,15,1070.0, ,Cleveland,202403240MIA
 12:00.0,22-32,,2,32,22,10,720.0,Start of 2nd quarter,Cleveland,202403240MIA
+6:00.0,46-80,,3,80,46,34,1800.0,T. Rozier makes 2-pt layup from 5 ft (assist by J. Butler),Cleveland,202403240MIA
 12:00.0,39-60,,3,60,39,21,1440.0,Start of 3rd quarter,Cleveland,202403240MIA
+6:03.0,72-110,,4,110,72,38,2517.0,T. Bryant makes 2-pt layup from 3 ft,Cleveland,202403240MIA
 12:00.0,57-90,,4,90,57,33,2160.0,Start of 4th quarter,Cleveland,202403240MIA
 0:00.0,84-121,,4,121,84,37,2880.0,End of 4th quarter,Cleveland,202403240MIA
+6:02.0,18-10,,1,10,18,-8,358.0, ,Golden State,202403260MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Green vs. B. Adebayo (T. Rozier gains possession),Golden State,202403260MIA
+6:06.0,40-36,,2,36,40,-4,1074.0,P. Mills enters the game for D. Wright,Golden State,202403260MIA
 12:00.0,24-26,,2,26,24,2,720.0,Start of 2nd quarter,Golden State,202403260MIA
+6:21.0,75-69,,3,69,75,-6,1779.0, ,Golden State,202403260MIA
 12:00.0,53-55,,3,55,53,2,1440.0,Start of 3rd quarter,Golden State,202403260MIA
+6:03.0,96-84,,4,84,96,-12,2517.0,B. Adebayo makes free throw 2 of 2,Golden State,202403260MIA
 12:00.0,85-75,,4,75,85,-10,2160.0,Start of 4th quarter,Golden State,202403260MIA
 0:00.0,113-92,,4,92,113,-21,2880.0,End of 4th quarter,Golden State,202403260MIA
+6:15.0,13-18,,1,18,13,5,345.0,Miami full timeout,Portland,202403290MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Ayton vs. B. Adebayo (J. Walker gains possession),Portland,202403290MIA
+6:07.0,28-54,,2,54,28,26,1073.0,T. Bryant makes 2-pt dunk from 3 ft (assist by J. Jaquez),Portland,202403290MIA
 12:00.0,19-29,,2,29,19,10,720.0,Start of 2nd quarter,Portland,202403290MIA
+6:06.0,49-92,,3,92,49,43,1794.0, ,Portland,202403290MIA
 12:00.0,40-74,,3,74,40,34,1440.0,Start of 3rd quarter,Portland,202403290MIA
+6:04.0,71-120,,4,120,71,49,2516.0, ,Portland,202403290MIA
 12:00.0,63-107,,4,107,63,44,2160.0,Start of 4th quarter,Portland,202403290MIA
 0:00.0,82-142,,4,142,82,60,2880.0,End of 4th quarter,Portland,202403290MIA
+6:02.0,12-15,,1,12,15,-3,358.0, ,Washington,202403310WAS
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Bagley (J. Butler gains possession),Washington,202403310WAS
+6:08.0,41-44,,2,41,44,-3,1072.0, ,Washington,202403310WAS
 12:00.0,29-29,,2,29,29,0,720.0,Start of 2nd quarter,Washington,202403310WAS
+6:02.0,78-69,,3,78,69,9,1798.0,D. Wright enters the game for T. Rozier,Washington,202403310WAS
 12:00.0,66-59,,3,66,59,7,1440.0,Start of 3rd quarter,Washington,202403310WAS
+6:03.0,105-90,,4,105,90,15,2517.0,J. Butler misses 2-pt jump shot from 17 ft,Washington,202403310WAS
 12:00.0,95-80,,4,95,80,15,2160.0,Start of 4th quarter,Washington,202403310WAS
 0:00.0,119-107,,4,119,107,12,2880.0,End of 4th quarter,Washington,202403310WAS
+6:07.0,14-18,,1,18,14,4,353.0,D. Robinson makes 3-pt jump shot from 24 ft (assist by J. Butler),New York,202404020MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: I. Hartenstein vs. B. Adebayo (J. Butler gains possession),New York,202404020MIA
+6:09.0,36-44,,2,44,36,8,1071.0,J. Butler makes 2-pt jump shot from 6 ft,New York,202404020MIA
 12:00.0,22-34,,2,34,22,12,720.0,Start of 2nd quarter,New York,202404020MIA
+6:09.0,58-70,,3,70,58,12,1791.0,Turnover by J. Butler (out of bounds lost ball),New York,202404020MIA
 12:00.0,43-58,,3,58,43,15,1440.0,Start of 3rd quarter,New York,202404020MIA
+6:06.0,85-92,,4,92,85,7,2514.0,Personal foul by J. Brunson (drawn by J. Butler),New York,202404020MIA
 12:00.0,73-83,,4,83,73,10,2160.0,Start of 4th quarter,New York,202404020MIA
 0:00.0,99-109,,4,109,99,10,2880.0,End of 4th quarter,New York,202404020MIA

@@ -393,6 +393,51 @@ def combine(team, season):
 
     print("Save combined file " + quarter_viz_filename) 
 
+    # Create quarter and mid-quarter version
+
+    # Ensure the DataFrame is sorted by 'id', 'Quarter', and 'ElapsedTime' or 'Time' in descending order so that time counts down
+    combined_df = combined_df.sort_values(by=['id', 'Quarter', 'Time'], ascending=[True, True, False])
+
+    # Function to capture the score right before the first "5:" mark in each quarter
+    def find_pre_five_minute_mark(group):
+        # Find the index of the first occurrence where Time starts with "5:"
+        first_five_idx = group[group['Time'].astype(str).str.startswith("5:")].index.min()
+        # Select the row immediately before this index, if it exists
+        if pd.notnull(first_five_idx):
+            pre_five_idx = group.index[group.index.get_loc(first_five_idx) - 1]
+            return group.loc[pre_five_idx]
+
+    # Apply the function to each group
+    pre_five_scores = combined_df.groupby(['id', 'Quarter'], group_keys=False).apply(find_pre_five_minute_mark).reset_index(drop=True)
+
+    # Now you can concatenate this with your existing data frames for start and end times
+    quarter_midquarter_combined_df = pd.concat([time_12_df, pre_five_scores, last_time_0_df]).drop_duplicates().reset_index(drop=True)
+
+    # Ensure the combined data is sorted correctly
+    quarter_midquarter_combined_df = quarter_midquarter_combined_df.sort_values(by=['id', 'Quarter', 'Time'], ascending=[True, True, False]).reset_index(drop=True)
+
+    # Filter by Quarter scores only
+    quarter_midquarter_filename = f"{ season }-{ team }-quarters-midquarters.csv"
+
+    # Save the combined DataFrame to a new CSV file
+    quarter_midquarter_combined_df.to_csv(combined_directory + quarter_midquarter_filename, index=False)
+
+    print("Save combined file " + quarter_midquarter_filename) 
+
+    # Create viz-friendly dataset with quarters and midquarter point differences
+
+    quarter_midquarter_viz_combined_df = quarter_midquarter_combined_df.sort_values(by=['ElapsedTime']) \
+        .groupby(['id', 'OpponentName'])['PointDifference'] \
+        .apply(lambda x: ','.join(x.astype(str))) \
+        .reset_index(name='Diffs')
+    
+    # Filter by Quarter scores only
+    quarter_midquarter_viz_filename = f"{ season }-{ team }-quarters-midquarters-viz.csv"
+
+    # Save the combined DataFrame to a new CSV file
+    quarter_midquarter_viz_combined_df.to_csv(combined_directory + quarter_midquarter_viz_filename, index=False)
+
+    print("Save combined file " + quarter_midquarter_viz_filename) 
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
-scrape("MIA", "2022")
+scrape("MIA", "2024")
