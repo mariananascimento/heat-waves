@@ -674,3 +674,58 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 6:06.0,85-92,,4,92,85,7,2514.0,Personal foul by J. Brunson (drawn by J. Butler),New York,202404020MIA
 12:00.0,73-83,,4,83,73,10,2160.0,Start of 4th quarter,New York,202404020MIA
 0:00.0,99-109,,4,109,99,10,2880.0,End of 4th quarter,New York,202404020MIA
+6:08.0,19-9,,1,9,19,-10,352.0,T. Rozier makes free throw 2 of 2,Philadelphia,202404040MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Embiid vs. B. Adebayo (N. Jović gains possession),Philadelphia,202404040MIA
+6:06.0,43-46,,2,46,43,3,1074.0,T. Rozier enters the game for K. Love,Philadelphia,202404040MIA
+12:00.0,39-29,,2,29,39,-10,720.0,Start of 2nd quarter,Philadelphia,202404040MIA
+6:13.0,79-71,,3,71,79,-8,1787.0, ,Philadelphia,202404040MIA
+12:00.0,63-55,,3,55,63,-8,1440.0,Start of 3rd quarter,Philadelphia,202404040MIA
+6:10.0,96-102,,4,102,96,6,2510.0, ,Philadelphia,202404040MIA
+12:00.0,87-88,,4,88,87,1,2160.0,Start of 4th quarter,Philadelphia,202404040MIA
+0:00.0,107-105,,4,105,107,-2,2880.0, ,Philadelphia,202404040MIA
+6:02.0,11-15,,1,11,15,-4,358.0,Defensive rebound by N. Jović,Houston,202404050HOU
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Green (J. Smith gains possession),Houston,202404050HOU
+6:06.0,48-38,,2,48,38,10,1074.0,T. Rozier makes 3-pt jump shot from 26 ft,Houston,202404050HOU
+12:00.0,27-27,,2,27,27,0,720.0,Start of 2nd quarter,Houston,202404050HOU
+6:09.0,77-69,,3,77,69,8,1791.0, ,Houston,202404050HOU
+12:00.0,64-59,,3,64,59,5,1440.0,Start of 3rd quarter,Houston,202404050HOU
+6:09.0,110-96,,4,110,96,14,2511.0,T. Herro makes free throw 2 of 2,Houston,202404050HOU
+12:00.0,93-83,,4,93,83,10,2160.0,Start of 4th quarter,Houston,202404050HOU
+0:00.0,119-104,,4,119,104,15,2880.0,End of 4th quarter,Houston,202404050HOU
+6:09.0,9-16,,1,9,16,-7,351.0,B. Adebayo makes 2-pt jump shot from 6 ft,Indiana,202404070IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. M. Turner (J. Butler gains possession),Indiana,202404070IND
+6:02.0,33-50,,2,33,50,-17,1078.0, ,Indiana,202404070IND
+12:00.0,24-38,,2,24,38,-14,720.0,Start of 2nd quarter,Indiana,202404070IND
+6:05.0,66-77,,3,66,77,-11,1795.0, ,Indiana,202404070IND
+12:00.0,46-63,,3,46,63,-17,1440.0,Start of 3rd quarter,Indiana,202404070IND
+6:14.0,89-99,,4,89,99,-10,2506.0,Defensive rebound by J. Butler,Indiana,202404070IND
+12:00.0,78-91,,4,78,91,-13,2160.0,Start of 4th quarter,Indiana,202404070IND
+0:00.0,115-117,,4,115,117,-2,2880.0,End of 4th quarter,Indiana,202404070IND
+6:14.0,15-11,,1,15,11,4,346.0, ,Atlanta,202404090ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. C. Capela (C. Martin gains possession),Atlanta,202404090ATL
+6:13.0,41-36,,2,41,36,5,1067.0,C. Martin enters the game for J. Jaquez,Atlanta,202404090ATL
+12:00.0,30-27,,2,30,27,3,720.0,Start of 2nd quarter,Atlanta,202404090ATL
+6:05.0,70-62,,3,70,62,8,1795.0,Defensive rebound by C. Martin,Atlanta,202404090ATL
+12:00.0,59-47,,3,59,47,12,1440.0,Start of 3rd quarter,Atlanta,202404090ATL
+6:08.0,91-92,,4,91,92,-1,2512.0,Defensive rebound by T. Herro,Atlanta,202404090ATL
+12:00.0,80-80,,4,80,80,0,2160.0,Start of 4th quarter,Atlanta,202404090ATL
+0:00.0,107-107,,5,107,107,0,3600.0,End of 1st overtime,Atlanta,202404090ATL
+0:00.0,117-111,,6,117,111,6,3900.0,End of 2nd overtime,Atlanta,202404090ATL
+6:17.0,14-16,Lead change,1,16,14,2,343.0,J. Butler makes 3-pt jump shot from 24 ft (assist by C. Martin),Dallas,202404100MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Gafford vs. B. Adebayo (D. Jones gains possession),Dallas,202404100MIA
+6:10.0,51-36,,2,36,51,-15,1070.0, ,Dallas,202404100MIA
+12:00.0,33-24,,2,24,33,-9,720.0,Start of 2nd quarter,Dallas,202404100MIA
+6:12.0,82-60,,3,60,82,-22,1788.0,Turnover by  (5 sec),Dallas,202404100MIA
+12:00.0,69-47,,3,47,69,-22,1440.0,Start of 3rd quarter,Dallas,202404100MIA
+6:05.0,99-88,,4,88,99,-11,2515.0,Turnover by J. Butler (bad pass; steal by D. Jones),Dallas,202404100MIA
+12:00.0,88-74,,4,74,88,-14,2160.0,Start of 4th quarter,Dallas,202404100MIA
+0:00.0,111-92,,4,92,111,-19,2880.0,End of 4th quarter,Dallas,202404100MIA
+6:06.0,13-14,,1,14,13,1,354.0,J. Jaquez enters the game for J. Butler,Toronto,202404120MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Olynyk vs. B. Adebayo (T. Herro gains possession),Toronto,202404120MIA
+6:06.0,38-50,,2,50,38,12,1074.0, ,Toronto,202404120MIA
+12:00.0,22-33,,2,33,22,11,720.0,Start of 2nd quarter,Toronto,202404120MIA
+6:11.0,63-75,,3,75,63,12,1789.0, ,Toronto,202404120MIA
+12:00.0,50-66,,3,66,50,16,1440.0,Start of 3rd quarter,Toronto,202404120MIA
+6:13.0,90-110,,4,110,90,20,2507.0, ,Toronto,202404120MIA
+12:00.0,75-92,,4,92,75,17,2160.0,Start of 4th quarter,Toronto,202404120MIA
+0:00.0,103-125,,4,125,103,22,2880.0,End of 4th quarter,Toronto,202404120MIA

@@ -1,0 +1,416 @@
+Time,Dallas,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Gafford vs. B. Adebayo (D. Jones gains possession),0-0,,,1,0,0,0,0.0
+11:37.0,K. Irving misses 2-pt jump shot from 9 ft,0-0, ,,1,0,0,0,23.0
+11:34.0, ,0-0,Defensive rebound by B. Adebayo,,1,0,0,0,26.0
+11:34.0, ,0-0,Personal foul by K. Irving (drawn by B. Adebayo),,1,0,0,0,26.0
+11:25.0, ,0-0,Shooting foul by L. Dončić (drawn by T. Herro),,1,0,0,0,35.0
+11:25.0, ,0-1,T. Herro makes free throw 1 of 2,,1,1,0,1,35.0
+11:25.0, ,0-2,T. Herro makes free throw 2 of 2,,1,2,0,2,35.0
+11:05.0,D. Jones misses 3-pt jump shot from 25 ft,0-2, ,,1,2,0,2,55.0
+11:03.0, ,0-2,Defensive rebound by N. Jović,,1,2,0,2,57.0
+10:54.0, ,0-2,N. Jović misses 2-pt jump shot from 6 ft,,1,2,0,2,66.0
+10:52.0,Defensive rebound by D. Gafford,0-2, ,,1,2,0,2,68.0
+10:47.0,Turnover by K. Irving (bad pass),0-2, ,,1,2,0,2,73.0
+10:30.0, ,0-4,B. Adebayo makes 2-pt jump shot from 7 ft (assist by C. Martin),,1,4,0,4,90.0
+10:17.0,L. Dončić makes 3-pt jump shot from 26 ft,3-4, ,,1,4,3,1,103.0
+9:53.0, ,3-6,N. Jović makes 2-pt layup from 4 ft (assist by J. Butler),,1,6,3,3,127.0
+9:40.0,L. Dončić makes 3-pt jump shot from 29 ft (assist by D. Gafford),6-6, ,Tie,1,6,6,0,140.0
+9:27.0, ,6-8,T. Herro makes 2-pt layup from 4 ft,,1,8,6,2,153.0
+9:13.0,L. Dončić misses 3-pt jump shot from 27 ft,6-8, ,,1,8,6,2,167.0
+9:11.0,Offensive rebound by L. Dončić,6-8, ,,1,8,6,2,169.0
+9:10.0,L. Dončić makes 2-pt layup from 3 ft,8-8, ,Tie,1,8,8,0,170.0
+8:59.0, ,8-8,B. Adebayo misses 3-pt jump shot from 26 ft,,1,8,8,0,181.0
+8:56.0,Defensive rebound by K. Irving,8-8, ,,1,8,8,0,184.0
+8:51.0,Personal foul by B. Adebayo (drawn by L. Dončić),8-8, ,,1,8,8,0,189.0
+8:40.0,K. Irving misses 2-pt jump shot from 7 ft (block by C. Martin),8-8, ,,1,8,8,0,200.0
+8:38.0, ,8-8,Defensive rebound by Team,,1,8,8,0,202.0
+8:21.0, ,8-11,C. Martin makes 3-pt jump shot from 23 ft (assist by J. Butler),,1,11,8,3,219.0
+8:02.0,D. Jones makes 2-pt jump shot from 8 ft (assist by D. Gafford),10-11, ,,1,11,10,1,238.0
+7:48.0, ,10-11,C. Martin misses 2-pt layup from 5 ft,,1,11,10,1,252.0
+7:47.0, ,10-11,Offensive rebound by C. Martin,,1,11,10,1,253.0
+7:47.0, ,10-13,C. Martin makes 2-pt layup at rim,,1,13,10,3,253.0
+7:34.0,Turnover by L. Dončić (bad pass; steal by J. Butler),10-13, ,,1,13,10,3,266.0
+7:28.0, ,10-13,C. Martin misses 3-pt jump shot from 25 ft,,1,13,10,3,272.0
+7:24.0, ,10-13,Offensive rebound by C. Martin,,1,13,10,3,276.0
+7:24.0,M. Kleber enters the game for D. Gafford,10-13, ,,1,13,10,3,276.0
+7:12.0, ,10-13,N. Jović misses 3-pt jump shot from 26 ft,,1,13,10,3,288.0
+7:09.0,Defensive rebound by L. Dončić,10-13, ,,1,13,10,3,291.0
+6:56.0,L. Dončić makes 2-pt layup from 6 ft (assist by M. Kleber),12-13, ,,1,13,12,1,304.0
+6:42.0, ,12-13,B. Adebayo misses 2-pt layup from 4 ft (block by M. Kleber),,1,13,12,1,318.0
+6:41.0, ,12-13,Offensive rebound by Team,,1,13,12,1,319.0
+6:41.0, ,12-13,Miami full timeout,,1,13,12,1,319.0
+6:41.0,D. Exum enters the game for D. Jones,12-13, ,,1,13,12,1,319.0
+6:37.0, ,12-13,Turnover by T. Herro (bad pass; steal by P. Washington),,1,13,12,1,323.0
+6:34.0,P. Washington makes 2-pt dunk from 2 ft (assist by L. Dončić),14-13, ,Lead change,1,13,14,-1,326.0
+6:17.0, ,14-16,J. Butler makes 3-pt jump shot from 24 ft (assist by C. Martin),Lead change,1,16,14,2,343.0
+5:53.0,P. Washington makes 3-pt jump shot from 25 ft (assist by K. Irving),17-16, ,Lead change,1,16,17,-1,367.0
+5:35.0, ,17-16,T. Herro misses 2-pt jump shot from 11 ft,,1,16,17,-1,385.0
+5:33.0,Defensive rebound by K. Irving,17-16, ,,1,16,17,-1,387.0
+5:26.0,P. Washington misses 3-pt jump shot from 26 ft,17-16, ,,1,16,17,-1,394.0
+5:23.0, ,17-16,Defensive rebound by T. Herro,,1,16,17,-1,397.0
+5:01.0, ,17-16,Shooting foul by L. Dončić (drawn by T. Herro),,1,16,17,-1,419.0
+5:01.0, ,17-17,T. Herro makes free throw 1 of 2,Tie,1,17,17,0,419.0
+5:01.0,T. Hardaway enters the game for K. Irving,17-17, ,,1,17,17,0,419.0
+5:01.0, ,17-17,H. Highsmith enters the game for J. Butler,,1,17,17,0,419.0
+5:01.0, ,17-18,T. Herro makes free throw 2 of 2,Lead change,1,18,17,1,419.0
+4:50.0,L. Dončić makes 3-pt jump shot from 26 ft,20-18, ,Lead change,1,18,20,-2,430.0
+4:33.0, ,20-18,B. Adebayo misses 2-pt jump shot from 8 ft,,1,18,20,-2,447.0
+4:31.0,Defensive rebound by L. Dončić,20-18, ,,1,18,20,-2,449.0
+4:26.0,L. Dončić misses 3-pt jump shot from 26 ft,20-18, ,,1,18,20,-2,454.0
+4:23.0, ,20-18,Defensive rebound by T. Herro,,1,18,20,-2,457.0
+4:18.0, ,20-18,T. Herro misses 2-pt jump shot from 11 ft,,1,18,20,-2,462.0
+4:17.0,Defensive rebound by L. Dončić,20-18, ,,1,18,20,-2,463.0
+4:04.0,Personal foul by N. Jović (drawn by M. Kleber),20-18, ,,1,18,20,-2,476.0
+3:51.0,D. Exum misses 2-pt jump shot from 21 ft,20-18, ,,1,18,20,-2,489.0
+3:48.0,Offensive rebound by T. Hardaway,20-18, ,,1,18,20,-2,492.0
+3:47.0,T. Hardaway misses 3-pt jump shot from 27 ft,20-18, ,,1,18,20,-2,493.0
+3:47.0, ,20-18,Defensive rebound by Team,,1,18,20,-2,493.0
+3:46.0,Loose ball foul by L. Dončić (drawn by B. Adebayo),20-18, ,,1,18,20,-2,494.0
+3:46.0,K. Irving enters the game for L. Dončić,20-18, ,,1,18,20,-2,494.0
+3:46.0, ,20-18,J. Jaquez enters the game for T. Herro,,1,18,20,-2,494.0
+3:27.0, ,20-21,J. Jaquez makes 3-pt jump shot from 23 ft (assist by N. Jović),Lead change,1,21,20,1,513.0
+3:04.0,D. Exum makes 3-pt jump shot from 23 ft (assist by T. Hardaway),23-21, ,Lead change,1,21,23,-2,536.0
+2:53.0, ,23-21,B. Adebayo misses 2-pt jump shot from 10 ft,,1,21,23,-2,547.0
+2:50.0,Defensive rebound by D. Exum,23-21, ,,1,21,23,-2,550.0
+2:44.0,K. Irving makes 3-pt jump shot from 27 ft (assist by D. Exum),26-21, ,,1,21,26,-5,556.0
+2:43.0, ,26-21,Miami full timeout,,1,21,26,-5,557.0
+2:43.0, ,26-21,J. Butler enters the game for B. Adebayo,,1,21,26,-5,557.0
+2:43.0, ,26-21,K. Love enters the game for N. Jović,,1,21,26,-5,557.0
+2:43.0, ,26-21,P. Mills enters the game for C. Martin,,1,21,26,-5,557.0
+2:23.0, ,26-21,J. Butler misses 2-pt jump shot from 16 ft,,1,21,26,-5,577.0
+2:20.0,Defensive rebound by Team,26-21, ,,1,21,26,-5,580.0
+2:20.0,Jump ball: K. Irving vs. J. Jaquez (T. Hardaway gains possession),26-21,,,1,21,26,-5,580.0
+1:59.0,K. Irving misses 3-pt jump shot from 29 ft,26-21, ,,1,21,26,-5,601.0
+1:57.0, ,26-21,Defensive rebound by K. Love,,1,21,26,-5,603.0
+1:44.0, ,26-21,Turnover by J. Butler (out of bounds lost ball),,1,21,26,-5,616.0
+1:44.0,J. Green enters the game for P. Washington,26-21, ,,1,21,26,-5,616.0
+1:31.0,Turnover by T. Hardaway (bad pass; steal by J. Butler),26-21, ,,1,21,26,-5,629.0
+1:23.0, ,26-24,P. Mills makes 3-pt jump shot from 26 ft (assist by J. Butler),,1,24,26,-2,637.0
+0:59.0,K. Irving makes 2-pt jump shot from 14 ft,28-24, ,,1,24,28,-4,661.0
+0:50.0, ,28-24,Turnover by J. Jaquez (bad pass),,1,24,28,-4,670.0
+0:36.0,K. Irving makes 3-pt jump shot from 26 ft,31-24, ,,1,24,31,-7,684.0
+0:19.0, ,31-24,P. Mills misses 3-pt jump shot from 23 ft,,1,24,31,-7,701.0
+0:16.0,Defensive rebound by J. Green,31-24, ,,1,24,31,-7,704.0
+0:00.0,K. Irving makes 2-pt jump shot from 12 ft,33-24, ,,1,24,33,-9,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),33-24, ,,1,24,33,-9,720.0
+0:00.0,End of 1st quarter,33-24,,,1,24,33,-9,720.0
+12:00.0,Start of 2nd quarter,33-24,,,2,24,33,-9,720.0
+11:37.0, ,33-24,Shooting foul by D. Jones (drawn by P. Mills),,2,24,33,-9,743.0
+11:37.0, ,33-25,P. Mills makes free throw 1 of 2,,2,25,33,-8,743.0
+11:37.0, ,33-26,P. Mills makes free throw 2 of 2,,2,26,33,-7,743.0
+11:15.0,K. Irving makes 2-pt layup from 3 ft,35-26, ,,2,26,35,-9,765.0
+11:08.0, ,35-26,Turnover by J. Butler (bad pass),,2,26,35,-9,772.0
+10:57.0,D. Gafford makes 2-pt layup from 4 ft (assist by J. Green),37-26, ,,2,26,37,-11,783.0
+10:44.0, ,37-26,Personal foul by J. Green (drawn by J. Jaquez),,2,26,37,-11,796.0
+10:33.0, ,37-26,Turnover by J. Butler (bad pass),,2,26,37,-11,807.0
+10:17.0,Personal foul by H. Highsmith (drawn by K. Irving),37-26, ,,2,26,37,-11,823.0
+10:17.0, ,37-26,C. Martin enters the game for H. Highsmith,,2,26,37,-11,823.0
+10:15.0,T. Hardaway misses 3-pt jump shot from 27 ft,37-26, ,,2,26,37,-11,825.0
+10:15.0,Offensive rebound by Team,37-26, ,,2,26,37,-11,825.0
+10:15.0, ,37-26,Loose ball foul by K. Love (drawn by D. Gafford),,2,26,37,-11,825.0
+10:03.0,D. Jones misses 3-pt jump shot from 23 ft,37-26, ,,2,26,37,-11,837.0
+10:01.0, ,37-26,Defensive rebound by K. Love,,2,26,37,-11,839.0
+9:56.0, ,37-26,J. Butler misses 2-pt dunk from 2 ft,,2,26,37,-11,844.0
+9:54.0,Defensive rebound by J. Green,37-26, ,,2,26,37,-11,846.0
+9:49.0,D. Jones misses 2-pt layup from 3 ft,37-26, ,,2,26,37,-11,851.0
+9:47.0, ,37-26,Defensive rebound by C. Martin,,2,26,37,-11,853.0
+9:41.0, ,37-29,K. Love makes 3-pt jump shot from 26 ft (assist by C. Martin),,2,29,37,-8,859.0
+9:18.0,J. Green misses 3-pt jump shot from 23 ft,37-29, ,,2,29,37,-8,882.0
+9:15.0, ,37-29,Defensive rebound by K. Love,,2,29,37,-8,885.0
+9:05.0, ,37-29,Turnover by J. Butler (lost ball; steal by K. Irving),,2,29,37,-8,895.0
+9:00.0,K. Irving makes 3-pt jump shot from 27 ft,40-29, ,,2,29,40,-11,900.0
+8:49.0, ,40-29,C. Martin misses 2-pt jump shot from 7 ft (block by D. Jones),,2,29,40,-11,911.0
+8:44.0,Defensive rebound by D. Gafford,40-29, ,,2,29,40,-11,916.0
+8:44.0,T. Hardaway makes 2-pt dunk from 3 ft (assist by J. Green),42-29, ,,2,29,42,-13,916.0
+8:44.0, ,42-29,Miami full timeout,,2,29,42,-13,916.0
+8:44.0,L. Dončić enters the game for J. Green,42-29, ,,2,29,42,-13,916.0
+8:44.0, ,42-29,B. Adebayo enters the game for K. Love,,2,29,42,-13,916.0
+8:44.0, ,42-29,T. Herro enters the game for P. Mills,,2,29,42,-13,916.0
+8:23.0, ,42-31,C. Martin makes 2-pt jump shot from 10 ft,,2,31,42,-11,937.0
+8:08.0,K. Irving makes 3-pt jump shot from 26 ft (assist by L. Dončić),45-31, ,,2,31,45,-14,952.0
+7:44.0, ,45-34,C. Martin makes 3-pt jump shot from 25 ft (assist by T. Herro),,2,34,45,-11,976.0
+7:19.0,L. Dončić misses 2-pt jump shot from 13 ft,45-34, ,,2,34,45,-11,1001.0
+7:16.0, ,45-34,Defensive rebound by T. Herro,,2,34,45,-11,1004.0
+7:12.0, ,45-34,C. Martin misses 2-pt layup from 4 ft,,2,34,45,-11,1008.0
+7:10.0,Defensive rebound by D. Gafford,45-34, ,,2,34,45,-11,1010.0
+7:06.0,D. Jones makes 2-pt dunk from 3 ft (assist by L. Dončić),47-34, ,,2,34,47,-13,1014.0
+6:48.0, ,47-36,T. Herro makes 2-pt layup from 6 ft,,2,36,47,-11,1032.0
+6:33.0,Shooting foul by J. Jaquez (drawn by L. Dončić),47-36, ,,2,36,47,-11,1047.0
+6:33.0,L. Dončić makes free throw 1 of 2,48-36, ,,2,36,48,-12,1047.0
+6:33.0,D. Exum enters the game for K. Irving,48-36, ,,2,36,48,-12,1047.0
+6:33.0,P. Washington enters the game for D. Jones,48-36, ,,2,36,48,-12,1047.0
+6:33.0, ,48-36,H. Highsmith enters the game for J. Butler,,2,36,48,-12,1047.0
+6:33.0, ,48-36,N. Jović enters the game for J. Jaquez,,2,36,48,-12,1047.0
+6:33.0,L. Dončić makes free throw 2 of 2,49-36, ,,2,36,49,-13,1047.0
+6:17.0, ,49-36,B. Adebayo misses 2-pt jump shot from 7 ft,,2,36,49,-13,1063.0
+6:15.0,Defensive rebound by P. Washington,49-36, ,,2,36,49,-13,1065.0
+6:10.0,D. Gafford makes 2-pt dunk from 3 ft (assist by L. Dončić),51-36, ,,2,36,51,-15,1070.0
+5:57.0, ,51-38,T. Herro makes 2-pt jump shot from 9 ft (assist by C. Martin),,2,38,51,-13,1083.0
+5:41.0,D. Gafford makes 2-pt hook shot from 8 ft (assist by L. Dončić),53-38, ,,2,38,53,-15,1099.0
+5:16.0, ,53-38,B. Adebayo misses 2-pt jump shot from 7 ft,,2,38,53,-15,1124.0
+5:14.0,Defensive rebound by L. Dončić,53-38, ,,2,38,53,-15,1126.0
+4:57.0,D. Gafford makes 2-pt layup from 3 ft,55-38, ,,2,38,55,-17,1143.0
+4:47.0, ,55-38,T. Herro misses 3-pt jump shot from 26 ft,,2,38,55,-17,1153.0
+4:44.0,Defensive rebound by D. Gafford,55-38, ,,2,38,55,-17,1156.0
+4:40.0,T. Hardaway makes 3-pt jump shot from 26 ft (assist by L. Dončić),58-38, ,,2,38,58,-20,1160.0
+4:38.0, ,58-38,Miami full timeout,,2,38,58,-20,1162.0
+4:38.0,K. Irving enters the game for D. Exum,58-38, ,,2,38,58,-20,1162.0
+4:14.0, ,58-38,N. Jović misses 3-pt jump shot from 26 ft,,2,38,58,-20,1186.0
+4:11.0, ,58-38,Offensive rebound by T. Herro,,2,38,58,-20,1189.0
+4:09.0, ,58-38,Personal foul by P. Washington (drawn by B. Adebayo),,2,38,58,-20,1191.0
+3:57.0, ,58-38,Turnover by C. Martin (lost ball; steal by K. Irving),,2,38,58,-20,1203.0
+3:47.0,D. Gafford makes 2-pt layup from 5 ft (assist by P. Washington),60-38, ,,2,38,60,-22,1213.0
+3:33.0, ,60-38,B. Adebayo misses 2-pt jump shot from 5 ft,,2,38,60,-22,1227.0
+3:31.0, ,60-38,Offensive rebound by H. Highsmith,,2,38,60,-22,1229.0
+3:30.0, ,60-40,H. Highsmith makes 2-pt layup from 3 ft,,2,40,60,-20,1230.0
+3:02.0,T. Hardaway misses 3-pt jump shot from 23 ft,60-40, ,,2,40,60,-20,1258.0
+2:59.0,Offensive rebound by P. Washington,60-40, ,,2,40,60,-20,1261.0
+2:56.0,L. Dončić misses 2-pt jump shot from 7 ft,60-40, ,,2,40,60,-20,1264.0
+2:53.0, ,60-40,Defensive rebound by H. Highsmith,,2,40,60,-20,1267.0
+2:49.0, ,60-40,Shooting foul by K. Irving (drawn by C. Martin),,2,40,60,-20,1271.0
+2:49.0, ,60-41,C. Martin makes free throw 1 of 2,,2,41,60,-19,1271.0
+2:49.0,J. Green enters the game for D. Gafford,60-41, ,,2,41,60,-19,1271.0
+2:49.0,M. Kleber enters the game for T. Hardaway,60-41, ,,2,41,60,-19,1271.0
+2:49.0, ,60-41,J. Butler enters the game for H. Highsmith,,2,41,60,-19,1271.0
+2:49.0, ,60-42,C. Martin makes free throw 2 of 2,,2,42,60,-18,1271.0
+2:37.0,Personal foul by C. Martin (drawn by K. Irving),60-42, ,,2,42,60,-18,1283.0
+2:33.0,Shooting foul by B. Adebayo (drawn by M. Kleber),60-42, ,,2,42,60,-18,1287.0
+2:33.0,M. Kleber makes free throw 1 of 2,61-42, ,,2,42,61,-19,1287.0
+2:33.0,M. Kleber makes free throw 2 of 2,62-42, ,,2,42,62,-20,1287.0
+2:20.0, ,62-42,T. Herro misses 2-pt jump shot from 7 ft,,2,42,62,-20,1300.0
+2:19.0, ,62-42,Offensive rebound by B. Adebayo,,2,42,62,-20,1301.0
+2:18.0, ,62-42,B. Adebayo misses 2-pt layup from 3 ft,,2,42,62,-20,1302.0
+2:17.0,Defensive rebound by P. Washington,62-42, ,,2,42,62,-20,1303.0
+2:10.0,Shooting foul by N. Jović (drawn by L. Dončić),62-42, ,,2,42,62,-20,1310.0
+2:10.0,L. Dončić makes free throw 1 of 2,63-42, ,,2,42,63,-21,1310.0
+2:10.0,L. Dončić makes free throw 2 of 2,64-42, ,,2,42,64,-22,1310.0
+2:02.0, ,64-42,C. Martin misses 3-pt jump shot from 25 ft,,2,42,64,-22,1318.0
+1:58.0,Defensive rebound by M. Kleber,64-42, ,,2,42,64,-22,1322.0
+1:49.0,K. Irving makes 3-pt jump shot from 25 ft,67-42, ,,2,42,67,-25,1331.0
+1:30.0, ,67-42,C. Martin misses 2-pt layup from 4 ft (block by P. Washington),,2,42,67,-25,1350.0
+1:28.0,Defensive rebound by K. Irving,67-42, ,,2,42,67,-25,1352.0
+1:17.0,P. Washington misses 3-pt jump shot from 27 ft,67-42, ,,2,42,67,-25,1363.0
+1:14.0, ,67-42,Defensive rebound by J. Butler,,2,42,67,-25,1366.0
+1:01.0, ,67-42,N. Jović misses 3-pt jump shot from 25 ft,,2,42,67,-25,1379.0
+0:58.0, ,67-42,Offensive rebound by J. Butler,,2,42,67,-25,1382.0
+0:57.0, ,67-44,J. Butler makes 2-pt layup from 5 ft,,2,44,67,-23,1383.0
+0:37.0,L. Dončić misses 3-pt jump shot from 30 ft,67-44, ,,2,44,67,-23,1403.0
+0:34.0, ,67-44,Defensive rebound by T. Herro,,2,44,67,-23,1406.0
+0:24.0, ,67-47,J. Butler makes 3-pt jump shot from 26 ft (assist by C. Martin),,2,47,67,-20,1416.0
+0:00.0,L. Dončić makes 2-pt jump shot from 19 ft,69-47, ,,2,47,69,-22,1440.0
+0:00.0,End of 2nd quarter,69-47,,,2,47,69,-22,1440.0
+12:00.0,Start of 3rd quarter,69-47,,,3,47,69,-22,1440.0
+11:43.0, ,69-47,N. Jović misses 3-pt jump shot from 23 ft,,3,47,69,-22,1457.0
+11:39.0,Defensive rebound by L. Dončić,69-47, ,,3,47,69,-22,1461.0
+11:20.0,L. Dončić misses 3-pt jump shot from 25 ft,69-47, ,,3,47,69,-22,1480.0
+11:18.0, ,69-47,Defensive rebound by N. Jović,,3,47,69,-22,1482.0
+11:06.0, ,69-49,B. Adebayo makes 2-pt dunk from 3 ft (assist by N. Jović),,3,49,69,-20,1494.0
+10:49.0,P. Washington makes 3-pt jump shot from 25 ft (assist by K. Irving),72-49, ,,3,49,72,-23,1511.0
+10:33.0, ,72-49,B. Adebayo misses 3-pt jump shot from 23 ft,,3,49,72,-23,1527.0
+10:31.0,Defensive rebound by L. Dončić,72-49, ,,3,49,72,-23,1529.0
+10:25.0,Personal foul by C. Martin (drawn by D. Gafford),72-49, ,,3,49,72,-23,1535.0
+10:13.0,D. Jones makes 2-pt jump shot from 4 ft (assist by K. Irving),74-49, ,,3,49,74,-25,1547.0
+10:03.0, ,74-49,T. Herro misses 3-pt jump shot from 28 ft,,3,49,74,-25,1557.0
+10:01.0, ,74-49,Offensive rebound by N. Jović,,3,49,74,-25,1559.0
+10:01.0, ,74-51,N. Jović makes 2-pt layup at rim,,3,51,74,-23,1559.0
+9:36.0,D. Jones misses 2-pt jump shot from 13 ft,74-51, ,,3,51,74,-23,1584.0
+9:34.0, ,74-51,Defensive rebound by J. Butler,,3,51,74,-23,1586.0
+9:27.0, ,74-51,Shooting foul by D. Jones (drawn by T. Herro),,3,51,74,-23,1593.0
+9:27.0, ,74-52,T. Herro makes free throw 1 of 3,,3,52,74,-22,1593.0
+9:27.0, ,74-53,T. Herro makes free throw 2 of 3,,3,53,74,-21,1593.0
+9:27.0, ,74-54,T. Herro makes free throw 3 of 3,,3,54,74,-20,1593.0
+9:13.0,L. Dončić makes 2-pt jump shot from 14 ft,76-54, ,,3,54,76,-22,1607.0
+8:58.0, ,76-56,N. Jović makes 2-pt dunk from 4 ft (assist by T. Herro),,3,56,76,-20,1622.0
+8:37.0,L. Dončić misses 3-pt jump shot from 30 ft,76-56, ,,3,56,76,-20,1643.0
+8:35.0, ,76-56,Defensive rebound by N. Jović,,3,56,76,-20,1645.0
+8:30.0, ,76-56,Turnover by N. Jović (lost ball; steal by D. Jones),,3,56,76,-20,1650.0
+8:26.0,K. Irving misses 3-pt jump shot from 25 ft,76-56, ,,3,56,76,-20,1654.0
+8:23.0, ,76-56,Defensive rebound by C. Martin,,3,56,76,-20,1657.0
+8:12.0, ,76-56,N. Jović misses 2-pt layup from 6 ft (block by D. Gafford),,3,56,76,-20,1668.0
+8:10.0,Defensive rebound by P. Washington,76-56, ,,3,56,76,-20,1670.0
+7:55.0,D. Jones makes 3-pt jump shot from 23 ft (assist by D. Gafford),79-56, ,,3,56,79,-23,1685.0
+7:38.0, ,79-58,B. Adebayo makes 2-pt jump shot from 7 ft,,3,58,79,-21,1702.0
+7:13.0,D. Jones misses 3-pt jump shot from 26 ft,79-58, ,,3,58,79,-21,1727.0
+7:09.0, ,79-58,Defensive rebound by N. Jović,,3,58,79,-21,1731.0
+7:05.0, ,79-58,Shooting foul by D. Jones (drawn by B. Adebayo),,3,58,79,-21,1735.0
+7:05.0, ,79-59,B. Adebayo makes free throw 1 of 2,,3,59,79,-20,1735.0
+7:05.0,D. Exum enters the game for D. Gafford,79-59, ,,3,59,79,-20,1735.0
+7:05.0,M. Kleber enters the game for K. Irving,79-59, ,,3,59,79,-20,1735.0
+7:05.0, ,79-60,B. Adebayo makes free throw 2 of 2,,3,60,79,-19,1735.0
+6:51.0,L. Dončić makes 3-pt jump shot from 27 ft,82-60, ,,3,60,82,-22,1749.0
+6:34.0, ,82-60,J. Butler misses 3-pt jump shot from 26 ft,,3,60,82,-22,1766.0
+6:30.0,Defensive rebound by L. Dončić,82-60, ,,3,60,82,-22,1770.0
+6:21.0,P. Washington misses 3-pt jump shot from 27 ft,82-60, ,,3,60,82,-22,1779.0
+6:18.0, ,82-60,Defensive rebound by T. Herro,,3,60,82,-22,1782.0
+6:13.0, ,82-60,T. Herro misses 2-pt hook shot from 6 ft (block by D. Jones),,3,60,82,-22,1787.0
+6:12.0, ,82-60,Offensive rebound by Team,,3,60,82,-22,1788.0
+6:12.0, ,82-60,Miami full timeout,,3,60,82,-22,1788.0
+6:12.0, ,82-60,K. Love enters the game for B. Adebayo,,3,60,82,-22,1788.0
+6:12.0, ,82-60,Turnover by  (5 sec),,3,60,82,-22,1788.0
+5:58.0,Turnover by L. Dončić (bad pass; steal by C. Martin),82-60, ,,3,60,82,-22,1802.0
+5:57.0, ,82-60,Offensive foul by C. Martin (drawn by M. Kleber),,3,60,82,-22,1803.0
+5:57.0, ,82-60,Turnover by C. Martin (offensive foul),,3,60,82,-22,1803.0
+5:54.0, ,82-60,Violation by Team (kicked ball),,3,60,82,-22,1806.0
+5:48.0,P. Washington misses 3-pt jump shot from 23 ft,82-60, ,,3,60,82,-22,1812.0
+5:46.0, ,82-60,Defensive rebound by K. Love,,3,60,82,-22,1814.0
+5:34.0, ,82-62,K. Love makes 2-pt layup from 3 ft (assist by N. Jović),,3,62,82,-20,1826.0
+5:14.0,L. Dončić misses 3-pt jump shot from 25 ft,82-62, ,,3,62,82,-20,1846.0
+5:11.0, ,82-62,Defensive rebound by K. Love,,3,62,82,-20,1849.0
+5:01.0, ,82-65,K. Love makes 3-pt jump shot from 24 ft (assist by N. Jović),,3,65,82,-17,1859.0
+4:41.0,P. Washington misses 2-pt jump shot from 11 ft,82-65, ,,3,65,82,-17,1879.0
+4:40.0,Offensive rebound by M. Kleber,82-65, ,,3,65,82,-17,1880.0
+4:40.0,M. Kleber makes 2-pt layup at rim,84-65, ,,3,65,84,-19,1880.0
+4:25.0, ,84-68,K. Love makes 3-pt jump shot from 27 ft (assist by T. Herro),,3,68,84,-16,1895.0
+4:09.0,Shooting foul by N. Jović (drawn by L. Dončić),84-68, ,,3,68,84,-16,1911.0
+4:09.0,L. Dončić misses free throw 1 of 2,84-68, ,,3,68,84,-16,1911.0
+4:09.0,Offensive rebound by Team,84-68, ,,3,68,84,-16,1911.0
+4:09.0,J. Green enters the game for D. Jones,84-68, ,,3,68,84,-16,1911.0
+4:09.0,T. Hardaway enters the game for P. Washington,84-68, ,,3,68,84,-16,1911.0
+4:09.0, ,84-68,H. Highsmith enters the game for N. Jović,,3,68,84,-16,1911.0
+4:09.0, ,84-68,J. Jaquez enters the game for C. Martin,,3,68,84,-16,1911.0
+4:09.0,L. Dončić makes free throw 2 of 2,85-68, ,,3,68,85,-17,1911.0
+3:49.0, ,85-68,Turnover by T. Herro (out of bounds lost ball),,3,68,85,-17,1931.0
+3:29.0,T. Hardaway misses 3-pt jump shot from 24 ft,85-68, ,,3,68,85,-17,1951.0
+3:26.0, ,85-68,Defensive rebound by K. Love,,3,68,85,-17,1954.0
+3:17.0, ,85-68,J. Jaquez misses 2-pt layup from 6 ft (block by M. Kleber),,3,68,85,-17,1963.0
+3:14.0,Defensive rebound by D. Exum,85-68, ,,3,68,85,-17,1966.0
+3:12.0,T. Hardaway misses 2-pt jump shot from 20 ft,85-68, ,,3,68,85,-17,1968.0
+3:11.0,Offensive rebound by J. Green,85-68, ,,3,68,85,-17,1969.0
+3:11.0,J. Green misses 2-pt layup at rim,85-68, ,,3,68,85,-17,1969.0
+3:09.0,Offensive rebound by D. Exum,85-68, ,,3,68,85,-17,1971.0
+2:57.0,L. Dončić misses 3-pt jump shot from 26 ft,85-68, ,,3,68,85,-17,1983.0
+2:55.0, ,85-68,Defensive rebound by K. Love,,3,68,85,-17,1985.0
+2:46.0, ,85-70,J. Butler makes 2-pt jump shot from 15 ft (assist by T. Herro),,3,70,85,-15,1994.0
+2:26.0,L. Dončić misses 2-pt layup from 6 ft,85-70, ,,3,70,85,-15,2014.0
+2:24.0, ,85-70,Defensive rebound by K. Love,,3,70,85,-15,2016.0
+2:20.0, ,85-70,Turnover by K. Love (bad pass; steal by J. Green),,3,70,85,-15,2020.0
+2:13.0,L. Dončić misses 3-pt jump shot from 22 ft,85-70, ,,3,70,85,-15,2027.0
+2:08.0, ,85-70,Defensive rebound by K. Love,,3,70,85,-15,2032.0
+2:06.0, ,85-70,H. Highsmith misses 2-pt layup from 6 ft,,3,70,85,-15,2034.0
+2:04.0,Defensive rebound by J. Green,85-70, ,,3,70,85,-15,2036.0
+1:56.0,T. Hardaway misses 3-pt jump shot from 27 ft,85-70, ,,3,70,85,-15,2044.0
+1:52.0, ,85-70,Defensive rebound by J. Butler,,3,70,85,-15,2048.0
+1:33.0, ,85-72,T. Herro makes 2-pt layup from 6 ft,,3,72,85,-13,2067.0
+1:16.0,Personal foul by H. Highsmith (drawn by D. Exum),85-72, ,,3,72,85,-13,2084.0
+1:16.0,Dallas full timeout,85-72, ,,3,72,85,-13,2084.0
+1:16.0,K. Irving enters the game for D. Exum,85-72, ,,3,72,85,-13,2084.0
+1:16.0, ,85-72,P. Mills enters the game for T. Herro,,3,72,85,-13,2084.0
+1:12.0,J. Green misses 2-pt layup from 5 ft,85-72, ,,3,72,85,-13,2088.0
+1:10.0, ,85-72,Defensive rebound by J. Jaquez,,3,72,85,-13,2090.0
+0:52.0, ,85-72,H. Highsmith misses 3-pt jump shot from 26 ft,,3,72,85,-13,2108.0
+0:49.0,Defensive rebound by T. Hardaway,85-72, ,,3,72,85,-13,2111.0
+0:37.0,J. Green makes 3-pt jump shot from 24 ft (assist by L. Dončić),88-72, ,,3,72,88,-16,2123.0
+0:21.0, ,88-74,K. Love makes 2-pt hook shot from 7 ft (assist by J. Jaquez),,3,74,88,-14,2139.0
+0:04.0,L. Dončić misses 3-pt jump shot from 28 ft,88-74, ,,3,74,88,-14,2156.0
+0:01.0, ,88-74,Defensive rebound by H. Highsmith,,3,74,88,-14,2159.0
+0:00.0,End of 3rd quarter,88-74,,,3,74,88,-14,2160.0
+12:00.0,Start of 4th quarter,88-74,,,4,74,88,-14,2160.0
+11:41.0,J. Green misses 3-pt jump shot from 23 ft,88-74, ,,4,74,88,-14,2179.0
+11:37.0, ,88-74,Defensive rebound by H. Highsmith,,4,74,88,-14,2183.0
+11:22.0, ,88-77,J. Jaquez makes 3-pt jump shot from 26 ft (assist by T. Herro),,4,77,88,-11,2198.0
+11:10.0,P. Washington makes 2-pt jump shot from 7 ft (assist by K. Irving),90-77, ,,4,77,90,-13,2210.0
+10:53.0, ,90-77,K. Love misses 2-pt layup from 4 ft (block by D. Gafford),,4,77,90,-13,2227.0
+10:51.0, ,90-77,Offensive rebound by Team,,4,77,90,-13,2229.0
+10:47.0, ,90-80,K. Love makes 3-pt jump shot from 23 ft (assist by T. Herro),,4,80,90,-10,2233.0
+10:24.0,K. Irving makes 2-pt layup from 6 ft,92-80, ,,4,80,92,-12,2256.0
+10:13.0, ,92-80,Personal foul by J. Green (drawn by T. Herro),,4,80,92,-12,2267.0
+10:13.0,D. Jones enters the game for J. Green,92-80, ,,4,80,92,-12,2267.0
+10:05.0, ,92-80,Turnover by T. Herro (lost ball; steal by P. Washington),,4,80,92,-12,2275.0
+9:59.0,Turnover by P. Washington (bad pass),92-80, ,,4,80,92,-12,2281.0
+9:45.0, ,92-83,T. Herro makes 3-pt jump shot from 23 ft (assist by C. Martin),,4,83,92,-9,2295.0
+9:30.0,D. Gafford makes 2-pt dunk from 3 ft (assist by P. Washington),94-83, ,,4,83,94,-11,2310.0
+9:07.0, ,94-83,J. Jaquez misses 2-pt layup from 7 ft,,4,83,94,-11,2333.0
+9:05.0, ,94-83,Offensive rebound by K. Love,,4,83,94,-11,2335.0
+9:05.0, ,94-83,K. Love misses 2-pt dunk at rim,,4,83,94,-11,2335.0
+9:03.0, ,94-83,Offensive rebound by H. Highsmith,,4,83,94,-11,2337.0
+9:01.0, ,94-83,T. Herro misses 3-pt jump shot from 26 ft,,4,83,94,-11,2339.0
+8:58.0, ,94-83,Offensive rebound by Team,,4,83,94,-11,2342.0
+8:58.0,L. Dončić enters the game for D. Exum,94-83, ,,4,83,94,-11,2342.0
+8:51.0, ,94-83,K. Love misses 3-pt jump shot from 30 ft,,4,83,94,-11,2349.0
+8:47.0, ,94-83,Offensive rebound by H. Highsmith,,4,83,94,-11,2353.0
+8:44.0, ,94-86,T. Herro makes 3-pt jump shot from 27 ft (assist by H. Highsmith),,4,86,94,-8,2356.0
+8:42.0,Dallas full timeout,94-86, ,,4,86,94,-8,2358.0
+8:24.0,P. Washington makes 2-pt jump shot from 6 ft (assist by L. Dončić),96-86, ,,4,86,96,-10,2376.0
+8:24.0,Shooting foul by K. Love (drawn by P. Washington),96-86, ,,4,86,96,-10,2376.0
+8:24.0,P. Washington misses free throw 1 of 1,96-86, ,,4,86,96,-10,2376.0
+8:23.0, ,96-86,Defensive rebound by K. Love,,4,86,96,-10,2377.0
+8:22.0, ,96-86,Turnover by K. Love (lost ball; steal by D. Gafford),,4,86,96,-10,2378.0
+8:18.0,P. Washington misses 2-pt jump shot from 7 ft,96-86, ,,4,86,96,-10,2382.0
+8:18.0,Offensive rebound by D. Jones,96-86, ,,4,86,96,-10,2382.0
+8:18.0,Shooting foul by K. Love (drawn by D. Jones),96-86, ,,4,86,96,-10,2382.0
+8:18.0,D. Jones makes free throw 1 of 2,97-86, ,,4,86,97,-11,2382.0
+8:18.0,D. Jones misses free throw 2 of 2,97-86, ,,4,86,97,-11,2382.0
+8:16.0, ,97-86,Defensive rebound by J. Jaquez,,4,86,97,-11,2384.0
+7:54.0, ,97-86,Turnover by Team (shot clock),,4,86,97,-11,2406.0
+7:35.0,K. Irving misses 3-pt jump shot from 26 ft,97-86, ,,4,86,97,-11,2425.0
+7:32.0, ,97-86,Defensive rebound by H. Highsmith,,4,86,97,-11,2428.0
+7:17.0, ,97-86,T. Herro misses 2-pt layup from 7 ft (block by D. Gafford),,4,86,97,-11,2443.0
+7:15.0,Defensive rebound by L. Dončić,97-86, ,,4,86,97,-11,2445.0
+7:01.0,L. Dončić makes 2-pt jump shot from 9 ft,99-86, ,,4,86,99,-13,2459.0
+7:00.0, ,99-86,Miami full timeout,,4,86,99,-13,2460.0
+7:00.0, ,99-86,B. Adebayo enters the game for T. Herro,,4,86,99,-13,2460.0
+7:00.0, ,99-86,J. Butler enters the game for J. Jaquez,,4,86,99,-13,2460.0
+7:00.0, ,99-86,P. Mills enters the game for K. Love,,4,86,99,-13,2460.0
+6:38.0, ,99-88,J. Butler makes 2-pt jump shot from 14 ft,,4,88,99,-11,2482.0
+6:19.0,D. Jones misses 3-pt jump shot from 26 ft,99-88, ,,4,88,99,-11,2501.0
+6:15.0, ,99-88,Defensive rebound by H. Highsmith,,4,88,99,-11,2505.0
+6:05.0, ,99-88,Turnover by J. Butler (bad pass; steal by D. Jones),,4,88,99,-11,2515.0
+5:51.0,Personal foul by P. Mills (drawn by K. Irving),99-88, ,,4,88,99,-11,2529.0
+5:38.0,D. Jones makes 2-pt layup from 3 ft (assist by L. Dončić),101-88, ,,4,88,101,-13,2542.0
+5:24.0, ,101-88,B. Adebayo misses 2-pt jump shot from 13 ft,,4,88,101,-13,2556.0
+5:22.0,Defensive rebound by D. Gafford,101-88, ,,4,88,101,-13,2558.0
+5:22.0,M. Kleber enters the game for D. Gafford,101-88, ,,4,88,101,-13,2558.0
+5:02.0,L. Dončić misses 3-pt jump shot from 24 ft,101-88, ,,4,88,101,-13,2578.0
+4:59.0, ,101-88,Defensive rebound by H. Highsmith,,4,88,101,-13,2581.0
+4:47.0, ,101-88,P. Mills misses 3-pt jump shot from 23 ft,,4,88,101,-13,2593.0
+4:43.0, ,101-88,Offensive rebound by B. Adebayo,,4,88,101,-13,2597.0
+4:31.0, ,101-88,C. Martin misses 2-pt jump shot from 12 ft,,4,88,101,-13,2609.0
+4:30.0, ,101-88,Offensive rebound by H. Highsmith,,4,88,101,-13,2610.0
+4:30.0, ,101-88,Turnover by Team (shot clock),,4,88,101,-13,2610.0
+4:12.0,D. Jones misses 2-pt jump shot from 13 ft,101-88, ,,4,88,101,-13,2628.0
+4:09.0,Offensive rebound by D. Jones,101-88, ,,4,88,101,-13,2631.0
+4:06.0,Shooting foul by P. Mills (drawn by L. Dončić),101-88, ,,4,88,101,-13,2634.0
+4:06.0,L. Dončić makes free throw 1 of 2,102-88, ,,4,88,102,-14,2634.0
+4:06.0, ,102-88,T. Herro enters the game for P. Mills,,4,88,102,-14,2634.0
+4:06.0,L. Dončić makes free throw 2 of 2,103-88, ,,4,88,103,-15,2634.0
+3:53.0, ,103-90,C. Martin makes 2-pt layup from 6 ft,,4,90,103,-13,2647.0
+3:27.0,L. Dončić misses 3-pt jump shot from 27 ft,103-90, ,,4,90,103,-13,2673.0
+3:23.0, ,103-90,Defensive rebound by T. Herro,,4,90,103,-13,2677.0
+3:06.0, ,103-90,C. Martin misses 2-pt layup from 4 ft,,4,90,103,-13,2694.0
+3:04.0,Defensive rebound by P. Washington,103-90, ,,4,90,103,-13,2696.0
+3:04.0,Dallas full timeout,103-90, ,,4,90,103,-13,2696.0
+3:04.0,D. Exum enters the game for D. Jones,103-90, ,,4,90,103,-13,2696.0
+3:04.0, ,103-90,K. Love enters the game for H. Highsmith,,4,90,103,-13,2696.0
+2:45.0,K. Irving makes 2-pt layup from 4 ft (assist by D. Exum),105-90, ,,4,90,105,-15,2715.0
+2:20.0, ,105-90,T. Herro misses 2-pt jump shot from 15 ft,,4,90,105,-15,2740.0
+2:17.0,Defensive rebound by P. Washington,105-90, ,,4,90,105,-15,2743.0
+1:57.0,Offensive foul by L. Dončić (drawn by C. Martin),105-90, ,,4,90,105,-15,2763.0
+1:57.0,Turnover by L. Dončić (offensive foul),105-90, ,,4,90,105,-15,2763.0
+1:57.0,J. Hardy enters the game for L. Dončić,105-90, ,,4,90,105,-15,2763.0
+1:57.0,A. Lawson enters the game for D. Exum,105-90, ,,4,90,105,-15,2763.0
+1:57.0,M. Morris enters the game for K. Irving,105-90, ,,4,90,105,-15,2763.0
+1:57.0,O. Prosper enters the game for M. Kleber,105-90, ,,4,90,105,-15,2763.0
+1:57.0,B. Williams enters the game for P. Washington,105-90, ,,4,90,105,-15,2763.0
+1:57.0, ,105-90,H. Highsmith enters the game for K. Love,,4,90,105,-15,2763.0
+1:44.0, ,105-90,Turnover by T. Herro (bad pass),,4,90,105,-15,2776.0
+1:26.0,O. Prosper makes 2-pt jump shot from 18 ft (assist by B. Williams),107-90, ,,4,90,107,-17,2794.0
+1:15.0, ,107-90,C. Martin misses 2-pt jump shot from 18 ft,,4,90,107,-17,2805.0
+1:12.0,Defensive rebound by A. Lawson,107-90, ,,4,90,107,-17,2808.0
+1:08.0,O. Prosper makes 2-pt dunk from 3 ft (assist by A. Lawson),109-90, ,,4,90,109,-19,2812.0
+1:08.0, ,109-90,Miami full timeout,,4,90,109,-19,2812.0
+1:08.0, ,109-90,J. Cain enters the game for B. Adebayo,,4,90,109,-19,2812.0
+1:08.0, ,109-90,P. Mills enters the game for J. Butler,,4,90,109,-19,2812.0
+1:08.0, ,109-90,O. Robinson enters the game for T. Herro,,4,90,109,-19,2812.0
+1:08.0, ,109-90,C. Swider enters the game for H. Highsmith,,4,90,109,-19,2812.0
+1:08.0, ,109-90,A. Williams enters the game for C. Martin,,4,90,109,-19,2812.0
+1:02.0, ,109-92,P. Mills makes 2-pt layup from 4 ft (assist by C. Swider),,4,92,109,-17,2818.0
+0:49.0,J. Hardy misses 2-pt jump shot from 18 ft,109-92, ,,4,92,109,-17,2831.0
+0:46.0,Offensive rebound by Team,109-92, ,,4,92,109,-17,2834.0
+0:43.0,Offensive foul by J. Hardy (drawn by P. Mills),109-92, ,,4,92,109,-17,2837.0
+0:43.0,Turnover by J. Hardy (offensive foul),109-92, ,,4,92,109,-17,2837.0
+0:33.0, ,109-92,A. Williams misses 2-pt layup from 6 ft,,4,92,109,-17,2847.0
+0:30.0,Defensive rebound by J. Hardy,109-92, ,,4,92,109,-17,2850.0
+0:27.0,B. Williams makes 2-pt layup from 3 ft (assist by J. Hardy),111-92, ,,4,92,111,-19,2853.0
+0:20.0, ,111-92,C. Swider misses 3-pt jump shot from 24 ft,,4,92,111,-19,2860.0
+0:16.0,Defensive rebound by A. Lawson,111-92, ,,4,92,111,-19,2864.0
+0:00.0,End of 4th quarter,111-92,,,4,92,111,-19,2880.0

@@ -345,6 +345,50 @@ def combine(team, season):
 
     print("Save combined file " + filename) 
 
+    # Create minial pbp dataset for viz
+
+    # Create a DataFrame with the last row of each unique "id"
+    last_per_id = combined_df.drop_duplicates(subset='id', keep='last')
+
+    # Add all rows with unique "Score" for each unique "id"
+    unique_scores_per_id = combined_df.drop_duplicates(subset=['id', 'Score'])
+
+    # Combining the two DataFrames, removing duplicates again in case of overlap
+    combined_df_viz = pd.concat([last_per_id, unique_scores_per_id]).drop_duplicates()
+
+    # Remove columns: "Time", "Score", "Quarter", "Notes"
+    combined_df_viz = combined_df_viz.drop(columns=['Time', 'Score', 'Quarter', 'Notes'])
+
+    # Sort by "id" and then by "ElapsedTime"
+    combined_df_viz = combined_df_viz.sort_values(by=['id', 'ElapsedTime'])
+
+    # Replace "Tie" with "T" and "Lead Change" with "LC" in the "Event" column
+    combined_df_viz['Event'] = combined_df_viz['Event'].replace({'Tie': 'T', 'Lead change': 'LC'})
+
+    # TODO: get list of teams for every year
+    teams = pd.read_csv("data/teams/teams-2024.csv")
+
+    # Create a dictionary mapping from the 'location' to 'code'
+    location_to_code = teams.set_index('location')['code'].to_dict()
+
+    # Replace values in the "Opponent" column using the map
+    combined_df_viz['OpponentName'] = combined_df_viz['OpponentName'].map(location_to_code)
+
+    # Rename the columns to better fit JS
+    combined_df_viz = combined_df_viz.rename(columns={
+        'Event': 'event',
+        'MiamiScore': 'miamiScore',
+        'OpponentScore': 'opponentScore',
+        'PointDifference': 'pointDifference',
+        'ElapsedTime': 'elapsedTime',
+        'OpponentName': 'opponent',
+    })
+
+    viz_filename = f"{ season }-{ team }-viz.csv"
+
+    # Save the combined DataFrame to a new CSV file
+    combined_df_viz.to_csv(combined_directory + viz_filename, index=False)
+
     # Filter for rows where Time is '12:00.0', then drop duplicates based on 'id' and 'Quarter'
     time_12_df = combined_df[combined_df['Time'] == '12:00.0'].drop_duplicates(['id', 'Quarter'])
 
@@ -441,4 +485,4 @@ def combine(team, season):
     print("Save combined file " + quarter_midquarter_viz_filename) 
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
-scrape("MIA", "2022")
+scrape("MIA", "2024")
