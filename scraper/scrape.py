@@ -268,12 +268,12 @@ def clean_pbp(filename, team, season):
         # Calculate elapsed time
         elapsed_quarters = 0
         if row['Quarter'] <= 4:
-            elapsed_quarters = (row['Quarter'] - 1) * quarter_seconds
+            elapsed_quarters = row['Quarter'] * quarter_seconds
         else:
             ots = row['Quarter'] - 4
-            elapsed_quarters = (4 * quarter_seconds) + ((ots - 1) * ot_seconds)
+            elapsed_quarters = (4 * quarter_seconds) + (ots * ot_seconds)
 
-        elapsed_time = elapsed_quarters + (quarter_seconds - remaining_time_in_quarter)
+        elapsed_time = elapsed_quarters - remaining_time_in_quarter
 
         # Calculate total elapsed time
         df.at[index, 'ElapsedTime'] = elapsed_time
