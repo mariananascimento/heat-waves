@@ -24,6 +24,7 @@ def scrape(team, season):
 
         # Skips if file exists
         if os.path.isfile(file_path):
+            clean_pbp(filename, team, season)
             continue
 
         # Add 4s delay to prevent website block
@@ -388,6 +389,8 @@ def combine(team, season):
 
     # Save the combined DataFrame to a new CSV file
     combined_df_viz.to_csv(combined_directory + viz_filename, index=False)
+
+    print("Save combined file " + viz_filename) 
 
     # Filter for rows where Time is '12:00.0', then drop duplicates based on 'id' and 'Quarter'
     time_12_df = combined_df[combined_df['Time'] == '12:00.0'].drop_duplicates(['id', 'Quarter'])

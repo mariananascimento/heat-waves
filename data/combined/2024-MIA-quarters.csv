@@ -198,7 +198,7 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 12:00.0,16-22,,2,16,22,-6,720.0,Start of 2nd quarter,Brooklyn,202401150BRK
 12:00.0,31-45,,3,31,45,-14,1440.0,Start of 3rd quarter,Brooklyn,202401150BRK
 12:00.0,68-69,,4,68,69,-1,2160.0,Start of 4th quarter,Brooklyn,202401150BRK
-0:00.0,96-95,,5,96,95,1,3600.0,End of 1st overtime,Brooklyn,202401150BRK
+0:00.0,96-95,,5,96,95,1,3180.0,End of 1st overtime,Brooklyn,202401150BRK
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. S. Barnes (K. Lowry gains possession),Toronto,202401170TOR
 12:00.0,18-41,,2,18,41,-23,720.0,Start of 2nd quarter,Toronto,202401170TOR
 12:00.0,43-78,,3,43,78,-35,1440.0,Start of 3rd quarter,Toronto,202401170TOR
@@ -393,7 +393,7 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 12:00.0,30-27,,2,30,27,3,720.0,Start of 2nd quarter,Atlanta,202404090ATL
 12:00.0,59-47,,3,59,47,12,1440.0,Start of 3rd quarter,Atlanta,202404090ATL
 12:00.0,80-80,,4,80,80,0,2160.0,Start of 4th quarter,Atlanta,202404090ATL
-0:00.0,117-111,,6,117,111,6,3900.0,End of 2nd overtime,Atlanta,202404090ATL
+0:00.0,117-111,,6,117,111,6,3480.0,End of 2nd overtime,Atlanta,202404090ATL
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Gafford vs. B. Adebayo (D. Jones gains possession),Dallas,202404100MIA
 12:00.0,33-24,,2,24,33,-9,720.0,Start of 2nd quarter,Dallas,202404100MIA
 12:00.0,69-47,,3,47,69,-22,1440.0,Start of 3rd quarter,Dallas,202404100MIA

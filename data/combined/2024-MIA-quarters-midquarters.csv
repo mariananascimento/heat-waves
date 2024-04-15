@@ -358,7 +358,7 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 12:00.0,31-45,,3,31,45,-14,1440.0,Start of 3rd quarter,Brooklyn,202401150BRK
 6:15.0,79-74,,4,79,74,5,2505.0,J. Butler makes 2-pt layup from 2 ft,Brooklyn,202401150BRK
 12:00.0,68-69,,4,68,69,-1,2160.0,Start of 4th quarter,Brooklyn,202401150BRK
-0:00.0,96-95,,5,96,95,1,3600.0,End of 1st overtime,Brooklyn,202401150BRK
+0:00.0,96-95,,5,96,95,1,3180.0,End of 1st overtime,Brooklyn,202401150BRK
 6:02.0,11-22,,1,11,22,-11,358.0, ,Toronto,202401170TOR
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. S. Barnes (K. Lowry gains possession),Toronto,202401170TOR
 6:11.0,30-62,,2,30,62,-32,1069.0,C. Martin makes free throw 2 of 2,Toronto,202401170TOR
@@ -709,8 +709,8 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 12:00.0,59-47,,3,59,47,12,1440.0,Start of 3rd quarter,Atlanta,202404090ATL
 6:08.0,91-92,,4,91,92,-1,2512.0,Defensive rebound by T. Herro,Atlanta,202404090ATL
 12:00.0,80-80,,4,80,80,0,2160.0,Start of 4th quarter,Atlanta,202404090ATL
-0:00.0,107-107,,5,107,107,0,3600.0,End of 1st overtime,Atlanta,202404090ATL
-0:00.0,117-111,,6,117,111,6,3900.0,End of 2nd overtime,Atlanta,202404090ATL
+0:00.0,107-107,,5,107,107,0,3180.0,End of 1st overtime,Atlanta,202404090ATL
+0:00.0,117-111,,6,117,111,6,3480.0,End of 2nd overtime,Atlanta,202404090ATL
 6:17.0,14-16,Lead change,1,16,14,2,343.0,J. Butler makes 3-pt jump shot from 24 ft (assist by C. Martin),Dallas,202404100MIA
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Gafford vs. B. Adebayo (D. Jones gains possession),Dallas,202404100MIA
 6:10.0,51-36,,2,36,51,-15,1070.0, ,Dallas,202404100MIA
