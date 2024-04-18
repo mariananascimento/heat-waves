@@ -729,3 +729,21 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 6:13.0,90-110,,4,110,90,20,2507.0, ,Toronto,202404120MIA
 12:00.0,75-92,,4,92,75,17,2160.0,Start of 4th quarter,Toronto,202404120MIA
 0:00.0,103-125,,4,125,103,22,2880.0,End of 4th quarter,Toronto,202404120MIA
+6:12.0,13-10,,1,10,13,-3,348.0,Offensive rebound by Team,Toronto,202404140MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Olynyk vs. B. Adebayo (T. Herro gains possession),Toronto,202404140MIA
+6:00.0,35-38,,2,38,35,3,1080.0,Defensive rebound by T. Bryant,Toronto,202404140MIA
+12:00.0,24-24,,2,24,24,0,720.0,Start of 2nd quarter,Toronto,202404140MIA
+6:01.0,61-77,,3,77,61,16,1799.0,Defensive rebound by C. Martin,Toronto,202404140MIA
+12:00.0,46-67,,3,67,46,21,1440.0,Start of 3rd quarter,Toronto,202404140MIA
+6:00.0,80-106,,4,106,80,26,2520.0,J. Jaquez makes 2-pt layup from 2 ft,Toronto,202404140MIA
+12:00.0,71-94,,4,94,71,23,2160.0,Start of 4th quarter,Toronto,202404140MIA
+0:00.0,103-118,,4,118,103,15,2880.0, ,Toronto,202404140MIA
+6:07.0,4-12,,1,4,12,-8,353.0, ,Philadelphia,202404170PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. J. Embiid (T. Maxey gains possession),Philadelphia,202404170PHI
+6:00.0,37-28,,2,37,28,9,1080.0, ,Philadelphia,202404170PHI
+12:00.0,23-22,,2,23,22,1,720.0,Start of 2nd quarter,Philadelphia,202404170PHI
+6:14.0,59-53,,3,59,53,6,1786.0,H. Highsmith enters the game for N. Jović,Philadelphia,202404170PHI
+12:00.0,51-39,,3,51,39,12,1440.0,Start of 3rd quarter,Philadelphia,202404170PHI
+6:06.0,85-86,,4,85,86,-1,2514.0, ,Philadelphia,202404170PHI
+12:00.0,74-69,,4,74,69,5,2160.0,Start of 4th quarter,Philadelphia,202404170PHI
+0:00.0,104-105,,4,104,105,-1,2880.0,End of 4th quarter,Philadelphia,202404170PHI
