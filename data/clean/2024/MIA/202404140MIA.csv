@@ -1,4 +1,4 @@
-Time,Toronto,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Toronto,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: K. Olynyk vs. B. Adebayo (T. Herro gains possession),0-0,,,1,0,0,0,0.0
 11:38.0, ,0-3,N. Jović makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,1,3,0,3,22.0
 11:22.0,J. Freeman-Liberty misses 3-pt jump shot from 25 ft,0-3, ,,1,3,0,3,38.0

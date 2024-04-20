@@ -1,4 +1,4 @@
-Time,Chicago,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Chicago,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: N. Vučević vs. O. Robinson (C. White gains possession),0-0,,,1,0,0,0,0.0
 11:44.0,A. Caruso makes 3-pt jump shot from 23 ft (assist by C. White),3-0, ,,1,0,3,-3,16.0
 11:19.0, ,3-0,K. Lowry misses 3-pt jump shot from 25 ft,,1,0,3,-3,41.0

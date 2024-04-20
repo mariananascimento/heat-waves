@@ -1,4 +1,4 @@
-Time,Brooklyn,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Brooklyn,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: N. Claxton vs. B. Adebayo (S. Dinwiddie gains possession),0-0,,,1,0,0,0,0.0
 11:49.0,Turnover by S. Dinwiddie (bad pass),0-0, ,,1,0,0,0,11.0
 11:30.0, ,0-0,B. Adebayo misses 2-pt jump shot from 15 ft,,1,0,0,0,30.0

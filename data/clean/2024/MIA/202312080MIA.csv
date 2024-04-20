@@ -1,4 +1,4 @@
-Time,Cleveland,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Cleveland,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: J. Allen vs. O. Robinson (M. Strus gains possession),0-0,,,1,0,0,0,0.0
 11:41.0,D. Garland makes 2-pt jump shot from 11 ft (assist by J. Allen),2-0, ,,1,0,2,-2,19.0
 11:41.0,Shooting foul by O. Robinson (drawn by D. Garland),2-0, ,,1,0,2,-2,19.0

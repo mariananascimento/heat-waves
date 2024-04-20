@@ -1,4 +1,4 @@
-Time,Charlotte,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Charlotte,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: N. Richards vs. O. Robinson (T. Rozier gains possession),0-0,,,1,0,0,0,0.0
 11:48.0,Shooting foul by C. Martin (drawn by T. Rozier),0-0, ,,1,0,0,0,12.0
 11:48.0,T. Rozier makes free throw 1 of 2,1-0, ,,1,0,1,-1,12.0

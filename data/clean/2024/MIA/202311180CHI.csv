@@ -1,4 +1,4 @@
-Time,Miami,Score,Chicago,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Miami,Score,Chicago,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: B. Adebayo vs. N. Vučević (J. Butler gains possession),0-0,,,1,0,0,0,0.0
 11:35.0,J. Butler makes 3-pt jump shot from 25 ft (assist by D. Robinson),3-0, ,,1,3,0,3,25.0
 11:06.0, ,3-0,C. White misses 3-pt jump shot from 26 ft,,1,3,0,3,54.0

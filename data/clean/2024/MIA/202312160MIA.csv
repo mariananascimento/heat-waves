@@ -1,4 +1,4 @@
-Time,Chicago,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Chicago,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: N. Vučević vs. O. Robinson (C. White gains possession),0-0,,,1,0,0,0,0.0
 11:47.0,N. Vučević misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,13.0
 11:43.0,Offensive rebound by A. Dosunmu,0-0, ,,1,0,0,0,17.0

@@ -1,4 +1,4 @@
-Time,Memphis,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Memphis,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: J. Jackson vs. B. Adebayo (J. Konchar gains possession),0-0,,,1,0,0,0,0.0
 11:35.0,J. Jackson misses 2-pt hook shot from 6 ft (block by B. Adebayo),0-0, ,,1,0,0,0,25.0
 11:31.0, ,0-0,Defensive rebound by B. Adebayo,,1,0,0,0,29.0

@@ -1,4 +1,4 @@
-Time,Detroit,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Detroit,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: J. Duren vs. B. Adebayo (A. Thompson gains possession),0-0,,,1,0,0,0,0.0
 11:43.0,I. Stewart makes 2-pt hook shot from 5 ft (assist by J. Duren),2-0, ,,1,0,2,-2,17.0
 11:20.0, ,2-0,T. Herro misses 2-pt jump shot from 17 ft,,1,0,2,-2,40.0

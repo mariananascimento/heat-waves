@@ -1,4 +1,4 @@
-Time,Miami,Score,Charlotte,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Miami,Score,Charlotte,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: O. Robinson vs. N. Richards (T. Rozier gains possession),0-0,,,1,0,0,0,0.0
 11:42.0, ,0-2,N. Richards makes 2-pt layup from 2 ft (assist by T. Rozier),,1,0,2,-2,18.0
 11:25.0,D. Robinson makes 3-pt jump shot from 26 ft (assist by O. Robinson),3-2, ,Lead change,1,3,2,1,35.0

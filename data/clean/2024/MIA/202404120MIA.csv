@@ -1,4 +1,4 @@
-Time,Toronto,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Toronto,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: K. Olynyk vs. B. Adebayo (T. Herro gains possession),0-0,,,1,0,0,0,0.0
 11:39.0, ,0-2,B. Adebayo makes 2-pt layup from 2 ft,,1,2,0,2,21.0
 11:28.0, ,0-2,Violation by Team (kicked ball),,1,2,0,2,32.0

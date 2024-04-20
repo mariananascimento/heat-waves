@@ -1,4 +1,4 @@
-Time,Phoenix,Score,Miami,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Phoenix,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: J. Nurkić vs. B. Adebayo (B. Beal gains possession),0-0,,,1,0,0,0,0.0
 11:36.0,B. Beal makes 2-pt jump shot from 8 ft,2-0, ,,1,0,2,-2,24.0
 11:13.0, ,2-2,T. Rozier makes 2-pt jump shot from 16 ft,Tie,1,2,2,0,47.0

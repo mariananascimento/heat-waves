@@ -6,7 +6,16 @@ import re
 import time
 import os
 
+team_location = ""
+teams = False
+
 def scrape(team, season):
+    global teams, team_location
+
+    # TODO: get list of teams for every year
+    teams = pd.read_csv("data/teams/teams-2024.csv")
+
+    team_location = teams[teams['code'] == team]['location'].iloc[0]
 
     urls = get_urls(team, season)
     counter = 0
@@ -153,6 +162,7 @@ def scrape_raw_pbp(url, filename, team, season):
         return False
 
 def clean_pbp(filename, team, season):
+    global team_location
 
     raw_directory = f"data/raw/{season}/{team}/"
     clean_directory = f"data/clean/{season}/{team}/"
@@ -219,20 +229,20 @@ def clean_pbp(filename, team, season):
         else:
             previous_score = df.at[index, 'Score']  # Update the previous score
 
-    # Initialize columns 'MiamiScore', 'OpponentScore', and 'PointDifference'
-    df['MiamiScore'] = 0
+    # Initialize columns 'TeamScore', 'OpponentScore', and 'PointDifference'
+    df['TeamScore'] = 0
     df['OpponentScore'] = 0
     df['PointDifference'] = 0
 
-    # Find the column index for "Miami" in the DataFrame
-    miami_index = df.columns.get_loc("Miami")
+    # Find the column index for team in the DataFrame
+    team_index = df.columns.get_loc(team_location)
 
-    # Determine the indices for Miami and the opponent based on the location of "Miami"
-    if miami_index == 1:
-        miami = 0
+    # Determine the indices for team and the opponent based on the column index of team
+    if team_index == 1:
+        team = 0
         opponent = 1
-    elif miami_index == 3:
-        miami = 1
+    elif team_index == 3:
+        team = 1
         opponent = 0
 
     # Process each row in the DataFrame
@@ -240,14 +250,14 @@ def clean_pbp(filename, team, season):
         # Split the 'Score' column value into two parts using '-' as the separator
         scores = row['Score'].split('-')
         # Convert the split values to integers immediately
-        miami_score = int(scores[miami])
+        team_score = int(scores[team])
         opponent_score = int(scores[opponent])
 
         # Assign the converted scores to their respective columns
-        df.at[index, 'MiamiScore'] = miami_score
+        df.at[index, 'TeamScore'] = team_score
         df.at[index, 'OpponentScore'] = opponent_score
         # Calculate and assign the point difference
-        df.at[index, 'PointDifference'] = miami_score - opponent_score
+        df.at[index, 'PointDifference'] = team_score - opponent_score
 
     # Constants
     quarter_seconds = 12 * 60
@@ -293,6 +303,7 @@ def clean_pbp(filename, team, season):
     print(f"The file '{filename}' has been written with the filtered data.")
 
 def combine(team, season):
+    global teams, team_location
 
     clean_directory = f"data/clean/{season}/{team}/"
     combined_directory = f"data/combined/"
@@ -313,7 +324,7 @@ def combine(team, season):
         df = pd.read_csv(file_path)
         
         # Check the conditions and adjust the DataFrame accordingly
-        if df.columns[1] == 'Miami':
+        if df.columns[1] == team_location:
             # Rename 2nd column to "Notes" and combine it with the 4th column
             df['Notes'] = df.iloc[:, 1].combine_first(df.iloc[:, 3])
             # Create new column "OpponentName" with the name of the 4th column
@@ -321,7 +332,7 @@ def combine(team, season):
             # Delete the 4th column
             df.drop(df.columns[[1, 3]], axis=1, inplace=True)
 
-        elif df.columns[3] == 'Miami':
+        elif df.columns[3] == team_location:
             # Rename 4th column to "Notes" and combine it with the 2nd column
             df['Notes'] = df.iloc[:, 3].combine_first(df.iloc[:, 1])
             # Create new column "OpponentName" with the name of the 2nd column
@@ -366,8 +377,11 @@ def combine(team, season):
     # Replace "Tie" with "T" and "Lead Change" with "LC" in the "Event" column
     combined_df_viz['Event'] = combined_df_viz['Event'].replace({'Tie': 'T', 'Lead change': 'LC'})
 
-    # TODO: get list of teams for every year
-    teams = pd.read_csv("data/teams/teams-2024.csv")
+    # Find the index of the last occurrence of each unique 'id'
+    last_rows = combined_df_viz.groupby('id').tail(1).index
+
+    # Mark the final socre with an F in the event column
+    combined_df_viz.loc[last_rows, 'Event'] = 'F'
 
     # Create a dictionary mapping from the 'location' to 'code'
     location_to_code = teams.set_index('location')['code'].to_dict()
@@ -378,7 +392,7 @@ def combine(team, season):
     # Rename the columns to better fit JS
     combined_df_viz = combined_df_viz.rename(columns={
         'Event': 'event',
-        'MiamiScore': 'miamiScore',
+        'TeamScore': 'TeamScore',
         'OpponentScore': 'opponentScore',
         'PointDifference': 'pointDifference',
         'ElapsedTime': 'elapsedTime',

@@ -1,4 +1,4 @@
-Time,Miami,Score,Toronto,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Miami,Score,Toronto,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: O. Robinson vs. J. Poeltl (S. Barnes gains possession),0-0,,,1,0,0,0,0.0
 11:43.0, ,0-2,S. Barnes makes 2-pt jump shot from 7 ft (assist by J. Poeltl),,1,0,2,-2,17.0
 11:20.0,C. Martin makes 3-pt jump shot from 26 ft (assist by D. Robinson),3-2, ,Lead change,1,3,2,1,40.0

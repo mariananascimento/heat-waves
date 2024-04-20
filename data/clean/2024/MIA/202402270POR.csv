@@ -1,4 +1,4 @@
-Time,Miami,Score,Portland,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime
+Time,Miami,Score,Portland,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
 12:00.0,Jump ball: B. Adebayo vs. D. Ayton (A. Simons gains possession),0-0,,,1,0,0,0,0.0
 11:45.0, ,0-3,A. Simons makes 3-pt jump shot from 26 ft (assist by J. Grant),,1,0,3,-3,15.0
 11:20.0,Offensive foul by B. Adebayo (drawn by J. Grant),0-3, ,,1,0,3,-3,40.0

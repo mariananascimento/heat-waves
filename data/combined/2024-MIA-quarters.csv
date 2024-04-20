@@ -1,4 +1,4 @@
-Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
+Time,Score,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
 12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Duren vs. B. Adebayo (A. Thompson gains possession),Detroit,202310250MIA
 12:00.0,29-26,,2,26,29,-3,720.0,Start of 2nd quarter,Detroit,202310250MIA
 12:00.0,47-58,,3,58,47,11,1440.0,Start of 3rd quarter,Detroit,202310250MIA
@@ -414,3 +414,8 @@ Time,Score,Event,Quarter,MiamiScore,OpponentScore,PointDifference,ElapsedTime,No
 12:00.0,51-39,,3,51,39,12,1440.0,Start of 3rd quarter,Philadelphia,202404170PHI
 12:00.0,74-69,,4,74,69,5,2160.0,Start of 4th quarter,Philadelphia,202404170PHI
 0:00.0,104-105,,4,104,105,-1,2880.0,End of 4th quarter,Philadelphia,202404170PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. B. Adebayo (C. White gains possession),Chicago,202404190MIA
+12:00.0,17-34,,2,34,17,17,720.0,Start of 2nd quarter,Chicago,202404190MIA
+12:00.0,37-47,,3,47,37,10,1440.0,Start of 3rd quarter,Chicago,202404190MIA
+12:00.0,60-82,,4,82,60,22,2160.0,Start of 4th quarter,Chicago,202404190MIA
+0:00.0,91-112,,4,112,91,21,2880.0,End of 4th quarter,Chicago,202404190MIA
