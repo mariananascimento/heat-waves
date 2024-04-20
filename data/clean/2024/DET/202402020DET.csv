@@ -1,0 +1,447 @@
+Time,LA Clippers,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: M. Plumlee vs. J. Duren (J. Harden gains possession),0-0,,,1,0,0,0,0.0
+11:42.0,P. George makes 2-pt jump shot from 16 ft,2-0, ,,1,0,2,-2,18.0
+11:20.0, ,2-2,B. Bogdanović makes 2-pt jump shot from 14 ft,Tie,1,2,2,0,40.0
+10:58.0,P. George misses 2-pt jump shot from 15 ft,2-2, ,,1,2,2,0,62.0
+10:55.0, ,2-2,Defensive rebound by J. Duren,,1,2,2,0,65.0
+10:47.0, ,2-4,C. Cunningham makes 2-pt jump shot from 15 ft,Lead change,1,4,2,2,73.0
+10:29.0,Shooting foul by K. Knox (drawn by K. Leonard),2-4, ,,1,4,2,2,91.0
+10:29.0,K. Leonard makes free throw 1 of 2,3-4, ,,1,4,3,1,91.0
+10:29.0,K. Leonard makes free throw 2 of 2,4-4, ,Tie,1,4,4,0,91.0
+10:17.0, ,4-4,C. Cunningham misses 2-pt jump shot from 17 ft,,1,4,4,0,103.0
+10:15.0, ,4-4,Offensive rebound by J. Duren,,1,4,4,0,105.0
+10:14.0, ,4-6,J. Duren makes 2-pt layup at rim,,1,6,4,2,106.0
+10:14.0, ,4-6,Shooting foul by K. Leonard (drawn by J. Duren),,1,6,4,2,106.0
+10:14.0, ,4-7,J. Duren makes free throw 1 of 1,,1,7,4,3,106.0
+10:02.0,P. George misses 3-pt jump shot from 23 ft,4-7, ,,1,7,4,3,118.0
+9:58.0, ,4-7,Defensive rebound by J. Duren,,1,7,4,3,122.0
+9:50.0, ,4-7,Turnover by B. Bogdanović (bad pass; steal by P. George),,1,7,4,3,130.0
+9:39.0,T. Mann makes 2-pt layup from 2 ft (assist by P. George),6-7, ,,1,7,6,1,141.0
+9:24.0, ,6-10,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by C. Cunningham),,1,10,6,4,156.0
+9:04.0,K. Leonard misses 2-pt jump shot from 8 ft,6-10, ,,1,10,6,4,176.0
+9:00.0, ,6-10,Defensive rebound by J. Duren,,1,10,6,4,180.0
+8:57.0, ,6-10,C. Cunningham misses 3-pt jump shot from 25 ft,,1,10,6,4,183.0
+8:55.0, ,6-10,Offensive rebound by J. Ivey,,1,10,6,4,185.0
+8:54.0, ,6-10,J. Ivey misses 2-pt layup at rim,,1,10,6,4,186.0
+8:53.0,Defensive rebound by K. Leonard,6-10, ,,1,10,6,4,187.0
+8:37.0,Turnover by J. Harden (bad pass; steal by C. Cunningham),6-10, ,,1,10,6,4,203.0
+8:32.0, ,6-12,J. Ivey makes 2-pt layup from 1 ft (assist by C. Cunningham),,1,12,6,6,208.0
+8:14.0,K. Leonard misses 2-pt jump shot from 16 ft,6-12, ,,1,12,6,6,226.0
+8:11.0, ,6-12,Defensive rebound by J. Ivey,,1,12,6,6,229.0
+8:04.0, ,6-12,Turnover by K. Knox (traveling),,1,12,6,6,236.0
+7:53.0,Personal foul by J. Ivey (drawn by K. Leonard),6-12, ,,1,12,6,6,247.0
+7:44.0,J. Harden misses 2-pt jump shot from 2 ft,6-12, ,,1,12,6,6,256.0
+7:42.0,Offensive rebound by M. Plumlee,6-12, ,,1,12,6,6,258.0
+7:42.0,M. Plumlee misses 2-pt layup at rim,6-12, ,,1,12,6,6,258.0
+7:40.0,Offensive rebound by J. Harden,6-12, ,,1,12,6,6,260.0
+7:37.0,P. George misses 3-pt jump shot from 26 ft,6-12, ,,1,12,6,6,263.0
+7:35.0, ,6-12,Defensive rebound by J. Duren,,1,12,6,6,265.0
+7:28.0, ,6-15,J. Ivey makes 3-pt jump shot from 24 ft,,1,15,6,9,272.0
+7:27.0,LA Clippers full timeout,6-15, ,,1,15,6,9,273.0
+7:06.0,J. Harden misses 3-pt jump shot from 27 ft,6-15, ,,1,15,6,9,294.0
+7:01.0, ,6-15,Defensive rebound by J. Duren,,1,15,6,9,299.0
+6:55.0, ,6-18,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by C. Cunningham),,1,18,6,12,305.0
+6:28.0,J. Harden misses 3-pt jump shot from 25 ft,6-18, ,,1,18,6,12,332.0
+6:27.0,Offensive rebound by Team,6-18, ,,1,18,6,12,333.0
+6:27.0,Turnover by Team (shot clock),6-18, ,,1,18,6,12,333.0
+6:13.0, ,6-20,J. Duren makes 2-pt hook shot from 4 ft,,1,20,6,14,347.0
+5:52.0,P. George misses 2-pt layup from 2 ft,6-20, ,,1,20,6,14,368.0
+5:50.0,Offensive rebound by M. Plumlee,6-20, ,,1,20,6,14,370.0
+5:42.0,Personal foul by K. Knox (drawn by K. Leonard),6-20, ,,1,20,6,14,378.0
+5:42.0,R. Westbrook enters the game for T. Mann,6-20, ,,1,20,6,14,378.0
+5:42.0, ,6-20,A. Thompson enters the game for K. Knox,,1,20,6,14,378.0
+5:27.0,M. Plumlee makes 2-pt dunk from 1 ft (assist by R. Westbrook),8-20, ,,1,20,8,12,393.0
+5:10.0, ,8-22,J. Ivey makes 2-pt jump shot from 9 ft,,1,22,8,14,410.0
+5:10.0,A. Coffey enters the game for P. George,8-22, ,,1,22,8,14,410.0
+5:10.0,N. Powell enters the game for J. Harden,8-22, ,,1,22,8,14,410.0
+4:48.0,R. Westbrook misses 3-pt jump shot from 23 ft,8-22, ,,1,22,8,14,432.0
+4:46.0,Offensive rebound by Team,8-22, ,,1,22,8,14,434.0
+4:46.0,D. Theis enters the game for M. Plumlee,8-22, ,,1,22,8,14,434.0
+4:44.0,K. Leonard makes 2-pt layup from 4 ft (assist by R. Westbrook),10-22, ,,1,22,10,12,436.0
+4:44.0,Shooting foul by J. Ivey (drawn by K. Leonard),10-22, ,,1,22,10,12,436.0
+4:44.0, ,10-22,A. Burks enters the game for J. Ivey,,1,22,10,12,436.0
+4:44.0,K. Leonard makes free throw 1 of 1,11-22, ,,1,22,11,11,436.0
+4:34.0, ,11-22,C. Cunningham misses 2-pt layup from 4 ft (block by D. Theis),,1,22,11,11,446.0
+4:33.0,Defensive rebound by N. Powell,11-22, ,,1,22,11,11,447.0
+4:26.0,N. Powell misses 2-pt jump shot from 16 ft,11-22, ,,1,22,11,11,454.0
+4:24.0, ,11-22,Defensive rebound by J. Duren,,1,22,11,11,456.0
+4:06.0, ,11-24,B. Bogdanović makes 2-pt jump shot from 6 ft (assist by C. Cunningham),,1,24,11,13,474.0
+3:52.0,K. Leonard makes 3-pt jump shot from 28 ft,14-24, ,,1,24,14,10,488.0
+3:36.0, ,14-26,C. Cunningham makes 2-pt jump shot from 7 ft,,1,26,14,12,504.0
+3:22.0,R. Westbrook makes 3-pt jump shot from 26 ft (assist by K. Leonard),17-26, ,,1,26,17,9,518.0
+3:20.0, ,17-26,Detroit full timeout,,1,26,17,9,520.0
+3:20.0, ,17-26,D. Gallinari enters the game for C. Cunningham,,1,26,17,9,520.0
+3:20.0, ,17-26,M. Morris enters the game for J. Duren,,1,26,17,9,520.0
+3:04.0, ,17-26,A. Burks misses 3-pt jump shot from 23 ft,,1,26,17,9,536.0
+3:02.0,Defensive rebound by A. Coffey,17-26, ,,1,26,17,9,538.0
+2:53.0,A. Coffey makes 2-pt jump shot from 12 ft (assist by R. Westbrook),19-26, ,,1,26,19,7,547.0
+2:39.0, ,19-26,Shooting foul by D. Theis (drawn by D. Gallinari),,1,26,19,7,561.0
+2:39.0, ,19-27,D. Gallinari makes free throw 1 of 2,,1,27,19,8,561.0
+2:39.0, ,19-27,M. Sasser enters the game for B. Bogdanović,,1,27,19,8,561.0
+2:39.0, ,19-28,D. Gallinari makes free throw 2 of 2,,1,28,19,9,561.0
+2:21.0,K. Leonard makes 2-pt jump shot from 17 ft (assist by R. Westbrook),21-28, ,,1,28,21,7,579.0
+2:07.0, ,21-28,M. Morris misses 3-pt jump shot from 25 ft,,1,28,21,7,593.0
+2:05.0,Defensive rebound by Team,21-28, ,,1,28,21,7,595.0
+1:55.0,R. Westbrook makes 2-pt layup from 2 ft,23-28, ,,1,28,23,5,605.0
+1:40.0, ,23-28,A. Burks misses 2-pt jump shot from 10 ft,,1,28,23,5,620.0
+1:38.0, ,23-28,Offensive rebound by A. Burks,,1,28,23,5,622.0
+1:36.0, ,23-28,Turnover by A. Burks (bad pass; steal by R. Westbrook),,1,28,23,5,624.0
+1:30.0,K. Leonard makes 2-pt jump shot from 6 ft,25-28, ,,1,28,25,3,630.0
+1:16.0, ,25-28,A. Burks misses 3-pt jump shot from 25 ft,,1,28,25,3,644.0
+1:12.0,Defensive rebound by D. Theis,25-28, ,,1,28,25,3,648.0
+1:12.0,Turnover by D. Theis (bad pass; steal by A. Burks),25-28, ,,1,28,25,3,648.0
+1:08.0, ,25-31,D. Gallinari makes 3-pt jump shot from 23 ft (assist by A. Burks),,1,31,25,6,652.0
+0:51.0,Offensive foul by D. Theis (drawn by M. Sasser),25-31, ,,1,31,25,6,669.0
+0:51.0,Turnover by D. Theis (offensive foul),25-31, ,,1,31,25,6,669.0
+0:35.0, ,25-31,M. Morris misses 2-pt hook shot from 8 ft (block by A. Coffey),,1,31,25,6,685.0
+0:31.0, ,25-31,Offensive rebound by A. Thompson,,1,31,25,6,689.0
+0:30.0, ,25-31,A. Burks misses 3-pt jump shot from 25 ft,,1,31,25,6,690.0
+0:28.0,Defensive rebound by A. Coffey,25-31, ,,1,31,25,6,692.0
+0:10.0,D. Theis makes 2-pt layup from 2 ft (assist by R. Westbrook),27-31, ,,1,31,27,4,710.0
+0:00.0, ,27-31,Shooting foul by N. Powell (drawn by D. Gallinari),,1,31,27,4,720.0
+0:00.0, ,27-32,D. Gallinari makes free throw 1 of 2,,1,32,27,5,720.0
+0:00.0, ,27-33,D. Gallinari makes free throw 2 of 2,,1,33,27,6,720.0
+0:00.0,End of 1st quarter,27-33,,,1,33,27,6,720.0
+12:00.0,Start of 2nd quarter,27-33,,,2,33,27,6,720.0
+11:36.0, ,27-33,Turnover by Team (shot clock),,2,33,27,6,744.0
+11:19.0,N. Powell makes 2-pt jump shot from 8 ft,29-33, ,,2,33,29,4,761.0
+11:03.0, ,29-36,M. Sasser makes 3-pt jump shot from 25 ft (assist by M. Morris),,2,36,29,7,777.0
+10:53.0,J. Harden misses 2-pt layup from 1 ft (block by D. Gallinari),29-36, ,,2,36,29,7,787.0
+10:52.0, ,29-36,Defensive rebound by A. Thompson,,2,36,29,7,788.0
+10:45.0, ,29-39,A. Burks makes 3-pt jump shot from 22 ft (assist by M. Sasser),,2,39,29,10,795.0
+10:25.0,N. Powell misses 3-pt jump shot from 24 ft,29-39, ,,2,39,29,10,815.0
+10:25.0, ,29-39,Defensive rebound by A. Thompson,,2,39,29,10,815.0
+10:16.0, ,29-39,Turnover by A. Thompson (lost ball; steal by A. Coffey),,2,39,29,10,824.0
+10:09.0,A. Coffey makes 2-pt layup from 1 ft,31-39, ,,2,39,31,8,831.0
+9:57.0, ,31-39,Personal foul by J. Harden (drawn by D. Gallinari),,2,39,31,8,843.0
+9:52.0, ,31-39,M. Morris misses 3-pt jump shot from 26 ft,,2,39,31,8,848.0
+9:49.0,Defensive rebound by D. Theis,31-39, ,,2,39,31,8,851.0
+9:46.0,Personal foul by D. Gallinari (drawn by R. Westbrook),31-39, ,,2,39,31,8,854.0
+9:46.0,P. George enters the game for D. Theis,31-39, ,,2,39,31,8,854.0
+9:38.0,N. Powell misses 3-pt jump shot from 24 ft,31-39, ,,2,39,31,8,862.0
+9:34.0, ,31-39,Defensive rebound by M. Morris,,2,39,31,8,866.0
+9:24.0, ,31-39,A. Thompson misses 2-pt layup from 3 ft,,2,39,31,8,876.0
+9:23.0, ,31-39,Offensive rebound by D. Gallinari,,2,39,31,8,877.0
+9:23.0, ,31-39,D. Gallinari misses 2-pt layup from 1 ft (block by P. George),,2,39,31,8,877.0
+9:22.0,Defensive rebound by R. Westbrook,31-39, ,,2,39,31,8,878.0
+9:09.0,P. George makes 2-pt jump shot from 19 ft (assist by J. Harden),33-39, ,,2,39,33,6,891.0
+8:50.0, ,33-42,M. Sasser makes 3-pt jump shot from 26 ft (assist by D. Gallinari),,2,42,33,9,910.0
+8:37.0,Turnover by A. Coffey (lost ball; steal by A. Thompson),33-42, ,,2,42,33,9,923.0
+8:33.0, ,33-42,A. Burks misses 3-pt jump shot from 27 ft,,2,42,33,9,927.0
+8:30.0,Defensive rebound by J. Harden,33-42, ,,2,42,33,9,930.0
+8:22.0,N. Powell makes 3-pt jump shot from 25 ft (assist by P. George),36-42, ,,2,42,36,6,938.0
+8:21.0, ,36-42,Detroit full timeout,,2,42,36,6,939.0
+8:21.0, ,36-42,C. Cunningham enters the game for A. Burks,,2,42,36,6,939.0
+8:21.0, ,36-42,J. Ivey enters the game for M. Morris,,2,42,36,6,939.0
+8:21.0, ,36-42,K. Knox enters the game for A. Thompson,,2,42,36,6,939.0
+8:12.0, ,36-42,Personal foul by N. Powell (drawn by D. Gallinari),,2,42,36,6,948.0
+8:04.0, ,36-42,K. Knox misses 3-pt jump shot from 27 ft,,2,42,36,6,956.0
+8:02.0,Defensive rebound by P. George,36-42, ,,2,42,36,6,958.0
+7:59.0,Shooting foul by D. Gallinari (drawn by R. Westbrook),36-42, ,,2,42,36,6,961.0
+7:59.0,R. Westbrook misses free throw 1 of 2,36-42, ,,2,42,36,6,961.0
+7:59.0,Offensive rebound by Team,36-42, ,,2,42,36,6,961.0
+7:59.0,R. Westbrook makes free throw 2 of 2,37-42, ,,2,42,37,5,961.0
+7:41.0, ,37-42,Turnover by C. Cunningham (bad pass),,2,42,37,5,979.0
+7:32.0,Personal foul by M. Sasser (drawn by N. Powell),37-42, ,,2,42,37,5,988.0
+7:32.0, ,37-42,J. Duren enters the game for D. Gallinari,,2,42,37,5,988.0
+7:25.0,J. Harden misses 3-pt jump shot from 27 ft,37-42, ,,2,42,37,5,995.0
+7:22.0, ,37-42,Defensive rebound by K. Knox,,2,42,37,5,998.0
+7:10.0, ,37-42,Turnover by C. Cunningham (bad pass; steal by R. Westbrook),,2,42,37,5,1010.0
+7:05.0,R. Westbrook makes 2-pt dunk from 1 ft (assist by P. George),39-42, ,,2,42,39,3,1015.0
+6:51.0, ,39-45,M. Sasser makes 3-pt jump shot from 27 ft (assist by K. Knox),,2,45,39,6,1029.0
+6:30.0,P. George misses 2-pt jump shot from 9 ft,39-45, ,,2,45,39,6,1050.0
+6:28.0, ,39-45,Defensive rebound by J. Duren,,2,45,39,6,1052.0
+6:15.0, ,39-48,M. Sasser makes 3-pt jump shot from 29 ft (assist by C. Cunningham),,2,48,39,9,1065.0
+6:00.0,R. Westbrook makes 2-pt jump shot from 20 ft,41-48, ,,2,48,41,7,1080.0
+5:48.0, ,41-48,M. Sasser misses 3-pt jump shot from 28 ft,,2,48,41,7,1092.0
+5:45.0,Defensive rebound by N. Powell,41-48, ,,2,48,41,7,1095.0
+5:41.0,A. Coffey misses 2-pt jump shot from 5 ft,41-48, ,,2,48,41,7,1099.0
+5:39.0,Offensive rebound by N. Powell,41-48, ,,2,48,41,7,1101.0
+5:37.0,A. Coffey makes 3-pt jump shot from 23 ft (assist by N. Powell),44-48, ,,2,48,44,4,1103.0
+5:21.0, ,44-48,C. Cunningham misses 3-pt jump shot from 24 ft,,2,48,44,4,1119.0
+5:21.0, ,44-48,Offensive rebound by Team,,2,48,44,4,1119.0
+5:21.0,Loose ball foul by N. Powell (drawn by J. Ivey),44-48, ,,2,48,44,4,1119.0
+5:21.0,K. Leonard enters the game for N. Powell,44-48, ,,2,48,44,4,1119.0
+5:21.0,M. Plumlee enters the game for R. Westbrook,44-48, ,,2,48,44,4,1119.0
+5:21.0, ,44-48,B. Bogdanović enters the game for M. Sasser,,2,48,44,4,1119.0
+5:13.0, ,44-48,Turnover by J. Ivey (bad pass; steal by A. Coffey),,2,48,44,4,1127.0
+5:11.0,Shooting foul by C. Cunningham (drawn by A. Coffey),44-48, ,,2,48,44,4,1129.0
+5:11.0,A. Coffey makes free throw 1 of 2,45-48, ,,2,48,45,3,1129.0
+5:11.0,A. Coffey makes free throw 2 of 2,46-48, ,,2,48,46,2,1129.0
+4:50.0, ,46-48,J. Ivey misses 3-pt jump shot from 23 ft,,2,48,46,2,1150.0
+4:49.0, ,46-48,Offensive rebound by J. Duren,,2,48,46,2,1151.0
+4:49.0, ,46-48,J. Duren misses 2-pt layup at rim,,2,48,46,2,1151.0
+4:48.0,Defensive rebound by M. Plumlee,46-48, ,,2,48,46,2,1152.0
+4:39.0,Shooting foul by K. Knox (drawn by J. Harden),46-48, ,,2,48,46,2,1161.0
+4:39.0,J. Harden makes free throw 1 of 2,47-48, ,,2,48,47,1,1161.0
+4:39.0,T. Mann enters the game for A. Coffey,47-48, ,,2,48,47,1,1161.0
+4:39.0,J. Harden makes free throw 2 of 2,48-48, ,Tie,2,48,48,0,1161.0
+4:31.0, ,48-48,Shooting foul by M. Plumlee (drawn by J. Ivey),,2,48,48,0,1169.0
+4:31.0, ,48-48,J. Ivey misses free throw 1 of 2,,2,48,48,0,1169.0
+4:31.0, ,48-48,Offensive rebound by Team,,2,48,48,0,1169.0
+4:31.0, ,48-48,A. Thompson enters the game for K. Knox,,2,48,48,0,1169.0
+4:31.0, ,48-48,J. Ivey misses free throw 2 of 2,,2,48,48,0,1169.0
+4:27.0,Defensive rebound by P. George,48-48, ,,2,48,48,0,1173.0
+4:11.0,Shooting foul by A. Thompson (drawn by T. Mann),48-48, ,,2,48,48,0,1189.0
+4:11.0,T. Mann makes free throw 1 of 2,49-48, ,Lead change,2,48,49,-1,1189.0
+4:11.0,A. Coffey enters the game for P. George,49-48, ,,2,48,49,-1,1189.0
+4:11.0,T. Mann makes free throw 2 of 2,50-48, ,,2,48,50,-2,1189.0
+3:56.0, ,50-50,J. Ivey makes 2-pt jump shot from 15 ft (assist by C. Cunningham),Tie,2,50,50,0,1204.0
+3:35.0,J. Harden misses 3-pt jump shot from 28 ft,50-50, ,,2,50,50,0,1225.0
+3:34.0, ,50-50,Defensive rebound by Team,,2,50,50,0,1226.0
+3:34.0,P. George enters the game for A. Coffey,50-50, ,,2,50,50,0,1226.0
+3:14.0, ,50-50,J. Ivey misses 3-pt jump shot from 23 ft,,2,50,50,0,1246.0
+3:12.0, ,50-50,Offensive rebound by A. Thompson,,2,50,50,0,1248.0
+3:06.0, ,50-50,Personal foul by T. Mann (drawn by B. Bogdanović),,2,50,50,0,1254.0
+3:06.0, ,50-51,B. Bogdanović makes free throw 1 of 2,Lead change,2,51,50,1,1254.0
+3:06.0, ,50-52,B. Bogdanović makes free throw 2 of 2,,2,52,50,2,1254.0
+2:53.0,J. Harden makes 2-pt jump shot from 14 ft,52-52, ,Tie,2,52,52,0,1267.0
+2:39.0, ,52-52,J. Ivey misses 3-pt jump shot from 23 ft,,2,52,52,0,1281.0
+2:36.0,Defensive rebound by K. Leonard,52-52, ,,2,52,52,0,1284.0
+2:26.0,K. Leonard makes 3-pt jump shot from 27 ft,55-52, ,Lead change,2,52,55,-3,1294.0
+2:11.0, ,55-54,C. Cunningham makes 2-pt hook shot from 2 ft (assist by B. Bogdanović),,2,54,55,-1,1309.0
+1:56.0,K. Leonard makes 3-pt jump shot from 25 ft,58-54, ,,2,54,58,-4,1324.0
+1:42.0, ,58-56,J. Duren makes 2-pt layup from 1 ft (assist by A. Thompson),,2,56,58,-2,1338.0
+1:27.0,P. George makes 2-pt jump shot from 17 ft (assist by K. Leonard),60-56, ,,2,56,60,-4,1353.0
+1:14.0, ,60-56,C. Cunningham misses 2-pt layup from 2 ft,,2,56,60,-4,1366.0
+1:13.0, ,60-56,Offensive rebound by A. Thompson,,2,56,60,-4,1367.0
+1:13.0, ,60-56,A. Thompson misses 2-pt layup at rim,,2,56,60,-4,1367.0
+1:10.0, ,60-56,Offensive rebound by J. Ivey,,2,56,60,-4,1370.0
+1:05.0, ,60-59,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by J. Ivey),,2,59,60,-1,1375.0
+0:52.0,K. Leonard makes 3-pt jump shot from 28 ft,63-59, ,,2,59,63,-4,1388.0
+0:44.0, ,63-59,C. Cunningham misses 2-pt layup from 5 ft,,2,59,63,-4,1396.0
+0:41.0,Defensive rebound by M. Plumlee,63-59, ,,2,59,63,-4,1399.0
+0:33.0,Shooting foul by B. Bogdanović (drawn by M. Plumlee),63-59, ,,2,59,63,-4,1407.0
+0:33.0,LA Clippers full timeout,63-59, ,,2,59,63,-4,1407.0
+0:33.0,A. Coffey enters the game for P. George,63-59, ,,2,59,63,-4,1407.0
+0:33.0, ,63-59,A. Burks enters the game for A. Thompson,,2,59,63,-4,1407.0
+0:33.0,M. Plumlee makes free throw 1 of 2,64-59, ,,2,59,64,-5,1407.0
+0:33.0,M. Plumlee makes free throw 2 of 2,65-59, ,,2,59,65,-6,1407.0
+0:11.0, ,65-59,Turnover by B. Bogdanović (bad pass),,2,59,65,-6,1429.0
+0:00.0,End of 2nd quarter,65-59,,,2,59,65,-6,1440.0
+12:00.0,Start of 3rd quarter,65-59,,,3,59,65,-6,1440.0
+11:43.0, ,65-62,J. Ivey makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),,3,62,65,-3,1457.0
+11:23.0,P. George misses 3-pt jump shot from 25 ft,65-62, ,,3,62,65,-3,1477.0
+11:20.0,Offensive rebound by M. Plumlee,65-62, ,,3,62,65,-3,1480.0
+11:19.0,M. Plumlee makes 2-pt layup from 2 ft,67-62, ,,3,62,67,-5,1481.0
+11:03.0, ,67-65,C. Cunningham makes 3-pt jump shot from 26 ft (assist by K. Knox),,3,65,67,-2,1497.0
+10:43.0,J. Harden misses 3-pt jump shot from 25 ft,67-65, ,,3,65,67,-2,1517.0
+10:39.0, ,67-65,Defensive rebound by J. Ivey,,3,65,67,-2,1521.0
+10:34.0, ,67-65,K. Knox misses 3-pt jump shot from 23 ft,,3,65,67,-2,1526.0
+10:31.0,Defensive rebound by M. Plumlee,67-65, ,,3,65,67,-2,1529.0
+10:18.0,K. Leonard makes 3-pt jump shot from 26 ft (assist by J. Harden),70-65, ,,3,65,70,-5,1542.0
+10:02.0, ,70-65,C. Cunningham misses 2-pt jump shot from 5 ft,,3,65,70,-5,1558.0
+10:00.0,Defensive rebound by P. George,70-65, ,,3,65,70,-5,1560.0
+9:51.0,T. Mann makes 2-pt layup from 1 ft (assist by P. George),72-65, ,,3,65,72,-7,1569.0
+9:37.0, ,72-67,J. Ivey makes 2-pt layup from 3 ft (assist by B. Bogdanović),,3,67,72,-5,1583.0
+9:23.0,K. Leonard makes 3-pt jump shot from 26 ft (assist by M. Plumlee),75-67, ,,3,67,75,-8,1597.0
+9:11.0, ,75-69,J. Duren makes 2-pt dunk from 2 ft (assist by C. Cunningham),,3,69,75,-6,1609.0
+9:11.0, ,75-69,Shooting foul by M. Plumlee (drawn by J. Duren),,3,69,75,-6,1609.0
+9:11.0, ,75-69,J. Duren misses free throw 1 of 1,,3,69,75,-6,1609.0
+9:08.0,Defensive rebound by M. Plumlee,75-69, ,,3,69,75,-6,1612.0
+8:55.0,M. Plumlee makes 2-pt layup from 3 ft (assist by K. Leonard),77-69, ,,3,69,77,-8,1625.0
+8:55.0,Shooting foul by J. Duren (drawn by M. Plumlee),77-69, ,,3,69,77,-8,1625.0
+8:55.0,M. Plumlee misses free throw 1 of 1,77-69, ,,3,69,77,-8,1625.0
+8:54.0, ,77-69,Defensive rebound by J. Duren,,3,69,77,-8,1626.0
+8:45.0, ,77-72,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by J. Duren),,3,72,77,-5,1635.0
+8:27.0,T. Mann makes 2-pt dunk from 1 ft (assist by M. Plumlee),79-72, ,,3,72,79,-7,1653.0
+8:22.0, ,79-72,Personal foul by P. George (drawn by C. Cunningham),,3,72,79,-7,1658.0
+8:11.0, ,79-72,Turnover by B. Bogdanović (bad pass; steal by P. George),,3,72,79,-7,1669.0
+8:08.0,M. Plumlee makes 2-pt dunk from 2 ft (assist by P. George),81-72, ,,3,72,81,-9,1672.0
+8:08.0, ,81-72,Detroit full timeout,,3,72,81,-9,1672.0
+7:53.0, ,81-72,B. Bogdanović misses 3-pt jump shot from 26 ft,,3,72,81,-9,1687.0
+7:50.0, ,81-72,Offensive rebound by J. Ivey,,3,72,81,-9,1690.0
+7:49.0, ,81-72,Turnover by J. Ivey (bad pass; steal by J. Harden),,3,72,81,-9,1691.0
+7:36.0,M. Plumlee misses 2-pt layup from 2 ft,81-72, ,,3,72,81,-9,1704.0
+7:35.0, ,81-72,Defensive rebound by J. Duren,,3,72,81,-9,1705.0
+7:28.0, ,81-74,B. Bogdanović makes 2-pt jump shot from 14 ft (assist by C. Cunningham),,3,74,81,-7,1712.0
+7:10.0,Personal foul by B. Bogdanović (drawn by K. Leonard),81-74, ,,3,74,81,-7,1730.0
+6:57.0,K. Leonard makes 2-pt jump shot from 14 ft,83-74, ,,3,74,83,-9,1743.0
+6:47.0, ,83-76,J. Ivey makes 2-pt layup from 5 ft (assist by C. Cunningham),,3,76,83,-7,1753.0
+6:34.0,P. George makes 2-pt jump shot from 19 ft,85-76, ,,3,76,85,-9,1766.0
+6:20.0, ,85-78,C. Cunningham makes 2-pt jump shot from 21 ft (assist by J. Ivey),,3,78,85,-7,1780.0
+6:04.0,K. Leonard misses 2-pt jump shot from 13 ft,85-78, ,,3,78,85,-7,1796.0
+6:02.0, ,85-78,Defensive rebound by C. Cunningham,,3,78,85,-7,1798.0
+5:58.0, ,85-78,Shooting foul by P. George (drawn by J. Ivey),,3,78,85,-7,1802.0
+5:58.0, ,85-79,J. Ivey makes free throw 1 of 2,,3,79,85,-6,1802.0
+5:58.0, ,85-79,A. Thompson enters the game for K. Knox,,3,79,85,-6,1802.0
+5:58.0, ,85-80,J. Ivey makes free throw 2 of 2,,3,80,85,-5,1802.0
+5:49.0,J. Harden misses 2-pt layup from 2 ft,85-80, ,,3,80,85,-5,1811.0
+5:48.0,Offensive rebound by Team,85-80, ,,3,80,85,-5,1812.0
+5:46.0,Shooting foul by C. Cunningham (drawn by T. Mann),85-80, ,,3,80,85,-5,1814.0
+5:46.0,T. Mann makes free throw 1 of 2,86-80, ,,3,80,86,-6,1814.0
+5:46.0,R. Westbrook enters the game for J. Harden,86-80, ,,3,80,86,-6,1814.0
+5:46.0,T. Mann makes free throw 2 of 2,87-80, ,,3,80,87,-7,1814.0
+5:23.0, ,87-80,J. Ivey misses 3-pt jump shot from 24 ft,,3,80,87,-7,1837.0
+5:19.0,Defensive rebound by K. Leonard,87-80, ,,3,80,87,-7,1841.0
+5:13.0,K. Leonard makes 2-pt jump shot from 8 ft,89-80, ,,3,80,89,-9,1847.0
+5:02.0, ,89-82,C. Cunningham makes 2-pt layup from 2 ft,,3,82,89,-7,1858.0
+4:53.0,R. Westbrook misses 2-pt hook shot from 2 ft,89-82, ,,3,82,89,-7,1867.0
+4:51.0, ,89-82,Defensive rebound by C. Cunningham,,3,82,89,-7,1869.0
+4:48.0, ,89-82,Shooting foul by P. George (drawn by J. Ivey),,3,82,89,-7,1872.0
+4:48.0, ,89-82,J. Ivey misses free throw 1 of 2,,3,82,89,-7,1872.0
+4:48.0, ,89-82,Offensive rebound by Team,,3,82,89,-7,1872.0
+4:48.0,N. Powell enters the game for P. George,89-82, ,,3,82,89,-7,1872.0
+4:48.0,D. Theis enters the game for M. Plumlee,89-82, ,,3,82,89,-7,1872.0
+4:48.0, ,89-83,J. Ivey makes free throw 2 of 2,,3,83,89,-6,1872.0
+4:41.0,Turnover by R. Westbrook (bad pass),89-83, ,,3,83,89,-6,1879.0
+4:41.0, ,89-83,A. Burks enters the game for J. Ivey,,3,83,89,-6,1879.0
+4:31.0, ,89-86,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by C. Cunningham),,3,86,89,-3,1889.0
+4:09.0,K. Leonard misses 3-pt jump shot from 25 ft,89-86, ,,3,86,89,-3,1911.0
+4:06.0, ,89-86,Defensive rebound by J. Duren,,3,86,89,-3,1914.0
+3:54.0, ,89-88,C. Cunningham makes 2-pt jump shot from 18 ft,,3,88,89,-1,1926.0
+3:27.0,R. Westbrook makes 3-pt jump shot from 25 ft (assist by N. Powell),92-88, ,,3,88,92,-4,1953.0
+3:15.0, ,92-88,A. Burks misses 3-pt jump shot from 25 ft,,3,88,92,-4,1965.0
+3:11.0,Defensive rebound by N. Powell,92-88, ,,3,88,92,-4,1969.0
+3:07.0,K. Leonard misses 3-pt jump shot from 26 ft,92-88, ,,3,88,92,-4,1973.0
+3:07.0,Offensive rebound by T. Mann,92-88, ,,3,88,92,-4,1973.0
+2:53.0,N. Powell misses 3-pt jump shot from 25 ft,92-88, ,,3,88,92,-4,1987.0
+2:50.0, ,92-88,Defensive rebound by C. Cunningham,,3,88,92,-4,1990.0
+2:49.0, ,92-88,J. Duren misses 2-pt layup from 6 ft,,3,88,92,-4,1991.0
+2:48.0, ,92-88,Offensive rebound by A. Thompson,,3,88,92,-4,1992.0
+2:47.0, ,92-88,Shooting foul by N. Powell (drawn by A. Thompson),,3,88,92,-4,1993.0
+2:47.0,LA Clippers full timeout,92-88, ,,3,88,92,-4,1993.0
+2:47.0,A. Coffey enters the game for T. Mann,92-88, ,,3,88,92,-4,1993.0
+2:47.0, ,92-88,D. Gallinari enters the game for J. Duren,,3,88,92,-4,1993.0
+2:47.0, ,92-88,A. Thompson misses free throw 1 of 2,,3,88,92,-4,1993.0
+2:47.0, ,92-88,Offensive rebound by Team,,3,88,92,-4,1993.0
+2:47.0, ,92-89,A. Thompson makes free throw 2 of 2,,3,89,92,-3,1993.0
+2:34.0,N. Powell makes 2-pt layup from 5 ft (assist by D. Theis),94-89, ,,3,89,94,-5,2006.0
+2:18.0, ,94-89,D. Gallinari misses 3-pt jump shot from 23 ft,,3,89,94,-5,2022.0
+2:16.0,Defensive rebound by A. Coffey,94-89, ,,3,89,94,-5,2024.0
+2:09.0,Turnover by R. Westbrook (lost ball; steal by A. Thompson),94-89, ,,3,89,94,-5,2031.0
+1:59.0, ,94-89,C. Cunningham misses 2-pt layup from 3 ft (block by K. Leonard),,3,89,94,-5,2041.0
+1:59.0, ,94-89,Offensive rebound by Team,,3,89,94,-5,2041.0
+1:59.0, ,94-89,M. Morris enters the game for C. Cunningham,,3,89,94,-5,2041.0
+1:54.0, ,94-89,B. Bogdanović misses 3-pt jump shot from 23 ft,,3,89,94,-5,2046.0
+1:50.0,Defensive rebound by R. Westbrook,94-89, ,,3,89,94,-5,2050.0
+1:28.0,Turnover by Team (shot clock),94-89, ,,3,89,94,-5,2072.0
+1:16.0, ,94-89,B. Bogdanović misses 2-pt jump shot from 7 ft (block by D. Theis),,3,89,94,-5,2084.0
+1:13.0,Defensive rebound by A. Coffey,94-89, ,,3,89,94,-5,2087.0
+1:00.0,R. Westbrook makes 2-pt jump shot from 19 ft,96-89, ,,3,89,96,-7,2100.0
+0:50.0, ,96-89,Shooting foul by K. Leonard (drawn by D. Gallinari),,3,89,96,-7,2110.0
+0:50.0, ,96-90,D. Gallinari makes free throw 1 of 2,,3,90,96,-6,2110.0
+0:50.0, ,96-90,M. Sasser enters the game for B. Bogdanović,,3,90,96,-6,2110.0
+0:50.0, ,96-90,D. Gallinari misses free throw 2 of 2,,3,90,96,-6,2110.0
+0:48.0,Defensive rebound by K. Leonard,96-90, ,,3,90,96,-6,2112.0
+0:34.0,R. Westbrook makes 2-pt layup from 1 ft,98-90, ,,3,90,98,-8,2126.0
+0:13.0, ,98-90,M. Morris misses 2-pt jump shot from 22 ft,,3,90,98,-8,2147.0
+0:10.0,Defensive rebound by N. Powell,98-90, ,,3,90,98,-8,2150.0
+0:01.0,N. Powell makes 3-pt jump shot from 24 ft,101-90, ,,3,90,101,-11,2159.0
+0:00.0, ,101-90,A. Thompson misses 3-pt jump shot from 62 ft,,3,90,101,-11,2160.0
+0:00.0, ,101-90,Offensive rebound by Team,,3,90,101,-11,2160.0
+0:00.0,End of 3rd quarter,101-90,,,3,90,101,-11,2160.0
+12:00.0,Start of 4th quarter,101-90,,,4,90,101,-11,2160.0
+11:48.0,N. Powell makes 3-pt jump shot from 26 ft (assist by D. Theis),104-90, ,,4,90,104,-14,2172.0
+11:35.0, ,104-90,Turnover by M. Sasser (bad pass; steal by A. Coffey),,4,90,104,-14,2185.0
+11:31.0,A. Coffey makes 2-pt dunk from 1 ft,106-90, ,,4,90,106,-16,2189.0
+11:12.0, ,106-90,A. Burks misses 2-pt jump shot from 11 ft,,4,90,106,-16,2208.0
+11:11.0,Defensive rebound by J. Harden,106-90, ,,4,90,106,-16,2209.0
+11:05.0,R. Westbrook makes 2-pt layup from 1 ft (assist by J. Harden),108-90, ,,4,90,108,-18,2215.0
+10:50.0, ,108-92,M. Sasser makes 2-pt jump shot from 5 ft,,4,92,108,-16,2230.0
+10:34.0,Shooting foul by M. Sasser (drawn by D. Theis),108-92, ,,4,92,108,-16,2246.0
+10:34.0,D. Theis misses free throw 1 of 2,108-92, ,,4,92,108,-16,2246.0
+10:34.0,Offensive rebound by Team,108-92, ,,4,92,108,-16,2246.0
+10:34.0, ,108-92,J. Ivey enters the game for M. Morris,,4,92,108,-16,2246.0
+10:34.0,D. Theis makes free throw 2 of 2,109-92, ,,4,92,109,-17,2246.0
+10:21.0, ,109-94,J. Ivey makes 2-pt layup from 2 ft,,4,94,109,-15,2259.0
+10:01.0,D. Theis misses 3-pt jump shot from 26 ft,109-94, ,,4,94,109,-15,2279.0
+9:59.0, ,109-94,Defensive rebound by A. Thompson,,4,94,109,-15,2281.0
+9:49.0, ,109-96,M. Sasser makes 2-pt jump shot from 15 ft (assist by D. Gallinari),,4,96,109,-13,2291.0
+9:30.0,A. Coffey makes 2-pt layup from 3 ft (assist by R. Westbrook),111-96, ,,4,96,111,-15,2310.0
+9:30.0,Shooting foul by D. Gallinari (drawn by A. Coffey),111-96, ,,4,96,111,-15,2310.0
+9:30.0,A. Coffey makes free throw 1 of 1,112-96, ,,4,96,112,-16,2310.0
+9:15.0, ,112-99,M. Sasser makes 3-pt jump shot from 25 ft,,4,99,112,-13,2325.0
+9:04.0,D. Theis makes 2-pt dunk from 1 ft (assist by R. Westbrook),114-99, ,,4,99,114,-15,2336.0
+8:49.0, ,114-99,Shooting foul by D. Theis (drawn by D. Gallinari),,4,99,114,-15,2351.0
+8:49.0, ,114-100,D. Gallinari makes free throw 1 of 2,,4,100,114,-14,2351.0
+8:49.0, ,114-101,D. Gallinari makes free throw 2 of 2,,4,101,114,-13,2351.0
+8:36.0,R. Westbrook makes 2-pt dunk from 1 ft (assist by J. Harden),116-101, ,,4,101,116,-15,2364.0
+8:36.0,Technical foul by R. Westbrook,116-101, ,,4,101,116,-15,2364.0
+8:36.0, ,116-102,D. Gallinari makes technical free throw,,4,102,116,-14,2364.0
+8:18.0, ,116-104,J. Ivey makes 2-pt layup from 3 ft,,4,104,116,-12,2382.0
+8:04.0,N. Powell misses 2-pt layup from 3 ft,116-104, ,,4,104,116,-12,2396.0
+8:02.0, ,116-104,Defensive rebound by A. Burks,,4,104,116,-12,2398.0
+7:59.0, ,116-106,A. Burks makes 2-pt layup from 3 ft,,4,106,116,-10,2401.0
+7:59.0, ,116-106,Shooting foul by R. Westbrook (drawn by A. Burks),,4,106,116,-10,2401.0
+7:59.0,LA Clippers full timeout,116-106, ,,4,106,116,-10,2401.0
+7:59.0,P. George enters the game for A. Coffey,116-106, ,,4,106,116,-10,2401.0
+7:59.0, ,116-106,C. Cunningham enters the game for D. Gallinari,,4,106,116,-10,2401.0
+7:59.0, ,116-106,J. Duren enters the game for A. Thompson,,4,106,116,-10,2401.0
+7:59.0, ,116-107,A. Burks makes free throw 1 of 1,,4,107,116,-9,2401.0
+7:45.0,J. Harden misses 2-pt jump shot from 16 ft,116-107, ,,4,107,116,-9,2415.0
+7:43.0, ,116-107,Defensive rebound by M. Sasser,,4,107,116,-9,2417.0
+7:28.0, ,116-109,J. Duren makes 2-pt dunk from 1 ft (assist by C. Cunningham),,4,109,116,-7,2432.0
+7:11.0,P. George makes 2-pt jump shot from 17 ft,118-109, ,,4,109,118,-9,2449.0
+6:51.0, ,118-109,Turnover by J. Ivey (bad pass; steal by D. Theis),,4,109,118,-9,2469.0
+6:45.0,N. Powell makes 2-pt layup from 1 ft (assist by R. Westbrook),120-109, ,,4,109,120,-11,2475.0
+6:28.0, ,120-109,J. Ivey misses 2-pt layup from 3 ft,,4,109,120,-11,2492.0
+6:25.0,Defensive rebound by D. Theis,120-109, ,,4,109,120,-11,2495.0
+6:20.0,P. George misses 2-pt layup from 2 ft (block by A. Burks),120-109, ,,4,109,120,-11,2500.0
+6:19.0,Offensive rebound by R. Westbrook,120-109, ,,4,109,120,-11,2501.0
+6:19.0,K. Leonard enters the game for D. Theis,120-109, ,,4,109,120,-11,2501.0
+6:19.0,M. Plumlee enters the game for R. Westbrook,120-109, ,,4,109,120,-11,2501.0
+6:19.0, ,120-109,B. Bogdanović enters the game for A. Burks,,4,109,120,-11,2501.0
+6:15.0,P. George makes 3-pt jump shot from 24 ft (assist by J. Harden),123-109, ,,4,109,123,-14,2505.0
+5:59.0, ,123-109,Turnover by B. Bogdanović (bad pass; steal by P. George),,4,109,123,-14,2521.0
+5:57.0,K. Leonard makes 2-pt dunk from 2 ft (assist by P. George),125-109, ,,4,109,125,-16,2523.0
+5:57.0, ,125-109,Detroit full timeout,,4,109,125,-16,2523.0
+5:41.0, ,125-109,M. Sasser misses 2-pt jump shot from 16 ft,,4,109,125,-16,2539.0
+5:40.0, ,125-109,Offensive rebound by Team,,4,109,125,-16,2540.0
+5:40.0,Loose ball foul by M. Plumlee (drawn by J. Duren),125-109, ,,4,109,125,-16,2540.0
+5:30.0, ,125-112,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by J. Duren),,4,112,125,-13,2550.0
+5:08.0,Personal foul by C. Cunningham (drawn by P. George),125-112, ,,4,112,125,-13,2572.0
+5:03.0,P. George misses 2-pt jump shot from 16 ft,125-112, ,,4,112,125,-13,2577.0
+5:01.0, ,125-112,Defensive rebound by B. Bogdanović,,4,112,125,-13,2579.0
+4:55.0, ,125-112,B. Bogdanović misses 3-pt jump shot from 29 ft,,4,112,125,-13,2585.0
+4:52.0, ,125-112,Offensive rebound by J. Ivey,,4,112,125,-13,2588.0
+4:46.0, ,125-112,C. Cunningham misses 2-pt jump shot from 5 ft,,4,112,125,-13,2594.0
+4:43.0,Defensive rebound by P. George,125-112, ,,4,112,125,-13,2597.0
+4:29.0,M. Plumlee makes 2-pt layup from 1 ft (assist by P. George),127-112, ,,4,112,127,-15,2611.0
+4:18.0, ,127-112,Offensive foul by C. Cunningham (drawn by J. Harden),,4,112,127,-15,2622.0
+4:18.0, ,127-112,Turnover by C. Cunningham (offensive foul),,4,112,127,-15,2622.0
+4:18.0, ,127-112,A. Burks enters the game for M. Sasser,,4,112,127,-15,2622.0
+4:07.0,P. George makes 2-pt layup from 1 ft (assist by J. Harden),129-112, ,,4,112,129,-17,2633.0
+3:59.0, ,129-112,Personal foul by N. Powell (drawn by C. Cunningham),,4,112,129,-17,2641.0
+3:59.0,R. Westbrook enters the game for N. Powell,129-112, ,,4,112,129,-17,2641.0
+3:52.0, ,129-112,Turnover by C. Cunningham (lost ball; steal by M. Plumlee),,4,112,129,-17,2648.0
+3:42.0,P. George makes 3-pt jump shot from 25 ft (assist by R. Westbrook),132-112, ,,4,112,132,-20,2658.0
+3:41.0, ,132-112,Detroit full timeout,,4,112,132,-20,2659.0
+3:41.0,A. Coffey enters the game for P. George,132-112, ,,4,112,132,-20,2659.0
+3:41.0,T. Mann enters the game for J. Harden,132-112, ,,4,112,132,-20,2659.0
+3:41.0,N. Powell enters the game for K. Leonard,132-112, ,,4,112,132,-20,2659.0
+3:41.0,Violation by Team (delay of game),132-112, ,,4,112,132,-20,2659.0
+3:28.0, ,132-112,A. Burks misses 3-pt jump shot from 26 ft,,4,112,132,-20,2672.0
+3:27.0, ,132-112,Offensive rebound by J. Ivey,,4,112,132,-20,2673.0
+3:25.0, ,132-115,J. Ivey makes 3-pt jump shot from 26 ft,,4,115,132,-17,2675.0
+3:06.0,R. Westbrook misses 2-pt jump shot from 12 ft,132-115, ,,4,115,132,-17,2694.0
+3:03.0, ,132-115,Defensive rebound by J. Duren,,4,115,132,-17,2697.0
+2:50.0, ,132-115,C. Cunningham misses 2-pt jump shot from 15 ft,,4,115,132,-17,2710.0
+2:47.0,Defensive rebound by M. Plumlee,132-115, ,,4,115,132,-17,2713.0
+2:44.0,R. Westbrook makes 2-pt layup from 1 ft,134-115, ,,4,115,134,-19,2716.0
+2:39.0, ,134-115,Personal foul by R. Westbrook (drawn by C. Cunningham),,4,115,134,-19,2721.0
+2:39.0, ,134-116,C. Cunningham makes free throw 1 of 1,,4,116,134,-18,2721.0
+2:39.0,B. Boston enters the game for N. Powell,134-116, ,,4,116,134,-18,2721.0
+2:39.0,K. Brown enters the game for R. Westbrook,134-116, ,,4,116,134,-18,2721.0
+2:39.0, ,134-116,M. Sasser enters the game for B. Bogdanović,,4,116,134,-18,2721.0
+2:39.0, ,134-116,A. Thompson enters the game for A. Burks,,4,116,134,-18,2721.0
+2:17.0, ,134-116,Turnover by M. Sasser (lost ball; steal by A. Coffey),,4,116,134,-18,2743.0
+2:15.0,A. Coffey misses 2-pt layup from 3 ft (block by A. Thompson),134-116, ,,4,116,134,-18,2745.0
+2:14.0,Offensive rebound by Team,134-116, ,,4,116,134,-18,2746.0
+2:14.0, ,134-116,K. Knox enters the game for C. Cunningham,,4,116,134,-18,2746.0
+2:14.0, ,134-116,J. Wiseman enters the game for J. Duren,,4,116,134,-18,2746.0
+2:08.0,Turnover by B. Boston (traveling),134-116, ,,4,116,134,-18,2752.0
+1:57.0, ,134-116,J. Ivey misses 3-pt jump shot from 26 ft,,4,116,134,-18,2763.0
+1:53.0,Defensive rebound by M. Plumlee,134-116, ,,4,116,134,-18,2767.0
+1:37.0,T. Mann makes 2-pt jump shot from 8 ft,136-116, ,,4,116,136,-20,2783.0
+1:27.0, ,136-118,M. Sasser makes 2-pt jump shot from 9 ft,,4,118,136,-18,2793.0
+1:12.0,K. Brown misses 2-pt hook shot from 12 ft,136-118, ,,4,118,136,-18,2808.0
+1:10.0, ,136-118,Defensive rebound by J. Wiseman,,4,118,136,-18,2810.0
+1:04.0, ,136-120,J. Wiseman makes 2-pt layup from 3 ft (assist by M. Sasser),,4,120,136,-16,2816.0
+1:04.0, ,136-120,Shooting foul by B. Boston (drawn by J. Wiseman),,4,120,136,-16,2816.0
+1:04.0, ,136-121,J. Wiseman makes free throw 1 of 1,,4,121,136,-15,2816.0
+0:50.0,Turnover by M. Plumlee (bad pass),136-121, ,,4,121,136,-15,2830.0
+0:41.0, ,136-123,J. Ivey makes 2-pt layup at rim,,4,123,136,-13,2839.0
+0:18.0,Turnover by T. Mann (bad pass; steal by K. Knox),136-123, ,,4,123,136,-13,2862.0
+0:13.0, ,136-125,A. Thompson makes 2-pt dunk from 1 ft (assist by J. Ivey),,4,125,136,-11,2867.0
+0:00.0,End of 4th quarter,136-125,,,4,125,136,-11,2880.0

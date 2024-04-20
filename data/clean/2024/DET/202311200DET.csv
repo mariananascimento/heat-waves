@@ -1,0 +1,471 @@
+Time,Denver,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Jokić vs. M. Bagley (C. Cunningham gains possession),0-0,,,1,0,0,0,0.0
+11:39.0, ,0-2,J. Ivey makes 2-pt jump shot from 6 ft (assist by C. Cunningham),,1,2,0,2,21.0
+11:13.0,R. Jackson makes 3-pt jump shot from 26 ft (assist by N. Jokić),3-2, ,Lead change,1,2,3,-1,47.0
+10:53.0, ,3-2,C. Cunningham misses 2-pt jump shot from 19 ft,,1,2,3,-1,67.0
+10:51.0,Defensive rebound by A. Gordon,3-2, ,,1,2,3,-1,69.0
+10:50.0,Turnover by A. Gordon (bad pass),3-2, ,,1,2,3,-1,70.0
+10:37.0, ,3-4,A. Thompson makes 2-pt dunk from 3 ft (assist by C. Cunningham),Lead change,1,4,3,1,83.0
+10:23.0,Personal foul by I. Stewart (drawn by A. Gordon),3-4, ,,1,4,3,1,97.0
+10:09.0,N. Jokić makes 2-pt jump shot from 3 ft,5-4, ,Lead change,1,4,5,-1,111.0
+9:49.0, ,5-6,A. Thompson makes 2-pt dunk from 4 ft (assist by J. Ivey),Lead change,1,6,5,1,131.0
+9:25.0,N. Jokić misses 3-pt jump shot from 27 ft,5-6, ,,1,6,5,1,155.0
+9:22.0, ,5-6,Defensive rebound by A. Thompson,,1,6,5,1,158.0
+9:03.0, ,5-6,C. Cunningham misses 2-pt jump shot from 5 ft,,1,6,5,1,177.0
+9:01.0,Defensive rebound by M. Porter,5-6, ,,1,6,5,1,179.0
+8:57.0,Personal foul by A. Thompson (drawn by R. Jackson),5-6, ,,1,6,5,1,183.0
+8:50.0,M. Porter misses 3-pt jump shot from 26 ft,5-6, ,,1,6,5,1,190.0
+8:48.0, ,5-6,Defensive rebound by M. Bagley,,1,6,5,1,192.0
+8:43.0, ,5-8,J. Ivey makes 2-pt layup from 2 ft,,1,8,5,3,197.0
+8:22.0,N. Jokić misses 2-pt jump shot from 5 ft,5-8, ,,1,8,5,3,218.0
+8:22.0,Offensive rebound by A. Gordon,5-8, ,,1,8,5,3,218.0
+8:22.0,A. Gordon misses 2-pt layup at rim,5-8, ,,1,8,5,3,218.0
+8:22.0, ,5-8,Defensive rebound by Team,,1,8,5,3,218.0
+8:07.0, ,5-10,M. Bagley makes 2-pt layup from 3 ft (assist by C. Cunningham),,1,10,5,5,233.0
+7:54.0,M. Porter misses 2-pt jump shot from 19 ft,5-10, ,,1,10,5,5,246.0
+7:52.0, ,5-10,Defensive rebound by M. Bagley,,1,10,5,5,248.0
+7:30.0, ,5-10,M. Bagley misses 2-pt jump shot from 17 ft,,1,10,5,5,270.0
+7:28.0,Defensive rebound by M. Porter,5-10, ,,1,10,5,5,272.0
+7:25.0,Turnover by M. Porter (bad pass; steal by C. Cunningham),5-10, ,,1,10,5,5,275.0
+7:20.0, ,5-10,Shooting foul by R. Jackson (drawn by M. Bagley),,1,10,5,5,280.0
+7:20.0, ,5-11,M. Bagley makes free throw 1 of 2,,1,11,5,6,280.0
+7:20.0, ,5-12,M. Bagley makes free throw 2 of 2,,1,12,5,7,280.0
+7:19.0,Technical foul by N. Jokić,5-12, ,,1,12,5,7,281.0
+7:19.0, ,5-13,C. Cunningham makes technical free throw,,1,13,5,8,281.0
+7:04.0,N. Jokić makes 2-pt layup from 2 ft (assist by R. Jackson),7-13, ,,1,13,7,6,296.0
+6:51.0, ,7-13,M. Bagley misses 2-pt layup from 3 ft (block by N. Jokić),,1,13,7,6,309.0
+6:47.0,Defensive rebound by N. Jokić,7-13, ,,1,13,7,6,313.0
+6:45.0,M. Porter misses 2-pt layup from 3 ft (block by A. Thompson),7-13, ,,1,13,7,6,315.0
+6:45.0, ,7-13,Defensive rebound by Team,,1,13,7,6,315.0
+6:45.0, ,7-13,Detroit full timeout,,1,13,7,6,315.0
+6:45.0,C. Braun enters the game for R. Jackson,7-13, ,,1,13,7,6,315.0
+6:25.0, ,7-13,J. Ivey misses 2-pt jump shot from 5 ft,,1,13,7,6,335.0
+6:23.0,Defensive rebound by M. Porter,7-13, ,,1,13,7,6,337.0
+6:17.0,Personal foul by M. Bagley (drawn by N. Jokić),7-13, ,,1,13,7,6,343.0
+6:09.0,Offensive foul by N. Jokić (drawn by M. Bagley),7-13, ,,1,13,7,6,351.0
+6:09.0,Turnover by N. Jokić (offensive foul),7-13, ,,1,13,7,6,351.0
+5:51.0, ,7-15,M. Bagley makes 2-pt layup from 5 ft,,1,15,7,8,369.0
+5:35.0,K. Caldwell-Pope makes 2-pt jump shot from 19 ft (assist by N. Jokić),9-15, ,,1,15,9,6,385.0
+5:24.0, ,9-15,M. Bagley misses 2-pt jump shot from 15 ft,,1,15,9,6,396.0
+5:21.0,Defensive rebound by K. Caldwell-Pope,9-15, ,,1,15,9,6,399.0
+5:19.0,Personal foul by M. Bagley (drawn by N. Jokić),9-15, ,,1,15,9,6,401.0
+5:19.0, ,9-15,A. Burks enters the game for M. Bagley,,1,15,9,6,401.0
+5:19.0, ,9-15,J. Wiseman enters the game for J. Ivey,,1,15,9,6,401.0
+5:10.0,N. Jokić misses 3-pt jump shot from 26 ft,9-15, ,,1,15,9,6,410.0
+5:10.0, ,9-15,Defensive rebound by Team,,1,15,9,6,410.0
+5:10.0,Loose ball foul by M. Porter (drawn by A. Thompson),9-15, ,,1,15,9,6,410.0
+4:58.0, ,9-15,A. Thompson misses 2-pt dunk from 5 ft (block by C. Braun),,1,15,9,6,422.0
+4:55.0, ,9-15,Offensive rebound by A. Thompson,,1,15,9,6,425.0
+4:45.0, ,9-15,I. Stewart misses 3-pt jump shot from 27 ft,,1,15,9,6,435.0
+4:42.0,Defensive rebound by N. Jokić,9-15, ,,1,15,9,6,438.0
+4:32.0,A. Gordon misses 2-pt hook shot from 4 ft,9-15, ,,1,15,9,6,448.0
+4:29.0,Offensive rebound by C. Braun,9-15, ,,1,15,9,6,451.0
+4:23.0,N. Jokić makes 3-pt jump shot from 26 ft (assist by C. Braun),12-15, ,,1,15,12,3,457.0
+4:09.0, ,12-15,A. Burks misses 3-pt jump shot from 24 ft,,1,15,12,3,471.0
+4:07.0,Defensive rebound by N. Jokić,12-15, ,,1,15,12,3,473.0
+4:01.0,K. Caldwell-Pope makes 2-pt jump shot from 19 ft (assist by N. Jokić),14-15, ,,1,15,14,1,479.0
+3:38.0, ,14-15,C. Cunningham misses 2-pt layup from 3 ft,,1,15,14,1,502.0
+3:36.0,Defensive rebound by N. Jokić,14-15, ,,1,15,14,1,504.0
+3:33.0,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,14-15, ,,1,15,14,1,507.0
+3:28.0,Offensive rebound by A. Gordon,14-15, ,,1,15,14,1,512.0
+3:21.0,A. Gordon makes 2-pt hook shot from 2 ft,16-15, ,Lead change,1,15,16,-1,519.0
+3:21.0,Shooting foul by A. Thompson (drawn by A. Gordon),16-15, ,,1,15,16,-1,519.0
+3:21.0,J. Pickett enters the game for M. Porter,16-15, ,,1,15,16,-1,519.0
+3:21.0, ,16-15,K. Hayes enters the game for C. Cunningham,,1,15,16,-1,519.0
+3:21.0, ,16-15,I. Livers enters the game for I. Stewart,,1,15,16,-1,519.0
+3:21.0, ,16-15,S. Umude enters the game for A. Thompson,,1,15,16,-1,519.0
+3:21.0,A. Gordon misses free throw 1 of 1,16-15, ,,1,15,16,-1,519.0
+3:17.0, ,16-15,Defensive rebound by A. Burks,,1,15,16,-1,523.0
+3:04.0, ,16-17,I. Livers makes 2-pt jump shot from 19 ft,Lead change,1,17,16,1,536.0
+2:45.0,N. Jokić makes 2-pt hook shot from 4 ft (assist by K. Caldwell-Pope),18-17, ,Lead change,1,17,18,-1,555.0
+2:39.0,Violation by Team (kicked ball),18-17, ,,1,17,18,-1,561.0
+2:39.0,Z. Nnaji enters the game for K. Caldwell-Pope,18-17, ,,1,17,18,-1,561.0
+2:39.0,J. Strawther enters the game for A. Gordon,18-17, ,,1,17,18,-1,561.0
+2:39.0,P. Watson enters the game for N. Jokić,18-17, ,,1,17,18,-1,561.0
+2:29.0, ,18-20,S. Umude makes 3-pt jump shot from 24 ft (assist by A. Burks),Lead change,1,20,18,2,571.0
+2:05.0,J. Strawther misses 3-pt jump shot from 28 ft,18-20, ,,1,20,18,2,595.0
+2:02.0, ,18-20,Defensive rebound by J. Wiseman,,1,20,18,2,598.0
+2:00.0, ,18-20,Personal foul by J. Pickett (drawn by A. Burks),,1,20,18,2,600.0
+1:52.0, ,18-20,J. Wiseman misses 2-pt hook shot from 6 ft,,1,20,18,2,608.0
+1:49.0,Defensive rebound by P. Watson,18-20, ,,1,20,18,2,611.0
+1:39.0,C. Braun makes 3-pt jump shot from 26 ft (assist by P. Watson),21-20, ,Lead change,1,20,21,-1,621.0
+1:29.0,Loose ball foul by J. Strawther (drawn by I. Livers),21-20, ,,1,20,21,-1,631.0
+1:29.0, ,21-21,I. Livers makes free throw 1 of 2,Tie,1,21,21,0,631.0
+1:29.0, ,21-22,I. Livers makes free throw 2 of 2,Lead change,1,22,21,1,631.0
+1:21.0,Technical foul by M. Malone,21-22, ,,1,22,21,1,639.0
+1:21.0,M. Malone ejected from game,21-22, ,,1,22,21,1,639.0
+1:21.0, ,21-22,A. Burks misses technical free throw,,1,22,21,1,639.0
+1:21.0,Defensive rebound by Team,21-22, ,,1,22,21,1,639.0
+1:21.0, ,21-23,A. Burks makes technical free throw,,1,23,21,2,639.0
+1:08.0,C. Braun makes 2-pt jump shot from 3 ft (assist by J. Strawther),23-23, ,Tie,1,23,23,0,652.0
+0:56.0, ,23-23,A. Burks misses 3-pt jump shot from 27 ft,,1,23,23,0,664.0
+0:56.0,Defensive rebound by C. Braun,23-23, ,,1,23,23,0,664.0
+0:50.0,Turnover by C. Braun (lost ball; steal by K. Hayes),23-23, ,,1,23,23,0,670.0
+0:46.0, ,23-23,Turnover by S. Umude (out of bounds lost ball),,1,23,23,0,674.0
+0:36.0,J. Pickett makes 2-pt jump shot from 20 ft (assist by P. Watson),25-23, ,Lead change,1,23,25,-2,684.0
+0:22.0, ,25-23,I. Livers misses 2-pt jump shot from 16 ft (block by Z. Nnaji),,1,23,25,-2,698.0
+0:18.0,Defensive rebound by C. Braun,25-23, ,,1,23,25,-2,702.0
+0:18.0,P. Watson makes 2-pt dunk from 4 ft (assist by C. Braun),27-23, ,,1,23,27,-4,702.0
+0:00.0, ,27-23,A. Burks misses 3-pt jump shot from 28 ft,,1,23,27,-4,720.0
+0:00.0,Defensive rebound by J. Pickett,27-23, ,,1,23,27,-4,720.0
+0:00.0,End of 1st quarter,27-23,,,1,23,27,-4,720.0
+12:00.0,Start of 2nd quarter,27-23,,,2,23,27,-4,720.0
+11:46.0,J. Strawther makes 2-pt layup from 3 ft (assist by J. Pickett),29-23, ,,2,23,29,-6,734.0
+11:27.0, ,29-23,S. Umude misses 3-pt jump shot from 27 ft,,2,23,29,-6,753.0
+11:24.0,Defensive rebound by C. Braun,29-23, ,,2,23,29,-6,756.0
+11:19.0,Shooting foul by K. Hayes (drawn by Z. Nnaji),29-23, ,,2,23,29,-6,761.0
+11:19.0,Z. Nnaji makes free throw 1 of 2,30-23, ,,2,23,30,-7,761.0
+11:19.0,Z. Nnaji misses free throw 2 of 2,30-23, ,,2,23,30,-7,761.0
+11:16.0, ,30-23,Defensive rebound by I. Livers,,2,23,30,-7,764.0
+11:00.0, ,30-23,Turnover by A. Burks (out of bounds lost ball),,2,23,30,-7,780.0
+10:41.0,C. Braun misses 2-pt jump shot from 7 ft,30-23, ,,2,23,30,-7,799.0
+10:41.0, ,30-23,Defensive rebound by Team,,2,23,30,-7,799.0
+10:41.0, ,30-23,M. Bagley enters the game for A. Burks,,2,23,30,-7,799.0
+10:41.0, ,30-23,J. Ivey enters the game for J. Wiseman,,2,23,30,-7,799.0
+10:30.0, ,30-23,Personal foul by C. Braun (drawn by K. Hayes),,2,23,30,-7,810.0
+10:30.0,R. Jackson enters the game for J. Pickett,30-23, ,,2,23,30,-7,810.0
+10:20.0, ,30-25,J. Ivey makes 2-pt layup from 3 ft (assist by M. Bagley),,2,25,30,-5,820.0
+10:01.0,R. Jackson makes 2-pt jump shot from 6 ft,32-25, ,,2,25,32,-7,839.0
+9:45.0, ,32-25,K. Hayes misses 3-pt jump shot from 27 ft,,2,25,32,-7,855.0
+9:43.0,Defensive rebound by J. Strawther,32-25, ,,2,25,32,-7,857.0
+9:38.0,J. Strawther misses 3-pt jump shot from 26 ft,32-25, ,,2,25,32,-7,862.0
+9:36.0, ,32-25,Defensive rebound by S. Umude,,2,25,32,-7,864.0
+9:30.0, ,32-25,S. Umude misses 2-pt layup from 3 ft (block by P. Watson),,2,25,32,-7,870.0
+9:30.0, ,32-25,Offensive rebound by Team,,2,25,32,-7,870.0
+9:30.0,M. Porter enters the game for C. Braun,32-25, ,,2,25,32,-7,870.0
+9:30.0, ,32-25,A. Thompson enters the game for I. Livers,,2,25,32,-7,870.0
+9:23.0, ,32-25,Shooting foul by Z. Nnaji (drawn by M. Bagley),,2,25,32,-7,877.0
+9:23.0, ,32-25,M. Bagley misses free throw 1 of 2,,2,25,32,-7,877.0
+9:23.0, ,32-25,Offensive rebound by Team,,2,25,32,-7,877.0
+9:23.0, ,32-26,M. Bagley makes free throw 2 of 2,,2,26,32,-6,877.0
+9:07.0,R. Jackson makes 2-pt jump shot from 5 ft,34-26, ,,2,26,34,-8,893.0
+8:52.0, ,34-28,M. Bagley makes 2-pt layup from 5 ft (assist by S. Umude),,2,28,34,-6,908.0
+8:52.0, ,34-28,Shooting foul by M. Porter (drawn by M. Bagley),,2,28,34,-6,908.0
+8:52.0, ,34-29,M. Bagley makes free throw 1 of 1,,2,29,34,-5,908.0
+8:33.0,P. Watson misses 2-pt layup from 5 ft (block by A. Thompson),34-29, ,,2,29,34,-5,927.0
+8:29.0, ,34-29,Defensive rebound by M. Bagley,,2,29,34,-5,931.0
+8:26.0, ,34-29,Turnover by K. Hayes (lost ball; steal by R. Jackson),,2,29,34,-5,934.0
+8:18.0,Z. Nnaji makes 2-pt layup from 3 ft (assist by R. Jackson),36-29, ,,2,29,36,-7,942.0
+8:18.0,Shooting foul by A. Thompson (drawn by Z. Nnaji),36-29, ,,2,29,36,-7,942.0
+8:18.0,A. Gordon enters the game for P. Watson,36-29, ,,2,29,36,-7,942.0
+8:18.0, ,36-29,C. Cunningham enters the game for K. Hayes,,2,29,36,-7,942.0
+8:18.0, ,36-29,I. Stewart enters the game for A. Thompson,,2,29,36,-7,942.0
+8:18.0,Z. Nnaji makes free throw 1 of 1,37-29, ,,2,29,37,-8,942.0
+8:03.0, ,37-31,I. Stewart makes 2-pt layup from 3 ft (assist by C. Cunningham),,2,31,37,-6,957.0
+7:43.0,A. Gordon misses 2-pt hook shot from 5 ft,37-31, ,,2,31,37,-6,977.0
+7:41.0, ,37-31,Defensive rebound by I. Stewart,,2,31,37,-6,979.0
+7:33.0, ,37-34,C. Cunningham makes 3-pt jump shot from 28 ft (assist by J. Ivey),,2,34,37,-3,987.0
+7:14.0,Shooting foul by C. Cunningham (drawn by J. Strawther),37-34, ,,2,34,37,-3,1006.0
+7:14.0,J. Strawther makes free throw 1 of 2,38-34, ,,2,34,38,-4,1006.0
+7:14.0,K. Caldwell-Pope enters the game for R. Jackson,38-34, ,,2,34,38,-4,1006.0
+7:14.0,N. Jokić enters the game for Z. Nnaji,38-34, ,,2,34,38,-4,1006.0
+7:14.0, ,38-34,M. Sasser enters the game for S. Umude,,2,34,38,-4,1006.0
+7:14.0,J. Strawther makes free throw 2 of 2,39-34, ,,2,34,39,-5,1006.0
+6:58.0, ,39-37,J. Ivey makes 3-pt jump shot from 27 ft (assist by C. Cunningham),,2,37,39,-2,1022.0
+6:43.0,K. Caldwell-Pope makes 3-pt jump shot from 24 ft (assist by J. Strawther),42-37, ,,2,37,42,-5,1037.0
+6:25.0, ,42-39,C. Cunningham makes 2-pt layup from 4 ft (assist by J. Ivey),,2,39,42,-3,1055.0
+6:12.0,M. Porter misses 2-pt jump shot from 19 ft,42-39, ,,2,39,42,-3,1068.0
+6:09.0, ,42-39,Defensive rebound by J. Ivey,,2,39,42,-3,1071.0
+5:57.0, ,42-41,M. Sasser makes 2-pt jump shot from 10 ft,,2,41,42,-1,1083.0
+5:57.0,Denver full timeout,42-41, ,,2,41,42,-1,1083.0
+5:57.0,R. Jackson enters the game for J. Strawther,42-41, ,,2,41,42,-1,1083.0
+5:38.0,N. Jokić misses 3-pt jump shot from 26 ft,42-41, ,,2,41,42,-1,1102.0
+5:34.0,Offensive rebound by M. Porter,42-41, ,,2,41,42,-1,1106.0
+5:32.0,Turnover by M. Porter (bad pass; steal by C. Cunningham),42-41, ,,2,41,42,-1,1108.0
+5:21.0, ,42-41,C. Cunningham misses 3-pt jump shot from 28 ft,,2,41,42,-1,1119.0
+5:19.0,Defensive rebound by M. Porter,42-41, ,,2,41,42,-1,1121.0
+5:08.0,K. Caldwell-Pope makes 2-pt layup from 3 ft (assist by N. Jokić),44-41, ,,2,41,44,-3,1132.0
+4:54.0, ,44-41,Turnover by C. Cunningham (bad pass),,2,41,44,-3,1146.0
+4:43.0,Turnover by M. Porter (out of bounds lost ball),44-41, ,,2,41,44,-3,1157.0
+4:28.0, ,44-43,J. Ivey makes 2-pt layup from 3 ft,,2,43,44,-1,1172.0
+4:12.0,M. Porter makes 3-pt jump shot from 26 ft (assist by N. Jokić),47-43, ,,2,43,47,-4,1188.0
+3:56.0, ,47-45,I. Stewart makes 2-pt dunk from 3 ft (assist by C. Cunningham),,2,45,47,-2,1204.0
+3:31.0,M. Porter misses 3-pt jump shot from 27 ft,47-45, ,,2,45,47,-2,1229.0
+3:29.0, ,47-45,Defensive rebound by Team,,2,45,47,-2,1231.0
+3:29.0,C. Braun enters the game for R. Jackson,47-45, ,,2,45,47,-2,1231.0
+3:29.0, ,47-45,I. Livers enters the game for J. Ivey,,2,45,47,-2,1231.0
+3:07.0, ,47-45,M. Sasser misses 3-pt jump shot from 27 ft,,2,45,47,-2,1253.0
+3:04.0,Defensive rebound by A. Gordon,47-45, ,,2,45,47,-2,1256.0
+3:00.0,K. Caldwell-Pope misses 2-pt layup from 2 ft (block by C. Cunningham),47-45, ,,2,45,47,-2,1260.0
+2:58.0, ,47-45,Defensive rebound by I. Livers,,2,45,47,-2,1262.0
+2:57.0, ,47-45,I. Livers misses 2-pt layup from 4 ft,,2,45,47,-2,1263.0
+2:56.0, ,47-45,Offensive rebound by I. Livers,,2,45,47,-2,1264.0
+2:56.0, ,47-45,I. Livers misses 2-pt layup from 3 ft,,2,45,47,-2,1264.0
+2:53.0,Defensive rebound by N. Jokić,47-45, ,,2,45,47,-2,1267.0
+2:45.0,A. Gordon makes 2-pt layup from 3 ft,49-45, ,,2,45,49,-4,1275.0
+2:45.0, ,49-45,Violation by Team (def goaltending),,2,45,49,-4,1275.0
+2:18.0, ,49-48,I. Stewart makes 3-pt jump shot from 24 ft (assist by I. Livers),,2,48,49,-1,1302.0
+2:04.0,M. Porter makes 2-pt layup from 2 ft (assist by K. Caldwell-Pope),51-48, ,,2,48,51,-3,1316.0
+2:04.0,Shooting foul by I. Livers (drawn by M. Porter),51-48, ,,2,48,51,-3,1316.0
+2:04.0, ,51-48,Detroit full timeout,,2,48,51,-3,1316.0
+2:04.0, ,51-48,J. Ivey enters the game for M. Sasser,,2,48,51,-3,1316.0
+2:04.0,M. Porter misses free throw 1 of 1,51-48, ,,2,48,51,-3,1316.0
+2:01.0, ,51-48,Defensive rebound by M. Bagley,,2,48,51,-3,1319.0
+1:38.0, ,51-50,M. Bagley makes 2-pt hook shot from 6 ft,,2,50,51,-1,1342.0
+1:22.0,Technical foul by N. Jokić,51-50, ,,2,50,51,-1,1358.0
+1:22.0,N. Jokić ejected from game,51-50, ,,2,50,51,-1,1358.0
+1:22.0, ,51-51,C. Cunningham makes technical free throw,Tie,2,51,51,0,1358.0
+1:22.0,R. Jackson enters the game for N. Jokić,51-51, ,,2,51,51,0,1358.0
+1:22.0,Technical foul by A. Gordon,51-51, ,,2,51,51,0,1358.0
+1:22.0, ,51-51,Technical foul by M. Bagley,,2,51,51,0,1358.0
+1:10.0,R. Jackson misses 3-pt jump shot from 27 ft,51-51, ,,2,51,51,0,1370.0
+1:08.0, ,51-51,Defensive rebound by I. Stewart,,2,51,51,0,1372.0
+1:03.0, ,51-53,J. Ivey makes 2-pt layup from 2 ft,Lead change,2,53,51,2,1377.0
+0:46.0,Shooting foul by J. Ivey (drawn by C. Braun),51-53, ,,2,53,51,2,1394.0
+0:46.0,C. Braun misses free throw 1 of 2,51-53, ,,2,53,51,2,1394.0
+0:46.0,Offensive rebound by Team,51-53, ,,2,53,51,2,1394.0
+0:46.0,C. Braun makes free throw 2 of 2,52-53, ,,2,53,52,1,1394.0
+0:32.0, ,52-55,C. Cunningham makes 2-pt jump shot from 7 ft,,2,55,52,3,1408.0
+0:26.0,Personal foul by M. Bagley (drawn by K. Caldwell-Pope),52-55, ,,2,55,52,3,1414.0
+0:26.0,K. Caldwell-Pope makes free throw 1 of 2,53-55, ,,2,55,53,2,1414.0
+0:26.0,P. Watson enters the game for M. Porter,53-55, ,,2,55,53,2,1414.0
+0:26.0, ,53-55,A. Burks enters the game for M. Bagley,,2,55,53,2,1414.0
+0:26.0,K. Caldwell-Pope makes free throw 2 of 2,54-55, ,,2,55,54,1,1414.0
+0:06.0, ,54-55,Turnover by I. Livers (step out of bounds),,2,55,54,1,1434.0
+0:06.0,M. Porter enters the game for P. Watson,54-55, ,,2,55,54,1,1434.0
+0:00.0,R. Jackson makes 2-pt layup from 3 ft,56-55, ,Lead change,2,55,56,-1,1440.0
+0:00.0,Instant Replay (Request: Stands),56-55, ,,2,55,56,-1,1440.0
+0:00.0,End of 2nd quarter,56-55,,,2,55,56,-1,1440.0
+12:00.0,Start of 3rd quarter,56-55,,,3,55,56,-1,1440.0
+11:43.0,R. Jackson makes 2-pt hook shot from 4 ft (assist by A. Gordon),58-55, ,,3,55,58,-3,1457.0
+11:32.0, ,58-55,Turnover by J. Ivey (traveling),,3,55,58,-3,1468.0
+11:14.0,A. Gordon makes 2-pt layup from 3 ft (assist by M. Porter),60-55, ,,3,55,60,-5,1486.0
+10:52.0, ,60-55,M. Bagley misses 2-pt layup from 2 ft,,3,55,60,-5,1508.0
+10:50.0,Defensive rebound by M. Porter,60-55, ,,3,55,60,-5,1510.0
+10:46.0,Turnover by M. Porter (traveling),60-55, ,,3,55,60,-5,1514.0
+10:39.0, ,60-57,C. Cunningham makes 2-pt layup from 2 ft,,3,57,60,-3,1521.0
+10:39.0, ,60-57,Shooting foul by M. Porter (drawn by C. Cunningham),,3,57,60,-3,1521.0
+10:39.0, ,60-58,C. Cunningham makes free throw 1 of 1,,3,58,60,-2,1521.0
+10:24.0,K. Caldwell-Pope makes 3-pt jump shot from 31 ft (assist by R. Jackson),63-58, ,,3,58,63,-5,1536.0
+10:15.0, ,63-58,M. Bagley misses 2-pt layup from 2 ft,,3,58,63,-5,1545.0
+10:12.0, ,63-58,Offensive rebound by M. Bagley,,3,58,63,-5,1548.0
+10:10.0, ,63-58,M. Bagley misses 2-pt layup from 1 ft,,3,58,63,-5,1550.0
+10:10.0, ,63-58,Offensive rebound by M. Bagley,,3,58,63,-5,1550.0
+10:09.0, ,63-60,M. Bagley makes 2-pt layup at rim,,3,60,63,-3,1551.0
+9:52.0,M. Porter misses 2-pt jump shot from 11 ft,63-60, ,,3,60,63,-3,1568.0
+9:49.0, ,63-60,Defensive rebound by A. Thompson,,3,60,63,-3,1571.0
+9:34.0, ,63-60,Turnover by J. Ivey (bad pass; steal by K. Caldwell-Pope),,3,60,63,-3,1586.0
+9:30.0,C. Braun makes 2-pt layup from 3 ft (assist by K. Caldwell-Pope),65-60, ,,3,60,65,-5,1590.0
+9:09.0, ,65-60,Shooting foul by R. Jackson (drawn by C. Cunningham),,3,60,65,-5,1611.0
+9:09.0, ,65-61,C. Cunningham makes free throw 1 of 2,,3,61,65,-4,1611.0
+9:09.0, ,65-62,C. Cunningham makes free throw 2 of 2,,3,62,65,-3,1611.0
+8:55.0,R. Jackson misses 2-pt jump shot from 8 ft,65-62, ,,3,62,65,-3,1625.0
+8:53.0, ,65-62,Defensive rebound by I. Stewart,,3,62,65,-3,1627.0
+8:47.0, ,65-62,C. Cunningham misses 2-pt layup from 2 ft,,3,62,65,-3,1633.0
+8:46.0, ,65-62,Offensive rebound by M. Bagley,,3,62,65,-3,1634.0
+8:46.0, ,65-64,M. Bagley makes 2-pt dunk at rim,,3,64,65,-1,1634.0
+8:19.0,C. Braun misses 2-pt layup from 3 ft,65-64, ,,3,64,65,-1,1661.0
+8:16.0, ,65-64,Defensive rebound by I. Stewart,,3,64,65,-1,1664.0
+8:12.0, ,65-66,J. Ivey makes 2-pt layup from 2 ft (assist by C. Cunningham),Lead change,3,66,65,1,1668.0
+8:05.0,Turnover by A. Gordon (out of bounds lost ball),65-66, ,,3,66,65,1,1675.0
+7:48.0, ,65-66,Turnover by I. Stewart (3 sec),,3,66,65,1,1692.0
+7:36.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,65-66, ,,3,66,65,1,1704.0
+7:33.0, ,65-66,Defensive rebound by A. Thompson,,3,66,65,1,1707.0
+7:30.0, ,65-66,A. Thompson misses 2-pt layup from 3 ft,,3,66,65,1,1710.0
+7:27.0,Defensive rebound by M. Porter,65-66, ,,3,66,65,1,1713.0
+7:23.0,C. Braun makes 3-pt jump shot from 27 ft (assist by M. Porter),68-66, ,Lead change,3,66,68,-2,1717.0
+6:58.0, ,68-66,Turnover by C. Cunningham (lost ball; steal by K. Caldwell-Pope),,3,66,68,-2,1742.0
+6:46.0,M. Porter makes 3-pt jump shot from 27 ft (assist by A. Gordon),71-66, ,,3,66,71,-5,1754.0
+6:46.0, ,71-66,Detroit full timeout,,3,66,71,-5,1754.0
+6:46.0, ,71-66,I. Livers enters the game for M. Bagley,,3,66,71,-5,1754.0
+6:32.0, ,71-66,A. Thompson misses 2-pt layup from 2 ft,,3,66,71,-5,1768.0
+6:30.0, ,71-66,Offensive rebound by A. Thompson,,3,66,71,-5,1770.0
+6:30.0, ,71-68,A. Thompson makes 2-pt layup at rim,,3,68,71,-3,1770.0
+6:05.0,K. Caldwell-Pope misses 2-pt jump shot from 18 ft,71-68, ,,3,68,71,-3,1795.0
+6:03.0,Offensive rebound by A. Gordon,71-68, ,,3,68,71,-3,1797.0
+5:57.0,C. Braun misses 2-pt jump shot from 12 ft,71-68, ,,3,68,71,-3,1803.0
+5:55.0, ,71-68,Defensive rebound by C. Cunningham,,3,68,71,-3,1805.0
+5:50.0, ,71-68,C. Cunningham misses 2-pt layup from 2 ft,,3,68,71,-3,1810.0
+5:48.0,Defensive rebound by R. Jackson,71-68, ,,3,68,71,-3,1812.0
+5:32.0,K. Caldwell-Pope makes 2-pt jump shot from 10 ft,73-68, ,,3,68,73,-5,1828.0
+5:09.0, ,73-70,A. Thompson makes 2-pt dunk from 4 ft (assist by I. Stewart),,3,70,73,-3,1851.0
+4:58.0,Personal foul by A. Thompson (drawn by R. Jackson),73-70, ,,3,70,73,-3,1862.0
+4:58.0,J. Pickett enters the game for R. Jackson,73-70, ,,3,70,73,-3,1862.0
+4:58.0, ,73-70,S. Umude enters the game for A. Thompson,,3,70,73,-3,1862.0
+4:49.0,M. Porter misses 3-pt jump shot from 27 ft,73-70, ,,3,70,73,-3,1871.0
+4:46.0, ,73-70,Defensive rebound by I. Stewart,,3,70,73,-3,1874.0
+4:44.0, ,73-70,Offensive foul by J. Ivey (drawn by J. Pickett),,3,70,73,-3,1876.0
+4:44.0, ,73-70,Turnover by J. Ivey (offensive foul),,3,70,73,-3,1876.0
+4:44.0, ,73-70,A. Burks enters the game for J. Ivey,,3,70,73,-3,1876.0
+4:31.0,K. Caldwell-Pope misses 2-pt jump shot from 16 ft,73-70, ,,3,70,73,-3,1889.0
+4:27.0,Offensive rebound by M. Porter,73-70, ,,3,70,73,-3,1893.0
+4:25.0,K. Caldwell-Pope misses 2-pt layup from 5 ft (block by I. Stewart),73-70, ,,3,70,73,-3,1895.0
+4:22.0,Offensive rebound by J. Pickett,73-70, ,,3,70,73,-3,1898.0
+4:19.0,C. Braun misses 2-pt layup from 4 ft,73-70, ,,3,70,73,-3,1901.0
+4:17.0, ,73-70,Defensive rebound by I. Stewart,,3,70,73,-3,1903.0
+4:10.0, ,73-70,Turnover by C. Cunningham (bad pass; steal by J. Pickett),,3,70,73,-3,1910.0
+4:10.0,J. Strawther enters the game for M. Porter,73-70, ,,3,70,73,-3,1910.0
+3:47.0,J. Strawther misses 2-pt jump shot from 7 ft,73-70, ,,3,70,73,-3,1933.0
+3:45.0, ,73-70,Defensive rebound by I. Stewart,,3,70,73,-3,1935.0
+3:34.0, ,73-70,S. Umude misses 3-pt jump shot from 24 ft,,3,70,73,-3,1946.0
+3:31.0, ,73-70,Offensive rebound by I. Stewart,,3,70,73,-3,1949.0
+3:31.0, ,73-72,I. Stewart makes 2-pt layup at rim,,3,72,73,-1,1949.0
+3:21.0,Turnover by K. Caldwell-Pope (bad pass; steal by C. Cunningham),73-72, ,,3,72,73,-1,1959.0
+3:04.0, ,73-72,C. Cunningham misses 2-pt hook shot from 4 ft,,3,72,73,-1,1976.0
+3:01.0,Defensive rebound by C. Braun,73-72, ,,3,72,73,-1,1979.0
+3:00.0,Turnover by C. Braun (bad pass; steal by A. Burks),73-72, ,,3,72,73,-1,1980.0
+2:56.0, ,73-75,C. Cunningham makes 3-pt jump shot from 25 ft (assist by A. Burks),Lead change,3,75,73,2,1984.0
+2:56.0,Denver full timeout,73-75, ,,3,75,73,2,1984.0
+2:56.0,R. Jackson enters the game for A. Gordon,73-75, ,,3,75,73,2,1984.0
+2:56.0,Z. Nnaji enters the game for J. Pickett,73-75, ,,3,75,73,2,1984.0
+2:56.0, ,73-75,K. Hayes enters the game for C. Cunningham,,3,75,73,2,1984.0
+2:33.0,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,73-75, ,,3,75,73,2,2007.0
+2:33.0,Offensive rebound by Team,73-75, ,,3,75,73,2,2007.0
+2:33.0,Personal foul by I. Stewart (drawn by Z. Nnaji),73-75, ,,3,75,73,2,2007.0
+2:33.0,P. Watson enters the game for K. Caldwell-Pope,73-75, ,,3,75,73,2,2007.0
+2:30.0,Offensive foul by Z. Nnaji (drawn by A. Burks),73-75, ,,3,75,73,2,2010.0
+2:30.0,Turnover by Z. Nnaji (offensive foul),73-75, ,,3,75,73,2,2010.0
+2:19.0, ,73-75,Turnover by K. Hayes (bad pass; steal by C. Braun),,3,75,73,2,2021.0
+2:13.0,C. Braun makes 2-pt layup from 2 ft,75-75, ,Tie,3,75,75,0,2027.0
+1:59.0, ,75-77,A. Burks makes 2-pt jump shot from 10 ft (assist by K. Hayes),,3,77,75,2,2041.0
+1:42.0,Shooting foul by S. Umude (drawn by C. Braun),75-77, ,,3,77,75,2,2058.0
+1:42.0,C. Braun makes free throw 1 of 2,76-77, ,,3,77,76,1,2058.0
+1:42.0, ,76-77,J. Wiseman enters the game for I. Stewart,,3,77,76,1,2058.0
+1:42.0,C. Braun makes free throw 2 of 2,77-77, ,Tie,3,77,77,0,2058.0
+1:24.0, ,77-77,K. Hayes misses 2-pt jump shot from 14 ft,,3,77,77,0,2076.0
+1:20.0, ,77-77,Offensive rebound by J. Wiseman,,3,77,77,0,2080.0
+1:15.0, ,77-77,A. Burks misses 3-pt jump shot from 27 ft,,3,77,77,0,2085.0
+1:13.0,Defensive rebound by J. Strawther,77-77, ,,3,77,77,0,2087.0
+1:03.0,C. Braun misses 2-pt layup from 5 ft,77-77, ,,3,77,77,0,2097.0
+1:01.0, ,77-77,Defensive rebound by A. Burks,,3,77,77,0,2099.0
+0:55.0, ,77-77,I. Livers misses 3-pt jump shot from 25 ft,,3,77,77,0,2105.0
+0:53.0,Defensive rebound by R. Jackson,77-77, ,,3,77,77,0,2107.0
+0:44.0,Shooting foul by J. Wiseman (drawn by P. Watson),77-77, ,,3,77,77,0,2116.0
+0:44.0,P. Watson makes free throw 1 of 2,78-77, ,Lead change,3,77,78,-1,2116.0
+0:44.0,M. Porter enters the game for C. Braun,78-77, ,,3,77,78,-1,2116.0
+0:44.0,P. Watson makes free throw 2 of 2,79-77, ,,3,77,79,-2,2116.0
+0:33.0, ,79-77,Shooting foul by P. Watson (drawn by I. Livers),,3,77,79,-2,2127.0
+0:33.0, ,79-78,I. Livers makes free throw 1 of 2,,3,78,79,-1,2127.0
+0:33.0, ,79-79,I. Livers makes free throw 2 of 2,Tie,3,79,79,0,2127.0
+0:24.0,R. Jackson makes 2-pt jump shot from 3 ft,81-79, ,,3,79,81,-2,2136.0
+0:06.0, ,81-79,Offensive foul by J. Wiseman (drawn by R. Jackson),,3,79,81,-2,2154.0
+0:06.0, ,81-79,Turnover by J. Wiseman (offensive foul),,3,79,81,-2,2154.0
+0:06.0, ,81-79,A. Thompson enters the game for J. Wiseman,,3,79,81,-2,2154.0
+0:00.0,R. Jackson misses 2-pt jump shot from 22 ft,81-79, ,,3,79,81,-2,2160.0
+0:00.0,Offensive rebound by Team,81-79, ,,3,79,81,-2,2160.0
+0:00.0,End of 3rd quarter,81-79,,,3,79,81,-2,2160.0
+12:00.0,Start of 4th quarter,81-79,,,4,79,81,-2,2160.0
+11:48.0, ,81-79,Turnover by C. Cunningham (bad pass; steal by Z. Nnaji),,4,79,81,-2,2172.0
+11:46.0,Turnover by P. Watson (bad pass),81-79, ,,4,79,81,-2,2174.0
+11:28.0, ,81-82,S. Umude makes 3-pt jump shot from 28 ft (assist by C. Cunningham),Lead change,4,82,81,1,2192.0
+11:06.0,Z. Nnaji misses 2-pt layup from 4 ft,81-82, ,,4,82,81,1,2214.0
+11:04.0,Offensive rebound by Z. Nnaji,81-82, ,,4,82,81,1,2216.0
+11:03.0,J. Strawther misses 3-pt jump shot from 28 ft,81-82, ,,4,82,81,1,2217.0
+11:00.0, ,81-82,Defensive rebound by J. Wiseman,,4,82,81,1,2220.0
+10:47.0, ,81-84,S. Umude makes 2-pt layup from 3 ft (assist by K. Hayes),,4,84,81,3,2233.0
+10:35.0,Z. Nnaji makes 3-pt jump shot from 26 ft (assist by R. Jackson),84-84, ,Tie,4,84,84,0,2245.0
+10:16.0, ,84-87,S. Umude makes 3-pt jump shot from 27 ft (assist by C. Cunningham),,4,87,84,3,2264.0
+10:15.0,Denver full timeout,84-87, ,,4,87,84,3,2265.0
+10:15.0,A. Gordon enters the game for R. Jackson,84-87, ,,4,87,84,3,2265.0
+10:15.0, ,84-87,M. Bagley enters the game for J. Wiseman,,4,87,84,3,2265.0
+10:09.0,Personal foul by A. Burks (drawn by J. Strawther),84-87, ,,4,87,84,3,2271.0
+10:03.0,M. Porter misses 2-pt jump shot from 22 ft,84-87, ,,4,87,84,3,2277.0
+10:00.0, ,84-87,Defensive rebound by M. Bagley,,4,87,84,3,2280.0
+9:43.0, ,84-89,M. Bagley makes 2-pt dunk from 3 ft (assist by S. Umude),,4,89,84,5,2297.0
+9:29.0,Personal foul by K. Hayes (drawn by J. Strawther),84-89, ,,4,89,84,5,2311.0
+9:29.0,K. Caldwell-Pope enters the game for J. Strawther,84-89, ,,4,89,84,5,2311.0
+9:18.0,M. Porter makes 3-pt jump shot from 26 ft (assist by A. Gordon),87-89, ,,4,89,87,2,2322.0
+9:04.0, ,87-89,S. Umude misses 2-pt jump shot from 5 ft,,4,89,87,2,2336.0
+9:01.0,Defensive rebound by M. Porter,87-89, ,,4,89,87,2,2339.0
+8:49.0,Turnover by K. Caldwell-Pope (bad pass; steal by K. Hayes),87-89, ,,4,89,87,2,2351.0
+8:37.0, ,87-89,Turnover by C. Cunningham (bad pass),,4,89,87,2,2363.0
+8:15.0,M. Porter misses 3-pt jump shot from 26 ft,87-89, ,,4,89,87,2,2385.0
+8:12.0, ,87-89,Defensive rebound by C. Cunningham,,4,89,87,2,2388.0
+8:01.0, ,87-89,Shooting foul by Z. Nnaji (drawn by C. Cunningham),,4,89,87,2,2399.0
+8:01.0, ,87-90,C. Cunningham makes free throw 1 of 2,,4,90,87,3,2399.0
+8:01.0,C. Braun enters the game for Z. Nnaji,87-90, ,,4,90,87,3,2399.0
+8:01.0,R. Jackson enters the game for P. Watson,87-90, ,,4,90,87,3,2399.0
+8:01.0, ,87-90,I. Stewart enters the game for K. Hayes,,4,90,87,3,2399.0
+8:01.0, ,87-91,C. Cunningham makes free throw 2 of 2,,4,91,87,4,2399.0
+7:50.0,A. Gordon misses 3-pt jump shot from 27 ft,87-91, ,,4,91,87,4,2410.0
+7:48.0, ,87-91,Defensive rebound by A. Burks,,4,91,87,4,2412.0
+7:40.0, ,87-91,Offensive foul by M. Bagley (drawn by K. Caldwell-Pope),,4,91,87,4,2420.0
+7:40.0, ,87-91,Turnover by M. Bagley (offensive foul),,4,91,87,4,2420.0
+7:27.0,K. Caldwell-Pope makes 2-pt jump shot from 19 ft (assist by A. Gordon),89-91, ,,4,91,89,2,2433.0
+7:04.0, ,89-91,I. Stewart misses 2-pt hook shot from 3 ft,,4,91,89,2,2456.0
+7:01.0,Defensive rebound by M. Porter,89-91, ,,4,91,89,2,2459.0
+6:57.0,M. Porter makes 3-pt jump shot from 27 ft (assist by R. Jackson),92-91, ,Lead change,4,91,92,-1,2463.0
+6:57.0, ,92-91,Detroit full timeout,,4,91,92,-1,2463.0
+6:57.0, ,92-91,J. Ivey enters the game for A. Burks,,4,91,92,-1,2463.0
+6:57.0, ,92-91,A. Thompson enters the game for S. Umude,,4,91,92,-1,2463.0
+6:39.0, ,92-91,Shooting foul by C. Braun (drawn by C. Cunningham),,4,91,92,-1,2481.0
+6:39.0, ,92-91,I. Livers enters the game for M. Bagley,,4,91,92,-1,2481.0
+6:39.0, ,92-92,C. Cunningham makes free throw 1 of 2,Tie,4,92,92,0,2481.0
+6:39.0, ,92-93,C. Cunningham makes free throw 2 of 2,Lead change,4,93,92,1,2481.0
+6:19.0,R. Jackson makes 2-pt jump shot from 5 ft (assist by A. Gordon),94-93, ,Lead change,4,93,94,-1,2501.0
+5:54.0, ,94-93,I. Livers misses 3-pt jump shot from 31 ft,,4,93,94,-1,2526.0
+5:53.0, ,94-93,Offensive rebound by J. Ivey,,4,93,94,-1,2527.0
+5:49.0, ,94-93,C. Cunningham misses 3-pt jump shot from 27 ft,,4,93,94,-1,2531.0
+5:47.0, ,94-93,Offensive rebound by I. Livers,,4,93,94,-1,2533.0
+5:42.0, ,94-93,C. Cunningham misses 2-pt layup from 3 ft (block by R. Jackson),,4,93,94,-1,2538.0
+5:42.0,Defensive rebound by Team,94-93, ,,4,93,94,-1,2538.0
+5:42.0, ,94-93,Detroit full timeout,,4,93,94,-1,2538.0
+5:42.0, ,94-93,Instant Replay (Challenge: Stands),,4,93,94,-1,2538.0
+5:23.0,R. Jackson misses 2-pt jump shot from 6 ft,94-93, ,,4,93,94,-1,2557.0
+5:23.0, ,94-93,Defensive rebound by J. Ivey,,4,93,94,-1,2557.0
+5:23.0, ,94-93,Turnover by J. Ivey (out of bounds lost ball),,4,93,94,-1,2557.0
+5:07.0,K. Caldwell-Pope misses 2-pt layup from 3 ft,94-93, ,,4,93,94,-1,2573.0
+5:05.0, ,94-93,Defensive rebound by I. Stewart,,4,93,94,-1,2575.0
+5:02.0, ,94-93,Shooting foul by K. Caldwell-Pope (drawn by I. Stewart),,4,93,94,-1,2578.0
+5:02.0, ,94-94,I. Stewart makes free throw 1 of 2,Tie,4,94,94,0,2578.0
+5:02.0, ,94-95,I. Stewart makes free throw 2 of 2,Lead change,4,95,94,1,2578.0
+4:44.0,A. Gordon misses 2-pt jump shot from 10 ft,94-95, ,,4,95,94,1,2596.0
+4:40.0, ,94-95,Defensive rebound by I. Stewart,,4,95,94,1,2600.0
+4:29.0, ,94-95,I. Stewart misses 2-pt layup from 5 ft,,4,95,94,1,2611.0
+4:24.0, ,94-95,Offensive rebound by A. Thompson,,4,95,94,1,2616.0
+4:24.0, ,94-95,A. Thompson misses 2-pt dunk at rim,,4,95,94,1,2616.0
+4:24.0,Defensive rebound by A. Gordon,94-95, ,,4,95,94,1,2616.0
+4:23.0,M. Porter misses 3-pt jump shot from 27 ft,94-95, ,,4,95,94,1,2617.0
+4:20.0, ,94-95,Defensive rebound by I. Stewart,,4,95,94,1,2620.0
+4:08.0, ,94-95,A. Thompson misses 2-pt jump shot from 7 ft (block by K. Caldwell-Pope),,4,95,94,1,2632.0
+4:07.0,Defensive rebound by C. Braun,94-95, ,,4,95,94,1,2633.0
+3:56.0,Turnover by K. Caldwell-Pope (bad pass; steal by J. Ivey),94-95, ,,4,95,94,1,2644.0
+3:53.0, ,94-95,Shooting foul by A. Gordon (drawn by J. Ivey),,4,95,94,1,2647.0
+3:53.0, ,94-96,J. Ivey makes free throw 1 of 2,,4,96,94,2,2647.0
+3:53.0,Denver full timeout,94-96, ,,4,96,94,2,2647.0
+3:53.0, ,94-97,J. Ivey makes free throw 2 of 2,,4,97,94,3,2647.0
+3:38.0,R. Jackson makes 2-pt jump shot from 6 ft (assist by A. Gordon),96-97, ,,4,97,96,1,2662.0
+3:38.0,Shooting foul by I. Livers (drawn by R. Jackson),96-97, ,,4,97,96,1,2662.0
+3:38.0,R. Jackson makes free throw 1 of 1,97-97, ,Tie,4,97,97,0,2662.0
+3:26.0, ,97-99,C. Cunningham makes 2-pt layup from 3 ft,,4,99,97,2,2674.0
+3:10.0,Shooting foul by I. Stewart (drawn by A. Gordon),97-99, ,,4,99,97,2,2690.0
+3:10.0,A. Gordon makes free throw 1 of 2,98-99, ,,4,99,98,1,2690.0
+3:10.0,A. Gordon makes free throw 2 of 2,99-99, ,Tie,4,99,99,0,2690.0
+2:55.0, ,99-99,Shooting foul by K. Caldwell-Pope (drawn by C. Cunningham),,4,99,99,0,2705.0
+2:55.0, ,99-100,C. Cunningham makes free throw 1 of 2,,4,100,99,1,2705.0
+2:55.0, ,99-101,C. Cunningham makes free throw 2 of 2,,4,101,99,2,2705.0
+2:39.0,R. Jackson misses 3-pt jump shot from 24 ft,99-101, ,,4,101,99,2,2721.0
+2:37.0,Offensive rebound by A. Gordon,99-101, ,,4,101,99,2,2723.0
+2:32.0,K. Caldwell-Pope misses 2-pt layup from 2 ft,99-101, ,,4,101,99,2,2728.0
+2:29.0,Offensive rebound by K. Caldwell-Pope,99-101, ,,4,101,99,2,2731.0
+2:29.0,K. Caldwell-Pope makes 2-pt layup at rim,101-101, ,Tie,4,101,101,0,2731.0
+2:09.0, ,101-101,Turnover by I. Livers (bad pass; steal by A. Gordon),,4,101,101,0,2751.0
+2:05.0,R. Jackson makes 2-pt layup from 3 ft (assist by A. Gordon),103-101, ,Lead change,4,101,103,-2,2755.0
+1:41.0, ,103-103,C. Cunningham makes 2-pt layup from 4 ft,Tie,4,103,103,0,2779.0
+1:25.0,A. Gordon makes 2-pt layup from 3 ft (assist by R. Jackson),105-103, ,,4,103,105,-2,2795.0
+1:25.0,Shooting foul by C. Cunningham (drawn by A. Gordon),105-103, ,,4,103,105,-2,2795.0
+1:25.0,A. Gordon makes free throw 1 of 1,106-103, ,,4,103,106,-3,2795.0
+1:25.0, ,106-103,Detroit full timeout,,4,103,106,-3,2795.0
+1:11.0, ,106-103,I. Stewart misses 2-pt layup from 3 ft (block by M. Porter),,4,103,106,-3,2809.0
+1:07.0,Defensive rebound by M. Porter,106-103, ,,4,103,106,-3,2813.0
+0:55.0,R. Jackson misses 2-pt layup from 4 ft (block by I. Stewart),106-103, ,,4,103,106,-3,2825.0
+0:52.0, ,106-103,Defensive rebound by A. Thompson,,4,103,106,-3,2828.0
+0:44.0, ,106-103,A. Thompson misses 2-pt layup from 3 ft,,4,103,106,-3,2836.0
+0:42.0,Defensive rebound by A. Gordon,106-103, ,,4,103,106,-3,2838.0
+0:23.0,A. Gordon misses 2-pt layup from 4 ft,106-103, ,,4,103,106,-3,2857.0
+0:22.0,Offensive rebound by A. Gordon,106-103, ,,4,103,106,-3,2858.0
+0:22.0,A. Gordon misses 2-pt layup from 3 ft,106-103, ,,4,103,106,-3,2858.0
+0:20.0, ,106-103,Defensive rebound by J. Ivey,,4,103,106,-3,2860.0
+0:13.0, ,106-103,C. Cunningham misses 2-pt layup from 3 ft,,4,103,106,-3,2867.0
+0:11.0,Defensive rebound by R. Jackson,106-103, ,,4,103,106,-3,2869.0
+0:11.0,Personal foul by A. Thompson (drawn by R. Jackson),106-103, ,,4,103,106,-3,2869.0
+0:11.0,R. Jackson misses free throw 1 of 2,106-103, ,,4,103,106,-3,2869.0
+0:11.0,Offensive rebound by Team,106-103, ,,4,103,106,-3,2869.0
+0:11.0,R. Jackson makes free throw 2 of 2,107-103, ,,4,103,107,-4,2869.0
+0:11.0, ,107-103,Detroit full timeout,,4,103,107,-4,2869.0
+0:11.0,P. Watson enters the game for M. Porter,107-103, ,,4,103,107,-4,2869.0
+0:11.0, ,107-103,A. Burks enters the game for J. Ivey,,4,103,107,-4,2869.0
+0:11.0, ,107-103,S. Umude enters the game for A. Thompson,,4,103,107,-4,2869.0
+0:05.0, ,107-103,I. Livers misses 3-pt jump shot from 32 ft (block by P. Watson),,4,103,107,-4,2875.0
+0:03.0,Defensive rebound by K. Caldwell-Pope,107-103, ,,4,103,107,-4,2877.0
+0:00.0,End of 4th quarter,107-103,,,4,103,107,-4,2880.0

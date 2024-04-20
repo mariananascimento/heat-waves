@@ -1,0 +1,504 @@
+Time,Detroit,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Duren vs. K. Porziņģis (J. Ivey gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,C. Cunningham makes 2-pt jump shot from 9 ft,2-0, ,,1,2,0,2,17.0
+11:28.0, ,2-2,J. Tatum makes 2-pt dunk from 1 ft (assist by A. Horford),Tie,1,2,2,0,32.0
+11:15.0,C. Cunningham misses 2-pt layup from 5 ft,2-2, ,,1,2,2,0,45.0
+11:12.0,Offensive rebound by J. Duren,2-2, ,,1,2,2,0,48.0
+11:10.0,C. Cunningham makes 2-pt layup from 3 ft (assist by J. Duren),4-2, ,,1,4,2,2,50.0
+10:54.0, ,4-2,K. Porziņģis misses 3-pt jump shot from 27 ft,,1,4,2,2,66.0
+10:52.0,Defensive rebound by B. Bogdanović,4-2, ,,1,4,2,2,68.0
+10:39.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by C. Cunningham),6-2, ,,1,6,2,4,81.0
+10:25.0, ,6-4,K. Porziņģis makes 2-pt jump shot from 6 ft (assist by J. Holiday),,1,6,4,2,95.0
+10:12.0,C. Cunningham makes 2-pt jump shot from 17 ft,8-4, ,,1,8,4,4,108.0
+9:58.0, ,8-4,Shooting foul by K. Knox (drawn by J. Tatum),,1,8,4,4,122.0
+9:58.0, ,8-5,J. Tatum makes free throw 1 of 2,,1,8,5,3,122.0
+9:58.0, ,8-6,J. Tatum makes free throw 2 of 2,,1,8,6,2,122.0
+9:51.0, ,8-6,Violation by Team (kicked ball),,1,8,6,2,129.0
+9:40.0,C. Cunningham makes 2-pt jump shot from 6 ft,10-6, ,,1,10,6,4,140.0
+9:24.0, ,10-6,J. Holiday misses 3-pt jump shot from 27 ft,,1,10,6,4,156.0
+9:22.0,Defensive rebound by K. Knox,10-6, ,,1,10,6,4,158.0
+9:18.0,J. Ivey misses 2-pt jump shot from 7 ft,10-6, ,,1,10,6,4,162.0
+9:16.0, ,10-6,Defensive rebound by J. Holiday,,1,10,6,4,164.0
+9:09.0, ,10-6,D. White misses 3-pt jump shot from 25 ft,,1,10,6,4,171.0
+9:07.0,Defensive rebound by J. Ivey,10-6, ,,1,10,6,4,173.0
+9:01.0,J. Ivey makes 2-pt layup from 2 ft,12-6, ,,1,12,6,6,179.0
+8:36.0, ,12-6,Turnover by J. Tatum (bad pass; steal by C. Cunningham),,1,12,6,6,204.0
+8:31.0,Shooting foul by K. Porziņģis (drawn by J. Duren),12-6, ,,1,12,6,6,209.0
+8:31.0,J. Duren misses free throw 1 of 2,12-6, ,,1,12,6,6,209.0
+8:31.0,Offensive rebound by Team,12-6, ,,1,12,6,6,209.0
+8:31.0,J. Duren makes free throw 2 of 2,13-6, ,,1,13,6,7,209.0
+8:16.0, ,13-9,J. Tatum makes 3-pt jump shot from 29 ft,,1,13,9,4,224.0
+8:07.0,Offensive foul by C. Cunningham (drawn by D. White),13-9, ,,1,13,9,4,233.0
+8:07.0,Turnover by C. Cunningham (offensive foul),13-9, ,,1,13,9,4,233.0
+7:53.0, ,13-9,D. White misses 2-pt layup from 1 ft,,1,13,9,4,247.0
+7:51.0,Defensive rebound by J. Ivey,13-9, ,,1,13,9,4,249.0
+7:46.0,C. Cunningham misses 3-pt jump shot from 26 ft,13-9, ,,1,13,9,4,254.0
+7:44.0,Offensive rebound by J. Ivey,13-9, ,,1,13,9,4,256.0
+7:40.0,Turnover by J. Ivey (bad pass),13-9, ,,1,13,9,4,260.0
+7:27.0, ,13-9,K. Porziņģis misses 3-pt jump shot from 24 ft,,1,13,9,4,273.0
+7:25.0, ,13-9,Offensive rebound by D. White,,1,13,9,4,275.0
+7:22.0, ,13-11,D. White makes 2-pt layup from 1 ft,,1,13,11,2,278.0
+7:00.0,J. Ivey makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),16-11, ,,1,16,11,5,300.0
+6:40.0, ,16-11,K. Porziņģis misses 2-pt jump shot from 17 ft,,1,16,11,5,320.0
+6:38.0,Defensive rebound by B. Bogdanović,16-11, ,,1,16,11,5,322.0
+6:27.0,B. Bogdanović misses 2-pt layup from 4 ft,16-11, ,,1,16,11,5,333.0
+6:25.0, ,16-11,Defensive rebound by J. Holiday,,1,16,11,5,335.0
+6:18.0, ,16-11,D. White misses 2-pt layup from 3 ft (block by J. Ivey),,1,16,11,5,342.0
+6:16.0, ,16-11,Offensive rebound by A. Horford,,1,16,11,5,344.0
+6:09.0, ,16-13,J. Holiday makes 2-pt layup from 6 ft,,1,16,13,3,351.0
+5:56.0,J. Ivey misses 2-pt jump shot from 13 ft,16-13, ,,1,16,13,3,364.0
+5:55.0, ,16-13,Defensive rebound by K. Porziņģis,,1,16,13,3,365.0
+5:49.0, ,16-13,J. Tatum misses 3-pt jump shot from 27 ft,,1,16,13,3,371.0
+5:47.0,Defensive rebound by B. Bogdanović,16-13, ,,1,16,13,3,373.0
+5:42.0, ,16-13,Violation by Team (kicked ball),,1,16,13,3,378.0
+5:42.0, ,16-13,Boston full timeout,,1,16,13,3,378.0
+5:42.0, ,16-13,S. Hauser enters the game for J. Holiday,,1,16,13,3,378.0
+5:42.0, ,16-13,P. Pritchard enters the game for A. Horford,,1,16,13,3,378.0
+5:42.0, ,16-13,N. Queta enters the game for D. White,,1,16,13,3,378.0
+5:36.0,K. Knox misses 3-pt jump shot from 27 ft,16-13, ,,1,16,13,3,384.0
+5:32.0, ,16-13,Defensive rebound by S. Hauser,,1,16,13,3,388.0
+5:22.0, ,16-15,K. Porziņģis makes 2-pt layup from 4 ft (assist by J. Tatum),,1,16,15,1,398.0
+5:11.0,C. Cunningham makes 2-pt jump shot from 16 ft,18-15, ,,1,18,15,3,409.0
+4:54.0, ,18-15,J. Tatum misses 3-pt jump shot from 28 ft,,1,18,15,3,426.0
+4:51.0,Defensive rebound by B. Bogdanović,18-15, ,,1,18,15,3,429.0
+4:47.0,B. Bogdanović misses 2-pt layup from 4 ft,18-15, ,,1,18,15,3,433.0
+4:46.0,Offensive rebound by J. Duren,18-15, ,,1,18,15,3,434.0
+4:46.0,J. Duren makes 2-pt dunk at rim,20-15, ,,1,20,15,5,434.0
+4:31.0, ,20-15,J. Tatum misses 2-pt layup from 5 ft,,1,20,15,5,449.0
+4:29.0,Defensive rebound by B. Bogdanović,20-15, ,,1,20,15,5,451.0
+4:24.0,K. Knox misses 3-pt jump shot from 25 ft,20-15, ,,1,20,15,5,456.0
+4:22.0, ,20-15,Defensive rebound by K. Porziņģis,,1,20,15,5,458.0
+4:22.0, ,20-15,Personal foul by J. Ivey (drawn by K. Porziņģis),,1,20,15,5,458.0
+4:22.0,A. Burks enters the game for B. Bogdanović,20-15, ,,1,20,15,5,458.0
+4:22.0,I. Livers enters the game for J. Duren,20-15, ,,1,20,15,5,458.0
+4:22.0,A. Thompson enters the game for J. Ivey,20-15, ,,1,20,15,5,458.0
+4:22.0,J. Wiseman enters the game for K. Knox,20-15, ,,1,20,15,5,458.0
+4:02.0, ,20-17,K. Porziņģis makes 2-pt jump shot from 16 ft,,1,20,17,3,478.0
+3:47.0,Shooting foul by K. Porziņģis (drawn by I. Livers),20-17, ,,1,20,17,3,493.0
+3:47.0,I. Livers misses free throw 1 of 2,20-17, ,,1,20,17,3,493.0
+3:47.0,Offensive rebound by Team,20-17, ,,1,20,17,3,493.0
+3:47.0,I. Livers makes free throw 2 of 2,21-17, ,,1,21,17,4,493.0
+3:32.0, ,21-17,Turnover by P. Pritchard (bad pass; steal by A. Burks),,1,21,17,4,508.0
+3:29.0,I. Livers makes 2-pt dunk from 2 ft (assist by A. Burks),23-17, ,,1,23,17,6,511.0
+3:17.0, ,23-17,K. Porziņģis misses 3-pt jump shot from 26 ft,,1,23,17,6,523.0
+3:16.0, ,23-17,Offensive rebound by J. Tatum,,1,23,17,6,524.0
+3:16.0, ,23-17,J. Tatum misses 2-pt layup from 2 ft (block by I. Livers),,1,23,17,6,524.0
+3:15.0,Defensive rebound by A. Burks,23-17, ,,1,23,17,6,525.0
+2:58.0,C. Cunningham misses 2-pt layup from 3 ft,23-17, ,,1,23,17,6,542.0
+2:55.0,Offensive rebound by J. Wiseman,23-17, ,,1,23,17,6,545.0
+2:55.0,J. Wiseman makes 2-pt dunk at rim,25-17, ,,1,25,17,8,545.0
+2:43.0, ,25-17,J. Tatum misses 3-pt jump shot from 24 ft,,1,25,17,8,557.0
+2:41.0,Defensive rebound by J. Wiseman,25-17, ,,1,25,17,8,559.0
+2:33.0,I. Livers makes 3-pt jump shot from 28 ft (assist by A. Thompson),28-17, ,,1,28,17,11,567.0
+2:31.0, ,28-17,Boston full timeout,,1,28,17,11,569.0
+2:31.0,K. Hayes enters the game for C. Cunningham,28-17, ,,1,28,17,11,569.0
+2:31.0, ,28-17,O. Brissett enters the game for K. Porziņģis,,1,28,17,11,569.0
+2:19.0, ,28-20,S. Hauser makes 3-pt jump shot from 28 ft (assist by J. Tatum),,1,28,20,8,581.0
+1:53.0,I. Livers misses 3-pt jump shot from 24 ft,28-20, ,,1,28,20,8,607.0
+1:52.0, ,28-20,Defensive rebound by J. Tatum,,1,28,20,8,608.0
+1:37.0, ,28-20,J. Tatum misses 3-pt jump shot from 27 ft,,1,28,20,8,623.0
+1:34.0,Defensive rebound by I. Livers,28-20, ,,1,28,20,8,626.0
+1:33.0,Turnover by I. Livers (lost ball; steal by J. Tatum),28-20, ,,1,28,20,8,627.0
+1:29.0, ,28-20,S. Hauser misses 3-pt jump shot from 28 ft,,1,28,20,8,631.0
+1:27.0,Defensive rebound by A. Thompson,28-20, ,,1,28,20,8,633.0
+1:12.0,K. Hayes misses 2-pt jump shot from 12 ft,28-20, ,,1,28,20,8,648.0
+1:11.0, ,28-20,Defensive rebound by J. Tatum,,1,28,20,8,649.0
+1:01.0, ,28-22,N. Queta makes 2-pt jump shot from 12 ft (assist by P. Pritchard),,1,28,22,6,659.0
+0:48.0,I. Livers misses 3-pt jump shot from 26 ft,28-22, ,,1,28,22,6,672.0
+0:46.0, ,28-22,Defensive rebound by P. Pritchard,,1,28,22,6,674.0
+0:43.0, ,28-22,Shooting foul by I. Livers (drawn by J. Tatum),,1,28,22,6,677.0
+0:43.0, ,28-23,J. Tatum makes free throw 1 of 2,,1,28,23,5,677.0
+0:43.0,B. Bogdanović enters the game for A. Thompson,28-23, ,,1,28,23,5,677.0
+0:43.0, ,28-24,J. Tatum makes free throw 2 of 2,,1,28,24,4,677.0
+0:21.0,K. Hayes makes 2-pt jump shot from 17 ft (assist by B. Bogdanović),30-24, ,,1,30,24,6,699.0
+0:08.0, ,30-27,J. Tatum makes 3-pt jump shot from 28 ft,,1,30,27,3,712.0
+0:02.0,Turnover by K. Hayes (lost ball; steal by J. Tatum),30-27, ,,1,30,27,3,718.0
+0:00.0,End of 1st quarter,30-27,,,1,30,27,3,720.0
+12:00.0,Start of 2nd quarter,30-27,,,2,30,27,3,720.0
+11:46.0, ,30-27,Shooting foul by B. Bogdanović (drawn by N. Queta),,2,30,27,3,734.0
+11:46.0, ,30-28,N. Queta makes free throw 1 of 2,,2,30,28,2,734.0
+11:46.0, ,30-28,N. Queta misses free throw 2 of 2,,2,30,28,2,734.0
+11:46.0, ,30-28,Offensive rebound by P. Pritchard,,2,30,28,2,734.0
+11:42.0, ,30-31,P. Pritchard makes 3-pt jump shot from 25 ft,Lead change,2,30,31,-1,738.0
+11:21.0,A. Burks misses 3-pt jump shot from 23 ft,30-31, ,,2,30,31,-1,759.0
+11:18.0, ,30-31,Defensive rebound by S. Hauser,,2,30,31,-1,762.0
+11:13.0, ,30-31,P. Pritchard misses 3-pt jump shot from 27 ft,,2,30,31,-1,767.0
+11:10.0, ,30-31,Offensive rebound by O. Brissett,,2,30,31,-1,770.0
+11:01.0, ,30-31,P. Pritchard misses 3-pt jump shot from 27 ft,,2,30,31,-1,779.0
+11:00.0,Defensive rebound by Team,30-31, ,,2,30,31,-1,780.0
+11:00.0, ,30-31,Loose ball foul by N. Queta (drawn by J. Duren),,2,30,31,-1,780.0
+11:00.0,A. Thompson enters the game for I. Livers,30-31, ,,2,30,31,-1,780.0
+10:45.0,A. Burks makes 3-pt jump shot from 26 ft (assist by A. Thompson),33-31, ,Lead change,2,33,31,2,795.0
+10:29.0, ,33-31,Turnover by J. Holiday (out of bounds lost ball),,2,33,31,2,811.0
+10:13.0,B. Bogdanović makes 2-pt jump shot from 14 ft,35-31, ,,2,35,31,4,827.0
+10:05.0, ,35-31,Shooting foul by A. Burks (drawn by J. Holiday),,2,35,31,4,835.0
+10:05.0, ,35-32,J. Holiday makes free throw 1 of 2,,2,35,32,3,835.0
+10:05.0, ,35-32,A. Horford enters the game for S. Hauser,,2,35,32,3,835.0
+10:05.0, ,35-32,D. White enters the game for N. Queta,,2,35,32,3,835.0
+10:05.0, ,35-33,J. Holiday makes free throw 2 of 2,,2,35,33,2,835.0
+9:55.0,A. Thompson misses 3-pt jump shot from 27 ft,35-33, ,,2,35,33,2,845.0
+9:53.0, ,35-33,Defensive rebound by A. Horford,,2,35,33,2,847.0
+9:42.0, ,35-33,Turnover by D. White (bad pass; steal by K. Hayes),,2,35,33,2,858.0
+9:38.0,Turnover by K. Hayes (bad pass),35-33, ,,2,35,33,2,862.0
+9:26.0, ,35-33,Turnover by D. White (bad pass; steal by A. Burks),,2,35,33,2,874.0
+9:21.0,J. Duren makes 2-pt dunk from 2 ft (assist by B. Bogdanović),37-33, ,,2,37,33,4,879.0
+9:02.0, ,37-33,J. Holiday misses 2-pt jump shot from 8 ft,,2,37,33,4,898.0
+9:00.0,Defensive rebound by J. Duren,37-33, ,,2,37,33,4,900.0
+8:49.0,Turnover by B. Bogdanović (bad pass; steal by A. Horford),37-33, ,,2,37,33,4,911.0
+8:45.0, ,37-35,P. Pritchard makes 2-pt layup from 3 ft (assist by A. Horford),,2,37,35,2,915.0
+8:44.0,Detroit full timeout,37-35, ,,2,37,35,2,916.0
+8:44.0,C. Cunningham enters the game for A. Burks,37-35, ,,2,37,35,2,916.0
+8:44.0,J. Ivey enters the game for K. Hayes,37-35, ,,2,37,35,2,916.0
+8:44.0, ,37-35,K. Porziņģis enters the game for O. Brissett,,2,37,35,2,916.0
+8:27.0,C. Cunningham makes 3-pt jump shot from 27 ft (assist by B. Bogdanović),40-35, ,,2,40,35,5,933.0
+8:15.0, ,40-35,Turnover by K. Porziņģis (bad pass; steal by C. Cunningham),,2,40,35,5,945.0
+8:09.0,Turnover by C. Cunningham (bad pass; steal by P. Pritchard),40-35, ,,2,40,35,5,951.0
+7:56.0, ,40-37,J. Holiday makes 2-pt hook shot from 10 ft,,2,40,37,3,964.0
+7:34.0,A. Thompson makes 2-pt dunk from 3 ft (assist by J. Duren),42-37, ,,2,42,37,5,986.0
+7:21.0, ,42-37,D. White misses 2-pt layup from 4 ft,,2,42,37,5,999.0
+7:20.0,Defensive rebound by B. Bogdanović,42-37, ,,2,42,37,5,1000.0
+7:15.0,B. Bogdanović misses 3-pt jump shot from 26 ft,42-37, ,,2,42,37,5,1005.0
+7:13.0, ,42-37,Defensive rebound by D. White,,2,42,37,5,1007.0
+6:56.0, ,42-37,P. Pritchard misses 3-pt jump shot from 28 ft,,2,42,37,5,1024.0
+6:54.0, ,42-37,Offensive rebound by J. Holiday,,2,42,37,5,1026.0
+6:50.0, ,42-37,P. Pritchard misses 3-pt jump shot from 27 ft,,2,42,37,5,1030.0
+6:48.0, ,42-37,Offensive rebound by J. Holiday,,2,42,37,5,1032.0
+6:46.0, ,42-37,P. Pritchard misses 3-pt jump shot from 24 ft,,2,42,37,5,1034.0
+6:45.0,Defensive rebound by J. Ivey,42-37, ,,2,42,37,5,1035.0
+6:42.0,Shooting foul by K. Porziņģis (drawn by J. Ivey),42-37, ,,2,42,37,5,1038.0
+6:42.0,J. Ivey makes free throw 1 of 2,43-37, ,,2,43,37,6,1038.0
+6:42.0,K. Knox enters the game for B. Bogdanović,43-37, ,,2,43,37,6,1038.0
+6:42.0,I. Livers enters the game for A. Thompson,43-37, ,,2,43,37,6,1038.0
+6:42.0, ,43-37,S. Hauser enters the game for K. Porziņģis,,2,43,37,6,1038.0
+6:42.0, ,43-37,J. Tatum enters the game for P. Pritchard,,2,43,37,6,1038.0
+6:42.0,J. Ivey misses free throw 2 of 2,43-37, ,,2,43,37,6,1038.0
+6:42.0, ,43-37,Defensive rebound by J. Holiday,,2,43,37,6,1038.0
+6:31.0, ,43-37,Turnover by J. Tatum (bad pass),,2,43,37,6,1049.0
+6:31.0,J. Wiseman enters the game for J. Duren,43-37, ,,2,43,37,6,1049.0
+6:14.0,C. Cunningham makes 3-pt jump shot from 27 ft (assist by J. Ivey),46-37, ,,2,46,37,9,1066.0
+6:04.0, ,46-37,Turnover by J. Holiday (lost ball; steal by C. Cunningham),,2,46,37,9,1076.0
+5:54.0,K. Knox makes 2-pt layup from 4 ft (assist by I. Livers),48-37, ,,2,48,37,11,1086.0
+5:39.0, ,48-37,S. Hauser misses 3-pt jump shot from 23 ft,,2,48,37,11,1101.0
+5:37.0,Defensive rebound by Team,48-37, ,,2,48,37,11,1103.0
+5:19.0,J. Wiseman makes 2-pt dunk from 1 ft (assist by C. Cunningham),50-37, ,,2,50,37,13,1121.0
+5:19.0, ,50-37,Boston full timeout,,2,50,37,13,1121.0
+5:08.0, ,50-37,Turnover by A. Horford (bad pass),,2,50,37,13,1132.0
+4:53.0,C. Cunningham misses 2-pt jump shot from 7 ft,50-37, ,,2,50,37,13,1147.0
+4:49.0, ,50-37,Defensive rebound by J. Holiday,,2,50,37,13,1151.0
+4:39.0, ,50-39,J. Tatum makes 2-pt layup from 3 ft,,2,50,39,11,1161.0
+4:30.0,Turnover by J. Wiseman (bad pass),50-39, ,,2,50,39,11,1170.0
+4:30.0,B. Bogdanović enters the game for I. Livers,50-39, ,,2,50,39,11,1170.0
+4:19.0, ,50-39,J. Tatum misses 3-pt jump shot from 28 ft,,2,50,39,11,1181.0
+4:17.0,Defensive rebound by J. Wiseman,50-39, ,,2,50,39,11,1183.0
+4:02.0,J. Ivey makes 2-pt layup from 3 ft (assist by J. Wiseman),52-39, ,,2,52,39,13,1198.0
+3:49.0, ,52-41,S. Hauser makes 2-pt jump shot from 18 ft (assist by J. Tatum),,2,52,41,11,1211.0
+3:25.0,K. Knox makes 2-pt layup from 4 ft (assist by J. Ivey),54-41, ,,2,54,41,13,1235.0
+3:17.0, ,54-41,J. Holiday misses 3-pt jump shot from 28 ft,,2,54,41,13,1243.0
+3:15.0,Defensive rebound by J. Wiseman,54-41, ,,2,54,41,13,1245.0
+3:04.0,Shooting foul by J. Holiday (drawn by C. Cunningham),54-41, ,,2,54,41,13,1256.0
+3:04.0,C. Cunningham makes free throw 1 of 2,55-41, ,,2,55,41,14,1256.0
+3:04.0,J. Duren enters the game for J. Wiseman,55-41, ,,2,55,41,14,1256.0
+3:04.0, ,55-41,P. Pritchard enters the game for A. Horford,,2,55,41,14,1256.0
+3:04.0, ,55-41,N. Queta enters the game for D. White,,2,55,41,14,1256.0
+3:04.0,C. Cunningham makes free throw 2 of 2,56-41, ,,2,56,41,15,1256.0
+2:51.0, ,56-43,J. Tatum makes 2-pt layup from 4 ft,,2,56,43,13,1269.0
+2:39.0,C. Cunningham makes 2-pt layup from 4 ft,58-43, ,,2,58,43,15,1281.0
+2:21.0, ,58-43,Turnover by J. Holiday (bad pass; steal by K. Knox),,2,58,43,15,1299.0
+2:15.0,J. Ivey makes 2-pt layup from 1 ft (assist by C. Cunningham),60-43, ,,2,60,43,17,1305.0
+1:56.0, ,60-43,J. Tatum misses 2-pt jump shot from 15 ft,,2,60,43,17,1324.0
+1:54.0,Defensive rebound by C. Cunningham,60-43, ,,2,60,43,17,1326.0
+1:38.0,C. Cunningham makes 2-pt jump shot from 18 ft,62-43, ,,2,62,43,19,1342.0
+1:23.0, ,62-43,J. Tatum misses 3-pt jump shot from 27 ft,,2,62,43,19,1357.0
+1:21.0,Defensive rebound by K. Knox,62-43, ,,2,62,43,19,1359.0
+1:12.0,Personal foul by N. Queta (drawn by C. Cunningham),62-43, ,,2,62,43,19,1368.0
+1:06.0,Turnover by C. Cunningham (bad pass; steal by N. Queta),62-43, ,,2,62,43,19,1374.0
+1:01.0, ,62-43,S. Hauser misses 3-pt jump shot from 28 ft,,2,62,43,19,1379.0
+0:58.0,Defensive rebound by J. Ivey,62-43, ,,2,62,43,19,1382.0
+0:45.0,Shooting foul by N. Queta (drawn by J. Duren),62-43, ,,2,62,43,19,1395.0
+0:45.0,J. Duren makes free throw 1 of 2,63-43, ,,2,63,43,20,1395.0
+0:45.0,J. Duren makes free throw 2 of 2,64-43, ,,2,64,43,21,1395.0
+0:33.0, ,64-45,P. Pritchard makes 2-pt jump shot from 16 ft (assist by S. Hauser),,2,64,45,19,1407.0
+0:17.0,K. Knox misses 3-pt jump shot from 24 ft,64-45, ,,2,64,45,19,1423.0
+0:15.0,Offensive rebound by J. Duren,64-45, ,,2,64,45,19,1425.0
+0:15.0,J. Duren makes 2-pt layup at rim,66-45, ,,2,66,45,21,1425.0
+0:01.0, ,66-47,P. Pritchard makes 2-pt jump shot from 22 ft (assist by J. Holiday),,2,66,47,19,1439.0
+0:00.0,End of 2nd quarter,66-47,,,2,66,47,19,1440.0
+12:00.0,Start of 3rd quarter,66-47,,,3,66,47,19,1440.0
+11:39.0, ,66-49,J. Tatum makes 2-pt layup from 2 ft (assist by A. Horford),,3,66,49,17,1461.0
+11:12.0,K. Knox misses 3-pt jump shot from 31 ft,66-49, ,,3,66,49,17,1488.0
+11:11.0,Offensive rebound by Team,66-49, ,,3,66,49,17,1489.0
+11:11.0, ,66-49,Loose ball foul by J. Tatum (drawn by J. Ivey),,3,66,49,17,1489.0
+11:02.0,K. Knox misses 3-pt jump shot from 29 ft,66-49, ,,3,66,49,17,1498.0
+11:00.0, ,66-49,Defensive rebound by J. Tatum,,3,66,49,17,1500.0
+10:56.0, ,66-51,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Tatum),,3,66,51,15,1504.0
+10:46.0,Personal foul by J. Tatum (drawn by J. Ivey),66-51, ,,3,66,51,15,1514.0
+10:40.0,K. Knox makes 2-pt dunk from 1 ft (assist by C. Cunningham),68-51, ,,3,68,51,17,1520.0
+10:24.0, ,68-51,Personal foul by K. Knox (drawn by K. Porziņģis),,3,68,51,17,1536.0
+10:15.0, ,68-51,J. Tatum misses 2-pt jump shot from 13 ft,,3,68,51,17,1545.0
+10:13.0, ,68-51,Offensive rebound by Team,,3,68,51,17,1547.0
+10:09.0, ,68-53,K. Porziņģis makes 2-pt jump shot from 11 ft (assist by J. Holiday),,3,68,53,15,1551.0
+9:53.0,B. Bogdanović makes 2-pt layup from 4 ft (assist by J. Ivey),70-53, ,,3,70,53,17,1567.0
+9:44.0, ,70-55,J. Holiday makes 2-pt layup from 1 ft,,3,70,55,15,1576.0
+9:33.0,K. Knox misses 3-pt jump shot from 24 ft,70-55, ,,3,70,55,15,1587.0
+9:29.0, ,70-55,Defensive rebound by D. White,,3,70,55,15,1591.0
+9:22.0, ,70-57,A. Horford makes 2-pt dunk from 1 ft (assist by D. White),,3,70,57,13,1598.0
+9:22.0,Detroit full timeout,70-57, ,,3,70,57,13,1598.0
+9:13.0,B. Bogdanović misses 2-pt jump shot from 17 ft,70-57, ,,3,70,57,13,1607.0
+9:11.0,Offensive rebound by J. Duren,70-57, ,,3,70,57,13,1609.0
+9:08.0,J. Duren makes 2-pt jump shot from 11 ft,72-57, ,,3,72,57,15,1612.0
+8:54.0, ,72-59,J. Tatum makes 2-pt layup from 1 ft,,3,72,59,13,1626.0
+8:54.0, ,72-59,Shooting foul by J. Duren (drawn by J. Tatum),,3,72,59,13,1626.0
+8:54.0, ,72-60,J. Tatum makes free throw 1 of 1,,3,72,60,12,1626.0
+8:41.0,C. Cunningham misses 2-pt jump shot from 19 ft,72-60, ,,3,72,60,12,1639.0
+8:39.0, ,72-60,Defensive rebound by J. Tatum,,3,72,60,12,1641.0
+8:19.0, ,72-60,Shooting foul by K. Knox (drawn by K. Porziņģis),,3,72,60,12,1661.0
+8:19.0, ,72-61,K. Porziņģis makes free throw 1 of 2,,3,72,61,11,1661.0
+8:19.0,I. Livers enters the game for K. Knox,72-61, ,,3,72,61,11,1661.0
+8:19.0, ,72-62,K. Porziņģis makes free throw 2 of 2,,3,72,62,10,1661.0
+8:03.0,J. Ivey misses 2-pt jump shot from 15 ft,72-62, ,,3,72,62,10,1677.0
+8:02.0,Offensive rebound by J. Duren,72-62, ,,3,72,62,10,1678.0
+7:58.0,B. Bogdanović makes 2-pt jump shot from 19 ft (assist by J. Ivey),74-62, ,,3,74,62,12,1682.0
+7:36.0, ,74-65,K. Porziņģis makes 3-pt jump shot from 28 ft (assist by J. Tatum),,3,74,65,9,1704.0
+7:22.0,Turnover by J. Ivey (bad pass; steal by J. Tatum),74-65, ,,3,74,65,9,1718.0
+7:10.0, ,74-65,A. Horford misses 3-pt jump shot from 22 ft,,3,74,65,9,1730.0
+7:08.0,Defensive rebound by J. Duren,74-65, ,,3,74,65,9,1732.0
+7:00.0,Turnover by C. Cunningham (bad pass; steal by J. Tatum),74-65, ,,3,74,65,9,1740.0
+6:55.0, ,74-67,D. White makes 2-pt dunk from 1 ft,,3,74,67,7,1745.0
+6:31.0,I. Livers makes 3-pt jump shot from 24 ft (assist by C. Cunningham),77-67, ,,3,77,67,10,1769.0
+6:15.0, ,77-70,D. White makes 3-pt jump shot from 26 ft,,3,77,70,7,1785.0
+5:53.0,C. Cunningham misses 2-pt layup from 3 ft (block by J. Holiday),77-70, ,,3,77,70,7,1807.0
+5:52.0,Offensive rebound by Team,77-70, ,,3,77,70,7,1808.0
+5:49.0,Turnover by B. Bogdanović (traveling),77-70, ,,3,77,70,7,1811.0
+5:32.0, ,77-70,Personal foul by J. Ivey (drawn by J. Tatum),,3,77,70,7,1828.0
+5:32.0,A. Thompson enters the game for J. Duren,77-70, ,,3,77,70,7,1828.0
+5:32.0,J. Wiseman enters the game for J. Ivey,77-70, ,,3,77,70,7,1828.0
+5:23.0, ,77-70,Shooting foul by C. Cunningham (drawn by J. Tatum),,3,77,70,7,1837.0
+5:23.0, ,77-71,J. Tatum makes free throw 1 of 2,,3,77,71,6,1837.0
+5:23.0,A. Burks enters the game for B. Bogdanović,77-71, ,,3,77,71,6,1837.0
+5:23.0, ,77-71,J. Tatum misses free throw 2 of 2,,3,77,71,6,1837.0
+5:21.0, ,77-71,Offensive rebound by Team,,3,77,71,6,1839.0
+5:19.0, ,77-74,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Tatum),,3,77,74,3,1841.0
+4:56.0,C. Cunningham misses 2-pt jump shot from 16 ft,77-74, ,,3,77,74,3,1864.0
+4:53.0,Offensive rebound by J. Wiseman,77-74, ,,3,77,74,3,1867.0
+4:46.0,A. Burks misses 3-pt jump shot from 24 ft,77-74, ,,3,77,74,3,1874.0
+4:44.0, ,77-74,Defensive rebound by J. Holiday,,3,77,74,3,1876.0
+4:40.0, ,77-76,J. Tatum makes 2-pt layup from 1 ft,,3,77,76,1,1880.0
+4:40.0,Detroit full timeout,77-76, ,,3,77,76,1,1880.0
+4:40.0,K. Hayes enters the game for C. Cunningham,77-76, ,,3,77,76,1,1880.0
+4:40.0, ,77-76,P. Pritchard enters the game for A. Horford,,3,77,76,1,1880.0
+4:40.0, ,77-76,N. Queta enters the game for D. White,,3,77,76,1,1880.0
+4:19.0,A. Burks misses 3-pt jump shot from 27 ft,77-76, ,,3,77,76,1,1901.0
+4:16.0,Offensive rebound by Team,77-76, ,,3,77,76,1,1904.0
+4:07.0,J. Wiseman makes 2-pt hook shot from 5 ft (assist by I. Livers),79-76, ,,3,79,76,3,1913.0
+3:48.0, ,79-76,J. Holiday misses 2-pt jump shot from 20 ft,,3,79,76,3,1932.0
+3:46.0,Defensive rebound by K. Hayes,79-76, ,,3,79,76,3,1934.0
+3:30.0,A. Burks makes 3-pt jump shot from 28 ft,82-76, ,,3,82,76,6,1950.0
+3:10.0, ,82-76,Personal foul by A. Thompson (drawn by K. Porziņģis),,3,82,76,6,1970.0
+3:10.0, ,82-76,K. Porziņģis misses free throw 1 of 2,,3,82,76,6,1970.0
+3:10.0, ,82-76,Offensive rebound by Team,,3,82,76,6,1970.0
+3:10.0, ,82-76,S. Hauser enters the game for J. Holiday,,3,82,76,6,1970.0
+3:10.0, ,82-77,K. Porziņģis makes free throw 2 of 2,,3,82,77,5,1970.0
+2:53.0,K. Hayes misses 2-pt jump shot from 16 ft,82-77, ,,3,82,77,5,1987.0
+2:51.0, ,82-77,Defensive rebound by K. Porziņģis,,3,82,77,5,1989.0
+2:39.0, ,82-77,J. Tatum misses 3-pt jump shot from 25 ft,,3,82,77,5,2001.0
+2:37.0,Defensive rebound by A. Thompson,82-77, ,,3,82,77,5,2003.0
+2:22.0,Turnover by K. Hayes (bad pass),82-77, ,,3,82,77,5,2018.0
+2:04.0, ,82-79,J. Tatum makes 2-pt layup from 4 ft (assist by P. Pritchard),,3,82,79,3,2036.0
+2:04.0, ,82-79,Shooting foul by I. Livers (drawn by J. Tatum),,3,82,79,3,2036.0
+2:04.0,B. Bogdanović enters the game for A. Thompson,82-79, ,,3,82,79,3,2036.0
+2:04.0, ,82-80,J. Tatum makes free throw 1 of 1,,3,82,80,2,2036.0
+1:47.0,B. Bogdanović misses 2-pt jump shot from 12 ft,82-80, ,,3,82,80,2,2053.0
+1:44.0, ,82-80,Defensive rebound by N. Queta,,3,82,80,2,2056.0
+1:29.0, ,82-80,Turnover by S. Hauser (traveling),,3,82,80,2,2071.0
+1:09.0,Turnover by I. Livers (bad pass; steal by J. Tatum),82-80, ,,3,82,80,2,2091.0
+1:04.0, ,82-82,K. Porziņģis makes 2-pt layup from 3 ft (assist by J. Tatum),Tie,3,82,82,0,2096.0
+0:47.0,I. Livers misses 3-pt jump shot from 25 ft,82-82, ,,3,82,82,0,2113.0
+0:45.0, ,82-82,Defensive rebound by K. Porziņģis,,3,82,82,0,2115.0
+0:33.0, ,82-82,J. Tatum misses 3-pt jump shot from 28 ft,,3,82,82,0,2127.0
+0:31.0,Defensive rebound by K. Hayes,82-82, ,,3,82,82,0,2129.0
+0:07.0,Turnover by Team (shot clock),82-82, ,,3,82,82,0,2153.0
+0:07.0,A. Thompson enters the game for K. Hayes,82-82, ,,3,82,82,0,2153.0
+0:02.0, ,82-82,P. Pritchard misses 2-pt jump shot from 9 ft,,3,82,82,0,2158.0
+0:01.0, ,82-82,Offensive rebound by S. Hauser,,3,82,82,0,2159.0
+0:01.0, ,82-82,S. Hauser misses 2-pt layup from 2 ft,,3,82,82,0,2159.0
+0:00.0,Defensive rebound by A. Thompson,82-82, ,,3,82,82,0,2160.0
+0:00.0,End of 3rd quarter,82-82,,,3,82,82,0,2160.0
+12:00.0,Start of 4th quarter,82-82,,,4,82,82,0,2160.0
+11:50.0,Turnover by I. Livers (traveling),82-82, ,,4,82,82,0,2170.0
+11:35.0, ,82-84,D. White makes 2-pt jump shot from 10 ft,Lead change,4,82,84,-2,2185.0
+11:21.0,I. Livers misses 3-pt jump shot from 24 ft,82-84, ,,4,82,84,-2,2199.0
+11:19.0,Offensive rebound by J. Duren,82-84, ,,4,82,84,-2,2201.0
+11:19.0,J. Duren makes 2-pt layup at rim,84-84, ,Tie,4,84,84,0,2201.0
+11:05.0, ,84-86,D. White makes 2-pt layup from 3 ft,,4,84,86,-2,2215.0
+10:57.0,Turnover by C. Cunningham (out of bounds lost ball),84-86, ,,4,84,86,-2,2223.0
+10:44.0, ,84-88,D. White makes 2-pt layup from 2 ft,,4,84,88,-4,2236.0
+10:22.0,C. Cunningham misses 2-pt layup from 7 ft (block by A. Horford),84-88, ,,4,84,88,-4,2258.0
+10:20.0, ,84-88,Defensive rebound by N. Queta,,4,84,88,-4,2260.0
+10:12.0, ,84-88,D. White misses 2-pt jump shot from 8 ft,,4,84,88,-4,2268.0
+10:09.0,Defensive rebound by C. Cunningham,84-88, ,,4,84,88,-4,2271.0
+9:59.0,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by C. Cunningham),87-88, ,,4,87,88,-1,2281.0
+9:42.0, ,87-91,A. Horford makes 3-pt jump shot from 24 ft (assist by D. White),,4,87,91,-4,2298.0
+9:23.0,C. Cunningham makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),90-91, ,,4,90,91,-1,2317.0
+9:08.0, ,90-91,D. White misses 3-pt jump shot from 26 ft,,4,90,91,-1,2332.0
+9:05.0, ,90-91,Offensive rebound by P. Pritchard,,4,90,91,-1,2335.0
+8:54.0, ,90-91,J. Holiday misses 2-pt jump shot from 13 ft,,4,90,91,-1,2346.0
+8:52.0,Defensive rebound by B. Bogdanović,90-91, ,,4,90,91,-1,2348.0
+8:42.0,B. Bogdanović misses 2-pt layup from 5 ft,90-91, ,,4,90,91,-1,2358.0
+8:39.0,Offensive rebound by B. Bogdanović,90-91, ,,4,90,91,-1,2361.0
+8:30.0,A. Burks makes 3-pt jump shot from 25 ft,93-91, ,Lead change,4,93,91,2,2370.0
+8:10.0, ,93-93,N. Queta makes 2-pt dunk from 1 ft (assist by D. White),Tie,4,93,93,0,2390.0
+7:49.0,A. Burks misses 2-pt layup from 2 ft,93-93, ,,4,93,93,0,2411.0
+7:48.0,Offensive rebound by J. Duren,93-93, ,,4,93,93,0,2412.0
+7:48.0,J. Duren misses 2-pt layup from 1 ft,93-93, ,,4,93,93,0,2412.0
+7:47.0, ,93-93,Defensive rebound by P. Pritchard,,4,93,93,0,2413.0
+7:43.0, ,93-93,P. Pritchard misses 2-pt layup from 5 ft,,4,93,93,0,2417.0
+7:42.0,Defensive rebound by C. Cunningham,93-93, ,,4,93,93,0,2418.0
+7:37.0,Shooting foul by N. Queta (drawn by C. Cunningham),93-93, ,,4,93,93,0,2423.0
+7:37.0,C. Cunningham misses free throw 1 of 2,93-93, ,,4,93,93,0,2423.0
+7:37.0,Offensive rebound by Team,93-93, ,,4,93,93,0,2423.0
+7:37.0,J. Ivey enters the game for I. Livers,93-93, ,,4,93,93,0,2423.0
+7:37.0, ,93-93,K. Porziņģis enters the game for P. Pritchard,,4,93,93,0,2423.0
+7:37.0, ,93-93,J. Tatum enters the game for N. Queta,,4,93,93,0,2423.0
+7:37.0,C. Cunningham makes free throw 2 of 2,94-93, ,,4,94,93,1,2423.0
+7:21.0, ,94-93,K. Porziņģis misses 3-pt jump shot from 26 ft,,4,94,93,1,2439.0
+7:18.0,Defensive rebound by J. Ivey,94-93, ,,4,94,93,1,2442.0
+7:13.0,J. Ivey misses 2-pt layup from 5 ft (block by D. White),94-93, ,,4,94,93,1,2447.0
+7:10.0, ,94-93,Defensive rebound by A. Horford,,4,94,93,1,2450.0
+7:06.0, ,94-93,J. Tatum misses 2-pt layup from 4 ft,,4,94,93,1,2454.0
+7:04.0,Defensive rebound by J. Duren,94-93, ,,4,94,93,1,2456.0
+6:55.0, ,94-93,Boston full timeout,,4,94,93,1,2465.0
+6:45.0,B. Bogdanović misses 2-pt jump shot from 17 ft,94-93, ,,4,94,93,1,2475.0
+6:42.0,Offensive rebound by J. Ivey,94-93, ,,4,94,93,1,2478.0
+6:37.0,A. Burks makes 3-pt jump shot from 24 ft (assist by C. Cunningham),97-93, ,,4,97,93,4,2483.0
+6:30.0, ,97-93,J. Tatum misses 2-pt layup from 4 ft (block by C. Cunningham),,4,97,93,4,2490.0
+6:29.0, ,97-93,Offensive rebound by Team,,4,97,93,4,2491.0
+6:27.0, ,97-96,K. Porziņģis makes 3-pt jump shot from 27 ft (assist by J. Tatum),,4,97,96,1,2493.0
+6:09.0,C. Cunningham misses 2-pt layup from 2 ft,97-96, ,,4,97,96,1,2511.0
+6:07.0, ,97-96,Defensive rebound by K. Porziņģis,,4,97,96,1,2513.0
+5:57.0, ,97-96,K. Porziņģis misses 3-pt jump shot from 28 ft,,4,97,96,1,2523.0
+5:55.0,Defensive rebound by C. Cunningham,97-96, ,,4,97,96,1,2525.0
+5:47.0,B. Bogdanović makes 2-pt layup from 4 ft,99-96, ,,4,99,96,3,2533.0
+5:29.0, ,99-96,J. Tatum misses 2-pt jump shot from 12 ft,,4,99,96,3,2551.0
+5:27.0,Defensive rebound by B. Bogdanović,99-96, ,,4,99,96,3,2553.0
+5:17.0, ,99-96,Violation by Team (kicked ball),,4,99,96,3,2563.0
+5:10.0,J. Ivey misses 3-pt jump shot from 23 ft,99-96, ,,4,99,96,3,2570.0
+5:08.0, ,99-96,Defensive rebound by K. Porziņģis,,4,99,96,3,2572.0
+4:58.0, ,99-96,J. Tatum misses 3-pt jump shot from 27 ft,,4,99,96,3,2582.0
+4:55.0,Defensive rebound by J. Duren,99-96, ,,4,99,96,3,2585.0
+4:41.0,Shooting foul by J. Tatum (drawn by J. Ivey),99-96, ,,4,99,96,3,2599.0
+4:41.0,J. Ivey makes free throw 1 of 2,100-96, ,,4,100,96,4,2599.0
+4:41.0,J. Ivey misses free throw 2 of 2,100-96, ,,4,100,96,4,2599.0
+4:39.0,Offensive rebound by J. Ivey,100-96, ,,4,100,96,4,2601.0
+4:38.0,Turnover by J. Ivey (bad pass; steal by J. Holiday),100-96, ,,4,100,96,4,2602.0
+4:23.0, ,100-98,K. Porziņģis makes 2-pt jump shot from 14 ft,,4,100,98,2,2617.0
+4:23.0, ,100-98,Shooting foul by J. Ivey (drawn by K. Porziņģis),,4,100,98,2,2617.0
+4:23.0,Detroit full timeout,100-98, ,,4,100,98,2,2617.0
+4:23.0, ,100-99,K. Porziņģis makes free throw 1 of 1,,4,100,99,1,2617.0
+4:08.0,A. Burks misses 3-pt jump shot from 27 ft,100-99, ,,4,100,99,1,2632.0
+4:06.0, ,100-99,Defensive rebound by D. White,,4,100,99,1,2634.0
+3:46.0, ,100-101,K. Porziņģis makes 2-pt jump shot from 14 ft (assist by D. White),Lead change,4,100,101,-1,2654.0
+3:19.0,A. Burks misses 3-pt jump shot from 24 ft,100-101, ,,4,100,101,-1,2681.0
+3:17.0,Offensive rebound by J. Ivey,100-101, ,,4,100,101,-1,2683.0
+3:14.0,B. Bogdanović misses 3-pt jump shot from 27 ft,100-101, ,,4,100,101,-1,2686.0
+3:12.0, ,100-101,Defensive rebound by A. Horford,,4,100,101,-1,2688.0
+3:07.0, ,100-101,Boston full timeout,,4,100,101,-1,2693.0
+3:07.0,Detroit full timeout,100-101, ,,4,100,101,-1,2693.0
+2:57.0, ,100-101,J. Tatum misses 2-pt layup from 3 ft (block by C. Cunningham),,4,100,101,-1,2703.0
+2:55.0,Defensive rebound by C. Cunningham,100-101, ,,4,100,101,-1,2705.0
+2:44.0,B. Bogdanović misses 2-pt jump shot from 15 ft,100-101, ,,4,100,101,-1,2716.0
+2:42.0, ,100-101,Defensive rebound by K. Porziņģis,,4,100,101,-1,2718.0
+2:25.0, ,100-103,J. Tatum makes 2-pt layup from 3 ft,,4,100,103,-3,2735.0
+2:13.0,J. Ivey misses 2-pt layup from 3 ft (block by D. White),100-103, ,,4,100,103,-3,2747.0
+2:09.0, ,100-103,Defensive rebound by J. Holiday,,4,100,103,-3,2751.0
+1:56.0, ,100-106,K. Porziņģis makes 3-pt jump shot from 29 ft (assist by D. White),,4,100,106,-6,2764.0
+1:56.0,Detroit full timeout,100-106, ,,4,100,106,-6,2764.0
+1:44.0,A. Burks misses 3-pt jump shot from 27 ft,100-106, ,,4,100,106,-6,2776.0
+1:42.0,Offensive rebound by J. Ivey,100-106, ,,4,100,106,-6,2778.0
+1:33.0,J. Ivey makes 2-pt layup from 4 ft (assist by C. Cunningham),102-106, ,,4,102,106,-4,2787.0
+1:33.0,Shooting foul by K. Porziņģis (drawn by J. Ivey),102-106, ,,4,102,106,-4,2787.0
+1:33.0,J. Ivey makes free throw 1 of 1,103-106, ,,4,103,106,-3,2787.0
+1:13.0, ,103-106,Turnover by J. Tatum (out of bounds lost ball),,4,103,106,-3,2807.0
+1:02.0,J. Ivey makes 3-pt jump shot from 24 ft (assist by C. Cunningham),106-106, ,Tie,4,106,106,0,2818.0
+0:46.0, ,106-106,K. Porziņģis misses 2-pt jump shot from 8 ft,,4,106,106,0,2834.0
+0:44.0,Defensive rebound by J. Duren,106-106, ,,4,106,106,0,2836.0
+0:36.0,B. Bogdanović misses 3-pt jump shot from 27 ft,106-106, ,,4,106,106,0,2844.0
+0:28.0, ,106-106,Defensive rebound by J. Holiday,,4,106,106,0,2852.0
+0:27.0, ,106-106,Personal foul by J. Ivey (drawn by K. Porziņģis),,4,106,106,0,2853.0
+0:27.0,A. Thompson enters the game for J. Ivey,106-106, ,,4,106,106,0,2853.0
+0:08.0, ,106-108,J. Tatum makes 2-pt layup from 3 ft,,4,106,108,-2,2872.0
+0:08.0,Violation by Team (def goaltending),106-108, ,,4,106,108,-2,2872.0
+0:08.0,Instant Replay (Request: Stands),106-108, ,,4,106,108,-2,2872.0
+0:08.0,Detroit full timeout,106-108, ,,4,106,108,-2,2872.0
+0:08.0,I. Livers enters the game for A. Thompson,106-108, ,,4,106,108,-2,2872.0
+0:06.0,C. Cunningham misses 3-pt jump shot from 24 ft,106-108, ,,4,106,108,-2,2874.0
+0:04.0,Offensive rebound by B. Bogdanović,106-108, ,,4,106,108,-2,2876.0
+0:04.0,B. Bogdanović makes 2-pt layup from 3 ft,108-108, ,Tie,4,108,108,0,2876.0
+0:04.0, ,108-108,Boston full timeout,,4,108,108,0,2876.0
+0:04.0,K. Knox enters the game for I. Livers,108-108, ,,4,108,108,0,2876.0
+0:01.0, ,108-108,J. Tatum misses 2-pt jump shot from 8 ft,,4,108,108,0,2879.0
+0:00.0,Defensive rebound by B. Bogdanović,108-108, ,,4,108,108,0,2880.0
+0:00.0,End of 4th quarter,108-108,,,4,108,108,0,2880.0
+5:00.0,Start of 1st overtime,108-108,,,5,108,108,0,2880.0
+5:00.0,Jump ball: J. Duren vs. K. Porziņģis (A. Horford gains possession),108-108,,,5,108,108,0,2880.0
+4:44.0, ,108-110,K. Porziņģis makes 2-pt jump shot from 11 ft,,5,108,110,-2,2896.0
+4:27.0, ,108-110,Violation by Team (kicked ball),,5,108,110,-2,2913.0
+4:19.0,J. Ivey misses 3-pt jump shot from 23 ft,108-110, ,,5,108,110,-2,2921.0
+4:16.0,Offensive rebound by C. Cunningham,108-110, ,,5,108,110,-2,2924.0
+4:05.0,B. Bogdanović makes 2-pt jump shot from 20 ft,110-110, ,Tie,5,110,110,0,2935.0
+3:52.0, ,110-110,Personal foul by C. Cunningham (drawn by K. Porziņģis),,5,110,110,0,2948.0
+3:42.0, ,110-110,J. Tatum misses 2-pt layup from 4 ft,,5,110,110,0,2958.0
+3:41.0, ,110-110,Offensive rebound by J. Tatum,,5,110,110,0,2959.0
+3:41.0, ,110-110,J. Tatum misses 2-pt layup at rim,,5,110,110,0,2959.0
+3:40.0,Defensive rebound by B. Bogdanović,110-110, ,,5,110,110,0,2960.0
+3:23.0,A. Burks misses 3-pt jump shot from 23 ft,110-110, ,,5,110,110,0,2977.0
+3:21.0,Offensive rebound by J. Duren,110-110, ,,5,110,110,0,2979.0
+3:17.0,B. Bogdanović misses 3-pt jump shot from 27 ft,110-110, ,,5,110,110,0,2983.0
+3:17.0,Offensive rebound by A. Burks,110-110, ,,5,110,110,0,2983.0
+3:14.0,Personal foul by J. Tatum (drawn by A. Burks),110-110, ,,5,110,110,0,2986.0
+3:02.0,J. Ivey makes 2-pt layup from 6 ft,112-110, ,Lead change,5,112,110,2,2998.0
+2:46.0, ,112-112,D. White makes 2-pt layup from 1 ft,Tie,5,112,112,0,3014.0
+2:46.0, ,112-112,Shooting foul by J. Ivey (drawn by D. White),,5,112,112,0,3014.0
+2:46.0, ,112-113,D. White makes free throw 1 of 1,Lead change,5,112,113,-1,3014.0
+2:32.0,J. Ivey makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),115-113, ,Lead change,5,115,113,2,3028.0
+2:13.0, ,115-115,J. Holiday makes 2-pt layup from 3 ft,Tie,5,115,115,0,3047.0
+2:13.0, ,115-115,Shooting foul by J. Ivey (drawn by J. Holiday),,5,115,115,0,3047.0
+2:13.0,I. Livers enters the game for J. Ivey,115-115, ,,5,115,115,0,3047.0
+2:13.0, ,115-116,J. Holiday makes free throw 1 of 1,Lead change,5,115,116,-1,3047.0
+2:00.0,Turnover by C. Cunningham (lost ball; steal by K. Porziņģis),115-116, ,,5,115,116,-1,3060.0
+1:46.0, ,115-119,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),,5,115,119,-4,3074.0
+1:46.0,Detroit full timeout,115-119, ,,5,115,119,-4,3074.0
+1:31.0,Shooting foul by D. White (drawn by J. Duren),115-119, ,,5,115,119,-4,3089.0
+1:31.0,J. Duren makes free throw 1 of 2,116-119, ,,5,116,119,-3,3089.0
+1:31.0,J. Duren makes free throw 2 of 2,117-119, ,,5,117,119,-2,3089.0
+1:16.0, ,117-119,K. Porziņģis misses 3-pt jump shot from 29 ft,,5,117,119,-2,3104.0
+1:13.0, ,117-119,Offensive rebound by A. Horford,,5,117,119,-2,3107.0
+1:09.0, ,117-121,D. White makes 2-pt layup from 1 ft (assist by K. Porziņģis),,5,117,121,-4,3111.0
+0:51.0,B. Bogdanović misses 3-pt jump shot from 27 ft,117-121, ,,5,117,121,-4,3129.0
+0:48.0, ,117-121,Defensive rebound by J. Tatum,,5,117,121,-4,3132.0
+0:45.0, ,117-123,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Tatum),,5,117,123,-6,3135.0
+0:45.0,Detroit full timeout,117-123, ,,5,117,123,-6,3135.0
+0:30.0,A. Burks misses 3-pt jump shot from 28 ft,117-123, ,,5,117,123,-6,3150.0
+0:29.0,Offensive rebound by Team,117-123, ,,5,117,123,-6,3151.0
+0:29.0, ,117-123,Loose ball foul by A. Horford (drawn by I. Livers),,5,117,123,-6,3151.0
+0:29.0,I. Livers misses free throw 1 of 2,117-123, ,,5,117,123,-6,3151.0
+0:29.0,I. Livers misses free throw 2 of 2,117-123, ,,5,117,123,-6,3151.0
+0:29.0, ,117-123,Defensive rebound by K. Porziņģis,,5,117,123,-6,3151.0
+0:28.0, ,117-123,Personal take foul by B. Bogdanović (drawn by K. Porziņģis),,5,117,123,-6,3152.0
+0:28.0, ,117-124,K. Porziņģis makes free throw 1 of 2,,5,117,124,-7,3152.0
+0:28.0, ,117-124,P. Pritchard enters the game for A. Horford,,5,117,124,-7,3152.0
+0:28.0, ,117-125,K. Porziņģis makes free throw 2 of 2,,5,117,125,-8,3152.0
+0:18.0,C. Cunningham makes 2-pt layup from 2 ft,119-125, ,,5,119,125,-6,3162.0
+0:15.0,Violation by Team (kicked ball),119-125, ,,5,119,125,-6,3165.0
+0:15.0, ,119-125,Boston full timeout,,5,119,125,-6,3165.0
+0:15.0, ,119-125,Personal take foul by A. Burks (drawn by J. Holiday),,5,119,125,-6,3165.0
+0:15.0, ,119-126,J. Holiday makes free throw 1 of 2,,5,119,126,-7,3165.0
+0:15.0, ,119-126,S. Hauser enters the game for K. Porziņģis,,5,119,126,-7,3165.0
+0:15.0, ,119-126,J. Holiday misses free throw 2 of 2,,5,119,126,-7,3165.0
+0:15.0,Defensive rebound by J. Duren,119-126, ,,5,119,126,-7,3165.0
+0:06.0,C. Cunningham makes 3-pt jump shot from 27 ft,122-126, ,,5,122,126,-4,3174.0
+0:04.0, ,122-126,Personal take foul by B. Bogdanović (drawn by D. White),,5,122,126,-4,3176.0
+0:04.0, ,122-127,D. White makes free throw 1 of 2,,5,122,127,-5,3176.0
+0:04.0, ,122-128,D. White makes free throw 2 of 2,,5,122,128,-6,3176.0
+0:01.0,B. Bogdanović misses 3-pt jump shot from 28 ft,122-128, ,,5,122,128,-6,3179.0
+0:00.0,Offensive rebound by Team,122-128, ,,5,122,128,-6,3180.0
+0:00.0,End of 1st overtime,122-128,,,5,122,128,-6,3180.0

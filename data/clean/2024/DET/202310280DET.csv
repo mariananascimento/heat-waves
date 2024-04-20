@@ -1,0 +1,458 @@
+Time,Chicago,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Vučević vs. J. Duren (A. Thompson gains possession),0-0,,,1,0,0,0,0.0
+11:38.0, ,0-0,J. Duren misses 2-pt layup from 3 ft,,1,0,0,0,22.0
+11:36.0,Defensive rebound by N. Vučević,0-0, ,,1,0,0,0,24.0
+11:31.0,Z. LaVine makes 2-pt jump shot from 17 ft,2-0, ,,1,0,2,-2,29.0
+11:05.0, ,2-0,I. Stewart misses 2-pt layup from 2 ft,,1,0,2,-2,55.0
+11:05.0,Defensive rebound by Team,2-0, ,,1,0,2,-2,55.0
+10:52.0,Turnover by C. White (bad pass; steal by K. Hayes),2-0, ,,1,0,2,-2,68.0
+10:48.0, ,2-2,J. Duren makes 2-pt dunk from 1 ft (assist by A. Thompson),Tie,1,2,2,0,72.0
+10:25.0,P. Williams misses 2-pt jump shot from 18 ft,2-2, ,,1,2,2,0,95.0
+10:22.0, ,2-2,Defensive rebound by C. Cunningham,,1,2,2,0,98.0
+10:19.0, ,2-4,C. Cunningham makes 2-pt layup from 3 ft,Lead change,1,4,2,2,101.0
+10:19.0, ,2-4,Shooting foul by Z. LaVine (drawn by C. Cunningham),,1,4,2,2,101.0
+10:19.0, ,2-4,C. Cunningham misses free throw 1 of 1,,1,4,2,2,101.0
+10:16.0,Defensive rebound by P. Williams,2-4, ,,1,4,2,2,104.0
+9:56.0,D. DeRozan makes 2-pt jump shot from 3 ft,4-4, ,Tie,1,4,4,0,124.0
+9:39.0, ,4-7,K. Hayes makes 3-pt jump shot from 24 ft (assist by C. Cunningham),,1,7,4,3,141.0
+9:24.0,Z. LaVine makes 3-pt jump shot from 28 ft,7-7, ,Tie,1,7,7,0,156.0
+9:17.0, ,7-9,C. Cunningham makes 2-pt layup from 3 ft (assist by K. Hayes),,1,9,7,2,163.0
+9:17.0, ,7-9,Shooting foul by N. Vučević (drawn by C. Cunningham),,1,9,7,2,163.0
+9:17.0, ,7-10,C. Cunningham makes free throw 1 of 1,,1,10,7,3,163.0
+9:00.0,N. Vučević misses 2-pt jump shot from 9 ft,7-10, ,,1,10,7,3,180.0
+8:56.0, ,7-10,Defensive rebound by I. Stewart,,1,10,7,3,184.0
+8:43.0, ,7-10,C. Cunningham misses 3-pt jump shot from 26 ft,,1,10,7,3,197.0
+8:37.0,Defensive rebound by Z. LaVine,7-10, ,,1,10,7,3,203.0
+8:33.0,Z. LaVine makes 2-pt layup from 3 ft,9-10, ,,1,10,9,1,207.0
+8:20.0, ,9-12,I. Stewart makes 2-pt layup from 3 ft (assist by J. Duren),,1,12,9,3,220.0
+8:06.0,Z. LaVine makes 2-pt jump shot from 15 ft,11-12, ,,1,12,11,1,234.0
+7:51.0, ,11-14,I. Stewart makes 2-pt hook shot from 3 ft (assist by J. Duren),,1,14,11,3,249.0
+7:33.0,N. Vučević misses 2-pt jump shot from 10 ft,11-14, ,,1,14,11,3,267.0
+7:30.0, ,11-14,Defensive rebound by C. Cunningham,,1,14,11,3,270.0
+7:13.0, ,11-14,I. Stewart misses 3-pt jump shot from 23 ft,,1,14,11,3,287.0
+7:07.0,Defensive rebound by D. DeRozan,11-14, ,,1,14,11,3,293.0
+7:02.0,Z. LaVine makes 3-pt jump shot from 28 ft,14-14, ,Tie,1,14,14,0,298.0
+6:45.0, ,14-16,A. Thompson makes 2-pt dunk from 3 ft (assist by J. Duren),,1,16,14,2,315.0
+6:20.0,P. Williams misses 3-pt jump shot from 30 ft,14-16, ,,1,16,14,2,340.0
+6:19.0,Offensive rebound by Z. LaVine,14-16, ,,1,16,14,2,341.0
+6:18.0,Personal foul by C. Cunningham (drawn by P. Williams),14-16, ,,1,16,14,2,342.0
+6:18.0, ,14-16,Detroit full timeout,,1,16,14,2,342.0
+6:11.0,Z. LaVine misses 3-pt jump shot from 31 ft,14-16, ,,1,16,14,2,349.0
+6:03.0, ,14-16,Defensive rebound by J. Duren,,1,16,14,2,357.0
+5:51.0, ,14-16,A. Thompson misses 2-pt layup from 7 ft (block by D. DeRozan),,1,16,14,2,369.0
+5:46.0,Defensive rebound by Z. LaVine,14-16, ,,1,16,14,2,374.0
+5:37.0,N. Vučević makes 2-pt hook shot from 4 ft (assist by P. Williams),16-16, ,Tie,1,16,16,0,383.0
+5:37.0,Shooting foul by A. Thompson (drawn by N. Vučević),16-16, ,,1,16,16,0,383.0
+5:37.0,N. Vučević makes free throw 1 of 1,17-16, ,Lead change,1,16,17,-1,383.0
+5:37.0,T. Craig enters the game for D. DeRozan,17-16, ,,1,16,17,-1,383.0
+5:37.0, ,17-16,A. Burks enters the game for K. Hayes,,1,16,17,-1,383.0
+5:19.0, ,17-16,Personal foul by T. Craig (drawn by A. Burks),,1,16,17,-1,401.0
+5:08.0, ,17-16,Turnover by C. Cunningham (lost ball; steal by P. Williams),,1,16,17,-1,412.0
+5:06.0,Shooting foul by I. Stewart (drawn by Z. LaVine),17-16, ,,1,16,17,-1,414.0
+5:06.0,Z. LaVine makes free throw 1 of 2,18-16, ,,1,16,18,-2,414.0
+5:06.0,Z. LaVine misses free throw 2 of 2,18-16, ,,1,16,18,-2,414.0
+5:03.0, ,18-16,Defensive rebound by I. Stewart,,1,16,18,-2,417.0
+4:54.0, ,18-18,J. Duren makes 2-pt layup from 2 ft,Tie,1,18,18,0,426.0
+4:40.0,Personal foul by I. Stewart (drawn by N. Vučević),18-18, ,,1,18,18,0,440.0
+4:40.0, ,18-18,M. Bagley enters the game for J. Duren,,1,18,18,0,440.0
+4:40.0, ,18-18,J. Ivey enters the game for A. Thompson,,1,18,18,0,440.0
+4:35.0,Z. LaVine misses 3-pt jump shot from 29 ft,18-18, ,,1,18,18,0,445.0
+4:30.0, ,18-18,Defensive rebound by M. Bagley,,1,18,18,0,450.0
+4:17.0, ,18-20,M. Bagley makes 2-pt dunk from 2 ft (assist by J. Ivey),Lead change,1,20,18,2,463.0
+4:00.0,N. Vučević makes 2-pt layup from 4 ft,20-20, ,Tie,1,20,20,0,480.0
+3:48.0, ,20-20,A. Burks misses 3-pt jump shot from 28 ft,,1,20,20,0,492.0
+3:45.0,Defensive rebound by P. Williams,20-20, ,,1,20,20,0,495.0
+3:38.0,Z. LaVine makes 2-pt jump shot from 17 ft,22-20, ,Lead change,1,20,22,-2,502.0
+3:10.0, ,22-20,C. Cunningham misses 2-pt layup from 2 ft,,1,20,22,-2,530.0
+3:08.0,Defensive rebound by Z. LaVine,22-20, ,,1,20,22,-2,532.0
+3:00.0,Z. LaVine makes 2-pt jump shot from 13 ft,24-20, ,,1,20,24,-4,540.0
+2:42.0, ,24-23,M. Bagley makes 3-pt jump shot from 27 ft (assist by C. Cunningham),,1,23,24,-1,558.0
+2:20.0,P. Williams misses 2-pt jump shot from 12 ft,24-23, ,,1,23,24,-1,580.0
+2:20.0, ,24-23,Defensive rebound by Team,,1,23,24,-1,580.0
+2:20.0,Chicago full timeout,24-23, ,,1,23,24,-1,580.0
+2:20.0,J. Carter enters the game for N. Vučević,24-23, ,,1,23,24,-1,580.0
+2:20.0,A. Caruso enters the game for C. White,24-23, ,,1,23,24,-1,580.0
+2:20.0,A. Drummond enters the game for P. Williams,24-23, ,,1,23,24,-1,580.0
+2:20.0, ,24-23,J. Harris enters the game for C. Cunningham,,1,23,24,-1,580.0
+2:20.0, ,24-23,M. Sasser enters the game for I. Stewart,,1,23,24,-1,580.0
+2:04.0, ,24-26,A. Burks makes 3-pt jump shot from 27 ft (assist by J. Ivey),Lead change,1,26,24,2,596.0
+1:36.0,Z. LaVine misses 3-pt jump shot from 26 ft,24-26, ,,1,26,24,2,624.0
+1:32.0,Offensive rebound by A. Caruso,24-26, ,,1,26,24,2,628.0
+1:28.0,J. Carter misses 3-pt jump shot from 27 ft,24-26, ,,1,26,24,2,632.0
+1:25.0, ,24-26,Defensive rebound by A. Burks,,1,26,24,2,635.0
+1:21.0, ,24-29,J. Harris makes 3-pt jump shot from 24 ft (assist by J. Ivey),,1,29,24,5,639.0
+1:03.0,Z. LaVine makes 2-pt layup from 4 ft (assist by A. Drummond),26-29, ,,1,29,26,3,657.0
+1:03.0,Shooting foul by M. Bagley (drawn by Z. LaVine),26-29, ,,1,29,26,3,657.0
+1:03.0,A. Dosunmu enters the game for A. Caruso,26-29, ,,1,29,26,3,657.0
+1:03.0,Z. LaVine misses free throw 1 of 1,26-29, ,,1,29,26,3,657.0
+1:02.0, ,26-29,Defensive rebound by Team,,1,29,26,3,658.0
+0:46.0, ,26-29,Turnover by J. Ivey (bad pass; steal by A. Drummond),,1,29,26,3,674.0
+0:37.0,T. Craig misses 3-pt jump shot from 24 ft,26-29, ,,1,29,26,3,683.0
+0:34.0,Offensive rebound by A. Dosunmu,26-29, ,,1,29,26,3,686.0
+0:33.0,A. Dosunmu misses 2-pt layup from 2 ft,26-29, ,,1,29,26,3,687.0
+0:33.0, ,26-29,Defensive rebound by M. Bagley,,1,29,26,3,687.0
+0:11.0, ,26-29,J. Ivey misses 3-pt jump shot from 28 ft,,1,29,26,3,709.0
+0:09.0,Defensive rebound by T. Craig,26-29, ,,1,29,26,3,711.0
+0:00.0,Z. LaVine misses 2-pt layup from 5 ft,26-29, ,,1,29,26,3,720.0
+0:00.0, ,26-29,Defensive rebound by Team,,1,29,26,3,720.0
+0:00.0,End of 1st quarter,26-29,,,1,29,26,3,720.0
+12:00.0,Start of 2nd quarter,26-29,,,2,29,26,3,720.0
+12:00.0,Technical foul by Z. LaVine,26-29, ,,2,29,26,3,720.0
+12:00.0, ,26-29,A. Burks misses technical free throw,,2,29,26,3,720.0
+12:00.0,Defensive rebound by Team,26-29, ,,2,29,26,3,720.0
+11:44.0,A. Drummond makes 2-pt hook shot from 7 ft (assist by D. DeRozan),28-29, ,,2,29,28,1,736.0
+11:22.0, ,28-29,Shooting foul by T. Craig (drawn by J. Duren),,2,29,28,1,758.0
+11:22.0, ,28-30,J. Duren makes free throw 1 of 2,,2,30,28,2,758.0
+11:22.0, ,28-30,A. Thompson enters the game for J. Harris,,2,30,28,2,758.0
+11:22.0, ,28-31,J. Duren makes free throw 2 of 2,,2,31,28,3,758.0
+11:09.0,D. DeRozan misses 2-pt jump shot from 15 ft,28-31, ,,2,31,28,3,771.0
+11:06.0, ,28-31,Defensive rebound by J. Duren,,2,31,28,3,774.0
+10:59.0, ,28-31,Personal foul by D. DeRozan (drawn by A. Thompson),,2,31,28,3,781.0
+10:50.0, ,28-31,Turnover by C. Cunningham (bad pass; steal by A. Drummond),,2,31,28,3,790.0
+10:35.0,J. Carter misses 2-pt jump shot from 14 ft,28-31, ,,2,31,28,3,805.0
+10:33.0,Offensive rebound by A. Drummond,28-31, ,,2,31,28,3,807.0
+10:32.0,A. Drummond misses 2-pt layup from 2 ft,28-31, ,,2,31,28,3,808.0
+10:31.0,Offensive rebound by J. Carter,28-31, ,,2,31,28,3,809.0
+10:25.0,A. Dosunmu makes 2-pt jump shot from 5 ft (assist by D. DeRozan),30-31, ,,2,31,30,1,815.0
+10:14.0, ,30-33,J. Ivey makes 2-pt dunk from 3 ft,,2,33,30,3,826.0
+10:00.0,J. Carter misses 2-pt jump shot from 12 ft,30-33, ,,2,33,30,3,840.0
+9:56.0, ,30-33,Defensive rebound by J. Duren,,2,33,30,3,844.0
+9:50.0, ,30-35,A. Thompson makes 2-pt layup from 3 ft (assist by C. Cunningham),,2,35,30,5,850.0
+9:50.0,Chicago full timeout,30-35, ,,2,35,30,5,850.0
+9:36.0,Turnover by D. DeRozan (bad pass; steal by J. Ivey),30-35, ,,2,35,30,5,864.0
+9:32.0, ,30-35,J. Ivey misses 2-pt dunk from 2 ft,,2,35,30,5,868.0
+9:32.0,Defensive rebound by Team,30-35, ,,2,35,30,5,868.0
+9:17.0,J. Carter makes 3-pt jump shot from 26 ft (assist by D. DeRozan),33-35, ,,2,35,33,2,883.0
+8:59.0, ,33-35,Offensive foul by J. Duren (drawn by A. Dosunmu),,2,35,33,2,901.0
+8:59.0, ,33-35,Turnover by J. Duren (offensive foul),,2,35,33,2,901.0
+8:59.0, ,33-35,I. Stewart enters the game for A. Burks,,2,35,33,2,901.0
+8:44.0,T. Craig misses 3-pt jump shot from 24 ft,33-35, ,,2,35,33,2,916.0
+8:39.0, ,33-35,Defensive rebound by I. Stewart,,2,35,33,2,921.0
+8:16.0, ,33-35,C. Cunningham misses 3-pt jump shot from 26 ft,,2,35,33,2,944.0
+8:14.0,Defensive rebound by A. Drummond,33-35, ,,2,35,33,2,946.0
+7:58.0,T. Craig misses 2-pt jump shot from 7 ft,33-35, ,,2,35,33,2,962.0
+7:55.0, ,33-35,Defensive rebound by A. Thompson,,2,35,33,2,965.0
+7:40.0, ,33-35,I. Stewart misses 3-pt jump shot from 23 ft,,2,35,33,2,980.0
+7:36.0,Defensive rebound by A. Dosunmu,33-35, ,,2,35,33,2,984.0
+7:31.0,A. Dosunmu makes 3-pt jump shot from 28 ft (assist by D. DeRozan),36-35, ,Lead change,2,35,36,-1,989.0
+7:15.0, ,36-37,J. Duren makes 2-pt dunk from 3 ft (assist by C. Cunningham),Lead change,2,37,36,1,1005.0
+7:07.0,J. Carter misses 3-pt jump shot from 29 ft,36-37, ,,2,37,36,1,1013.0
+7:04.0, ,36-37,Defensive rebound by J. Duren,,2,37,36,1,1016.0
+6:50.0, ,36-39,J. Ivey makes 2-pt layup from 2 ft,,2,39,36,3,1030.0
+6:23.0,T. Craig misses 2-pt layup from 4 ft,36-39, ,,2,39,36,3,1057.0
+6:20.0, ,36-39,Defensive rebound by A. Thompson,,2,39,36,3,1060.0
+6:17.0, ,36-39,A. Thompson misses 2-pt layup from 4 ft (block by T. Craig),,2,39,36,3,1063.0
+6:17.0, ,36-39,Offensive rebound by Team,,2,39,36,3,1063.0
+6:17.0,A. Caruso enters the game for J. Carter,36-39, ,,2,39,36,3,1063.0
+6:17.0,Z. LaVine enters the game for T. Craig,36-39, ,,2,39,36,3,1063.0
+6:17.0,N. Vučević enters the game for A. Dosunmu,36-39, ,,2,39,36,3,1063.0
+6:17.0,P. Williams enters the game for A. Drummond,36-39, ,,2,39,36,3,1063.0
+6:17.0, ,36-39,K. Hayes enters the game for J. Ivey,,2,39,36,3,1063.0
+6:12.0, ,36-41,A. Thompson makes 2-pt layup from 2 ft (assist by K. Hayes),,2,41,36,5,1068.0
+6:00.0,N. Vučević misses 2-pt jump shot from 20 ft,36-41, ,,2,41,36,5,1080.0
+5:57.0,Offensive rebound by D. DeRozan,36-41, ,,2,41,36,5,1083.0
+5:52.0,D. DeRozan makes 2-pt jump shot from 9 ft,38-41, ,,2,41,38,3,1088.0
+5:37.0, ,38-43,C. Cunningham makes 2-pt jump shot from 10 ft,,2,43,38,5,1103.0
+5:20.0,Z. LaVine misses 3-pt jump shot from 30 ft,38-43, ,,2,43,38,5,1120.0
+5:18.0, ,38-43,Defensive rebound by J. Duren,,2,43,38,5,1122.0
+5:01.0, ,38-43,Turnover by A. Thompson (bad pass; steal by A. Caruso),,2,43,38,5,1139.0
+4:53.0,D. DeRozan makes 2-pt layup from 3 ft,40-43, ,,2,43,40,3,1147.0
+4:53.0,Violation by Team (delay of game),40-43, ,,2,43,40,3,1147.0
+4:53.0, ,40-43,Detroit full timeout,,2,43,40,3,1147.0
+4:53.0,C. White enters the game for D. DeRozan,40-43, ,,2,43,40,3,1147.0
+4:53.0, ,40-43,M. Bagley enters the game for J. Duren,,2,43,40,3,1147.0
+4:34.0, ,40-43,Turnover by I. Stewart (traveling),,2,43,40,3,1166.0
+4:18.0,Z. LaVine misses 2-pt layup from 3 ft,40-43, ,,2,43,40,3,1182.0
+4:15.0, ,40-43,Defensive rebound by Team,,2,43,40,3,1185.0
+4:15.0, ,40-43,A. Burks enters the game for A. Thompson,,2,43,40,3,1185.0
+4:08.0, ,40-43,Personal foul by C. White (drawn by A. Burks),,2,43,40,3,1192.0
+3:55.0, ,40-46,A. Burks makes 3-pt jump shot from 27 ft (assist by K. Hayes),,2,46,40,6,1205.0
+3:41.0,C. White misses 2-pt layup from 3 ft,40-46, ,,2,46,40,6,1219.0
+3:38.0,Offensive rebound by A. Caruso,40-46, ,,2,46,40,6,1222.0
+3:36.0,A. Caruso makes 2-pt jump shot from 6 ft,42-46, ,,2,46,42,4,1224.0
+3:25.0, ,42-49,A. Burks makes 3-pt jump shot from 26 ft (assist by C. Cunningham),,2,49,42,7,1235.0
+3:03.0,Turnover by P. Williams (traveling),42-49, ,,2,49,42,7,1257.0
+3:03.0,D. DeRozan enters the game for P. Williams,42-49, ,,2,49,42,7,1257.0
+3:03.0, ,42-49,J. Ivey enters the game for C. Cunningham,,2,49,42,7,1257.0
+2:47.0, ,42-49,K. Hayes misses 2-pt jump shot from 16 ft,,2,49,42,7,1273.0
+2:44.0,Defensive rebound by A. Caruso,42-49, ,,2,49,42,7,1276.0
+2:41.0,Turnover by Z. LaVine (bad pass),42-49, ,,2,49,42,7,1279.0
+2:27.0, ,42-51,M. Bagley makes 2-pt jump shot from 4 ft,,2,51,42,9,1293.0
+2:08.0,N. Vučević misses 2-pt hook shot from 4 ft,42-51, ,,2,51,42,9,1312.0
+2:05.0, ,42-51,Defensive rebound by I. Stewart,,2,51,42,9,1315.0
+1:58.0, ,42-51,Shooting foul by N. Vučević (drawn by I. Stewart),,2,51,42,9,1322.0
+1:58.0, ,42-52,I. Stewart makes free throw 1 of 2,,2,52,42,10,1322.0
+1:58.0, ,42-53,I. Stewart makes free throw 2 of 2,,2,53,42,11,1322.0
+1:48.0,Personal foul by A. Burks (drawn by A. Caruso),42-53, ,,2,53,42,11,1332.0
+1:43.0,D. DeRozan makes 2-pt jump shot from 19 ft,44-53, ,,2,53,44,9,1337.0
+1:21.0, ,44-53,M. Bagley misses 2-pt jump shot from 13 ft,,2,53,44,9,1359.0
+1:17.0, ,44-53,Offensive rebound by K. Hayes,,2,53,44,9,1363.0
+1:15.0, ,44-55,M. Bagley makes 2-pt dunk from 2 ft (assist by K. Hayes),,2,55,44,11,1365.0
+0:57.0,C. White misses 2-pt jump shot from 16 ft,44-55, ,,2,55,44,11,1383.0
+0:57.0, ,44-55,Defensive rebound by I. Stewart,,2,55,44,11,1383.0
+0:38.0, ,44-55,I. Stewart misses 2-pt layup from 2 ft (block by D. DeRozan),,2,55,44,11,1402.0
+0:38.0,Defensive rebound by Team,44-55, ,,2,55,44,11,1402.0
+0:38.0, ,44-55,C. Cunningham enters the game for M. Bagley,,2,55,44,11,1402.0
+0:38.0, ,44-55,J. Duren enters the game for K. Hayes,,2,55,44,11,1402.0
+0:38.0, ,44-55,A. Thompson enters the game for I. Stewart,,2,55,44,11,1402.0
+0:30.0,D. DeRozan misses 2-pt layup from 2 ft,44-55, ,,2,55,44,11,1410.0
+0:27.0, ,44-55,Defensive rebound by A. Thompson,,2,55,44,11,1413.0
+0:07.0, ,44-57,C. Cunningham makes 2-pt jump shot from 18 ft,,2,57,44,13,1433.0
+0:01.0,N. Vučević misses 3-pt jump shot from 31 ft,44-57, ,,2,57,44,13,1439.0
+0:01.0, ,44-57,Defensive rebound by A. Thompson,,2,57,44,13,1439.0
+0:00.0,End of 2nd quarter,44-57,,,2,57,44,13,1440.0
+12:00.0,Start of 3rd quarter,44-57,,,3,57,44,13,1440.0
+11:46.0,Def 3 sec tech foul by Team,44-57, ,,3,57,44,13,1454.0
+11:46.0,Z. LaVine makes technical free throw,45-57, ,,3,57,45,12,1454.0
+11:39.0,C. White misses 3-pt jump shot from 24 ft,45-57, ,,3,57,45,12,1461.0
+11:36.0, ,45-57,Defensive rebound by J. Duren,,3,57,45,12,1464.0
+11:15.0, ,45-57,Turnover by Team (shot clock),,3,57,45,12,1485.0
+11:02.0,Z. LaVine makes 2-pt jump shot from 4 ft,47-57, ,,3,57,47,10,1498.0
+10:49.0, ,47-57,K. Hayes misses 3-pt jump shot from 26 ft,,3,57,47,10,1511.0
+10:46.0,Defensive rebound by N. Vučević,47-57, ,,3,57,47,10,1514.0
+10:36.0,Personal foul by K. Hayes (drawn by D. DeRozan),47-57, ,,3,57,47,10,1524.0
+10:26.0,Z. LaVine makes 3-pt jump shot from 24 ft,50-57, ,,3,57,50,7,1534.0
+10:14.0, ,50-57,Personal foul by Z. LaVine (drawn by I. Stewart),,3,57,50,7,1546.0
+10:10.0, ,50-59,J. Duren makes 2-pt dunk from 4 ft (assist by C. Cunningham),,3,59,50,9,1550.0
+10:10.0, ,50-59,Shooting foul by P. Williams (drawn by J. Duren),,3,59,50,9,1550.0
+10:10.0, ,50-60,J. Duren makes free throw 1 of 1,,3,60,50,10,1550.0
+9:56.0,Z. LaVine makes 3-pt jump shot from 27 ft (assist by N. Vučević),53-60, ,,3,60,53,7,1564.0
+9:34.0, ,53-60,Turnover by C. Cunningham (bad pass; steal by D. DeRozan),,3,60,53,7,1586.0
+9:33.0,Shooting foul by I. Stewart (drawn by D. DeRozan),53-60, ,,3,60,53,7,1587.0
+9:33.0,D. DeRozan makes free throw 1 of 2,54-60, ,,3,60,54,6,1587.0
+9:33.0,D. DeRozan makes free throw 2 of 2,55-60, ,,3,60,55,5,1587.0
+9:12.0, ,55-60,K. Hayes misses 2-pt jump shot from 10 ft,,3,60,55,5,1608.0
+9:11.0, ,55-60,Offensive rebound by J. Duren,,3,60,55,5,1609.0
+9:10.0, ,55-62,J. Duren makes 2-pt dunk from 3 ft,,3,62,55,7,1610.0
+8:49.0,Z. LaVine makes 2-pt layup from 3 ft,57-62, ,,3,62,57,5,1631.0
+8:43.0, ,57-62,Personal foul by D. DeRozan (drawn by I. Stewart),,3,62,57,5,1637.0
+8:29.0, ,57-62,C. Cunningham misses 3-pt jump shot from 29 ft,,3,62,57,5,1651.0
+8:27.0, ,57-62,Offensive rebound by J. Duren,,3,62,57,5,1653.0
+8:18.0, ,57-62,A. Thompson misses 3-pt jump shot from 23 ft,,3,62,57,5,1662.0
+8:15.0,Defensive rebound by N. Vučević,57-62, ,,3,62,57,5,1665.0
+8:07.0,D. DeRozan makes 2-pt jump shot from 5 ft,59-62, ,,3,62,59,3,1673.0
+7:56.0, ,59-64,C. Cunningham makes 2-pt jump shot from 6 ft,,3,64,59,5,1684.0
+7:49.0,Personal foul by C. Cunningham (drawn by Z. LaVine),59-64, ,,3,64,59,5,1691.0
+7:41.0,Z. LaVine misses 3-pt jump shot from 26 ft,59-64, ,,3,64,59,5,1699.0
+7:38.0,Offensive rebound by P. Williams,59-64, ,,3,64,59,5,1702.0
+7:27.0,D. DeRozan misses 3-pt jump shot from 26 ft,59-64, ,,3,64,59,5,1713.0
+7:24.0, ,59-64,Defensive rebound by A. Thompson,,3,64,59,5,1716.0
+7:17.0, ,59-66,I. Stewart makes 2-pt layup from 2 ft (assist by A. Thompson),,3,66,59,7,1723.0
+7:17.0,Chicago full timeout,59-66, ,,3,66,59,7,1723.0
+7:03.0,Def 3 sec tech foul by Team,59-66, ,,3,66,59,7,1737.0
+7:03.0,D. DeRozan makes technical free throw,60-66, ,,3,66,60,6,1737.0
+6:56.0,Shooting foul by J. Duren (drawn by Z. LaVine),60-66, ,,3,66,60,6,1744.0
+6:56.0,Z. LaVine makes free throw 1 of 2,61-66, ,,3,66,61,5,1744.0
+6:56.0,Z. LaVine makes free throw 2 of 2,62-66, ,,3,66,62,4,1744.0
+6:45.0, ,62-66,Offensive foul by C. Cunningham (drawn by C. White),,3,66,62,4,1755.0
+6:45.0, ,62-66,Turnover by C. Cunningham (offensive foul),,3,66,62,4,1755.0
+6:45.0, ,62-66,A. Burks enters the game for K. Hayes,,3,66,62,4,1755.0
+6:40.0,Personal foul by A. Thompson (drawn by D. DeRozan),62-66, ,,3,66,62,4,1760.0
+6:40.0,D. DeRozan misses free throw 1 of 2,62-66, ,,3,66,62,4,1760.0
+6:40.0,Offensive rebound by Team,62-66, ,,3,66,62,4,1760.0
+6:40.0,D. DeRozan makes free throw 2 of 2,63-66, ,,3,66,63,3,1760.0
+6:32.0, ,63-66,Personal foul by P. Williams (drawn by A. Burks),,3,66,63,3,1768.0
+6:32.0,A. Caruso enters the game for Z. LaVine,63-66, ,,3,66,63,3,1768.0
+6:21.0, ,63-69,C. Cunningham makes 3-pt jump shot from 28 ft,,3,69,63,6,1779.0
+6:12.0,N. Vučević makes 3-pt jump shot from 26 ft (assist by A. Caruso),66-69, ,,3,69,66,3,1788.0
+5:55.0, ,66-71,C. Cunningham makes 2-pt jump shot from 15 ft,,3,71,66,5,1805.0
+5:33.0,N. Vučević makes 2-pt hook shot from 3 ft (assist by C. White),68-71, ,,3,71,68,3,1827.0
+5:21.0, ,68-71,C. Cunningham misses 2-pt jump shot from 15 ft,,3,71,68,3,1839.0
+5:18.0,Defensive rebound by C. White,68-71, ,,3,71,68,3,1842.0
+5:14.0,D. DeRozan misses 2-pt layup from 1 ft,68-71, ,,3,71,68,3,1846.0
+5:12.0, ,68-71,Defensive rebound by J. Duren,,3,71,68,3,1848.0
+5:10.0, ,68-71,Shooting foul by P. Williams (drawn by C. Cunningham),,3,71,68,3,1850.0
+5:10.0, ,68-71,M. Bagley enters the game for J. Duren,,3,71,68,3,1850.0
+5:10.0, ,68-72,C. Cunningham makes free throw 1 of 2,,3,72,68,4,1850.0
+5:10.0, ,68-73,C. Cunningham makes free throw 2 of 2,,3,73,68,5,1850.0
+4:54.0,N. Vučević misses 2-pt layup from 4 ft,68-73, ,,3,73,68,5,1866.0
+4:51.0, ,68-73,Defensive rebound by A. Thompson,,3,73,68,5,1869.0
+4:46.0, ,68-73,Shooting foul by N. Vučević (drawn by A. Thompson),,3,73,68,5,1874.0
+4:46.0, ,68-73,A. Thompson misses free throw 1 of 2,,3,73,68,5,1874.0
+4:46.0, ,68-73,Offensive rebound by Team,,3,73,68,5,1874.0
+4:46.0,T. Craig enters the game for C. White,68-73, ,,3,73,68,5,1874.0
+4:46.0,A. Dosunmu enters the game for P. Williams,68-73, ,,3,73,68,5,1874.0
+4:46.0, ,68-74,A. Thompson makes free throw 2 of 2,,3,74,68,6,1874.0
+4:27.0,A. Dosunmu misses 3-pt jump shot from 24 ft,68-74, ,,3,74,68,6,1893.0
+4:25.0, ,68-74,Defensive rebound by A. Thompson,,3,74,68,6,1895.0
+4:13.0, ,68-77,A. Burks makes 3-pt jump shot from 27 ft (assist by A. Thompson),,3,77,68,9,1907.0
+4:06.0, ,68-77,Violation by Team (kicked ball),,3,77,68,9,1914.0
+4:06.0,Z. LaVine enters the game for D. DeRozan,68-77, ,,3,77,68,9,1914.0
+4:06.0, ,68-77,J. Harris enters the game for I. Stewart,,3,77,68,9,1914.0
+4:06.0, ,68-77,J. Ivey enters the game for A. Thompson,,3,77,68,9,1914.0
+3:59.0,Z. LaVine misses 2-pt layup from 4 ft,68-77, ,,3,77,68,9,1921.0
+3:56.0, ,68-77,Defensive rebound by A. Burks,,3,77,68,9,1924.0
+3:41.0, ,68-77,J. Harris misses 3-pt jump shot from 25 ft,,3,77,68,9,1939.0
+3:41.0,Defensive rebound by Team,68-77, ,,3,77,68,9,1939.0
+3:41.0,A. Drummond enters the game for N. Vučević,68-77, ,,3,77,68,9,1939.0
+3:27.0,Z. LaVine makes 3-pt jump shot from 27 ft,71-77, ,,3,77,71,6,1953.0
+3:12.0, ,71-77,Turnover by J. Harris (bad pass; steal by A. Drummond),,3,77,71,6,1968.0
+3:08.0,A. Drummond misses 2-pt layup from 2 ft,71-77, ,,3,77,71,6,1972.0
+3:07.0, ,71-77,Defensive rebound by M. Bagley,,3,77,71,6,1973.0
+2:56.0, ,71-77,M. Bagley misses 2-pt layup from 4 ft (block by A. Caruso),,3,77,71,6,1984.0
+2:56.0, ,71-77,Offensive rebound by Team,,3,77,71,6,1984.0
+2:56.0, ,71-77,Detroit full timeout,,3,77,71,6,1984.0
+2:56.0, ,71-77,M. Sasser enters the game for C. Cunningham,,3,77,71,6,1984.0
+2:46.0, ,71-77,A. Burks misses 2-pt jump shot from 12 ft,,3,77,71,6,1994.0
+2:46.0,Defensive rebound by Team,71-77, ,,3,77,71,6,1994.0
+2:31.0,Z. LaVine misses 2-pt jump shot from 15 ft,71-77, ,,3,77,71,6,2009.0
+2:28.0, ,71-77,Defensive rebound by M. Bagley,,3,77,71,6,2012.0
+2:13.0, ,71-79,M. Sasser makes 2-pt jump shot from 20 ft (assist by J. Harris),,3,79,71,8,2027.0
+1:55.0,A. Caruso misses 2-pt layup from 3 ft,71-79, ,,3,79,71,8,2045.0
+1:51.0,Offensive rebound by A. Drummond,71-79, ,,3,79,71,8,2049.0
+1:51.0,A. Drummond misses 2-pt layup at rim,71-79, ,,3,79,71,8,2049.0
+1:49.0,Offensive rebound by A. Drummond,71-79, ,,3,79,71,8,2051.0
+1:49.0,A. Drummond misses 2-pt layup at rim,71-79, ,,3,79,71,8,2051.0
+1:49.0, ,71-79,Defensive rebound by M. Sasser,,3,79,71,8,2051.0
+1:47.0, ,71-79,J. Ivey misses 2-pt layup from 2 ft,,3,79,71,8,2053.0
+1:46.0, ,71-79,Offensive rebound by M. Bagley,,3,79,71,8,2054.0
+1:46.0, ,71-81,M. Bagley makes 2-pt layup at rim,,3,81,71,10,2054.0
+1:22.0,T. Craig makes 2-pt layup from 3 ft (assist by A. Drummond),73-81, ,,3,81,73,8,2078.0
+1:04.0, ,73-81,Turnover by J. Ivey (lost ball; steal by A. Caruso),,3,81,73,8,2096.0
+1:00.0,Z. LaVine makes 2-pt layup from 4 ft (assist by A. Caruso),75-81, ,,3,81,75,6,2100.0
+1:00.0,Shooting foul by M. Bagley (drawn by Z. LaVine),75-81, ,,3,81,75,6,2100.0
+1:00.0, ,75-81,Technical foul by M. Bagley,,3,81,75,6,2100.0
+1:00.0,Z. LaVine makes technical free throw,76-81, ,,3,81,76,5,2100.0
+1:00.0,Z. LaVine makes free throw 1 of 1,77-81, ,,3,81,77,4,2100.0
+0:47.0, ,77-81,A. Burks misses 3-pt jump shot from 27 ft,,3,81,77,4,2113.0
+0:45.0, ,77-81,Offensive rebound by M. Bagley,,3,81,77,4,2115.0
+0:43.0, ,77-81,M. Bagley misses 2-pt jump shot from 7 ft,,3,81,77,4,2117.0
+0:43.0,Defensive rebound by A. Drummond,77-81, ,,3,81,77,4,2117.0
+0:33.0,Z. LaVine misses 2-pt jump shot from 11 ft,77-81, ,,3,81,77,4,2127.0
+0:30.0,Offensive rebound by T. Craig,77-81, ,,3,81,77,4,2130.0
+0:20.0,Z. LaVine misses 2-pt layup from 5 ft,77-81, ,,3,81,77,4,2140.0
+0:18.0, ,77-81,Defensive rebound by M. Sasser,,3,81,77,4,2142.0
+0:02.0, ,77-81,M. Sasser misses 3-pt jump shot from 30 ft (block by A. Drummond),,3,81,77,4,2158.0
+0:02.0, ,77-81,Offensive rebound by M. Sasser,,3,81,77,4,2158.0
+0:00.0, ,77-84,J. Ivey makes 3-pt jump shot from 28 ft (assist by M. Sasser),,3,84,77,7,2160.0
+0:00.0,End of 3rd quarter,77-84,,,3,84,77,7,2160.0
+12:00.0,Start of 4th quarter,77-84,,,4,84,77,7,2160.0
+11:48.0, ,77-86,C. Cunningham makes 2-pt layup from 3 ft,,4,86,77,9,2172.0
+11:48.0, ,77-86,Shooting foul by T. Craig (drawn by C. Cunningham),,4,86,77,9,2172.0
+11:48.0, ,77-87,C. Cunningham makes free throw 1 of 1,,4,87,77,10,2172.0
+11:33.0,A. Drummond misses 2-pt layup from 4 ft (block by J. Duren),77-87, ,,4,87,77,10,2187.0
+11:28.0, ,77-87,Defensive rebound by J. Harris,,4,87,77,10,2192.0
+11:27.0, ,77-87,C. Cunningham misses 2-pt layup from 2 ft,,4,87,77,10,2193.0
+11:25.0,Defensive rebound by T. Craig,77-87, ,,4,87,77,10,2195.0
+11:21.0,A. Dosunmu misses 2-pt layup from 3 ft,77-87, ,,4,87,77,10,2199.0
+11:17.0, ,77-87,Defensive rebound by C. Cunningham,,4,87,77,10,2203.0
+11:12.0, ,77-87,A. Burks misses 3-pt jump shot from 24 ft,,4,87,77,10,2208.0
+11:12.0, ,77-87,Offensive rebound by Team,,4,87,77,10,2208.0
+11:02.0, ,77-87,C. Cunningham misses 2-pt jump shot from 8 ft,,4,87,77,10,2218.0
+11:00.0, ,77-87,Offensive rebound by J. Duren,,4,87,77,10,2220.0
+10:59.0, ,77-90,A. Burks makes 3-pt jump shot from 28 ft (assist by J. Duren),,4,90,77,13,2221.0
+10:59.0,Chicago full timeout,77-90, ,,4,90,77,13,2221.0
+10:42.0,Z. LaVine makes 3-pt jump shot from 27 ft (assist by A. Dosunmu),80-90, ,,4,90,80,10,2238.0
+10:26.0, ,80-92,J. Duren makes 2-pt dunk from 5 ft (assist by C. Cunningham),,4,92,80,12,2254.0
+10:16.0,Z. LaVine makes 3-pt jump shot from 27 ft (assist by A. Dosunmu),83-92, ,,4,92,83,9,2264.0
+10:01.0, ,83-95,A. Burks makes 3-pt jump shot from 28 ft (assist by C. Cunningham),,4,95,83,12,2279.0
+9:47.0,Z. LaVine misses 3-pt jump shot from 27 ft,83-95, ,,4,95,83,12,2293.0
+9:46.0,Offensive rebound by A. Dosunmu,83-95, ,,4,95,83,12,2294.0
+9:45.0,A. Dosunmu misses 2-pt layup from 2 ft (block by A. Burks),83-95, ,,4,95,83,12,2295.0
+9:44.0,Offensive rebound by Team,83-95, ,,4,95,83,12,2296.0
+9:44.0,A. Caruso enters the game for A. Dosunmu,83-95, ,,4,95,83,12,2296.0
+9:29.0,T. Craig makes 2-pt jump shot from 3 ft,85-95, ,,4,95,85,10,2311.0
+9:29.0,N. Vučević enters the game for A. Drummond,85-95, ,,4,95,85,10,2311.0
+9:10.0, ,85-95,A. Burks misses 3-pt jump shot from 31 ft,,4,95,85,10,2330.0
+9:06.0,Defensive rebound by N. Vučević,85-95, ,,4,95,85,10,2334.0
+9:00.0,Z. LaVine makes 2-pt jump shot from 20 ft,87-95, ,,4,95,87,8,2340.0
+8:47.0, ,87-95,Turnover by C. Cunningham (bad pass; steal by A. Caruso),,4,95,87,8,2353.0
+8:42.0,T. Craig misses 2-pt layup from 4 ft,87-95, ,,4,95,87,8,2358.0
+8:40.0, ,87-95,Defensive rebound by C. Cunningham,,4,95,87,8,2360.0
+8:37.0, ,87-95,Turnover by C. Cunningham (bad pass; steal by A. Caruso),,4,95,87,8,2363.0
+8:33.0,Z. LaVine makes 2-pt dunk from 1 ft (assist by A. Caruso),89-95, ,,4,95,89,6,2367.0
+8:33.0, ,89-95,Detroit full timeout,,4,95,89,6,2367.0
+8:33.0,D. DeRozan enters the game for Z. LaVine,89-95, ,,4,95,89,6,2367.0
+8:33.0, ,89-95,I. Stewart enters the game for J. Harris,,4,95,89,6,2367.0
+8:16.0, ,89-95,Shooting foul by N. Vučević (drawn by J. Duren),,4,95,89,6,2384.0
+8:16.0, ,89-96,J. Duren makes free throw 1 of 2,,4,96,89,7,2384.0
+8:16.0, ,89-96,A. Thompson enters the game for J. Ivey,,4,96,89,7,2384.0
+8:16.0, ,89-97,J. Duren makes free throw 2 of 2,,4,97,89,8,2384.0
+7:56.0,N. Vučević makes 2-pt layup from 4 ft (assist by A. Caruso),91-97, ,,4,97,91,6,2404.0
+7:43.0, ,91-99,I. Stewart makes 2-pt dunk from 2 ft (assist by A. Thompson),,4,99,91,8,2417.0
+7:27.0,J. Carter misses 3-pt jump shot from 27 ft,91-99, ,,4,99,91,8,2433.0
+7:23.0, ,91-99,Defensive rebound by I. Stewart,,4,99,91,8,2437.0
+7:19.0, ,91-99,Turnover by I. Stewart (traveling),,4,99,91,8,2441.0
+7:19.0,Z. LaVine enters the game for J. Carter,91-99, ,,4,99,91,8,2441.0
+7:19.0,C. White enters the game for A. Caruso,91-99, ,,4,99,91,8,2441.0
+7:01.0,D. DeRozan misses 2-pt hook shot from 4 ft,91-99, ,,4,99,91,8,2459.0
+6:58.0, ,91-99,Defensive rebound by A. Thompson,,4,99,91,8,2462.0
+6:54.0, ,91-99,A. Burks misses 2-pt jump shot from 24 ft,,4,99,91,8,2466.0
+6:52.0, ,91-99,Offensive rebound by A. Thompson,,4,99,91,8,2468.0
+6:50.0, ,91-99,Turnover by A. Thompson (bad pass; steal by Z. LaVine),,4,99,91,8,2470.0
+6:45.0,C. White misses 3-pt jump shot from 28 ft,91-99, ,,4,99,91,8,2475.0
+6:40.0, ,91-99,Defensive rebound by I. Stewart,,4,99,91,8,2480.0
+6:23.0, ,91-99,C. Cunningham misses 2-pt layup from 3 ft,,4,99,91,8,2497.0
+6:19.0, ,91-99,Offensive rebound by J. Duren,,4,99,91,8,2501.0
+6:19.0, ,91-101,J. Duren makes 2-pt layup at rim,,4,101,91,10,2501.0
+6:05.0,Personal foul by A. Thompson (drawn by D. DeRozan),91-101, ,,4,101,91,10,2515.0
+6:05.0, ,91-101,K. Hayes enters the game for A. Burks,,4,101,91,10,2515.0
+5:56.0,Turnover by Z. LaVine (out of bounds lost ball),91-101, ,,4,101,91,10,2524.0
+5:43.0, ,91-101,I. Stewart misses 2-pt layup from 4 ft,,4,101,91,10,2537.0
+5:41.0, ,91-101,Offensive rebound by J. Duren,,4,101,91,10,2539.0
+5:41.0, ,91-103,J. Duren makes 2-pt dunk at rim,,4,103,91,12,2539.0
+5:20.0,Z. LaVine misses 2-pt jump shot from 11 ft,91-103, ,,4,103,91,12,2560.0
+5:14.0, ,91-103,Defensive rebound by J. Duren,,4,103,91,12,2566.0
+5:14.0, ,91-105,I. Stewart makes 2-pt layup from 3 ft (assist by C. Cunningham),,4,105,91,14,2566.0
+5:14.0, ,91-105,Shooting foul by D. DeRozan (drawn by I. Stewart),,4,105,91,14,2566.0
+5:14.0,Chicago full timeout,91-105, ,,4,105,91,14,2566.0
+5:14.0,A. Caruso enters the game for T. Craig,91-105, ,,4,105,91,14,2566.0
+5:14.0, ,91-105,I. Stewart misses free throw 1 of 1,,4,105,91,14,2566.0
+5:12.0,Defensive rebound by A. Caruso,91-105, ,,4,105,91,14,2568.0
+4:59.0,Shooting foul by J. Duren (drawn by D. DeRozan),91-105, ,,4,105,91,14,2581.0
+4:59.0,D. DeRozan makes free throw 1 of 2,92-105, ,,4,105,92,13,2581.0
+4:59.0,D. DeRozan makes free throw 2 of 2,93-105, ,,4,105,93,12,2581.0
+4:54.0, ,93-105,Personal foul by A. Caruso (drawn by C. Cunningham),,4,105,93,12,2586.0
+4:50.0, ,93-105,Turnover by K. Hayes (step out of bounds),,4,105,93,12,2590.0
+4:42.0,Personal foul by I. Stewart (drawn by D. DeRozan),93-105, ,,4,105,93,12,2598.0
+4:35.0,Z. LaVine misses 2-pt jump shot from 17 ft (block by A. Thompson),93-105, ,,4,105,93,12,2605.0
+4:34.0,Offensive rebound by Z. LaVine,93-105, ,,4,105,93,12,2606.0
+4:28.0,Z. LaVine makes 2-pt layup from 14 ft,95-105, ,,4,105,95,10,2612.0
+4:12.0, ,95-105,C. Cunningham misses 2-pt jump shot from 18 ft,,4,105,95,10,2628.0
+4:08.0, ,95-105,Offensive rebound by J. Duren,,4,105,95,10,2632.0
+4:08.0, ,95-105,J. Duren misses 2-pt layup at rim,,4,105,95,10,2632.0
+4:06.0, ,95-105,Offensive rebound by I. Stewart,,4,105,95,10,2634.0
+4:06.0, ,95-105,I. Stewart misses 2-pt layup at rim,,4,105,95,10,2634.0
+4:05.0, ,95-105,I. Stewart misses 2-pt layup from 1 ft,,4,105,95,10,2635.0
+4:05.0,Defensive rebound by C. White,95-105, ,,4,105,95,10,2635.0
+3:57.0,Offensive foul by N. Vučević (drawn by A. Thompson),95-105, ,,4,105,95,10,2643.0
+3:57.0,Turnover by N. Vučević (offensive foul),95-105, ,,4,105,95,10,2643.0
+3:34.0, ,95-105,A. Thompson misses 3-pt jump shot from 23 ft,,4,105,95,10,2666.0
+3:32.0,Defensive rebound by A. Caruso,95-105, ,,4,105,95,10,2668.0
+3:29.0,Turnover by Z. LaVine (lost ball; steal by J. Duren),95-105, ,,4,105,95,10,2671.0
+3:24.0, ,95-105,Shooting foul by A. Caruso (drawn by A. Thompson),,4,105,95,10,2676.0
+3:24.0, ,95-106,A. Thompson makes free throw 1 of 2,,4,106,95,11,2676.0
+3:24.0, ,95-107,A. Thompson makes free throw 2 of 2,,4,107,95,12,2676.0
+3:06.0,D. DeRozan makes 2-pt jump shot from 16 ft,97-107, ,,4,107,97,10,2694.0
+3:06.0, ,97-107,Detroit full timeout,,4,107,97,10,2694.0
+2:45.0, ,97-107,C. Cunningham misses 2-pt layup from 2 ft,,4,107,97,10,2715.0
+2:43.0, ,97-107,Offensive rebound by A. Thompson,,4,107,97,10,2717.0
+2:41.0, ,97-107,I. Stewart misses 3-pt jump shot from 27 ft,,4,107,97,10,2719.0
+2:40.0, ,97-107,Offensive rebound by A. Thompson,,4,107,97,10,2720.0
+2:30.0, ,97-107,Shooting foul by A. Caruso (drawn by C. Cunningham),,4,107,97,10,2730.0
+2:30.0, ,97-108,C. Cunningham makes free throw 1 of 2,,4,108,97,11,2730.0
+2:30.0, ,97-109,C. Cunningham makes free throw 2 of 2,,4,109,97,12,2730.0
+2:20.0,D. DeRozan makes 2-pt jump shot from 20 ft,99-109, ,,4,109,99,10,2740.0
+1:59.0, ,99-111,C. Cunningham makes 2-pt layup from 2 ft (assist by J. Duren),,4,111,99,12,2761.0
+1:46.0,D. DeRozan misses 2-pt layup from 2 ft,99-111, ,,4,111,99,12,2774.0
+1:44.0, ,99-111,Defensive rebound by J. Duren,,4,111,99,12,2776.0
+1:22.0, ,99-113,I. Stewart makes 2-pt jump shot from 13 ft,,4,113,99,14,2798.0
+1:15.0,Turnover by Z. LaVine (lost ball; steal by A. Thompson),99-113, ,,4,113,99,14,2805.0
+1:11.0, ,99-115,J. Duren makes 2-pt dunk from 3 ft (assist by A. Thompson),,4,115,99,16,2809.0
+1:11.0,Chicago full timeout,99-115, ,,4,115,99,16,2809.0
+1:11.0,A. Dosunmu enters the game for A. Caruso,99-115, ,,4,115,99,16,2809.0
+1:11.0,J. Phillips enters the game for D. DeRozan,99-115, ,,4,115,99,16,2809.0
+1:11.0,T. Taylor enters the game for Z. LaVine,99-115, ,,4,115,99,16,2809.0
+1:11.0,D. Terry enters the game for N. Vučević,99-115, ,,4,115,99,16,2809.0
+1:11.0,P. Williams enters the game for C. White,99-115, ,,4,115,99,16,2809.0
+1:03.0,A. Dosunmu misses 2-pt layup from 4 ft (block by J. Duren),99-115, ,,4,115,99,16,2817.0
+0:59.0, ,99-115,Defensive rebound by A. Thompson,,4,115,99,16,2821.0
+0:44.0, ,99-118,K. Hayes makes 3-pt jump shot from 27 ft (assist by C. Cunningham),,4,118,99,19,2836.0
+0:42.0,Personal take foul by K. Hayes (drawn by D. Terry),99-118, ,,4,118,99,19,2838.0
+0:42.0, ,99-118,M. Bagley enters the game for C. Cunningham,,4,118,99,19,2838.0
+0:42.0, ,99-118,J. Ivey enters the game for J. Duren,,4,118,99,19,2838.0
+0:42.0, ,99-118,M. Sasser enters the game for K. Hayes,,4,118,99,19,2838.0
+0:42.0, ,99-118,S. Umude enters the game for I. Stewart,,4,118,99,19,2838.0
+0:25.0,D. Terry makes 3-pt jump shot from 27 ft (assist by A. Dosunmu),102-118, ,,4,118,102,16,2855.0
+0:01.0, ,102-118,Turnover by Team (shot clock),,4,118,102,16,2879.0
+0:00.0,End of 4th quarter,102-118,,,4,118,102,16,2880.0

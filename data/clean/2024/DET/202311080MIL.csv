@@ -1,0 +1,488 @@
+Time,Detroit,Score,Milwaukee,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Duren vs. B. Lopez (C. Cunningham gains possession),0-0,,,1,0,0,0,0.0
+11:38.0,C. Cunningham misses 2-pt jump shot from 7 ft (block by B. Lopez),0-0, ,,1,0,0,0,22.0
+11:33.0, ,0-0,Defensive rebound by M. Beasley,,1,0,0,0,27.0
+11:32.0, ,0-2,M. Beasley makes 2-pt layup from 5 ft,,1,0,2,-2,28.0
+11:22.0,K. Hayes misses 2-pt jump shot from 14 ft,0-2, ,,1,0,2,-2,38.0
+11:18.0, ,0-2,Defensive rebound by G. Antetokounmpo,,1,0,2,-2,42.0
+11:14.0, ,0-2,G. Antetokounmpo misses 2-pt layup from 3 ft,,1,0,2,-2,46.0
+11:12.0,Defensive rebound by J. Duren,0-2, ,,1,0,2,-2,48.0
+11:04.0,J. Duren makes 2-pt dunk from 2 ft (assist by C. Cunningham),2-2, ,Tie,1,2,2,0,56.0
+10:47.0, ,2-2,M. Beasley misses 3-pt jump shot from 29 ft,,1,2,2,0,73.0
+10:44.0,Defensive rebound by A. Thompson,2-2, ,,1,2,2,0,76.0
+10:35.0,J. Duren misses 2-pt jump shot from 10 ft (block by B. Lopez),2-2, ,,1,2,2,0,85.0
+10:30.0,Offensive rebound by J. Duren,2-2, ,,1,2,2,0,90.0
+10:29.0,A. Thompson makes 2-pt dunk from 1 ft (assist by J. Duren),4-2, ,Lead change,1,4,2,2,91.0
+10:14.0, ,4-2,D. Lillard misses 3-pt jump shot from 28 ft,,1,4,2,2,106.0
+10:11.0,Defensive rebound by C. Cunningham,4-2, ,,1,4,2,2,109.0
+10:08.0,C. Cunningham misses 2-pt layup from 2 ft (block by G. Antetokounmpo),4-2, ,,1,4,2,2,112.0
+10:08.0, ,4-2,Defensive rebound by J. Crowder,,1,4,2,2,112.0
+9:48.0, ,4-5,B. Lopez makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),Lead change,1,4,5,-1,132.0
+9:36.0,J. Duren misses 2-pt layup from 4 ft,4-5, ,,1,4,5,-1,144.0
+9:32.0, ,4-5,Defensive rebound by M. Beasley,,1,4,5,-1,148.0
+9:25.0, ,4-5,B. Lopez misses 3-pt jump shot from 28 ft,,1,4,5,-1,155.0
+9:21.0,Defensive rebound by K. Hayes,4-5, ,,1,4,5,-1,159.0
+9:15.0,K. Hayes misses 2-pt jump shot from 15 ft,4-5, ,,1,4,5,-1,165.0
+9:12.0, ,4-5,Defensive rebound by G. Antetokounmpo,,1,4,5,-1,168.0
+9:08.0, ,4-5,Shooting foul by A. Thompson (drawn by D. Lillard),,1,4,5,-1,172.0
+9:08.0, ,4-6,D. Lillard makes free throw 1 of 2,,1,4,6,-2,172.0
+9:08.0, ,4-7,D. Lillard makes free throw 2 of 2,,1,4,7,-3,172.0
+8:55.0,J. Duren makes 2-pt dunk from 1 ft (assist by C. Cunningham),6-7, ,,1,6,7,-1,185.0
+8:41.0, ,6-7,G. Antetokounmpo misses 2-pt hook shot from 7 ft,,1,6,7,-1,199.0
+8:37.0,Defensive rebound by C. Cunningham,6-7, ,,1,6,7,-1,203.0
+8:31.0,I. Stewart misses 3-pt jump shot from 24 ft,6-7, ,,1,6,7,-1,209.0
+8:28.0, ,6-7,Defensive rebound by B. Lopez,,1,6,7,-1,212.0
+8:21.0, ,6-7,D. Lillard misses 3-pt jump shot from 28 ft,,1,6,7,-1,219.0
+8:19.0,Defensive rebound by A. Thompson,6-7, ,,1,6,7,-1,221.0
+8:10.0,J. Duren makes 2-pt layup from 3 ft (assist by A. Thompson),8-7, ,Lead change,1,8,7,1,230.0
+8:10.0,Shooting foul by G. Antetokounmpo (drawn by J. Duren),8-7, ,,1,8,7,1,230.0
+8:10.0,J. Duren makes free throw 1 of 1,9-7, ,,1,9,7,2,230.0
+8:01.0, ,9-7,Personal foul by K. Hayes (drawn by M. Beasley),,1,9,7,2,239.0
+7:54.0, ,9-9,J. Crowder makes 2-pt jump shot from 17 ft (assist by G. Antetokounmpo),Tie,1,9,9,0,246.0
+7:37.0,C. Cunningham misses 2-pt jump shot from 15 ft,9-9, ,,1,9,9,0,263.0
+7:34.0,Offensive rebound by J. Duren,9-9, ,,1,9,9,0,266.0
+7:32.0,I. Stewart makes 2-pt jump shot from 8 ft (assist by K. Hayes),11-9, ,,1,11,9,2,268.0
+7:16.0, ,11-11,G. Antetokounmpo makes 2-pt hook shot from 9 ft,Tie,1,11,11,0,284.0
+6:56.0,C. Cunningham misses 3-pt jump shot from 27 ft,11-11, ,,1,11,11,0,304.0
+6:53.0, ,11-11,Defensive rebound by G. Antetokounmpo,,1,11,11,0,307.0
+6:50.0, ,11-11,Shooting foul by I. Stewart (drawn by G. Antetokounmpo),,1,11,11,0,310.0
+6:50.0, ,11-11,Milwaukee full timeout,,1,11,11,0,310.0
+6:50.0, ,11-11,M. Beauchamp enters the game for M. Beasley,,1,11,11,0,310.0
+6:50.0, ,11-12,G. Antetokounmpo makes free throw 1 of 2,Lead change,1,11,12,-1,310.0
+6:50.0, ,11-12,G. Antetokounmpo misses free throw 2 of 2,,1,11,12,-1,310.0
+6:45.0,Defensive rebound by J. Duren,11-12, ,,1,11,12,-1,315.0
+6:32.0,J. Duren makes 2-pt dunk from 2 ft (assist by K. Hayes),13-12, ,Lead change,1,13,12,1,328.0
+6:02.0, ,13-12,G. Antetokounmpo misses 3-pt jump shot from 27 ft,,1,13,12,1,358.0
+5:58.0,Defensive rebound by K. Hayes,13-12, ,,1,13,12,1,362.0
+5:55.0,K. Hayes misses 2-pt layup from 2 ft (block by G. Antetokounmpo),13-12, ,,1,13,12,1,365.0
+5:55.0, ,13-12,Defensive rebound by D. Lillard,,1,13,12,1,365.0
+5:47.0, ,13-12,G. Antetokounmpo misses 2-pt layup from 5 ft,,1,13,12,1,373.0
+5:47.0, ,13-12,Offensive rebound by Team,,1,13,12,1,373.0
+5:47.0, ,13-12,Turnover by G. Antetokounmpo (traveling),,1,13,12,1,373.0
+5:47.0,M. Sasser enters the game for K. Hayes,13-12, ,,1,13,12,1,373.0
+5:47.0, ,13-12,B. Portis enters the game for G. Antetokounmpo,,1,13,12,1,373.0
+5:27.0,Personal foul by B. Lopez (drawn by A. Thompson),13-12, ,,1,13,12,1,393.0
+5:27.0,S. Umude enters the game for I. Stewart,13-12, ,,1,13,12,1,393.0
+5:22.0,J. Duren misses 3-pt jump shot from 26 ft,13-12, ,,1,13,12,1,398.0
+5:22.0, ,13-12,Defensive rebound by Team,,1,13,12,1,398.0
+5:06.0, ,13-12,J. Crowder misses 3-pt jump shot from 28 ft,,1,13,12,1,414.0
+5:03.0,Defensive rebound by A. Thompson,13-12, ,,1,13,12,1,417.0
+4:57.0,S. Umude misses 3-pt jump shot from 23 ft,13-12, ,,1,13,12,1,423.0
+4:56.0,Offensive rebound by J. Duren,13-12, ,,1,13,12,1,424.0
+4:55.0,M. Sasser misses 3-pt jump shot from 26 ft,13-12, ,,1,13,12,1,425.0
+4:51.0, ,13-12,Defensive rebound by Team,,1,13,12,1,429.0
+4:51.0,M. Bagley enters the game for J. Duren,13-12, ,,1,13,12,1,429.0
+4:51.0, ,13-12,P. Connaughton enters the game for J. Crowder,,1,13,12,1,429.0
+4:45.0, ,13-12,D. Lillard misses 2-pt layup from 3 ft,,1,13,12,1,435.0
+4:45.0,Defensive rebound by Team,13-12, ,,1,13,12,1,435.0
+4:31.0,M. Sasser misses 2-pt jump shot from 3 ft,13-12, ,,1,13,12,1,449.0
+4:24.0, ,13-12,Defensive rebound by B. Portis,,1,13,12,1,456.0
+4:22.0, ,13-14,D. Lillard makes 2-pt layup from 3 ft,Lead change,1,13,14,-1,458.0
+4:07.0,Turnover by S. Umude (bad pass; steal by D. Lillard),13-14, ,,1,13,14,-1,473.0
+4:04.0, ,13-14,Shooting foul by C. Cunningham (drawn by M. Beauchamp),,1,13,14,-1,476.0
+4:04.0, ,13-15,M. Beauchamp makes free throw 1 of 2,,1,13,15,-2,476.0
+4:04.0,J. Rhoden enters the game for A. Thompson,13-15, ,,1,13,15,-2,476.0
+4:04.0, ,13-15,C. Payne enters the game for D. Lillard,,1,13,15,-2,476.0
+4:04.0, ,13-16,M. Beauchamp makes free throw 2 of 2,,1,13,16,-3,476.0
+4:04.0,I. Stewart enters the game for S. Umude,13-16, ,,1,13,16,-3,476.0
+4:04.0, ,13-16,G. Antetokounmpo enters the game for B. Lopez,,1,13,16,-3,476.0
+3:50.0,C. Cunningham makes 2-pt jump shot from 11 ft (assist by J. Rhoden),15-16, ,,1,15,16,-1,490.0
+3:34.0, ,15-18,P. Connaughton makes 2-pt layup from 5 ft,,1,15,18,-3,506.0
+3:10.0,J. Rhoden makes 2-pt jump shot from 15 ft (assist by I. Stewart),17-18, ,,1,17,18,-1,530.0
+2:55.0, ,17-18,Turnover by P. Connaughton (out of bounds lost ball),,1,17,18,-1,545.0
+2:55.0,Detroit full timeout,17-18, ,,1,17,18,-1,545.0
+2:55.0,K. Hayes enters the game for C. Cunningham,17-18, ,,1,17,18,-1,545.0
+2:40.0,K. Hayes misses 2-pt jump shot from 11 ft,17-18, ,,1,17,18,-1,560.0
+2:37.0, ,17-18,Defensive rebound by G. Antetokounmpo,,1,17,18,-1,563.0
+2:20.0, ,17-21,B. Portis makes 3-pt jump shot from 28 ft (assist by C. Payne),,1,17,21,-4,580.0
+2:04.0,Turnover by M. Sasser (bad pass; steal by C. Payne),17-21, ,,1,17,21,-4,596.0
+1:56.0, ,17-21,M. Beauchamp misses 3-pt jump shot from 24 ft,,1,17,21,-4,604.0
+1:52.0,Defensive rebound by K. Hayes,17-21, ,,1,17,21,-4,608.0
+1:41.0,M. Bagley makes 2-pt jump shot from 7 ft (assist by J. Rhoden),19-21, ,,1,19,21,-2,619.0
+1:26.0, ,19-21,B. Portis misses 3-pt jump shot from 29 ft,,1,19,21,-2,634.0
+1:22.0,Defensive rebound by I. Stewart,19-21, ,,1,19,21,-2,638.0
+1:14.0,Personal foul by M. Beauchamp (drawn by J. Rhoden),19-21, ,,1,19,21,-2,646.0
+1:05.0,J. Rhoden makes 2-pt jump shot from 16 ft (assist by M. Bagley),21-21, ,Tie,1,21,21,0,655.0
+0:52.0, ,21-21,G. Antetokounmpo misses 2-pt jump shot from 19 ft,,1,21,21,0,668.0
+0:52.0,Defensive rebound by K. Hayes,21-21, ,,1,21,21,0,668.0
+0:47.0,J. Rhoden misses 3-pt jump shot from 25 ft,21-21, ,,1,21,21,0,673.0
+0:43.0, ,21-21,Defensive rebound by M. Beauchamp,,1,21,21,0,677.0
+0:34.0, ,21-21,Shooting foul by M. Bagley (drawn by G. Antetokounmpo),,1,21,21,0,686.0
+0:34.0, ,21-21,G. Antetokounmpo misses free throw 1 of 2,,1,21,21,0,686.0
+0:34.0, ,21-21,Offensive rebound by Team,,1,21,21,0,686.0
+0:34.0, ,21-22,G. Antetokounmpo makes free throw 2 of 2,,1,21,22,-1,686.0
+0:18.0,Personal foul by M. Beauchamp (drawn by K. Hayes),21-22, ,,1,21,22,-1,702.0
+0:18.0,K. Hayes makes free throw 1 of 2,22-22, ,Tie,1,22,22,0,702.0
+0:18.0,A. Thompson enters the game for M. Sasser,22-22, ,,1,22,22,0,702.0
+0:18.0,K. Hayes makes free throw 2 of 2,23-22, ,Lead change,1,23,22,1,702.0
+0:06.0, ,23-24,M. Beauchamp makes 2-pt layup from 3 ft (assist by C. Payne),Lead change,1,23,24,-1,714.0
+0:00.0,K. Hayes misses 3-pt jump shot from 31 ft,23-24, ,,1,23,24,-1,720.0
+0:00.0, ,23-24,Defensive rebound by Team,,1,23,24,-1,720.0
+0:00.0,End of 1st quarter,23-24,,,1,23,24,-1,720.0
+12:00.0,Start of 2nd quarter,23-24,,,2,23,24,-1,720.0
+11:49.0, ,23-24,Shooting foul by M. Sasser (drawn by C. Payne),,2,23,24,-1,731.0
+11:49.0, ,23-25,C. Payne makes free throw 1 of 2,,2,23,25,-2,731.0
+11:49.0, ,23-26,C. Payne makes free throw 2 of 2,,2,23,26,-3,731.0
+11:34.0,M. Bagley makes 2-pt layup at rim (assist by C. Cunningham),25-26, ,,2,25,26,-1,746.0
+11:16.0, ,25-28,B. Portis makes 2-pt jump shot from 9 ft,,2,25,28,-3,764.0
+11:16.0, ,25-28,Shooting foul by M. Bagley (drawn by B. Portis),,2,25,28,-3,764.0
+11:16.0, ,25-29,B. Portis makes free throw 1 of 1,,2,25,29,-4,764.0
+10:54.0,C. Cunningham misses 2-pt jump shot from 16 ft,25-29, ,,2,25,29,-4,786.0
+10:51.0, ,25-29,Defensive rebound by G. Antetokounmpo,,2,25,29,-4,789.0
+10:47.0, ,25-29,B. Portis misses 3-pt jump shot from 27 ft,,2,25,29,-4,793.0
+10:44.0, ,25-29,Offensive rebound by B. Portis,,2,25,29,-4,796.0
+10:43.0, ,25-29,B. Portis misses 2-pt jump shot from 14 ft,,2,25,29,-4,797.0
+10:39.0, ,25-29,Offensive rebound by B. Portis,,2,25,29,-4,801.0
+10:37.0, ,25-31,B. Portis makes 2-pt jump shot from 11 ft,,2,25,31,-6,803.0
+10:25.0,K. Hayes misses 3-pt jump shot from 26 ft,25-31, ,,2,25,31,-6,815.0
+10:21.0, ,25-31,Defensive rebound by G. Antetokounmpo,,2,25,31,-6,819.0
+10:14.0, ,25-33,G. Antetokounmpo makes 2-pt layup from 6 ft (assist by C. Payne),,2,25,33,-8,826.0
+9:54.0,K. Hayes makes 2-pt jump shot from 15 ft,27-33, ,,2,27,33,-6,846.0
+9:39.0, ,27-35,B. Portis makes 2-pt hook shot from 8 ft,,2,27,35,-8,861.0
+9:26.0,C. Cunningham misses 2-pt jump shot from 3 ft,27-35, ,,2,27,35,-8,874.0
+9:26.0, ,27-35,Defensive rebound by Team,,2,27,35,-8,874.0
+9:26.0,Loose ball foul by M. Bagley (drawn by M. Beasley),27-35, ,,2,27,35,-8,874.0
+9:26.0,J. Duren enters the game for M. Bagley,27-35, ,,2,27,35,-8,874.0
+9:26.0,A. Thompson enters the game for M. Sasser,27-35, ,,2,27,35,-8,874.0
+9:26.0, ,27-35,J. Crowder enters the game for G. Antetokounmpo,,2,27,35,-8,874.0
+9:16.0, ,27-37,B. Portis makes 2-pt jump shot from 22 ft,,2,27,37,-10,884.0
+9:16.0,Loose ball foul by I. Stewart (drawn by J. Crowder),27-37, ,,2,27,37,-10,884.0
+9:16.0, ,27-37,Technical foul by J. Crowder,,2,27,37,-10,884.0
+9:16.0,Technical foul by I. Stewart,27-37, ,,2,27,37,-10,884.0
+9:16.0,S. Umude enters the game for I. Stewart,27-37, ,,2,27,37,-10,884.0
+9:16.0, ,27-38,J. Crowder makes free throw 1 of 1,,2,27,38,-11,884.0
+8:59.0,Turnover by S. Umude (out of bounds lost ball),27-38, ,,2,27,38,-11,901.0
+8:46.0, ,27-40,B. Portis makes 2-pt jump shot from 14 ft,,2,27,40,-13,914.0
+8:46.0,Detroit full timeout,27-40, ,,2,27,40,-13,914.0
+8:27.0,C. Cunningham misses 2-pt jump shot from 14 ft,27-40, ,,2,27,40,-13,933.0
+8:22.0, ,27-40,Defensive rebound by C. Payne,,2,27,40,-13,938.0
+8:17.0, ,27-40,Shooting foul by J. Duren (drawn by B. Portis),,2,27,40,-13,943.0
+8:17.0, ,27-41,B. Portis makes free throw 1 of 2,,2,27,41,-14,943.0
+8:17.0,M. Sasser enters the game for S. Umude,27-41, ,,2,27,41,-14,943.0
+8:17.0, ,27-42,B. Portis makes free throw 2 of 2,,2,27,42,-15,943.0
+8:05.0,M. Sasser makes 2-pt jump shot from 20 ft (assist by K. Hayes),29-42, ,,2,29,42,-13,955.0
+7:51.0, ,29-42,B. Portis misses 3-pt jump shot from 26 ft,,2,29,42,-13,969.0
+7:47.0,Defensive rebound by A. Thompson,29-42, ,,2,29,42,-13,973.0
+7:40.0,Personal foul by C. Payne (drawn by C. Cunningham),29-42, ,,2,29,42,-13,980.0
+7:40.0, ,29-42,M. Beauchamp enters the game for P. Connaughton,,2,29,42,-13,980.0
+7:40.0, ,29-42,D. Lillard enters the game for C. Payne,,2,29,42,-13,980.0
+7:40.0, ,29-42,B. Lopez enters the game for B. Portis,,2,29,42,-13,980.0
+7:35.0,M. Sasser makes 2-pt jump shot from 16 ft (assist by J. Duren),31-42, ,,2,31,42,-11,985.0
+7:27.0, ,31-42,Offensive foul by B. Lopez (drawn by A. Thompson),,2,31,42,-11,993.0
+7:27.0, ,31-42,Turnover by B. Lopez (offensive foul),,2,31,42,-11,993.0
+7:26.0,Turnover by J. Duren (back court),31-42, ,,2,31,42,-11,994.0
+7:19.0, ,31-42,Shooting foul by J. Duren (drawn by D. Lillard),,2,31,42,-11,1001.0
+7:19.0, ,31-43,D. Lillard makes free throw 1 of 2,,2,31,43,-12,1001.0
+7:19.0, ,31-44,D. Lillard makes free throw 2 of 2,,2,31,44,-13,1001.0
+7:02.0,J. Duren misses 2-pt hook shot from 10 ft,31-44, ,,2,31,44,-13,1018.0
+7:00.0,Offensive rebound by A. Thompson,31-44, ,,2,31,44,-13,1020.0
+7:00.0,A. Thompson misses 2-pt layup from 1 ft,31-44, ,,2,31,44,-13,1020.0
+6:58.0, ,31-44,Defensive rebound by B. Lopez,,2,31,44,-13,1022.0
+6:51.0, ,31-44,D. Lillard misses 2-pt jump shot from 8 ft,,2,31,44,-13,1029.0
+6:47.0,Defensive rebound by J. Duren,31-44, ,,2,31,44,-13,1033.0
+6:40.0,C. Cunningham makes 2-pt jump shot from 6 ft,33-44, ,,2,33,44,-11,1040.0
+6:20.0, ,33-47,B. Lopez makes 3-pt jump shot from 29 ft (assist by M. Beasley),,2,33,47,-14,1060.0
+6:09.0,C. Cunningham makes 2-pt jump shot from 13 ft,35-47, ,,2,35,47,-12,1071.0
+6:09.0,Shooting foul by B. Lopez (drawn by C. Cunningham),35-47, ,,2,35,47,-12,1071.0
+6:09.0, ,35-47,Technical foul by B. Lopez,,2,35,47,-12,1071.0
+6:09.0,C. Cunningham makes technical free throw,36-47, ,,2,36,47,-11,1071.0
+6:09.0,J. Rhoden enters the game for K. Hayes,36-47, ,,2,36,47,-11,1071.0
+6:09.0,I. Stewart enters the game for M. Sasser,36-47, ,,2,36,47,-11,1071.0
+6:09.0, ,36-47,G. Antetokounmpo enters the game for B. Lopez,,2,36,47,-11,1071.0
+6:09.0,C. Cunningham makes free throw 1 of 1,37-47, ,,2,37,47,-10,1071.0
+5:54.0, ,37-49,M. Beauchamp makes 2-pt jump shot from 20 ft (assist by G. Antetokounmpo),,2,37,49,-12,1086.0
+5:36.0,C. Cunningham makes 2-pt layup from 4 ft,39-49, ,,2,39,49,-10,1104.0
+5:20.0, ,39-49,G. Antetokounmpo misses 3-pt jump shot from 25 ft,,2,39,49,-10,1120.0
+5:19.0,Defensive rebound by Team,39-49, ,,2,39,49,-10,1121.0
+5:07.0,C. Cunningham makes 3-pt jump shot from 25 ft,42-49, ,,2,42,49,-7,1133.0
+4:48.0, ,42-52,J. Crowder makes 3-pt jump shot from 27 ft (assist by D. Lillard),,2,42,52,-10,1152.0
+4:27.0,J. Duren misses 2-pt layup from 2 ft,42-52, ,,2,42,52,-10,1173.0
+4:24.0, ,42-52,Defensive rebound by G. Antetokounmpo,,2,42,52,-10,1176.0
+4:20.0, ,42-52,G. Antetokounmpo misses 2-pt layup from 6 ft (block by I. Stewart),,2,42,52,-10,1180.0
+4:15.0,Defensive rebound by J. Duren,42-52, ,,2,42,52,-10,1185.0
+4:14.0,Turnover by A. Thompson (bad pass; steal by J. Crowder),42-52, ,,2,42,52,-10,1186.0
+4:10.0, ,42-52,Turnover by M. Beauchamp (out of bounds lost ball),,2,42,52,-10,1190.0
+4:10.0, ,42-52,A. Jackson enters the game for M. Beasley,,2,42,52,-10,1190.0
+3:52.0,C. Cunningham misses 2-pt jump shot from 13 ft,42-52, ,,2,42,52,-10,1208.0
+3:48.0, ,42-52,Defensive rebound by J. Crowder,,2,42,52,-10,1212.0
+3:47.0, ,42-52,Personal foul by C. Cunningham (drawn by D. Lillard),,2,42,52,-10,1213.0
+3:47.0, ,42-52,Technical foul by G. Antetokounmpo,,2,42,52,-10,1213.0
+3:47.0,C. Cunningham makes technical free throw,43-52, ,,2,43,52,-9,1213.0
+3:47.0, ,43-53,D. Lillard makes free throw 1 of 2,,2,43,53,-10,1213.0
+3:47.0,K. Hayes enters the game for C. Cunningham,43-53, ,,2,43,53,-10,1213.0
+3:47.0, ,43-54,D. Lillard makes free throw 2 of 2,,2,43,54,-11,1213.0
+3:35.0,K. Hayes makes 2-pt jump shot from 12 ft,45-54, ,,2,45,54,-9,1225.0
+3:10.0, ,45-54,D. Lillard misses 3-pt jump shot from 23 ft,,2,45,54,-9,1250.0
+3:07.0,Defensive rebound by A. Thompson,45-54, ,,2,45,54,-9,1253.0
+3:05.0,K. Hayes makes 2-pt layup from 2 ft (assist by A. Thompson),47-54, ,,2,47,54,-7,1255.0
+3:05.0, ,47-54,Milwaukee full timeout,,2,47,54,-7,1255.0
+3:05.0,M. Bagley enters the game for J. Duren,47-54, ,,2,47,54,-7,1255.0
+2:47.0, ,47-56,G. Antetokounmpo makes 2-pt layup from 4 ft (assist by M. Beauchamp),,2,47,56,-9,1273.0
+2:26.0,Turnover by K. Hayes (bad pass; steal by A. Jackson),47-56, ,,2,47,56,-9,1294.0
+2:22.0, ,47-56,Shooting foul by J. Rhoden (drawn by G. Antetokounmpo),,2,47,56,-9,1298.0
+2:22.0, ,47-57,G. Antetokounmpo makes free throw 1 of 2,,2,47,57,-10,1298.0
+2:22.0,C. Cunningham enters the game for J. Rhoden,47-57, ,,2,47,57,-10,1298.0
+2:22.0, ,47-57,G. Antetokounmpo misses free throw 2 of 2,,2,47,57,-10,1298.0
+2:18.0,Defensive rebound by I. Stewart,47-57, ,,2,47,57,-10,1302.0
+2:12.0,Personal foul by A. Jackson (drawn by C. Cunningham),47-57, ,,2,47,57,-10,1308.0
+2:00.0,M. Bagley makes 2-pt dunk from 1 ft (assist by C. Cunningham),49-57, ,,2,49,57,-8,1320.0
+1:47.0, ,49-57,G. Antetokounmpo misses 2-pt hook shot from 12 ft,,2,49,57,-8,1333.0
+1:43.0,Defensive rebound by A. Thompson,49-57, ,,2,49,57,-8,1337.0
+1:23.0,I. Stewart misses 3-pt jump shot from 25 ft,49-57, ,,2,49,57,-8,1357.0
+1:21.0,Offensive rebound by Team,49-57, ,,2,49,57,-8,1359.0
+1:18.0,K. Hayes misses 2-pt jump shot from 15 ft,49-57, ,,2,49,57,-8,1362.0
+1:15.0, ,49-57,Defensive rebound by G. Antetokounmpo,,2,49,57,-8,1365.0
+1:09.0, ,49-59,D. Lillard makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),,2,49,59,-10,1371.0
+0:59.0,Turnover by C. Cunningham (lost ball; steal by D. Lillard),49-59, ,,2,49,59,-10,1381.0
+0:58.0, ,49-61,D. Lillard makes 2-pt layup from 5 ft (assist by J. Crowder),,2,49,61,-12,1382.0
+0:58.0, ,49-61,Shooting foul by I. Stewart (drawn by D. Lillard),,2,49,61,-12,1382.0
+0:58.0, ,49-62,D. Lillard makes free throw 1 of 1,,2,49,62,-13,1382.0
+0:51.0,C. Cunningham misses 2-pt jump shot from 8 ft,49-62, ,,2,49,62,-13,1389.0
+0:50.0,Offensive rebound by Team,49-62, ,,2,49,62,-13,1390.0
+0:50.0, ,49-62,Loose ball foul by J. Crowder (drawn by I. Stewart),,2,49,62,-13,1390.0
+0:46.0,Personal foul by A. Jackson (drawn by M. Bagley),49-62, ,,2,49,62,-13,1394.0
+0:46.0,M. Bagley makes free throw 1 of 2,50-62, ,,2,50,62,-12,1394.0
+0:46.0,S. Umude enters the game for I. Stewart,50-62, ,,2,50,62,-12,1394.0
+0:46.0,M. Bagley makes free throw 2 of 2,51-62, ,,2,51,62,-11,1394.0
+0:31.0, ,51-62,G. Antetokounmpo misses 2-pt hook shot from 8 ft,,2,51,62,-11,1409.0
+0:31.0,Defensive rebound by C. Cunningham,51-62, ,,2,51,62,-11,1409.0
+0:31.0,Personal foul by A. Jackson (drawn by C. Cunningham),51-62, ,,2,51,62,-11,1409.0
+0:31.0,C. Cunningham makes free throw 1 of 2,52-62, ,,2,52,62,-10,1409.0
+0:31.0, ,52-62,P. Connaughton enters the game for A. Jackson,,2,52,62,-10,1409.0
+0:31.0,C. Cunningham misses free throw 2 of 2,52-62, ,,2,52,62,-10,1409.0
+0:26.0,Offensive rebound by C. Cunningham,52-62, ,,2,52,62,-10,1414.0
+0:15.0,Turnover by C. Cunningham (traveling),52-62, ,,2,52,62,-10,1425.0
+0:04.0, ,52-62,D. Lillard misses 3-pt jump shot from 29 ft,,2,52,62,-10,1436.0
+0:01.0,Defensive rebound by K. Hayes,52-62, ,,2,52,62,-10,1439.0
+0:00.0,End of 2nd quarter,52-62,,,2,52,62,-10,1440.0
+12:00.0,Start of 3rd quarter,52-62,,,3,52,62,-10,1440.0
+11:38.0, ,52-62,J. Crowder misses 2-pt jump shot from 16 ft,,3,52,62,-10,1462.0
+11:34.0, ,52-62,Offensive rebound by M. Beasley,,3,52,62,-10,1466.0
+11:27.0, ,52-64,B. Lopez makes 2-pt layup from 2 ft,,3,52,64,-12,1473.0
+11:19.0,Personal foul by J. Crowder (drawn by A. Thompson),52-64, ,,3,52,64,-12,1481.0
+11:15.0,C. Cunningham makes 2-pt jump shot from 20 ft (assist by K. Hayes),54-64, ,,3,54,64,-10,1485.0
+11:02.0, ,54-67,M. Beasley makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),,3,54,67,-13,1498.0
+10:46.0,Turnover by C. Cunningham (step out of bounds),54-67, ,,3,54,67,-13,1514.0
+10:34.0, ,54-69,G. Antetokounmpo makes 2-pt hook shot from 6 ft,,3,54,69,-15,1526.0
+10:21.0,J. Duren makes 2-pt dunk from 3 ft (assist by C. Cunningham),56-69, ,,3,56,69,-13,1539.0
+10:06.0, ,56-71,G. Antetokounmpo makes 2-pt layup from 1 ft,,3,56,71,-15,1554.0
+9:50.0,C. Cunningham makes 2-pt jump shot from 18 ft,58-71, ,,3,58,71,-13,1570.0
+9:37.0, ,58-71,G. Antetokounmpo misses 2-pt jump shot from 16 ft,,3,58,71,-13,1583.0
+9:33.0,Defensive rebound by J. Duren,58-71, ,,3,58,71,-13,1587.0
+9:27.0,C. Cunningham makes 2-pt layup from 2 ft,60-71, ,,3,60,71,-11,1593.0
+9:14.0, ,60-71,D. Lillard misses 3-pt jump shot from 26 ft,,3,60,71,-11,1606.0
+9:10.0,Defensive rebound by A. Thompson,60-71, ,,3,60,71,-11,1610.0
+9:07.0,A. Thompson misses 2-pt layup from 4 ft (block by G. Antetokounmpo),60-71, ,,3,60,71,-11,1613.0
+9:07.0, ,60-71,Defensive rebound by G. Antetokounmpo,,3,60,71,-11,1613.0
+9:00.0, ,60-73,G. Antetokounmpo makes 2-pt dunk from 1 ft,,3,60,73,-13,1620.0
+9:00.0, ,60-73,Technical foul by G. Antetokounmpo,,3,60,73,-13,1620.0
+9:00.0, ,60-73,G. Antetokounmpo ejected from game,,3,60,73,-13,1620.0
+9:00.0,C. Cunningham makes technical free throw,61-73, ,,3,61,73,-12,1620.0
+9:00.0, ,61-73,B. Portis enters the game for G. Antetokounmpo,,3,61,73,-12,1620.0
+9:00.0, ,61-73,Technical foul by T. Antetokounmpo,,3,61,73,-12,1620.0
+9:00.0,C. Cunningham makes technical free throw,62-73, ,,3,62,73,-11,1620.0
+8:48.0,C. Cunningham makes 2-pt jump shot from 19 ft,64-73, ,,3,64,73,-9,1632.0
+8:36.0, ,64-73,D. Lillard misses 2-pt layup from 3 ft (block by I. Stewart),,3,64,73,-9,1644.0
+8:33.0,Defensive rebound by A. Thompson,64-73, ,,3,64,73,-9,1647.0
+8:29.0,C. Cunningham misses 3-pt jump shot from 26 ft,64-73, ,,3,64,73,-9,1651.0
+8:27.0, ,64-73,Defensive rebound by J. Crowder,,3,64,73,-9,1653.0
+8:17.0, ,64-75,B. Portis makes 2-pt hook shot from 7 ft (assist by D. Lillard),,3,64,75,-11,1663.0
+7:58.0,K. Hayes makes 2-pt jump shot from 17 ft (assist by J. Duren),66-75, ,,3,66,75,-9,1682.0
+7:42.0, ,66-75,B. Portis misses 2-pt jump shot from 5 ft,,3,66,75,-9,1698.0
+7:41.0, ,66-75,Offensive rebound by M. Beasley,,3,66,75,-9,1699.0
+7:41.0, ,66-77,M. Beasley makes 2-pt layup from 1 ft,,3,66,77,-11,1699.0
+7:41.0, ,66-77,Shooting foul by J. Duren (drawn by M. Beasley),,3,66,77,-11,1699.0
+7:41.0, ,66-78,M. Beasley makes free throw 1 of 1,,3,66,78,-12,1699.0
+7:25.0,C. Cunningham misses 2-pt jump shot from 11 ft,66-78, ,,3,66,78,-12,1715.0
+7:22.0, ,66-78,Defensive rebound by B. Lopez,,3,66,78,-12,1718.0
+7:19.0, ,66-78,M. Beasley misses 2-pt layup from 2 ft,,3,66,78,-12,1721.0
+7:19.0, ,66-78,Offensive rebound by Team,,3,66,78,-12,1721.0
+7:19.0, ,66-78,M. Beauchamp enters the game for M. Beasley,,3,66,78,-12,1721.0
+7:16.0, ,66-78,Turnover by B. Portis (traveling),,3,66,78,-12,1724.0
+6:55.0,A. Thompson makes 2-pt layup from 3 ft (assist by C. Cunningham),68-78, ,,3,68,78,-10,1745.0
+6:54.0,Violation by Team (delay of game),68-78, ,,3,68,78,-10,1746.0
+6:50.0, ,68-78,Turnover by B. Lopez (traveling),,3,68,78,-10,1750.0
+6:50.0, ,68-78,Milwaukee full timeout,,3,68,78,-10,1750.0
+6:50.0, ,68-78,P. Connaughton enters the game for J. Crowder,,3,68,78,-10,1750.0
+6:36.0,Turnover by I. Stewart (traveling),68-78, ,,3,68,78,-10,1764.0
+6:26.0, ,68-78,Turnover by B. Lopez (bad pass; steal by K. Hayes),,3,68,78,-10,1774.0
+6:26.0,M. Sasser enters the game for K. Hayes,68-78, ,,3,68,78,-10,1774.0
+6:07.0,Jump ball: A. Thompson vs. M. Beauchamp (A. Thompson gains possession),68-78,,,3,68,78,-10,1793.0
+6:04.0,M. Sasser makes 2-pt jump shot from 20 ft (assist by J. Duren),70-78, ,,3,70,78,-8,1796.0
+5:55.0, ,70-78,Personal foul by A. Thompson (drawn by D. Lillard),,3,70,78,-8,1805.0
+5:48.0, ,70-78,M. Beauchamp misses 3-pt jump shot from 25 ft,,3,70,78,-8,1812.0
+5:42.0,Defensive rebound by A. Thompson,70-78, ,,3,70,78,-8,1818.0
+5:36.0,A. Thompson makes 2-pt jump shot from 10 ft,72-78, ,,3,72,78,-6,1824.0
+5:23.0, ,72-81,D. Lillard makes 3-pt jump shot from 27 ft,,3,72,81,-9,1837.0
+5:14.0,C. Cunningham makes 2-pt layup from 3 ft,74-81, ,,3,74,81,-7,1846.0
+5:14.0,Shooting foul by D. Lillard (drawn by C. Cunningham),74-81, ,,3,74,81,-7,1846.0
+5:14.0,C. Cunningham makes free throw 1 of 1,75-81, ,,3,75,81,-6,1846.0
+5:14.0,M. Bagley enters the game for J. Duren,75-81, ,,3,75,81,-6,1846.0
+4:57.0, ,75-84,B. Lopez makes 3-pt jump shot from 23 ft (assist by P. Connaughton),,3,75,84,-9,1863.0
+4:38.0,M. Bagley misses 2-pt layup from 4 ft (block by B. Lopez),75-84, ,,3,75,84,-9,1882.0
+4:37.0,Offensive rebound by M. Bagley,75-84, ,,3,75,84,-9,1883.0
+4:36.0,M. Bagley makes 2-pt layup from 5 ft,77-84, ,,3,77,84,-7,1884.0
+4:15.0, ,77-84,D. Lillard misses 3-pt jump shot from 27 ft,,3,77,84,-7,1905.0
+4:12.0,Defensive rebound by A. Thompson,77-84, ,,3,77,84,-7,1908.0
+4:09.0,C. Cunningham misses 3-pt jump shot from 28 ft,77-84, ,,3,77,84,-7,1911.0
+4:06.0, ,77-84,Defensive rebound by B. Portis,,3,77,84,-7,1914.0
+3:58.0, ,77-84,B. Lopez misses 3-pt jump shot from 25 ft,,3,77,84,-7,1922.0
+3:54.0,Defensive rebound by M. Sasser,77-84, ,,3,77,84,-7,1926.0
+3:47.0,M. Sasser makes 2-pt jump shot from 15 ft,79-84, ,,3,79,84,-5,1933.0
+3:35.0, ,79-84,D. Lillard misses 2-pt layup from 2 ft (block by M. Bagley),,3,79,84,-5,1945.0
+3:34.0,Defensive rebound by C. Cunningham,79-84, ,,3,79,84,-5,1946.0
+3:27.0,M. Sasser misses 2-pt layup from 3 ft,79-84, ,,3,79,84,-5,1953.0
+3:27.0,Offensive rebound by M. Bagley,79-84, ,,3,79,84,-5,1953.0
+3:27.0,Personal foul by M. Beauchamp (drawn by M. Bagley),79-84, ,,3,79,84,-5,1953.0
+3:27.0, ,79-84,J. Crowder enters the game for D. Lillard,,3,79,84,-5,1953.0
+3:27.0, ,79-84,C. Payne enters the game for B. Lopez,,3,79,84,-5,1953.0
+3:15.0,I. Stewart makes 3-pt jump shot from 27 ft (assist by M. Bagley),82-84, ,,3,82,84,-2,1965.0
+2:51.0, ,82-87,J. Crowder makes 3-pt jump shot from 26 ft (assist by B. Portis),,3,82,87,-5,1989.0
+2:36.0,I. Stewart makes 3-pt jump shot from 27 ft (assist by C. Cunningham),85-87, ,,3,85,87,-2,2004.0
+2:23.0, ,85-87,P. Connaughton misses 2-pt layup from 3 ft,,3,85,87,-2,2017.0
+2:20.0,Defensive rebound by M. Sasser,85-87, ,,3,85,87,-2,2020.0
+2:13.0,M. Sasser makes 3-pt jump shot from 27 ft,88-87, ,Lead change,3,88,87,1,2027.0
+2:12.0, ,88-87,Milwaukee full timeout,,3,88,87,1,2028.0
+2:12.0,J. Rhoden enters the game for A. Thompson,88-87, ,,3,88,87,1,2028.0
+1:57.0, ,88-87,C. Payne misses 2-pt jump shot from 10 ft,,3,88,87,1,2043.0
+1:53.0,Defensive rebound by I. Stewart,88-87, ,,3,88,87,1,2047.0
+1:51.0,M. Bagley makes 2-pt layup from 4 ft (assist by C. Cunningham),90-87, ,,3,90,87,3,2049.0
+1:34.0, ,90-87,C. Payne misses 3-pt jump shot from 26 ft,,3,90,87,3,2066.0
+1:29.0,Defensive rebound by M. Sasser,90-87, ,,3,90,87,3,2071.0
+1:11.0,C. Cunningham misses 3-pt jump shot from 29 ft,90-87, ,,3,90,87,3,2089.0
+1:06.0, ,90-87,Defensive rebound by J. Crowder,,3,90,87,3,2094.0
+0:57.0, ,90-87,B. Portis misses 2-pt jump shot from 13 ft,,3,90,87,3,2103.0
+0:53.0,Defensive rebound by C. Cunningham,90-87, ,,3,90,87,3,2107.0
+0:46.0,M. Sasser makes 3-pt jump shot from 30 ft,93-87, ,,3,93,87,6,2114.0
+0:35.0, ,93-87,Turnover by B. Portis (traveling),,3,93,87,6,2125.0
+0:17.0,M. Sasser misses 3-pt jump shot from 30 ft,93-87, ,,3,93,87,6,2143.0
+0:13.0, ,93-87,Defensive rebound by B. Portis,,3,93,87,6,2147.0
+0:09.0, ,93-87,M. Beauchamp misses 2-pt jump shot from 4 ft,,3,93,87,6,2151.0
+0:06.0,Defensive rebound by M. Sasser,93-87, ,,3,93,87,6,2154.0
+0:03.0,J. Rhoden makes 2-pt layup from 3 ft (assist by M. Sasser),95-87, ,,3,95,87,8,2157.0
+0:00.0, ,95-90,C. Payne makes 3-pt jump shot from 29 ft,,3,95,90,5,2160.0
+0:00.0, ,95-90,Instant Replay (Request: Stands),,3,95,90,5,2160.0
+0:00.0,End of 3rd quarter,95-90,,,3,95,90,5,2160.0
+12:00.0,Start of 4th quarter,95-90,,,4,95,90,5,2160.0
+11:43.0,M. Sasser makes 2-pt jump shot from 11 ft (assist by J. Rhoden),97-90, ,,4,97,90,7,2177.0
+11:28.0, ,97-90,P. Connaughton misses 3-pt jump shot from 25 ft,,4,97,90,7,2192.0
+11:28.0, ,97-90,Offensive rebound by M. Beauchamp,,4,97,90,7,2192.0
+11:21.0, ,97-90,Personal foul by J. Rhoden (drawn by P. Connaughton),,4,97,90,7,2199.0
+11:13.0, ,97-92,M. Beauchamp makes 2-pt jump shot from 16 ft (assist by B. Portis),,4,97,92,5,2207.0
+10:56.0,M. Sasser makes 2-pt layup from 4 ft,99-92, ,,4,99,92,7,2224.0
+10:42.0, ,99-94,M. Beauchamp makes 2-pt jump shot from 12 ft,,4,99,94,5,2238.0
+10:34.0,Offensive foul by M. Bagley (drawn by P. Connaughton),99-94, ,,4,99,94,5,2246.0
+10:34.0,Turnover by M. Bagley (offensive foul),99-94, ,,4,99,94,5,2246.0
+10:14.0, ,99-94,M. Beauchamp misses 3-pt jump shot from 25 ft,,4,99,94,5,2266.0
+10:11.0,Defensive rebound by M. Sasser,99-94, ,,4,99,94,5,2269.0
+10:02.0,M. Sasser makes 3-pt jump shot from 28 ft,102-94, ,,4,102,94,8,2278.0
+9:45.0, ,102-94,B. Portis misses 2-pt jump shot from 15 ft,,4,102,94,8,2295.0
+9:41.0,Defensive rebound by J. Rhoden,102-94, ,,4,102,94,8,2299.0
+9:37.0,Personal foul by B. Portis (drawn by M. Bagley),102-94, ,,4,102,94,8,2303.0
+9:37.0, ,102-94,D. Lillard enters the game for P. Connaughton,,4,102,94,8,2303.0
+9:20.0,K. Hayes misses 3-pt jump shot from 27 ft,102-94, ,,4,102,94,8,2320.0
+9:20.0,Offensive rebound by Team,102-94, ,,4,102,94,8,2320.0
+9:20.0,Turnover by Team (shot clock),102-94, ,,4,102,94,8,2320.0
+9:20.0,A. Thompson enters the game for J. Rhoden,102-94, ,,4,102,94,8,2320.0
+9:09.0, ,102-97,D. Lillard makes 3-pt jump shot from 25 ft,,4,102,97,5,2331.0
+8:55.0,K. Hayes makes 2-pt layup from 3 ft,104-97, ,,4,104,97,7,2345.0
+8:41.0, ,104-97,Turnover by D. Lillard (bad pass; steal by M. Sasser),,4,104,97,7,2359.0
+8:36.0,K. Hayes makes 2-pt layup from 2 ft (assist by M. Sasser),106-97, ,,4,106,97,9,2364.0
+8:22.0, ,106-99,D. Lillard makes 2-pt jump shot from 13 ft,,4,106,99,7,2378.0
+8:11.0, ,106-99,Violation by Team (kicked ball),,4,106,99,7,2389.0
+8:11.0,J. Duren enters the game for M. Bagley,106-99, ,,4,106,99,7,2389.0
+8:11.0, ,106-99,B. Lopez enters the game for B. Portis,,4,106,99,7,2389.0
+8:04.0,Turnover by M. Sasser (traveling),106-99, ,,4,106,99,7,2396.0
+7:52.0, ,106-99,D. Lillard misses 3-pt jump shot from 25 ft,,4,106,99,7,2408.0
+7:47.0,Defensive rebound by A. Thompson,106-99, ,,4,106,99,7,2413.0
+7:37.0,K. Hayes misses 2-pt jump shot from 8 ft,106-99, ,,4,106,99,7,2423.0
+7:34.0, ,106-99,Defensive rebound by B. Lopez,,4,106,99,7,2426.0
+7:25.0, ,106-99,B. Lopez misses 2-pt jump shot from 12 ft,,4,106,99,7,2435.0
+7:22.0,Defensive rebound by J. Duren,106-99, ,,4,106,99,7,2438.0
+7:14.0,M. Sasser makes 2-pt jump shot from 17 ft,108-99, ,,4,108,99,9,2446.0
+7:14.0,Shooting foul by M. Beauchamp (drawn by M. Sasser),108-99, ,,4,108,99,9,2446.0
+7:14.0,C. Cunningham enters the game for K. Hayes,108-99, ,,4,108,99,9,2446.0
+7:14.0,M. Sasser makes free throw 1 of 1,109-99, ,,4,109,99,10,2446.0
+7:14.0, ,109-99,Milwaukee full timeout,,4,109,99,10,2446.0
+7:14.0, ,109-99,M. Beasley enters the game for M. Beauchamp,,4,109,99,10,2446.0
+6:53.0, ,109-99,Shooting foul by S. Umude (drawn by C. Payne),,4,109,99,10,2467.0
+6:53.0, ,109-100,C. Payne makes free throw 1 of 2,,4,109,100,9,2467.0
+6:53.0, ,109-101,C. Payne makes free throw 2 of 2,,4,109,101,8,2467.0
+6:37.0,Turnover by C. Cunningham (bad pass; steal by D. Lillard),109-101, ,,4,109,101,8,2483.0
+6:28.0, ,109-101,J. Crowder misses 3-pt jump shot from 24 ft (block by S. Umude),,4,109,101,8,2492.0
+6:23.0,Defensive rebound by J. Duren,109-101, ,,4,109,101,8,2497.0
+6:22.0,S. Umude makes 2-pt layup from 3 ft (assist by J. Duren),111-101, ,,4,111,101,10,2498.0
+6:21.0,Violation by Team (delay of game),111-101, ,,4,111,101,10,2499.0
+6:21.0, ,111-101,D. Lillard misses technical free throw,,4,111,101,10,2499.0
+6:21.0, ,111-101,Offensive rebound by Team,,4,111,101,10,2499.0
+6:21.0,I. Stewart enters the game for S. Umude,111-101, ,,4,111,101,10,2499.0
+6:09.0, ,111-103,D. Lillard makes 2-pt layup from 2 ft,,4,111,103,8,2511.0
+6:09.0, ,111-103,Shooting foul by J. Duren (drawn by D. Lillard),,4,111,103,8,2511.0
+6:09.0, ,111-104,D. Lillard makes free throw 1 of 1,,4,111,104,7,2511.0
+5:46.0,M. Sasser misses 3-pt jump shot from 28 ft,111-104, ,,4,111,104,7,2534.0
+5:43.0, ,111-104,Defensive rebound by B. Lopez,,4,111,104,7,2537.0
+5:40.0, ,111-104,Shooting foul by A. Thompson (drawn by D. Lillard),,4,111,104,7,2540.0
+5:40.0, ,111-105,D. Lillard makes free throw 1 of 2,,4,111,105,6,2540.0
+5:40.0, ,111-106,D. Lillard makes free throw 2 of 2,,4,111,106,5,2540.0
+5:22.0,M. Sasser makes 2-pt jump shot from 14 ft,113-106, ,,4,113,106,7,2558.0
+5:06.0, ,113-108,M. Beasley makes 2-pt jump shot from 12 ft (assist by D. Lillard),,4,113,108,5,2574.0
+4:44.0,I. Stewart misses 3-pt jump shot from 28 ft,113-108, ,,4,113,108,5,2596.0
+4:42.0,Offensive rebound by A. Thompson,113-108, ,,4,113,108,5,2598.0
+4:40.0,Turnover by A. Thompson (bad pass; steal by C. Payne),113-108, ,,4,113,108,5,2600.0
+4:40.0, ,113-108,Turnover by C. Payne (bad pass),,4,113,108,5,2600.0
+4:27.0,A. Thompson misses 3-pt jump shot from 22 ft,113-108, ,,4,113,108,5,2613.0
+4:23.0, ,113-108,Defensive rebound by M. Beasley,,4,113,108,5,2617.0
+4:13.0, ,113-108,C. Payne misses 3-pt jump shot from 25 ft,,4,113,108,5,2627.0
+4:09.0,Defensive rebound by A. Thompson,113-108, ,,4,113,108,5,2631.0
+4:01.0,A. Thompson misses 2-pt jump shot from 9 ft,113-108, ,,4,113,108,5,2639.0
+3:59.0,Offensive rebound by A. Thompson,113-108, ,,4,113,108,5,2641.0
+3:50.0,Personal foul by C. Payne (drawn by M. Sasser),113-108, ,,4,113,108,5,2650.0
+3:36.0,Turnover by Team (shot clock),113-108, ,,4,113,108,5,2664.0
+3:25.0, ,113-108,D. Lillard misses 3-pt jump shot from 25 ft,,4,113,108,5,2675.0
+3:22.0,Defensive rebound by M. Sasser,113-108, ,,4,113,108,5,2678.0
+3:18.0,Detroit full timeout,113-108, ,,4,113,108,5,2682.0
+3:08.0,I. Stewart misses 3-pt jump shot from 23 ft,113-108, ,,4,113,108,5,2692.0
+3:04.0, ,113-108,Defensive rebound by D. Lillard,,4,113,108,5,2696.0
+3:01.0, ,113-108,Shooting foul by I. Stewart (drawn by D. Lillard),,4,113,108,5,2699.0
+3:01.0, ,113-109,D. Lillard makes free throw 1 of 2,,4,113,109,4,2699.0
+3:01.0, ,113-110,D. Lillard makes free throw 2 of 2,,4,113,110,3,2699.0
+2:52.0,I. Stewart misses 3-pt jump shot from 23 ft,113-110, ,,4,113,110,3,2708.0
+2:48.0, ,113-110,Defensive rebound by B. Lopez,,4,113,110,3,2712.0
+2:42.0, ,113-110,D. Lillard misses 3-pt jump shot from 26 ft (block by A. Thompson),,4,113,110,3,2718.0
+2:39.0,Defensive rebound by J. Duren,113-110, ,,4,113,110,3,2721.0
+2:33.0,Turnover by M. Sasser (traveling),113-110, ,,4,113,110,3,2727.0
+2:21.0, ,113-110,D. Lillard misses 2-pt layup from 6 ft,,4,113,110,3,2739.0
+2:18.0,Defensive rebound by C. Cunningham,113-110, ,,4,113,110,3,2742.0
+2:16.0,A. Thompson misses 2-pt layup from 3 ft,113-110, ,,4,113,110,3,2744.0
+2:13.0, ,113-110,Defensive rebound by M. Beasley,,4,113,110,3,2747.0
+2:10.0, ,113-112,D. Lillard makes 2-pt layup from 1 ft (assist by M. Beasley),,4,113,112,1,2750.0
+1:49.0,M. Sasser misses 3-pt jump shot from 26 ft,113-112, ,,4,113,112,1,2771.0
+1:48.0,Offensive rebound by Team,113-112, ,,4,113,112,1,2772.0
+1:48.0,Instant Replay (Request: Ruling Stands),113-112, ,,4,113,112,1,2772.0
+1:39.0,Shooting foul by B. Lopez (drawn by C. Cunningham),113-112, ,,4,113,112,1,2781.0
+1:39.0,C. Cunningham makes free throw 1 of 2,114-112, ,,4,114,112,2,2781.0
+1:39.0,C. Cunningham makes free throw 2 of 2,115-112, ,,4,115,112,3,2781.0
+1:33.0, ,115-114,D. Lillard makes 2-pt layup from 2 ft,,4,115,114,1,2787.0
+1:21.0,Offensive foul by J. Duren (drawn by D. Lillard),115-114, ,,4,115,114,1,2799.0
+1:21.0,Turnover by J. Duren (offensive foul),115-114, ,,4,115,114,1,2799.0
+1:12.0, ,115-116,D. Lillard makes 2-pt jump shot from 7 ft,Lead change,4,115,116,-1,2808.0
+1:01.0,C. Cunningham misses 3-pt jump shot from 26 ft,115-116, ,,4,115,116,-1,2819.0
+1:00.0,Offensive rebound by I. Stewart,115-116, ,,4,115,116,-1,2820.0
+0:58.0,I. Stewart misses 2-pt layup from 2 ft,115-116, ,,4,115,116,-1,2822.0
+0:55.0, ,115-116,Defensive rebound by J. Crowder,,4,115,116,-1,2825.0
+0:42.0, ,115-119,B. Lopez makes 3-pt jump shot from 25 ft (assist by J. Crowder),,4,115,119,-4,2838.0
+0:42.0,Detroit full timeout,115-119, ,,4,115,119,-4,2838.0
+0:40.0,C. Cunningham makes 3-pt jump shot from 23 ft (assist by A. Thompson),118-119, ,,4,118,119,-1,2840.0
+0:19.0, ,118-119,D. Lillard misses 3-pt jump shot from 25 ft,,4,118,119,-1,2861.0
+0:16.0,Defensive rebound by J. Duren,118-119, ,,4,118,119,-1,2864.0
+0:12.0,C. Cunningham misses 2-pt hook shot from 6 ft (block by B. Lopez),118-119, ,,4,118,119,-1,2868.0
+0:11.0,Offensive rebound by C. Cunningham,118-119, ,,4,118,119,-1,2869.0
+0:09.0,Turnover by C. Cunningham (bad pass; steal by M. Beasley),118-119, ,,4,118,119,-1,2871.0
+0:03.0, ,118-119,Personal take foul by A. Thompson (drawn by J. Crowder),,4,118,119,-1,2877.0
+0:03.0, ,118-119,J. Crowder misses free throw 1 of 2,,4,118,119,-1,2877.0
+0:03.0, ,118-119,Offensive rebound by Team,,4,118,119,-1,2877.0
+0:03.0, ,118-120,J. Crowder makes free throw 2 of 2,,4,118,120,-2,2877.0
+0:03.0,Detroit full timeout,118-120, ,,4,118,120,-2,2877.0
+0:00.0,C. Cunningham misses 3-pt jump shot from 52 ft,118-120, ,,4,118,120,-2,2880.0
+0:00.0,Offensive rebound by Team,118-120, ,,4,118,120,-2,2880.0
+0:00.0,End of 4th quarter,118-120,,,4,118,120,-2,2880.0

@@ -1,0 +1,444 @@
+Time,Boston,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. J. Wiseman (J. Ivey gains possession),0-0,,,1,0,0,0,0.0
+11:40.0, ,0-0,C. Cunningham misses 2-pt jump shot from 10 ft,,1,0,0,0,20.0
+11:36.0,Defensive rebound by J. Brown,0-0, ,,1,0,0,0,24.0
+11:26.0,K. Porziņģis misses 2-pt jump shot from 6 ft,0-0, ,,1,0,0,0,34.0
+11:23.0, ,0-0,Defensive rebound by J. Wiseman,,1,0,0,0,37.0
+11:13.0, ,0-0,Turnover by T. Evbuomwan (bad pass; steal by J. Brown),,1,0,0,0,47.0
+11:06.0,J. Brown misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,54.0
+11:03.0, ,0-0,Defensive rebound by C. Cunningham,,1,0,0,0,57.0
+11:00.0, ,0-2,J. Wiseman makes 2-pt dunk from 3 ft (assist by C. Cunningham),,1,2,0,2,60.0
+10:32.0,D. White misses 3-pt jump shot from 23 ft,0-2, ,,1,2,0,2,88.0
+10:31.0,Offensive rebound by X. Tillman,0-2, ,,1,2,0,2,89.0
+10:29.0,Shooting foul by C. Cunningham (drawn by D. White),0-2, ,,1,2,0,2,91.0
+10:29.0,D. White makes free throw 1 of 2,1-2, ,,1,2,1,1,91.0
+10:29.0,D. White misses free throw 2 of 2,1-2, ,,1,2,1,1,91.0
+10:25.0,Offensive rebound by K. Porziņģis,1-2, ,,1,2,1,1,95.0
+10:16.0,P. Pritchard makes 3-pt jump shot from 27 ft,4-2, ,Lead change,1,2,4,-2,104.0
+9:57.0, ,4-2,Shooting foul by P. Pritchard (drawn by J. Wiseman),,1,2,4,-2,123.0
+9:57.0, ,4-3,J. Wiseman makes free throw 1 of 2,,1,3,4,-1,123.0
+9:57.0, ,4-4,J. Wiseman makes free throw 2 of 2,Tie,1,4,4,0,123.0
+9:40.0,J. Brown makes 2-pt jump shot from 5 ft,6-4, ,,1,4,6,-2,140.0
+9:27.0, ,6-6,C. Cunningham makes 2-pt layup from 3 ft,Tie,1,6,6,0,153.0
+9:18.0,P. Pritchard misses 2-pt layup from 4 ft,6-6, ,,1,6,6,0,162.0
+9:15.0, ,6-6,Defensive rebound by T. Evbuomwan,,1,6,6,0,165.0
+9:12.0, ,6-6,C. Cunningham misses 3-pt jump shot from 30 ft,,1,6,6,0,168.0
+9:11.0, ,6-6,Offensive rebound by J. Wiseman,,1,6,6,0,169.0
+9:09.0, ,6-8,J. Wiseman makes 2-pt layup from 1 ft,Lead change,1,8,6,2,171.0
+8:48.0,Shooting foul by J. Ivey (drawn by K. Porziņģis),6-8, ,,1,8,6,2,192.0
+8:48.0,K. Porziņģis makes free throw 1 of 2,7-8, ,,1,8,7,1,192.0
+8:48.0,K. Porziņģis makes free throw 2 of 2,8-8, ,Tie,1,8,8,0,192.0
+8:26.0, ,8-10,J. Wiseman makes 2-pt dunk from 4 ft (assist by C. Cunningham),,1,10,8,2,214.0
+8:10.0,D. White makes 2-pt layup from 3 ft,10-10, ,Tie,1,10,10,0,230.0
+7:54.0, ,10-10,Shooting foul by K. Porziņģis (drawn by T. Evbuomwan),,1,10,10,0,246.0
+7:54.0, ,10-10,T. Evbuomwan misses free throw 1 of 2,,1,10,10,0,246.0
+7:54.0, ,10-10,Offensive rebound by Team,,1,10,10,0,246.0
+7:54.0, ,10-11,T. Evbuomwan makes free throw 2 of 2,,1,11,10,1,246.0
+7:33.0,K. Porziņģis makes 2-pt jump shot from 16 ft (assist by P. Pritchard),12-11, ,Lead change,1,11,12,-1,267.0
+7:15.0, ,12-13,C. Cunningham makes 2-pt jump shot from 9 ft (assist by J. Wiseman),Lead change,1,13,12,1,285.0
+6:56.0,Turnover by J. Brown (bad pass; steal by C. Cunningham),12-13, ,,1,13,12,1,304.0
+6:51.0, ,12-15,J. Ivey makes 2-pt layup from 3 ft (assist by C. Cunningham),,1,15,12,3,309.0
+6:40.0,Turnover by J. Brown (bad pass),12-15, ,,1,15,12,3,320.0
+6:40.0, ,12-15,Detroit full timeout,,1,15,12,3,320.0
+6:24.0, ,12-15,J. Ivey misses 2-pt layup from 4 ft,,1,15,12,3,336.0
+6:23.0, ,12-15,Offensive rebound by J. Wiseman,,1,15,12,3,337.0
+6:21.0, ,12-15,J. Wiseman misses 2-pt layup from 4 ft (block by K. Porziņģis),,1,15,12,3,339.0
+6:20.0,Defensive rebound by X. Tillman,12-15, ,,1,15,12,3,340.0
+6:11.0,J. Brown makes 2-pt layup from 2 ft,14-15, ,,1,15,14,1,349.0
+6:03.0, ,14-17,C. Cunningham makes 2-pt jump shot from 10 ft (assist by T. Evbuomwan),,1,17,14,3,357.0
+5:49.0,Personal foul by C. Cunningham (drawn by J. Brown),14-17, ,,1,17,14,3,371.0
+5:49.0,S. Hauser enters the game for D. White,14-17, ,,1,17,14,3,371.0
+5:49.0, ,14-17,E. Fournier enters the game for T. Brown,,1,17,14,3,371.0
+5:37.0,J. Brown makes 2-pt layup from 2 ft (assist by K. Porziņģis),16-17, ,,1,17,16,1,383.0
+5:28.0, ,16-17,Shooting foul by X. Tillman (drawn by C. Cunningham),,1,17,16,1,392.0
+5:28.0, ,16-18,C. Cunningham makes free throw 1 of 2,,1,18,16,2,392.0
+5:28.0, ,16-19,C. Cunningham makes free throw 2 of 2,,1,19,16,3,392.0
+5:10.0,S. Hauser misses 3-pt jump shot from 27 ft,16-19, ,,1,19,16,3,410.0
+5:07.0, ,16-19,Defensive rebound by J. Wiseman,,1,19,16,3,413.0
+5:01.0, ,16-21,J. Wiseman makes 2-pt layup from 2 ft (assist by C. Cunningham),,1,21,16,5,419.0
+4:50.0,K. Porziņģis makes 3-pt jump shot from 28 ft (assist by P. Pritchard),19-21, ,,1,21,19,2,430.0
+4:42.0, ,19-21,J. Ivey misses 2-pt layup from 3 ft,,1,21,19,2,438.0
+4:42.0,Defensive rebound by S. Hauser,19-21, ,,1,21,19,2,438.0
+4:37.0,S. Hauser makes 2-pt layup from 3 ft (assist by P. Pritchard),21-21, ,Tie,1,21,21,0,443.0
+4:18.0, ,21-21,C. Cunningham misses 2-pt layup from 4 ft,,1,21,21,0,462.0
+4:17.0, ,21-21,Offensive rebound by C. Cunningham,,1,21,21,0,463.0
+4:16.0, ,21-21,C. Cunningham misses 2-pt layup from 4 ft (block by K. Porziņģis),,1,21,21,0,464.0
+4:15.0, ,21-21,Offensive rebound by J. Wiseman,,1,21,21,0,465.0
+4:13.0, ,21-23,J. Wiseman makes 2-pt jump shot from 5 ft,,1,23,21,2,467.0
+4:13.0,Boston full timeout,21-23, ,,1,23,21,2,467.0
+4:13.0,O. Brissett enters the game for K. Porziņģis,21-23, ,,1,23,21,2,467.0
+4:13.0,L. Kornet enters the game for X. Tillman,21-23, ,,1,23,21,2,467.0
+4:13.0, ,21-23,C. Metu enters the game for J. Ivey,,1,23,21,2,467.0
+4:13.0, ,21-23,J. Rhoden enters the game for J. Wiseman,,1,23,21,2,467.0
+3:54.0,Personal foul by J. Rhoden (drawn by P. Pritchard),21-23, ,,1,23,21,2,486.0
+3:50.0,J. Brown makes 2-pt layup from 2 ft (assist by P. Pritchard),23-23, ,Tie,1,23,23,0,490.0
+3:37.0, ,23-23,Turnover by J. Rhoden (bad pass; steal by J. Brown),,1,23,23,0,503.0
+3:33.0,J. Brown makes 2-pt layup from 2 ft,25-23, ,Lead change,1,23,25,-2,507.0
+3:11.0, ,25-23,T. Evbuomwan misses 3-pt jump shot from 23 ft,,1,23,25,-2,529.0
+3:09.0, ,25-23,Offensive rebound by T. Evbuomwan,,1,23,25,-2,531.0
+3:01.0, ,25-25,J. Rhoden makes 2-pt jump shot from 14 ft (assist by C. Metu),Tie,1,25,25,0,539.0
+2:44.0,S. Hauser misses 3-pt jump shot from 27 ft,25-25, ,,1,25,25,0,556.0
+2:43.0,Offensive rebound by Team,25-25, ,,1,25,25,0,557.0
+2:42.0, ,25-25,Loose ball foul by C. Metu (drawn by L. Kornet),,1,25,25,0,558.0
+2:42.0,L. Kornet misses free throw 1 of 2,25-25, ,,1,25,25,0,558.0
+2:42.0,Offensive rebound by Team,25-25, ,,1,25,25,0,558.0
+2:42.0, ,25-25,T. Brown enters the game for C. Cunningham,,1,25,25,0,558.0
+2:42.0, ,25-25,M. Sasser enters the game for T. Evbuomwan,,1,25,25,0,558.0
+2:42.0,L. Kornet makes free throw 2 of 2,26-25, ,,1,25,26,-1,558.0
+2:23.0, ,26-25,E. Fournier misses 2-pt jump shot from 9 ft,,1,25,26,-1,577.0
+2:22.0,Defensive rebound by L. Kornet,26-25, ,,1,25,26,-1,578.0
+2:02.0,P. Pritchard makes 2-pt layup from 2 ft,28-25, ,,1,25,28,-3,598.0
+1:47.0, ,28-25,E. Fournier misses 3-pt jump shot from 24 ft,,1,25,28,-3,613.0
+1:46.0,Defensive rebound by J. Brown,28-25, ,,1,25,28,-3,614.0
+1:41.0,S. Hauser misses 2-pt layup from 2 ft,28-25, ,,1,25,28,-3,619.0
+1:40.0, ,28-25,Defensive rebound by M. Sasser,,1,25,28,-3,620.0
+1:32.0, ,28-28,M. Sasser makes 3-pt jump shot from 27 ft,Tie,1,28,28,0,628.0
+1:12.0,P. Pritchard misses 3-pt jump shot from 23 ft,28-28, ,,1,28,28,0,648.0
+1:12.0, ,28-28,Defensive rebound by E. Fournier,,1,28,28,0,648.0
+1:07.0, ,28-28,Personal foul by L. Kornet (drawn by T. Brown),,1,28,28,0,653.0
+1:00.0, ,28-31,T. Brown makes 3-pt jump shot from 27 ft (assist by M. Sasser),Lead change,1,31,28,3,660.0
+0:50.0,S. Hauser misses 3-pt jump shot from 26 ft,28-31, ,,1,31,28,3,670.0
+0:48.0, ,28-31,Defensive rebound by M. Sasser,,1,31,28,3,672.0
+0:33.0, ,28-34,T. Brown makes 3-pt jump shot from 27 ft (assist by M. Sasser),,1,34,28,6,687.0
+0:29.0,Shooting foul by C. Metu (drawn by O. Brissett),28-34, ,,1,34,28,6,691.0
+0:29.0,O. Brissett makes free throw 1 of 2,29-34, ,,1,34,29,5,691.0
+0:29.0,X. Tillman enters the game for L. Kornet,29-34, ,,1,34,29,5,691.0
+0:29.0,O. Brissett misses free throw 2 of 2,29-34, ,,1,34,29,5,691.0
+0:26.0, ,29-34,Defensive rebound by T. Brown,,1,34,29,5,694.0
+0:04.0, ,29-34,Turnover by Team (shot clock),,1,34,29,5,716.0
+0:00.0,P. Pritchard makes 3-pt jump shot from 25 ft (assist by O. Brissett),32-34, ,,1,34,32,2,720.0
+0:00.0,End of 1st quarter,32-34,,,1,34,32,2,720.0
+12:00.0,Start of 2nd quarter,32-34,,,2,34,32,2,720.0
+11:43.0,D. White misses 3-pt jump shot from 25 ft,32-34, ,,2,34,32,2,737.0
+11:39.0, ,32-34,Defensive rebound by J. Rhoden,,2,34,32,2,741.0
+11:31.0, ,32-34,M. Sasser misses 2-pt jump shot from 14 ft,,2,34,32,2,749.0
+11:30.0,Defensive rebound by D. White,32-34, ,,2,34,32,2,750.0
+11:18.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by P. Pritchard),35-34, ,Lead change,2,34,35,-1,762.0
+10:58.0, ,35-37,J. Rhoden makes 3-pt jump shot from 26 ft (assist by M. Sasser),Lead change,2,37,35,2,782.0
+10:44.0,P. Pritchard makes 3-pt jump shot from 23 ft (assist by L. Kornet),38-37, ,Lead change,2,37,38,-1,796.0
+10:26.0, ,38-39,T. Brown makes 2-pt jump shot from 17 ft (assist by J. Wiseman),Lead change,2,39,38,1,814.0
+10:08.0,P. Pritchard makes 2-pt jump shot from 6 ft,40-39, ,Lead change,2,39,40,-1,832.0
+9:55.0, ,40-41,M. Sasser makes 2-pt jump shot from 15 ft,Lead change,2,41,40,1,845.0
+9:41.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by L. Kornet),43-41, ,Lead change,2,41,43,-2,859.0
+9:17.0, ,43-41,J. Rhoden misses 3-pt jump shot from 31 ft,,2,41,43,-2,883.0
+9:16.0,Defensive rebound by Team,43-41, ,,2,41,43,-2,884.0
+9:16.0, ,43-41,J. Ivey enters the game for J. Rhoden,,2,41,43,-2,884.0
+9:00.0,S. Hauser misses 3-pt jump shot from 26 ft,43-41, ,,2,41,43,-2,900.0
+8:59.0,Offensive rebound by D. White,43-41, ,,2,41,43,-2,901.0
+8:58.0,D. White misses 3-pt jump shot from 27 ft,43-41, ,,2,41,43,-2,902.0
+8:56.0, ,43-41,Defensive rebound by Team,,2,41,43,-2,904.0
+8:45.0, ,43-41,T. Brown misses 3-pt jump shot from 23 ft,,2,41,43,-2,915.0
+8:43.0,Defensive rebound by S. Mykhailiuk,43-41, ,,2,41,43,-2,917.0
+8:39.0,S. Hauser misses 2-pt layup from 5 ft (block by E. Fournier),43-41, ,,2,41,43,-2,921.0
+8:38.0, ,43-41,Defensive rebound by J. Ivey,,2,41,43,-2,922.0
+8:31.0, ,43-43,J. Wiseman makes 2-pt jump shot from 5 ft (assist by E. Fournier),Tie,2,43,43,0,929.0
+8:14.0,Shooting foul by M. Sasser (drawn by D. White),43-43, ,,2,43,43,0,946.0
+8:14.0,D. White makes free throw 1 of 2,44-43, ,,2,43,44,-1,946.0
+8:14.0,O. Brissett enters the game for L. Kornet,44-43, ,,2,43,44,-1,946.0
+8:14.0,K. Porziņģis enters the game for P. Pritchard,44-43, ,,2,43,44,-1,946.0
+8:14.0,D. White makes free throw 2 of 2,45-43, ,,2,43,45,-2,946.0
+8:03.0, ,45-45,J. Ivey makes 2-pt jump shot from 5 ft,Tie,2,45,45,0,957.0
+8:03.0, ,45-45,Shooting foul by D. White (drawn by J. Ivey),,2,45,45,0,957.0
+8:03.0, ,45-46,J. Ivey makes free throw 1 of 1,Lead change,2,46,45,1,957.0
+7:47.0,D. White misses 2-pt layup from 2 ft,45-46, ,,2,46,45,1,973.0
+7:46.0, ,45-46,Defensive rebound by J. Ivey,,2,46,45,1,974.0
+7:34.0, ,45-46,Turnover by J. Ivey (bad pass; steal by S. Hauser),,2,46,45,1,986.0
+7:34.0, ,45-46,C. Cunningham enters the game for E. Fournier,,2,46,45,1,986.0
+7:30.0,Jump ball: K. Porziņģis vs. M. Sasser (S. Hauser gains possession),45-46,,,2,46,45,1,990.0
+7:26.0,S. Mykhailiuk makes 2-pt layup from 2 ft (assist by S. Hauser),47-46, ,Lead change,2,46,47,-1,994.0
+7:26.0, ,47-46,Violation by Team (def goaltending),,2,46,47,-1,994.0
+7:26.0,Shooting foul by T. Brown (drawn by S. Mykhailiuk),47-46, ,,2,46,47,-1,994.0
+7:26.0,S. Mykhailiuk makes free throw 1 of 1,48-46, ,,2,46,48,-2,994.0
+7:14.0, ,48-46,J. Ivey misses 3-pt jump shot from 28 ft (block by O. Brissett),,2,46,48,-2,1006.0
+7:13.0,Defensive rebound by S. Hauser,48-46, ,,2,46,48,-2,1007.0
+7:07.0,K. Porziņģis misses 3-pt jump shot from 28 ft,48-46, ,,2,46,48,-2,1013.0
+7:04.0, ,48-46,Defensive rebound by T. Brown,,2,46,48,-2,1016.0
+6:52.0, ,48-46,C. Cunningham misses 2-pt jump shot from 10 ft,,2,46,48,-2,1028.0
+6:49.0,Defensive rebound by K. Porziņģis,48-46, ,,2,46,48,-2,1031.0
+6:38.0,D. White makes 2-pt jump shot from 6 ft,50-46, ,,2,46,50,-4,1042.0
+6:38.0,Shooting foul by J. Ivey (drawn by D. White),50-46, ,,2,46,50,-4,1042.0
+6:38.0, ,50-46,Detroit full timeout,,2,46,50,-4,1042.0
+6:38.0,J. Brown enters the game for S. Hauser,50-46, ,,2,46,50,-4,1042.0
+6:38.0,D. White makes free throw 1 of 1,51-46, ,,2,46,51,-5,1042.0
+6:18.0, ,51-46,T. Brown misses 3-pt jump shot from 24 ft,,2,46,51,-5,1062.0
+6:17.0,Defensive rebound by O. Brissett,51-46, ,,2,46,51,-5,1063.0
+6:05.0,K. Porziņģis misses 3-pt jump shot from 26 ft,51-46, ,,2,46,51,-5,1075.0
+6:04.0, ,51-46,Defensive rebound by T. Brown,,2,46,51,-5,1076.0
+5:50.0, ,51-46,C. Cunningham misses 3-pt jump shot from 27 ft,,2,46,51,-5,1090.0
+5:49.0,Defensive rebound by Team,51-46, ,,2,46,51,-5,1091.0
+5:49.0, ,51-46,T. Evbuomwan enters the game for M. Sasser,,2,46,51,-5,1091.0
+5:34.0,J. Brown makes 2-pt jump shot from 12 ft (assist by S. Mykhailiuk),53-46, ,,2,46,53,-7,1106.0
+5:13.0, ,53-46,T. Brown misses 3-pt jump shot from 24 ft,,2,46,53,-7,1127.0
+5:10.0,Defensive rebound by D. White,53-46, ,,2,46,53,-7,1130.0
+5:06.0,K. Porziņģis misses 2-pt layup from 4 ft,53-46, ,,2,46,53,-7,1134.0
+5:05.0, ,53-46,Defensive rebound by J. Wiseman,,2,46,53,-7,1135.0
+4:55.0, ,53-46,Offensive foul by J. Ivey (drawn by K. Porziņģis),,2,46,53,-7,1145.0
+4:55.0, ,53-46,Turnover by J. Ivey (offensive foul),,2,46,53,-7,1145.0
+4:55.0,Boston full timeout,53-46, ,,2,46,53,-7,1145.0
+4:55.0,Instant Replay (Challenge: Ruling Stands),53-46, ,,2,46,53,-7,1145.0
+4:55.0,S. Hauser enters the game for O. Brissett,53-46, ,,2,46,53,-7,1145.0
+4:55.0,P. Pritchard enters the game for S. Mykhailiuk,53-46, ,,2,46,53,-7,1145.0
+4:35.0,Turnover by P. Pritchard (bad pass),53-46, ,,2,46,53,-7,1165.0
+4:35.0, ,53-46,E. Fournier enters the game for T. Brown,,2,46,53,-7,1165.0
+4:19.0, ,53-46,J. Ivey misses 3-pt jump shot from 24 ft,,2,46,53,-7,1181.0
+4:18.0,Defensive rebound by S. Hauser,53-46, ,,2,46,53,-7,1182.0
+3:58.0,J. Brown makes 2-pt jump shot from 4 ft,55-46, ,,2,46,55,-9,1202.0
+3:51.0, ,55-46,C. Cunningham misses 3-pt jump shot from 27 ft,,2,46,55,-9,1209.0
+3:50.0,Defensive rebound by D. White,55-46, ,,2,46,55,-9,1210.0
+3:43.0,Shooting foul by E. Fournier (drawn by J. Brown),55-46, ,,2,46,55,-9,1217.0
+3:43.0,J. Brown misses free throw 1 of 2,55-46, ,,2,46,55,-9,1217.0
+3:43.0,Offensive rebound by Team,55-46, ,,2,46,55,-9,1217.0
+3:43.0, ,55-46,C. Metu enters the game for T. Evbuomwan,,2,46,55,-9,1217.0
+3:43.0, ,55-46,M. Sasser enters the game for J. Ivey,,2,46,55,-9,1217.0
+3:43.0,J. Brown misses free throw 2 of 2,55-46, ,,2,46,55,-9,1217.0
+3:41.0,Offensive rebound by D. White,55-46, ,,2,46,55,-9,1219.0
+3:37.0,P. Pritchard misses 3-pt jump shot from 27 ft,55-46, ,,2,46,55,-9,1223.0
+3:36.0, ,55-46,Defensive rebound by C. Cunningham,,2,46,55,-9,1224.0
+3:34.0, ,55-46,Personal foul by K. Porziņģis (drawn by C. Cunningham),,2,46,55,-9,1226.0
+3:18.0, ,55-46,C. Cunningham misses 2-pt layup from 3 ft,,2,46,55,-9,1242.0
+3:17.0, ,55-46,Offensive rebound by J. Wiseman,,2,46,55,-9,1243.0
+3:16.0, ,55-48,J. Wiseman makes 2-pt layup at rim,,2,48,55,-7,1244.0
+3:05.0,D. White misses 3-pt jump shot from 23 ft,55-48, ,,2,48,55,-7,1255.0
+3:05.0, ,55-48,Defensive rebound by C. Cunningham,,2,48,55,-7,1255.0
+2:53.0, ,55-48,M. Sasser misses 3-pt jump shot from 27 ft,,2,48,55,-7,1267.0
+2:50.0,Defensive rebound by J. Brown,55-48, ,,2,48,55,-7,1270.0
+2:47.0,S. Hauser makes 3-pt jump shot from 24 ft (assist by P. Pritchard),58-48, ,,2,48,58,-10,1273.0
+2:33.0, ,58-48,Turnover by C. Cunningham (bad pass; steal by J. Brown),,2,48,58,-10,1287.0
+2:28.0,J. Brown makes 2-pt layup from 3 ft (assist by D. White),60-48, ,,2,48,60,-12,1292.0
+2:02.0, ,60-51,C. Cunningham makes 3-pt jump shot from 24 ft,,2,51,60,-9,1318.0
+1:42.0,Shooting foul by C. Metu (drawn by K. Porziņģis),60-51, ,,2,51,60,-9,1338.0
+1:42.0,K. Porziņģis makes free throw 1 of 2,61-51, ,,2,51,61,-10,1338.0
+1:42.0,O. Brissett enters the game for J. Brown,61-51, ,,2,51,61,-10,1338.0
+1:42.0, ,61-51,T. Evbuomwan enters the game for C. Metu,,2,51,61,-10,1338.0
+1:42.0,K. Porziņģis misses free throw 2 of 2,61-51, ,,2,51,61,-10,1338.0
+1:38.0, ,61-51,Defensive rebound by T. Evbuomwan,,2,51,61,-10,1342.0
+1:25.0, ,61-51,E. Fournier misses 3-pt jump shot from 24 ft,,2,51,61,-10,1355.0
+1:24.0,Defensive rebound by O. Brissett,61-51, ,,2,51,61,-10,1356.0
+1:16.0,O. Brissett makes 3-pt jump shot from 26 ft (assist by P. Pritchard),64-51, ,,2,51,64,-13,1364.0
+1:01.0, ,64-51,Turnover by E. Fournier (lost ball; steal by K. Porziņģis),,2,51,64,-13,1379.0
+0:56.0,Shooting foul by T. Evbuomwan (drawn by D. White),64-51, ,,2,51,64,-13,1384.0
+0:56.0,D. White makes free throw 1 of 2,65-51, ,,2,51,65,-14,1384.0
+0:56.0,D. White makes free throw 2 of 2,66-51, ,,2,51,66,-15,1384.0
+0:46.0, ,66-51,Turnover by C. Cunningham (bad pass; steal by K. Porziņģis),,2,51,66,-15,1394.0
+0:41.0,P. Pritchard makes 3-pt jump shot from 23 ft (assist by D. White),69-51, ,,2,51,69,-18,1399.0
+0:31.0, ,69-51,M. Sasser misses 3-pt jump shot from 26 ft,,2,51,69,-18,1409.0
+0:29.0, ,69-51,Offensive rebound by Team,,2,51,69,-18,1411.0
+0:29.0,Loose ball foul by K. Porziņģis (drawn by J. Wiseman),69-51, ,,2,51,69,-18,1411.0
+0:29.0,J. Brown enters the game for K. Porziņģis,69-51, ,,2,51,69,-18,1411.0
+0:29.0,Violation by Team (delay of game),69-51, ,,2,51,69,-18,1411.0
+0:19.0, ,69-53,J. Wiseman makes 2-pt jump shot from 6 ft (assist by C. Cunningham),,2,53,69,-16,1421.0
+0:02.0,S. Hauser misses 3-pt jump shot from 24 ft,69-53, ,,2,53,69,-16,1438.0
+0:02.0,Offensive rebound by Team,69-53, ,,2,53,69,-16,1438.0
+0:00.0,End of 2nd quarter,69-53,,,2,53,69,-16,1440.0
+12:00.0,Start of 3rd quarter,69-53,,,3,53,69,-16,1440.0
+11:43.0,J. Brown misses 3-pt jump shot from 27 ft,69-53, ,,3,53,69,-16,1457.0
+11:42.0, ,69-53,Defensive rebound by J. Ivey,,3,53,69,-16,1458.0
+11:25.0, ,69-55,J. Ivey makes 2-pt jump shot from 8 ft (assist by T. Brown),,3,55,69,-14,1475.0
+11:09.0,K. Porziņģis makes 3-pt jump shot from 28 ft (assist by D. White),72-55, ,,3,55,72,-17,1491.0
+10:51.0, ,72-55,Turnover by J. Wiseman (traveling),,3,55,72,-17,1509.0
+10:29.0,J. Brown makes 2-pt layup from 3 ft (assist by D. White),74-55, ,,3,55,74,-19,1531.0
+10:16.0, ,74-55,T. Evbuomwan misses 3-pt jump shot from 24 ft,,3,55,74,-19,1544.0
+10:15.0,Defensive rebound by P. Pritchard,74-55, ,,3,55,74,-19,1545.0
+10:10.0,P. Pritchard makes 2-pt layup from 3 ft,76-55, ,,3,55,76,-21,1550.0
+9:59.0, ,76-55,J. Ivey misses 3-pt jump shot from 24 ft,,3,55,76,-21,1561.0
+9:57.0,Defensive rebound by Team,76-55, ,,3,55,76,-21,1563.0
+9:49.0,K. Porziņģis misses 3-pt jump shot from 27 ft,76-55, ,,3,55,76,-21,1571.0
+9:48.0, ,76-55,Defensive rebound by T. Evbuomwan,,3,55,76,-21,1572.0
+9:47.0, ,76-55,Personal foul by O. Brissett (drawn by T. Evbuomwan),,3,55,76,-21,1573.0
+9:35.0, ,76-57,J. Ivey makes 2-pt jump shot from 8 ft (assist by J. Wiseman),,3,57,76,-19,1585.0
+9:20.0,Shooting foul by C. Cunningham (drawn by D. White),76-57, ,,3,57,76,-19,1600.0
+9:20.0,D. White makes free throw 1 of 2,77-57, ,,3,57,77,-20,1600.0
+9:20.0,D. White makes free throw 2 of 2,78-57, ,,3,57,78,-21,1600.0
+9:09.0, ,78-57,T. Brown misses 3-pt jump shot from 26 ft,,3,57,78,-21,1611.0
+9:08.0,Defensive rebound by D. White,78-57, ,,3,57,78,-21,1612.0
+8:58.0,K. Porziņģis misses 2-pt jump shot from 7 ft,78-57, ,,3,57,78,-21,1622.0
+8:56.0, ,78-57,Defensive rebound by T. Evbuomwan,,3,57,78,-21,1624.0
+8:50.0, ,78-60,J. Ivey makes 3-pt jump shot from 26 ft (assist by T. Brown),,3,60,78,-18,1630.0
+8:26.0,O. Brissett makes 2-pt dunk from 3 ft (assist by D. White),80-60, ,,3,60,80,-20,1654.0
+8:12.0, ,80-62,C. Cunningham makes 2-pt jump shot from 15 ft,,3,62,80,-18,1668.0
+7:56.0,P. Pritchard makes 2-pt layup from 3 ft (assist by D. White),82-62, ,,3,62,82,-20,1684.0
+7:46.0, ,82-62,J. Ivey misses 2-pt layup from 3 ft,,3,62,82,-20,1694.0
+7:45.0, ,82-62,Offensive rebound by J. Wiseman,,3,62,82,-20,1695.0
+7:44.0, ,82-64,J. Wiseman makes 2-pt dunk from 1 ft,,3,64,82,-18,1696.0
+7:31.0,J. Brown makes 3-pt jump shot from 27 ft (assist by D. White),85-64, ,,3,64,85,-21,1709.0
+7:31.0, ,85-64,Detroit full timeout,,3,64,85,-21,1709.0
+7:31.0, ,85-64,E. Fournier enters the game for T. Brown,,3,64,85,-21,1709.0
+7:16.0, ,85-64,Shooting foul by K. Porziņģis (drawn by J. Wiseman),,3,64,85,-21,1724.0
+7:16.0, ,85-64,J. Wiseman misses free throw 1 of 2,,3,64,85,-21,1724.0
+7:16.0, ,85-64,Offensive rebound by Team,,3,64,85,-21,1724.0
+7:16.0, ,85-64,J. Wiseman misses free throw 2 of 2,,3,64,85,-21,1724.0
+7:14.0,Defensive rebound by K. Porziņģis,85-64, ,,3,64,85,-21,1726.0
+6:58.0,D. White misses 3-pt jump shot from 27 ft,85-64, ,,3,64,85,-21,1742.0
+6:57.0, ,85-64,Defensive rebound by J. Wiseman,,3,64,85,-21,1743.0
+6:46.0, ,85-64,C. Cunningham misses 2-pt jump shot from 17 ft,,3,64,85,-21,1754.0
+6:45.0,Defensive rebound by J. Brown,85-64, ,,3,64,85,-21,1755.0
+6:36.0,J. Brown makes 3-pt jump shot from 28 ft,88-64, ,,3,64,88,-24,1764.0
+6:28.0, ,88-64,Offensive foul by C. Cunningham (drawn by D. White),,3,64,88,-24,1772.0
+6:28.0, ,88-64,Turnover by C. Cunningham (offensive foul),,3,64,88,-24,1772.0
+6:28.0,S. Hauser enters the game for D. White,88-64, ,,3,64,88,-24,1772.0
+6:12.0,K. Porziņģis misses 2-pt layup from 6 ft,88-64, ,,3,64,88,-24,1788.0
+6:11.0,Offensive rebound by K. Porziņģis,88-64, ,,3,64,88,-24,1789.0
+6:10.0,K. Porziņģis makes 2-pt layup at rim,90-64, ,,3,64,90,-26,1790.0
+6:00.0, ,90-64,T. Evbuomwan misses 3-pt jump shot from 24 ft,,3,64,90,-26,1800.0
+5:59.0,Defensive rebound by S. Hauser,90-64, ,,3,64,90,-26,1801.0
+5:51.0,Turnover by J. Brown (lost ball; steal by C. Cunningham),90-64, ,,3,64,90,-26,1809.0
+5:46.0, ,90-66,C. Cunningham makes 2-pt dunk from 3 ft,,3,66,90,-24,1814.0
+5:30.0,K. Porziņģis makes 2-pt jump shot from 14 ft (assist by P. Pritchard),92-66, ,,3,66,92,-26,1830.0
+5:15.0, ,92-69,T. Evbuomwan makes 3-pt jump shot from 23 ft (assist by C. Cunningham),,3,69,92,-23,1845.0
+4:58.0,J. Brown misses 3-pt jump shot from 32 ft,92-69, ,,3,69,92,-23,1862.0
+4:57.0,Offensive rebound by Team,92-69, ,,3,69,92,-23,1863.0
+4:57.0, ,92-69,Loose ball foul by J. Wiseman (drawn by J. Brown),,3,69,92,-23,1863.0
+4:57.0,L. Kornet enters the game for K. Porziņģis,92-69, ,,3,69,92,-23,1863.0
+4:57.0, ,92-69,C. Metu enters the game for J. Wiseman,,3,69,92,-23,1863.0
+4:47.0,P. Pritchard misses 3-pt jump shot from 23 ft,92-69, ,,3,69,92,-23,1873.0
+4:45.0,Offensive rebound by L. Kornet,92-69, ,,3,69,92,-23,1875.0
+4:39.0,L. Kornet misses 2-pt layup at rim,92-69, ,,3,69,92,-23,1881.0
+4:38.0, ,92-69,Defensive rebound by J. Ivey,,3,69,92,-23,1882.0
+4:35.0, ,92-71,J. Ivey makes 2-pt jump shot from 10 ft,,3,71,92,-21,1885.0
+4:31.0,Shooting foul by E. Fournier (drawn by J. Brown),92-71, ,,3,71,92,-21,1889.0
+4:31.0,X. Tillman enters the game for O. Brissett,92-71, ,,3,71,92,-21,1889.0
+4:31.0,J. Brown misses free throw 1 of 2,92-71, ,,3,71,92,-21,1889.0
+4:31.0,Offensive rebound by Team,92-71, ,,3,71,92,-21,1889.0
+4:31.0,J. Brown makes free throw 2 of 2,93-71, ,,3,71,93,-22,1889.0
+4:21.0, ,93-71,Turnover by C. Metu (out of bounds lost ball),,3,71,93,-22,1899.0
+3:59.0,P. Pritchard misses 3-pt jump shot from 27 ft,93-71, ,,3,71,93,-22,1921.0
+3:58.0, ,93-71,Defensive rebound by C. Cunningham,,3,71,93,-22,1922.0
+3:51.0, ,93-71,T. Evbuomwan misses 2-pt layup from 2 ft (block by L. Kornet),,3,71,93,-22,1929.0
+3:50.0, ,93-71,Offensive rebound by Team,,3,71,93,-22,1930.0
+3:50.0, ,93-71,M. Sasser enters the game for C. Cunningham,,3,71,93,-22,1930.0
+3:50.0, ,93-71,Violation by Team (delay of game),,3,71,93,-22,1930.0
+3:39.0, ,93-73,J. Ivey makes 2-pt layup from 4 ft,,3,73,93,-20,1941.0
+3:23.0,Turnover by J. Brown (bad pass),93-73, ,,3,73,93,-20,1957.0
+3:08.0, ,93-75,C. Metu makes 2-pt hook shot from 5 ft (assist by E. Fournier),,3,75,93,-18,1972.0
+2:54.0,J. Brown makes 2-pt layup from 2 ft,95-75, ,,3,75,95,-20,1986.0
+2:54.0,Shooting foul by E. Fournier (drawn by J. Brown),95-75, ,,3,75,95,-20,1986.0
+2:54.0,Boston full timeout,95-75, ,,3,75,95,-20,1986.0
+2:54.0,D. White enters the game for P. Pritchard,95-75, ,,3,75,95,-20,1986.0
+2:54.0,J. Brown makes free throw 1 of 1,96-75, ,,3,75,96,-21,1986.0
+2:43.0, ,96-75,Turnover by C. Metu (lost ball; steal by J. Brown),,3,75,96,-21,1997.0
+2:37.0,J. Brown makes 3-pt jump shot from 26 ft,99-75, ,,3,75,99,-24,2003.0
+2:18.0, ,99-78,T. Evbuomwan makes 3-pt jump shot from 23 ft (assist by M. Sasser),,3,78,99,-21,2022.0
+2:04.0,J. Brown misses 3-pt jump shot from 27 ft,99-78, ,,3,78,99,-21,2036.0
+2:03.0, ,99-78,Defensive rebound by Team,,3,78,99,-21,2037.0
+2:03.0,Loose ball foul by L. Kornet (drawn by T. Evbuomwan),99-78, ,,3,78,99,-21,2037.0
+2:03.0, ,99-78,J. Rhoden enters the game for J. Ivey,,3,78,99,-21,2037.0
+1:51.0, ,99-78,M. Sasser misses 2-pt jump shot from 8 ft,,3,78,99,-21,2049.0
+1:50.0,Defensive rebound by X. Tillman,99-78, ,,3,78,99,-21,2050.0
+1:37.0,D. White misses 2-pt jump shot from 7 ft,99-78, ,,3,78,99,-21,2063.0
+1:36.0,Offensive rebound by X. Tillman,99-78, ,,3,78,99,-21,2064.0
+1:35.0,Turnover by X. Tillman (bad pass; steal by E. Fournier),99-78, ,,3,78,99,-21,2065.0
+1:30.0, ,99-80,T. Evbuomwan makes 2-pt layup from 3 ft (assist by E. Fournier),,3,80,99,-19,2070.0
+1:06.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by L. Kornet),102-80, ,,3,80,102,-22,2094.0
+0:56.0, ,102-80,Personal foul by J. Brown (drawn by M. Sasser),,3,80,102,-22,2104.0
+0:56.0,O. Brissett enters the game for L. Kornet,102-80, ,,3,80,102,-22,2104.0
+0:56.0, ,102-80,J. Wiseman enters the game for T. Evbuomwan,,3,80,102,-22,2104.0
+0:47.0, ,102-83,M. Sasser makes 3-pt jump shot from 26 ft,,3,83,102,-19,2113.0
+0:30.0,Shooting foul by E. Fournier (drawn by J. Brown),102-83, ,,3,83,102,-19,2130.0
+0:30.0,J. Brown makes free throw 1 of 2,103-83, ,,3,83,103,-20,2130.0
+0:30.0,J. Brown makes free throw 2 of 2,104-83, ,,3,83,104,-21,2130.0
+0:21.0, ,104-83,Turnover by J. Wiseman (traveling),,3,83,104,-21,2139.0
+0:21.0,S. Mykhailiuk enters the game for O. Brissett,104-83, ,,3,83,104,-21,2139.0
+0:01.0,S. Hauser misses 3-pt jump shot from 24 ft,104-83, ,,3,83,104,-21,2159.0
+0:00.0, ,104-83,Defensive rebound by C. Metu,,3,83,104,-21,2160.0
+0:00.0,End of 3rd quarter,104-83,,,3,83,104,-21,2160.0
+12:00.0,Start of 4th quarter,104-83,,,4,83,104,-21,2160.0
+11:40.0, ,104-83,C. Metu misses 3-pt jump shot from 24 ft,,4,83,104,-21,2180.0
+11:37.0,Defensive rebound by D. White,104-83, ,,4,83,104,-21,2183.0
+11:34.0,Turnover by D. White (lost ball; steal by J. Rhoden),104-83, ,,4,83,104,-21,2186.0
+11:30.0, ,104-85,J. Rhoden makes 2-pt dunk from 3 ft,,4,85,104,-19,2190.0
+11:14.0,L. Kornet makes 2-pt dunk from 4 ft (assist by D. White),106-85, ,,4,85,106,-21,2206.0
+11:02.0, ,106-85,J. Wiseman misses 2-pt jump shot from 11 ft,,4,85,106,-21,2218.0
+10:59.0,Defensive rebound by P. Pritchard,106-85, ,,4,85,106,-21,2221.0
+10:53.0,D. White misses 3-pt jump shot from 32 ft,106-85, ,,4,85,106,-21,2227.0
+10:49.0, ,106-85,Defensive rebound by C. Metu,,4,85,106,-21,2231.0
+10:36.0, ,106-87,E. Fournier makes 2-pt jump shot from 14 ft,,4,87,106,-19,2244.0
+10:20.0,D. White makes 2-pt jump shot from 16 ft,108-87, ,,4,87,108,-21,2260.0
+10:05.0, ,108-89,E. Fournier makes 2-pt jump shot from 6 ft (assist by J. Wiseman),,4,89,108,-19,2275.0
+9:54.0,Personal foul by M. Sasser (drawn by D. White),108-89, ,,4,89,108,-19,2286.0
+9:54.0,K. Porziņģis enters the game for L. Kornet,108-89, ,,4,89,108,-19,2286.0
+9:39.0,X. Tillman misses 3-pt jump shot from 27 ft,108-89, ,,4,89,108,-19,2301.0
+9:38.0, ,108-89,Defensive rebound by J. Rhoden,,4,89,108,-19,2302.0
+9:23.0, ,108-91,J. Rhoden makes 2-pt jump shot from 13 ft (assist by C. Metu),,4,91,108,-17,2317.0
+9:04.0,P. Pritchard misses 3-pt jump shot from 27 ft,108-91, ,,4,91,108,-17,2336.0
+9:01.0, ,108-91,Defensive rebound by C. Metu,,4,91,108,-17,2339.0
+8:59.0, ,108-91,Turnover by J. Rhoden (out of bounds lost ball),,4,91,108,-17,2341.0
+8:38.0,K. Porziņģis misses 3-pt jump shot from 28 ft,108-91, ,,4,91,108,-17,2362.0
+8:36.0, ,108-91,Defensive rebound by J. Rhoden,,4,91,108,-17,2364.0
+8:28.0, ,108-91,M. Sasser misses 2-pt jump shot from 19 ft,,4,91,108,-17,2372.0
+8:27.0, ,108-91,Offensive rebound by Team,,4,91,108,-17,2373.0
+8:26.0,Loose ball foul by K. Porziņģis (drawn by J. Wiseman),108-91, ,,4,91,108,-17,2374.0
+8:26.0,L. Kornet enters the game for K. Porziņģis,108-91, ,,4,91,108,-17,2374.0
+8:15.0, ,108-93,E. Fournier makes 2-pt jump shot from 7 ft,,4,93,108,-15,2385.0
+7:54.0,D. White makes 3-pt jump shot from 24 ft (assist by P. Pritchard),111-93, ,,4,93,111,-18,2406.0
+7:40.0, ,111-93,E. Fournier misses 3-pt jump shot from 28 ft,,4,93,111,-18,2420.0
+7:39.0,Defensive rebound by S. Mykhailiuk,111-93, ,,4,93,111,-18,2421.0
+7:38.0,Boston full timeout,111-93, ,,4,93,111,-18,2422.0
+7:16.0,P. Pritchard misses 2-pt jump shot from 10 ft,111-93, ,,4,93,111,-18,2444.0
+7:15.0, ,111-93,Defensive rebound by C. Metu,,4,93,111,-18,2445.0
+6:58.0, ,111-93,C. Metu misses 3-pt jump shot from 25 ft,,4,93,111,-18,2462.0
+6:55.0,Defensive rebound by L. Kornet,111-93, ,,4,93,111,-18,2465.0
+6:39.0,D. White misses 2-pt jump shot from 8 ft,111-93, ,,4,93,111,-18,2481.0
+6:37.0, ,111-93,Defensive rebound by J. Rhoden,,4,93,111,-18,2483.0
+6:31.0, ,111-93,Offensive foul by C. Metu (drawn by S. Mykhailiuk),,4,93,111,-18,2489.0
+6:31.0, ,111-93,Turnover by C. Metu (offensive foul),,4,93,111,-18,2489.0
+6:31.0,J. Brown enters the game for S. Mykhailiuk,111-93, ,,4,93,111,-18,2489.0
+6:31.0, ,111-93,C. Cunningham enters the game for E. Fournier,,4,93,111,-18,2489.0
+6:31.0, ,111-93,T. Evbuomwan enters the game for C. Metu,,4,93,111,-18,2489.0
+6:31.0, ,111-93,J. Ivey enters the game for J. Rhoden,,4,93,111,-18,2489.0
+6:15.0,D. White makes 2-pt jump shot from 5 ft (assist by L. Kornet),113-93, ,,4,93,113,-20,2505.0
+6:05.0, ,113-95,J. Wiseman makes 2-pt dunk from 4 ft (assist by M. Sasser),,4,95,113,-18,2515.0
+5:39.0,X. Tillman makes 2-pt layup from 4 ft (assist by D. White),115-95, ,,4,95,115,-20,2541.0
+5:15.0, ,115-97,J. Wiseman makes 2-pt layup from 3 ft (assist by M. Sasser),,4,97,115,-18,2565.0
+4:55.0,J. Brown misses 2-pt jump shot from 14 ft,115-97, ,,4,97,115,-18,2585.0
+4:54.0, ,115-97,Defensive rebound by T. Evbuomwan,,4,97,115,-18,2586.0
+4:52.0, ,115-97,Turnover by T. Evbuomwan (dbl dribble),,4,97,115,-18,2588.0
+4:52.0,O. Brissett enters the game for L. Kornet,115-97, ,,4,97,115,-18,2588.0
+4:52.0,K. Porziņģis enters the game for X. Tillman,115-97, ,,4,97,115,-18,2588.0
+4:36.0,J. Brown misses 3-pt jump shot from 27 ft,115-97, ,,4,97,115,-18,2604.0
+4:35.0, ,115-97,Defensive rebound by C. Cunningham,,4,97,115,-18,2605.0
+4:31.0, ,115-97,C. Cunningham misses 2-pt layup from 3 ft (block by D. White),,4,97,115,-18,2609.0
+4:30.0, ,115-97,Offensive rebound by Team,,4,97,115,-18,2610.0
+4:30.0, ,115-97,Offensive foul by J. Wiseman (drawn by K. Porziņģis),,4,97,115,-18,2610.0
+4:30.0, ,115-97,Turnover by J. Wiseman (offensive foul),,4,97,115,-18,2610.0
+4:11.0,K. Porziņģis makes 2-pt jump shot from 7 ft (assist by D. White),117-97, ,,4,97,117,-20,2629.0
+4:04.0, ,117-97,Personal foul by P. Pritchard (drawn by C. Cunningham),,4,97,117,-20,2636.0
+4:04.0,S. Hauser enters the game for P. Pritchard,117-97, ,,4,97,117,-20,2636.0
+3:53.0, ,117-97,C. Cunningham misses 2-pt jump shot from 6 ft,,4,97,117,-20,2647.0
+3:52.0,Defensive rebound by D. White,117-97, ,,4,97,117,-20,2648.0
+3:31.0,K. Porziņģis makes 2-pt jump shot from 12 ft (assist by D. White),119-97, ,,4,97,119,-22,2669.0
+3:20.0, ,119-97,Turnover by M. Sasser (lost ball; steal by K. Porziņģis),,4,97,119,-22,2680.0
+3:00.0,S. Hauser misses 3-pt jump shot from 27 ft,119-97, ,,4,97,119,-22,2700.0
+2:56.0, ,119-97,Defensive rebound by T. Evbuomwan,,4,97,119,-22,2704.0
+2:50.0, ,119-97,T. Evbuomwan misses 2-pt layup from 3 ft,,4,97,119,-22,2710.0
+2:49.0, ,119-97,Offensive rebound by T. Evbuomwan,,4,97,119,-22,2711.0
+2:48.0, ,119-97,Shooting foul by S. Hauser (drawn by T. Evbuomwan),,4,97,119,-22,2712.0
+2:48.0, ,119-97,Detroit full timeout,,4,97,119,-22,2712.0
+2:48.0,J. Davison enters the game for O. Brissett,119-97, ,,4,97,119,-22,2712.0
+2:48.0,S. Mykhailiuk enters the game for J. Brown,119-97, ,,4,97,119,-22,2712.0
+2:48.0,N. Queta enters the game for S. Hauser,119-97, ,,4,97,119,-22,2712.0
+2:48.0,J. Springer enters the game for K. Porziņģis,119-97, ,,4,97,119,-22,2712.0
+2:48.0,J. Walsh enters the game for D. White,119-97, ,,4,97,119,-22,2712.0
+2:48.0, ,119-97,B. Boeheim enters the game for C. Cunningham,,4,97,119,-22,2712.0
+2:48.0, ,119-97,C. Metu enters the game for J. Ivey,,4,97,119,-22,2712.0
+2:48.0, ,119-97,J. Rhoden enters the game for J. Wiseman,,4,97,119,-22,2712.0
+2:48.0, ,119-97,T. Evbuomwan misses free throw 1 of 2,,4,97,119,-22,2712.0
+2:48.0, ,119-97,Offensive rebound by Team,,4,97,119,-22,2712.0
+2:48.0, ,119-98,T. Evbuomwan makes free throw 2 of 2,,4,98,119,-21,2712.0
+2:33.0,N. Queta makes 2-pt dunk from 5 ft (assist by J. Davison),121-98, ,,4,98,121,-23,2727.0
+2:15.0, ,121-98,Turnover by M. Sasser (bad pass; steal by N. Queta),,4,98,121,-23,2745.0
+2:00.0,Shooting foul by J. Rhoden (drawn by N. Queta),121-98, ,,4,98,121,-23,2760.0
+2:00.0,N. Queta makes free throw 1 of 2,122-98, ,,4,98,122,-24,2760.0
+2:00.0,N. Queta misses free throw 2 of 2,122-98, ,,4,98,122,-24,2760.0
+1:59.0, ,122-98,Defensive rebound by J. Rhoden,,4,98,122,-24,2761.0
+1:42.0, ,122-98,B. Boeheim misses 3-pt jump shot from 27 ft,,4,98,122,-24,2778.0
+1:41.0,Defensive rebound by N. Queta,122-98, ,,4,98,122,-24,2779.0
+1:24.0,J. Walsh makes 2-pt dunk from 3 ft (assist by N. Queta),124-98, ,,4,98,124,-26,2796.0
+1:16.0, ,124-98,Shooting foul by J. Walsh (drawn by T. Evbuomwan),,4,98,124,-26,2804.0
+1:16.0, ,124-99,T. Evbuomwan makes free throw 1 of 2,,4,99,124,-25,2804.0
+1:16.0, ,124-100,T. Evbuomwan makes free throw 2 of 2,,4,100,124,-24,2804.0
+0:57.0,J. Davison makes 3-pt jump shot from 28 ft (assist by N. Queta),127-100, ,,4,100,127,-27,2823.0
+0:32.0, ,127-102,T. Evbuomwan makes 2-pt layup from 3 ft (assist by M. Sasser),,4,102,127,-25,2848.0
+0:11.0,J. Walsh misses 3-pt jump shot from 24 ft,127-102, ,,4,102,127,-25,2869.0
+0:10.0,Offensive rebound by N. Queta,127-102, ,,4,102,127,-25,2870.0
+0:10.0,N. Queta makes 2-pt dunk from 3 ft,129-102, ,,4,102,129,-27,2870.0
+0:00.0,End of 4th quarter,129-102,,,4,102,129,-27,2880.0

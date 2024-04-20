@@ -1,0 +1,460 @@
+Time,Minnesota,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: R. Gobert vs. J. Duren (J. Duren gains possession),0-0,,,1,0,0,0,0.0
+11:43.0, ,0-0,J. Duren misses 2-pt jump shot from 10 ft,,1,0,0,0,17.0
+11:42.0,Defensive rebound by K. Towns,0-0, ,,1,0,0,0,18.0
+11:40.0,Turnover by A. Edwards (lost ball; steal by J. Ivey),0-0, ,,1,0,0,0,20.0
+11:34.0, ,0-2,B. Bogdanović makes 2-pt layup from 3 ft (assist by J. Ivey),,1,2,0,2,26.0
+11:18.0,R. Gobert makes 2-pt dunk from 1 ft (assist by K. Towns),2-2, ,Tie,1,2,2,0,42.0
+11:01.0, ,2-4,J. Duren makes 2-pt layup from 3 ft (assist by B. Bogdanović),,1,4,2,2,59.0
+10:47.0,M. Conley misses 3-pt jump shot from 25 ft,2-4, ,,1,4,2,2,73.0
+10:45.0,Offensive rebound by J. McDaniels,2-4, ,,1,4,2,2,75.0
+10:43.0,J. McDaniels makes 2-pt hook shot from 6 ft,4-4, ,Tie,1,4,4,0,77.0
+10:26.0, ,4-6,J. Ivey makes 2-pt jump shot from 15 ft,,1,6,4,2,94.0
+10:11.0,J. McDaniels misses 3-pt jump shot from 23 ft,4-6, ,,1,6,4,2,109.0
+10:10.0, ,4-6,Defensive rebound by I. Stewart,,1,6,4,2,110.0
+9:54.0, ,4-6,I. Stewart misses 3-pt jump shot from 25 ft,,1,6,4,2,126.0
+9:52.0,Defensive rebound by R. Gobert,4-6, ,,1,6,4,2,128.0
+9:39.0,J. McDaniels makes 2-pt jump shot from 4 ft (assist by A. Edwards),6-6, ,Tie,1,6,6,0,141.0
+9:21.0, ,6-6,I. Stewart misses 3-pt jump shot from 24 ft,,1,6,6,0,159.0
+9:18.0,Defensive rebound by A. Edwards,6-6, ,,1,6,6,0,162.0
+9:06.0,A. Edwards misses 2-pt layup from 1 ft,6-6, ,,1,6,6,0,174.0
+9:02.0,Offensive rebound by R. Gobert,6-6, ,,1,6,6,0,178.0
+9:01.0,R. Gobert makes 2-pt layup from 2 ft,8-6, ,Lead change,1,6,8,-2,179.0
+8:47.0, ,8-8,K. Hayes makes 2-pt jump shot from 10 ft,Tie,1,8,8,0,193.0
+8:34.0,K. Towns misses 2-pt jump shot from 6 ft (block by I. Stewart),8-8, ,,1,8,8,0,206.0
+8:32.0, ,8-8,Defensive rebound by J. Duren,,1,8,8,0,208.0
+8:24.0, ,8-10,J. Duren makes 2-pt layup from 3 ft (assist by K. Hayes),Lead change,1,10,8,2,216.0
+8:12.0,A. Edwards makes 2-pt layup from 2 ft,10-10, ,Tie,1,10,10,0,228.0
+8:00.0, ,10-10,J. Ivey misses 2-pt jump shot from 11 ft,,1,10,10,0,240.0
+7:58.0,Defensive rebound by R. Gobert,10-10, ,,1,10,10,0,242.0
+7:49.0,A. Edwards makes 2-pt jump shot from 9 ft,12-10, ,Lead change,1,10,12,-2,251.0
+7:49.0,Shooting foul by K. Hayes (drawn by A. Edwards),12-10, ,,1,10,12,-2,251.0
+7:49.0,A. Edwards makes free throw 1 of 1,13-10, ,,1,10,13,-3,251.0
+7:41.0, ,13-13,I. Stewart makes 3-pt jump shot from 28 ft (assist by K. Hayes),Tie,1,13,13,0,259.0
+7:27.0,Shooting foul by J. Ivey (drawn by R. Gobert),13-13, ,,1,13,13,0,273.0
+7:27.0,R. Gobert makes free throw 1 of 2,14-13, ,,1,13,14,-1,273.0
+7:27.0,R. Gobert makes free throw 2 of 2,15-13, ,,1,13,15,-2,273.0
+7:16.0, ,15-15,K. Hayes makes 2-pt jump shot from 13 ft (assist by I. Stewart),Tie,1,15,15,0,284.0
+7:02.0,R. Gobert misses 2-pt layup from 3 ft,15-15, ,,1,15,15,0,298.0
+7:01.0,Offensive rebound by R. Gobert,15-15, ,,1,15,15,0,299.0
+7:00.0,R. Gobert makes 2-pt dunk from 1 ft,17-15, ,,1,15,17,-2,300.0
+6:52.0, ,17-17,J. Ivey makes 2-pt layup from 3 ft (assist by K. Hayes),Tie,1,17,17,0,308.0
+6:41.0,Def 3 sec tech foul by Team,17-17, ,,1,17,17,0,319.0
+6:41.0, ,17-17,Detroit full timeout,,1,17,17,0,319.0
+6:41.0,M. Conley misses technical free throw,17-17, ,,1,17,17,0,319.0
+6:41.0,Offensive rebound by Team,17-17, ,,1,17,17,0,319.0
+6:32.0,A. Edwards misses 2-pt layup from 10 ft (block by I. Stewart),17-17, ,,1,17,17,0,328.0
+6:32.0,Offensive rebound by Team,17-17, ,,1,17,17,0,328.0
+6:28.0,K. Towns makes 2-pt hook shot from 6 ft (assist by A. Edwards),19-17, ,,1,17,19,-2,332.0
+6:11.0, ,19-20,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by J. Ivey),Lead change,1,20,19,1,349.0
+5:58.0,K. Towns makes 3-pt jump shot from 25 ft (assist by M. Conley),22-20, ,Lead change,1,20,22,-2,362.0
+5:44.0, ,22-20,Turnover by B. Bogdanović (traveling),,1,20,22,-2,376.0
+5:31.0,K. Towns makes 3-pt jump shot from 27 ft (assist by A. Edwards),25-20, ,,1,20,25,-5,389.0
+5:17.0, ,25-22,J. Duren makes 2-pt dunk from 2 ft (assist by J. Ivey),,1,22,25,-3,403.0
+5:01.0,R. Gobert makes 2-pt dunk from 1 ft (assist by M. Conley),27-22, ,,1,22,27,-5,419.0
+4:45.0, ,27-24,B. Bogdanović makes 2-pt layup from 3 ft (assist by K. Hayes),,1,24,27,-3,435.0
+4:32.0,K. Towns misses 2-pt jump shot from 16 ft,27-24, ,,1,24,27,-3,448.0
+4:30.0,Offensive rebound by R. Gobert,27-24, ,,1,24,27,-3,450.0
+4:29.0,R. Gobert misses 2-pt layup from 2 ft,27-24, ,,1,24,27,-3,451.0
+4:28.0, ,27-24,Defensive rebound by J. Duren,,1,24,27,-3,452.0
+4:21.0, ,27-26,I. Stewart makes 2-pt dunk from 3 ft (assist by J. Ivey),,1,26,27,-1,459.0
+4:21.0,Minnesota full timeout,27-26, ,,1,26,27,-1,459.0
+4:21.0,K. Anderson enters the game for M. Conley,27-26, ,,1,26,27,-1,459.0
+4:21.0,N. Reid enters the game for K. Towns,27-26, ,,1,26,27,-1,459.0
+4:21.0, ,27-26,A. Burks enters the game for B. Bogdanović,,1,26,27,-1,459.0
+4:21.0, ,27-26,K. Knox enters the game for J. Ivey,,1,26,27,-1,459.0
+4:21.0, ,27-26,A. Thompson enters the game for I. Stewart,,1,26,27,-1,459.0
+4:10.0,A. Edwards makes 2-pt dunk from 2 ft (assist by N. Reid),29-26, ,,1,26,29,-3,470.0
+3:52.0, ,29-28,A. Burks makes 2-pt jump shot from 13 ft (assist by J. Duren),,1,28,29,-1,488.0
+3:33.0,Shooting foul by K. Knox (drawn by A. Edwards),29-28, ,,1,28,29,-1,507.0
+3:33.0,A. Edwards makes free throw 1 of 2,30-28, ,,1,28,30,-2,507.0
+3:33.0,N. Alexander-Walker enters the game for J. McDaniels,30-28, ,,1,28,30,-2,507.0
+3:33.0, ,30-28,M. Sasser enters the game for K. Hayes,,1,28,30,-2,507.0
+3:33.0,A. Edwards makes free throw 2 of 2,31-28, ,,1,28,31,-3,507.0
+3:19.0, ,31-28,Shooting foul by A. Edwards (drawn by A. Burks),,1,28,31,-3,521.0
+3:19.0, ,31-29,A. Burks makes free throw 1 of 2,,1,29,31,-2,521.0
+3:19.0, ,31-30,A. Burks makes free throw 2 of 2,,1,30,31,-1,521.0
+2:59.0,Turnover by K. Anderson (out of bounds lost ball),31-30, ,,1,30,31,-1,541.0
+2:59.0, ,31-30,M. Muscala enters the game for J. Duren,,1,30,31,-1,541.0
+2:48.0, ,31-30,A. Thompson misses 2-pt layup from 5 ft (block by K. Anderson),,1,30,31,-1,552.0
+2:47.0,Defensive rebound by K. Anderson,31-30, ,,1,30,31,-1,553.0
+2:35.0,R. Gobert makes 2-pt layup from 1 ft (assist by K. Anderson),33-30, ,,1,30,33,-3,565.0
+2:26.0, ,33-33,K. Knox makes 3-pt jump shot from 26 ft (assist by M. Muscala),Tie,1,33,33,0,574.0
+2:12.0,K. Anderson misses 2-pt jump shot from 6 ft,33-33, ,,1,33,33,0,588.0
+2:08.0, ,33-33,Defensive rebound by M. Muscala,,1,33,33,0,592.0
+2:05.0, ,33-33,Shooting foul by N. Alexander-Walker (drawn by A. Thompson),,1,33,33,0,595.0
+2:05.0, ,33-33,A. Thompson misses free throw 1 of 2,,1,33,33,0,595.0
+2:05.0, ,33-33,Offensive rebound by Team,,1,33,33,0,595.0
+2:05.0,K. Towns enters the game for R. Gobert,33-33, ,,1,33,33,0,595.0
+2:05.0, ,33-33,A. Thompson misses free throw 2 of 2,,1,33,33,0,595.0
+2:02.0,Defensive rebound by N. Reid,33-33, ,,1,33,33,0,598.0
+1:49.0,A. Edwards makes 2-pt layup from 2 ft,35-33, ,,1,33,35,-2,611.0
+1:47.0,Technical foul by A. Edwards,35-33, ,,1,33,35,-2,613.0
+1:47.0, ,35-34,A. Burks makes technical free throw,,1,34,35,-1,613.0
+1:36.0, ,35-34,A. Burks misses 3-pt jump shot from 27 ft,,1,34,35,-1,624.0
+1:32.0, ,35-34,Offensive rebound by A. Thompson,,1,34,35,-1,628.0
+1:19.0, ,35-36,M. Sasser makes 2-pt jump shot from 2 ft (assist by K. Knox),Lead change,1,36,35,1,641.0
+1:03.0,K. Anderson makes 2-pt layup from 3 ft (assist by K. Towns),37-36, ,Lead change,1,36,37,-1,657.0
+0:53.0, ,37-36,M. Muscala misses 3-pt jump shot from 27 ft,,1,36,37,-1,667.0
+0:50.0,Defensive rebound by A. Edwards,37-36, ,,1,36,37,-1,670.0
+0:45.0,N. Reid makes 2-pt layup from 2 ft (assist by A. Edwards),39-36, ,,1,36,39,-3,675.0
+0:36.0, ,39-36,Shooting foul by K. Anderson (drawn by A. Burks),,1,36,39,-3,684.0
+0:36.0, ,39-37,A. Burks makes free throw 1 of 2,,1,37,39,-2,684.0
+0:36.0, ,39-38,A. Burks makes free throw 2 of 2,,1,38,39,-1,684.0
+0:27.0,A. Edwards misses 2-pt jump shot from 13 ft,39-38, ,,1,38,39,-1,693.0
+0:26.0, ,39-38,Defensive rebound by M. Sasser,,1,38,39,-1,694.0
+0:08.0, ,39-38,A. Burks misses 2-pt jump shot from 16 ft,,1,38,39,-1,712.0
+0:07.0, ,39-38,Offensive rebound by A. Thompson,,1,38,39,-1,713.0
+0:06.0, ,39-40,A. Thompson makes 2-pt layup at rim,Lead change,1,40,39,1,714.0
+0:06.0, ,39-40,Shooting foul by A. Edwards (drawn by A. Thompson),,1,40,39,1,714.0
+0:06.0, ,39-40,K. Hayes enters the game for M. Muscala,,1,40,39,1,714.0
+0:06.0, ,39-40,I. Stewart enters the game for M. Sasser,,1,40,39,1,714.0
+0:06.0, ,39-40,A. Thompson misses free throw 1 of 1,,1,40,39,1,714.0
+0:04.0,Defensive rebound by N. Reid,39-40, ,,1,40,39,1,716.0
+0:00.0,End of 1st quarter,39-40,,,1,40,39,1,720.0
+12:00.0,Start of 2nd quarter,39-40,,,2,40,39,1,720.0
+11:49.0,Turnover by N. Reid (lost ball; steal by A. Burks),39-40, ,,2,40,39,1,731.0
+11:45.0, ,39-40,Turnover by M. Sasser (lost ball; steal by K. Anderson),,2,40,39,1,735.0
+11:36.0,K. Towns misses 2-pt hook shot from 2 ft,39-40, ,,2,40,39,1,744.0
+11:34.0, ,39-40,Defensive rebound by A. Thompson,,2,40,39,1,746.0
+11:24.0, ,39-42,A. Thompson makes 2-pt dunk from 2 ft (assist by M. Sasser),,2,42,39,3,756.0
+11:01.0,J. McLaughlin misses 2-pt layup from 3 ft,39-42, ,,2,42,39,3,779.0
+11:00.0, ,39-42,Defensive rebound by K. Knox,,2,42,39,3,780.0
+10:53.0, ,39-42,K. Knox misses 3-pt jump shot from 25 ft,,2,42,39,3,787.0
+10:51.0,Defensive rebound by K. Towns,39-42, ,,2,42,39,3,789.0
+10:46.0,Personal foul by K. Knox (drawn by K. Towns),39-42, ,,2,42,39,3,794.0
+10:40.0,K. Towns makes 3-pt jump shot from 24 ft (assist by K. Anderson),42-42, ,Tie,2,42,42,0,800.0
+10:26.0, ,42-44,A. Thompson makes 2-pt layup from 2 ft (assist by M. Sasser),,2,44,42,2,814.0
+10:11.0,K. Towns makes 2-pt layup from 2 ft (assist by K. Anderson),44-44, ,Tie,2,44,44,0,829.0
+10:00.0, ,44-44,A. Burks misses 3-pt jump shot from 26 ft,,2,44,44,0,840.0
+9:57.0,Defensive rebound by N. Reid,44-44, ,,2,44,44,0,843.0
+9:50.0,Personal foul by A. Burks (drawn by K. Towns),44-44, ,,2,44,44,0,850.0
+9:50.0, ,44-44,I. Stewart enters the game for M. Muscala,,2,44,44,0,850.0
+9:43.0,K. Towns makes 2-pt layup from 2 ft (assist by K. Anderson),46-44, ,Lead change,2,44,46,-2,857.0
+9:43.0, ,46-44,Detroit full timeout,,2,44,46,-2,857.0
+9:32.0, ,46-44,A. Burks misses 3-pt jump shot from 25 ft,,2,44,46,-2,868.0
+9:29.0,Defensive rebound by J. McLaughlin,46-44, ,,2,44,46,-2,871.0
+9:19.0,N. Reid misses 2-pt layup from 6 ft,46-44, ,,2,44,46,-2,881.0
+9:17.0, ,46-44,Defensive rebound by A. Thompson,,2,44,46,-2,883.0
+9:17.0, ,46-44,Offensive foul by M. Sasser (drawn by J. McLaughlin),,2,44,46,-2,883.0
+9:17.0, ,46-44,Turnover by M. Sasser (offensive foul),,2,44,46,-2,883.0
+8:58.0,K. Towns misses 2-pt layup from 2 ft,46-44, ,,2,44,46,-2,902.0
+8:57.0, ,46-44,Defensive rebound by A. Thompson,,2,44,46,-2,903.0
+8:51.0, ,46-44,I. Stewart misses 2-pt layup from 2 ft,,2,44,46,-2,909.0
+8:50.0,Defensive rebound by N. Reid,46-44, ,,2,44,46,-2,910.0
+8:45.0,K. Towns misses 2-pt layup from 7 ft (block by A. Thompson),46-44, ,,2,44,46,-2,915.0
+8:45.0,Offensive rebound by Team,46-44, ,,2,44,46,-2,915.0
+8:45.0, ,46-44,B. Bogdanović enters the game for K. Knox,,2,44,46,-2,915.0
+8:35.0,N. Alexander-Walker misses 3-pt jump shot from 25 ft,46-44, ,,2,44,46,-2,925.0
+8:31.0,Offensive rebound by K. Towns,46-44, ,,2,44,46,-2,929.0
+8:28.0,N. Alexander-Walker misses 2-pt jump shot from 6 ft,46-44, ,,2,44,46,-2,932.0
+8:25.0, ,46-44,Defensive rebound by I. Stewart,,2,44,46,-2,935.0
+8:17.0, ,46-44,B. Bogdanović misses 2-pt jump shot from 12 ft,,2,44,46,-2,943.0
+8:16.0,Defensive rebound by K. Anderson,46-44, ,,2,44,46,-2,944.0
+8:08.0,N. Reid makes 2-pt hook shot from 9 ft (assist by K. Anderson),48-44, ,,2,44,48,-4,952.0
+7:40.0, ,48-44,M. Sasser misses 2-pt jump shot from 19 ft,,2,44,48,-4,980.0
+7:38.0,Defensive rebound by J. McLaughlin,48-44, ,,2,44,48,-4,982.0
+7:28.0,Shooting foul by M. Sasser (drawn by N. Reid),48-44, ,,2,44,48,-4,992.0
+7:28.0,N. Reid misses free throw 1 of 2,48-44, ,,2,44,48,-4,992.0
+7:28.0,Offensive rebound by Team,48-44, ,,2,44,48,-4,992.0
+7:28.0,M. Conley enters the game for N. Alexander-Walker,48-44, ,,2,44,48,-4,992.0
+7:28.0,R. Gobert enters the game for K. Anderson,48-44, ,,2,44,48,-4,992.0
+7:28.0,J. McDaniels enters the game for K. Towns,48-44, ,,2,44,48,-4,992.0
+7:28.0, ,48-44,J. Duren enters the game for A. Burks,,2,44,48,-4,992.0
+7:28.0, ,48-44,K. Hayes enters the game for M. Sasser,,2,44,48,-4,992.0
+7:28.0, ,48-44,J. Ivey enters the game for A. Thompson,,2,44,48,-4,992.0
+7:28.0,N. Reid makes free throw 2 of 2,49-44, ,,2,44,49,-5,992.0
+7:14.0, ,49-47,J. Ivey makes 3-pt jump shot from 27 ft (assist by K. Hayes),,2,47,49,-2,1006.0
+6:56.0,M. Conley misses 3-pt jump shot from 27 ft,49-47, ,,2,47,49,-2,1024.0
+6:53.0, ,49-47,Defensive rebound by J. Duren,,2,47,49,-2,1027.0
+6:49.0, ,49-47,J. Ivey misses 3-pt jump shot from 26 ft,,2,47,49,-2,1031.0
+6:46.0, ,49-47,Offensive rebound by Team,,2,47,49,-2,1034.0
+6:46.0,Loose ball foul by J. McLaughlin (drawn by B. Bogdanović),49-47, ,,2,47,49,-2,1034.0
+6:46.0, ,49-47,K. Knox enters the game for I. Stewart,,2,47,49,-2,1034.0
+6:39.0, ,49-49,J. Duren makes 2-pt layup from 1 ft (assist by K. Hayes),Tie,2,49,49,0,1041.0
+6:15.0,M. Conley misses 3-pt jump shot from 26 ft,49-49, ,,2,49,49,0,1065.0
+6:13.0, ,49-49,Defensive rebound by J. Duren,,2,49,49,0,1067.0
+6:04.0, ,49-51,J. Ivey makes 2-pt jump shot from 10 ft,Lead change,2,51,49,2,1076.0
+5:55.0,M. Conley misses 2-pt jump shot from 9 ft (block by B. Bogdanović),49-51, ,,2,51,49,2,1085.0
+5:55.0, ,49-51,Defensive rebound by J. Duren,,2,51,49,2,1085.0
+5:45.0, ,49-51,B. Bogdanović misses 3-pt jump shot from 24 ft,,2,51,49,2,1095.0
+5:42.0,Defensive rebound by J. McDaniels,49-51, ,,2,51,49,2,1098.0
+5:34.0,J. McDaniels makes 2-pt layup from 5 ft,51-51, ,Tie,2,51,51,0,1106.0
+5:24.0, ,51-51,J. Ivey misses 2-pt layup from 3 ft,,2,51,51,0,1116.0
+5:22.0,Defensive rebound by R. Gobert,51-51, ,,2,51,51,0,1118.0
+5:10.0,N. Reid misses 3-pt jump shot from 25 ft,51-51, ,,2,51,51,0,1130.0
+5:08.0, ,51-51,Defensive rebound by B. Bogdanović,,2,51,51,0,1132.0
+4:54.0, ,51-51,Turnover by K. Knox (lost ball; steal by M. Conley),,2,51,51,0,1146.0
+4:49.0,N. Reid misses 2-pt layup from 2 ft,51-51, ,,2,51,51,0,1151.0
+4:48.0,Offensive rebound by R. Gobert,51-51, ,,2,51,51,0,1152.0
+4:48.0,Shooting foul by K. Hayes (drawn by R. Gobert),51-51, ,,2,51,51,0,1152.0
+4:48.0,R. Gobert misses free throw 1 of 2,51-51, ,,2,51,51,0,1152.0
+4:48.0,Offensive rebound by Team,51-51, ,,2,51,51,0,1152.0
+4:48.0,A. Edwards enters the game for J. McLaughlin,51-51, ,,2,51,51,0,1152.0
+4:48.0,R. Gobert makes free throw 2 of 2,52-51, ,Lead change,2,51,52,-1,1152.0
+4:36.0, ,52-51,J. Duren misses 2-pt hook shot from 4 ft,,2,51,52,-1,1164.0
+4:34.0,Defensive rebound by A. Edwards,52-51, ,,2,51,52,-1,1166.0
+4:22.0,A. Edwards misses 3-pt jump shot from 25 ft,52-51, ,,2,51,52,-1,1178.0
+4:20.0, ,52-51,Defensive rebound by J. Ivey,,2,51,52,-1,1180.0
+4:08.0, ,52-51,B. Bogdanović misses 3-pt jump shot from 25 ft,,2,51,52,-1,1192.0
+4:05.0,Defensive rebound by A. Edwards,52-51, ,,2,51,52,-1,1195.0
+3:55.0,J. McDaniels makes 3-pt jump shot from 23 ft,55-51, ,,2,51,55,-4,1205.0
+3:34.0, ,55-51,Turnover by J. Duren (lost ball; steal by N. Reid),,2,51,55,-4,1226.0
+3:29.0,Minnesota full timeout,55-51, ,,2,51,55,-4,1231.0
+3:29.0,K. Towns enters the game for N. Reid,55-51, ,,2,51,55,-4,1231.0
+3:29.0, ,55-51,I. Stewart enters the game for K. Knox,,2,51,55,-4,1231.0
+3:22.0,Turnover by R. Gobert (lost ball; steal by I. Stewart),55-51, ,,2,51,55,-4,1238.0
+3:17.0, ,55-51,J. Ivey misses 2-pt layup from 3 ft,,2,51,55,-4,1243.0
+3:14.0, ,55-51,Offensive rebound by J. Duren,,2,51,55,-4,1246.0
+3:13.0, ,55-51,J. Duren misses 2-pt layup from 2 ft,,2,51,55,-4,1247.0
+3:12.0, ,55-51,Offensive rebound by I. Stewart,,2,51,55,-4,1248.0
+3:10.0, ,55-53,J. Ivey makes 2-pt jump shot from 1 ft (assist by I. Stewart),,2,53,55,-2,1250.0
+2:58.0,A. Edwards makes 2-pt layup from 5 ft,57-53, ,,2,53,57,-4,1262.0
+2:58.0,Shooting foul by J. Duren (drawn by A. Edwards),57-53, ,,2,53,57,-4,1262.0
+2:58.0,A. Edwards makes free throw 1 of 1,58-53, ,,2,53,58,-5,1262.0
+2:35.0, ,58-53,J. Duren misses 2-pt jump shot from 19 ft,,2,53,58,-5,1285.0
+2:33.0, ,58-53,Offensive rebound by J. Duren,,2,53,58,-5,1287.0
+2:31.0, ,58-55,J. Duren makes 2-pt jump shot from 5 ft,,2,55,58,-3,1289.0
+2:11.0,M. Conley makes 2-pt jump shot from 10 ft (assist by A. Edwards),60-55, ,,2,55,60,-5,1309.0
+1:55.0, ,60-55,I. Stewart misses 3-pt jump shot from 23 ft,,2,55,60,-5,1325.0
+1:52.0,Defensive rebound by M. Conley,60-55, ,,2,55,60,-5,1328.0
+1:43.0,R. Gobert makes 2-pt layup from 4 ft (assist by A. Edwards),62-55, ,,2,55,62,-7,1337.0
+1:27.0, ,62-58,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by K. Hayes),,2,58,62,-4,1353.0
+1:04.0,Personal foul by J. Ivey (drawn by J. McDaniels),62-58, ,,2,58,62,-4,1376.0
+1:04.0,J. McDaniels makes free throw 1 of 2,63-58, ,,2,58,63,-5,1376.0
+1:04.0,J. McDaniels makes free throw 2 of 2,64-58, ,,2,58,64,-6,1376.0
+0:42.0, ,64-58,I. Stewart misses 2-pt jump shot from 6 ft,,2,58,64,-6,1398.0
+0:40.0,Defensive rebound by R. Gobert,64-58, ,,2,58,64,-6,1400.0
+0:37.0,A. Edwards makes 3-pt jump shot from 28 ft,67-58, ,,2,58,67,-9,1403.0
+0:32.0, ,67-60,B. Bogdanović makes 2-pt layup from 2 ft,,2,60,67,-7,1408.0
+0:17.0,J. McDaniels makes 3-pt jump shot from 23 ft (assist by R. Gobert),70-60, ,,2,60,70,-10,1423.0
+0:00.0, ,70-62,J. Ivey makes 2-pt jump shot from 10 ft,,2,62,70,-8,1440.0
+0:00.0,End of 2nd quarter,70-62,,,2,62,70,-8,1440.0
+12:00.0,Start of 3rd quarter,70-62,,,3,62,70,-8,1440.0
+11:44.0,R. Gobert makes 2-pt layup from 2 ft (assist by A. Edwards),72-62, ,,3,62,72,-10,1456.0
+11:24.0, ,72-64,K. Hayes makes 2-pt jump shot from 11 ft (assist by J. Duren),,3,64,72,-8,1476.0
+11:12.0,J. McDaniels misses 2-pt dunk from 3 ft,72-64, ,,3,64,72,-8,1488.0
+11:12.0,Offensive rebound by Team,72-64, ,,3,64,72,-8,1488.0
+11:12.0, ,72-64,Loose ball foul by J. Duren (drawn by R. Gobert),,3,64,72,-8,1488.0
+10:59.0,A. Edwards misses 2-pt jump shot from 16 ft,72-64, ,,3,64,72,-8,1501.0
+10:57.0, ,72-64,Defensive rebound by B. Bogdanović,,3,64,72,-8,1503.0
+10:38.0, ,72-64,B. Bogdanović misses 3-pt jump shot from 31 ft,,3,64,72,-8,1522.0
+10:34.0,Defensive rebound by R. Gobert,72-64, ,,3,64,72,-8,1526.0
+10:24.0,Personal foul by K. Hayes (drawn by R. Gobert),72-64, ,,3,64,72,-8,1536.0
+10:10.0,A. Edwards misses 3-pt jump shot from 28 ft,72-64, ,,3,64,72,-8,1550.0
+10:10.0,Offensive rebound by Team,72-64, ,,3,64,72,-8,1550.0
+10:10.0,Turnover by Team (shot clock),72-64, ,,3,64,72,-8,1550.0
+9:59.0, ,72-64,J. Ivey misses 2-pt layup from 4 ft (block by R. Gobert),,3,64,72,-8,1561.0
+9:56.0,Defensive rebound by K. Towns,72-64, ,,3,64,72,-8,1564.0
+9:49.0,J. McDaniels misses 2-pt jump shot from 10 ft,72-64, ,,3,64,72,-8,1571.0
+9:46.0, ,72-64,Defensive rebound by J. Duren,,3,64,72,-8,1574.0
+9:41.0, ,72-64,Shooting foul by R. Gobert (drawn by B. Bogdanović),,3,64,72,-8,1579.0
+9:41.0, ,72-64,B. Bogdanović misses free throw 1 of 2,,3,64,72,-8,1579.0
+9:41.0, ,72-64,Offensive rebound by Team,,3,64,72,-8,1579.0
+9:41.0, ,72-65,B. Bogdanović makes free throw 2 of 2,,3,65,72,-7,1579.0
+9:29.0,A. Edwards misses 2-pt layup from 3 ft,72-65, ,,3,65,72,-7,1591.0
+9:28.0, ,72-65,Defensive rebound by J. Duren,,3,65,72,-7,1592.0
+9:17.0, ,72-65,Shooting foul by A. Edwards (drawn by I. Stewart),,3,65,72,-7,1603.0
+9:17.0, ,72-66,I. Stewart makes free throw 1 of 2,,3,66,72,-6,1603.0
+9:17.0, ,72-67,I. Stewart makes free throw 2 of 2,,3,67,72,-5,1603.0
+8:59.0,M. Conley makes 3-pt jump shot from 27 ft (assist by K. Towns),75-67, ,,3,67,75,-8,1621.0
+8:45.0, ,75-67,Offensive foul by J. Duren (drawn by M. Conley),,3,67,75,-8,1635.0
+8:45.0, ,75-67,Turnover by J. Duren (offensive foul),,3,67,75,-8,1635.0
+8:45.0, ,75-67,A. Thompson enters the game for K. Hayes,,3,67,75,-8,1635.0
+8:35.0,K. Towns makes 3-pt jump shot from 26 ft (assist by M. Conley),78-67, ,,3,67,78,-11,1645.0
+8:34.0, ,78-67,Detroit full timeout,,3,67,78,-11,1646.0
+8:20.0, ,78-69,J. Duren makes 2-pt hook shot from 5 ft (assist by J. Ivey),,3,69,78,-9,1660.0
+8:20.0,Violation by Team (def goaltending),78-69, ,,3,69,78,-9,1660.0
+8:08.0,A. Edwards makes 3-pt jump shot from 26 ft (assist by M. Conley),81-69, ,,3,69,81,-12,1672.0
+7:47.0, ,81-69,Turnover by I. Stewart (3 sec),,3,69,81,-12,1693.0
+7:32.0,R. Gobert misses 2-pt hook shot from 7 ft,81-69, ,,3,69,81,-12,1708.0
+7:30.0, ,81-69,Defensive rebound by A. Thompson,,3,69,81,-12,1710.0
+7:22.0, ,81-72,I. Stewart makes 3-pt jump shot from 23 ft (assist by J. Duren),,3,72,81,-9,1718.0
+6:59.0,K. Towns makes 2-pt layup from 4 ft (assist by M. Conley),83-72, ,,3,72,83,-11,1741.0
+6:52.0, ,83-72,Turnover by J. Ivey (bad pass; steal by J. McDaniels),,3,72,83,-11,1748.0
+6:50.0,Shooting foul by J. Duren (drawn by K. Towns),83-72, ,,3,72,83,-11,1750.0
+6:50.0,K. Towns makes free throw 1 of 2,84-72, ,,3,72,84,-12,1750.0
+6:50.0,N. Alexander-Walker enters the game for M. Conley,84-72, ,,3,72,84,-12,1750.0
+6:50.0, ,84-72,M. Muscala enters the game for J. Duren,,3,72,84,-12,1750.0
+6:50.0,K. Towns makes free throw 2 of 2,85-72, ,,3,72,85,-13,1750.0
+6:29.0, ,85-74,J. Ivey makes 2-pt layup from 2 ft,,3,74,85,-11,1771.0
+6:12.0,A. Edwards misses 2-pt jump shot from 11 ft,85-74, ,,3,74,85,-11,1788.0
+6:08.0, ,85-74,Defensive rebound by J. Ivey,,3,74,85,-11,1792.0
+6:06.0, ,85-77,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by J. Ivey),,3,77,85,-8,1794.0
+5:43.0,J. McDaniels makes 2-pt layup from 2 ft,87-77, ,,3,77,87,-10,1817.0
+5:29.0, ,87-77,Shooting foul by K. Towns (drawn by J. Ivey),,3,77,87,-10,1831.0
+5:29.0, ,87-78,J. Ivey makes free throw 1 of 2,,3,78,87,-9,1831.0
+5:29.0,N. Reid enters the game for R. Gobert,87-78, ,,3,78,87,-9,1831.0
+5:29.0, ,87-79,J. Ivey makes free throw 2 of 2,,3,79,87,-8,1831.0
+5:17.0,N. Reid misses 3-pt jump shot from 26 ft,87-79, ,,3,79,87,-8,1843.0
+5:15.0, ,87-79,Defensive rebound by I. Stewart,,3,79,87,-8,1845.0
+5:03.0, ,87-79,A. Thompson misses 3-pt jump shot from 23 ft,,3,79,87,-8,1857.0
+4:58.0,Defensive rebound by A. Edwards,87-79, ,,3,79,87,-8,1862.0
+4:51.0,K. Towns misses 2-pt dunk from 3 ft (block by I. Stewart),87-79, ,,3,79,87,-8,1869.0
+4:48.0, ,87-79,Defensive rebound by M. Muscala,,3,79,87,-8,1872.0
+4:46.0, ,87-79,Shooting foul by N. Alexander-Walker (drawn by A. Thompson),,3,79,87,-8,1874.0
+4:46.0, ,87-79,A. Thompson misses free throw 1 of 2,,3,79,87,-8,1874.0
+4:46.0, ,87-79,Offensive rebound by Team,,3,79,87,-8,1874.0
+4:46.0,K. Anderson enters the game for J. McDaniels,87-79, ,,3,79,87,-8,1874.0
+4:46.0, ,87-79,A. Burks enters the game for B. Bogdanović,,3,79,87,-8,1874.0
+4:46.0, ,87-80,A. Thompson makes free throw 2 of 2,,3,80,87,-7,1874.0
+4:37.0,A. Edwards misses 3-pt jump shot from 26 ft,87-80, ,,3,80,87,-7,1883.0
+4:34.0,Offensive rebound by K. Towns,87-80, ,,3,80,87,-7,1886.0
+4:22.0,K. Towns makes 2-pt hook shot from 4 ft,89-80, ,,3,80,89,-9,1898.0
+4:05.0, ,89-82,J. Ivey makes 2-pt layup from 2 ft,,3,82,89,-7,1915.0
+3:53.0,A. Edwards makes 2-pt layup from 2 ft (assist by K. Towns),91-82, ,,3,82,91,-9,1927.0
+3:35.0, ,91-82,Turnover by I. Stewart (bad pass; steal by N. Alexander-Walker),,3,82,91,-9,1945.0
+3:29.0,Offensive foul by K. Towns (drawn by M. Muscala),91-82, ,,3,82,91,-9,1951.0
+3:29.0,Turnover by K. Towns (offensive foul),91-82, ,,3,82,91,-9,1951.0
+3:16.0, ,91-85,A. Burks makes 3-pt jump shot from 26 ft,,3,85,91,-6,1964.0
+2:58.0,A. Edwards misses 2-pt layup from 4 ft (block by M. Muscala),91-85, ,,3,85,91,-6,1982.0
+2:55.0, ,91-85,Defensive rebound by A. Thompson,,3,85,91,-6,1985.0
+2:52.0, ,91-88,J. Ivey makes 3-pt jump shot from 25 ft (assist by A. Thompson),,3,88,91,-3,1988.0
+2:52.0,Minnesota full timeout,91-88, ,,3,88,91,-3,1988.0
+2:52.0,R. Gobert enters the game for K. Towns,91-88, ,,3,88,91,-3,1988.0
+2:52.0, ,91-88,K. Knox enters the game for I. Stewart,,3,88,91,-3,1988.0
+2:33.0,N. Alexander-Walker makes 2-pt layup from 5 ft (assist by K. Anderson),93-88, ,,3,88,93,-5,2007.0
+2:16.0, ,93-90,A. Burks makes 2-pt jump shot from 16 ft (assist by K. Knox),,3,90,93,-3,2024.0
+2:01.0,K. Anderson misses 2-pt jump shot from 5 ft,93-90, ,,3,90,93,-3,2039.0
+1:59.0,Offensive rebound by R. Gobert,93-90, ,,3,90,93,-3,2041.0
+1:50.0,N. Reid misses 2-pt layup from 5 ft (block by M. Muscala),93-90, ,,3,90,93,-3,2050.0
+1:49.0,Offensive rebound by Team,93-90, ,,3,90,93,-3,2051.0
+1:49.0,Turnover by Team (shot clock),93-90, ,,3,90,93,-3,2051.0
+1:49.0, ,93-90,M. Sasser enters the game for J. Ivey,,3,90,93,-3,2051.0
+1:32.0, ,93-90,A. Thompson misses 3-pt jump shot from 23 ft,,3,90,93,-3,2068.0
+1:31.0, ,93-90,Offensive rebound by M. Muscala,,3,90,93,-3,2069.0
+1:31.0, ,93-90,M. Sasser misses 3-pt jump shot from 25 ft,,3,90,93,-3,2069.0
+1:30.0,Defensive rebound by Team,93-90, ,,3,90,93,-3,2070.0
+1:19.0, ,93-90,Violation by Team (kicked ball),,3,90,93,-3,2081.0
+1:10.0,N. Alexander-Walker makes 2-pt jump shot from 5 ft (assist by K. Anderson),95-90, ,,3,90,95,-5,2090.0
+0:57.0, ,95-90,Turnover by M. Sasser (bad pass; steal by N. Reid),,3,90,95,-5,2103.0
+0:53.0,Turnover by A. Edwards (out of bounds lost ball),95-90, ,,3,90,95,-5,2107.0
+0:37.0, ,95-90,A. Burks misses 2-pt jump shot from 23 ft,,3,90,95,-5,2123.0
+0:35.0,Defensive rebound by R. Gobert,95-90, ,,3,90,95,-5,2125.0
+0:22.0,A. Edwards makes 3-pt jump shot from 27 ft,98-90, ,,3,90,98,-8,2138.0
+0:01.0, ,98-90,Turnover by M. Sasser (lost ball; steal by N. Reid),,3,90,98,-8,2159.0
+0:01.0,A. Edwards misses 2-pt jump shot from 17 ft,98-90, ,,3,90,98,-8,2159.0
+0:01.0,Offensive rebound by Team,98-90, ,,3,90,98,-8,2159.0
+0:00.0,End of 3rd quarter,98-90,,,3,90,98,-8,2160.0
+12:00.0,Start of 4th quarter,98-90,,,4,90,98,-8,2160.0
+11:45.0, ,98-92,K. Knox makes 2-pt jump shot from 9 ft (assist by M. Muscala),,4,92,98,-6,2175.0
+11:25.0,N. Alexander-Walker makes 3-pt jump shot from 27 ft (assist by K. Anderson),101-92, ,,4,92,101,-9,2195.0
+11:01.0, ,101-92,M. Muscala misses 3-pt jump shot from 27 ft,,4,92,101,-9,2219.0
+11:00.0,Defensive rebound by Team,101-92, ,,4,92,101,-9,2220.0
+11:00.0, ,101-92,K. Hayes enters the game for A. Thompson,,4,92,101,-9,2220.0
+10:49.0,M. Conley makes 3-pt jump shot from 25 ft (assist by R. Gobert),104-92, ,,4,92,104,-12,2231.0
+10:29.0, ,104-92,M. Muscala misses 3-pt jump shot from 24 ft,,4,92,104,-12,2251.0
+10:23.0,Defensive rebound by R. Gobert,104-92, ,,4,92,104,-12,2257.0
+10:16.0,K. Anderson makes 2-pt layup from 4 ft (assist by M. Conley),106-92, ,,4,92,106,-14,2264.0
+10:16.0, ,106-92,Detroit full timeout,,4,92,106,-14,2264.0
+10:16.0, ,106-92,J. Duren enters the game for M. Muscala,,4,92,106,-14,2264.0
+10:16.0, ,106-92,J. Ivey enters the game for M. Sasser,,4,92,106,-14,2264.0
+10:02.0, ,106-92,J. Ivey misses 2-pt jump shot from 13 ft (block by N. Alexander-Walker),,4,92,106,-14,2278.0
+9:59.0,Defensive rebound by M. Conley,106-92, ,,4,92,106,-14,2281.0
+9:51.0,N. Reid makes 3-pt jump shot from 26 ft (assist by N. Alexander-Walker),109-92, ,,4,92,109,-17,2289.0
+9:34.0, ,109-92,A. Burks misses 2-pt jump shot from 12 ft (block by K. Anderson),,4,92,109,-17,2306.0
+9:31.0, ,109-92,Offensive rebound by A. Burks,,4,92,109,-17,2309.0
+9:31.0, ,109-94,J. Duren makes 2-pt layup from 1 ft (assist by A. Burks),,4,94,109,-15,2309.0
+9:31.0, ,109-94,Shooting foul by R. Gobert (drawn by J. Duren),,4,94,109,-15,2309.0
+9:31.0, ,109-94,B. Bogdanović enters the game for K. Knox,,4,94,109,-15,2309.0
+9:31.0, ,109-94,J. Duren misses free throw 1 of 1,,4,94,109,-15,2309.0
+9:29.0,Defensive rebound by K. Anderson,109-94, ,,4,94,109,-15,2311.0
+9:15.0,N. Reid misses 3-pt jump shot from 27 ft,109-94, ,,4,94,109,-15,2325.0
+9:10.0, ,109-94,Defensive rebound by K. Hayes,,4,94,109,-15,2330.0
+8:59.0, ,109-94,Personal foul by K. Anderson (drawn by K. Hayes),,4,94,109,-15,2341.0
+8:49.0, ,109-96,J. Ivey makes 2-pt jump shot from 19 ft,,4,96,109,-13,2351.0
+8:27.0,K. Anderson misses 2-pt jump shot from 17 ft,109-96, ,,4,96,109,-13,2373.0
+8:23.0, ,109-96,Defensive rebound by B. Bogdanović,,4,96,109,-13,2377.0
+8:17.0, ,109-96,Personal foul by R. Gobert (drawn by B. Bogdanović),,4,96,109,-13,2383.0
+8:17.0,J. McDaniels enters the game for N. Reid,109-96, ,,4,96,109,-13,2383.0
+8:05.0, ,109-98,K. Hayes makes 2-pt jump shot from 7 ft,,4,98,109,-11,2395.0
+7:47.0,Turnover by M. Conley (bad pass; steal by A. Burks),109-98, ,,4,98,109,-11,2413.0
+7:33.0, ,109-98,A. Burks misses 2-pt jump shot from 21 ft,,4,98,109,-11,2427.0
+7:33.0,Defensive rebound by Team,109-98, ,,4,98,109,-11,2427.0
+7:33.0,Minnesota full timeout,109-98, ,,4,98,109,-11,2427.0
+7:33.0,Instant Replay (Challenge: Ruling Stands),109-98, ,,4,98,109,-11,2427.0
+7:33.0,Jump ball: R. Gobert vs. J. Duren (J. McDaniels gains possession),109-98,,,4,98,109,-11,2427.0
+7:17.0,M. Conley misses 3-pt jump shot from 25 ft,109-98, ,,4,98,109,-11,2443.0
+7:13.0, ,109-98,Defensive rebound by J. Ivey,,4,98,109,-11,2447.0
+7:09.0, ,109-100,J. Ivey makes 2-pt layup from 1 ft,,4,100,109,-9,2451.0
+6:48.0,R. Gobert makes 2-pt layup from 2 ft (assist by K. Anderson),111-100, ,,4,100,111,-11,2472.0
+6:27.0, ,111-100,J. Duren misses 2-pt dunk from 2 ft,,4,100,111,-11,2493.0
+6:25.0,Defensive rebound by M. Conley,111-100, ,,4,100,111,-11,2495.0
+6:22.0,J. McDaniels makes 2-pt layup from 2 ft,113-100, ,,4,100,113,-13,2498.0
+5:58.0, ,113-102,B. Bogdanović makes 2-pt jump shot from 10 ft,,4,102,113,-11,2522.0
+5:48.0,Shooting foul by B. Bogdanović (drawn by J. McDaniels),113-102, ,,4,102,113,-11,2532.0
+5:48.0,J. McDaniels makes free throw 1 of 2,114-102, ,,4,102,114,-12,2532.0
+5:48.0,A. Edwards enters the game for N. Alexander-Walker,114-102, ,,4,102,114,-12,2532.0
+5:48.0,K. Towns enters the game for M. Conley,114-102, ,,4,102,114,-12,2532.0
+5:48.0, ,114-102,I. Stewart enters the game for A. Burks,,4,102,114,-12,2532.0
+5:48.0,J. McDaniels makes free throw 2 of 2,115-102, ,,4,102,115,-13,2532.0
+5:36.0, ,115-104,J. Duren makes 2-pt jump shot from 7 ft (assist by K. Hayes),,4,104,115,-11,2544.0
+5:13.0,K. Anderson misses 2-pt jump shot from 11 ft,115-104, ,,4,104,115,-11,2567.0
+5:11.0, ,115-104,Defensive rebound by J. Duren,,4,104,115,-11,2569.0
+5:08.0, ,115-104,Offensive foul by J. Ivey (drawn by R. Gobert),,4,104,115,-11,2572.0
+5:08.0, ,115-104,Turnover by J. Ivey (offensive foul),,4,104,115,-11,2572.0
+4:52.0,K. Towns misses 2-pt layup from 4 ft,115-104, ,,4,104,115,-11,2588.0
+4:50.0, ,115-104,Defensive rebound by J. Duren,,4,104,115,-11,2590.0
+4:48.0, ,115-106,I. Stewart makes 2-pt layup from 1 ft (assist by B. Bogdanović),,4,106,115,-9,2592.0
+4:34.0, ,115-106,Detroit full timeout,,4,106,115,-9,2606.0
+4:34.0, ,115-106,Instant Replay (Challenge: Ruling Stands),,4,106,115,-9,2606.0
+4:34.0,Turnover by A. Edwards (out of bounds lost ball),115-106, ,,4,106,115,-9,2606.0
+4:34.0,N. Alexander-Walker enters the game for K. Towns,115-106, ,,4,106,115,-9,2606.0
+4:34.0, ,115-106,K. Knox enters the game for I. Stewart,,4,106,115,-9,2606.0
+4:22.0, ,115-106,B. Bogdanović misses 3-pt jump shot from 25 ft,,4,106,115,-9,2618.0
+4:19.0,Defensive rebound by R. Gobert,115-106, ,,4,106,115,-9,2621.0
+4:03.0,A. Edwards misses 2-pt jump shot from 14 ft,115-106, ,,4,106,115,-9,2637.0
+4:01.0, ,115-106,Defensive rebound by B. Bogdanović,,4,106,115,-9,2639.0
+3:56.0, ,115-109,J. Ivey makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,4,109,115,-6,2644.0
+3:56.0,Minnesota full timeout,115-109, ,,4,109,115,-6,2644.0
+3:56.0,M. Conley enters the game for N. Alexander-Walker,115-109, ,,4,109,115,-6,2644.0
+3:56.0,K. Towns enters the game for K. Anderson,115-109, ,,4,109,115,-6,2644.0
+3:56.0, ,115-109,A. Thompson enters the game for K. Hayes,,4,109,115,-6,2644.0
+3:38.0,J. McDaniels makes 3-pt jump shot from 24 ft (assist by M. Conley),118-109, ,,4,109,118,-9,2662.0
+3:22.0, ,118-109,J. Ivey misses 2-pt layup from 5 ft (block by M. Conley),,4,109,118,-9,2678.0
+3:19.0, ,118-109,Offensive rebound by A. Thompson,,4,109,118,-9,2681.0
+3:09.0, ,118-109,J. Ivey misses 3-pt jump shot from 25 ft,,4,109,118,-9,2691.0
+3:05.0,Defensive rebound by R. Gobert,118-109, ,,4,109,118,-9,2695.0
+2:49.0,K. Towns makes 3-pt jump shot from 28 ft (assist by A. Edwards),121-109, ,,4,109,121,-12,2711.0
+2:30.0, ,121-109,J. Duren misses 2-pt hook shot from 2 ft,,4,109,121,-12,2730.0
+2:28.0,Defensive rebound by R. Gobert,121-109, ,,4,109,121,-12,2732.0
+2:13.0,A. Edwards makes 2-pt layup from 2 ft,123-109, ,,4,109,123,-14,2747.0
+2:13.0, ,123-109,Detroit full timeout,,4,109,123,-14,2747.0
+2:02.0, ,123-109,Shooting foul by R. Gobert (drawn by B. Bogdanović),,4,109,123,-14,2758.0
+2:02.0, ,123-110,B. Bogdanović makes free throw 1 of 2,,4,110,123,-13,2758.0
+2:02.0, ,123-111,B. Bogdanović makes free throw 2 of 2,,4,111,123,-12,2758.0
+1:46.0,A. Edwards misses 3-pt jump shot from 25 ft,123-111, ,,4,111,123,-12,2774.0
+1:44.0,Offensive rebound by J. McDaniels,123-111, ,,4,111,123,-12,2776.0
+1:44.0,Turnover by J. McDaniels (step out of bounds),123-111, ,,4,111,123,-12,2776.0
+1:44.0, ,123-111,A. Burks enters the game for A. Thompson,,4,111,123,-12,2776.0
+1:33.0, ,123-111,J. Ivey misses 2-pt jump shot from 14 ft,,4,111,123,-12,2787.0
+1:31.0,Defensive rebound by R. Gobert,123-111, ,,4,111,123,-12,2789.0
+1:19.0,A. Edwards misses 3-pt jump shot from 24 ft,123-111, ,,4,111,123,-12,2801.0
+1:16.0, ,123-111,Defensive rebound by B. Bogdanović,,4,111,123,-12,2804.0
+1:11.0, ,123-111,B. Bogdanović misses 2-pt jump shot from 7 ft,,4,111,123,-12,2809.0
+1:08.0,Defensive rebound by K. Towns,123-111, ,,4,111,123,-12,2812.0
+1:07.0,Minnesota full timeout,123-111, ,,4,111,123,-12,2813.0
+1:07.0,N. Alexander-Walker enters the game for M. Conley,123-111, ,,4,111,123,-12,2813.0
+1:07.0,T. Brown enters the game for A. Edwards,123-111, ,,4,111,123,-12,2813.0
+1:07.0,J. McLaughlin enters the game for R. Gobert,123-111, ,,4,111,123,-12,2813.0
+1:07.0,S. Milton enters the game for J. McDaniels,123-111, ,,4,111,123,-12,2813.0
+1:07.0,N. Reid enters the game for K. Towns,123-111, ,,4,111,123,-12,2813.0
+1:07.0, ,123-111,A. Thompson enters the game for A. Burks,,4,111,123,-12,2813.0
+0:57.0,Shooting foul by B. Bogdanović (drawn by N. Reid),123-111, ,,4,111,123,-12,2823.0
+0:57.0,N. Reid misses free throw 1 of 2,123-111, ,,4,111,123,-12,2823.0
+0:57.0,Offensive rebound by Team,123-111, ,,4,111,123,-12,2823.0
+0:57.0, ,123-111,M. Muscala enters the game for B. Bogdanović,,4,111,123,-12,2823.0
+0:57.0, ,123-111,M. Sasser enters the game for J. Duren,,4,111,123,-12,2823.0
+0:57.0,N. Reid makes free throw 2 of 2,124-111, ,,4,111,124,-13,2823.0
+0:40.0, ,124-114,M. Sasser makes 3-pt jump shot from 24 ft,,4,114,124,-10,2840.0
+0:22.0,N. Alexander-Walker misses 3-pt jump shot from 24 ft,124-114, ,,4,114,124,-10,2858.0
+0:18.0, ,124-114,Defensive rebound by J. Ivey,,4,114,124,-10,2862.0
+0:14.0, ,124-117,J. Ivey makes 3-pt jump shot from 25 ft,,4,117,124,-7,2866.0
+0:08.0,Personal foul by J. Ivey (drawn by J. McLaughlin),124-117, ,,4,117,124,-7,2872.0
+0:08.0,J. McLaughlin misses free throw 1 of 2,124-117, ,,4,117,124,-7,2872.0
+0:08.0,Offensive rebound by Team,124-117, ,,4,117,124,-7,2872.0
+0:08.0,J. McLaughlin misses free throw 2 of 2,124-117, ,,4,117,124,-7,2872.0
+0:05.0, ,124-117,Defensive rebound by A. Thompson,,4,117,124,-7,2875.0
+0:01.0, ,124-117,M. Muscala misses 2-pt jump shot from 7 ft,,4,117,124,-7,2879.0
+0:00.0,Defensive rebound by Team,124-117, ,,4,117,124,-7,2880.0
+0:00.0,End of 4th quarter,124-117,,,4,117,124,-7,2880.0

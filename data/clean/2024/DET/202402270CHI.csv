@@ -1,0 +1,451 @@
+Time,Detroit,Score,Chicago,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Duren vs. N. Vučević (C. Cunningham gains possession),0-0,,,1,0,0,0,0.0
+11:42.0,C. Cunningham makes 2-pt jump shot from 14 ft (assist by J. Duren),2-0, ,,1,2,0,2,18.0
+11:23.0, ,2-0,N. Vučević misses 3-pt jump shot from 26 ft,,1,2,0,2,37.0
+11:21.0,Defensive rebound by A. Thompson,2-0, ,,1,2,0,2,39.0
+11:14.0,I. Stewart makes 2-pt layup at rim (assist by J. Duren),4-0, ,,1,4,0,4,46.0
+10:59.0, ,4-0,Personal foul by I. Stewart (drawn by D. DeRozan),,1,4,0,4,61.0
+10:52.0, ,4-0,Turnover by A. Dosunmu (discontinued dribble),,1,4,0,4,68.0
+10:52.0,Turnover by J. Ivey (bad pass; steal by A. Caruso),4-0, ,,1,4,0,4,68.0
+10:50.0, ,4-2,A. Caruso makes 2-pt dunk at rim,,1,4,2,2,70.0
+10:22.0,I. Stewart misses 3-pt jump shot from 25 ft,4-2, ,,1,4,2,2,98.0
+10:19.0, ,4-2,Defensive rebound by A. Dosunmu,,1,4,2,2,101.0
+10:10.0, ,4-2,A. Caruso misses 3-pt jump shot from 24 ft,,1,4,2,2,110.0
+10:07.0,Defensive rebound by I. Stewart,4-2, ,,1,4,2,2,113.0
+9:58.0,C. Cunningham makes 2-pt jump shot from 20 ft,6-2, ,,1,6,2,4,122.0
+9:35.0, ,6-4,N. Vučević makes 2-pt hook shot from 7 ft,,1,6,4,2,145.0
+9:27.0,Offensive foul by J. Duren (drawn by A. Caruso),6-4, ,,1,6,4,2,153.0
+9:27.0,Turnover by J. Duren (offensive foul),6-4, ,,1,6,4,2,153.0
+9:19.0, ,6-6,N. Vučević makes 2-pt jump shot from 16 ft (assist by C. White),Tie,1,6,6,0,161.0
+8:56.0,Personal foul by A. Caruso (drawn by I. Stewart),6-6, ,,1,6,6,0,184.0
+8:48.0,J. Duren makes 2-pt layup from 1 ft (assist by C. Cunningham),8-6, ,,1,8,6,2,192.0
+8:28.0, ,8-6,C. White misses 2-pt layup from 6 ft (block by I. Stewart),,1,8,6,2,212.0
+8:26.0, ,8-6,Offensive rebound by A. Caruso,,1,8,6,2,214.0
+8:23.0, ,8-6,Turnover by A. Caruso (bad pass; steal by J. Duren),,1,8,6,2,217.0
+8:12.0,I. Stewart misses 3-pt jump shot from 23 ft,8-6, ,,1,8,6,2,228.0
+8:08.0, ,8-6,Defensive rebound by A. Caruso,,1,8,6,2,232.0
+7:53.0, ,8-6,Personal foul by J. Duren (drawn by N. Vučević),,1,8,6,2,247.0
+7:53.0,J. Wiseman enters the game for J. Duren,8-6, ,,1,8,6,2,247.0
+7:53.0, ,8-6,T. Taylor enters the game for A. Caruso,,1,8,6,2,247.0
+7:46.0, ,8-8,N. Vučević makes 2-pt jump shot from 6 ft (assist by A. Dosunmu),Tie,1,8,8,0,254.0
+7:30.0,Turnover by A. Thompson (bad pass; steal by A. Dosunmu),8-8, ,,1,8,8,0,270.0
+7:20.0, ,8-8,A. Dosunmu misses 2-pt jump shot from 10 ft,,1,8,8,0,280.0
+7:18.0,Defensive rebound by J. Wiseman,8-8, ,,1,8,8,0,282.0
+7:13.0,A. Thompson makes 2-pt dunk from 1 ft (assist by J. Ivey),10-8, ,,1,10,8,2,287.0
+6:57.0, ,10-8,A. Dosunmu misses 3-pt jump shot from 24 ft,,1,10,8,2,303.0
+6:54.0,Defensive rebound by J. Wiseman,10-8, ,,1,10,8,2,306.0
+6:44.0,J. Ivey misses 3-pt jump shot from 25 ft,10-8, ,,1,10,8,2,316.0
+6:43.0, ,10-8,Defensive rebound by N. Vučević,,1,10,8,2,317.0
+6:26.0, ,10-8,Turnover by A. Dosunmu (step out of bounds),,1,10,8,2,334.0
+6:26.0, ,10-8,Chicago full timeout,,1,10,8,2,334.0
+6:19.0,A. Thompson makes 2-pt layup from 1 ft (assist by J. Ivey),12-8, ,,1,12,8,4,341.0
+6:04.0, ,12-8,N. Vučević misses 2-pt jump shot from 15 ft,,1,12,8,4,356.0
+6:02.0,Defensive rebound by A. Thompson,12-8, ,,1,12,8,4,358.0
+5:53.0,Personal foul by T. Taylor (drawn by I. Stewart),12-8, ,,1,12,8,4,367.0
+5:53.0, ,12-8,A. Drummond enters the game for D. DeRozan,,1,12,8,4,367.0
+5:53.0, ,12-8,D. Terry enters the game for T. Taylor,,1,12,8,4,367.0
+5:48.0,I. Stewart misses 3-pt jump shot from 26 ft,12-8, ,,1,12,8,4,372.0
+5:45.0, ,12-8,Defensive rebound by Team,,1,12,8,4,375.0
+5:45.0,Jump ball: A. Drummond vs. J. Wiseman (C. White gains possession),12-8,,,1,12,8,4,375.0
+5:30.0, ,12-8,A. Drummond misses 2-pt hook shot from 5 ft,,1,12,8,4,390.0
+5:28.0,Defensive rebound by I. Stewart,12-8, ,,1,12,8,4,392.0
+5:15.0,J. Wiseman makes 2-pt layup from 2 ft (assist by J. Ivey),14-8, ,,1,14,8,6,405.0
+5:06.0, ,14-8,Personal foul by A. Thompson (drawn by C. White),,1,14,8,6,414.0
+4:58.0, ,14-10,A. Dosunmu makes 2-pt layup from 1 ft,,1,14,10,4,422.0
+4:38.0,C. Cunningham misses 2-pt jump shot from 5 ft,14-10, ,,1,14,10,4,442.0
+4:35.0, ,14-10,Defensive rebound by N. Vučević,,1,14,10,4,445.0
+4:23.0, ,14-10,C. White misses 3-pt jump shot from 26 ft,,1,14,10,4,457.0
+4:22.0, ,14-10,Offensive rebound by A. Drummond,,1,14,10,4,458.0
+4:21.0, ,14-10,Shooting foul by I. Stewart (drawn by A. Drummond),,1,14,10,4,459.0
+4:21.0, ,14-11,A. Drummond makes free throw 1 of 2,,1,14,11,3,459.0
+4:21.0,S. Fontecchio enters the game for J. Ivey,14-11, ,,1,14,11,3,459.0
+4:21.0,Q. Grimes enters the game for I. Stewart,14-11, ,,1,14,11,3,459.0
+4:21.0, ,14-12,A. Drummond makes free throw 2 of 2,,1,14,12,2,459.0
+3:57.0,Q. Grimes misses 3-pt jump shot from 24 ft,14-12, ,,1,14,12,2,483.0
+3:54.0,Offensive rebound by C. Cunningham,14-12, ,,1,14,12,2,486.0
+3:49.0,Q. Grimes misses 3-pt jump shot from 25 ft,14-12, ,,1,14,12,2,491.0
+3:49.0, ,14-12,Defensive rebound by Team,,1,14,12,2,491.0
+3:49.0, ,14-12,D. DeRozan enters the game for C. White,,1,14,12,2,491.0
+3:26.0, ,14-14,N. Vučević makes 2-pt layup from 2 ft (assist by D. Terry),Tie,1,14,14,0,514.0
+3:16.0,S. Fontecchio makes 3-pt jump shot from 22 ft (assist by Q. Grimes),17-14, ,,1,17,14,3,524.0
+3:05.0, ,17-14,D. Terry misses 3-pt jump shot from 25 ft,,1,17,14,3,535.0
+2:59.0, ,17-14,Offensive rebound by A. Drummond,,1,17,14,3,541.0
+2:59.0, ,17-16,A. Drummond makes 2-pt layup at rim,,1,17,16,1,541.0
+2:44.0,A. Thompson misses 2-pt jump shot from 17 ft,17-16, ,,1,17,16,1,556.0
+2:43.0,Offensive rebound by Team,17-16, ,,1,17,16,1,557.0
+2:43.0,Detroit full timeout,17-16, ,,1,17,16,1,557.0
+2:43.0,M. Flynn enters the game for C. Cunningham,17-16, ,,1,17,16,1,557.0
+2:43.0, ,17-16,A. Caruso enters the game for N. Vučević,,1,17,16,1,557.0
+2:43.0, ,17-16,Violation by Team (kicked ball),,1,17,16,1,557.0
+2:27.0,S. Fontecchio misses 2-pt hook shot from 2 ft,17-16, ,,1,17,16,1,573.0
+2:25.0, ,17-16,Defensive rebound by A. Drummond,,1,17,16,1,575.0
+2:16.0, ,17-18,D. DeRozan makes 2-pt jump shot from 22 ft,Lead change,1,17,18,-1,584.0
+2:06.0,Turnover by Q. Grimes (lost ball; steal by D. Terry),17-18, ,,1,17,18,-1,594.0
+1:56.0, ,17-20,D. DeRozan makes 2-pt jump shot from 14 ft,,1,17,20,-3,604.0
+1:56.0, ,17-20,Shooting foul by Q. Grimes (drawn by D. DeRozan),,1,17,20,-3,604.0
+1:56.0,E. Fournier enters the game for A. Thompson,17-20, ,,1,17,20,-3,604.0
+1:56.0, ,17-20,C. White enters the game for A. Dosunmu,,1,17,20,-3,604.0
+1:56.0, ,17-21,D. DeRozan makes free throw 1 of 1,,1,17,21,-4,604.0
+1:51.0,Q. Grimes misses 3-pt jump shot from 26 ft,17-21, ,,1,17,21,-4,609.0
+1:46.0, ,17-21,Defensive rebound by A. Drummond,,1,17,21,-4,614.0
+1:41.0, ,17-23,D. DeRozan makes 2-pt jump shot from 15 ft,,1,17,23,-6,619.0
+1:28.0,M. Flynn misses 2-pt jump shot from 9 ft,17-23, ,,1,17,23,-6,632.0
+1:28.0,Offensive rebound by Team,17-23, ,,1,17,23,-6,632.0
+1:13.0,E. Fournier misses 2-pt jump shot from 7 ft (block by A. Drummond),17-23, ,,1,17,23,-6,647.0
+1:11.0, ,17-23,Defensive rebound by D. DeRozan,,1,17,23,-6,649.0
+1:02.0, ,17-25,A. Drummond makes 2-pt dunk from 1 ft (assist by D. Terry),,1,17,25,-8,658.0
+0:47.0,M. Flynn makes 2-pt jump shot from 20 ft,19-25, ,,1,19,25,-6,673.0
+0:32.0, ,19-27,D. DeRozan makes 2-pt layup from 2 ft,,1,19,27,-8,688.0
+0:19.0,M. Flynn makes 3-pt jump shot from 27 ft,22-27, ,,1,22,27,-5,701.0
+0:01.0, ,22-29,A. Drummond makes 2-pt dunk from 1 ft (assist by A. Caruso),,1,22,29,-7,719.0
+0:00.0,End of 1st quarter,22-29,,,1,22,29,-7,720.0
+12:00.0,Start of 2nd quarter,22-29,,,2,22,29,-7,720.0
+11:37.0, ,22-31,A. Drummond makes 2-pt hook shot from 6 ft (assist by C. White),,2,22,31,-9,743.0
+11:19.0,J. Wiseman misses 2-pt jump shot from 11 ft,22-31, ,,2,22,31,-9,761.0
+11:17.0, ,22-31,Defensive rebound by C. White,,2,22,31,-9,763.0
+11:13.0, ,22-31,C. White misses 3-pt jump shot from 29 ft,,2,22,31,-9,767.0
+11:11.0,Defensive rebound by M. Flynn,22-31, ,,2,22,31,-9,769.0
+11:03.0,E. Fournier misses 3-pt jump shot from 26 ft,22-31, ,,2,22,31,-9,777.0
+11:01.0, ,22-31,Defensive rebound by Team,,2,22,31,-9,779.0
+11:01.0,Loose ball foul by J. Wiseman (drawn by A. Drummond),22-31, ,,2,22,31,-9,779.0
+10:48.0, ,22-33,D. DeRozan makes 2-pt jump shot from 18 ft (assist by J. Carter),,2,22,33,-11,792.0
+10:33.0,Turnover by M. Flynn (bad pass; steal by D. DeRozan),22-33, ,,2,22,33,-11,807.0
+10:17.0, ,22-33,A. Caruso misses 3-pt jump shot from 24 ft,,2,22,33,-11,823.0
+10:15.0,Defensive rebound by J. Wiseman,22-33, ,,2,22,33,-11,825.0
+10:04.0,S. Fontecchio makes 3-pt jump shot from 24 ft (assist by M. Flynn),25-33, ,,2,25,33,-8,836.0
+9:51.0, ,25-33,Shooting foul by J. Wiseman (drawn by C. White),,2,25,33,-8,849.0
+9:51.0, ,25-34,C. White makes free throw 1 of 2,,2,25,34,-9,849.0
+9:51.0,J. Duren enters the game for Q. Grimes,25-34, ,,2,25,34,-9,849.0
+9:51.0,J. Ivey enters the game for J. Wiseman,25-34, ,,2,25,34,-9,849.0
+9:51.0, ,25-34,C. White misses free throw 2 of 2,,2,25,34,-9,849.0
+9:49.0,Defensive rebound by J. Duren,25-34, ,,2,25,34,-9,851.0
+9:33.0,Turnover by J. Ivey (lost ball; steal by A. Caruso),25-34, ,,2,25,34,-9,867.0
+9:31.0, ,25-36,A. Caruso makes 2-pt dunk at rim,,2,25,36,-11,869.0
+9:31.0,Detroit full timeout,25-36, ,,2,25,36,-11,869.0
+9:31.0, ,25-36,A. Dosunmu enters the game for D. DeRozan,,2,25,36,-11,869.0
+9:22.0,J. Duren makes 2-pt dunk from 1 ft,27-36, ,,2,27,36,-9,878.0
+9:10.0, ,27-36,A. Dosunmu misses 2-pt layup from 3 ft (block by E. Fournier),,2,27,36,-9,890.0
+9:10.0, ,27-36,Offensive rebound by Team,,2,27,36,-9,890.0
+9:02.0, ,27-36,A. Dosunmu misses 3-pt jump shot from 23 ft,,2,27,36,-9,898.0
+8:59.0,Defensive rebound by J. Duren,27-36, ,,2,27,36,-9,901.0
+8:56.0,Turnover by J. Duren (bad pass),27-36, ,,2,27,36,-9,904.0
+8:42.0, ,27-36,A. Dosunmu misses 2-pt dunk from 2 ft (block by J. Duren),,2,27,36,-9,918.0
+8:41.0, ,27-36,Offensive rebound by A. Drummond,,2,27,36,-9,919.0
+8:41.0, ,27-36,A. Drummond misses 2-pt layup at rim,,2,27,36,-9,919.0
+8:40.0, ,27-36,Offensive rebound by A. Drummond,,2,27,36,-9,920.0
+8:39.0, ,27-38,A. Drummond makes 2-pt layup at rim,,2,27,38,-11,921.0
+8:25.0,J. Ivey makes 2-pt jump shot from 6 ft,29-38, ,,2,29,38,-9,935.0
+8:25.0,Shooting foul by A. Caruso (drawn by J. Ivey),29-38, ,,2,29,38,-9,935.0
+8:25.0,C. Cunningham enters the game for M. Flynn,29-38, ,,2,29,38,-9,935.0
+8:25.0,I. Stewart enters the game for E. Fournier,29-38, ,,2,29,38,-9,935.0
+8:25.0, ,29-38,N. Vučević enters the game for A. Drummond,,2,29,38,-9,935.0
+8:25.0,J. Ivey misses free throw 1 of 1,29-38, ,,2,29,38,-9,935.0
+8:21.0, ,29-38,Defensive rebound by J. Carter,,2,29,38,-9,939.0
+8:05.0, ,29-40,N. Vučević makes 2-pt jump shot from 7 ft (assist by C. White),,2,29,40,-11,955.0
+7:56.0,Offensive foul by J. Ivey (drawn by C. White),29-40, ,,2,29,40,-11,964.0
+7:56.0,Turnover by J. Ivey (offensive foul),29-40, ,,2,29,40,-11,964.0
+7:46.0, ,29-42,N. Vučević makes 2-pt jump shot from 7 ft (assist by C. White),,2,29,42,-13,974.0
+7:35.0,Personal foul by C. White (drawn by S. Fontecchio),29-42, ,,2,29,42,-13,985.0
+7:25.0,J. Ivey makes 3-pt jump shot from 25 ft (assist by J. Duren),32-42, ,,2,32,42,-10,995.0
+7:12.0, ,32-42,Turnover by C. White (bad pass; steal by S. Fontecchio),,2,32,42,-10,1008.0
+7:07.0,J. Ivey makes 2-pt dunk from 1 ft (assist by C. Cunningham),34-42, ,,2,34,42,-8,1013.0
+6:50.0, ,34-42,A. Caruso misses 3-pt jump shot from 25 ft,,2,34,42,-8,1030.0
+6:48.0,Defensive rebound by J. Duren,34-42, ,,2,34,42,-8,1032.0
+6:42.0,Turnover by I. Stewart (lost ball; steal by A. Caruso),34-42, ,,2,34,42,-8,1038.0
+6:41.0, ,34-42,Chicago full timeout,,2,34,42,-8,1039.0
+6:41.0, ,34-42,D. DeRozan enters the game for A. Caruso,,2,34,42,-8,1039.0
+6:41.0, ,34-42,T. Taylor enters the game for C. White,,2,34,42,-8,1039.0
+6:31.0, ,34-44,N. Vučević makes 2-pt jump shot from 14 ft (assist by A. Dosunmu),,2,34,44,-10,1049.0
+6:08.0,S. Fontecchio misses 3-pt jump shot from 23 ft,34-44, ,,2,34,44,-10,1072.0
+6:05.0,Offensive rebound by J. Duren,34-44, ,,2,34,44,-10,1075.0
+6:04.0,J. Duren misses 2-pt jump shot from 7 ft,34-44, ,,2,34,44,-10,1076.0
+6:03.0, ,34-44,Defensive rebound by Team,,2,34,44,-10,1077.0
+6:03.0,A. Thompson enters the game for S. Fontecchio,34-44, ,,2,34,44,-10,1077.0
+5:48.0, ,34-44,N. Vučević misses 3-pt jump shot from 26 ft,,2,34,44,-10,1092.0
+5:44.0,Defensive rebound by A. Thompson,34-44, ,,2,34,44,-10,1096.0
+5:38.0,J. Duren makes 2-pt dunk at rim (assist by C. Cunningham),36-44, ,,2,36,44,-8,1102.0
+5:22.0, ,36-44,T. Taylor misses 3-pt jump shot from 23 ft,,2,36,44,-8,1118.0
+5:20.0,Defensive rebound by I. Stewart,36-44, ,,2,36,44,-8,1120.0
+5:06.0,Shooting foul by N. Vučević (drawn by A. Thompson),36-44, ,,2,36,44,-8,1134.0
+5:06.0,A. Thompson misses free throw 1 of 2,36-44, ,,2,36,44,-8,1134.0
+5:06.0,Offensive rebound by Team,36-44, ,,2,36,44,-8,1134.0
+5:06.0, ,36-44,A. Drummond enters the game for J. Carter,,2,36,44,-8,1134.0
+5:06.0, ,36-44,C. White enters the game for T. Taylor,,2,36,44,-8,1134.0
+5:06.0,A. Thompson makes free throw 2 of 2,37-44, ,,2,37,44,-7,1134.0
+4:58.0, ,37-47,N. Vučević makes 3-pt jump shot from 26 ft (assist by D. DeRozan),,2,37,47,-10,1142.0
+4:30.0,C. Cunningham makes 2-pt layup from 1 ft (assist by A. Thompson),39-47, ,,2,39,47,-8,1170.0
+4:16.0, ,39-49,D. DeRozan makes 2-pt jump shot from 16 ft,,2,39,49,-10,1184.0
+4:05.0,C. Cunningham makes 2-pt layup from 3 ft,41-49, ,,2,41,49,-8,1195.0
+3:51.0, ,41-49,Turnover by A. Drummond (off goaltending),,2,41,49,-8,1209.0
+3:37.0,I. Stewart misses 3-pt jump shot from 22 ft,41-49, ,,2,41,49,-8,1223.0
+3:34.0, ,41-49,Defensive rebound by N. Vučević,,2,41,49,-8,1226.0
+3:19.0, ,41-49,A. Dosunmu misses 3-pt jump shot from 23 ft,,2,41,49,-8,1241.0
+3:17.0,Defensive rebound by A. Thompson,41-49, ,,2,41,49,-8,1243.0
+3:13.0,J. Ivey makes 2-pt layup at rim (assist by A. Thompson),43-49, ,,2,43,49,-6,1247.0
+3:06.0, ,43-49,Personal foul by J. Ivey (drawn by C. White),,2,43,49,-6,1254.0
+3:06.0, ,43-49,A. Caruso enters the game for A. Dosunmu,,2,43,49,-6,1254.0
+2:55.0, ,43-49,Shooting foul by A. Thompson (drawn by D. DeRozan),,2,43,49,-6,1265.0
+2:55.0, ,43-50,D. DeRozan makes free throw 1 of 2,,2,43,50,-7,1265.0
+2:55.0, ,43-51,D. DeRozan makes free throw 2 of 2,,2,43,51,-8,1265.0
+2:30.0,Turnover by Team (shot clock),43-51, ,,2,43,51,-8,1290.0
+2:12.0, ,43-51,N. Vučević misses 3-pt jump shot from 26 ft,,2,43,51,-8,1308.0
+2:07.0, ,43-51,Offensive rebound by C. White,,2,43,51,-8,1313.0
+1:58.0, ,43-53,C. White makes 2-pt layup from 2 ft,,2,43,53,-10,1322.0
+1:51.0,Personal foul by A. Caruso (drawn by I. Stewart),43-53, ,,2,43,53,-10,1329.0
+1:51.0, ,43-53,A. Dosunmu enters the game for A. Caruso,,2,43,53,-10,1329.0
+1:41.0,Personal foul by C. White (drawn by J. Ivey),43-53, ,,2,43,53,-10,1339.0
+1:41.0,J. Ivey makes free throw 1 of 2,44-53, ,,2,44,53,-9,1339.0
+1:41.0,J. Ivey makes free throw 2 of 2,45-53, ,,2,45,53,-8,1339.0
+1:21.0, ,45-53,A. Drummond misses 2-pt layup from 6 ft,,2,45,53,-8,1359.0
+1:19.0, ,45-53,Offensive rebound by A. Dosunmu,,2,45,53,-8,1361.0
+1:16.0, ,45-55,D. DeRozan makes 2-pt layup from 2 ft (assist by A. Dosunmu),,2,45,55,-10,1364.0
+1:05.0,C. Cunningham misses 2-pt jump shot from 13 ft,45-55, ,,2,45,55,-10,1375.0
+1:01.0, ,45-55,Defensive rebound by N. Vučević,,2,45,55,-10,1379.0
+0:46.0, ,45-55,D. DeRozan misses 3-pt jump shot from 29 ft,,2,45,55,-10,1394.0
+0:46.0,Defensive rebound by Team,45-55, ,,2,45,55,-10,1394.0
+0:46.0, ,45-55,Loose ball foul by A. Drummond (drawn by J. Duren),,2,45,55,-10,1394.0
+0:46.0,J. Duren makes free throw 1 of 2,46-55, ,,2,46,55,-9,1394.0
+0:46.0,J. Duren makes free throw 2 of 2,47-55, ,,2,47,55,-8,1394.0
+0:26.0, ,47-55,A. Dosunmu misses 3-pt jump shot from 25 ft,,2,47,55,-8,1414.0
+0:23.0,Defensive rebound by J. Ivey,47-55, ,,2,47,55,-8,1417.0
+0:05.0,C. Cunningham makes 3-pt jump shot from 26 ft,50-55, ,,2,50,55,-5,1435.0
+0:00.0,End of 2nd quarter,50-55,,,2,50,55,-5,1440.0
+12:00.0,Start of 3rd quarter,50-55,,,3,50,55,-5,1440.0
+11:47.0, ,50-57,A. Dosunmu makes 2-pt layup from 2 ft (assist by D. DeRozan),,3,50,57,-7,1453.0
+11:27.0,C. Cunningham misses 3-pt jump shot from 29 ft,50-57, ,,3,50,57,-7,1473.0
+11:23.0, ,50-57,Defensive rebound by A. Dosunmu,,3,50,57,-7,1477.0
+11:16.0, ,50-57,D. DeRozan misses 3-pt jump shot from 23 ft,,3,50,57,-7,1484.0
+11:12.0, ,50-57,Offensive rebound by A. Dosunmu,,3,50,57,-7,1488.0
+11:12.0, ,50-57,N. Vučević misses 2-pt jump shot from 13 ft,,3,50,57,-7,1488.0
+11:08.0,Defensive rebound by I. Stewart,50-57, ,,3,50,57,-7,1492.0
+11:04.0,Shooting foul by D. DeRozan (drawn by J. Ivey),50-57, ,,3,50,57,-7,1496.0
+11:04.0,J. Ivey makes free throw 1 of 2,51-57, ,,3,51,57,-6,1496.0
+11:04.0,J. Ivey makes free throw 2 of 2,52-57, ,,3,52,57,-5,1496.0
+10:52.0, ,52-59,D. DeRozan makes 2-pt jump shot from 21 ft (assist by N. Vučević),,3,52,59,-7,1508.0
+10:34.0,A. Thompson makes 3-pt jump shot from 23 ft (assist by J. Ivey),55-59, ,,3,55,59,-4,1526.0
+10:14.0, ,55-59,C. White misses 3-pt jump shot from 24 ft,,3,55,59,-4,1546.0
+10:11.0,Defensive rebound by I. Stewart,55-59, ,,3,55,59,-4,1549.0
+10:01.0,Shooting foul by A. Dosunmu (drawn by I. Stewart),55-59, ,,3,55,59,-4,1559.0
+10:01.0,I. Stewart misses free throw 1 of 2,55-59, ,,3,55,59,-4,1559.0
+10:01.0,Offensive rebound by Team,55-59, ,,3,55,59,-4,1559.0
+10:01.0,I. Stewart makes free throw 2 of 2,56-59, ,,3,56,59,-3,1559.0
+9:42.0, ,56-59,C. White misses 2-pt jump shot from 21 ft,,3,56,59,-3,1578.0
+9:40.0,Defensive rebound by J. Duren,56-59, ,,3,56,59,-3,1580.0
+9:35.0,A. Thompson misses 3-pt jump shot from 27 ft,56-59, ,,3,56,59,-3,1585.0
+9:32.0, ,56-59,Defensive rebound by C. White,,3,56,59,-3,1588.0
+9:26.0, ,56-59,C. White misses 2-pt layup from 2 ft,,3,56,59,-3,1594.0
+9:24.0,Defensive rebound by A. Thompson,56-59, ,,3,56,59,-3,1596.0
+9:22.0,J. Ivey misses 2-pt jump shot from 7 ft,56-59, ,,3,56,59,-3,1598.0
+9:18.0, ,56-59,Defensive rebound by N. Vučević,,3,56,59,-3,1602.0
+9:06.0, ,56-59,D. DeRozan misses 2-pt jump shot from 20 ft,,3,56,59,-3,1614.0
+8:59.0, ,56-59,Offensive rebound by N. Vučević,,3,56,59,-3,1621.0
+8:59.0, ,56-59,A. Caruso misses 2-pt layup at rim (block by C. Cunningham),,3,56,59,-3,1621.0
+8:59.0,Defensive rebound by I. Stewart,56-59, ,,3,56,59,-3,1621.0
+8:52.0,I. Stewart makes 3-pt jump shot from 27 ft (assist by A. Thompson),59-59, ,Tie,3,59,59,0,1628.0
+8:52.0, ,59-59,Chicago full timeout,,3,59,59,0,1628.0
+8:39.0, ,59-61,N. Vučević makes 2-pt jump shot from 15 ft (assist by A. Dosunmu),,3,59,61,-2,1641.0
+8:24.0,J. Duren misses 2-pt layup from 2 ft (block by N. Vučević),59-61, ,,3,59,61,-2,1656.0
+8:24.0,Offensive rebound by Team,59-61, ,,3,59,61,-2,1656.0
+8:17.0,A. Thompson makes 2-pt jump shot from 7 ft,61-61, ,Tie,3,61,61,0,1663.0
+8:01.0, ,61-61,A. Caruso misses 2-pt jump shot from 17 ft,,3,61,61,0,1679.0
+7:57.0,Defensive rebound by J. Duren,61-61, ,,3,61,61,0,1683.0
+7:57.0, ,61-61,A. Drummond enters the game for A. Caruso,,3,61,61,0,1683.0
+7:43.0,I. Stewart makes 3-pt jump shot from 26 ft (assist by C. Cunningham),64-61, ,Lead change,3,64,61,3,1697.0
+7:28.0, ,64-63,N. Vučević makes 2-pt jump shot from 8 ft (assist by D. DeRozan),,3,64,63,1,1712.0
+6:58.0,C. Cunningham makes 3-pt jump shot from 29 ft,67-63, ,,3,67,63,4,1742.0
+6:37.0, ,67-65,A. Dosunmu makes 2-pt jump shot from 17 ft (assist by N. Vučević),,3,67,65,2,1763.0
+6:21.0,C. Cunningham makes 2-pt layup from 1 ft,69-65, ,,3,69,65,4,1779.0
+6:12.0, ,69-65,Turnover by N. Vučević (bad pass; steal by J. Ivey),,3,69,65,4,1788.0
+6:08.0,I. Stewart makes 2-pt layup from 1 ft (assist by J. Ivey),71-65, ,,3,71,65,6,1792.0
+6:08.0,Shooting foul by N. Vučević (drawn by J. Ivey),71-65, ,,3,71,65,6,1792.0
+6:08.0,J. Ivey misses free throw 1 of 1,71-65, ,,3,71,65,6,1792.0
+6:04.0, ,71-65,Defensive rebound by A. Drummond,,3,71,65,6,1796.0
+5:57.0, ,71-65,Shooting foul by A. Thompson (drawn by C. White),,3,71,65,6,1803.0
+5:57.0, ,71-66,C. White makes free throw 1 of 2,,3,71,66,5,1803.0
+5:57.0, ,71-67,C. White makes free throw 2 of 2,,3,71,67,4,1803.0
+5:46.0,Turnover by C. Cunningham (bad pass; steal by A. Dosunmu),71-67, ,,3,71,67,4,1814.0
+5:30.0, ,71-69,N. Vučević makes 2-pt hook shot from 8 ft (assist by A. Dosunmu),,3,71,69,2,1830.0
+5:11.0,J. Duren makes 2-pt layup from 1 ft,73-69, ,,3,73,69,4,1849.0
+4:54.0, ,73-69,C. White misses 2-pt layup from 3 ft (block by J. Ivey),,3,73,69,4,1866.0
+4:52.0,Defensive rebound by C. Cunningham,73-69, ,,3,73,69,4,1868.0
+4:50.0,C. Cunningham makes 2-pt layup from 1 ft,75-69, ,,3,75,69,6,1870.0
+4:25.0, ,75-69,A. Dosunmu misses 3-pt jump shot from 26 ft,,3,75,69,6,1895.0
+4:23.0,Defensive rebound by J. Ivey,75-69, ,,3,75,69,6,1897.0
+4:22.0,Shooting foul by D. DeRozan (drawn by J. Ivey),75-69, ,,3,75,69,6,1898.0
+4:22.0,J. Ivey makes free throw 1 of 2,76-69, ,,3,76,69,7,1898.0
+4:22.0, ,76-69,D. Terry enters the game for D. DeRozan,,3,76,69,7,1898.0
+4:22.0,J. Ivey makes free throw 2 of 2,77-69, ,,3,77,69,8,1898.0
+4:11.0, ,77-71,C. White makes 2-pt jump shot from 21 ft,,3,77,71,6,1909.0
+3:59.0,Turnover by C. Cunningham (bad pass),77-71, ,,3,77,71,6,1921.0
+3:59.0,S. Fontecchio enters the game for A. Thompson,77-71, ,,3,77,71,6,1921.0
+3:39.0, ,77-71,N. Vučević misses 3-pt jump shot from 26 ft,,3,77,71,6,1941.0
+3:38.0, ,77-71,Offensive rebound by A. Drummond,,3,77,71,6,1942.0
+3:35.0, ,77-73,A. Drummond makes 2-pt layup from 1 ft,,3,77,73,4,1945.0
+3:12.0,Turnover by J. Ivey (bad pass),77-73, ,,3,77,73,4,1968.0
+3:12.0,Q. Grimes enters the game for J. Ivey,77-73, ,,3,77,73,4,1968.0
+3:12.0, ,77-73,A. Caruso enters the game for C. White,,3,77,73,4,1968.0
+2:58.0, ,77-73,A. Caruso misses 3-pt jump shot from 25 ft,,3,77,73,4,1982.0
+2:57.0, ,77-73,Offensive rebound by N. Vučević,,3,77,73,4,1983.0
+2:51.0, ,77-73,A. Drummond misses 2-pt hook shot from 4 ft (block by J. Duren),,3,77,73,4,1989.0
+2:50.0, ,77-73,Offensive rebound by A. Drummond,,3,77,73,4,1990.0
+2:48.0, ,77-73,A. Drummond misses 2-pt layup from 2 ft (block by J. Duren),,3,77,73,4,1992.0
+2:45.0,Defensive rebound by J. Duren,77-73, ,,3,77,73,4,1995.0
+2:24.0,J. Duren makes 2-pt dunk from 1 ft (assist by S. Fontecchio),79-73, ,,3,79,73,6,2016.0
+2:09.0, ,79-75,N. Vučević makes 2-pt layup at rim (assist by A. Dosunmu),,3,79,75,4,2031.0
+2:09.0, ,79-75,Shooting foul by J. Duren (drawn by N. Vučević),,3,79,75,4,2031.0
+2:09.0,Detroit full timeout,79-75, ,,3,79,75,4,2031.0
+2:09.0,J. Wiseman enters the game for J. Duren,79-75, ,,3,79,75,4,2031.0
+2:09.0, ,79-75,D. DeRozan enters the game for A. Drummond,,3,79,75,4,2031.0
+2:09.0, ,79-75,N. Vučević misses free throw 1 of 1,,3,79,75,4,2031.0
+2:06.0,Defensive rebound by I. Stewart,79-75, ,,3,79,75,4,2034.0
+2:00.0,Turnover by I. Stewart (bad pass; steal by A. Caruso),79-75, ,,3,79,75,4,2040.0
+1:55.0, ,79-75,A. Caruso misses 3-pt jump shot from 25 ft,,3,79,75,4,2045.0
+1:50.0,Defensive rebound by Q. Grimes,79-75, ,,3,79,75,4,2050.0
+1:28.0,I. Stewart misses 2-pt layup from 8 ft,79-75, ,,3,79,75,4,2072.0
+1:26.0, ,79-75,Defensive rebound by N. Vučević,,3,79,75,4,2074.0
+1:17.0, ,79-75,D. DeRozan misses 2-pt jump shot from 13 ft,,3,79,75,4,2083.0
+1:15.0,Defensive rebound by I. Stewart,79-75, ,,3,79,75,4,2085.0
+1:06.0,Turnover by C. Cunningham (bad pass; steal by A. Caruso),79-75, ,,3,79,75,4,2094.0
+1:06.0,M. Flynn enters the game for C. Cunningham,79-75, ,,3,79,75,4,2094.0
+1:06.0,A. Thompson enters the game for I. Stewart,79-75, ,,3,79,75,4,2094.0
+0:49.0, ,79-75,D. DeRozan misses 2-pt jump shot from 10 ft,,3,79,75,4,2111.0
+0:47.0,Defensive rebound by A. Thompson,79-75, ,,3,79,75,4,2113.0
+0:31.0,M. Flynn misses 3-pt jump shot from 26 ft,79-75, ,,3,79,75,4,2129.0
+0:28.0, ,79-75,Defensive rebound by D. DeRozan,,3,79,75,4,2132.0
+0:07.0, ,79-75,A. Dosunmu misses 2-pt layup from 1 ft,,3,79,75,4,2153.0
+0:07.0, ,79-75,Offensive rebound by N. Vučević,,3,79,75,4,2153.0
+0:07.0, ,79-75,N. Vučević misses 2-pt layup at rim,,3,79,75,4,2153.0
+0:07.0, ,79-75,Offensive rebound by Team,,3,79,75,4,2153.0
+0:07.0, ,79-75,C. White enters the game for D. Terry,,3,79,75,4,2153.0
+0:00.0, ,79-75,Shooting foul by A. Thompson (drawn by D. DeRozan),,3,79,75,4,2160.0
+0:00.0, ,79-75,Instant Replay (Request: Ruling Stands),,3,79,75,4,2160.0
+0:00.0, ,79-76,D. DeRozan makes free throw 1 of 2,,3,79,76,3,2160.0
+0:00.0, ,79-76,A. Drummond enters the game for A. Dosunmu,,3,79,76,3,2160.0
+0:00.0, ,79-77,D. DeRozan makes free throw 2 of 2,,3,79,77,2,2160.0
+0:00.0,End of 3rd quarter,79-77,,,3,79,77,2,2160.0
+12:00.0,Start of 4th quarter,79-77,,,4,79,77,2,2160.0
+11:43.0,S. Fontecchio misses 2-pt jump shot from 16 ft,79-77, ,,4,79,77,2,2177.0
+11:43.0, ,79-77,Defensive rebound by Team,,4,79,77,2,2177.0
+11:43.0,Loose ball foul by J. Wiseman (drawn by A. Drummond),79-77, ,,4,79,77,2,2177.0
+11:27.0, ,79-80,D. Terry makes 3-pt jump shot from 23 ft (assist by C. White),Lead change,4,79,80,-1,2193.0
+11:05.0,Q. Grimes misses 3-pt jump shot from 26 ft,79-80, ,,4,79,80,-1,2215.0
+11:03.0, ,79-80,Defensive rebound by D. DeRozan,,4,79,80,-1,2217.0
+10:57.0, ,79-80,C. White misses 2-pt layup from 2 ft,,4,79,80,-1,2223.0
+10:55.0,Defensive rebound by Q. Grimes,79-80, ,,4,79,80,-1,2225.0
+10:48.0,S. Fontecchio makes 3-pt jump shot from 23 ft (assist by Q. Grimes),82-80, ,Lead change,4,82,80,2,2232.0
+10:48.0, ,82-80,Chicago full timeout,,4,82,80,2,2232.0
+10:48.0, ,82-80,J. Carter enters the game for A. Caruso,,4,82,80,2,2232.0
+10:33.0, ,82-80,D. DeRozan misses 2-pt jump shot from 16 ft,,4,82,80,2,2247.0
+10:33.0, ,82-80,Offensive rebound by Team,,4,82,80,2,2247.0
+10:33.0,Loose ball foul by J. Wiseman (drawn by A. Drummond),82-80, ,,4,82,80,2,2247.0
+10:18.0, ,82-82,A. Drummond makes 2-pt jump shot from 6 ft,Tie,4,82,82,0,2262.0
+10:00.0,Turnover by M. Flynn (bad pass; steal by J. Carter),82-82, ,,4,82,82,0,2280.0
+9:58.0, ,82-82,J. Carter misses 2-pt layup from 1 ft,,4,82,82,0,2282.0
+9:58.0,Defensive rebound by Team,82-82, ,,4,82,82,0,2282.0
+9:48.0,M. Flynn misses 3-pt jump shot from 29 ft,82-82, ,,4,82,82,0,2292.0
+9:47.0, ,82-82,Defensive rebound by Team,,4,82,82,0,2293.0
+9:30.0, ,82-82,J. Carter misses 3-pt jump shot from 26 ft,,4,82,82,0,2310.0
+9:28.0,Defensive rebound by Q. Grimes,82-82, ,,4,82,82,0,2312.0
+9:16.0,M. Flynn misses 3-pt jump shot from 26 ft,82-82, ,,4,82,82,0,2324.0
+9:14.0,Offensive rebound by S. Fontecchio,82-82, ,,4,82,82,0,2326.0
+9:12.0,S. Fontecchio makes 3-pt jump shot from 24 ft,85-82, ,,4,85,82,3,2328.0
+8:55.0, ,85-82,C. White misses 2-pt jump shot from 21 ft,,4,85,82,3,2345.0
+8:54.0,Defensive rebound by M. Flynn,85-82, ,,4,85,82,3,2346.0
+8:51.0,M. Flynn makes 2-pt layup from 2 ft,87-82, ,,4,87,82,5,2349.0
+8:45.0, ,87-84,A. Drummond makes 2-pt layup from 1 ft (assist by D. DeRozan),,4,87,84,3,2355.0
+8:26.0,M. Flynn misses 2-pt jump shot from 23 ft (block by J. Carter),87-84, ,,4,87,84,3,2374.0
+8:21.0,Offensive rebound by S. Fontecchio,87-84, ,,4,87,84,3,2379.0
+8:21.0,S. Fontecchio makes 2-pt layup at rim,89-84, ,,4,89,84,5,2379.0
+8:10.0, ,89-84,J. Carter misses 2-pt jump shot from 16 ft,,4,89,84,5,2390.0
+8:10.0, ,89-84,Offensive rebound by Team,,4,89,84,5,2390.0
+8:10.0, ,89-84,A. Dosunmu enters the game for D. Terry,,4,89,84,5,2390.0
+8:00.0, ,89-86,D. DeRozan makes 2-pt layup from 2 ft,,4,89,86,3,2400.0
+7:52.0,Q. Grimes misses 3-pt jump shot from 25 ft,89-86, ,,4,89,86,3,2408.0
+7:50.0,Offensive rebound by J. Wiseman,89-86, ,,4,89,86,3,2410.0
+7:49.0,S. Fontecchio misses 3-pt jump shot from 23 ft,89-86, ,,4,89,86,3,2411.0
+7:47.0,Offensive rebound by J. Wiseman,89-86, ,,4,89,86,3,2413.0
+7:42.0,S. Fontecchio misses 3-pt jump shot from 23 ft,89-86, ,,4,89,86,3,2418.0
+7:40.0, ,89-86,Defensive rebound by A. Drummond,,4,89,86,3,2420.0
+7:29.0, ,89-86,Shooting foul by J. Wiseman (drawn by D. DeRozan),,4,89,86,3,2431.0
+7:29.0, ,89-87,D. DeRozan makes free throw 1 of 2,,4,89,87,2,2431.0
+7:29.0,C. Cunningham enters the game for M. Flynn,89-87, ,,4,89,87,2,2431.0
+7:29.0,J. Duren enters the game for Q. Grimes,89-87, ,,4,89,87,2,2431.0
+7:29.0,J. Ivey enters the game for J. Wiseman,89-87, ,,4,89,87,2,2431.0
+7:29.0, ,89-87,N. Vučević enters the game for A. Drummond,,4,89,87,2,2431.0
+7:29.0, ,89-88,D. DeRozan makes free throw 2 of 2,,4,89,88,1,2431.0
+7:14.0,J. Duren misses 2-pt layup from 2 ft,89-88, ,,4,89,88,1,2446.0
+7:14.0,Offensive rebound by Team,89-88, ,,4,89,88,1,2446.0
+7:14.0,I. Stewart enters the game for A. Thompson,89-88, ,,4,89,88,1,2446.0
+7:08.0,J. Ivey misses 3-pt jump shot from 23 ft,89-88, ,,4,89,88,1,2452.0
+7:06.0, ,89-88,Defensive rebound by N. Vučević,,4,89,88,1,2454.0
+6:54.0, ,89-88,J. Carter misses 3-pt jump shot from 25 ft,,4,89,88,1,2466.0
+6:53.0,Defensive rebound by J. Duren,89-88, ,,4,89,88,1,2467.0
+6:53.0, ,89-88,D. Terry enters the game for D. DeRozan,,4,89,88,1,2467.0
+6:39.0,S. Fontecchio makes 3-pt jump shot from 23 ft (assist by J. Duren),92-88, ,,4,92,88,4,2481.0
+6:13.0, ,92-88,N. Vučević misses 2-pt jump shot from 15 ft,,4,92,88,4,2507.0
+6:08.0, ,92-88,Offensive rebound by D. Terry,,4,92,88,4,2512.0
+6:07.0, ,92-88,D. Terry misses 2-pt jump shot from 7 ft,,4,92,88,4,2513.0
+6:05.0,Defensive rebound by C. Cunningham,92-88, ,,4,92,88,4,2515.0
+5:58.0,Personal foul by D. Terry (drawn by I. Stewart),92-88, ,,4,92,88,4,2522.0
+5:45.0,J. Duren misses 2-pt jump shot from 12 ft,92-88, ,,4,92,88,4,2535.0
+5:42.0,Offensive rebound by I. Stewart,92-88, ,,4,92,88,4,2538.0
+5:38.0,Shooting foul by A. Dosunmu (drawn by C. Cunningham),92-88, ,,4,92,88,4,2542.0
+5:38.0,C. Cunningham makes free throw 1 of 3,93-88, ,,4,93,88,5,2542.0
+5:38.0,C. Cunningham makes free throw 2 of 3,94-88, ,,4,94,88,6,2542.0
+5:38.0, ,94-88,Chicago full timeout,,4,94,88,6,2542.0
+5:38.0, ,94-88,D. DeRozan enters the game for J. Carter,,4,94,88,6,2542.0
+5:38.0, ,94-88,A. Drummond enters the game for D. Terry,,4,94,88,6,2542.0
+5:38.0,C. Cunningham makes free throw 3 of 3,95-88, ,,4,95,88,7,2542.0
+5:19.0, ,95-88,N. Vučević misses 3-pt jump shot from 25 ft,,4,95,88,7,2561.0
+5:17.0,Defensive rebound by S. Fontecchio,95-88, ,,4,95,88,7,2563.0
+5:03.0,S. Fontecchio misses 3-pt jump shot from 26 ft,95-88, ,,4,95,88,7,2577.0
+5:00.0, ,95-88,Defensive rebound by C. White,,4,95,88,7,2580.0
+4:58.0, ,95-88,Shooting foul by J. Duren (drawn by C. White),,4,95,88,7,2582.0
+4:58.0, ,95-89,C. White makes free throw 1 of 2,,4,95,89,6,2582.0
+4:58.0,A. Thompson enters the game for S. Fontecchio,95-89, ,,4,95,89,6,2582.0
+4:58.0, ,95-89,A. Caruso enters the game for A. Drummond,,4,95,89,6,2582.0
+4:58.0, ,95-90,C. White makes free throw 2 of 2,,4,95,90,5,2582.0
+4:43.0,C. Cunningham makes 3-pt jump shot from 24 ft (assist by J. Duren),98-90, ,,4,98,90,8,2597.0
+4:17.0, ,98-90,C. White misses 3-pt jump shot from 25 ft,,4,98,90,8,2623.0
+4:15.0,Defensive rebound by C. Cunningham,98-90, ,,4,98,90,8,2625.0
+4:11.0,Personal foul by A. Caruso (drawn by C. Cunningham),98-90, ,,4,98,90,8,2629.0
+3:59.0,Shooting foul by N. Vučević (drawn by C. Cunningham),98-90, ,,4,98,90,8,2641.0
+3:59.0,C. Cunningham makes free throw 1 of 2,99-90, ,,4,99,90,9,2641.0
+3:59.0,C. Cunningham misses free throw 2 of 2,99-90, ,,4,99,90,9,2641.0
+3:59.0, ,99-90,Defensive rebound by A. Dosunmu,,4,99,90,9,2641.0
+3:33.0, ,99-90,C. White misses 2-pt jump shot from 17 ft,,4,99,90,9,2667.0
+3:32.0,Defensive rebound by Team,99-90, ,,4,99,90,9,2668.0
+3:32.0, ,99-90,Loose ball foul by N. Vučević (drawn by J. Duren),,4,99,90,9,2668.0
+3:32.0,J. Duren makes free throw 1 of 2,100-90, ,,4,100,90,10,2668.0
+3:32.0,J. Duren makes free throw 2 of 2,101-90, ,,4,101,90,11,2668.0
+3:13.0, ,101-90,N. Vučević misses 2-pt jump shot from 13 ft,,4,101,90,11,2687.0
+3:11.0,Defensive rebound by A. Thompson,101-90, ,,4,101,90,11,2689.0
+2:59.0,Turnover by J. Duren (bad pass),101-90, ,,4,101,90,11,2701.0
+2:48.0, ,101-90,D. DeRozan misses 2-pt layup from 2 ft,,4,101,90,11,2712.0
+2:46.0,Defensive rebound by J. Duren,101-90, ,,4,101,90,11,2714.0
+2:44.0,Turnover by J. Duren (bad pass; steal by A. Dosunmu),101-90, ,,4,101,90,11,2716.0
+2:40.0, ,101-92,A. Dosunmu makes 2-pt layup from 1 ft,,4,101,92,9,2720.0
+2:21.0,C. Cunningham misses 3-pt jump shot from 28 ft,101-92, ,,4,101,92,9,2739.0
+2:19.0, ,101-92,Defensive rebound by C. White,,4,101,92,9,2741.0
+2:18.0, ,101-92,Personal foul by J. Ivey (drawn by C. White),,4,101,92,9,2742.0
+2:18.0, ,101-92,C. White misses free throw 1 of 2,,4,101,92,9,2742.0
+2:18.0, ,101-92,Offensive rebound by Team,,4,101,92,9,2742.0
+2:18.0, ,101-92,A. Drummond enters the game for A. Caruso,,4,101,92,9,2742.0
+2:18.0, ,101-93,C. White makes free throw 2 of 2,,4,101,93,8,2742.0
+1:58.0,A. Thompson makes 3-pt jump shot from 23 ft (assist by C. Cunningham),104-93, ,,4,104,93,11,2762.0
+1:50.0, ,104-93,C. White misses 3-pt jump shot from 24 ft,,4,104,93,11,2770.0
+1:47.0,Defensive rebound by A. Thompson,104-93, ,,4,104,93,11,2773.0
+1:32.0,Turnover by J. Duren (out of bounds lost ball),104-93, ,,4,104,93,11,2788.0
+1:17.0, ,104-95,A. Drummond makes 2-pt jump shot from 9 ft (assist by C. White),,4,104,95,9,2803.0
+0:53.0,A. Thompson misses 3-pt jump shot from 23 ft,104-95, ,,4,104,95,9,2827.0
+0:50.0, ,104-95,Defensive rebound by A. Drummond,,4,104,95,9,2830.0
+0:46.0, ,104-95,A. Dosunmu misses 2-pt layup from 7 ft (block by A. Thompson),,4,104,95,9,2834.0
+0:43.0, ,104-95,Offensive rebound by A. Dosunmu,,4,104,95,9,2837.0
+0:41.0, ,104-95,N. Vučević misses 3-pt jump shot from 24 ft,,4,104,95,9,2839.0
+0:37.0,Defensive rebound by C. Cunningham,104-95, ,,4,104,95,9,2843.0
+0:26.0,Personal foul by A. Drummond (drawn by C. Cunningham),104-95, ,,4,104,95,9,2854.0
+0:26.0,C. Cunningham makes free throw 1 of 2,105-95, ,,4,105,95,10,2854.0
+0:26.0,C. Cunningham misses free throw 2 of 2,105-95, ,,4,105,95,10,2854.0
+0:23.0,Offensive rebound by J. Duren,105-95, ,,4,105,95,10,2857.0
+0:11.0,Turnover by Team (shot clock),105-95, ,,4,105,95,10,2869.0
+0:00.0,End of 4th quarter,105-95,,,4,105,95,10,2880.0

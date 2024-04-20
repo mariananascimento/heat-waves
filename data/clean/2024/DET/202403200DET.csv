@@ -1,0 +1,463 @@
+Time,Indiana,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: M. Turner vs. J. Duren (P. Siakam gains possession),0-0,,,1,0,0,0,0.0
+11:41.0,M. Turner misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,19.0
+11:38.0, ,0-0,Defensive rebound by C. Cunningham,,1,0,0,0,22.0
+11:24.0, ,0-2,C. Cunningham makes 2-pt jump shot from 10 ft,,1,2,0,2,36.0
+11:08.0,A. Nesmith misses 3-pt jump shot from 26 ft,0-2, ,,1,2,0,2,52.0
+11:05.0, ,0-2,Defensive rebound by J. Ivey,,1,2,0,2,55.0
+10:58.0, ,0-4,C. Cunningham makes 2-pt layup from 3 ft (assist by J. Ivey),,1,4,0,4,62.0
+10:49.0,A. Nembhard makes 2-pt layup from 2 ft,2-4, ,,1,4,2,2,71.0
+10:31.0, ,2-4,T. Evbuomwan misses 3-pt jump shot from 26 ft,,1,4,2,2,89.0
+10:29.0,Defensive rebound by M. Turner,2-4, ,,1,4,2,2,91.0
+10:22.0,A. Nembhard misses 2-pt jump shot from 15 ft,2-4, ,,1,4,2,2,98.0
+10:19.0, ,2-4,Defensive rebound by J. Duren,,1,4,2,2,101.0
+10:10.0, ,2-6,J. Duren makes 2-pt dunk from 4 ft (assist by C. Cunningham),,1,6,2,4,110.0
+9:56.0,Turnover by T. Haliburton (bad pass; steal by J. Duren),2-6, ,,1,6,2,4,124.0
+9:44.0, ,2-6,C. Cunningham misses 2-pt jump shot from 7 ft,,1,6,2,4,136.0
+9:41.0,Defensive rebound by M. Turner,2-6, ,,1,6,2,4,139.0
+9:37.0,M. Turner misses 3-pt jump shot from 27 ft,2-6, ,,1,6,2,4,143.0
+9:34.0, ,2-6,Defensive rebound by C. Cunningham,,1,6,2,4,146.0
+9:27.0, ,2-8,T. Evbuomwan makes 2-pt layup from 3 ft (assist by C. Cunningham),,1,8,2,6,153.0
+9:10.0,T. Haliburton misses 2-pt jump shot from 19 ft,2-8, ,,1,8,2,6,170.0
+9:07.0, ,2-8,Defensive rebound by C. Cunningham,,1,8,2,6,173.0
+8:56.0, ,2-10,J. Ivey makes 2-pt jump shot from 11 ft (assist by C. Cunningham),,1,10,2,8,184.0
+8:56.0,Indiana full timeout,2-10, ,,1,10,2,8,184.0
+8:41.0,P. Siakam makes 2-pt jump shot from 6 ft (assist by T. Haliburton),4-10, ,,1,10,4,6,199.0
+8:41.0,Shooting foul by T. Evbuomwan (drawn by P. Siakam),4-10, ,,1,10,4,6,199.0
+8:41.0,P. Siakam makes free throw 1 of 1,5-10, ,,1,10,5,5,199.0
+8:27.0, ,5-10,Shooting foul by T. Haliburton (drawn by S. Umude),,1,10,5,5,213.0
+8:27.0, ,5-10,S. Umude misses free throw 1 of 3,,1,10,5,5,213.0
+8:27.0, ,5-10,Offensive rebound by Team,,1,10,5,5,213.0
+8:27.0, ,5-11,S. Umude makes free throw 2 of 3,,1,11,5,6,213.0
+8:27.0, ,5-12,S. Umude makes free throw 3 of 3,,1,12,5,7,213.0
+8:12.0,P. Siakam misses 3-pt jump shot from 24 ft,5-12, ,,1,12,5,7,228.0
+8:09.0, ,5-12,Defensive rebound by J. Duren,,1,12,5,7,231.0
+8:04.0, ,5-12,J. Ivey misses 2-pt jump shot from 10 ft,,1,12,5,7,236.0
+8:02.0,Defensive rebound by T. Haliburton,5-12, ,,1,12,5,7,238.0
+7:58.0,Shooting foul by J. Duren (drawn by M. Turner),5-12, ,,1,12,5,7,242.0
+7:58.0,M. Turner makes free throw 1 of 2,6-12, ,,1,12,6,6,242.0
+7:58.0,M. Turner misses free throw 2 of 2,6-12, ,,1,12,6,6,242.0
+7:55.0, ,6-12,Defensive rebound by J. Duren,,1,12,6,6,245.0
+7:38.0, ,6-14,S. Umude makes 2-pt jump shot from 7 ft (assist by C. Cunningham),,1,14,6,8,262.0
+7:16.0,Turnover by M. Turner (3 sec),6-14, ,,1,14,6,8,284.0
+7:02.0, ,6-14,C. Cunningham misses 2-pt layup from 3 ft,,1,14,6,8,298.0
+7:02.0,Defensive rebound by Team,6-14, ,,1,14,6,8,298.0
+6:44.0,P. Siakam makes 3-pt jump shot from 24 ft (assist by A. Nembhard),9-14, ,,1,14,9,5,316.0
+6:34.0, ,9-14,Shooting foul by A. Nembhard (drawn by C. Cunningham),,1,14,9,5,326.0
+6:34.0, ,9-15,C. Cunningham makes free throw 1 of 3,,1,15,9,6,326.0
+6:34.0, ,9-16,C. Cunningham makes free throw 2 of 3,,1,16,9,7,326.0
+6:34.0, ,9-16,C. Cunningham misses free throw 3 of 3,,1,16,9,7,326.0
+6:30.0,Defensive rebound by M. Turner,9-16, ,,1,16,9,7,330.0
+6:17.0,P. Siakam makes 2-pt jump shot from 5 ft,11-16, ,,1,16,11,5,343.0
+6:03.0, ,11-18,C. Cunningham makes 2-pt jump shot from 14 ft,,1,18,11,7,357.0
+5:58.0,Turnover by T. Haliburton (bad pass; steal by J. Ivey),11-18, ,,1,18,11,7,362.0
+5:53.0, ,11-18,Turnover by S. Umude (lost ball; steal by T. Haliburton),,1,18,11,7,367.0
+5:48.0,P. Siakam makes 2-pt layup from 3 ft (assist by T. Haliburton),13-18, ,,1,18,13,5,372.0
+5:48.0, ,13-18,Violation by Team (def goaltending),,1,18,13,5,372.0
+5:32.0, ,13-18,Turnover by C. Cunningham (bad pass; steal by P. Siakam),,1,18,13,5,388.0
+5:23.0,M. Turner misses 3-pt jump shot from 27 ft,13-18, ,,1,18,13,5,397.0
+5:20.0, ,13-18,Defensive rebound by J. Duren,,1,18,13,5,400.0
+5:15.0, ,13-18,T. Evbuomwan misses 2-pt jump shot from 7 ft,,1,18,13,5,405.0
+5:13.0,Defensive rebound by P. Siakam,13-18, ,,1,18,13,5,407.0
+5:08.0,T. Haliburton misses 3-pt jump shot from 27 ft,13-18, ,,1,18,13,5,412.0
+5:05.0, ,13-18,Defensive rebound by T. Evbuomwan,,1,18,13,5,415.0
+4:50.0, ,13-18,C. Cunningham misses 2-pt jump shot from 21 ft,,1,18,13,5,430.0
+4:46.0,Defensive rebound by T. Haliburton,13-18, ,,1,18,13,5,434.0
+4:40.0,P. Siakam makes 2-pt jump shot from 9 ft (assist by T. Haliburton),15-18, ,,1,18,15,3,440.0
+4:26.0, ,15-18,J. Ivey misses 2-pt layup from 4 ft (block by A. Nesmith),,1,18,15,3,454.0
+4:26.0, ,15-18,Offensive rebound by Team,,1,18,15,3,454.0
+4:26.0,I. Jackson enters the game for P. Siakam,15-18, ,,1,18,15,3,454.0
+4:26.0,O. Toppin enters the game for M. Turner,15-18, ,,1,18,15,3,454.0
+4:26.0, ,15-18,E. Fournier enters the game for T. Evbuomwan,,1,18,15,3,454.0
+4:26.0, ,15-18,C. Metu enters the game for J. Ivey,,1,18,15,3,454.0
+4:26.0, ,15-18,Offensive foul by J. Duren (drawn by A. Nembhard),,1,18,15,3,454.0
+4:26.0, ,15-18,Turnover by J. Duren (offensive foul),,1,18,15,3,454.0
+4:26.0, ,15-18,J. Wiseman enters the game for J. Duren,,1,18,15,3,454.0
+4:15.0,T. Haliburton makes 2-pt jump shot from 20 ft (assist by I. Jackson),17-18, ,,1,18,17,1,465.0
+3:57.0, ,17-20,C. Cunningham makes 2-pt jump shot from 9 ft (assist by J. Wiseman),,1,20,17,3,483.0
+3:38.0,A. Nesmith misses 2-pt layup from 3 ft,17-20, ,,1,20,17,3,502.0
+3:37.0,Offensive rebound by I. Jackson,17-20, ,,1,20,17,3,503.0
+3:37.0,I. Jackson misses 2-pt layup from 3 ft,17-20, ,,1,20,17,3,503.0
+3:37.0, ,17-20,Defensive rebound by Team,,1,20,17,3,503.0
+3:37.0,D. McDermott enters the game for A. Nembhard,17-20, ,,1,20,17,3,503.0
+3:37.0,B. Sheppard enters the game for A. Nesmith,17-20, ,,1,20,17,3,503.0
+3:23.0, ,17-20,Turnover by C. Cunningham (bad pass; steal by T. Haliburton),,1,20,17,3,517.0
+3:20.0,I. Jackson makes 2-pt layup from 3 ft (assist by T. Haliburton),19-20, ,,1,20,19,1,520.0
+3:20.0, ,19-20,Detroit full timeout,,1,20,19,1,520.0
+3:20.0, ,19-20,M. Sasser enters the game for C. Cunningham,,1,20,19,1,520.0
+3:04.0, ,19-20,S. Umude misses 3-pt jump shot from 24 ft,,1,20,19,1,536.0
+3:02.0,Defensive rebound by I. Jackson,19-20, ,,1,20,19,1,538.0
+2:48.0,D. McDermott makes 2-pt layup from 2 ft (assist by I. Jackson),21-20, ,Lead change,1,20,21,-1,552.0
+2:29.0, ,21-20,E. Fournier misses 2-pt jump shot from 5 ft,,1,20,21,-1,571.0
+2:28.0, ,21-20,Offensive rebound by J. Wiseman,,1,20,21,-1,572.0
+2:25.0, ,21-20,Turnover by J. Wiseman (bad pass; steal by T. Haliburton),,1,20,21,-1,575.0
+2:22.0,T. Haliburton makes 2-pt layup from 2 ft,23-20, ,,1,20,23,-3,578.0
+2:05.0, ,23-20,S. Umude misses 3-pt jump shot from 23 ft,,1,20,23,-3,595.0
+2:03.0,Defensive rebound by I. Jackson,23-20, ,,1,20,23,-3,597.0
+1:57.0,I. Jackson misses 2-pt layup from 4 ft,23-20, ,,1,20,23,-3,603.0
+1:54.0, ,23-20,Defensive rebound by M. Sasser,,1,20,23,-3,606.0
+1:49.0, ,23-20,C. Metu misses 3-pt jump shot from 26 ft,,1,20,23,-3,611.0
+1:49.0,Defensive rebound by Team,23-20, ,,1,20,23,-3,611.0
+1:49.0, ,23-20,J. Ivey enters the game for S. Umude,,1,20,23,-3,611.0
+1:36.0,B. Sheppard misses 3-pt jump shot from 24 ft,23-20, ,,1,20,23,-3,624.0
+1:35.0,Offensive rebound by O. Toppin,23-20, ,,1,20,23,-3,625.0
+1:31.0,Turnover by D. McDermott (traveling),23-20, ,,1,20,23,-3,629.0
+1:31.0,T. McConnell enters the game for T. Haliburton,23-20, ,,1,20,23,-3,629.0
+1:13.0, ,23-20,C. Metu misses 2-pt hook shot from 6 ft,,1,20,23,-3,647.0
+1:11.0,Defensive rebound by D. McDermott,23-20, ,,1,20,23,-3,649.0
+1:04.0,D. McDermott makes 3-pt jump shot from 26 ft (assist by B. Sheppard),26-20, ,,1,20,26,-6,656.0
+0:41.0, ,26-22,J. Ivey makes 2-pt layup from 2 ft,,1,22,26,-4,679.0
+0:30.0,T. McConnell misses 2-pt jump shot from 10 ft,26-22, ,,1,22,26,-4,690.0
+0:27.0, ,26-22,Defensive rebound by J. Wiseman,,1,22,26,-4,693.0
+0:25.0, ,26-22,Shooting foul by B. Sheppard (drawn by J. Ivey),,1,22,26,-4,695.0
+0:25.0, ,26-23,J. Ivey makes free throw 1 of 2,,1,23,26,-3,695.0
+0:25.0, ,26-23,S. Umude enters the game for M. Sasser,,1,23,26,-3,695.0
+0:25.0, ,26-24,J. Ivey makes free throw 2 of 2,,1,24,26,-2,695.0
+0:02.0,O. Toppin makes 3-pt jump shot from 24 ft (assist by T. McConnell),29-24, ,,1,24,29,-5,718.0
+0:00.0, ,29-24,J. Ivey misses 3-pt jump shot from 65 ft,,1,24,29,-5,720.0
+0:00.0, ,29-24,Offensive rebound by Team,,1,24,29,-5,720.0
+0:00.0,End of 1st quarter,29-24,,,1,24,29,-5,720.0
+12:00.0,Start of 2nd quarter,29-24,,,2,24,29,-5,720.0
+11:43.0, ,29-24,Turnover by J. Ivey (bad pass; steal by D. McDermott),,2,24,29,-5,737.0
+11:39.0,Turnover by T. McConnell (bad pass; steal by J. Ivey),29-24, ,,2,24,29,-5,741.0
+11:28.0, ,29-24,Turnover by J. Ivey (lost ball; steal by I. Jackson),,2,24,29,-5,752.0
+11:08.0,T. McConnell misses 2-pt layup from 3 ft,29-24, ,,2,24,29,-5,772.0
+11:05.0, ,29-24,Defensive rebound by J. Wiseman,,2,24,29,-5,775.0
+10:52.0, ,29-24,E. Fournier misses 2-pt jump shot from 5 ft,,2,24,29,-5,788.0
+10:50.0, ,29-24,Offensive rebound by E. Fournier,,2,24,29,-5,790.0
+10:48.0, ,29-27,M. Sasser makes 3-pt jump shot from 26 ft (assist by E. Fournier),,2,27,29,-2,792.0
+10:33.0,B. Sheppard makes 2-pt layup from 3 ft (assist by I. Jackson),31-27, ,,2,27,31,-4,807.0
+10:20.0, ,31-29,J. Ivey makes 2-pt layup from 2 ft,,2,29,31,-2,820.0
+10:00.0,T. McConnell makes 3-pt jump shot from 24 ft (assist by B. Sheppard),34-29, ,,2,29,34,-5,840.0
+9:46.0, ,34-29,E. Fournier misses 3-pt jump shot from 26 ft,,2,29,34,-5,854.0
+9:43.0,Defensive rebound by I. Jackson,34-29, ,,2,29,34,-5,857.0
+9:36.0,O. Toppin misses 3-pt jump shot from 27 ft,34-29, ,,2,29,34,-5,864.0
+9:32.0, ,34-29,Defensive rebound by E. Fournier,,2,29,34,-5,868.0
+9:27.0, ,34-31,E. Fournier makes 2-pt jump shot from 10 ft,,2,31,34,-3,873.0
+9:27.0,A. Nesmith enters the game for I. Jackson,34-31, ,,2,31,34,-3,873.0
+9:27.0,M. Turner enters the game for D. McDermott,34-31, ,,2,31,34,-3,873.0
+9:27.0, ,34-31,T. Evbuomwan enters the game for C. Metu,,2,31,34,-3,873.0
+9:01.0,A. Nesmith misses 3-pt jump shot from 27 ft,34-31, ,,2,31,34,-3,899.0
+9:01.0, ,34-31,Defensive rebound by Team,,2,31,34,-3,899.0
+8:44.0, ,34-31,J. Wiseman misses 2-pt hook shot from 5 ft,,2,31,34,-3,916.0
+8:42.0,Defensive rebound by O. Toppin,34-31, ,,2,31,34,-3,918.0
+8:25.0,B. Sheppard makes 3-pt jump shot from 24 ft (assist by T. McConnell),37-31, ,,2,31,37,-6,935.0
+8:14.0, ,37-31,M. Sasser misses 3-pt jump shot from 26 ft,,2,31,37,-6,946.0
+8:11.0,Defensive rebound by B. Sheppard,37-31, ,,2,31,37,-6,949.0
+8:02.0,T. McConnell misses 3-pt jump shot from 27 ft,37-31, ,,2,31,37,-6,958.0
+7:59.0, ,37-31,Defensive rebound by J. Wiseman,,2,31,37,-6,961.0
+7:50.0, ,37-31,J. Wiseman misses 2-pt jump shot from 7 ft,,2,31,37,-6,970.0
+7:48.0,Defensive rebound by T. McConnell,37-31, ,,2,31,37,-6,972.0
+7:47.0,Shooting foul by J. Ivey (drawn by O. Toppin),37-31, ,,2,31,37,-6,973.0
+7:47.0,O. Toppin makes free throw 1 of 2,38-31, ,,2,31,38,-7,973.0
+7:47.0, ,38-31,J. Duren enters the game for J. Wiseman,,2,31,38,-7,973.0
+7:47.0,O. Toppin makes free throw 2 of 2,39-31, ,,2,31,39,-8,973.0
+7:27.0, ,39-34,M. Sasser makes 3-pt jump shot from 23 ft,,2,34,39,-5,993.0
+7:16.0,T. McConnell makes 2-pt layup from 2 ft,41-34, ,,2,34,41,-7,1004.0
+7:05.0, ,41-34,Shooting foul by M. Turner (drawn by T. Evbuomwan),,2,34,41,-7,1015.0
+7:05.0, ,41-35,T. Evbuomwan makes free throw 1 of 2,,2,35,41,-6,1015.0
+7:05.0,P. Siakam enters the game for O. Toppin,41-35, ,,2,35,41,-6,1015.0
+7:05.0, ,41-35,C. Cunningham enters the game for J. Ivey,,2,35,41,-6,1015.0
+7:05.0, ,41-36,T. Evbuomwan makes free throw 2 of 2,,2,36,41,-5,1015.0
+6:45.0,M. Turner misses 2-pt jump shot from 7 ft,41-36, ,,2,36,41,-5,1035.0
+6:42.0, ,41-36,Defensive rebound by J. Duren,,2,36,41,-5,1038.0
+6:33.0, ,41-36,Def 3 sec tech foul by Team,,2,36,41,-5,1047.0
+6:33.0, ,41-36,Detroit full timeout,,2,36,41,-5,1047.0
+6:33.0,A. Nembhard enters the game for B. Sheppard,41-36, ,,2,36,41,-5,1047.0
+6:33.0, ,41-37,C. Cunningham makes technical free throw,,2,37,41,-4,1047.0
+6:20.0, ,41-39,C. Cunningham makes 2-pt jump shot from 3 ft,,2,39,41,-2,1060.0
+6:07.0,T. McConnell makes 2-pt jump shot from 10 ft,43-39, ,,2,39,43,-4,1073.0
+5:50.0, ,43-41,C. Cunningham makes 2-pt layup from 4 ft,,2,41,43,-2,1090.0
+5:33.0,A. Nesmith makes 2-pt jump shot from 21 ft (assist by A. Nembhard),45-41, ,,2,41,45,-4,1107.0
+5:06.0, ,45-43,T. Evbuomwan makes 2-pt jump shot from 3 ft (assist by E. Fournier),,2,43,45,-2,1134.0
+4:46.0,A. Nesmith makes 3-pt jump shot from 26 ft (assist by M. Turner),48-43, ,,2,43,48,-5,1154.0
+4:24.0, ,48-45,C. Cunningham makes 2-pt jump shot from 7 ft,,2,45,48,-3,1176.0
+4:19.0,Indiana full timeout,48-45, ,,2,45,48,-3,1181.0
+4:19.0,T. Haliburton enters the game for T. McConnell,48-45, ,,2,45,48,-3,1181.0
+4:19.0, ,48-45,J. Ivey enters the game for E. Fournier,,2,45,48,-3,1181.0
+4:19.0, ,48-45,S. Umude enters the game for M. Sasser,,2,45,48,-3,1181.0
+4:13.0,P. Siakam misses 2-pt jump shot from 17 ft,48-45, ,,2,45,48,-3,1187.0
+4:09.0, ,48-45,Defensive rebound by T. Evbuomwan,,2,45,48,-3,1191.0
+3:54.0, ,48-47,S. Umude makes 2-pt jump shot from 13 ft (assist by C. Cunningham),,2,47,48,-1,1206.0
+3:44.0,Shooting foul by S. Umude (drawn by P. Siakam),48-47, ,,2,47,48,-1,1216.0
+3:44.0,P. Siakam misses free throw 1 of 2,48-47, ,,2,47,48,-1,1216.0
+3:44.0,Offensive rebound by Team,48-47, ,,2,47,48,-1,1216.0
+3:44.0,I. Jackson enters the game for M. Turner,48-47, ,,2,47,48,-1,1216.0
+3:44.0,P. Siakam makes free throw 2 of 2,49-47, ,,2,47,49,-2,1216.0
+3:18.0, ,49-47,J. Ivey misses 2-pt layup from 3 ft,,2,47,49,-2,1242.0
+3:18.0, ,49-47,Offensive rebound by J. Duren,,2,47,49,-2,1242.0
+3:18.0, ,49-47,J. Duren misses 2-pt layup at rim,,2,47,49,-2,1242.0
+3:18.0,Defensive rebound by Team,49-47, ,,2,47,49,-2,1242.0
+3:04.0,A. Nesmith makes 2-pt jump shot from 12 ft (assist by I. Jackson),51-47, ,,2,47,51,-4,1256.0
+2:47.0, ,51-47,Shooting foul by A. Nembhard (drawn by T. Evbuomwan),,2,47,51,-4,1273.0
+2:47.0, ,51-48,T. Evbuomwan makes free throw 1 of 2,,2,48,51,-3,1273.0
+2:47.0, ,51-48,T. Evbuomwan misses free throw 2 of 2,,2,48,51,-3,1273.0
+2:44.0,Defensive rebound by P. Siakam,51-48, ,,2,48,51,-3,1276.0
+2:29.0,A. Nembhard misses 3-pt jump shot from 24 ft,51-48, ,,2,48,51,-3,1291.0
+2:26.0, ,51-48,Defensive rebound by C. Cunningham,,2,48,51,-3,1294.0
+2:23.0, ,51-48,C. Cunningham misses 2-pt layup from 5 ft,,2,48,51,-3,1297.0
+2:19.0, ,51-48,Offensive rebound by J. Duren,,2,48,51,-3,1301.0
+2:19.0, ,51-50,J. Duren makes 2-pt dunk at rim,,2,50,51,-1,1301.0
+2:02.0,A. Nembhard makes 3-pt jump shot from 23 ft (assist by P. Siakam),54-50, ,,2,50,54,-4,1318.0
+1:41.0, ,54-50,C. Cunningham misses 2-pt jump shot from 21 ft,,2,50,54,-4,1339.0
+1:38.0,Defensive rebound by I. Jackson,54-50, ,,2,50,54,-4,1342.0
+1:32.0,A. Nesmith misses 2-pt layup from 4 ft (block by J. Duren),54-50, ,,2,50,54,-4,1348.0
+1:30.0, ,54-50,Defensive rebound by C. Cunningham,,2,50,54,-4,1350.0
+1:27.0, ,54-52,T. Evbuomwan makes 2-pt layup from 2 ft (assist by C. Cunningham),,2,52,54,-2,1353.0
+1:18.0,T. Haliburton makes 2-pt layup from 2 ft,56-52, ,,2,52,56,-4,1362.0
+1:18.0,Shooting foul by J. Duren (drawn by T. Haliburton),56-52, ,,2,52,56,-4,1362.0
+1:18.0, ,56-52,J. Wiseman enters the game for J. Duren,,2,52,56,-4,1362.0
+1:18.0,T. Haliburton misses free throw 1 of 1,56-52, ,,2,52,56,-4,1362.0
+1:17.0,Offensive rebound by Team,56-52, ,,2,52,56,-4,1363.0
+1:10.0,Shooting foul by J. Wiseman (drawn by A. Nesmith),56-52, ,,2,52,56,-4,1370.0
+1:10.0, ,56-52,Detroit full timeout,,2,52,56,-4,1370.0
+1:10.0, ,56-52,Instant Replay (Challenge: Stands),,2,52,56,-4,1370.0
+1:10.0,A. Nesmith makes free throw 1 of 2,57-52, ,,2,52,57,-5,1370.0
+1:10.0,A. Nesmith makes free throw 2 of 2,58-52, ,,2,52,58,-6,1370.0
+0:55.0, ,58-52,Turnover by C. Cunningham (lost ball; steal by I. Jackson),,2,52,58,-6,1385.0
+0:47.0,A. Nesmith makes 3-pt jump shot from 27 ft (assist by P. Siakam),61-52, ,,2,52,61,-9,1393.0
+0:26.0, ,61-52,J. Ivey misses 2-pt jump shot from 15 ft,,2,52,61,-9,1414.0
+0:23.0,Defensive rebound by I. Jackson,61-52, ,,2,52,61,-9,1417.0
+0:04.0,T. Haliburton makes 2-pt layup from 3 ft,63-52, ,,2,52,63,-11,1436.0
+0:00.0, ,63-52,C. Cunningham misses 3-pt jump shot from 32 ft,,2,52,63,-11,1440.0
+0:00.0, ,63-52,Offensive rebound by Team,,2,52,63,-11,1440.0
+0:00.0,End of 2nd quarter,63-52,,,2,52,63,-11,1440.0
+12:00.0,Start of 3rd quarter,63-52,,,3,52,63,-11,1440.0
+11:42.0, ,63-54,J. Ivey makes 2-pt jump shot from 5 ft (assist by C. Cunningham),,3,54,63,-9,1458.0
+11:25.0,A. Nesmith misses 3-pt jump shot from 24 ft,63-54, ,,3,54,63,-9,1475.0
+11:22.0, ,63-54,Defensive rebound by C. Cunningham,,3,54,63,-9,1478.0
+11:16.0, ,63-54,S. Umude misses 3-pt jump shot from 24 ft,,3,54,63,-9,1484.0
+11:12.0,Defensive rebound by P. Siakam,63-54, ,,3,54,63,-9,1488.0
+11:09.0,T. Haliburton misses 3-pt jump shot from 26 ft,63-54, ,,3,54,63,-9,1491.0
+11:05.0,Offensive rebound by M. Turner,63-54, ,,3,54,63,-9,1495.0
+10:56.0,M. Turner misses 2-pt jump shot from 13 ft,63-54, ,,3,54,63,-9,1504.0
+10:54.0, ,63-54,Defensive rebound by J. Duren,,3,54,63,-9,1506.0
+10:44.0, ,63-54,C. Cunningham misses 2-pt jump shot from 17 ft,,3,54,63,-9,1516.0
+10:43.0, ,63-54,Offensive rebound by Team,,3,54,63,-9,1517.0
+10:43.0,Loose ball foul by M. Turner (drawn by J. Duren),63-54, ,,3,54,63,-9,1517.0
+10:43.0,I. Jackson enters the game for M. Turner,63-54, ,,3,54,63,-9,1517.0
+10:32.0, ,63-54,C. Cunningham misses 2-pt jump shot from 14 ft,,3,54,63,-9,1528.0
+10:30.0, ,63-54,Offensive rebound by J. Duren,,3,54,63,-9,1530.0
+10:28.0, ,63-54,J. Duren misses 2-pt layup from 4 ft,,3,54,63,-9,1532.0
+10:26.0,Defensive rebound by I. Jackson,63-54, ,,3,54,63,-9,1534.0
+10:24.0,Personal foul by T. Evbuomwan (drawn by P. Siakam),63-54, ,,3,54,63,-9,1536.0
+10:17.0,T. Haliburton makes 2-pt jump shot from 5 ft (assist by A. Nembhard),65-54, ,,3,54,65,-11,1543.0
+9:55.0, ,65-54,J. Duren misses 2-pt jump shot from 6 ft,,3,54,65,-11,1565.0
+9:51.0,Defensive rebound by P. Siakam,65-54, ,,3,54,65,-11,1569.0
+9:41.0,T. Haliburton makes 2-pt layup from 4 ft,67-54, ,,3,54,67,-13,1579.0
+9:25.0, ,67-54,Shooting foul by A. Nesmith (drawn by C. Cunningham),,3,54,67,-13,1595.0
+9:25.0, ,67-55,C. Cunningham makes free throw 1 of 2,,3,55,67,-12,1595.0
+9:25.0,M. Turner enters the game for I. Jackson,67-55, ,,3,55,67,-12,1595.0
+9:25.0, ,67-56,C. Cunningham makes free throw 2 of 2,,3,56,67,-11,1595.0
+9:05.0,P. Siakam misses 2-pt layup from 5 ft,67-56, ,,3,56,67,-11,1615.0
+9:03.0, ,67-56,Defensive rebound by J. Duren,,3,56,67,-11,1617.0
+8:59.0, ,67-56,C. Cunningham misses 2-pt layup from 4 ft (block by M. Turner),,3,56,67,-11,1621.0
+8:56.0,Defensive rebound by T. Haliburton,67-56, ,,3,56,67,-11,1624.0
+8:55.0,A. Nembhard makes 2-pt layup from 3 ft (assist by T. Haliburton),69-56, ,,3,56,69,-13,1625.0
+8:39.0, ,69-56,C. Cunningham misses 2-pt layup from 5 ft,,3,56,69,-13,1641.0
+8:36.0,Defensive rebound by A. Nesmith,69-56, ,,3,56,69,-13,1644.0
+8:30.0,P. Siakam makes 2-pt hook shot from 3 ft (assist by T. Haliburton),71-56, ,,3,56,71,-15,1650.0
+8:30.0, ,71-56,Detroit full timeout,,3,56,71,-15,1650.0
+8:18.0, ,71-56,Personal foul by A. Nesmith (drawn by J. Duren),,3,56,71,-15,1662.0
+8:09.0, ,71-59,J. Ivey makes 3-pt jump shot from 27 ft (assist by C. Cunningham),,3,59,71,-12,1671.0
+7:52.0,T. Haliburton makes 2-pt layup from 4 ft (assist by P. Siakam),73-59, ,,3,59,73,-14,1688.0
+7:52.0,Shooting foul by S. Umude (drawn by T. Haliburton),73-59, ,,3,59,73,-14,1688.0
+7:52.0,T. Haliburton makes free throw 1 of 1,74-59, ,,3,59,74,-15,1688.0
+7:39.0, ,74-59,Shooting foul by M. Turner (drawn by J. Ivey),,3,59,74,-15,1701.0
+7:39.0, ,74-59,J. Ivey misses free throw 1 of 2,,3,59,74,-15,1701.0
+7:39.0, ,74-59,Offensive rebound by Team,,3,59,74,-15,1701.0
+7:39.0, ,74-59,J. Ivey misses free throw 2 of 2,,3,59,74,-15,1701.0
+7:36.0,Defensive rebound by M. Turner,74-59, ,,3,59,74,-15,1704.0
+7:19.0,P. Siakam makes 3-pt jump shot from 24 ft (assist by M. Turner),77-59, ,,3,59,77,-18,1721.0
+7:05.0, ,77-59,Turnover by C. Cunningham (bad pass; steal by T. Haliburton),,3,59,77,-18,1735.0
+7:00.0,P. Siakam makes 2-pt layup from 4 ft (assist by M. Turner),79-59, ,,3,59,79,-20,1740.0
+7:00.0,Shooting foul by C. Cunningham (drawn by P. Siakam),79-59, ,,3,59,79,-20,1740.0
+7:00.0,P. Siakam misses free throw 1 of 1,79-59, ,,3,59,79,-20,1740.0
+6:57.0, ,79-59,Defensive rebound by S. Umude,,3,59,79,-20,1743.0
+6:39.0, ,79-59,C. Cunningham misses 2-pt jump shot from 7 ft,,3,59,79,-20,1761.0
+6:37.0,Defensive rebound by P. Siakam,79-59, ,,3,59,79,-20,1763.0
+6:31.0,Shooting foul by S. Umude (drawn by P. Siakam),79-59, ,,3,59,79,-20,1769.0
+6:31.0,P. Siakam misses free throw 1 of 2,79-59, ,,3,59,79,-20,1769.0
+6:31.0,Offensive rebound by Team,79-59, ,,3,59,79,-20,1769.0
+6:31.0, ,79-59,C. Metu enters the game for T. Evbuomwan,,3,59,79,-20,1769.0
+6:31.0,P. Siakam makes free throw 2 of 2,80-59, ,,3,59,80,-21,1769.0
+6:14.0, ,80-59,C. Cunningham misses 3-pt jump shot from 27 ft,,3,59,80,-21,1786.0
+6:11.0,Defensive rebound by P. Siakam,80-59, ,,3,59,80,-21,1789.0
+5:58.0,A. Nesmith makes 2-pt layup from 4 ft (assist by T. Haliburton),82-59, ,,3,59,82,-23,1802.0
+5:45.0, ,82-61,S. Umude makes 2-pt jump shot from 4 ft (assist by J. Duren),,3,61,82,-21,1815.0
+5:36.0,M. Turner makes 2-pt dunk from 5 ft (assist by T. Haliburton),84-61, ,,3,61,84,-23,1824.0
+5:20.0, ,84-61,J. Ivey misses 2-pt jump shot from 13 ft,,3,61,84,-23,1840.0
+5:18.0,Defensive rebound by P. Siakam,84-61, ,,3,61,84,-23,1842.0
+5:14.0,T. Haliburton makes 3-pt jump shot from 27 ft (assist by P. Siakam),87-61, ,,3,61,87,-26,1846.0
+5:14.0, ,87-61,Detroit full timeout,,3,61,87,-26,1846.0
+5:14.0, ,87-61,J. Wiseman enters the game for J. Duren,,3,61,87,-26,1846.0
+4:58.0, ,87-61,C. Cunningham misses 2-pt hook shot from 6 ft (block by M. Turner),,3,61,87,-26,1862.0
+4:57.0, ,87-61,Offensive rebound by J. Wiseman,,3,61,87,-26,1863.0
+4:57.0, ,87-61,J. Wiseman misses 2-pt layup from 4 ft,,3,61,87,-26,1863.0
+4:57.0, ,87-61,Shooting foul by M. Turner (drawn by J. Wiseman),,3,61,87,-26,1863.0
+4:57.0, ,87-62,J. Wiseman makes free throw 1 of 2,,3,62,87,-25,1863.0
+4:57.0,I. Jackson enters the game for M. Turner,87-62, ,,3,62,87,-25,1863.0
+4:57.0, ,87-62,E. Fournier enters the game for S. Umude,,3,62,87,-25,1863.0
+4:57.0, ,87-63,J. Wiseman makes free throw 2 of 2,,3,63,87,-24,1863.0
+4:46.0,T. Haliburton misses 2-pt jump shot from 21 ft,87-63, ,,3,63,87,-24,1874.0
+4:44.0, ,87-63,Defensive rebound by J. Ivey,,3,63,87,-24,1876.0
+4:37.0, ,87-65,C. Metu makes 2-pt hook shot from 6 ft (assist by J. Ivey),,3,65,87,-22,1883.0
+4:30.0,Shooting foul by J. Wiseman (drawn by I. Jackson),87-65, ,,3,65,87,-22,1890.0
+4:30.0,I. Jackson makes free throw 1 of 2,88-65, ,,3,65,88,-23,1890.0
+4:30.0, ,88-65,M. Sasser enters the game for J. Ivey,,3,65,88,-23,1890.0
+4:30.0,I. Jackson misses free throw 2 of 2,88-65, ,,3,65,88,-23,1890.0
+4:27.0, ,88-65,Defensive rebound by J. Wiseman,,3,65,88,-23,1893.0
+4:15.0, ,88-67,C. Cunningham makes 2-pt jump shot from 16 ft,,3,67,88,-21,1905.0
+4:04.0,P. Siakam makes 2-pt layup from 3 ft (assist by I. Jackson),90-67, ,,3,67,90,-23,1916.0
+4:04.0,T. McConnell enters the game for A. Nembhard,90-67, ,,3,67,90,-23,1916.0
+4:04.0,B. Sheppard enters the game for A. Nesmith,90-67, ,,3,67,90,-23,1916.0
+3:39.0, ,90-69,C. Cunningham makes 2-pt jump shot from 12 ft (assist by E. Fournier),,3,69,90,-21,1941.0
+3:23.0,T. Haliburton makes 2-pt jump shot from 7 ft,92-69, ,,3,69,92,-23,1957.0
+3:16.0, ,92-69,C. Metu misses 3-pt jump shot from 24 ft,,3,69,92,-23,1964.0
+3:14.0,Defensive rebound by P. Siakam,92-69, ,,3,69,92,-23,1966.0
+3:08.0,P. Siakam makes 2-pt layup from 4 ft (assist by T. Haliburton),94-69, ,,3,69,94,-25,1972.0
+2:52.0, ,94-71,J. Wiseman makes 2-pt layup from 3 ft (assist by C. Cunningham),,3,71,94,-23,1988.0
+2:44.0,Indiana full timeout,94-71, ,,3,71,94,-23,1996.0
+2:44.0, ,94-71,T. Brown enters the game for C. Cunningham,,3,71,94,-23,1996.0
+2:34.0,Turnover by T. McConnell (traveling),94-71, ,,3,71,94,-23,2006.0
+2:20.0, ,94-71,C. Metu misses 3-pt jump shot from 28 ft (block by P. Siakam),,3,71,94,-23,2020.0
+2:19.0, ,94-71,Offensive rebound by J. Wiseman,,3,71,94,-23,2021.0
+2:18.0, ,94-73,J. Wiseman makes 2-pt hook shot from 2 ft,,3,73,94,-21,2022.0
+1:53.0,P. Siakam misses 2-pt jump shot from 8 ft,94-73, ,,3,73,94,-21,2047.0
+1:51.0, ,94-73,Defensive rebound by J. Wiseman,,3,73,94,-21,2049.0
+1:42.0, ,94-73,Turnover by M. Sasser (lost ball; steal by I. Jackson),,3,73,94,-21,2058.0
+1:38.0,I. Jackson makes 2-pt dunk from 3 ft,96-73, ,,3,73,96,-23,2062.0
+1:19.0, ,96-75,C. Metu makes 2-pt dunk from 5 ft (assist by T. Brown),,3,75,96,-21,2081.0
+0:54.0,Turnover by T. McConnell (bad pass; steal by E. Fournier),96-75, ,,3,75,96,-21,2106.0
+0:52.0, ,96-78,E. Fournier makes 3-pt jump shot from 27 ft,,3,78,96,-18,2108.0
+0:52.0,Indiana full timeout,96-78, ,,3,78,96,-18,2108.0
+0:52.0,D. McDermott enters the game for T. Haliburton,96-78, ,,3,78,96,-18,2108.0
+0:52.0,O. Toppin enters the game for P. Siakam,96-78, ,,3,78,96,-18,2108.0
+0:52.0,Violation by Team (delay of game),96-78, ,,3,78,96,-18,2108.0
+0:43.0,B. Sheppard makes 2-pt layup from 4 ft (assist by O. Toppin),98-78, ,,3,78,98,-20,2117.0
+0:23.0, ,98-78,J. Wiseman misses 2-pt jump shot from 7 ft,,3,78,98,-20,2137.0
+0:20.0,Defensive rebound by O. Toppin,98-78, ,,3,78,98,-20,2140.0
+0:02.0,Turnover by T. McConnell (bad pass; steal by C. Metu),98-78, ,,3,78,98,-20,2158.0
+0:00.0, ,98-78,C. Metu misses 2-pt layup from 3 ft,,3,78,98,-20,2160.0
+0:00.0, ,98-78,Offensive rebound by Team,,3,78,98,-20,2160.0
+0:00.0,End of 3rd quarter,98-78,,,3,78,98,-20,2160.0
+12:00.0,Start of 4th quarter,98-78,,,4,78,98,-20,2160.0
+11:38.0,T. McConnell makes 2-pt jump shot from 8 ft (assist by D. McDermott),100-78, ,,4,78,100,-22,2182.0
+11:17.0, ,100-80,T. Brown makes 2-pt jump shot from 20 ft (assist by E. Fournier),,4,80,100,-20,2203.0
+10:50.0,I. Jackson makes 2-pt hook shot from 3 ft (assist by T. McConnell),102-80, ,,4,80,102,-22,2230.0
+10:41.0, ,102-80,Personal foul by D. McDermott (drawn by C. Metu),,4,80,102,-22,2239.0
+10:35.0, ,102-80,Shooting foul by O. Toppin (drawn by C. Metu),,4,80,102,-22,2245.0
+10:35.0, ,102-81,C. Metu makes free throw 1 of 2,,4,81,102,-21,2245.0
+10:35.0, ,102-82,C. Metu makes free throw 2 of 2,,4,82,102,-20,2245.0
+10:21.0,B. Sheppard makes 2-pt jump shot from 20 ft (assist by D. McDermott),104-82, ,,4,82,104,-22,2259.0
+10:02.0, ,104-84,J. Wiseman makes 2-pt hook shot from 6 ft (assist by M. Sasser),,4,84,104,-20,2278.0
+9:55.0,Turnover by B. Sheppard (bad pass; steal by M. Sasser),104-84, ,,4,84,104,-20,2285.0
+9:55.0, ,104-84,M. Sasser misses 2-pt layup from 8 ft (block by T. McConnell),,4,84,104,-20,2285.0
+9:55.0,Defensive rebound by Team,104-84, ,,4,84,104,-20,2285.0
+9:55.0, ,104-84,J. Duren enters the game for J. Wiseman,,4,84,104,-20,2285.0
+9:39.0,B. Sheppard misses 3-pt jump shot from 25 ft,104-84, ,,4,84,104,-20,2301.0
+9:36.0, ,104-84,Defensive rebound by E. Fournier,,4,84,104,-20,2304.0
+9:24.0, ,104-84,E. Fournier misses 2-pt jump shot from 9 ft,,4,84,104,-20,2316.0
+9:21.0,Defensive rebound by D. McDermott,104-84, ,,4,84,104,-20,2319.0
+9:18.0,Turnover by T. McConnell (bad pass; steal by C. Metu),104-84, ,,4,84,104,-20,2322.0
+9:10.0, ,104-84,T. Brown misses 3-pt jump shot from 27 ft,,4,84,104,-20,2330.0
+9:04.0,Defensive rebound by I. Jackson,104-84, ,,4,84,104,-20,2336.0
+8:59.0,Personal foul by C. Metu (drawn by T. McConnell),104-84, ,,4,84,104,-20,2341.0
+8:47.0,T. McConnell makes 2-pt jump shot from 7 ft,106-84, ,,4,84,106,-22,2353.0
+8:36.0, ,106-84,M. Sasser misses 3-pt jump shot from 26 ft,,4,84,106,-22,2364.0
+8:33.0,Defensive rebound by T. McConnell,106-84, ,,4,84,106,-22,2367.0
+8:24.0,O. Toppin misses 3-pt jump shot from 26 ft,106-84, ,,4,84,106,-22,2376.0
+8:21.0,Offensive rebound by I. Jackson,106-84, ,,4,84,106,-22,2379.0
+8:16.0,D. McDermott misses 3-pt jump shot from 25 ft,106-84, ,,4,84,106,-22,2384.0
+8:13.0, ,106-84,Defensive rebound by M. Sasser,,4,84,106,-22,2387.0
+8:12.0,Violation by Team (kicked ball),106-84, ,,4,84,106,-22,2388.0
+8:09.0, ,106-84,Turnover by E. Fournier (bad pass; steal by T. McConnell),,4,84,106,-22,2391.0
+8:05.0,T. McConnell makes 2-pt layup from 3 ft,108-84, ,,4,84,108,-24,2395.0
+7:51.0, ,108-84,J. Duren misses 2-pt layup from 4 ft,,4,84,108,-24,2409.0
+7:49.0,Defensive rebound by I. Jackson,108-84, ,,4,84,108,-24,2411.0
+7:44.0,D. McDermott misses 3-pt jump shot from 28 ft,108-84, ,,4,84,108,-24,2416.0
+7:41.0, ,108-84,Defensive rebound by C. Metu,,4,84,108,-24,2419.0
+7:30.0, ,108-84,Turnover by E. Fournier (bad pass; steal by O. Toppin),,4,84,108,-24,2430.0
+7:23.0,Indiana full timeout,108-84, ,,4,84,108,-24,2437.0
+7:23.0,A. Nembhard enters the game for B. Sheppard,108-84, ,,4,84,108,-24,2437.0
+7:23.0,P. Siakam enters the game for O. Toppin,108-84, ,,4,84,108,-24,2437.0
+7:23.0, ,108-84,C. Cunningham enters the game for E. Fournier,,4,84,108,-24,2437.0
+7:23.0, ,108-84,T. Evbuomwan enters the game for M. Sasser,,4,84,108,-24,2437.0
+7:15.0,D. McDermott makes 2-pt jump shot from 7 ft (assist by T. McConnell),110-84, ,,4,84,110,-26,2445.0
+7:02.0, ,110-84,Shooting foul by I. Jackson (drawn by J. Duren),,4,84,110,-26,2458.0
+7:02.0, ,110-85,J. Duren makes free throw 1 of 2,,4,85,110,-25,2458.0
+7:02.0,M. Turner enters the game for I. Jackson,110-85, ,,4,85,110,-25,2458.0
+7:02.0, ,110-85,J. Ivey enters the game for C. Metu,,4,85,110,-25,2458.0
+7:02.0, ,110-86,J. Duren makes free throw 2 of 2,,4,86,110,-24,2458.0
+6:39.0,P. Siakam misses 2-pt jump shot from 7 ft,110-86, ,,4,86,110,-24,2481.0
+6:32.0, ,110-86,Defensive rebound by J. Duren,,4,86,110,-24,2488.0
+6:32.0, ,110-86,Turnover by J. Duren (bad pass; steal by D. McDermott),,4,86,110,-24,2488.0
+6:25.0,M. Turner makes 3-pt jump shot from 26 ft (assist by T. McConnell),113-86, ,,4,86,113,-27,2495.0
+6:14.0, ,113-86,Shooting foul by M. Turner (drawn by J. Duren),,4,86,113,-27,2506.0
+6:14.0, ,113-87,J. Duren makes free throw 1 of 2,,4,87,113,-26,2506.0
+6:14.0,J. Walker enters the game for P. Siakam,113-87, ,,4,87,113,-26,2506.0
+6:14.0,Indiana full timeout,113-87, ,,4,87,113,-26,2506.0
+6:14.0,I. Jackson enters the game for M. Turner,113-87, ,,4,87,113,-26,2506.0
+6:14.0, ,113-87,J. Duren misses free throw 2 of 2,,4,87,113,-26,2506.0
+6:11.0,Defensive rebound by D. McDermott,113-87, ,,4,87,113,-26,2509.0
+5:57.0,D. McDermott makes 2-pt jump shot from 14 ft (assist by T. McConnell),115-87, ,,4,87,115,-28,2523.0
+5:28.0, ,115-87,J. Duren misses 2-pt hook shot from 8 ft,,4,87,115,-28,2552.0
+5:25.0,Defensive rebound by J. Walker,115-87, ,,4,87,115,-28,2555.0
+5:13.0,Turnover by T. McConnell (lost ball; steal by C. Cunningham),115-87, ,,4,87,115,-28,2567.0
+5:09.0, ,115-87,T. Brown misses 2-pt layup from 5 ft (block by J. Walker),,4,87,115,-28,2571.0
+5:09.0, ,115-87,Offensive rebound by Team,,4,87,115,-28,2571.0
+4:58.0, ,115-89,J. Duren makes 2-pt dunk from 3 ft (assist by J. Ivey),,4,89,115,-26,2582.0
+4:29.0,A. Nembhard misses 2-pt jump shot from 12 ft,115-89, ,,4,89,115,-26,2611.0
+4:27.0, ,115-89,Defensive rebound by T. Evbuomwan,,4,89,115,-26,2613.0
+4:22.0, ,115-89,Shooting foul by I. Jackson (drawn by J. Duren),,4,89,115,-26,2618.0
+4:22.0, ,115-90,J. Duren makes free throw 1 of 2,,4,90,115,-25,2618.0
+4:22.0,K. Brown enters the game for T. McConnell,115-90, ,,4,90,115,-25,2618.0
+4:22.0,B. Sheppard enters the game for A. Nembhard,115-90, ,,4,90,115,-25,2618.0
+4:22.0, ,115-91,J. Duren makes free throw 2 of 2,,4,91,115,-24,2618.0
+4:10.0,I. Jackson makes 2-pt layup from 2 ft (assist by B. Sheppard),117-91, ,,4,91,117,-26,2630.0
+3:59.0, ,117-93,J. Ivey makes 2-pt jump shot from 10 ft (assist by C. Cunningham),,4,93,117,-24,2641.0
+3:37.0,J. Walker misses 2-pt layup from 3 ft,117-93, ,,4,93,117,-24,2663.0
+3:35.0, ,117-93,Defensive rebound by J. Duren,,4,93,117,-24,2665.0
+3:29.0, ,117-93,J. Ivey misses 3-pt jump shot from 26 ft,,4,93,117,-24,2671.0
+3:27.0, ,117-93,Offensive rebound by T. Brown,,4,93,117,-24,2673.0
+3:26.0, ,117-93,T. Evbuomwan misses 2-pt layup from 4 ft,,4,93,117,-24,2674.0
+3:26.0,Defensive rebound by K. Brown,117-93, ,,4,93,117,-24,2674.0
+3:21.0,J. Walker makes 2-pt layup from 3 ft (assist by K. Brown),119-93, ,,4,93,119,-26,2679.0
+3:21.0, ,119-93,Detroit full timeout,,4,93,119,-26,2679.0
+3:21.0,J. Johnson enters the game for D. McDermott,119-93, ,,4,93,119,-26,2679.0
+3:21.0, ,119-93,B. Boeheim enters the game for C. Cunningham,,4,93,119,-26,2679.0
+3:21.0, ,119-93,M. Flynn enters the game for J. Duren,,4,93,119,-26,2679.0
+3:21.0, ,119-93,C. Metu enters the game for J. Ivey,,4,93,119,-26,2679.0
+3:07.0, ,119-93,B. Boeheim misses 3-pt jump shot from 27 ft,,4,93,119,-26,2693.0
+3:03.0, ,119-93,Offensive rebound by M. Flynn,,4,93,119,-26,2697.0
+2:55.0, ,119-93,M. Flynn misses 3-pt jump shot from 26 ft,,4,93,119,-26,2705.0
+2:49.0, ,119-93,Offensive rebound by B. Boeheim,,4,93,119,-26,2711.0
+2:49.0, ,119-93,B. Boeheim misses 2-pt layup at rim,,4,93,119,-26,2711.0
+2:49.0, ,119-93,Offensive rebound by C. Metu,,4,93,119,-26,2711.0
+2:47.0, ,119-95,C. Metu makes 2-pt layup at rim,,4,95,119,-24,2713.0
+2:35.0,I. Jackson misses 2-pt jump shot from 7 ft,119-95, ,,4,95,119,-24,2725.0
+2:33.0, ,119-95,Defensive rebound by C. Metu,,4,95,119,-24,2727.0
+2:16.0, ,119-98,B. Boeheim makes 3-pt jump shot from 28 ft (assist by C. Metu),,4,98,119,-21,2744.0
+2:06.0,Turnover by J. Johnson (bad pass),119-98, ,,4,98,119,-21,2754.0
+1:56.0, ,119-98,Turnover by C. Metu (bad pass),,4,98,119,-21,2764.0
+1:40.0,B. Sheppard misses 2-pt layup from 5 ft,119-98, ,,4,98,119,-21,2780.0
+1:38.0, ,119-98,Defensive rebound by T. Evbuomwan,,4,98,119,-21,2782.0
+1:33.0, ,119-98,Shooting foul by J. Walker (drawn by B. Boeheim),,4,98,119,-21,2787.0
+1:33.0, ,119-99,B. Boeheim makes free throw 1 of 3,,4,99,119,-20,2787.0
+1:33.0, ,119-100,B. Boeheim makes free throw 2 of 3,,4,100,119,-19,2787.0
+1:33.0, ,119-101,B. Boeheim makes free throw 3 of 3,,4,101,119,-18,2787.0
+1:10.0,B. Sheppard misses 3-pt jump shot from 26 ft,119-101, ,,4,101,119,-18,2810.0
+1:07.0, ,119-101,Defensive rebound by M. Flynn,,4,101,119,-18,2813.0
+1:05.0, ,119-103,T. Evbuomwan makes 2-pt layup from 4 ft (assist by M. Flynn),,4,103,119,-16,2815.0
+0:58.0,K. Brown misses 2-pt layup from 3 ft,119-103, ,,4,103,119,-16,2822.0
+0:58.0,Offensive rebound by I. Jackson,119-103, ,,4,103,119,-16,2822.0
+0:58.0,Shooting foul by C. Metu (drawn by I. Jackson),119-103, ,,4,103,119,-16,2822.0
+0:58.0,I. Jackson misses free throw 1 of 2,119-103, ,,4,103,119,-16,2822.0
+0:58.0,Offensive rebound by Team,119-103, ,,4,103,119,-16,2822.0
+0:58.0,I. Jackson makes free throw 2 of 2,120-103, ,,4,103,120,-17,2822.0
+0:45.0, ,120-103,Turnover by M. Flynn (bad pass; steal by J. Johnson),,4,103,120,-17,2835.0
+0:42.0,K. Brown makes 2-pt dunk from 3 ft (assist by I. Jackson),122-103, ,,4,103,122,-19,2838.0
+0:32.0, ,122-103,M. Flynn misses 3-pt jump shot from 28 ft,,4,103,122,-19,2848.0
+0:30.0,Defensive rebound by B. Sheppard,122-103, ,,4,103,122,-19,2850.0
+0:08.0,Turnover by Team (shot clock),122-103, ,,4,103,122,-19,2872.0
+0:00.0,End of 4th quarter,122-103,,,4,103,122,-19,2880.0

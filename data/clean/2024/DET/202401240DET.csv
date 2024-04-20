@@ -1,0 +1,458 @@
+Time,Charlotte,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Richards vs. J. Duren (B. Miller gains possession),0-0,,,1,0,0,0,0.0
+11:40.0,C. Martin misses 2-pt jump shot from 16 ft,0-0, ,,1,0,0,0,20.0
+11:36.0, ,0-0,Defensive rebound by I. Stewart,,1,0,0,0,24.0
+11:15.0, ,0-2,J. Ivey makes 2-pt layup from 4 ft,,1,2,0,2,45.0
+11:03.0,N. Richards makes 2-pt hook shot from 4 ft (assist by L. Ball),2-2, ,Tie,1,2,2,0,57.0
+10:47.0, ,2-5,J. Ivey makes 3-pt jump shot from 24 ft (assist by I. Stewart),,1,5,2,3,73.0
+10:31.0,B. Miller makes 3-pt jump shot from 28 ft (assist by C. Martin),5-5, ,Tie,1,5,5,0,89.0
+10:16.0, ,5-7,K. Hayes makes 2-pt jump shot from 5 ft (assist by J. Duren),,1,7,5,2,104.0
+10:16.0, ,5-7,Shooting foul by L. Ball (drawn by K. Hayes),,1,7,5,2,104.0
+10:16.0, ,5-7,K. Hayes misses free throw 1 of 1,,1,7,5,2,104.0
+10:12.0,Defensive rebound by M. Bridges,5-7, ,,1,7,5,2,108.0
+10:02.0,L. Ball misses 3-pt jump shot from 27 ft,5-7, ,,1,7,5,2,118.0
+9:58.0, ,5-7,Defensive rebound by I. Stewart,,1,7,5,2,122.0
+9:43.0, ,5-7,J. Duren misses 2-pt jump shot from 5 ft,,1,7,5,2,137.0
+9:40.0,Defensive rebound by B. Miller,5-7, ,,1,7,5,2,140.0
+9:34.0,B. Miller misses 3-pt jump shot from 30 ft,5-7, ,,1,7,5,2,146.0
+9:31.0, ,5-7,Defensive rebound by J. Duren,,1,7,5,2,149.0
+9:18.0, ,5-7,B. Bogdanović misses 3-pt jump shot from 30 ft,,1,7,5,2,162.0
+9:15.0,Defensive rebound by M. Bridges,5-7, ,,1,7,5,2,165.0
+9:11.0,L. Ball makes 2-pt jump shot from 6 ft,7-7, ,Tie,1,7,7,0,169.0
+9:11.0,Shooting foul by J. Duren (drawn by L. Ball),7-7, ,,1,7,7,0,169.0
+9:11.0,L. Ball makes free throw 1 of 1,8-7, ,Lead change,1,7,8,-1,169.0
+8:55.0, ,8-10,I. Stewart makes 3-pt jump shot from 23 ft (assist by J. Ivey),Lead change,1,10,8,2,185.0
+8:28.0,B. Miller misses 2-pt jump shot from 12 ft,8-10, ,,1,10,8,2,212.0
+8:26.0,Offensive rebound by B. Miller,8-10, ,,1,10,8,2,214.0
+8:25.0,M. Bridges makes 3-pt jump shot from 27 ft (assist by B. Miller),11-10, ,Lead change,1,10,11,-1,215.0
+8:09.0, ,11-10,J. Duren misses 2-pt hook shot from 4 ft (block by N. Richards),,1,10,11,-1,231.0
+8:04.0,Defensive rebound by B. Miller,11-10, ,,1,10,11,-1,236.0
+7:52.0,B. Miller misses 3-pt jump shot from 27 ft,11-10, ,,1,10,11,-1,248.0
+7:50.0, ,11-10,Defensive rebound by K. Hayes,,1,10,11,-1,250.0
+7:48.0, ,11-12,J. Duren makes 2-pt dunk from 2 ft (assist by K. Hayes),Lead change,1,12,11,1,252.0
+7:35.0,Personal foul by J. Ivey (drawn by L. Ball),11-12, ,,1,12,11,1,265.0
+7:27.0,B. Miller misses 2-pt layup from 5 ft,11-12, ,,1,12,11,1,273.0
+7:24.0, ,11-12,Defensive rebound by I. Stewart,,1,12,11,1,276.0
+7:15.0, ,11-12,B. Bogdanović misses 3-pt jump shot from 23 ft,,1,12,11,1,285.0
+7:13.0,Defensive rebound by N. Richards,11-12, ,,1,12,11,1,287.0
+7:00.0,N. Richards makes 2-pt dunk from 3 ft (assist by L. Ball),13-12, ,Lead change,1,12,13,-1,300.0
+7:00.0, ,13-12,Detroit full timeout,,1,12,13,-1,300.0
+6:53.0, ,13-12,Offensive foul by J. Duren (drawn by L. Ball),,1,12,13,-1,307.0
+6:53.0, ,13-12,Turnover by J. Duren (offensive foul),,1,12,13,-1,307.0
+6:41.0,M. Bridges makes 2-pt jump shot from 22 ft,15-12, ,,1,12,15,-3,319.0
+6:22.0, ,15-14,B. Bogdanović makes 2-pt layup from 4 ft,,1,14,15,-1,338.0
+6:22.0,I. Smith enters the game for L. Ball,15-14, ,,1,14,15,-1,338.0
+6:22.0,P. Washington enters the game for C. Martin,15-14, ,,1,14,15,-1,338.0
+6:22.0, ,15-14,M. Muscala enters the game for J. Duren,,1,14,15,-1,338.0
+5:59.0,I. Smith makes 2-pt jump shot from 17 ft (assist by B. Miller),17-14, ,,1,14,17,-3,361.0
+5:42.0, ,17-16,B. Bogdanović makes 2-pt layup from 2 ft,,1,16,17,-1,378.0
+5:29.0,N. Richards makes 2-pt dunk from 4 ft (assist by P. Washington),19-16, ,,1,16,19,-3,391.0
+5:08.0, ,19-18,B. Bogdanović makes 2-pt layup from 2 ft (assist by K. Hayes),,1,18,19,-1,412.0
+4:59.0,B. Miller makes 2-pt layup from 3 ft (assist by I. Smith),21-18, ,,1,18,21,-3,421.0
+4:44.0, ,21-18,I. Stewart misses 2-pt layup from 1 ft,,1,18,21,-3,436.0
+4:41.0,Defensive rebound by P. Washington,21-18, ,,1,18,21,-3,439.0
+4:34.0,B. Miller makes 3-pt jump shot from 24 ft (assist by P. Washington),24-18, ,,1,18,24,-6,446.0
+4:17.0, ,24-18,K. Hayes misses 3-pt jump shot from 27 ft,,1,18,24,-6,463.0
+4:14.0,Defensive rebound by N. Richards,24-18, ,,1,18,24,-6,466.0
+4:06.0,P. Washington misses 3-pt jump shot from 28 ft,24-18, ,,1,18,24,-6,474.0
+4:03.0, ,24-18,Defensive rebound by K. Hayes,,1,18,24,-6,477.0
+4:02.0, ,24-20,J. Ivey makes 2-pt layup from 3 ft (assist by K. Hayes),,1,20,24,-4,478.0
+4:02.0,Violation by Team (def goaltending),24-20, ,,1,20,24,-4,478.0
+4:02.0,Charlotte full timeout,24-20, ,,1,20,24,-4,478.0
+4:02.0,F. Ntilikina enters the game for N. Richards,24-20, ,,1,20,24,-4,478.0
+4:02.0, ,24-20,A. Burks enters the game for B. Bogdanović,,1,20,24,-4,478.0
+4:02.0, ,24-20,K. Knox enters the game for K. Hayes,,1,20,24,-4,478.0
+4:02.0, ,24-20,M. Morris enters the game for J. Ivey,,1,20,24,-4,478.0
+4:02.0, ,24-20,A. Thompson enters the game for I. Stewart,,1,20,24,-4,478.0
+3:51.0,Offensive foul by P. Washington (drawn by A. Thompson),24-20, ,,1,20,24,-4,489.0
+3:51.0,Turnover by P. Washington (offensive foul),24-20, ,,1,20,24,-4,489.0
+3:37.0, ,24-23,M. Morris makes 3-pt jump shot from 26 ft,,1,23,24,-1,503.0
+3:21.0,M. Bridges makes 2-pt layup from 4 ft (assist by P. Washington),26-23, ,,1,23,26,-3,519.0
+3:00.0, ,26-26,M. Muscala makes 3-pt jump shot from 26 ft (assist by A. Burks),Tie,1,26,26,0,540.0
+2:52.0,M. Bridges misses 3-pt jump shot from 24 ft,26-26, ,,1,26,26,0,548.0
+2:49.0, ,26-26,Defensive rebound by M. Muscala,,1,26,26,0,551.0
+2:35.0, ,26-26,K. Knox misses 2-pt jump shot from 20 ft,,1,26,26,0,565.0
+2:33.0,Defensive rebound by B. Miller,26-26, ,,1,26,26,0,567.0
+2:26.0,B. Miller misses 3-pt jump shot from 26 ft,26-26, ,,1,26,26,0,574.0
+2:24.0, ,26-26,Defensive rebound by K. Knox,,1,26,26,0,576.0
+2:19.0,Violation by Team (kicked ball),26-26, ,,1,26,26,0,581.0
+2:19.0,L. Ball enters the game for B. Miller,26-26, ,,1,26,26,0,581.0
+2:11.0, ,26-28,M. Morris makes 2-pt jump shot from 10 ft,Lead change,1,28,26,2,589.0
+1:50.0,F. Ntilikina misses 3-pt jump shot from 24 ft,26-28, ,,1,28,26,2,610.0
+1:48.0, ,26-28,Defensive rebound by K. Knox,,1,28,26,2,612.0
+1:35.0, ,26-28,K. Knox misses 3-pt jump shot from 23 ft,,1,28,26,2,625.0
+1:33.0,Defensive rebound by M. Bridges,26-28, ,,1,28,26,2,627.0
+1:23.0,L. Ball misses 2-pt jump shot from 16 ft,26-28, ,,1,28,26,2,637.0
+1:22.0,Offensive rebound by I. Smith,26-28, ,,1,28,26,2,638.0
+1:16.0,P. Washington makes 3-pt jump shot from 27 ft (assist by M. Bridges),29-28, ,Lead change,1,28,29,-1,644.0
+0:57.0, ,29-28,A. Burks misses 3-pt jump shot from 26 ft,,1,28,29,-1,663.0
+0:56.0,Defensive rebound by Team,29-28, ,,1,28,29,-1,664.0
+0:49.0,Personal foul by A. Thompson (drawn by L. Ball),29-28, ,,1,28,29,-1,671.0
+0:41.0,M. Bridges misses 3-pt jump shot from 28 ft,29-28, ,,1,28,29,-1,679.0
+0:40.0, ,29-28,Defensive rebound by M. Morris,,1,28,29,-1,680.0
+0:35.0, ,29-28,Turnover by A. Thompson (lost ball; steal by M. Bridges),,1,28,29,-1,685.0
+0:16.0,M. Bridges makes 2-pt jump shot from 7 ft (assist by L. Ball),31-28, ,,1,28,31,-3,704.0
+0:01.0, ,31-28,M. Muscala misses 3-pt jump shot from 26 ft,,1,28,31,-3,719.0
+0:01.0, ,31-28,Offensive rebound by Team,,1,28,31,-3,719.0
+0:00.0,End of 1st quarter,31-28,,,1,28,31,-3,720.0
+12:00.0,Start of 2nd quarter,31-28,,,2,28,31,-3,720.0
+11:39.0, ,31-28,M. Sasser misses 3-pt jump shot from 27 ft,,2,28,31,-3,741.0
+11:36.0,Defensive rebound by L. Ball,31-28, ,,2,28,31,-3,744.0
+11:26.0,L. Ball misses 2-pt layup from 5 ft,31-28, ,,2,28,31,-3,754.0
+11:25.0, ,31-28,Defensive rebound by Team,,2,28,31,-3,755.0
+11:25.0,Loose ball foul by N. Mensah (drawn by M. Muscala),31-28, ,,2,28,31,-3,755.0
+11:08.0, ,31-28,A. Burks misses 2-pt jump shot from 10 ft,,2,28,31,-3,772.0
+11:06.0, ,31-28,Offensive rebound by M. Muscala,,2,28,31,-3,774.0
+11:05.0, ,31-28,Personal foul by B. Miller (drawn by A. Burks),,2,28,31,-3,775.0
+10:56.0, ,31-28,K. Knox misses 2-pt jump shot from 19 ft,,2,28,31,-3,784.0
+10:53.0,Defensive rebound by B. Miller,31-28, ,,2,28,31,-3,787.0
+10:46.0,Shooting foul by M. Sasser (drawn by B. Miller),31-28, ,,2,28,31,-3,794.0
+10:46.0,B. Miller misses free throw 1 of 2,31-28, ,,2,28,31,-3,794.0
+10:46.0,Offensive rebound by Team,31-28, ,,2,28,31,-3,794.0
+10:46.0,B. Miller makes free throw 2 of 2,32-28, ,,2,28,32,-4,794.0
+10:32.0, ,32-28,A. Burks misses 3-pt jump shot from 23 ft (block by N. Mensah),,2,28,32,-4,808.0
+10:28.0, ,32-28,Offensive rebound by M. Muscala,,2,28,32,-4,812.0
+10:27.0, ,32-30,M. Muscala makes 2-pt hook shot from 4 ft,,2,30,32,-2,813.0
+10:14.0,B. Miller misses 3-pt jump shot from 28 ft,32-30, ,,2,30,32,-2,826.0
+10:14.0, ,32-30,Defensive rebound by M. Sasser,,2,30,32,-2,826.0
+10:08.0, ,32-32,M. Sasser makes 2-pt jump shot from 6 ft,Tie,2,32,32,0,832.0
+10:08.0,Charlotte full timeout,32-32, ,,2,32,32,0,832.0
+9:55.0,L. Ball makes 2-pt layup from 2 ft,34-32, ,,2,32,34,-2,845.0
+9:43.0,Violation by Team (kicked ball),34-32, ,,2,32,34,-2,857.0
+9:35.0, ,34-32,M. Muscala misses 3-pt jump shot from 25 ft,,2,32,34,-2,865.0
+9:32.0,Defensive rebound by B. Miller,34-32, ,,2,32,34,-2,868.0
+9:23.0,L. Ball misses 3-pt jump shot from 33 ft,34-32, ,,2,32,34,-2,877.0
+9:20.0, ,34-32,Defensive rebound by K. Knox,,2,32,34,-2,880.0
+9:16.0, ,34-32,Personal foul by L. Ball (drawn by M. Sasser),,2,32,34,-2,884.0
+9:16.0, ,34-32,B. Bogdanović enters the game for K. Knox,,2,32,34,-2,884.0
+9:16.0, ,34-32,J. Duren enters the game for M. Muscala,,2,32,34,-2,884.0
+9:04.0, ,34-35,A. Burks makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),Lead change,2,35,34,1,896.0
+8:49.0,Turnover by L. Ball (back court),34-35, ,,2,35,34,1,911.0
+8:38.0, ,34-35,M. Sasser misses 3-pt jump shot from 27 ft,,2,35,34,1,922.0
+8:35.0,Defensive rebound by N. Mensah,34-35, ,,2,35,34,1,925.0
+8:31.0,Shooting foul by J. Duren (drawn by L. Ball),34-35, ,,2,35,34,1,929.0
+8:31.0,L. Ball makes free throw 1 of 2,35-35, ,Tie,2,35,35,0,929.0
+8:31.0,M. Bridges enters the game for N. Mensah,35-35, ,,2,35,35,0,929.0
+8:31.0, ,35-35,I. Stewart enters the game for J. Duren,,2,35,35,0,929.0
+8:31.0,L. Ball makes free throw 2 of 2,36-35, ,Lead change,2,35,36,-1,929.0
+8:15.0, ,36-35,Turnover by B. Bogdanović (bad pass; steal by P. Washington),,2,35,36,-1,945.0
+8:02.0,B. Miller makes 2-pt dunk from 5 ft (assist by L. Ball),38-35, ,,2,35,38,-3,958.0
+7:47.0, ,38-35,A. Burks misses 3-pt jump shot from 24 ft,,2,35,38,-3,973.0
+7:44.0,Defensive rebound by L. Ball,38-35, ,,2,35,38,-3,976.0
+7:43.0,M. Bridges misses 2-pt layup from 5 ft,38-35, ,,2,35,38,-3,977.0
+7:41.0,Offensive rebound by L. Ball,38-35, ,,2,35,38,-3,979.0
+7:40.0,L. Ball misses 2-pt layup from 3 ft,38-35, ,,2,35,38,-3,980.0
+7:39.0, ,38-35,Defensive rebound by A. Thompson,,2,35,38,-3,981.0
+7:29.0, ,38-38,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by A. Thompson),Tie,2,38,38,0,991.0
+7:04.0,L. Ball misses 3-pt jump shot from 31 ft,38-38, ,,2,38,38,0,1016.0
+7:01.0, ,38-38,Defensive rebound by B. Bogdanović,,2,38,38,0,1019.0
+6:57.0, ,38-40,A. Thompson makes 2-pt dunk from 3 ft (assist by B. Bogdanović),Lead change,2,40,38,2,1023.0
+6:33.0,M. Bridges misses 2-pt jump shot from 21 ft,38-40, ,,2,40,38,2,1047.0
+6:31.0, ,38-40,Defensive rebound by I. Stewart,,2,40,38,2,1049.0
+6:31.0,C. Martin enters the game for L. Ball,38-40, ,,2,40,38,2,1049.0
+6:31.0, ,38-40,J. Ivey enters the game for A. Burks,,2,40,38,2,1049.0
+6:17.0, ,38-42,I. Stewart makes 2-pt hook shot from 4 ft (assist by B. Bogdanović),,2,42,38,4,1063.0
+6:00.0,P. Washington makes 3-pt jump shot from 26 ft (assist by N. Smith),41-42, ,,2,42,41,1,1080.0
+5:45.0, ,41-42,I. Stewart misses 2-pt hook shot from 7 ft,,2,42,41,1,1095.0
+5:44.0, ,41-42,Offensive rebound by Team,,2,42,41,1,1096.0
+5:44.0,L. Black enters the game for B. Miller,41-42, ,,2,42,41,1,1096.0
+5:44.0,N. Richards enters the game for P. Washington,41-42, ,,2,42,41,1,1096.0
+5:36.0, ,41-42,Personal foul by C. Martin (drawn by I. Stewart),,2,42,41,1,1104.0
+5:36.0, ,41-42,K. Hayes enters the game for M. Sasser,,2,42,41,1,1104.0
+5:29.0, ,41-42,Shooting foul by C. Martin (drawn by I. Stewart),,2,42,41,1,1111.0
+5:29.0, ,41-42,I. Stewart misses free throw 1 of 2,,2,42,41,1,1111.0
+5:29.0, ,41-42,Offensive rebound by Team,,2,42,41,1,1111.0
+5:29.0, ,41-43,I. Stewart makes free throw 2 of 2,,2,43,41,2,1111.0
+5:06.0,L. Black makes 3-pt jump shot from 27 ft (assist by C. Martin),44-43, ,Lead change,2,43,44,-1,1134.0
+4:43.0, ,44-43,J. Ivey misses 2-pt jump shot from 4 ft,,2,43,44,-1,1157.0
+4:40.0,Defensive rebound by L. Black,44-43, ,,2,43,44,-1,1160.0
+4:38.0,Turnover by M. Bridges (out of bounds lost ball),44-43, ,,2,43,44,-1,1162.0
+4:22.0, ,44-43,I. Stewart misses 3-pt jump shot from 26 ft,,2,43,44,-1,1178.0
+4:19.0,Defensive rebound by L. Black,44-43, ,,2,43,44,-1,1181.0
+4:08.0,N. Smith misses 2-pt jump shot from 20 ft,44-43, ,,2,43,44,-1,1192.0
+4:05.0, ,44-43,Defensive rebound by I. Stewart,,2,43,44,-1,1195.0
+4:01.0, ,44-45,B. Bogdanović makes 2-pt jump shot from 5 ft (assist by J. Ivey),Lead change,2,45,44,1,1199.0
+3:44.0,C. Martin makes 2-pt jump shot from 6 ft,46-45, ,Lead change,2,45,46,-1,1216.0
+3:28.0, ,46-45,J. Ivey misses 2-pt jump shot from 18 ft,,2,45,46,-1,1232.0
+3:25.0,Defensive rebound by N. Richards,46-45, ,,2,45,46,-1,1235.0
+3:12.0,Turnover by M. Bridges (bad pass; steal by J. Ivey),46-45, ,,2,45,46,-1,1248.0
+3:02.0, ,46-48,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by K. Hayes),Lead change,2,48,46,2,1258.0
+2:43.0,Shooting foul by A. Thompson (drawn by M. Bridges),46-48, ,,2,48,46,2,1277.0
+2:43.0, ,46-48,Detroit full timeout,,2,48,46,2,1277.0
+2:43.0,L. Ball enters the game for L. Black,46-48, ,,2,48,46,2,1277.0
+2:43.0,B. Miller enters the game for N. Smith,46-48, ,,2,48,46,2,1277.0
+2:43.0, ,46-48,M. Muscala enters the game for A. Thompson,,2,48,46,2,1277.0
+2:43.0,M. Bridges makes free throw 1 of 2,47-48, ,,2,48,47,1,1277.0
+2:43.0,M. Bridges misses free throw 2 of 2,47-48, ,,2,48,47,1,1277.0
+2:40.0,Offensive rebound by C. Martin,47-48, ,,2,48,47,1,1280.0
+2:40.0,Personal foul by M. Muscala (drawn by C. Martin),47-48, ,,2,48,47,1,1280.0
+2:27.0,L. Ball misses 2-pt jump shot from 21 ft,47-48, ,,2,48,47,1,1293.0
+2:24.0, ,47-48,Defensive rebound by M. Muscala,,2,48,47,1,1296.0
+2:01.0, ,47-48,J. Ivey misses 2-pt layup from 4 ft,,2,48,47,1,1319.0
+1:59.0,Defensive rebound by M. Bridges,47-48, ,,2,48,47,1,1321.0
+1:55.0,N. Richards makes 2-pt dunk from 4 ft (assist by M. Bridges),49-48, ,Lead change,2,48,49,-1,1325.0
+1:38.0, ,49-50,J. Ivey makes 2-pt layup from 2 ft,Lead change,2,50,49,1,1342.0
+1:24.0,L. Ball misses 3-pt jump shot from 30 ft,49-50, ,,2,50,49,1,1356.0
+1:20.0, ,49-50,Defensive rebound by B. Bogdanović,,2,50,49,1,1360.0
+1:14.0, ,49-52,B. Bogdanović makes 2-pt layup from 2 ft,,2,52,49,3,1366.0
+1:00.0,C. Martin misses 3-pt jump shot from 24 ft,49-52, ,,2,52,49,3,1380.0
+0:57.0, ,49-52,Defensive rebound by B. Bogdanović,,2,52,49,3,1383.0
+0:49.0, ,49-52,Turnover by B. Bogdanović (bad pass),,2,52,49,3,1391.0
+0:49.0,I. Smith enters the game for L. Ball,49-52, ,,2,52,49,3,1391.0
+0:49.0,P. Washington enters the game for C. Martin,49-52, ,,2,52,49,3,1391.0
+0:49.0, ,49-52,A. Burks enters the game for M. Muscala,,2,52,49,3,1391.0
+0:35.0,B. Miller misses 2-pt jump shot from 21 ft,49-52, ,,2,52,49,3,1405.0
+0:32.0, ,49-52,Defensive rebound by K. Hayes,,2,52,49,3,1408.0
+0:29.0, ,49-52,B. Bogdanović misses 2-pt layup from 3 ft (block by B. Miller),,2,52,49,3,1411.0
+0:25.0,Defensive rebound by B. Miller,49-52, ,,2,52,49,3,1415.0
+0:08.0,M. Bridges makes 3-pt jump shot from 27 ft,52-52, ,Tie,2,52,52,0,1432.0
+0:00.0, ,52-52,Turnover by J. Ivey (out of bounds lost ball),,2,52,52,0,1440.0
+0:00.0,End of 2nd quarter,52-52,,,2,52,52,0,1440.0
+12:00.0,Start of 3rd quarter,52-52,,,3,52,52,0,1440.0
+11:41.0, ,52-54,B. Bogdanović makes 2-pt layup from 4 ft (assist by K. Hayes),,3,54,52,2,1459.0
+11:29.0,L. Ball makes 2-pt layup from 2 ft,54-54, ,Tie,3,54,54,0,1471.0
+11:14.0, ,54-56,B. Bogdanović makes 2-pt jump shot from 10 ft (assist by K. Hayes),,3,56,54,2,1486.0
+10:56.0,L. Ball misses 2-pt jump shot from 10 ft,54-56, ,,3,56,54,2,1504.0
+10:55.0, ,54-56,Defensive rebound by B. Bogdanović,,3,56,54,2,1505.0
+10:48.0, ,54-56,J. Ivey misses 2-pt jump shot from 7 ft,,3,56,54,2,1512.0
+10:45.0,Defensive rebound by M. Bridges,54-56, ,,3,56,54,2,1515.0
+10:42.0,Shooting foul by J. Ivey (drawn by C. Martin),54-56, ,,3,56,54,2,1518.0
+10:42.0,C. Martin misses free throw 1 of 2,54-56, ,,3,56,54,2,1518.0
+10:42.0,Offensive rebound by Team,54-56, ,,3,56,54,2,1518.0
+10:42.0,C. Martin makes free throw 2 of 2,55-56, ,,3,56,55,1,1518.0
+10:27.0, ,55-58,J. Duren makes 2-pt layup from 3 ft (assist by B. Bogdanović),,3,58,55,3,1533.0
+10:19.0,M. Bridges misses 2-pt layup from 3 ft,55-58, ,,3,58,55,3,1541.0
+10:18.0,Offensive rebound by N. Richards,55-58, ,,3,58,55,3,1542.0
+10:17.0,N. Richards makes 2-pt layup at rim,57-58, ,,3,58,57,1,1543.0
+10:08.0, ,57-60,I. Stewart makes 2-pt layup from 4 ft (assist by J. Duren),,3,60,57,3,1552.0
+10:00.0,N. Richards makes 2-pt dunk from 4 ft (assist by L. Ball),59-60, ,,3,60,59,1,1560.0
+9:44.0, ,59-60,J. Ivey misses 3-pt jump shot from 28 ft,,3,60,59,1,1576.0
+9:43.0, ,59-60,Offensive rebound by J. Duren,,3,60,59,1,1577.0
+9:42.0, ,59-62,J. Duren makes 2-pt dunk at rim,,3,62,59,3,1578.0
+9:29.0,M. Bridges misses 2-pt layup from 5 ft,59-62, ,,3,62,59,3,1591.0
+9:28.0,Offensive rebound by N. Richards,59-62, ,,3,62,59,3,1592.0
+9:27.0,N. Richards misses 2-pt layup from 3 ft,59-62, ,,3,62,59,3,1593.0
+9:26.0, ,59-62,Defensive rebound by J. Ivey,,3,62,59,3,1594.0
+9:23.0, ,59-62,Personal foul by L. Ball (drawn by J. Duren),,3,62,59,3,1597.0
+9:16.0, ,59-62,Shooting foul by N. Richards (drawn by B. Bogdanović),,3,62,59,3,1604.0
+9:16.0, ,59-63,B. Bogdanović makes free throw 1 of 2,,3,63,59,4,1604.0
+9:16.0, ,59-64,B. Bogdanović makes free throw 2 of 2,,3,64,59,5,1604.0
+9:00.0,Def 3 sec tech foul by Team,59-64, ,,3,64,59,5,1620.0
+9:00.0,L. Ball makes technical free throw,60-64, ,,3,64,60,4,1620.0
+8:48.0,M. Bridges makes 3-pt jump shot from 26 ft (assist by B. Miller),63-64, ,,3,64,63,1,1632.0
+8:25.0, ,63-66,I. Stewart makes 2-pt jump shot from 5 ft,,3,66,63,3,1655.0
+8:16.0,Shooting foul by I. Stewart (drawn by N. Richards),63-66, ,,3,66,63,3,1664.0
+8:16.0,N. Richards makes free throw 1 of 2,64-66, ,,3,66,64,2,1664.0
+8:16.0,N. Richards makes free throw 2 of 2,65-66, ,,3,66,65,1,1664.0
+7:56.0, ,65-66,Turnover by J. Ivey (lost ball; steal by M. Bridges),,3,66,65,1,1684.0
+7:45.0,C. Martin misses 3-pt jump shot from 24 ft,65-66, ,,3,66,65,1,1695.0
+7:43.0, ,65-66,Defensive rebound by K. Hayes,,3,66,65,1,1697.0
+7:40.0, ,65-66,Turnover by K. Hayes (bad pass; steal by C. Martin),,3,66,65,1,1700.0
+7:34.0,L. Ball makes 3-pt jump shot from 27 ft (assist by B. Miller),68-66, ,Lead change,3,66,68,-2,1706.0
+7:34.0, ,68-66,Detroit full timeout,,3,66,68,-2,1706.0
+7:34.0, ,68-66,M. Morris enters the game for J. Ivey,,3,66,68,-2,1706.0
+7:09.0, ,68-69,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by M. Morris),Lead change,3,69,68,1,1731.0
+6:55.0,M. Bridges misses 2-pt jump shot from 10 ft,68-69, ,,3,69,68,1,1745.0
+6:53.0, ,68-69,Defensive rebound by Team,,3,69,68,1,1747.0
+6:39.0, ,68-71,M. Morris makes 2-pt jump shot from 4 ft,,3,71,68,3,1761.0
+6:24.0,L. Ball misses 2-pt layup from 4 ft,68-71, ,,3,71,68,3,1776.0
+6:23.0,Offensive rebound by N. Richards,68-71, ,,3,71,68,3,1777.0
+6:22.0,N. Richards misses 2-pt layup at rim,68-71, ,,3,71,68,3,1778.0
+6:21.0, ,68-71,Defensive rebound by J. Duren,,3,71,68,3,1779.0
+6:18.0, ,68-71,Personal foul by M. Bridges (drawn by I. Stewart),,3,71,68,3,1782.0
+6:09.0, ,68-73,J. Duren makes 2-pt jump shot from 6 ft (assist by M. Morris),,3,73,68,5,1791.0
+5:52.0,N. Richards misses 2-pt jump shot from 5 ft,68-73, ,,3,73,68,5,1808.0
+5:50.0, ,68-73,Defensive rebound by J. Duren,,3,73,68,5,1810.0
+5:41.0, ,68-76,K. Hayes makes 3-pt jump shot from 28 ft (assist by M. Morris),,3,76,68,8,1819.0
+5:41.0,Charlotte full timeout,68-76, ,,3,76,68,8,1819.0
+5:41.0,I. Smith enters the game for L. Ball,68-76, ,,3,76,68,8,1819.0
+5:41.0,P. Washington enters the game for C. Martin,68-76, ,,3,76,68,8,1819.0
+5:27.0,M. Bridges misses 2-pt jump shot from 12 ft,68-76, ,,3,76,68,8,1833.0
+5:24.0, ,68-76,Defensive rebound by M. Morris,,3,76,68,8,1836.0
+5:17.0, ,68-76,B. Bogdanović misses 2-pt layup from 3 ft (block by I. Smith),,3,76,68,8,1843.0
+5:13.0,Defensive rebound by I. Smith,68-76, ,,3,76,68,8,1847.0
+5:11.0,N. Richards makes 2-pt dunk from 3 ft (assist by I. Smith),70-76, ,,3,76,70,6,1849.0
+4:54.0, ,70-76,Turnover by I. Stewart (out of bounds lost ball),,3,76,70,6,1866.0
+4:54.0,F. Ntilikina enters the game for N. Richards,70-76, ,,3,76,70,6,1866.0
+4:54.0, ,70-76,A. Burks enters the game for K. Hayes,,3,76,70,6,1866.0
+4:39.0,B. Miller makes 3-pt jump shot from 26 ft (assist by P. Washington),73-76, ,,3,76,73,3,1881.0
+4:25.0, ,73-79,B. Bogdanović makes 3-pt jump shot from 27 ft,,3,79,73,6,1895.0
+4:12.0,B. Miller makes 2-pt layup from 3 ft (assist by P. Washington),75-79, ,,3,79,75,4,1908.0
+4:12.0,Shooting foul by A. Burks (drawn by B. Miller),75-79, ,,3,79,75,4,1908.0
+4:12.0, ,75-79,A. Thompson enters the game for I. Stewart,,3,79,75,4,1908.0
+4:12.0,B. Miller makes free throw 1 of 1,76-79, ,,3,79,76,3,1908.0
+4:01.0, ,76-79,M. Morris misses 2-pt jump shot from 13 ft,,3,79,76,3,1919.0
+4:00.0, ,76-79,Offensive rebound by Team,,3,79,76,3,1920.0
+3:53.0, ,76-79,B. Bogdanović misses 3-pt jump shot from 27 ft,,3,79,76,3,1927.0
+3:50.0,Defensive rebound by P. Washington,76-79, ,,3,79,76,3,1930.0
+3:32.0,B. Miller makes 3-pt jump shot from 30 ft (assist by I. Smith),79-79, ,Tie,3,79,79,0,1948.0
+3:13.0, ,79-79,A. Burks misses 3-pt jump shot from 24 ft,,3,79,79,0,1967.0
+3:10.0,Defensive rebound by I. Smith,79-79, ,,3,79,79,0,1970.0
+3:06.0,B. Miller makes 3-pt jump shot from 30 ft (assist by I. Smith),82-79, ,Lead change,3,79,82,-3,1974.0
+2:55.0, ,82-81,J. Duren makes 2-pt layup from 3 ft,,3,81,82,-1,1985.0
+2:55.0, ,82-81,Shooting foul by P. Washington (drawn by J. Duren),,3,81,82,-1,1985.0
+2:55.0, ,82-81,K. Knox enters the game for B. Bogdanović,,3,81,82,-1,1985.0
+2:55.0, ,82-81,J. Duren misses free throw 1 of 1,,3,81,82,-1,1985.0
+2:52.0,Defensive rebound by M. Bridges,82-81, ,,3,81,82,-1,1988.0
+2:45.0,Personal foul by A. Thompson (drawn by B. Miller),82-81, ,,3,81,82,-1,1995.0
+2:45.0, ,82-81,M. Muscala enters the game for J. Duren,,3,81,82,-1,1995.0
+2:35.0,B. Miller misses 2-pt jump shot from 8 ft,82-81, ,,3,81,82,-1,2005.0
+2:32.0, ,82-81,Defensive rebound by M. Muscala,,3,81,82,-1,2008.0
+2:16.0, ,82-81,A. Burks misses 3-pt jump shot from 27 ft,,3,81,82,-1,2024.0
+2:14.0,Defensive rebound by M. Bridges,82-81, ,,3,81,82,-1,2026.0
+2:07.0,B. Miller misses 3-pt jump shot from 27 ft,82-81, ,,3,81,82,-1,2033.0
+2:03.0, ,82-81,Defensive rebound by M. Morris,,3,81,82,-1,2037.0
+1:59.0, ,82-81,M. Muscala misses 3-pt jump shot from 29 ft,,3,81,82,-1,2041.0
+1:56.0,Defensive rebound by I. Smith,82-81, ,,3,81,82,-1,2044.0
+1:50.0,P. Washington makes 3-pt jump shot from 27 ft (assist by I. Smith),85-81, ,,3,81,85,-4,2050.0
+1:26.0, ,85-83,A. Thompson makes 2-pt jump shot from 8 ft,,3,83,85,-2,2074.0
+1:26.0, ,85-83,Shooting foul by B. Miller (drawn by A. Thompson),,3,83,85,-2,2074.0
+1:26.0,L. Ball enters the game for B. Miller,85-83, ,,3,83,85,-2,2074.0
+1:26.0, ,85-84,A. Thompson makes free throw 1 of 1,,3,84,85,-1,2074.0
+1:02.0,L. Ball makes 2-pt hook shot from 4 ft,87-84, ,,3,84,87,-3,2098.0
+0:43.0, ,87-87,A. Burks makes 3-pt jump shot from 27 ft (assist by M. Muscala),Tie,3,87,87,0,2117.0
+0:29.0,L. Ball makes 2-pt jump shot from 3 ft,89-87, ,,3,87,89,-2,2131.0
+0:11.0, ,89-87,Shooting foul by F. Ntilikina (drawn by A. Burks),,3,87,89,-2,2149.0
+0:11.0, ,89-88,A. Burks makes free throw 1 of 2,,3,88,89,-1,2149.0
+0:11.0, ,89-88,K. Hayes enters the game for M. Morris,,3,88,89,-1,2149.0
+0:11.0, ,89-88,I. Stewart enters the game for M. Muscala,,3,88,89,-1,2149.0
+0:11.0, ,89-89,A. Burks makes free throw 2 of 2,Tie,3,89,89,0,2149.0
+0:00.0,P. Washington makes 3-pt jump shot from 26 ft (assist by L. Ball),92-89, ,,3,89,92,-3,2160.0
+0:00.0,End of 3rd quarter,92-89,,,3,89,92,-3,2160.0
+12:00.0,Start of 4th quarter,92-89,,,4,89,92,-3,2160.0
+11:35.0,Turnover by B. Miller (bad pass; steal by A. Thompson),92-89, ,,4,89,92,-3,2185.0
+11:19.0, ,92-89,K. Knox misses 3-pt jump shot from 24 ft,,4,89,92,-3,2201.0
+11:17.0,Defensive rebound by P. Washington,92-89, ,,4,89,92,-3,2203.0
+10:56.0,Turnover by P. Washington (bad pass; steal by A. Thompson),92-89, ,,4,89,92,-3,2224.0
+10:41.0, ,92-91,A. Thompson makes 2-pt layup from 3 ft (assist by M. Sasser),,4,91,92,-1,2239.0
+10:41.0, ,92-91,Shooting foul by N. Mensah (drawn by A. Thompson),,4,91,92,-1,2239.0
+10:41.0, ,92-91,A. Thompson misses free throw 1 of 1,,4,91,92,-1,2239.0
+10:38.0,Defensive rebound by P. Washington,92-91, ,,4,91,92,-1,2242.0
+10:20.0,L. Ball misses 3-pt jump shot from 30 ft,92-91, ,,4,91,92,-1,2260.0
+10:15.0, ,92-91,Defensive rebound by I. Stewart,,4,91,92,-1,2265.0
+10:04.0, ,92-91,Turnover by M. Sasser (bad pass; steal by L. Ball),,4,91,92,-1,2276.0
+9:58.0,L. Ball misses 3-pt jump shot from 25 ft,92-91, ,,4,91,92,-1,2282.0
+9:55.0, ,92-91,Defensive rebound by K. Knox,,4,91,92,-1,2285.0
+9:50.0, ,92-91,I. Stewart misses 2-pt layup from 3 ft (block by P. Washington),,4,91,92,-1,2290.0
+9:50.0, ,92-91,Offensive rebound by Team,,4,91,92,-1,2290.0
+9:43.0, ,92-94,M. Sasser makes 3-pt jump shot from 28 ft (assist by I. Stewart),Lead change,4,94,92,2,2297.0
+9:30.0,L. Ball misses 2-pt jump shot from 5 ft,92-94, ,,4,94,92,2,2310.0
+9:24.0, ,92-94,Defensive rebound by I. Stewart,,4,94,92,2,2316.0
+9:22.0, ,92-94,Shooting foul by P. Washington (drawn by I. Stewart),,4,94,92,2,2318.0
+9:22.0, ,92-95,I. Stewart makes free throw 1 of 2,,4,95,92,3,2318.0
+9:22.0, ,92-95,I. Stewart misses free throw 2 of 2,,4,95,92,3,2318.0
+9:18.0,Defensive rebound by P. Washington,92-95, ,,4,95,92,3,2322.0
+9:08.0,Offensive foul by B. Miller (drawn by A. Thompson),92-95, ,,4,95,92,3,2332.0
+9:08.0,Turnover by B. Miller (offensive foul),92-95, ,,4,95,92,3,2332.0
+8:56.0, ,92-95,M. Sasser misses 3-pt jump shot from 27 ft,,4,95,92,3,2344.0
+8:53.0,Defensive rebound by N. Mensah,92-95, ,,4,95,92,3,2347.0
+8:49.0,Personal foul by A. Thompson (drawn by L. Ball),92-95, ,,4,95,92,3,2351.0
+8:49.0, ,92-95,B. Bogdanović enters the game for K. Knox,,4,95,92,3,2351.0
+8:41.0,P. Washington misses 3-pt jump shot from 26 ft,92-95, ,,4,95,92,3,2359.0
+8:39.0, ,92-95,Defensive rebound by M. Sasser,,4,95,92,3,2361.0
+8:25.0, ,92-95,B. Bogdanović misses 3-pt jump shot from 27 ft,,4,95,92,3,2375.0
+8:21.0, ,92-95,Offensive rebound by I. Stewart,,4,95,92,3,2379.0
+8:18.0, ,92-95,Shooting foul by N. Mensah (drawn by B. Bogdanović),,4,95,92,3,2382.0
+8:18.0, ,92-96,B. Bogdanović makes free throw 1 of 2,,4,96,92,4,2382.0
+8:18.0,M. Bridges enters the game for L. Ball,92-96, ,,4,96,92,4,2382.0
+8:18.0,C. Martin enters the game for N. Mensah,92-96, ,,4,96,92,4,2382.0
+8:18.0, ,92-97,B. Bogdanović makes free throw 2 of 2,,4,97,92,5,2382.0
+7:51.0,M. Bridges makes 2-pt jump shot from 19 ft,94-97, ,,4,97,94,3,2409.0
+7:33.0, ,94-100,A. Burks makes 3-pt jump shot from 24 ft (assist by M. Sasser),,4,100,94,6,2427.0
+7:14.0,N. Smith makes 3-pt jump shot from 24 ft (assist by C. Martin),97-100, ,,4,100,97,3,2446.0
+6:56.0, ,97-100,Turnover by I. Stewart (3 sec),,4,100,97,3,2464.0
+6:56.0, ,97-100,Detroit full timeout,,4,100,97,3,2464.0
+6:42.0,Shooting foul by B. Bogdanović (drawn by M. Bridges),97-100, ,,4,100,97,3,2478.0
+6:42.0,M. Bridges makes free throw 1 of 2,98-100, ,,4,100,98,2,2478.0
+6:42.0,M. Bridges makes free throw 2 of 2,99-100, ,,4,100,99,1,2478.0
+6:24.0, ,99-100,B. Bogdanović misses 2-pt jump shot from 6 ft,,4,100,99,1,2496.0
+6:23.0,Defensive rebound by M. Bridges,99-100, ,,4,100,99,1,2497.0
+6:21.0,Turnover by M. Bridges (bad pass),99-100, ,,4,100,99,1,2499.0
+6:07.0, ,99-100,Turnover by A. Thompson (bad pass),,4,100,99,1,2513.0
+6:07.0,N. Richards enters the game for B. Miller,99-100, ,,4,100,99,1,2513.0
+6:07.0, ,99-100,J. Duren enters the game for A. Burks,,4,100,99,1,2513.0
+6:07.0, ,99-100,K. Hayes enters the game for M. Sasser,,4,100,99,1,2513.0
+6:07.0, ,99-100,J. Ivey enters the game for I. Stewart,,4,100,99,1,2513.0
+5:46.0,M. Bridges misses 2-pt jump shot from 8 ft,99-100, ,,4,100,99,1,2534.0
+5:44.0, ,99-100,Defensive rebound by A. Thompson,,4,100,99,1,2536.0
+5:33.0, ,99-100,J. Ivey misses 3-pt jump shot from 24 ft,,4,100,99,1,2547.0
+5:30.0,Defensive rebound by N. Richards,99-100, ,,4,100,99,1,2550.0
+5:08.0,M. Bridges misses 2-pt jump shot from 22 ft,99-100, ,,4,100,99,1,2572.0
+5:05.0, ,99-100,Defensive rebound by J. Duren,,4,100,99,1,2575.0
+4:50.0, ,99-100,B. Bogdanović misses 2-pt layup from 3 ft,,4,100,99,1,2590.0
+4:48.0,Defensive rebound by C. Martin,99-100, ,,4,100,99,1,2592.0
+4:39.0,Shooting foul by K. Hayes (drawn by N. Richards),99-100, ,,4,100,99,1,2601.0
+4:39.0,N. Richards makes free throw 1 of 2,100-100, ,Tie,4,100,100,0,2601.0
+4:39.0,L. Ball enters the game for N. Smith,100-100, ,,4,100,100,0,2601.0
+4:39.0, ,100-100,A. Burks enters the game for A. Thompson,,4,100,100,0,2601.0
+4:39.0,N. Richards misses free throw 2 of 2,100-100, ,,4,100,100,0,2601.0
+4:36.0, ,100-100,Defensive rebound by J. Duren,,4,100,100,0,2604.0
+4:20.0, ,100-100,B. Bogdanović misses 2-pt jump shot from 14 ft,,4,100,100,0,2620.0
+4:18.0,Defensive rebound by M. Bridges,100-100, ,,4,100,100,0,2622.0
+4:08.0,M. Bridges misses 3-pt jump shot from 27 ft,100-100, ,,4,100,100,0,2632.0
+4:06.0, ,100-100,Defensive rebound by K. Hayes,,4,100,100,0,2634.0
+3:53.0, ,100-100,B. Bogdanović misses 3-pt jump shot from 27 ft,,4,100,100,0,2647.0
+3:50.0,Defensive rebound by C. Martin,100-100, ,,4,100,100,0,2650.0
+3:43.0,L. Ball misses 3-pt jump shot from 32 ft,100-100, ,,4,100,100,0,2657.0
+3:42.0,Offensive rebound by N. Richards,100-100, ,,4,100,100,0,2658.0
+3:40.0,N. Richards makes 2-pt dunk from 1 ft,102-100, ,Lead change,4,100,102,-2,2660.0
+3:40.0, ,102-100,Detroit full timeout,,4,100,102,-2,2660.0
+3:40.0,B. Miller enters the game for P. Washington,102-100, ,,4,100,102,-2,2660.0
+3:23.0, ,102-100,A. Burks misses 2-pt jump shot from 20 ft,,4,100,102,-2,2677.0
+3:23.0,Defensive rebound by L. Ball,102-100, ,,4,100,102,-2,2677.0
+3:22.0,Charlotte full timeout,102-100, ,,4,100,102,-2,2678.0
+3:22.0, ,102-100,I. Stewart enters the game for B. Bogdanović,,4,100,102,-2,2678.0
+3:22.0, ,102-100,A. Thompson enters the game for J. Ivey,,4,100,102,-2,2678.0
+3:03.0,M. Bridges misses 3-pt jump shot from 24 ft,102-100, ,,4,100,102,-2,2697.0
+3:00.0, ,102-100,Defensive rebound by K. Hayes,,4,100,102,-2,2700.0
+2:48.0, ,102-100,A. Thompson misses 3-pt jump shot from 24 ft,,4,100,102,-2,2712.0
+2:48.0,Defensive rebound by Team,102-100, ,,4,100,102,-2,2712.0
+2:48.0, ,102-100,Loose ball foul by I. Stewart (drawn by N. Richards),,4,100,102,-2,2712.0
+2:34.0,Shooting foul by I. Stewart (drawn by C. Martin),102-100, ,,4,100,102,-2,2726.0
+2:34.0,C. Martin makes free throw 1 of 2,103-100, ,,4,100,103,-3,2726.0
+2:34.0, ,103-100,B. Bogdanović enters the game for A. Thompson,,4,100,103,-3,2726.0
+2:34.0,C. Martin makes free throw 2 of 2,104-100, ,,4,100,104,-4,2726.0
+2:17.0, ,104-103,A. Burks makes 3-pt jump shot from 24 ft (assist by K. Hayes),,4,103,104,-1,2743.0
+2:02.0,N. Richards makes 2-pt dunk from 3 ft (assist by L. Ball),106-103, ,,4,103,106,-3,2758.0
+1:51.0, ,106-103,Personal foul by L. Ball (drawn by K. Hayes),,4,103,106,-3,2769.0
+1:46.0, ,106-106,B. Bogdanović makes 3-pt jump shot from 28 ft,Tie,4,106,106,0,2774.0
+1:28.0,Turnover by L. Ball (bad pass; steal by I. Stewart),106-106, ,,4,106,106,0,2792.0
+1:14.0, ,106-106,B. Bogdanović misses 2-pt layup from 4 ft,,4,106,106,0,2806.0
+1:13.0, ,106-106,Offensive rebound by J. Duren,,4,106,106,0,2807.0
+1:12.0, ,106-108,J. Duren makes 2-pt layup at rim,Lead change,4,108,106,2,2808.0
+1:12.0,Charlotte full timeout,106-108, ,,4,108,106,2,2808.0
+1:12.0,P. Washington enters the game for C. Martin,106-108, ,,4,108,106,2,2808.0
+1:12.0, ,106-108,A. Thompson enters the game for B. Bogdanović,,4,108,106,2,2808.0
+0:58.0,L. Ball misses 2-pt layup from 2 ft,106-108, ,,4,108,106,2,2822.0
+0:54.0,Offensive rebound by N. Richards,106-108, ,,4,108,106,2,2826.0
+0:54.0,N. Richards misses 2-pt layup at rim,106-108, ,,4,108,106,2,2826.0
+0:54.0, ,106-108,Defensive rebound by J. Duren,,4,108,106,2,2826.0
+0:37.0, ,106-110,J. Duren makes 2-pt dunk from 5 ft (assist by K. Hayes),,4,110,106,4,2843.0
+0:32.0,Turnover by L. Ball (out of bounds lost ball),106-110, ,,4,110,106,4,2848.0
+0:32.0, ,106-110,Detroit full timeout,,4,110,106,4,2848.0
+0:32.0, ,106-110,Instant Replay (Challenge: Ruling Stands),,4,110,106,4,2848.0
+0:32.0, ,106-110,B. Bogdanović enters the game for A. Thompson,,4,110,106,4,2848.0
+0:28.0, ,106-110,Personal foul by P. Washington (drawn by B. Bogdanović),,4,110,106,4,2852.0
+0:28.0, ,106-111,B. Bogdanović makes free throw 1 of 2,,4,111,106,5,2852.0
+0:28.0, ,106-111,B. Bogdanović misses free throw 2 of 2,,4,111,106,5,2852.0
+0:27.0,Defensive rebound by P. Washington,106-111, ,,4,111,106,5,2853.0
+0:27.0,Charlotte full timeout,106-111, ,,4,111,106,5,2853.0
+0:27.0, ,106-111,A. Thompson enters the game for B. Bogdanović,,4,111,106,5,2853.0
+0:23.0,Offensive foul by L. Ball (drawn by A. Thompson),106-111, ,,4,111,106,5,2857.0
+0:23.0,Turnover by L. Ball (offensive foul),106-111, ,,4,111,106,5,2857.0
+0:23.0, ,106-111,B. Bogdanović enters the game for A. Thompson,,4,111,106,5,2857.0
+0:22.0, ,106-111,Personal take foul by B. Miller (drawn by A. Burks),,4,111,106,5,2858.0
+0:22.0, ,106-112,A. Burks makes free throw 1 of 2,,4,112,106,6,2858.0
+0:22.0, ,106-112,A. Thompson enters the game for B. Bogdanović,,4,112,106,6,2858.0
+0:22.0, ,106-112,A. Burks misses free throw 2 of 2,,4,112,106,6,2858.0
+0:20.0,Defensive rebound by M. Bridges,106-112, ,,4,112,106,6,2860.0
+0:14.0,M. Bridges misses 3-pt jump shot from 29 ft,106-112, ,,4,112,106,6,2866.0
+0:11.0, ,106-112,Defensive rebound by K. Hayes,,4,112,106,6,2869.0
+0:08.0, ,106-112,Personal foul by L. Ball (drawn by K. Hayes),,4,112,106,6,2872.0
+0:08.0,N. Smith enters the game for L. Ball,106-112, ,,4,112,106,6,2872.0
+0:08.0, ,106-113,K. Hayes makes free throw 1 of 2,,4,113,106,7,2872.0
+0:08.0, ,106-113,K. Hayes misses free throw 2 of 2,,4,113,106,7,2872.0
+0:06.0,Defensive rebound by N. Richards,106-113, ,,4,113,106,7,2874.0
+0:02.0,M. Bridges misses 3-pt jump shot from 30 ft,106-113, ,,4,113,106,7,2878.0
+0:00.0, ,106-113,Defensive rebound by Team,,4,113,106,7,2880.0
+0:00.0,End of 4th quarter,106-113,,,4,113,106,7,2880.0

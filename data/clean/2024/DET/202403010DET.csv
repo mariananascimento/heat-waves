@@ -1,0 +1,485 @@
+Time,Cleveland,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Allen vs. J. Duren (D. Garland gains possession),0-0,,,1,0,0,0,0.0
+11:36.0,D. Garland misses 2-pt jump shot from 16 ft,0-0, ,,1,0,0,0,24.0
+11:34.0, ,0-0,Defensive rebound by A. Thompson,,1,0,0,0,26.0
+11:34.0, ,0-0,Personal foul by M. Strus (drawn by A. Thompson),,1,0,0,0,26.0
+11:22.0, ,0-0,A. Thompson misses 2-pt jump shot from 15 ft,,1,0,0,0,38.0
+11:17.0,Defensive rebound by M. Strus,0-0, ,,1,0,0,0,43.0
+11:11.0,I. Okoro makes 2-pt layup at rim (assist by E. Mobley),2-0, ,,1,0,2,-2,49.0
+11:00.0, ,2-0,Turnover by C. Cunningham (bad pass; steal by E. Mobley),,1,0,2,-2,60.0
+10:58.0,Turnover by J. Allen (lost ball; steal by A. Thompson),2-0, ,,1,0,2,-2,62.0
+10:54.0, ,2-0,Turnover by A. Thompson (bad pass; steal by J. Allen),,1,0,2,-2,66.0
+10:51.0, ,2-0,Violation by Team (kicked ball),,1,0,2,-2,69.0
+10:46.0,M. Strus misses 2-pt jump shot from 12 ft,2-0, ,,1,0,2,-2,74.0
+10:44.0,Offensive rebound by J. Allen,2-0, ,,1,0,2,-2,76.0
+10:44.0,Shooting foul by J. Duren (drawn by J. Allen),2-0, ,,1,0,2,-2,76.0
+10:44.0,J. Allen misses free throw 1 of 2,2-0, ,,1,0,2,-2,76.0
+10:44.0,Offensive rebound by Team,2-0, ,,1,0,2,-2,76.0
+10:44.0,J. Allen makes free throw 2 of 2,3-0, ,,1,0,3,-3,76.0
+10:30.0, ,3-0,J. Ivey misses 3-pt jump shot from 26 ft,,1,0,3,-3,90.0
+10:24.0,Defensive rebound by E. Mobley,3-0, ,,1,0,3,-3,96.0
+10:16.0,M. Strus makes 3-pt jump shot from 22 ft (assist by E. Mobley),6-0, ,,1,0,6,-6,104.0
+10:05.0, ,6-0,I. Stewart misses 3-pt jump shot from 26 ft,,1,0,6,-6,115.0
+10:02.0,Defensive rebound by J. Allen,6-0, ,,1,0,6,-6,118.0
+9:54.0,M. Strus misses 3-pt jump shot from 26 ft,6-0, ,,1,0,6,-6,126.0
+9:50.0, ,6-0,Defensive rebound by I. Stewart,,1,0,6,-6,130.0
+9:41.0, ,6-0,J. Ivey misses 3-pt jump shot from 23 ft,,1,0,6,-6,139.0
+9:37.0,Defensive rebound by J. Allen,6-0, ,,1,0,6,-6,143.0
+9:28.0,E. Mobley makes 2-pt layup from 6 ft (assist by I. Okoro),8-0, ,,1,0,8,-8,152.0
+9:14.0, ,8-0,C. Cunningham misses 2-pt jump shot from 19 ft,,1,0,8,-8,166.0
+9:12.0,Defensive rebound by J. Allen,8-0, ,,1,0,8,-8,168.0
+9:08.0,I. Okoro makes 3-pt jump shot from 25 ft (assist by D. Garland),11-0, ,,1,0,11,-11,172.0
+8:51.0, ,11-3,I. Stewart makes 3-pt jump shot from 24 ft (assist by C. Cunningham),,1,3,11,-8,189.0
+8:38.0,E. Mobley misses 2-pt hook shot from 4 ft,11-3, ,,1,3,11,-8,202.0
+8:33.0, ,11-3,Defensive rebound by J. Duren,,1,3,11,-8,207.0
+8:26.0, ,11-5,C. Cunningham makes 2-pt layup from 5 ft,,1,5,11,-6,214.0
+8:17.0,Personal foul by J. Ivey (drawn by M. Strus),11-5, ,,1,5,11,-6,223.0
+8:06.0,Turnover by I. Okoro (lost ball; steal by C. Cunningham),11-5, ,,1,5,11,-6,234.0
+8:03.0, ,11-7,A. Thompson makes 2-pt dunk from 3 ft (assist by C. Cunningham),,1,7,11,-4,237.0
+7:50.0,M. Strus makes 3-pt jump shot from 22 ft (assist by E. Mobley),14-7, ,,1,7,14,-7,250.0
+7:31.0, ,14-9,A. Thompson makes 2-pt jump shot from 21 ft (assist by J. Ivey),,1,9,14,-5,269.0
+7:15.0,E. Mobley misses 2-pt jump shot from 10 ft,14-9, ,,1,9,14,-5,285.0
+7:11.0, ,14-9,Defensive rebound by I. Stewart,,1,9,14,-5,289.0
+7:02.0, ,14-9,J. Duren misses 2-pt dunk from 4 ft (block by J. Allen),,1,9,14,-5,298.0
+7:02.0,Defensive rebound by M. Strus,14-9, ,,1,9,14,-5,298.0
+6:55.0,J. Allen misses 2-pt dunk from 2 ft (block by I. Stewart),14-9, ,,1,9,14,-5,305.0
+6:51.0,Offensive rebound by D. Garland,14-9, ,,1,9,14,-5,309.0
+6:49.0,J. Allen misses 2-pt layup from 2 ft (block by I. Stewart),14-9, ,,1,9,14,-5,311.0
+6:46.0, ,14-9,Defensive rebound by I. Stewart,,1,9,14,-5,314.0
+6:45.0, ,14-9,Personal foul by M. Strus (drawn by C. Cunningham),,1,9,14,-5,315.0
+6:45.0, ,14-9,Detroit full timeout,,1,9,14,-5,315.0
+6:45.0,S. Merrill enters the game for E. Mobley,14-9, ,,1,9,14,-5,315.0
+6:45.0,D. Wade enters the game for M. Strus,14-9, ,,1,9,14,-5,315.0
+6:31.0, ,14-11,J. Ivey makes 2-pt layup from 8 ft (assist by C. Cunningham),,1,11,14,-3,329.0
+6:16.0,Turnover by D. Garland (step out of bounds),14-11, ,,1,11,14,-3,344.0
+5:57.0, ,14-11,J. Duren misses 2-pt hook shot from 4 ft,,1,11,14,-3,363.0
+5:55.0, ,14-11,Offensive rebound by J. Duren,,1,11,14,-3,365.0
+5:52.0, ,14-13,J. Duren makes 2-pt layup from 2 ft (assist by A. Thompson),,1,13,14,-1,368.0
+5:52.0, ,14-13,Shooting foul by D. Wade (drawn by J. Duren),,1,13,14,-1,368.0
+5:52.0, ,14-14,J. Duren makes free throw 1 of 1,Tie,1,14,14,0,368.0
+5:37.0,S. Merrill makes 3-pt jump shot from 25 ft (assist by J. Allen),17-14, ,,1,14,17,-3,383.0
+5:25.0, ,17-14,C. Cunningham misses 2-pt layup from 4 ft,,1,14,17,-3,395.0
+5:25.0,Defensive rebound by D. Garland,17-14, ,,1,14,17,-3,395.0
+5:17.0,I. Okoro makes 2-pt layup from 5 ft (assist by D. Garland),19-14, ,,1,14,19,-5,403.0
+5:05.0, ,19-16,I. Stewart makes 2-pt hook shot from 7 ft (assist by A. Thompson),,1,16,19,-3,415.0
+4:51.0,D. Garland misses 2-pt jump shot from 20 ft,19-16, ,,1,16,19,-3,429.0
+4:49.0, ,19-16,Defensive rebound by I. Stewart,,1,16,19,-3,431.0
+4:43.0, ,19-18,J. Ivey makes 2-pt layup from 3 ft,,1,18,19,-1,437.0
+4:34.0,S. Merrill misses 3-pt jump shot from 25 ft,19-18, ,,1,18,19,-1,446.0
+4:34.0,Offensive rebound by J. Allen,19-18, ,,1,18,19,-1,446.0
+4:30.0,J. Allen makes 2-pt layup from 3 ft,21-18, ,,1,18,21,-3,450.0
+4:17.0, ,21-18,Personal foul by D. Wade (drawn by I. Stewart),,1,18,21,-3,463.0
+4:17.0, ,21-18,S. Fontecchio enters the game for J. Ivey,,1,18,21,-3,463.0
+4:17.0, ,21-18,Q. Grimes enters the game for I. Stewart,,1,18,21,-3,463.0
+4:08.0, ,21-18,Shooting foul by J. Allen (drawn by J. Duren),,1,18,21,-3,472.0
+4:08.0, ,21-19,J. Duren makes free throw 1 of 2,,1,19,21,-2,472.0
+4:08.0,E. Mobley enters the game for J. Allen,21-19, ,,1,19,21,-2,472.0
+4:08.0, ,21-20,J. Duren makes free throw 2 of 2,,1,20,21,-1,472.0
+3:53.0,E. Mobley makes 2-pt dunk from 2 ft (assist by D. Garland),23-20, ,,1,20,23,-3,487.0
+3:40.0, ,23-20,S. Fontecchio misses 2-pt jump shot from 16 ft,,1,20,23,-3,500.0
+3:38.0,Defensive rebound by D. Garland,23-20, ,,1,20,23,-3,502.0
+3:25.0,Turnover by I. Okoro (bad pass; steal by S. Fontecchio),23-20, ,,1,20,23,-3,515.0
+3:19.0, ,23-22,Q. Grimes makes 2-pt jump shot from 13 ft,,1,22,23,-1,521.0
+3:05.0,Shooting foul by J. Duren (drawn by I. Okoro),23-22, ,,1,22,23,-1,535.0
+3:05.0,I. Okoro makes free throw 1 of 2,24-22, ,,1,22,24,-2,535.0
+3:05.0,G. Niang enters the game for D. Garland,24-22, ,,1,22,24,-2,535.0
+3:05.0,C. Porter enters the game for D. Wade,24-22, ,,1,22,24,-2,535.0
+3:05.0, ,24-22,M. Flynn enters the game for C. Cunningham,,1,22,24,-2,535.0
+3:05.0, ,24-22,J. Wiseman enters the game for J. Duren,,1,22,24,-2,535.0
+3:05.0,I. Okoro makes free throw 2 of 2,25-22, ,,1,22,25,-3,535.0
+2:39.0, ,25-22,M. Flynn misses 2-pt jump shot from 14 ft,,1,22,25,-3,561.0
+2:39.0, ,25-22,Offensive rebound by Team,,1,22,25,-3,561.0
+2:39.0,Cleveland full timeout,25-22, ,,1,22,25,-3,561.0
+2:39.0,M. Strus enters the game for I. Okoro,25-22, ,,1,22,25,-3,561.0
+2:39.0, ,25-22,E. Fournier enters the game for A. Thompson,,1,22,25,-3,561.0
+2:28.0, ,25-22,E. Fournier misses 3-pt jump shot from 26 ft,,1,22,25,-3,572.0
+2:25.0,Defensive rebound by S. Merrill,25-22, ,,1,22,25,-3,575.0
+2:15.0,E. Mobley makes 2-pt hook shot from 8 ft (assist by S. Merrill),27-22, ,,1,22,27,-5,585.0
+2:15.0,Shooting foul by J. Wiseman (drawn by E. Mobley),27-22, ,,1,22,27,-5,585.0
+2:15.0,E. Mobley makes free throw 1 of 1,28-22, ,,1,22,28,-6,585.0
+2:03.0, ,28-22,M. Flynn misses 3-pt jump shot from 25 ft,,1,22,28,-6,597.0
+2:01.0,Defensive rebound by Team,28-22, ,,1,22,28,-6,599.0
+1:44.0,M. Strus misses 3-pt jump shot from 23 ft,28-22, ,,1,22,28,-6,616.0
+1:41.0, ,28-22,Defensive rebound by J. Wiseman,,1,22,28,-6,619.0
+1:32.0, ,28-24,J. Wiseman makes 2-pt dunk from 3 ft (assist by S. Fontecchio),,1,24,28,-4,628.0
+1:14.0,Turnover by E. Mobley (lost ball; steal by Q. Grimes),28-24, ,,1,24,28,-4,646.0
+1:09.0, ,28-24,Turnover by Q. Grimes (lost ball; steal by E. Mobley),,1,24,28,-4,651.0
+1:06.0,Shooting foul by M. Flynn (drawn by C. Porter),28-24, ,,1,24,28,-4,654.0
+1:06.0,C. Porter makes free throw 1 of 2,29-24, ,,1,24,29,-5,654.0
+1:06.0,C. Porter makes free throw 2 of 2,30-24, ,,1,24,30,-6,654.0
+0:49.0, ,30-24,S. Fontecchio misses 3-pt jump shot from 25 ft,,1,24,30,-6,671.0
+0:44.0,Defensive rebound by E. Mobley,30-24, ,,1,24,30,-6,676.0
+0:37.0,G. Niang misses 3-pt jump shot from 25 ft,30-24, ,,1,24,30,-6,683.0
+0:33.0, ,30-24,Defensive rebound by J. Wiseman,,1,24,30,-6,687.0
+0:16.0, ,30-24,Turnover by S. Fontecchio (lost ball; steal by G. Niang),,1,24,30,-6,704.0
+0:02.0,C. Porter makes 2-pt jump shot from 8 ft,32-24, ,,1,24,32,-8,718.0
+0:00.0,End of 1st quarter,32-24,,,1,24,32,-8,720.0
+12:00.0,Start of 2nd quarter,32-24,,,2,24,32,-8,720.0
+11:45.0, ,32-24,M. Flynn misses 3-pt jump shot from 29 ft,,2,24,32,-8,735.0
+11:41.0,Defensive rebound by C. Porter,32-24, ,,2,24,32,-8,739.0
+11:31.0, ,32-24,Violation by Team (kicked ball),,2,24,32,-8,749.0
+11:26.0,C. Porter misses 2-pt jump shot from 17 ft,32-24, ,,2,24,32,-8,754.0
+11:23.0, ,32-24,Defensive rebound by J. Wiseman,,2,24,32,-8,757.0
+11:16.0, ,32-24,Q. Grimes misses 2-pt jump shot from 20 ft,,2,24,32,-8,764.0
+11:12.0,Defensive rebound by E. Mobley,32-24, ,,2,24,32,-8,768.0
+11:04.0,S. Merrill makes 3-pt jump shot from 24 ft (assist by E. Mobley),35-24, ,,2,24,35,-11,776.0
+10:42.0, ,35-24,E. Fournier misses 2-pt layup from 6 ft,,2,24,35,-11,798.0
+10:38.0,Defensive rebound by E. Mobley,35-24, ,,2,24,35,-11,802.0
+10:28.0,G. Niang misses 3-pt jump shot from 24 ft,35-24, ,,2,24,35,-11,812.0
+10:25.0, ,35-24,Defensive rebound by J. Wiseman,,2,24,35,-11,815.0
+10:18.0, ,35-24,Q. Grimes misses 2-pt layup from 5 ft (block by E. Mobley),,2,24,35,-11,822.0
+10:13.0,Defensive rebound by S. Merrill,35-24, ,,2,24,35,-11,827.0
+10:11.0,S. Merrill misses 3-pt jump shot from 27 ft,35-24, ,,2,24,35,-11,829.0
+10:08.0, ,35-24,Defensive rebound by S. Fontecchio,,2,24,35,-11,832.0
+9:52.0, ,35-24,S. Fontecchio misses 2-pt jump shot from 7 ft,,2,24,35,-11,848.0
+9:49.0,Defensive rebound by E. Mobley,35-24, ,,2,24,35,-11,851.0
+9:47.0,M. Strus makes 2-pt dunk from 2 ft (assist by G. Niang),37-24, ,,2,24,37,-13,853.0
+9:46.0, ,37-24,Detroit full timeout,,2,24,37,-13,854.0
+9:46.0, ,37-24,C. Cunningham enters the game for M. Flynn,,2,24,37,-13,854.0
+9:46.0, ,37-24,J. Ivey enters the game for Q. Grimes,,2,24,37,-13,854.0
+9:26.0, ,37-24,S. Fontecchio misses 2-pt jump shot from 6 ft,,2,24,37,-13,874.0
+9:24.0, ,37-24,Offensive rebound by J. Wiseman,,2,24,37,-13,876.0
+9:21.0, ,37-26,J. Wiseman makes 2-pt layup from 3 ft,,2,26,37,-11,879.0
+9:02.0,E. Mobley misses 2-pt hook shot from 4 ft,37-26, ,,2,26,37,-11,898.0
+9:00.0,Offensive rebound by M. Strus,37-26, ,,2,26,37,-11,900.0
+8:58.0,E. Mobley makes 2-pt dunk from 1 ft (assist by M. Strus),39-26, ,,2,26,39,-13,902.0
+8:44.0, ,39-26,S. Fontecchio misses 2-pt jump shot from 8 ft,,2,26,39,-13,916.0
+8:40.0,Defensive rebound by G. Niang,39-26, ,,2,26,39,-13,920.0
+8:37.0,Cleveland full timeout,39-26, ,,2,26,39,-13,923.0
+8:37.0,J. Allen enters the game for S. Merrill,39-26, ,,2,26,39,-13,923.0
+8:37.0,D. Garland enters the game for E. Mobley,39-26, ,,2,26,39,-13,923.0
+8:37.0,I. Okoro enters the game for C. Porter,39-26, ,,2,26,39,-13,923.0
+8:37.0,D. Wade enters the game for M. Strus,39-26, ,,2,26,39,-13,923.0
+8:37.0, ,39-26,J. Duren enters the game for J. Wiseman,,2,26,39,-13,923.0
+8:30.0,D. Garland makes 3-pt jump shot from 23 ft (assist by I. Okoro),42-26, ,,2,26,42,-16,930.0
+8:08.0, ,42-26,J. Duren misses 2-pt jump shot from 7 ft,,2,26,42,-16,952.0
+8:04.0,Defensive rebound by J. Allen,42-26, ,,2,26,42,-16,956.0
+7:58.0,D. Wade misses 3-pt jump shot from 22 ft,42-26, ,,2,26,42,-16,962.0
+7:55.0, ,42-26,Defensive rebound by C. Cunningham,,2,26,42,-16,965.0
+7:51.0, ,42-28,J. Ivey makes 2-pt layup from 2 ft (assist by C. Cunningham),,2,28,42,-14,969.0
+7:27.0,D. Garland makes 3-pt jump shot from 23 ft,45-28, ,,2,28,45,-17,993.0
+7:14.0, ,45-28,C. Cunningham misses 2-pt jump shot from 11 ft (block by I. Okoro),,2,28,45,-17,1006.0
+7:12.0,Defensive rebound by J. Allen,45-28, ,,2,28,45,-17,1008.0
+7:10.0,I. Okoro misses 2-pt layup from 4 ft,45-28, ,,2,28,45,-17,1010.0
+7:10.0,Offensive rebound by Team,45-28, ,,2,28,45,-17,1010.0
+7:10.0, ,45-28,I. Stewart enters the game for S. Fontecchio,,2,28,45,-17,1010.0
+7:10.0, ,45-28,A. Thompson enters the game for E. Fournier,,2,28,45,-17,1010.0
+7:06.0,Turnover by G. Niang (bad pass),45-28, ,,2,28,45,-17,1014.0
+6:44.0, ,45-28,A. Thompson misses 2-pt jump shot from 8 ft,,2,28,45,-17,1036.0
+6:40.0,Defensive rebound by J. Allen,45-28, ,,2,28,45,-17,1040.0
+6:29.0,D. Wade makes 3-pt jump shot from 26 ft (assist by D. Garland),48-28, ,,2,28,48,-20,1051.0
+6:16.0, ,48-30,J. Duren makes 2-pt layup from 4 ft (assist by C. Cunningham),,2,30,48,-18,1064.0
+6:08.0,D. Wade makes 3-pt jump shot from 25 ft (assist by G. Niang),51-30, ,,2,30,51,-21,1072.0
+5:58.0, ,51-30,Shooting foul by I. Okoro (drawn by C. Cunningham),,2,30,51,-21,1082.0
+5:58.0, ,51-31,C. Cunningham makes free throw 1 of 2,,2,31,51,-20,1082.0
+5:58.0, ,51-32,C. Cunningham makes free throw 2 of 2,,2,32,51,-19,1082.0
+5:43.0,D. Garland makes 3-pt jump shot from 25 ft,54-32, ,,2,32,54,-22,1097.0
+5:33.0, ,54-35,C. Cunningham makes 3-pt jump shot from 26 ft,,2,35,54,-19,1107.0
+5:23.0, ,54-35,Violation by Team (kicked ball),,2,35,54,-19,1117.0
+5:19.0,D. Garland makes 3-pt jump shot from 28 ft (assist by G. Niang),57-35, ,,2,35,57,-22,1121.0
+5:04.0, ,57-35,I. Stewart misses 2-pt layup from 5 ft (block by D. Wade),,2,35,57,-22,1136.0
+5:04.0, ,57-35,Offensive rebound by Team,,2,35,57,-22,1136.0
+5:01.0, ,57-37,C. Cunningham makes 2-pt jump shot from 15 ft (assist by A. Thompson),,2,37,57,-20,1139.0
+4:36.0,D. Garland makes 3-pt jump shot from 24 ft,60-37, ,,2,37,60,-23,1164.0
+4:20.0, ,60-37,J. Ivey misses 3-pt jump shot from 26 ft,,2,37,60,-23,1180.0
+4:17.0,Defensive rebound by J. Allen,60-37, ,,2,37,60,-23,1183.0
+4:11.0,D. Garland misses 2-pt jump shot from 6 ft (block by J. Ivey),60-37, ,,2,37,60,-23,1189.0
+4:11.0,Offensive rebound by Team,60-37, ,,2,37,60,-23,1189.0
+4:11.0,E. Mobley enters the game for G. Niang,60-37, ,,2,37,60,-23,1189.0
+4:11.0,M. Strus enters the game for D. Wade,60-37, ,,2,37,60,-23,1189.0
+4:07.0,D. Garland misses 3-pt jump shot from 24 ft,60-37, ,,2,37,60,-23,1193.0
+4:05.0,Offensive rebound by E. Mobley,60-37, ,,2,37,60,-23,1195.0
+4:02.0,D. Garland makes 3-pt jump shot from 23 ft (assist by E. Mobley),63-37, ,,2,37,63,-26,1198.0
+4:02.0, ,63-37,Detroit full timeout,,2,37,63,-26,1198.0
+3:48.0, ,63-37,Shooting foul by E. Mobley (drawn by J. Ivey),,2,37,63,-26,1212.0
+3:48.0, ,63-38,J. Ivey makes free throw 1 of 2,,2,38,63,-25,1212.0
+3:48.0, ,63-39,J. Ivey makes free throw 2 of 2,,2,39,63,-24,1212.0
+3:24.0,E. Mobley misses 3-pt jump shot from 24 ft,63-39, ,,2,39,63,-24,1236.0
+3:20.0, ,63-39,Defensive rebound by C. Cunningham,,2,39,63,-24,1240.0
+3:16.0, ,63-39,J. Ivey misses 2-pt layup from 5 ft,,2,39,63,-24,1244.0
+3:13.0,Defensive rebound by J. Allen,63-39, ,,2,39,63,-24,1247.0
+3:01.0,Turnover by J. Allen (bad pass; steal by A. Thompson),63-39, ,,2,39,63,-24,1259.0
+2:53.0, ,63-39,J. Ivey misses 3-pt jump shot from 23 ft,,2,39,63,-24,1267.0
+2:50.0, ,63-39,Offensive rebound by J. Duren,,2,39,63,-24,1270.0
+2:47.0, ,63-42,C. Cunningham makes 3-pt jump shot from 26 ft (assist by J. Duren),,2,42,63,-21,1273.0
+2:44.0,Cleveland full timeout,63-42, ,,2,42,63,-21,1276.0
+2:25.0,Turnover by D. Garland (bad pass; steal by A. Thompson),63-42, ,,2,42,63,-21,1295.0
+2:22.0, ,63-42,Shooting foul by I. Okoro (drawn by A. Thompson),,2,42,63,-21,1298.0
+2:22.0, ,63-42,A. Thompson misses free throw 1 of 2,,2,42,63,-21,1298.0
+2:22.0, ,63-42,Offensive rebound by Team,,2,42,63,-21,1298.0
+2:22.0, ,63-43,A. Thompson makes free throw 2 of 2,,2,43,63,-20,1298.0
+2:11.0,I. Okoro misses 3-pt jump shot from 24 ft,63-43, ,,2,43,63,-20,1309.0
+2:07.0, ,63-43,Defensive rebound by I. Stewart,,2,43,63,-20,1313.0
+2:06.0, ,63-45,J. Ivey makes 2-pt layup from 4 ft,,2,45,63,-18,1314.0
+2:06.0, ,63-45,Shooting foul by D. Garland (drawn by J. Ivey),,2,45,63,-18,1314.0
+2:06.0,S. Merrill enters the game for M. Strus,63-45, ,,2,45,63,-18,1314.0
+2:06.0, ,63-46,J. Ivey makes free throw 1 of 1,,2,46,63,-17,1314.0
+1:42.0,D. Garland misses 2-pt jump shot from 5 ft (block by A. Thompson),63-46, ,,2,46,63,-17,1338.0
+1:42.0, ,63-46,Defensive rebound by Team,,2,46,63,-17,1338.0
+1:22.0, ,63-48,A. Thompson makes 2-pt jump shot from 6 ft (assist by C. Cunningham),,2,48,63,-15,1358.0
+1:06.0,I. Okoro misses 3-pt jump shot from 24 ft,63-48, ,,2,48,63,-15,1374.0
+1:03.0, ,63-48,Defensive rebound by J. Ivey,,2,48,63,-15,1377.0
+0:55.0, ,63-48,I. Stewart misses 2-pt layup from 8 ft,,2,48,63,-15,1385.0
+0:52.0,Defensive rebound by E. Mobley,63-48, ,,2,48,63,-15,1388.0
+0:50.0,Turnover by D. Garland (out of bounds lost ball),63-48, ,,2,48,63,-15,1390.0
+0:32.0, ,63-48,C. Cunningham misses 3-pt jump shot from 29 ft,,2,48,63,-15,1408.0
+0:29.0,Defensive rebound by E. Mobley,63-48, ,,2,48,63,-15,1411.0
+0:09.0,D. Garland misses 2-pt jump shot from 21 ft,63-48, ,,2,48,63,-15,1431.0
+0:08.0,Offensive rebound by Team,63-48, ,,2,48,63,-15,1432.0
+0:08.0, ,63-48,Loose ball foul by J. Ivey (drawn by J. Allen),,2,48,63,-15,1432.0
+0:08.0, ,63-48,S. Fontecchio enters the game for J. Duren,,2,48,63,-15,1432.0
+0:00.0,D. Garland misses 2-pt jump shot from 22 ft,63-48, ,,2,48,63,-15,1440.0
+0:00.0,Offensive rebound by Team,63-48, ,,2,48,63,-15,1440.0
+0:00.0,End of 2nd quarter,63-48,,,2,48,63,-15,1440.0
+12:00.0,Start of 3rd quarter,63-48,,,3,48,63,-15,1440.0
+11:39.0, ,63-51,I. Stewart makes 3-pt jump shot from 26 ft (assist by J. Ivey),,3,51,63,-12,1461.0
+11:12.0,I. Okoro misses 2-pt layup from 7 ft (block by J. Duren),63-51, ,,3,51,63,-12,1488.0
+11:12.0,Offensive rebound by Team,63-51, ,,3,51,63,-12,1488.0
+11:12.0,Turnover by Team (shot clock),63-51, ,,3,51,63,-12,1488.0
+10:58.0, ,63-51,J. Ivey misses 2-pt layup from 4 ft,,3,51,63,-12,1502.0
+10:54.0, ,63-51,Offensive rebound by J. Ivey,,3,51,63,-12,1506.0
+10:52.0, ,63-51,C. Cunningham misses 3-pt jump shot from 26 ft,,3,51,63,-12,1508.0
+10:49.0,Defensive rebound by E. Mobley,63-51, ,,3,51,63,-12,1511.0
+10:42.0,E. Mobley misses 2-pt layup from 7 ft,63-51, ,,3,51,63,-12,1518.0
+10:38.0,Offensive rebound by E. Mobley,63-51, ,,3,51,63,-12,1522.0
+10:38.0,E. Mobley makes 2-pt layup at rim,65-51, ,,3,51,65,-14,1522.0
+10:37.0, ,65-51,Turnover by J. Ivey (bad pass; steal by I. Okoro),,3,51,65,-14,1523.0
+10:33.0,I. Okoro misses 3-pt jump shot from 23 ft,65-51, ,,3,51,65,-14,1527.0
+10:29.0, ,65-51,Defensive rebound by J. Duren,,3,51,65,-14,1531.0
+10:20.0, ,65-51,C. Cunningham misses 3-pt jump shot from 25 ft,,3,51,65,-14,1540.0
+10:18.0,Defensive rebound by E. Mobley,65-51, ,,3,51,65,-14,1542.0
+10:15.0,Shooting foul by C. Cunningham (drawn by J. Allen),65-51, ,,3,51,65,-14,1545.0
+10:15.0,J. Allen makes free throw 1 of 2,66-51, ,,3,51,66,-15,1545.0
+10:15.0,J. Allen makes free throw 2 of 2,67-51, ,,3,51,67,-16,1545.0
+9:55.0, ,67-51,Shooting foul by D. Garland (drawn by J. Ivey),,3,51,67,-16,1565.0
+9:55.0, ,67-51,J. Ivey misses free throw 1 of 2,,3,51,67,-16,1565.0
+9:55.0, ,67-51,Offensive rebound by Team,,3,51,67,-16,1565.0
+9:55.0, ,67-52,J. Ivey makes free throw 2 of 2,,3,52,67,-15,1565.0
+9:34.0,E. Mobley makes 2-pt layup from 7 ft (assist by I. Okoro),69-52, ,,3,52,69,-17,1586.0
+9:17.0, ,69-52,I. Stewart misses 3-pt jump shot from 24 ft,,3,52,69,-17,1603.0
+9:13.0,Defensive rebound by D. Garland,69-52, ,,3,52,69,-17,1607.0
+8:59.0,E. Mobley misses 2-pt layup from 1 ft,69-52, ,,3,52,69,-17,1621.0
+8:55.0,Offensive rebound by E. Mobley,69-52, ,,3,52,69,-17,1625.0
+8:51.0,D. Garland makes 3-pt jump shot from 25 ft (assist by E. Mobley),72-52, ,,3,52,72,-20,1629.0
+8:32.0, ,72-52,A. Thompson misses 2-pt jump shot from 12 ft,,3,52,72,-20,1648.0
+8:28.0,Defensive rebound by J. Allen,72-52, ,,3,52,72,-20,1652.0
+8:21.0,D. Garland makes 3-pt jump shot from 27 ft (assist by I. Okoro),75-52, ,,3,52,75,-23,1659.0
+8:20.0, ,75-52,Detroit full timeout,,3,52,75,-23,1660.0
+7:55.0, ,75-52,Turnover by Team (shot clock),,3,52,75,-23,1685.0
+7:40.0,Shooting foul by J. Ivey (drawn by E. Mobley),75-52, ,,3,52,75,-23,1700.0
+7:40.0,E. Mobley makes free throw 1 of 2,76-52, ,,3,52,76,-24,1700.0
+7:40.0,E. Mobley makes free throw 2 of 2,77-52, ,,3,52,77,-25,1700.0
+7:23.0, ,77-54,C. Cunningham makes 2-pt layup from 4 ft (assist by I. Stewart),,3,54,77,-23,1717.0
+7:03.0,M. Strus misses 3-pt jump shot from 23 ft,77-54, ,,3,54,77,-23,1737.0
+7:00.0, ,77-54,Defensive rebound by C. Cunningham,,3,54,77,-23,1740.0
+6:51.0, ,77-54,C. Cunningham misses 2-pt layup from 4 ft (block by E. Mobley),,3,54,77,-23,1749.0
+6:48.0, ,77-54,Offensive rebound by J. Duren,,3,54,77,-23,1752.0
+6:46.0, ,77-57,I. Stewart makes 3-pt jump shot from 26 ft (assist by J. Duren),,3,57,77,-20,1754.0
+6:42.0,Away from play foul by C. Cunningham (drawn by D. Garland),77-57, ,,3,57,77,-20,1758.0
+6:42.0,D. Garland makes free throw 1 of 1,78-57, ,,3,57,78,-21,1758.0
+6:33.0,Personal foul by J. Duren (drawn by J. Allen),78-57, ,,3,57,78,-21,1767.0
+6:33.0, ,78-57,S. Fontecchio enters the game for J. Ivey,,3,57,78,-21,1767.0
+6:33.0, ,78-57,Q. Grimes enters the game for A. Thompson,,3,57,78,-21,1767.0
+6:21.0,I. Okoro makes 3-pt jump shot from 26 ft (assist by M. Strus),81-57, ,,3,57,81,-24,1779.0
+6:02.0, ,81-60,I. Stewart makes 3-pt jump shot from 26 ft (assist by C. Cunningham),,3,60,81,-21,1798.0
+5:46.0,M. Strus misses 2-pt layup from 6 ft,81-60, ,,3,60,81,-21,1814.0
+5:43.0, ,81-60,Defensive rebound by I. Stewart,,3,60,81,-21,1817.0
+5:35.0, ,81-60,Q. Grimes misses 3-pt jump shot from 26 ft,,3,60,81,-21,1825.0
+5:35.0,Defensive rebound by E. Mobley,81-60, ,,3,60,81,-21,1825.0
+5:18.0,M. Strus misses 3-pt jump shot from 25 ft,81-60, ,,3,60,81,-21,1842.0
+5:15.0,Offensive rebound by M. Strus,81-60, ,,3,60,81,-21,1845.0
+5:15.0,Personal foul by S. Fontecchio (drawn by M. Strus),81-60, ,,3,60,81,-21,1845.0
+5:15.0,M. Strus makes free throw 1 of 2,82-60, ,,3,60,82,-22,1845.0
+5:15.0,S. Merrill enters the game for E. Mobley,82-60, ,,3,60,82,-22,1845.0
+5:15.0,D. Wade enters the game for I. Okoro,82-60, ,,3,60,82,-22,1845.0
+5:15.0,M. Strus makes free throw 2 of 2,83-60, ,,3,60,83,-23,1845.0
+5:02.0, ,83-62,C. Cunningham makes 2-pt jump shot from 4 ft,,3,62,83,-21,1858.0
+5:02.0,Violation by Team (def goaltending),83-62, ,,3,62,83,-21,1858.0
+4:49.0,Personal foul by S. Fontecchio (drawn by J. Allen),83-62, ,,3,62,83,-21,1871.0
+4:49.0,J. Allen makes free throw 1 of 2,84-62, ,,3,62,84,-22,1871.0
+4:49.0,J. Allen makes free throw 2 of 2,85-62, ,,3,62,85,-23,1871.0
+4:32.0, ,85-64,J. Duren makes 2-pt dunk from 4 ft (assist by I. Stewart),,3,64,85,-21,1888.0
+4:03.0,J. Allen misses 2-pt dunk from 4 ft,85-64, ,,3,64,85,-21,1917.0
+4:01.0,Offensive rebound by S. Merrill,85-64, ,,3,64,85,-21,1919.0
+3:59.0,S. Merrill misses 3-pt jump shot from 26 ft,85-64, ,,3,64,85,-21,1921.0
+3:56.0, ,85-64,Defensive rebound by J. Duren,,3,64,85,-21,1924.0
+3:50.0, ,85-66,J. Duren makes 2-pt layup from 4 ft,,3,66,85,-19,1930.0
+3:24.0,D. Garland misses 3-pt jump shot from 26 ft,85-66, ,,3,66,85,-19,1956.0
+3:19.0, ,85-66,Defensive rebound by J. Duren,,3,66,85,-19,1961.0
+3:14.0, ,85-66,C. Cunningham misses 2-pt layup from 6 ft,,3,66,85,-19,1966.0
+3:13.0, ,85-66,Offensive rebound by I. Stewart,,3,66,85,-19,1967.0
+3:12.0, ,85-66,Offensive foul by J. Duren (drawn by S. Merrill),,3,66,85,-19,1968.0
+3:12.0, ,85-66,Turnover by J. Duren (offensive foul),,3,66,85,-19,1968.0
+3:12.0,E. Mobley enters the game for J. Allen,85-66, ,,3,66,85,-19,1968.0
+3:12.0,G. Niang enters the game for M. Strus,85-66, ,,3,66,85,-19,1968.0
+2:51.0,G. Niang misses 2-pt jump shot from 10 ft,85-66, ,,3,66,85,-19,1989.0
+2:48.0, ,85-66,Defensive rebound by J. Duren,,3,66,85,-19,1992.0
+2:42.0, ,85-66,Shooting foul by E. Mobley (drawn by J. Duren),,3,66,85,-19,1998.0
+2:42.0,Cleveland full timeout,85-66, ,,3,66,85,-19,1998.0
+2:42.0, ,85-66,J. Ivey enters the game for C. Cunningham,,3,66,85,-19,1998.0
+2:42.0, ,85-66,A. Thompson enters the game for I. Stewart,,3,66,85,-19,1998.0
+2:42.0, ,85-67,J. Duren makes free throw 1 of 2,,3,67,85,-18,1998.0
+2:42.0, ,85-67,J. Duren misses free throw 2 of 2,,3,67,85,-18,1998.0
+2:40.0,Defensive rebound by E. Mobley,85-67, ,,3,67,85,-18,2000.0
+2:25.0,Personal foul by J. Duren (drawn by E. Mobley),85-67, ,,3,67,85,-18,2015.0
+2:25.0,E. Mobley makes free throw 1 of 2,86-67, ,,3,67,86,-19,2015.0
+2:25.0, ,86-67,J. Wiseman enters the game for J. Duren,,3,67,86,-19,2015.0
+2:25.0,E. Mobley makes free throw 2 of 2,87-67, ,,3,67,87,-20,2015.0
+2:14.0, ,87-67,Personal foul by D. Garland (drawn by J. Ivey),,3,67,87,-20,2026.0
+2:08.0, ,87-67,S. Fontecchio misses 3-pt jump shot from 25 ft,,3,67,87,-20,2032.0
+2:04.0,Defensive rebound by D. Wade,87-67, ,,3,67,87,-20,2036.0
+1:50.0,D. Garland misses 2-pt jump shot from 12 ft,87-67, ,,3,67,87,-20,2050.0
+1:46.0, ,87-67,Defensive rebound by A. Thompson,,3,67,87,-20,2054.0
+1:38.0, ,87-67,J. Ivey misses 3-pt jump shot from 24 ft,,3,67,87,-20,2062.0
+1:35.0, ,87-67,Offensive rebound by J. Wiseman,,3,67,87,-20,2065.0
+1:31.0, ,87-67,J. Ivey misses 3-pt jump shot from 24 ft,,3,67,87,-20,2069.0
+1:27.0,Defensive rebound by G. Niang,87-67, ,,3,67,87,-20,2073.0
+1:16.0,Personal foul by J. Wiseman (drawn by E. Mobley),87-67, ,,3,67,87,-20,2084.0
+1:16.0,E. Mobley misses free throw 1 of 2,87-67, ,,3,67,87,-20,2084.0
+1:16.0,Offensive rebound by Team,87-67, ,,3,67,87,-20,2084.0
+1:16.0,E. Mobley makes free throw 2 of 2,88-67, ,,3,67,88,-21,2084.0
+1:01.0, ,88-70,A. Thompson makes 3-pt jump shot from 25 ft (assist by J. Ivey),,3,70,88,-18,2099.0
+0:47.0,Personal foul by J. Ivey (drawn by D. Garland),88-70, ,,3,70,88,-18,2113.0
+0:47.0,D. Garland makes free throw 1 of 2,89-70, ,,3,70,89,-19,2113.0
+0:47.0,D. Garland makes free throw 2 of 2,90-70, ,,3,70,90,-20,2113.0
+0:37.0, ,90-70,J. Wiseman misses 2-pt jump shot from 8 ft,,3,70,90,-20,2123.0
+0:35.0,Defensive rebound by E. Mobley,90-70, ,,3,70,90,-20,2125.0
+0:26.0,Shooting foul by J. Wiseman (drawn by E. Mobley),90-70, ,,3,70,90,-20,2134.0
+0:26.0,E. Mobley makes free throw 1 of 2,91-70, ,,3,70,91,-21,2134.0
+0:26.0,J. Allen enters the game for D. Garland,91-70, ,,3,70,91,-21,2134.0
+0:26.0,M. Strus enters the game for S. Merrill,91-70, ,,3,70,91,-21,2134.0
+0:26.0,E. Mobley misses free throw 2 of 2,91-70, ,,3,70,91,-21,2134.0
+0:23.0, ,91-70,Defensive rebound by A. Thompson,,3,70,91,-21,2137.0
+0:04.0, ,91-70,Q. Grimes misses 3-pt jump shot from 25 ft,,3,70,91,-21,2156.0
+0:02.0, ,91-70,Offensive rebound by A. Thompson,,3,70,91,-21,2158.0
+0:00.0, ,91-70,J. Ivey misses 3-pt jump shot from 27 ft,,3,70,91,-21,2160.0
+0:00.0, ,91-70,Offensive rebound by Team,,3,70,91,-21,2160.0
+0:00.0,End of 3rd quarter,91-70,,,3,70,91,-21,2160.0
+12:00.0,Start of 4th quarter,91-70,,,4,70,91,-21,2160.0
+11:42.0,E. Mobley makes 2-pt dunk from 4 ft (assist by M. Strus),93-70, ,,4,70,93,-23,2178.0
+11:31.0, ,93-70,Personal foul by C. Porter (drawn by A. Thompson),,4,70,93,-23,2189.0
+11:22.0, ,93-70,Q. Grimes misses 3-pt jump shot from 25 ft,,4,70,93,-23,2198.0
+11:19.0,Defensive rebound by E. Mobley,93-70, ,,4,70,93,-23,2201.0
+11:11.0,S. Merrill makes 3-pt jump shot from 25 ft (assist by M. Strus),96-70, ,,4,70,96,-26,2209.0
+10:57.0, ,96-72,J. Ivey makes 2-pt jump shot from 16 ft,,4,72,96,-24,2223.0
+10:57.0, ,96-72,Shooting foul by E. Mobley (drawn by J. Ivey),,4,72,96,-24,2223.0
+10:57.0, ,96-72,E. Fournier enters the game for Q. Grimes,,4,72,96,-24,2223.0
+10:57.0, ,96-73,J. Ivey makes free throw 1 of 1,,4,73,96,-23,2223.0
+10:37.0,Turnover by M. Strus (bad pass; steal by E. Fournier),96-73, ,,4,73,96,-23,2243.0
+10:27.0, ,96-73,J. Ivey misses 3-pt jump shot from 22 ft,,4,73,96,-23,2253.0
+10:23.0,Defensive rebound by C. Porter,96-73, ,,4,73,96,-23,2257.0
+10:10.0,G. Niang misses 3-pt jump shot from 23 ft,96-73, ,,4,73,96,-23,2270.0
+10:07.0, ,96-73,Defensive rebound by E. Fournier,,4,73,96,-23,2273.0
+9:56.0, ,96-73,J. Ivey misses 2-pt layup from 8 ft,,4,73,96,-23,2284.0
+9:54.0,Defensive rebound by C. Porter,96-73, ,,4,73,96,-23,2286.0
+9:42.0,S. Merrill misses 3-pt jump shot from 24 ft,96-73, ,,4,73,96,-23,2298.0
+9:40.0, ,96-73,Defensive rebound by E. Fournier,,4,73,96,-23,2300.0
+9:34.0, ,96-76,S. Fontecchio makes 3-pt jump shot from 23 ft (assist by J. Ivey),,4,76,96,-20,2306.0
+9:19.0,G. Niang makes 2-pt layup from 3 ft (assist by E. Mobley),98-76, ,,4,76,98,-22,2321.0
+9:07.0, ,98-76,J. Wiseman misses 2-pt jump shot from 12 ft,,4,76,98,-22,2333.0
+9:03.0,Defensive rebound by G. Niang,98-76, ,,4,76,98,-22,2337.0
+8:56.0,M. Strus misses 3-pt jump shot from 25 ft (block by A. Thompson),98-76, ,,4,76,98,-22,2344.0
+8:52.0, ,98-76,Defensive rebound by S. Fontecchio,,4,76,98,-22,2348.0
+8:51.0, ,98-76,Shooting foul by C. Porter (drawn by S. Fontecchio),,4,76,98,-22,2349.0
+8:51.0,Cleveland full timeout,98-76, ,,4,76,98,-22,2349.0
+8:51.0,Instant Replay (Challenge: Stands),98-76, ,,4,76,98,-22,2349.0
+8:51.0,J. Allen enters the game for E. Mobley,98-76, ,,4,76,98,-22,2349.0
+8:51.0, ,98-76,C. Cunningham enters the game for J. Ivey,,4,76,98,-22,2349.0
+8:51.0, ,98-76,I. Stewart enters the game for J. Wiseman,,4,76,98,-22,2349.0
+8:51.0, ,98-77,S. Fontecchio makes free throw 1 of 2,,4,77,98,-21,2349.0
+8:51.0, ,98-77,S. Fontecchio misses free throw 2 of 2,,4,77,98,-21,2349.0
+8:40.0,Defensive rebound by J. Allen,98-77, ,,4,77,98,-21,2360.0
+8:36.0,Shooting foul by E. Fournier (drawn by J. Allen),98-77, ,,4,77,98,-21,2364.0
+8:36.0,J. Allen makes free throw 1 of 2,99-77, ,,4,77,99,-22,2364.0
+8:36.0,J. Allen makes free throw 2 of 2,100-77, ,,4,77,100,-23,2364.0
+8:18.0, ,100-79,S. Fontecchio makes 2-pt jump shot from 5 ft (assist by C. Cunningham),,4,79,100,-21,2382.0
+8:18.0, ,100-79,Shooting foul by C. Porter (drawn by S. Fontecchio),,4,79,100,-21,2382.0
+8:18.0, ,100-80,S. Fontecchio makes free throw 1 of 1,,4,80,100,-20,2382.0
+7:57.0,Turnover by C. Porter (bad pass; steal by A. Thompson),100-80, ,,4,80,100,-20,2403.0
+7:52.0, ,100-82,A. Thompson makes 2-pt dunk from 3 ft (assist by I. Stewart),,4,82,100,-18,2408.0
+7:36.0,G. Niang misses 2-pt jump shot from 6 ft,100-82, ,,4,82,100,-18,2424.0
+7:35.0,Offensive rebound by J. Allen,100-82, ,,4,82,100,-18,2425.0
+7:35.0,J. Allen misses 2-pt layup from 1 ft,100-82, ,,4,82,100,-18,2425.0
+7:34.0,Offensive rebound by J. Allen,100-82, ,,4,82,100,-18,2426.0
+7:33.0,J. Allen misses 2-pt hook shot from 8 ft,100-82, ,,4,82,100,-18,2427.0
+7:30.0, ,100-82,Defensive rebound by I. Stewart,,4,82,100,-18,2430.0
+7:19.0, ,100-84,I. Stewart makes 2-pt layup from 4 ft (assist by E. Fournier),,4,84,100,-16,2441.0
+7:02.0,Turnover by S. Merrill (bad pass),100-84, ,,4,84,100,-16,2458.0
+7:02.0,D. Garland enters the game for C. Porter,100-84, ,,4,84,100,-16,2458.0
+6:51.0, ,100-84,C. Cunningham misses 3-pt jump shot from 27 ft,,4,84,100,-16,2469.0
+6:48.0,Defensive rebound by G. Niang,100-84, ,,4,84,100,-16,2472.0
+6:38.0,G. Niang misses 2-pt layup from 9 ft (block by I. Stewart),100-84, ,,4,84,100,-16,2482.0
+6:37.0, ,100-84,Defensive rebound by Team,,4,84,100,-16,2483.0
+6:37.0,D. Wade enters the game for G. Niang,100-84, ,,4,84,100,-16,2483.0
+6:29.0, ,100-84,C. Cunningham misses 2-pt hook shot from 4 ft,,4,84,100,-16,2491.0
+6:25.0,Defensive rebound by J. Allen,100-84, ,,4,84,100,-16,2495.0
+6:21.0,S. Merrill misses 3-pt jump shot from 23 ft,100-84, ,,4,84,100,-16,2499.0
+6:16.0, ,100-84,Defensive rebound by A. Thompson,,4,84,100,-16,2504.0
+6:09.0, ,100-87,A. Thompson makes 3-pt jump shot from 24 ft (assist by C. Cunningham),,4,87,100,-13,2511.0
+5:47.0,Turnover by D. Garland (bad pass; steal by S. Fontecchio),100-87, ,,4,87,100,-13,2533.0
+5:44.0, ,100-87,Turnover by S. Fontecchio (lost ball; steal by D. Wade),,4,87,100,-13,2536.0
+5:38.0,S. Merrill makes 3-pt jump shot from 24 ft (assist by J. Allen),103-87, ,,4,87,103,-16,2542.0
+5:24.0, ,103-87,Shooting foul by D. Garland (drawn by E. Fournier),,4,87,103,-16,2556.0
+5:24.0, ,103-88,E. Fournier makes free throw 1 of 3,,4,88,103,-15,2556.0
+5:24.0, ,103-89,E. Fournier makes free throw 2 of 3,,4,89,103,-14,2556.0
+5:24.0, ,103-90,E. Fournier makes free throw 3 of 3,,4,90,103,-13,2556.0
+5:09.0,J. Allen misses 2-pt jump shot from 8 ft,103-90, ,,4,90,103,-13,2571.0
+5:05.0, ,103-90,Defensive rebound by I. Stewart,,4,90,103,-13,2575.0
+4:53.0, ,103-90,Shooting foul by M. Strus (drawn by C. Cunningham),,4,90,103,-13,2587.0
+4:53.0,Technical foul by M. Strus,103-90, ,,4,90,103,-13,2587.0
+4:53.0, ,103-91,C. Cunningham makes technical free throw,,4,91,103,-12,2587.0
+4:53.0, ,103-92,C. Cunningham makes free throw 1 of 2,,4,92,103,-11,2587.0
+4:53.0,E. Mobley enters the game for S. Merrill,103-92, ,,4,92,103,-11,2587.0
+4:53.0, ,103-93,C. Cunningham makes free throw 2 of 2,,4,93,103,-10,2587.0
+4:39.0,M. Strus makes 2-pt layup from 3 ft,105-93, ,,4,93,105,-12,2601.0
+4:33.0, ,105-93,Shooting foul by D. Wade (drawn by C. Cunningham),,4,93,105,-12,2607.0
+4:33.0, ,105-94,C. Cunningham makes free throw 1 of 2,,4,94,105,-11,2607.0
+4:33.0, ,105-95,C. Cunningham makes free throw 2 of 2,,4,95,105,-10,2607.0
+4:23.0,Personal foul by S. Fontecchio (drawn by E. Mobley),105-95, ,,4,95,105,-10,2617.0
+4:10.0,D. Garland misses 2-pt layup from 3 ft,105-95, ,,4,95,105,-10,2630.0
+4:07.0, ,105-95,Defensive rebound by A. Thompson,,4,95,105,-10,2633.0
+4:03.0, ,105-95,Turnover by S. Fontecchio (bad pass; steal by D. Garland),,4,95,105,-10,2637.0
+3:54.0,Turnover by D. Garland (bad pass; steal by A. Thompson),105-95, ,,4,95,105,-10,2646.0
+3:54.0, ,105-95,J. Duren enters the game for S. Fontecchio,,4,95,105,-10,2646.0
+3:54.0, ,105-95,J. Ivey enters the game for E. Fournier,,4,95,105,-10,2646.0
+3:42.0, ,105-95,I. Stewart misses 3-pt jump shot from 26 ft,,4,95,105,-10,2658.0
+3:38.0,Defensive rebound by D. Wade,105-95, ,,4,95,105,-10,2662.0
+3:26.0,D. Garland misses 3-pt jump shot from 25 ft,105-95, ,,4,95,105,-10,2674.0
+3:24.0, ,105-95,Defensive rebound by J. Duren,,4,95,105,-10,2676.0
+3:24.0, ,105-95,Detroit full timeout,,4,95,105,-10,2676.0
+3:11.0, ,105-95,C. Cunningham misses 3-pt jump shot from 23 ft,,4,95,105,-10,2689.0
+3:09.0,Defensive rebound by Team,105-95, ,,4,95,105,-10,2691.0
+3:09.0, ,105-95,Loose ball foul by J. Ivey (drawn by E. Mobley),,4,95,105,-10,2691.0
+2:55.0,D. Wade misses 3-pt jump shot from 23 ft,105-95, ,,4,95,105,-10,2705.0
+2:50.0, ,105-95,Defensive rebound by J. Ivey,,4,95,105,-10,2710.0
+2:47.0, ,105-95,C. Cunningham misses 2-pt layup from 5 ft (block by D. Wade),,4,95,105,-10,2713.0
+2:47.0, ,105-95,Offensive rebound by Team,,4,95,105,-10,2713.0
+2:30.0, ,105-95,A. Thompson misses 2-pt jump shot from 21 ft,,4,95,105,-10,2730.0
+2:30.0, ,105-95,Offensive rebound by J. Duren,,4,95,105,-10,2730.0
+2:30.0, ,105-95,Personal foul by D. Wade (drawn by J. Duren),,4,95,105,-10,2730.0
+2:30.0, ,105-96,J. Duren makes free throw 1 of 2,,4,96,105,-9,2730.0
+2:30.0,S. Merrill enters the game for D. Wade,105-96, ,,4,96,105,-9,2730.0
+2:30.0, ,105-97,J. Duren makes free throw 2 of 2,,4,97,105,-8,2730.0
+2:07.0,D. Garland makes 2-pt jump shot from 21 ft,107-97, ,,4,97,107,-10,2753.0
+1:48.0, ,107-97,I. Stewart misses 2-pt layup from 4 ft,,4,97,107,-10,2772.0
+1:48.0,Defensive rebound by Team,107-97, ,,4,97,107,-10,2772.0
+1:48.0, ,107-97,Loose ball foul by I. Stewart (drawn by E. Mobley),,4,97,107,-10,2772.0
+1:33.0,Turnover by M. Strus (traveling),107-97, ,,4,97,107,-10,2787.0
+1:22.0, ,107-100,J. Ivey makes 3-pt jump shot from 27 ft (assist by C. Cunningham),,4,100,107,-7,2798.0
+1:13.0,Personal foul by J. Ivey (drawn by M. Strus),107-100, ,,4,100,107,-7,2807.0
+1:13.0, ,107-100,S. Fontecchio enters the game for J. Ivey,,4,100,107,-7,2807.0
+1:13.0,M. Strus makes free throw 1 of 2,108-100, ,,4,100,108,-8,2807.0
+1:13.0,D. Wade enters the game for S. Merrill,108-100, ,,4,100,108,-8,2807.0
+1:13.0,M. Strus makes free throw 2 of 2,109-100, ,,4,100,109,-9,2807.0
+1:13.0, ,109-100,Detroit full timeout,,4,100,109,-9,2807.0
+0:51.0, ,109-100,C. Cunningham misses 3-pt jump shot from 25 ft,,4,100,109,-9,2829.0
+0:47.0,Defensive rebound by D. Garland,109-100, ,,4,100,109,-9,2833.0
+0:33.0,Personal foul by C. Cunningham (drawn by E. Mobley),109-100, ,,4,100,109,-9,2847.0
+0:33.0,E. Mobley makes free throw 1 of 2,110-100, ,,4,100,110,-10,2847.0
+0:33.0,E. Mobley misses free throw 2 of 2,110-100, ,,4,100,110,-10,2847.0
+0:32.0,Offensive rebound by E. Mobley,110-100, ,,4,100,110,-10,2848.0
+0:18.0,D. Garland misses 3-pt jump shot from 32 ft,110-100, ,,4,100,110,-10,2862.0
+0:14.0, ,110-100,Defensive rebound by A. Thompson,,4,100,110,-10,2866.0
+0:08.0, ,110-100,A. Thompson misses 3-pt jump shot from 26 ft,,4,100,110,-10,2872.0
+0:07.0,Defensive rebound by Team,110-100, ,,4,100,110,-10,2873.0
+0:00.0,End of 4th quarter,110-100,,,4,100,110,-10,2880.0

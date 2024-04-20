@@ -1,0 +1,435 @@
+Time,Chicago,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Vučević vs. J. Duren (A. Caruso gains possession),0-0,,,1,0,0,0,0.0
+11:33.0,J. Green misses 3-pt jump shot from 24 ft,0-0, ,,1,0,0,0,27.0
+11:30.0, ,0-0,Defensive rebound by J. Duren,,1,0,0,0,30.0
+11:11.0, ,0-0,T. Brown misses 3-pt jump shot from 29 ft,,1,0,0,0,49.0
+11:08.0,Defensive rebound by C. White,0-0, ,,1,0,0,0,52.0
+11:02.0,N. Vučević makes 2-pt jump shot from 6 ft (assist by C. White),2-0, ,,1,0,2,-2,58.0
+10:43.0, ,2-3,C. Metu makes 3-pt jump shot from 28 ft (assist by J. Ivey),Lead change,1,3,2,1,77.0
+10:31.0,C. White misses 3-pt jump shot from 24 ft,2-3, ,,1,3,2,1,89.0
+10:27.0, ,2-3,Defensive rebound by J. Duren,,1,3,2,1,93.0
+10:17.0, ,2-3,J. Ivey misses 2-pt jump shot from 16 ft,,1,3,2,1,103.0
+10:13.0,Defensive rebound by N. Vučević,2-3, ,,1,3,2,1,107.0
+9:59.0,N. Vučević makes 2-pt hook shot from 6 ft (assist by D. DeRozan),4-3, ,Lead change,1,3,4,-1,121.0
+9:44.0, ,4-6,C. Metu makes 3-pt jump shot from 28 ft (assist by M. Sasser),Lead change,1,6,4,2,136.0
+9:30.0,D. DeRozan makes 2-pt layup from 3 ft,6-6, ,Tie,1,6,6,0,150.0
+9:12.0, ,6-8,J. Duren makes 2-pt dunk at rim (assist by J. Ivey),,1,8,6,2,168.0
+9:02.0,A. Caruso makes 2-pt layup from 5 ft,8-8, ,Tie,1,8,8,0,178.0
+8:45.0, ,8-8,M. Sasser misses 3-pt jump shot from 27 ft,,1,8,8,0,195.0
+8:42.0,Defensive rebound by C. White,8-8, ,,1,8,8,0,198.0
+8:30.0,J. Green makes 2-pt dunk from 3 ft (assist by A. Caruso),10-8, ,Lead change,1,8,10,-2,210.0
+8:16.0, ,10-11,M. Sasser makes 3-pt jump shot from 27 ft (assist by J. Ivey),Lead change,1,11,10,1,224.0
+8:01.0,Turnover by D. DeRozan (bad pass; steal by J. Ivey),10-11, ,,1,11,10,1,239.0
+7:56.0, ,10-14,J. Ivey makes 3-pt jump shot from 27 ft (assist by M. Sasser),,1,14,10,4,244.0
+7:38.0,C. White misses 2-pt jump shot from 8 ft,10-14, ,,1,14,10,4,262.0
+7:35.0, ,10-14,Defensive rebound by C. Metu,,1,14,10,4,265.0
+7:32.0, ,10-14,Offensive foul by C. Metu (drawn by C. White),,1,14,10,4,268.0
+7:32.0, ,10-14,Turnover by C. Metu (offensive foul),,1,14,10,4,268.0
+7:26.0,A. Caruso misses 2-pt layup from 8 ft (block by M. Sasser),10-14, ,,1,14,10,4,274.0
+7:25.0,Offensive rebound by Team,10-14, ,,1,14,10,4,275.0
+7:18.0,D. DeRozan makes 2-pt jump shot from 14 ft,12-14, ,,1,14,12,2,282.0
+6:56.0, ,12-14,Shooting foul by J. Green (drawn by J. Ivey),,1,14,12,2,304.0
+6:56.0, ,12-14,Detroit full timeout,,1,14,12,2,304.0
+6:56.0, ,12-14,J. Ivey misses free throw 1 of 2,,1,14,12,2,304.0
+6:56.0, ,12-14,Offensive rebound by Team,,1,14,12,2,304.0
+6:56.0, ,12-15,J. Ivey makes free throw 2 of 2,,1,15,12,3,304.0
+6:41.0,A. Caruso misses 3-pt jump shot from 25 ft,12-15, ,,1,15,12,3,319.0
+6:39.0,Offensive rebound by N. Vučević,12-15, ,,1,15,12,3,321.0
+6:31.0,D. DeRozan makes 3-pt jump shot from 27 ft (assist by C. White),15-15, ,Tie,1,15,15,0,329.0
+6:10.0, ,15-15,M. Sasser misses 3-pt jump shot from 26 ft,,1,15,15,0,350.0
+6:07.0, ,15-15,Offensive rebound by J. Duren,,1,15,15,0,353.0
+6:07.0, ,15-15,Turnover by J. Duren (lost ball; steal by J. Green),,1,15,15,0,353.0
+6:00.0,N. Vučević misses 3-pt jump shot from 27 ft,15-15, ,,1,15,15,0,360.0
+5:56.0, ,15-15,Defensive rebound by C. Metu,,1,15,15,0,364.0
+5:49.0, ,15-15,Shooting foul by N. Vučević (drawn by J. Duren),,1,15,15,0,371.0
+5:49.0, ,15-16,J. Duren makes free throw 1 of 2,,1,16,15,1,371.0
+5:49.0,T. Craig enters the game for J. Green,15-16, ,,1,16,15,1,371.0
+5:49.0,D. Terry enters the game for C. White,15-16, ,,1,16,15,1,371.0
+5:49.0, ,15-16,E. Fournier enters the game for T. Brown,,1,16,15,1,371.0
+5:49.0, ,15-17,J. Duren makes free throw 2 of 2,,1,17,15,2,371.0
+5:33.0,D. Terry misses 3-pt jump shot from 24 ft,15-17, ,,1,17,15,2,387.0
+5:29.0, ,15-17,Defensive rebound by C. Metu,,1,17,15,2,391.0
+5:26.0, ,15-17,Turnover by J. Ivey (bad pass; steal by D. DeRozan),,1,17,15,2,394.0
+5:18.0,D. Terry makes 3-pt jump shot from 24 ft (assist by N. Vučević),18-17, ,Lead change,1,17,18,-1,402.0
+5:07.0, ,18-17,E. Fournier misses 3-pt jump shot from 26 ft,,1,17,18,-1,413.0
+5:05.0,Defensive rebound by A. Caruso,18-17, ,,1,17,18,-1,415.0
+4:59.0,N. Vučević makes 2-pt jump shot from 5 ft (assist by A. Caruso),20-17, ,,1,17,20,-3,421.0
+4:45.0, ,20-17,Turnover by J. Ivey (bad pass; steal by T. Craig),,1,17,20,-3,435.0
+4:30.0,N. Vučević misses 2-pt hook shot from 9 ft,20-17, ,,1,17,20,-3,450.0
+4:27.0,Offensive rebound by T. Craig,20-17, ,,1,17,20,-3,453.0
+4:25.0,D. DeRozan misses 3-pt jump shot from 27 ft,20-17, ,,1,17,20,-3,455.0
+4:25.0, ,20-17,Defensive rebound by J. Duren,,1,17,20,-3,455.0
+4:14.0, ,20-19,E. Fournier makes 2-pt jump shot from 12 ft (assist by J. Duren),,1,19,20,-1,466.0
+4:07.0,Personal foul by J. Ivey (drawn by A. Caruso),20-19, ,,1,19,20,-1,473.0
+4:07.0,C. White enters the game for A. Caruso,20-19, ,,1,19,20,-1,473.0
+4:07.0, ,20-19,M. Flynn enters the game for C. Metu,,1,19,20,-1,473.0
+4:07.0, ,20-19,J. Rhoden enters the game for M. Sasser,,1,19,20,-1,473.0
+3:55.0,T. Craig misses 2-pt jump shot from 9 ft,20-19, ,,1,19,20,-1,485.0
+3:52.0, ,20-19,Defensive rebound by J. Rhoden,,1,19,20,-1,488.0
+3:47.0, ,20-19,J. Ivey misses 2-pt layup from 5 ft,,1,19,20,-1,493.0
+3:44.0,Defensive rebound by N. Vučević,20-19, ,,1,19,20,-1,496.0
+3:41.0,Shooting foul by E. Fournier (drawn by D. DeRozan),20-19, ,,1,19,20,-1,499.0
+3:41.0,D. DeRozan makes free throw 1 of 2,21-19, ,,1,19,21,-2,499.0
+3:41.0,D. DeRozan misses free throw 2 of 2,21-19, ,,1,19,21,-2,499.0
+3:39.0, ,21-19,Defensive rebound by J. Duren,,1,19,21,-2,501.0
+3:18.0, ,21-21,J. Duren makes 2-pt layup from 3 ft,Tie,1,21,21,0,522.0
+2:57.0,N. Vučević makes 3-pt jump shot from 27 ft (assist by D. DeRozan),24-21, ,,1,21,24,-3,543.0
+2:41.0, ,24-21,Turnover by J. Duren (dbl dribble),,1,21,24,-3,559.0
+2:41.0,Chicago full timeout,24-21, ,,1,21,24,-3,559.0
+2:41.0,A. Sanogo enters the game for N. Vučević,24-21, ,,1,21,24,-3,559.0
+2:41.0, ,24-21,J. Wiseman enters the game for J. Duren,,1,21,24,-3,559.0
+2:25.0,D. Terry makes 3-pt jump shot from 24 ft (assist by C. White),27-21, ,,1,21,27,-6,575.0
+2:05.0, ,27-24,J. Rhoden makes 3-pt jump shot from 24 ft (assist by J. Ivey),,1,24,27,-3,595.0
+1:51.0,D. DeRozan misses 2-pt jump shot from 14 ft,27-24, ,,1,24,27,-3,609.0
+1:47.0, ,27-24,Defensive rebound by M. Flynn,,1,24,27,-3,613.0
+1:41.0, ,27-24,Turnover by M. Flynn (bad pass; steal by D. Terry),,1,24,27,-3,619.0
+1:30.0,D. Terry misses 2-pt layup from 3 ft,27-24, ,,1,24,27,-3,630.0
+1:26.0,Offensive rebound by A. Sanogo,27-24, ,,1,24,27,-3,634.0
+1:25.0,A. Sanogo makes 2-pt layup from 3 ft,29-24, ,,1,24,29,-5,635.0
+1:06.0, ,29-24,Shooting foul by D. Terry (drawn by M. Flynn),,1,24,29,-5,654.0
+1:06.0, ,29-24,M. Flynn misses free throw 1 of 3,,1,24,29,-5,654.0
+1:06.0, ,29-24,Offensive rebound by Team,,1,24,29,-5,654.0
+1:06.0, ,29-24,M. Flynn misses free throw 2 of 3,,1,24,29,-5,654.0
+1:06.0, ,29-24,T. Brown enters the game for J. Ivey,,1,24,29,-5,654.0
+1:06.0, ,29-25,M. Flynn makes free throw 3 of 3,,1,25,29,-4,654.0
+0:43.0,C. White misses 2-pt jump shot from 10 ft,29-25, ,,1,25,29,-4,677.0
+0:41.0,Offensive rebound by T. Craig,29-25, ,,1,25,29,-4,679.0
+0:35.0,Turnover by A. Sanogo (bad pass),29-25, ,,1,25,29,-4,685.0
+0:35.0,Loose ball foul by D. Terry (drawn by M. Flynn),29-25, ,,1,25,29,-4,685.0
+0:35.0, ,29-26,M. Flynn makes free throw 1 of 2,,1,26,29,-3,685.0
+0:35.0, ,29-27,M. Flynn makes free throw 2 of 2,,1,27,29,-2,685.0
+0:28.0,D. DeRozan makes 2-pt jump shot from 19 ft,31-27, ,,1,27,31,-4,692.0
+0:07.0, ,31-27,E. Fournier misses 3-pt jump shot from 25 ft,,1,27,31,-4,713.0
+0:05.0, ,31-27,Offensive rebound by J. Wiseman,,1,27,31,-4,715.0
+0:03.0, ,31-30,J. Rhoden makes 3-pt jump shot from 27 ft (assist by J. Wiseman),,1,30,31,-1,717.0
+0:01.0,D. Terry misses 2-pt jump shot from 9 ft (block by J. Rhoden),31-30, ,,1,30,31,-1,719.0
+0:01.0,Offensive rebound by Team,31-30, ,,1,30,31,-1,719.0
+0:00.0,End of 1st quarter,31-30,,,1,30,31,-1,720.0
+12:00.0,Start of 2nd quarter,31-30,,,2,30,31,-1,720.0
+11:47.0, ,31-30,Turnover by M. Flynn (bad pass),,2,30,31,-1,733.0
+11:32.0,J. Carter makes 3-pt jump shot from 24 ft (assist by T. Craig),34-30, ,,2,30,34,-4,748.0
+11:16.0, ,34-32,E. Fournier makes 2-pt jump shot from 7 ft (assist by J. Wiseman),,2,32,34,-2,764.0
+10:59.0,N. Vučević misses 2-pt jump shot from 20 ft,34-32, ,,2,32,34,-2,781.0
+10:59.0, ,34-32,Defensive rebound by J. Rhoden,,2,32,34,-2,781.0
+10:50.0, ,34-32,M. Flynn misses 2-pt layup from 4 ft,,2,32,34,-2,790.0
+10:48.0,Defensive rebound by N. Vučević,34-32, ,,2,32,34,-2,792.0
+10:26.0,N. Vučević makes 2-pt jump shot from 12 ft,36-32, ,,2,32,36,-4,814.0
+10:10.0, ,36-32,J. Rhoden misses 3-pt jump shot from 24 ft,,2,32,36,-4,830.0
+10:08.0,Defensive rebound by N. Vučević,36-32, ,,2,32,36,-4,832.0
+10:05.0,Offensive foul by C. White (drawn by E. Fournier),36-32, ,,2,32,36,-4,835.0
+10:05.0,Turnover by C. White (offensive foul),36-32, ,,2,32,36,-4,835.0
+10:05.0,J. Green enters the game for T. Craig,36-32, ,,2,32,36,-4,835.0
+10:05.0, ,36-32,M. Sasser enters the game for M. Flynn,,2,32,36,-4,835.0
+9:49.0, ,36-32,Turnover by E. Fournier (bad pass),,2,32,36,-4,851.0
+9:37.0,J. Green makes 2-pt layup from 5 ft (assist by A. Caruso),38-32, ,,2,32,38,-6,863.0
+9:19.0, ,38-32,E. Fournier misses 2-pt jump shot from 8 ft,,2,32,38,-6,881.0
+9:19.0, ,38-32,Offensive rebound by Team,,2,32,38,-6,881.0
+9:19.0, ,38-32,C. Metu enters the game for J. Rhoden,,2,32,38,-6,881.0
+9:07.0, ,38-34,C. Metu makes 2-pt jump shot from 4 ft (assist by T. Brown),,2,34,38,-4,893.0
+8:52.0,C. White makes 2-pt jump shot from 6 ft,40-34, ,,2,34,40,-6,908.0
+8:37.0, ,40-36,M. Sasser makes 2-pt jump shot from 8 ft,,2,36,40,-4,923.0
+8:27.0,J. Green makes 2-pt dunk from 1 ft (assist by A. Caruso),42-36, ,,2,36,42,-6,933.0
+8:27.0, ,42-36,Detroit full timeout,,2,36,42,-6,933.0
+8:11.0, ,42-36,Turnover by E. Fournier (lost ball; steal by A. Caruso),,2,36,42,-6,949.0
+8:09.0,A. Caruso makes 2-pt layup from 3 ft,44-36, ,,2,36,44,-8,951.0
+8:09.0, ,44-36,Violation by Team (def goaltending),,2,36,44,-8,951.0
+7:59.0, ,44-36,T. Brown misses 2-pt jump shot from 20 ft,,2,36,44,-8,961.0
+7:55.0,Defensive rebound by N. Vučević,44-36, ,,2,36,44,-8,965.0
+7:42.0,C. White misses 2-pt layup from 6 ft,44-36, ,,2,36,44,-8,978.0
+7:39.0, ,44-36,Defensive rebound by E. Fournier,,2,36,44,-8,981.0
+7:34.0, ,44-39,M. Sasser makes 3-pt jump shot from 23 ft (assist by C. Metu),,2,39,44,-5,986.0
+7:22.0,C. White misses 3-pt jump shot from 27 ft,44-39, ,,2,39,44,-5,998.0
+7:19.0, ,44-39,Defensive rebound by J. Wiseman,,2,39,44,-5,1001.0
+7:09.0, ,44-39,Turnover by M. Sasser (bad pass; steal by J. Carter),,2,39,44,-5,1011.0
+7:04.0,J. Carter makes 2-pt layup from 3 ft (assist by A. Caruso),46-39, ,,2,39,46,-7,1016.0
+6:49.0, ,46-39,Turnover by M. Sasser (bad pass; steal by N. Vučević),,2,39,46,-7,1031.0
+6:45.0,N. Vučević makes 2-pt layup from 2 ft (assist by C. White),48-39, ,,2,39,48,-9,1035.0
+6:45.0,Shooting foul by C. Metu (drawn by N. Vučević),48-39, ,,2,39,48,-9,1035.0
+6:45.0,D. DeRozan enters the game for C. White,48-39, ,,2,39,48,-9,1035.0
+6:45.0, ,48-39,J. Duren enters the game for E. Fournier,,2,39,48,-9,1035.0
+6:45.0, ,48-39,J. Ivey enters the game for J. Wiseman,,2,39,48,-9,1035.0
+6:45.0,N. Vučević misses free throw 1 of 1,48-39, ,,2,39,48,-9,1035.0
+6:44.0, ,48-39,Defensive rebound by J. Duren,,2,39,48,-9,1036.0
+6:28.0, ,48-39,T. Brown misses 2-pt layup from 3 ft,,2,39,48,-9,1052.0
+6:25.0,Defensive rebound by J. Green,48-39, ,,2,39,48,-9,1055.0
+6:20.0,Turnover by J. Green (lost ball; steal by M. Sasser),48-39, ,,2,39,48,-9,1060.0
+6:10.0, ,48-42,J. Ivey makes 3-pt jump shot from 27 ft (assist by C. Metu),,2,42,48,-6,1070.0
+6:10.0,Chicago full timeout,48-42, ,,2,42,48,-6,1070.0
+6:10.0,D. Terry enters the game for A. Caruso,48-42, ,,2,42,48,-6,1070.0
+5:57.0,N. Vučević makes 2-pt layup from 3 ft (assist by D. DeRozan),50-42, ,,2,42,50,-8,1083.0
+5:40.0, ,50-42,C. Metu misses 2-pt layup from 3 ft (block by N. Vučević),,2,42,50,-8,1100.0
+5:37.0,Defensive rebound by J. Green,50-42, ,,2,42,50,-8,1103.0
+5:26.0,D. DeRozan misses 2-pt jump shot from 16 ft,50-42, ,,2,42,50,-8,1114.0
+5:23.0, ,50-42,Defensive rebound by T. Brown,,2,42,50,-8,1117.0
+5:14.0, ,50-42,M. Sasser misses 3-pt jump shot from 24 ft,,2,42,50,-8,1126.0
+5:12.0, ,50-42,Offensive rebound by J. Duren,,2,42,50,-8,1128.0
+5:11.0, ,50-42,Turnover by J. Duren (bad pass; steal by D. DeRozan),,2,42,50,-8,1129.0
+5:06.0,D. Terry makes 2-pt dunk from 4 ft (assist by D. DeRozan),52-42, ,,2,42,52,-10,1134.0
+4:53.0, ,52-42,Shooting foul by N. Vučević (drawn by J. Duren),,2,42,52,-10,1147.0
+4:53.0, ,52-43,J. Duren makes free throw 1 of 2,,2,43,52,-9,1147.0
+4:53.0,A. Sanogo enters the game for N. Vučević,52-43, ,,2,43,52,-9,1147.0
+4:53.0, ,52-43,J. Duren misses free throw 2 of 2,,2,43,52,-9,1147.0
+4:50.0,Defensive rebound by J. Green,52-43, ,,2,43,52,-9,1150.0
+4:38.0,D. DeRozan misses 2-pt layup from 4 ft,52-43, ,,2,43,52,-9,1162.0
+4:35.0, ,52-43,Defensive rebound by C. Metu,,2,43,52,-9,1165.0
+4:32.0, ,52-45,J. Duren makes 2-pt layup from 4 ft (assist by C. Metu),,2,45,52,-7,1168.0
+4:12.0,D. DeRozan makes 2-pt jump shot from 5 ft,54-45, ,,2,45,54,-9,1188.0
+3:59.0, ,54-48,C. Metu makes 3-pt jump shot from 24 ft (assist by J. Ivey),,2,48,54,-6,1201.0
+3:44.0,J. Carter misses 3-pt jump shot from 28 ft,54-48, ,,2,48,54,-6,1216.0
+3:41.0,Offensive rebound by Team,54-48, ,,2,48,54,-6,1219.0
+3:41.0,A. Caruso enters the game for J. Carter,54-48, ,,2,48,54,-6,1219.0
+3:41.0,N. Vučević enters the game for A. Sanogo,54-48, ,,2,48,54,-6,1219.0
+3:41.0,C. White enters the game for D. Terry,54-48, ,,2,48,54,-6,1219.0
+3:41.0, ,54-48,E. Fournier enters the game for T. Brown,,2,48,54,-6,1219.0
+3:25.0,D. DeRozan makes 2-pt jump shot from 17 ft (assist by A. Caruso),56-48, ,,2,48,56,-8,1235.0
+3:09.0, ,56-51,M. Sasser makes 3-pt jump shot from 28 ft,,2,51,56,-5,1251.0
+2:57.0,D. DeRozan makes 3-pt jump shot from 28 ft (assist by N. Vučević),59-51, ,,2,51,59,-8,1263.0
+2:38.0, ,59-53,J. Ivey makes 2-pt jump shot from 6 ft (assist by E. Fournier),,2,53,59,-6,1282.0
+2:20.0,D. DeRozan misses 3-pt jump shot from 23 ft,59-53, ,,2,53,59,-6,1300.0
+2:17.0,Offensive rebound by N. Vučević,59-53, ,,2,53,59,-6,1303.0
+2:13.0,Personal foul by E. Fournier (drawn by D. DeRozan),59-53, ,,2,53,59,-6,1307.0
+2:06.0,Turnover by A. Caruso (bad pass; steal by M. Sasser),59-53, ,,2,53,59,-6,1314.0
+2:00.0, ,59-55,M. Sasser makes 2-pt layup from 3 ft,,2,55,59,-4,1320.0
+1:42.0,Shooting foul by J. Duren (drawn by J. Green),59-55, ,,2,55,59,-4,1338.0
+1:42.0, ,59-55,Detroit full timeout,,2,55,59,-4,1338.0
+1:42.0, ,59-55,Instant Replay (Challenge: Stands),,2,55,59,-4,1338.0
+1:42.0,J. Green misses free throw 1 of 2,59-55, ,,2,55,59,-4,1338.0
+1:42.0,Offensive rebound by Team,59-55, ,,2,55,59,-4,1338.0
+1:42.0,J. Green makes free throw 2 of 2,60-55, ,,2,55,60,-5,1338.0
+1:15.0, ,60-55,E. Fournier misses 3-pt jump shot from 27 ft,,2,55,60,-5,1365.0
+1:12.0,Defensive rebound by J. Green,60-55, ,,2,55,60,-5,1368.0
+1:01.0,N. Vučević makes 2-pt jump shot from 18 ft (assist by D. DeRozan),62-55, ,,2,55,62,-7,1379.0
+0:45.0, ,62-55,J. Ivey misses 3-pt jump shot from 27 ft,,2,55,62,-7,1395.0
+0:42.0,Defensive rebound by A. Caruso,62-55, ,,2,55,62,-7,1398.0
+0:32.0,C. White makes 2-pt layup from 5 ft (assist by N. Vučević),64-55, ,,2,55,64,-9,1408.0
+0:07.0, ,64-55,M. Sasser misses 3-pt jump shot from 30 ft,,2,55,64,-9,1433.0
+0:07.0,Defensive rebound by Team,64-55, ,,2,55,64,-9,1433.0
+0:07.0,Turnover by A. Caruso (bad pass),64-55, ,,2,55,64,-9,1433.0
+0:02.0, ,64-55,Personal foul by C. White (drawn by J. Ivey),,2,55,64,-9,1438.0
+0:02.0,D. Terry enters the game for C. White,64-55, ,,2,55,64,-9,1438.0
+0:00.0, ,64-55,J. Ivey misses 3-pt jump shot from 28 ft,,2,55,64,-9,1440.0
+0:00.0, ,64-55,Offensive rebound by Team,,2,55,64,-9,1440.0
+0:00.0,End of 2nd quarter,64-55,,,2,55,64,-9,1440.0
+12:00.0,Start of 3rd quarter,64-55,,,3,55,64,-9,1440.0
+11:40.0, ,64-55,Turnover by J. Ivey (bad pass; steal by D. DeRozan),,3,55,64,-9,1460.0
+11:36.0,J. Green makes 2-pt layup from 3 ft (assist by D. DeRozan),66-55, ,,3,55,66,-11,1464.0
+11:19.0, ,66-55,Turnover by T. Brown (bad pass; steal by A. Caruso),,3,55,66,-11,1481.0
+11:13.0,J. Green makes 2-pt layup from 2 ft (assist by A. Caruso),68-55, ,,3,55,68,-13,1487.0
+10:58.0, ,68-57,J. Duren makes 2-pt layup from 3 ft,,3,57,68,-11,1502.0
+10:58.0, ,68-57,Shooting foul by N. Vučević (drawn by J. Duren),,3,57,68,-11,1502.0
+10:58.0, ,68-58,J. Duren makes free throw 1 of 1,,3,58,68,-10,1502.0
+10:37.0,A. Caruso misses 3-pt jump shot from 23 ft,68-58, ,,3,58,68,-10,1523.0
+10:34.0, ,68-58,Defensive rebound by C. Metu,,3,58,68,-10,1526.0
+10:19.0, ,68-58,C. Metu misses 3-pt jump shot from 23 ft,,3,58,68,-10,1541.0
+10:16.0,Defensive rebound by N. Vučević,68-58, ,,3,58,68,-10,1544.0
+10:04.0,C. White makes 3-pt jump shot from 26 ft,71-58, ,,3,58,71,-13,1556.0
+9:38.0, ,71-61,M. Sasser makes 3-pt jump shot from 28 ft (assist by J. Ivey),,3,61,71,-10,1582.0
+9:12.0,N. Vučević misses 2-pt jump shot from 17 ft,71-61, ,,3,61,71,-10,1608.0
+9:08.0, ,71-61,Defensive rebound by J. Ivey,,3,61,71,-10,1612.0
+9:02.0, ,71-61,J. Ivey misses 2-pt jump shot from 16 ft,,3,61,71,-10,1618.0
+8:59.0,Defensive rebound by D. DeRozan,71-61, ,,3,61,71,-10,1621.0
+8:50.0,D. DeRozan makes 2-pt jump shot from 12 ft,73-61, ,,3,61,73,-12,1630.0
+8:38.0, ,73-63,J. Duren makes 2-pt dunk from 3 ft (assist by M. Sasser),,3,63,73,-10,1642.0
+8:25.0,D. DeRozan misses 2-pt jump shot from 10 ft,73-63, ,,3,63,73,-10,1655.0
+8:25.0,Offensive rebound by Team,73-63, ,,3,63,73,-10,1655.0
+8:15.0,N. Vučević misses 3-pt jump shot from 27 ft,73-63, ,,3,63,73,-10,1665.0
+8:13.0, ,73-63,Defensive rebound by C. Metu,,3,63,73,-10,1667.0
+8:04.0, ,73-63,Turnover by J. Duren (lost ball; steal by N. Vučević),,3,63,73,-10,1676.0
+7:57.0,C. White makes 3-pt jump shot from 27 ft,76-63, ,,3,63,76,-13,1683.0
+7:43.0, ,76-63,M. Sasser misses 3-pt jump shot from 26 ft,,3,63,76,-13,1697.0
+7:40.0,Defensive rebound by A. Caruso,76-63, ,,3,63,76,-13,1700.0
+7:35.0,C. White misses 3-pt jump shot from 27 ft,76-63, ,,3,63,76,-13,1705.0
+7:32.0, ,76-63,Defensive rebound by C. Metu,,3,63,76,-13,1708.0
+7:11.0, ,76-66,J. Ivey makes 3-pt jump shot from 24 ft (assist by M. Sasser),,3,66,76,-10,1729.0
+6:59.0,N. Vučević makes 2-pt layup from 3 ft (assist by A. Caruso),78-66, ,,3,66,78,-12,1741.0
+6:59.0,Violation by Team (delay of game),78-66, ,,3,66,78,-12,1741.0
+6:45.0, ,78-66,T. Brown misses 3-pt jump shot from 28 ft,,3,66,78,-12,1755.0
+6:42.0,Defensive rebound by N. Vučević,78-66, ,,3,66,78,-12,1758.0
+6:41.0,Chicago full timeout,78-66, ,,3,66,78,-12,1759.0
+6:41.0,J. Carter enters the game for C. White,78-66, ,,3,66,78,-12,1759.0
+6:26.0,J. Carter misses 3-pt jump shot from 22 ft,78-66, ,,3,66,78,-12,1774.0
+6:23.0, ,78-66,Defensive rebound by J. Duren,,3,66,78,-12,1777.0
+6:21.0, ,78-68,J. Ivey makes 2-pt layup from 3 ft (assist by J. Duren),,3,68,78,-10,1779.0
+5:57.0,N. Vučević makes 2-pt hook shot from 3 ft,80-68, ,,3,68,80,-12,1803.0
+5:38.0, ,80-68,C. Metu misses 2-pt layup from 3 ft (block by J. Green),,3,68,80,-12,1822.0
+5:38.0,Defensive rebound by J. Green,80-68, ,,3,68,80,-12,1822.0
+5:24.0,D. DeRozan makes 3-pt jump shot from 23 ft (assist by N. Vučević),83-68, ,,3,68,83,-15,1836.0
+5:09.0, ,83-68,Turnover by M. Sasser (out of bounds lost ball),,3,68,83,-15,1851.0
+4:57.0,N. Vučević misses 3-pt jump shot from 26 ft,83-68, ,,3,68,83,-15,1863.0
+4:55.0, ,83-68,Defensive rebound by J. Ivey,,3,68,83,-15,1865.0
+4:43.0, ,83-70,M. Sasser makes 2-pt layup from 2 ft (assist by J. Duren),,3,70,83,-13,1877.0
+4:29.0,Shooting foul by T. Brown (drawn by D. DeRozan),83-70, ,,3,70,83,-13,1891.0
+4:29.0,D. DeRozan makes free throw 1 of 2,84-70, ,,3,70,84,-14,1891.0
+4:29.0,A. Sanogo enters the game for A. Caruso,84-70, ,,3,70,84,-14,1891.0
+4:29.0,C. White enters the game for N. Vučević,84-70, ,,3,70,84,-14,1891.0
+4:29.0, ,84-70,M. Flynn enters the game for T. Brown,,3,70,84,-14,1891.0
+4:29.0, ,84-70,E. Fournier enters the game for J. Duren,,3,70,84,-14,1891.0
+4:29.0, ,84-70,J. Wiseman enters the game for M. Sasser,,3,70,84,-14,1891.0
+4:29.0,D. DeRozan makes free throw 2 of 2,85-70, ,,3,70,85,-15,1891.0
+4:08.0, ,85-70,J. Ivey misses 2-pt jump shot from 15 ft,,3,70,85,-15,1912.0
+4:05.0,Defensive rebound by J. Green,85-70, ,,3,70,85,-15,1915.0
+3:59.0,Shooting foul by E. Fournier (drawn by D. DeRozan),85-70, ,,3,70,85,-15,1921.0
+3:59.0,D. DeRozan makes free throw 1 of 2,86-70, ,,3,70,86,-16,1921.0
+3:59.0, ,86-70,J. Rhoden enters the game for J. Ivey,,3,70,86,-16,1921.0
+3:59.0,D. DeRozan makes free throw 2 of 2,87-70, ,,3,70,87,-17,1921.0
+3:43.0, ,87-70,M. Flynn misses 2-pt jump shot from 4 ft (block by J. Carter),,3,70,87,-17,1937.0
+3:43.0, ,87-70,Offensive rebound by J. Rhoden,,3,70,87,-17,1937.0
+3:43.0, ,87-70,J. Rhoden misses 2-pt jump shot from 5 ft (block by J. Green),,3,70,87,-17,1937.0
+3:43.0, ,87-70,Offensive rebound by Team,,3,70,87,-17,1937.0
+3:35.0, ,87-70,C. Metu misses 3-pt jump shot from 26 ft,,3,70,87,-17,1945.0
+3:32.0,Defensive rebound by J. Carter,87-70, ,,3,70,87,-17,1948.0
+3:27.0,D. DeRozan makes 3-pt jump shot from 26 ft (assist by J. Carter),90-70, ,,3,70,90,-20,1953.0
+3:05.0, ,90-70,Personal foul by J. Green (drawn by C. Metu),,3,70,90,-20,1975.0
+2:51.0, ,90-72,C. Metu makes 2-pt jump shot from 4 ft,,3,72,90,-18,1989.0
+2:39.0,D. DeRozan misses 2-pt layup from 3 ft,90-72, ,,3,72,90,-18,2001.0
+2:38.0,Offensive rebound by A. Sanogo,90-72, ,,3,72,90,-18,2002.0
+2:38.0,A. Sanogo misses 2-pt layup at rim,90-72, ,,3,72,90,-18,2002.0
+2:37.0, ,90-72,Defensive rebound by J. Rhoden,,3,72,90,-18,2003.0
+2:22.0, ,90-72,E. Fournier misses 3-pt jump shot from 23 ft,,3,72,90,-18,2018.0
+2:19.0, ,90-72,Offensive rebound by M. Flynn,,3,72,90,-18,2021.0
+2:16.0, ,90-72,Shooting foul by J. Green (drawn by C. Metu),,3,72,90,-18,2024.0
+2:16.0, ,90-72,Detroit full timeout,,3,72,90,-18,2024.0
+2:16.0,T. Craig enters the game for J. Green,90-72, ,,3,72,90,-18,2024.0
+2:16.0, ,90-73,C. Metu makes free throw 1 of 2,,3,73,90,-17,2024.0
+2:16.0, ,90-74,C. Metu makes free throw 2 of 2,,3,74,90,-16,2024.0
+1:54.0,D. DeRozan misses 2-pt jump shot from 12 ft,90-74, ,,3,74,90,-16,2046.0
+1:52.0,Offensive rebound by A. Sanogo,90-74, ,,3,74,90,-16,2048.0
+1:45.0,D. DeRozan makes 2-pt layup from 3 ft,92-74, ,,3,74,92,-18,2055.0
+1:26.0, ,92-76,M. Flynn makes 2-pt layup from 4 ft,,3,76,92,-16,2074.0
+1:25.0, ,92-76,Violation by Team (delay of game),,3,76,92,-16,2075.0
+1:07.0,A. Sanogo misses 2-pt jump shot from 5 ft,92-76, ,,3,76,92,-16,2093.0
+1:04.0, ,92-76,Defensive rebound by J. Wiseman,,3,76,92,-16,2096.0
+1:00.0, ,92-78,M. Flynn makes 2-pt layup from 4 ft,,3,78,92,-14,2100.0
+0:48.0,D. DeRozan makes 2-pt jump shot from 8 ft,94-78, ,,3,78,94,-16,2112.0
+0:31.0, ,94-78,M. Flynn misses 2-pt layup from 5 ft,,3,78,94,-16,2129.0
+0:29.0,Defensive rebound by D. DeRozan,94-78, ,,3,78,94,-16,2131.0
+0:27.0,T. Craig makes 2-pt layup from 3 ft (assist by D. DeRozan),96-78, ,,3,78,96,-18,2133.0
+0:27.0, ,96-78,Violation by Team (def goaltending),,3,78,96,-18,2133.0
+0:27.0,Shooting foul by J. Rhoden (drawn by T. Craig),96-78, ,,3,78,96,-18,2133.0
+0:27.0, ,96-78,T. Brown enters the game for C. Metu,,3,78,96,-18,2133.0
+0:27.0,T. Craig makes free throw 1 of 1,97-78, ,,3,78,97,-19,2133.0
+0:08.0, ,97-78,M. Flynn misses 3-pt jump shot from 27 ft,,3,78,97,-19,2152.0
+0:07.0, ,97-78,Offensive rebound by J. Wiseman,,3,78,97,-19,2153.0
+0:07.0, ,97-80,J. Wiseman makes 2-pt layup from 3 ft,,3,80,97,-17,2153.0
+0:03.0,Personal foul by T. Brown (drawn by D. DeRozan),97-80, ,,3,80,97,-17,2157.0
+0:03.0,D. DeRozan makes free throw 1 of 2,98-80, ,,3,80,98,-18,2157.0
+0:03.0,D. DeRozan makes free throw 2 of 2,99-80, ,,3,80,99,-19,2157.0
+0:00.0,End of 3rd quarter,99-80,,,3,80,99,-19,2160.0
+12:00.0,Start of 4th quarter,99-80,,,4,80,99,-19,2160.0
+11:45.0,C. White makes 2-pt jump shot from 7 ft,101-80, ,,4,80,101,-21,2175.0
+11:29.0, ,101-80,J. Wiseman misses 2-pt layup from 4 ft (block by C. White),,4,80,101,-21,2191.0
+11:29.0, ,101-80,Offensive rebound by Team,,4,80,101,-21,2191.0
+11:25.0, ,101-82,T. Brown makes 2-pt jump shot from 16 ft (assist by M. Flynn),,4,82,101,-19,2195.0
+11:15.0,N. Vučević makes 3-pt jump shot from 28 ft (assist by A. Caruso),104-82, ,,4,82,104,-22,2205.0
+10:47.0, ,104-84,J. Rhoden makes 2-pt jump shot from 13 ft (assist by E. Fournier),,4,84,104,-20,2233.0
+10:30.0,C. White misses 2-pt layup from 4 ft,104-84, ,,4,84,104,-20,2250.0
+10:27.0, ,104-84,Defensive rebound by J. Wiseman,,4,84,104,-20,2253.0
+10:23.0, ,104-86,M. Flynn makes 2-pt layup from 3 ft,,4,86,104,-18,2257.0
+10:06.0,D. Terry makes 2-pt layup from 3 ft,106-86, ,,4,86,106,-20,2274.0
+9:41.0, ,106-86,Turnover by J. Rhoden (lost ball; steal by J. Carter),,4,86,106,-20,2299.0
+9:35.0,J. Carter misses 3-pt jump shot from 26 ft,106-86, ,,4,86,106,-20,2305.0
+9:35.0,Offensive rebound by A. Caruso,106-86, ,,4,86,106,-20,2305.0
+9:32.0,Chicago full timeout,106-86, ,,4,86,106,-20,2308.0
+9:32.0, ,106-86,J. Duren enters the game for M. Flynn,,4,86,106,-20,2308.0
+9:32.0, ,106-86,M. Sasser enters the game for J. Wiseman,,4,86,106,-20,2308.0
+9:26.0,N. Vučević makes 2-pt layup from 4 ft,108-86, ,,4,86,108,-22,2314.0
+9:26.0,Shooting foul by J. Duren (drawn by N. Vučević),108-86, ,,4,86,108,-22,2314.0
+9:26.0,N. Vučević makes free throw 1 of 1,109-86, ,,4,86,109,-23,2314.0
+9:05.0, ,109-86,Turnover by M. Sasser (lost ball; steal by J. Carter),,4,86,109,-23,2335.0
+8:55.0,Shooting foul by J. Duren (drawn by A. Caruso),109-86, ,,4,86,109,-23,2345.0
+8:55.0,A. Caruso misses free throw 1 of 2,109-86, ,,4,86,109,-23,2345.0
+8:55.0,Offensive rebound by Team,109-86, ,,4,86,109,-23,2345.0
+8:55.0,A. Caruso makes free throw 2 of 2,110-86, ,,4,86,110,-24,2345.0
+8:38.0, ,110-86,J. Duren misses 2-pt hook shot from 7 ft,,4,86,110,-24,2362.0
+8:34.0,Defensive rebound by N. Vučević,110-86, ,,4,86,110,-24,2366.0
+8:32.0,Turnover by C. White (bad pass; steal by T. Brown),110-86, ,,4,86,110,-24,2368.0
+8:16.0, ,110-86,J. Duren misses 2-pt jump shot from 20 ft,,4,86,110,-24,2384.0
+8:14.0,Defensive rebound by D. Terry,110-86, ,,4,86,110,-24,2386.0
+7:56.0,D. Terry misses 3-pt jump shot from 23 ft,110-86, ,,4,86,110,-24,2404.0
+7:54.0, ,110-86,Defensive rebound by T. Brown,,4,86,110,-24,2406.0
+7:43.0, ,110-88,J. Duren makes 2-pt layup from 3 ft (assist by T. Brown),,4,88,110,-22,2417.0
+7:31.0,C. White misses 3-pt jump shot from 27 ft,110-88, ,,4,88,110,-22,2429.0
+7:28.0, ,110-88,Defensive rebound by J. Duren,,4,88,110,-22,2432.0
+7:15.0, ,110-88,Shooting foul by A. Caruso (drawn by E. Fournier),,4,88,110,-22,2445.0
+7:15.0, ,110-89,E. Fournier makes free throw 1 of 2,,4,89,110,-21,2445.0
+7:15.0,D. DeRozan enters the game for C. White,110-89, ,,4,89,110,-21,2445.0
+7:15.0, ,110-89,J. Ivey enters the game for J. Rhoden,,4,89,110,-21,2445.0
+7:15.0, ,110-89,E. Fournier misses free throw 2 of 2,,4,89,110,-21,2445.0
+7:12.0,Defensive rebound by D. DeRozan,110-89, ,,4,89,110,-21,2448.0
+6:51.0,J. Carter misses 3-pt jump shot from 27 ft,110-89, ,,4,89,110,-21,2469.0
+6:47.0, ,110-89,Defensive rebound by J. Duren,,4,89,110,-21,2473.0
+6:42.0, ,110-89,Personal foul by A. Caruso (drawn by M. Sasser),,4,89,110,-21,2478.0
+6:42.0,J. Green enters the game for A. Caruso,110-89, ,,4,89,110,-21,2478.0
+6:34.0, ,110-89,T. Brown misses 3-pt jump shot from 28 ft,,4,89,110,-21,2486.0
+6:31.0,Defensive rebound by J. Green,110-89, ,,4,89,110,-21,2489.0
+6:22.0,N. Vučević misses 2-pt jump shot from 12 ft,110-89, ,,4,89,110,-21,2498.0
+6:19.0, ,110-89,Defensive rebound by J. Duren,,4,89,110,-21,2501.0
+6:08.0, ,110-91,J. Duren makes 2-pt layup from 5 ft (assist by E. Fournier),,4,91,110,-19,2512.0
+5:51.0,N. Vučević misses 2-pt hook shot from 6 ft,110-91, ,,4,91,110,-19,2529.0
+5:48.0, ,110-91,Defensive rebound by T. Brown,,4,91,110,-19,2532.0
+5:41.0, ,110-91,M. Sasser misses 3-pt jump shot from 26 ft,,4,91,110,-19,2539.0
+5:38.0,Defensive rebound by D. Terry,110-91, ,,4,91,110,-19,2542.0
+5:38.0,Chicago full timeout,110-91, ,,4,91,110,-19,2542.0
+5:38.0,A. Caruso enters the game for J. Carter,110-91, ,,4,91,110,-19,2542.0
+5:38.0,C. White enters the game for D. Terry,110-91, ,,4,91,110,-19,2542.0
+5:38.0, ,110-91,C. Metu enters the game for E. Fournier,,4,91,110,-19,2542.0
+5:26.0,D. DeRozan makes 2-pt jump shot from 16 ft,112-91, ,,4,91,112,-21,2554.0
+4:58.0, ,112-91,C. Metu misses 3-pt jump shot from 24 ft,,4,91,112,-21,2582.0
+4:55.0,Defensive rebound by C. White,112-91, ,,4,91,112,-21,2585.0
+4:50.0,D. DeRozan makes 2-pt jump shot from 12 ft,114-91, ,,4,91,114,-23,2590.0
+4:40.0, ,114-93,J. Ivey makes 2-pt layup from 6 ft (assist by M. Sasser),,4,93,114,-21,2600.0
+4:40.0, ,114-93,Shooting foul by C. White (drawn by J. Ivey),,4,93,114,-21,2600.0
+4:40.0, ,114-93,J. Ivey misses free throw 1 of 1,,4,93,114,-21,2600.0
+4:36.0,Defensive rebound by J. Green,114-93, ,,4,93,114,-21,2604.0
+4:22.0,A. Caruso makes 3-pt jump shot from 24 ft (assist by C. White),117-93, ,,4,93,117,-24,2618.0
+4:08.0, ,117-93,Shooting foul by A. Caruso (drawn by J. Duren),,4,93,117,-24,2632.0
+4:08.0, ,117-94,J. Duren makes free throw 1 of 2,,4,94,117,-23,2632.0
+4:08.0, ,117-95,J. Duren makes free throw 2 of 2,,4,95,117,-22,2632.0
+3:54.0,C. White makes 3-pt jump shot from 26 ft,120-95, ,,4,95,120,-25,2646.0
+3:45.0, ,120-95,Turnover by J. Ivey (bad pass),,4,95,120,-25,2655.0
+3:35.0,Turnover by C. White (traveling),120-95, ,,4,95,120,-25,2665.0
+3:20.0, ,120-95,J. Ivey misses 2-pt layup from 6 ft,,4,95,120,-25,2680.0
+3:17.0,Defensive rebound by N. Vučević,120-95, ,,4,95,120,-25,2683.0
+3:05.0,C. White makes 3-pt jump shot from 27 ft (assist by A. Caruso),123-95, ,,4,95,123,-28,2695.0
+2:54.0, ,123-97,M. Sasser makes 2-pt layup from 3 ft,,4,97,123,-26,2706.0
+2:35.0,N. Vučević misses 3-pt jump shot from 26 ft,123-97, ,,4,97,123,-26,2725.0
+2:32.0, ,123-97,Defensive rebound by C. Metu,,4,97,123,-26,2728.0
+2:19.0, ,123-97,M. Sasser misses 2-pt jump shot from 9 ft,,4,97,123,-26,2741.0
+2:19.0,Defensive rebound by D. DeRozan,123-97, ,,4,97,123,-26,2741.0
+2:19.0,Chicago full timeout,123-97, ,,4,97,123,-26,2741.0
+2:19.0,Technical foul by N. Vučević,123-97, ,,4,97,123,-26,2741.0
+2:19.0,O. Bitim enters the game for A. Caruso,123-97, ,,4,97,123,-26,2741.0
+2:19.0,H. Drell enters the game for D. DeRozan,123-97, ,,4,97,123,-26,2741.0
+2:19.0,A. Funk enters the game for J. Green,123-97, ,,4,97,123,-26,2741.0
+2:19.0,A. Sanogo enters the game for N. Vučević,123-97, ,,4,97,123,-26,2741.0
+2:19.0,D. Terry enters the game for C. White,123-97, ,,4,97,123,-26,2741.0
+2:19.0, ,123-97,B. Boeheim enters the game for J. Duren,,4,97,123,-26,2741.0
+2:19.0, ,123-97,M. Flynn enters the game for J. Ivey,,4,97,123,-26,2741.0
+2:19.0, ,123-97,J. Rhoden enters the game for C. Metu,,4,97,123,-26,2741.0
+2:19.0, ,123-97,J. Wiseman enters the game for M. Sasser,,4,97,123,-26,2741.0
+2:19.0, ,123-98,T. Brown makes technical free throw,,4,98,123,-25,2741.0
+2:04.0,O. Bitim misses 2-pt jump shot from 16 ft,123-98, ,,4,98,123,-25,2756.0
+2:01.0, ,123-98,Defensive rebound by J. Wiseman,,4,98,123,-25,2759.0
+1:53.0, ,123-98,Turnover by M. Flynn (bad pass; steal by A. Funk),,4,98,123,-25,2767.0
+1:51.0,D. Terry makes 2-pt dunk from 3 ft,125-98, ,,4,98,125,-27,2769.0
+1:51.0,Technical foul by D. Terry,125-98, ,,4,98,125,-27,2769.0
+1:51.0, ,125-99,T. Brown makes technical free throw,,4,99,125,-26,2769.0
+1:34.0, ,125-102,B. Boeheim makes 3-pt jump shot from 23 ft (assist by J. Rhoden),,4,102,125,-23,2786.0
+1:23.0,H. Drell misses 3-pt jump shot from 27 ft,125-102, ,,4,102,125,-23,2797.0
+1:22.0,Offensive rebound by A. Sanogo,125-102, ,,4,102,125,-23,2798.0
+1:22.0,A. Sanogo misses 2-pt layup at rim,125-102, ,,4,102,125,-23,2798.0
+1:21.0,A. Sanogo makes 2-pt layup from 2 ft,127-102, ,,4,102,127,-25,2799.0
+0:59.0, ,127-102,J. Rhoden misses 3-pt jump shot from 26 ft,,4,102,127,-25,2821.0
+0:56.0, ,127-102,Offensive rebound by T. Brown,,4,102,127,-25,2824.0
+0:55.0, ,127-105,M. Flynn makes 3-pt jump shot from 25 ft (assist by T. Brown),,4,105,127,-22,2825.0
+0:45.0,O. Bitim misses 3-pt jump shot from 26 ft,127-105, ,,4,105,127,-22,2835.0
+0:43.0,Offensive rebound by A. Sanogo,127-105, ,,4,105,127,-22,2837.0
+0:34.0,A. Funk misses 3-pt jump shot from 23 ft,127-105, ,,4,105,127,-22,2846.0
+0:34.0, ,127-105,Defensive rebound by Team,,4,105,127,-22,2846.0
+0:34.0,Loose ball foul by H. Drell (drawn by J. Wiseman),127-105, ,,4,105,127,-22,2846.0
+0:34.0, ,127-105,J. Wiseman misses free throw 1 of 2,,4,105,127,-22,2846.0
+0:34.0, ,127-105,Offensive rebound by Team,,4,105,127,-22,2846.0
+0:34.0, ,127-105,J. Wiseman misses free throw 2 of 2,,4,105,127,-22,2846.0
+0:31.0,Defensive rebound by H. Drell,127-105, ,,4,105,127,-22,2849.0
+0:09.0,Turnover by Team (shot clock),127-105, ,,4,105,127,-22,2871.0
+0:00.0,End of 4th quarter,127-105,,,4,105,127,-22,2880.0

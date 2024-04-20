@@ -1,0 +1,438 @@
+Time,Detroit,Score,Memphis,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Duren vs. T. Jemison (J. Ivey gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,M. Sasser misses 2-pt jump shot from 17 ft,0-0, ,,1,0,0,0,15.0
+11:42.0, ,0-0,Defensive rebound by J. LaRavia,,1,0,0,0,18.0
+11:33.0, ,0-0,J. LaRavia misses 2-pt jump shot from 3 ft,,1,0,0,0,27.0
+11:30.0,Defensive rebound by J. Duren,0-0, ,,1,0,0,0,30.0
+11:09.0,J. Ivey misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,51.0
+11:09.0,Offensive rebound by Team,0-0, ,,1,0,0,0,51.0
+11:09.0,Turnover by Team (shot clock),0-0, ,,1,0,0,0,51.0
+10:55.0, ,0-0,Personal foul by J. Duren (drawn by T. Jemison),,1,0,0,0,65.0
+10:40.0, ,0-2,G. Jackson makes 2-pt jump shot from 8 ft (assist by S. Pippen ),,1,0,2,-2,80.0
+10:28.0,J. Duren misses 2-pt jump shot from 7 ft,0-2, ,,1,0,2,-2,92.0
+10:26.0, ,0-2,Defensive rebound by J. Goodwin,,1,0,2,-2,94.0
+10:21.0, ,0-4,S. Pippen  makes 2-pt layup from 2 ft (assist by J. Goodwin),,1,0,4,-4,99.0
+10:07.0,M. Sasser misses 3-pt jump shot from 26 ft,0-4, ,,1,0,4,-4,113.0
+10:05.0,Offensive rebound by T. Brown,0-4, ,,1,0,4,-4,115.0
+10:02.0,J. Ivey makes 3-pt jump shot from 27 ft (assist by T. Brown),3-4, ,,1,3,4,-1,118.0
+9:46.0, ,3-4,J. Goodwin misses 2-pt jump shot from 19 ft,,1,3,4,-1,134.0
+9:42.0,Defensive rebound by T. Brown,3-4, ,,1,3,4,-1,138.0
+9:34.0,J. Ivey makes 3-pt jump shot from 24 ft (assist by T. Evbuomwan),6-4, ,Lead change,1,6,4,2,146.0
+9:14.0, ,6-6,G. Jackson makes 2-pt layup from 4 ft,Tie,1,6,6,0,166.0
+8:54.0,Turnover by J. Ivey (bad pass; steal by J. LaRavia),6-6, ,,1,6,6,0,186.0
+8:42.0, ,6-6,Turnover by J. LaRavia (bad pass; steal by T. Evbuomwan),,1,6,6,0,198.0
+8:34.0,Turnover by J. Ivey (lost ball; steal by S. Pippen ),6-6, ,,1,6,6,0,206.0
+8:30.0, ,6-6,S. Pippen  misses 2-pt dunk from 2 ft,,1,6,6,0,210.0
+8:27.0,Defensive rebound by M. Sasser,6-6, ,,1,6,6,0,213.0
+8:25.0,T. Brown misses 3-pt jump shot from 23 ft,6-6, ,,1,6,6,0,215.0
+8:21.0,Offensive rebound by T. Evbuomwan,6-6, ,,1,6,6,0,219.0
+8:19.0,T. Evbuomwan misses 2-pt layup from 4 ft (block by T. Jemison),6-6, ,,1,6,6,0,221.0
+8:16.0, ,6-6,Defensive rebound by J. Goodwin,,1,6,6,0,224.0
+8:10.0, ,6-6,J. LaRavia misses 3-pt jump shot from 26 ft,,1,6,6,0,230.0
+8:08.0,Defensive rebound by J. Ivey,6-6, ,,1,6,6,0,232.0
+7:58.0,J. Ivey makes 2-pt layup from 3 ft,8-6, ,,1,8,6,2,242.0
+7:36.0, ,8-9,G. Jackson makes 3-pt jump shot from 29 ft (assist by J. LaRavia),Lead change,1,8,9,-1,264.0
+7:17.0,J. Ivey makes 3-pt jump shot from 25 ft (assist by M. Sasser),11-9, ,Lead change,1,11,9,2,283.0
+6:51.0, ,11-11,J. Goodwin makes 2-pt layup from 3 ft,Tie,1,11,11,0,309.0
+6:31.0,J. Duren makes 2-pt jump shot from 13 ft (assist by J. Ivey),13-11, ,,1,13,11,2,329.0
+6:31.0, ,13-11,Memphis full timeout,,1,13,11,2,329.0
+6:11.0, ,13-11,J. LaRavia misses 2-pt jump shot from 6 ft,,1,13,11,2,349.0
+6:10.0, ,13-11,Offensive rebound by T. Jemison,,1,13,11,2,350.0
+6:10.0, ,13-11,Shooting foul by J. Duren (drawn by T. Jemison),,1,13,11,2,350.0
+6:10.0, ,13-12,T. Jemison makes free throw 1 of 2,,1,13,12,1,350.0
+6:10.0, ,13-13,T. Jemison makes free throw 2 of 2,Tie,1,13,13,0,350.0
+5:53.0,J. Ivey makes 3-pt jump shot from 26 ft (assist by T. Brown),16-13, ,,1,16,13,3,367.0
+5:38.0, ,16-13,Turnover by J. Goodwin (bad pass),,1,16,13,3,382.0
+5:38.0,J. Wiseman enters the game for J. Duren,16-13, ,,1,16,13,3,382.0
+5:38.0, ,16-13,Z. Simpson enters the game for J. LaRavia,,1,16,13,3,382.0
+5:38.0, ,16-13,L. Stevens enters the game for S. Pippen ,,1,16,13,3,382.0
+5:24.0,T. Evbuomwan makes 2-pt jump shot from 3 ft,18-13, ,,1,18,13,5,396.0
+5:24.0, ,18-13,Violation by Team (def goaltending),,1,18,13,5,396.0
+5:13.0, ,18-13,Turnover by G. Jackson (lost ball; steal by T. Brown),,1,18,13,5,407.0
+5:11.0,Shooting foul by J. Goodwin (drawn by T. Evbuomwan),18-13, ,,1,18,13,5,409.0
+5:11.0,T. Evbuomwan makes free throw 1 of 2,19-13, ,,1,19,13,6,409.0
+5:11.0,J. Rhoden enters the game for T. Brown,19-13, ,,1,19,13,6,409.0
+5:11.0,T. Evbuomwan misses free throw 2 of 2,19-13, ,,1,19,13,6,409.0
+5:09.0, ,19-13,Defensive rebound by T. Jemison,,1,19,13,6,411.0
+4:49.0, ,19-13,L. Stevens misses 2-pt jump shot from 3 ft,,1,19,13,6,431.0
+4:45.0, ,19-13,Offensive rebound by T. Jemison,,1,19,13,6,435.0
+4:45.0, ,19-15,T. Jemison makes 2-pt layup at rim,,1,19,15,4,435.0
+4:28.0,Turnover by J. Ivey (bad pass; steal by J. Goodwin),19-15, ,,1,19,15,4,452.0
+4:17.0, ,19-15,Turnover by J. Goodwin (bad pass; steal by M. Sasser),,1,19,15,4,463.0
+4:10.0,Turnover by J. Wiseman (off goaltending),19-15, ,,1,19,15,4,470.0
+3:54.0, ,19-15,G. Jackson misses 2-pt layup from 4 ft,,1,19,15,4,486.0
+3:52.0,Defensive rebound by J. Wiseman,19-15, ,,1,19,15,4,488.0
+3:44.0,Turnover by J. Wiseman (lost ball; steal by L. Stevens),19-15, ,,1,19,15,4,496.0
+3:38.0, ,19-15,L. Stevens misses 2-pt layup from 4 ft (block by T. Evbuomwan),,1,19,15,4,502.0
+3:34.0,Defensive rebound by J. Ivey,19-15, ,,1,19,15,4,506.0
+3:33.0,Shooting foul by T. Jemison (drawn by J. Ivey),19-15, ,,1,19,15,4,507.0
+3:33.0,J. Ivey makes free throw 1 of 2,20-15, ,,1,20,15,5,507.0
+3:33.0,M. Flynn enters the game for M. Sasser,20-15, ,,1,20,15,5,507.0
+3:33.0, ,20-15,M. Pereira enters the game for T. Jemison,,1,20,15,5,507.0
+3:33.0,J. Ivey misses free throw 2 of 2,20-15, ,,1,20,15,5,507.0
+3:31.0, ,20-15,Defensive rebound by G. Jackson,,1,20,15,5,509.0
+3:18.0, ,20-17,L. Stevens makes 2-pt dunk from 1 ft,,1,20,17,3,522.0
+3:02.0,Turnover by J. Ivey (bad pass; steal by L. Stevens),20-17, ,,1,20,17,3,538.0
+2:58.0, ,20-19,L. Stevens makes 2-pt dunk from 2 ft,,1,20,19,1,542.0
+2:58.0,Detroit full timeout,20-19, ,,1,20,19,1,542.0
+2:58.0,E. Fournier enters the game for J. Ivey,20-19, ,,1,20,19,1,542.0
+2:58.0, ,20-19,J. LaRavia enters the game for J. Goodwin,,1,20,19,1,542.0
+2:40.0,J. Rhoden makes 2-pt jump shot from 10 ft (assist by M. Flynn),22-19, ,,1,22,19,3,560.0
+2:21.0, ,22-21,L. Stevens makes 2-pt jump shot from 12 ft (assist by G. Jackson),,1,22,21,1,579.0
+2:04.0,Turnover by J. Wiseman (3 sec),22-21, ,,1,22,21,1,596.0
+2:04.0,C. Metu enters the game for T. Evbuomwan,22-21, ,,1,22,21,1,596.0
+1:56.0, ,22-21,J. LaRavia misses 3-pt jump shot from 26 ft,,1,22,21,1,604.0
+1:52.0, ,22-21,Offensive rebound by J. LaRavia,,1,22,21,1,608.0
+1:47.0, ,22-24,G. Jackson makes 3-pt jump shot from 29 ft,Lead change,1,22,24,-2,613.0
+1:34.0,J. Rhoden misses 3-pt jump shot from 27 ft,22-24, ,,1,22,24,-2,626.0
+1:31.0, ,22-24,Defensive rebound by G. Jackson,,1,22,24,-2,629.0
+1:22.0, ,22-24,Shooting foul by J. Rhoden (drawn by L. Stevens),,1,22,24,-2,638.0
+1:22.0, ,22-25,L. Stevens makes free throw 1 of 2,,1,22,25,-3,638.0
+1:22.0, ,22-25,L. Stevens misses free throw 2 of 2,,1,22,25,-3,638.0
+1:18.0, ,22-25,Offensive rebound by M. Pereira,,1,22,25,-3,642.0
+1:15.0, ,22-28,J. LaRavia makes 3-pt jump shot from 25 ft (assist by Z. Simpson),,1,22,28,-6,645.0
+0:52.0,M. Flynn misses 2-pt jump shot from 11 ft,22-28, ,,1,22,28,-6,668.0
+0:48.0, ,22-28,Defensive rebound by L. Stevens,,1,22,28,-6,672.0
+0:44.0, ,22-30,L. Stevens makes 2-pt layup from 3 ft,,1,22,30,-8,676.0
+0:33.0,M. Flynn misses 2-pt jump shot from 12 ft,22-30, ,,1,22,30,-8,687.0
+0:31.0, ,22-30,Defensive rebound by J. LaRavia,,1,22,30,-8,689.0
+0:28.0, ,22-32,L. Stevens makes 2-pt dunk from 1 ft (assist by J. LaRavia),,1,22,32,-10,692.0
+0:06.0,C. Metu misses 3-pt jump shot from 23 ft,22-32, ,,1,22,32,-10,714.0
+0:03.0, ,22-32,Defensive rebound by L. Stevens,,1,22,32,-10,717.0
+0:00.0, ,22-32,J. LaRavia misses 3-pt jump shot from 25 ft,,1,22,32,-10,720.0
+0:00.0, ,22-32,Offensive rebound by Team,,1,22,32,-10,720.0
+0:00.0,End of 1st quarter,22-32,,,1,22,32,-10,720.0
+12:00.0,Start of 2nd quarter,22-32,,,2,22,32,-10,720.0
+11:40.0, ,22-32,Z. Simpson misses 3-pt jump shot from 25 ft,,2,22,32,-10,740.0
+11:35.0,Defensive rebound by J. Nowell,22-32, ,,2,22,32,-10,745.0
+11:24.0,Turnover by M. Flynn (step out of bounds),22-32, ,,2,22,32,-10,756.0
+11:05.0, ,22-32,Z. Simpson misses 2-pt hook shot from 6 ft (block by J. Wiseman),,2,22,32,-10,775.0
+11:03.0, ,22-32,Offensive rebound by S. Pippen ,,2,22,32,-10,777.0
+11:00.0, ,22-32,L. Stevens misses 3-pt jump shot from 26 ft,,2,22,32,-10,780.0
+10:56.0,Defensive rebound by J. Wiseman,22-32, ,,2,22,32,-10,784.0
+10:53.0,Shooting foul by S. Pippen  (drawn by J. Ivey),22-32, ,,2,22,32,-10,787.0
+10:53.0,J. Ivey makes free throw 1 of 2,23-32, ,,2,23,32,-9,787.0
+10:53.0,J. Ivey makes free throw 2 of 2,24-32, ,,2,24,32,-8,787.0
+10:38.0, ,24-32,J. LaRavia misses 2-pt jump shot from 7 ft,,2,24,32,-8,802.0
+10:36.0,Defensive rebound by C. Metu,24-32, ,,2,24,32,-8,804.0
+10:22.0,M. Flynn misses 3-pt jump shot from 25 ft,24-32, ,,2,24,32,-8,818.0
+10:17.0, ,24-32,Defensive rebound by L. Stevens,,2,24,32,-8,823.0
+10:05.0, ,24-32,L. Stevens misses 2-pt jump shot from 4 ft,,2,24,32,-8,835.0
+10:03.0,Defensive rebound by M. Flynn,24-32, ,,2,24,32,-8,837.0
+9:58.0,J. Nowell makes 2-pt jump shot from 18 ft (assist by M. Flynn),26-32, ,,2,26,32,-6,842.0
+9:38.0, ,26-34,L. Stevens makes 2-pt jump shot from 6 ft,,2,26,34,-8,862.0
+9:18.0,Shooting foul by S. Pippen  (drawn by M. Flynn),26-34, ,,2,26,34,-8,882.0
+9:18.0,M. Flynn makes free throw 1 of 2,27-34, ,,2,27,34,-7,882.0
+9:18.0,M. Flynn makes free throw 2 of 2,28-34, ,,2,28,34,-6,882.0
+9:02.0, ,28-34,M. Pereira misses 2-pt layup from 3 ft,,2,28,34,-6,898.0
+9:00.0, ,28-34,Offensive rebound by M. Pereira,,2,28,34,-6,900.0
+9:00.0, ,28-34,Shooting foul by C. Metu (drawn by M. Pereira),,2,28,34,-6,900.0
+9:00.0, ,28-35,M. Pereira makes free throw 1 of 2,,2,28,35,-7,900.0
+9:00.0, ,28-35,J. Goodwin enters the game for Z. Simpson,,2,28,35,-7,900.0
+9:00.0, ,28-36,M. Pereira makes free throw 2 of 2,,2,28,36,-8,900.0
+8:44.0,J. Ivey makes 3-pt jump shot from 26 ft (assist by J. Nowell),31-36, ,,2,31,36,-5,916.0
+8:23.0, ,31-39,J. Goodwin makes 3-pt jump shot from 24 ft (assist by S. Pippen ),,2,31,39,-8,937.0
+8:05.0,Turnover by C. Metu (lost ball; steal by S. Pippen ),31-39, ,,2,31,39,-8,955.0
+7:58.0, ,31-39,L. Stevens misses 3-pt jump shot from 28 ft,,2,31,39,-8,962.0
+7:54.0,Defensive rebound by J. Nowell,31-39, ,,2,31,39,-8,966.0
+7:50.0,Turnover by J. Nowell (bad pass; steal by S. Pippen ),31-39, ,,2,31,39,-8,970.0
+7:45.0, ,31-41,M. Pereira makes 2-pt dunk from 2 ft (assist by J. Goodwin),,2,31,41,-10,975.0
+7:22.0,M. Flynn misses 3-pt jump shot from 26 ft,31-41, ,,2,31,41,-10,998.0
+7:21.0, ,31-41,Defensive rebound by J. Goodwin,,2,31,41,-10,999.0
+7:11.0, ,31-41,Shooting foul by J. Ivey (drawn by J. Goodwin),,2,31,41,-10,1009.0
+7:11.0, ,31-42,J. Goodwin makes free throw 1 of 2,,2,31,42,-11,1009.0
+7:11.0,J. Duren enters the game for M. Flynn,31-42, ,,2,31,42,-11,1009.0
+7:11.0,M. Sasser enters the game for J. Wiseman,31-42, ,,2,31,42,-11,1009.0
+7:11.0, ,31-42,T. Jemison enters the game for L. Stevens,,2,31,42,-11,1009.0
+7:11.0, ,31-43,J. Goodwin makes free throw 2 of 2,,2,31,43,-12,1009.0
+6:50.0,J. Ivey misses 2-pt jump shot from 18 ft,31-43, ,,2,31,43,-12,1030.0
+6:45.0,Offensive rebound by J. Duren,31-43, ,,2,31,43,-12,1035.0
+6:45.0,J. Duren misses 2-pt layup at rim (block by T. Jemison),31-43, ,,2,31,43,-12,1035.0
+6:42.0, ,31-43,Defensive rebound by M. Pereira,,2,31,43,-12,1038.0
+6:38.0, ,31-43,Turnover by J. LaRavia (bad pass; steal by J. Nowell),,2,31,43,-12,1042.0
+6:35.0,Shooting foul by J. Goodwin (drawn by J. Nowell),31-43, ,,2,31,43,-12,1045.0
+6:35.0, ,31-43,Memphis full timeout,,2,31,43,-12,1045.0
+6:35.0, ,31-43,Z. Simpson enters the game for S. Pippen ,,2,31,43,-12,1045.0
+6:35.0,J. Nowell misses free throw 1 of 2,31-43, ,,2,31,43,-12,1045.0
+6:35.0,Offensive rebound by Team,31-43, ,,2,31,43,-12,1045.0
+6:35.0,J. Nowell misses free throw 2 of 2,31-43, ,,2,31,43,-12,1045.0
+6:32.0, ,31-43,Defensive rebound by Team,,2,31,43,-12,1048.0
+6:16.0, ,31-43,Shooting foul by J. Ivey (drawn by J. Goodwin),,2,31,43,-12,1064.0
+6:16.0, ,31-44,J. Goodwin makes free throw 1 of 2,,2,31,44,-13,1064.0
+6:16.0,T. Evbuomwan enters the game for C. Metu,31-44, ,,2,31,44,-13,1064.0
+6:16.0, ,31-45,J. Goodwin makes free throw 2 of 2,,2,31,45,-14,1064.0
+6:01.0,J. Nowell makes 2-pt jump shot from 11 ft (assist by J. Ivey),33-45, ,,2,33,45,-12,1079.0
+5:37.0, ,33-47,J. LaRavia makes 2-pt layup from 3 ft (assist by Z. Simpson),,2,33,47,-14,1103.0
+5:37.0, ,33-47,Shooting foul by J. Nowell (drawn by J. LaRavia),,2,33,47,-14,1103.0
+5:37.0, ,33-48,J. LaRavia makes free throw 1 of 1,,2,33,48,-15,1103.0
+5:24.0,J. Duren misses 2-pt jump shot from 13 ft,33-48, ,,2,33,48,-15,1116.0
+5:20.0, ,33-48,Defensive rebound by M. Pereira,,2,33,48,-15,1120.0
+5:08.0, ,33-48,J. LaRavia misses 2-pt jump shot from 16 ft (block by J. Nowell),,2,33,48,-15,1132.0
+5:08.0, ,33-48,Offensive rebound by Team,,2,33,48,-15,1132.0
+5:08.0,Detroit full timeout,33-48, ,,2,33,48,-15,1132.0
+5:08.0,Instant Replay (Challenge: Ruling Stands),33-48, ,,2,33,48,-15,1132.0
+5:08.0, ,33-48,G. Jackson enters the game for J. LaRavia,,2,33,48,-15,1132.0
+5:08.0,Jump ball: T. Jemison vs. J. Duren (Z. Simpson gains possession),33-48,,,2,33,48,-15,1132.0
+4:51.0, ,33-48,Z. Simpson misses 2-pt jump shot from 20 ft,,2,33,48,-15,1149.0
+4:48.0, ,33-48,Offensive rebound by M. Pereira,,2,33,48,-15,1152.0
+4:38.0, ,33-51,M. Pereira makes 3-pt jump shot from 24 ft (assist by J. Goodwin),,2,33,51,-18,1162.0
+4:20.0,Turnover by M. Sasser (lost ball; steal by Z. Simpson),33-51, ,,2,33,51,-18,1180.0
+4:17.0, ,33-53,M. Pereira makes 2-pt dunk from 1 ft (assist by G. Jackson),,2,33,53,-20,1183.0
+3:57.0,J. Duren makes 2-pt layup from 3 ft (assist by J. Ivey),35-53, ,,2,35,53,-18,1203.0
+3:47.0, ,35-53,Offensive foul by T. Jemison (drawn by J. Ivey),,2,35,53,-18,1213.0
+3:47.0, ,35-53,Turnover by T. Jemison (offensive foul),,2,35,53,-18,1213.0
+3:47.0,T. Brown enters the game for J. Nowell,35-53, ,,2,35,53,-18,1213.0
+3:47.0,M. Flynn enters the game for M. Sasser,35-53, ,,2,35,53,-18,1213.0
+3:35.0,M. Flynn misses 3-pt jump shot from 26 ft,35-53, ,,2,35,53,-18,1225.0
+3:31.0,Offensive rebound by T. Brown,35-53, ,,2,35,53,-18,1229.0
+3:19.0,J. Duren misses 3-pt jump shot from 29 ft,35-53, ,,2,35,53,-18,1241.0
+3:16.0, ,35-53,Defensive rebound by J. Goodwin,,2,35,53,-18,1244.0
+3:16.0,B. Boeheim enters the game for J. Ivey,35-53, ,,2,35,53,-18,1244.0
+3:01.0, ,35-53,G. Jackson misses 2-pt jump shot from 6 ft,,2,35,53,-18,1259.0
+2:59.0,Defensive rebound by J. Duren,35-53, ,,2,35,53,-18,1261.0
+2:53.0,Turnover by T. Evbuomwan (bad pass; steal by T. Jemison),35-53, ,,2,35,53,-18,1267.0
+2:46.0, ,35-55,J. Goodwin makes 2-pt layup from 4 ft (assist by Z. Simpson),,2,35,55,-20,1274.0
+2:29.0,T. Evbuomwan misses 3-pt jump shot from 26 ft,35-55, ,,2,35,55,-20,1291.0
+2:27.0, ,35-55,Defensive rebound by T. Jemison,,2,35,55,-20,1293.0
+2:06.0, ,35-55,G. Jackson misses 2-pt layup from 2 ft,,2,35,55,-20,1314.0
+2:05.0, ,35-55,Offensive rebound by T. Jemison,,2,35,55,-20,1315.0
+2:04.0, ,35-55,T. Jemison misses 2-pt layup from 4 ft,,2,35,55,-20,1316.0
+2:02.0,Defensive rebound by J. Duren,35-55, ,,2,35,55,-20,1318.0
+1:59.0,B. Boeheim misses 3-pt jump shot from 26 ft,35-55, ,,2,35,55,-20,1321.0
+1:55.0, ,35-55,Defensive rebound by T. Jemison,,2,35,55,-20,1325.0
+1:52.0, ,35-55,Turnover by T. Jemison (bad pass; steal by T. Brown),,2,35,55,-20,1328.0
+1:47.0,Turnover by T. Brown (bad pass; steal by Z. Simpson),35-55, ,,2,35,55,-20,1333.0
+1:32.0, ,35-57,G. Jackson makes 2-pt layup from 3 ft (assist by J. Goodwin),,2,35,57,-22,1348.0
+1:32.0, ,35-57,Shooting foul by T. Evbuomwan (drawn by G. Jackson),,2,35,57,-22,1348.0
+1:32.0,J. Rhoden enters the game for T. Evbuomwan,35-57, ,,2,35,57,-22,1348.0
+1:32.0, ,35-57,J. LaRavia enters the game for J. Goodwin,,2,35,57,-22,1348.0
+1:32.0, ,35-57,S. Pippen  enters the game for T. Jemison,,2,35,57,-22,1348.0
+1:32.0, ,35-57,G. Jackson misses free throw 1 of 1,,2,35,57,-22,1348.0
+1:30.0,Defensive rebound by J. Duren,35-57, ,,2,35,57,-22,1350.0
+1:01.0,Shooting foul by M. Pereira (drawn by M. Flynn),35-57, ,,2,35,57,-22,1379.0
+1:01.0,M. Flynn misses free throw 1 of 2,35-57, ,,2,35,57,-22,1379.0
+1:01.0,Offensive rebound by Team,35-57, ,,2,35,57,-22,1379.0
+1:01.0,M. Flynn makes free throw 2 of 2,36-57, ,,2,36,57,-21,1379.0
+0:48.0, ,36-57,Z. Simpson misses 3-pt jump shot from 26 ft,,2,36,57,-21,1392.0
+0:46.0,Defensive rebound by T. Brown,36-57, ,,2,36,57,-21,1394.0
+0:32.0,Turnover by M. Flynn (lost ball; steal by M. Pereira),36-57, ,,2,36,57,-21,1408.0
+0:11.0, ,36-57,G. Jackson misses 3-pt jump shot from 27 ft,,2,36,57,-21,1429.0
+0:09.0,Defensive rebound by T. Brown,36-57, ,,2,36,57,-21,1431.0
+0:03.0,T. Brown makes 2-pt dunk from 2 ft,38-57, ,,2,38,57,-19,1437.0
+0:00.0, ,38-57,M. Pereira misses 3-pt jump shot from 65 ft,,2,38,57,-19,1440.0
+0:00.0, ,38-57,Offensive rebound by Team,,2,38,57,-19,1440.0
+0:00.0,End of 2nd quarter,38-57,,,2,38,57,-19,1440.0
+12:00.0,Start of 3rd quarter,38-57,,,3,38,57,-19,1440.0
+11:37.0, ,38-59,T. Jemison makes 2-pt dunk from 1 ft (assist by S. Pippen ),,3,38,59,-21,1463.0
+11:20.0,T. Brown misses 2-pt layup from 1 ft (block by J. LaRavia),38-59, ,,3,38,59,-21,1480.0
+11:19.0, ,38-59,Defensive rebound by Team,,3,38,59,-21,1481.0
+11:10.0, ,38-61,S. Pippen  makes 2-pt jump shot from 3 ft,,3,38,61,-23,1490.0
+11:05.0,Shooting foul by T. Jemison (drawn by J. Ivey),38-61, ,,3,38,61,-23,1495.0
+11:05.0,J. Ivey makes free throw 1 of 2,39-61, ,,3,39,61,-22,1495.0
+11:05.0,J. Ivey makes free throw 2 of 2,40-61, ,,3,40,61,-21,1495.0
+10:51.0, ,40-64,S. Pippen  makes 3-pt jump shot from 26 ft (assist by G. Jackson),,3,40,64,-24,1509.0
+10:35.0,J. Ivey makes 2-pt layup from 2 ft,42-64, ,,3,42,64,-22,1525.0
+10:18.0, ,42-66,T. Jemison makes 2-pt dunk from 1 ft (assist by S. Pippen ),,3,42,66,-24,1542.0
+10:06.0,J. Ivey makes 2-pt jump shot from 14 ft (assist by M. Sasser),44-66, ,,3,44,66,-22,1554.0
+9:55.0, ,44-66,J. LaRavia misses 3-pt jump shot from 24 ft,,3,44,66,-22,1565.0
+9:50.0,Defensive rebound by J. Ivey,44-66, ,,3,44,66,-22,1570.0
+9:48.0,T. Evbuomwan makes 2-pt layup from 2 ft (assist by T. Brown),46-66, ,,3,46,66,-20,1572.0
+9:36.0, ,46-69,S. Pippen  makes 3-pt jump shot from 25 ft,,3,46,69,-23,1584.0
+9:20.0,J. Ivey misses 2-pt jump shot from 14 ft,46-69, ,,3,46,69,-23,1600.0
+9:18.0, ,46-69,Defensive rebound by G. Jackson,,3,46,69,-23,1602.0
+9:02.0, ,46-71,S. Pippen  makes 2-pt jump shot from 11 ft,,3,46,71,-25,1618.0
+8:43.0,Turnover by M. Sasser (lost ball; steal by S. Pippen ),46-71, ,,3,46,71,-25,1637.0
+8:36.0, ,46-73,T. Jemison makes 2-pt dunk from 1 ft (assist by J. Goodwin),,3,46,73,-27,1644.0
+8:36.0,Detroit full timeout,46-73, ,,3,46,73,-27,1644.0
+8:36.0,M. Flynn enters the game for M. Sasser,46-73, ,,3,46,73,-27,1644.0
+8:23.0,M. Flynn misses 3-pt jump shot from 26 ft,46-73, ,,3,46,73,-27,1657.0
+8:18.0,Offensive rebound by J. Duren,46-73, ,,3,46,73,-27,1662.0
+8:15.0,J. Duren makes 2-pt layup from 2 ft,48-73, ,,3,48,73,-25,1665.0
+7:50.0, ,48-73,Turnover by T. Jemison (traveling),,3,48,73,-25,1690.0
+7:35.0,T. Brown makes 3-pt jump shot from 24 ft (assist by M. Flynn),51-73, ,,3,51,73,-22,1705.0
+7:17.0, ,51-75,J. LaRavia makes 2-pt layup from 5 ft (assist by G. Jackson),,3,51,75,-24,1723.0
+7:12.0,T. Evbuomwan makes 2-pt layup from 3 ft (assist by M. Flynn),53-75, ,,3,53,75,-22,1728.0
+7:12.0,Shooting foul by G. Jackson (drawn by T. Evbuomwan),53-75, ,,3,53,75,-22,1728.0
+7:12.0,T. Evbuomwan makes free throw 1 of 1,54-75, ,,3,54,75,-21,1728.0
+6:56.0, ,54-75,G. Jackson misses 3-pt jump shot from 26 ft,,3,54,75,-21,1744.0
+6:53.0,Defensive rebound by T. Brown,54-75, ,,3,54,75,-21,1747.0
+6:48.0,T. Brown misses 3-pt jump shot from 26 ft,54-75, ,,3,54,75,-21,1752.0
+6:45.0, ,54-75,Defensive rebound by T. Jemison,,3,54,75,-21,1755.0
+6:34.0, ,54-78,J. Goodwin makes 3-pt jump shot from 25 ft (assist by S. Pippen ),,3,54,78,-24,1766.0
+6:23.0,J. Ivey makes 2-pt layup from 2 ft,56-78, ,,3,56,78,-22,1777.0
+6:10.0, ,56-81,G. Jackson makes 3-pt jump shot from 24 ft (assist by T. Jemison),,3,56,81,-25,1790.0
+5:57.0,J. Duren makes 2-pt jump shot from 16 ft,58-81, ,,3,58,81,-23,1803.0
+5:36.0, ,58-81,Turnover by S. Pippen  (lost ball; steal by J. Duren),,3,58,81,-23,1824.0
+5:32.0,M. Flynn misses 2-pt layup from 3 ft,58-81, ,,3,58,81,-23,1828.0
+5:31.0,Offensive rebound by J. Duren,58-81, ,,3,58,81,-23,1829.0
+5:31.0,Shooting foul by S. Pippen  (drawn by J. Duren),58-81, ,,3,58,81,-23,1829.0
+5:31.0,J. Duren makes free throw 1 of 2,59-81, ,,3,59,81,-22,1829.0
+5:31.0, ,59-81,Z. Simpson enters the game for J. LaRavia,,3,59,81,-22,1829.0
+5:31.0, ,59-81,L. Stevens enters the game for S. Pippen ,,3,59,81,-22,1829.0
+5:31.0,J. Duren makes free throw 2 of 2,60-81, ,,3,60,81,-21,1829.0
+5:07.0, ,60-81,J. Goodwin misses 2-pt jump shot from 13 ft,,3,60,81,-21,1853.0
+5:05.0,Defensive rebound by T. Evbuomwan,60-81, ,,3,60,81,-21,1855.0
+4:57.0,M. Flynn misses 3-pt jump shot from 26 ft,60-81, ,,3,60,81,-21,1863.0
+4:53.0, ,60-81,Defensive rebound by J. Goodwin,,3,60,81,-21,1867.0
+4:41.0, ,60-81,G. Jackson misses 3-pt jump shot from 29 ft,,3,60,81,-21,1879.0
+4:38.0,Defensive rebound by J. Duren,60-81, ,,3,60,81,-21,1882.0
+4:32.0,J. Ivey makes 3-pt jump shot from 26 ft (assist by T. Evbuomwan),63-81, ,,3,63,81,-18,1888.0
+4:31.0, ,63-81,Memphis full timeout,,3,63,81,-18,1889.0
+4:31.0, ,63-81,M. Pereira enters the game for J. Goodwin,,3,63,81,-18,1889.0
+4:09.0, ,63-81,L. Stevens misses 2-pt jump shot from 17 ft,,3,63,81,-18,1911.0
+4:05.0,Defensive rebound by T. Brown,63-81, ,,3,63,81,-18,1915.0
+3:57.0,J. Duren misses 2-pt jump shot from 14 ft,63-81, ,,3,63,81,-18,1923.0
+3:53.0, ,63-81,Defensive rebound by L. Stevens,,3,63,81,-18,1927.0
+3:48.0, ,63-83,T. Jemison makes 2-pt layup from 2 ft (assist by L. Stevens),,3,63,83,-20,1932.0
+3:48.0, ,63-83,Shooting foul by T. Brown (drawn by T. Jemison),,3,63,83,-20,1932.0
+3:48.0, ,63-84,T. Jemison makes free throw 1 of 1,,3,63,84,-21,1932.0
+3:31.0,J. Duren misses 2-pt hook shot from 3 ft,63-84, ,,3,63,84,-21,1949.0
+3:28.0, ,63-84,Defensive rebound by M. Pereira,,3,63,84,-21,1952.0
+3:16.0, ,63-84,Turnover by G. Jackson (lost ball; steal by M. Flynn),,3,63,84,-21,1964.0
+3:09.0,J. Duren makes 2-pt hook shot from 5 ft (assist by M. Flynn),65-84, ,,3,65,84,-19,1971.0
+3:09.0, ,65-84,Violation by Team (def goaltending),,3,65,84,-19,1971.0
+2:45.0, ,65-84,Z. Simpson misses 2-pt hook shot from 11 ft,,3,65,84,-19,1995.0
+2:43.0,Defensive rebound by J. Duren,65-84, ,,3,65,84,-19,1997.0
+2:33.0,J. Duren makes 2-pt layup from 2 ft (assist by T. Evbuomwan),67-84, ,,3,67,84,-17,2007.0
+2:33.0,Shooting foul by L. Stevens (drawn by J. Duren),67-84, ,,3,67,84,-17,2007.0
+2:33.0,C. Metu enters the game for T. Evbuomwan,67-84, ,,3,67,84,-17,2007.0
+2:33.0,J. Rhoden enters the game for J. Ivey,67-84, ,,3,67,84,-17,2007.0
+2:33.0, ,67-84,J. LaRavia enters the game for G. Jackson,,3,67,84,-17,2007.0
+2:33.0,J. Duren makes free throw 1 of 1,68-84, ,,3,68,84,-16,2007.0
+2:18.0, ,68-84,L. Stevens misses 2-pt jump shot from 13 ft,,3,68,84,-16,2022.0
+2:14.0, ,68-84,Offensive rebound by T. Jemison,,3,68,84,-16,2026.0
+2:11.0, ,68-84,J. LaRavia misses 3-pt jump shot from 23 ft,,3,68,84,-16,2029.0
+2:09.0, ,68-84,Offensive rebound by T. Jemison,,3,68,84,-16,2031.0
+2:01.0, ,68-86,Z. Simpson makes 2-pt jump shot from 17 ft,,3,68,86,-18,2039.0
+1:41.0,M. Flynn misses 2-pt jump shot from 3 ft (block by T. Jemison),68-86, ,,3,68,86,-18,2059.0
+1:39.0, ,68-86,Defensive rebound by T. Jemison,,3,68,86,-18,2061.0
+1:35.0, ,68-86,M. Pereira misses 2-pt layup from 3 ft,,3,68,86,-18,2065.0
+1:32.0,Defensive rebound by J. Duren,68-86, ,,3,68,86,-18,2068.0
+1:28.0,Shooting foul by T. Jemison (drawn by J. Duren),68-86, ,,3,68,86,-18,2072.0
+1:28.0,J. Duren makes free throw 1 of 2,69-86, ,,3,69,86,-17,2072.0
+1:28.0, ,69-86,S. Pippen  enters the game for T. Jemison,,3,69,86,-17,2072.0
+1:28.0,J. Duren makes free throw 2 of 2,70-86, ,,3,70,86,-16,2072.0
+1:10.0, ,70-88,M. Pereira makes 2-pt layup from 3 ft,,3,70,88,-18,2090.0
+1:10.0, ,70-88,Shooting foul by J. Duren (drawn by M. Pereira),,3,70,88,-18,2090.0
+1:10.0,J. Wiseman enters the game for J. Duren,70-88, ,,3,70,88,-18,2090.0
+1:10.0, ,70-89,M. Pereira makes free throw 1 of 1,,3,70,89,-19,2090.0
+0:56.0,Turnover by C. Metu (lost ball; steal by L. Stevens),70-89, ,,3,70,89,-19,2104.0
+0:43.0, ,70-89,Turnover by S. Pippen  (bad pass; steal by M. Flynn),,3,70,89,-19,2117.0
+0:39.0,M. Flynn misses 3-pt jump shot from 26 ft (block by S. Pippen ),70-89, ,,3,70,89,-19,2121.0
+0:39.0,Offensive rebound by Team,70-89, ,,3,70,89,-19,2121.0
+0:34.0,M. Flynn misses 2-pt jump shot from 17 ft,70-89, ,,3,70,89,-19,2126.0
+0:31.0, ,70-89,Defensive rebound by J. LaRavia,,3,70,89,-19,2129.0
+0:12.0, ,70-89,Turnover by Z. Simpson (bad pass; steal by C. Metu),,3,70,89,-19,2148.0
+0:05.0,T. Brown misses 2-pt layup from 3 ft,70-89, ,,3,70,89,-19,2155.0
+0:03.0,Offensive rebound by J. Wiseman,70-89, ,,3,70,89,-19,2157.0
+0:02.0,J. Wiseman misses 2-pt layup at rim,70-89, ,,3,70,89,-19,2158.0
+0:01.0, ,70-89,Defensive rebound by J. LaRavia,,3,70,89,-19,2159.0
+0:00.0, ,70-89,J. LaRavia misses 3-pt jump shot from 52 ft,,3,70,89,-19,2160.0
+0:00.0, ,70-89,Offensive rebound by Team,,3,70,89,-19,2160.0
+0:00.0,End of 3rd quarter,70-89,,,3,70,89,-19,2160.0
+12:00.0,Start of 4th quarter,70-89,,,4,70,89,-19,2160.0
+11:45.0,M. Flynn misses 3-pt jump shot from 26 ft,70-89, ,,4,70,89,-19,2175.0
+11:40.0, ,70-89,Defensive rebound by L. Stevens,,4,70,89,-19,2180.0
+11:28.0, ,70-89,Shooting foul by C. Metu (drawn by J. LaRavia),,4,70,89,-19,2192.0
+11:28.0, ,70-90,J. LaRavia makes free throw 1 of 2,,4,70,90,-20,2192.0
+11:28.0, ,70-91,J. LaRavia makes free throw 2 of 2,,4,70,91,-21,2192.0
+11:13.0,C. Metu makes 2-pt jump shot from 11 ft,72-91, ,,4,72,91,-19,2207.0
+10:56.0, ,72-93,M. Pereira makes 2-pt dunk from 1 ft (assist by S. Pippen ),,4,72,93,-21,2224.0
+10:34.0,C. Metu makes 2-pt hook shot from 9 ft (assist by M. Flynn),74-93, ,,4,74,93,-19,2246.0
+10:17.0, ,74-96,M. Pereira makes 3-pt jump shot from 23 ft (assist by S. Pippen ),,4,74,96,-22,2263.0
+10:17.0,M. Sasser enters the game for M. Flynn,74-96, ,,4,74,96,-22,2263.0
+9:53.0,M. Sasser misses 3-pt jump shot from 23 ft,74-96, ,,4,74,96,-22,2287.0
+9:51.0, ,74-96,Defensive rebound by S. Pippen ,,4,74,96,-22,2289.0
+9:40.0, ,74-96,Turnover by S. Pippen  (bad pass; steal by C. Metu),,4,74,96,-22,2300.0
+9:36.0,J. Nowell misses 3-pt jump shot from 23 ft,74-96, ,,4,74,96,-22,2304.0
+9:32.0, ,74-96,Defensive rebound by L. Stevens,,4,74,96,-22,2308.0
+9:30.0, ,74-96,L. Stevens misses 2-pt dunk from 3 ft (block by M. Sasser),,4,74,96,-22,2310.0
+9:30.0, ,74-96,Offensive rebound by Team,,4,74,96,-22,2310.0
+9:21.0, ,74-98,S. Pippen  makes 2-pt jump shot from 3 ft,,4,74,98,-24,2319.0
+9:10.0,J. Rhoden misses 2-pt jump shot from 17 ft (block by Z. Simpson),74-98, ,,4,74,98,-24,2330.0
+9:07.0,Offensive rebound by C. Metu,74-98, ,,4,74,98,-24,2333.0
+9:05.0,J. Nowell misses 2-pt layup from 3 ft (block by M. Pereira),74-98, ,,4,74,98,-24,2335.0
+9:03.0, ,74-98,Defensive rebound by Z. Simpson,,4,74,98,-24,2337.0
+8:56.0, ,74-98,Personal foul by J. Wiseman (drawn by M. Pereira),,4,74,98,-24,2344.0
+8:56.0,J. Ivey enters the game for J. Wiseman,74-98, ,,4,74,98,-24,2344.0
+8:54.0, ,74-98,Personal foul by M. Sasser (drawn by S. Pippen ),,4,74,98,-24,2346.0
+8:44.0, ,74-98,Turnover by J. LaRavia (step out of bounds),,4,74,98,-24,2356.0
+8:33.0,C. Metu misses 3-pt jump shot from 25 ft,74-98, ,,4,74,98,-24,2367.0
+8:31.0, ,74-98,Defensive rebound by Z. Simpson,,4,74,98,-24,2369.0
+8:13.0, ,74-98,Turnover by S. Pippen  (bad pass),,4,74,98,-24,2387.0
+8:13.0, ,74-98,J. Goodwin enters the game for S. Pippen ,,4,74,98,-24,2387.0
+8:00.0,J. Nowell misses 2-pt jump shot from 9 ft,74-98, ,,4,74,98,-24,2400.0
+7:59.0, ,74-98,Defensive rebound by Team,,4,74,98,-24,2401.0
+7:42.0, ,74-98,Turnover by Z. Simpson (lost ball; steal by C. Metu),,4,74,98,-24,2418.0
+7:38.0,J. Nowell makes 2-pt layup from 1 ft (assist by J. Rhoden),76-98, ,,4,76,98,-22,2422.0
+7:18.0, ,76-100,J. LaRavia makes 2-pt jump shot from 10 ft,,4,76,100,-24,2442.0
+7:04.0,J. Ivey misses 3-pt jump shot from 25 ft,76-100, ,,4,76,100,-24,2456.0
+7:03.0, ,76-100,Defensive rebound by L. Stevens,,4,76,100,-24,2457.0
+6:54.0, ,76-100,Z. Simpson misses 3-pt jump shot from 25 ft,,4,76,100,-24,2466.0
+6:50.0,Defensive rebound by J. Rhoden,76-100, ,,4,76,100,-24,2470.0
+6:40.0,C. Metu makes 2-pt layup from 2 ft (assist by J. Rhoden),78-100, ,,4,78,100,-22,2480.0
+6:40.0, ,78-100,Memphis full timeout,,4,78,100,-22,2480.0
+6:40.0, ,78-100,T. Jemison enters the game for M. Pereira,,4,78,100,-22,2480.0
+6:22.0, ,78-100,J. LaRavia misses 3-pt jump shot from 26 ft,,4,78,100,-22,2498.0
+6:21.0, ,78-100,Offensive rebound by Team,,4,78,100,-22,2499.0
+6:21.0,Loose ball foul by C. Metu (drawn by J. Goodwin),78-100, ,,4,78,100,-22,2499.0
+6:12.0, ,78-100,Turnover by Z. Simpson (bad pass),,4,78,100,-22,2508.0
+6:02.0,M. Sasser makes 2-pt jump shot from 15 ft,80-100, ,,4,80,100,-20,2518.0
+5:43.0, ,80-100,Turnover by J. LaRavia (lost ball; steal by J. Rhoden),,4,80,100,-20,2537.0
+5:40.0,Shooting foul by J. Goodwin (drawn by J. Rhoden),80-100, ,,4,80,100,-20,2540.0
+5:40.0,J. Rhoden misses free throw 1 of 2,80-100, ,,4,80,100,-20,2540.0
+5:40.0,Offensive rebound by Team,80-100, ,,4,80,100,-20,2540.0
+5:40.0,J. Rhoden makes free throw 2 of 2,81-100, ,,4,81,100,-19,2540.0
+5:24.0, ,81-100,T. Jemison misses 2-pt layup from 4 ft,,4,81,100,-19,2556.0
+5:24.0, ,81-100,Offensive rebound by Team,,4,81,100,-19,2556.0
+5:22.0, ,81-100,J. Goodwin misses 2-pt layup from 3 ft,,4,81,100,-19,2558.0
+5:21.0, ,81-100,Offensive rebound by J. Goodwin,,4,81,100,-19,2559.0
+5:20.0, ,81-100,J. Goodwin misses 2-pt layup from 2 ft,,4,81,100,-19,2560.0
+5:20.0, ,81-100,Offensive rebound by T. Jemison,,4,81,100,-19,2560.0
+5:15.0, ,81-102,T. Jemison makes 2-pt layup at rim,,4,81,102,-21,2565.0
+5:04.0,C. Metu misses 3-pt jump shot from 26 ft,81-102, ,,4,81,102,-21,2576.0
+5:03.0, ,81-102,Defensive rebound by Team,,4,81,102,-21,2577.0
+5:03.0, ,81-102,M. Pereira enters the game for J. LaRavia,,4,81,102,-21,2577.0
+4:41.0, ,81-102,J. Goodwin misses 2-pt layup from 3 ft,,4,81,102,-21,2599.0
+4:37.0, ,81-102,Offensive rebound by T. Jemison,,4,81,102,-21,2603.0
+4:37.0, ,81-104,T. Jemison makes 2-pt layup at rim,,4,81,104,-23,2603.0
+4:26.0,M. Sasser misses 2-pt jump shot from 21 ft,81-104, ,,4,81,104,-23,2614.0
+4:24.0, ,81-104,Defensive rebound by M. Pereira,,4,81,104,-23,2616.0
+4:17.0, ,81-104,Z. Simpson misses 3-pt jump shot from 25 ft,,4,81,104,-23,2623.0
+4:13.0,Defensive rebound by C. Metu,81-104, ,,4,81,104,-23,2627.0
+4:08.0,J. Ivey misses 2-pt layup from 3 ft,81-104, ,,4,81,104,-23,2632.0
+4:05.0, ,81-104,Defensive rebound by M. Pereira,,4,81,104,-23,2635.0
+4:00.0, ,81-106,L. Stevens makes 2-pt jump shot from 6 ft (assist by J. Goodwin),,4,81,106,-25,2640.0
+3:58.0,Detroit full timeout,81-106, ,,4,81,106,-25,2642.0
+3:58.0,B. Boeheim enters the game for J. Ivey,81-106, ,,4,81,106,-25,2642.0
+3:58.0, ,81-106,S. Pippen  enters the game for J. Goodwin,,4,81,106,-25,2642.0
+3:44.0,Shooting foul by Z. Simpson (drawn by J. Nowell),81-106, ,,4,81,106,-25,2656.0
+3:44.0,J. Nowell makes free throw 1 of 2,82-106, ,,4,82,106,-24,2656.0
+3:44.0,J. Nowell makes free throw 2 of 2,83-106, ,,4,83,106,-23,2656.0
+3:28.0, ,83-106,S. Pippen  misses 3-pt jump shot from 26 ft,,4,83,106,-23,2672.0
+3:25.0,Defensive rebound by C. Metu,83-106, ,,4,83,106,-23,2675.0
+3:19.0,J. Nowell makes 2-pt jump shot from 9 ft,85-106, ,,4,85,106,-21,2681.0
+2:57.0, ,85-106,Turnover by T. Jemison (out of bounds lost ball),,4,85,106,-21,2703.0
+2:43.0,J. Rhoden makes 3-pt jump shot from 25 ft (assist by J. Nowell),88-106, ,,4,88,106,-18,2717.0
+2:22.0, ,88-106,M. Pereira misses 3-pt jump shot from 23 ft,,4,88,106,-18,2738.0
+2:19.0,Defensive rebound by M. Sasser,88-106, ,,4,88,106,-18,2741.0
+2:12.0,Turnover by M. Sasser (bad pass),88-106, ,,4,88,106,-18,2748.0
+1:51.0, ,88-106,S. Pippen  misses 3-pt jump shot from 25 ft,,4,88,106,-18,2769.0
+1:47.0, ,88-106,Offensive rebound by T. Jemison,,4,88,106,-18,2773.0
+1:44.0, ,88-106,L. Stevens misses 3-pt jump shot from 26 ft,,4,88,106,-18,2776.0
+1:41.0,Defensive rebound by C. Metu,88-106, ,,4,88,106,-18,2779.0
+1:30.0,B. Boeheim misses 2-pt jump shot from 20 ft,88-106, ,,4,88,106,-18,2790.0
+1:25.0,Offensive rebound by J. Nowell,88-106, ,,4,88,106,-18,2795.0
+1:25.0,J. Nowell misses 2-pt jump shot from 4 ft,88-106, ,,4,88,106,-18,2795.0
+1:21.0, ,88-106,Defensive rebound by L. Stevens,,4,88,106,-18,2799.0
+1:09.0, ,88-106,Z. Simpson misses 2-pt layup from 3 ft,,4,88,106,-18,2811.0
+1:07.0, ,88-106,Offensive rebound by S. Pippen ,,4,88,106,-18,2813.0
+1:04.0, ,88-106,Turnover by S. Pippen  (lost ball; steal by C. Metu),,4,88,106,-18,2816.0
+1:03.0,J. Nowell makes 2-pt dunk from 1 ft (assist by C. Metu),90-106, ,,4,90,106,-16,2817.0
+0:43.0, ,90-108,S. Pippen  makes 2-pt jump shot from 6 ft,,4,90,108,-18,2837.0
+0:32.0,J. Rhoden misses 2-pt jump shot from 11 ft,90-108, ,,4,90,108,-18,2848.0
+0:30.0,Offensive rebound by C. Metu,90-108, ,,4,90,108,-18,2850.0
+0:28.0,B. Boeheim misses 3-pt jump shot from 24 ft,90-108, ,,4,90,108,-18,2852.0
+0:26.0, ,90-108,Defensive rebound by M. Pereira,,4,90,108,-18,2854.0
+0:04.0, ,90-108,Turnover by Team (shot clock),,4,90,108,-18,2876.0
+0:00.0,End of 4th quarter,90-108,,,4,90,108,-18,2880.0

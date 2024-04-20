@@ -1,0 +1,453 @@
+Time,Indiana,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: M. Turner vs. I. Stewart (T. Haliburton gains possession),0-0,,,1,0,0,0,0.0
+11:41.0,B. Brown misses 3-pt jump shot from 24 ft,0-0, ,,1,0,0,0,19.0
+11:36.0, ,0-0,Defensive rebound by I. Stewart,,1,0,0,0,24.0
+11:26.0, ,0-2,A. Thompson makes 2-pt layup from 3 ft (assist by C. Cunningham),,1,2,0,2,34.0
+11:26.0, ,0-2,Shooting foul by O. Toppin (drawn by A. Thompson),,1,2,0,2,34.0
+11:26.0, ,0-2,A. Thompson misses free throw 1 of 1,,1,2,0,2,34.0
+11:23.0,Defensive rebound by O. Toppin,0-2, ,,1,2,0,2,37.0
+11:18.0,Turnover by B. Brown (bad pass),0-2, ,,1,2,0,2,42.0
+11:07.0, ,0-4,C. Cunningham makes 2-pt layup from 4 ft,,1,4,0,4,53.0
+10:57.0,M. Turner makes 2-pt layup from 7 ft (assist by T. Haliburton),2-4, ,,1,4,2,2,63.0
+10:57.0,Shooting foul by C. Cunningham (drawn by M. Turner),2-4, ,,1,4,2,2,63.0
+10:57.0,M. Turner misses free throw 1 of 1,2-4, ,,1,4,2,2,63.0
+10:54.0, ,2-4,Defensive rebound by I. Stewart,,1,4,2,2,66.0
+10:39.0, ,2-6,C. Cunningham makes 2-pt layup from 3 ft,,1,6,2,4,81.0
+10:23.0,B. Hield makes 2-pt layup from 7 ft (assist by T. Haliburton),4-6, ,,1,6,4,2,97.0
+10:05.0, ,4-6,C. Cunningham misses 3-pt jump shot from 29 ft,,1,6,4,2,115.0
+10:05.0,Defensive rebound by T. Haliburton,4-6, ,,1,6,4,2,115.0
+9:56.0,B. Hield makes 3-pt jump shot from 25 ft (assist by T. Haliburton),7-6, ,Lead change,1,6,7,-1,124.0
+9:44.0, ,7-6,K. Hayes misses 2-pt jump shot from 12 ft (block by T. Haliburton),,1,6,7,-1,136.0
+9:41.0,Defensive rebound by B. Brown,7-6, ,,1,6,7,-1,139.0
+9:33.0,M. Turner makes 2-pt dunk from 4 ft (assist by T. Haliburton),9-6, ,,1,6,9,-3,147.0
+9:08.0, ,9-6,Turnover by C. Cunningham (bad pass; steal by B. Brown),,1,6,9,-3,172.0
+8:59.0,M. Turner makes 2-pt dunk from 4 ft (assist by T. Haliburton),11-6, ,,1,6,11,-5,181.0
+8:59.0, ,11-6,Detroit full timeout,,1,6,11,-5,181.0
+8:40.0, ,11-6,B. Bogdanović misses 2-pt layup from 4 ft (block by M. Turner),,1,6,11,-5,200.0
+8:36.0,Defensive rebound by M. Turner,11-6, ,,1,6,11,-5,204.0
+8:34.0,B. Hield misses 3-pt jump shot from 24 ft,11-6, ,,1,6,11,-5,206.0
+8:28.0,Offensive rebound by M. Turner,11-6, ,,1,6,11,-5,212.0
+8:28.0,Turnover by M. Turner (lost ball; steal by K. Hayes),11-6, ,,1,6,11,-5,212.0
+8:23.0, ,11-6,C. Cunningham misses 3-pt jump shot from 23 ft,,1,6,11,-5,217.0
+8:19.0,Defensive rebound by M. Turner,11-6, ,,1,6,11,-5,221.0
+8:15.0,Turnover by T. Haliburton (bad pass; steal by A. Thompson),11-6, ,,1,6,11,-5,225.0
+8:10.0, ,11-8,C. Cunningham makes 2-pt layup from 2 ft (assist by K. Hayes),,1,8,11,-3,230.0
+7:57.0,M. Turner makes 2-pt jump shot from 20 ft (assist by T. Haliburton),13-8, ,,1,8,13,-5,243.0
+7:35.0, ,13-11,A. Thompson makes 3-pt jump shot from 24 ft (assist by K. Hayes),,1,11,13,-2,265.0
+7:15.0,O. Toppin makes 2-pt jump shot from 8 ft (assist by T. Haliburton),15-11, ,,1,11,15,-4,285.0
+6:57.0, ,15-13,B. Bogdanović makes 2-pt jump shot from 17 ft,,1,13,15,-2,303.0
+6:51.0,T. Haliburton makes 3-pt jump shot from 31 ft,18-13, ,,1,13,18,-5,309.0
+6:36.0, ,18-15,C. Cunningham makes 2-pt hook shot from 6 ft,,1,15,18,-3,324.0
+6:26.0,T. Haliburton misses 3-pt jump shot from 28 ft,18-15, ,,1,15,18,-3,334.0
+6:23.0, ,18-15,Defensive rebound by B. Bogdanović,,1,15,18,-3,337.0
+6:20.0, ,18-15,B. Bogdanović misses 3-pt jump shot from 25 ft,,1,15,18,-3,340.0
+6:20.0,Defensive rebound by Team,18-15, ,,1,15,18,-3,340.0
+6:18.0, ,18-15,Loose ball foul by I. Stewart (drawn by T. Haliburton),,1,15,18,-3,342.0
+6:18.0,B. Mathurin enters the game for B. Hield,18-15, ,,1,15,18,-3,342.0
+6:18.0,A. Nesmith enters the game for O. Toppin,18-15, ,,1,15,18,-3,342.0
+6:18.0, ,18-15,J. Ivey enters the game for B. Bogdanović,,1,15,18,-3,342.0
+6:18.0, ,18-15,I. Livers enters the game for K. Hayes,,1,15,18,-3,342.0
+5:54.0,Turnover by T. Haliburton (bad pass; steal by I. Livers),18-15, ,,1,15,18,-3,366.0
+5:48.0, ,18-18,C. Cunningham makes 3-pt jump shot from 25 ft (assist by I. Livers),Tie,1,18,18,0,372.0
+5:47.0,Indiana full timeout,18-18, ,,1,18,18,0,373.0
+5:34.0,B. Brown makes 2-pt layup from 4 ft,20-18, ,,1,18,20,-2,386.0
+5:34.0,I. Jackson enters the game for M. Turner,20-18, ,,1,18,20,-2,386.0
+5:12.0, ,20-18,Shooting foul by I. Jackson (drawn by A. Thompson),,1,18,20,-2,408.0
+5:12.0, ,20-19,A. Thompson makes free throw 1 of 2,,1,19,20,-1,408.0
+5:12.0, ,20-20,A. Thompson makes free throw 2 of 2,Tie,1,20,20,0,408.0
+4:55.0,I. Jackson makes 2-pt hook shot from 5 ft (assist by B. Mathurin),22-20, ,,1,20,22,-2,425.0
+4:35.0, ,22-20,C. Cunningham misses 3-pt jump shot from 25 ft,,1,20,22,-2,445.0
+4:32.0,Defensive rebound by T. Haliburton,22-20, ,,1,20,22,-2,448.0
+4:26.0,I. Jackson makes 2-pt layup from 4 ft (assist by B. Mathurin),24-20, ,,1,20,24,-4,454.0
+4:13.0, ,24-22,J. Ivey makes 2-pt layup from 2 ft (assist by C. Cunningham),,1,22,24,-2,467.0
+3:54.0,B. Mathurin makes 3-pt jump shot from 25 ft (assist by T. Haliburton),27-22, ,,1,22,27,-5,486.0
+3:40.0, ,27-24,J. Ivey makes 2-pt layup from 2 ft,,1,24,27,-3,500.0
+3:39.0, ,27-24,Violation by Team (delay of game),,1,24,27,-3,501.0
+3:27.0,Turnover by T. Haliburton (bad pass; steal by I. Livers),27-24, ,,1,24,27,-3,513.0
+3:23.0, ,27-26,C. Cunningham makes 2-pt layup from 3 ft (assist by I. Livers),,1,26,27,-1,517.0
+3:23.0,Indiana full timeout,27-26, ,,1,26,27,-1,517.0
+3:23.0,B. Hield enters the game for B. Brown,27-26, ,,1,26,27,-1,517.0
+3:23.0,T. McConnell enters the game for T. Haliburton,27-26, ,,1,26,27,-1,517.0
+3:23.0, ,27-26,B. Bogdanović enters the game for C. Cunningham,,1,26,27,-1,517.0
+3:23.0, ,27-26,K. Hayes enters the game for I. Stewart,,1,26,27,-1,517.0
+3:23.0, ,27-26,J. Wiseman enters the game for A. Thompson,,1,26,27,-1,517.0
+3:08.0,T. McConnell makes 2-pt jump shot from 10 ft,29-26, ,,1,26,29,-3,532.0
+2:48.0, ,29-29,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by J. Ivey),Tie,1,29,29,0,552.0
+2:26.0,B. Mathurin misses 3-pt jump shot from 23 ft,29-29, ,,1,29,29,0,574.0
+2:22.0, ,29-29,Defensive rebound by I. Livers,,1,29,29,0,578.0
+2:17.0, ,29-29,I. Livers misses 3-pt jump shot from 26 ft,,1,29,29,0,583.0
+2:15.0, ,29-29,Offensive rebound by J. Wiseman,,1,29,29,0,585.0
+2:15.0, ,29-29,Shooting foul by B. Mathurin (drawn by J. Wiseman),,1,29,29,0,585.0
+2:15.0, ,29-30,J. Wiseman makes free throw 1 of 2,Lead change,1,30,29,1,585.0
+2:15.0, ,29-30,A. Burks enters the game for I. Livers,,1,30,29,1,585.0
+2:15.0, ,29-31,J. Wiseman makes free throw 2 of 2,,1,31,29,2,585.0
+1:59.0,T. McConnell misses 3-pt jump shot from 25 ft,29-31, ,,1,31,29,2,601.0
+1:56.0,Offensive rebound by I. Jackson,29-31, ,,1,31,29,2,604.0
+1:55.0,I. Jackson makes 2-pt layup from 4 ft,31-31, ,Tie,1,31,31,0,605.0
+1:42.0, ,31-34,A. Burks makes 3-pt jump shot from 23 ft (assist by K. Hayes),,1,34,31,3,618.0
+1:28.0,Offensive foul by A. Nesmith (drawn by A. Burks),31-34, ,,1,34,31,3,632.0
+1:28.0,Turnover by A. Nesmith (offensive foul),31-34, ,,1,34,31,3,632.0
+1:28.0,O. Toppin enters the game for A. Nesmith,31-34, ,,1,34,31,3,632.0
+1:16.0, ,31-34,J. Ivey misses 2-pt layup from 5 ft,,1,34,31,3,644.0
+1:14.0,Defensive rebound by B. Mathurin,31-34, ,,1,34,31,3,646.0
+1:09.0,T. McConnell makes 2-pt jump shot from 10 ft (assist by B. Mathurin),33-34, ,,1,34,33,1,651.0
+0:58.0, ,33-34,B. Bogdanović misses 2-pt jump shot from 15 ft,,1,34,33,1,662.0
+0:55.0,Defensive rebound by T. McConnell,33-34, ,,1,34,33,1,665.0
+0:54.0,Turnover by O. Toppin (out of bounds lost ball),33-34, ,,1,34,33,1,666.0
+0:45.0, ,33-34,Turnover by K. Hayes (bad pass; steal by B. Mathurin),,1,34,33,1,675.0
+0:41.0,B. Mathurin misses 2-pt layup from 4 ft (block by J. Wiseman),33-34, ,,1,34,33,1,679.0
+0:39.0, ,33-34,Defensive rebound by J. Ivey,,1,34,33,1,681.0
+0:35.0, ,33-36,J. Ivey makes 2-pt layup from 3 ft,,1,36,33,3,685.0
+0:22.0,Offensive foul by T. McConnell (drawn by K. Hayes),33-36, ,,1,36,33,3,698.0
+0:22.0,Turnover by T. McConnell (offensive foul),33-36, ,,1,36,33,3,698.0
+0:22.0,B. Brown enters the game for B. Hield,33-36, ,,1,36,33,3,698.0
+0:22.0, ,33-36,C. Cunningham enters the game for J. Wiseman,,1,36,33,3,698.0
+0:01.0, ,33-36,J. Ivey misses 2-pt layup from 1 ft,,1,36,33,3,719.0
+0:01.0,Defensive rebound by I. Jackson,33-36, ,,1,36,33,3,719.0
+0:00.0,End of 1st quarter,33-36,,,1,36,33,3,720.0
+12:00.0,Start of 2nd quarter,33-36,,,2,36,33,3,720.0
+11:50.0, ,33-36,Personal foul by B. Hield (drawn by B. Bogdanović),,2,36,33,3,730.0
+11:44.0, ,33-36,A. Burks misses 3-pt jump shot from 25 ft,,2,36,33,3,736.0
+11:40.0, ,33-36,Offensive rebound by J. Ivey,,2,36,33,3,740.0
+11:39.0, ,33-36,B. Bogdanović misses 3-pt jump shot from 23 ft,,2,36,33,3,741.0
+11:36.0,Defensive rebound by T. McConnell,33-36, ,,2,36,33,3,744.0
+11:32.0,A. Nesmith makes 3-pt jump shot from 24 ft (assist by T. McConnell),36-36, ,Tie,2,36,36,0,748.0
+11:21.0, ,36-36,Offensive foul by J. Wiseman (drawn by T. McConnell),,2,36,36,0,759.0
+11:21.0, ,36-36,Turnover by J. Wiseman (offensive foul),,2,36,36,0,759.0
+11:05.0,T. McConnell makes 2-pt layup from 6 ft (assist by B. Mathurin),38-36, ,Lead change,2,36,38,-2,775.0
+10:50.0, ,38-36,Turnover by A. Burks (bad pass; steal by T. McConnell),,2,36,38,-2,790.0
+10:45.0,B. Mathurin makes 2-pt jump shot from 5 ft,40-36, ,,2,36,40,-4,795.0
+10:32.0, ,40-36,Shooting foul by A. Nesmith (drawn by K. Hayes),,2,36,40,-4,808.0
+10:32.0, ,40-37,K. Hayes makes free throw 1 of 2,,2,37,40,-3,808.0
+10:32.0, ,40-37,C. Cunningham enters the game for J. Ivey,,2,37,40,-3,808.0
+10:32.0, ,40-38,K. Hayes makes free throw 2 of 2,,2,38,40,-2,808.0
+10:18.0,A. Nesmith misses 3-pt jump shot from 23 ft,40-38, ,,2,38,40,-2,822.0
+10:15.0, ,40-38,Defensive rebound by J. Wiseman,,2,38,40,-2,825.0
+10:13.0, ,40-38,Turnover by K. Hayes (out of bounds lost ball),,2,38,40,-2,827.0
+10:13.0,B. Brown enters the game for A. Nesmith,40-38, ,,2,38,40,-2,827.0
+9:54.0,B. Mathurin makes 2-pt jump shot from 10 ft (assist by T. McConnell),42-38, ,,2,38,42,-4,846.0
+9:41.0, ,42-38,Shooting foul by T. McConnell (drawn by A. Burks),,2,38,42,-4,859.0
+9:41.0, ,42-39,A. Burks makes free throw 1 of 2,,2,39,42,-3,859.0
+9:41.0, ,42-39,K. Knox enters the game for J. Wiseman,,2,39,42,-3,859.0
+9:41.0, ,42-40,A. Burks makes free throw 2 of 2,,2,40,42,-2,859.0
+9:28.0,B. Hield makes 3-pt jump shot from 26 ft (assist by T. McConnell),45-40, ,,2,40,45,-5,872.0
+9:17.0, ,45-42,A. Burks makes 2-pt layup from 2 ft (assist by B. Bogdanović),,2,42,45,-3,883.0
+9:17.0, ,45-42,I. Livers enters the game for A. Burks,,2,42,45,-3,883.0
+8:55.0,Turnover by T. McConnell (bad pass),45-42, ,,2,42,45,-3,905.0
+8:43.0, ,45-42,Turnover by C. Cunningham (bad pass; steal by B. Mathurin),,2,42,45,-3,917.0
+8:40.0,B. Mathurin makes 2-pt layup from 3 ft,47-42, ,,2,42,47,-5,920.0
+8:30.0, ,47-42,Shooting foul by B. Mathurin (drawn by B. Bogdanović),,2,42,47,-5,930.0
+8:30.0, ,47-42,B. Bogdanović misses free throw 1 of 2,,2,42,47,-5,930.0
+8:30.0, ,47-42,Offensive rebound by Team,,2,42,47,-5,930.0
+8:30.0,M. Turner enters the game for I. Jackson,47-42, ,,2,42,47,-5,930.0
+8:30.0, ,47-42,I. Stewart enters the game for K. Hayes,,2,42,47,-5,930.0
+8:30.0, ,47-42,A. Thompson enters the game for K. Knox,,2,42,47,-5,930.0
+8:30.0, ,47-43,B. Bogdanović makes free throw 2 of 2,,2,43,47,-4,930.0
+8:20.0,B. Hield makes 3-pt jump shot from 27 ft (assist by T. McConnell),50-43, ,,2,43,50,-7,940.0
+8:19.0, ,50-43,Detroit full timeout,,2,43,50,-7,941.0
+7:58.0, ,50-43,Turnover by A. Thompson (lost ball; steal by M. Turner),,2,43,50,-7,962.0
+7:53.0,T. McConnell misses 2-pt layup from 3 ft,50-43, ,,2,43,50,-7,967.0
+7:49.0, ,50-43,Defensive rebound by I. Livers,,2,43,50,-7,971.0
+7:37.0, ,50-43,C. Cunningham misses 2-pt jump shot from 15 ft,,2,43,50,-7,983.0
+7:33.0,Defensive rebound by B. Brown,50-43, ,,2,43,50,-7,987.0
+7:20.0,Turnover by B. Mathurin (bad pass; steal by B. Bogdanović),50-43, ,,2,43,50,-7,1000.0
+7:14.0, ,50-46,I. Livers makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),,2,46,50,-4,1006.0
+6:51.0,B. Brown misses 2-pt jump shot from 7 ft,50-46, ,,2,46,50,-4,1029.0
+6:48.0, ,50-46,Defensive rebound by C. Cunningham,,2,46,50,-4,1032.0
+6:42.0, ,50-46,Turnover by I. Stewart (out of bounds lost ball),,2,46,50,-4,1038.0
+6:42.0,T. Haliburton enters the game for T. McConnell,50-46, ,,2,46,50,-4,1038.0
+6:42.0,I. Jackson enters the game for M. Turner,50-46, ,,2,46,50,-4,1038.0
+6:42.0, ,50-46,J. Ivey enters the game for B. Bogdanović,,2,46,50,-4,1038.0
+6:25.0,T. Haliburton misses 2-pt hook shot from 7 ft,50-46, ,,2,46,50,-4,1055.0
+6:22.0, ,50-46,Defensive rebound by C. Cunningham,,2,46,50,-4,1058.0
+6:16.0, ,50-46,I. Livers misses 3-pt jump shot from 24 ft,,2,46,50,-4,1064.0
+6:13.0,Defensive rebound by B. Hield,50-46, ,,2,46,50,-4,1067.0
+6:05.0,B. Hield misses 3-pt jump shot from 25 ft,50-46, ,,2,46,50,-4,1075.0
+6:03.0, ,50-46,Defensive rebound by I. Stewart,,2,46,50,-4,1077.0
+6:00.0, ,50-49,I. Livers makes 3-pt jump shot from 25 ft (assist by I. Stewart),,2,49,50,-1,1080.0
+5:59.0,Indiana full timeout,50-49, ,,2,49,50,-1,1081.0
+5:59.0,A. Nesmith enters the game for B. Hield,50-49, ,,2,49,50,-1,1081.0
+5:59.0,M. Turner enters the game for I. Jackson,50-49, ,,2,49,50,-1,1081.0
+5:38.0,M. Turner misses 3-pt jump shot from 27 ft,50-49, ,,2,49,50,-1,1102.0
+5:34.0, ,50-49,Defensive rebound by A. Thompson,,2,49,50,-1,1106.0
+5:21.0, ,50-49,Shooting foul by M. Turner (drawn by A. Thompson),,2,49,50,-1,1119.0
+5:21.0, ,50-49,A. Thompson misses free throw 1 of 2,,2,49,50,-1,1119.0
+5:21.0, ,50-49,Offensive rebound by Team,,2,49,50,-1,1119.0
+5:21.0, ,50-50,A. Thompson makes free throw 2 of 2,Tie,2,50,50,0,1119.0
+5:11.0,Personal foul by I. Stewart (drawn by M. Turner),50-50, ,,2,50,50,0,1129.0
+4:59.0,T. Haliburton makes 3-pt jump shot from 26 ft,53-50, ,,2,50,53,-3,1141.0
+4:43.0, ,53-50,J. Ivey misses 3-pt jump shot from 27 ft,,2,50,53,-3,1157.0
+4:39.0, ,53-50,Offensive rebound by A. Thompson,,2,50,53,-3,1161.0
+4:38.0, ,53-52,A. Thompson makes 2-pt dunk from 2 ft,,2,52,53,-1,1162.0
+4:22.0,B. Mathurin misses 2-pt jump shot from 21 ft,53-52, ,,2,52,53,-1,1178.0
+4:17.0,Offensive rebound by M. Turner,53-52, ,,2,52,53,-1,1183.0
+4:17.0,M. Turner misses 2-pt layup at rim,53-52, ,,2,52,53,-1,1183.0
+4:17.0, ,53-52,Defensive rebound by C. Cunningham,,2,52,53,-1,1183.0
+4:10.0, ,53-54,C. Cunningham makes 2-pt layup from 2 ft,Lead change,2,54,53,1,1190.0
+4:02.0,A. Nesmith misses 2-pt jump shot from 4 ft,53-54, ,,2,54,53,1,1198.0
+3:58.0,Offensive rebound by B. Brown,53-54, ,,2,54,53,1,1202.0
+3:56.0,Shooting foul by J. Ivey (drawn by B. Brown),53-54, ,,2,54,53,1,1204.0
+3:56.0,B. Brown makes free throw 1 of 2,54-54, ,Tie,2,54,54,0,1204.0
+3:56.0, ,54-54,B. Bogdanović enters the game for I. Livers,,2,54,54,0,1204.0
+3:56.0,B. Brown makes free throw 2 of 2,55-54, ,Lead change,2,54,55,-1,1204.0
+3:41.0, ,55-54,A. Thompson misses 2-pt layup from 4 ft,,2,54,55,-1,1219.0
+3:40.0, ,55-54,Offensive rebound by I. Stewart,,2,54,55,-1,1220.0
+3:40.0, ,55-56,I. Stewart makes 2-pt layup at rim,Lead change,2,56,55,1,1220.0
+3:24.0,B. Mathurin makes 2-pt layup from 2 ft (assist by M. Turner),57-56, ,Lead change,2,56,57,-1,1236.0
+3:11.0, ,57-59,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by C. Cunningham),Lead change,2,59,57,2,1249.0
+2:51.0,B. Brown misses 2-pt layup from 6 ft,57-59, ,,2,59,57,2,1269.0
+2:51.0, ,57-59,Defensive rebound by Team,,2,59,57,2,1269.0
+2:33.0, ,57-59,C. Cunningham misses 2-pt jump shot from 14 ft,,2,59,57,2,1287.0
+2:30.0, ,57-59,Offensive rebound by A. Thompson,,2,59,57,2,1290.0
+2:27.0, ,57-61,A. Thompson makes 2-pt dunk from 4 ft,,2,61,57,4,1293.0
+2:17.0,B. Mathurin misses 3-pt jump shot from 30 ft,57-61, ,,2,61,57,4,1303.0
+2:12.0,Offensive rebound by B. Brown,57-61, ,,2,61,57,4,1308.0
+2:06.0,B. Brown misses 3-pt jump shot from 26 ft,57-61, ,,2,61,57,4,1314.0
+2:01.0, ,57-61,Defensive rebound by A. Thompson,,2,61,57,4,1319.0
+1:47.0, ,57-61,Turnover by B. Bogdanović (lost ball; steal by B. Brown),,2,61,57,4,1333.0
+1:42.0,B. Brown makes 2-pt layup from 4 ft,59-61, ,,2,61,59,2,1338.0
+1:29.0, ,59-61,C. Cunningham misses 2-pt layup from 1 ft (block by M. Turner),,2,61,59,2,1351.0
+1:25.0,Defensive rebound by M. Turner,59-61, ,,2,61,59,2,1355.0
+1:23.0,B. Mathurin makes 2-pt layup from 3 ft,61-61, ,Tie,2,61,61,0,1357.0
+0:59.0, ,61-61,C. Cunningham misses 3-pt jump shot from 26 ft,,2,61,61,0,1381.0
+0:56.0,Defensive rebound by B. Mathurin,61-61, ,,2,61,61,0,1384.0
+0:47.0,B. Mathurin makes 3-pt jump shot from 27 ft,64-61, ,Lead change,2,61,64,-3,1393.0
+0:32.0, ,64-61,Turnover by B. Bogdanović (bad pass; steal by T. Haliburton),,2,61,64,-3,1408.0
+0:27.0,T. Haliburton misses 2-pt layup from 5 ft,64-61, ,,2,61,64,-3,1413.0
+0:26.0,Offensive rebound by B. Brown,64-61, ,,2,61,64,-3,1414.0
+0:26.0,B. Brown makes 2-pt layup at rim,66-61, ,,2,61,66,-5,1414.0
+0:02.0, ,66-61,Turnover by Team (shot clock),,2,61,66,-5,1438.0
+0:00.0,T. Haliburton misses 3-pt jump shot from 40 ft,66-61, ,,2,61,66,-5,1440.0
+0:00.0,Offensive rebound by Team,66-61, ,,2,61,66,-5,1440.0
+0:00.0,End of 2nd quarter,66-61,,,2,61,66,-5,1440.0
+12:00.0,Start of 3rd quarter,66-61,,,3,61,66,-5,1440.0
+11:44.0, ,66-61,A. Thompson misses 3-pt jump shot from 23 ft (block by T. Haliburton),,3,61,66,-5,1456.0
+11:40.0,Defensive rebound by B. Hield,66-61, ,,3,61,66,-5,1460.0
+11:21.0,M. Turner makes 2-pt layup from 3 ft (assist by B. Hield),68-61, ,,3,61,68,-7,1479.0
+11:12.0,Violation by Team (kicked ball),68-61, ,,3,61,68,-7,1488.0
+11:04.0, ,68-63,C. Cunningham makes 2-pt jump shot from 14 ft,,3,63,68,-5,1496.0
+10:43.0,O. Toppin misses 3-pt jump shot from 24 ft,68-63, ,,3,63,68,-5,1517.0
+10:40.0,Offensive rebound by M. Turner,68-63, ,,3,63,68,-5,1520.0
+10:37.0,M. Turner makes 2-pt hook shot from 4 ft,70-63, ,,3,63,70,-7,1523.0
+10:25.0, ,70-65,C. Cunningham makes 2-pt jump shot from 16 ft (assist by K. Hayes),,3,65,70,-5,1535.0
+10:08.0,T. Haliburton misses 3-pt jump shot from 27 ft,70-65, ,,3,65,70,-5,1552.0
+10:02.0,Offensive rebound by Team,70-65, ,,3,65,70,-5,1558.0
+10:02.0,Jump ball: B. Brown vs. K. Hayes (M. Turner gains possession),70-65,,,3,65,70,-5,1558.0
+9:58.0,B. Brown makes 2-pt dunk from 2 ft (assist by T. Haliburton),72-65, ,,3,65,72,-7,1562.0
+9:41.0, ,72-65,K. Hayes misses 2-pt layup from 4 ft,,3,65,72,-7,1579.0
+9:37.0,Defensive rebound by T. Haliburton,72-65, ,,3,65,72,-7,1583.0
+9:35.0,B. Hield makes 3-pt jump shot from 23 ft (assist by T. Haliburton),75-65, ,,3,65,75,-10,1585.0
+9:34.0, ,75-65,Detroit full timeout,,3,65,75,-10,1586.0
+9:20.0, ,75-65,B. Bogdanović misses 3-pt jump shot from 23 ft,,3,65,75,-10,1600.0
+9:17.0,Defensive rebound by O. Toppin,75-65, ,,3,65,75,-10,1603.0
+9:04.0,O. Toppin misses 3-pt jump shot from 25 ft,75-65, ,,3,65,75,-10,1616.0
+9:00.0, ,75-65,Defensive rebound by A. Thompson,,3,65,75,-10,1620.0
+8:54.0, ,75-68,I. Stewart makes 3-pt jump shot from 27 ft (assist by A. Thompson),,3,68,75,-7,1626.0
+8:40.0,Turnover by O. Toppin (step out of bounds),75-68, ,,3,68,75,-7,1640.0
+8:25.0, ,75-71,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by K. Hayes),,3,71,75,-4,1655.0
+8:14.0,Personal foul by B. Bogdanović (drawn by T. Haliburton),75-71, ,,3,71,75,-4,1666.0
+8:05.0,B. Brown misses 3-pt jump shot from 22 ft,75-71, ,,3,71,75,-4,1675.0
+8:05.0,Offensive rebound by Team,75-71, ,,3,71,75,-4,1675.0
+8:03.0,O. Toppin makes 2-pt layup from 4 ft (assist by T. Haliburton),77-71, ,,3,71,77,-6,1677.0
+7:54.0, ,77-73,A. Thompson makes 2-pt dunk from 2 ft (assist by C. Cunningham),,3,73,77,-4,1686.0
+7:41.0,O. Toppin makes 2-pt dunk from 2 ft (assist by T. Haliburton),79-73, ,,3,73,79,-6,1699.0
+7:34.0, ,79-73,B. Bogdanović misses 3-pt jump shot from 26 ft,,3,73,79,-6,1706.0
+7:34.0,Defensive rebound by O. Toppin,79-73, ,,3,73,79,-6,1706.0
+7:23.0,Turnover by T. Haliburton (bad pass; steal by B. Bogdanović),79-73, ,,3,73,79,-6,1717.0
+7:18.0, ,79-75,I. Stewart makes 2-pt layup from 4 ft (assist by K. Hayes),,3,75,79,-4,1722.0
+7:10.0,Turnover by T. Haliburton (discontinued dribble),79-75, ,,3,75,79,-4,1730.0
+7:10.0, ,79-75,J. Ivey enters the game for K. Hayes,,3,75,79,-4,1730.0
+7:01.0, ,79-77,C. Cunningham makes 2-pt dunk from 4 ft,,3,77,79,-2,1739.0
+7:01.0,Indiana full timeout,79-77, ,,3,77,79,-2,1739.0
+7:01.0,B. Mathurin enters the game for B. Hield,79-77, ,,3,77,79,-2,1739.0
+7:01.0,A. Nesmith enters the game for O. Toppin,79-77, ,,3,77,79,-2,1739.0
+6:40.0,M. Turner misses 3-pt jump shot from 24 ft,79-77, ,,3,77,79,-2,1760.0
+6:36.0, ,79-77,Defensive rebound by A. Thompson,,3,77,79,-2,1764.0
+6:24.0, ,79-77,Offensive foul by I. Stewart (drawn by B. Mathurin),,3,77,79,-2,1776.0
+6:24.0, ,79-77,Turnover by I. Stewart (offensive foul),,3,77,79,-2,1776.0
+6:17.0,B. Mathurin makes 3-pt jump shot from 25 ft (assist by T. Haliburton),82-77, ,,3,77,82,-5,1783.0
+5:52.0, ,82-77,C. Cunningham misses 2-pt jump shot from 19 ft,,3,77,82,-5,1808.0
+5:48.0,Defensive rebound by B. Brown,82-77, ,,3,77,82,-5,1812.0
+5:45.0,Personal foul by C. Cunningham (drawn by B. Brown),82-77, ,,3,77,82,-5,1815.0
+5:45.0, ,82-77,I. Livers enters the game for B. Bogdanović,,3,77,82,-5,1815.0
+5:28.0,T. Haliburton misses 2-pt layup from 5 ft,82-77, ,,3,77,82,-5,1832.0
+5:24.0, ,82-77,Defensive rebound by I. Stewart,,3,77,82,-5,1836.0
+5:24.0, ,82-77,Personal foul by B. Brown (drawn by C. Cunningham),,3,77,82,-5,1836.0
+5:14.0, ,82-77,J. Ivey misses 3-pt jump shot from 26 ft,,3,77,82,-5,1846.0
+5:10.0,Defensive rebound by T. Haliburton,82-77, ,,3,77,82,-5,1850.0
+5:08.0,B. Mathurin makes 2-pt layup from 2 ft (assist by T. Haliburton),84-77, ,,3,77,84,-7,1852.0
+5:08.0, ,84-77,Violation by Team (def goaltending),,3,77,84,-7,1852.0
+4:58.0, ,84-77,I. Livers misses 3-pt jump shot from 27 ft,,3,77,84,-7,1862.0
+4:56.0,Defensive rebound by B. Brown,84-77, ,,3,77,84,-7,1864.0
+4:46.0,M. Turner makes 2-pt hook shot from 5 ft (assist by B. Mathurin),86-77, ,,3,77,86,-9,1874.0
+4:27.0, ,86-77,Shooting foul by B. Brown (drawn by I. Stewart),,3,77,86,-9,1893.0
+4:27.0, ,86-78,I. Stewart makes free throw 1 of 2,,3,78,86,-8,1893.0
+4:27.0,I. Jackson enters the game for M. Turner,86-78, ,,3,78,86,-8,1893.0
+4:27.0, ,86-78,A. Burks enters the game for A. Thompson,,3,78,86,-8,1893.0
+4:27.0, ,86-78,I. Stewart misses free throw 2 of 2,,3,78,86,-8,1893.0
+4:23.0,Defensive rebound by B. Mathurin,86-78, ,,3,78,86,-8,1897.0
+4:16.0,I. Jackson makes 2-pt layup from 2 ft (assist by B. Mathurin),88-78, ,,3,78,88,-10,1904.0
+4:16.0, ,88-78,Detroit full timeout,,3,78,88,-10,1904.0
+4:16.0, ,88-78,J. Wiseman enters the game for I. Stewart,,3,78,88,-10,1904.0
+4:00.0, ,88-80,J. Ivey makes 2-pt layup from 4 ft,,3,80,88,-8,1920.0
+3:45.0,Turnover by T. Haliburton (bad pass; steal by J. Wiseman),88-80, ,,3,80,88,-8,1935.0
+3:44.0, ,88-80,Shooting foul by B. Mathurin (drawn by J. Ivey),,3,80,88,-8,1936.0
+3:44.0, ,88-81,J. Ivey makes free throw 1 of 2,,3,81,88,-7,1936.0
+3:44.0, ,88-82,J. Ivey makes free throw 2 of 2,,3,82,88,-6,1936.0
+3:30.0,B. Mathurin misses 2-pt layup from 4 ft (block by J. Wiseman),88-82, ,,3,82,88,-6,1950.0
+3:26.0, ,88-82,Defensive rebound by C. Cunningham,,3,82,88,-6,1954.0
+3:26.0, ,88-82,Turnover by J. Ivey (out of bounds lost ball),,3,82,88,-6,1954.0
+3:19.0,A. Nesmith makes 2-pt layup from 3 ft (assist by T. Haliburton),90-82, ,,3,82,90,-8,1961.0
+3:11.0, ,90-82,Personal foul by B. Brown (drawn by C. Cunningham),,3,82,90,-8,1969.0
+3:11.0,T. McConnell enters the game for T. Haliburton,90-82, ,,3,82,90,-8,1969.0
+2:55.0, ,90-84,J. Ivey makes 2-pt layup from 2 ft (assist by I. Livers),,3,84,90,-6,1985.0
+2:42.0,T. McConnell misses 2-pt jump shot from 11 ft,90-84, ,,3,84,90,-6,1998.0
+2:40.0, ,90-84,Defensive rebound by C. Cunningham,,3,84,90,-6,2000.0
+2:38.0, ,90-84,Offensive foul by J. Ivey (drawn by A. Nesmith),,3,84,90,-6,2002.0
+2:38.0, ,90-84,Turnover by J. Ivey (offensive foul),,3,84,90,-6,2002.0
+2:38.0, ,90-84,Detroit full timeout,,3,84,90,-6,2002.0
+2:38.0, ,90-84,Instant Replay (Challenge: Stands),,3,84,90,-6,2002.0
+2:38.0,B. Hield enters the game for B. Brown,90-84, ,,3,84,90,-6,2002.0
+2:38.0, ,90-84,K. Hayes enters the game for C. Cunningham,,3,84,90,-6,2002.0
+2:26.0,T. McConnell misses 2-pt jump shot from 10 ft,90-84, ,,3,84,90,-6,2014.0
+2:25.0, ,90-84,Defensive rebound by Team,,3,84,90,-6,2015.0
+2:09.0, ,90-84,J. Ivey misses 2-pt layup from 5 ft,,3,84,90,-6,2031.0
+2:08.0, ,90-84,Offensive rebound by J. Wiseman,,3,84,90,-6,2032.0
+2:08.0, ,90-86,J. Wiseman makes 2-pt dunk at rim,,3,86,90,-4,2032.0
+1:56.0,A. Nesmith makes 3-pt jump shot from 26 ft (assist by B. Mathurin),93-86, ,,3,86,93,-7,2044.0
+1:37.0, ,93-86,A. Burks misses 2-pt jump shot from 18 ft,,3,86,93,-7,2063.0
+1:35.0,Defensive rebound by I. Jackson,93-86, ,,3,86,93,-7,2065.0
+1:28.0,T. McConnell makes 2-pt jump shot from 11 ft (assist by B. Hield),95-86, ,,3,86,95,-9,2072.0
+1:14.0, ,95-88,K. Hayes makes 2-pt jump shot from 12 ft (assist by J. Wiseman),,3,88,95,-7,2086.0
+0:53.0,B. Mathurin misses 2-pt jump shot from 22 ft,95-88, ,,3,88,95,-7,2107.0
+0:49.0, ,95-88,Defensive rebound by J. Wiseman,,3,88,95,-7,2111.0
+0:45.0, ,95-88,Shooting foul by I. Jackson (drawn by I. Livers),,3,88,95,-7,2115.0
+0:45.0, ,95-89,I. Livers makes free throw 1 of 2,,3,89,95,-6,2115.0
+0:45.0, ,95-90,I. Livers makes free throw 2 of 2,,3,90,95,-5,2115.0
+0:33.0,T. McConnell misses 2-pt layup from 5 ft,95-90, ,,3,90,95,-5,2127.0
+0:30.0,Offensive rebound by I. Jackson,95-90, ,,3,90,95,-5,2130.0
+0:30.0,Shooting foul by J. Wiseman (drawn by B. Mathurin),95-90, ,,3,90,95,-5,2130.0
+0:30.0,B. Mathurin makes free throw 1 of 2,96-90, ,,3,90,96,-6,2130.0
+0:30.0,B. Mathurin makes free throw 2 of 2,97-90, ,,3,90,97,-7,2130.0
+0:12.0, ,97-93,A. Burks makes 3-pt jump shot from 26 ft (assist by K. Hayes),,3,93,97,-4,2148.0
+0:03.0,T. McConnell misses 2-pt jump shot from 11 ft,97-93, ,,3,93,97,-4,2157.0
+0:01.0,Offensive rebound by B. Mathurin,97-93, ,,3,93,97,-4,2159.0
+0:01.0,Shooting foul by I. Livers (drawn by B. Mathurin),97-93, ,,3,93,97,-4,2159.0
+0:01.0,B. Mathurin makes free throw 1 of 2,98-93, ,,3,93,98,-5,2159.0
+0:01.0,B. Mathurin misses free throw 2 of 2,98-93, ,,3,93,98,-5,2159.0
+0:00.0,Offensive rebound by B. Mathurin,98-93, ,,3,93,98,-5,2160.0
+0:00.0,End of 3rd quarter,98-93,,,3,93,98,-5,2160.0
+12:00.0,Start of 4th quarter,98-93,,,4,93,98,-5,2160.0
+11:48.0,A. Nesmith makes 3-pt jump shot from 23 ft (assist by B. Mathurin),101-93, ,,4,93,101,-8,2172.0
+11:24.0, ,101-95,J. Ivey makes 2-pt layup from 5 ft,,4,95,101,-6,2196.0
+11:03.0,I. Jackson misses 2-pt layup from 4 ft (block by J. Wiseman),101-95, ,,4,95,101,-6,2217.0
+11:02.0,Offensive rebound by Team,101-95, ,,4,95,101,-6,2218.0
+11:00.0,I. Jackson makes 2-pt jump shot from 15 ft (assist by T. McConnell),103-95, ,,4,95,103,-8,2220.0
+10:40.0, ,103-97,A. Burks makes 2-pt jump shot from 13 ft (assist by J. Ivey),,4,97,103,-6,2240.0
+10:24.0,Personal foul by J. Wiseman (drawn by B. Mathurin),103-97, ,,4,97,103,-6,2256.0
+10:24.0,B. Mathurin makes free throw 1 of 2,104-97, ,,4,97,104,-7,2256.0
+10:24.0,B. Mathurin makes free throw 2 of 2,105-97, ,,4,97,105,-8,2256.0
+10:09.0, ,105-99,K. Hayes makes 2-pt layup from 4 ft,,4,99,105,-6,2271.0
+9:42.0,B. Mathurin makes 2-pt layup from 4 ft,107-99, ,,4,99,107,-8,2298.0
+9:31.0, ,107-99,Shooting foul by I. Jackson (drawn by A. Burks),,4,99,107,-8,2309.0
+9:31.0, ,107-100,A. Burks makes free throw 1 of 2,,4,100,107,-7,2309.0
+9:31.0, ,107-100,B. Bogdanović enters the game for I. Livers,,4,100,107,-7,2309.0
+9:31.0, ,107-101,A. Burks makes free throw 2 of 2,,4,101,107,-6,2309.0
+9:08.0,Turnover by A. Nesmith (bad pass; steal by A. Burks),107-101, ,,4,101,107,-6,2332.0
+9:02.0, ,107-101,B. Bogdanović misses 3-pt jump shot from 23 ft,,4,101,107,-6,2338.0
+8:58.0,Defensive rebound by I. Jackson,107-101, ,,4,101,107,-6,2342.0
+8:48.0,B. Mathurin misses 2-pt layup from 7 ft,107-101, ,,4,101,107,-6,2352.0
+8:43.0, ,107-101,Defensive rebound by K. Hayes,,4,101,107,-6,2357.0
+8:42.0, ,107-101,Shooting foul by A. Nesmith (drawn by B. Bogdanović),,4,101,107,-6,2358.0
+8:42.0, ,107-101,B. Bogdanović misses free throw 1 of 2,,4,101,107,-6,2358.0
+8:42.0, ,107-101,Offensive rebound by Team,,4,101,107,-6,2358.0
+8:42.0,B. Brown enters the game for B. Hield,107-101, ,,4,101,107,-6,2358.0
+8:42.0,T. Haliburton enters the game for I. Jackson,107-101, ,,4,101,107,-6,2358.0
+8:42.0,M. Turner enters the game for T. McConnell,107-101, ,,4,101,107,-6,2358.0
+8:42.0, ,107-101,C. Cunningham enters the game for A. Burks,,4,101,107,-6,2358.0
+8:42.0, ,107-101,I. Stewart enters the game for K. Hayes,,4,101,107,-6,2358.0
+8:42.0, ,107-101,A. Thompson enters the game for J. Wiseman,,4,101,107,-6,2358.0
+8:42.0, ,107-102,B. Bogdanović makes free throw 2 of 2,,4,102,107,-5,2358.0
+8:27.0,M. Turner makes 2-pt layup from 5 ft (assist by A. Nesmith),109-102, ,,4,102,109,-7,2373.0
+8:17.0, ,109-102,B. Bogdanović misses 2-pt layup from 6 ft,,4,102,109,-7,2383.0
+8:15.0,Defensive rebound by M. Turner,109-102, ,,4,102,109,-7,2385.0
+8:15.0,Turnover by M. Turner (lost ball; steal by J. Ivey),109-102, ,,4,102,109,-7,2385.0
+8:14.0, ,109-102,J. Ivey misses 2-pt layup from 4 ft (block by M. Turner),,4,102,109,-7,2386.0
+8:13.0,Defensive rebound by A. Nesmith,109-102, ,,4,102,109,-7,2387.0
+8:04.0,A. Nesmith makes 2-pt layup from 3 ft,111-102, ,,4,102,111,-9,2396.0
+7:51.0, ,111-104,C. Cunningham makes 2-pt jump shot from 20 ft,,4,104,111,-7,2409.0
+7:38.0,M. Turner misses 2-pt layup from 2 ft,111-104, ,,4,104,111,-7,2422.0
+7:36.0, ,111-104,Defensive rebound by J. Ivey,,4,104,111,-7,2424.0
+7:23.0, ,111-106,J. Ivey makes 2-pt layup from 4 ft (assist by I. Stewart),,4,106,111,-5,2437.0
+7:03.0,Shooting foul by A. Thompson (drawn by M. Turner),111-106, ,,4,106,111,-5,2457.0
+7:03.0,M. Turner makes free throw 1 of 2,112-106, ,,4,106,112,-6,2457.0
+7:03.0,B. Hield enters the game for A. Nesmith,112-106, ,,4,106,112,-6,2457.0
+7:03.0,M. Turner makes free throw 2 of 2,113-106, ,,4,106,113,-7,2457.0
+6:49.0, ,113-106,C. Cunningham misses 3-pt jump shot from 26 ft,,4,106,113,-7,2471.0
+6:45.0,Defensive rebound by B. Hield,113-106, ,,4,106,113,-7,2475.0
+6:33.0,T. Haliburton makes 2-pt jump shot from 13 ft,115-106, ,,4,106,115,-9,2487.0
+6:21.0, ,115-108,A. Thompson makes 2-pt layup from 4 ft (assist by C. Cunningham),,4,108,115,-7,2499.0
+6:00.0,T. Haliburton misses 2-pt layup from 5 ft (block by A. Thompson),115-108, ,,4,108,115,-7,2520.0
+6:00.0,Offensive rebound by Team,115-108, ,,4,108,115,-7,2520.0
+6:00.0, ,115-108,Detroit full timeout,,4,108,115,-7,2520.0
+5:55.0,M. Turner makes 2-pt jump shot from 17 ft,117-108, ,,4,108,117,-9,2525.0
+5:34.0, ,117-110,A. Thompson makes 2-pt jump shot from 6 ft,,4,110,117,-7,2546.0
+5:14.0,B. Hield makes 2-pt jump shot from 16 ft (assist by T. Haliburton),119-110, ,,4,110,119,-9,2566.0
+4:59.0, ,119-112,I. Stewart makes 2-pt dunk from 5 ft (assist by A. Thompson),,4,112,119,-7,2581.0
+4:39.0,M. Turner makes 2-pt layup from 4 ft,121-112, ,,4,112,121,-9,2601.0
+4:39.0,Shooting foul by A. Thompson (drawn by M. Turner),121-112, ,,4,112,121,-9,2601.0
+4:39.0,M. Turner makes free throw 1 of 1,122-112, ,,4,112,122,-10,2601.0
+4:26.0, ,122-112,C. Cunningham misses 2-pt layup from 4 ft,,4,112,122,-10,2614.0
+4:23.0,Defensive rebound by B. Brown,122-112, ,,4,112,122,-10,2617.0
+4:22.0,Shooting foul by A. Thompson (drawn by B. Brown),122-112, ,,4,112,122,-10,2618.0
+4:22.0,B. Brown misses free throw 1 of 2,122-112, ,,4,112,122,-10,2618.0
+4:22.0,Offensive rebound by Team,122-112, ,,4,112,122,-10,2618.0
+4:22.0,B. Brown makes free throw 2 of 2,123-112, ,,4,112,123,-11,2618.0
+4:08.0, ,123-114,I. Stewart makes 2-pt layup from 4 ft (assist by C. Cunningham),,4,114,123,-9,2632.0
+3:48.0,T. Haliburton makes 3-pt jump shot from 28 ft,126-114, ,,4,114,126,-12,2652.0
+3:38.0, ,126-114,J. Ivey misses 2-pt layup from 5 ft,,4,114,126,-12,2662.0
+3:35.0,Defensive rebound by B. Mathurin,126-114, ,,4,114,126,-12,2665.0
+3:31.0,T. Haliburton makes 2-pt layup from 4 ft,128-114, ,,4,114,128,-14,2669.0
+3:31.0,Shooting foul by B. Bogdanović (drawn by T. Haliburton),128-114, ,,4,114,128,-14,2669.0
+3:31.0,T. Haliburton makes free throw 1 of 1,129-114, ,,4,114,129,-15,2669.0
+3:17.0, ,129-114,Turnover by C. Cunningham (bad pass; steal by B. Hield),,4,114,129,-15,2683.0
+3:11.0,B. Brown misses 3-pt jump shot from 23 ft,129-114, ,,4,114,129,-15,2689.0
+3:07.0, ,129-114,Defensive rebound by I. Stewart,,4,114,129,-15,2693.0
+2:58.0, ,129-114,Shooting foul by T. Haliburton (drawn by B. Bogdanović),,4,114,129,-15,2702.0
+2:58.0,Indiana full timeout,129-114, ,,4,114,129,-15,2702.0
+2:58.0, ,129-115,B. Bogdanović makes free throw 1 of 3,,4,115,129,-14,2702.0
+2:58.0, ,129-115,B. Bogdanović misses free throw 2 of 3,,4,115,129,-14,2702.0
+2:58.0, ,129-115,Offensive rebound by Team,,4,115,129,-14,2702.0
+2:58.0, ,129-116,B. Bogdanović makes free throw 3 of 3,,4,116,129,-13,2702.0
+2:40.0,M. Turner misses 2-pt jump shot from 9 ft,129-116, ,,4,116,129,-13,2720.0
+2:39.0, ,129-116,Defensive rebound by Team,,4,116,129,-13,2721.0
+2:25.0, ,129-116,Shooting foul by M. Turner (drawn by I. Stewart),,4,116,129,-13,2735.0
+2:25.0, ,129-117,I. Stewart makes free throw 1 of 2,,4,117,129,-12,2735.0
+2:25.0, ,129-117,I. Stewart misses free throw 2 of 2,,4,117,129,-12,2735.0
+2:22.0,Defensive rebound by M. Turner,129-117, ,,4,117,129,-12,2738.0
+2:05.0,B. Hield misses 3-pt jump shot from 26 ft,129-117, ,,4,117,129,-12,2755.0
+2:03.0, ,129-117,Defensive rebound by C. Cunningham,,4,117,129,-12,2757.0
+2:00.0, ,129-117,Personal foul by T. Haliburton (drawn by J. Ivey),,4,117,129,-12,2760.0
+2:00.0, ,129-118,J. Ivey makes free throw 1 of 2,,4,118,129,-11,2760.0
+2:00.0,A. Nesmith enters the game for B. Hield,129-118, ,,4,118,129,-11,2760.0
+2:00.0, ,129-119,J. Ivey makes free throw 2 of 2,,4,119,129,-10,2760.0
+1:38.0,Turnover by B. Mathurin (lost ball; steal by C. Cunningham),129-119, ,,4,119,129,-10,2782.0
+1:34.0, ,129-119,J. Ivey misses 3-pt jump shot from 26 ft,,4,119,129,-10,2786.0
+1:30.0,Defensive rebound by T. Haliburton,129-119, ,,4,119,129,-10,2790.0
+1:15.0,Turnover by T. Haliburton (bad pass; steal by B. Bogdanović),129-119, ,,4,119,129,-10,2805.0
+1:08.0, ,129-119,B. Bogdanović misses 3-pt jump shot from 25 ft,,4,119,129,-10,2812.0
+1:04.0,Defensive rebound by B. Brown,129-119, ,,4,119,129,-10,2816.0
+0:45.0,B. Brown misses 2-pt hook shot from 8 ft,129-119, ,,4,119,129,-10,2835.0
+0:43.0,Offensive rebound by B. Mathurin,129-119, ,,4,119,129,-10,2837.0
+0:38.0,Personal take foul by A. Thompson (drawn by B. Mathurin),129-119, ,,4,119,129,-10,2842.0
+0:38.0,B. Mathurin makes free throw 1 of 2,130-119, ,,4,119,130,-11,2842.0
+0:38.0,B. Mathurin makes free throw 2 of 2,131-119, ,,4,119,131,-12,2842.0
+0:26.0, ,131-121,A. Thompson makes 2-pt dunk from 4 ft,,4,121,131,-10,2854.0
+0:22.0,Indiana full timeout,131-121, ,,4,121,131,-10,2858.0
+0:16.0,Personal foul by C. Cunningham (drawn by M. Turner),131-121, ,,4,121,131,-10,2864.0
+0:16.0,M. Turner misses free throw 1 of 2,131-121, ,,4,121,131,-10,2864.0
+0:16.0,Offensive rebound by Team,131-121, ,,4,121,131,-10,2864.0
+0:16.0,M. Turner misses free throw 2 of 2,131-121, ,,4,121,131,-10,2864.0
+0:12.0, ,131-121,Defensive rebound by I. Stewart,,4,121,131,-10,2868.0
+0:04.0, ,131-123,B. Bogdanović makes 2-pt layup from 4 ft (assist by C. Cunningham),,4,123,131,-8,2876.0
+0:00.0,End of 4th quarter,131-123,,,4,123,131,-8,2880.0

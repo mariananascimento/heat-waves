@@ -1,0 +1,404 @@
+Time,Detroit,Score,Dallas,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Wiseman vs. D. Gafford (M. Sasser gains possession),0-0,,,1,0,0,0,0.0
+11:42.0,C. Metu misses 2-pt jump shot from 11 ft,0-0, ,,1,0,0,0,18.0
+11:40.0, ,0-0,Defensive rebound by D. Gafford,,1,0,0,0,20.0
+11:32.0, ,0-2,P. Washington makes 2-pt dunk from 1 ft (assist by D. Exum),,1,0,2,-2,28.0
+11:16.0,T. Brown makes 2-pt jump shot from 8 ft,2-2, ,Tie,1,2,2,0,44.0
+10:59.0, ,2-2,T. Hardaway misses 2-pt layup from 1 ft,,1,2,2,0,61.0
+10:57.0,Defensive rebound by J. Wiseman,2-2, ,,1,2,2,0,63.0
+10:50.0,M. Sasser misses 3-pt jump shot from 25 ft,2-2, ,,1,2,2,0,70.0
+10:47.0, ,2-2,Defensive rebound by D. Jones,,1,2,2,0,73.0
+10:36.0, ,2-4,D. Gafford makes 2-pt dunk at rim (assist by D. Jones),,1,2,4,-2,84.0
+10:25.0,C. Metu makes 3-pt jump shot from 25 ft (assist by J. Wiseman),5-4, ,Lead change,1,5,4,1,95.0
+10:10.0, ,5-4,D. Jones misses 2-pt layup from 2 ft (block by J. Wiseman),,1,5,4,1,110.0
+10:10.0,Defensive rebound by T. Brown,5-4, ,,1,5,4,1,110.0
+10:03.0,T. Brown misses 2-pt layup from 4 ft,5-4, ,,1,5,4,1,117.0
+10:00.0,Offensive rebound by J. Wiseman,5-4, ,,1,5,4,1,120.0
+10:00.0,J. Wiseman makes 2-pt layup at rim,7-4, ,,1,7,4,3,120.0
+9:48.0, ,7-4,Turnover by D. Gafford (bad pass; steal by J. Ivey),,1,7,4,3,132.0
+9:45.0,J. Ivey makes 2-pt dunk from 1 ft,9-4, ,,1,9,4,5,135.0
+9:31.0, ,9-4,D. Gafford misses 2-pt layup from 3 ft,,1,9,4,5,149.0
+9:31.0,Defensive rebound by T. Brown,9-4, ,,1,9,4,5,149.0
+9:24.0,C. Metu makes 3-pt jump shot from 23 ft (assist by T. Brown),12-4, ,,1,12,4,8,156.0
+8:58.0, ,12-7,P. Washington makes 3-pt jump shot from 25 ft (assist by D. Jones),,1,12,7,5,182.0
+8:47.0,Personal foul by D. Gafford (drawn by J. Wiseman),12-7, ,,1,12,7,5,193.0
+8:33.0,J. Wiseman makes 2-pt layup from 2 ft (assist by T. Brown),14-7, ,,1,14,7,7,207.0
+8:15.0, ,14-7,Turnover by D. Gafford (bad pass; steal by T. Brown),,1,14,7,7,225.0
+8:07.0,M. Sasser misses 2-pt layup from 1 ft,14-7, ,,1,14,7,7,233.0
+8:06.0, ,14-7,Defensive rebound by P. Washington,,1,14,7,7,234.0
+8:06.0, ,14-7,Dallas full timeout,,1,14,7,7,234.0
+8:06.0, ,14-7,Instant Replay (Challenge: Ruling Stands),,1,14,7,7,234.0
+7:55.0, ,14-7,D. Exum misses 2-pt layup from 2 ft (block by J. Wiseman),,1,14,7,7,245.0
+7:53.0,Defensive rebound by T. Brown,14-7, ,,1,14,7,7,247.0
+7:49.0,C. Metu misses 2-pt layup from 2 ft,14-7, ,,1,14,7,7,251.0
+7:47.0, ,14-7,Defensive rebound by T. Hardaway,,1,14,7,7,253.0
+7:42.0, ,14-9,T. Hardaway makes 2-pt jump shot from 14 ft,,1,14,9,5,258.0
+7:24.0,M. Sasser misses 2-pt jump shot from 7 ft,14-9, ,,1,14,9,5,276.0
+7:24.0,Offensive rebound by J. Wiseman,14-9, ,,1,14,9,5,276.0
+7:24.0, ,14-9,J. Green enters the game for D. Gafford,,1,14,9,5,276.0
+7:24.0, ,14-9,M. Kleber enters the game for D. Jones,,1,14,9,5,276.0
+7:12.0,M. Sasser misses 3-pt jump shot from 25 ft,14-9, ,,1,14,9,5,288.0
+7:10.0, ,14-9,Defensive rebound by J. Green,,1,14,9,5,290.0
+7:04.0, ,14-12,T. Hardaway makes 3-pt jump shot from 25 ft,,1,14,12,2,296.0
+6:50.0,J. Wiseman misses 2-pt jump shot from 11 ft,14-12, ,,1,14,12,2,310.0
+6:48.0, ,14-12,Defensive rebound by P. Washington,,1,14,12,2,312.0
+6:43.0, ,14-12,Turnover by T. Hardaway (lost ball; steal by C. Metu),,1,14,12,2,317.0
+6:37.0,Turnover by T. Brown (bad pass),14-12, ,,1,14,12,2,323.0
+6:37.0,J. Rhoden enters the game for T. Brown,14-12, ,,1,14,12,2,323.0
+6:37.0, ,14-12,J. Hardy enters the game for D. Exum,,1,14,12,2,323.0
+6:13.0, ,14-12,P. Washington misses 2-pt jump shot from 7 ft,,1,14,12,2,347.0
+6:11.0,Defensive rebound by J. Wiseman,14-12, ,,1,14,12,2,349.0
+5:59.0,J. Wiseman misses 2-pt jump shot from 11 ft,14-12, ,,1,14,12,2,361.0
+5:57.0, ,14-12,Defensive rebound by M. Kleber,,1,14,12,2,363.0
+5:49.0, ,14-12,Turnover by M. Kleber (out of bounds lost ball),,1,14,12,2,371.0
+5:38.0,Turnover by M. Sasser (lost ball; steal by J. Hardy),14-12, ,,1,14,12,2,382.0
+5:34.0, ,14-14,J. Hardy makes 2-pt layup from 1 ft (assist by T. Hardaway),Tie,1,14,14,0,386.0
+5:22.0,J. Ivey misses 3-pt jump shot from 25 ft,14-14, ,,1,14,14,0,398.0
+5:21.0, ,14-14,Defensive rebound by Team,,1,14,14,0,399.0
+5:21.0, ,14-14,D. Powell enters the game for M. Kleber,,1,14,14,0,399.0
+5:09.0, ,14-16,P. Washington makes 2-pt jump shot from 12 ft (assist by D. Powell),Lead change,1,14,16,-2,411.0
+4:55.0,J. Ivey makes 2-pt jump shot from 13 ft,16-16, ,Tie,1,16,16,0,425.0
+4:40.0, ,16-16,P. Washington misses 2-pt jump shot from 19 ft,,1,16,16,0,440.0
+4:36.0,Defensive rebound by M. Sasser,16-16, ,,1,16,16,0,444.0
+4:36.0,T. Brown enters the game for J. Ivey,16-16, ,,1,16,16,0,444.0
+4:36.0,E. Fournier enters the game for C. Metu,16-16, ,,1,16,16,0,444.0
+4:36.0, ,16-16,M. Kleber enters the game for P. Washington,,1,16,16,0,444.0
+4:20.0,J. Wiseman misses 2-pt layup from 5 ft (block by M. Kleber),16-16, ,,1,16,16,0,460.0
+4:18.0, ,16-16,Defensive rebound by M. Kleber,,1,16,16,0,462.0
+4:15.0, ,16-16,T. Hardaway misses 3-pt jump shot from 25 ft,,1,16,16,0,465.0
+4:11.0,Defensive rebound by J. Rhoden,16-16, ,,1,16,16,0,469.0
+4:04.0,J. Rhoden makes 2-pt jump shot from 14 ft,18-16, ,Lead change,1,18,16,2,476.0
+3:49.0, ,18-16,J. Hardy misses 2-pt jump shot from 13 ft,,1,18,16,2,491.0
+3:47.0,Defensive rebound by J. Rhoden,18-16, ,,1,18,16,2,493.0
+3:43.0,Detroit full timeout,18-16, ,,1,18,16,2,497.0
+3:43.0,T. Gibson enters the game for J. Wiseman,18-16, ,,1,18,16,2,497.0
+3:43.0, ,18-16,A. Lawson enters the game for T. Hardaway,,1,18,16,2,497.0
+3:26.0,T. Gibson makes 2-pt jump shot from 12 ft (assist by E. Fournier),20-16, ,,1,20,16,4,514.0
+3:06.0, ,20-19,M. Kleber makes 3-pt jump shot from 26 ft (assist by D. Powell),,1,20,19,1,534.0
+2:48.0,T. Brown misses 3-pt jump shot from 26 ft,20-19, ,,1,20,19,1,552.0
+2:46.0, ,20-19,Defensive rebound by J. Hardy,,1,20,19,1,554.0
+2:40.0, ,20-21,J. Hardy makes 2-pt jump shot from 10 ft,Lead change,1,20,21,-1,560.0
+2:24.0,J. Rhoden makes 3-pt jump shot from 23 ft (assist by M. Sasser),23-21, ,Lead change,1,23,21,2,576.0
+2:08.0, ,23-21,Personal foul by T. Gibson (drawn by D. Powell),,1,23,21,2,592.0
+2:08.0,M. Flynn enters the game for M. Sasser,23-21, ,,1,23,21,2,592.0
+1:58.0, ,23-21,J. Hardy misses 2-pt jump shot from 16 ft,,1,23,21,2,602.0
+1:55.0,Defensive rebound by T. Brown,23-21, ,,1,23,21,2,605.0
+1:48.0,T. Gibson makes 2-pt jump shot from 16 ft (assist by M. Flynn),25-21, ,,1,25,21,4,612.0
+1:33.0, ,25-21,J. Hardy misses 2-pt jump shot from 10 ft,,1,25,21,4,627.0
+1:31.0,Defensive rebound by T. Gibson,25-21, ,,1,25,21,4,629.0
+1:13.0,E. Fournier misses 3-pt jump shot from 26 ft,25-21, ,,1,25,21,4,647.0
+1:09.0, ,25-21,Defensive rebound by A. Lawson,,1,25,21,4,651.0
+1:05.0, ,25-21,Personal foul by M. Flynn (drawn by M. Kleber),,1,25,21,4,655.0
+0:51.0, ,25-21,J. Green misses 3-pt jump shot from 23 ft,,1,25,21,4,669.0
+0:49.0,Defensive rebound by T. Gibson,25-21, ,,1,25,21,4,671.0
+0:31.0,T. Brown misses 3-pt jump shot from 23 ft,25-21, ,,1,25,21,4,689.0
+0:28.0, ,25-21,Defensive rebound by D. Powell,,1,25,21,4,692.0
+0:08.0, ,25-21,Turnover by J. Hardy (lost ball; steal by M. Flynn),,1,25,21,4,712.0
+0:03.0,M. Flynn makes 2-pt layup from 1 ft (assist by E. Fournier),27-21, ,,1,27,21,6,717.0
+0:00.0, ,27-21,J. Hardy misses 3-pt jump shot from 45 ft,,1,27,21,6,720.0
+0:00.0, ,27-21,Offensive rebound by Team,,1,27,21,6,720.0
+0:00.0,End of 1st quarter,27-21,,,1,27,21,6,720.0
+12:00.0,Start of 2nd quarter,27-21,,,2,27,21,6,720.0
+11:44.0, ,27-23,D. Gafford makes 2-pt dunk from 1 ft (assist by A. Lawson),,2,27,23,4,736.0
+11:24.0,M. Flynn misses 2-pt layup from 3 ft,27-23, ,,2,27,23,4,756.0
+11:22.0, ,27-23,Defensive rebound by D. Gafford,,2,27,23,4,758.0
+11:15.0, ,27-25,O. Prosper makes 2-pt dunk from 1 ft (assist by D. Jones),,2,27,25,2,765.0
+11:04.0,E. Fournier makes 2-pt jump shot from 10 ft (assist by M. Flynn),29-25, ,,2,29,25,4,776.0
+10:38.0, ,29-27,D. Gafford makes 2-pt hook shot from 7 ft (assist by A. Lawson),,2,29,27,2,802.0
+10:26.0,J. Wiseman misses 2-pt jump shot from 8 ft,29-27, ,,2,29,27,2,814.0
+10:24.0, ,29-27,Defensive rebound by D. Exum,,2,29,27,2,816.0
+10:17.0, ,29-29,D. Jones makes 2-pt layup from 3 ft,Tie,2,29,29,0,823.0
+9:55.0,M. Flynn misses 2-pt jump shot from 7 ft,29-29, ,,2,29,29,0,845.0
+9:55.0, ,29-29,Defensive rebound by O. Prosper,,2,29,29,0,845.0
+9:41.0, ,29-29,Turnover by D. Jones (traveling),,2,29,29,0,859.0
+9:22.0,E. Fournier misses 2-pt jump shot from 21 ft,29-29, ,,2,29,29,0,878.0
+9:20.0, ,29-29,Defensive rebound by D. Exum,,2,29,29,0,880.0
+9:10.0, ,29-29,Turnover by D. Exum (lost ball; steal by M. Flynn),,2,29,29,0,890.0
+9:06.0,T. Brown misses 2-pt layup from 4 ft (block by O. Prosper),29-29, ,,2,29,29,0,894.0
+9:06.0, ,29-29,Defensive rebound by Team,,2,29,29,0,894.0
+8:58.0, ,29-29,A. Lawson misses 3-pt jump shot from 23 ft,,2,29,29,0,902.0
+8:56.0,Defensive rebound by T. Brown,29-29, ,,2,29,29,0,904.0
+8:44.0,Turnover by E. Fournier (lost ball; steal by O. Prosper),29-29, ,,2,29,29,0,916.0
+8:40.0, ,29-29,A. Lawson misses 2-pt layup from 3 ft (block by J. Rhoden),,2,29,29,0,920.0
+8:40.0, ,29-29,Offensive rebound by Team,,2,29,29,0,920.0
+8:40.0,C. Metu enters the game for T. Brown,29-29, ,,2,29,29,0,920.0
+8:31.0, ,29-31,A. Lawson makes 2-pt layup from 3 ft (assist by D. Gafford),Lead change,2,29,31,-2,929.0
+8:16.0,J. Rhoden makes 2-pt jump shot from 20 ft (assist by M. Flynn),31-31, ,Tie,2,31,31,0,944.0
+7:55.0, ,31-33,O. Prosper makes 2-pt dunk at rim (assist by D. Exum),,2,31,33,-2,965.0
+7:33.0,M. Flynn makes 2-pt jump shot from 11 ft,33-33, ,Tie,2,33,33,0,987.0
+7:25.0, ,33-33,Personal foul by J. Wiseman (drawn by D. Gafford),,2,33,33,0,995.0
+7:25.0, ,33-33,T. Hardaway enters the game for D. Jones,,2,33,33,0,995.0
+7:25.0, ,33-33,P. Washington enters the game for A. Lawson,,2,33,33,0,995.0
+7:15.0, ,33-33,Shooting foul by E. Fournier (drawn by T. Hardaway),,2,33,33,0,1005.0
+7:15.0, ,33-34,T. Hardaway makes free throw 1 of 2,,2,33,34,-1,1005.0
+7:15.0, ,33-34,T. Hardaway misses free throw 2 of 2,,2,33,34,-1,1005.0
+7:12.0,Defensive rebound by E. Fournier,33-34, ,,2,33,34,-1,1008.0
+6:54.0,Personal foul by D. Gafford (drawn by J. Wiseman),33-34, ,,2,33,34,-1,1026.0
+6:54.0, ,33-34,Dallas full timeout,,2,33,34,-1,1026.0
+6:54.0, ,33-34,J. Green enters the game for D. Exum,,2,33,34,-1,1026.0
+6:50.0,J. Rhoden makes 2-pt layup from 4 ft (assist by M. Flynn),35-34, ,Lead change,2,35,34,1,1030.0
+6:27.0, ,35-34,J. Green misses 3-pt jump shot from 23 ft,,2,35,34,1,1053.0
+6:24.0,Defensive rebound by E. Fournier,35-34, ,,2,35,34,1,1056.0
+6:18.0,M. Flynn misses 2-pt layup from 6 ft (block by D. Gafford),35-34, ,,2,35,34,1,1062.0
+6:15.0, ,35-34,Defensive rebound by J. Green,,2,35,34,1,1065.0
+6:04.0, ,35-34,P. Washington misses 3-pt jump shot from 25 ft,,2,35,34,1,1076.0
+6:01.0,Defensive rebound by J. Wiseman,35-34, ,,2,35,34,1,1079.0
+5:44.0,E. Fournier makes 2-pt jump shot from 13 ft,37-34, ,,2,37,34,3,1096.0
+5:27.0, ,37-34,Turnover by D. Gafford (lost ball; steal by M. Flynn),,2,37,34,3,1113.0
+5:22.0,E. Fournier makes 3-pt jump shot from 30 ft (assist by M. Flynn),40-34, ,,2,40,34,6,1118.0
+4:59.0, ,40-36,J. Green makes 2-pt jump shot from 6 ft (assist by P. Washington),,2,40,36,4,1141.0
+4:42.0,Shooting foul by O. Prosper (drawn by C. Metu),40-36, ,,2,40,36,4,1158.0
+4:42.0,C. Metu makes free throw 1 of 2,41-36, ,,2,41,36,5,1158.0
+4:42.0,J. Ivey enters the game for M. Flynn,41-36, ,,2,41,36,5,1158.0
+4:42.0,M. Sasser enters the game for J. Rhoden,41-36, ,,2,41,36,5,1158.0
+4:42.0, ,41-36,D. Jones enters the game for D. Gafford,,2,41,36,5,1158.0
+4:42.0, ,41-36,M. Kleber enters the game for O. Prosper,,2,41,36,5,1158.0
+4:42.0,C. Metu makes free throw 2 of 2,42-36, ,,2,42,36,6,1158.0
+4:26.0, ,42-36,T. Hardaway misses 3-pt jump shot from 25 ft,,2,42,36,6,1174.0
+4:23.0,Defensive rebound by C. Metu,42-36, ,,2,42,36,6,1177.0
+4:09.0,J. Ivey misses 2-pt jump shot from 13 ft,42-36, ,,2,42,36,6,1191.0
+4:06.0, ,42-36,Defensive rebound by T. Hardaway,,2,42,36,6,1194.0
+4:02.0, ,42-38,P. Washington makes 2-pt layup from 3 ft,,2,42,38,4,1198.0
+3:37.0,Turnover by M. Sasser (bad pass; steal by P. Washington),42-38, ,,2,42,38,4,1223.0
+3:32.0, ,42-40,J. Green makes 2-pt layup from 2 ft (assist by M. Kleber),,2,42,40,2,1228.0
+3:32.0,Detroit full timeout,42-40, ,,2,42,40,2,1228.0
+3:32.0,T. Gibson enters the game for J. Wiseman,42-40, ,,2,42,40,2,1228.0
+3:20.0,T. Gibson makes 2-pt layup from 2 ft (assist by J. Ivey),44-40, ,,2,44,40,4,1240.0
+3:05.0, ,44-40,P. Washington misses 3-pt jump shot from 23 ft,,2,44,40,4,1255.0
+3:01.0,Defensive rebound by T. Gibson,44-40, ,,2,44,40,4,1259.0
+2:53.0,Turnover by J. Ivey (lost ball; steal by J. Green),44-40, ,,2,44,40,4,1267.0
+2:52.0, ,44-40,Turnover by J. Green (out of bounds lost ball),,2,44,40,4,1268.0
+2:52.0,J. Rhoden enters the game for E. Fournier,44-40, ,,2,44,40,4,1268.0
+2:41.0,C. Metu makes 3-pt jump shot from 26 ft (assist by J. Ivey),47-40, ,,2,47,40,7,1279.0
+2:23.0, ,47-42,T. Hardaway makes 2-pt layup from 1 ft (assist by M. Kleber),,2,47,42,5,1297.0
+2:13.0,J. Ivey makes 2-pt jump shot from 9 ft (assist by C. Metu),49-42, ,,2,49,42,7,1307.0
+2:04.0, ,49-42,Turnover by D. Jones (lost ball; steal by M. Sasser),,2,49,42,7,1316.0
+1:57.0,M. Sasser misses 3-pt jump shot from 23 ft,49-42, ,,2,49,42,7,1323.0
+1:54.0, ,49-42,Defensive rebound by M. Kleber,,2,49,42,7,1326.0
+1:44.0, ,49-42,Shooting foul by J. Ivey (drawn by D. Jones),,2,49,42,7,1336.0
+1:44.0, ,49-42,D. Jones misses free throw 1 of 2,,2,49,42,7,1336.0
+1:44.0, ,49-42,Offensive rebound by Team,,2,49,42,7,1336.0
+1:44.0, ,49-43,D. Jones makes free throw 2 of 2,,2,49,43,6,1336.0
+1:28.0,T. Gibson makes 2-pt hook shot from 1 ft,51-43, ,,2,51,43,8,1352.0
+1:16.0, ,51-43,Turnover by J. Green (bad pass),,2,51,43,8,1364.0
+1:03.0,T. Gibson misses 2-pt layup from 2 ft (block by M. Kleber),51-43, ,,2,51,43,8,1377.0
+0:59.0, ,51-43,Defensive rebound by P. Washington,,2,51,43,8,1381.0
+0:52.0, ,51-43,J. Green misses 3-pt jump shot from 25 ft,,2,51,43,8,1388.0
+0:49.0,Defensive rebound by M. Sasser,51-43, ,,2,51,43,8,1391.0
+0:34.0,M. Sasser makes 2-pt jump shot from 17 ft,53-43, ,,2,53,43,10,1406.0
+0:13.0, ,53-46,M. Kleber makes 3-pt jump shot from 26 ft (assist by T. Hardaway),,2,53,46,7,1427.0
+0:03.0,Personal foul by D. Jones (drawn by J. Ivey),53-46, ,,2,53,46,7,1437.0
+0:00.0,J. Ivey misses 2-pt jump shot from 12 ft,53-46, ,,2,53,46,7,1440.0
+0:00.0,Offensive rebound by Team,53-46, ,,2,53,46,7,1440.0
+0:00.0,Instant Replay (Request: Stands),53-46, ,,2,53,46,7,1440.0
+0:00.0,End of 2nd quarter,53-46,,,2,53,46,7,1440.0
+12:00.0,Start of 3rd quarter,53-46,,,3,53,46,7,1440.0
+11:46.0, ,53-46,B. Williams misses 3-pt jump shot from 25 ft,,3,53,46,7,1454.0
+11:41.0,Defensive rebound by C. Metu,53-46, ,,3,53,46,7,1459.0
+11:38.0,T. Brown makes 2-pt layup from 5 ft,55-46, ,,3,55,46,9,1462.0
+11:17.0, ,55-46,J. Hardy misses 3-pt jump shot from 26 ft,,3,55,46,9,1483.0
+11:15.0,Defensive rebound by J. Wiseman,55-46, ,,3,55,46,9,1485.0
+10:55.0,C. Metu misses 2-pt hook shot from 9 ft,55-46, ,,3,55,46,9,1505.0
+10:53.0, ,55-46,Defensive rebound by J. Green,,3,55,46,9,1507.0
+10:49.0, ,55-46,Turnover by B. Williams (step out of bounds),,3,55,46,9,1511.0
+10:37.0,J. Wiseman makes 2-pt jump shot from 11 ft (assist by M. Sasser),57-46, ,,3,57,46,11,1523.0
+10:18.0, ,57-46,J. Hardy misses 3-pt jump shot from 23 ft,,3,57,46,11,1542.0
+10:15.0, ,57-46,Offensive rebound by O. Prosper,,3,57,46,11,1545.0
+10:15.0, ,57-48,O. Prosper makes 2-pt dunk at rim,,3,57,48,9,1545.0
+9:57.0,C. Metu makes 2-pt jump shot from 12 ft (assist by J. Ivey),59-48, ,,3,59,48,11,1563.0
+9:47.0, ,59-48,Shooting foul by J. Ivey (drawn by J. Hardy),,3,59,48,11,1573.0
+9:47.0, ,59-49,J. Hardy makes free throw 1 of 2,,3,59,49,10,1573.0
+9:47.0, ,59-50,J. Hardy makes free throw 2 of 2,,3,59,50,9,1573.0
+9:35.0,M. Sasser makes 2-pt jump shot from 16 ft,61-50, ,,3,61,50,11,1585.0
+9:23.0, ,61-50,B. Williams misses 2-pt layup from 1 ft,,3,61,50,11,1597.0
+9:22.0,Defensive rebound by Team,61-50, ,,3,61,50,11,1598.0
+9:08.0,M. Sasser makes 2-pt jump shot from 9 ft,63-50, ,,3,63,50,13,1612.0
+9:08.0,Shooting foul by D. Powell (drawn by M. Sasser),63-50, ,,3,63,50,13,1612.0
+9:08.0,M. Sasser makes free throw 1 of 1,64-50, ,,3,64,50,14,1612.0
+8:53.0, ,64-50,Shooting foul by J. Wiseman (drawn by O. Prosper),,3,64,50,14,1627.0
+8:53.0, ,64-51,O. Prosper makes free throw 1 of 2,,3,64,51,13,1627.0
+8:53.0, ,64-52,O. Prosper makes free throw 2 of 2,,3,64,52,12,1627.0
+8:37.0,M. Sasser makes 2-pt jump shot from 8 ft,66-52, ,,3,66,52,14,1643.0
+8:23.0, ,66-54,J. Hardy makes 2-pt jump shot from 8 ft,,3,66,54,12,1657.0
+8:11.0,M. Sasser misses 3-pt jump shot from 25 ft,66-54, ,,3,66,54,12,1669.0
+8:07.0, ,66-54,Defensive rebound by D. Powell,,3,66,54,12,1673.0
+8:00.0, ,66-56,J. Hardy makes 2-pt layup from 2 ft,,3,66,56,10,1680.0
+7:39.0,Turnover by J. Ivey (bad pass; steal by O. Prosper),66-56, ,,3,66,56,10,1701.0
+7:33.0, ,66-56,O. Prosper misses 3-pt jump shot from 24 ft,,3,66,56,10,1707.0
+7:29.0, ,66-56,Offensive rebound by D. Powell,,3,66,56,10,1711.0
+7:29.0, ,66-58,D. Powell makes 2-pt layup at rim,,3,66,58,8,1711.0
+7:17.0,M. Sasser makes 3-pt jump shot from 23 ft,69-58, ,,3,69,58,11,1723.0
+7:02.0, ,69-58,B. Williams misses 2-pt layup from 3 ft,,3,69,58,11,1738.0
+7:00.0,Defensive rebound by J. Wiseman,69-58, ,,3,69,58,11,1740.0
+6:57.0,J. Ivey misses 3-pt jump shot from 26 ft,69-58, ,,3,69,58,11,1743.0
+6:54.0, ,69-58,Defensive rebound by D. Powell,,3,69,58,11,1746.0
+6:41.0, ,69-58,Turnover by J. Hardy (lost ball; steal by T. Brown),,3,69,58,11,1759.0
+6:27.0,M. Sasser makes 3-pt jump shot from 29 ft (assist by J. Wiseman),72-58, ,,3,72,58,14,1773.0
+6:26.0, ,72-58,Dallas full timeout,,3,72,58,14,1774.0
+6:26.0, ,72-58,A. Lawson enters the game for D. Powell,,3,72,58,14,1774.0
+6:26.0, ,72-58,M. Morris enters the game for B. Williams,,3,72,58,14,1774.0
+6:11.0, ,72-58,A. Lawson misses 3-pt jump shot from 23 ft,,3,72,58,14,1789.0
+6:07.0,Defensive rebound by J. Ivey,72-58, ,,3,72,58,14,1793.0
+5:51.0,J. Ivey misses 3-pt jump shot from 26 ft,72-58, ,,3,72,58,14,1809.0
+5:49.0, ,72-58,Defensive rebound by M. Morris,,3,72,58,14,1811.0
+5:43.0, ,72-58,M. Morris misses 2-pt jump shot from 10 ft,,3,72,58,14,1817.0
+5:38.0,Defensive rebound by C. Metu,72-58, ,,3,72,58,14,1822.0
+5:25.0,T. Brown misses 3-pt jump shot from 23 ft,72-58, ,,3,72,58,14,1835.0
+5:22.0, ,72-58,Defensive rebound by J. Hardy,,3,72,58,14,1838.0
+5:16.0, ,72-58,Shooting foul by C. Metu (drawn by J. Hardy),,3,72,58,14,1844.0
+5:16.0, ,72-59,J. Hardy makes free throw 1 of 2,,3,72,59,13,1844.0
+5:16.0,J. Rhoden enters the game for T. Brown,72-59, ,,3,72,59,13,1844.0
+5:16.0, ,72-59,B. Williams enters the game for J. Green,,3,72,59,13,1844.0
+5:16.0, ,72-60,J. Hardy makes free throw 2 of 2,,3,72,60,12,1844.0
+5:02.0,J. Ivey misses 3-pt jump shot from 27 ft,72-60, ,,3,72,60,12,1858.0
+4:58.0, ,72-60,Defensive rebound by B. Williams,,3,72,60,12,1862.0
+4:54.0, ,72-62,B. Williams makes 2-pt layup from 1 ft,,3,72,62,10,1866.0
+4:41.0,M. Sasser misses 2-pt jump shot from 14 ft,72-62, ,,3,72,62,10,1879.0
+4:39.0, ,72-62,Defensive rebound by J. Hardy,,3,72,62,10,1881.0
+4:34.0, ,72-64,J. Hardy makes 2-pt dunk from 1 ft,,3,72,64,8,1886.0
+4:17.0,J. Wiseman makes 2-pt hook shot from 4 ft (assist by J. Ivey),74-64, ,,3,74,64,10,1903.0
+4:05.0, ,74-64,M. Morris misses 3-pt jump shot from 26 ft,,3,74,64,10,1915.0
+4:02.0, ,74-64,Offensive rebound by O. Prosper,,3,74,64,10,1918.0
+4:00.0, ,74-64,M. Morris misses 3-pt jump shot from 25 ft,,3,74,64,10,1920.0
+3:56.0,Defensive rebound by C. Metu,74-64, ,,3,74,64,10,1924.0
+3:51.0,M. Sasser misses 2-pt layup from 3 ft,74-64, ,,3,74,64,10,1929.0
+3:49.0, ,74-64,Defensive rebound by O. Prosper,,3,74,64,10,1931.0
+3:46.0, ,74-64,Turnover by O. Prosper (bad pass),,3,74,64,10,1934.0
+3:46.0,E. Fournier enters the game for J. Ivey,74-64, ,,3,74,64,10,1934.0
+3:31.0,C. Metu misses 3-pt jump shot from 25 ft,74-64, ,,3,74,64,10,1949.0
+3:28.0, ,74-64,Defensive rebound by O. Prosper,,3,74,64,10,1952.0
+3:24.0, ,74-64,O. Prosper misses 2-pt jump shot from 9 ft,,3,74,64,10,1956.0
+3:22.0,Defensive rebound by C. Metu,74-64, ,,3,74,64,10,1958.0
+3:16.0,E. Fournier misses 3-pt jump shot from 26 ft,74-64, ,,3,74,64,10,1964.0
+3:11.0, ,74-64,Defensive rebound by A. Lawson,,3,74,64,10,1969.0
+3:02.0, ,74-64,O. Prosper misses 3-pt jump shot from 26 ft,,3,74,64,10,1978.0
+2:59.0,Defensive rebound by J. Wiseman,74-64, ,,3,74,64,10,1981.0
+2:45.0,E. Fournier makes 2-pt jump shot from 7 ft (assist by C. Metu),76-64, ,,3,76,64,12,1995.0
+2:24.0, ,76-64,J. Hardy misses 3-pt jump shot from 26 ft,,3,76,64,12,2016.0
+2:21.0,Defensive rebound by J. Rhoden,76-64, ,,3,76,64,12,2019.0
+2:17.0,Personal foul by J. Hardy (drawn by C. Metu),76-64, ,,3,76,64,12,2023.0
+2:17.0,Detroit full timeout,76-64, ,,3,76,64,12,2023.0
+2:17.0,M. Flynn enters the game for M. Sasser,76-64, ,,3,76,64,12,2023.0
+2:17.0,T. Gibson enters the game for J. Wiseman,76-64, ,,3,76,64,12,2023.0
+2:17.0, ,76-64,J. Green enters the game for O. Prosper,,3,76,64,12,2023.0
+2:10.0,E. Fournier misses 2-pt jump shot from 4 ft,76-64, ,,3,76,64,12,2030.0
+2:08.0, ,76-64,Defensive rebound by J. Hardy,,3,76,64,12,2032.0
+2:04.0, ,76-64,B. Williams misses 2-pt layup from 4 ft (block by J. Rhoden),,3,76,64,12,2036.0
+2:00.0, ,76-64,Offensive rebound by J. Hardy,,3,76,64,12,2040.0
+2:00.0, ,76-66,J. Hardy makes 2-pt layup at rim,,3,76,66,10,2040.0
+1:38.0,C. Metu misses 2-pt jump shot from 22 ft,76-66, ,,3,76,66,10,2062.0
+1:35.0, ,76-66,Defensive rebound by A. Lawson,,3,76,66,10,2065.0
+1:35.0, ,76-66,Turnover by A. Lawson (step out of bounds),,3,76,66,10,2065.0
+1:35.0,T. Brown enters the game for C. Metu,76-66, ,,3,76,66,10,2065.0
+1:28.0,M. Flynn misses 3-pt jump shot from 26 ft,76-66, ,,3,76,66,10,2072.0
+1:27.0, ,76-66,Defensive rebound by Team,,3,76,66,10,2073.0
+1:12.0, ,76-68,M. Morris makes 2-pt layup from 3 ft,,3,76,68,8,2088.0
+0:51.0,T. Gibson misses 2-pt jump shot from 5 ft,76-68, ,,3,76,68,8,2109.0
+0:48.0,Offensive rebound by T. Gibson,76-68, ,,3,76,68,8,2112.0
+0:44.0,T. Brown makes 2-pt dunk from 1 ft (assist by T. Gibson),78-68, ,,3,78,68,10,2116.0
+0:27.0, ,78-68,J. Green misses 2-pt layup from 4 ft (block by T. Gibson),,3,78,68,10,2133.0
+0:24.0,Defensive rebound by J. Rhoden,78-68, ,,3,78,68,10,2136.0
+0:06.0,M. Flynn makes 2-pt jump shot from 12 ft,80-68, ,,3,80,68,12,2154.0
+0:01.0, ,80-68,B. Williams misses 2-pt layup from 1 ft (block by J. Rhoden),,3,80,68,12,2159.0
+0:00.0,Defensive rebound by T. Gibson,80-68, ,,3,80,68,12,2160.0
+0:00.0,End of 3rd quarter,80-68,,,3,80,68,12,2160.0
+12:00.0,Start of 4th quarter,80-68,,,4,80,68,12,2160.0
+11:44.0,J. Rhoden makes 2-pt jump shot from 17 ft (assist by T. Gibson),82-68, ,,4,82,68,14,2176.0
+11:20.0, ,82-68,Turnover by J. Hardy (bad pass; steal by M. Flynn),,4,82,68,14,2200.0
+11:18.0,M. Flynn makes 2-pt layup from 1 ft,84-68, ,,4,84,68,16,2202.0
+10:57.0, ,84-68,J. Hardy misses 2-pt layup from 2 ft,,4,84,68,16,2223.0
+10:56.0, ,84-68,Offensive rebound by D. Powell,,4,84,68,16,2224.0
+10:55.0, ,84-71,O. Prosper makes 3-pt jump shot from 24 ft (assist by D. Powell),,4,84,71,13,2225.0
+10:39.0,T. Brown misses 2-pt jump shot from 6 ft,84-71, ,,4,84,71,13,2241.0
+10:37.0, ,84-71,Defensive rebound by D. Powell,,4,84,71,13,2243.0
+10:27.0, ,84-73,O. Prosper makes 2-pt dunk from 1 ft (assist by J. Hardy),,4,84,73,11,2253.0
+10:05.0,E. Fournier misses 3-pt jump shot from 26 ft,84-73, ,,4,84,73,11,2275.0
+10:02.0, ,84-73,Defensive rebound by A. Fudge,,4,84,73,11,2278.0
+10:02.0, ,84-73,Turnover by A. Fudge (palming),,4,84,73,11,2278.0
+10:02.0,J. Wiseman enters the game for T. Gibson,84-73, ,,4,84,73,11,2278.0
+9:42.0,T. Brown misses 3-pt jump shot from 23 ft,84-73, ,,4,84,73,11,2298.0
+9:39.0, ,84-73,Defensive rebound by D. Powell,,4,84,73,11,2301.0
+9:27.0, ,84-76,J. Hardy makes 3-pt jump shot from 26 ft (assist by O. Prosper),,4,84,76,8,2313.0
+9:08.0,M. Flynn makes 2-pt jump shot from 14 ft,86-76, ,,4,86,76,10,2332.0
+8:43.0, ,86-78,B. Williams makes 2-pt jump shot from 19 ft,,4,86,78,8,2357.0
+8:31.0,M. Flynn misses 3-pt jump shot from 25 ft,86-78, ,,4,86,78,8,2369.0
+8:28.0, ,86-78,Defensive rebound by O. Prosper,,4,86,78,8,2372.0
+8:13.0, ,86-78,O. Prosper misses 2-pt jump shot from 17 ft,,4,86,78,8,2387.0
+8:12.0, ,86-78,Offensive rebound by D. Powell,,4,86,78,8,2388.0
+8:12.0, ,86-80,D. Powell makes 2-pt layup at rim,,4,86,80,6,2388.0
+8:12.0,Detroit full timeout,86-80, ,,4,86,80,6,2388.0
+8:12.0,C. Metu enters the game for T. Brown,86-80, ,,4,86,80,6,2388.0
+8:12.0,M. Sasser enters the game for M. Flynn,86-80, ,,4,86,80,6,2388.0
+7:51.0,M. Sasser misses 3-pt jump shot from 26 ft,86-80, ,,4,86,80,6,2409.0
+7:48.0, ,86-80,Defensive rebound by J. Hardy,,4,86,80,6,2412.0
+7:41.0, ,86-80,D. Powell misses 2-pt layup from 3 ft,,4,86,80,6,2419.0
+7:39.0,Defensive rebound by J. Wiseman,86-80, ,,4,86,80,6,2421.0
+7:25.0,E. Fournier makes 2-pt jump shot from 12 ft,88-80, ,,4,88,80,8,2435.0
+7:08.0, ,88-80,J. Hardy misses 2-pt layup from 3 ft (block by E. Fournier),,4,88,80,8,2452.0
+7:08.0,Defensive rebound by C. Metu,88-80, ,,4,88,80,8,2452.0
+7:05.0,Shooting foul by B. Williams (drawn by M. Sasser),88-80, ,,4,88,80,8,2455.0
+7:05.0,M. Sasser makes free throw 1 of 2,89-80, ,,4,89,80,9,2455.0
+7:05.0,J. Ivey enters the game for J. Rhoden,89-80, ,,4,89,80,9,2455.0
+7:05.0, ,89-80,A. Lawson enters the game for A. Fudge,,4,89,80,9,2455.0
+7:05.0, ,89-80,M. Morris enters the game for B. Williams,,4,89,80,9,2455.0
+7:05.0,M. Sasser makes free throw 2 of 2,90-80, ,,4,90,80,10,2455.0
+6:44.0, ,90-80,O. Prosper misses 2-pt jump shot from 5 ft,,4,90,80,10,2476.0
+6:42.0, ,90-80,Offensive rebound by D. Powell,,4,90,80,10,2478.0
+6:42.0, ,90-80,Personal foul by M. Sasser (drawn by D. Powell),,4,90,80,10,2478.0
+6:36.0, ,90-80,A. Lawson misses 2-pt layup from 2 ft,,4,90,80,10,2484.0
+6:35.0, ,90-80,Offensive rebound by D. Powell,,4,90,80,10,2485.0
+6:33.0, ,90-80,M. Morris misses 3-pt jump shot from 25 ft,,4,90,80,10,2487.0
+6:30.0, ,90-80,Offensive rebound by A. Lawson,,4,90,80,10,2490.0
+6:23.0, ,90-80,Shooting foul by E. Fournier (drawn by J. Hardy),,4,90,80,10,2497.0
+6:23.0, ,90-80,J. Hardy misses free throw 1 of 2,,4,90,80,10,2497.0
+6:23.0, ,90-80,Offensive rebound by Team,,4,90,80,10,2497.0
+6:23.0, ,90-81,J. Hardy makes free throw 2 of 2,,4,90,81,9,2497.0
+6:03.0,M. Sasser misses 3-pt jump shot from 26 ft,90-81, ,,4,90,81,9,2517.0
+5:59.0, ,90-81,Defensive rebound by A. Lawson,,4,90,81,9,2521.0
+5:52.0, ,90-84,J. Hardy makes 3-pt jump shot from 25 ft (assist by D. Powell),,4,90,84,6,2528.0
+5:40.0,E. Fournier makes 2-pt jump shot from 14 ft,92-84, ,,4,92,84,8,2540.0
+5:23.0, ,92-84,Turnover by D. Powell (bad pass; steal by J. Ivey),,4,92,84,8,2557.0
+5:15.0,J. Wiseman makes 2-pt hook shot from 9 ft (assist by J. Ivey),94-84, ,,4,94,84,10,2565.0
+5:02.0, ,94-86,J. Hardy makes 2-pt jump shot from 5 ft,,4,94,86,8,2578.0
+4:48.0,Personal foul by D. Powell (drawn by J. Wiseman),94-86, ,,4,94,86,8,2592.0
+4:39.0,M. Sasser makes 2-pt layup from 1 ft,96-86, ,,4,96,86,10,2601.0
+4:18.0, ,96-89,O. Prosper makes 3-pt jump shot from 25 ft (assist by J. Hardy),,4,96,89,7,2622.0
+4:18.0, ,96-89,Technical foul by J. Hardy,,4,96,89,7,2622.0
+4:18.0,M. Sasser makes technical free throw,97-89, ,,4,97,89,8,2622.0
+4:08.0,E. Fournier misses 3-pt jump shot from 25 ft,97-89, ,,4,97,89,8,2632.0
+4:03.0,Offensive rebound by J. Wiseman,97-89, ,,4,97,89,8,2637.0
+4:03.0,J. Wiseman misses 2-pt layup at rim,97-89, ,,4,97,89,8,2637.0
+4:03.0, ,97-89,Defensive rebound by M. Morris,,4,97,89,8,2637.0
+3:58.0, ,97-89,Turnover by J. Hardy (bad pass; steal by C. Metu),,4,97,89,8,2642.0
+3:37.0,M. Sasser misses 3-pt jump shot from 27 ft,97-89, ,,4,97,89,8,2663.0
+3:34.0, ,97-89,Defensive rebound by J. Hardy,,4,97,89,8,2666.0
+3:30.0, ,97-89,O. Prosper misses 2-pt layup from 2 ft,,4,97,89,8,2670.0
+3:27.0,Defensive rebound by E. Fournier,97-89, ,,4,97,89,8,2673.0
+3:23.0,Detroit full timeout,97-89, ,,4,97,89,8,2677.0
+3:06.0,Shooting foul by D. Powell (drawn by J. Ivey),97-89, ,,4,97,89,8,2694.0
+3:06.0,J. Ivey misses free throw 1 of 3,97-89, ,,4,97,89,8,2694.0
+3:06.0,Offensive rebound by Team,97-89, ,,4,97,89,8,2694.0
+3:06.0,J. Ivey makes free throw 2 of 3,98-89, ,,4,98,89,9,2694.0
+3:06.0,J. Ivey misses free throw 3 of 3,98-89, ,,4,98,89,9,2694.0
+3:02.0,Offensive rebound by C. Metu,98-89, ,,4,98,89,9,2698.0
+2:48.0,C. Metu makes 2-pt jump shot from 23 ft (assist by M. Sasser),100-89, ,,4,100,89,11,2712.0
+2:29.0, ,100-89,J. Hardy misses 2-pt jump shot from 2 ft,,4,100,89,11,2731.0
+2:28.0,Defensive rebound by C. Metu,100-89, ,,4,100,89,11,2732.0
+2:24.0,E. Fournier misses 2-pt layup from 2 ft (block by M. Morris),100-89, ,,4,100,89,11,2736.0
+2:21.0,Offensive rebound by E. Fournier,100-89, ,,4,100,89,11,2739.0
+2:08.0,C. Metu makes 3-pt jump shot from 25 ft,103-89, ,,4,103,89,14,2752.0
+1:55.0, ,103-89,Turnover by A. Lawson (back court),,4,103,89,14,2765.0
+1:55.0, ,103-89,A. Fudge enters the game for J. Hardy,,4,103,89,14,2765.0
+1:55.0, ,103-89,B. Williams enters the game for D. Powell,,4,103,89,14,2765.0
+1:41.0,E. Fournier misses 3-pt jump shot from 25 ft,103-89, ,,4,103,89,14,2779.0
+1:37.0, ,103-89,Defensive rebound by A. Lawson,,4,103,89,14,2783.0
+1:30.0, ,103-89,A. Lawson misses 2-pt layup from 5 ft,,4,103,89,14,2790.0
+1:29.0,Defensive rebound by M. Sasser,103-89, ,,4,103,89,14,2791.0
+1:09.0,M. Sasser makes 2-pt jump shot from 21 ft,105-89, ,,4,105,89,16,2811.0
+1:00.0, ,105-89,B. Williams misses 3-pt jump shot from 27 ft,,4,105,89,16,2820.0
+0:59.0,Defensive rebound by Team,105-89, ,,4,105,89,16,2821.0
+0:41.0,M. Sasser makes 2-pt layup from 1 ft,107-89, ,,4,107,89,18,2839.0
+0:32.0, ,107-89,M. Morris misses 3-pt jump shot from 27 ft,,4,107,89,18,2848.0
+0:30.0,Defensive rebound by Team,107-89, ,,4,107,89,18,2850.0
+0:06.0,Turnover by Team (shot clock),107-89, ,,4,107,89,18,2874.0
+0:00.0,End of 4th quarter,107-89,,,4,107,89,18,2880.0

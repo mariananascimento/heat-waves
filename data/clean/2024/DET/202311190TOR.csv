@@ -1,0 +1,498 @@
+Time,Detroit,Score,Toronto,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: I. Stewart vs. J. Poeltl (D. Schröder gains possession),0-0,,,1,0,0,0,0.0
+11:44.0, ,0-2,J. Poeltl makes 2-pt layup from 2 ft (assist by D. Schröder),,1,0,2,-2,16.0
+11:22.0,Shooting foul by J. Poeltl (drawn by K. Knox),0-2, ,,1,0,2,-2,38.0
+11:22.0,K. Knox makes free throw 1 of 2,1-2, ,,1,1,2,-1,38.0
+11:22.0,K. Knox misses free throw 2 of 2,1-2, ,,1,1,2,-1,38.0
+11:20.0, ,1-2,Defensive rebound by J. Poeltl,,1,1,2,-1,40.0
+11:07.0, ,1-4,P. Siakam makes 2-pt layup from 2 ft (assist by D. Schröder),,1,1,4,-3,53.0
+10:48.0,C. Cunningham makes 2-pt layup from 5 ft,3-4, ,,1,3,4,-1,72.0
+10:29.0, ,3-4,Shooting foul by J. Ivey (drawn by D. Schröder),,1,3,4,-1,91.0
+10:29.0, ,3-4,D. Schröder misses free throw 1 of 2,,1,3,4,-1,91.0
+10:29.0, ,3-4,Offensive rebound by Team,,1,3,4,-1,91.0
+10:29.0, ,3-5,D. Schröder makes free throw 2 of 2,,1,3,5,-2,91.0
+10:20.0,J. Ivey misses 3-pt jump shot from 28 ft,3-5, ,,1,3,5,-2,100.0
+10:16.0, ,3-5,Defensive rebound by J. Poeltl,,1,3,5,-2,104.0
+10:05.0, ,3-5,Turnover by S. Barnes (traveling),,1,3,5,-2,115.0
+9:49.0,K. Knox misses 3-pt jump shot from 24 ft,3-5, ,,1,3,5,-2,131.0
+9:44.0,Offensive rebound by I. Stewart,3-5, ,,1,3,5,-2,136.0
+9:41.0,K. Knox misses 2-pt dunk from 2 ft (block by J. Poeltl),3-5, ,,1,3,5,-2,139.0
+9:38.0, ,3-5,Defensive rebound by P. Siakam,,1,3,5,-2,142.0
+9:35.0, ,3-8,O. Anunoby makes 3-pt jump shot from 24 ft (assist by P. Siakam),,1,3,8,-5,145.0
+9:16.0,A. Thompson makes 2-pt jump shot from 9 ft,5-8, ,,1,5,8,-3,164.0
+9:02.0, ,5-10,O. Anunoby makes 2-pt jump shot from 17 ft (assist by D. Schröder),,1,5,10,-5,178.0
+8:46.0,I. Stewart misses 2-pt jump shot from 18 ft,5-10, ,,1,5,10,-5,194.0
+8:44.0, ,5-10,Defensive rebound by J. Poeltl,,1,5,10,-5,196.0
+8:39.0, ,5-10,P. Siakam misses 3-pt jump shot from 25 ft,,1,5,10,-5,201.0
+8:36.0,Defensive rebound by A. Thompson,5-10, ,,1,5,10,-5,204.0
+8:33.0,Turnover by A. Thompson (bad pass; steal by P. Siakam),5-10, ,,1,5,10,-5,207.0
+8:26.0, ,5-12,D. Schröder makes 2-pt jump shot from 14 ft,,1,5,12,-7,214.0
+8:13.0,I. Stewart misses 2-pt jump shot from 16 ft,5-12, ,,1,5,12,-7,227.0
+8:13.0, ,5-12,Defensive rebound by Team,,1,5,12,-7,227.0
+7:59.0, ,5-14,D. Schröder makes 2-pt layup from 6 ft (assist by P. Siakam),,1,5,14,-9,241.0
+7:58.0,Detroit full timeout,5-14, ,,1,5,14,-9,242.0
+7:44.0,J. Ivey makes 2-pt layup from 4 ft (assist by C. Cunningham),7-14, ,,1,7,14,-7,256.0
+7:29.0, ,7-14,P. Siakam misses 2-pt layup from 3 ft,,1,7,14,-7,271.0
+7:25.0,Defensive rebound by A. Thompson,7-14, ,,1,7,14,-7,275.0
+7:21.0,I. Stewart misses 3-pt jump shot from 26 ft,7-14, ,,1,7,14,-7,279.0
+7:17.0, ,7-14,Defensive rebound by S. Barnes,,1,7,14,-7,283.0
+7:10.0, ,7-14,Turnover by S. Barnes (lost ball; steal by A. Thompson),,1,7,14,-7,290.0
+7:07.0,Shooting foul by O. Anunoby (drawn by A. Thompson),7-14, ,,1,7,14,-7,293.0
+7:07.0,A. Thompson makes free throw 1 of 2,8-14, ,,1,8,14,-6,293.0
+7:07.0, ,8-14,G. Trent enters the game for S. Barnes,,1,8,14,-6,293.0
+7:07.0,A. Thompson makes free throw 2 of 2,9-14, ,,1,9,14,-5,293.0
+6:53.0, ,9-14,O. Anunoby misses 2-pt jump shot from 5 ft,,1,9,14,-5,307.0
+6:49.0, ,9-14,Offensive rebound by O. Anunoby,,1,9,14,-5,311.0
+6:49.0, ,9-14,O. Anunoby misses 2-pt layup at rim,,1,9,14,-5,311.0
+6:48.0,Defensive rebound by I. Stewart,9-14, ,,1,9,14,-5,312.0
+6:46.0,C. Cunningham makes 3-pt jump shot from 26 ft,12-14, ,,1,12,14,-2,314.0
+6:26.0, ,12-14,D. Schröder misses 2-pt layup from 4 ft,,1,12,14,-2,334.0
+6:24.0, ,12-14,Offensive rebound by J. Poeltl,,1,12,14,-2,336.0
+6:19.0, ,12-14,D. Schröder misses 3-pt jump shot from 24 ft,,1,12,14,-2,341.0
+6:18.0, ,12-14,Offensive rebound by Team,,1,12,14,-2,342.0
+6:18.0,Loose ball foul by K. Knox (drawn by J. Poeltl),12-14, ,,1,12,14,-2,342.0
+6:18.0,A. Burks enters the game for J. Ivey,12-14, ,,1,12,14,-2,342.0
+6:10.0, ,12-14,G. Trent misses 3-pt jump shot from 25 ft,,1,12,14,-2,350.0
+6:07.0,Defensive rebound by A. Burks,12-14, ,,1,12,14,-2,353.0
+6:00.0,C. Cunningham misses 2-pt layup from 5 ft,12-14, ,,1,12,14,-2,360.0
+5:58.0, ,12-14,Defensive rebound by O. Anunoby,,1,12,14,-2,362.0
+5:56.0, ,12-14,Turnover by O. Anunoby (bad pass; steal by K. Knox),,1,12,14,-2,364.0
+5:52.0,C. Cunningham misses 2-pt layup from 2 ft,12-14, ,,1,12,14,-2,368.0
+5:48.0,Offensive rebound by C. Cunningham,12-14, ,,1,12,14,-2,372.0
+5:48.0,C. Cunningham misses 2-pt layup at rim (block by J. Poeltl),12-14, ,,1,12,14,-2,372.0
+5:47.0, ,12-14,Defensive rebound by J. Poeltl,,1,12,14,-2,373.0
+5:34.0, ,12-14,P. Siakam misses 2-pt hook shot from 5 ft,,1,12,14,-2,386.0
+5:32.0,Defensive rebound by I. Stewart,12-14, ,,1,12,14,-2,388.0
+5:21.0,Turnover by K. Knox (bad pass),12-14, ,,1,12,14,-2,399.0
+5:21.0,M. Bagley enters the game for I. Stewart,12-14, ,,1,12,14,-2,399.0
+5:21.0, ,12-14,M. Flynn enters the game for O. Anunoby,,1,12,14,-2,399.0
+5:10.0, ,12-16,D. Schröder makes 2-pt layup from 2 ft (assist by J. Poeltl),,1,12,16,-4,410.0
+4:51.0,A. Burks makes 2-pt jump shot from 13 ft,14-16, ,,1,14,16,-2,429.0
+4:31.0, ,14-18,D. Schröder makes 2-pt jump shot from 18 ft,,1,14,18,-4,449.0
+4:16.0,C. Cunningham makes 2-pt jump shot from 19 ft (assist by M. Bagley),16-18, ,,1,16,18,-2,464.0
+4:02.0, ,16-20,D. Schröder makes 2-pt layup from 1 ft (assist by J. Poeltl),,1,16,20,-4,478.0
+3:48.0,K. Knox misses 2-pt jump shot from 12 ft,16-20, ,,1,16,20,-4,492.0
+3:45.0, ,16-20,Defensive rebound by J. Poeltl,,1,16,20,-4,495.0
+3:33.0, ,16-20,P. Siakam misses 2-pt hook shot from 7 ft,,1,16,20,-4,507.0
+3:30.0,Defensive rebound by C. Cunningham,16-20, ,,1,16,20,-4,510.0
+3:26.0,C. Cunningham misses 2-pt layup from 1 ft (block by J. Poeltl),16-20, ,,1,16,20,-4,514.0
+3:22.0, ,16-20,Defensive rebound by P. Siakam,,1,16,20,-4,518.0
+3:18.0, ,16-20,G. Trent misses 3-pt jump shot from 25 ft,,1,16,20,-4,522.0
+3:14.0, ,16-20,Offensive rebound by P. Siakam,,1,16,20,-4,526.0
+3:12.0, ,16-20,D. Schröder misses 3-pt jump shot from 24 ft,,1,16,20,-4,528.0
+3:09.0,Defensive rebound by A. Thompson,16-20, ,,1,16,20,-4,531.0
+3:03.0,K. Knox misses 3-pt jump shot from 25 ft,16-20, ,,1,16,20,-4,537.0
+3:00.0,Offensive rebound by M. Bagley,16-20, ,,1,16,20,-4,540.0
+3:00.0,M. Bagley makes 2-pt layup at rim,18-20, ,,1,18,20,-2,540.0
+3:00.0, ,18-20,Toronto full timeout,,1,18,20,-2,540.0
+3:00.0,M. Sasser enters the game for C. Cunningham,18-20, ,,1,18,20,-2,540.0
+3:00.0,S. Umude enters the game for K. Knox,18-20, ,,1,18,20,-2,540.0
+3:00.0, ,18-20,P. Achiuwa enters the game for J. Poeltl,,1,18,20,-2,540.0
+3:00.0, ,18-20,S. Barnes enters the game for D. Schröder,,1,18,20,-2,540.0
+2:40.0, ,18-22,S. Barnes makes 2-pt hook shot from 6 ft (assist by P. Siakam),,1,18,22,-4,560.0
+2:26.0,M. Sasser makes 2-pt jump shot from 12 ft,20-22, ,,1,20,22,-2,574.0
+2:13.0, ,20-24,G. Trent makes 2-pt jump shot from 8 ft (assist by P. Achiuwa),,1,20,24,-4,587.0
+2:13.0, ,20-24,Shooting foul by S. Umude (drawn by G. Trent),,1,20,24,-4,587.0
+2:13.0, ,20-25,G. Trent makes free throw 1 of 1,,1,20,25,-5,587.0
+2:00.0,A. Burks misses 2-pt jump shot from 9 ft,20-25, ,,1,20,25,-5,600.0
+1:59.0, ,20-25,Defensive rebound by Team,,1,20,25,-5,601.0
+1:42.0, ,20-25,S. Barnes misses 2-pt jump shot from 22 ft,,1,20,25,-5,618.0
+1:39.0,Defensive rebound by A. Thompson,20-25, ,,1,20,25,-5,621.0
+1:25.0,A. Burks misses 2-pt jump shot from 11 ft,20-25, ,,1,20,25,-5,635.0
+1:25.0,Offensive rebound by Team,20-25, ,,1,20,25,-5,635.0
+1:25.0, ,20-25,Loose ball foul by M. Flynn (drawn by M. Bagley),,1,20,25,-5,635.0
+1:25.0,K. Knox enters the game for A. Thompson,20-25, ,,1,20,25,-5,635.0
+1:25.0, ,20-25,C. Boucher enters the game for P. Siakam,,1,20,25,-5,635.0
+1:22.0,Turnover by A. Burks (back court),20-25, ,,1,20,25,-5,638.0
+1:11.0, ,20-28,P. Achiuwa makes 3-pt jump shot from 26 ft (assist by S. Barnes),,1,20,28,-8,649.0
+0:57.0,M. Sasser misses 2-pt jump shot from 18 ft,20-28, ,,1,20,28,-8,663.0
+0:54.0, ,20-28,Defensive rebound by C. Boucher,,1,20,28,-8,666.0
+0:46.0, ,20-30,S. Barnes makes 2-pt jump shot from 6 ft (assist by M. Flynn),,1,20,30,-10,674.0
+0:35.0,Turnover by S. Umude (bad pass; steal by M. Flynn),20-30, ,,1,20,30,-10,685.0
+0:34.0, ,20-32,P. Achiuwa makes 2-pt dunk from 1 ft (assist by M. Flynn),,1,20,32,-12,686.0
+0:15.0,A. Burks misses 3-pt jump shot from 25 ft,20-32, ,,1,20,32,-12,705.0
+0:12.0, ,20-32,Defensive rebound by C. Boucher,,1,20,32,-12,708.0
+0:00.0, ,20-32,G. Trent misses 3-pt jump shot from 27 ft,,1,20,32,-12,720.0
+0:00.0, ,20-32,Offensive rebound by Team,,1,20,32,-12,720.0
+0:00.0,End of 1st quarter,20-32,,,1,20,32,-12,720.0
+12:00.0,Start of 2nd quarter,20-32,,,2,20,32,-12,720.0
+11:56.0,Turnover by M. Sasser (bad pass),20-32, ,,2,20,32,-12,724.0
+11:49.0, ,20-34,P. Achiuwa makes 2-pt layup from 4 ft (assist by S. Barnes),,2,20,34,-14,731.0
+11:30.0,M. Bagley misses 2-pt jump shot from 10 ft,20-34, ,,2,20,34,-14,750.0
+11:26.0, ,20-34,Defensive rebound by C. Boucher,,2,20,34,-14,754.0
+11:20.0, ,20-36,C. Boucher makes 2-pt layup from 1 ft (assist by S. Barnes),,2,20,36,-16,760.0
+11:03.0,M. Bagley makes 2-pt dunk at rim (assist by S. Umude),22-36, ,,2,22,36,-14,777.0
+10:50.0, ,22-36,S. Barnes misses 2-pt jump shot from 9 ft,,2,22,36,-14,790.0
+10:46.0, ,22-36,Offensive rebound by S. Barnes,,2,22,36,-14,794.0
+10:46.0, ,22-38,S. Barnes makes 2-pt layup at rim,,2,22,38,-16,794.0
+10:26.0,Turnover by K. Knox (bad pass; steal by G. Dick),22-38, ,,2,22,38,-16,814.0
+10:21.0, ,22-38,Shooting foul by A. Burks (drawn by O. Anunoby),,2,22,38,-16,819.0
+10:21.0, ,22-38,O. Anunoby misses free throw 1 of 2,,2,22,38,-16,819.0
+10:21.0, ,22-38,Offensive rebound by Team,,2,22,38,-16,819.0
+10:21.0,C. Cunningham enters the game for M. Sasser,22-38, ,,2,22,38,-16,819.0
+10:21.0,J. Ivey enters the game for S. Umude,22-38, ,,2,22,38,-16,819.0
+10:21.0, ,22-39,O. Anunoby makes free throw 2 of 2,,2,22,39,-17,819.0
+10:11.0,M. Bagley makes 2-pt dunk from 1 ft (assist by J. Ivey),24-39, ,,2,24,39,-15,829.0
+9:59.0, ,24-42,P. Achiuwa makes 3-pt jump shot from 25 ft (assist by S. Barnes),,2,24,42,-18,841.0
+9:44.0,J. Ivey misses 3-pt jump shot from 25 ft,24-42, ,,2,24,42,-18,856.0
+9:41.0, ,24-42,Defensive rebound by P. Achiuwa,,2,24,42,-18,859.0
+9:33.0, ,24-45,S. Barnes makes 3-pt jump shot from 30 ft (assist by O. Anunoby),,2,24,45,-21,867.0
+9:33.0,Detroit full timeout,24-45, ,,2,24,45,-21,867.0
+9:33.0,I. Stewart enters the game for M. Bagley,24-45, ,,2,24,45,-21,867.0
+9:33.0,A. Thompson enters the game for K. Knox,24-45, ,,2,24,45,-21,867.0
+9:19.0,Shooting foul by G. Dick (drawn by A. Burks),24-45, ,,2,24,45,-21,881.0
+9:19.0,A. Burks makes free throw 1 of 2,25-45, ,,2,25,45,-20,881.0
+9:19.0,A. Burks makes free throw 2 of 2,26-45, ,,2,26,45,-19,881.0
+9:02.0, ,26-45,O. Anunoby misses 3-pt jump shot from 26 ft,,2,26,45,-19,898.0
+8:59.0,Defensive rebound by I. Stewart,26-45, ,,2,26,45,-19,901.0
+8:51.0,Shooting foul by C. Boucher (drawn by A. Burks),26-45, ,,2,26,45,-19,909.0
+8:51.0,A. Burks makes free throw 1 of 2,27-45, ,,2,27,45,-18,909.0
+8:51.0,A. Burks misses free throw 2 of 2,27-45, ,,2,27,45,-18,909.0
+8:48.0, ,27-45,Defensive rebound by O. Anunoby,,2,27,45,-18,912.0
+8:34.0, ,27-45,P. Achiuwa misses 2-pt jump shot from 16 ft,,2,27,45,-18,926.0
+8:30.0,Defensive rebound by A. Thompson,27-45, ,,2,27,45,-18,930.0
+8:17.0,Shooting foul by C. Boucher (drawn by A. Thompson),27-45, ,,2,27,45,-18,943.0
+8:17.0,A. Thompson misses free throw 1 of 2,27-45, ,,2,27,45,-18,943.0
+8:17.0,Offensive rebound by Team,27-45, ,,2,27,45,-18,943.0
+8:17.0,J. Wiseman enters the game for A. Burks,27-45, ,,2,27,45,-18,943.0
+8:17.0, ,27-45,G. Trent enters the game for G. Dick,,2,27,45,-18,943.0
+8:17.0,A. Thompson makes free throw 2 of 2,28-45, ,,2,28,45,-17,943.0
+8:02.0, ,28-45,O. Anunoby misses 2-pt jump shot from 3 ft (block by J. Wiseman),,2,28,45,-17,958.0
+7:59.0,Defensive rebound by J. Ivey,28-45, ,,2,28,45,-17,961.0
+7:55.0,I. Stewart misses 2-pt dunk from 1 ft,28-45, ,,2,28,45,-17,965.0
+7:53.0, ,28-45,Defensive rebound by Team,,2,28,45,-17,967.0
+7:42.0, ,28-48,S. Barnes makes 3-pt jump shot from 25 ft (assist by P. Achiuwa),,2,28,48,-20,978.0
+7:26.0,J. Wiseman makes 2-pt dunk from 1 ft (assist by C. Cunningham),30-48, ,,2,30,48,-18,994.0
+7:26.0, ,30-48,Toronto full timeout,,2,30,48,-18,994.0
+7:26.0, ,30-48,J. Poeltl enters the game for P. Achiuwa,,2,30,48,-18,994.0
+7:26.0, ,30-48,D. Schröder enters the game for S. Barnes,,2,30,48,-18,994.0
+7:26.0, ,30-48,P. Siakam enters the game for C. Boucher,,2,30,48,-18,994.0
+7:03.0, ,30-48,P. Siakam misses 2-pt jump shot from 17 ft,,2,30,48,-18,1017.0
+7:01.0,Defensive rebound by C. Cunningham,30-48, ,,2,30,48,-18,1019.0
+6:45.0,C. Cunningham misses 2-pt jump shot from 8 ft,30-48, ,,2,30,48,-18,1035.0
+6:41.0, ,30-48,Defensive rebound by O. Anunoby,,2,30,48,-18,1039.0
+6:33.0, ,30-48,Shooting foul by J. Wiseman (drawn by J. Poeltl),,2,30,48,-18,1047.0
+6:33.0, ,30-49,J. Poeltl makes free throw 1 of 2,,2,30,49,-19,1047.0
+6:33.0, ,30-50,J. Poeltl makes free throw 2 of 2,,2,30,50,-20,1047.0
+6:15.0,C. Cunningham makes 3-pt jump shot from 26 ft,33-50, ,,2,33,50,-17,1065.0
+5:59.0, ,33-50,O. Anunoby misses 3-pt jump shot from 25 ft,,2,33,50,-17,1081.0
+5:58.0,Defensive rebound by Team,33-50, ,,2,33,50,-17,1082.0
+5:58.0, ,33-50,Loose ball foul by J. Poeltl (drawn by A. Thompson),,2,33,50,-17,1082.0
+5:45.0,C. Cunningham makes 2-pt layup from 2 ft,35-50, ,,2,35,50,-15,1095.0
+5:31.0, ,35-52,G. Trent makes 2-pt jump shot from 23 ft (assist by D. Schröder),,2,35,52,-17,1109.0
+5:19.0,I. Stewart makes 3-pt jump shot from 25 ft (assist by C. Cunningham),38-52, ,,2,38,52,-14,1121.0
+5:17.0,Technical foul by I. Stewart,38-52, ,,2,38,52,-14,1123.0
+5:17.0, ,38-53,G. Trent makes technical free throw,,2,38,53,-15,1123.0
+5:17.0, ,38-53,Instant Replay,,2,38,53,-15,1123.0
+5:17.0, ,38-53,M. Flynn enters the game for O. Anunoby,,2,38,53,-15,1123.0
+4:58.0, ,38-53,Turnover by J. Poeltl (3 sec),,2,38,53,-15,1142.0
+4:43.0,J. Ivey misses 2-pt layup from 6 ft,38-53, ,,2,38,53,-15,1157.0
+4:39.0, ,38-53,Defensive rebound by M. Flynn,,2,38,53,-15,1161.0
+4:32.0, ,38-55,P. Siakam makes 2-pt jump shot from 8 ft (assist by G. Trent),,2,38,55,-17,1168.0
+4:15.0,J. Ivey misses 3-pt jump shot from 29 ft,38-55, ,,2,38,55,-17,1185.0
+4:12.0, ,38-55,Defensive rebound by J. Poeltl,,2,38,55,-17,1188.0
+4:12.0,A. Burks enters the game for J. Ivey,38-55, ,,2,38,55,-17,1188.0
+4:12.0, ,38-55,S. Barnes enters the game for M. Flynn,,2,38,55,-17,1188.0
+3:59.0,Jump ball: P. Siakam vs. A. Thompson (G. Trent gains possession),38-55,,,2,38,55,-17,1201.0
+3:53.0, ,38-57,J. Poeltl makes 2-pt layup from 3 ft (assist by D. Schröder),,2,38,57,-19,1207.0
+3:35.0,Shooting foul by G. Trent (drawn by C. Cunningham),38-57, ,,2,38,57,-19,1225.0
+3:35.0,C. Cunningham misses free throw 1 of 2,38-57, ,,2,38,57,-19,1225.0
+3:35.0,Offensive rebound by Team,38-57, ,,2,38,57,-19,1225.0
+3:35.0,C. Cunningham makes free throw 2 of 2,39-57, ,,2,39,57,-18,1225.0
+3:35.0,K. Knox enters the game for I. Stewart,39-57, ,,2,39,57,-18,1225.0
+3:24.0, ,39-60,S. Barnes makes 3-pt jump shot from 23 ft (assist by G. Trent),,2,39,60,-21,1236.0
+3:08.0,C. Cunningham makes 2-pt jump shot from 17 ft,41-60, ,,2,41,60,-19,1252.0
+2:53.0, ,41-62,P. Siakam makes 2-pt layup from 6 ft (assist by J. Poeltl),,2,41,62,-21,1267.0
+2:44.0,C. Cunningham misses 3-pt jump shot from 27 ft,41-62, ,,2,41,62,-21,1276.0
+2:42.0, ,41-62,Defensive rebound by P. Siakam,,2,41,62,-21,1278.0
+2:35.0, ,41-62,P. Siakam misses 2-pt layup from 3 ft,,2,41,62,-21,1285.0
+2:35.0,Defensive rebound by A. Thompson,41-62, ,,2,41,62,-21,1285.0
+2:29.0,A. Burks misses 3-pt jump shot from 23 ft,41-62, ,,2,41,62,-21,1291.0
+2:25.0, ,41-62,Defensive rebound by S. Barnes,,2,41,62,-21,1295.0
+2:23.0, ,41-64,J. Poeltl makes 2-pt dunk from 1 ft (assist by P. Siakam),,2,41,64,-23,1297.0
+2:23.0, ,41-64,Shooting foul by C. Cunningham (drawn by J. Poeltl),,2,41,64,-23,1297.0
+2:23.0,S. Umude enters the game for A. Thompson,41-64, ,,2,41,64,-23,1297.0
+2:23.0, ,41-65,J. Poeltl makes free throw 1 of 1,,2,41,65,-24,1297.0
+2:07.0,A. Burks misses 2-pt jump shot from 5 ft,41-65, ,,2,41,65,-24,1313.0
+2:04.0,Offensive rebound by A. Burks,41-65, ,,2,41,65,-24,1316.0
+2:04.0,A. Burks makes 2-pt layup at rim,43-65, ,,2,43,65,-22,1316.0
+1:53.0, ,43-67,D. Schröder makes 2-pt jump shot from 19 ft,,2,43,67,-24,1327.0
+1:37.0,Offensive foul by J. Wiseman (drawn by D. Schröder),43-67, ,,2,43,67,-24,1343.0
+1:37.0,Turnover by J. Wiseman (offensive foul),43-67, ,,2,43,67,-24,1343.0
+1:27.0, ,43-67,G. Trent misses 2-pt jump shot from 4 ft,,2,43,67,-24,1353.0
+1:24.0,Defensive rebound by K. Knox,43-67, ,,2,43,67,-24,1356.0
+1:08.0,Turnover by C. Cunningham (bad pass; steal by D. Schröder),43-67, ,,2,43,67,-24,1372.0
+1:04.0, ,43-67,P. Siakam misses 2-pt layup from 2 ft,,2,43,67,-24,1376.0
+1:03.0, ,43-67,Offensive rebound by Team,,2,43,67,-24,1377.0
+1:03.0,I. Stewart enters the game for J. Wiseman,43-67, ,,2,43,67,-24,1377.0
+1:03.0, ,43-67,O. Anunoby enters the game for J. Poeltl,,2,43,67,-24,1377.0
+0:54.0, ,43-67,D. Schröder misses 3-pt jump shot from 26 ft,,2,43,67,-24,1386.0
+0:52.0,Defensive rebound by K. Knox,43-67, ,,2,43,67,-24,1388.0
+0:42.0,C. Cunningham misses 2-pt jump shot from 13 ft,43-67, ,,2,43,67,-24,1398.0
+0:41.0, ,43-67,Defensive rebound by D. Schröder,,2,43,67,-24,1399.0
+0:36.0, ,43-69,P. Siakam makes 2-pt layup from 1 ft (assist by S. Barnes),,2,43,69,-26,1404.0
+0:20.0,I. Stewart makes 2-pt layup from 1 ft,45-69, ,,2,45,69,-24,1420.0
+0:02.0, ,45-69,D. Schröder misses 2-pt layup from 4 ft,,2,45,69,-24,1438.0
+0:01.0,Defensive rebound by C. Cunningham,45-69, ,,2,45,69,-24,1439.0
+0:00.0,K. Knox misses 2-pt layup from 5 ft,45-69, ,,2,45,69,-24,1440.0
+0:00.0,Offensive rebound by Team,45-69, ,,2,45,69,-24,1440.0
+0:00.0,End of 2nd quarter,45-69,,,2,45,69,-24,1440.0
+12:00.0,Start of 3rd quarter,45-69,,,3,45,69,-24,1440.0
+11:52.0,J. Ivey misses 3-pt jump shot from 25 ft,45-69, ,,3,45,69,-24,1448.0
+11:47.0,Offensive rebound by A. Thompson,45-69, ,,3,45,69,-24,1453.0
+11:43.0,Turnover by A. Thompson (lost ball; steal by J. Poeltl),45-69, ,,3,45,69,-24,1457.0
+11:37.0, ,45-69,S. Barnes misses 2-pt layup from 3 ft,,3,45,69,-24,1463.0
+11:36.0, ,45-69,Offensive rebound by P. Siakam,,3,45,69,-24,1464.0
+11:34.0, ,45-71,S. Barnes makes 2-pt dunk at rim (assist by J. Poeltl),,3,45,71,-26,1466.0
+11:19.0,A. Thompson misses 2-pt hook shot from 5 ft,45-71, ,,3,45,71,-26,1481.0
+11:18.0, ,45-71,Defensive rebound by S. Barnes,,3,45,71,-26,1482.0
+11:14.0, ,45-71,O. Anunoby misses 2-pt layup from 1 ft (block by A. Thompson),,3,45,71,-26,1486.0
+11:09.0, ,45-71,Offensive rebound by J. Poeltl,,3,45,71,-26,1491.0
+11:07.0, ,45-71,S. Barnes misses 3-pt jump shot from 26 ft,,3,45,71,-26,1493.0
+11:06.0,Defensive rebound by A. Thompson,45-71, ,,3,45,71,-26,1494.0
+10:59.0,K. Knox makes 2-pt hook shot from 7 ft,47-71, ,,3,47,71,-24,1501.0
+10:45.0, ,47-71,Technical foul by O. Anunoby,,3,47,71,-24,1515.0
+10:45.0,C. Cunningham misses technical free throw,47-71, ,,3,47,71,-24,1515.0
+10:45.0, ,47-71,Defensive rebound by Team,,3,47,71,-24,1515.0
+10:35.0, ,47-73,D. Schröder makes 2-pt jump shot from 2 ft (assist by S. Barnes),,3,47,73,-26,1525.0
+10:35.0,Violation by Team (def goaltending),47-73, ,,3,47,73,-26,1525.0
+10:19.0,C. Cunningham misses 3-pt jump shot from 25 ft,47-73, ,,3,47,73,-26,1541.0
+10:15.0, ,47-73,Defensive rebound by P. Siakam,,3,47,73,-26,1545.0
+10:09.0, ,47-73,Personal foul by A. Thompson (drawn by O. Anunoby),,3,47,73,-26,1551.0
+10:03.0, ,47-73,Shooting foul by I. Stewart (drawn by J. Poeltl),,3,47,73,-26,1557.0
+10:03.0, ,47-74,J. Poeltl makes free throw 1 of 2,,3,47,74,-27,1557.0
+10:03.0, ,47-74,J. Poeltl misses free throw 2 of 2,,3,47,74,-27,1557.0
+10:01.0,Defensive rebound by I. Stewart,47-74, ,,3,47,74,-27,1559.0
+9:45.0,K. Knox makes 3-pt jump shot from 24 ft (assist by A. Thompson),50-74, ,,3,50,74,-24,1575.0
+9:22.0, ,50-76,P. Siakam makes 2-pt jump shot from 12 ft,,3,50,76,-26,1598.0
+9:08.0,A. Thompson misses 3-pt jump shot from 25 ft,50-76, ,,3,50,76,-26,1612.0
+9:06.0, ,50-76,Defensive rebound by D. Schröder,,3,50,76,-26,1614.0
+9:03.0, ,50-76,Shooting foul by K. Knox (drawn by P. Siakam),,3,50,76,-26,1617.0
+9:03.0, ,50-77,P. Siakam makes free throw 1 of 2,,3,50,77,-27,1617.0
+9:03.0, ,50-78,P. Siakam makes free throw 2 of 2,,3,50,78,-28,1617.0
+8:43.0,I. Stewart makes 2-pt layup from 1 ft (assist by C. Cunningham),52-78, ,,3,52,78,-26,1637.0
+8:43.0,Shooting foul by J. Poeltl (drawn by I. Stewart),52-78, ,,3,52,78,-26,1637.0
+8:43.0,I. Stewart makes free throw 1 of 1,53-78, ,,3,53,78,-25,1637.0
+8:26.0, ,53-80,D. Schröder makes 2-pt jump shot from 9 ft,,3,53,80,-27,1654.0
+8:13.0,K. Knox misses 3-pt jump shot from 26 ft,53-80, ,,3,53,80,-27,1667.0
+8:13.0, ,53-80,Defensive rebound by S. Barnes,,3,53,80,-27,1667.0
+8:06.0, ,53-82,J. Poeltl makes 2-pt layup from 2 ft (assist by S. Barnes),,3,53,82,-29,1674.0
+7:55.0,K. Knox misses 2-pt layup from 2 ft,53-82, ,,3,53,82,-29,1685.0
+7:53.0, ,53-82,Defensive rebound by S. Barnes,,3,53,82,-29,1687.0
+7:50.0, ,53-82,D. Schröder misses 3-pt jump shot from 26 ft,,3,53,82,-29,1690.0
+7:46.0,Defensive rebound by K. Knox,53-82, ,,3,53,82,-29,1694.0
+7:42.0,Turnover by C. Cunningham (bad pass),53-82, ,,3,53,82,-29,1698.0
+7:27.0, ,53-84,P. Siakam makes 2-pt layup from 2 ft (assist by D. Schröder),,3,53,84,-31,1713.0
+7:25.0,Detroit full timeout,53-84, ,,3,53,84,-31,1715.0
+7:25.0, ,53-84,G. Trent enters the game for S. Barnes,,3,53,84,-31,1715.0
+7:15.0,Personal foul by O. Anunoby (drawn by I. Stewart),53-84, ,,3,53,84,-31,1725.0
+7:08.0,A. Thompson makes 2-pt layup from 1 ft (assist by I. Stewart),55-84, ,,3,55,84,-29,1732.0
+6:59.0, ,55-84,Personal foul by A. Thompson (drawn by D. Schröder),,3,55,84,-29,1741.0
+6:45.0, ,55-86,P. Siakam makes 2-pt layup from 6 ft (assist by O. Anunoby),,3,55,86,-31,1755.0
+6:37.0,Turnover by A. Thompson (off goaltending),55-86, ,,3,55,86,-31,1763.0
+6:37.0,M. Bagley enters the game for J. Ivey,55-86, ,,3,55,86,-31,1763.0
+6:37.0,A. Burks enters the game for K. Knox,55-86, ,,3,55,86,-31,1763.0
+6:20.0, ,55-86,Shooting foul by C. Cunningham (drawn by O. Anunoby),,3,55,86,-31,1780.0
+6:20.0, ,55-87,O. Anunoby makes free throw 1 of 2,,3,55,87,-32,1780.0
+6:20.0,S. Umude enters the game for A. Thompson,55-87, ,,3,55,87,-32,1780.0
+6:20.0, ,55-87,O. Anunoby misses free throw 2 of 2,,3,55,87,-32,1780.0
+6:18.0,Defensive rebound by A. Burks,55-87, ,,3,55,87,-32,1782.0
+5:56.0,A. Burks misses 2-pt jump shot from 13 ft,55-87, ,,3,55,87,-32,1804.0
+5:54.0, ,55-87,Defensive rebound by J. Poeltl,,3,55,87,-32,1806.0
+5:45.0, ,55-89,G. Trent makes 2-pt jump shot from 8 ft,,3,55,89,-34,1815.0
+5:32.0,C. Cunningham makes 3-pt jump shot from 27 ft,58-89, ,,3,58,89,-31,1828.0
+5:18.0, ,58-92,G. Trent makes 3-pt jump shot from 26 ft (assist by P. Siakam),,3,58,92,-34,1842.0
+4:58.0,C. Cunningham misses 2-pt jump shot from 18 ft,58-92, ,,3,58,92,-34,1862.0
+4:55.0, ,58-92,Defensive rebound by J. Poeltl,,3,58,92,-34,1865.0
+4:51.0, ,58-94,P. Siakam makes 2-pt layup from 1 ft,,3,58,94,-36,1869.0
+4:51.0, ,58-94,Shooting foul by A. Burks (drawn by P. Siakam),,3,58,94,-36,1869.0
+4:51.0,J. Wiseman enters the game for I. Stewart,58-94, ,,3,58,94,-36,1869.0
+4:51.0, ,58-94,M. Flynn enters the game for O. Anunoby,,3,58,94,-36,1869.0
+4:51.0, ,58-94,P. Siakam misses free throw 1 of 1,,3,58,94,-36,1869.0
+4:48.0, ,58-94,Offensive rebound by P. Siakam,,3,58,94,-36,1872.0
+4:44.0, ,58-94,G. Trent misses 3-pt jump shot from 27 ft,,3,58,94,-36,1876.0
+4:41.0,Defensive rebound by J. Wiseman,58-94, ,,3,58,94,-36,1879.0
+4:34.0,C. Cunningham misses 2-pt layup from 2 ft (block by G. Trent),58-94, ,,3,58,94,-36,1886.0
+4:33.0,Offensive rebound by C. Cunningham,58-94, ,,3,58,94,-36,1887.0
+4:32.0,Turnover by C. Cunningham (bad pass; steal by G. Trent),58-94, ,,3,58,94,-36,1888.0
+4:31.0, ,58-94,Personal foul by S. Umude (drawn by G. Trent),,3,58,94,-36,1889.0
+4:31.0, ,58-95,G. Trent makes free throw 1 of 1,,3,58,95,-37,1889.0
+4:31.0,M. Sasser enters the game for C. Cunningham,58-95, ,,3,58,95,-37,1889.0
+4:19.0, ,58-97,J. Poeltl makes 2-pt layup from 3 ft (assist by P. Siakam),,3,58,97,-39,1901.0
+4:02.0,S. Umude makes 3-pt jump shot from 23 ft (assist by J. Wiseman),61-97, ,,3,61,97,-36,1918.0
+3:53.0, ,61-97,Toronto full timeout,,3,61,97,-36,1927.0
+3:42.0, ,61-99,J. Poeltl makes 2-pt layup from 1 ft (assist by D. Schröder),,3,61,99,-38,1938.0
+3:26.0,A. Burks makes 3-pt jump shot from 26 ft (assist by M. Bagley),64-99, ,,3,64,99,-35,1954.0
+3:05.0, ,64-101,P. Siakam makes 2-pt jump shot from 7 ft,,3,64,101,-37,1975.0
+2:50.0,J. Wiseman misses 2-pt layup from 6 ft,64-101, ,,3,64,101,-37,1990.0
+2:48.0, ,64-101,Defensive rebound by G. Trent,,3,64,101,-37,1992.0
+2:44.0, ,64-101,D. Schröder misses 2-pt layup from 2 ft (block by S. Umude),,3,64,101,-37,1996.0
+2:42.0, ,64-101,Offensive rebound by Team,,3,64,101,-37,1998.0
+2:42.0, ,64-101,P. Achiuwa enters the game for J. Poeltl,,3,64,101,-37,1998.0
+2:34.0, ,64-101,P. Siakam misses 2-pt jump shot from 12 ft,,3,64,101,-37,2006.0
+2:32.0,Defensive rebound by S. Umude,64-101, ,,3,64,101,-37,2008.0
+2:14.0,M. Sasser makes 2-pt jump shot from 15 ft (assist by M. Bagley),66-101, ,,3,66,101,-35,2026.0
+2:03.0, ,66-101,Personal foul by M. Sasser (drawn by M. Flynn),,3,66,101,-35,2037.0
+2:03.0, ,66-101,M. Flynn misses free throw 1 of 2,,3,66,101,-35,2037.0
+2:03.0, ,66-101,Offensive rebound by Team,,3,66,101,-35,2037.0
+2:03.0, ,66-101,S. Barnes enters the game for D. Schröder,,3,66,101,-35,2037.0
+2:03.0, ,66-101,M. Flynn misses free throw 2 of 2,,3,66,101,-35,2037.0
+2:01.0,Defensive rebound by M. Bagley,66-101, ,,3,66,101,-35,2039.0
+1:46.0,J. Wiseman misses 2-pt jump shot from 15 ft,66-101, ,,3,66,101,-35,2054.0
+1:43.0, ,66-101,Defensive rebound by P. Achiuwa,,3,66,101,-35,2057.0
+1:38.0, ,66-104,P. Siakam makes 3-pt jump shot from 27 ft (assist by P. Achiuwa),,3,66,104,-38,2062.0
+1:21.0,Shooting foul by P. Siakam (drawn by A. Burks),66-104, ,,3,66,104,-38,2079.0
+1:21.0,A. Burks makes free throw 1 of 2,67-104, ,,3,67,104,-37,2079.0
+1:21.0, ,67-104,O. Anunoby enters the game for P. Siakam,,3,67,104,-37,2079.0
+1:21.0,A. Burks makes free throw 2 of 2,68-104, ,,3,68,104,-36,2079.0
+1:12.0, ,68-104,O. Anunoby misses 3-pt jump shot from 27 ft,,3,68,104,-36,2088.0
+1:09.0, ,68-104,Offensive rebound by S. Barnes,,3,68,104,-36,2091.0
+1:07.0, ,68-104,M. Flynn misses 3-pt jump shot from 26 ft,,3,68,104,-36,2093.0
+1:05.0,Defensive rebound by J. Wiseman,68-104, ,,3,68,104,-36,2095.0
+0:56.0,J. Wiseman makes 2-pt hook shot from 4 ft (assist by A. Burks),70-104, ,,3,70,104,-34,2104.0
+0:48.0, ,70-104,Offensive foul by S. Barnes (drawn by J. Wiseman),,3,70,104,-34,2112.0
+0:48.0, ,70-104,Turnover by S. Barnes (offensive foul),,3,70,104,-34,2112.0
+0:35.0,Turnover by M. Sasser (lost ball; steal by O. Anunoby),70-104, ,,3,70,104,-34,2125.0
+0:29.0, ,70-104,G. Trent misses 3-pt jump shot from 23 ft,,3,70,104,-34,2131.0
+0:26.0,Defensive rebound by A. Burks,70-104, ,,3,70,104,-34,2134.0
+0:07.0,Shooting foul by P. Achiuwa (drawn by A. Burks),70-104, ,,3,70,104,-34,2153.0
+0:07.0,A. Burks makes free throw 1 of 2,71-104, ,,3,71,104,-33,2153.0
+0:07.0,A. Burks makes free throw 2 of 2,72-104, ,,3,72,104,-32,2153.0
+0:00.0, ,72-104,O. Anunoby misses 3-pt jump shot from 27 ft,,3,72,104,-32,2160.0
+0:00.0, ,72-104,Offensive rebound by Team,,3,72,104,-32,2160.0
+0:00.0,End of 3rd quarter,72-104,,,3,72,104,-32,2160.0
+12:00.0,Start of 4th quarter,72-104,,,4,72,104,-32,2160.0
+11:47.0, ,72-107,G. Trent makes 3-pt jump shot from 25 ft (assist by S. Barnes),,4,72,107,-35,2173.0
+11:30.0,Shooting foul by C. Boucher (drawn by S. Umude),72-107, ,,4,72,107,-35,2190.0
+11:30.0,S. Umude misses free throw 1 of 3,72-107, ,,4,72,107,-35,2190.0
+11:30.0,Offensive rebound by Team,72-107, ,,4,72,107,-35,2190.0
+11:30.0,S. Umude makes free throw 2 of 3,73-107, ,,4,73,107,-34,2190.0
+11:30.0,A. Thompson enters the game for M. Bagley,73-107, ,,4,73,107,-34,2190.0
+11:30.0,S. Umude makes free throw 3 of 3,74-107, ,,4,74,107,-33,2190.0
+11:07.0, ,74-110,C. Boucher makes 3-pt jump shot from 23 ft (assist by O. Anunoby),,4,74,110,-36,2213.0
+10:44.0,Turnover by A. Thompson (lost ball; steal by O. Anunoby),74-110, ,,4,74,110,-36,2236.0
+10:41.0, ,74-110,Shooting foul by A. Burks (drawn by O. Anunoby),,4,74,110,-36,2239.0
+10:41.0, ,74-111,O. Anunoby makes free throw 1 of 2,,4,74,111,-37,2239.0
+10:41.0,J. Ivey enters the game for A. Burks,74-111, ,,4,74,111,-37,2239.0
+10:41.0, ,74-112,O. Anunoby makes free throw 2 of 2,,4,74,112,-38,2239.0
+10:27.0,A. Thompson makes 2-pt dunk from 2 ft (assist by J. Ivey),76-112, ,,4,76,112,-36,2253.0
+10:04.0, ,76-115,C. Boucher makes 3-pt jump shot from 22 ft (assist by S. Barnes),,4,76,115,-39,2276.0
+9:54.0,Shooting foul by C. Boucher (drawn by S. Umude),76-115, ,,4,76,115,-39,2286.0
+9:54.0,S. Umude makes free throw 1 of 2,77-115, ,,4,77,115,-38,2286.0
+9:54.0, ,77-115,M. Flynn enters the game for S. Barnes,,4,77,115,-38,2286.0
+9:54.0,S. Umude makes free throw 2 of 2,78-115, ,,4,78,115,-37,2286.0
+9:40.0, ,78-115,O. Anunoby misses 3-pt jump shot from 26 ft,,4,78,115,-37,2300.0
+9:37.0,Defensive rebound by S. Umude,78-115, ,,4,78,115,-37,2303.0
+9:34.0,M. Sasser makes 3-pt jump shot from 26 ft (assist by S. Umude),81-115, ,,4,81,115,-34,2306.0
+9:24.0, ,81-115,C. Boucher misses 3-pt jump shot from 26 ft,,4,81,115,-34,2316.0
+9:21.0,Defensive rebound by J. Ivey,81-115, ,,4,81,115,-34,2319.0
+9:10.0,M. Sasser misses 3-pt jump shot from 25 ft,81-115, ,,4,81,115,-34,2330.0
+9:06.0, ,81-115,Defensive rebound by O. Anunoby,,4,81,115,-34,2334.0
+8:57.0, ,81-117,G. Trent makes 2-pt jump shot from 17 ft,,4,81,117,-36,2343.0
+8:57.0, ,81-117,Shooting foul by A. Thompson (drawn by G. Trent),,4,81,117,-36,2343.0
+8:57.0, ,81-118,G. Trent makes free throw 1 of 1,,4,81,118,-37,2343.0
+8:47.0,Shooting foul by O. Anunoby (drawn by S. Umude),81-118, ,,4,81,118,-37,2353.0
+8:47.0,S. Umude makes free throw 1 of 2,82-118, ,,4,82,118,-36,2353.0
+8:47.0,S. Umude makes free throw 2 of 2,83-118, ,,4,83,118,-35,2353.0
+8:36.0, ,83-118,Personal foul by A. Thompson (drawn by O. Anunoby),,4,83,118,-35,2364.0
+8:23.0, ,83-120,C. Boucher makes 2-pt hook shot from 10 ft (assist by G. Trent),,4,83,120,-37,2377.0
+8:23.0, ,83-120,Shooting foul by J. Wiseman (drawn by C. Boucher),,4,83,120,-37,2377.0
+8:23.0, ,83-120,G. Dick enters the game for G. Trent,,4,83,120,-37,2377.0
+8:23.0, ,83-120,C. Boucher misses free throw 1 of 1,,4,83,120,-37,2377.0
+8:20.0, ,83-120,Offensive rebound by P. Achiuwa,,4,83,120,-37,2380.0
+8:12.0, ,83-120,C. Boucher misses 2-pt jump shot from 22 ft,,4,83,120,-37,2388.0
+8:10.0,Defensive rebound by A. Thompson,83-120, ,,4,83,120,-37,2390.0
+8:05.0,S. Umude makes 3-pt jump shot from 27 ft (assist by A. Thompson),86-120, ,,4,86,120,-34,2395.0
+8:03.0, ,86-120,Toronto full timeout,,4,86,120,-34,2397.0
+8:03.0, ,86-120,J. McDaniels enters the game for O. Anunoby,,4,86,120,-34,2397.0
+7:47.0, ,86-122,P. Achiuwa makes 2-pt jump shot from 6 ft (assist by C. Boucher),,4,86,122,-36,2413.0
+7:31.0,S. Umude misses 3-pt jump shot from 23 ft,86-122, ,,4,86,122,-36,2429.0
+7:29.0, ,86-122,Defensive rebound by M. Flynn,,4,86,122,-36,2431.0
+7:22.0, ,86-122,P. Achiuwa misses 3-pt jump shot from 27 ft,,4,86,122,-36,2438.0
+7:19.0,Defensive rebound by A. Thompson,86-122, ,,4,86,122,-36,2441.0
+7:12.0,Turnover by A. Thompson (bad pass; steal by C. Boucher),86-122, ,,4,86,122,-36,2448.0
+7:08.0, ,86-122,P. Achiuwa misses 2-pt layup from 2 ft,,4,86,122,-36,2452.0
+7:06.0,Defensive rebound by S. Umude,86-122, ,,4,86,122,-36,2454.0
+7:04.0,J. Ivey makes 2-pt layup from 1 ft (assist by S. Umude),88-122, ,,4,88,122,-34,2456.0
+7:04.0,Shooting foul by M. Flynn (drawn by J. Ivey),88-122, ,,4,88,122,-34,2456.0
+7:04.0,J. Ivey misses free throw 1 of 1,88-122, ,,4,88,122,-34,2456.0
+7:02.0, ,88-122,Defensive rebound by C. Boucher,,4,88,122,-34,2458.0
+6:46.0, ,88-125,M. Flynn makes 3-pt jump shot from 27 ft (assist by P. Achiuwa),,4,88,125,-37,2474.0
+6:29.0,Turnover by M. Sasser (lost ball; steal by M. Flynn),88-125, ,,4,88,125,-37,2491.0
+6:26.0, ,88-127,M. Flynn makes 2-pt layup from 2 ft,,4,88,127,-39,2494.0
+6:23.0, ,88-127,Violation by Team (delay of game),,4,88,127,-39,2497.0
+6:14.0,Offensive foul by J. Wiseman (drawn by M. Flynn),88-127, ,,4,88,127,-39,2506.0
+6:14.0,Turnover by J. Wiseman (offensive foul),88-127, ,,4,88,127,-39,2506.0
+6:01.0, ,88-127,G. Dick misses 3-pt jump shot from 25 ft,,4,88,127,-39,2519.0
+5:57.0,Defensive rebound by J. Wiseman,88-127, ,,4,88,127,-39,2523.0
+5:50.0,J. Ivey misses 3-pt jump shot from 30 ft,88-127, ,,4,88,127,-39,2530.0
+5:46.0, ,88-127,Defensive rebound by P. Achiuwa,,4,88,127,-39,2534.0
+5:44.0, ,88-127,P. Achiuwa misses 2-pt layup from 5 ft,,4,88,127,-39,2536.0
+5:44.0, ,88-127,Offensive rebound by C. Boucher,,4,88,127,-39,2536.0
+5:43.0, ,88-127,Shooting foul by A. Thompson (drawn by C. Boucher),,4,88,127,-39,2537.0
+5:43.0, ,88-127,C. Boucher misses free throw 1 of 2,,4,88,127,-39,2537.0
+5:43.0, ,88-127,Offensive rebound by Team,,4,88,127,-39,2537.0
+5:43.0, ,88-128,C. Boucher makes free throw 2 of 2,,4,88,128,-40,2537.0
+5:30.0,M. Sasser makes 2-pt jump shot from 18 ft (assist by J. Ivey),90-128, ,,4,90,128,-38,2550.0
+5:16.0, ,90-128,J. McDaniels misses 3-pt jump shot from 27 ft,,4,90,128,-38,2564.0
+5:12.0, ,90-128,Offensive rebound by P. Achiuwa,,4,90,128,-38,2568.0
+5:10.0, ,90-130,J. McDaniels makes 2-pt jump shot from 10 ft (assist by P. Achiuwa),,4,90,130,-40,2570.0
+4:56.0,J. Wiseman makes 2-pt layup from 2 ft (assist by J. Ivey),92-130, ,,4,92,130,-38,2584.0
+4:41.0, ,92-130,P. Achiuwa misses 3-pt jump shot from 26 ft,,4,92,130,-38,2599.0
+4:40.0, ,92-130,Offensive rebound by P. Achiuwa,,4,92,130,-38,2600.0
+4:39.0, ,92-130,Shooting foul by A. Thompson (drawn by P. Achiuwa),,4,92,130,-38,2601.0
+4:39.0,K. Knox enters the game for A. Thompson,92-130, ,,4,92,130,-38,2601.0
+4:39.0, ,92-130,P. Achiuwa misses free throw 1 of 2,,4,92,130,-38,2601.0
+4:39.0, ,92-130,Offensive rebound by Team,,4,92,130,-38,2601.0
+4:39.0, ,92-130,P. Achiuwa misses free throw 2 of 2,,4,92,130,-38,2601.0
+4:38.0, ,92-130,Offensive rebound by Team,,4,92,130,-38,2602.0
+4:32.0, ,92-130,G. Dick misses 2-pt jump shot from 11 ft,,4,92,130,-38,2608.0
+4:30.0,Defensive rebound by M. Sasser,92-130, ,,4,92,130,-38,2610.0
+4:24.0,S. Umude makes 2-pt layup from 3 ft (assist by M. Sasser),94-130, ,,4,94,130,-36,2616.0
+4:08.0, ,94-132,M. Flynn makes 2-pt jump shot from 11 ft (assist by J. McDaniels),,4,94,132,-38,2632.0
+3:51.0,S. Umude makes 2-pt layup from 1 ft (assist by M. Sasser),96-132, ,,4,96,132,-36,2649.0
+3:39.0, ,96-132,Personal foul by K. Knox (drawn by G. Dick),,4,96,132,-36,2661.0
+3:39.0, ,96-133,G. Dick makes free throw 1 of 2,,4,96,133,-37,2661.0
+3:39.0, ,96-133,R. Harper enters the game for P. Achiuwa,,4,96,133,-37,2661.0
+3:39.0,Detroit full timeout,96-133, ,,4,96,133,-37,2661.0
+3:39.0, ,96-134,G. Dick makes free throw 2 of 2,,4,96,134,-38,2661.0
+3:28.0,Personal foul by M. Flynn (drawn by J. Ivey),96-134, ,,4,96,134,-38,2672.0
+3:28.0,J. Ivey makes free throw 1 of 2,97-134, ,,4,97,134,-37,2672.0
+3:28.0,J. Ivey makes free throw 2 of 2,98-134, ,,4,98,134,-36,2672.0
+3:10.0, ,98-134,M. Flynn misses 2-pt jump shot from 14 ft,,4,98,134,-36,2690.0
+3:08.0,Defensive rebound by J. Ivey,98-134, ,,4,98,134,-36,2692.0
+3:06.0,Personal foul by R. Harper (drawn by J. Wiseman),98-134, ,,4,98,134,-36,2694.0
+3:06.0,J. Wiseman makes free throw 1 of 2,99-134, ,,4,99,134,-35,2694.0
+3:06.0,J. Wiseman misses free throw 2 of 2,99-134, ,,4,99,134,-35,2694.0
+3:03.0, ,99-134,Defensive rebound by C. Boucher,,4,99,134,-35,2697.0
+2:47.0, ,99-137,G. Dick makes 3-pt jump shot from 31 ft (assist by M. Flynn),,4,99,137,-38,2713.0
+2:41.0,J. Ivey makes 2-pt jump shot from 6 ft,101-137, ,,4,101,137,-36,2719.0
+2:41.0,Shooting foul by M. Flynn (drawn by J. Ivey),101-137, ,,4,101,137,-36,2719.0
+2:41.0,J. Ivey makes free throw 1 of 1,102-137, ,,4,102,137,-35,2719.0
+2:22.0,Violation by Team (kicked ball),102-137, ,,4,102,137,-35,2738.0
+2:15.0, ,102-137,Turnover by J. McDaniels (out of bounds lost ball),,4,102,137,-35,2745.0
+2:02.0,Shooting foul by R. Harper (drawn by J. Wiseman),102-137, ,,4,102,137,-35,2758.0
+2:02.0,J. Wiseman makes free throw 1 of 2,103-137, ,,4,103,137,-34,2758.0
+2:02.0,J. Wiseman makes free throw 2 of 2,104-137, ,,4,104,137,-33,2758.0
+1:49.0, ,104-140,C. Boucher makes 3-pt jump shot from 26 ft (assist by M. Flynn),,4,104,140,-36,2771.0
+1:45.0,J. Wiseman makes 2-pt dunk from 1 ft (assist by M. Sasser),106-140, ,,4,106,140,-34,2775.0
+1:38.0, ,106-140,Turnover by M. Flynn (lost ball; steal by M. Sasser),,4,106,140,-34,2782.0
+1:34.0,J. Ivey misses 2-pt layup from 3 ft,106-140, ,,4,106,140,-34,2786.0
+1:33.0,Offensive rebound by Team,106-140, ,,4,106,140,-34,2787.0
+1:30.0,S. Umude makes 2-pt layup from 8 ft (assist by M. Sasser),108-140, ,,4,108,140,-32,2790.0
+1:30.0,Shooting foul by J. McDaniels (drawn by S. Umude),108-140, ,,4,108,140,-32,2790.0
+1:30.0,S. Umude makes free throw 1 of 1,109-140, ,,4,109,140,-31,2790.0
+1:12.0, ,109-142,J. McDaniels makes 2-pt layup from 4 ft (assist by R. Harper),,4,109,142,-33,2808.0
+1:01.0,J. Wiseman makes 2-pt layup from 2 ft (assist by M. Sasser),111-142, ,,4,111,142,-31,2819.0
+1:01.0,Shooting foul by G. Dick (drawn by J. Wiseman),111-142, ,,4,111,142,-31,2819.0
+1:01.0,J. Wiseman misses free throw 1 of 1,111-142, ,,4,111,142,-31,2819.0
+0:59.0, ,111-142,Defensive rebound by J. McDaniels,,4,111,142,-31,2821.0
+0:52.0, ,111-142,J. McDaniels misses 2-pt jump shot from 9 ft,,4,111,142,-31,2828.0
+0:50.0,Defensive rebound by S. Umude,111-142, ,,4,111,142,-31,2830.0
+0:42.0,K. Knox misses 3-pt jump shot from 23 ft (block by C. Boucher),111-142, ,,4,111,142,-31,2838.0
+0:41.0,Offensive rebound by Team,111-142, ,,4,111,142,-31,2839.0
+0:35.0,K. Knox misses 2-pt hook shot from 9 ft,111-142, ,,4,111,142,-31,2845.0
+0:33.0,Offensive rebound by K. Knox,111-142, ,,4,111,142,-31,2847.0
+0:29.0,J. Wiseman makes 2-pt layup at rim (assist by M. Sasser),113-142, ,,4,113,142,-29,2851.0
+0:05.0, ,113-142,Turnover by Team (shot clock),,4,113,142,-29,2875.0
+0:00.0,End of 4th quarter,113-142,,,4,113,142,-29,2880.0

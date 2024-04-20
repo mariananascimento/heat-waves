@@ -1,0 +1,472 @@
+Time,Detroit,Score,Brooklyn,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: I. Stewart vs. N. Claxton (J. Ivey gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,A. Thompson makes 2-pt dunk from 1 ft (assist by J. Ivey),2-0, ,,1,2,0,2,17.0
+11:43.0,Shooting foul by N. Claxton (drawn by A. Thompson),2-0, ,,1,2,0,2,17.0
+11:43.0,A. Thompson makes free throw 1 of 1,3-0, ,,1,3,0,3,17.0
+11:20.0, ,3-0,C. Johnson misses 3-pt jump shot from 23 ft (block by J. Ivey),,1,3,0,3,40.0
+11:14.0,Defensive rebound by I. Stewart,3-0, ,,1,3,0,3,46.0
+11:08.0,C. Cunningham makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),6-0, ,,1,6,0,6,52.0
+10:49.0, ,6-0,Shooting foul by J. Ivey (drawn by S. Dinwiddie),,1,6,0,6,71.0
+10:49.0, ,6-0,S. Dinwiddie misses free throw 1 of 2,,1,6,0,6,71.0
+10:49.0, ,6-0,Offensive rebound by Team,,1,6,0,6,71.0
+10:49.0, ,6-0,S. Dinwiddie misses free throw 2 of 2,,1,6,0,6,71.0
+10:46.0,Defensive rebound by I. Stewart,6-0, ,,1,6,0,6,74.0
+10:37.0,Turnover by B. Bogdanović (bad pass; steal by C. Thomas),6-0, ,,1,6,0,6,83.0
+10:34.0, ,6-2,M. Bridges makes 2-pt layup at rim (assist by C. Thomas),,1,6,2,4,86.0
+10:34.0, ,6-2,Shooting foul by C. Cunningham (drawn by M. Bridges),,1,6,2,4,86.0
+10:34.0, ,6-3,M. Bridges makes free throw 1 of 1,,1,6,3,3,86.0
+10:19.0,A. Thompson misses 3-pt jump shot from 26 ft,6-3, ,,1,6,3,3,101.0
+10:16.0, ,6-3,Defensive rebound by Team,,1,6,3,3,104.0
+10:05.0, ,6-3,M. Bridges misses 3-pt jump shot from 24 ft,,1,6,3,3,115.0
+10:01.0,Defensive rebound by I. Stewart,6-3, ,,1,6,3,3,119.0
+9:50.0,Turnover by J. Ivey (bad pass; steal by S. Dinwiddie),6-3, ,,1,6,3,3,130.0
+9:42.0, ,6-3,C. Thomas misses 2-pt jump shot from 13 ft,,1,6,3,3,138.0
+9:36.0, ,6-3,Offensive rebound by M. Bridges,,1,6,3,3,144.0
+9:36.0, ,6-5,M. Bridges makes 2-pt layup at rim,,1,6,5,1,144.0
+9:27.0,C. Cunningham misses 2-pt jump shot from 13 ft,6-5, ,,1,6,5,1,153.0
+9:23.0, ,6-5,Defensive rebound by S. Dinwiddie,,1,6,5,1,157.0
+9:09.0, ,6-5,Turnover by C. Thomas (bad pass; steal by B. Bogdanović),,1,6,5,1,171.0
+9:05.0,J. Ivey misses 3-pt jump shot from 25 ft,6-5, ,,1,6,5,1,175.0
+9:03.0, ,6-5,Defensive rebound by Team,,1,6,5,1,177.0
+8:46.0, ,6-7,N. Claxton makes 2-pt hook shot from 3 ft (assist by C. Thomas),Lead change,1,6,7,-1,194.0
+8:28.0,A. Thompson makes 3-pt jump shot from 23 ft (assist by C. Cunningham),9-7, ,Lead change,1,9,7,2,212.0
+8:14.0, ,9-7,Turnover by N. Claxton (bad pass),,1,9,7,2,226.0
+8:08.0,C. Cunningham misses 3-pt jump shot from 25 ft,9-7, ,,1,9,7,2,232.0
+8:04.0, ,9-7,Defensive rebound by N. Claxton,,1,9,7,2,236.0
+7:56.0, ,9-10,M. Bridges makes 3-pt jump shot from 24 ft (assist by C. Thomas),Lead change,1,9,10,-1,244.0
+7:41.0,I. Stewart makes 2-pt dunk at rim (assist by B. Bogdanović),11-10, ,Lead change,1,11,10,1,259.0
+7:24.0, ,11-10,Personal foul by C. Cunningham (drawn by C. Thomas),,1,11,10,1,276.0
+7:24.0,J. Harris enters the game for A. Thompson,11-10, ,,1,11,10,1,276.0
+7:24.0, ,11-10,D. Finney-Smith enters the game for N. Claxton,,1,11,10,1,276.0
+7:24.0, ,11-10,D. Sharpe enters the game for C. Thomas,,1,11,10,1,276.0
+7:15.0, ,11-12,M. Bridges makes 2-pt jump shot from 10 ft,Lead change,1,11,12,-1,285.0
+6:52.0,J. Ivey makes 2-pt layup from 4 ft,13-12, ,Lead change,1,13,12,1,308.0
+6:38.0, ,13-12,M. Bridges misses 2-pt jump shot from 14 ft,,1,13,12,1,322.0
+6:33.0,Defensive rebound by I. Stewart,13-12, ,,1,13,12,1,327.0
+6:29.0,Personal foul by C. Johnson (drawn by J. Ivey),13-12, ,,1,13,12,1,331.0
+6:29.0, ,13-12,Brooklyn full timeout,,1,13,12,1,331.0
+6:23.0,C. Cunningham makes 2-pt jump shot from 19 ft,15-12, ,,1,15,12,3,337.0
+5:59.0, ,15-14,D. Sharpe makes 2-pt layup from 3 ft (assist by S. Dinwiddie),,1,15,14,1,361.0
+5:40.0,B. Bogdanović misses 3-pt jump shot from 26 ft,15-14, ,,1,15,14,1,380.0
+5:37.0, ,15-14,Defensive rebound by S. Dinwiddie,,1,15,14,1,383.0
+5:18.0, ,15-16,M. Bridges makes 2-pt layup from 2 ft (assist by D. Sharpe),Lead change,1,15,16,-1,402.0
+5:03.0,Turnover by J. Ivey (out of bounds lost ball),15-16, ,,1,15,16,-1,417.0
+5:03.0,A. Burks enters the game for C. Cunningham,15-16, ,,1,15,16,-1,417.0
+5:03.0,M. Sasser enters the game for J. Ivey,15-16, ,,1,15,16,-1,417.0
+4:50.0, ,15-18,D. Finney-Smith makes 2-pt jump shot from 4 ft (assist by S. Dinwiddie),,1,15,18,-3,430.0
+4:37.0,A. Burks makes 2-pt jump shot from 15 ft (assist by I. Stewart),17-18, ,,1,17,18,-1,443.0
+4:25.0, ,17-18,Shooting foul by I. Stewart (drawn by M. Bridges),,1,17,18,-1,455.0
+4:25.0, ,17-19,M. Bridges makes free throw 1 of 2,,1,17,19,-2,455.0
+4:25.0,M. Bagley enters the game for B. Bogdanović,17-19, ,,1,17,19,-2,455.0
+4:25.0,K. Knox enters the game for I. Stewart,17-19, ,,1,17,19,-2,455.0
+4:25.0, ,17-19,R. O'Neale enters the game for C. Johnson,,1,17,19,-2,455.0
+4:25.0, ,17-20,M. Bridges makes free throw 2 of 2,,1,17,20,-3,455.0
+4:03.0,Turnover by A. Burks (lost ball; steal by D. Finney-Smith),17-20, ,,1,17,20,-3,477.0
+3:50.0, ,17-22,D. Sharpe makes 2-pt dunk from 2 ft (assist by S. Dinwiddie),,1,17,22,-5,490.0
+3:31.0,K. Knox makes 3-pt jump shot from 26 ft (assist by A. Burks),20-22, ,,1,20,22,-2,509.0
+3:19.0, ,20-25,S. Dinwiddie makes 3-pt jump shot from 25 ft,,1,20,25,-5,521.0
+2:51.0,K. Knox misses 2-pt jump shot from 11 ft,20-25, ,,1,20,25,-5,549.0
+2:50.0,Offensive rebound by M. Bagley,20-25, ,,1,20,25,-5,550.0
+2:50.0,M. Bagley misses 2-pt layup from 1 ft,20-25, ,,1,20,25,-5,550.0
+2:46.0, ,20-25,Defensive rebound by D. Sharpe,,1,20,25,-5,554.0
+2:35.0, ,20-25,D. Sharpe misses 2-pt layup from 1 ft,,1,20,25,-5,565.0
+2:34.0, ,20-25,Offensive rebound by Team,,1,20,25,-5,566.0
+2:34.0,Detroit full timeout,20-25, ,,1,20,25,-5,566.0
+2:34.0,A. Thompson enters the game for J. Harris,20-25, ,,1,20,25,-5,566.0
+2:34.0, ,20-25,N. Claxton enters the game for M. Bridges,,1,20,25,-5,566.0
+2:34.0, ,20-25,C. Thomas enters the game for D. Sharpe,,1,20,25,-5,566.0
+2:34.0, ,20-25,Personal foul by M. Sasser (drawn by S. Dinwiddie),,1,20,25,-5,566.0
+2:34.0, ,20-26,S. Dinwiddie makes free throw 1 of 2,,1,20,26,-6,566.0
+2:34.0, ,20-27,S. Dinwiddie makes free throw 2 of 2,,1,20,27,-7,566.0
+2:21.0,M. Sasser misses 3-pt jump shot from 26 ft,20-27, ,,1,20,27,-7,579.0
+2:17.0, ,20-27,Defensive rebound by N. Claxton,,1,20,27,-7,583.0
+2:12.0, ,20-27,S. Dinwiddie misses 3-pt jump shot from 27 ft,,1,20,27,-7,588.0
+2:08.0,Defensive rebound by M. Bagley,20-27, ,,1,20,27,-7,592.0
+1:57.0,A. Burks misses 2-pt layup from 3 ft,20-27, ,,1,20,27,-7,603.0
+1:54.0, ,20-27,Defensive rebound by R. O'Neale,,1,20,27,-7,606.0
+1:39.0, ,20-29,C. Thomas makes 2-pt jump shot from 12 ft (assist by S. Dinwiddie),,1,20,29,-9,621.0
+1:39.0, ,20-29,Shooting foul by M. Sasser (drawn by C. Thomas),,1,20,29,-9,621.0
+1:39.0, ,20-29,D. Smith enters the game for S. Dinwiddie,,1,20,29,-9,621.0
+1:39.0, ,20-30,C. Thomas makes free throw 1 of 1,,1,20,30,-10,621.0
+1:28.0,Personal foul by D. Smith (drawn by M. Sasser),20-30, ,,1,20,30,-10,632.0
+1:22.0,Shooting foul by C. Thomas (drawn by A. Thompson),20-30, ,,1,20,30,-10,638.0
+1:22.0,A. Thompson misses free throw 1 of 2,20-30, ,,1,20,30,-10,638.0
+1:22.0,Offensive rebound by Team,20-30, ,,1,20,30,-10,638.0
+1:22.0,A. Thompson makes free throw 2 of 2,21-30, ,,1,21,30,-9,638.0
+1:22.0,B. Bogdanović enters the game for A. Burks,21-30, ,,1,21,30,-9,638.0
+0:57.0, ,21-30,N. Claxton misses 2-pt jump shot from 15 ft,,1,21,30,-9,663.0
+0:56.0, ,21-30,Offensive rebound by Team,,1,21,30,-9,664.0
+0:56.0, ,21-30,Turnover by Team (shot clock),,1,21,30,-9,664.0
+0:48.0,Turnover by M. Sasser (bad pass),21-30, ,,1,21,30,-9,672.0
+0:36.0, ,21-30,N. Claxton misses 2-pt jump shot from 12 ft,,1,21,30,-9,684.0
+0:31.0,Defensive rebound by M. Sasser,21-30, ,,1,21,30,-9,689.0
+0:31.0,Turnover by M. Sasser (bad pass; steal by N. Claxton),21-30, ,,1,21,30,-9,689.0
+0:31.0, ,21-30,C. Johnson enters the game for N. Claxton,,1,21,30,-9,689.0
+0:24.0, ,21-32,C. Thomas makes 2-pt jump shot from 5 ft,,1,21,32,-11,696.0
+0:03.0,B. Bogdanović misses 2-pt jump shot from 10 ft,21-32, ,,1,21,32,-11,717.0
+0:03.0, ,21-32,Defensive rebound by R. O'Neale,,1,21,32,-11,717.0
+0:00.0,End of 1st quarter,21-32,,,1,21,32,-11,720.0
+12:00.0,Start of 2nd quarter,21-32,,,2,21,32,-11,720.0
+11:47.0, ,21-34,C. Thomas makes 2-pt jump shot from 12 ft (assist by D. Smith),,2,21,34,-13,733.0
+11:23.0,K. Knox makes 3-pt jump shot from 23 ft (assist by C. Cunningham),24-34, ,,2,24,34,-10,757.0
+10:55.0, ,24-34,D. Smith misses 2-pt jump shot from 22 ft,,2,24,34,-10,785.0
+10:52.0,Defensive rebound by C. Cunningham,24-34, ,,2,24,34,-10,788.0
+10:49.0,K. Knox makes 2-pt dunk from 1 ft (assist by C. Cunningham),26-34, ,,2,26,34,-8,791.0
+10:49.0,Shooting foul by D. Smith (drawn by K. Knox),26-34, ,,2,26,34,-8,791.0
+10:49.0, ,26-34,Brooklyn full timeout,,2,26,34,-8,791.0
+10:49.0,K. Knox makes free throw 1 of 1,27-34, ,,2,27,34,-7,791.0
+10:35.0, ,27-37,D. Finney-Smith makes 3-pt jump shot from 24 ft (assist by R. O'Neale),,2,27,37,-10,805.0
+10:16.0,B. Bogdanović makes 2-pt jump shot from 9 ft,29-37, ,,2,29,37,-8,824.0
+10:05.0, ,29-37,Offensive foul by C. Thomas (drawn by A. Thompson),,2,29,37,-8,835.0
+10:05.0, ,29-37,Turnover by C. Thomas (offensive foul),,2,29,37,-8,835.0
+9:55.0,Turnover by M. Bagley (bad pass; steal by R. O'Neale),29-37, ,,2,29,37,-8,845.0
+9:46.0, ,29-37,Turnover by D. Smith (bad pass; steal by B. Bogdanović),,2,29,37,-8,854.0
+9:42.0,Personal foul by D. Sharpe (drawn by K. Knox),29-37, ,,2,29,37,-8,858.0
+9:42.0,J. Ivey enters the game for A. Thompson,29-37, ,,2,29,37,-8,858.0
+9:37.0,B. Bogdanović misses 3-pt jump shot from 26 ft,29-37, ,,2,29,37,-8,863.0
+9:33.0, ,29-37,Defensive rebound by C. Thomas,,2,29,37,-8,867.0
+9:27.0, ,29-37,C. Thomas misses 3-pt jump shot from 25 ft,,2,29,37,-8,873.0
+9:24.0,Defensive rebound by M. Bagley,29-37, ,,2,29,37,-8,876.0
+9:14.0,M. Bagley makes 2-pt layup from 2 ft (assist by J. Ivey),31-37, ,,2,31,37,-6,886.0
+9:02.0, ,31-37,D. Finney-Smith misses 3-pt jump shot from 25 ft,,2,31,37,-6,898.0
+8:57.0,Defensive rebound by B. Bogdanović,31-37, ,,2,31,37,-6,903.0
+8:49.0,C. Cunningham misses 2-pt hook shot from 10 ft,31-37, ,,2,31,37,-6,911.0
+8:46.0, ,31-37,Defensive rebound by D. Finney-Smith,,2,31,37,-6,914.0
+8:40.0, ,31-37,D. Smith misses 3-pt jump shot from 25 ft,,2,31,37,-6,920.0
+8:31.0,Defensive rebound by J. Ivey,31-37, ,,2,31,37,-6,929.0
+8:27.0,M. Bagley misses 2-pt jump shot from 12 ft,31-37, ,,2,31,37,-6,933.0
+8:24.0, ,31-37,Defensive rebound by R. O'Neale,,2,31,37,-6,936.0
+8:19.0, ,31-37,Shooting foul by C. Cunningham (drawn by C. Thomas),,2,31,37,-6,941.0
+8:19.0, ,31-38,C. Thomas makes free throw 1 of 2,,2,31,38,-7,941.0
+8:19.0,A. Burks enters the game for M. Bagley,31-38, ,,2,31,38,-7,941.0
+8:19.0,I. Stewart enters the game for C. Cunningham,31-38, ,,2,31,38,-7,941.0
+8:19.0, ,31-38,N. Claxton enters the game for D. Sharpe,,2,31,38,-7,941.0
+8:19.0, ,31-39,C. Thomas makes free throw 2 of 2,,2,31,39,-8,941.0
+8:08.0,Shooting foul by N. Claxton (drawn by B. Bogdanović),31-39, ,,2,31,39,-8,952.0
+8:08.0,B. Bogdanović makes free throw 1 of 2,32-39, ,,2,32,39,-7,952.0
+8:08.0, ,32-39,M. Bridges enters the game for C. Thomas,,2,32,39,-7,952.0
+8:08.0,B. Bogdanović makes free throw 2 of 2,33-39, ,,2,33,39,-6,952.0
+7:50.0, ,33-41,R. O'Neale makes 2-pt layup from 5 ft (assist by M. Bridges),,2,33,41,-8,970.0
+7:35.0,J. Ivey misses 2-pt layup from 2 ft,33-41, ,,2,33,41,-8,985.0
+7:32.0, ,33-41,Defensive rebound by R. O'Neale,,2,33,41,-8,988.0
+7:30.0, ,33-41,D. Finney-Smith misses 3-pt jump shot from 23 ft,,2,33,41,-8,990.0
+7:27.0,Defensive rebound by B. Bogdanović,33-41, ,,2,33,41,-8,993.0
+7:22.0,B. Bogdanović makes 2-pt layup from 2 ft,35-41, ,,2,35,41,-6,998.0
+7:05.0, ,35-44,D. Smith makes 3-pt jump shot from 26 ft,,2,35,44,-9,1015.0
+6:52.0,I. Stewart makes 3-pt jump shot from 26 ft (assist by A. Burks),38-44, ,,2,38,44,-6,1028.0
+6:25.0, ,38-47,D. Finney-Smith makes 3-pt jump shot from 23 ft (assist by M. Bridges),,2,38,47,-9,1055.0
+6:10.0,Shooting foul by D. Smith (drawn by J. Ivey),38-47, ,,2,38,47,-9,1070.0
+6:10.0,J. Ivey makes free throw 1 of 2,39-47, ,,2,39,47,-8,1070.0
+6:10.0,A. Thompson enters the game for K. Knox,39-47, ,,2,39,47,-8,1070.0
+6:10.0, ,39-47,C. Johnson enters the game for D. Finney-Smith,,2,39,47,-8,1070.0
+6:10.0, ,39-47,J. Wilson enters the game for R. O'Neale,,2,39,47,-8,1070.0
+6:10.0,J. Ivey makes free throw 2 of 2,40-47, ,,2,40,47,-7,1070.0
+5:50.0, ,40-47,C. Johnson misses 3-pt jump shot from 25 ft,,2,40,47,-7,1090.0
+5:49.0, ,40-47,Offensive rebound by Team,,2,40,47,-7,1091.0
+5:49.0,Loose ball foul by J. Ivey (drawn by J. Wilson),40-47, ,,2,40,47,-7,1091.0
+5:44.0, ,40-49,C. Johnson makes 2-pt jump shot from 14 ft (assist by N. Claxton),,2,40,49,-9,1096.0
+5:30.0,Shooting foul by J. Wilson (drawn by B. Bogdanović),40-49, ,,2,40,49,-9,1110.0
+5:30.0,B. Bogdanović makes free throw 1 of 2,41-49, ,,2,41,49,-8,1110.0
+5:30.0, ,41-49,S. Dinwiddie enters the game for D. Smith,,2,41,49,-8,1110.0
+5:30.0,B. Bogdanović makes free throw 2 of 2,42-49, ,,2,42,49,-7,1110.0
+5:18.0, ,42-49,C. Johnson misses 2-pt layup from 2 ft,,2,42,49,-7,1122.0
+5:16.0,Defensive rebound by J. Ivey,42-49, ,,2,42,49,-7,1124.0
+5:14.0,A. Burks misses 3-pt jump shot from 26 ft,42-49, ,,2,42,49,-7,1126.0
+5:10.0, ,42-49,Defensive rebound by N. Claxton,,2,42,49,-7,1130.0
+5:00.0, ,42-51,M. Bridges makes 2-pt jump shot from 12 ft (assist by S. Dinwiddie),,2,42,51,-9,1140.0
+4:45.0,J. Ivey misses 3-pt jump shot from 27 ft,42-51, ,,2,42,51,-9,1155.0
+4:39.0, ,42-51,Defensive rebound by J. Wilson,,2,42,51,-9,1161.0
+4:32.0, ,42-54,C. Johnson makes 3-pt jump shot from 23 ft (assist by M. Bridges),,2,42,54,-12,1168.0
+4:31.0,Detroit full timeout,42-54, ,,2,42,54,-12,1169.0
+4:19.0,I. Stewart makes 3-pt jump shot from 26 ft (assist by J. Ivey),45-54, ,,2,45,54,-9,1181.0
+4:01.0, ,45-54,J. Wilson misses 2-pt layup from 3 ft,,2,45,54,-9,1199.0
+3:58.0, ,45-54,Offensive rebound by J. Wilson,,2,45,54,-9,1202.0
+3:55.0, ,45-56,C. Johnson makes 2-pt jump shot from 14 ft (assist by J. Wilson),,2,45,56,-11,1205.0
+3:44.0,I. Stewart makes 3-pt jump shot from 26 ft (assist by J. Ivey),48-56, ,,2,48,56,-8,1216.0
+3:24.0, ,48-58,N. Claxton makes 2-pt layup from 1 ft (assist by M. Bridges),,2,48,58,-10,1236.0
+3:07.0,Turnover by J. Ivey (bad pass; steal by N. Claxton),48-58, ,,2,48,58,-10,1253.0
+2:55.0, ,48-60,J. Wilson makes 2-pt hook shot from 8 ft (assist by M. Bridges),,2,48,60,-12,1265.0
+2:31.0,A. Burks makes 3-pt jump shot from 26 ft,51-60, ,,2,51,60,-9,1289.0
+2:06.0, ,51-60,Turnover by C. Johnson (bad pass; steal by A. Burks),,2,51,60,-9,1314.0
+2:03.0,J. Ivey misses 2-pt layup from 3 ft (block by M. Bridges),51-60, ,,2,51,60,-9,1317.0
+2:03.0, ,51-60,Defensive rebound by Team,,2,51,60,-9,1317.0
+2:03.0,K. Knox enters the game for A. Thompson,51-60, ,,2,51,60,-9,1317.0
+1:50.0, ,51-60,S. Dinwiddie misses 2-pt jump shot from 8 ft (block by J. Ivey),,2,51,60,-9,1330.0
+1:50.0, ,51-60,Offensive rebound by Team,,2,51,60,-9,1330.0
+1:50.0, ,51-60,C. Thomas enters the game for J. Wilson,,2,51,60,-9,1330.0
+1:47.0, ,51-60,Personal foul by I. Stewart (drawn by N. Claxton),,2,51,60,-9,1333.0
+1:47.0, ,51-60,Away from play foul by A. Burks (drawn by M. Bridges),,2,51,60,-9,1333.0
+1:47.0, ,51-61,M. Bridges makes free throw 1 of 1,,2,51,61,-10,1333.0
+1:40.0, ,51-61,M. Bridges misses 2-pt layup from 2 ft,,2,51,61,-10,1340.0
+1:37.0,Defensive rebound by B. Bogdanović,51-61, ,,2,51,61,-10,1343.0
+1:29.0,A. Burks misses 3-pt jump shot from 25 ft,51-61, ,,2,51,61,-10,1351.0
+1:26.0,Offensive rebound by B. Bogdanović,51-61, ,,2,51,61,-10,1354.0
+1:26.0,Shooting foul by C. Thomas (drawn by B. Bogdanović),51-61, ,,2,51,61,-10,1354.0
+1:26.0,B. Bogdanović misses free throw 1 of 2,51-61, ,,2,51,61,-10,1354.0
+1:26.0,Offensive rebound by Team,51-61, ,,2,51,61,-10,1354.0
+1:26.0,A. Thompson enters the game for A. Burks,51-61, ,,2,51,61,-10,1354.0
+1:26.0, ,51-61,D. Finney-Smith enters the game for C. Thomas,,2,51,61,-10,1354.0
+1:26.0,B. Bogdanović misses free throw 2 of 2,51-61, ,,2,51,61,-10,1354.0
+1:20.0, ,51-61,Defensive rebound by M. Bridges,,2,51,61,-10,1360.0
+1:12.0, ,51-61,N. Claxton misses 2-pt jump shot from 9 ft,,2,51,61,-10,1368.0
+1:11.0, ,51-61,Offensive rebound by N. Claxton,,2,51,61,-10,1369.0
+1:11.0, ,51-61,Personal foul by A. Thompson (drawn by N. Claxton),,2,51,61,-10,1369.0
+1:11.0, ,51-62,N. Claxton makes free throw 1 of 2,,2,51,62,-11,1369.0
+1:11.0, ,51-63,N. Claxton makes free throw 2 of 2,,2,51,63,-12,1369.0
+0:58.0,I. Stewart misses 3-pt jump shot from 27 ft,51-63, ,,2,51,63,-12,1382.0
+0:54.0,Offensive rebound by A. Thompson,51-63, ,,2,51,63,-12,1386.0
+0:50.0,B. Bogdanović misses 3-pt jump shot from 23 ft,51-63, ,,2,51,63,-12,1390.0
+0:47.0, ,51-63,Defensive rebound by C. Johnson,,2,51,63,-12,1393.0
+0:30.0, ,51-63,Turnover by S. Dinwiddie (bad pass; steal by I. Stewart),,2,51,63,-12,1410.0
+0:26.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by J. Ivey),53-63, ,,2,53,63,-10,1414.0
+0:26.0,Shooting foul by M. Bridges (drawn by B. Bogdanović),53-63, ,,2,53,63,-10,1414.0
+0:26.0, ,53-63,R. O'Neale enters the game for N. Claxton,,2,53,63,-10,1414.0
+0:26.0,B. Bogdanović makes free throw 1 of 1,54-63, ,,2,54,63,-9,1414.0
+0:04.0, ,54-65,M. Bridges makes 2-pt jump shot from 10 ft,,2,54,65,-11,1436.0
+0:03.0, ,54-65,Loose ball foul by C. Johnson (drawn by B. Bogdanović),,2,54,65,-11,1437.0
+0:03.0,B. Bogdanović makes free throw 1 of 2,55-65, ,,2,55,65,-10,1437.0
+0:03.0, ,55-65,N. Claxton enters the game for R. O'Neale,,2,55,65,-10,1437.0
+0:03.0,B. Bogdanović makes free throw 2 of 2,56-65, ,,2,56,65,-9,1437.0
+0:00.0, ,56-65,M. Bridges misses 3-pt jump shot from 27 ft,,2,56,65,-9,1440.0
+0:00.0, ,56-65,Offensive rebound by Team,,2,56,65,-9,1440.0
+0:00.0,End of 2nd quarter,56-65,,,2,56,65,-9,1440.0
+12:00.0,Start of 3rd quarter,56-65,,,3,56,65,-9,1440.0
+11:45.0, ,56-65,C. Thomas misses 3-pt jump shot from 28 ft,,3,56,65,-9,1455.0
+11:40.0,Defensive rebound by J. Ivey,56-65, ,,3,56,65,-9,1460.0
+11:27.0,Turnover by C. Cunningham (bad pass; steal by C. Johnson),56-65, ,,3,56,65,-9,1473.0
+11:24.0, ,56-65,Shooting foul by C. Cunningham (drawn by C. Johnson),,3,56,65,-9,1476.0
+11:24.0, ,56-66,C. Johnson makes free throw 1 of 2,,3,56,66,-10,1476.0
+11:24.0, ,56-67,C. Johnson makes free throw 2 of 2,,3,56,67,-11,1476.0
+11:11.0,I. Stewart makes 2-pt layup from 1 ft (assist by C. Cunningham),58-67, ,,3,58,67,-9,1489.0
+10:51.0, ,58-67,M. Bridges misses 2-pt jump shot from 18 ft,,3,58,67,-9,1509.0
+10:46.0, ,58-67,Offensive rebound by M. Bridges,,3,58,67,-9,1514.0
+10:45.0, ,58-67,Personal foul by B. Bogdanović (drawn by C. Johnson),,3,58,67,-9,1515.0
+10:32.0, ,58-69,N. Claxton makes 2-pt dunk from 3 ft (assist by C. Johnson),,3,58,69,-11,1528.0
+10:14.0,J. Ivey makes 3-pt jump shot from 25 ft (assist by I. Stewart),61-69, ,,3,61,69,-8,1546.0
+9:58.0, ,61-69,C. Thomas misses 2-pt jump shot from 14 ft,,3,61,69,-8,1562.0
+9:55.0, ,61-69,Offensive rebound by N. Claxton,,3,61,69,-8,1565.0
+9:51.0, ,61-71,C. Thomas makes 2-pt layup from 1 ft (assist by N. Claxton),,3,61,71,-10,1569.0
+9:42.0,C. Cunningham makes 2-pt jump shot from 16 ft (assist by J. Ivey),63-71, ,,3,63,71,-8,1578.0
+9:27.0, ,63-73,S. Dinwiddie makes 2-pt layup from 1 ft,,3,63,73,-10,1593.0
+9:10.0,A. Thompson misses 2-pt layup from 4 ft (block by N. Claxton),63-73, ,,3,63,73,-10,1610.0
+9:07.0, ,63-73,Defensive rebound by M. Bridges,,3,63,73,-10,1613.0
+9:05.0, ,63-73,M. Bridges misses 2-pt layup from 2 ft,,3,63,73,-10,1615.0
+9:01.0,Defensive rebound by A. Thompson,63-73, ,,3,63,73,-10,1619.0
+9:00.0,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by A. Thompson),66-73, ,,3,66,73,-7,1620.0
+8:48.0, ,66-75,M. Bridges makes 2-pt jump shot from 6 ft,,3,66,75,-9,1632.0
+8:31.0,C. Cunningham makes 2-pt hook shot from 4 ft,68-75, ,,3,68,75,-7,1649.0
+8:11.0, ,68-75,C. Thomas misses 2-pt jump shot from 6 ft (block by I. Stewart),,3,68,75,-7,1669.0
+8:06.0,Defensive rebound by B. Bogdanović,68-75, ,,3,68,75,-7,1674.0
+8:02.0,C. Cunningham makes 2-pt layup from 1 ft,70-75, ,,3,70,75,-5,1678.0
+7:48.0, ,70-77,S. Dinwiddie makes 2-pt layup from 1 ft,,3,70,77,-7,1692.0
+7:30.0,A. Thompson misses 2-pt jump shot from 19 ft,70-77, ,,3,70,77,-7,1710.0
+7:26.0,Offensive rebound by B. Bogdanović,70-77, ,,3,70,77,-7,1714.0
+7:24.0,I. Stewart makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),73-77, ,,3,73,77,-4,1716.0
+7:06.0, ,73-77,C. Thomas misses 2-pt layup from 1 ft,,3,73,77,-4,1734.0
+7:04.0,Defensive rebound by B. Bogdanović,73-77, ,,3,73,77,-4,1736.0
+6:58.0,J. Ivey makes 2-pt layup from 3 ft (assist by B. Bogdanović),75-77, ,,3,75,77,-2,1742.0
+6:49.0, ,75-77,S. Dinwiddie misses 2-pt jump shot from 10 ft,,3,75,77,-2,1751.0
+6:47.0,Defensive rebound by A. Thompson,75-77, ,,3,75,77,-2,1753.0
+6:35.0,C. Cunningham misses 3-pt jump shot from 25 ft,75-77, ,,3,75,77,-2,1765.0
+6:31.0, ,75-77,Defensive rebound by C. Johnson,,3,75,77,-2,1769.0
+6:22.0, ,75-79,C. Johnson makes 2-pt layup from 1 ft,,3,75,79,-4,1778.0
+6:02.0,Turnover by B. Bogdanović (bad pass; steal by C. Johnson),75-79, ,,3,75,79,-4,1798.0
+5:55.0, ,75-81,N. Claxton makes 2-pt dunk from 3 ft (assist by C. Johnson),,3,75,81,-6,1805.0
+5:55.0,Detroit full timeout,75-81, ,,3,75,81,-6,1805.0
+5:55.0,M. Bagley enters the game for I. Stewart,75-81, ,,3,75,81,-6,1805.0
+5:55.0, ,75-81,D. Finney-Smith enters the game for N. Claxton,,3,75,81,-6,1805.0
+5:55.0, ,75-81,D. Sharpe enters the game for C. Thomas,,3,75,81,-6,1805.0
+5:40.0,B. Bogdanović misses 2-pt layup from 4 ft,75-81, ,,3,75,81,-6,1820.0
+5:38.0, ,75-81,Defensive rebound by M. Bridges,,3,75,81,-6,1822.0
+5:33.0, ,75-84,S. Dinwiddie makes 3-pt jump shot from 26 ft (assist by M. Bridges),,3,75,84,-9,1827.0
+5:11.0,Turnover by C. Cunningham (bad pass; steal by M. Bridges),75-84, ,,3,75,84,-9,1849.0
+5:06.0, ,75-84,C. Johnson misses 3-pt jump shot from 25 ft,,3,75,84,-9,1854.0
+5:03.0,Defensive rebound by C. Cunningham,75-84, ,,3,75,84,-9,1857.0
+5:00.0,Shooting foul by S. Dinwiddie (drawn by J. Ivey),75-84, ,,3,75,84,-9,1860.0
+5:00.0,J. Ivey makes free throw 1 of 2,76-84, ,,3,76,84,-8,1860.0
+5:00.0,J. Harris enters the game for B. Bogdanović,76-84, ,,3,76,84,-8,1860.0
+5:00.0,K. Knox enters the game for A. Thompson,76-84, ,,3,76,84,-8,1860.0
+5:00.0, ,76-84,D. Smith enters the game for C. Johnson,,3,76,84,-8,1860.0
+5:00.0,J. Ivey makes free throw 2 of 2,77-84, ,,3,77,84,-7,1860.0
+4:44.0, ,77-86,D. Sharpe makes 2-pt hook shot from 5 ft (assist by M. Bridges),,3,77,86,-9,1876.0
+4:35.0,Shooting foul by D. Finney-Smith (drawn by J. Ivey),77-86, ,,3,77,86,-9,1885.0
+4:35.0,J. Ivey makes free throw 1 of 2,78-86, ,,3,78,86,-8,1885.0
+4:35.0,J. Ivey misses free throw 2 of 2,78-86, ,,3,78,86,-8,1885.0
+4:32.0, ,78-86,Defensive rebound by D. Finney-Smith,,3,78,86,-8,1888.0
+4:22.0, ,78-86,M. Bridges misses 3-pt jump shot from 24 ft,,3,78,86,-8,1898.0
+4:21.0, ,78-86,Offensive rebound by Team,,3,78,86,-8,1899.0
+4:21.0,Loose ball foul by K. Knox (drawn by D. Sharpe),78-86, ,,3,78,86,-8,1899.0
+4:21.0,A. Burks enters the game for J. Ivey,78-86, ,,3,78,86,-8,1899.0
+4:13.0, ,78-86,S. Dinwiddie misses 2-pt layup from 4 ft,,3,78,86,-8,1907.0
+4:10.0,Defensive rebound by J. Harris,78-86, ,,3,78,86,-8,1910.0
+4:01.0,Shooting foul by D. Sharpe (drawn by M. Bagley),78-86, ,,3,78,86,-8,1919.0
+4:01.0,M. Bagley misses free throw 1 of 2,78-86, ,,3,78,86,-8,1919.0
+4:01.0,Offensive rebound by Team,78-86, ,,3,78,86,-8,1919.0
+4:01.0, ,78-86,R. O'Neale enters the game for S. Dinwiddie,,3,78,86,-8,1919.0
+4:01.0,M. Bagley makes free throw 2 of 2,79-86, ,,3,79,86,-7,1919.0
+3:46.0, ,79-86,Offensive foul by D. Sharpe (drawn by A. Burks),,3,79,86,-7,1934.0
+3:46.0, ,79-86,Turnover by D. Sharpe (offensive foul),,3,79,86,-7,1934.0
+3:29.0,C. Cunningham misses 2-pt jump shot from 20 ft,79-86, ,,3,79,86,-7,1951.0
+3:25.0,Offensive rebound by M. Bagley,79-86, ,,3,79,86,-7,1955.0
+3:25.0,M. Bagley makes 2-pt layup at rim,81-86, ,,3,81,86,-5,1955.0
+3:09.0, ,81-88,M. Bridges makes 2-pt jump shot from 9 ft,,3,81,88,-7,1971.0
+2:58.0,Shooting foul by D. Sharpe (drawn by C. Cunningham),81-88, ,,3,81,88,-7,1982.0
+2:58.0, ,81-88,Brooklyn full timeout,,3,81,88,-7,1982.0
+2:58.0, ,81-88,C. Thomas enters the game for M. Bridges,,3,81,88,-7,1982.0
+2:58.0,C. Cunningham makes free throw 1 of 2,82-88, ,,3,82,88,-6,1982.0
+2:58.0,A. Thompson enters the game for J. Harris,82-88, ,,3,82,88,-6,1982.0
+2:58.0,C. Cunningham misses free throw 2 of 2,82-88, ,,3,82,88,-6,1982.0
+2:56.0, ,82-88,Defensive rebound by R. O'Neale,,3,82,88,-6,1984.0
+2:33.0, ,82-91,R. O'Neale makes 3-pt jump shot from 26 ft (assist by D. Finney-Smith),,3,82,91,-9,2007.0
+2:07.0,C. Cunningham misses 2-pt jump shot from 17 ft,82-91, ,,3,82,91,-9,2033.0
+2:04.0, ,82-91,Defensive rebound by D. Finney-Smith,,3,82,91,-9,2036.0
+1:48.0, ,82-93,D. Sharpe makes 2-pt layup from 1 ft (assist by D. Smith),,3,82,93,-11,2052.0
+1:48.0, ,82-93,Shooting foul by K. Knox (drawn by D. Sharpe),,3,82,93,-11,2052.0
+1:48.0, ,82-93,D. Sharpe misses free throw 1 of 1,,3,82,93,-11,2052.0
+1:43.0,Defensive rebound by M. Bagley,82-93, ,,3,82,93,-11,2057.0
+1:31.0,A. Thompson misses 3-pt jump shot from 26 ft,82-93, ,,3,82,93,-11,2069.0
+1:29.0, ,82-93,Defensive rebound by Team,,3,82,93,-11,2071.0
+1:20.0, ,82-95,D. Sharpe makes 2-pt layup from 1 ft (assist by D. Smith),,3,82,95,-13,2080.0
+1:04.0,A. Burks misses 3-pt jump shot from 25 ft,82-95, ,,3,82,95,-13,2096.0
+1:00.0, ,82-95,Defensive rebound by R. O'Neale,,3,82,95,-13,2100.0
+0:59.0, ,82-97,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by R. O'Neale),,3,82,97,-15,2101.0
+0:52.0,C. Cunningham misses 2-pt layup from 5 ft,82-97, ,,3,82,97,-15,2108.0
+0:52.0, ,82-97,Defensive rebound by C. Thomas,,3,82,97,-15,2108.0
+0:34.0, ,82-97,C. Thomas misses 2-pt jump shot from 15 ft,,3,82,97,-15,2126.0
+0:32.0, ,82-97,Offensive rebound by D. Sharpe,,3,82,97,-15,2128.0
+0:30.0, ,82-97,Shooting foul by A. Burks (drawn by D. Sharpe),,3,82,97,-15,2130.0
+0:30.0, ,82-97,D. Sharpe misses free throw 1 of 2,,3,82,97,-15,2130.0
+0:30.0, ,82-97,Offensive rebound by Team,,3,82,97,-15,2130.0
+0:30.0,B. Bogdanović enters the game for A. Thompson,82-97, ,,3,82,97,-15,2130.0
+0:30.0, ,82-97,N. Claxton enters the game for C. Thomas,,3,82,97,-15,2130.0
+0:30.0, ,82-98,D. Sharpe makes free throw 2 of 2,,3,82,98,-16,2130.0
+0:09.0,C. Cunningham misses 3-pt jump shot from 25 ft,82-98, ,,3,82,98,-16,2151.0
+0:05.0, ,82-98,Defensive rebound by D. Finney-Smith,,3,82,98,-16,2155.0
+0:00.0, ,82-98,D. Smith misses 2-pt layup from 3 ft,,3,82,98,-16,2160.0
+0:00.0,Defensive rebound by A. Burks,82-98, ,,3,82,98,-16,2160.0
+0:00.0,End of 3rd quarter,82-98,,,3,82,98,-16,2160.0
+12:00.0,Start of 4th quarter,82-98,,,4,82,98,-16,2160.0
+11:37.0,A. Burks misses 2-pt jump shot from 6 ft,82-98, ,,4,82,98,-16,2183.0
+11:35.0,Offensive rebound by Team,82-98, ,,4,82,98,-16,2185.0
+11:35.0,Turnover by Team (shot clock),82-98, ,,4,82,98,-16,2185.0
+11:18.0, ,82-98,N. Claxton misses 2-pt layup from 3 ft,,4,82,98,-16,2202.0
+11:16.0,Defensive rebound by C. Cunningham,82-98, ,,4,82,98,-16,2204.0
+11:07.0,A. Burks misses 3-pt jump shot from 23 ft,82-98, ,,4,82,98,-16,2213.0
+11:04.0, ,82-98,Defensive rebound by N. Claxton,,4,82,98,-16,2216.0
+10:56.0, ,82-100,C. Thomas makes 2-pt layup from 1 ft (assist by R. O'Neale),,4,82,100,-18,2224.0
+10:53.0,Turnover by B. Bogdanović (bad pass),82-100, ,,4,82,100,-18,2227.0
+10:53.0,J. Ivey enters the game for A. Burks,82-100, ,,4,82,100,-18,2227.0
+10:41.0, ,82-102,C. Thomas makes 2-pt layup from 4 ft (assist by R. O'Neale),,4,82,102,-20,2239.0
+10:41.0, ,82-102,Shooting foul by I. Stewart (drawn by C. Thomas),,4,82,102,-20,2239.0
+10:41.0, ,82-103,C. Thomas makes free throw 1 of 1,,4,82,103,-21,2239.0
+10:25.0,C. Cunningham misses 3-pt jump shot from 25 ft,82-103, ,,4,82,103,-21,2255.0
+10:23.0,Offensive rebound by Team,82-103, ,,4,82,103,-21,2257.0
+10:10.0,C. Cunningham makes 2-pt jump shot from 14 ft,84-103, ,,4,84,103,-19,2270.0
+10:01.0, ,84-103,Personal foul by B. Bogdanović (drawn by C. Thomas),,4,84,103,-19,2279.0
+9:47.0, ,84-103,C. Thomas misses 2-pt jump shot from 13 ft,,4,84,103,-19,2293.0
+9:43.0,Defensive rebound by J. Ivey,84-103, ,,4,84,103,-19,2297.0
+9:39.0,B. Bogdanović misses 3-pt jump shot from 25 ft,84-103, ,,4,84,103,-19,2301.0
+9:33.0, ,84-103,Defensive rebound by D. Finney-Smith,,4,84,103,-19,2307.0
+9:31.0, ,84-103,Shooting foul by B. Bogdanović (drawn by N. Claxton),,4,84,103,-19,2309.0
+9:31.0, ,84-103,N. Claxton misses free throw 1 of 2,,4,84,103,-19,2309.0
+9:31.0, ,84-103,Offensive rebound by Team,,4,84,103,-19,2309.0
+9:31.0, ,84-104,N. Claxton makes free throw 2 of 2,,4,84,104,-20,2309.0
+9:16.0,C. Cunningham misses 2-pt hook shot from 8 ft,84-104, ,,4,84,104,-20,2324.0
+9:11.0,Offensive rebound by I. Stewart,84-104, ,,4,84,104,-20,2329.0
+9:11.0,I. Stewart makes 2-pt dunk at rim,86-104, ,,4,86,104,-18,2329.0
+9:00.0, ,86-104,R. O'Neale misses 2-pt jump shot from 7 ft,,4,86,104,-18,2340.0
+8:55.0,Defensive rebound by J. Ivey,86-104, ,,4,86,104,-18,2345.0
+8:52.0,K. Knox makes 3-pt jump shot from 23 ft (assist by C. Cunningham),89-104, ,,4,89,104,-15,2348.0
+8:52.0, ,89-104,Brooklyn full timeout,,4,89,104,-15,2348.0
+8:41.0, ,89-106,D. Smith makes 2-pt dunk at rim (assist by R. O'Neale),,4,89,106,-17,2359.0
+8:19.0,C. Cunningham makes 2-pt jump shot from 5 ft (assist by I. Stewart),91-106, ,,4,91,106,-15,2381.0
+8:09.0, ,91-106,Offensive foul by R. O'Neale (drawn by K. Knox),,4,91,106,-15,2391.0
+8:09.0, ,91-106,Turnover by R. O'Neale (offensive foul),,4,91,106,-15,2391.0
+7:56.0,J. Ivey makes 3-pt jump shot from 24 ft (assist by I. Stewart),94-106, ,,4,94,106,-12,2404.0
+7:40.0, ,94-109,C. Thomas makes 3-pt jump shot from 26 ft,,4,94,109,-15,2420.0
+7:40.0, ,94-109,Flagrant foul type 1 by I. Stewart (drawn by C. Thomas),,4,94,109,-15,2420.0
+7:40.0, ,94-109,Instant Replay (Request: Ruling Stands),,4,94,109,-15,2420.0
+7:40.0, ,94-109,M. Bridges enters the game for N. Claxton,,4,94,109,-15,2420.0
+7:40.0, ,94-109,S. Dinwiddie enters the game for D. Finney-Smith,,4,94,109,-15,2420.0
+7:40.0, ,94-109,C. Johnson enters the game for R. O'Neale,,4,94,109,-15,2420.0
+7:40.0, ,94-109,D. Sharpe enters the game for D. Smith,,4,94,109,-15,2420.0
+7:40.0, ,94-110,C. Thomas makes flagrant free throw 1 of 1,,4,94,110,-16,2420.0
+7:38.0, ,94-110,Personal foul by J. Ivey (drawn by M. Bridges),,4,94,110,-16,2422.0
+7:38.0, ,94-111,M. Bridges makes free throw 1 of 2,,4,94,111,-17,2422.0
+7:38.0, ,94-112,M. Bridges makes free throw 2 of 2,,4,94,112,-18,2422.0
+7:17.0,B. Bogdanović misses 2-pt jump shot from 8 ft,94-112, ,,4,94,112,-18,2443.0
+7:14.0, ,94-112,Defensive rebound by D. Sharpe,,4,94,112,-18,2446.0
+7:01.0, ,94-112,M. Bridges misses 2-pt jump shot from 11 ft,,4,94,112,-18,2459.0
+6:58.0,Defensive rebound by K. Knox,94-112, ,,4,94,112,-18,2462.0
+6:54.0,C. Cunningham makes 2-pt layup from 2 ft,96-112, ,,4,96,112,-16,2466.0
+6:33.0, ,96-112,Personal foul by I. Stewart (drawn by M. Bridges),,4,96,112,-16,2487.0
+6:33.0, ,96-113,M. Bridges makes free throw 1 of 2,,4,96,113,-17,2487.0
+6:33.0,A. Thompson enters the game for K. Knox,96-113, ,,4,96,113,-17,2487.0
+6:33.0, ,96-114,M. Bridges makes free throw 2 of 2,,4,96,114,-18,2487.0
+6:21.0,C. Cunningham makes 2-pt layup from 3 ft,98-114, ,,4,98,114,-16,2499.0
+6:04.0, ,98-114,Turnover by M. Bridges (lost ball; steal by A. Thompson),,4,98,114,-16,2516.0
+5:57.0,J. Ivey misses 3-pt jump shot from 23 ft,98-114, ,,4,98,114,-16,2523.0
+5:53.0, ,98-114,Defensive rebound by S. Dinwiddie,,4,98,114,-16,2527.0
+5:34.0, ,98-114,S. Dinwiddie misses 3-pt jump shot from 26 ft,,4,98,114,-16,2546.0
+5:30.0,Defensive rebound by J. Ivey,98-114, ,,4,98,114,-16,2550.0
+5:24.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by J. Ivey),101-114, ,,4,101,114,-13,2556.0
+5:23.0, ,101-114,Brooklyn full timeout,,4,101,114,-13,2557.0
+5:23.0, ,101-114,N. Claxton enters the game for D. Sharpe,,4,101,114,-13,2557.0
+4:59.0, ,101-114,C. Thomas misses 2-pt jump shot from 17 ft,,4,101,114,-13,2581.0
+4:55.0,Defensive rebound by B. Bogdanović,101-114, ,,4,101,114,-13,2585.0
+4:42.0,J. Ivey makes 2-pt layup from 7 ft (assist by I. Stewart),103-114, ,,4,103,114,-11,2598.0
+4:42.0,Shooting foul by M. Bridges (drawn by J. Ivey),103-114, ,,4,103,114,-11,2598.0
+4:42.0,J. Ivey makes free throw 1 of 1,104-114, ,,4,104,114,-10,2598.0
+4:22.0, ,104-114,S. Dinwiddie misses 2-pt jump shot from 10 ft,,4,104,114,-10,2618.0
+4:18.0, ,104-114,Offensive rebound by S. Dinwiddie,,4,104,114,-10,2622.0
+4:18.0, ,104-116,S. Dinwiddie makes 2-pt layup at rim,,4,104,116,-12,2622.0
+4:04.0,Shooting foul by C. Johnson (drawn by J. Ivey),104-116, ,,4,104,116,-12,2636.0
+4:04.0, ,104-116,Brooklyn full timeout,,4,104,116,-12,2636.0
+4:04.0, ,104-116,Instant Replay (Challenge: Stands),,4,104,116,-12,2636.0
+4:03.0,J. Ivey misses free throw 1 of 3,104-116, ,,4,104,116,-12,2637.0
+4:03.0,Offensive rebound by Team,104-116, ,,4,104,116,-12,2637.0
+4:03.0,J. Ivey makes free throw 2 of 3,105-116, ,,4,105,116,-11,2637.0
+4:03.0,J. Ivey makes free throw 3 of 3,106-116, ,,4,106,116,-10,2637.0
+3:50.0, ,106-116,Shooting foul by J. Ivey (drawn by C. Johnson),,4,106,116,-10,2650.0
+3:50.0, ,106-117,C. Johnson makes free throw 1 of 2,,4,106,117,-11,2650.0
+3:50.0,Detroit full timeout,106-117, ,,4,106,117,-11,2650.0
+3:50.0, ,106-117,D. Finney-Smith enters the game for C. Thomas,,4,106,117,-11,2650.0
+3:50.0, ,106-118,C. Johnson makes free throw 2 of 2,,4,106,118,-12,2650.0
+3:39.0,B. Bogdanović misses 3-pt jump shot from 24 ft,106-118, ,,4,106,118,-12,2661.0
+3:34.0, ,106-118,Defensive rebound by D. Finney-Smith,,4,106,118,-12,2666.0
+3:17.0, ,106-121,C. Johnson makes 3-pt jump shot from 26 ft (assist by S. Dinwiddie),,4,106,121,-15,2683.0
+3:04.0,C. Cunningham misses 2-pt hook shot from 7 ft,106-121, ,,4,106,121,-15,2696.0
+3:02.0, ,106-121,Defensive rebound by M. Bridges,,4,106,121,-15,2698.0
+2:47.0, ,106-121,Shooting foul by B. Bogdanović (drawn by M. Bridges),,4,106,121,-15,2713.0
+2:47.0, ,106-122,M. Bridges makes free throw 1 of 2,,4,106,122,-16,2713.0
+2:47.0, ,106-123,M. Bridges makes free throw 2 of 2,,4,106,123,-17,2713.0
+2:33.0,I. Stewart makes 2-pt layup from 1 ft (assist by C. Cunningham),108-123, ,,4,108,123,-15,2727.0
+2:07.0, ,108-123,S. Dinwiddie misses 3-pt jump shot from 26 ft,,4,108,123,-15,2753.0
+2:03.0,Defensive rebound by A. Thompson,108-123, ,,4,108,123,-15,2757.0
+1:58.0,A. Thompson misses 2-pt layup from 2 ft (block by N. Claxton),108-123, ,,4,108,123,-15,2762.0
+1:54.0, ,108-123,Defensive rebound by N. Claxton,,4,108,123,-15,2766.0
+1:37.0, ,108-123,Turnover by N. Claxton (3 sec),,4,108,123,-15,2783.0
+1:29.0,Turnover by B. Bogdanović (lost ball; steal by D. Finney-Smith),108-123, ,,4,108,123,-15,2791.0
+1:20.0, ,108-125,C. Johnson makes 2-pt dunk from 1 ft (assist by S. Dinwiddie),,4,108,125,-17,2800.0
+1:20.0,Detroit full timeout,108-125, ,,4,108,125,-17,2800.0
+1:20.0,M. Bagley enters the game for I. Stewart,108-125, ,,4,108,125,-17,2800.0
+1:20.0, ,108-125,H. Giles enters the game for M. Bridges,,4,108,125,-17,2800.0
+1:20.0, ,108-125,D. Sharpe enters the game for N. Claxton,,4,108,125,-17,2800.0
+1:20.0, ,108-125,D. Smith enters the game for S. Dinwiddie,,4,108,125,-17,2800.0
+1:20.0, ,108-125,T. Watford enters the game for D. Finney-Smith,,4,108,125,-17,2800.0
+1:20.0, ,108-125,J. Wilson enters the game for C. Johnson,,4,108,125,-17,2800.0
+1:15.0,Shooting foul by J. Wilson (drawn by C. Cunningham),108-125, ,,4,108,125,-17,2805.0
+1:15.0,C. Cunningham makes free throw 1 of 2,109-125, ,,4,109,125,-16,2805.0
+1:15.0,K. Knox enters the game for B. Bogdanović,109-125, ,,4,109,125,-16,2805.0
+1:15.0,C. Cunningham makes free throw 2 of 2,110-125, ,,4,110,125,-15,2805.0
+1:14.0, ,110-125,Personal take foul by A. Thompson (drawn by D. Smith),,4,110,125,-15,2806.0
+1:14.0, ,110-125,D. Smith misses free throw 1 of 2,,4,110,125,-15,2806.0
+1:14.0, ,110-125,Offensive rebound by Team,,4,110,125,-15,2806.0
+1:14.0,M. Sasser enters the game for C. Cunningham,110-125, ,,4,110,125,-15,2806.0
+1:14.0, ,110-126,D. Smith makes free throw 2 of 2,,4,110,126,-16,2806.0
+1:06.0,J. Ivey makes 3-pt jump shot from 24 ft,113-126, ,,4,113,126,-13,2814.0
+0:42.0, ,113-126,D. Smith misses 2-pt jump shot from 8 ft,,4,113,126,-13,2838.0
+0:38.0,Defensive rebound by A. Thompson,113-126, ,,4,113,126,-13,2842.0
+0:38.0,K. Knox makes 2-pt dunk from 1 ft (assist by A. Thompson),115-126, ,,4,115,126,-11,2842.0
+0:14.0, ,115-126,Turnover by Team (shot clock),,4,115,126,-11,2866.0
+0:00.0,End of 4th quarter,115-126,,,4,115,126,-11,2880.0

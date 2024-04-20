@@ -1,0 +1,447 @@
+Time,Detroit,Score,Houston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Duren vs. A. Sengun (K. Knox gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,K. Knox makes 2-pt jump shot from 7 ft (assist by B. Bogdanović),2-0, ,,1,2,0,2,15.0
+11:27.0, ,2-3,J. Smith makes 3-pt jump shot from 26 ft (assist by A. Sengun),Lead change,1,2,3,-1,33.0
+11:10.0,B. Bogdanović misses 2-pt layup from 3 ft,2-3, ,,1,2,3,-1,50.0
+11:10.0,Offensive rebound by B. Bogdanović,2-3, ,,1,2,3,-1,50.0
+11:09.0,B. Bogdanović makes 2-pt layup from 3 ft,4-3, ,Lead change,1,4,3,1,51.0
+10:55.0, ,4-5,A. Sengun makes 2-pt jump shot from 15 ft (assist by J. Green),Lead change,1,4,5,-1,65.0
+10:45.0,K. Knox misses 3-pt jump shot from 26 ft,4-5, ,,1,4,5,-1,75.0
+10:43.0,Offensive rebound by J. Ivey,4-5, ,,1,4,5,-1,77.0
+10:28.0,Turnover by Team (shot clock),4-5, ,,1,4,5,-1,92.0
+10:18.0, ,4-8,J. Green makes 3-pt jump shot from 26 ft (assist by A. Sengun),,1,4,8,-4,102.0
+9:59.0,C. Cunningham misses 2-pt layup from 3 ft,4-8, ,,1,4,8,-4,121.0
+9:58.0, ,4-8,Defensive rebound by J. Tate,,1,4,8,-4,122.0
+9:41.0, ,4-8,Shooting foul by J. Duren (drawn by J. Tate),,1,4,8,-4,139.0
+9:41.0, ,4-8,J. Tate misses free throw 1 of 2,,1,4,8,-4,139.0
+9:41.0, ,4-8,Offensive rebound by Team,,1,4,8,-4,139.0
+9:41.0, ,4-8,J. Tate misses free throw 2 of 2,,1,4,8,-4,139.0
+9:41.0,Defensive rebound by J. Duren,4-8, ,,1,4,8,-4,139.0
+9:29.0,J. Ivey makes 3-pt jump shot from 23 ft (assist by C. Cunningham),7-8, ,,1,7,8,-1,151.0
+9:16.0, ,7-8,F. VanVleet misses 3-pt jump shot from 26 ft,,1,7,8,-1,164.0
+9:13.0,Defensive rebound by Team,7-8, ,,1,7,8,-1,167.0
+9:01.0,Turnover by B. Bogdanović (lost ball; steal by J. Green),7-8, ,,1,7,8,-1,179.0
+8:59.0, ,7-8,Turnover by J. Tate (step out of bounds),,1,7,8,-1,181.0
+8:45.0,C. Cunningham makes 2-pt jump shot from 10 ft,9-8, ,Lead change,1,9,8,1,195.0
+8:24.0, ,9-8,A. Sengun misses 2-pt jump shot from 9 ft,,1,9,8,1,216.0
+8:23.0,Defensive rebound by C. Cunningham,9-8, ,,1,9,8,1,217.0
+8:12.0,C. Cunningham misses 2-pt layup from 7 ft,9-8, ,,1,9,8,1,228.0
+8:11.0, ,9-8,Defensive rebound by A. Sengun,,1,9,8,1,229.0
+8:06.0, ,9-8,Shooting foul by K. Knox (drawn by J. Green),,1,9,8,1,234.0
+8:06.0, ,9-9,J. Green makes free throw 1 of 2,Tie,1,9,9,0,234.0
+8:06.0, ,9-10,J. Green makes free throw 2 of 2,Lead change,1,9,10,-1,234.0
+7:52.0,C. Cunningham misses 3-pt jump shot from 28 ft,9-10, ,,1,9,10,-1,248.0
+7:49.0, ,9-10,Defensive rebound by Team,,1,9,10,-1,251.0
+7:32.0, ,9-12,J. Tate makes 2-pt layup from 1 ft (assist by A. Sengun),,1,9,12,-3,268.0
+7:21.0,Turnover by J. Duren (lost ball; steal by A. Sengun),9-12, ,,1,9,12,-3,279.0
+7:17.0, ,9-14,J. Tate makes 2-pt layup from 1 ft,,1,9,14,-5,283.0
+7:16.0,Detroit full timeout,9-14, ,,1,9,14,-5,284.0
+6:57.0,J. Ivey misses 2-pt layup from 2 ft,9-14, ,,1,9,14,-5,303.0
+6:56.0,Offensive rebound by J. Duren,9-14, ,,1,9,14,-5,304.0
+6:56.0,J. Duren makes 2-pt layup at rim,11-14, ,,1,11,14,-3,304.0
+6:37.0, ,11-16,F. VanVleet makes 2-pt jump shot from 14 ft (assist by A. Sengun),,1,11,16,-5,323.0
+6:22.0,C. Cunningham misses 3-pt jump shot from 27 ft,11-16, ,,1,11,16,-5,338.0
+6:21.0, ,11-16,Defensive rebound by J. Smith,,1,11,16,-5,339.0
+6:06.0, ,11-16,J. Green misses 2-pt jump shot from 6 ft,,1,11,16,-5,354.0
+6:05.0,Defensive rebound by K. Knox,11-16, ,,1,11,16,-5,355.0
+5:59.0,J. Ivey misses 2-pt layup from 3 ft,11-16, ,,1,11,16,-5,361.0
+5:58.0, ,11-16,Defensive rebound by J. Smith,,1,11,16,-5,362.0
+5:43.0, ,11-16,Personal foul by K. Knox (drawn by A. Sengun),,1,11,16,-5,377.0
+5:43.0,I. Livers enters the game for K. Knox,11-16, ,,1,11,16,-5,377.0
+5:43.0, ,11-16,T. Eason enters the game for J. Tate,,1,11,16,-5,377.0
+5:41.0, ,11-16,Turnover by F. VanVleet (bad pass),,1,11,16,-5,379.0
+5:30.0,Shooting foul by T. Eason (drawn by B. Bogdanović),11-16, ,,1,11,16,-5,390.0
+5:30.0,B. Bogdanović misses free throw 1 of 2,11-16, ,,1,11,16,-5,390.0
+5:30.0,Offensive rebound by Team,11-16, ,,1,11,16,-5,390.0
+5:30.0, ,11-16,A. Thompson enters the game for J. Smith,,1,11,16,-5,390.0
+5:30.0,B. Bogdanović makes free throw 2 of 2,12-16, ,,1,12,16,-4,390.0
+5:17.0, ,12-19,F. VanVleet makes 3-pt jump shot from 26 ft (assist by A. Sengun),,1,12,19,-7,403.0
+5:08.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by C. Cunningham),15-19, ,,1,15,19,-4,412.0
+4:57.0, ,15-19,A. Sengun misses 3-pt jump shot from 26 ft,,1,15,19,-4,423.0
+4:56.0,Defensive rebound by Team,15-19, ,,1,15,19,-4,424.0
+4:56.0,A. Burks enters the game for B. Bogdanović,15-19, ,,1,15,19,-4,424.0
+4:40.0,C. Cunningham misses 2-pt jump shot from 17 ft,15-19, ,,1,15,19,-4,440.0
+4:39.0, ,15-19,Defensive rebound by J. Green,,1,15,19,-4,441.0
+4:28.0, ,15-19,F. VanVleet misses 3-pt jump shot from 27 ft,,1,15,19,-4,452.0
+4:24.0,Defensive rebound by A. Burks,15-19, ,,1,15,19,-4,456.0
+4:07.0,J. Ivey makes 3-pt jump shot from 31 ft (assist by A. Burks),18-19, ,,1,18,19,-1,473.0
+3:52.0, ,18-19,A. Sengun misses 2-pt dunk from 3 ft,,1,18,19,-1,488.0
+3:51.0,Defensive rebound by J. Duren,18-19, ,,1,18,19,-1,489.0
+3:46.0,I. Livers makes 2-pt layup from 1 ft (assist by J. Duren),20-19, ,Lead change,1,20,19,1,494.0
+3:24.0, ,20-19,T. Eason misses 2-pt jump shot from 3 ft,,1,20,19,1,516.0
+3:23.0, ,20-19,Offensive rebound by T. Eason,,1,20,19,1,517.0
+3:23.0, ,20-21,T. Eason makes 2-pt layup at rim,Lead change,1,20,21,-1,517.0
+3:13.0,C. Cunningham makes 2-pt layup from 1 ft (assist by J. Ivey),22-21, ,Lead change,1,22,21,1,527.0
+2:56.0, ,22-23,F. VanVleet makes 2-pt jump shot from 13 ft,Lead change,1,22,23,-1,544.0
+2:40.0,C. Cunningham misses 2-pt layup at rim,22-23, ,,1,22,23,-1,560.0
+2:38.0, ,22-23,Defensive rebound by A. Sengun,,1,22,23,-1,562.0
+2:34.0, ,22-23,F. VanVleet misses 2-pt layup from 2 ft,,1,22,23,-1,566.0
+2:34.0,Defensive rebound by J. Ivey,22-23, ,,1,22,23,-1,566.0
+2:15.0,J. Duren makes 2-pt hook shot from 4 ft (assist by C. Cunningham),24-23, ,Lead change,1,24,23,1,585.0
+2:14.0, ,24-23,Houston full timeout,,1,24,23,1,586.0
+2:14.0,A. Thompson enters the game for J. Duren,24-23, ,,1,24,23,1,586.0
+2:14.0,J. Wiseman enters the game for J. Ivey,24-23, ,,1,24,23,1,586.0
+2:14.0, ,24-23,J. Green enters the game for J. Green,,1,24,23,1,586.0
+2:14.0, ,24-23,A. Holiday enters the game for A. Sengun,,1,24,23,1,586.0
+2:14.0, ,24-23,J. Smith enters the game for F. VanVleet,,1,24,23,1,586.0
+1:57.0, ,24-25,A. Thompson makes 2-pt layup from 2 ft,Lead change,1,24,25,-1,603.0
+1:57.0, ,24-25,Shooting foul by A. Burks (drawn by A. Thompson),,1,24,25,-1,603.0
+1:57.0, ,24-26,A. Thompson makes free throw 1 of 1,,1,24,26,-2,603.0
+1:44.0,C. Cunningham misses 2-pt layup from 1 ft,24-26, ,,1,24,26,-2,616.0
+1:43.0, ,24-26,Defensive rebound by J. Green,,1,24,26,-2,617.0
+1:34.0, ,24-26,J. Green misses 3-pt jump shot from 24 ft,,1,24,26,-2,626.0
+1:32.0, ,24-26,Offensive rebound by A. Holiday,,1,24,26,-2,628.0
+1:23.0, ,24-29,T. Eason makes 3-pt jump shot from 26 ft (assist by A. Holiday),,1,24,29,-5,637.0
+1:09.0,Turnover by A. Thompson (bad pass; steal by T. Eason),24-29, ,,1,24,29,-5,651.0
+1:05.0, ,24-31,T. Eason makes 2-pt dunk from 2 ft,,1,24,31,-7,655.0
+0:40.0,Shooting foul by T. Eason (drawn by J. Wiseman),24-31, ,,1,24,31,-7,680.0
+0:40.0,J. Wiseman makes free throw 1 of 2,25-31, ,,1,25,31,-6,680.0
+0:40.0,K. Hayes enters the game for C. Cunningham,25-31, ,,1,25,31,-6,680.0
+0:40.0,J. Wiseman makes free throw 2 of 2,26-31, ,,1,26,31,-5,680.0
+0:33.0, ,26-31,T. Eason misses 3-pt jump shot from 25 ft,,1,26,31,-5,687.0
+0:31.0,Defensive rebound by Team,26-31, ,,1,26,31,-5,689.0
+0:20.0,K. Hayes makes 3-pt jump shot from 25 ft,29-31, ,,1,29,31,-2,700.0
+0:01.0, ,29-31,A. Holiday misses 3-pt jump shot from 26 ft,,1,29,31,-2,719.0
+0:00.0, ,29-31,Offensive rebound by Team,,1,29,31,-2,720.0
+0:00.0,End of 1st quarter,29-31,,,1,29,31,-2,720.0
+12:00.0,Start of 2nd quarter,29-31,,,2,29,31,-2,720.0
+11:43.0, ,29-33,J. Green makes 2-pt dunk from 1 ft (assist by R. Bullock),,2,29,33,-4,737.0
+11:25.0,A. Burks misses 3-pt jump shot from 22 ft,29-33, ,,2,29,33,-4,755.0
+11:23.0, ,29-33,Defensive rebound by A. Thompson,,2,29,33,-4,757.0
+11:14.0, ,29-33,Shooting foul by A. Thompson (drawn by J. Tate),,2,29,33,-4,766.0
+11:14.0, ,29-34,J. Tate makes free throw 1 of 2,,2,29,34,-5,766.0
+11:14.0, ,29-35,J. Tate makes free throw 2 of 2,,2,29,35,-6,766.0
+11:05.0,Offensive foul by K. Hayes (drawn by A. Thompson),29-35, ,,2,29,35,-6,775.0
+11:05.0,Turnover by K. Hayes (offensive foul),29-35, ,,2,29,35,-6,775.0
+10:51.0, ,29-37,J. Tate makes 2-pt hook shot from 3 ft (assist by J. Green),,2,29,37,-8,789.0
+10:29.0,K. Hayes misses 2-pt jump shot from 22 ft,29-37, ,,2,29,37,-8,811.0
+10:28.0, ,29-37,Defensive rebound by T. Eason,,2,29,37,-8,812.0
+10:08.0, ,29-37,J. Tate misses 2-pt jump shot from 17 ft (block by J. Wiseman),,2,29,37,-8,832.0
+10:07.0, ,29-37,Offensive rebound by A. Thompson,,2,29,37,-8,833.0
+10:03.0, ,29-37,J. Tate misses 2-pt jump shot from 17 ft,,2,29,37,-8,837.0
+10:03.0,Defensive rebound by A. Burks,29-37, ,,2,29,37,-8,837.0
+9:55.0,J. Wiseman makes 2-pt dunk from 4 ft (assist by A. Burks),31-37, ,,2,31,37,-6,845.0
+9:35.0, ,31-39,T. Eason makes 2-pt layup from 3 ft,,2,31,39,-8,865.0
+9:20.0,Turnover by B. Bogdanović (lost ball; steal by T. Eason),31-39, ,,2,31,39,-8,880.0
+9:14.0, ,31-41,J. Tate makes 2-pt layup at rim,,2,31,41,-10,886.0
+9:13.0,Detroit full timeout,31-41, ,,2,31,41,-10,887.0
+9:02.0,B. Bogdanović misses 2-pt jump shot from 13 ft,31-41, ,,2,31,41,-10,898.0
+9:01.0, ,31-41,Defensive rebound by A. Thompson,,2,31,41,-10,899.0
+8:52.0, ,31-43,J. Tate makes 2-pt layup from 3 ft (assist by A. Thompson),,2,31,43,-12,908.0
+8:33.0,A. Burks makes 2-pt hook shot from 6 ft,33-43, ,,2,33,43,-10,927.0
+8:18.0, ,33-43,T. Eason misses 3-pt jump shot from 25 ft,,2,33,43,-10,942.0
+8:17.0,Defensive rebound by J. Wiseman,33-43, ,,2,33,43,-10,943.0
+8:10.0,A. Burks makes 2-pt layup at rim,35-43, ,,2,35,43,-8,950.0
+7:56.0, ,35-46,A. Thompson makes 3-pt jump shot from 27 ft (assist by J. Green),,2,35,46,-11,964.0
+7:46.0,B. Bogdanović misses 3-pt jump shot from 25 ft,35-46, ,,2,35,46,-11,974.0
+7:44.0, ,35-46,Defensive rebound by J. Green,,2,35,46,-11,976.0
+7:34.0, ,35-46,T. Eason misses 2-pt layup from 1 ft,,2,35,46,-11,986.0
+7:33.0,Defensive rebound by A. Thompson,35-46, ,,2,35,46,-11,987.0
+7:26.0,A. Burks misses 3-pt jump shot from 26 ft,35-46, ,,2,35,46,-11,994.0
+7:26.0,Offensive rebound by J. Wiseman,35-46, ,,2,35,46,-11,994.0
+7:18.0,A. Burks makes 3-pt jump shot from 24 ft,38-46, ,,2,38,46,-8,1002.0
+7:00.0, ,38-46,R. Bullock misses 3-pt jump shot from 25 ft (block by A. Thompson),,2,38,46,-8,1020.0
+6:59.0,Defensive rebound by B. Bogdanović,38-46, ,,2,38,46,-8,1021.0
+6:52.0,K. Hayes makes 2-pt layup from 4 ft,40-46, ,,2,40,46,-6,1028.0
+6:41.0, ,40-46,Shooting foul by J. Wiseman (drawn by J. Green),,2,40,46,-6,1039.0
+6:41.0, ,40-47,J. Green makes free throw 1 of 2,,2,40,47,-7,1039.0
+6:41.0,C. Cunningham enters the game for B. Bogdanović,40-47, ,,2,40,47,-7,1039.0
+6:41.0,J. Duren enters the game for A. Thompson,40-47, ,,2,40,47,-7,1039.0
+6:41.0,J. Ivey enters the game for J. Wiseman,40-47, ,,2,40,47,-7,1039.0
+6:41.0, ,40-47,J. Smith enters the game for T. Eason,,2,40,47,-7,1039.0
+6:41.0, ,40-47,F. VanVleet enters the game for A. Thompson,,2,40,47,-7,1039.0
+6:41.0, ,40-47,J. Green misses free throw 2 of 2,,2,40,47,-7,1039.0
+6:41.0,Defensive rebound by J. Duren,40-47, ,,2,40,47,-7,1039.0
+6:21.0,A. Burks misses 3-pt jump shot from 27 ft,40-47, ,,2,40,47,-7,1059.0
+6:17.0,Offensive rebound by J. Ivey,40-47, ,,2,40,47,-7,1063.0
+6:14.0,J. Duren misses 2-pt layup from 4 ft (block by J. Smith),40-47, ,,2,40,47,-7,1066.0
+6:11.0, ,40-47,Defensive rebound by R. Bullock,,2,40,47,-7,1069.0
+6:06.0, ,40-47,J. Tate misses 3-pt jump shot from 25 ft,,2,40,47,-7,1074.0
+6:05.0,Defensive rebound by K. Hayes,40-47, ,,2,40,47,-7,1075.0
+5:56.0,K. Hayes misses 2-pt jump shot from 6 ft,40-47, ,,2,40,47,-7,1084.0
+5:54.0, ,40-47,Defensive rebound by J. Smith,,2,40,47,-7,1086.0
+5:49.0, ,40-47,Turnover by J. Green (out of bounds lost ball),,2,40,47,-7,1091.0
+5:49.0,K. Knox enters the game for K. Hayes,40-47, ,,2,40,47,-7,1091.0
+5:49.0, ,40-47,J. Green enters the game for J. Green,,2,40,47,-7,1091.0
+5:49.0, ,40-47,A. Sengun enters the game for J. Tate,,2,40,47,-7,1091.0
+5:41.0,Turnover by C. Cunningham (bad pass),40-47, ,,2,40,47,-7,1099.0
+5:25.0, ,40-50,J. Smith makes 3-pt jump shot from 25 ft,,2,40,50,-10,1115.0
+5:08.0,J. Ivey makes 2-pt layup from 2 ft (assist by C. Cunningham),42-50, ,,2,42,50,-8,1132.0
+4:54.0, ,42-50,J. Green misses 3-pt jump shot from 27 ft,,2,42,50,-8,1146.0
+4:53.0, ,42-50,Offensive rebound by A. Sengun,,2,42,50,-8,1147.0
+4:49.0, ,42-50,J. Green misses 2-pt layup from 2 ft (block by A. Burks),,2,42,50,-8,1151.0
+4:46.0,Defensive rebound by J. Duren,42-50, ,,2,42,50,-8,1154.0
+4:43.0,Shooting foul by A. Sengun (drawn by A. Burks),42-50, ,,2,42,50,-8,1157.0
+4:43.0,A. Burks makes free throw 1 of 2,43-50, ,,2,43,50,-7,1157.0
+4:43.0, ,43-50,J. Tate enters the game for R. Bullock,,2,43,50,-7,1157.0
+4:43.0,A. Burks makes free throw 2 of 2,44-50, ,,2,44,50,-6,1157.0
+4:21.0, ,44-50,Turnover by A. Sengun (lost ball; steal by A. Burks),,2,44,50,-6,1179.0
+4:18.0,Offensive foul by A. Burks (drawn by F. VanVleet),44-50, ,,2,44,50,-6,1182.0
+4:18.0,Turnover by A. Burks (offensive foul),44-50, ,,2,44,50,-6,1182.0
+4:10.0, ,44-53,F. VanVleet makes 3-pt jump shot from 26 ft,,2,44,53,-9,1190.0
+3:57.0,A. Burks makes 3-pt jump shot from 22 ft (assist by J. Ivey),47-53, ,,2,47,53,-6,1203.0
+3:34.0, ,47-53,J. Smith misses 2-pt dunk at rim,,2,47,53,-6,1226.0
+3:31.0,Defensive rebound by J. Duren,47-53, ,,2,47,53,-6,1229.0
+3:31.0,Personal foul by J. Tate (drawn by J. Duren),47-53, ,,2,47,53,-6,1229.0
+3:17.0,A. Burks misses 2-pt layup from 9 ft,47-53, ,,2,47,53,-6,1243.0
+3:15.0, ,47-53,Defensive rebound by J. Tate,,2,47,53,-6,1245.0
+3:03.0, ,47-55,A. Sengun makes 2-pt layup from 3 ft (assist by F. VanVleet),,2,47,55,-8,1257.0
+2:47.0,C. Cunningham misses 3-pt jump shot from 24 ft,47-55, ,,2,47,55,-8,1273.0
+2:45.0, ,47-55,Defensive rebound by Team,,2,47,55,-8,1275.0
+2:45.0, ,47-55,Houston full timeout,,2,47,55,-8,1275.0
+2:45.0,B. Bogdanović enters the game for A. Burks,47-55, ,,2,47,55,-8,1275.0
+2:25.0, ,47-57,F. VanVleet makes 2-pt jump shot from 9 ft,,2,47,57,-10,1295.0
+2:05.0,J. Duren makes 2-pt hook shot from 7 ft (assist by C. Cunningham),49-57, ,,2,49,57,-8,1315.0
+1:53.0, ,49-57,F. VanVleet misses 3-pt jump shot from 25 ft,,2,49,57,-8,1327.0
+1:52.0,Defensive rebound by J. Duren,49-57, ,,2,49,57,-8,1328.0
+1:41.0,B. Bogdanović misses 2-pt jump shot from 16 ft,49-57, ,,2,49,57,-8,1339.0
+1:40.0,Offensive rebound by J. Ivey,49-57, ,,2,49,57,-8,1340.0
+1:40.0,J. Ivey makes 2-pt layup at rim,51-57, ,,2,51,57,-6,1340.0
+1:22.0, ,51-57,A. Sengun misses 3-pt jump shot from 25 ft,,2,51,57,-6,1358.0
+1:20.0,Defensive rebound by J. Duren,51-57, ,,2,51,57,-6,1360.0
+1:08.0,J. Duren makes 2-pt dunk from 3 ft (assist by C. Cunningham),53-57, ,,2,53,57,-4,1372.0
+0:47.0, ,53-57,J. Green misses 3-pt jump shot from 26 ft,,2,53,57,-4,1393.0
+0:46.0, ,53-57,Offensive rebound by Team,,2,53,57,-4,1394.0
+0:46.0,Loose ball foul by J. Duren (drawn by A. Sengun),53-57, ,,2,53,57,-4,1394.0
+0:32.0, ,53-57,J. Tate misses 3-pt jump shot from 22 ft,,2,53,57,-4,1408.0
+0:29.0, ,53-57,Offensive rebound by Team,,2,53,57,-4,1411.0
+0:17.0, ,53-59,A. Sengun makes 2-pt dunk from 1 ft,,2,53,59,-6,1423.0
+0:07.0,Personal foul by J. Tate (drawn by C. Cunningham),53-59, ,,2,53,59,-6,1433.0
+0:07.0,A. Burks enters the game for K. Knox,53-59, ,,2,53,59,-6,1433.0
+0:07.0, ,53-59,T. Eason enters the game for J. Green,,2,53,59,-6,1433.0
+0:07.0, ,53-59,J. Green enters the game for A. Sengun,,2,53,59,-6,1433.0
+0:02.0,C. Cunningham misses 3-pt jump shot from 24 ft,53-59, ,,2,53,59,-6,1438.0
+0:01.0,Offensive rebound by J. Duren,53-59, ,,2,53,59,-6,1439.0
+0:00.0,J. Duren makes 2-pt layup at rim,55-59, ,,2,55,59,-4,1440.0
+0:00.0,End of 2nd quarter,55-59,,,2,55,59,-4,1440.0
+12:00.0,Start of 3rd quarter,55-59,,,3,55,59,-4,1440.0
+11:51.0, ,55-62,J. Green makes 3-pt jump shot from 24 ft,,3,55,62,-7,1449.0
+11:37.0,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by C. Cunningham),58-62, ,,3,58,62,-4,1463.0
+11:25.0, ,58-62,J. Green misses 3-pt jump shot from 26 ft,,3,58,62,-4,1475.0
+11:23.0,Defensive rebound by J. Duren,58-62, ,,3,58,62,-4,1477.0
+11:03.0,J. Duren makes 2-pt hook shot from 7 ft,60-62, ,,3,60,62,-2,1497.0
+10:50.0, ,60-62,Shooting foul by J. Duren (drawn by A. Sengun),,3,60,62,-2,1510.0
+10:50.0, ,60-63,A. Sengun makes free throw 1 of 2,,3,60,63,-3,1510.0
+10:50.0, ,60-64,A. Sengun makes free throw 2 of 2,,3,60,64,-4,1510.0
+10:39.0,B. Bogdanović misses 3-pt jump shot from 26 ft,60-64, ,,3,60,64,-4,1521.0
+10:37.0, ,60-64,Defensive rebound by J. Smith,,3,60,64,-4,1523.0
+10:25.0, ,60-64,Shooting foul by C. Cunningham (drawn by A. Sengun),,3,60,64,-4,1535.0
+10:25.0, ,60-65,A. Sengun makes free throw 1 of 2,,3,60,65,-5,1535.0
+10:25.0, ,60-66,A. Sengun makes free throw 2 of 2,,3,60,66,-6,1535.0
+10:16.0,C. Cunningham misses 2-pt jump shot from 19 ft,60-66, ,,3,60,66,-6,1544.0
+10:15.0,Offensive rebound by J. Duren,60-66, ,,3,60,66,-6,1545.0
+10:15.0,J. Duren misses 2-pt layup from 2 ft,60-66, ,,3,60,66,-6,1545.0
+10:14.0, ,60-66,Defensive rebound by J. Tate,,3,60,66,-6,1546.0
+10:08.0, ,60-66,J. Smith misses 3-pt jump shot from 28 ft,,3,60,66,-6,1552.0
+10:05.0,Defensive rebound by J. Duren,60-66, ,,3,60,66,-6,1555.0
+9:55.0,C. Cunningham misses 2-pt jump shot from 11 ft,60-66, ,,3,60,66,-6,1565.0
+9:53.0, ,60-66,Defensive rebound by F. VanVleet,,3,60,66,-6,1567.0
+9:48.0, ,60-66,F. VanVleet misses 2-pt jump shot from 4 ft,,3,60,66,-6,1572.0
+9:46.0,Defensive rebound by Team,60-66, ,,3,60,66,-6,1574.0
+9:31.0,Shooting foul by J. Tate (drawn by J. Ivey),60-66, ,,3,60,66,-6,1589.0
+9:31.0,J. Ivey makes free throw 1 of 2,61-66, ,,3,61,66,-5,1589.0
+9:31.0,J. Ivey makes free throw 2 of 2,62-66, ,,3,62,66,-4,1589.0
+9:18.0, ,62-69,J. Smith makes 3-pt jump shot from 24 ft (assist by F. VanVleet),,3,62,69,-7,1602.0
+9:09.0,Personal foul by J. Smith (drawn by K. Knox),62-69, ,,3,62,69,-7,1611.0
+9:01.0,Turnover by B. Bogdanović (lost ball; steal by A. Sengun),62-69, ,,3,62,69,-7,1619.0
+8:54.0, ,62-71,A. Sengun makes 2-pt layup at rim (assist by F. VanVleet),,3,62,71,-9,1626.0
+8:54.0, ,62-71,Shooting foul by J. Duren (drawn by A. Sengun),,3,62,71,-9,1626.0
+8:54.0,J. Wiseman enters the game for J. Duren,62-71, ,,3,62,71,-9,1626.0
+8:54.0,Violation by Team (delay of game),62-71, ,,3,62,71,-9,1626.0
+8:54.0, ,62-72,A. Sengun makes free throw 1 of 1,,3,62,72,-10,1626.0
+8:34.0,K. Knox makes 2-pt layup from 1 ft (assist by J. Ivey),64-72, ,,3,64,72,-8,1646.0
+8:21.0, ,64-74,A. Sengun makes 2-pt hook shot from 2 ft (assist by F. VanVleet),,3,64,74,-10,1659.0
+8:07.0,Turnover by J. Ivey (lost ball; steal by F. VanVleet),64-74, ,,3,64,74,-10,1673.0
+8:03.0, ,64-74,Personal foul by J. Ivey (drawn by J. Green),,3,64,74,-10,1677.0
+7:47.0, ,64-76,A. Sengun makes 2-pt jump shot from 11 ft,,3,64,76,-12,1693.0
+7:27.0,C. Cunningham misses 2-pt jump shot from 9 ft,64-76, ,,3,64,76,-12,1713.0
+7:25.0,Offensive rebound by J. Ivey,64-76, ,,3,64,76,-12,1715.0
+7:25.0,Personal foul by J. Tate (drawn by J. Ivey),64-76, ,,3,64,76,-12,1715.0
+7:25.0,I. Livers enters the game for K. Knox,64-76, ,,3,64,76,-12,1715.0
+7:25.0, ,64-76,T. Eason enters the game for J. Tate,,3,64,76,-12,1715.0
+7:19.0,C. Cunningham misses 3-pt jump shot from 28 ft,64-76, ,,3,64,76,-12,1721.0
+7:17.0, ,64-76,Defensive rebound by J. Green,,3,64,76,-12,1723.0
+7:07.0, ,64-78,J. Green makes 2-pt layup from 2 ft (assist by A. Sengun),,3,64,78,-14,1733.0
+7:05.0,Detroit full timeout,64-78, ,,3,64,78,-14,1735.0
+6:51.0,J. Ivey misses 2-pt jump shot from 10 ft,64-78, ,,3,64,78,-14,1749.0
+6:50.0, ,64-78,Defensive rebound by A. Sengun,,3,64,78,-14,1750.0
+6:43.0, ,64-81,F. VanVleet makes 3-pt jump shot from 28 ft (assist by A. Sengun),,3,64,81,-17,1757.0
+6:32.0,Shooting foul by A. Sengun (drawn by J. Ivey),64-81, ,,3,64,81,-17,1768.0
+6:32.0,J. Ivey makes free throw 1 of 2,65-81, ,,3,65,81,-16,1768.0
+6:32.0,J. Ivey makes free throw 2 of 2,66-81, ,,3,66,81,-15,1768.0
+6:23.0, ,66-81,Personal foul by C. Cunningham (drawn by J. Green),,3,66,81,-15,1777.0
+6:23.0, ,66-82,J. Green makes free throw 1 of 2,,3,66,82,-16,1777.0
+6:23.0, ,66-83,J. Green makes free throw 2 of 2,,3,66,83,-17,1777.0
+6:11.0,J. Ivey makes 3-pt jump shot from 23 ft (assist by C. Cunningham),69-83, ,,3,69,83,-14,1789.0
+5:55.0, ,69-85,T. Eason makes 2-pt jump shot from 20 ft (assist by A. Sengun),,3,69,85,-16,1805.0
+5:45.0,J. Ivey misses 3-pt jump shot from 25 ft,69-85, ,,3,69,85,-16,1815.0
+5:44.0, ,69-85,Defensive rebound by J. Smith,,3,69,85,-16,1816.0
+5:37.0, ,69-85,Offensive foul by A. Sengun (drawn by B. Bogdanović),,3,69,85,-16,1823.0
+5:37.0, ,69-85,Turnover by A. Sengun (offensive foul),,3,69,85,-16,1823.0
+5:37.0,A. Burks enters the game for B. Bogdanović,69-85, ,,3,69,85,-16,1823.0
+5:37.0, ,69-85,A. Thompson enters the game for J. Smith,,3,69,85,-16,1823.0
+5:27.0,Turnover by C. Cunningham (bad pass; steal by A. Sengun),69-85, ,,3,69,85,-16,1833.0
+5:21.0, ,69-88,J. Green makes 3-pt jump shot from 24 ft (assist by T. Eason),,3,69,88,-19,1839.0
+5:21.0,K. Hayes enters the game for C. Cunningham,69-88, ,,3,69,88,-19,1839.0
+5:02.0,Shooting foul by F. VanVleet (drawn by K. Hayes),69-88, ,,3,69,88,-19,1858.0
+5:02.0,K. Hayes misses free throw 1 of 2,69-88, ,,3,69,88,-19,1858.0
+5:02.0,Offensive rebound by Team,69-88, ,,3,69,88,-19,1858.0
+5:02.0,K. Hayes makes free throw 2 of 2,70-88, ,,3,70,88,-18,1858.0
+4:53.0, ,70-90,A. Sengun makes 2-pt jump shot from 8 ft (assist by F. VanVleet),,3,70,90,-20,1867.0
+4:53.0, ,70-90,Shooting foul by K. Hayes (drawn by A. Sengun),,3,70,90,-20,1867.0
+4:53.0,A. Thompson enters the game for J. Ivey,70-90, ,,3,70,90,-20,1867.0
+4:53.0, ,70-91,A. Sengun makes free throw 1 of 1,,3,70,91,-21,1867.0
+4:39.0,I. Livers misses 2-pt layup from 2 ft,70-91, ,,3,70,91,-21,1881.0
+4:38.0, ,70-91,Defensive rebound by J. Green,,3,70,91,-21,1882.0
+4:25.0, ,70-94,J. Green makes 3-pt jump shot from 27 ft (assist by A. Sengun),,3,70,94,-24,1895.0
+4:14.0,Personal foul by A. Thompson (drawn by K. Hayes),70-94, ,,3,70,94,-24,1906.0
+4:14.0,K. Hayes misses free throw 1 of 2,70-94, ,,3,70,94,-24,1906.0
+4:14.0,Offensive rebound by Team,70-94, ,,3,70,94,-24,1906.0
+4:14.0,K. Hayes misses free throw 2 of 2,70-94, ,,3,70,94,-24,1906.0
+4:14.0, ,70-94,Defensive rebound by T. Eason,,3,70,94,-24,1906.0
+3:52.0, ,70-96,A. Sengun makes 2-pt jump shot from 12 ft (assist by F. VanVleet),,3,70,96,-26,1928.0
+3:38.0,A. Burks misses 2-pt jump shot from 8 ft,70-96, ,,3,70,96,-26,1942.0
+3:37.0, ,70-96,Defensive rebound by J. Green,,3,70,96,-26,1943.0
+3:31.0, ,70-99,J. Green makes 3-pt jump shot from 28 ft (assist by F. VanVleet),,3,70,99,-29,1949.0
+3:09.0,K. Hayes misses 2-pt jump shot from 18 ft,70-99, ,,3,70,99,-29,1971.0
+3:08.0, ,70-99,Defensive rebound by J. Green,,3,70,99,-29,1972.0
+2:53.0, ,70-99,T. Eason misses 3-pt jump shot from 23 ft,,3,70,99,-29,1987.0
+2:50.0,Defensive rebound by A. Thompson,70-99, ,,3,70,99,-29,1990.0
+2:41.0,K. Hayes makes 2-pt layup from 1 ft (assist by A. Thompson),72-99, ,,3,72,99,-27,1999.0
+2:30.0, ,72-99,Shooting foul by J. Wiseman (drawn by A. Sengun),,3,72,99,-27,2010.0
+2:30.0, ,72-99,Houston full timeout,,3,72,99,-27,2010.0
+2:30.0, ,72-99,A. Holiday enters the game for F. VanVleet,,3,72,99,-27,2010.0
+2:30.0, ,72-99,A. Sengun misses free throw 1 of 2,,3,72,99,-27,2010.0
+2:30.0, ,72-99,Offensive rebound by Team,,3,72,99,-27,2010.0
+2:30.0, ,72-100,A. Sengun makes free throw 2 of 2,,3,72,100,-28,2010.0
+2:15.0,A. Burks makes 2-pt jump shot from 18 ft (assist by K. Hayes),74-100, ,,3,74,100,-26,2025.0
+1:52.0, ,74-100,Shooting foul by J. Wiseman (drawn by J. Green),,3,74,100,-26,2048.0
+1:52.0, ,74-100,J. Green misses free throw 1 of 2,,3,74,100,-26,2048.0
+1:52.0, ,74-100,Offensive rebound by Team,,3,74,100,-26,2048.0
+1:52.0, ,74-101,J. Green makes free throw 2 of 2,,3,74,101,-27,2048.0
+1:40.0,Offensive foul by J. Wiseman (drawn by A. Holiday),74-101, ,,3,74,101,-27,2060.0
+1:40.0,Turnover by J. Wiseman (offensive foul),74-101, ,,3,74,101,-27,2060.0
+1:34.0, ,74-101,J. Green misses 3-pt jump shot from 27 ft,,3,74,101,-27,2066.0
+1:32.0,Defensive rebound by Team,74-101, ,,3,74,101,-27,2068.0
+1:32.0, ,74-101,Loose ball foul by A. Thompson (drawn by A. Burks),,3,74,101,-27,2068.0
+1:32.0,A. Burks makes free throw 1 of 2,75-101, ,,3,75,101,-26,2068.0
+1:32.0,A. Burks makes free throw 2 of 2,76-101, ,,3,76,101,-25,2068.0
+1:16.0, ,76-101,A. Holiday misses 2-pt jump shot from 10 ft,,3,76,101,-25,2084.0
+1:13.0,Defensive rebound by J. Wiseman,76-101, ,,3,76,101,-25,2087.0
+1:10.0,Personal foul by A. Holiday (drawn by A. Burks),76-101, ,,3,76,101,-25,2090.0
+1:10.0,A. Burks makes free throw 1 of 2,77-101, ,,3,77,101,-24,2090.0
+1:10.0,A. Burks makes free throw 2 of 2,78-101, ,,3,78,101,-23,2090.0
+0:48.0, ,78-103,A. Sengun makes 2-pt layup from 2 ft (assist by A. Thompson),,3,78,103,-25,2112.0
+0:48.0, ,78-103,Shooting foul by J. Wiseman (drawn by A. Sengun),,3,78,103,-25,2112.0
+0:48.0, ,78-104,A. Sengun makes free throw 1 of 1,,3,78,104,-26,2112.0
+0:37.0,K. Hayes misses 2-pt jump shot from 8 ft,78-104, ,,3,78,104,-26,2123.0
+0:35.0, ,78-104,Defensive rebound by A. Holiday,,3,78,104,-26,2125.0
+0:31.0, ,78-106,T. Eason makes 2-pt layup from 1 ft (assist by A. Holiday),,3,78,106,-28,2129.0
+0:11.0,A. Thompson makes 2-pt layup from 1 ft (assist by K. Hayes),80-106, ,,3,80,106,-26,2149.0
+0:02.0, ,80-106,A. Thompson misses 2-pt layup from 1 ft,,3,80,106,-26,2158.0
+0:01.0,Defensive rebound by J. Wiseman,80-106, ,,3,80,106,-26,2159.0
+0:00.0,End of 3rd quarter,80-106,,,3,80,106,-26,2160.0
+12:00.0,Start of 4th quarter,80-106,,,4,80,106,-26,2160.0
+11:48.0,B. Bogdanović misses 2-pt jump shot from 10 ft,80-106, ,,4,80,106,-26,2172.0
+11:46.0,Offensive rebound by Team,80-106, ,,4,80,106,-26,2174.0
+11:43.0,Turnover by A. Burks (bad pass; steal by J. Tate),80-106, ,,4,80,106,-26,2177.0
+11:38.0, ,80-106,T. Eason misses 2-pt layup from 4 ft (block by A. Thompson),,4,80,106,-26,2182.0
+11:35.0, ,80-106,Offensive rebound by T. Eason,,4,80,106,-26,2185.0
+11:34.0, ,80-106,T. Eason misses 2-pt layup from 3 ft,,4,80,106,-26,2186.0
+11:32.0,Defensive rebound by J. Duren,80-106, ,,4,80,106,-26,2188.0
+11:30.0,Shooting foul by J. Tate (drawn by B. Bogdanović),80-106, ,,4,80,106,-26,2190.0
+11:30.0,B. Bogdanović makes free throw 1 of 2,81-106, ,,4,81,106,-25,2190.0
+11:30.0,B. Bogdanović makes free throw 2 of 2,82-106, ,,4,82,106,-24,2190.0
+11:11.0, ,82-108,J. Tate makes 2-pt jump shot from 5 ft,,4,82,108,-26,2209.0
+11:02.0,A. Burks makes 3-pt jump shot from 24 ft (assist by C. Cunningham),85-108, ,,4,85,108,-23,2218.0
+10:43.0, ,85-108,Turnover by J. Smith (step out of bounds),,4,85,108,-23,2237.0
+10:34.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by C. Cunningham),88-108, ,,4,88,108,-20,2246.0
+10:32.0, ,88-108,Houston full timeout,,4,88,108,-20,2248.0
+10:19.0, ,88-108,J. Smith misses 2-pt jump shot from 9 ft,,4,88,108,-20,2261.0
+10:17.0,Defensive rebound by J. Duren,88-108, ,,4,88,108,-20,2263.0
+10:05.0,A. Thompson misses 2-pt dunk from 2 ft,88-108, ,,4,88,108,-20,2275.0
+10:04.0, ,88-108,Defensive rebound by A. Holiday,,4,88,108,-20,2276.0
+9:59.0, ,88-110,T. Eason makes 2-pt layup from 1 ft (assist by A. Holiday),,4,88,110,-22,2281.0
+9:49.0,Turnover by B. Bogdanović (bad pass; steal by A. Thompson),88-110, ,,4,88,110,-22,2291.0
+9:43.0, ,88-112,T. Eason makes 2-pt layup at rim (assist by A. Thompson),,4,88,112,-24,2297.0
+9:27.0,C. Cunningham makes 2-pt layup from 3 ft,90-112, ,,4,90,112,-22,2313.0
+9:27.0, ,90-112,Violation by Team (def goaltending),,4,90,112,-22,2313.0
+9:27.0,Shooting foul by T. Eason (drawn by C. Cunningham),90-112, ,,4,90,112,-22,2313.0
+9:27.0,C. Cunningham misses free throw 1 of 1,90-112, ,,4,90,112,-22,2313.0
+9:27.0, ,90-112,Defensive rebound by A. Thompson,,4,90,112,-22,2313.0
+9:13.0, ,90-112,Shooting foul by J. Duren (drawn by J. Tate),,4,90,112,-22,2327.0
+9:13.0, ,90-113,J. Tate makes free throw 1 of 2,,4,90,113,-23,2327.0
+9:13.0,M. Bagley enters the game for A. Burks,90-113, ,,4,90,113,-23,2327.0
+9:13.0,J. Ivey enters the game for J. Duren,90-113, ,,4,90,113,-23,2327.0
+9:13.0, ,90-114,J. Tate makes free throw 2 of 2,,4,90,114,-24,2327.0
+9:02.0,Turnover by C. Cunningham (bad pass; steal by T. Eason),90-114, ,,4,90,114,-24,2338.0
+8:52.0, ,90-116,A. Thompson makes 2-pt dunk from 1 ft (assist by A. Holiday),,4,90,116,-26,2348.0
+8:36.0,J. Ivey makes 2-pt jump shot from 8 ft (assist by B. Bogdanović),92-116, ,,4,92,116,-24,2364.0
+8:21.0, ,92-116,A. Holiday misses 2-pt jump shot from 21 ft,,4,92,116,-24,2379.0
+8:20.0,Defensive rebound by A. Thompson,92-116, ,,4,92,116,-24,2380.0
+8:13.0,Turnover by A. Thompson (bad pass),92-116, ,,4,92,116,-24,2387.0
+8:05.0, ,92-116,J. Smith misses 3-pt jump shot from 25 ft,,4,92,116,-24,2395.0
+8:03.0,Defensive rebound by J. Ivey,92-116, ,,4,92,116,-24,2397.0
+7:56.0,Turnover by J. Ivey (bad pass),92-116, ,,4,92,116,-24,2404.0
+7:50.0, ,92-118,A. Thompson makes 2-pt jump shot from 9 ft,,4,92,118,-26,2410.0
+7:36.0,B. Bogdanović misses 3-pt jump shot from 22 ft,92-118, ,,4,92,118,-26,2424.0
+7:35.0,Offensive rebound by A. Thompson,92-118, ,,4,92,118,-26,2425.0
+7:33.0,Shooting foul by J. Tate (drawn by A. Thompson),92-118, ,,4,92,118,-26,2427.0
+7:33.0, ,92-118,C. Whitmore enters the game for J. Tate,,4,92,118,-26,2427.0
+7:33.0,A. Thompson makes free throw 1 of 2,93-118, ,,4,93,118,-25,2427.0
+7:33.0,A. Thompson misses free throw 2 of 2,93-118, ,,4,93,118,-25,2427.0
+7:33.0, ,93-118,Defensive rebound by J. Smith,,4,93,118,-25,2427.0
+7:22.0, ,93-121,C. Whitmore makes 3-pt jump shot from 25 ft (assist by J. Smith),,4,93,121,-28,2438.0
+7:05.0,Turnover by C. Cunningham (lost ball; steal by A. Thompson),93-121, ,,4,93,121,-28,2455.0
+6:58.0, ,93-121,Personal foul by A. Thompson (drawn by A. Holiday),,4,93,121,-28,2462.0
+6:58.0, ,93-121,J. Landale enters the game for T. Eason,,4,93,121,-28,2462.0
+6:52.0, ,93-123,C. Whitmore makes 2-pt dunk from 2 ft (assist by A. Thompson),,4,93,123,-30,2468.0
+6:51.0,Detroit full timeout,93-123, ,,4,93,123,-30,2469.0
+6:51.0,K. Hayes enters the game for B. Bogdanović,93-123, ,,4,93,123,-30,2469.0
+6:51.0,K. Knox enters the game for C. Cunningham,93-123, ,,4,93,123,-30,2469.0
+6:51.0,M. Sasser enters the game for J. Ivey,93-123, ,,4,93,123,-30,2469.0
+6:51.0, ,93-123,R. Bullock enters the game for J. Smith,,4,93,123,-30,2469.0
+6:35.0,M. Bagley misses 2-pt jump shot from 13 ft,93-123, ,,4,93,123,-30,2485.0
+6:33.0, ,93-123,Defensive rebound by C. Whitmore,,4,93,123,-30,2487.0
+6:20.0, ,93-126,R. Bullock makes 3-pt jump shot from 22 ft (assist by A. Thompson),,4,93,126,-33,2500.0
+6:20.0, ,93-126,B. Marjanović enters the game for A. Holiday,,4,93,126,-33,2500.0
+6:03.0,K. Knox misses 3-pt jump shot from 27 ft,93-126, ,,4,93,126,-33,2517.0
+6:02.0, ,93-126,Defensive rebound by R. Bullock,,4,93,126,-33,2518.0
+5:48.0, ,93-126,Turnover by A. Thompson (traveling),,4,93,126,-33,2532.0
+5:26.0,M. Sasser makes 3-pt jump shot from 22 ft (assist by A. Thompson),96-126, ,,4,96,126,-30,2554.0
+5:01.0, ,96-126,C. Whitmore misses 2-pt layup from 3 ft,,4,96,126,-30,2579.0
+5:00.0, ,96-126,Offensive rebound by C. Whitmore,,4,96,126,-30,2580.0
+4:59.0, ,96-128,C. Whitmore makes 2-pt layup from 2 ft,,4,96,128,-32,2581.0
+4:48.0,M. Sasser makes 2-pt jump shot from 11 ft (assist by M. Bagley),98-128, ,,4,98,128,-30,2592.0
+4:24.0, ,98-130,R. Bullock makes 2-pt layup from 2 ft (assist by B. Marjanović),,4,98,130,-32,2616.0
+4:14.0,Shooting foul by A. Thompson (drawn by K. Knox),98-130, ,,4,98,130,-32,2626.0
+4:14.0,K. Knox makes free throw 1 of 2,99-130, ,,4,99,130,-31,2626.0
+4:14.0,K. Knox makes free throw 2 of 2,100-130, ,,4,100,130,-30,2626.0
+3:59.0, ,100-132,C. Whitmore makes 2-pt dunk from 2 ft (assist by R. Bullock),,4,100,132,-32,2641.0
+3:48.0,M. Bagley makes 2-pt jump shot from 13 ft (assist by M. Sasser),102-132, ,,4,102,132,-30,2652.0
+3:31.0, ,102-134,R. Bullock makes 2-pt layup from 4 ft (assist by A. Thompson),,4,102,134,-32,2669.0
+3:13.0,A. Thompson makes 2-pt layup from 4 ft (assist by M. Sasser),104-134, ,,4,104,134,-30,2687.0
+2:53.0, ,104-134,R. Bullock misses 2-pt jump shot from 8 ft,,4,104,134,-30,2707.0
+2:53.0,Defensive rebound by Team,104-134, ,,4,104,134,-30,2707.0
+2:43.0,Shooting foul by B. Marjanović (drawn by M. Sasser),104-134, ,,4,104,134,-30,2717.0
+2:43.0,M. Sasser misses free throw 1 of 2,104-134, ,,4,104,134,-30,2717.0
+2:43.0,Offensive rebound by Team,104-134, ,,4,104,134,-30,2717.0
+2:43.0,M. Sasser makes free throw 2 of 2,105-134, ,,4,105,134,-29,2717.0
+2:24.0, ,105-136,A. Thompson makes 2-pt jump shot from 10 ft,,4,105,136,-31,2736.0
+2:16.0,M. Sasser makes 3-pt jump shot from 25 ft,108-136, ,,4,108,136,-28,2744.0
+1:56.0, ,108-136,B. Marjanović misses 2-pt jump shot from 12 ft,,4,108,136,-28,2764.0
+1:55.0,Defensive rebound by K. Knox,108-136, ,,4,108,136,-28,2765.0
+1:49.0,K. Knox misses 3-pt jump shot from 25 ft,108-136, ,,4,108,136,-28,2771.0
+1:48.0, ,108-136,Defensive rebound by C. Whitmore,,4,108,136,-28,2772.0
+1:37.0, ,108-136,Turnover by A. Thompson (bad pass; steal by K. Hayes),,4,108,136,-28,2783.0
+1:34.0,K. Knox makes 2-pt dunk from 1 ft (assist by K. Hayes),110-136, ,,4,110,136,-26,2786.0
+1:14.0, ,110-136,B. Marjanović misses 3-pt jump shot from 27 ft,,4,110,136,-26,2806.0
+1:12.0,Defensive rebound by K. Knox,110-136, ,,4,110,136,-26,2808.0
+1:04.0,A. Thompson misses 2-pt jump shot from 7 ft,110-136, ,,4,110,136,-26,2816.0
+1:03.0, ,110-136,Defensive rebound by B. Marjanović,,4,110,136,-26,2817.0
+0:52.0, ,110-136,Turnover by R. Bullock (bad pass; steal by M. Bagley),,4,110,136,-26,2828.0
+0:46.0,K. Knox makes 3-pt jump shot from 24 ft (assist by M. Bagley),113-136, ,,4,113,136,-23,2834.0
+0:22.0, ,113-136,Turnover by Team (shot clock),,4,113,136,-23,2858.0
+0:17.0,K. Hayes misses 3-pt jump shot from 23 ft,113-136, ,,4,113,136,-23,2863.0
+0:16.0, ,113-136,Defensive rebound by C. Whitmore,,4,113,136,-23,2864.0
+0:00.0,End of 4th quarter,113-136,,,4,113,136,-23,2880.0

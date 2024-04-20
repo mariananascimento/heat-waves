@@ -1,0 +1,457 @@
+Time,Houston,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: A. Sengun vs. J. Duren (J. Smith gains possession),0-0,,,1,0,0,0,0.0
+11:38.0,J. Green misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,22.0
+11:34.0, ,0-0,Defensive rebound by I. Stewart,,1,0,0,0,26.0
+11:26.0, ,0-2,J. Ivey makes 2-pt jump shot from 15 ft (assist by K. Hayes),,1,2,0,2,34.0
+11:14.0,F. VanVleet misses 2-pt jump shot from 20 ft,0-2, ,,1,2,0,2,46.0
+11:12.0, ,0-2,Defensive rebound by K. Hayes,,1,2,0,2,48.0
+11:05.0, ,0-2,K. Hayes misses 2-pt jump shot from 7 ft,,1,2,0,2,55.0
+11:02.0,Defensive rebound by J. Tate,0-2, ,,1,2,0,2,58.0
+11:00.0,J. Smith makes 2-pt dunk from 2 ft (assist by J. Tate),2-2, ,Tie,1,2,2,0,60.0
+10:45.0, ,2-4,J. Duren makes 2-pt hook shot from 3 ft (assist by J. Ivey),,1,4,2,2,75.0
+10:34.0,A. Sengun misses 3-pt jump shot from 25 ft,2-4, ,,1,4,2,2,86.0
+10:31.0, ,2-4,Defensive rebound by I. Stewart,,1,4,2,2,89.0
+10:26.0, ,2-4,I. Stewart misses 3-pt jump shot from 26 ft,,1,4,2,2,94.0
+10:22.0,Defensive rebound by J. Tate,2-4, ,,1,4,2,2,98.0
+10:16.0,J. Tate makes 2-pt layup from 5 ft,4-4, ,Tie,1,4,4,0,104.0
+9:57.0, ,4-7,I. Stewart makes 3-pt jump shot from 23 ft (assist by K. Hayes),,1,7,4,3,123.0
+9:42.0,J. Green misses 2-pt jump shot from 21 ft,4-7, ,,1,7,4,3,138.0
+9:39.0, ,4-7,Defensive rebound by K. Knox,,1,7,4,3,141.0
+9:24.0, ,4-7,Turnover by J. Duren (lost ball; steal by F. VanVleet),,1,7,4,3,156.0
+9:19.0,J. Smith makes 2-pt layup from 3 ft (assist by F. VanVleet),6-7, ,,1,7,6,1,161.0
+8:55.0, ,6-9,I. Stewart makes 2-pt layup from 4 ft,,1,9,6,3,185.0
+8:33.0,A. Sengun misses 2-pt jump shot from 15 ft,6-9, ,,1,9,6,3,207.0
+8:31.0,Offensive rebound by J. Smith,6-9, ,,1,9,6,3,209.0
+8:29.0,J. Smith makes 2-pt dunk from 3 ft,8-9, ,,1,9,8,1,211.0
+8:06.0, ,8-9,J. Ivey misses 3-pt jump shot from 26 ft,,1,9,8,1,234.0
+8:03.0,Defensive rebound by A. Sengun,8-9, ,,1,9,8,1,237.0
+7:54.0,A. Sengun makes 2-pt layup from 1 ft,10-9, ,Lead change,1,9,10,-1,246.0
+7:33.0, ,10-9,J. Ivey misses 3-pt jump shot from 25 ft,,1,9,10,-1,267.0
+7:32.0,Defensive rebound by Team,10-9, ,,1,9,10,-1,268.0
+7:32.0, ,10-9,Loose ball foul by J. Ivey (drawn by F. VanVleet),,1,9,10,-1,268.0
+7:22.0,A. Sengun makes 2-pt jump shot from 8 ft (assist by J. Green),12-9, ,,1,9,12,-3,278.0
+7:22.0,Shooting foul by J. Duren (drawn by A. Sengun),12-9, ,,1,9,12,-3,278.0
+7:22.0,A. Sengun makes free throw 1 of 1,13-9, ,,1,9,13,-4,278.0
+7:20.0, ,13-9,Turnover by I. Stewart (inbound),,1,9,13,-4,280.0
+7:17.0,A. Sengun makes 2-pt layup at rim (assist by J. Green),15-9, ,,1,9,15,-6,283.0
+7:00.0, ,15-11,K. Knox makes 2-pt jump shot from 14 ft (assist by K. Hayes),,1,11,15,-4,300.0
+6:48.0,Turnover by J. Green (bad pass; steal by K. Knox),15-11, ,,1,11,15,-4,312.0
+6:44.0, ,15-11,J. Ivey misses 2-pt jump shot from 12 ft (block by F. VanVleet),,1,11,15,-4,316.0
+6:38.0,Defensive rebound by J. Smith,15-11, ,,1,11,15,-4,322.0
+6:26.0,J. Smith misses 3-pt jump shot from 26 ft,15-11, ,,1,11,15,-4,334.0
+6:22.0, ,15-11,Defensive rebound by K. Hayes,,1,11,15,-4,338.0
+6:14.0, ,15-11,I. Stewart misses 3-pt jump shot from 28 ft,,1,11,15,-4,346.0
+6:12.0,Defensive rebound by A. Sengun,15-11, ,,1,11,15,-4,348.0
+5:59.0,J. Smith misses 2-pt layup from 4 ft (block by K. Hayes),15-11, ,,1,11,15,-4,361.0
+5:58.0, ,15-11,Defensive rebound by I. Stewart,,1,11,15,-4,362.0
+5:53.0, ,15-11,J. Ivey misses 2-pt layup from 6 ft,,1,11,15,-4,367.0
+5:51.0, ,15-11,Offensive rebound by J. Ivey,,1,11,15,-4,369.0
+5:50.0, ,15-13,J. Ivey makes 2-pt layup at rim,,1,13,15,-2,370.0
+5:23.0,J. Tate misses 2-pt hook shot from 7 ft (block by J. Ivey),15-13, ,,1,13,15,-2,397.0
+5:19.0, ,15-13,Defensive rebound by I. Stewart,,1,13,15,-2,401.0
+5:15.0, ,15-13,J. Ivey misses 3-pt jump shot from 30 ft,,1,13,15,-2,405.0
+5:10.0,Defensive rebound by J. Tate,15-13, ,,1,13,15,-2,410.0
+5:02.0,Turnover by A. Sengun (lost ball; steal by K. Hayes),15-13, ,,1,13,15,-2,418.0
+4:58.0, ,15-15,K. Knox makes 2-pt layup from 3 ft (assist by K. Hayes),Tie,1,15,15,0,422.0
+4:45.0,J. Green makes 2-pt layup from 3 ft,17-15, ,,1,15,17,-2,435.0
+4:44.0, ,17-15,Detroit full timeout,,1,15,17,-2,436.0
+4:44.0,A. Thompson enters the game for J. Smith,17-15, ,,1,15,17,-2,436.0
+4:44.0,C. Whitmore enters the game for J. Tate,17-15, ,,1,15,17,-2,436.0
+4:44.0, ,17-15,A. Burks enters the game for J. Ivey,,1,15,17,-2,436.0
+4:44.0, ,17-15,I. Livers enters the game for I. Stewart,,1,15,17,-2,436.0
+4:32.0, ,17-15,Personal foul by F. VanVleet (drawn by J. Duren),,1,15,17,-2,448.0
+4:32.0, ,17-15,A. Thompson enters the game for K. Knox,,1,15,17,-2,448.0
+4:25.0, ,17-15,Turnover by A. Burks (lost ball; steal by J. Green),,1,15,17,-2,455.0
+4:22.0,C. Whitmore misses 2-pt layup from 6 ft (block by I. Livers),17-15, ,,1,15,17,-2,458.0
+4:21.0, ,17-15,Defensive rebound by A. Thompson,,1,15,17,-2,459.0
+4:04.0, ,17-15,K. Hayes misses 3-pt jump shot from 23 ft,,1,15,17,-2,476.0
+4:01.0,Defensive rebound by J. Green,17-15, ,,1,15,17,-2,479.0
+3:57.0,Shooting foul by I. Livers (drawn by J. Green),17-15, ,,1,15,17,-2,483.0
+3:57.0,J. Green makes free throw 1 of 2,18-15, ,,1,15,18,-3,483.0
+3:57.0, ,18-15,M. Bagley enters the game for J. Duren,,1,15,18,-3,483.0
+3:57.0, ,18-15,M. Sasser enters the game for K. Hayes,,1,15,18,-3,483.0
+3:57.0,J. Green makes free throw 2 of 2,19-15, ,,1,15,19,-4,483.0
+3:42.0, ,19-17,M. Bagley makes 2-pt layup from 2 ft (assist by M. Sasser),,1,17,19,-2,498.0
+3:28.0,Turnover by A. Sengun (bad pass; steal by M. Bagley),19-17, ,,1,17,19,-2,512.0
+3:20.0, ,19-17,Turnover by A. Burks (lost ball; steal by A. Sengun),,1,17,19,-2,520.0
+3:20.0,A. Holiday enters the game for J. Green,19-17, ,,1,17,19,-2,520.0
+3:07.0,Turnover by A. Sengun (lost ball; steal by M. Sasser),19-17, ,,1,17,19,-2,533.0
+3:02.0, ,19-17,I. Livers misses 3-pt jump shot from 25 ft,,1,17,19,-2,538.0
+2:56.0,Defensive rebound by A. Holiday,19-17, ,,1,17,19,-2,544.0
+2:50.0,Shooting foul by M. Bagley (drawn by A. Sengun),19-17, ,,1,17,19,-2,550.0
+2:50.0,Houston full timeout,19-17, ,,1,17,19,-2,550.0
+2:50.0,J. Smith enters the game for F. VanVleet,19-17, ,,1,17,19,-2,550.0
+2:50.0,A. Sengun misses free throw 1 of 2,19-17, ,,1,17,19,-2,550.0
+2:50.0,Offensive rebound by Team,19-17, ,,1,17,19,-2,550.0
+2:50.0,A. Sengun misses free throw 2 of 2,19-17, ,,1,17,19,-2,550.0
+2:48.0,Offensive rebound by J. Smith,19-17, ,,1,17,19,-2,552.0
+2:41.0,A. Sengun makes 2-pt dunk from 4 ft,21-17, ,,1,17,21,-4,559.0
+2:24.0, ,21-19,A. Thompson makes 2-pt layup from 3 ft (assist by M. Sasser),,1,19,21,-2,576.0
+2:07.0,J. Smith misses 2-pt jump shot from 5 ft,21-19, ,,1,19,21,-2,593.0
+2:07.0, ,21-19,Defensive rebound by Team,,1,19,21,-2,593.0
+2:07.0,Loose ball foul by A. Sengun (drawn by M. Sasser),21-19, ,,1,19,21,-2,593.0
+2:07.0,J. Green enters the game for A. Sengun,21-19, ,,1,19,21,-2,593.0
+1:56.0, ,21-22,A. Burks makes 3-pt jump shot from 27 ft (assist by M. Sasser),Lead change,1,22,21,1,604.0
+1:37.0,C. Whitmore misses 3-pt jump shot from 26 ft,21-22, ,,1,22,21,1,623.0
+1:37.0, ,21-22,Defensive rebound by M. Bagley,,1,22,21,1,623.0
+1:34.0,Violation by Team (kicked ball),21-22, ,,1,22,21,1,626.0
+1:26.0, ,21-24,M. Bagley makes 2-pt hook shot from 9 ft (assist by M. Sasser),,1,24,21,3,634.0
+1:06.0,Shooting foul by M. Bagley (drawn by J. Smith),21-24, ,,1,24,21,3,654.0
+1:06.0,J. Smith makes free throw 1 of 2,22-24, ,,1,24,22,2,654.0
+1:06.0,J. Smith makes free throw 2 of 2,23-24, ,,1,24,23,1,654.0
+0:47.0, ,23-27,A. Burks makes 3-pt jump shot from 23 ft (assist by M. Sasser),,1,27,23,4,673.0
+0:33.0,A. Thompson misses 2-pt jump shot from 13 ft,23-27, ,,1,27,23,4,687.0
+0:29.0, ,23-27,Defensive rebound by M. Bagley,,1,27,23,4,691.0
+0:23.0, ,23-30,I. Livers makes 3-pt jump shot from 24 ft (assist by M. Sasser),,1,30,23,7,697.0
+0:05.0,C. Whitmore misses 3-pt jump shot from 26 ft,23-30, ,,1,30,23,7,715.0
+0:00.0, ,23-30,Defensive rebound by Team,,1,30,23,7,720.0
+0:00.0,Jump ball: M. Bagley vs. J. Smith (C. Whitmore gains possession),23-30,,,1,30,23,7,720.0
+0:00.0,End of 1st quarter,23-30,,,1,30,23,7,720.0
+12:00.0,Start of 2nd quarter,23-30,,,2,30,23,7,720.0
+11:51.0, ,23-32,A. Thompson makes 2-pt dunk from 3 ft (assist by M. Sasser),,2,32,23,9,729.0
+11:28.0,C. Whitmore misses 2-pt layup from 4 ft (block by I. Livers),23-32, ,,2,32,23,9,752.0
+11:27.0, ,23-32,Defensive rebound by M. Bagley,,2,32,23,9,753.0
+11:11.0, ,23-32,Shooting foul by J. Green (drawn by M. Bagley),,2,32,23,9,769.0
+11:11.0, ,23-33,M. Bagley makes free throw 1 of 2,,2,33,23,10,769.0
+11:11.0, ,23-33,M. Bagley misses free throw 2 of 2,,2,33,23,10,769.0
+11:08.0,Defensive rebound by A. Thompson,23-33, ,,2,33,23,10,772.0
+11:02.0,A. Thompson makes 2-pt layup from 5 ft,25-33, ,,2,33,25,8,778.0
+10:52.0, ,25-36,A. Burks makes 3-pt jump shot from 23 ft (assist by M. Bagley),,2,36,25,11,788.0
+10:36.0,J. Green makes 2-pt layup from 4 ft (assist by A. Thompson),27-36, ,,2,36,27,9,804.0
+10:25.0, ,27-38,M. Bagley makes 2-pt layup from 4 ft (assist by A. Burks),,2,38,27,11,815.0
+10:08.0,J. Smith misses 2-pt jump shot from 9 ft,27-38, ,,2,38,27,11,832.0
+10:05.0, ,27-38,Defensive rebound by A. Thompson,,2,38,27,11,835.0
+10:01.0, ,27-38,Turnover by A. Thompson (lost ball; steal by A. Thompson),,2,38,27,11,839.0
+9:56.0,R. Bullock makes 3-pt jump shot from 27 ft (assist by A. Thompson),30-38, ,,2,38,30,8,844.0
+9:33.0, ,30-38,A. Burks misses 3-pt jump shot from 25 ft,,2,38,30,8,867.0
+9:33.0,Defensive rebound by R. Bullock,30-38, ,,2,38,30,8,867.0
+9:22.0,Offensive foul by J. Green (drawn by A. Thompson),30-38, ,,2,38,30,8,878.0
+9:22.0,Turnover by J. Green (offensive foul),30-38, ,,2,38,30,8,878.0
+9:22.0,F. VanVleet enters the game for C. Whitmore,30-38, ,,2,38,30,8,878.0
+9:22.0, ,30-38,K. Hayes enters the game for I. Livers,,2,38,30,8,878.0
+9:22.0, ,30-38,I. Stewart enters the game for M. Sasser,,2,38,30,8,878.0
+9:22.0,Violation by Team (delay of game),30-38, ,,2,38,30,8,878.0
+9:04.0, ,30-38,Turnover by I. Stewart (out of bounds lost ball),,2,38,30,8,896.0
+8:55.0,Shooting foul by A. Burks (drawn by J. Green),30-38, ,,2,38,30,8,905.0
+8:55.0,J. Green makes free throw 1 of 2,31-38, ,,2,38,31,7,905.0
+8:55.0,J. Green enters the game for J. Smith,31-38, ,,2,38,31,7,905.0
+8:55.0,A. Sengun enters the game for A. Thompson,31-38, ,,2,38,31,7,905.0
+8:55.0, ,31-38,J. Duren enters the game for M. Bagley,,2,38,31,7,905.0
+8:55.0, ,31-38,K. Knox enters the game for A. Thompson,,2,38,31,7,905.0
+8:55.0,J. Green makes free throw 2 of 2,32-38, ,,2,38,32,6,905.0
+8:39.0, ,32-38,I. Stewart misses 3-pt jump shot from 25 ft,,2,38,32,6,921.0
+8:35.0,Defensive rebound by A. Sengun,32-38, ,,2,38,32,6,925.0
+8:26.0,R. Bullock misses 3-pt jump shot from 25 ft,32-38, ,,2,38,32,6,934.0
+8:24.0, ,32-38,Defensive rebound by I. Stewart,,2,38,32,6,936.0
+8:16.0, ,32-40,A. Burks makes 2-pt jump shot from 15 ft,,2,40,32,8,944.0
+7:54.0,A. Sengun misses 2-pt jump shot from 16 ft,32-40, ,,2,40,32,8,966.0
+7:51.0, ,32-40,Defensive rebound by J. Duren,,2,40,32,8,969.0
+7:43.0, ,32-42,K. Knox makes 2-pt jump shot from 13 ft (assist by J. Duren),,2,42,32,10,977.0
+7:43.0,Houston full timeout,32-42, ,,2,42,32,10,977.0
+7:30.0,J. Green misses 3-pt jump shot from 27 ft,32-42, ,,2,42,32,10,990.0
+7:27.0,Offensive rebound by Team,32-42, ,,2,42,32,10,993.0
+7:27.0,J. Tate enters the game for J. Green,32-42, ,,2,42,32,10,993.0
+7:23.0,F. VanVleet misses 3-pt jump shot from 26 ft,32-42, ,,2,42,32,10,997.0
+7:19.0, ,32-42,Defensive rebound by J. Duren,,2,42,32,10,1001.0
+7:07.0, ,32-42,Turnover by K. Hayes (bad pass; steal by R. Bullock),,2,42,32,10,1013.0
+6:54.0,J. Green makes 2-pt layup from 2 ft,34-42, ,,2,42,34,8,1026.0
+6:36.0, ,34-45,A. Burks makes 3-pt jump shot from 26 ft,,2,45,34,11,1044.0
+6:20.0,J. Green makes 3-pt jump shot from 28 ft (assist by F. VanVleet),37-45, ,,2,45,37,8,1060.0
+6:02.0, ,37-47,K. Hayes makes 2-pt jump shot from 11 ft (assist by K. Knox),,2,47,37,10,1078.0
+5:52.0,J. Green misses 3-pt jump shot from 26 ft,37-47, ,,2,47,37,10,1088.0
+5:49.0, ,37-47,Defensive rebound by K. Knox,,2,47,37,10,1091.0
+5:40.0, ,37-47,K. Hayes misses 3-pt jump shot from 25 ft,,2,47,37,10,1100.0
+5:36.0,Defensive rebound by J. Tate,37-47, ,,2,47,37,10,1104.0
+5:26.0,J. Green makes 2-pt jump shot from 18 ft,39-47, ,,2,47,39,8,1114.0
+5:26.0, ,39-47,Detroit full timeout,,2,47,39,8,1114.0
+5:26.0,J. Smith enters the game for R. Bullock,39-47, ,,2,47,39,8,1114.0
+5:26.0, ,39-47,J. Ivey enters the game for A. Burks,,2,47,39,8,1114.0
+5:11.0, ,39-49,K. Knox makes 2-pt dunk from 2 ft (assist by J. Ivey),,2,49,39,10,1129.0
+5:04.0,F. VanVleet misses 2-pt jump shot from 23 ft,39-49, ,,2,49,39,10,1136.0
+5:01.0, ,39-49,Defensive rebound by J. Duren,,2,49,39,10,1139.0
+4:47.0, ,39-51,J. Duren makes 2-pt jump shot from 6 ft (assist by K. Hayes),,2,51,39,12,1153.0
+4:33.0,Shooting foul by J. Duren (drawn by A. Sengun),39-51, ,,2,51,39,12,1167.0
+4:33.0,A. Sengun makes free throw 1 of 2,40-51, ,,2,51,40,11,1167.0
+4:33.0,A. Sengun makes free throw 2 of 2,41-51, ,,2,51,41,10,1167.0
+4:23.0, ,41-51,Turnover by K. Knox (bad pass; steal by F. VanVleet),,2,51,41,10,1177.0
+4:16.0,J. Green makes 2-pt layup from 2 ft (assist by F. VanVleet),43-51, ,,2,51,43,8,1184.0
+4:07.0, ,43-51,Turnover by J. Ivey (bad pass),,2,51,43,8,1193.0
+4:01.0,Personal foul by J. Ivey (drawn by J. Green),43-51, ,,2,51,43,8,1199.0
+3:49.0,A. Sengun misses 2-pt jump shot from 10 ft,43-51, ,,2,51,43,8,1211.0
+3:46.0, ,43-51,Defensive rebound by K. Hayes,,2,51,43,8,1214.0
+3:40.0, ,43-51,Personal foul by J. Tate (drawn by K. Knox),,2,51,43,8,1220.0
+3:40.0, ,43-51,A. Burks enters the game for J. Duren,,2,51,43,8,1220.0
+3:30.0, ,43-51,J. Ivey misses 2-pt layup from 3 ft,,2,51,43,8,1230.0
+3:29.0,Defensive rebound by A. Sengun,43-51, ,,2,51,43,8,1231.0
+3:18.0,A. Sengun makes 2-pt hook shot from 7 ft (assist by F. VanVleet),45-51, ,,2,51,45,6,1242.0
+3:00.0, ,45-51,K. Hayes misses 2-pt jump shot from 14 ft,,2,51,45,6,1260.0
+2:58.0,Defensive rebound by J. Green,45-51, ,,2,51,45,6,1262.0
+2:52.0,Personal foul by J. Ivey (drawn by J. Green),45-51, ,,2,51,45,6,1268.0
+2:52.0, ,45-51,M. Sasser enters the game for J. Ivey,,2,51,45,6,1268.0
+2:43.0,J. Green misses 2-pt layup from 7 ft,45-51, ,,2,51,45,6,1277.0
+2:41.0,Offensive rebound by J. Green,45-51, ,,2,51,45,6,1279.0
+2:40.0,J. Green makes 2-pt layup from 5 ft,47-51, ,,2,51,47,4,1280.0
+2:26.0, ,47-53,I. Stewart makes 2-pt layup from 2 ft (assist by K. Knox),,2,53,47,6,1294.0
+2:15.0,Shooting foul by M. Sasser (drawn by J. Green),47-53, ,,2,53,47,6,1305.0
+2:15.0,J. Green makes free throw 1 of 2,48-53, ,,2,53,48,5,1305.0
+2:15.0, ,48-53,M. Bagley enters the game for I. Stewart,,2,53,48,5,1305.0
+2:15.0,J. Green makes free throw 2 of 2,49-53, ,,2,53,49,4,1305.0
+2:01.0, ,49-53,Personal foul by J. Green (drawn by A. Burks),,2,53,49,4,1319.0
+2:01.0, ,49-53,A. Thompson enters the game for K. Hayes,,2,53,49,4,1319.0
+1:53.0, ,49-53,M. Sasser misses 2-pt jump shot from 6 ft,,2,53,49,4,1327.0
+1:52.0, ,49-53,Offensive rebound by M. Bagley,,2,53,49,4,1328.0
+1:50.0, ,49-55,M. Bagley makes 2-pt dunk from 2 ft,,2,55,49,6,1330.0
+1:35.0,J. Green makes 2-pt jump shot from 18 ft,51-55, ,,2,55,51,4,1345.0
+1:23.0, ,51-55,K. Knox misses 3-pt jump shot from 26 ft,,2,55,51,4,1357.0
+1:20.0,Defensive rebound by F. VanVleet,51-55, ,,2,55,51,4,1360.0
+1:11.0,J. Green misses 2-pt layup from 9 ft (block by A. Burks),51-55, ,,2,55,51,4,1369.0
+1:10.0,Offensive rebound by J. Tate,51-55, ,,2,55,51,4,1370.0
+1:07.0,Turnover by J. Tate (bad pass),51-55, ,,2,55,51,4,1373.0
+0:58.0, ,51-55,A. Burks misses 2-pt jump shot from 6 ft,,2,55,51,4,1382.0
+0:55.0,Defensive rebound by J. Smith,51-55, ,,2,55,51,4,1385.0
+0:46.0,F. VanVleet misses 3-pt jump shot from 26 ft,51-55, ,,2,55,51,4,1394.0
+0:41.0, ,51-55,Defensive rebound by K. Knox,,2,55,51,4,1399.0
+0:34.0, ,51-55,Turnover by M. Sasser (bad pass),,2,55,51,4,1406.0
+0:31.0,Personal foul by A. Thompson (drawn by J. Green),51-55, ,,2,55,51,4,1409.0
+0:31.0,J. Green makes free throw 1 of 2,52-55, ,,2,55,52,3,1409.0
+0:31.0,J. Green enters the game for A. Sengun,52-55, ,,2,55,52,3,1409.0
+0:31.0, ,52-55,I. Livers enters the game for A. Thompson,,2,55,52,3,1409.0
+0:31.0,J. Green misses free throw 2 of 2,52-55, ,,2,55,52,3,1409.0
+0:29.0, ,52-55,Defensive rebound by K. Knox,,2,55,52,3,1411.0
+0:14.0, ,52-55,M. Bagley misses 2-pt layup from 2 ft,,2,55,52,3,1426.0
+0:10.0,Defensive rebound by J. Tate,52-55, ,,2,55,52,3,1430.0
+0:03.0,F. VanVleet makes 3-pt jump shot from 26 ft,55-55, ,Tie,2,55,55,0,1437.0
+0:00.0,End of 2nd quarter,55-55,,,2,55,55,0,1440.0
+12:00.0,Start of 3rd quarter,55-55,,,3,55,55,0,1440.0
+11:46.0, ,55-58,J. Ivey makes 3-pt jump shot from 26 ft (assist by I. Stewart),,3,58,55,3,1454.0
+11:28.0,J. Green misses 3-pt jump shot from 27 ft,55-58, ,,3,58,55,3,1472.0
+11:26.0, ,55-58,Defensive rebound by K. Hayes,,3,58,55,3,1474.0
+11:22.0, ,55-60,K. Knox makes 2-pt dunk from 4 ft (assist by K. Hayes),,3,60,55,5,1478.0
+11:00.0,J. Green misses 2-pt layup from 4 ft,55-60, ,,3,60,55,5,1500.0
+10:57.0, ,55-60,Defensive rebound by I. Stewart,,3,60,55,5,1503.0
+10:46.0, ,55-60,Shooting foul by J. Green (drawn by I. Stewart),,3,60,55,5,1514.0
+10:46.0,Houston full timeout,55-60, ,,3,60,55,5,1514.0
+10:46.0, ,55-60,I. Stewart misses free throw 1 of 2,,3,60,55,5,1514.0
+10:46.0, ,55-60,Offensive rebound by Team,,3,60,55,5,1514.0
+10:46.0, ,55-61,I. Stewart makes free throw 2 of 2,,3,61,55,6,1514.0
+10:31.0,A. Sengun misses 2-pt layup from 2 ft,55-61, ,,3,61,55,6,1529.0
+10:31.0,Offensive rebound by Team,55-61, ,,3,61,55,6,1529.0
+10:20.0,J. Green makes 3-pt jump shot from 25 ft (assist by J. Smith),58-61, ,,3,61,58,3,1540.0
+9:59.0, ,58-64,I. Stewart makes 3-pt jump shot from 25 ft (assist by K. Hayes),,3,64,58,6,1561.0
+9:48.0,J. Green misses 2-pt layup from 6 ft,58-64, ,,3,64,58,6,1572.0
+9:45.0,Offensive rebound by J. Tate,58-64, ,,3,64,58,6,1575.0
+9:44.0,J. Smith misses 3-pt jump shot from 25 ft,58-64, ,,3,64,58,6,1576.0
+9:41.0, ,58-64,Defensive rebound by J. Ivey,,3,64,58,6,1579.0
+9:32.0, ,58-64,K. Knox misses 3-pt jump shot from 23 ft,,3,64,58,6,1588.0
+9:28.0, ,58-64,Offensive rebound by J. Duren,,3,64,58,6,1592.0
+9:18.0, ,58-66,I. Stewart makes 2-pt jump shot from 13 ft (assist by K. Hayes),,3,66,58,8,1602.0
+8:58.0,F. VanVleet makes 3-pt jump shot from 25 ft,61-66, ,,3,66,61,5,1622.0
+8:39.0, ,61-66,J. Ivey misses 2-pt layup from 6 ft (block by F. VanVleet),,3,66,61,5,1641.0
+8:39.0, ,61-66,Offensive rebound by Team,,3,66,61,5,1641.0
+8:31.0, ,61-69,K. Knox makes 3-pt jump shot from 25 ft (assist by J. Ivey),,3,69,61,8,1649.0
+8:15.0,F. VanVleet misses 3-pt jump shot from 25 ft,61-69, ,,3,69,61,8,1665.0
+8:15.0, ,61-69,Defensive rebound by J. Duren,,3,69,61,8,1665.0
+8:11.0, ,61-69,Personal foul by F. VanVleet (drawn by I. Stewart),,3,69,61,8,1669.0
+8:03.0, ,61-69,Shooting foul by A. Sengun (drawn by K. Knox),,3,69,61,8,1677.0
+8:03.0, ,61-70,K. Knox makes free throw 1 of 2,,3,70,61,9,1677.0
+8:03.0,R. Bullock enters the game for J. Green,61-70, ,,3,70,61,9,1677.0
+8:03.0,C. Whitmore enters the game for J. Tate,61-70, ,,3,70,61,9,1677.0
+8:03.0,Violation by Team (delay of game),61-70, ,,3,70,61,9,1677.0
+8:03.0, ,61-71,K. Knox makes technical free throw,,3,71,61,10,1677.0
+8:03.0, ,61-72,K. Knox makes free throw 2 of 2,,3,72,61,11,1677.0
+7:45.0,A. Sengun makes 2-pt hook shot from 7 ft,63-72, ,,3,72,63,9,1695.0
+7:34.0, ,63-72,J. Duren misses 2-pt hook shot from 5 ft (block by J. Smith),,3,72,63,9,1706.0
+7:32.0,Defensive rebound by R. Bullock,63-72, ,,3,72,63,9,1708.0
+7:23.0,Turnover by R. Bullock (bad pass; steal by J. Duren),63-72, ,,3,72,63,9,1717.0
+7:15.0, ,63-72,Shooting foul by A. Sengun (drawn by J. Duren),,3,72,63,9,1725.0
+7:15.0, ,63-72,J. Duren misses free throw 1 of 2,,3,72,63,9,1725.0
+7:15.0, ,63-72,Offensive rebound by Team,,3,72,63,9,1725.0
+7:15.0,J. Green enters the game for A. Sengun,63-72, ,,3,72,63,9,1725.0
+7:15.0, ,63-73,J. Duren makes free throw 2 of 2,,3,73,63,10,1725.0
+7:00.0,J. Smith makes 3-pt jump shot from 23 ft (assist by F. VanVleet),66-73, ,,3,73,66,7,1740.0
+6:50.0, ,66-73,J. Duren misses 2-pt jump shot from 6 ft,,3,73,66,7,1750.0
+6:49.0, ,66-73,Offensive rebound by J. Ivey,,3,73,66,7,1751.0
+6:48.0, ,66-75,J. Ivey makes 2-pt layup at rim,,3,75,66,9,1752.0
+6:36.0,Shooting foul by K. Hayes (drawn by J. Smith),66-75, ,,3,75,66,9,1764.0
+6:36.0,J. Smith makes free throw 1 of 2,67-75, ,,3,75,67,8,1764.0
+6:36.0,J. Smith makes free throw 2 of 2,68-75, ,,3,75,68,7,1764.0
+6:23.0, ,68-77,J. Duren makes 2-pt dunk from 3 ft (assist by J. Ivey),,3,77,68,9,1777.0
+6:09.0,F. VanVleet misses 3-pt jump shot from 25 ft,68-77, ,,3,77,68,9,1791.0
+6:06.0,Offensive rebound by J. Smith,68-77, ,,3,77,68,9,1794.0
+5:53.0,J. Smith makes 2-pt layup from 3 ft (assist by F. VanVleet),70-77, ,,3,77,70,7,1807.0
+5:46.0, ,70-77,Shooting foul by C. Whitmore (drawn by J. Ivey),,3,77,70,7,1814.0
+5:46.0,Houston full timeout,70-77, ,,3,77,70,7,1814.0
+5:46.0,Instant Replay (Challenge: Stands),70-77, ,,3,77,70,7,1814.0
+5:46.0,J. Green enters the game for C. Whitmore,70-77, ,,3,77,70,7,1814.0
+5:46.0, ,70-77,I. Livers enters the game for I. Stewart,,3,77,70,7,1814.0
+5:46.0, ,70-77,J. Ivey misses free throw 1 of 2,,3,77,70,7,1814.0
+5:46.0, ,70-77,Offensive rebound by Team,,3,77,70,7,1814.0
+5:46.0, ,70-78,J. Ivey makes free throw 2 of 2,,3,78,70,8,1814.0
+5:24.0,F. VanVleet makes 2-pt jump shot from 8 ft,72-78, ,,3,78,72,6,1836.0
+5:00.0, ,72-81,K. Knox makes 3-pt jump shot from 24 ft (assist by I. Livers),,3,81,72,9,1860.0
+4:39.0,J. Green misses 3-pt jump shot from 26 ft,72-81, ,,3,81,72,9,1881.0
+4:36.0, ,72-81,Defensive rebound by K. Knox,,3,81,72,9,1884.0
+4:28.0, ,72-81,J. Ivey misses 3-pt jump shot from 27 ft,,3,81,72,9,1892.0
+4:25.0,Defensive rebound by R. Bullock,72-81, ,,3,81,72,9,1895.0
+4:14.0,J. Smith makes 2-pt dunk from 2 ft (assist by F. VanVleet),74-81, ,,3,81,74,7,1906.0
+4:06.0, ,74-83,J. Ivey makes 2-pt layup from 3 ft (assist by J. Duren),,3,83,74,9,1914.0
+3:56.0,J. Green misses 2-pt layup at rim (block by K. Knox),74-83, ,,3,83,74,9,1924.0
+3:55.0, ,74-83,Defensive rebound by J. Duren,,3,83,74,9,1925.0
+3:46.0, ,74-85,J. Duren makes 2-pt layup from 5 ft,,3,85,74,11,1934.0
+3:24.0,J. Green makes 2-pt hook shot from 5 ft (assist by R. Bullock),76-85, ,,3,85,76,9,1956.0
+3:05.0, ,76-87,J. Duren makes 2-pt dunk from 3 ft (assist by J. Ivey),,3,87,76,11,1975.0
+2:58.0,Personal foul by I. Livers (drawn by F. VanVleet),76-87, ,,3,87,76,11,1982.0
+2:58.0,A. Sengun enters the game for R. Bullock,76-87, ,,3,87,76,11,1982.0
+2:58.0,C. Whitmore enters the game for J. Smith,76-87, ,,3,87,76,11,1982.0
+2:58.0, ,76-87,M. Bagley enters the game for J. Duren,,3,87,76,11,1982.0
+2:58.0, ,76-87,A. Burks enters the game for J. Ivey,,3,87,76,11,1982.0
+2:48.0,A. Sengun makes 2-pt layup from 5 ft (assist by F. VanVleet),78-87, ,,3,87,78,9,1992.0
+2:30.0, ,78-87,M. Bagley misses 2-pt jump shot from 21 ft,,3,87,78,9,2010.0
+2:28.0,Defensive rebound by J. Green,78-87, ,,3,87,78,9,2012.0
+2:22.0,A. Sengun makes 2-pt hook shot from 4 ft (assist by F. VanVleet),80-87, ,,3,87,80,7,2018.0
+2:22.0, ,80-87,Detroit full timeout,,3,87,80,7,2018.0
+2:22.0, ,80-87,M. Sasser enters the game for K. Hayes,,3,87,80,7,2018.0
+2:22.0, ,80-87,A. Thompson enters the game for K. Knox,,3,87,80,7,2018.0
+2:06.0, ,80-87,A. Burks misses 2-pt jump shot from 18 ft,,3,87,80,7,2034.0
+2:03.0,Defensive rebound by J. Green,80-87, ,,3,87,80,7,2037.0
+1:49.0,J. Green misses 3-pt jump shot from 26 ft,80-87, ,,3,87,80,7,2051.0
+1:45.0,Offensive rebound by J. Green,80-87, ,,3,87,80,7,2055.0
+1:43.0,C. Whitmore makes 3-pt jump shot from 23 ft (assist by J. Green),83-87, ,,3,87,83,4,2057.0
+1:32.0, ,83-87,I. Livers misses 3-pt jump shot from 26 ft,,3,87,83,4,2068.0
+1:30.0, ,83-87,Offensive rebound by M. Sasser,,3,87,83,4,2070.0
+1:28.0, ,83-87,I. Livers misses 3-pt jump shot from 27 ft,,3,87,83,4,2072.0
+1:25.0, ,83-87,Offensive rebound by A. Thompson,,3,87,83,4,2075.0
+1:23.0, ,83-87,A. Burks misses 3-pt jump shot from 23 ft,,3,87,83,4,2077.0
+1:20.0,Defensive rebound by Team,83-87, ,,3,87,83,4,2080.0
+1:20.0, ,83-87,Loose ball foul by A. Thompson (drawn by F. VanVleet),,3,87,83,4,2080.0
+1:20.0,J. Smith enters the game for J. Green,83-87, ,,3,87,83,4,2080.0
+1:10.0,Shooting foul by M. Sasser (drawn by J. Green),83-87, ,,3,87,83,4,2090.0
+1:10.0,J. Green makes free throw 1 of 2,84-87, ,,3,87,84,3,2090.0
+1:10.0,J. Green makes free throw 2 of 2,85-87, ,,3,87,85,2,2090.0
+0:57.0, ,85-87,M. Sasser misses 3-pt jump shot from 26 ft,,3,87,85,2,2103.0
+0:55.0, ,85-87,Offensive rebound by A. Thompson,,3,87,85,2,2105.0
+0:53.0, ,85-87,Personal foul by F. VanVleet (drawn by M. Bagley),,3,87,85,2,2107.0
+0:53.0, ,85-88,M. Bagley makes free throw 1 of 2,,3,88,85,3,2107.0
+0:53.0, ,85-88,K. Hayes enters the game for M. Sasser,,3,88,85,3,2107.0
+0:53.0, ,85-89,M. Bagley makes free throw 2 of 2,,3,89,85,4,2107.0
+0:43.0,J. Green makes 2-pt layup from 2 ft,87-89, ,,3,89,87,2,2117.0
+0:43.0,Shooting foul by A. Burks (drawn by J. Green),87-89, ,,3,89,87,2,2117.0
+0:43.0,J. Tate enters the game for A. Sengun,87-89, ,,3,89,87,2,2117.0
+0:43.0,J. Green makes free throw 1 of 1,88-89, ,,3,89,88,1,2117.0
+0:33.0, ,88-91,K. Hayes makes 2-pt jump shot from 9 ft,,3,91,88,3,2127.0
+0:28.0,F. VanVleet misses 3-pt jump shot from 26 ft,88-91, ,,3,91,88,3,2132.0
+0:24.0, ,88-91,Defensive rebound by A. Thompson,,3,91,88,3,2136.0
+0:02.0, ,88-91,Turnover by Team (shot clock),,3,91,88,3,2158.0
+0:02.0,A. Sengun enters the game for J. Tate,88-91, ,,3,91,88,3,2158.0
+0:02.0, ,88-91,J. Duren enters the game for M. Bagley,,3,91,88,3,2158.0
+0:00.0,C. Whitmore misses 3-pt jump shot from 40 ft,88-91, ,,3,91,88,3,2160.0
+0:00.0,Offensive rebound by Team,88-91, ,,3,91,88,3,2160.0
+0:00.0,End of 3rd quarter,88-91,,,3,91,88,3,2160.0
+12:00.0,Start of 4th quarter,88-91,,,4,91,88,3,2160.0
+11:46.0,Turnover by J. Smith (bad pass),88-91, ,,4,91,88,3,2174.0
+11:31.0, ,88-91,A. Burks misses 2-pt jump shot from 12 ft,,4,91,88,3,2189.0
+11:28.0,Defensive rebound by C. Whitmore,88-91, ,,4,91,88,3,2192.0
+11:11.0,J. Smith makes 2-pt layup from 7 ft (assist by A. Sengun),90-91, ,,4,91,90,1,2209.0
+11:01.0, ,90-91,Personal foul by F. VanVleet (drawn by A. Burks),,4,91,90,1,2219.0
+11:01.0, ,90-91,Away from play foul by C. Whitmore (drawn by K. Hayes),,4,91,90,1,2219.0
+11:01.0, ,90-92,K. Hayes makes free throw 1 of 1,,4,92,90,2,2219.0
+10:51.0, ,90-92,I. Stewart misses 3-pt jump shot from 25 ft,,4,92,90,2,2229.0
+10:45.0,Defensive rebound by F. VanVleet,90-92, ,,4,92,90,2,2235.0
+10:36.0,C. Whitmore misses 3-pt jump shot from 24 ft,90-92, ,,4,92,90,2,2244.0
+10:33.0, ,90-92,Defensive rebound by A. Thompson,,4,92,90,2,2247.0
+10:21.0, ,90-92,A. Burks misses 3-pt jump shot from 27 ft,,4,92,90,2,2259.0
+10:18.0,Defensive rebound by J. Smith,90-92, ,,4,92,90,2,2262.0
+10:06.0,J. Green misses 2-pt jump shot from 11 ft,90-92, ,,4,92,90,2,2274.0
+10:02.0, ,90-92,Defensive rebound by A. Thompson,,4,92,90,2,2278.0
+9:51.0, ,90-92,I. Stewart misses 2-pt jump shot from 14 ft,,4,92,90,2,2289.0
+9:49.0,Defensive rebound by J. Smith,90-92, ,,4,92,90,2,2291.0
+9:42.0,F. VanVleet makes 2-pt jump shot from 17 ft,92-92, ,Tie,4,92,92,0,2298.0
+9:15.0, ,92-92,I. Stewart misses 2-pt hook shot from 6 ft,,4,92,92,0,2325.0
+9:13.0,Defensive rebound by J. Smith,92-92, ,,4,92,92,0,2327.0
+9:10.0,Shooting foul by I. Livers (drawn by F. VanVleet),92-92, ,,4,92,92,0,2330.0
+9:10.0,F. VanVleet makes free throw 1 of 2,93-92, ,Lead change,4,92,93,-1,2330.0
+9:10.0,R. Bullock enters the game for C. Whitmore,93-92, ,,4,92,93,-1,2330.0
+9:10.0, ,93-92,J. Duren enters the game for K. Hayes,,4,92,93,-1,2330.0
+9:10.0, ,93-92,J. Ivey enters the game for I. Livers,,4,92,93,-1,2330.0
+9:10.0, ,93-92,K. Knox enters the game for I. Stewart,,4,92,93,-1,2330.0
+9:10.0,F. VanVleet makes free throw 2 of 2,94-92, ,,4,92,94,-2,2330.0
+8:57.0, ,94-94,A. Burks makes 2-pt jump shot from 15 ft,Tie,4,94,94,0,2343.0
+8:39.0,R. Bullock misses 3-pt jump shot from 23 ft,94-94, ,,4,94,94,0,2361.0
+8:37.0,Offensive rebound by J. Smith,94-94, ,,4,94,94,0,2363.0
+8:37.0,J. Smith misses 2-pt layup from 3 ft,94-94, ,,4,94,94,0,2363.0
+8:36.0, ,94-94,Defensive rebound by J. Ivey,,4,94,94,0,2364.0
+8:27.0, ,94-94,Offensive foul by J. Duren (drawn by A. Sengun),,4,94,94,0,2373.0
+8:27.0, ,94-94,Turnover by J. Duren (offensive foul),,4,94,94,0,2373.0
+8:13.0,A. Sengun makes 2-pt hook shot from 4 ft,96-94, ,,4,94,96,-2,2387.0
+7:57.0, ,96-96,J. Ivey makes 2-pt jump shot from 7 ft,Tie,4,96,96,0,2403.0
+7:39.0,J. Green misses 3-pt jump shot from 25 ft,96-96, ,,4,96,96,0,2421.0
+7:37.0, ,96-96,Defensive rebound by J. Duren,,4,96,96,0,2423.0
+7:29.0, ,96-96,J. Ivey misses 2-pt jump shot from 8 ft (block by J. Green),,4,96,96,0,2431.0
+7:27.0, ,96-96,Offensive rebound by J. Ivey,,4,96,96,0,2433.0
+7:26.0, ,96-98,J. Ivey makes 2-pt layup from 2 ft,Lead change,4,98,96,2,2434.0
+7:08.0,A. Sengun misses 2-pt jump shot from 13 ft,96-98, ,,4,98,96,2,2452.0
+7:04.0,Offensive rebound by J. Smith,96-98, ,,4,98,96,2,2456.0
+7:03.0,J. Smith misses 2-pt layup from 3 ft (block by K. Knox),96-98, ,,4,98,96,2,2457.0
+7:02.0,Offensive rebound by F. VanVleet,96-98, ,,4,98,96,2,2458.0
+6:52.0,A. Sengun makes 2-pt layup from 4 ft (assist by F. VanVleet),98-98, ,Tie,4,98,98,0,2468.0
+6:51.0, ,98-98,Detroit full timeout,,4,98,98,0,2469.0
+6:39.0, ,98-100,J. Duren makes 2-pt hook shot from 5 ft (assist by J. Ivey),,4,100,98,2,2481.0
+6:25.0,J. Green misses 2-pt layup from 7 ft (block by A. Burks),98-100, ,,4,100,98,2,2495.0
+6:24.0, ,98-100,Defensive rebound by Team,,4,100,98,2,2496.0
+6:05.0, ,98-100,A. Thompson misses 3-pt jump shot from 23 ft,,4,100,98,2,2515.0
+6:01.0, ,98-100,Offensive rebound by J. Duren,,4,100,98,2,2519.0
+5:59.0, ,98-103,A. Burks makes 3-pt jump shot from 26 ft (assist by J. Duren),,4,103,98,5,2521.0
+5:32.0,J. Smith misses 2-pt jump shot from 16 ft,98-103, ,,4,103,98,5,2548.0
+5:29.0, ,98-103,Defensive rebound by A. Thompson,,4,103,98,5,2551.0
+5:29.0, ,98-103,I. Stewart enters the game for A. Thompson,,4,103,98,5,2551.0
+5:09.0, ,98-103,J. Duren misses 2-pt hook shot from 7 ft,,4,103,98,5,2571.0
+5:08.0, ,98-103,Offensive rebound by Team,,4,103,98,5,2572.0
+5:06.0, ,98-103,J. Duren misses 2-pt jump shot from 20 ft,,4,103,98,5,2574.0
+5:03.0,Defensive rebound by R. Bullock,98-103, ,,4,103,98,5,2577.0
+4:49.0,Shooting foul by A. Burks (drawn by A. Sengun),98-103, ,,4,103,98,5,2591.0
+4:49.0,A. Sengun makes free throw 1 of 2,99-103, ,,4,103,99,4,2591.0
+4:49.0,A. Sengun makes free throw 2 of 2,100-103, ,,4,103,100,3,2591.0
+4:33.0, ,100-105,J. Ivey makes 2-pt dunk from 2 ft,,4,105,100,5,2607.0
+4:15.0,A. Sengun makes 2-pt layup from 3 ft (assist by F. VanVleet),102-105, ,,4,105,102,3,2625.0
+3:53.0, ,102-107,J. Duren makes 2-pt layup from 2 ft (assist by J. Ivey),,4,107,102,5,2647.0
+3:46.0,Houston full timeout,102-107, ,,4,107,102,5,2654.0
+3:26.0,Turnover by A. Sengun (lost ball; steal by J. Duren),102-107, ,,4,107,102,5,2674.0
+3:04.0, ,102-107,J. Ivey misses 2-pt jump shot from 7 ft,,4,107,102,5,2696.0
+3:01.0,Defensive rebound by A. Sengun,102-107, ,,4,107,102,5,2699.0
+2:58.0,F. VanVleet makes 2-pt jump shot from 7 ft,104-107, ,,4,107,104,3,2702.0
+2:58.0,Shooting foul by K. Knox (drawn by F. VanVleet),104-107, ,,4,107,104,3,2702.0
+2:58.0,F. VanVleet makes free throw 1 of 1,105-107, ,,4,107,105,2,2702.0
+2:44.0, ,105-107,I. Stewart misses 3-pt jump shot from 24 ft,,4,107,105,2,2716.0
+2:40.0,Defensive rebound by A. Sengun,105-107, ,,4,107,105,2,2720.0
+2:27.0,A. Sengun misses 2-pt hook shot from 6 ft,105-107, ,,4,107,105,2,2733.0
+2:24.0, ,105-107,Defensive rebound by I. Stewart,,4,107,105,2,2736.0
+2:17.0, ,105-107,Shooting foul by J. Green (drawn by J. Ivey),,4,107,105,2,2743.0
+2:17.0, ,105-107,J. Ivey misses free throw 1 of 2,,4,107,105,2,2743.0
+2:17.0, ,105-107,Offensive rebound by Team,,4,107,105,2,2743.0
+2:17.0, ,105-107,J. Ivey misses free throw 2 of 2,,4,107,105,2,2743.0
+2:16.0, ,105-107,Offensive rebound by J. Ivey,,4,107,105,2,2744.0
+2:16.0, ,105-107,Turnover by J. Ivey (bad pass; steal by J. Green),,4,107,105,2,2744.0
+2:09.0,J. Green misses 2-pt jump shot from 4 ft (block by J. Duren),105-107, ,,4,107,105,2,2751.0
+2:07.0, ,105-107,Defensive rebound by K. Knox,,4,107,105,2,2753.0
+1:56.0, ,105-107,J. Duren misses 2-pt layup from 4 ft (block by J. Smith),,4,107,105,2,2764.0
+1:55.0,Defensive rebound by J. Smith,105-107, ,,4,107,105,2,2765.0
+1:55.0,Personal foul by I. Stewart (drawn by J. Smith),105-107, ,,4,107,105,2,2765.0
+1:42.0,F. VanVleet makes 3-pt jump shot from 26 ft,108-107, ,Lead change,4,107,108,-1,2778.0
+1:29.0, ,108-107,Turnover by J. Ivey (lost ball; steal by J. Smith),,4,107,108,-1,2791.0
+1:14.0,F. VanVleet makes 2-pt jump shot from 18 ft,110-107, ,,4,107,110,-3,2806.0
+1:14.0, ,110-107,Detroit full timeout,,4,107,110,-3,2806.0
+1:14.0,J. Tate enters the game for J. Green,110-107, ,,4,107,110,-3,2806.0
+1:04.0, ,110-107,Turnover by I. Stewart (bad pass),,4,107,110,-3,2816.0
+1:04.0,J. Green enters the game for J. Tate,110-107, ,,4,107,110,-3,2816.0
+0:49.0,A. Sengun makes 2-pt dunk from 4 ft (assist by F. VanVleet),112-107, ,,4,107,112,-5,2831.0
+0:43.0, ,112-107,Personal foul by F. VanVleet (drawn by A. Burks),,4,107,112,-5,2837.0
+0:37.0, ,112-107,A. Burks misses 3-pt jump shot from 27 ft,,4,107,112,-5,2843.0
+0:34.0, ,112-107,Offensive rebound by J. Ivey,,4,107,112,-5,2846.0
+0:29.0, ,112-110,I. Stewart makes 3-pt jump shot from 25 ft (assist by J. Ivey),,4,110,112,-2,2851.0
+0:08.0,F. VanVleet misses 3-pt jump shot from 31 ft,112-110, ,,4,110,112,-2,2872.0
+0:06.0, ,112-110,Defensive rebound by K. Knox,,4,110,112,-2,2874.0
+0:06.0, ,112-110,Detroit full timeout,,4,110,112,-2,2874.0
+0:06.0,J. Tate enters the game for J. Green,112-110, ,,4,110,112,-2,2874.0
+0:03.0, ,112-110,J. Ivey misses 3-pt jump shot from 26 ft,,4,110,112,-2,2877.0
+0:03.0,Defensive rebound by F. VanVleet,112-110, ,,4,110,112,-2,2877.0
+0:00.0,End of 4th quarter,112-110,,,4,110,112,-2,2880.0

@@ -1,0 +1,439 @@
+Time,Memphis,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Jackson vs. J. Duren (J. Duren gains possession),0-0,,,1,0,0,0,0.0
+11:41.0, ,0-0,T. Evbuomwan misses 3-pt jump shot from 25 ft,,1,0,0,0,19.0
+11:38.0,Defensive rebound by G. Jackson,0-0, ,,1,0,0,0,22.0
+11:28.0,S. Pippen  misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,32.0
+11:26.0, ,0-0,Defensive rebound by T. Brown,,1,0,0,0,34.0
+11:19.0, ,0-0,Turnover by J. Duren (bad pass),,1,0,0,0,41.0
+11:08.0,G. Jackson misses 3-pt jump shot from 27 ft,0-0, ,,1,0,0,0,52.0
+11:04.0, ,0-0,Defensive rebound by J. Duren,,1,0,0,0,56.0
+10:54.0, ,0-2,T. Evbuomwan makes 2-pt layup from 2 ft (assist by C. Cunningham),,1,2,0,2,66.0
+10:42.0,J. Jackson misses 3-pt jump shot from 27 ft,0-2, ,,1,2,0,2,78.0
+10:39.0, ,0-2,Defensive rebound by T. Brown,,1,2,0,2,81.0
+10:28.0, ,0-5,J. Ivey makes 3-pt jump shot from 28 ft (assist by T. Evbuomwan),,1,5,0,5,92.0
+10:03.0,S. Pippen  misses 3-pt jump shot from 24 ft,0-5, ,,1,5,0,5,117.0
+10:02.0, ,0-5,Defensive rebound by C. Cunningham,,1,5,0,5,118.0
+9:54.0, ,0-5,Turnover by C. Cunningham (bad pass),,1,5,0,5,126.0
+9:37.0,L. Kennard makes 3-pt jump shot from 27 ft (assist by J. Jackson),3-5, ,,1,5,3,2,143.0
+9:23.0, ,3-7,C. Cunningham makes 2-pt jump shot from 17 ft (assist by J. Duren),,1,7,3,4,157.0
+9:13.0,J. Jackson makes 2-pt layup from 2 ft,5-7, ,,1,7,5,2,167.0
+8:58.0, ,5-7,Turnover by J. Ivey (bad pass; steal by J. Jackson),,1,7,5,2,182.0
+8:46.0,Turnover by L. Kennard (bad pass; steal by J. Duren),5-7, ,,1,7,5,2,194.0
+8:44.0, ,5-7,Turnover by J. Duren (lost ball; steal by J. Jackson),,1,7,5,2,196.0
+8:42.0,Shooting foul by J. Ivey (drawn by J. Jackson),5-7, ,,1,7,5,2,198.0
+8:42.0,J. Jackson makes free throw 1 of 2,6-7, ,,1,7,6,1,198.0
+8:42.0,J. Jackson makes free throw 2 of 2,7-7, ,Tie,1,7,7,0,198.0
+8:25.0, ,7-9,C. Cunningham makes 2-pt jump shot from 15 ft (assist by J. Ivey),,1,9,7,2,215.0
+8:03.0,G. Jackson makes 3-pt jump shot from 26 ft (assist by J. Jackson),10-9, ,Lead change,1,9,10,-1,237.0
+7:46.0, ,10-12,J. Ivey makes 3-pt jump shot from 25 ft (assist by C. Cunningham),Lead change,1,12,10,2,254.0
+7:25.0,S. Aldama misses 3-pt jump shot from 26 ft,10-12, ,,1,12,10,2,275.0
+7:22.0,Offensive rebound by J. Jackson,10-12, ,,1,12,10,2,278.0
+7:19.0,Shooting foul by J. Duren (drawn by G. Jackson),10-12, ,,1,12,10,2,281.0
+7:19.0,G. Jackson makes free throw 1 of 2,11-12, ,,1,12,11,1,281.0
+7:19.0,G. Jackson makes free throw 2 of 2,12-12, ,Tie,1,12,12,0,281.0
+7:04.0, ,12-12,J. Ivey misses 2-pt jump shot from 13 ft,,1,12,12,0,296.0
+7:03.0,Defensive rebound by J. Jackson,12-12, ,,1,12,12,0,297.0
+6:55.0,Turnover by J. Jackson (traveling),12-12, ,,1,12,12,0,305.0
+6:55.0, ,12-12,Detroit full timeout,,1,12,12,0,305.0
+6:55.0, ,12-12,J. Wiseman enters the game for J. Duren,,1,12,12,0,305.0
+6:38.0, ,12-14,J. Wiseman makes 2-pt dunk from 1 ft (assist by C. Cunningham),,1,14,12,2,322.0
+6:22.0,L. Kennard makes 3-pt jump shot from 26 ft (assist by S. Pippen ),15-14, ,Lead change,1,14,15,-1,338.0
+6:10.0, ,15-14,C. Cunningham misses 2-pt jump shot from 3 ft (block by J. Jackson),,1,14,15,-1,350.0
+6:09.0, ,15-14,Offensive rebound by C. Cunningham,,1,14,15,-1,351.0
+6:08.0, ,15-16,C. Cunningham makes 2-pt layup from 1 ft,Lead change,1,16,15,1,352.0
+6:08.0, ,15-16,Shooting foul by G. Jackson (drawn by C. Cunningham),,1,16,15,1,352.0
+6:08.0, ,15-17,C. Cunningham makes free throw 1 of 1,,1,17,15,2,352.0
+5:57.0,L. Kennard misses 3-pt jump shot from 25 ft,15-17, ,,1,17,15,2,363.0
+5:55.0, ,15-17,Defensive rebound by J. Wiseman,,1,17,15,2,365.0
+5:47.0, ,15-19,C. Cunningham makes 2-pt jump shot from 19 ft,,1,19,15,4,373.0
+5:29.0,Turnover by S. Pippen  (bad pass; steal by C. Cunningham),15-19, ,,1,19,15,4,391.0
+5:16.0, ,15-22,C. Cunningham makes 3-pt jump shot from 26 ft,,1,22,15,7,404.0
+5:02.0,G. Jackson misses 3-pt jump shot from 24 ft,15-22, ,,1,22,15,7,418.0
+4:59.0, ,15-22,Defensive rebound by J. Ivey,,1,22,15,7,421.0
+4:51.0, ,15-22,Turnover by T. Evbuomwan (lost ball; steal by S. Pippen ),,1,22,15,7,429.0
+4:40.0,S. Aldama misses 3-pt jump shot from 27 ft,15-22, ,,1,22,15,7,440.0
+4:36.0, ,15-22,Defensive rebound by T. Brown,,1,22,15,7,444.0
+4:31.0, ,15-22,T. Brown misses 2-pt layup from 3 ft (block by S. Aldama),,1,22,15,7,449.0
+4:28.0,Defensive rebound by S. Aldama,15-22, ,,1,22,15,7,452.0
+4:22.0,Turnover by L. Kennard (bad pass; steal by T. Brown),15-22, ,,1,22,15,7,458.0
+4:11.0, ,15-22,J. Ivey misses 3-pt jump shot from 24 ft,,1,22,15,7,469.0
+4:07.0,Defensive rebound by S. Aldama,15-22, ,,1,22,15,7,473.0
+4:02.0,Memphis full timeout,15-22, ,,1,22,15,7,478.0
+4:02.0,J. Goodwin enters the game for S. Aldama,15-22, ,,1,22,15,7,478.0
+4:02.0,J. LaRavia enters the game for L. Kennard,15-22, ,,1,22,15,7,478.0
+4:02.0,L. Stevens enters the game for S. Pippen ,15-22, ,,1,22,15,7,478.0
+4:02.0, ,15-22,E. Fournier enters the game for T. Brown,,1,22,15,7,478.0
+4:02.0, ,15-22,C. Metu enters the game for T. Evbuomwan,,1,22,15,7,478.0
+3:50.0,J. Jackson makes 2-pt hook shot from 5 ft (assist by G. Jackson),17-22, ,,1,22,17,5,490.0
+3:28.0, ,17-22,E. Fournier misses 3-pt jump shot from 25 ft,,1,22,17,5,512.0
+3:23.0,Defensive rebound by J. Jackson,17-22, ,,1,22,17,5,517.0
+3:15.0,L. Stevens misses 2-pt jump shot from 8 ft,17-22, ,,1,22,17,5,525.0
+3:12.0, ,17-22,Defensive rebound by J. Wiseman,,1,22,17,5,528.0
+3:02.0, ,17-24,J. Ivey makes 2-pt layup from 3 ft (assist by C. Cunningham),,1,24,17,7,538.0
+2:49.0,J. Jackson makes 3-pt jump shot from 26 ft (assist by J. Goodwin),20-24, ,,1,24,20,4,551.0
+2:36.0, ,20-26,J. Ivey makes 2-pt jump shot from 7 ft,,1,26,20,6,564.0
+2:36.0, ,20-26,Shooting foul by J. Goodwin (drawn by J. Ivey),,1,26,20,6,564.0
+2:36.0,B. Clarke enters the game for J. Jackson,20-26, ,,1,26,20,6,564.0
+2:36.0, ,20-26,M. Flynn enters the game for C. Cunningham,,1,26,20,6,564.0
+2:36.0, ,20-27,J. Ivey makes free throw 1 of 1,,1,27,20,7,564.0
+2:24.0,Turnover by J. LaRavia (bad pass),20-27, ,,1,27,20,7,576.0
+2:24.0, ,20-27,J. Rhoden enters the game for J. Ivey,,1,27,20,7,576.0
+2:05.0, ,20-27,E. Fournier misses 2-pt layup from 2 ft,,1,27,20,7,595.0
+2:02.0,Defensive rebound by J. Goodwin,20-27, ,,1,27,20,7,598.0
+2:00.0,Personal foul by J. Rhoden (drawn by J. LaRavia),20-27, ,,1,27,20,7,600.0
+1:51.0,L. Stevens misses 2-pt jump shot from 6 ft,20-27, ,,1,27,20,7,609.0
+1:49.0, ,20-27,Defensive rebound by C. Metu,,1,27,20,7,611.0
+1:40.0, ,20-27,Turnover by J. Wiseman (3 sec),,1,27,20,7,620.0
+1:24.0,L. Stevens misses 3-pt jump shot from 23 ft (block by C. Metu),20-27, ,,1,27,20,7,636.0
+1:22.0,Offensive rebound by Team,20-27, ,,1,27,20,7,638.0
+1:18.0,J. Goodwin makes 2-pt jump shot from 12 ft (assist by G. Jackson),22-27, ,,1,27,22,5,642.0
+0:58.0, ,22-29,C. Metu makes 2-pt jump shot from 13 ft (assist by J. Rhoden),,1,29,22,7,662.0
+0:39.0,G. Jackson misses 2-pt layup from 3 ft,22-29, ,,1,29,22,7,681.0
+0:38.0,Offensive rebound by Team,22-29, ,,1,29,22,7,682.0
+0:35.0,B. Clarke misses 2-pt jump shot from 19 ft,22-29, ,,1,29,22,7,685.0
+0:32.0, ,22-29,Defensive rebound by M. Flynn,,1,29,22,7,688.0
+0:15.0, ,22-29,J. Wiseman misses 2-pt jump shot from 7 ft,,1,29,22,7,705.0
+0:12.0,Defensive rebound by J. Goodwin,22-29, ,,1,29,22,7,708.0
+0:01.0,J. Goodwin misses 3-pt jump shot from 25 ft,22-29, ,,1,29,22,7,719.0
+0:00.0, ,22-29,Defensive rebound by C. Metu,,1,29,22,7,720.0
+0:00.0,End of 1st quarter,22-29,,,1,29,22,7,720.0
+12:00.0,Start of 2nd quarter,22-29,,,2,29,22,7,720.0
+11:44.0,J. Goodwin misses 2-pt jump shot from 8 ft,22-29, ,,2,29,22,7,736.0
+11:42.0,Offensive rebound by Team,22-29, ,,2,29,22,7,738.0
+11:34.0,J. LaRavia misses 2-pt layup from 6 ft (block by J. Wiseman),22-29, ,,2,29,22,7,746.0
+11:33.0,Offensive rebound by Team,22-29, ,,2,29,22,7,747.0
+11:28.0,J. Goodwin misses 3-pt jump shot from 25 ft,22-29, ,,2,29,22,7,752.0
+11:25.0,Offensive rebound by B. Clarke,22-29, ,,2,29,22,7,755.0
+11:23.0,B. Clarke misses 2-pt jump shot from 7 ft,22-29, ,,2,29,22,7,757.0
+11:22.0,Offensive rebound by J. Goodwin,22-29, ,,2,29,22,7,758.0
+11:20.0,Shooting foul by J. Wiseman (drawn by J. LaRavia),22-29, ,,2,29,22,7,760.0
+11:20.0,J. LaRavia makes free throw 1 of 2,23-29, ,,2,29,23,6,760.0
+11:20.0,J. LaRavia makes free throw 2 of 2,24-29, ,,2,29,24,5,760.0
+11:07.0, ,24-29,E. Fournier misses 2-pt jump shot from 7 ft,,2,29,24,5,773.0
+11:04.0,Defensive rebound by J. Goodwin,24-29, ,,2,29,24,5,776.0
+10:59.0,B. Clarke misses 2-pt layup from 6 ft (block by M. Flynn),24-29, ,,2,29,24,5,781.0
+10:56.0,Offensive rebound by J. LaRavia,24-29, ,,2,29,24,5,784.0
+10:45.0,J. LaRavia makes 2-pt jump shot from 3 ft (assist by S. Aldama),26-29, ,,2,29,26,3,795.0
+10:23.0, ,26-31,C. Metu makes 2-pt jump shot from 9 ft,,2,31,26,5,817.0
+10:12.0,B. Clarke makes 2-pt jump shot from 9 ft (assist by J. Goodwin),28-31, ,,2,31,28,3,828.0
+9:52.0, ,28-34,M. Flynn makes 3-pt jump shot from 25 ft,,2,34,28,6,848.0
+9:32.0,J. Goodwin makes 2-pt jump shot from 12 ft,30-34, ,,2,34,30,4,868.0
+9:13.0, ,30-36,C. Metu makes 2-pt jump shot from 9 ft (assist by E. Fournier),,2,36,30,6,887.0
+8:54.0,B. Clarke makes 2-pt jump shot from 9 ft (assist by J. Goodwin),32-36, ,,2,36,32,4,906.0
+8:37.0, ,32-36,Turnover by M. Flynn (bad pass; steal by L. Stevens),,2,36,32,4,923.0
+8:18.0,J. LaRavia misses 3-pt jump shot from 28 ft,32-36, ,,2,36,32,4,942.0
+8:16.0, ,32-36,Defensive rebound by E. Fournier,,2,36,32,4,944.0
+8:11.0, ,32-36,Detroit full timeout,,2,36,32,4,949.0
+8:11.0,L. Kennard enters the game for J. Goodwin,32-36, ,,2,36,32,4,949.0
+8:11.0,S. Pippen  enters the game for L. Stevens,32-36, ,,2,36,32,4,949.0
+8:11.0, ,32-36,T. Evbuomwan enters the game for J. Rhoden,,2,36,32,4,949.0
+8:11.0, ,32-36,J. Ivey enters the game for J. Wiseman,,2,36,32,4,949.0
+7:58.0, ,32-36,M. Flynn misses 2-pt jump shot from 13 ft,,2,36,32,4,962.0
+7:55.0,Defensive rebound by J. LaRavia,32-36, ,,2,36,32,4,965.0
+7:50.0,J. LaRavia misses 2-pt layup from 2 ft,32-36, ,,2,36,32,4,970.0
+7:48.0, ,32-36,Defensive rebound by J. Ivey,,2,36,32,4,972.0
+7:45.0, ,32-36,Shooting foul by S. Aldama (drawn by J. Ivey),,2,36,32,4,975.0
+7:45.0, ,32-37,J. Ivey makes free throw 1 of 2,,2,37,32,5,975.0
+7:45.0, ,32-37,J. Ivey misses free throw 2 of 2,,2,37,32,5,975.0
+7:43.0,Defensive rebound by B. Clarke,32-37, ,,2,37,32,5,977.0
+7:23.0,J. LaRavia makes 3-pt jump shot from 25 ft (assist by S. Aldama),35-37, ,,2,37,35,2,997.0
+7:06.0, ,35-37,M. Flynn misses 3-pt jump shot from 23 ft,,2,37,35,2,1014.0
+7:03.0, ,35-37,Offensive rebound by C. Metu,,2,37,35,2,1017.0
+7:01.0, ,35-37,Turnover by C. Metu (lost ball; steal by S. Pippen ),,2,37,35,2,1019.0
+6:54.0,Personal foul by M. Flynn (drawn by S. Pippen ),35-37, ,,2,37,35,2,1026.0
+6:54.0,J. Jackson enters the game for B. Clarke,35-37, ,,2,37,35,2,1026.0
+6:47.0,J. Jackson makes 2-pt layup from 2 ft (assist by L. Kennard),37-37, ,Tie,2,37,37,0,1033.0
+6:37.0, ,37-37,Shooting foul by J. LaRavia (drawn by C. Metu),,2,37,37,0,1043.0
+6:37.0, ,37-38,C. Metu makes free throw 1 of 2,,2,38,37,1,1043.0
+6:37.0, ,37-38,C. Cunningham enters the game for T. Evbuomwan,,2,38,37,1,1043.0
+6:37.0, ,37-38,J. Wiseman enters the game for M. Flynn,,2,38,37,1,1043.0
+6:37.0, ,37-39,C. Metu makes free throw 2 of 2,,2,39,37,2,1043.0
+6:22.0,L. Kennard misses 3-pt jump shot from 26 ft,37-39, ,,2,39,37,2,1058.0
+6:21.0, ,37-39,Defensive rebound by E. Fournier,,2,39,37,2,1059.0
+6:06.0, ,37-39,Turnover by C. Cunningham (lost ball; steal by J. Jackson),,2,39,37,2,1074.0
+6:04.0,Memphis full timeout,37-39, ,,2,39,37,2,1076.0
+6:04.0,G. Jackson enters the game for J. LaRavia,37-39, ,,2,39,37,2,1076.0
+6:04.0, ,37-39,T. Evbuomwan enters the game for C. Metu,,2,39,37,2,1076.0
+5:44.0,Turnover by Team (shot clock),37-39, ,,2,39,37,2,1096.0
+5:29.0, ,37-39,J. Ivey misses 3-pt jump shot from 26 ft,,2,39,37,2,1111.0
+5:26.0,Defensive rebound by S. Aldama,37-39, ,,2,39,37,2,1114.0
+5:18.0,J. Jackson makes 2-pt jump shot from 9 ft (assist by L. Kennard),39-39, ,Tie,2,39,39,0,1122.0
+4:57.0, ,39-39,E. Fournier misses 3-pt jump shot from 25 ft,,2,39,39,0,1143.0
+4:55.0,Defensive rebound by G. Jackson,39-39, ,,2,39,39,0,1145.0
+4:45.0,J. Jackson misses 2-pt layup from 6 ft,39-39, ,,2,39,39,0,1155.0
+4:43.0, ,39-39,Defensive rebound by E. Fournier,,2,39,39,0,1157.0
+4:37.0, ,39-42,C. Cunningham makes 3-pt jump shot from 24 ft (assist by J. Ivey),,2,42,39,3,1163.0
+4:21.0,L. Kennard misses 3-pt jump shot from 26 ft,39-42, ,,2,42,39,3,1179.0
+4:19.0, ,39-42,Defensive rebound by J. Wiseman,,2,42,39,3,1181.0
+4:11.0, ,39-44,C. Cunningham makes 2-pt jump shot from 12 ft,,2,44,39,5,1189.0
+3:43.0,J. Jackson misses 2-pt jump shot from 7 ft,39-44, ,,2,44,39,5,1217.0
+3:41.0, ,39-44,Defensive rebound by J. Wiseman,,2,44,39,5,1219.0
+3:36.0, ,39-46,C. Cunningham makes 2-pt layup from 1 ft,,2,46,39,7,1224.0
+3:19.0,S. Pippen  misses 3-pt jump shot from 29 ft,39-46, ,,2,46,39,7,1241.0
+3:17.0, ,39-46,Defensive rebound by J. Wiseman,,2,46,39,7,1243.0
+3:05.0, ,39-48,T. Evbuomwan makes 2-pt hook shot from 6 ft (assist by E. Fournier),,2,48,39,9,1255.0
+3:05.0,Memphis full timeout,39-48, ,,2,48,39,9,1255.0
+3:05.0,B. Clarke enters the game for S. Aldama,39-48, ,,2,48,39,9,1255.0
+3:05.0,J. LaRavia enters the game for S. Pippen ,39-48, ,,2,48,39,9,1255.0
+3:05.0, ,39-48,T. Brown enters the game for E. Fournier,,2,48,39,9,1255.0
+2:54.0,Turnover by L. Kennard (bad pass; steal by T. Brown),39-48, ,,2,48,39,9,1266.0
+2:51.0, ,39-50,J. Ivey makes 2-pt dunk at rim (assist by T. Evbuomwan),,2,50,39,11,1269.0
+2:34.0,G. Jackson misses 2-pt layup from 6 ft (block by T. Evbuomwan),39-50, ,,2,50,39,11,1286.0
+2:30.0, ,39-50,Defensive rebound by T. Evbuomwan,,2,50,39,11,1290.0
+2:17.0, ,39-50,Turnover by C. Cunningham (bad pass; steal by L. Kennard),,2,50,39,11,1303.0
+2:11.0,L. Kennard makes 3-pt jump shot from 26 ft (assist by J. LaRavia),42-50, ,,2,50,42,8,1309.0
+1:46.0, ,42-53,T. Evbuomwan makes 3-pt jump shot from 26 ft (assist by J. Ivey),,2,53,42,11,1334.0
+1:33.0,Turnover by J. LaRavia (bad pass),42-53, ,,2,53,42,11,1347.0
+1:16.0, ,42-55,C. Cunningham makes 2-pt dunk at rim,,2,55,42,13,1364.0
+1:01.0,J. LaRavia misses 3-pt jump shot from 26 ft,42-55, ,,2,55,42,13,1379.0
+0:58.0, ,42-55,Defensive rebound by T. Brown,,2,55,42,13,1382.0
+0:50.0, ,42-55,J. Ivey misses 2-pt layup from 2 ft,,2,55,42,13,1390.0
+0:49.0, ,42-55,Offensive rebound by J. Wiseman,,2,55,42,13,1391.0
+0:48.0, ,42-57,J. Wiseman makes 2-pt layup at rim,,2,57,42,15,1392.0
+0:48.0, ,42-57,Shooting foul by B. Clarke (drawn by J. Wiseman),,2,57,42,15,1392.0
+0:48.0, ,42-57,J. Wiseman misses free throw 1 of 1,,2,57,42,15,1392.0
+0:44.0,Defensive rebound by B. Clarke,42-57, ,,2,57,42,15,1396.0
+0:24.0,J. Jackson misses 2-pt layup from 8 ft,42-57, ,,2,57,42,15,1416.0
+0:22.0,Offensive rebound by B. Clarke,42-57, ,,2,57,42,15,1418.0
+0:22.0,B. Clarke makes 2-pt jump shot from 6 ft,44-57, ,,2,57,44,13,1418.0
+0:00.0,End of 2nd quarter,44-57,,,2,57,44,13,1440.0
+12:00.0,Start of 3rd quarter,44-57,,,3,57,44,13,1440.0
+11:38.0,J. Jackson makes 2-pt jump shot from 5 ft,46-57, ,,3,57,46,11,1462.0
+11:16.0, ,46-57,C. Cunningham misses 3-pt jump shot from 27 ft,,3,57,46,11,1484.0
+11:12.0,Defensive rebound by L. Kennard,46-57, ,,3,57,46,11,1488.0
+11:03.0,G. Jackson makes 2-pt layup from 3 ft,48-57, ,,3,57,48,9,1497.0
+10:52.0, ,48-59,C. Cunningham makes 2-pt layup from 2 ft (assist by J. Ivey),,3,59,48,11,1508.0
+10:40.0,Shooting foul by J. Wiseman (drawn by J. Jackson),48-59, ,,3,59,48,11,1520.0
+10:40.0,J. Jackson makes free throw 1 of 2,49-59, ,,3,59,49,10,1520.0
+10:40.0,J. Jackson misses free throw 2 of 2,49-59, ,,3,59,49,10,1520.0
+10:38.0, ,49-59,Defensive rebound by J. Wiseman,,3,59,49,10,1522.0
+10:26.0, ,49-59,Personal foul by S. Pippen  (drawn by J. Wiseman),,3,59,49,10,1534.0
+10:17.0, ,49-59,J. Ivey misses 3-pt jump shot from 25 ft,,3,59,49,10,1543.0
+10:14.0, ,49-59,Offensive rebound by T. Evbuomwan,,3,59,49,10,1546.0
+10:09.0, ,49-59,C. Cunningham misses 2-pt layup from 3 ft (block by S. Aldama),,3,59,49,10,1551.0
+10:09.0,Defensive rebound by J. Jackson,49-59, ,,3,59,49,10,1551.0
+9:56.0,L. Kennard misses 3-pt jump shot from 26 ft,49-59, ,,3,59,49,10,1564.0
+9:55.0,Offensive rebound by Team,49-59, ,,3,59,49,10,1565.0
+9:47.0,Shooting foul by J. Wiseman (drawn by J. Jackson),49-59, ,,3,59,49,10,1573.0
+9:47.0,J. Jackson makes free throw 1 of 2,50-59, ,,3,59,50,9,1573.0
+9:47.0,J. Jackson makes free throw 2 of 2,51-59, ,,3,59,51,8,1573.0
+9:29.0, ,51-59,J. Wiseman misses 2-pt layup from 3 ft (block by S. Aldama),,3,59,51,8,1591.0
+9:27.0, ,51-59,Offensive rebound by J. Wiseman,,3,59,51,8,1593.0
+9:26.0, ,51-61,J. Wiseman makes 2-pt layup from 2 ft,,3,61,51,10,1594.0
+9:12.0,J. Jackson makes 2-pt layup from 1 ft,53-61, ,,3,61,53,8,1608.0
+8:57.0, ,53-63,J. Wiseman makes 2-pt jump shot from 6 ft (assist by C. Cunningham),,3,63,53,10,1623.0
+8:43.0,J. Jackson makes 3-pt jump shot from 25 ft (assist by G. Jackson),56-63, ,,3,63,56,7,1637.0
+8:32.0, ,56-63,T. Brown misses 2-pt dunk from 1 ft,,3,63,56,7,1648.0
+8:31.0,Defensive rebound by Team,56-63, ,,3,63,56,7,1649.0
+8:20.0,L. Kennard makes 3-pt jump shot from 28 ft (assist by J. Jackson),59-63, ,,3,63,59,4,1660.0
+8:08.0, ,59-63,Personal foul by S. Aldama (drawn by C. Cunningham),,3,63,59,4,1672.0
+8:02.0, ,59-65,C. Cunningham makes 2-pt jump shot from 12 ft,,3,65,59,6,1678.0
+8:02.0, ,59-65,Shooting foul by J. Jackson (drawn by C. Cunningham),,3,65,59,6,1678.0
+8:02.0, ,59-65,C. Metu enters the game for J. Wiseman,,3,65,59,6,1678.0
+8:02.0, ,59-66,C. Cunningham makes free throw 1 of 1,,3,66,59,7,1678.0
+7:42.0,J. Jackson makes 2-pt layup from 6 ft (assist by L. Kennard),61-66, ,,3,66,61,5,1698.0
+7:33.0, ,61-66,C. Cunningham misses 2-pt layup from 4 ft,,3,66,61,5,1707.0
+7:32.0,Defensive rebound by J. Jackson,61-66, ,,3,66,61,5,1708.0
+7:28.0,S. Aldama makes 2-pt dunk at rim (assist by S. Pippen ),63-66, ,,3,66,63,3,1712.0
+7:11.0, ,63-66,Personal foul by S. Pippen  (drawn by C. Cunningham),,3,66,63,3,1729.0
+7:02.0, ,63-66,Turnover by J. Ivey (lost ball; steal by S. Pippen ),,3,66,63,3,1738.0
+6:49.0,G. Jackson makes 2-pt layup from 2 ft (assist by S. Pippen ),65-66, ,,3,66,65,1,1751.0
+6:46.0, ,65-66,Detroit full timeout,,3,66,65,1,1754.0
+6:30.0, ,65-68,J. Ivey makes 2-pt layup from 1 ft,,3,68,65,3,1770.0
+6:16.0,G. Jackson makes 2-pt jump shot from 5 ft (assist by L. Kennard),67-68, ,,3,68,67,1,1784.0
+6:02.0, ,67-70,C. Metu makes 2-pt dunk from 2 ft (assist by C. Cunningham),,3,70,67,3,1798.0
+5:45.0,Shooting foul by C. Metu (drawn by J. Jackson),67-70, ,,3,70,67,3,1815.0
+5:45.0,J. Jackson makes free throw 1 of 2,68-70, ,,3,70,68,2,1815.0
+5:45.0,J. LaRavia enters the game for S. Aldama,68-70, ,,3,70,68,2,1815.0
+5:45.0,J. Jackson makes free throw 2 of 2,69-70, ,,3,70,69,1,1815.0
+5:37.0, ,69-70,C. Cunningham misses 2-pt layup from 3 ft (block by G. Jackson),,3,70,69,1,1823.0
+5:35.0,Defensive rebound by G. Jackson,69-70, ,,3,70,69,1,1825.0
+5:22.0,Turnover by J. Jackson (bad pass),69-70, ,,3,70,69,1,1838.0
+5:15.0, ,69-73,C. Metu makes 3-pt jump shot from 26 ft (assist by J. Ivey),,3,73,69,4,1845.0
+4:57.0,J. Jackson makes 2-pt layup from 2 ft (assist by G. Jackson),71-73, ,,3,73,71,2,1863.0
+4:46.0, ,71-73,Shooting foul by J. LaRavia (drawn by J. Ivey),,3,73,71,2,1874.0
+4:46.0, ,71-74,J. Ivey makes free throw 1 of 2,,3,74,71,3,1874.0
+4:46.0, ,71-74,E. Fournier enters the game for T. Brown,,3,74,71,3,1874.0
+4:46.0, ,71-74,J. Wiseman enters the game for T. Evbuomwan,,3,74,71,3,1874.0
+4:46.0, ,71-75,J. Ivey makes free throw 2 of 2,,3,75,71,4,1874.0
+4:32.0,Turnover by J. Jackson (bad pass; steal by E. Fournier),71-75, ,,3,75,71,4,1888.0
+4:28.0, ,71-75,J. Ivey misses 3-pt jump shot from 24 ft,,3,75,71,4,1892.0
+4:24.0,Defensive rebound by J. LaRavia,71-75, ,,3,75,71,4,1896.0
+4:20.0,J. LaRavia misses 2-pt layup from 2 ft (block by C. Cunningham),71-75, ,,3,75,71,4,1900.0
+4:18.0, ,71-75,Defensive rebound by J. Ivey,,3,75,71,4,1902.0
+4:14.0, ,71-75,Shooting foul by G. Jackson (drawn by C. Cunningham),,3,75,71,4,1906.0
+4:14.0, ,71-76,C. Cunningham makes free throw 1 of 2,,3,76,71,5,1906.0
+4:14.0,Memphis full timeout,71-76, ,,3,76,71,5,1906.0
+4:14.0,J. Goodwin enters the game for L. Kennard,71-76, ,,3,76,71,5,1906.0
+4:14.0,L. Stevens enters the game for S. Pippen ,71-76, ,,3,76,71,5,1906.0
+4:14.0, ,71-76,C. Cunningham misses free throw 2 of 2,,3,76,71,5,1906.0
+4:11.0,Defensive rebound by J. Goodwin,71-76, ,,3,76,71,5,1909.0
+3:58.0,J. Jackson makes 2-pt jump shot from 4 ft (assist by J. Goodwin),73-76, ,,3,76,73,3,1922.0
+3:45.0, ,73-76,Turnover by C. Cunningham (bad pass; steal by L. Stevens),,3,76,73,3,1935.0
+3:39.0,L. Stevens misses 2-pt layup at rim,73-76, ,,3,76,73,3,1941.0
+3:39.0,Offensive rebound by L. Stevens,73-76, ,,3,76,73,3,1941.0
+3:39.0,L. Stevens makes 2-pt layup from 2 ft,75-76, ,,3,76,75,1,1941.0
+3:39.0,Shooting foul by J. Wiseman (drawn by L. Stevens),75-76, ,,3,76,75,1,1941.0
+3:39.0, ,75-76,J. Rhoden enters the game for J. Ivey,,3,76,75,1,1941.0
+3:39.0,L. Stevens misses free throw 1 of 1,75-76, ,,3,76,75,1,1941.0
+3:37.0, ,75-76,Defensive rebound by J. Wiseman,,3,76,75,1,1943.0
+3:24.0, ,75-76,J. Wiseman misses 2-pt hook shot from 3 ft,,3,76,75,1,1956.0
+3:21.0,Defensive rebound by G. Jackson,75-76, ,,3,76,75,1,1959.0
+3:21.0, ,75-76,T. Evbuomwan enters the game for J. Wiseman,,3,76,75,1,1959.0
+3:08.0,Personal foul by C. Metu (drawn by J. Jackson),75-76, ,,3,76,75,1,1972.0
+3:08.0,J. Jackson misses free throw 1 of 2,75-76, ,,3,76,75,1,1972.0
+3:08.0,Offensive rebound by Team,75-76, ,,3,76,75,1,1972.0
+3:08.0,J. Jackson makes free throw 2 of 2,76-76, ,Tie,3,76,76,0,1972.0
+2:54.0, ,76-78,C. Cunningham makes 2-pt jump shot from 15 ft (assist by E. Fournier),,3,78,76,2,1986.0
+2:29.0,Shooting foul by E. Fournier (drawn by J. Jackson),76-78, ,,3,78,76,2,2011.0
+2:29.0,J. Jackson makes free throw 1 of 2,77-78, ,,3,78,77,1,2011.0
+2:29.0,B. Clarke enters the game for G. Jackson,77-78, ,,3,78,77,1,2011.0
+2:29.0,J. Jackson makes free throw 2 of 2,78-78, ,Tie,3,78,78,0,2011.0
+2:15.0, ,78-78,C. Cunningham misses 2-pt jump shot from 15 ft,,3,78,78,0,2025.0
+2:13.0, ,78-78,Offensive rebound by C. Metu,,3,78,78,0,2027.0
+2:10.0, ,78-78,C. Metu misses 2-pt layup from 13 ft (block by L. Stevens),,3,78,78,0,2030.0
+2:09.0, ,78-78,Offensive rebound by Team,,3,78,78,0,2031.0
+2:05.0, ,78-78,C. Metu misses 3-pt jump shot from 25 ft,,3,78,78,0,2035.0
+2:05.0,Defensive rebound by Team,78-78, ,,3,78,78,0,2035.0
+2:05.0, ,78-78,Loose ball foul by C. Cunningham (drawn by J. LaRavia),,3,78,78,0,2035.0
+2:05.0,J. LaRavia makes free throw 1 of 2,79-78, ,Lead change,3,78,79,-1,2035.0
+2:05.0,J. LaRavia makes free throw 2 of 2,80-78, ,,3,78,80,-2,2035.0
+1:53.0, ,80-81,T. Evbuomwan makes 3-pt jump shot from 25 ft (assist by C. Cunningham),Lead change,3,81,80,1,2047.0
+1:37.0,Turnover by J. LaRavia (lost ball; steal by C. Cunningham),80-81, ,,3,81,80,1,2063.0
+1:34.0, ,80-81,Shooting foul by L. Stevens (drawn by J. Rhoden),,3,81,80,1,2066.0
+1:34.0, ,80-82,J. Rhoden makes free throw 1 of 2,,3,82,80,2,2066.0
+1:34.0, ,80-82,M. Flynn enters the game for C. Cunningham,,3,82,80,2,2066.0
+1:34.0, ,80-82,J. Rhoden misses free throw 2 of 2,,3,82,80,2,2066.0
+1:31.0, ,80-82,Offensive rebound by T. Evbuomwan,,3,82,80,2,2069.0
+1:29.0, ,80-82,M. Flynn misses 3-pt jump shot from 26 ft,,3,82,80,2,2071.0
+1:26.0, ,80-82,Offensive rebound by C. Metu,,3,82,80,2,2074.0
+1:20.0, ,80-85,M. Flynn makes 3-pt jump shot from 24 ft,,3,85,80,5,2080.0
+0:57.0,J. LaRavia misses 2-pt jump shot from 7 ft (block by J. Rhoden),80-85, ,,3,85,80,5,2103.0
+0:56.0,Offensive rebound by J. LaRavia,80-85, ,,3,85,80,5,2104.0
+0:55.0,J. LaRavia misses 2-pt jump shot from 8 ft,80-85, ,,3,85,80,5,2105.0
+0:55.0,Offensive rebound by J. Goodwin,80-85, ,,3,85,80,5,2105.0
+0:55.0,J. Goodwin misses 2-pt layup from 1 ft,80-85, ,,3,85,80,5,2105.0
+0:54.0,Offensive rebound by B. Clarke,80-85, ,,3,85,80,5,2106.0
+0:54.0,B. Clarke misses 2-pt layup at rim,80-85, ,,3,85,80,5,2106.0
+0:54.0,B. Clarke makes 2-pt layup at rim,82-85, ,,3,85,82,3,2106.0
+0:35.0, ,82-87,M. Flynn makes 2-pt jump shot from 7 ft,,3,87,82,5,2125.0
+0:27.0,J. Jackson misses 2-pt layup from 3 ft (block by C. Metu),82-87, ,,3,87,82,5,2133.0
+0:23.0,Offensive rebound by J. Goodwin,82-87, ,,3,87,82,5,2137.0
+0:21.0,Turnover by J. Goodwin (bad pass; steal by T. Evbuomwan),82-87, ,,3,87,82,5,2139.0
+0:05.0, ,82-87,Personal foul by J. Jackson (drawn by M. Flynn),,3,87,82,5,2155.0
+0:05.0, ,82-88,M. Flynn makes free throw 1 of 2,,3,88,82,6,2155.0
+0:05.0,L. Kennard enters the game for B. Clarke,82-88, ,,3,88,82,6,2155.0
+0:05.0, ,82-88,M. Flynn misses free throw 2 of 2,,3,88,82,6,2155.0
+0:03.0, ,82-88,Offensive rebound by C. Metu,,3,88,82,6,2157.0
+0:03.0, ,82-90,C. Metu makes 2-pt dunk from 2 ft,,3,90,82,8,2157.0
+0:00.0,J. LaRavia makes 3-pt jump shot from 30 ft,85-90, ,,3,90,85,5,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),85-90, ,,3,90,85,5,2160.0
+0:00.0,End of 3rd quarter,85-90,,,3,90,85,5,2160.0
+12:00.0,Start of 4th quarter,85-90,,,4,90,85,5,2160.0
+11:48.0, ,85-90,Shooting foul by J. LaRavia (drawn by C. Metu),,4,90,85,5,2172.0
+11:48.0, ,85-91,C. Metu makes free throw 1 of 2,,4,91,85,6,2172.0
+11:48.0, ,85-92,C. Metu makes free throw 2 of 2,,4,92,85,7,2172.0
+11:28.0,J. LaRavia misses 2-pt layup from 1 ft,85-92, ,,4,92,85,7,2192.0
+11:24.0, ,85-92,Defensive rebound by J. Rhoden,,4,92,85,7,2196.0
+11:08.0, ,85-92,C. Metu misses 2-pt hook shot from 6 ft,,4,92,85,7,2212.0
+11:07.0,Defensive rebound by J. Goodwin,85-92, ,,4,92,85,7,2213.0
+11:00.0,Personal foul by J. Rhoden (drawn by J. Goodwin),85-92, ,,4,92,85,7,2220.0
+10:44.0,J. Goodwin misses 3-pt jump shot from 23 ft,85-92, ,,4,92,85,7,2236.0
+10:42.0, ,85-92,Defensive rebound by T. Evbuomwan,,4,92,85,7,2238.0
+10:29.0, ,85-92,E. Fournier misses 3-pt jump shot from 25 ft,,4,92,85,7,2251.0
+10:27.0,Defensive rebound by L. Stevens,85-92, ,,4,92,85,7,2253.0
+10:20.0,L. Kennard makes 2-pt jump shot from 21 ft (assist by L. Stevens),87-92, ,,4,92,87,5,2260.0
+9:55.0, ,87-92,Turnover by M. Flynn (bad pass; steal by B. Clarke),,4,92,87,5,2285.0
+9:52.0,L. Kennard misses 2-pt layup from 1 ft (block by J. Rhoden),87-92, ,,4,92,87,5,2288.0
+9:51.0,Offensive rebound by Team,87-92, ,,4,92,87,5,2289.0
+9:51.0, ,87-92,J. Wiseman enters the game for C. Metu,,4,92,87,5,2289.0
+9:44.0,L. Stevens makes 2-pt dunk from 1 ft (assist by L. Kennard),89-92, ,,4,92,89,3,2296.0
+9:30.0, ,89-94,E. Fournier makes 2-pt jump shot from 6 ft,,4,94,89,5,2310.0
+9:12.0,L. Kennard makes 3-pt jump shot from 26 ft (assist by J. LaRavia),92-94, ,,4,94,92,2,2328.0
+8:54.0, ,92-94,E. Fournier misses 3-pt jump shot from 26 ft,,4,94,92,2,2346.0
+8:53.0,Defensive rebound by J. Goodwin,92-94, ,,4,94,92,2,2347.0
+8:43.0,Offensive foul by B. Clarke (drawn by J. Rhoden),92-94, ,,4,94,92,2,2357.0
+8:43.0,Turnover by B. Clarke (offensive foul),92-94, ,,4,94,92,2,2357.0
+8:43.0, ,92-94,J. Ivey enters the game for J. Rhoden,,4,94,92,2,2357.0
+8:27.0, ,92-94,Turnover by J. Wiseman (lost ball; steal by L. Stevens),,4,94,92,2,2373.0
+8:09.0,B. Clarke makes 3-pt jump shot from 23 ft (assist by L. Kennard),95-94, ,Lead change,4,94,95,-1,2391.0
+8:00.0, ,95-94,J. Ivey misses 2-pt layup from 3 ft (block by B. Clarke),,4,94,95,-1,2400.0
+7:56.0,Defensive rebound by L. Stevens,95-94, ,,4,94,95,-1,2404.0
+7:52.0,B. Clarke misses 2-pt layup from 1 ft,95-94, ,,4,94,95,-1,2408.0
+7:50.0, ,95-94,Defensive rebound by M. Flynn,,4,94,95,-1,2410.0
+7:36.0, ,95-94,M. Flynn misses 3-pt jump shot from 26 ft,,4,94,95,-1,2424.0
+7:35.0,Defensive rebound by Team,95-94, ,,4,94,95,-1,2425.0
+7:35.0, ,95-94,Loose ball foul by J. Wiseman (drawn by B. Clarke),,4,94,95,-1,2425.0
+7:35.0, ,95-94,C. Cunningham enters the game for M. Flynn,,4,94,95,-1,2425.0
+7:35.0, ,95-94,C. Metu enters the game for J. Wiseman,,4,94,95,-1,2425.0
+7:21.0,L. Stevens misses 3-pt jump shot from 23 ft,95-94, ,,4,94,95,-1,2439.0
+7:16.0,Offensive rebound by B. Clarke,95-94, ,,4,94,95,-1,2444.0
+7:14.0,B. Clarke makes 2-pt layup from 1 ft,97-94, ,,4,94,97,-3,2446.0
+6:52.0, ,97-94,J. Ivey misses 3-pt jump shot from 26 ft,,4,94,97,-3,2468.0
+6:49.0,Defensive rebound by J. Goodwin,97-94, ,,4,94,97,-3,2471.0
+6:42.0,L. Kennard makes 2-pt jump shot from 18 ft (assist by J. Goodwin),99-94, ,,4,94,99,-5,2478.0
+6:42.0, ,99-94,Detroit full timeout,,4,94,99,-5,2478.0
+6:27.0, ,99-94,J. Ivey misses 2-pt layup from 2 ft (block by B. Clarke),,4,94,99,-5,2493.0
+6:24.0,Defensive rebound by J. Goodwin,99-94, ,,4,94,99,-5,2496.0
+6:18.0,B. Clarke makes 2-pt jump shot from 11 ft (assist by L. Kennard),101-94, ,,4,94,101,-7,2502.0
+6:05.0, ,101-94,Shooting foul by J. LaRavia (drawn by C. Cunningham),,4,94,101,-7,2515.0
+6:05.0, ,101-95,C. Cunningham makes free throw 1 of 2,,4,95,101,-6,2515.0
+6:05.0,J. Jackson enters the game for J. LaRavia,101-95, ,,4,95,101,-6,2515.0
+6:05.0, ,101-96,C. Cunningham makes free throw 2 of 2,,4,96,101,-5,2515.0
+5:49.0,Shooting foul by E. Fournier (drawn by L. Stevens),101-96, ,,4,96,101,-5,2531.0
+5:49.0,L. Stevens makes free throw 1 of 2,102-96, ,,4,96,102,-6,2531.0
+5:49.0,L. Stevens misses free throw 2 of 2,102-96, ,,4,96,102,-6,2531.0
+5:46.0, ,102-96,Defensive rebound by T. Evbuomwan,,4,96,102,-6,2534.0
+5:31.0, ,102-96,C. Cunningham misses 2-pt jump shot from 16 ft,,4,96,102,-6,2549.0
+5:30.0,Defensive rebound by J. Jackson,102-96, ,,4,96,102,-6,2550.0
+5:18.0,L. Stevens makes 2-pt dunk from 1 ft (assist by L. Kennard),104-96, ,,4,96,104,-8,2562.0
+5:01.0, ,104-96,Personal foul by J. Goodwin (drawn by T. Evbuomwan),,4,96,104,-8,2579.0
+5:01.0,G. Jackson enters the game for B. Clarke,104-96, ,,4,96,104,-8,2579.0
+5:01.0,Violation by Team (kicked ball),104-96, ,,4,96,104,-8,2579.0
+4:48.0, ,104-98,J. Ivey makes 2-pt layup from 1 ft,,4,98,104,-6,2592.0
+4:28.0,J. Jackson misses 2-pt layup from 2 ft,104-98, ,,4,98,104,-6,2612.0
+4:27.0, ,104-98,Defensive rebound by C. Cunningham,,4,98,104,-6,2613.0
+4:22.0, ,104-101,E. Fournier makes 3-pt jump shot from 26 ft (assist by C. Cunningham),,4,101,104,-3,2618.0
+4:21.0,Memphis full timeout,104-101, ,,4,101,104,-3,2619.0
+4:07.0,J. Jackson misses 2-pt hook shot from 1 ft,104-101, ,,4,101,104,-3,2633.0
+4:06.0, ,104-101,Defensive rebound by C. Metu,,4,101,104,-3,2634.0
+3:42.0, ,104-104,C. Cunningham makes 3-pt jump shot from 27 ft (assist by E. Fournier),Tie,4,104,104,0,2658.0
+3:21.0,J. Jackson makes 2-pt layup from 1 ft,106-104, ,,4,104,106,-2,2679.0
+3:12.0, ,106-104,Shooting foul by L. Stevens (drawn by C. Cunningham),,4,104,106,-2,2688.0
+3:12.0, ,106-105,C. Cunningham makes free throw 1 of 2,,4,105,106,-1,2688.0
+3:12.0,B. Clarke enters the game for G. Jackson,106-105, ,,4,105,106,-1,2688.0
+3:12.0, ,106-105,J. Wiseman enters the game for T. Evbuomwan,,4,105,106,-1,2688.0
+3:12.0, ,106-106,C. Cunningham makes free throw 2 of 2,Tie,4,106,106,0,2688.0
+2:59.0,Shooting foul by C. Metu (drawn by J. Jackson),106-106, ,,4,106,106,0,2701.0
+2:59.0,J. Jackson makes free throw 1 of 2,107-106, ,,4,106,107,-1,2701.0
+2:59.0,J. Jackson makes free throw 2 of 2,108-106, ,,4,106,108,-2,2701.0
+2:41.0, ,108-106,C. Cunningham misses 2-pt layup from 5 ft (block by J. Jackson),,4,106,108,-2,2719.0
+2:39.0,Defensive rebound by L. Kennard,108-106, ,,4,106,108,-2,2721.0
+2:28.0,J. Jackson makes 2-pt layup from 2 ft,110-106, ,,4,106,110,-4,2732.0
+2:19.0, ,110-108,J. Wiseman makes 2-pt dunk from 2 ft (assist by J. Ivey),,4,108,110,-2,2741.0
+1:53.0,J. Jackson misses 2-pt layup from 4 ft,110-108, ,,4,108,110,-2,2767.0
+1:50.0,Offensive rebound by J. Jackson,110-108, ,,4,108,110,-2,2770.0
+1:49.0,J. Jackson misses 2-pt layup from 1 ft (block by E. Fournier),110-108, ,,4,108,110,-2,2771.0
+1:49.0, ,110-108,Defensive rebound by C. Cunningham,,4,108,110,-2,2771.0
+1:43.0, ,110-108,J. Ivey misses 3-pt jump shot from 23 ft,,4,108,110,-2,2777.0
+1:39.0,Defensive rebound by L. Kennard,110-108, ,,4,108,110,-2,2781.0
+1:21.0,L. Kennard misses 3-pt jump shot from 24 ft,110-108, ,,4,108,110,-2,2799.0
+1:17.0,Offensive rebound by J. Goodwin,110-108, ,,4,108,110,-2,2803.0
+1:17.0,J. Goodwin misses 2-pt layup at rim,110-108, ,,4,108,110,-2,2803.0
+1:16.0,Offensive rebound by J. Goodwin,110-108, ,,4,108,110,-2,2804.0
+1:07.0,L. Kennard misses 3-pt jump shot from 24 ft,110-108, ,,4,108,110,-2,2813.0
+1:04.0,Offensive rebound by Team,110-108, ,,4,108,110,-2,2816.0
+1:04.0, ,110-108,Detroit full timeout,,4,108,110,-2,2816.0
+1:04.0, ,110-108,Instant Replay (Challenge: Ruling Stands),,4,108,110,-2,2816.0
+1:04.0,G. Jackson enters the game for L. Stevens,110-108, ,,4,108,110,-2,2816.0
+0:50.0,G. Jackson misses 3-pt jump shot from 26 ft,110-108, ,,4,108,110,-2,2830.0
+0:46.0, ,110-108,Defensive rebound by C. Metu,,4,108,110,-2,2834.0
+0:36.0, ,110-108,C. Metu misses 3-pt jump shot from 23 ft,,4,108,110,-2,2844.0
+0:33.0,Defensive rebound by Team,110-108, ,,4,108,110,-2,2847.0
+0:33.0,Memphis full timeout,110-108, ,,4,108,110,-2,2847.0
+0:33.0, ,110-108,T. Evbuomwan enters the game for E. Fournier,,4,108,110,-2,2847.0
+0:11.0,J. Jackson misses 2-pt layup from 1 ft,110-108, ,,4,108,110,-2,2869.0
+0:09.0, ,110-108,Defensive rebound by J. Wiseman,,4,108,110,-2,2871.0
+0:00.0, ,110-108,C. Cunningham misses 2-pt jump shot from 12 ft,,4,108,110,-2,2880.0
+0:00.0, ,110-108,Offensive rebound by Team,,4,108,110,-2,2880.0
+0:00.0,End of 4th quarter,110-108,,,4,108,110,-2,2880.0

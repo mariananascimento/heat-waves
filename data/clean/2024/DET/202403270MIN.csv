@@ -1,0 +1,424 @@
+Time,Detroit,Score,Minnesota,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Duren vs. R. Gobert (M. Sasser gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,M. Sasser misses 2-pt jump shot from 19 ft,0-0, ,,1,0,0,0,17.0
+11:39.0,Offensive rebound by T. Evbuomwan,0-0, ,,1,0,0,0,21.0
+11:37.0,C. Cunningham misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,23.0
+11:35.0, ,0-0,Defensive rebound by R. Gobert,,1,0,0,0,25.0
+11:18.0, ,0-2,M. Conley makes 2-pt jump shot from 10 ft,,1,0,2,-2,42.0
+10:56.0,J. Duren makes 2-pt layup from 4 ft (assist by C. Metu),2-2, ,Tie,1,2,2,0,64.0
+10:43.0, ,2-2,Turnover by R. Gobert (bad pass; steal by M. Sasser),,1,2,2,0,77.0
+10:38.0,Shooting foul by J. McDaniels (drawn by T. Evbuomwan),2-2, ,,1,2,2,0,82.0
+10:38.0,T. Evbuomwan misses free throw 1 of 2,2-2, ,,1,2,2,0,82.0
+10:38.0,Offensive rebound by Team,2-2, ,,1,2,2,0,82.0
+10:38.0,T. Evbuomwan misses free throw 2 of 2,2-2, ,,1,2,2,0,82.0
+10:36.0, ,2-2,Defensive rebound by R. Gobert,,1,2,2,0,84.0
+10:28.0, ,2-4,J. McDaniels makes 2-pt dunk from 2 ft (assist by N. Reid),,1,2,4,-2,92.0
+10:16.0,C. Cunningham makes 2-pt jump shot from 13 ft,4-4, ,Tie,1,4,4,0,104.0
+9:57.0, ,4-4,Shooting foul by M. Sasser (drawn by M. Conley),,1,4,4,0,123.0
+9:57.0, ,4-5,M. Conley makes free throw 1 of 2,,1,4,5,-1,123.0
+9:57.0, ,4-6,M. Conley makes free throw 2 of 2,,1,4,6,-2,123.0
+9:43.0,C. Cunningham misses 2-pt jump shot from 17 ft (block by R. Gobert),4-6, ,,1,4,6,-2,137.0
+9:41.0, ,4-6,Defensive rebound by N. Reid,,1,4,6,-2,139.0
+9:35.0, ,4-8,N. Reid makes 2-pt layup from 1 ft (assist by M. Conley),,1,4,8,-4,145.0
+9:18.0,C. Cunningham makes 2-pt jump shot from 14 ft,6-8, ,,1,6,8,-2,162.0
+9:00.0, ,6-10,N. Reid makes 2-pt layup from 3 ft (assist by A. Edwards),,1,6,10,-4,180.0
+8:50.0,C. Cunningham makes 3-pt jump shot from 27 ft (assist by J. Duren),9-10, ,,1,9,10,-1,190.0
+8:22.0, ,9-10,Turnover by A. Edwards (bad pass),,1,9,10,-1,218.0
+8:05.0,J. Duren makes 2-pt layup from 3 ft (assist by M. Sasser),11-10, ,Lead change,1,11,10,1,235.0
+7:44.0, ,11-10,A. Edwards misses 2-pt jump shot from 17 ft,,1,11,10,1,256.0
+7:42.0, ,11-10,Offensive rebound by R. Gobert,,1,11,10,1,258.0
+7:39.0, ,11-12,N. Reid makes 2-pt dunk from 2 ft (assist by R. Gobert),Lead change,1,11,12,-1,261.0
+7:20.0,C. Cunningham makes 3-pt jump shot from 26 ft (assist by J. Duren),14-12, ,Lead change,1,14,12,2,280.0
+6:58.0, ,14-15,J. McDaniels makes 3-pt jump shot from 23 ft (assist by A. Edwards),Lead change,1,14,15,-1,302.0
+6:49.0,Turnover by J. Duren (back court),14-15, ,,1,14,15,-1,311.0
+6:49.0, ,14-15,Minnesota full timeout,,1,14,15,-1,311.0
+6:33.0, ,14-17,A. Edwards makes 2-pt jump shot from 10 ft,,1,14,17,-3,327.0
+6:17.0,Shooting foul by R. Gobert (drawn by J. Duren),14-17, ,,1,14,17,-3,343.0
+6:17.0,J. Duren misses free throw 1 of 2,14-17, ,,1,14,17,-3,343.0
+6:17.0,Offensive rebound by Team,14-17, ,,1,14,17,-3,343.0
+6:17.0,J. Duren makes free throw 2 of 2,15-17, ,,1,15,17,-2,343.0
+6:03.0, ,15-17,J. McDaniels misses 2-pt jump shot from 7 ft,,1,15,17,-2,357.0
+6:01.0,Defensive rebound by J. Duren,15-17, ,,1,15,17,-2,359.0
+6:01.0, ,15-17,K. Anderson enters the game for M. Conley,,1,15,17,-2,359.0
+6:01.0, ,15-17,M. Morris enters the game for R. Gobert,,1,15,17,-2,359.0
+5:41.0,C. Cunningham makes 2-pt jump shot from 17 ft (assist by J. Duren),17-17, ,Tie,1,17,17,0,379.0
+5:22.0, ,17-20,J. McDaniels makes 3-pt jump shot from 24 ft (assist by K. Anderson),,1,17,20,-3,398.0
+5:12.0,C. Cunningham misses 2-pt layup from 3 ft,17-20, ,,1,17,20,-3,408.0
+5:12.0,Offensive rebound by Team,17-20, ,,1,17,20,-3,408.0
+5:12.0,J. Wiseman enters the game for J. Duren,17-20, ,,1,17,20,-3,408.0
+5:05.0,Turnover by C. Cunningham (lost ball; steal by A. Edwards),17-20, ,,1,17,20,-3,415.0
+5:01.0, ,17-23,A. Edwards makes 3-pt jump shot from 26 ft,,1,17,23,-6,419.0
+4:40.0,C. Metu misses 2-pt dunk from 3 ft,17-23, ,,1,17,23,-6,440.0
+4:38.0, ,17-23,Defensive rebound by A. Edwards,,1,17,23,-6,442.0
+4:34.0, ,17-23,J. McDaniels misses 3-pt jump shot from 24 ft,,1,17,23,-6,446.0
+4:30.0,Defensive rebound by M. Sasser,17-23, ,,1,17,23,-6,450.0
+4:13.0,M. Sasser misses 2-pt jump shot from 20 ft,17-23, ,,1,17,23,-6,467.0
+4:10.0, ,17-23,Defensive rebound by M. Morris,,1,17,23,-6,470.0
+4:01.0, ,17-25,N. Reid makes 2-pt hook shot from 8 ft,,1,17,25,-8,479.0
+3:40.0,J. Wiseman makes 2-pt layup from 1 ft (assist by C. Cunningham),19-25, ,,1,19,25,-6,500.0
+3:40.0, ,19-25,Violation by Team (def goaltending),,1,19,25,-6,500.0
+3:29.0, ,19-25,N. Reid misses 3-pt jump shot from 28 ft,,1,19,25,-6,511.0
+3:29.0,Defensive rebound by C. Metu,19-25, ,,1,19,25,-6,511.0
+3:22.0,Turnover by C. Metu (lost ball; steal by M. Morris),19-25, ,,1,19,25,-6,518.0
+3:19.0, ,19-25,Shooting foul by M. Sasser (drawn by M. Morris),,1,19,25,-6,521.0
+3:19.0, ,19-26,M. Morris makes free throw 1 of 2,,1,19,26,-7,521.0
+3:19.0,T. Brown enters the game for C. Cunningham,19-26, ,,1,19,26,-7,521.0
+3:19.0,M. Flynn enters the game for C. Metu,19-26, ,,1,19,26,-7,521.0
+3:19.0,E. Fournier enters the game for M. Sasser,19-26, ,,1,19,26,-7,521.0
+3:19.0, ,19-26,N. Alexander-Walker enters the game for J. McDaniels,,1,19,26,-7,521.0
+3:19.0, ,19-26,R. Gobert enters the game for N. Reid,,1,19,26,-7,521.0
+3:19.0, ,19-26,M. Morris misses free throw 2 of 2,,1,19,26,-7,521.0
+3:15.0, ,19-26,Offensive rebound by R. Gobert,,1,19,26,-7,525.0
+3:13.0, ,19-28,R. Gobert makes 2-pt dunk from 1 ft,,1,19,28,-9,527.0
+2:49.0,E. Fournier misses 3-pt jump shot from 25 ft,19-28, ,,1,19,28,-9,551.0
+2:46.0, ,19-28,Defensive rebound by N. Alexander-Walker,,1,19,28,-9,554.0
+2:37.0, ,19-28,A. Edwards misses 3-pt jump shot from 25 ft,,1,19,28,-9,563.0
+2:34.0,Defensive rebound by J. Wiseman,19-28, ,,1,19,28,-9,566.0
+2:24.0,Shooting foul by R. Gobert (drawn by J. Wiseman),19-28, ,,1,19,28,-9,576.0
+2:24.0, ,19-28,Minnesota full timeout,,1,19,28,-9,576.0
+2:24.0, ,19-28,Instant Replay (Challenge: Stands),,1,19,28,-9,576.0
+2:24.0, ,19-28,N. Reid enters the game for R. Gobert,,1,19,28,-9,576.0
+2:24.0,J. Wiseman misses free throw 1 of 2,19-28, ,,1,19,28,-9,576.0
+2:24.0,Offensive rebound by Team,19-28, ,,1,19,28,-9,576.0
+2:24.0,J. Wiseman makes free throw 2 of 2,20-28, ,,1,20,28,-8,576.0
+2:04.0, ,20-28,N. Reid misses 3-pt jump shot from 27 ft,,1,20,28,-8,596.0
+2:00.0,Defensive rebound by T. Brown,20-28, ,,1,20,28,-8,600.0
+1:51.0,J. Wiseman misses 2-pt hook shot from 5 ft,20-28, ,,1,20,28,-8,609.0
+1:48.0, ,20-28,Defensive rebound by N. Reid,,1,20,28,-8,612.0
+1:26.0, ,20-28,A. Edwards misses 2-pt jump shot from 19 ft,,1,20,28,-8,634.0
+1:24.0,Defensive rebound by J. Wiseman,20-28, ,,1,20,28,-8,636.0
+1:12.0,T. Evbuomwan makes 3-pt jump shot from 23 ft (assist by T. Brown),23-28, ,,1,23,28,-5,648.0
+0:51.0, ,23-28,M. Morris misses 2-pt jump shot from 11 ft,,1,23,28,-5,669.0
+0:49.0,Defensive rebound by T. Brown,23-28, ,,1,23,28,-5,671.0
+0:34.0,M. Flynn makes 2-pt layup from 3 ft,25-28, ,,1,25,28,-3,686.0
+0:18.0, ,25-28,A. Edwards misses 2-pt jump shot from 8 ft,,1,25,28,-3,702.0
+0:16.0, ,25-28,Offensive rebound by Team,,1,25,28,-3,704.0
+0:16.0,Loose ball foul by T. Evbuomwan (drawn by K. Anderson),25-28, ,,1,25,28,-3,704.0
+0:03.0, ,25-30,N. Reid makes 2-pt jump shot from 10 ft,,1,25,30,-5,717.0
+0:00.0,T. Brown misses 2-pt layup from 5 ft,25-30, ,,1,25,30,-5,720.0
+0:00.0,Offensive rebound by Team,25-30, ,,1,25,30,-5,720.0
+0:00.0,End of 1st quarter,25-30,,,1,25,30,-5,720.0
+12:00.0,Start of 2nd quarter,25-30,,,2,25,30,-5,720.0
+11:36.0, ,25-32,K. Anderson makes 2-pt jump shot from 8 ft (assist by M. Conley),,2,25,32,-7,744.0
+11:13.0,T. Brown misses 3-pt jump shot from 24 ft,25-32, ,,2,25,32,-7,767.0
+11:11.0, ,25-32,Defensive rebound by K. Anderson,,2,25,32,-7,769.0
+10:54.0, ,25-32,Turnover by K. Anderson (bad pass; steal by E. Fournier),,2,25,32,-7,786.0
+10:50.0,C. Metu misses 3-pt jump shot from 26 ft,25-32, ,,2,25,32,-7,790.0
+10:46.0, ,25-32,Defensive rebound by K. Anderson,,2,25,32,-7,794.0
+10:38.0, ,25-32,Shooting foul by C. Metu (drawn by K. Anderson),,2,25,32,-7,802.0
+10:38.0, ,25-32,K. Anderson misses free throw 1 of 2,,2,25,32,-7,802.0
+10:38.0, ,25-32,Offensive rebound by Team,,2,25,32,-7,802.0
+10:38.0, ,25-33,K. Anderson makes free throw 2 of 2,,2,25,33,-8,802.0
+10:27.0,M. Flynn makes 3-pt jump shot from 26 ft (assist by T. Brown),28-33, ,,2,28,33,-5,813.0
+10:13.0, ,28-33,Turnover by M. Conley (back court),,2,28,33,-5,827.0
+10:03.0,M. Flynn makes 2-pt jump shot from 18 ft,30-33, ,,2,30,33,-3,837.0
+9:44.0, ,30-33,M. Conley misses 3-pt jump shot from 24 ft,,2,30,33,-3,856.0
+9:40.0,Defensive rebound by C. Metu,30-33, ,,2,30,33,-3,860.0
+9:21.0,C. Metu misses 2-pt jump shot from 11 ft,30-33, ,,2,30,33,-3,879.0
+9:18.0, ,30-33,Defensive rebound by R. Gobert,,2,30,33,-3,882.0
+9:09.0, ,30-33,K. Anderson misses 2-pt jump shot from 24 ft,,2,30,33,-3,891.0
+9:07.0,Defensive rebound by M. Flynn,30-33, ,,2,30,33,-3,893.0
+8:58.0,M. Flynn misses 2-pt layup from 7 ft,30-33, ,,2,30,33,-3,902.0
+8:55.0, ,30-33,Defensive rebound by R. Gobert,,2,30,33,-3,905.0
+8:52.0, ,30-33,M. Conley misses 3-pt jump shot from 24 ft,,2,30,33,-3,908.0
+8:48.0,Defensive rebound by M. Flynn,30-33, ,,2,30,33,-3,912.0
+8:31.0,J. Wiseman makes 2-pt layup from 1 ft,32-33, ,,2,32,33,-1,929.0
+8:04.0, ,32-33,N. Alexander-Walker misses 3-pt jump shot from 28 ft,,2,32,33,-1,956.0
+8:02.0,Defensive rebound by J. Wiseman,32-33, ,,2,32,33,-1,958.0
+7:54.0,Turnover by T. Brown (bad pass; steal by M. Conley),32-33, ,,2,32,33,-1,966.0
+7:47.0, ,32-35,R. Gobert makes 2-pt dunk at rim (assist by K. Anderson),,2,32,35,-3,973.0
+7:47.0,Detroit full timeout,32-35, ,,2,32,35,-3,973.0
+7:47.0, ,32-35,T. Warren enters the game for K. Anderson,,2,32,35,-3,973.0
+7:35.0,T. Brown misses 2-pt layup from 2 ft,32-35, ,,2,32,35,-3,985.0
+7:33.0, ,32-35,Defensive rebound by T. Warren,,2,32,35,-3,987.0
+7:29.0, ,32-35,J. McLaughlin misses 3-pt jump shot from 25 ft,,2,32,35,-3,991.0
+7:26.0,Defensive rebound by J. Wiseman,32-35, ,,2,32,35,-3,994.0
+7:04.0,E. Fournier misses 3-pt jump shot from 27 ft,32-35, ,,2,32,35,-3,1016.0
+7:01.0, ,32-35,Defensive rebound by R. Gobert,,2,32,35,-3,1019.0
+6:38.0, ,32-38,N. Alexander-Walker makes 3-pt jump shot from 25 ft (assist by M. Conley),,2,32,38,-6,1042.0
+6:23.0,J. Wiseman misses 2-pt jump shot from 17 ft,32-38, ,,2,32,38,-6,1057.0
+6:21.0, ,32-38,Defensive rebound by R. Gobert,,2,32,38,-6,1059.0
+6:21.0,C. Cunningham enters the game for M. Flynn,32-38, ,,2,32,38,-6,1059.0
+6:21.0,J. Duren enters the game for E. Fournier,32-38, ,,2,32,38,-6,1059.0
+6:21.0,M. Sasser enters the game for J. Wiseman,32-38, ,,2,32,38,-6,1059.0
+6:21.0, ,32-38,J. McDaniels enters the game for M. Conley,,2,32,38,-6,1059.0
+6:21.0, ,32-38,N. Reid enters the game for J. McLaughlin,,2,32,38,-6,1059.0
+5:57.0, ,32-40,R. Gobert makes 2-pt jump shot from 8 ft (assist by N. Alexander-Walker),,2,32,40,-8,1083.0
+5:42.0,C. Cunningham misses 2-pt jump shot from 17 ft,32-40, ,,2,32,40,-8,1098.0
+5:39.0, ,32-40,Defensive rebound by R. Gobert,,2,32,40,-8,1101.0
+5:34.0, ,32-40,N. Reid misses 2-pt layup from 6 ft (block by C. Metu),,2,32,40,-8,1106.0
+5:30.0,Defensive rebound by C. Metu,32-40, ,,2,32,40,-8,1110.0
+5:25.0,C. Cunningham misses 2-pt layup from 3 ft,32-40, ,,2,32,40,-8,1115.0
+5:23.0,Offensive rebound by J. Duren,32-40, ,,2,32,40,-8,1117.0
+5:19.0,M. Sasser misses 3-pt jump shot from 25 ft,32-40, ,,2,32,40,-8,1121.0
+5:16.0, ,32-40,Defensive rebound by R. Gobert,,2,32,40,-8,1124.0
+5:11.0, ,32-40,Turnover by R. Gobert (traveling),,2,32,40,-8,1129.0
+5:11.0,T. Evbuomwan enters the game for C. Metu,32-40, ,,2,32,40,-8,1129.0
+5:11.0, ,32-40,A. Edwards enters the game for R. Gobert,,2,32,40,-8,1129.0
+4:57.0,M. Sasser misses 3-pt jump shot from 25 ft,32-40, ,,2,32,40,-8,1143.0
+4:55.0, ,32-40,Defensive rebound by N. Reid,,2,32,40,-8,1145.0
+4:46.0, ,32-40,N. Reid misses 3-pt jump shot from 27 ft,,2,32,40,-8,1154.0
+4:41.0,Defensive rebound by J. Duren,32-40, ,,2,32,40,-8,1159.0
+4:33.0,Shooting foul by N. Reid (drawn by J. Duren),32-40, ,,2,32,40,-8,1167.0
+4:33.0,J. Duren makes free throw 1 of 2,33-40, ,,2,33,40,-7,1167.0
+4:33.0,J. Duren makes free throw 2 of 2,34-40, ,,2,34,40,-6,1167.0
+4:26.0, ,34-40,Turnover by N. Alexander-Walker (bad pass; steal by T. Brown),,2,34,40,-6,1174.0
+4:20.0,T. Brown makes 3-pt jump shot from 26 ft (assist by M. Sasser),37-40, ,,2,37,40,-3,1180.0
+3:57.0, ,37-40,J. McDaniels misses 3-pt jump shot from 24 ft,,2,37,40,-3,1203.0
+3:54.0, ,37-40,Offensive rebound by N. Reid,,2,37,40,-3,1206.0
+3:52.0, ,37-40,N. Alexander-Walker misses 3-pt jump shot from 25 ft,,2,37,40,-3,1208.0
+3:49.0,Defensive rebound by J. Duren,37-40, ,,2,37,40,-3,1211.0
+3:33.0,Shooting foul by N. Reid (drawn by C. Cunningham),37-40, ,,2,37,40,-3,1227.0
+3:33.0,C. Cunningham misses free throw 1 of 2,37-40, ,,2,37,40,-3,1227.0
+3:33.0,Offensive rebound by Team,37-40, ,,2,37,40,-3,1227.0
+3:33.0, ,37-40,M. Conley enters the game for N. Alexander-Walker,,2,37,40,-3,1227.0
+3:33.0,C. Cunningham makes free throw 2 of 2,38-40, ,,2,38,40,-2,1227.0
+3:22.0, ,38-40,N. Reid misses 3-pt jump shot from 26 ft,,2,38,40,-2,1238.0
+3:19.0,Defensive rebound by M. Sasser,38-40, ,,2,38,40,-2,1241.0
+3:16.0,J. Duren makes 2-pt dunk from 1 ft (assist by M. Sasser),40-40, ,Tie,2,40,40,0,1244.0
+2:56.0, ,40-40,A. Edwards misses 3-pt jump shot from 26 ft,,2,40,40,0,1264.0
+2:53.0,Defensive rebound by J. Duren,40-40, ,,2,40,40,0,1267.0
+2:47.0,M. Sasser makes 3-pt jump shot from 25 ft,43-40, ,Lead change,2,43,40,3,1273.0
+2:47.0, ,43-40,Minnesota full timeout,,2,43,40,3,1273.0
+2:47.0, ,43-40,R. Gobert enters the game for T. Warren,,2,43,40,3,1273.0
+2:32.0, ,43-40,M. Conley misses 3-pt jump shot from 26 ft,,2,43,40,3,1288.0
+2:27.0,Defensive rebound by T. Evbuomwan,43-40, ,,2,43,40,3,1293.0
+2:24.0,C. Cunningham makes 2-pt jump shot from 6 ft,45-40, ,,2,45,40,5,1296.0
+2:07.0, ,45-40,A. Edwards misses 3-pt jump shot from 23 ft,,2,45,40,5,1313.0
+2:04.0,Defensive rebound by C. Cunningham,45-40, ,,2,45,40,5,1316.0
+1:58.0,T. Brown misses 3-pt jump shot from 25 ft,45-40, ,,2,45,40,5,1322.0
+1:56.0, ,45-40,Defensive rebound by J. McDaniels,,2,45,40,5,1324.0
+1:36.0, ,45-42,J. McDaniels makes 2-pt layup from 1 ft (assist by M. Conley),,2,45,42,3,1344.0
+1:13.0,J. Duren misses 2-pt jump shot from 14 ft,45-42, ,,2,45,42,3,1367.0
+1:09.0, ,45-42,Defensive rebound by J. McDaniels,,2,45,42,3,1371.0
+0:55.0, ,45-45,N. Reid makes 3-pt jump shot from 26 ft (assist by A. Edwards),Tie,2,45,45,0,1385.0
+0:32.0,C. Cunningham misses 3-pt jump shot from 28 ft,45-45, ,,2,45,45,0,1408.0
+0:30.0, ,45-45,Defensive rebound by Team,,2,45,45,0,1410.0
+0:15.0, ,45-47,N. Reid makes 2-pt layup from 3 ft (assist by M. Conley),Lead change,2,45,47,-2,1425.0
+0:01.0,C. Cunningham misses 3-pt jump shot from 26 ft,45-47, ,,2,45,47,-2,1439.0
+0:01.0,Offensive rebound by Team,45-47, ,,2,45,47,-2,1439.0
+0:00.0,End of 2nd quarter,45-47,,,2,45,47,-2,1440.0
+12:00.0,Start of 3rd quarter,45-47,,,3,45,47,-2,1440.0
+11:48.0, ,45-47,Personal foul by J. Duren (drawn by R. Gobert),,3,45,47,-2,1452.0
+11:41.0, ,45-49,R. Gobert makes 2-pt layup from 3 ft (assist by A. Edwards),,3,45,49,-4,1459.0
+11:23.0,Turnover by J. Duren (bad pass; steal by M. Conley),45-49, ,,3,45,49,-4,1477.0
+11:13.0, ,45-49,J. McDaniels misses 3-pt jump shot from 23 ft,,3,45,49,-4,1487.0
+11:10.0,Defensive rebound by T. Evbuomwan,45-49, ,,3,45,49,-4,1490.0
+11:05.0,C. Cunningham misses 2-pt layup from 3 ft (block by M. Conley),45-49, ,,3,45,49,-4,1495.0
+11:04.0, ,45-49,Defensive rebound by Team,,3,45,49,-4,1496.0
+10:50.0, ,45-49,Turnover by R. Gobert (lost ball; steal by C. Cunningham),,3,45,49,-4,1510.0
+10:37.0,M. Sasser misses 3-pt jump shot from 25 ft,45-49, ,,3,45,49,-4,1523.0
+10:33.0,Offensive rebound by C. Metu,45-49, ,,3,45,49,-4,1527.0
+10:32.0,C. Metu misses 2-pt layup from 3 ft,45-49, ,,3,45,49,-4,1528.0
+10:29.0,Offensive rebound by J. Duren,45-49, ,,3,45,49,-4,1531.0
+10:27.0,J. Duren misses 2-pt hook shot from 6 ft,45-49, ,,3,45,49,-4,1533.0
+10:27.0, ,45-49,Defensive rebound by N. Reid,,3,45,49,-4,1533.0
+10:14.0, ,45-51,N. Reid makes 2-pt layup from 5 ft,,3,45,51,-6,1546.0
+10:01.0,C. Cunningham misses 2-pt jump shot from 4 ft,45-51, ,,3,45,51,-6,1559.0
+9:58.0, ,45-51,Defensive rebound by R. Gobert,,3,45,51,-6,1562.0
+9:41.0, ,45-51,N. Reid misses 2-pt hook shot from 9 ft,,3,45,51,-6,1579.0
+9:41.0,Defensive rebound by C. Metu,45-51, ,,3,45,51,-6,1579.0
+9:26.0,C. Cunningham makes 2-pt dunk from 3 ft (assist by M. Sasser),47-51, ,,3,47,51,-4,1594.0
+9:12.0, ,47-51,Turnover by A. Edwards (bad pass; steal by C. Metu),,3,47,51,-4,1608.0
+9:08.0,C. Metu makes 2-pt dunk from 2 ft,49-51, ,,3,49,51,-2,1612.0
+8:43.0, ,49-53,N. Reid makes 2-pt jump shot from 9 ft (assist by M. Conley),,3,49,53,-4,1637.0
+8:26.0,M. Sasser makes 2-pt layup from 3 ft (assist by J. Duren),51-53, ,,3,51,53,-2,1654.0
+8:11.0, ,51-53,J. McDaniels misses 3-pt jump shot from 23 ft,,3,51,53,-2,1669.0
+8:09.0,Defensive rebound by J. Duren,51-53, ,,3,51,53,-2,1671.0
+8:00.0,Shooting foul by M. Conley (drawn by M. Sasser),51-53, ,,3,51,53,-2,1680.0
+8:00.0,M. Sasser makes free throw 1 of 2,52-53, ,,3,52,53,-1,1680.0
+8:00.0,M. Sasser makes free throw 2 of 2,53-53, ,Tie,3,53,53,0,1680.0
+7:50.0, ,53-53,N. Reid misses 3-pt jump shot from 25 ft,,3,53,53,0,1690.0
+7:47.0,Defensive rebound by J. Duren,53-53, ,,3,53,53,0,1693.0
+7:40.0,C. Cunningham misses 3-pt jump shot from 26 ft,53-53, ,,3,53,53,0,1700.0
+7:38.0, ,53-53,Defensive rebound by N. Reid,,3,53,53,0,1702.0
+7:27.0, ,53-55,M. Conley makes 2-pt layup from 5 ft (assist by N. Reid),,3,53,55,-2,1713.0
+7:20.0,T. Evbuomwan misses 3-pt jump shot from 23 ft,53-55, ,,3,53,55,-2,1720.0
+7:16.0, ,53-55,Defensive rebound by N. Reid,,3,53,55,-2,1724.0
+7:11.0, ,53-55,M. Conley misses 2-pt layup from 3 ft,,3,53,55,-2,1729.0
+7:10.0,Defensive rebound by Team,53-55, ,,3,53,55,-2,1730.0
+7:10.0, ,53-55,Loose ball foul by R. Gobert (drawn by C. Cunningham),,3,53,55,-2,1730.0
+7:10.0, ,53-55,K. Anderson enters the game for M. Conley,,3,53,55,-2,1730.0
+7:10.0, ,53-55,M. Morris enters the game for N. Reid,,3,53,55,-2,1730.0
+6:56.0,C. Metu makes 2-pt dunk at rim (assist by M. Sasser),55-55, ,Tie,3,55,55,0,1744.0
+6:56.0,Shooting foul by K. Anderson (drawn by C. Metu),55-55, ,,3,55,55,0,1744.0
+6:56.0, ,55-55,Minnesota full timeout,,3,55,55,0,1744.0
+6:56.0, ,55-55,N. Reid enters the game for R. Gobert,,3,55,55,0,1744.0
+6:56.0,C. Metu makes free throw 1 of 1,56-55, ,Lead change,3,56,55,1,1744.0
+6:39.0, ,56-55,N. Reid misses 3-pt jump shot from 27 ft,,3,56,55,1,1761.0
+6:37.0,Defensive rebound by J. Duren,56-55, ,,3,56,55,1,1763.0
+6:21.0,Shooting foul by J. McDaniels (drawn by C. Cunningham),56-55, ,,3,56,55,1,1779.0
+6:21.0,C. Cunningham makes free throw 1 of 2,57-55, ,,3,57,55,2,1779.0
+6:21.0,C. Cunningham makes free throw 2 of 2,58-55, ,,3,58,55,3,1779.0
+6:06.0, ,58-55,M. Morris misses 3-pt jump shot from 26 ft,,3,58,55,3,1794.0
+6:04.0,Defensive rebound by J. Duren,58-55, ,,3,58,55,3,1796.0
+5:57.0,C. Cunningham makes 2-pt layup from 2 ft,60-55, ,,3,60,55,5,1803.0
+5:40.0, ,60-58,J. McDaniels makes 3-pt jump shot from 26 ft (assist by A. Edwards),,3,60,58,2,1820.0
+5:21.0,Turnover by J. Duren (bad pass; steal by K. Anderson),60-58, ,,3,60,58,2,1839.0
+5:15.0, ,60-60,A. Edwards makes 2-pt jump shot from 19 ft,Tie,3,60,60,0,1845.0
+5:04.0,C. Cunningham makes 2-pt layup from 1 ft,62-60, ,,3,62,60,2,1856.0
+4:58.0, ,62-60,Shooting foul by C. Metu (drawn by K. Anderson),,3,62,60,2,1862.0
+4:58.0, ,62-61,K. Anderson makes free throw 1 of 2,,3,62,61,1,1862.0
+4:58.0,T. Brown enters the game for J. Duren,62-61, ,,3,62,61,1,1862.0
+4:58.0,J. Wiseman enters the game for C. Metu,62-61, ,,3,62,61,1,1862.0
+4:58.0, ,62-62,K. Anderson makes free throw 2 of 2,Tie,3,62,62,0,1862.0
+4:47.0,Shooting foul by M. Morris (drawn by C. Cunningham),62-62, ,,3,62,62,0,1873.0
+4:47.0,C. Cunningham makes free throw 1 of 2,63-62, ,,3,63,62,1,1873.0
+4:47.0,C. Cunningham makes free throw 2 of 2,64-62, ,,3,64,62,2,1873.0
+4:34.0, ,64-64,K. Anderson makes 2-pt jump shot from 8 ft (assist by N. Reid),Tie,3,64,64,0,1886.0
+4:23.0,C. Cunningham misses 3-pt jump shot from 25 ft,64-64, ,,3,64,64,0,1897.0
+4:21.0, ,64-64,Defensive rebound by M. Morris,,3,64,64,0,1899.0
+4:11.0, ,64-64,A. Edwards misses 2-pt jump shot from 12 ft,,3,64,64,0,1909.0
+4:08.0, ,64-64,Offensive rebound by J. McDaniels,,3,64,64,0,1912.0
+4:07.0, ,64-66,J. McDaniels makes 2-pt jump shot from 8 ft,Lead change,3,64,66,-2,1913.0
+3:51.0,Shooting foul by M. Morris (drawn by J. Wiseman),64-66, ,,3,64,66,-2,1929.0
+3:51.0,J. Wiseman makes free throw 1 of 2,65-66, ,,3,65,66,-1,1929.0
+3:51.0,E. Fournier enters the game for M. Sasser,65-66, ,,3,65,66,-1,1929.0
+3:51.0, ,65-66,N. Alexander-Walker enters the game for J. McDaniels,,3,65,66,-1,1929.0
+3:51.0,J. Wiseman makes free throw 2 of 2,66-66, ,Tie,3,66,66,0,1929.0
+3:35.0, ,66-68,K. Anderson makes 2-pt jump shot from 7 ft,,3,66,68,-2,1945.0
+3:27.0,Detroit full timeout,66-68, ,,3,66,68,-2,1953.0
+3:27.0,M. Flynn enters the game for C. Cunningham,66-68, ,,3,66,68,-2,1953.0
+3:12.0,E. Fournier misses 2-pt jump shot from 17 ft,66-68, ,,3,66,68,-2,1968.0
+3:11.0,Offensive rebound by Team,66-68, ,,3,66,68,-2,1969.0
+2:59.0,M. Flynn misses 2-pt layup from 3 ft,66-68, ,,3,66,68,-2,1981.0
+2:58.0, ,66-68,Defensive rebound by N. Reid,,3,66,68,-2,1982.0
+2:50.0, ,66-70,K. Anderson makes 2-pt jump shot from 9 ft (assist by N. Alexander-Walker),,3,66,70,-4,1990.0
+2:50.0, ,66-70,Shooting foul by E. Fournier (drawn by K. Anderson),,3,66,70,-4,1990.0
+2:50.0, ,66-70,R. Gobert enters the game for N. Reid,,3,66,70,-4,1990.0
+2:50.0, ,66-71,K. Anderson makes free throw 1 of 1,,3,66,71,-5,1990.0
+2:30.0,Turnover by M. Flynn (bad pass; steal by K. Anderson),66-71, ,,3,66,71,-5,2010.0
+2:17.0, ,66-71,Turnover by K. Anderson (bad pass; steal by E. Fournier),,3,66,71,-5,2023.0
+2:10.0,T. Evbuomwan misses 3-pt jump shot from 24 ft,66-71, ,,3,66,71,-5,2030.0
+2:09.0, ,66-71,Defensive rebound by Team,,3,66,71,-5,2031.0
+2:09.0,Loose ball foul by J. Wiseman (drawn by R. Gobert),66-71, ,,3,66,71,-5,2031.0
+1:55.0, ,66-73,A. Edwards makes 2-pt layup from 2 ft (assist by K. Anderson),,3,66,73,-7,2045.0
+1:40.0,E. Fournier misses 3-pt jump shot from 25 ft,66-73, ,,3,66,73,-7,2060.0
+1:37.0, ,66-73,Defensive rebound by A. Edwards,,3,66,73,-7,2063.0
+1:31.0, ,66-73,Shooting foul by M. Flynn (drawn by A. Edwards),,3,66,73,-7,2069.0
+1:31.0, ,66-73,A. Edwards misses free throw 1 of 2,,3,66,73,-7,2069.0
+1:31.0, ,66-73,Offensive rebound by Team,,3,66,73,-7,2069.0
+1:31.0, ,66-73,A. Edwards misses free throw 2 of 2,,3,66,73,-7,2069.0
+1:28.0, ,66-73,Offensive rebound by A. Edwards,,3,66,73,-7,2072.0
+1:24.0, ,66-75,N. Alexander-Walker makes 2-pt jump shot from 11 ft (assist by K. Anderson),,3,66,75,-9,2076.0
+1:24.0, ,66-75,Shooting foul by M. Flynn (drawn by N. Alexander-Walker),,3,66,75,-9,2076.0
+1:24.0, ,66-75,N. Alexander-Walker misses free throw 1 of 1,,3,66,75,-9,2076.0
+1:22.0,Defensive rebound by T. Evbuomwan,66-75, ,,3,66,75,-9,2078.0
+1:02.0,Turnover by E. Fournier (out of bounds lost ball),66-75, ,,3,66,75,-9,2098.0
+0:50.0, ,66-75,K. Anderson misses 2-pt hook shot from 3 ft,,3,66,75,-9,2110.0
+0:48.0, ,66-75,Offensive rebound by R. Gobert,,3,66,75,-9,2112.0
+0:46.0, ,66-78,N. Alexander-Walker makes 3-pt jump shot from 25 ft (assist by R. Gobert),,3,66,78,-12,2114.0
+0:24.0,E. Fournier misses 3-pt jump shot from 24 ft,66-78, ,,3,66,78,-12,2136.0
+0:20.0, ,66-78,Defensive rebound by K. Anderson,,3,66,78,-12,2140.0
+0:01.0, ,66-78,Turnover by A. Edwards (lost ball; steal by T. Brown),,3,66,78,-12,2159.0
+0:00.0,End of 3rd quarter,66-78,,,3,66,78,-12,2160.0
+12:00.0,Start of 4th quarter,66-78,,,4,66,78,-12,2160.0
+11:46.0,M. Flynn misses 3-pt jump shot from 26 ft,66-78, ,,4,66,78,-12,2174.0
+11:42.0,Offensive rebound by C. Metu,66-78, ,,4,66,78,-12,2178.0
+11:35.0,E. Fournier misses 2-pt jump shot from 11 ft,66-78, ,,4,66,78,-12,2185.0
+11:31.0, ,66-78,Defensive rebound by K. Anderson,,4,66,78,-12,2189.0
+11:28.0, ,66-78,Turnover by M. Morris (bad pass; steal by E. Fournier),,4,66,78,-12,2192.0
+11:11.0,M. Flynn makes 2-pt jump shot from 15 ft,68-78, ,,4,68,78,-10,2209.0
+10:48.0, ,68-81,M. Conley makes 3-pt jump shot from 25 ft (assist by M. Morris),,4,68,81,-13,2232.0
+10:40.0,Personal foul by M. Conley (drawn by T. Brown),68-81, ,,4,68,81,-13,2240.0
+10:40.0, ,68-81,J. McLaughlin enters the game for M. Morris,,4,68,81,-13,2240.0
+10:28.0,Personal foul by R. Gobert (drawn by J. Wiseman),68-81, ,,4,68,81,-13,2252.0
+10:22.0,M. Flynn makes 2-pt jump shot from 15 ft,70-81, ,,4,70,81,-11,2258.0
+10:22.0,M. Sasser enters the game for E. Fournier,70-81, ,,4,70,81,-11,2258.0
+10:05.0,Jump ball: R. Gobert vs. T. Brown (K. Anderson gains possession),70-81,,,4,70,81,-11,2275.0
+9:56.0, ,70-84,J. McLaughlin makes 3-pt jump shot from 25 ft (assist by K. Anderson),,4,70,84,-14,2284.0
+9:42.0,M. Sasser misses 2-pt jump shot from 11 ft (block by R. Gobert),70-84, ,,4,70,84,-14,2298.0
+9:38.0,Offensive rebound by T. Brown,70-84, ,,4,70,84,-14,2302.0
+9:38.0,Turnover by M. Flynn (out of bounds lost ball),70-84, ,,4,70,84,-14,2302.0
+9:29.0, ,70-84,M. Conley misses 3-pt jump shot from 23 ft,,4,70,84,-14,2311.0
+9:26.0,Defensive rebound by M. Flynn,70-84, ,,4,70,84,-14,2314.0
+9:17.0,T. Brown misses 2-pt layup from 2 ft,70-84, ,,4,70,84,-14,2323.0
+9:17.0,Offensive rebound by Team,70-84, ,,4,70,84,-14,2323.0
+9:09.0,T. Brown makes 2-pt jump shot from 16 ft,72-84, ,,4,72,84,-12,2331.0
+8:46.0, ,72-84,Turnover by M. Conley (bad pass; steal by C. Metu),,4,72,84,-12,2354.0
+8:40.0,Turnover by C. Metu (bad pass),72-84, ,,4,72,84,-12,2360.0
+8:25.0, ,72-84,K. Anderson misses 2-pt jump shot from 9 ft,,4,72,84,-12,2375.0
+8:23.0, ,72-84,Offensive rebound by R. Gobert,,4,72,84,-12,2377.0
+8:22.0, ,72-87,N. Alexander-Walker makes 3-pt jump shot from 26 ft (assist by R. Gobert),,4,72,87,-15,2378.0
+8:04.0,M. Flynn makes 3-pt jump shot from 27 ft,75-87, ,,4,75,87,-12,2396.0
+7:34.0, ,75-89,K. Anderson makes 2-pt layup from 2 ft (assist by M. Conley),,4,75,89,-14,2426.0
+7:34.0,Detroit full timeout,75-89, ,,4,75,89,-14,2426.0
+7:34.0,C. Cunningham enters the game for M. Flynn,75-89, ,,4,75,89,-14,2426.0
+7:34.0,J. Duren enters the game for J. Wiseman,75-89, ,,4,75,89,-14,2426.0
+7:34.0, ,75-89,J. McDaniels enters the game for M. Conley,,4,75,89,-14,2426.0
+7:19.0,C. Metu makes 3-pt jump shot from 26 ft,78-89, ,,4,78,89,-11,2441.0
+6:49.0, ,78-89,N. Alexander-Walker misses 3-pt jump shot from 23 ft,,4,78,89,-11,2471.0
+6:47.0, ,78-89,Offensive rebound by R. Gobert,,4,78,89,-11,2473.0
+6:46.0, ,78-91,R. Gobert makes 2-pt layup from 2 ft,,4,78,91,-13,2474.0
+6:46.0, ,78-91,Shooting foul by C. Metu (drawn by R. Gobert),,4,78,91,-13,2474.0
+6:46.0, ,78-91,N. Reid enters the game for K. Anderson,,4,78,91,-13,2474.0
+6:46.0, ,78-92,R. Gobert makes free throw 1 of 1,,4,78,92,-14,2474.0
+6:33.0,C. Cunningham makes 2-pt jump shot from 13 ft,80-92, ,,4,80,92,-12,2487.0
+6:20.0, ,80-92,Personal foul by M. Sasser (drawn by R. Gobert),,4,80,92,-12,2500.0
+6:15.0, ,80-92,Shooting foul by M. Sasser (drawn by N. Reid),,4,80,92,-12,2505.0
+6:15.0, ,80-93,N. Reid makes free throw 1 of 2,,4,80,93,-13,2505.0
+6:15.0, ,80-94,N. Reid makes free throw 2 of 2,,4,80,94,-14,2505.0
+5:54.0,Shooting foul by J. McDaniels (drawn by C. Cunningham),80-94, ,,4,80,94,-14,2526.0
+5:54.0,C. Cunningham makes free throw 1 of 2,81-94, ,,4,81,94,-13,2526.0
+5:54.0,C. Cunningham makes free throw 2 of 2,82-94, ,,4,82,94,-12,2526.0
+5:39.0, ,82-94,N. Alexander-Walker misses 2-pt layup from 5 ft,,4,82,94,-12,2541.0
+5:37.0, ,82-94,Offensive rebound by J. McLaughlin,,4,82,94,-12,2543.0
+5:31.0, ,82-94,J. McDaniels misses 2-pt jump shot from 17 ft,,4,82,94,-12,2549.0
+5:27.0,Defensive rebound by M. Sasser,82-94, ,,4,82,94,-12,2553.0
+5:21.0,Turnover by M. Sasser (lost ball; steal by N. Alexander-Walker),82-94, ,,4,82,94,-12,2559.0
+5:14.0, ,82-96,J. McDaniels makes 2-pt jump shot from 9 ft,,4,82,96,-14,2566.0
+5:14.0, ,82-96,Shooting foul by C. Metu (drawn by J. McDaniels),,4,82,96,-14,2566.0
+5:14.0, ,82-97,J. McDaniels makes free throw 1 of 1,,4,82,97,-15,2566.0
+4:52.0,C. Cunningham makes 3-pt jump shot from 26 ft (assist by C. Metu),85-97, ,,4,85,97,-12,2588.0
+4:36.0, ,85-99,J. McLaughlin makes 2-pt layup from 1 ft,,4,85,99,-14,2604.0
+4:23.0,C. Cunningham misses 2-pt jump shot from 17 ft,85-99, ,,4,85,99,-14,2617.0
+4:22.0, ,85-99,Defensive rebound by J. McDaniels,,4,85,99,-14,2618.0
+4:20.0, ,85-99,Minnesota full timeout,,4,85,99,-14,2620.0
+4:10.0, ,85-99,N. Reid misses 3-pt jump shot from 26 ft,,4,85,99,-14,2630.0
+4:08.0,Defensive rebound by C. Metu,85-99, ,,4,85,99,-14,2632.0
+3:53.0,J. Duren makes 2-pt dunk from 2 ft (assist by C. Cunningham),87-99, ,,4,87,99,-12,2647.0
+3:35.0, ,87-102,J. McLaughlin makes 3-pt jump shot from 23 ft (assist by R. Gobert),,4,87,102,-15,2665.0
+3:12.0,T. Brown misses 3-pt jump shot from 23 ft,87-102, ,,4,87,102,-15,2688.0
+3:09.0,Offensive rebound by J. Duren,87-102, ,,4,87,102,-15,2691.0
+3:03.0,C. Metu misses 3-pt jump shot from 24 ft,87-102, ,,4,87,102,-15,2697.0
+3:01.0, ,87-102,Defensive rebound by N. Reid,,4,87,102,-15,2699.0
+3:00.0, ,87-102,Minnesota full timeout,,4,87,102,-15,2700.0
+2:48.0, ,87-104,J. McDaniels makes 2-pt jump shot from 7 ft (assist by N. Reid),,4,87,104,-17,2712.0
+2:27.0,M. Sasser misses 3-pt jump shot from 25 ft,87-104, ,,4,87,104,-17,2733.0
+2:25.0, ,87-104,Defensive rebound by N. Reid,,4,87,104,-17,2735.0
+2:12.0, ,87-104,N. Alexander-Walker misses 3-pt jump shot from 25 ft,,4,87,104,-17,2748.0
+2:11.0,Defensive rebound by Team,87-104, ,,4,87,104,-17,2749.0
+2:11.0,M. Flynn enters the game for C. Cunningham,87-104, ,,4,87,104,-17,2749.0
+2:11.0,J. Wiseman enters the game for J. Duren,87-104, ,,4,87,104,-17,2749.0
+2:11.0, ,87-104,L. Garza enters the game for N. Alexander-Walker,,4,87,104,-17,2749.0
+2:11.0, ,87-104,J. Minott enters the game for R. Gobert,,4,87,104,-17,2749.0
+2:11.0, ,87-104,T. Warren enters the game for J. McDaniels,,4,87,104,-17,2749.0
+2:10.0,Personal take foul by J. McLaughlin (drawn by M. Sasser),87-104, ,,4,87,104,-17,2750.0
+2:10.0,B. Boeheim enters the game for C. Metu,87-104, ,,4,87,104,-17,2750.0
+2:10.0, ,87-104,L. Miller enters the game for J. McLaughlin,,4,87,104,-17,2750.0
+2:10.0, ,87-104,W. Moore enters the game for N. Reid,,4,87,104,-17,2750.0
+1:56.0,Shooting foul by T. Warren (drawn by J. Wiseman),87-104, ,,4,87,104,-17,2764.0
+1:56.0,J. Wiseman makes free throw 1 of 2,88-104, ,,4,88,104,-16,2764.0
+1:56.0,J. Rhoden enters the game for T. Brown,88-104, ,,4,88,104,-16,2764.0
+1:56.0,J. Wiseman makes free throw 2 of 2,89-104, ,,4,89,104,-15,2764.0
+1:47.0, ,89-104,W. Moore misses 2-pt jump shot from 17 ft,,4,89,104,-15,2773.0
+1:43.0,Defensive rebound by B. Boeheim,89-104, ,,4,89,104,-15,2777.0
+1:30.0,Shooting foul by L. Garza (drawn by J. Wiseman),89-104, ,,4,89,104,-15,2790.0
+1:30.0,J. Wiseman makes free throw 1 of 2,90-104, ,,4,90,104,-14,2790.0
+1:30.0,J. Wiseman makes free throw 2 of 2,91-104, ,,4,91,104,-13,2790.0
+1:19.0, ,91-104,L. Garza misses 3-pt jump shot from 26 ft,,4,91,104,-13,2801.0
+1:16.0,Defensive rebound by M. Sasser,91-104, ,,4,91,104,-13,2804.0
+1:12.0,B. Boeheim misses 3-pt jump shot from 24 ft,91-104, ,,4,91,104,-13,2808.0
+1:10.0,Offensive rebound by Team,91-104, ,,4,91,104,-13,2810.0
+1:06.0,J. Rhoden misses 2-pt jump shot from 20 ft,91-104, ,,4,91,104,-13,2814.0
+1:06.0, ,91-104,Defensive rebound by Team,,4,91,104,-13,2814.0
+0:49.0, ,91-106,L. Garza makes 2-pt jump shot from 9 ft,,4,91,106,-15,2831.0
+0:42.0,M. Sasser misses 2-pt jump shot from 8 ft,91-106, ,,4,91,106,-15,2838.0
+0:36.0,Offensive rebound by M. Flynn,91-106, ,,4,91,106,-15,2844.0
+0:33.0,B. Boeheim misses 2-pt jump shot from 9 ft,91-106, ,,4,91,106,-15,2847.0
+0:29.0,Offensive rebound by J. Rhoden,91-106, ,,4,91,106,-15,2851.0
+0:29.0, ,91-106,Violation by Team (kicked ball),,4,91,106,-15,2851.0
+0:20.0,M. Sasser misses 3-pt jump shot from 25 ft,91-106, ,,4,91,106,-15,2860.0
+0:15.0,Offensive rebound by M. Flynn,91-106, ,,4,91,106,-15,2865.0
+0:12.0,Turnover by J. Wiseman (lost ball; steal by J. Minott),91-106, ,,4,91,106,-15,2868.0
+0:00.0,End of 4th quarter,91-106,,,4,91,106,-15,2880.0

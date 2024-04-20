@@ -1,0 +1,433 @@
+Time,Orlando,Score,Detroit,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: W. Carter vs. J. Duren (J. Suggs gains possession),0-0,,,1,0,0,0,0.0
+11:40.0,G. Harris makes 3-pt jump shot from 25 ft (assist by F. Wagner),3-0, ,,1,0,3,-3,20.0
+11:20.0, ,3-3,J. Ivey makes 3-pt jump shot from 27 ft (assist by C. Cunningham),Tie,1,3,3,0,40.0
+11:03.0,Turnover by F. Wagner (traveling),3-3, ,,1,3,3,0,57.0
+10:52.0, ,3-3,C. Cunningham misses 2-pt layup from 3 ft,,1,3,3,0,68.0
+10:50.0,Defensive rebound by G. Harris,3-3, ,,1,3,3,0,70.0
+10:38.0,F. Wagner misses 2-pt layup from 2 ft (block by J. Duren),3-3, ,,1,3,3,0,82.0
+10:36.0, ,3-3,Defensive rebound by C. Cunningham,,1,3,3,0,84.0
+10:32.0, ,3-3,C. Cunningham misses 3-pt jump shot from 26 ft,,1,3,3,0,88.0
+10:27.0,Defensive rebound by P. Banchero,3-3, ,,1,3,3,0,93.0
+10:20.0,W. Carter makes 2-pt hook shot from 7 ft (assist by P. Banchero),5-3, ,,1,3,5,-2,100.0
+10:02.0, ,5-5,J. Duren makes 2-pt layup from 2 ft (assist by S. Fontecchio),Tie,1,5,5,0,118.0
+10:02.0, ,5-5,Shooting foul by W. Carter (drawn by J. Duren),,1,5,5,0,118.0
+10:02.0, ,5-5,J. Duren misses free throw 1 of 1,,1,5,5,0,118.0
+10:00.0,Defensive rebound by W. Carter,5-5, ,,1,5,5,0,120.0
+9:49.0,P. Banchero makes 2-pt jump shot from 9 ft,7-5, ,,1,5,7,-2,131.0
+9:49.0,Shooting foul by C. Cunningham (drawn by P. Banchero),7-5, ,,1,5,7,-2,131.0
+9:49.0,P. Banchero misses free throw 1 of 1,7-5, ,,1,5,7,-2,131.0
+9:47.0, ,7-5,Defensive rebound by A. Thompson,,1,5,7,-2,133.0
+9:41.0, ,7-5,J. Ivey misses 3-pt jump shot from 24 ft,,1,5,7,-2,139.0
+9:37.0,Defensive rebound by P. Banchero,7-5, ,,1,5,7,-2,143.0
+9:29.0,Personal foul by A. Thompson (drawn by F. Wagner),7-5, ,,1,5,7,-2,151.0
+9:16.0,F. Wagner makes 2-pt hook shot from 4 ft (assist by P. Banchero),9-5, ,,1,5,9,-4,164.0
+9:00.0, ,9-7,C. Cunningham makes 2-pt layup from 3 ft (assist by J. Duren),,1,7,9,-2,180.0
+8:47.0,P. Banchero misses 2-pt layup from 3 ft,9-7, ,,1,7,9,-2,193.0
+8:46.0, ,9-7,Defensive rebound by J. Duren,,1,7,9,-2,194.0
+8:35.0, ,9-9,S. Fontecchio makes 2-pt jump shot from 17 ft (assist by J. Ivey),Tie,1,9,9,0,205.0
+8:09.0,Turnover by F. Wagner (lost ball; steal by J. Duren),9-9, ,,1,9,9,0,231.0
+8:08.0, ,9-9,Shooting foul by J. Suggs (drawn by J. Duren),,1,9,9,0,232.0
+8:08.0, ,9-10,J. Duren makes free throw 1 of 2,Lead change,1,10,9,1,232.0
+8:08.0,G. Bitadze enters the game for W. Carter,9-10, ,,1,10,9,1,232.0
+8:08.0, ,9-10,J. Duren misses free throw 2 of 2,,1,10,9,1,232.0
+8:05.0,Defensive rebound by P. Banchero,9-10, ,,1,10,9,1,235.0
+7:50.0,J. Suggs makes 2-pt jump shot from 6 ft (assist by P. Banchero),11-10, ,Lead change,1,10,11,-1,250.0
+7:42.0, ,11-10,Personal foul by G. Harris (drawn by C. Cunningham),,1,10,11,-1,258.0
+7:31.0, ,11-12,J. Duren makes 2-pt jump shot from 5 ft,Lead change,1,12,11,1,269.0
+7:11.0,P. Banchero misses 2-pt jump shot from 14 ft,11-12, ,,1,12,11,1,289.0
+7:09.0,Offensive rebound by Team,11-12, ,,1,12,11,1,291.0
+7:04.0,G. Bitadze misses 3-pt jump shot from 25 ft,11-12, ,,1,12,11,1,296.0
+7:00.0,Offensive rebound by J. Suggs,11-12, ,,1,12,11,1,300.0
+6:59.0,J. Suggs makes 2-pt layup from 1 ft,13-12, ,Lead change,1,12,13,-1,301.0
+6:52.0, ,13-14,A. Thompson makes 2-pt jump shot from 11 ft,Lead change,1,14,13,1,308.0
+6:36.0,P. Banchero misses 2-pt layup from 3 ft,13-14, ,,1,14,13,1,324.0
+6:35.0,Offensive rebound by G. Bitadze,13-14, ,,1,14,13,1,325.0
+6:33.0,G. Bitadze makes 2-pt layup at rim,15-14, ,Lead change,1,14,15,-1,327.0
+6:27.0, ,15-14,S. Fontecchio misses 3-pt jump shot from 26 ft,,1,14,15,-1,333.0
+6:24.0,Defensive rebound by F. Wagner,15-14, ,,1,14,15,-1,336.0
+6:23.0,Personal foul by A. Thompson (drawn by F. Wagner),15-14, ,,1,14,15,-1,337.0
+6:23.0, ,15-14,Detroit full timeout,,1,14,15,-1,337.0
+6:23.0, ,15-14,Q. Grimes enters the game for A. Thompson,,1,14,15,-1,337.0
+6:10.0,J. Suggs makes 2-pt jump shot from 14 ft,17-14, ,,1,14,17,-3,350.0
+5:47.0, ,17-14,S. Fontecchio misses 2-pt dunk from 2 ft (block by G. Bitadze),,1,14,17,-3,373.0
+5:45.0,Defensive rebound by F. Wagner,17-14, ,,1,14,17,-3,375.0
+5:38.0,G. Harris makes 3-pt jump shot from 26 ft (assist by G. Bitadze),20-14, ,,1,14,20,-6,382.0
+5:38.0,Shooting foul by J. Ivey (drawn by G. Harris),20-14, ,,1,14,20,-6,382.0
+5:38.0,G. Harris misses free throw 1 of 1,20-14, ,,1,14,20,-6,382.0
+5:38.0, ,20-14,Defensive rebound by J. Duren,,1,14,20,-6,382.0
+5:21.0, ,20-16,C. Cunningham makes 2-pt layup from 2 ft,,1,16,20,-4,399.0
+5:04.0,P. Banchero misses 2-pt jump shot from 10 ft,20-16, ,,1,16,20,-4,416.0
+5:03.0, ,20-16,Defensive rebound by C. Cunningham,,1,16,20,-4,417.0
+4:58.0, ,20-19,S. Fontecchio makes 3-pt jump shot from 25 ft (assist by C. Cunningham),,1,19,20,-1,422.0
+4:31.0,J. Suggs makes 3-pt jump shot from 27 ft (assist by G. Bitadze),23-19, ,,1,19,23,-4,449.0
+4:17.0, ,23-22,C. Cunningham makes 3-pt jump shot from 26 ft (assist by J. Ivey),,1,22,23,-1,463.0
+3:56.0,F. Wagner makes 2-pt jump shot from 7 ft,25-22, ,,1,22,25,-3,484.0
+3:56.0,Shooting foul by Q. Grimes (drawn by F. Wagner),25-22, ,,1,22,25,-3,484.0
+3:56.0,A. Black enters the game for J. Suggs,25-22, ,,1,22,25,-3,484.0
+3:56.0, ,25-22,E. Fournier enters the game for J. Duren,,1,22,25,-3,484.0
+3:56.0, ,25-22,J. Wiseman enters the game for J. Ivey,,1,22,25,-3,484.0
+3:56.0,F. Wagner makes free throw 1 of 1,26-22, ,,1,22,26,-4,484.0
+3:41.0, ,26-22,S. Fontecchio misses 2-pt layup from 6 ft (block by G. Bitadze),,1,22,26,-4,499.0
+3:36.0,Defensive rebound by F. Wagner,26-22, ,,1,22,26,-4,504.0
+3:33.0,P. Banchero makes 2-pt dunk from 1 ft (assist by F. Wagner),28-22, ,,1,22,28,-6,507.0
+3:15.0, ,28-25,E. Fournier makes 3-pt jump shot from 23 ft (assist by C. Cunningham),,1,25,28,-3,525.0
+2:59.0,Turnover by F. Wagner (bad pass),28-25, ,,1,25,28,-3,541.0
+2:59.0,Orlando full timeout,28-25, ,,1,25,28,-3,541.0
+2:59.0,C. Anthony enters the game for P. Banchero,28-25, ,,1,25,28,-3,541.0
+2:59.0,J. Ingles enters the game for G. Harris,28-25, ,,1,25,28,-3,541.0
+2:59.0,J. Isaac enters the game for F. Wagner,28-25, ,,1,25,28,-3,541.0
+2:59.0, ,28-25,M. Flynn enters the game for C. Cunningham,,1,25,28,-3,541.0
+2:48.0, ,28-27,E. Fournier makes 2-pt jump shot from 7 ft (assist by M. Flynn),,1,27,28,-1,552.0
+2:29.0,C. Anthony misses 2-pt jump shot from 10 ft,28-27, ,,1,27,28,-1,571.0
+2:25.0,Offensive rebound by G. Bitadze,28-27, ,,1,27,28,-1,575.0
+2:13.0,G. Bitadze misses 2-pt layup from 4 ft (block by J. Wiseman),28-27, ,,1,27,28,-1,587.0
+2:10.0, ,28-27,Defensive rebound by Q. Grimes,,1,27,28,-1,590.0
+2:05.0, ,28-27,Q. Grimes misses 3-pt jump shot from 25 ft,,1,27,28,-1,595.0
+2:00.0,Defensive rebound by J. Isaac,28-27, ,,1,27,28,-1,600.0
+1:47.0,J. Isaac misses 2-pt jump shot from 14 ft,28-27, ,,1,27,28,-1,613.0
+1:45.0, ,28-27,Defensive rebound by Q. Grimes,,1,27,28,-1,615.0
+1:34.0, ,28-27,Shooting foul by G. Bitadze (drawn by J. Wiseman),,1,27,28,-1,626.0
+1:34.0, ,28-28,J. Wiseman makes free throw 1 of 2,Tie,1,28,28,0,626.0
+1:34.0, ,28-28,T. Brown enters the game for S. Fontecchio,,1,28,28,0,626.0
+1:34.0, ,28-28,J. Wiseman misses free throw 2 of 2,,1,28,28,0,626.0
+1:32.0,Defensive rebound by J. Isaac,28-28, ,,1,28,28,0,628.0
+1:13.0,J. Ingles misses 2-pt jump shot from 5 ft,28-28, ,,1,28,28,0,647.0
+1:11.0, ,28-28,Defensive rebound by E. Fournier,,1,28,28,0,649.0
+1:03.0, ,28-28,E. Fournier misses 2-pt layup from 7 ft (block by G. Bitadze),,1,28,28,0,657.0
+1:01.0,Defensive rebound by J. Isaac,28-28, ,,1,28,28,0,659.0
+0:50.0,C. Anthony makes 2-pt jump shot from 7 ft,30-28, ,,1,28,30,-2,670.0
+0:32.0, ,30-30,M. Flynn makes 2-pt layup from 3 ft,Tie,1,30,30,0,688.0
+0:11.0,C. Anthony makes 2-pt jump shot from 6 ft,32-30, ,,1,30,32,-2,709.0
+0:02.0, ,32-30,Q. Grimes misses 3-pt jump shot from 23 ft,,1,30,32,-2,718.0
+0:02.0, ,32-30,Offensive rebound by T. Brown,,1,30,32,-2,718.0
+0:01.0, ,32-30,T. Brown misses 2-pt layup from 2 ft (block by J. Isaac),,1,30,32,-2,719.0
+0:01.0,Defensive rebound by Team,32-30, ,,1,30,32,-2,719.0
+0:00.0,End of 1st quarter,32-30,,,1,30,32,-2,720.0
+12:00.0,Start of 2nd quarter,32-30,,,2,30,32,-2,720.0
+11:45.0, ,32-30,M. Flynn misses 3-pt jump shot from 28 ft,,2,30,32,-2,735.0
+11:42.0, ,32-30,Offensive rebound by J. Wiseman,,2,30,32,-2,738.0
+11:37.0, ,32-33,M. Flynn makes 3-pt jump shot from 26 ft (assist by Q. Grimes),Lead change,2,33,32,1,743.0
+11:09.0,A. Black makes 3-pt jump shot from 23 ft (assist by C. Anthony),35-33, ,Lead change,2,33,35,-2,771.0
+10:53.0, ,35-33,J. Wiseman misses 2-pt layup from 3 ft,,2,33,35,-2,787.0
+10:50.0,Defensive rebound by J. Ingles,35-33, ,,2,33,35,-2,790.0
+10:37.0,A. Black misses 2-pt layup from 4 ft,35-33, ,,2,33,35,-2,803.0
+10:36.0, ,35-33,Defensive rebound by T. Brown,,2,33,35,-2,804.0
+10:26.0, ,35-33,Personal foul by C. Anthony (drawn by J. Wiseman),,2,33,35,-2,814.0
+10:19.0, ,35-33,M. Flynn misses 2-pt jump shot from 8 ft,,2,33,35,-2,821.0
+10:17.0,Defensive rebound by M. Wagner,35-33, ,,2,33,35,-2,823.0
+10:08.0,Turnover by J. Ingles (bad pass; steal by Q. Grimes),35-33, ,,2,33,35,-2,832.0
+10:05.0, ,35-35,Q. Grimes makes 2-pt dunk at rim,Tie,2,35,35,0,835.0
+9:48.0,J. Ingles misses 3-pt jump shot from 26 ft,35-35, ,,2,35,35,0,852.0
+9:48.0, ,35-35,Defensive rebound by T. Brown,,2,35,35,0,852.0
+9:33.0, ,35-35,Turnover by Q. Grimes (bad pass; steal by J. Isaac),,2,35,35,0,867.0
+9:20.0,M. Wagner makes 2-pt dunk from 1 ft (assist by C. Anthony),37-35, ,,2,35,37,-2,880.0
+8:59.0, ,37-35,Def 3 sec tech foul by Team,,2,35,37,-2,901.0
+8:59.0, ,37-36,E. Fournier makes technical free throw,,2,36,37,-1,901.0
+8:59.0, ,37-36,J. Ivey enters the game for E. Fournier,,2,36,37,-1,901.0
+8:52.0, ,37-39,J. Ivey makes 3-pt jump shot from 27 ft (assist by J. Wiseman),Lead change,2,39,37,2,908.0
+8:35.0,C. Anthony makes 2-pt jump shot from 8 ft,39-39, ,Tie,2,39,39,0,925.0
+8:20.0, ,39-39,M. Flynn misses 2-pt jump shot from 11 ft,,2,39,39,0,940.0
+8:17.0,Defensive rebound by J. Isaac,39-39, ,,2,39,39,0,943.0
+8:05.0,J. Isaac makes 2-pt dunk from 1 ft (assist by J. Ingles),41-39, ,Lead change,2,39,41,-2,955.0
+8:05.0, ,41-39,Detroit full timeout,,2,39,41,-2,955.0
+8:05.0,F. Wagner enters the game for J. Ingles,41-39, ,,2,39,41,-2,955.0
+8:05.0, ,41-39,J. Duren enters the game for J. Wiseman,,2,39,41,-2,955.0
+7:51.0, ,41-41,M. Flynn makes 2-pt jump shot from 14 ft,Tie,2,41,41,0,969.0
+7:31.0,C. Anthony makes 3-pt jump shot from 26 ft,44-41, ,,2,41,44,-3,989.0
+7:16.0, ,44-44,T. Brown makes 3-pt jump shot from 25 ft (assist by J. Ivey),Tie,2,44,44,0,1004.0
+6:58.0,M. Wagner makes 2-pt dunk from 1 ft (assist by F. Wagner),46-44, ,,2,44,46,-2,1022.0
+6:44.0, ,46-44,Offensive foul by J. Duren (drawn by M. Wagner),,2,44,46,-2,1036.0
+6:44.0, ,46-44,Turnover by J. Duren (offensive foul),,2,44,46,-2,1036.0
+6:44.0,P. Banchero enters the game for J. Isaac,46-44, ,,2,44,46,-2,1036.0
+6:44.0, ,46-44,C. Cunningham enters the game for T. Brown,,2,44,46,-2,1036.0
+6:44.0, ,46-44,S. Fontecchio enters the game for M. Flynn,,2,44,46,-2,1036.0
+6:44.0, ,46-44,A. Thompson enters the game for Q. Grimes,,2,44,46,-2,1036.0
+6:21.0,M. Wagner makes 2-pt layup from 2 ft (assist by C. Anthony),48-44, ,,2,44,48,-4,1059.0
+5:59.0, ,48-44,Turnover by A. Thompson (bad pass; steal by M. Wagner),,2,44,48,-4,1081.0
+5:52.0,P. Banchero misses 3-pt jump shot from 25 ft,48-44, ,,2,44,48,-4,1088.0
+5:50.0, ,48-44,Defensive rebound by Team,,2,44,48,-4,1090.0
+5:34.0, ,48-44,J. Ivey misses 2-pt jump shot from 11 ft,,2,44,48,-4,1106.0
+5:26.0,Defensive rebound by C. Anthony,48-44, ,,2,44,48,-4,1114.0
+5:25.0,A. Black makes 2-pt dunk from 1 ft (assist by C. Anthony),50-44, ,,2,44,50,-6,1115.0
+5:20.0, ,50-44,Turnover by A. Thompson (out of bounds lost ball),,2,44,50,-6,1120.0
+5:00.0,P. Banchero misses 2-pt jump shot from 8 ft,50-44, ,,2,44,50,-6,1140.0
+4:56.0,Offensive rebound by M. Wagner,50-44, ,,2,44,50,-6,1144.0
+4:55.0,F. Wagner makes 2-pt layup at rim (assist by M. Wagner),52-44, ,,2,44,52,-8,1145.0
+4:39.0, ,52-44,J. Ivey misses 2-pt jump shot from 7 ft,,2,44,52,-8,1161.0
+4:35.0, ,52-44,Offensive rebound by S. Fontecchio,,2,44,52,-8,1165.0
+4:28.0, ,52-44,J. Ivey misses 3-pt jump shot from 23 ft,,2,44,52,-8,1172.0
+4:28.0, ,52-44,Offensive rebound by Team,,2,44,52,-8,1172.0
+4:28.0,Loose ball foul by C. Anthony (drawn by J. Duren),52-44, ,,2,44,52,-8,1172.0
+4:28.0,J. Suggs enters the game for C. Anthony,52-44, ,,2,44,52,-8,1172.0
+4:22.0, ,52-44,J. Ivey misses 3-pt jump shot from 26 ft,,2,44,52,-8,1178.0
+4:18.0,Defensive rebound by F. Wagner,52-44, ,,2,44,52,-8,1182.0
+4:06.0,Shooting foul by S. Fontecchio (drawn by M. Wagner),52-44, ,,2,44,52,-8,1194.0
+4:06.0,M. Wagner makes free throw 1 of 2,53-44, ,,2,44,53,-9,1194.0
+4:06.0,G. Harris enters the game for A. Black,53-44, ,,2,44,53,-9,1194.0
+4:06.0,M. Wagner makes free throw 2 of 2,54-44, ,,2,44,54,-10,1194.0
+3:46.0, ,54-47,S. Fontecchio makes 3-pt jump shot from 27 ft (assist by J. Ivey),,2,47,54,-7,1214.0
+3:29.0,P. Banchero makes 2-pt layup from 2 ft (assist by J. Suggs),56-47, ,,2,47,56,-9,1231.0
+3:15.0, ,56-47,J. Duren misses 2-pt layup from 3 ft,,2,47,56,-9,1245.0
+3:15.0, ,56-47,Offensive rebound by Team,,2,47,56,-9,1245.0
+3:15.0,W. Carter enters the game for M. Wagner,56-47, ,,2,47,56,-9,1245.0
+3:13.0, ,56-47,C. Cunningham misses 2-pt jump shot from 11 ft,,2,47,56,-9,1247.0
+3:10.0,Defensive rebound by W. Carter,56-47, ,,2,47,56,-9,1250.0
+2:47.0,J. Suggs misses 3-pt jump shot from 26 ft,56-47, ,,2,47,56,-9,1273.0
+2:44.0, ,56-47,Defensive rebound by J. Duren,,2,47,56,-9,1276.0
+2:35.0, ,56-47,S. Fontecchio misses 2-pt layup from 3 ft (block by J. Suggs),,2,47,56,-9,1285.0
+2:34.0,Defensive rebound by P. Banchero,56-47, ,,2,47,56,-9,1286.0
+2:29.0,Shooting foul by C. Cunningham (drawn by P. Banchero),56-47, ,,2,47,56,-9,1291.0
+2:29.0,Orlando full timeout,56-47, ,,2,47,56,-9,1291.0
+2:29.0,P. Banchero makes free throw 1 of 2,57-47, ,,2,47,57,-10,1291.0
+2:29.0,P. Banchero makes free throw 2 of 2,58-47, ,,2,47,58,-11,1291.0
+2:18.0, ,58-47,Personal foul by G. Harris (drawn by J. Ivey),,2,47,58,-11,1302.0
+2:11.0, ,58-49,A. Thompson makes 2-pt jump shot from 21 ft (assist by S. Fontecchio),,2,49,58,-9,1309.0
+1:55.0,Offensive foul by F. Wagner (drawn by A. Thompson),58-49, ,,2,49,58,-9,1325.0
+1:55.0,Turnover by F. Wagner (offensive foul),58-49, ,,2,49,58,-9,1325.0
+1:43.0, ,58-49,Personal foul by P. Banchero (drawn by A. Thompson),,2,49,58,-9,1337.0
+1:32.0, ,58-51,C. Cunningham makes 2-pt hook shot from 6 ft,,2,51,58,-7,1348.0
+1:13.0,P. Banchero misses 2-pt jump shot from 7 ft,58-51, ,,2,51,58,-7,1367.0
+1:11.0, ,58-51,Defensive rebound by J. Duren,,2,51,58,-7,1369.0
+1:00.0, ,58-53,A. Thompson makes 2-pt layup from 5 ft (assist by S. Fontecchio),,2,53,58,-5,1380.0
+0:54.0,Personal foul by A. Thompson (drawn by F. Wagner),58-53, ,,2,53,58,-5,1386.0
+0:54.0, ,58-53,E. Fournier enters the game for A. Thompson,,2,53,58,-5,1386.0
+0:47.0,G. Harris makes 3-pt jump shot from 27 ft (assist by W. Carter),61-53, ,,2,53,61,-8,1393.0
+0:39.0, ,61-53,Turnover by J. Ivey (bad pass; steal by J. Suggs),,2,53,61,-8,1401.0
+0:37.0,J. Suggs makes 2-pt dunk from 1 ft,63-53, ,,2,53,63,-10,1403.0
+0:30.0, ,63-53,C. Cunningham misses 2-pt jump shot from 18 ft,,2,53,63,-10,1410.0
+0:28.0,Defensive rebound by P. Banchero,63-53, ,,2,53,63,-10,1412.0
+0:08.0,P. Banchero misses 2-pt layup from 2 ft,63-53, ,,2,53,63,-10,1432.0
+0:07.0, ,63-53,Defensive rebound by S. Fontecchio,,2,53,63,-10,1433.0
+0:01.0, ,63-55,S. Fontecchio makes 2-pt layup from 2 ft,,2,55,63,-8,1439.0
+0:00.0,P. Banchero makes 2-pt layup from 1 ft (assist by J. Suggs),65-55, ,,2,55,65,-10,1440.0
+0:00.0,Shooting foul by C. Cunningham (drawn by P. Banchero),65-55, ,,2,55,65,-10,1440.0
+0:00.0,P. Banchero misses free throw 1 of 1,65-55, ,,2,55,65,-10,1440.0
+0:00.0, ,65-55,Defensive rebound by E. Fournier,,2,55,65,-10,1440.0
+0:00.0,End of 2nd quarter,65-55,,,2,55,65,-10,1440.0
+12:00.0,Start of 3rd quarter,65-55,,,3,55,65,-10,1440.0
+11:47.0, ,65-58,C. Cunningham makes 3-pt jump shot from 25 ft,,3,58,65,-7,1453.0
+11:26.0,W. Carter misses 3-pt jump shot from 26 ft,65-58, ,,3,58,65,-7,1474.0
+11:22.0, ,65-58,Defensive rebound by A. Thompson,,3,58,65,-7,1478.0
+11:18.0, ,65-58,J. Ivey misses 2-pt layup from 1 ft (block by P. Banchero),,3,58,65,-7,1482.0
+11:17.0, ,65-58,Offensive rebound by J. Duren,,3,58,65,-7,1483.0
+11:17.0, ,65-60,J. Duren makes 2-pt dunk at rim,,3,60,65,-5,1483.0
+11:17.0, ,65-60,Shooting foul by G. Harris (drawn by J. Duren),,3,60,65,-5,1483.0
+11:17.0, ,65-61,J. Duren makes free throw 1 of 1,,3,61,65,-4,1483.0
+11:05.0,Turnover by W. Carter (bad pass; steal by C. Cunningham),65-61, ,,3,61,65,-4,1495.0
+10:57.0, ,65-64,C. Cunningham makes 3-pt jump shot from 25 ft (assist by J. Duren),,3,64,65,-1,1503.0
+10:40.0,P. Banchero misses 2-pt jump shot from 11 ft,65-64, ,,3,64,65,-1,1520.0
+10:39.0, ,65-64,Defensive rebound by J. Duren,,3,64,65,-1,1521.0
+10:35.0, ,65-64,Turnover by C. Cunningham (bad pass; steal by G. Harris),,3,64,65,-1,1525.0
+10:33.0,Personal foul by A. Thompson (drawn by J. Suggs),65-64, ,,3,64,65,-1,1527.0
+10:33.0, ,65-64,Q. Grimes enters the game for A. Thompson,,3,64,65,-1,1527.0
+10:20.0,P. Banchero misses 2-pt layup from 4 ft,65-64, ,,3,64,65,-1,1540.0
+10:19.0, ,65-64,Defensive rebound by S. Fontecchio,,3,64,65,-1,1541.0
+10:13.0, ,65-64,J. Ivey misses 2-pt layup from 1 ft,,3,64,65,-1,1547.0
+10:10.0,Defensive rebound by W. Carter,65-64, ,,3,64,65,-1,1550.0
+10:05.0,G. Harris misses 2-pt dunk from 3 ft (block by J. Ivey),65-64, ,,3,64,65,-1,1555.0
+10:05.0,Offensive rebound by W. Carter,65-64, ,,3,64,65,-1,1555.0
+10:05.0,Shooting foul by J. Duren (drawn by W. Carter),65-64, ,,3,64,65,-1,1555.0
+10:05.0,W. Carter makes free throw 1 of 2,66-64, ,,3,64,66,-2,1555.0
+10:05.0,W. Carter makes free throw 2 of 2,67-64, ,,3,64,67,-3,1555.0
+9:49.0, ,67-67,S. Fontecchio makes 3-pt jump shot from 24 ft (assist by J. Ivey),Tie,3,67,67,0,1571.0
+9:39.0,Personal foul by J. Duren (drawn by W. Carter),67-67, ,,3,67,67,0,1581.0
+9:29.0,G. Harris makes 3-pt jump shot from 25 ft (assist by W. Carter),70-67, ,,3,67,70,-3,1591.0
+9:12.0, ,70-69,S. Fontecchio makes 2-pt dunk from 1 ft (assist by C. Cunningham),,3,69,70,-1,1608.0
+8:54.0,F. Wagner makes 2-pt dunk from 1 ft,72-69, ,,3,69,72,-3,1626.0
+8:39.0, ,72-69,J. Ivey misses 2-pt layup from 1 ft,,3,69,72,-3,1641.0
+8:36.0,Defensive rebound by F. Wagner,72-69, ,,3,69,72,-3,1644.0
+8:32.0,F. Wagner misses 2-pt layup from 4 ft (block by J. Duren),72-69, ,,3,69,72,-3,1648.0
+8:28.0, ,72-69,Defensive rebound by J. Duren,,3,69,72,-3,1652.0
+8:26.0, ,72-69,Q. Grimes misses 2-pt layup from 1 ft,,3,69,72,-3,1654.0
+8:24.0, ,72-69,Offensive rebound by Team,,3,69,72,-3,1656.0
+8:13.0, ,72-71,J. Duren makes 2-pt jump shot from 6 ft (assist by S. Fontecchio),,3,71,72,-1,1667.0
+7:47.0,P. Banchero misses 3-pt jump shot from 26 ft,72-71, ,,3,71,72,-1,1693.0
+7:43.0, ,72-71,Defensive rebound by C. Cunningham,,3,71,72,-1,1697.0
+7:38.0, ,72-74,C. Cunningham makes 3-pt jump shot from 24 ft (assist by Q. Grimes),Lead change,3,74,72,2,1702.0
+7:37.0,Orlando full timeout,72-74, ,,3,74,72,2,1703.0
+7:14.0,Turnover by J. Suggs (bad pass; steal by S. Fontecchio),72-74, ,,3,74,72,2,1726.0
+7:10.0, ,72-74,S. Fontecchio misses 2-pt layup from 2 ft (block by P. Banchero),,3,74,72,2,1730.0
+7:08.0,Defensive rebound by W. Carter,72-74, ,,3,74,72,2,1732.0
+7:02.0,F. Wagner misses 3-pt jump shot from 25 ft,72-74, ,,3,74,72,2,1738.0
+6:58.0,Offensive rebound by W. Carter,72-74, ,,3,74,72,2,1742.0
+6:54.0,F. Wagner misses 2-pt layup from 3 ft,72-74, ,,3,74,72,2,1746.0
+6:54.0, ,72-74,Defensive rebound by J. Duren,,3,74,72,2,1746.0
+6:36.0, ,72-74,C. Cunningham misses 3-pt jump shot from 24 ft,,3,74,72,2,1764.0
+6:33.0,Defensive rebound by G. Harris,72-74, ,,3,74,72,2,1767.0
+6:18.0,Turnover by F. Wagner (lost ball; steal by Q. Grimes),72-74, ,,3,74,72,2,1782.0
+6:15.0, ,72-76,S. Fontecchio makes 2-pt dunk from 2 ft (assist by Q. Grimes),,3,76,72,4,1785.0
+5:46.0,W. Carter makes 3-pt jump shot from 23 ft (assist by J. Suggs),75-76, ,,3,76,75,1,1814.0
+5:30.0, ,75-76,C. Cunningham misses 2-pt layup from 2 ft (block by J. Suggs),,3,76,75,1,1830.0
+5:30.0,Defensive rebound by W. Carter,75-76, ,,3,76,75,1,1830.0
+5:21.0,Shooting foul by S. Fontecchio (drawn by P. Banchero),75-76, ,,3,76,75,1,1839.0
+5:21.0,P. Banchero makes free throw 1 of 2,76-76, ,Tie,3,76,76,0,1839.0
+5:21.0,P. Banchero makes free throw 2 of 2,77-76, ,Lead change,3,76,77,-1,1839.0
+5:04.0, ,77-78,J. Duren makes 2-pt layup from 2 ft (assist by J. Ivey),Lead change,3,78,77,1,1856.0
+4:48.0,W. Carter makes 3-pt jump shot from 26 ft (assist by J. Suggs),80-78, ,Lead change,3,78,80,-2,1872.0
+4:37.0, ,80-80,C. Cunningham makes 2-pt jump shot from 10 ft (assist by S. Fontecchio),Tie,3,80,80,0,1883.0
+4:20.0,J. Suggs makes 3-pt jump shot from 26 ft,83-80, ,,3,80,83,-3,1900.0
+4:03.0, ,83-80,J. Ivey misses 3-pt jump shot from 24 ft,,3,80,83,-3,1917.0
+3:58.0,Defensive rebound by J. Suggs,83-80, ,,3,80,83,-3,1922.0
+3:56.0,F. Wagner makes 2-pt layup from 1 ft (assist by J. Suggs),85-80, ,,3,80,85,-5,1924.0
+3:56.0, ,85-80,Detroit full timeout,,3,80,85,-5,1924.0
+3:56.0,A. Black enters the game for P. Banchero,85-80, ,,3,80,85,-5,1924.0
+3:56.0,J. Isaac enters the game for G. Harris,85-80, ,,3,80,85,-5,1924.0
+3:56.0, ,85-80,E. Fournier enters the game for J. Ivey,,3,80,85,-5,1924.0
+3:42.0, ,85-80,Turnover by C. Cunningham (lost ball; steal by J. Suggs),,3,80,85,-5,1938.0
+3:39.0,Turnover by J. Suggs (bad pass; steal by E. Fournier),85-80, ,,3,80,85,-5,1941.0
+3:36.0, ,85-80,Q. Grimes misses 3-pt jump shot from 26 ft,,3,80,85,-5,1944.0
+3:32.0,Defensive rebound by W. Carter,85-80, ,,3,80,85,-5,1948.0
+3:14.0,Turnover by Team (shot clock),85-80, ,,3,80,85,-5,1966.0
+3:14.0, ,85-80,T. Brown enters the game for C. Cunningham,,3,80,85,-5,1966.0
+3:14.0, ,85-80,M. Flynn enters the game for J. Duren,,3,80,85,-5,1966.0
+3:14.0, ,85-80,J. Wiseman enters the game for S. Fontecchio,,3,80,85,-5,1966.0
+2:58.0, ,85-80,Q. Grimes misses 3-pt jump shot from 24 ft,,3,80,85,-5,1982.0
+2:57.0,Defensive rebound by Team,85-80, ,,3,80,85,-5,1983.0
+2:46.0,Turnover by J. Suggs (lost ball; steal by M. Flynn),85-80, ,,3,80,85,-5,1994.0
+2:43.0, ,85-80,Shooting foul by A. Black (drawn by J. Wiseman),,3,80,85,-5,1997.0
+2:43.0, ,85-81,J. Wiseman makes free throw 1 of 2,,3,81,85,-4,1997.0
+2:43.0,C. Anthony enters the game for J. Suggs,85-81, ,,3,81,85,-4,1997.0
+2:43.0,J. Ingles enters the game for F. Wagner,85-81, ,,3,81,85,-4,1997.0
+2:43.0, ,85-82,J. Wiseman makes free throw 2 of 2,,3,82,85,-3,1997.0
+2:29.0,A. Black misses 2-pt jump shot from 5 ft,85-82, ,,3,82,85,-3,2011.0
+2:26.0, ,85-82,Defensive rebound by J. Wiseman,,3,82,85,-3,2014.0
+2:18.0, ,85-82,Turnover by T. Brown (lost ball; steal by C. Anthony),,3,82,85,-3,2022.0
+2:14.0, ,85-82,Violation by Team (kicked ball),,3,82,85,-3,2026.0
+2:04.0,Shooting foul by J. Wiseman (drawn by W. Carter),85-82, ,,3,82,85,-3,2036.0
+2:04.0,W. Carter misses free throw 1 of 2,85-82, ,,3,82,85,-3,2036.0
+2:04.0,Offensive rebound by Team,85-82, ,,3,82,85,-3,2036.0
+2:04.0,W. Carter makes free throw 2 of 2,86-82, ,,3,82,86,-4,2036.0
+1:50.0, ,86-82,Turnover by M. Flynn (bad pass; steal by J. Isaac),,3,82,86,-4,2050.0
+1:46.0,C. Anthony misses 3-pt jump shot from 28 ft,86-82, ,,3,82,86,-4,2054.0
+1:41.0, ,86-82,Defensive rebound by M. Flynn,,3,82,86,-4,2059.0
+1:29.0, ,86-82,Q. Grimes misses 2-pt jump shot from 13 ft,,3,82,86,-4,2071.0
+1:27.0,Defensive rebound by J. Isaac,86-82, ,,3,82,86,-4,2073.0
+1:12.0,A. Black misses 3-pt jump shot from 24 ft,86-82, ,,3,82,86,-4,2088.0
+1:05.0,Offensive rebound by J. Isaac,86-82, ,,3,82,86,-4,2095.0
+1:05.0,J. Isaac makes 2-pt dunk at rim,88-82, ,,3,82,88,-6,2095.0
+0:54.0, ,88-82,Shooting foul by A. Black (drawn by M. Flynn),,3,82,88,-6,2106.0
+0:54.0, ,88-83,M. Flynn makes free throw 1 of 2,,3,83,88,-5,2106.0
+0:54.0,M. Wagner enters the game for W. Carter,88-83, ,,3,83,88,-5,2106.0
+0:54.0, ,88-83,M. Flynn misses free throw 2 of 2,,3,83,88,-5,2106.0
+0:51.0,Defensive rebound by C. Anthony,88-83, ,,3,83,88,-5,2109.0
+0:33.0,J. Isaac makes 2-pt dunk from 1 ft (assist by C. Anthony),90-83, ,,3,83,90,-7,2127.0
+0:17.0, ,90-85,J. Wiseman makes 2-pt layup from 1 ft (assist by M. Flynn),,3,85,90,-5,2143.0
+0:02.0,C. Anthony misses 2-pt jump shot from 8 ft (block by Q. Grimes),90-85, ,,3,85,90,-5,2158.0
+0:00.0,Offensive rebound by M. Wagner,90-85, ,,3,85,90,-5,2160.0
+0:00.0,A. Black misses 3-pt jump shot from 26 ft,90-85, ,,3,85,90,-5,2160.0
+0:00.0,Offensive rebound by Team,90-85, ,,3,85,90,-5,2160.0
+0:00.0,End of 3rd quarter,90-85,,,3,85,90,-5,2160.0
+12:00.0,Start of 4th quarter,90-85,,,4,85,90,-5,2160.0
+11:42.0,M. Wagner makes 2-pt layup from 4 ft (assist by J. Ingles),92-85, ,,4,85,92,-7,2178.0
+11:16.0, ,92-85,E. Fournier misses 3-pt jump shot from 25 ft,,4,85,92,-7,2204.0
+11:11.0,Defensive rebound by A. Black,92-85, ,,4,85,92,-7,2209.0
+10:57.0,J. Ingles misses 2-pt layup from 6 ft,92-85, ,,4,85,92,-7,2223.0
+10:57.0,Offensive rebound by M. Wagner,92-85, ,,4,85,92,-7,2223.0
+10:52.0,M. Wagner makes 2-pt layup at rim,94-85, ,,4,85,94,-9,2228.0
+10:34.0, ,94-85,T. Brown misses 3-pt jump shot from 25 ft,,4,85,94,-9,2246.0
+10:30.0, ,94-85,Offensive rebound by J. Wiseman,,4,85,94,-9,2250.0
+10:28.0, ,94-87,E. Fournier makes 2-pt jump shot from 8 ft (assist by J. Wiseman),,4,87,94,-7,2252.0
+10:02.0,M. Wagner misses 2-pt layup from 4 ft,94-87, ,,4,87,94,-7,2278.0
+10:00.0,Offensive rebound by M. Wagner,94-87, ,,4,87,94,-7,2280.0
+10:00.0,M. Wagner misses 2-pt layup at rim,94-87, ,,4,87,94,-7,2280.0
+9:59.0,Offensive rebound by M. Wagner,94-87, ,,4,87,94,-7,2281.0
+9:59.0,M. Wagner makes 2-pt layup from 1 ft,96-87, ,,4,87,96,-9,2281.0
+9:47.0, ,96-90,Q. Grimes makes 3-pt jump shot from 25 ft (assist by E. Fournier),,4,90,96,-6,2293.0
+9:30.0,J. Isaac makes 3-pt jump shot from 23 ft (assist by C. Anthony),99-90, ,,4,90,99,-9,2310.0
+9:17.0, ,99-90,T. Brown misses 3-pt jump shot from 26 ft,,4,90,99,-9,2323.0
+9:14.0,Defensive rebound by C. Anthony,99-90, ,,4,90,99,-9,2326.0
+9:07.0,J. Isaac misses 2-pt layup from 3 ft,99-90, ,,4,90,99,-9,2333.0
+9:07.0,Offensive rebound by Team,99-90, ,,4,90,99,-9,2333.0
+9:07.0, ,99-90,Loose ball foul by T. Brown (drawn by J. Isaac),,4,90,99,-9,2333.0
+9:07.0, ,99-90,J. Ivey enters the game for T. Brown,,4,90,99,-9,2333.0
+8:53.0,Shooting foul by J. Ivey (drawn by C. Anthony),99-90, ,,4,90,99,-9,2347.0
+8:53.0,C. Anthony makes free throw 1 of 2,100-90, ,,4,90,100,-10,2347.0
+8:53.0,C. Anthony makes free throw 2 of 2,101-90, ,,4,90,101,-11,2347.0
+8:32.0, ,101-93,E. Fournier makes 3-pt jump shot from 25 ft (assist by Q. Grimes),,4,93,101,-8,2368.0
+8:02.0,C. Anthony misses 2-pt jump shot from 17 ft,101-93, ,,4,93,101,-8,2398.0
+8:00.0, ,101-93,Defensive rebound by J. Wiseman,,4,93,101,-8,2400.0
+7:56.0, ,101-95,E. Fournier makes 2-pt layup from 1 ft (assist by M. Flynn),,4,95,101,-6,2404.0
+7:55.0,Orlando full timeout,101-95, ,,4,95,101,-6,2405.0
+7:55.0, ,101-95,J. Duren enters the game for Q. Grimes,,4,95,101,-6,2405.0
+7:55.0, ,101-95,A. Thompson enters the game for J. Wiseman,,4,95,101,-6,2405.0
+7:30.0,C. Anthony makes 2-pt jump shot from 7 ft,103-95, ,,4,95,103,-8,2430.0
+7:07.0, ,103-95,Turnover by A. Thompson (lost ball; steal by A. Black),,4,95,103,-8,2453.0
+6:44.0,M. Wagner misses 2-pt layup from 6 ft (block by J. Duren),103-95, ,,4,95,103,-8,2476.0
+6:44.0,Offensive rebound by Team,103-95, ,,4,95,103,-8,2476.0
+6:44.0,Turnover by Team (shot clock),103-95, ,,4,95,103,-8,2476.0
+6:44.0, ,103-95,C. Cunningham enters the game for M. Flynn,,4,95,103,-8,2476.0
+6:26.0, ,103-97,C. Cunningham makes 2-pt jump shot from 6 ft (assist by J. Duren),,4,97,103,-6,2494.0
+6:09.0,C. Anthony misses 2-pt jump shot from 11 ft,103-97, ,,4,97,103,-6,2511.0
+6:06.0, ,103-97,Defensive rebound by E. Fournier,,4,97,103,-6,2514.0
+6:03.0, ,103-99,J. Ivey makes 2-pt layup from 2 ft,,4,99,103,-4,2517.0
+5:41.0,J. Isaac makes 3-pt jump shot from 23 ft (assist by C. Anthony),106-99, ,,4,99,106,-7,2539.0
+5:23.0, ,106-99,C. Cunningham misses 2-pt layup from 2 ft,,4,99,106,-7,2557.0
+5:22.0, ,106-99,Offensive rebound by C. Cunningham,,4,99,106,-7,2558.0
+5:20.0, ,106-99,C. Cunningham misses 2-pt layup from 1 ft (block by A. Black),,4,99,106,-7,2560.0
+5:20.0,Defensive rebound by A. Black,106-99, ,,4,99,106,-7,2560.0
+5:20.0,P. Banchero enters the game for A. Black,106-99, ,,4,99,106,-7,2560.0
+5:20.0,F. Wagner enters the game for J. Ingles,106-99, ,,4,99,106,-7,2560.0
+5:20.0, ,106-99,S. Fontecchio enters the game for E. Fournier,,4,99,106,-7,2560.0
+5:05.0,C. Anthony misses 2-pt jump shot from 11 ft,106-99, ,,4,99,106,-7,2575.0
+5:03.0,Offensive rebound by M. Wagner,106-99, ,,4,99,106,-7,2577.0
+4:51.0,F. Wagner misses 2-pt hook shot from 6 ft,106-99, ,,4,99,106,-7,2589.0
+4:48.0, ,106-99,Defensive rebound by C. Cunningham,,4,99,106,-7,2592.0
+4:42.0, ,106-101,A. Thompson makes 2-pt dunk from 1 ft (assist by J. Ivey),,4,101,106,-5,2598.0
+4:16.0,Turnover by Team (shot clock),106-101, ,,4,101,106,-5,2624.0
+4:16.0, ,106-101,Detroit full timeout,,4,101,106,-5,2624.0
+4:16.0,W. Carter enters the game for C. Anthony,106-101, ,,4,101,106,-5,2624.0
+4:16.0,G. Harris enters the game for J. Isaac,106-101, ,,4,101,106,-5,2624.0
+4:16.0,J. Suggs enters the game for M. Wagner,106-101, ,,4,101,106,-5,2624.0
+4:02.0, ,106-101,S. Fontecchio misses 3-pt jump shot from 25 ft,,4,101,106,-5,2638.0
+3:59.0,Defensive rebound by W. Carter,106-101, ,,4,101,106,-5,2641.0
+3:41.0,F. Wagner misses 3-pt jump shot from 27 ft,106-101, ,,4,101,106,-5,2659.0
+3:35.0, ,106-101,Defensive rebound by C. Cunningham,,4,101,106,-5,2665.0
+3:24.0, ,106-101,J. Ivey misses 2-pt jump shot from 7 ft,,4,101,106,-5,2676.0
+3:22.0, ,106-101,Offensive rebound by J. Duren,,4,101,106,-5,2678.0
+3:20.0, ,106-103,J. Duren makes 2-pt layup from 2 ft,,4,103,106,-3,2680.0
+2:56.0,P. Banchero misses 2-pt jump shot from 5 ft,106-103, ,,4,103,106,-3,2704.0
+2:55.0, ,106-103,Defensive rebound by Team,,4,103,106,-3,2705.0
+2:55.0,Loose ball foul by W. Carter (drawn by A. Thompson),106-103, ,,4,103,106,-3,2705.0
+2:34.0, ,106-103,J. Ivey misses 2-pt jump shot from 15 ft,,4,103,106,-3,2726.0
+2:29.0,Defensive rebound by G. Harris,106-103, ,,4,103,106,-3,2731.0
+2:24.0,Orlando full timeout,106-103, ,,4,103,106,-3,2736.0
+2:14.0,G. Harris misses 3-pt jump shot from 24 ft,106-103, ,,4,103,106,-3,2746.0
+2:11.0,Offensive rebound by W. Carter,106-103, ,,4,103,106,-3,2749.0
+2:09.0,W. Carter misses 2-pt layup from 4 ft (block by J. Duren),106-103, ,,4,103,106,-3,2751.0
+2:09.0, ,106-103,Defensive rebound by C. Cunningham,,4,103,106,-3,2751.0
+2:02.0, ,106-103,Shooting foul by F. Wagner (drawn by J. Duren),,4,103,106,-3,2758.0
+2:02.0, ,106-104,J. Duren makes free throw 1 of 2,,4,104,106,-2,2758.0
+2:02.0, ,106-105,J. Duren makes free throw 2 of 2,,4,105,106,-1,2758.0
+1:49.0,F. Wagner makes 2-pt layup from 3 ft,108-105, ,,4,105,108,-3,2771.0
+1:43.0, ,108-105,Turnover by J. Ivey (lost ball),,4,105,108,-3,2777.0
+1:42.0, ,108-105,Loose ball foul by J. Duren (drawn by W. Carter),,4,105,108,-3,2778.0
+1:36.0,Personal foul by A. Thompson (drawn by F. Wagner),108-105, ,,4,105,108,-3,2784.0
+1:36.0,F. Wagner misses free throw 1 of 2,108-105, ,,4,105,108,-3,2784.0
+1:36.0,Offensive rebound by Team,108-105, ,,4,105,108,-3,2784.0
+1:36.0,F. Wagner makes free throw 2 of 2,109-105, ,,4,105,109,-4,2784.0
+1:36.0, ,109-105,Detroit full timeout,,4,105,109,-4,2784.0
+1:20.0, ,109-107,C. Cunningham makes 2-pt jump shot from 14 ft,,4,107,109,-2,2800.0
+0:59.0,F. Wagner misses 2-pt hook shot from 3 ft,109-107, ,,4,107,109,-2,2821.0
+0:57.0, ,109-107,Defensive rebound by J. Duren,,4,107,109,-2,2823.0
+0:49.0, ,109-107,Personal foul by J. Suggs (drawn by C. Cunningham),,4,107,109,-2,2831.0
+0:36.0, ,109-107,Turnover by C. Cunningham (bad pass; steal by W. Carter),,4,107,109,-2,2844.0
+0:17.0,Shooting foul by C. Cunningham (drawn by P. Banchero),109-107, ,,4,107,109,-2,2863.0
+0:17.0,P. Banchero misses free throw 1 of 2,109-107, ,,4,107,109,-2,2863.0
+0:17.0,Offensive rebound by Team,109-107, ,,4,107,109,-2,2863.0
+0:17.0,P. Banchero misses free throw 2 of 2,109-107, ,,4,107,109,-2,2863.0
+0:17.0, ,109-107,Defensive rebound by J. Duren,,4,107,109,-2,2863.0
+0:17.0, ,109-107,Detroit full timeout,,4,107,109,-2,2863.0
+0:17.0,J. Isaac enters the game for G. Harris,109-107, ,,4,107,109,-2,2863.0
+0:17.0, ,109-107,E. Fournier enters the game for A. Thompson,,4,107,109,-2,2863.0
+0:12.0, ,109-109,C. Cunningham makes 2-pt layup from 2 ft,Tie,4,109,109,0,2868.0
+0:12.0,Orlando full timeout,109-109, ,,4,109,109,0,2868.0
+0:12.0,G. Harris enters the game for J. Isaac,109-109, ,,4,109,109,0,2868.0
+0:12.0, ,109-109,Q. Grimes enters the game for E. Fournier,,4,109,109,0,2868.0
+0:12.0, ,109-109,A. Thompson enters the game for J. Ivey,,4,109,109,0,2868.0
+0:00.0,P. Banchero makes 2-pt jump shot from 18 ft,111-109, ,,4,109,111,-2,2880.0
+0:00.0,Shooting foul by J. Duren (drawn by P. Banchero),111-109, ,,4,109,111,-2,2880.0
+0:00.0,P. Banchero makes free throw 1 of 1,112-109, ,,4,109,112,-3,2880.0
+0:00.0, ,112-109,C. Cunningham misses 3-pt jump shot from 73 ft,,4,109,112,-3,2880.0
+0:00.0, ,112-109,Offensive rebound by Team,,4,109,112,-3,2880.0
+0:00.0,End of 4th quarter,112-109,,,4,109,112,-3,2880.0
