@@ -1,0 +1,441 @@
+Time,Milwaukee,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: B. Lopez vs. K. Porziņģis (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:50.0, ,0-2,J. Brown makes 2-pt dunk from 2 ft (assist by J. Holiday),,1,2,0,2,10.0
+11:25.0,K. Middleton misses 2-pt jump shot from 12 ft,0-2, ,,1,2,0,2,35.0
+11:22.0, ,0-2,Defensive rebound by J. Tatum,,1,2,0,2,38.0
+11:16.0, ,0-2,J. Brown misses 2-pt jump shot from 10 ft,,1,2,0,2,44.0
+11:15.0, ,0-2,Offensive rebound by Team,,1,2,0,2,45.0
+11:02.0, ,0-2,J. Holiday misses 2-pt jump shot from 13 ft,,1,2,0,2,58.0
+11:00.0,Defensive rebound by G. Antetokounmpo,0-2, ,,1,2,0,2,60.0
+10:51.0,G. Antetokounmpo misses 2-pt layup from 4 ft (block by J. Holiday),0-2, ,,1,2,0,2,69.0
+10:49.0,Offensive rebound by B. Lopez,0-2, ,,1,2,0,2,71.0
+10:47.0,B. Lopez misses 2-pt jump shot from 7 ft,0-2, ,,1,2,0,2,73.0
+10:44.0,Offensive rebound by G. Antetokounmpo,0-2, ,,1,2,0,2,76.0
+10:43.0,G. Antetokounmpo misses 2-pt layup from 1 ft (block by J. Tatum),0-2, ,,1,2,0,2,77.0
+10:41.0, ,0-2,Defensive rebound by J. Holiday,,1,2,0,2,79.0
+10:37.0, ,0-5,J. Brown makes 3-pt jump shot from 25 ft (assist by D. White),,1,5,0,5,83.0
+10:16.0,K. Middleton misses 3-pt jump shot from 29 ft,0-5, ,,1,5,0,5,104.0
+10:14.0,Offensive rebound by Team,0-5, ,,1,5,0,5,106.0
+10:09.0,D. Lillard misses 3-pt jump shot from 27 ft,0-5, ,,1,5,0,5,111.0
+10:07.0, ,0-5,Defensive rebound by J. Tatum,,1,5,0,5,113.0
+9:55.0, ,0-7,J. Tatum makes 2-pt jump shot from 12 ft,,1,7,0,7,125.0
+9:43.0,Turnover by D. Lillard (bad pass),0-7, ,,1,7,0,7,137.0
+9:26.0, ,0-10,J. Brown makes 3-pt jump shot from 26 ft,,1,10,0,10,154.0
+9:23.0,Milwaukee full timeout,0-10, ,,1,10,0,10,157.0
+9:08.0,G. Antetokounmpo misses 2-pt hook shot from 9 ft,0-10, ,,1,10,0,10,172.0
+9:05.0, ,0-10,Defensive rebound by J. Holiday,,1,10,0,10,175.0
+9:00.0, ,0-10,Turnover by D. White (step out of bounds),,1,10,0,10,180.0
+8:47.0,M. Beasley makes 3-pt jump shot from 26 ft (assist by B. Lopez),3-10, ,,1,10,3,7,193.0
+8:25.0, ,3-10,J. Tatum misses 3-pt jump shot from 26 ft,,1,10,3,7,215.0
+8:23.0,Defensive rebound by K. Middleton,3-10, ,,1,10,3,7,217.0
+8:13.0,B. Lopez makes 2-pt jump shot from 14 ft (assist by K. Middleton),5-10, ,,1,10,5,5,227.0
+7:54.0, ,5-10,Turnover by J. Holiday (bad pass; steal by M. Beasley),,1,10,5,5,246.0
+7:44.0,B. Lopez misses 3-pt jump shot from 26 ft,5-10, ,,1,10,5,5,256.0
+7:38.0, ,5-10,Defensive rebound by J. Tatum,,1,10,5,5,262.0
+7:22.0, ,5-12,J. Tatum makes 2-pt layup from 3 ft,,1,12,5,7,278.0
+7:04.0,K. Middleton misses 2-pt jump shot from 8 ft,5-12, ,,1,12,5,7,296.0
+7:01.0, ,5-12,Defensive rebound by J. Holiday,,1,12,5,7,299.0
+6:50.0, ,5-12,Turnover by J. Tatum (bad pass; steal by K. Middleton),,1,12,5,7,310.0
+6:43.0,Turnover by M. Beasley (lost ball; steal by J. Holiday),5-12, ,,1,12,5,7,317.0
+6:37.0, ,5-12,K. Porziņģis misses 3-pt jump shot from 30 ft,,1,12,5,7,323.0
+6:33.0,Defensive rebound by K. Middleton,5-12, ,,1,12,5,7,327.0
+6:29.0,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),7-12, ,,1,12,7,5,331.0
+6:09.0, ,7-15,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),,1,15,7,8,351.0
+5:57.0,D. Lillard misses 2-pt jump shot from 11 ft,7-15, ,,1,15,7,8,363.0
+5:55.0, ,7-15,Defensive rebound by K. Porziņģis,,1,15,7,8,365.0
+5:44.0, ,7-15,J. Tatum misses 3-pt jump shot from 25 ft,,1,15,7,8,376.0
+5:42.0,Defensive rebound by G. Antetokounmpo,7-15, ,,1,15,7,8,378.0
+5:34.0,Shooting foul by K. Porziņģis (drawn by G. Antetokounmpo),7-15, ,,1,15,7,8,386.0
+5:34.0,G. Antetokounmpo misses free throw 1 of 2,7-15, ,,1,15,7,8,386.0
+5:34.0,Offensive rebound by Team,7-15, ,,1,15,7,8,386.0
+5:34.0,M. Beauchamp enters the game for M. Beasley,7-15, ,,1,15,7,8,386.0
+5:34.0,P. Connaughton enters the game for K. Middleton,7-15, ,,1,15,7,8,386.0
+5:34.0, ,7-15,S. Hauser enters the game for J. Holiday,,1,15,7,8,386.0
+5:34.0, ,7-15,A. Horford enters the game for J. Tatum,,1,15,7,8,386.0
+5:34.0,G. Antetokounmpo makes free throw 2 of 2,8-15, ,,1,15,8,7,386.0
+5:25.0, ,8-18,A. Horford makes 3-pt jump shot from 23 ft (assist by D. White),,1,18,8,10,395.0
+5:12.0,D. Lillard misses 2-pt jump shot from 17 ft,8-18, ,,1,18,8,10,408.0
+5:12.0, ,8-18,Defensive rebound by J. Brown,,1,18,8,10,408.0
+5:04.0, ,8-21,D. White makes 3-pt jump shot from 29 ft (assist by J. Brown),,1,21,8,13,416.0
+4:47.0,G. Antetokounmpo misses 2-pt jump shot from 20 ft,8-21, ,,1,21,8,13,433.0
+4:45.0,Offensive rebound by Team,8-21, ,,1,21,8,13,435.0
+4:45.0,B. Portis enters the game for G. Antetokounmpo,8-21, ,,1,21,8,13,435.0
+4:42.0,D. Lillard misses 3-pt jump shot from 27 ft,8-21, ,,1,21,8,13,438.0
+4:39.0, ,8-21,Defensive rebound by K. Porziņģis,,1,21,8,13,441.0
+4:24.0, ,8-21,K. Porziņģis misses 2-pt layup from 7 ft,,1,21,8,13,456.0
+4:21.0,Defensive rebound by P. Connaughton,8-21, ,,1,21,8,13,459.0
+4:08.0,B. Lopez makes 2-pt jump shot from 14 ft (assist by D. Lillard),10-21, ,,1,21,10,11,472.0
+3:46.0, ,10-21,Shooting foul by D. Lillard (drawn by K. Porziņģis),,1,21,10,11,494.0
+3:46.0, ,10-21,K. Porziņģis misses free throw 1 of 2,,1,21,10,11,494.0
+3:46.0, ,10-21,Offensive rebound by Team,,1,21,10,11,494.0
+3:46.0, ,10-22,K. Porziņģis makes free throw 2 of 2,,1,22,10,12,494.0
+3:37.0,D. Lillard misses 3-pt jump shot from 26 ft,10-22, ,,1,22,10,12,503.0
+3:34.0, ,10-22,Defensive rebound by K. Porziņģis,,1,22,10,12,506.0
+3:20.0, ,10-22,A. Horford misses 2-pt hook shot from 9 ft,,1,22,10,12,520.0
+3:18.0,Defensive rebound by B. Portis,10-22, ,,1,22,10,12,522.0
+3:06.0,P. Connaughton misses 3-pt jump shot from 26 ft,10-22, ,,1,22,10,12,534.0
+3:03.0, ,10-22,Defensive rebound by D. White,,1,22,10,12,537.0
+2:58.0, ,10-22,D. White misses 3-pt jump shot from 28 ft,,1,22,10,12,542.0
+2:56.0,Defensive rebound by D. Lillard,10-22, ,,1,22,10,12,544.0
+2:54.0,Turnover by D. Lillard (bad pass),10-22, ,,1,22,10,12,546.0
+2:54.0, ,10-22,Boston full timeout,,1,22,10,12,546.0
+2:54.0,G. Antetokounmpo enters the game for B. Lopez,10-22, ,,1,22,10,12,546.0
+2:54.0, ,10-22,J. Holiday enters the game for J. Brown,,1,22,10,12,546.0
+2:54.0, ,10-22,P. Pritchard enters the game for K. Porziņģis,,1,22,10,12,546.0
+2:54.0, ,10-22,J. Tatum enters the game for D. White,,1,22,10,12,546.0
+2:39.0, ,10-24,J. Tatum makes 2-pt layup from 3 ft,,1,24,10,14,561.0
+2:19.0,Personal foul by J. Tatum (drawn by G. Antetokounmpo),10-24, ,,1,24,10,14,581.0
+2:10.0,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by D. Lillard),12-24, ,,1,24,12,12,590.0
+2:02.0, ,12-24,J. Holiday misses 3-pt jump shot from 27 ft,,1,24,12,12,598.0
+1:59.0,Defensive rebound by B. Portis,12-24, ,,1,24,12,12,601.0
+1:51.0,B. Portis makes 2-pt layup from 2 ft (assist by D. Lillard),14-24, ,,1,24,14,10,609.0
+1:25.0, ,14-26,P. Pritchard makes 2-pt jump shot from 16 ft,,1,26,14,12,635.0
+1:12.0,G. Antetokounmpo misses 2-pt layup from 1 ft,14-26, ,,1,26,14,12,648.0
+1:11.0, ,14-26,Defensive rebound by J. Tatum,,1,26,14,12,649.0
+1:06.0, ,14-26,P. Pritchard misses 3-pt jump shot from 25 ft,,1,26,14,12,654.0
+1:03.0,Defensive rebound by G. Antetokounmpo,14-26, ,,1,26,14,12,657.0
+0:57.0,D. Lillard misses 2-pt layup from 3 ft (block by S. Hauser),14-26, ,,1,26,14,12,663.0
+0:56.0,Offensive rebound by Team,14-26, ,,1,26,14,12,664.0
+0:52.0,G. Antetokounmpo misses 2-pt layup from 3 ft,14-26, ,,1,26,14,12,668.0
+0:50.0, ,14-26,Defensive rebound by J. Tatum,,1,26,14,12,670.0
+0:44.0, ,14-29,S. Hauser makes 3-pt jump shot from 24 ft (assist by A. Horford),,1,29,14,15,676.0
+0:30.0,D. Lillard makes 3-pt jump shot from 27 ft,17-29, ,,1,29,17,12,690.0
+0:05.0, ,17-29,J. Tatum misses 2-pt jump shot from 20 ft,,1,29,17,12,715.0
+0:03.0,Defensive rebound by D. Lillard,17-29, ,,1,29,17,12,717.0
+0:00.0,G. Antetokounmpo misses 3-pt jump shot from 32 ft,17-29, ,,1,29,17,12,720.0
+0:00.0,Offensive rebound by Team,17-29, ,,1,29,17,12,720.0
+0:00.0,End of 1st quarter,17-29,,,1,29,17,12,720.0
+12:00.0,Start of 2nd quarter,17-29,,,2,29,17,12,720.0
+11:52.0,C. Payne makes 3-pt jump shot from 26 ft (assist by K. Middleton),20-29, ,,2,29,20,9,728.0
+11:33.0, ,20-29,J. Holiday misses 2-pt jump shot from 20 ft,,2,29,20,9,747.0
+11:31.0,Defensive rebound by P. Connaughton,20-29, ,,2,29,20,9,749.0
+11:18.0,B. Portis makes 2-pt hook shot from 8 ft (assist by K. Middleton),22-29, ,,2,29,22,7,762.0
+10:53.0, ,22-32,A. Horford makes 3-pt jump shot from 27 ft (assist by P. Pritchard),,2,32,22,10,787.0
+10:26.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,22-32, ,,2,32,22,10,814.0
+10:22.0, ,22-32,Defensive rebound by J. Holiday,,2,32,22,10,818.0
+10:17.0, ,22-32,Turnover by J. Holiday (lost ball; steal by G. Antetokounmpo),,2,32,22,10,823.0
+10:06.0,K. Middleton misses 2-pt layup from 2 ft,22-32, ,,2,32,22,10,834.0
+10:06.0,Offensive rebound by K. Middleton,22-32, ,,2,32,22,10,834.0
+10:06.0,Shooting foul by S. Hauser (drawn by K. Middleton),22-32, ,,2,32,22,10,834.0
+10:06.0,K. Middleton makes free throw 1 of 2,23-32, ,,2,32,23,9,834.0
+10:06.0,K. Middleton makes free throw 2 of 2,24-32, ,,2,32,24,8,834.0
+9:55.0, ,24-32,Shooting foul by K. Middleton (drawn by J. Tatum),,2,32,24,8,845.0
+9:55.0, ,24-33,J. Tatum makes free throw 1 of 2,,2,33,24,9,845.0
+9:55.0, ,24-34,J. Tatum makes free throw 2 of 2,,2,34,24,10,845.0
+9:43.0,G. Antetokounmpo makes 2-pt dunk at rim,26-34, ,,2,34,26,8,857.0
+9:16.0, ,26-37,S. Hauser makes 3-pt jump shot from 24 ft (assist by A. Horford),,2,37,26,11,884.0
+8:57.0,C. Payne misses 3-pt jump shot from 24 ft,26-37, ,,2,37,26,11,903.0
+8:53.0, ,26-37,Defensive rebound by S. Hauser,,2,37,26,11,907.0
+8:45.0, ,26-39,J. Tatum makes 2-pt layup from 3 ft,,2,39,26,13,915.0
+8:45.0,Milwaukee full timeout,26-39, ,,2,39,26,13,915.0
+8:45.0,M. Beasley enters the game for G. Antetokounmpo,26-39, ,,2,39,26,13,915.0
+8:45.0,M. Beauchamp enters the game for P. Connaughton,26-39, ,,2,39,26,13,915.0
+8:30.0,M. Beauchamp makes 3-pt jump shot from 25 ft (assist by M. Beasley),29-39, ,,2,39,29,10,930.0
+8:13.0, ,29-42,P. Pritchard makes 3-pt jump shot from 23 ft (assist by A. Horford),,2,42,29,13,947.0
+8:02.0,C. Payne misses 2-pt jump shot from 16 ft,29-42, ,,2,42,29,13,958.0
+8:01.0,Offensive rebound by M. Beauchamp,29-42, ,,2,42,29,13,959.0
+7:59.0,M. Beauchamp makes 2-pt layup at rim,31-42, ,,2,42,31,11,961.0
+7:43.0, ,31-45,J. Tatum makes 3-pt jump shot from 28 ft,,2,45,31,14,977.0
+7:27.0,K. Middleton misses 2-pt jump shot from 8 ft,31-45, ,,2,45,31,14,993.0
+7:25.0, ,31-45,Defensive rebound by J. Tatum,,2,45,31,14,995.0
+7:11.0, ,31-47,A. Horford makes 2-pt layup from 2 ft,,2,47,31,16,1009.0
+7:11.0, ,31-47,Shooting foul by B. Portis (drawn by A. Horford),,2,47,31,16,1009.0
+7:11.0,B. Lopez enters the game for B. Portis,31-47, ,,2,47,31,16,1009.0
+7:11.0, ,31-47,J. Brown enters the game for J. Holiday,,2,47,31,16,1009.0
+7:11.0, ,31-47,D. White enters the game for J. Tatum,,2,47,31,16,1009.0
+7:11.0, ,31-48,A. Horford makes free throw 1 of 1,,2,48,31,17,1009.0
+6:54.0,K. Middleton misses 2-pt jump shot from 8 ft,31-48, ,,2,48,31,17,1026.0
+6:51.0, ,31-48,Defensive rebound by P. Pritchard,,2,48,31,17,1029.0
+6:45.0, ,31-48,S. Hauser misses 3-pt jump shot from 27 ft,,2,48,31,17,1035.0
+6:41.0,Defensive rebound by M. Beauchamp,31-48, ,,2,48,31,17,1039.0
+6:35.0,C. Payne misses 2-pt layup from 3 ft,31-48, ,,2,48,31,17,1045.0
+6:34.0, ,31-48,Defensive rebound by A. Horford,,2,48,31,17,1046.0
+6:21.0, ,31-51,P. Pritchard makes 3-pt jump shot from 27 ft (assist by J. Brown),,2,51,31,20,1059.0
+6:00.0,B. Lopez makes 2-pt jump shot from 21 ft (assist by M. Beasley),33-51, ,,2,51,33,18,1080.0
+5:51.0, ,33-53,J. Brown makes 2-pt layup from 3 ft,,2,53,33,20,1089.0
+5:51.0, ,33-53,Shooting foul by K. Middleton (drawn by J. Brown),,2,53,33,20,1089.0
+5:51.0,P. Connaughton enters the game for K. Middleton,33-53, ,,2,53,33,20,1089.0
+5:51.0,D. Lillard enters the game for C. Payne,33-53, ,,2,53,33,20,1089.0
+5:51.0, ,33-53,K. Porziņģis enters the game for A. Horford,,2,53,33,20,1089.0
+5:51.0, ,33-54,J. Brown makes free throw 1 of 1,,2,54,33,21,1089.0
+5:35.0,D. Lillard makes 2-pt layup from 2 ft,35-54, ,,2,54,35,19,1105.0
+5:24.0, ,35-54,K. Porziņģis misses 3-pt jump shot from 27 ft,,2,54,35,19,1116.0
+5:19.0, ,35-54,Offensive rebound by S. Hauser,,2,54,35,19,1121.0
+5:19.0, ,35-56,S. Hauser makes 2-pt layup at rim,,2,56,35,21,1121.0
+5:05.0,B. Lopez makes 2-pt layup from 2 ft (assist by M. Beasley),37-56, ,,2,56,37,19,1135.0
+5:05.0,Shooting foul by J. Brown (drawn by B. Lopez),37-56, ,,2,56,37,19,1135.0
+5:05.0,G. Antetokounmpo enters the game for M. Beasley,37-56, ,,2,56,37,19,1135.0
+5:05.0,A. Jackson enters the game for P. Connaughton,37-56, ,,2,56,37,19,1135.0
+5:05.0,B. Lopez makes free throw 1 of 1,38-56, ,,2,56,38,18,1135.0
+4:51.0, ,38-56,D. White misses 2-pt jump shot from 10 ft,,2,56,38,18,1149.0
+4:49.0,Defensive rebound by D. Lillard,38-56, ,,2,56,38,18,1151.0
+4:42.0,G. Antetokounmpo misses 2-pt hook shot from 9 ft,38-56, ,,2,56,38,18,1158.0
+4:36.0,Offensive rebound by A. Jackson,38-56, ,,2,56,38,18,1164.0
+4:36.0,A. Jackson makes 2-pt dunk at rim,40-56, ,,2,56,40,16,1164.0
+4:21.0, ,40-58,K. Porziņģis makes 2-pt dunk from 2 ft (assist by J. Brown),,2,58,40,18,1179.0
+4:11.0,D. Lillard makes 2-pt jump shot from 12 ft,42-58, ,,2,58,42,16,1189.0
+3:59.0, ,42-61,K. Porziņģis makes 3-pt jump shot from 27 ft (assist by J. Brown),,2,61,42,19,1201.0
+3:43.0,B. Lopez makes 3-pt jump shot from 28 ft (assist by D. Lillard),45-61, ,,2,61,45,16,1217.0
+3:25.0, ,45-61,Turnover by D. White (bad pass),,2,61,45,16,1235.0
+3:15.0,Personal foul by S. Hauser (drawn by B. Lopez),45-61, ,,2,61,45,16,1245.0
+3:10.0,Offensive foul by A. Jackson (drawn by D. White),45-61, ,,2,61,45,16,1250.0
+3:10.0,Turnover by A. Jackson (offensive foul),45-61, ,,2,61,45,16,1250.0
+3:10.0, ,45-61,Boston full timeout,,2,61,45,16,1250.0
+3:10.0, ,45-61,J. Holiday enters the game for S. Hauser,,2,61,45,16,1250.0
+3:10.0, ,45-61,J. Tatum enters the game for P. Pritchard,,2,61,45,16,1250.0
+2:58.0, ,45-63,K. Porziņģis makes 2-pt dunk from 2 ft (assist by J. Brown),,2,63,45,18,1262.0
+2:47.0,D. Lillard misses 2-pt layup at rim,45-63, ,,2,63,45,18,1273.0
+2:45.0, ,45-63,Defensive rebound by D. White,,2,63,45,18,1275.0
+2:41.0, ,45-65,K. Porziņģis makes 2-pt dunk from 2 ft (assist by D. White),,2,65,45,20,1279.0
+2:18.0,M. Beauchamp misses 3-pt jump shot from 25 ft,45-65, ,,2,65,45,20,1302.0
+2:17.0,Offensive rebound by G. Antetokounmpo,45-65, ,,2,65,45,20,1303.0
+2:12.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,47-65, ,,2,65,47,18,1308.0
+1:55.0, ,47-67,J. Brown makes 2-pt layup from 3 ft (assist by J. Tatum),,2,67,47,20,1325.0
+1:41.0,A. Jackson makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),50-67, ,,2,67,50,17,1339.0
+1:27.0, ,50-67,Turnover by D. White (bad pass; steal by B. Lopez),,2,67,50,17,1353.0
+1:22.0,Offensive foul by G. Antetokounmpo (drawn by J. Holiday),50-67, ,,2,67,50,17,1358.0
+1:22.0,Turnover by G. Antetokounmpo (offensive foul),50-67, ,,2,67,50,17,1358.0
+1:05.0, ,50-67,J. Tatum misses 3-pt jump shot from 27 ft,,2,67,50,17,1375.0
+1:03.0,Defensive rebound by G. Antetokounmpo,50-67, ,,2,67,50,17,1377.0
+0:56.0,D. Lillard misses 3-pt jump shot from 25 ft,50-67, ,,2,67,50,17,1384.0
+0:55.0,Offensive rebound by B. Lopez,50-67, ,,2,67,50,17,1385.0
+0:53.0,B. Lopez makes 2-pt layup at rim,52-67, ,,2,67,52,15,1387.0
+0:47.0, ,52-67,Personal foul by M. Beauchamp (drawn by J. Brown),,2,67,52,15,1393.0
+0:38.0, ,52-67,K. Porziņģis misses 3-pt jump shot from 28 ft,,2,67,52,15,1402.0
+0:33.0,Defensive rebound by G. Antetokounmpo,52-67, ,,2,67,52,15,1407.0
+0:33.0,Personal foul by J. Holiday (drawn by G. Antetokounmpo),52-67, ,,2,67,52,15,1407.0
+0:24.0,Shooting foul by K. Porziņģis (drawn by G. Antetokounmpo),52-67, ,,2,67,52,15,1416.0
+0:24.0,G. Antetokounmpo makes free throw 1 of 2,53-67, ,,2,67,53,14,1416.0
+0:24.0,G. Antetokounmpo misses free throw 2 of 2,53-67, ,,2,67,53,14,1416.0
+0:23.0, ,53-67,Defensive rebound by J. Brown,,2,67,53,14,1417.0
+0:00.0, ,53-67,J. Holiday misses 3-pt jump shot from 26 ft,,2,67,53,14,1440.0
+0:00.0, ,53-67,Offensive rebound by Team,,2,67,53,14,1440.0
+0:00.0,End of 2nd quarter,53-67,,,2,67,53,14,1440.0
+12:00.0,Start of 3rd quarter,53-67,,,3,67,53,14,1440.0
+11:41.0,B. Lopez makes 2-pt layup from 3 ft,55-67, ,,3,67,55,12,1459.0
+11:18.0, ,55-67,J. Brown misses 3-pt jump shot from 26 ft,,3,67,55,12,1482.0
+11:16.0,Defensive rebound by G. Antetokounmpo,55-67, ,,3,67,55,12,1484.0
+11:07.0,G. Antetokounmpo misses 2-pt dunk from 4 ft,55-67, ,,3,67,55,12,1493.0
+11:04.0,Offensive rebound by G. Antetokounmpo,55-67, ,,3,67,55,12,1496.0
+11:04.0,G. Antetokounmpo makes 2-pt dunk at rim,57-67, ,,3,67,57,10,1496.0
+10:53.0, ,57-67,K. Porziņģis misses 3-pt jump shot from 27 ft,,3,67,57,10,1507.0
+10:50.0,Defensive rebound by K. Middleton,57-67, ,,3,67,57,10,1510.0
+10:47.0,D. Lillard misses 3-pt jump shot from 33 ft,57-67, ,,3,67,57,10,1513.0
+10:44.0,Offensive rebound by K. Middleton,57-67, ,,3,67,57,10,1516.0
+10:42.0,K. Middleton makes 2-pt layup from 4 ft,59-67, ,,3,67,59,8,1518.0
+10:25.0, ,59-70,J. Tatum makes 3-pt jump shot from 26 ft (assist by D. White),,3,70,59,11,1535.0
+10:09.0,B. Lopez misses 3-pt jump shot from 25 ft,59-70, ,,3,70,59,11,1551.0
+10:08.0, ,59-70,Defensive rebound by J. Tatum,,3,70,59,11,1552.0
+10:02.0, ,59-70,Personal foul by M. Beasley (drawn by K. Porziņģis),,3,70,59,11,1558.0
+10:00.0, ,59-70,K. Porziņģis misses 3-pt jump shot from 27 ft,,3,70,59,11,1560.0
+9:56.0, ,59-70,Offensive rebound by J. Holiday,,3,70,59,11,1564.0
+9:55.0, ,59-70,Personal foul by B. Lopez (drawn by K. Porziņģis),,3,70,59,11,1565.0
+9:53.0, ,59-73,J. Brown makes 3-pt jump shot from 27 ft (assist by J. Tatum),,3,73,59,14,1567.0
+9:42.0,D. Lillard makes 2-pt layup from 4 ft,61-73, ,,3,73,61,12,1578.0
+9:42.0,Shooting foul by K. Porziņģis (drawn by D. Lillard),61-73, ,,3,73,61,12,1578.0
+9:42.0,D. Lillard makes free throw 1 of 1,62-73, ,,3,73,62,11,1578.0
+9:29.0, ,62-73,Personal foul by D. Lillard (drawn by J. Tatum),,3,73,62,11,1591.0
+9:22.0, ,62-75,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Brown),,3,75,62,13,1598.0
+9:12.0,Shooting foul by J. Holiday (drawn by G. Antetokounmpo),62-75, ,,3,75,62,13,1608.0
+9:12.0,G. Antetokounmpo misses free throw 1 of 2,62-75, ,,3,75,62,13,1608.0
+9:12.0,Offensive rebound by Team,62-75, ,,3,75,62,13,1608.0
+9:12.0,G. Antetokounmpo makes free throw 2 of 2,63-75, ,,3,75,63,12,1608.0
+8:56.0, ,63-75,Personal foul by K. Middleton (drawn by K. Porziņģis),,3,75,63,12,1624.0
+8:45.0, ,63-77,K. Porziņģis makes 2-pt layup from 4 ft (assist by J. Brown),,3,77,63,14,1635.0
+8:34.0,G. Antetokounmpo misses 2-pt layup from 6 ft,63-77, ,,3,77,63,14,1646.0
+8:32.0, ,63-77,Defensive rebound by J. Holiday,,3,77,63,14,1648.0
+8:25.0, ,63-77,J. Holiday misses 3-pt jump shot from 27 ft,,3,77,63,14,1655.0
+8:22.0,Defensive rebound by M. Beasley,63-77, ,,3,77,63,14,1658.0
+8:18.0,Personal foul by J. Holiday (drawn by K. Middleton),63-77, ,,3,77,63,14,1662.0
+8:10.0,K. Middleton makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),66-77, ,,3,77,66,11,1670.0
+7:56.0, ,66-77,J. Tatum misses 3-pt jump shot from 27 ft,,3,77,66,11,1684.0
+7:53.0,Defensive rebound by G. Antetokounmpo,66-77, ,,3,77,66,11,1687.0
+7:47.0,Turnover by D. Lillard (bad pass; steal by J. Brown),66-77, ,,3,77,66,11,1693.0
+7:40.0, ,66-80,D. White makes 3-pt jump shot from 23 ft (assist by J. Tatum),,3,80,66,14,1700.0
+7:38.0,Milwaukee full timeout,66-80, ,,3,80,66,14,1702.0
+7:38.0,M. Beauchamp enters the game for M. Beasley,66-80, ,,3,80,66,14,1702.0
+7:24.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),68-80, ,,3,80,68,12,1716.0
+7:08.0, ,68-82,J. Brown makes 2-pt dunk at rim (assist by K. Porziņģis),,3,82,68,14,1732.0
+6:54.0,Shooting foul by K. Porziņģis (drawn by G. Antetokounmpo),68-82, ,,3,82,68,14,1746.0
+6:54.0,G. Antetokounmpo makes free throw 1 of 2,69-82, ,,3,82,69,13,1746.0
+6:54.0,P. Connaughton enters the game for K. Middleton,69-82, ,,3,82,69,13,1746.0
+6:54.0, ,69-82,A. Horford enters the game for K. Porziņģis,,3,82,69,13,1746.0
+6:54.0,G. Antetokounmpo makes free throw 2 of 2,70-82, ,,3,82,70,12,1746.0
+6:37.0, ,70-84,J. Brown makes 2-pt jump shot from 20 ft (assist by A. Horford),,3,84,70,14,1763.0
+6:18.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,70-84, ,,3,84,70,14,1782.0
+6:16.0, ,70-84,Defensive rebound by D. White,,3,84,70,14,1784.0
+6:07.0, ,70-84,J. Tatum misses 3-pt jump shot from 27 ft,,3,84,70,14,1793.0
+6:03.0,Defensive rebound by M. Beauchamp,70-84, ,,3,84,70,14,1797.0
+5:58.0,Turnover by G. Antetokounmpo (discontinued dribble),70-84, ,,3,84,70,14,1802.0
+5:58.0,B. Portis enters the game for G. Antetokounmpo,70-84, ,,3,84,70,14,1802.0
+5:41.0, ,70-86,D. White makes 2-pt jump shot from 16 ft,,3,86,70,16,1819.0
+5:26.0,D. Lillard makes 2-pt layup from 3 ft,72-86, ,,3,86,72,14,1834.0
+5:18.0, ,72-86,Turnover by J. Brown (discontinued dribble),,3,86,72,14,1842.0
+5:18.0,G. Antetokounmpo enters the game for B. Lopez,72-86, ,,3,86,72,14,1842.0
+5:18.0, ,72-86,S. Hauser enters the game for J. Tatum,,3,86,72,14,1842.0
+5:02.0,D. Lillard misses 2-pt jump shot from 17 ft,72-86, ,,3,86,72,14,1858.0
+4:59.0,Offensive rebound by B. Portis,72-86, ,,3,86,72,14,1861.0
+4:59.0,B. Portis misses 2-pt layup at rim,72-86, ,,3,86,72,14,1861.0
+4:58.0, ,72-86,Defensive rebound by A. Horford,,3,86,72,14,1862.0
+4:54.0, ,72-86,Turnover by S. Hauser (out of bounds lost ball),,3,86,72,14,1866.0
+4:54.0,Milwaukee full timeout,72-86, ,,3,86,72,14,1866.0
+4:54.0,Instant Replay (Challenge: Ruling Stands),72-86, ,,3,86,72,14,1866.0
+4:54.0, ,72-86,P. Pritchard enters the game for J. Holiday,,3,86,72,14,1866.0
+4:38.0,P. Connaughton makes 3-pt jump shot from 27 ft (assist by D. Lillard),75-86, ,,3,86,75,11,1882.0
+4:16.0, ,75-86,D. White misses 3-pt jump shot from 28 ft,,3,86,75,11,1904.0
+4:12.0,Defensive rebound by B. Portis,75-86, ,,3,86,75,11,1908.0
+4:04.0,B. Portis misses 2-pt layup from 6 ft (block by D. White),75-86, ,,3,86,75,11,1916.0
+4:02.0, ,75-86,Defensive rebound by A. Horford,,3,86,75,11,1918.0
+3:54.0, ,75-88,D. White makes 2-pt layup from 3 ft (assist by S. Hauser),,3,88,75,13,1926.0
+3:38.0,D. Lillard makes 2-pt layup from 3 ft,77-88, ,,3,88,77,11,1942.0
+3:20.0, ,77-88,Turnover by D. White (bad pass; steal by M. Beauchamp),,3,88,77,11,1960.0
+3:15.0,M. Beauchamp misses 2-pt jump shot from 20 ft,77-88, ,,3,88,77,11,1965.0
+3:12.0, ,77-88,Defensive rebound by P. Pritchard,,3,88,77,11,1968.0
+3:07.0, ,77-88,A. Horford misses 3-pt jump shot from 26 ft,,3,88,77,11,1973.0
+3:07.0,Defensive rebound by B. Portis,77-88, ,,3,88,77,11,1973.0
+2:45.0,Turnover by P. Connaughton (lost ball; steal by D. White),77-88, ,,3,88,77,11,1995.0
+2:26.0, ,77-88,Turnover by D. White (bad pass; steal by G. Antetokounmpo),,3,88,77,11,2014.0
+2:22.0,Turnover by G. Antetokounmpo (bad pass),77-88, ,,3,88,77,11,2018.0
+2:00.0, ,77-90,J. Brown makes 2-pt jump shot from 15 ft,,3,90,77,13,2040.0
+1:43.0,B. Portis misses 2-pt layup from 3 ft,77-90, ,,3,90,77,13,2057.0
+1:41.0, ,77-90,Defensive rebound by A. Horford,,3,90,77,13,2059.0
+1:33.0, ,77-90,Turnover by P. Pritchard (lost ball; steal by D. Lillard),,3,90,77,13,2067.0
+1:31.0,D. Lillard makes 2-pt dunk from 2 ft,79-90, ,,3,90,79,11,2069.0
+1:09.0,Loose ball foul by G. Antetokounmpo (drawn by J. Brown),79-90, ,,3,90,79,11,2091.0
+1:09.0, ,79-91,J. Brown makes free throw 1 of 2,,3,91,79,12,2091.0
+1:09.0,A. Jackson enters the game for G. Antetokounmpo,79-91, ,,3,91,79,12,2091.0
+1:09.0, ,79-92,J. Brown makes free throw 2 of 2,,3,92,79,13,2091.0
+0:53.0,M. Beauchamp misses 2-pt jump shot from 17 ft,79-92, ,,3,92,79,13,2107.0
+0:51.0, ,79-92,Defensive rebound by A. Horford,,3,92,79,13,2109.0
+0:48.0, ,79-94,S. Hauser makes 2-pt dunk at rim (assist by J. Brown),,3,94,79,15,2112.0
+0:41.0,A. Jackson misses 2-pt layup from 6 ft,79-94, ,,3,94,79,15,2119.0
+0:39.0, ,79-94,Defensive rebound by D. White,,3,94,79,15,2121.0
+0:33.0, ,79-94,D. White misses 3-pt jump shot from 27 ft,,3,94,79,15,2127.0
+0:31.0,Defensive rebound by Team,79-94, ,,3,94,79,15,2129.0
+0:15.0,D. Lillard misses 3-pt jump shot from 27 ft,79-94, ,,3,94,79,15,2145.0
+0:12.0, ,79-94,Defensive rebound by A. Horford,,3,94,79,15,2148.0
+0:01.0, ,79-94,P. Pritchard misses 2-pt jump shot from 23 ft,,3,94,79,15,2159.0
+0:00.0,Defensive rebound by B. Portis,79-94, ,,3,94,79,15,2160.0
+0:00.0,End of 3rd quarter,79-94,,,3,94,79,15,2160.0
+12:00.0,Start of 4th quarter,79-94,,,4,94,79,15,2160.0
+11:42.0, ,79-94,A. Horford misses 2-pt layup from 3 ft,,4,94,79,15,2178.0
+11:38.0, ,79-94,Offensive rebound by K. Porziņģis,,4,94,79,15,2182.0
+11:38.0, ,79-96,K. Porziņģis makes 2-pt dunk at rim,,4,96,79,17,2182.0
+11:19.0,K. Middleton misses 2-pt jump shot from 22 ft,79-96, ,,4,96,79,17,2201.0
+11:16.0, ,79-96,Defensive rebound by J. Holiday,,4,96,79,17,2204.0
+11:10.0, ,79-99,J. Holiday makes 3-pt jump shot from 26 ft,,4,99,79,20,2210.0
+10:50.0,A. Jackson makes 2-pt jump shot from 14 ft (assist by C. Payne),81-99, ,,4,99,81,18,2230.0
+10:31.0, ,81-99,Shooting foul by A. Jackson (drawn by J. Tatum),,4,99,81,18,2249.0
+10:31.0, ,81-100,J. Tatum makes free throw 1 of 2,,4,100,81,19,2249.0
+10:31.0,B. Lopez enters the game for A. Jackson,81-100, ,,4,100,81,19,2249.0
+10:31.0, ,81-100,J. Tatum misses free throw 2 of 2,,4,100,81,19,2249.0
+10:31.0,Defensive rebound by P. Connaughton,81-100, ,,4,100,81,19,2249.0
+10:19.0,K. Middleton misses 3-pt jump shot from 27 ft,81-100, ,,4,100,81,19,2261.0
+10:16.0, ,81-100,Defensive rebound by K. Porziņģis,,4,100,81,19,2264.0
+10:12.0, ,81-100,P. Pritchard misses 3-pt jump shot from 26 ft,,4,100,81,19,2268.0
+10:08.0,Defensive rebound by B. Portis,81-100, ,,4,100,81,19,2272.0
+9:58.0,B. Portis misses 2-pt jump shot from 15 ft,81-100, ,,4,100,81,19,2282.0
+9:56.0, ,81-100,Defensive rebound by J. Tatum,,4,100,81,19,2284.0
+9:45.0,Violation by Team (kicked ball),81-100, ,,4,100,81,19,2295.0
+9:38.0, ,81-100,J. Tatum misses 2-pt layup from 6 ft (block by P. Connaughton),,4,100,81,19,2302.0
+9:37.0,Defensive rebound by B. Lopez,81-100, ,,4,100,81,19,2303.0
+9:32.0,B. Lopez makes 3-pt jump shot from 28 ft (assist by C. Payne),84-100, ,,4,100,84,16,2308.0
+9:10.0, ,84-102,K. Porziņģis makes 2-pt jump shot from 15 ft (assist by A. Horford),,4,102,84,18,2330.0
+8:48.0,K. Middleton makes 2-pt layup from 2 ft,86-102, ,,4,102,86,16,2352.0
+8:25.0, ,86-104,P. Pritchard makes 2-pt layup from 4 ft,,4,104,86,18,2375.0
+8:07.0,C. Payne misses 3-pt jump shot from 27 ft,86-104, ,,4,104,86,18,2393.0
+8:06.0, ,86-104,Defensive rebound by Team,,4,104,86,18,2394.0
+8:06.0,Loose ball foul by B. Portis (drawn by K. Porziņģis),86-104, ,,4,104,86,18,2394.0
+8:06.0,M. Beasley enters the game for P. Connaughton,86-104, ,,4,104,86,18,2394.0
+7:50.0, ,86-104,Turnover by P. Pritchard (traveling),,4,104,86,18,2410.0
+7:50.0,G. Antetokounmpo enters the game for K. Middleton,86-104, ,,4,104,86,18,2410.0
+7:50.0,D. Lillard enters the game for C. Payne,86-104, ,,4,104,86,18,2410.0
+7:29.0,B. Lopez makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),88-104, ,,4,104,88,16,2431.0
+7:10.0, ,88-104,Turnover by J. Tatum (bad pass; steal by M. Beasley),,4,104,88,16,2450.0
+7:10.0, ,88-104,D. White enters the game for P. Pritchard,,4,104,88,16,2450.0
+7:03.0,B. Lopez misses 3-pt jump shot from 23 ft,88-104, ,,4,104,88,16,2457.0
+7:01.0, ,88-104,Defensive rebound by A. Horford,,4,104,88,16,2459.0
+6:56.0, ,88-104,Offensive foul by K. Porziņģis (drawn by D. Lillard),,4,104,88,16,2464.0
+6:56.0, ,88-104,Turnover by K. Porziņģis (offensive foul),,4,104,88,16,2464.0
+6:56.0, ,88-104,Boston full timeout,,4,104,88,16,2464.0
+6:56.0, ,88-104,J. Brown enters the game for K. Porziņģis,,4,104,88,16,2464.0
+6:44.0,Shooting foul by A. Horford (drawn by G. Antetokounmpo),88-104, ,,4,104,88,16,2476.0
+6:44.0,G. Antetokounmpo makes free throw 1 of 2,89-104, ,,4,104,89,15,2476.0
+6:44.0,K. Middleton enters the game for B. Portis,89-104, ,,4,104,89,15,2476.0
+6:44.0,G. Antetokounmpo makes free throw 2 of 2,90-104, ,,4,104,90,14,2476.0
+6:27.0, ,90-104,J. Tatum misses 2-pt layup from 6 ft,,4,104,90,14,2493.0
+6:25.0,Defensive rebound by G. Antetokounmpo,90-104, ,,4,104,90,14,2495.0
+6:19.0,K. Middleton misses 2-pt layup from 7 ft,90-104, ,,4,104,90,14,2501.0
+6:16.0,Offensive rebound by B. Lopez,90-104, ,,4,104,90,14,2504.0
+6:16.0,Shooting foul by J. Tatum (drawn by B. Lopez),90-104, ,,4,104,90,14,2504.0
+6:16.0,B. Lopez misses free throw 1 of 2,90-104, ,,4,104,90,14,2504.0
+6:16.0,Offensive rebound by Team,90-104, ,,4,104,90,14,2504.0
+6:16.0,B. Lopez makes free throw 2 of 2,91-104, ,,4,104,91,13,2504.0
+6:02.0, ,91-104,J. Brown misses 2-pt layup from 2 ft (block by B. Lopez),,4,104,91,13,2518.0
+5:58.0, ,91-104,Offensive rebound by A. Horford,,4,104,91,13,2522.0
+5:58.0, ,91-106,A. Horford makes 2-pt dunk at rim,,4,106,91,15,2522.0
+5:51.0,M. Beasley misses 3-pt jump shot from 28 ft,91-106, ,,4,106,91,15,2529.0
+5:48.0, ,91-106,Defensive rebound by J. Tatum,,4,106,91,15,2532.0
+5:44.0, ,91-108,J. Brown makes 2-pt layup from 1 ft (assist by A. Horford),,4,108,91,17,2536.0
+5:34.0,B. Lopez makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),93-108, ,,4,108,93,15,2546.0
+5:07.0, ,93-108,J. Brown misses 3-pt jump shot from 28 ft,,4,108,93,15,2573.0
+5:05.0,Defensive rebound by M. Beasley,93-108, ,,4,108,93,15,2575.0
+4:58.0,B. Lopez misses 2-pt layup from 4 ft (block by A. Horford),93-108, ,,4,108,93,15,2582.0
+4:57.0, ,93-108,Defensive rebound by J. Holiday,,4,108,93,15,2583.0
+4:57.0, ,93-108,Personal foul by B. Lopez (drawn by J. Holiday),,4,108,93,15,2583.0
+4:57.0, ,93-109,J. Tatum makes free throw 1 of 1,,4,109,93,16,2583.0
+4:47.0, ,93-109,J. Holiday misses 2-pt layup from 5 ft,,4,109,93,16,2593.0
+4:46.0,Defensive rebound by D. Lillard,93-109, ,,4,109,93,16,2594.0
+4:41.0,G. Antetokounmpo makes 2-pt layup from 3 ft (assist by K. Middleton),95-109, ,,4,109,95,14,2599.0
+4:19.0, ,95-109,J. Tatum misses 3-pt jump shot from 28 ft,,4,109,95,14,2621.0
+4:15.0,Defensive rebound by M. Beasley,95-109, ,,4,109,95,14,2625.0
+4:11.0,K. Middleton misses 3-pt jump shot from 24 ft,95-109, ,,4,109,95,14,2629.0
+4:08.0,Offensive rebound by B. Lopez,95-109, ,,4,109,95,14,2632.0
+4:05.0,B. Lopez makes 2-pt layup from 3 ft,97-109, ,,4,109,97,12,2635.0
+3:41.0, ,97-109,J. Brown misses 2-pt jump shot from 8 ft,,4,109,97,12,2659.0
+3:39.0,Defensive rebound by D. Lillard,97-109, ,,4,109,97,12,2661.0
+3:31.0,D. Lillard makes 2-pt layup from 3 ft,99-109, ,,4,109,99,10,2669.0
+3:31.0, ,99-109,Boston full timeout,,4,109,99,10,2669.0
+3:31.0, ,99-109,K. Porziņģis enters the game for J. Holiday,,4,109,99,10,2669.0
+3:12.0, ,99-112,K. Porziņģis makes 3-pt jump shot from 28 ft (assist by D. White),,4,112,99,13,2688.0
+2:55.0,D. Lillard makes 3-pt jump shot from 26 ft (assist by K. Middleton),102-112, ,,4,112,102,10,2705.0
+2:34.0, ,102-112,J. Tatum misses 3-pt jump shot from 27 ft,,4,112,102,10,2726.0
+2:32.0,Defensive rebound by G. Antetokounmpo,102-112, ,,4,112,102,10,2728.0
+2:26.0,B. Lopez misses 2-pt layup from 3 ft,102-112, ,,4,112,102,10,2734.0
+2:24.0, ,102-112,Defensive rebound by K. Porziņģis,,4,112,102,10,2736.0
+2:18.0, ,102-112,J. Brown misses 2-pt layup from 8 ft,,4,112,102,10,2742.0
+2:17.0,Defensive rebound by B. Lopez,102-112, ,,4,112,102,10,2743.0
+2:10.0,G. Antetokounmpo misses 2-pt layup from 5 ft,102-112, ,,4,112,102,10,2750.0
+2:08.0, ,102-112,Defensive rebound by J. Tatum,,4,112,102,10,2752.0
+1:55.0, ,102-112,Turnover by D. White (bad pass; steal by D. Lillard),,4,112,102,10,2765.0
+1:54.0, ,102-112,Technical foul by K. Porziņģis,,4,112,102,10,2766.0
+1:54.0,D. Lillard makes technical free throw,103-112, ,,4,112,103,9,2766.0
+1:54.0, ,103-112,J. Holiday enters the game for K. Porziņģis,,4,112,103,9,2766.0
+1:45.0,D. Lillard makes 2-pt layup from 7 ft,105-112, ,,4,112,105,7,2775.0
+1:30.0, ,105-114,J. Tatum makes 2-pt dunk from 1 ft,,4,114,105,9,2790.0
+1:20.0,K. Middleton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),108-114, ,,4,114,108,6,2800.0
+1:13.0, ,108-114,Personal foul by G. Antetokounmpo (drawn by J. Holiday),,4,114,108,6,2807.0
+0:55.0, ,108-114,J. Holiday misses 3-pt jump shot from 26 ft,,4,114,108,6,2825.0
+0:53.0,Defensive rebound by Team,108-114, ,,4,114,108,6,2827.0
+0:44.0,D. Lillard makes 3-pt jump shot from 27 ft,111-114, ,,4,114,111,3,2836.0
+0:21.0, ,111-114,Shooting foul by K. Middleton (drawn by J. Tatum),,4,114,111,3,2859.0
+0:21.0, ,111-115,J. Tatum makes free throw 1 of 2,,4,115,111,4,2859.0
+0:21.0, ,111-115,J. Tatum misses free throw 2 of 2,,4,115,111,4,2859.0
+0:20.0,Defensive rebound by G. Antetokounmpo,111-115, ,,4,115,111,4,2860.0
+0:20.0,Milwaukee full timeout,111-115, ,,4,115,111,4,2860.0
+0:18.0,Personal take foul by D. White (drawn by D. Lillard),111-115, ,,4,115,111,4,2862.0
+0:13.0,D. Lillard misses 2-pt dunk from 3 ft,111-115, ,,4,115,111,4,2867.0
+0:11.0, ,111-115,Defensive rebound by J. Tatum,,4,115,111,4,2869.0
+0:11.0, ,111-115,Personal take foul by B. Lopez (drawn by J. Tatum),,4,115,111,4,2869.0
+0:11.0, ,111-116,J. Tatum makes free throw 1 of 2,,4,116,111,5,2869.0
+0:11.0, ,111-117,J. Tatum makes free throw 2 of 2,,4,117,111,6,2869.0
+0:11.0,Milwaukee full timeout,111-117, ,,4,117,111,6,2869.0
+0:10.0,D. Lillard misses 3-pt jump shot from 24 ft,111-117, ,,4,117,111,6,2870.0
+0:07.0,Offensive rebound by B. Lopez,111-117, ,,4,117,111,6,2873.0
+0:07.0,B. Lopez makes 2-pt layup from 2 ft,113-117, ,,4,117,113,4,2873.0
+0:03.0, ,113-117,Personal take foul by G. Antetokounmpo (drawn by J. Holiday),,4,117,113,4,2877.0
+0:03.0, ,113-118,J. Holiday makes free throw 1 of 2,,4,118,113,5,2877.0
+0:03.0, ,113-119,J. Holiday makes free throw 2 of 2,,4,119,113,6,2877.0
+0:00.0,M. Beasley makes 3-pt jump shot from 27 ft,116-119, ,,4,119,116,3,2880.0
+0:00.0,Instant Replay (Request: Ruling Stands),116-119, ,,4,119,116,3,2880.0
+0:00.0,End of 4th quarter,116-119,,,4,119,116,3,2880.0

@@ -1,0 +1,451 @@
+Time,Boston,Score,LA Clippers,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: A. Horford vs. I. Zubac (J. Brown gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,J. Brown makes 3-pt jump shot from 26 ft,3-0, ,,1,3,0,3,15.0
+11:23.0, ,3-3,P. George makes 3-pt jump shot from 25 ft (assist by A. Coffey),Tie,1,3,3,0,37.0
+11:09.0,J. Tatum misses 3-pt jump shot from 26 ft,3-3, ,,1,3,3,0,51.0
+11:07.0, ,3-3,Defensive rebound by P. George,,1,3,3,0,53.0
+10:57.0, ,3-3,J. Harden misses 3-pt jump shot from 26 ft,,1,3,3,0,63.0
+10:54.0, ,3-3,Offensive rebound by I. Zubac,,1,3,3,0,66.0
+10:44.0, ,3-3,Personal foul by J. Brown (drawn by J. Harden),,1,3,3,0,76.0
+10:31.0, ,3-3,P. George misses 3-pt jump shot from 26 ft,,1,3,3,0,89.0
+10:28.0,Defensive rebound by J. Holiday,3-3, ,,1,3,3,0,92.0
+10:22.0,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Holiday),6-3, ,,1,6,3,3,98.0
+10:09.0, ,6-3,Personal foul by J. Brown (drawn by P. George),,1,6,3,3,111.0
+9:59.0, ,6-3,Turnover by J. Harden (bad pass; steal by J. Brown),,1,6,3,3,121.0
+9:51.0,J. Brown misses 3-pt jump shot from 29 ft,6-3, ,,1,6,3,3,129.0
+9:49.0, ,6-3,Defensive rebound by I. Zubac,,1,6,3,3,131.0
+9:44.0, ,6-5,J. Harden makes 2-pt layup from 2 ft,,1,6,5,1,136.0
+9:31.0,A. Horford misses 2-pt hook shot from 5 ft,6-5, ,,1,6,5,1,149.0
+9:28.0,Offensive rebound by J. Brown,6-5, ,,1,6,5,1,152.0
+9:26.0,D. White misses 3-pt jump shot from 25 ft,6-5, ,,1,6,5,1,154.0
+9:25.0, ,6-5,Defensive rebound by A. Coffey,,1,6,5,1,155.0
+9:25.0, ,6-5,Turnover by A. Coffey (out of bounds lost ball),,1,6,5,1,155.0
+9:17.0,D. White misses 3-pt jump shot from 28 ft,6-5, ,,1,6,5,1,163.0
+9:12.0,Offensive rebound by J. Holiday,6-5, ,,1,6,5,1,168.0
+9:12.0,J. Holiday misses 2-pt layup from 5 ft (block by P. George),6-5, ,,1,6,5,1,168.0
+9:12.0, ,6-5,Defensive rebound by A. Coffey,,1,6,5,1,168.0
+9:04.0,Violation by Team (kicked ball),6-5, ,,1,6,5,1,176.0
+8:49.0, ,6-5,Turnover by Team (shot clock),,1,6,5,1,191.0
+8:38.0,J. Holiday makes 3-pt jump shot from 24 ft (assist by A. Horford),9-5, ,,1,9,5,4,202.0
+8:24.0, ,9-8,P. George makes 3-pt jump shot from 27 ft (assist by J. Harden),,1,9,8,1,216.0
+8:10.0,J. Holiday misses 3-pt jump shot from 26 ft,9-8, ,,1,9,8,1,230.0
+8:08.0, ,9-8,Defensive rebound by T. Mann,,1,9,8,1,232.0
+7:54.0, ,9-8,Shooting foul by A. Horford (drawn by I. Zubac),,1,9,8,1,246.0
+7:54.0, ,9-8,Instant Replay,,1,9,8,1,246.0
+7:54.0, ,9-9,I. Zubac makes free throw 1 of 2,Tie,1,9,9,0,246.0
+7:54.0, ,9-10,I. Zubac makes free throw 2 of 2,Lead change,1,9,10,-1,246.0
+7:37.0,J. Holiday makes 2-pt layup from 3 ft (assist by D. White),11-10, ,Lead change,1,11,10,1,263.0
+7:20.0, ,11-12,P. George makes 2-pt jump shot from 15 ft,Lead change,1,11,12,-1,280.0
+7:05.0,J. Brown misses 2-pt layup from 5 ft,11-12, ,,1,11,12,-1,295.0
+7:03.0, ,11-12,Defensive rebound by T. Mann,,1,11,12,-1,297.0
+6:57.0, ,11-12,I. Zubac misses 2-pt dunk from 3 ft,,1,11,12,-1,303.0
+6:54.0,Defensive rebound by D. White,11-12, ,,1,11,12,-1,306.0
+6:46.0,J. Brown misses 3-pt jump shot from 27 ft,11-12, ,,1,11,12,-1,314.0
+6:45.0, ,11-12,Defensive rebound by I. Zubac,,1,11,12,-1,315.0
+6:40.0, ,11-12,T. Mann misses 3-pt jump shot from 23 ft,,1,11,12,-1,320.0
+6:36.0,Defensive rebound by J. Tatum,11-12, ,,1,11,12,-1,324.0
+6:32.0,D. White makes 3-pt jump shot from 24 ft (assist by J. Brown),14-12, ,Lead change,1,14,12,2,328.0
+6:31.0, ,14-12,LA Clippers full timeout,,1,14,12,2,329.0
+6:31.0,O. Brissett enters the game for J. Brown,14-12, ,,1,14,12,2,329.0
+6:31.0,S. Hauser enters the game for J. Holiday,14-12, ,,1,14,12,2,329.0
+6:31.0,N. Queta enters the game for A. Horford,14-12, ,,1,14,12,2,329.0
+6:20.0, ,14-14,P. George makes 2-pt layup from 5 ft (assist by J. Harden),Tie,1,14,14,0,340.0
+5:56.0,D. White misses 3-pt jump shot from 30 ft,14-14, ,,1,14,14,0,364.0
+5:54.0,Offensive rebound by Team,14-14, ,,1,14,14,0,366.0
+5:54.0, ,14-14,N. Powell enters the game for A. Coffey,,1,14,14,0,366.0
+5:54.0, ,14-14,R. Westbrook enters the game for T. Mann,,1,14,14,0,366.0
+5:47.0,D. White makes 2-pt jump shot from 10 ft,16-14, ,,1,16,14,2,373.0
+5:32.0, ,16-14,Turnover by R. Westbrook (step out of bounds),,1,16,14,2,388.0
+5:18.0,J. Tatum misses 3-pt jump shot from 29 ft,16-14, ,,1,16,14,2,402.0
+5:17.0, ,16-14,Defensive rebound by Team,,1,16,14,2,403.0
+5:06.0, ,16-14,J. Harden misses 2-pt jump shot from 9 ft,,1,16,14,2,414.0
+5:04.0,Defensive rebound by O. Brissett,16-14, ,,1,16,14,2,416.0
+5:01.0,Offensive foul by N. Queta (drawn by J. Harden),16-14, ,,1,16,14,2,419.0
+5:01.0,Turnover by N. Queta (offensive foul),16-14, ,,1,16,14,2,419.0
+4:51.0, ,16-14,Turnover by P. George (traveling),,1,16,14,2,429.0
+4:40.0,Turnover by D. White (bad pass; steal by J. Harden),16-14, ,,1,16,14,2,440.0
+4:32.0, ,16-14,I. Zubac misses 2-pt layup from 4 ft (block by D. White),,1,16,14,2,448.0
+4:31.0,Defensive rebound by D. White,16-14, ,,1,16,14,2,449.0
+4:31.0,Turnover by D. White (bad pass),16-14, ,,1,16,14,2,449.0
+4:15.0, ,16-14,N. Powell misses 2-pt layup from 5 ft,,1,16,14,2,465.0
+4:13.0,Defensive rebound by N. Queta,16-14, ,,1,16,14,2,467.0
+4:00.0,S. Hauser misses 3-pt jump shot from 25 ft,16-14, ,,1,16,14,2,480.0
+3:58.0,Offensive rebound by Team,16-14, ,,1,16,14,2,482.0
+3:58.0, ,16-14,Loose ball foul by N. Powell (drawn by O. Brissett),,1,16,14,2,482.0
+3:52.0,D. White misses 3-pt jump shot from 29 ft,16-14, ,,1,16,14,2,488.0
+3:49.0,Offensive rebound by N. Queta,16-14, ,,1,16,14,2,491.0
+3:41.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by S. Hauser),19-14, ,,1,19,14,5,499.0
+3:20.0, ,19-14,P. George misses 3-pt jump shot from 28 ft (block by D. White),,1,19,14,5,520.0
+3:19.0,Defensive rebound by D. White,19-14, ,,1,19,14,5,521.0
+3:19.0,Personal foul by P. George (drawn by D. White),19-14, ,,1,19,14,5,521.0
+3:19.0, ,19-14,K. Brown enters the game for J. Harden,,1,19,14,5,521.0
+3:19.0, ,19-14,D. Theis enters the game for I. Zubac,,1,19,14,5,521.0
+3:11.0, ,19-14,Violation by Team (kicked ball),,1,19,14,5,529.0
+3:03.0,Personal foul by N. Powell (drawn by J. Tatum),19-14, ,,1,19,14,5,537.0
+3:03.0,P. Pritchard enters the game for O. Brissett,19-14, ,,1,19,14,5,537.0
+2:56.0,P. Pritchard misses 3-pt jump shot from 23 ft,19-14, ,,1,19,14,5,544.0
+2:54.0,Offensive rebound by N. Queta,19-14, ,,1,19,14,5,546.0
+2:51.0,N. Queta misses 2-pt hook shot from 6 ft,19-14, ,,1,19,14,5,549.0
+2:51.0,Offensive rebound by P. Pritchard,19-14, ,,1,19,14,5,549.0
+2:39.0,J. Tatum makes 2-pt layup from 5 ft (assist by S. Hauser),21-14, ,,1,21,14,7,561.0
+2:26.0, ,21-17,K. Brown makes 3-pt jump shot from 25 ft (assist by R. Westbrook),,1,21,17,4,574.0
+2:24.0,Boston full timeout,21-17, ,,1,21,17,4,576.0
+2:24.0,J. Holiday enters the game for D. White,21-17, ,,1,21,17,4,576.0
+2:09.0,J. Tatum misses 3-pt jump shot from 27 ft,21-17, ,,1,21,17,4,591.0
+2:06.0, ,21-17,Defensive rebound by D. Theis,,1,21,17,4,594.0
+1:54.0, ,21-19,P. George makes 2-pt jump shot from 20 ft,,1,21,19,2,606.0
+1:36.0,J. Tatum makes 2-pt dunk from 1 ft (assist by J. Holiday),23-19, ,,1,23,19,4,624.0
+1:18.0, ,23-19,Shooting foul by N. Queta (drawn by D. Theis),,1,23,19,4,642.0
+1:18.0, ,23-20,D. Theis makes free throw 1 of 2,,1,23,20,3,642.0
+1:18.0, ,23-21,D. Theis makes free throw 2 of 2,,1,23,21,2,642.0
+1:08.0,Turnover by J. Holiday (traveling),23-21, ,,1,23,21,2,652.0
+0:56.0, ,23-21,R. Westbrook misses 2-pt jump shot from 11 ft,,1,23,21,2,664.0
+0:54.0,Defensive rebound by N. Queta,23-21, ,,1,23,21,2,666.0
+0:47.0,J. Holiday makes 2-pt jump shot from 9 ft,25-21, ,,1,25,21,4,673.0
+0:31.0, ,25-21,R. Westbrook misses 3-pt jump shot from 25 ft,,1,25,21,4,689.0
+0:28.0,Defensive rebound by J. Tatum,25-21, ,,1,25,21,4,692.0
+0:09.0,J. Tatum makes 3-pt jump shot from 29 ft,28-21, ,,1,28,21,7,711.0
+0:01.0, ,28-21,N. Powell misses 2-pt jump shot from 19 ft,,1,28,21,7,719.0
+0:00.0, ,28-21,Offensive rebound by Team,,1,28,21,7,720.0
+0:00.0,End of 1st quarter,28-21,,,1,28,21,7,720.0
+12:00.0,Start of 2nd quarter,28-21,,,2,28,21,7,720.0
+11:46.0, ,28-23,N. Powell makes 2-pt layup from 4 ft (assist by K. Brown),,2,28,23,5,734.0
+11:30.0,J. Holiday misses 3-pt jump shot from 26 ft,28-23, ,,2,28,23,5,750.0
+11:28.0, ,28-23,Defensive rebound by R. Westbrook,,2,28,23,5,752.0
+11:21.0, ,28-23,Offensive foul by J. Harden (drawn by J. Holiday),,2,28,23,5,759.0
+11:21.0, ,28-23,Turnover by J. Harden (offensive foul),,2,28,23,5,759.0
+11:09.0,J. Brown makes 2-pt jump shot from 11 ft (assist by A. Horford),30-23, ,,2,30,23,7,771.0
+10:52.0, ,30-23,R. Westbrook misses 2-pt dunk from 2 ft (block by A. Horford),,2,30,23,7,788.0
+10:49.0,Defensive rebound by A. Horford,30-23, ,,2,30,23,7,791.0
+10:33.0,Turnover by J. Brown (lost ball; steal by D. Theis),30-23, ,,2,30,23,7,807.0
+10:23.0, ,30-23,N. Powell misses 2-pt layup from 5 ft,,2,30,23,7,817.0
+10:21.0,Defensive rebound by A. Horford,30-23, ,,2,30,23,7,819.0
+10:18.0,Shooting foul by J. Harden (drawn by J. Brown),30-23, ,,2,30,23,7,822.0
+10:18.0,J. Brown makes free throw 1 of 2,31-23, ,,2,31,23,8,822.0
+10:18.0,J. Brown makes free throw 2 of 2,32-23, ,,2,32,23,9,822.0
+9:58.0, ,32-25,D. Theis makes 2-pt dunk at rim (assist by J. Harden),,2,32,25,7,842.0
+9:48.0,J. Brown misses 2-pt jump shot from 11 ft,32-25, ,,2,32,25,7,852.0
+9:44.0,Offensive rebound by J. Holiday,32-25, ,,2,32,25,7,856.0
+9:41.0,O. Brissett makes 3-pt jump shot from 23 ft (assist by A. Horford),35-25, ,,2,35,25,10,859.0
+9:25.0, ,35-25,R. Westbrook misses 2-pt jump shot from 14 ft,,2,35,25,10,875.0
+9:23.0,Defensive rebound by J. Holiday,35-25, ,,2,35,25,10,877.0
+9:19.0,P. Pritchard misses 3-pt jump shot from 26 ft,35-25, ,,2,35,25,10,881.0
+9:15.0,Offensive rebound by J. Brown,35-25, ,,2,35,25,10,885.0
+9:08.0,P. Pritchard misses 2-pt layup from 3 ft,35-25, ,,2,35,25,10,892.0
+9:05.0, ,35-25,Defensive rebound by K. Brown,,2,35,25,10,895.0
+9:01.0, ,35-28,J. Harden makes 3-pt jump shot from 26 ft,,2,35,28,7,899.0
+8:47.0,J. Holiday makes 3-pt jump shot from 26 ft,38-28, ,,2,38,28,10,913.0
+8:22.0, ,38-31,J. Harden makes 3-pt jump shot from 25 ft,,2,38,31,7,938.0
+8:10.0,Personal foul by R. Westbrook (drawn by J. Brown),38-31, ,,2,38,31,7,950.0
+8:10.0, ,38-31,T. Mann enters the game for R. Westbrook,,2,38,31,7,950.0
+8:01.0,P. Pritchard makes 3-pt jump shot from 28 ft (assist by J. Holiday),41-31, ,,2,41,31,10,959.0
+7:40.0, ,41-34,K. Brown makes 3-pt jump shot from 27 ft (assist by J. Harden),,2,41,34,7,980.0
+7:34.0,Personal foul by K. Brown (drawn by J. Brown),41-34, ,,2,41,34,7,986.0
+7:26.0,O. Brissett makes 3-pt jump shot from 24 ft (assist by J. Holiday),44-34, ,,2,44,34,10,994.0
+7:21.0, ,44-34,Personal foul by J. Holiday (drawn by J. Harden),,2,44,34,10,999.0
+7:21.0,S. Hauser enters the game for O. Brissett,44-34, ,,2,44,34,10,999.0
+7:21.0,N. Queta enters the game for A. Horford,44-34, ,,2,44,34,10,999.0
+7:21.0, ,44-34,I. Zubac enters the game for D. Theis,,2,44,34,10,999.0
+7:03.0, ,44-34,T. Mann misses 3-pt jump shot from 27 ft,,2,44,34,10,1017.0
+6:59.0,Defensive rebound by P. Pritchard,44-34, ,,2,44,34,10,1021.0
+6:53.0,S. Hauser makes 3-pt jump shot from 28 ft (assist by J. Brown),47-34, ,,2,47,34,13,1027.0
+6:51.0, ,47-34,LA Clippers full timeout,,2,47,34,13,1029.0
+6:51.0, ,47-34,P. George enters the game for N. Powell,,2,47,34,13,1029.0
+6:35.0, ,47-36,I. Zubac makes 2-pt hook shot from 5 ft (assist by J. Harden),,2,47,36,11,1045.0
+6:21.0,N. Queta misses 2-pt hook shot from 4 ft,47-36, ,,2,47,36,11,1059.0
+6:20.0,Offensive rebound by N. Queta,47-36, ,,2,47,36,11,1060.0
+6:20.0,Shooting foul by I. Zubac (drawn by N. Queta),47-36, ,,2,47,36,11,1060.0
+6:20.0,N. Queta makes free throw 1 of 2,48-36, ,,2,48,36,12,1060.0
+6:20.0,J. Tatum enters the game for P. Pritchard,48-36, ,,2,48,36,12,1060.0
+6:20.0,N. Queta makes free throw 2 of 2,49-36, ,,2,49,36,13,1060.0
+6:11.0, ,49-38,P. George makes 2-pt jump shot from 15 ft (assist by T. Mann),,2,49,38,11,1069.0
+6:01.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by J. Holiday),52-38, ,,2,52,38,14,1079.0
+5:32.0, ,52-38,T. Mann misses 2-pt jump shot from 4 ft,,2,52,38,14,1108.0
+5:30.0, ,52-38,Offensive rebound by I. Zubac,,2,52,38,14,1110.0
+5:23.0, ,52-40,I. Zubac makes 2-pt layup from 2 ft (assist by K. Brown),,2,52,40,12,1117.0
+5:23.0,Violation by Team (def goaltending),52-40, ,,2,52,40,12,1117.0
+5:20.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by J. Holiday),55-40, ,,2,55,40,15,1120.0
+5:04.0, ,55-40,Personal foul by S. Hauser (drawn by I. Zubac),,2,55,40,15,1136.0
+5:04.0,A. Horford enters the game for S. Hauser,55-40, ,,2,55,40,15,1136.0
+5:04.0,D. White enters the game for J. Holiday,55-40, ,,2,55,40,15,1136.0
+4:50.0, ,55-40,T. Mann misses 2-pt jump shot from 5 ft (block by D. White),,2,55,40,15,1150.0
+4:47.0,Defensive rebound by N. Queta,55-40, ,,2,55,40,15,1153.0
+4:44.0,D. White misses 3-pt jump shot from 26 ft,55-40, ,,2,55,40,15,1156.0
+4:41.0, ,55-40,Defensive rebound by I. Zubac,,2,55,40,15,1159.0
+4:33.0, ,55-40,J. Harden misses 2-pt jump shot from 6 ft,,2,55,40,15,1167.0
+4:30.0, ,55-40,Offensive rebound by I. Zubac,,2,55,40,15,1170.0
+4:27.0, ,55-40,J. Harden misses 2-pt jump shot from 8 ft,,2,55,40,15,1173.0
+4:23.0,Defensive rebound by A. Horford,55-40, ,,2,55,40,15,1177.0
+4:19.0,J. Tatum makes 3-pt jump shot from 25 ft,58-40, ,,2,58,40,18,1181.0
+4:19.0,Flagrant foul type 1 by K. Brown (drawn by J. Tatum),58-40, ,,2,58,40,18,1181.0
+4:19.0,Instant Replay (Request: Ruling Stands),58-40, ,,2,58,40,18,1181.0
+4:19.0,J. Tatum makes flagrant free throw 1 of 1,59-40, ,,2,59,40,19,1181.0
+4:19.0, ,59-40,A. Coffey enters the game for K. Brown,,2,59,40,19,1181.0
+4:19.0, ,59-40,N. Powell enters the game for T. Mann,,2,59,40,19,1181.0
+4:12.0,Turnover by J. Tatum (bad pass),59-40, ,,2,59,40,19,1188.0
+4:04.0, ,59-40,N. Powell misses 3-pt jump shot from 26 ft,,2,59,40,19,1196.0
+4:00.0,Defensive rebound by N. Queta,59-40, ,,2,59,40,19,1200.0
+3:54.0,J. Brown makes 2-pt jump shot from 15 ft (assist by D. White),61-40, ,,2,61,40,21,1206.0
+3:33.0, ,61-42,P. George makes 2-pt hook shot from 6 ft,,2,61,42,19,1227.0
+3:12.0,J. Tatum misses 2-pt jump shot from 7 ft,61-42, ,,2,61,42,19,1248.0
+3:09.0,Offensive rebound by N. Queta,61-42, ,,2,61,42,19,1251.0
+3:09.0,N. Queta makes 2-pt layup at rim,63-42, ,,2,63,42,21,1251.0
+2:49.0, ,63-42,Offensive foul by I. Zubac (drawn by D. White),,2,63,42,21,1271.0
+2:49.0, ,63-42,Turnover by I. Zubac (offensive foul),,2,63,42,21,1271.0
+2:49.0,Boston full timeout,63-42, ,,2,63,42,21,1271.0
+2:37.0,A. Horford misses 3-pt jump shot from 23 ft,63-42, ,,2,63,42,21,1283.0
+2:34.0, ,63-42,Defensive rebound by J. Harden,,2,63,42,21,1286.0
+2:28.0, ,63-42,J. Harden misses 2-pt jump shot from 5 ft,,2,63,42,21,1292.0
+2:26.0,Defensive rebound by A. Horford,63-42, ,,2,63,42,21,1294.0
+2:23.0,Turnover by J. Brown (traveling),63-42, ,,2,63,42,21,1297.0
+2:10.0, ,63-42,P. George misses 2-pt jump shot from 19 ft,,2,63,42,21,1310.0
+2:07.0,Defensive rebound by N. Queta,63-42, ,,2,63,42,21,1313.0
+1:58.0,Turnover by J. Brown (bad pass; steal by P. George),63-42, ,,2,63,42,21,1322.0
+1:53.0, ,63-44,J. Harden makes 2-pt layup from 3 ft,,2,63,44,19,1327.0
+1:38.0,Shooting foul by J. Harden (drawn by N. Queta),63-44, ,,2,63,44,19,1342.0
+1:38.0,N. Queta misses free throw 1 of 2,63-44, ,,2,63,44,19,1342.0
+1:38.0,Offensive rebound by Team,63-44, ,,2,63,44,19,1342.0
+1:38.0, ,63-44,R. Westbrook enters the game for J. Harden,,2,63,44,19,1342.0
+1:38.0,N. Queta makes free throw 2 of 2,64-44, ,,2,64,44,20,1342.0
+1:24.0, ,64-44,P. George misses 2-pt layup from 3 ft,,2,64,44,20,1356.0
+1:21.0, ,64-44,Offensive rebound by I. Zubac,,2,64,44,20,1359.0
+1:21.0, ,64-46,I. Zubac makes 2-pt dunk at rim,,2,64,46,18,1359.0
+1:09.0,A. Horford misses 3-pt jump shot from 24 ft,64-46, ,,2,64,46,18,1371.0
+1:05.0, ,64-46,Defensive rebound by R. Westbrook,,2,64,46,18,1375.0
+1:00.0, ,64-49,N. Powell makes 3-pt jump shot from 26 ft (assist by R. Westbrook),,2,64,49,15,1380.0
+0:47.0,Personal foul by R. Westbrook (drawn by J. Tatum),64-49, ,,2,64,49,15,1393.0
+0:47.0,J. Tatum makes free throw 1 of 2,65-49, ,,2,65,49,16,1393.0
+0:47.0,J. Holiday enters the game for N. Queta,65-49, ,,2,65,49,16,1393.0
+0:47.0,J. Tatum misses free throw 2 of 2,65-49, ,,2,65,49,16,1393.0
+0:45.0, ,65-49,Defensive rebound by P. George,,2,65,49,16,1395.0
+0:37.0, ,65-49,P. George misses 3-pt jump shot from 27 ft,,2,65,49,16,1403.0
+0:35.0,Defensive rebound by A. Horford,65-49, ,,2,65,49,16,1405.0
+0:31.0,J. Brown makes 3-pt jump shot from 27 ft (assist by J. Tatum),68-49, ,,2,68,49,19,1409.0
+0:08.0, ,68-49,A. Coffey misses 2-pt layup from 3 ft,,2,68,49,19,1432.0
+0:07.0, ,68-49,Offensive rebound by R. Westbrook,,2,68,49,19,1433.0
+0:07.0, ,68-49,R. Westbrook misses 2-pt layup at rim,,2,68,49,19,1433.0
+0:05.0, ,68-49,Offensive rebound by I. Zubac,,2,68,49,19,1435.0
+0:05.0, ,68-51,I. Zubac makes 2-pt layup at rim,,2,68,51,17,1435.0
+0:01.0,D. White misses 3-pt jump shot from 31 ft,68-51, ,,2,68,51,17,1439.0
+0:00.0,Offensive rebound by Team,68-51, ,,2,68,51,17,1440.0
+0:00.0,End of 2nd quarter,68-51,,,2,68,51,17,1440.0
+12:00.0,Start of 3rd quarter,68-51,,,3,68,51,17,1440.0
+11:50.0, ,68-53,J. Harden makes 2-pt layup from 2 ft,,3,68,53,15,1450.0
+11:32.0,D. White makes 3-pt jump shot from 26 ft (assist by A. Horford),71-53, ,,3,71,53,18,1468.0
+11:19.0, ,71-53,J. Harden misses 3-pt jump shot from 26 ft,,3,71,53,18,1481.0
+11:16.0,Defensive rebound by J. Tatum,71-53, ,,3,71,53,18,1484.0
+11:13.0,Personal foul by T. Mann (drawn by J. Tatum),71-53, ,,3,71,53,18,1487.0
+11:03.0,J. Brown makes 2-pt jump shot from 7 ft,73-53, ,,3,73,53,20,1497.0
+10:51.0, ,73-53,A. Coffey misses 3-pt jump shot from 24 ft,,3,73,53,20,1509.0
+10:48.0, ,73-53,Offensive rebound by T. Mann,,3,73,53,20,1512.0
+10:44.0, ,73-53,J. Harden misses 3-pt jump shot from 27 ft,,3,73,53,20,1516.0
+10:40.0,Defensive rebound by J. Brown,73-53, ,,3,73,53,20,1520.0
+10:31.0,Personal foul by T. Mann (drawn by J. Tatum),73-53, ,,3,73,53,20,1529.0
+10:25.0,J. Brown makes 2-pt jump shot from 9 ft,75-53, ,,3,75,53,22,1535.0
+10:09.0, ,75-53,T. Mann misses 3-pt jump shot from 26 ft,,3,75,53,22,1551.0
+10:07.0,Defensive rebound by J. Brown,75-53, ,,3,75,53,22,1553.0
+10:01.0,J. Brown makes 3-pt jump shot from 27 ft,78-53, ,,3,78,53,25,1559.0
+10:01.0, ,78-53,LA Clippers full timeout,,3,78,53,25,1559.0
+9:54.0, ,78-53,Personal foul by A. Horford (drawn by I. Zubac),,3,78,53,25,1566.0
+9:49.0, ,78-56,P. George makes 3-pt jump shot from 26 ft (assist by J. Harden),,3,78,56,22,1571.0
+9:24.0,J. Tatum misses 3-pt jump shot from 25 ft,78-56, ,,3,78,56,22,1596.0
+9:20.0,Offensive rebound by J. Holiday,78-56, ,,3,78,56,22,1600.0
+9:06.0,J. Holiday misses 2-pt jump shot from 9 ft,78-56, ,,3,78,56,22,1614.0
+9:04.0, ,78-56,Defensive rebound by T. Mann,,3,78,56,22,1616.0
+8:53.0, ,78-58,I. Zubac makes 2-pt dunk from 1 ft (assist by J. Harden),,3,78,58,20,1627.0
+8:36.0,J. Brown misses 3-pt jump shot from 27 ft,78-58, ,,3,78,58,20,1644.0
+8:32.0, ,78-58,Defensive rebound by J. Harden,,3,78,58,20,1648.0
+8:27.0, ,78-60,A. Coffey makes 2-pt layup from 1 ft (assist by P. George),,3,78,60,18,1653.0
+8:10.0,J. Tatum makes 2-pt jump shot from 10 ft (assist by A. Horford),80-60, ,,3,80,60,20,1670.0
+7:56.0, ,80-60,Turnover by J. Harden (bad pass; steal by J. Tatum),,3,80,60,20,1684.0
+7:43.0,J. Holiday makes 2-pt hook shot from 5 ft (assist by J. Tatum),82-60, ,,3,82,60,22,1697.0
+7:31.0, ,82-62,P. George makes 2-pt jump shot from 20 ft,,3,82,62,20,1709.0
+7:19.0,A. Horford misses 3-pt jump shot from 25 ft,82-62, ,,3,82,62,20,1721.0
+7:16.0, ,82-62,Defensive rebound by I. Zubac,,3,82,62,20,1724.0
+7:15.0, ,82-62,Turnover by I. Zubac (bad pass; steal by J. Holiday),,3,82,62,20,1725.0
+7:09.0,J. Holiday makes 3-pt jump shot from 26 ft,85-62, ,,3,85,62,23,1731.0
+6:54.0, ,85-62,Turnover by J. Harden (bad pass; steal by A. Horford),,3,85,62,23,1746.0
+6:49.0,J. Brown misses 2-pt dunk from 4 ft (block by P. George),85-62, ,,3,85,62,23,1751.0
+6:49.0, ,85-62,Defensive rebound by Team,,3,85,62,23,1751.0
+6:40.0, ,85-62,P. George misses 2-pt layup from 6 ft (block by A. Horford),,3,85,62,23,1760.0
+6:40.0,Defensive rebound by Team,85-62, ,,3,85,62,23,1760.0
+6:40.0,Boston full timeout,85-62, ,,3,85,62,23,1760.0
+6:40.0,Instant Replay (Challenge: Ruling Stands),85-62, ,,3,85,62,23,1760.0
+6:31.0,D. White misses 3-pt jump shot from 26 ft,85-62, ,,3,85,62,23,1769.0
+6:27.0, ,85-62,Defensive rebound by J. Harden,,3,85,62,23,1773.0
+6:14.0, ,85-62,T. Mann misses 2-pt jump shot from 9 ft,,3,85,62,23,1786.0
+6:11.0,Defensive rebound by A. Horford,85-62, ,,3,85,62,23,1789.0
+6:04.0,A. Horford makes 3-pt jump shot from 26 ft (assist by D. White),88-62, ,,3,88,62,26,1796.0
+5:37.0, ,88-62,T. Mann misses 3-pt jump shot from 24 ft,,3,88,62,26,1823.0
+5:33.0,Defensive rebound by A. Horford,88-62, ,,3,88,62,26,1827.0
+5:25.0,J. Tatum makes 2-pt jump shot from 17 ft,90-62, ,,3,90,62,28,1835.0
+5:08.0, ,90-62,P. George misses 3-pt jump shot from 25 ft,,3,90,62,28,1852.0
+5:05.0,Defensive rebound by J. Tatum,90-62, ,,3,90,62,28,1855.0
+5:01.0,Flagrant foul type 1 by I. Zubac (drawn by J. Tatum),90-62, ,,3,90,62,28,1859.0
+5:01.0,Instant Replay (Request: Ruling Stands),90-62, ,,3,90,62,28,1859.0
+5:01.0,J. Tatum misses flagrant free throw 1 of 3,90-62, ,,3,90,62,28,1859.0
+5:01.0,Offensive rebound by Team,90-62, ,,3,90,62,28,1859.0
+5:01.0,J. Tatum makes flagrant free throw 2 of 3,91-62, ,,3,91,62,29,1859.0
+5:01.0,J. Tatum makes flagrant free throw 3 of 3,92-62, ,,3,92,62,30,1859.0
+5:01.0,S. Hauser enters the game for J. Brown,92-62, ,,3,92,62,30,1859.0
+5:01.0,P. Pritchard enters the game for A. Horford,92-62, ,,3,92,62,30,1859.0
+5:01.0,N. Queta enters the game for D. White,92-62, ,,3,92,62,30,1859.0
+5:01.0, ,92-62,N. Powell enters the game for A. Coffey,,3,92,62,30,1859.0
+5:01.0, ,92-62,R. Westbrook enters the game for T. Mann,,3,92,62,30,1859.0
+4:51.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by S. Hauser),95-62, ,,3,95,62,33,1869.0
+4:30.0, ,95-62,R. Westbrook misses 3-pt jump shot from 22 ft,,3,95,62,33,1890.0
+4:28.0,Defensive rebound by S. Hauser,95-62, ,,3,95,62,33,1892.0
+4:13.0,J. Tatum misses 2-pt jump shot from 14 ft,95-62, ,,3,95,62,33,1907.0
+4:10.0,Offensive rebound by N. Queta,95-62, ,,3,95,62,33,1910.0
+4:08.0,N. Queta misses 2-pt layup from 4 ft (block by I. Zubac),95-62, ,,3,95,62,33,1912.0
+4:08.0, ,95-62,Defensive rebound by J. Harden,,3,95,62,33,1912.0
+4:04.0, ,95-64,I. Zubac makes 2-pt dunk from 2 ft (assist by J. Harden),,3,95,64,31,1916.0
+3:47.0,Shooting foul by J. Harden (drawn by N. Queta),95-64, ,,3,95,64,31,1933.0
+3:47.0,N. Queta makes free throw 1 of 2,96-64, ,,3,96,64,32,1933.0
+3:47.0,N. Queta makes free throw 2 of 2,97-64, ,,3,97,64,33,1933.0
+3:39.0, ,97-66,J. Harden makes 2-pt jump shot from 14 ft,,3,97,66,31,1941.0
+3:19.0,J. Holiday makes 2-pt jump shot from 7 ft (assist by N. Queta),99-66, ,,3,99,66,33,1961.0
+3:06.0, ,99-68,R. Westbrook makes 2-pt jump shot from 7 ft (assist by J. Harden),,3,99,68,31,1974.0
+3:06.0, ,99-68,Shooting foul by S. Hauser (drawn by R. Westbrook),,3,99,68,31,1974.0
+3:06.0, ,99-69,R. Westbrook makes free throw 1 of 1,,3,99,69,30,1974.0
+2:46.0,N. Queta makes 2-pt hook shot from 4 ft (assist by J. Holiday),101-69, ,,3,101,69,32,1994.0
+2:41.0, ,101-69,Shooting foul by S. Hauser (drawn by R. Westbrook),,3,101,69,32,1999.0
+2:41.0, ,101-70,R. Westbrook makes free throw 1 of 2,,3,101,70,31,1999.0
+2:41.0, ,101-71,R. Westbrook makes free throw 2 of 2,,3,101,71,30,1999.0
+2:22.0,Shooting foul by N. Powell (drawn by J. Tatum),101-71, ,,3,101,71,30,2018.0
+2:22.0,J. Tatum makes free throw 1 of 3,102-71, ,,3,102,71,31,2018.0
+2:22.0,J. Tatum makes free throw 2 of 3,103-71, ,,3,103,71,32,2018.0
+2:22.0, ,103-71,K. Brown enters the game for J. Harden,,3,103,71,32,2018.0
+2:22.0,J. Tatum makes free throw 3 of 3,104-71, ,,3,104,71,33,2018.0
+2:10.0, ,104-71,P. George misses 2-pt jump shot from 11 ft,,3,104,71,33,2030.0
+2:07.0, ,104-71,Offensive rebound by P. George,,3,104,71,33,2033.0
+2:06.0, ,104-71,R. Westbrook misses 2-pt layup from 3 ft,,3,104,71,33,2034.0
+2:04.0,Defensive rebound by J. Holiday,104-71, ,,3,104,71,33,2036.0
+1:58.0,N. Queta makes 2-pt hook shot from 4 ft (assist by P. Pritchard),106-71, ,,3,106,71,35,2042.0
+1:44.0, ,106-73,I. Zubac makes 2-pt layup from 2 ft (assist by P. George),,3,106,73,33,2056.0
+1:21.0,J. Tatum misses 3-pt jump shot from 25 ft,106-73, ,,3,106,73,33,2079.0
+1:18.0, ,106-73,Defensive rebound by I. Zubac,,3,106,73,33,2082.0
+1:12.0, ,106-73,Personal foul by P. Pritchard (drawn by P. George),,3,106,73,33,2088.0
+1:12.0, ,106-73,B. Boston enters the game for P. George,,3,106,73,33,2088.0
+1:12.0, ,106-73,D. Theis enters the game for I. Zubac,,3,106,73,33,2088.0
+1:01.0, ,106-75,R. Westbrook makes 2-pt layup from 2 ft,,3,106,75,31,2099.0
+1:01.0, ,106-75,Shooting foul by N. Queta (drawn by R. Westbrook),,3,106,75,31,2099.0
+1:01.0, ,106-76,R. Westbrook makes free throw 1 of 1,,3,106,76,30,2099.0
+0:41.0,P. Pritchard misses 2-pt layup from 4 ft,106-76, ,,3,106,76,30,2119.0
+0:39.0, ,106-76,Defensive rebound by K. Brown,,3,106,76,30,2121.0
+0:30.0, ,106-79,D. Theis makes 3-pt jump shot from 23 ft (assist by K. Brown),,3,106,79,27,2130.0
+0:07.0,Turnover by J. Tatum (lost ball; steal by K. Brown),106-79, ,,3,106,79,27,2153.0
+0:04.0, ,106-81,R. Westbrook makes 2-pt layup from 1 ft (assist by K. Brown),,3,106,81,25,2156.0
+0:00.0,S. Hauser misses 3-pt jump shot from 30 ft,106-81, ,,3,106,81,25,2160.0
+0:00.0,Offensive rebound by Team,106-81, ,,3,106,81,25,2160.0
+0:00.0,End of 3rd quarter,106-81,,,3,106,81,25,2160.0
+12:00.0,Start of 4th quarter,106-81,,,4,106,81,25,2160.0
+11:36.0,J. Brown misses 2-pt jump shot from 5 ft (block by R. Westbrook),106-81, ,,4,106,81,25,2184.0
+11:32.0,Offensive rebound by J. Brown,106-81, ,,4,106,81,25,2188.0
+11:30.0,J. Brown makes 2-pt jump shot from 8 ft,108-81, ,,4,108,81,27,2190.0
+11:17.0, ,108-81,N. Powell misses 3-pt jump shot from 27 ft,,4,108,81,27,2203.0
+11:16.0,Defensive rebound by P. Pritchard,108-81, ,,4,108,81,27,2204.0
+11:10.0,Personal foul by N. Powell (drawn by J. Brown),108-81, ,,4,108,81,27,2210.0
+10:55.0,Shooting foul by R. Westbrook (drawn by J. Brown),108-81, ,,4,108,81,27,2225.0
+10:55.0,J. Brown misses free throw 1 of 2,108-81, ,,4,108,81,27,2225.0
+10:55.0,Offensive rebound by Team,108-81, ,,4,108,81,27,2225.0
+10:55.0,J. Brown makes free throw 2 of 2,109-81, ,,4,109,81,28,2225.0
+10:40.0, ,109-81,Personal foul by P. Pritchard (drawn by N. Powell),,4,109,81,28,2240.0
+10:33.0, ,109-84,B. Boston makes 3-pt jump shot from 27 ft (assist by R. Westbrook),,4,109,84,25,2247.0
+10:18.0,Shooting foul by B. Boston (drawn by D. White),109-84, ,,4,109,84,25,2262.0
+10:18.0,D. White makes free throw 1 of 2,110-84, ,,4,110,84,26,2262.0
+10:18.0,D. White makes free throw 2 of 2,111-84, ,,4,111,84,27,2262.0
+10:08.0, ,111-84,B. Boston misses 3-pt jump shot from 23 ft,,4,111,84,27,2272.0
+10:04.0,Defensive rebound by J. Brown,111-84, ,,4,111,84,27,2276.0
+9:57.0,J. Brown misses 2-pt dunk from 3 ft,111-84, ,,4,111,84,27,2283.0
+9:56.0, ,111-84,Defensive rebound by R. Westbrook,,4,111,84,27,2284.0
+9:48.0, ,111-86,N. Powell makes 2-pt layup from 4 ft (assist by R. Westbrook),,4,111,86,25,2292.0
+9:28.0,Shooting foul by N. Powell (drawn by O. Brissett),111-86, ,,4,111,86,25,2312.0
+9:28.0,O. Brissett misses free throw 1 of 2,111-86, ,,4,111,86,25,2312.0
+9:28.0,Offensive rebound by Team,111-86, ,,4,111,86,25,2312.0
+9:28.0,O. Brissett makes free throw 2 of 2,112-86, ,,4,112,86,26,2312.0
+9:06.0, ,112-88,D. Theis makes 2-pt layup from 1 ft (assist by R. Westbrook),,4,112,88,24,2334.0
+9:06.0, ,112-88,Shooting foul by D. White (drawn by D. Theis),,4,112,88,24,2334.0
+9:06.0,N. Queta enters the game for O. Brissett,112-88, ,,4,112,88,24,2334.0
+9:06.0, ,112-89,D. Theis makes free throw 1 of 1,,4,112,89,23,2334.0
+8:48.0,J. Brown makes 2-pt jump shot from 13 ft,114-89, ,,4,114,89,25,2352.0
+8:42.0, ,114-89,Personal foul by N. Queta (drawn by D. Theis),,4,114,89,25,2358.0
+8:34.0, ,114-89,N. Powell misses 2-pt jump shot from 14 ft,,4,114,89,25,2366.0
+8:32.0,Defensive rebound by A. Horford,114-89, ,,4,114,89,25,2368.0
+8:25.0,Shooting foul by K. Brown (drawn by N. Queta),114-89, ,,4,114,89,25,2375.0
+8:25.0,N. Queta makes free throw 1 of 2,115-89, ,,4,115,89,26,2375.0
+8:25.0,N. Queta misses free throw 2 of 2,115-89, ,,4,115,89,26,2375.0
+8:22.0, ,115-89,Defensive rebound by R. Westbrook,,4,115,89,26,2378.0
+8:12.0, ,115-91,R. Westbrook makes 2-pt layup from 1 ft,,4,115,91,24,2388.0
+7:48.0,Shooting foul by D. Theis (drawn by D. White),115-91, ,,4,115,91,24,2412.0
+7:48.0,D. White makes free throw 1 of 2,116-91, ,,4,116,91,25,2412.0
+7:48.0, ,116-91,B. Hyland enters the game for R. Westbrook,,4,116,91,25,2412.0
+7:48.0,D. White makes free throw 2 of 2,117-91, ,,4,117,91,26,2412.0
+7:36.0, ,117-91,Turnover by N. Powell (step out of bounds),,4,117,91,26,2424.0
+7:22.0,D. White makes 2-pt jump shot from 4 ft (assist by N. Queta),119-91, ,,4,119,91,28,2438.0
+7:22.0,Shooting foul by D. Theis (drawn by D. White),119-91, ,,4,119,91,28,2438.0
+7:22.0, ,119-91,LA Clippers full timeout,,4,119,91,28,2438.0
+7:22.0,O. Brissett enters the game for J. Brown,119-91, ,,4,119,91,28,2438.0
+7:22.0,S. Hauser enters the game for A. Horford,119-91, ,,4,119,91,28,2438.0
+7:22.0, ,119-91,T. Mann enters the game for N. Powell,,4,119,91,28,2438.0
+7:22.0,D. White makes free throw 1 of 1,120-91, ,,4,120,91,29,2438.0
+7:08.0, ,120-93,B. Boston makes 2-pt jump shot from 15 ft (assist by D. Theis),,4,120,93,27,2452.0
+6:51.0,P. Pritchard makes 3-pt jump shot from 30 ft (assist by N. Queta),123-93, ,,4,123,93,30,2469.0
+6:30.0, ,123-95,D. Theis makes 2-pt jump shot from 6 ft (assist by T. Mann),,4,123,95,28,2490.0
+6:14.0,D. White makes 3-pt jump shot from 28 ft (assist by P. Pritchard),126-95, ,,4,126,95,31,2506.0
+6:00.0, ,126-95,B. Hyland misses 3-pt jump shot from 30 ft,,4,126,95,31,2520.0
+5:55.0,Defensive rebound by N. Queta,126-95, ,,4,126,95,31,2525.0
+5:48.0,P. Pritchard misses 2-pt layup from 5 ft,126-95, ,,4,126,95,31,2532.0
+5:43.0,Offensive rebound by N. Queta,126-95, ,,4,126,95,31,2537.0
+5:43.0,N. Queta makes 2-pt dunk at rim,128-95, ,,4,128,95,33,2537.0
+5:25.0, ,128-95,T. Mann misses 3-pt jump shot from 28 ft,,4,128,95,33,2555.0
+5:23.0,Defensive rebound by O. Brissett,128-95, ,,4,128,95,33,2557.0
+5:14.0,S. Hauser misses 3-pt jump shot from 26 ft,128-95, ,,4,128,95,33,2566.0
+5:10.0, ,128-95,Defensive rebound by B. Boston,,4,128,95,33,2570.0
+5:05.0, ,128-95,Personal take foul by D. White (drawn by B. Hyland),,4,128,95,33,2575.0
+5:05.0,L. Stevens enters the game for D. White,128-95, ,,4,128,95,33,2575.0
+5:02.0, ,128-98,D. Theis makes 3-pt jump shot from 26 ft (assist by T. Mann),,4,128,98,30,2578.0
+4:43.0,O. Brissett misses 3-pt jump shot from 24 ft,128-98, ,,4,128,98,30,2597.0
+4:39.0,Offensive rebound by O. Brissett,128-98, ,,4,128,98,30,2601.0
+4:37.0,P. Pritchard makes 3-pt jump shot from 26 ft (assist by O. Brissett),131-98, ,,4,131,98,33,2603.0
+4:17.0, ,131-98,Shooting foul by N. Queta (drawn by B. Boston),,4,131,98,33,2623.0
+4:17.0, ,131-99,B. Boston makes free throw 1 of 2,,4,131,99,32,2623.0
+4:17.0,D. Banton enters the game for N. Queta,131-99, ,,4,131,99,32,2623.0
+4:17.0, ,131-100,B. Boston makes free throw 2 of 2,,4,131,100,31,2623.0
+4:00.0,L. Stevens misses 2-pt jump shot from 9 ft,131-100, ,,4,131,100,31,2640.0
+3:59.0, ,131-100,Defensive rebound by Team,,4,131,100,31,2641.0
+3:46.0, ,131-100,Personal foul by P. Pritchard (drawn by B. Boston),,4,131,100,31,2654.0
+3:46.0, ,131-101,B. Boston makes free throw 1 of 2,,4,131,101,30,2654.0
+3:46.0, ,131-102,B. Boston makes free throw 2 of 2,,4,131,102,29,2654.0
+3:32.0,O. Brissett makes 2-pt dunk from 1 ft (assist by S. Hauser),133-102, ,,4,133,102,31,2668.0
+3:21.0, ,133-102,B. Hyland misses 2-pt jump shot from 14 ft,,4,133,102,31,2679.0
+3:20.0, ,133-102,Offensive rebound by Team,,4,133,102,31,2680.0
+3:11.0, ,133-102,B. Boston misses 3-pt jump shot from 24 ft,,4,133,102,31,2689.0
+3:08.0,Defensive rebound by P. Pritchard,133-102, ,,4,133,102,31,2692.0
+3:05.0,S. Hauser misses 3-pt jump shot from 25 ft,133-102, ,,4,133,102,31,2695.0
+3:00.0,Offensive rebound by L. Stevens,133-102, ,,4,133,102,31,2700.0
+3:00.0,L. Stevens makes 2-pt layup at rim,135-102, ,,4,135,102,33,2700.0
+2:40.0, ,135-102,T. Mann misses 3-pt jump shot from 24 ft,,4,135,102,33,2720.0
+2:36.0,Defensive rebound by S. Hauser,135-102, ,,4,135,102,33,2724.0
+2:33.0,D. Banton makes 2-pt layup from 2 ft (assist by P. Pritchard),137-102, ,,4,137,102,35,2727.0
+2:33.0, ,137-102,LA Clippers full timeout,,4,137,102,35,2727.0
+2:33.0,J. Davison enters the game for S. Hauser,137-102, ,,4,137,102,35,2727.0
+2:33.0,D. Peterson enters the game for P. Pritchard,137-102, ,,4,137,102,35,2727.0
+2:17.0, ,137-102,B. Boston misses 3-pt jump shot from 26 ft,,4,137,102,35,2743.0
+2:13.0,Defensive rebound by L. Stevens,137-102, ,,4,137,102,35,2747.0
+2:01.0,J. Davison misses 3-pt jump shot from 24 ft,137-102, ,,4,137,102,35,2759.0
+1:55.0, ,137-102,Defensive rebound by B. Boston,,4,137,102,35,2765.0
+1:49.0, ,137-104,B. Hyland makes 2-pt layup from 1 ft,,4,137,104,33,2771.0
+1:35.0,O. Brissett makes 3-pt jump shot from 26 ft (assist by D. Banton),140-104, ,,4,140,104,36,2785.0
+1:26.0, ,140-104,Shooting foul by D. Peterson (drawn by B. Boston),,4,140,104,36,2794.0
+1:26.0, ,140-105,B. Boston makes free throw 1 of 2,,4,140,105,35,2794.0
+1:26.0, ,140-106,B. Boston makes free throw 2 of 2,,4,140,106,34,2794.0
+1:12.0,D. Peterson makes 3-pt jump shot from 26 ft (assist by L. Stevens),143-106, ,,4,143,106,37,2808.0
+0:56.0, ,143-106,T. Mann misses 2-pt jump shot from 5 ft,,4,143,106,37,2824.0
+0:54.0,Defensive rebound by J. Davison,143-106, ,,4,143,106,37,2826.0
+0:50.0,L. Stevens makes 2-pt dunk from 1 ft (assist by D. Peterson),145-106, ,,4,145,106,39,2830.0
+0:37.0, ,145-106,B. Hyland misses 3-pt jump shot from 27 ft,,4,145,106,39,2843.0
+0:36.0, ,145-106,Offensive rebound by B. Boston,,4,145,106,39,2844.0
+0:34.0, ,145-108,B. Boston makes 2-pt jump shot from 7 ft,,4,145,108,37,2846.0
+0:12.0,Turnover by Team (shot clock),145-108, ,,4,145,108,37,2868.0
+0:00.0,End of 4th quarter,145-108,,,4,145,108,37,2880.0

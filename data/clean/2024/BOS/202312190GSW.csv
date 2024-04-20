@@ -1,0 +1,502 @@
+Time,Boston,Score,Golden State,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: A. Horford vs. K. Looney (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:41.0,J. Holiday misses 3-pt jump shot from 29 ft,0-0, ,,1,0,0,0,19.0
+11:39.0, ,0-0,Defensive rebound by K. Looney,,1,0,0,0,21.0
+11:21.0, ,0-2,S. Curry makes 2-pt jump shot from 13 ft (assist by K. Thompson),,1,0,2,-2,39.0
+11:10.0,D. White makes 3-pt jump shot from 23 ft (assist by A. Horford),3-2, ,Lead change,1,3,2,1,50.0
+10:56.0, ,3-2,K. Thompson misses 3-pt jump shot from 26 ft,,1,3,2,1,64.0
+10:53.0,Defensive rebound by A. Horford,3-2, ,,1,3,2,1,67.0
+10:47.0,A. Horford misses 3-pt jump shot from 27 ft,3-2, ,,1,3,2,1,73.0
+10:47.0,Offensive rebound by J. Tatum,3-2, ,,1,3,2,1,73.0
+10:41.0,D. White makes 3-pt jump shot from 26 ft (assist by J. Tatum),6-2, ,,1,6,2,4,79.0
+10:27.0, ,6-4,K. Thompson makes 2-pt jump shot from 18 ft (assist by K. Looney),,1,6,4,2,93.0
+10:11.0,A. Horford misses 3-pt jump shot from 24 ft,6-4, ,,1,6,4,2,109.0
+10:09.0,Offensive rebound by Team,6-4, ,,1,6,4,2,111.0
+10:07.0,J. Brown misses 3-pt jump shot from 26 ft,6-4, ,,1,6,4,2,113.0
+10:04.0, ,6-4,Defensive rebound by B. Podziemski,,1,6,4,2,116.0
+9:54.0, ,6-4,Shooting foul by J. Holiday (drawn by J. Kuminga),,1,6,4,2,126.0
+9:54.0, ,6-4,J. Kuminga misses free throw 1 of 2,,1,6,4,2,126.0
+9:54.0, ,6-4,Offensive rebound by Team,,1,6,4,2,126.0
+9:54.0, ,6-4,J. Kuminga misses free throw 2 of 2,,1,6,4,2,126.0
+9:52.0,Defensive rebound by A. Horford,6-4, ,,1,6,4,2,128.0
+9:42.0,J. Tatum makes 2-pt layup from 5 ft,8-4, ,,1,8,4,4,138.0
+9:27.0, ,8-4,J. Kuminga misses 3-pt jump shot from 26 ft,,1,8,4,4,153.0
+9:24.0, ,8-4,Offensive rebound by K. Looney,,1,8,4,4,156.0
+9:18.0, ,8-4,B. Podziemski misses 3-pt jump shot from 25 ft,,1,8,4,4,162.0
+9:16.0,Defensive rebound by A. Horford,8-4, ,,1,8,4,4,164.0
+9:06.0,A. Horford misses 2-pt layup from 3 ft,8-4, ,,1,8,4,4,174.0
+9:04.0, ,8-4,Defensive rebound by K. Looney,,1,8,4,4,176.0
+8:58.0, ,8-4,B. Podziemski misses 3-pt jump shot from 25 ft,,1,8,4,4,182.0
+8:58.0,Defensive rebound by J. Tatum,8-4, ,,1,8,4,4,182.0
+8:50.0,J. Tatum misses 3-pt jump shot from 28 ft,8-4, ,,1,8,4,4,190.0
+8:47.0, ,8-4,Defensive rebound by B. Podziemski,,1,8,4,4,193.0
+8:38.0, ,8-4,Turnover by K. Looney (bad pass; steal by J. Tatum),,1,8,4,4,202.0
+8:36.0,J. Tatum makes 2-pt dunk from 4 ft,10-4, ,,1,10,4,6,204.0
+8:22.0, ,10-7,K. Thompson makes 3-pt jump shot from 26 ft (assist by S. Curry),,1,10,7,3,218.0
+8:05.0,J. Brown makes 2-pt jump shot from 14 ft,12-7, ,,1,12,7,5,235.0
+7:51.0, ,12-7,K. Thompson misses 3-pt jump shot from 25 ft (block by D. White),,1,12,7,5,249.0
+7:48.0, ,12-7,Offensive rebound by J. Kuminga,,1,12,7,5,252.0
+7:45.0, ,12-9,J. Kuminga makes 2-pt layup at rim,,1,12,9,3,255.0
+7:45.0,Personal foul by B. Podziemski (drawn by D. White),12-9, ,,1,12,9,3,255.0
+7:45.0,S. Hauser enters the game for J. Tatum,12-9, ,,1,12,9,3,255.0
+7:32.0,J. Brown misses 2-pt jump shot from 10 ft,12-9, ,,1,12,9,3,268.0
+7:29.0, ,12-9,Defensive rebound by S. Curry,,1,12,9,3,271.0
+7:20.0, ,12-9,Turnover by S. Curry (traveling),,1,12,9,3,280.0
+7:06.0,J. Brown makes 2-pt layup from 4 ft (assist by A. Horford),14-9, ,,1,14,9,5,294.0
+6:57.0, ,14-11,S. Curry makes 2-pt layup from 8 ft,,1,14,11,3,303.0
+6:57.0, ,14-11,Shooting foul by J. Brown (drawn by S. Curry),,1,14,11,3,303.0
+6:57.0, ,14-11,Golden State full timeout,,1,14,11,3,303.0
+6:57.0,O. Brissett enters the game for J. Holiday,14-11, ,,1,14,11,3,303.0
+6:57.0, ,14-11,C. Paul enters the game for B. Podziemski,,1,14,11,3,303.0
+6:57.0, ,14-12,S. Curry makes free throw 1 of 1,,1,14,12,2,303.0
+6:41.0,O. Brissett makes 2-pt dunk from 4 ft (assist by J. Brown),16-12, ,,1,16,12,4,319.0
+6:27.0, ,16-12,Turnover by S. Curry (bad pass; steal by O. Brissett),,1,16,12,4,333.0
+6:23.0,O. Brissett makes 2-pt dunk from 4 ft,18-12, ,,1,18,12,6,337.0
+6:07.0, ,18-14,K. Thompson makes 2-pt jump shot from 13 ft (assist by C. Paul),,1,18,14,4,353.0
+5:51.0,A. Horford makes 3-pt jump shot from 27 ft (assist by D. White),21-14, ,,1,21,14,7,369.0
+5:33.0, ,21-16,J. Kuminga makes 2-pt dunk from 3 ft,,1,21,16,5,387.0
+5:17.0,S. Hauser misses 3-pt jump shot from 27 ft,21-16, ,,1,21,16,5,403.0
+5:15.0, ,21-16,Defensive rebound by K. Looney,,1,21,16,5,405.0
+5:10.0, ,21-16,S. Curry misses 3-pt jump shot from 26 ft (block by D. White),,1,21,16,5,410.0
+5:07.0,Defensive rebound by A. Horford,21-16, ,,1,21,16,5,413.0
+5:04.0,O. Brissett makes 2-pt layup from 5 ft (assist by J. Brown),23-16, ,,1,23,16,7,416.0
+4:46.0, ,23-19,K. Thompson makes 3-pt jump shot from 27 ft (assist by J. Kuminga),,1,23,19,4,434.0
+4:34.0,J. Brown makes 2-pt layup from 5 ft (assist by D. White),25-19, ,,1,25,19,6,446.0
+4:12.0, ,25-21,K. Looney makes 2-pt layup from 4 ft (assist by J. Kuminga),,1,25,21,4,468.0
+4:12.0, ,25-21,Shooting foul by S. Hauser (drawn by K. Looney),,1,25,21,4,468.0
+4:12.0, ,25-21,M. Moody enters the game for J. Kuminga,,1,25,21,4,468.0
+4:12.0, ,25-21,A. Wiggins enters the game for K. Thompson,,1,25,21,4,468.0
+4:12.0, ,25-22,K. Looney makes free throw 1 of 1,,1,25,22,3,468.0
+4:00.0,D. White makes 3-pt jump shot from 29 ft (assist by A. Horford),28-22, ,,1,28,22,6,480.0
+3:44.0, ,28-22,C. Paul misses 3-pt jump shot from 26 ft,,1,28,22,6,496.0
+3:40.0,Defensive rebound by J. Brown,28-22, ,,1,28,22,6,500.0
+3:39.0,J. Brown makes 2-pt layup from 4 ft,30-22, ,,1,30,22,8,501.0
+3:39.0,Shooting foul by S. Curry (drawn by J. Brown),30-22, ,,1,30,22,8,501.0
+3:39.0, ,30-22,B. Podziemski enters the game for S. Curry,,1,30,22,8,501.0
+3:39.0, ,30-22,D. Šarić enters the game for K. Looney,,1,30,22,8,501.0
+3:39.0,J. Brown makes free throw 1 of 1,31-22, ,,1,31,22,9,501.0
+3:27.0, ,31-22,A. Wiggins misses 2-pt layup from 6 ft (block by D. White),,1,31,22,9,513.0
+3:24.0, ,31-22,Offensive rebound by A. Wiggins,,1,31,22,9,516.0
+3:24.0, ,31-22,A. Wiggins misses 2-pt layup at rim,,1,31,22,9,516.0
+3:24.0,Defensive rebound by Team,31-22, ,,1,31,22,9,516.0
+3:24.0,P. Pritchard enters the game for D. White,31-22, ,,1,31,22,9,516.0
+3:13.0,J. Brown makes 3-pt jump shot from 27 ft (assist by A. Horford),34-22, ,,1,34,22,12,527.0
+2:50.0, ,34-24,B. Podziemski makes 2-pt layup from 3 ft,,1,34,24,10,550.0
+2:32.0,J. Brown misses 2-pt jump shot from 11 ft,34-24, ,,1,34,24,10,568.0
+2:29.0,Offensive rebound by J. Brown,34-24, ,,1,34,24,10,571.0
+2:29.0,J. Brown misses 2-pt dunk from 1 ft,34-24, ,,1,34,24,10,571.0
+2:27.0, ,34-24,Defensive rebound by C. Paul,,1,34,24,10,573.0
+2:20.0, ,34-27,D. Šarić makes 3-pt jump shot from 27 ft (assist by C. Paul),,1,34,27,7,580.0
+2:19.0,Boston full timeout,34-27, ,,1,34,27,7,581.0
+2:19.0,J. Holiday enters the game for O. Brissett,34-27, ,,1,34,27,7,581.0
+2:19.0,S. Mykhailiuk enters the game for J. Brown,34-27, ,,1,34,27,7,581.0
+2:19.0,N. Queta enters the game for A. Horford,34-27, ,,1,34,27,7,581.0
+1:58.0,Turnover by J. Holiday (out of bounds lost ball),34-27, ,,1,34,27,7,602.0
+1:43.0, ,34-27,A. Wiggins misses 2-pt jump shot from 18 ft,,1,34,27,7,617.0
+1:39.0,Defensive rebound by S. Hauser,34-27, ,,1,34,27,7,621.0
+1:28.0,N. Queta misses 2-pt layup from 4 ft,34-27, ,,1,34,27,7,632.0
+1:25.0,Offensive rebound by N. Queta,34-27, ,,1,34,27,7,635.0
+1:25.0,N. Queta misses 2-pt layup at rim,34-27, ,,1,34,27,7,635.0
+1:21.0,Offensive rebound by N. Queta,34-27, ,,1,34,27,7,639.0
+1:21.0,N. Queta makes 2-pt layup at rim,36-27, ,,1,36,27,9,639.0
+1:12.0, ,36-27,M. Moody misses 2-pt layup from 5 ft,,1,36,27,9,648.0
+1:08.0,Defensive rebound by J. Holiday,36-27, ,,1,36,27,9,652.0
+1:07.0,S. Mykhailiuk misses 3-pt jump shot from 27 ft,36-27, ,,1,36,27,9,653.0
+1:03.0, ,36-27,Defensive rebound by C. Paul,,1,36,27,9,657.0
+0:58.0, ,36-30,B. Podziemski makes 3-pt jump shot from 26 ft,,1,36,30,6,662.0
+0:41.0,P. Pritchard makes 2-pt jump shot from 19 ft,38-30, ,,1,38,30,8,679.0
+0:21.0, ,38-30,M. Moody misses 3-pt jump shot from 25 ft,,1,38,30,8,699.0
+0:16.0,Defensive rebound by J. Holiday,38-30, ,,1,38,30,8,704.0
+0:01.0,J. Holiday makes 2-pt jump shot from 10 ft,40-30, ,,1,40,30,10,719.0
+0:00.0,End of 1st quarter,40-30,,,1,40,30,10,720.0
+12:00.0,Start of 2nd quarter,40-30,,,2,40,30,10,720.0
+11:46.0, ,40-33,M. Moody makes 3-pt jump shot from 25 ft,,2,40,33,7,734.0
+11:24.0,J. Holiday misses 2-pt jump shot from 17 ft,40-33, ,,2,40,33,7,756.0
+11:21.0, ,40-33,Defensive rebound by D. Šarić,,2,40,33,7,759.0
+11:12.0, ,40-36,D. Šarić makes 3-pt jump shot from 25 ft (assist by C. Paul),,2,40,36,4,768.0
+10:53.0,S. Hauser misses 3-pt jump shot from 24 ft,40-36, ,,2,40,36,4,787.0
+10:50.0, ,40-36,Defensive rebound by D. Šarić,,2,40,36,4,790.0
+10:49.0, ,40-36,Turnover by D. Šarić (lost ball; steal by J. Holiday),,2,40,36,4,791.0
+10:48.0,J. Holiday makes 2-pt layup from 4 ft,42-36, ,,2,42,36,6,792.0
+10:36.0, ,42-36,Shooting foul by J. Holiday (drawn by D. Šarić),,2,42,36,6,804.0
+10:36.0, ,42-37,D. Šarić makes free throw 1 of 2,,2,42,37,5,804.0
+10:36.0, ,42-38,D. Šarić makes free throw 2 of 2,,2,42,38,4,804.0
+10:25.0,J. Tatum misses 3-pt jump shot from 27 ft,42-38, ,,2,42,38,4,815.0
+10:22.0,Offensive rebound by N. Queta,42-38, ,,2,42,38,4,818.0
+10:21.0,P. Pritchard makes 3-pt jump shot from 24 ft (assist by N. Queta),45-38, ,,2,45,38,7,819.0
+10:07.0, ,45-38,M. Moody misses 3-pt jump shot from 26 ft,,2,45,38,7,833.0
+10:02.0, ,45-38,Offensive rebound by A. Wiggins,,2,45,38,7,838.0
+9:53.0, ,45-38,M. Moody misses 2-pt jump shot from 8 ft,,2,45,38,7,847.0
+9:51.0,Defensive rebound by N. Queta,45-38, ,,2,45,38,7,849.0
+9:48.0,P. Pritchard misses 3-pt jump shot from 29 ft,45-38, ,,2,45,38,7,852.0
+9:44.0, ,45-38,Defensive rebound by B. Podziemski,,2,45,38,7,856.0
+9:39.0, ,45-41,D. Šarić makes 3-pt jump shot from 26 ft (assist by A. Wiggins),,2,45,41,4,861.0
+9:29.0,N. Queta makes 2-pt layup from 5 ft (assist by P. Pritchard),47-41, ,,2,47,41,6,871.0
+9:07.0, ,47-41,Offensive foul by B. Podziemski (drawn by P. Pritchard),,2,47,41,6,893.0
+9:07.0, ,47-41,Turnover by B. Podziemski (offensive foul),,2,47,41,6,893.0
+9:07.0, ,47-41,K. Thompson enters the game for M. Moody,,2,47,41,6,893.0
+8:53.0,N. Queta makes 2-pt layup from 6 ft (assist by J. Tatum),49-41, ,,2,49,41,8,907.0
+8:38.0, ,49-41,D. Šarić misses 2-pt layup from 5 ft,,2,49,41,8,922.0
+8:36.0,Defensive rebound by S. Hauser,49-41, ,,2,49,41,8,924.0
+8:23.0,J. Tatum makes 3-pt jump shot from 28 ft,52-41, ,,2,52,41,11,937.0
+8:15.0, ,52-41,Golden State full timeout,,2,52,41,11,945.0
+8:15.0,A. Horford enters the game for N. Queta,52-41, ,,2,52,41,11,945.0
+8:15.0, ,52-41,S. Curry enters the game for C. Paul,,2,52,41,11,945.0
+8:15.0, ,52-41,T. Jackson-Davis enters the game for D. Šarić,,2,52,41,11,945.0
+8:11.0, ,52-44,K. Thompson makes 3-pt jump shot from 26 ft (assist by S. Curry),,2,52,44,8,949.0
+7:46.0,J. Tatum misses 2-pt jump shot from 20 ft,52-44, ,,2,52,44,8,974.0
+7:43.0, ,52-44,Defensive rebound by T. Jackson-Davis,,2,52,44,8,977.0
+7:39.0, ,52-44,Shooting foul by S. Hauser (drawn by A. Wiggins),,2,52,44,8,981.0
+7:39.0, ,52-45,A. Wiggins makes free throw 1 of 2,,2,52,45,7,981.0
+7:39.0,J. Brown enters the game for S. Hauser,52-45, ,,2,52,45,7,981.0
+7:39.0,D. White enters the game for P. Pritchard,52-45, ,,2,52,45,7,981.0
+7:39.0, ,52-46,A. Wiggins makes free throw 2 of 2,,2,52,46,6,981.0
+7:30.0,J. Holiday misses 3-pt jump shot from 28 ft,52-46, ,,2,52,46,6,990.0
+7:26.0, ,52-46,Defensive rebound by A. Wiggins,,2,52,46,6,994.0
+7:15.0, ,52-46,Turnover by T. Jackson-Davis (bad pass; steal by J. Tatum),,2,52,46,6,1005.0
+7:07.0,J. Brown misses 3-pt jump shot from 27 ft,52-46, ,,2,52,46,6,1013.0
+7:04.0, ,52-46,Defensive rebound by T. Jackson-Davis,,2,52,46,6,1016.0
+6:54.0, ,52-46,S. Curry misses 2-pt jump shot from 7 ft,,2,52,46,6,1026.0
+6:51.0,Defensive rebound by A. Horford,52-46, ,,2,52,46,6,1029.0
+6:42.0,D. White misses 3-pt jump shot from 28 ft,52-46, ,,2,52,46,6,1038.0
+6:39.0,Offensive rebound by J. Tatum,52-46, ,,2,52,46,6,1041.0
+6:34.0,D. White misses 3-pt jump shot from 27 ft,52-46, ,,2,52,46,6,1046.0
+6:29.0,Offensive rebound by Team,52-46, ,,2,52,46,6,1051.0
+6:29.0, ,52-46,J. Kuminga enters the game for A. Wiggins,,2,52,46,6,1051.0
+6:20.0,D. White misses 3-pt jump shot from 27 ft (block by K. Thompson),52-46, ,,2,52,46,6,1060.0
+6:17.0, ,52-46,Defensive rebound by T. Jackson-Davis,,2,52,46,6,1063.0
+6:09.0, ,52-46,J. Kuminga misses 3-pt jump shot from 26 ft,,2,52,46,6,1071.0
+6:06.0,Defensive rebound by J. Brown,52-46, ,,2,52,46,6,1074.0
+6:00.0,Turnover by J. Brown (bad pass; steal by B. Podziemski),52-46, ,,2,52,46,6,1080.0
+5:55.0, ,52-46,J. Kuminga misses 2-pt dunk from 5 ft,,2,52,46,6,1085.0
+5:53.0, ,52-46,Offensive rebound by B. Podziemski,,2,52,46,6,1087.0
+5:52.0, ,52-48,J. Kuminga makes 2-pt dunk from 3 ft (assist by B. Podziemski),,2,52,48,4,1088.0
+5:34.0,Shooting foul by S. Curry (drawn by A. Horford),52-48, ,,2,52,48,4,1106.0
+5:34.0,A. Horford makes free throw 1 of 2,53-48, ,,2,53,48,5,1106.0
+5:34.0,A. Horford makes free throw 2 of 2,54-48, ,,2,54,48,6,1106.0
+5:26.0, ,54-48,Turnover by S. Curry (bad pass),,2,54,48,6,1114.0
+5:19.0,J. Tatum misses 3-pt jump shot from 29 ft,54-48, ,,2,54,48,6,1121.0
+5:14.0, ,54-48,Defensive rebound by B. Podziemski,,2,54,48,6,1126.0
+5:07.0, ,54-48,K. Thompson misses 2-pt jump shot from 12 ft,,2,54,48,6,1133.0
+5:05.0, ,54-48,Offensive rebound by J. Kuminga,,2,54,48,6,1135.0
+5:03.0, ,54-50,J. Kuminga makes 2-pt layup at rim,,2,54,50,4,1137.0
+4:46.0,J. Brown misses 2-pt layup from 7 ft (block by T. Jackson-Davis),54-50, ,,2,54,50,4,1154.0
+4:44.0, ,54-50,Defensive rebound by T. Jackson-Davis,,2,54,50,4,1156.0
+4:42.0, ,54-50,Shooting foul by J. Holiday (drawn by S. Curry),,2,54,50,4,1158.0
+4:42.0, ,54-51,S. Curry makes free throw 1 of 2,,2,54,51,3,1158.0
+4:42.0,P. Pritchard enters the game for J. Holiday,54-51, ,,2,54,51,3,1158.0
+4:42.0, ,54-51,C. Paul enters the game for B. Podziemski,,2,54,51,3,1158.0
+4:42.0, ,54-52,S. Curry makes free throw 2 of 2,,2,54,52,2,1158.0
+4:27.0,P. Pritchard misses 3-pt jump shot from 23 ft,54-52, ,,2,54,52,2,1173.0
+4:25.0,Offensive rebound by D. White,54-52, ,,2,54,52,2,1175.0
+4:22.0,D. White misses 2-pt layup at rim,54-52, ,,2,54,52,2,1178.0
+4:21.0, ,54-52,Defensive rebound by J. Kuminga,,2,54,52,2,1179.0
+4:14.0, ,54-54,J. Kuminga makes 2-pt hook shot from 5 ft (assist by C. Paul),Tie,2,54,54,0,1186.0
+4:14.0,Boston full timeout,54-54, ,,2,54,54,0,1186.0
+3:58.0,D. White misses 3-pt jump shot from 26 ft,54-54, ,,2,54,54,0,1202.0
+3:54.0, ,54-54,Defensive rebound by J. Kuminga,,2,54,54,0,1206.0
+3:36.0, ,54-56,T. Jackson-Davis makes 2-pt layup from 4 ft (assist by C. Paul),Lead change,2,54,56,-2,1224.0
+3:16.0,J. Tatum misses 3-pt jump shot from 29 ft,54-56, ,,2,54,56,-2,1244.0
+3:14.0, ,54-56,Defensive rebound by C. Paul,,2,54,56,-2,1246.0
+3:08.0, ,54-56,J. Kuminga misses 2-pt layup from 7 ft,,2,54,56,-2,1252.0
+3:04.0,Defensive rebound by J. Tatum,54-56, ,,2,54,56,-2,1256.0
+3:02.0,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Tatum),57-56, ,Lead change,2,57,56,1,1258.0
+2:45.0, ,57-59,S. Curry makes 3-pt jump shot from 28 ft,Lead change,2,57,59,-2,1275.0
+2:28.0,J. Brown makes 2-pt layup from 5 ft,59-59, ,Tie,2,59,59,0,1292.0
+2:28.0,Shooting foul by T. Jackson-Davis (drawn by J. Brown),59-59, ,,2,59,59,0,1292.0
+2:28.0,N. Queta enters the game for P. Pritchard,59-59, ,,2,59,59,0,1292.0
+2:28.0,J. Brown makes free throw 1 of 1,60-59, ,Lead change,2,60,59,1,1292.0
+2:13.0,Loose ball foul by D. White (drawn by T. Jackson-Davis),60-59, ,,2,60,59,1,1307.0
+2:05.0, ,60-59,K. Thompson misses 3-pt jump shot from 24 ft,,2,60,59,1,1315.0
+2:00.0, ,60-59,Offensive rebound by J. Kuminga,,2,60,59,1,1320.0
+1:59.0, ,60-59,Turnover by J. Kuminga (lost ball; steal by N. Queta),,2,60,59,1,1321.0
+1:56.0,Turnover by A. Horford (bad pass; steal by J. Kuminga),60-59, ,,2,60,59,1,1324.0
+1:53.0, ,60-59,S. Curry misses 3-pt jump shot from 27 ft,,2,60,59,1,1327.0
+1:49.0,Defensive rebound by D. White,60-59, ,,2,60,59,1,1331.0
+1:37.0,A. Horford misses 3-pt jump shot from 28 ft,60-59, ,,2,60,59,1,1343.0
+1:33.0, ,60-59,Defensive rebound by C. Paul,,2,60,59,1,1347.0
+1:28.0, ,60-59,C. Paul misses 2-pt jump shot from 12 ft,,2,60,59,1,1352.0
+1:25.0,Defensive rebound by A. Horford,60-59, ,,2,60,59,1,1355.0
+1:11.0,Personal foul by S. Curry (drawn by D. White),60-59, ,,2,60,59,1,1369.0
+1:11.0, ,60-59,B. Podziemski enters the game for S. Curry,,2,60,59,1,1369.0
+1:05.0,D. White makes 3-pt jump shot from 27 ft,63-59, ,,2,63,59,4,1375.0
+0:55.0, ,63-59,Golden State full timeout,,2,63,59,4,1385.0
+0:55.0, ,63-59,A. Wiggins enters the game for B. Podziemski,,2,63,59,4,1385.0
+0:47.0, ,63-59,C. Paul misses 2-pt jump shot from 9 ft,,2,63,59,4,1393.0
+0:44.0,Defensive rebound by N. Queta,63-59, ,,2,63,59,4,1396.0
+0:34.0,J. Tatum makes 2-pt layup from 8 ft,65-59, ,,2,65,59,6,1406.0
+0:19.0, ,65-62,J. Kuminga makes 3-pt jump shot from 24 ft (assist by C. Paul),,2,65,62,3,1421.0
+0:03.0,J. Tatum misses 3-pt jump shot from 27 ft,65-62, ,,2,65,62,3,1437.0
+0:03.0, ,65-62,Defensive rebound by K. Thompson,,2,65,62,3,1437.0
+0:01.0, ,65-62,K. Thompson misses 3-pt jump shot from 52 ft,,2,65,62,3,1439.0
+0:00.0, ,65-62,Offensive rebound by Team,,2,65,62,3,1440.0
+0:00.0,End of 2nd quarter,65-62,,,2,65,62,3,1440.0
+12:00.0,Start of 3rd quarter,65-62,,,3,65,62,3,1440.0
+11:43.0, ,65-62,S. Curry misses 2-pt jump shot from 18 ft,,3,65,62,3,1457.0
+11:41.0,Defensive rebound by J. Brown,65-62, ,,3,65,62,3,1459.0
+11:30.0,A. Horford misses 3-pt jump shot from 27 ft,65-62, ,,3,65,62,3,1470.0
+11:28.0, ,65-62,Defensive rebound by K. Thompson,,3,65,62,3,1472.0
+11:18.0, ,65-62,A. Wiggins misses 3-pt jump shot from 27 ft,,3,65,62,3,1482.0
+11:17.0,Defensive rebound by Team,65-62, ,,3,65,62,3,1483.0
+11:07.0,J. Holiday misses 2-pt jump shot from 8 ft,65-62, ,,3,65,62,3,1493.0
+11:04.0, ,65-62,Defensive rebound by A. Wiggins,,3,65,62,3,1496.0
+11:01.0, ,65-62,K. Thompson misses 3-pt jump shot from 28 ft,,3,65,62,3,1499.0
+10:58.0,Defensive rebound by D. White,65-62, ,,3,65,62,3,1502.0
+10:52.0,A. Horford misses 3-pt jump shot from 27 ft,65-62, ,,3,65,62,3,1508.0
+10:48.0, ,65-62,Defensive rebound by K. Looney,,3,65,62,3,1512.0
+10:30.0, ,65-62,K. Thompson misses 2-pt jump shot from 14 ft,,3,65,62,3,1530.0
+10:28.0,Defensive rebound by A. Horford,65-62, ,,3,65,62,3,1532.0
+10:26.0,Turnover by J. Brown (bad pass),65-62, ,,3,65,62,3,1534.0
+10:07.0, ,65-62,K. Looney misses 2-pt jump shot from 7 ft,,3,65,62,3,1553.0
+10:04.0,Defensive rebound by A. Horford,65-62, ,,3,65,62,3,1556.0
+10:01.0,J. Brown makes 2-pt layup from 5 ft (assist by A. Horford),67-62, ,,3,67,62,5,1559.0
+9:49.0, ,67-62,S. Curry misses 3-pt jump shot from 26 ft,,3,67,62,5,1571.0
+9:49.0,Defensive rebound by J. Holiday,67-62, ,,3,67,62,5,1571.0
+9:41.0,D. White makes 2-pt layup from 5 ft (assist by J. Brown),69-62, ,,3,69,62,7,1579.0
+9:41.0, ,69-62,Golden State full timeout,,3,69,62,7,1579.0
+9:23.0, ,69-62,Turnover by K. Thompson (traveling),,3,69,62,7,1597.0
+9:23.0, ,69-62,Violation by Team (delay of game),,3,69,62,7,1597.0
+9:12.0,Shooting foul by A. Wiggins (drawn by J. Brown),69-62, ,,3,69,62,7,1608.0
+9:12.0,J. Brown makes free throw 1 of 2,70-62, ,,3,70,62,8,1608.0
+9:12.0,J. Brown makes free throw 2 of 2,71-62, ,,3,71,62,9,1608.0
+9:03.0, ,71-65,S. Curry makes 3-pt jump shot from 29 ft (assist by K. Looney),,3,71,65,6,1617.0
+8:35.0,J. Holiday makes 2-pt jump shot from 16 ft,73-65, ,,3,73,65,8,1645.0
+8:16.0, ,73-67,K. Thompson makes 2-pt jump shot from 12 ft,,3,73,67,6,1664.0
+8:12.0,J. Brown makes 2-pt layup from 7 ft (assist by D. White),75-67, ,,3,75,67,8,1668.0
+8:12.0,Shooting foul by S. Curry (drawn by J. Brown),75-67, ,,3,75,67,8,1668.0
+8:12.0,J. Brown makes free throw 1 of 1,76-67, ,,3,76,67,9,1668.0
+8:00.0, ,76-67,Personal foul by J. Holiday (drawn by J. Kuminga),,3,76,67,9,1680.0
+8:00.0,N. Queta enters the game for J. Holiday,76-67, ,,3,76,67,9,1680.0
+7:55.0, ,76-67,S. Curry misses 3-pt jump shot from 28 ft,,3,76,67,9,1685.0
+7:52.0,Defensive rebound by Team,76-67, ,,3,76,67,9,1688.0
+7:42.0,D. White makes 2-pt jump shot from 7 ft,78-67, ,,3,78,67,11,1698.0
+7:31.0, ,78-70,K. Thompson makes 3-pt jump shot from 28 ft,,3,78,70,8,1709.0
+7:04.0,D. White misses 3-pt jump shot from 26 ft,78-70, ,,3,78,70,8,1736.0
+7:01.0, ,78-70,Defensive rebound by K. Looney,,3,78,70,8,1739.0
+6:55.0, ,78-70,K. Thompson misses 3-pt jump shot from 28 ft,,3,78,70,8,1745.0
+6:52.0,Defensive rebound by A. Horford,78-70, ,,3,78,70,8,1748.0
+6:48.0,J. Brown misses 2-pt layup from 5 ft,78-70, ,,3,78,70,8,1752.0
+6:45.0,Offensive rebound by D. White,78-70, ,,3,78,70,8,1755.0
+6:43.0,J. Tatum makes 3-pt jump shot from 27 ft (assist by A. Horford),81-70, ,,3,81,70,11,1757.0
+6:22.0, ,81-70,A. Wiggins misses 2-pt jump shot from 13 ft,,3,81,70,11,1778.0
+6:20.0,Defensive rebound by N. Queta,81-70, ,,3,81,70,11,1780.0
+6:07.0,J. Brown makes 2-pt jump shot from 5 ft,83-70, ,,3,83,70,13,1793.0
+6:07.0,Shooting foul by S. Curry (drawn by J. Brown),83-70, ,,3,83,70,13,1793.0
+6:07.0, ,83-70,Golden State full timeout,,3,83,70,13,1793.0
+6:07.0, ,83-70,Instant Replay (Challenge: Stands),,3,83,70,13,1793.0
+6:07.0, ,83-70,T. Jackson-Davis enters the game for S. Curry,,3,83,70,13,1793.0
+6:07.0, ,83-70,C. Joseph enters the game for K. Looney,,3,83,70,13,1793.0
+6:07.0, ,83-70,C. Paul enters the game for K. Thompson,,3,83,70,13,1793.0
+6:07.0, ,83-70,D. Šarić enters the game for A. Wiggins,,3,83,70,13,1793.0
+6:07.0,J. Brown misses free throw 1 of 1,83-70, ,,3,83,70,13,1793.0
+6:05.0, ,83-70,Defensive rebound by C. Joseph,,3,83,70,13,1795.0
+5:55.0, ,83-70,C. Paul misses 2-pt jump shot from 19 ft,,3,83,70,13,1805.0
+5:52.0, ,83-70,Offensive rebound by D. Šarić,,3,83,70,13,1808.0
+5:48.0, ,83-70,J. Kuminga misses 3-pt jump shot from 25 ft,,3,83,70,13,1812.0
+5:45.0,Defensive rebound by J. Tatum,83-70, ,,3,83,70,13,1815.0
+5:36.0,J. Tatum misses 3-pt jump shot from 25 ft,83-70, ,,3,83,70,13,1824.0
+5:32.0,Offensive rebound by N. Queta,83-70, ,,3,83,70,13,1828.0
+5:32.0,N. Queta makes 2-pt layup at rim,85-70, ,,3,85,70,15,1828.0
+5:05.0, ,85-70,C. Joseph misses 3-pt jump shot from 28 ft,,3,85,70,15,1855.0
+5:02.0, ,85-70,Offensive rebound by D. Šarić,,3,85,70,15,1858.0
+5:00.0, ,85-70,C. Paul misses 3-pt jump shot from 27 ft,,3,85,70,15,1860.0
+4:57.0,Defensive rebound by J. Tatum,85-70, ,,3,85,70,15,1863.0
+4:52.0,A. Horford makes 2-pt layup from 2 ft (assist by J. Tatum),87-70, ,,3,87,70,17,1868.0
+4:34.0, ,87-72,J. Kuminga makes 2-pt layup from 5 ft,,3,87,72,15,1886.0
+4:34.0,O. Brissett enters the game for N. Queta,87-72, ,,3,87,72,15,1886.0
+4:34.0,P. Pritchard enters the game for J. Tatum,87-72, ,,3,87,72,15,1886.0
+4:34.0, ,87-72,K. Thompson enters the game for J. Kuminga,,3,87,72,15,1886.0
+4:15.0,D. White misses 2-pt jump shot from 17 ft,87-72, ,,3,87,72,15,1905.0
+4:12.0, ,87-72,Defensive rebound by D. Šarić,,3,87,72,15,1908.0
+3:56.0, ,87-74,T. Jackson-Davis makes 2-pt layup from 3 ft (assist by K. Thompson),,3,87,74,13,1924.0
+3:41.0,Turnover by J. Brown (bad pass; steal by K. Thompson),87-74, ,,3,87,74,13,1939.0
+3:29.0, ,87-76,C. Joseph makes 2-pt layup from 3 ft (assist by T. Jackson-Davis),,3,87,76,11,1951.0
+3:29.0,Boston full timeout,87-76, ,,3,87,76,11,1951.0
+3:29.0,S. Hauser enters the game for O. Brissett,87-76, ,,3,87,76,11,1951.0
+3:29.0,N. Queta enters the game for A. Horford,87-76, ,,3,87,76,11,1951.0
+3:09.0,D. White makes 2-pt layup from 4 ft (assist by J. Brown),89-76, ,,3,89,76,13,1971.0
+2:51.0, ,89-76,D. Šarić misses 3-pt jump shot from 23 ft,,3,89,76,13,1989.0
+2:48.0,Defensive rebound by D. White,89-76, ,,3,89,76,13,1992.0
+2:40.0,D. White makes 2-pt jump shot from 13 ft,91-76, ,,3,91,76,15,2000.0
+2:27.0, ,91-76,D. Šarić misses 2-pt jump shot from 13 ft,,3,91,76,15,2013.0
+2:24.0,Defensive rebound by N. Queta,91-76, ,,3,91,76,15,2016.0
+2:19.0,D. White misses 3-pt jump shot from 27 ft,91-76, ,,3,91,76,15,2021.0
+2:16.0, ,91-76,Defensive rebound by K. Thompson,,3,91,76,15,2024.0
+2:05.0, ,91-78,C. Joseph makes 2-pt jump shot from 6 ft (assist by K. Thompson),,3,91,78,13,2035.0
+1:42.0,S. Hauser misses 2-pt layup from 7 ft (block by C. Joseph),91-78, ,,3,91,78,13,2058.0
+1:40.0, ,91-78,Defensive rebound by Team,,3,91,78,13,2060.0
+1:40.0, ,91-78,M. Moody enters the game for D. Šarić,,3,91,78,13,2060.0
+1:17.0, ,91-81,M. Moody makes 3-pt jump shot from 23 ft (assist by C. Paul),,3,91,81,10,2083.0
+0:57.0,P. Pritchard makes 3-pt jump shot from 27 ft (assist by J. Brown),94-81, ,,3,94,81,13,2103.0
+0:38.0, ,94-84,C. Paul makes 3-pt jump shot from 28 ft,,3,94,84,10,2122.0
+0:33.0,D. White makes 3-pt jump shot from 27 ft (assist by J. Brown),97-84, ,,3,97,84,13,2127.0
+0:15.0, ,97-86,C. Paul makes 2-pt jump shot from 17 ft,,3,97,86,11,2145.0
+0:05.0,J. Brown misses 3-pt jump shot from 26 ft,97-86, ,,3,97,86,11,2155.0
+0:02.0,Offensive rebound by S. Hauser,97-86, ,,3,97,86,11,2158.0
+0:01.0,D. White misses 3-pt jump shot from 26 ft,97-86, ,,3,97,86,11,2159.0
+0:00.0,Offensive rebound by Team,97-86, ,,3,97,86,11,2160.0
+0:00.0,End of 3rd quarter,97-86,,,3,97,86,11,2160.0
+12:00.0,Start of 4th quarter,97-86,,,4,97,86,11,2160.0
+11:38.0,J. Tatum misses 2-pt jump shot from 11 ft,97-86, ,,4,97,86,11,2182.0
+11:35.0, ,97-86,Defensive rebound by T. Jackson-Davis,,4,97,86,11,2185.0
+11:19.0, ,97-88,C. Paul makes 2-pt jump shot from 10 ft (assist by S. Curry),,4,97,88,9,2201.0
+10:59.0,S. Hauser misses 3-pt jump shot from 27 ft,97-88, ,,4,97,88,9,2221.0
+10:56.0, ,97-88,Defensive rebound by C. Paul,,4,97,88,9,2224.0
+10:52.0, ,97-90,A. Wiggins makes 2-pt layup from 6 ft (assist by S. Curry),,4,97,90,7,2228.0
+10:36.0,N. Queta misses 2-pt jump shot from 6 ft (block by T. Jackson-Davis),97-90, ,,4,97,90,7,2244.0
+10:32.0,Offensive rebound by N. Queta,97-90, ,,4,97,90,7,2248.0
+10:32.0,N. Queta makes 2-pt layup at rim,99-90, ,,4,99,90,9,2248.0
+10:20.0, ,99-90,A. Wiggins misses 2-pt layup from 4 ft,,4,99,90,9,2260.0
+10:17.0, ,99-90,Offensive rebound by A. Wiggins,,4,99,90,9,2263.0
+10:17.0, ,99-90,A. Wiggins misses 2-pt layup at rim,,4,99,90,9,2263.0
+10:15.0, ,99-90,Offensive rebound by A. Wiggins,,4,99,90,9,2265.0
+10:15.0, ,99-90,A. Wiggins misses 2-pt layup at rim,,4,99,90,9,2265.0
+10:14.0, ,99-90,Offensive rebound by A. Wiggins,,4,99,90,9,2266.0
+10:14.0, ,99-90,A. Wiggins misses 2-pt layup at rim,,4,99,90,9,2266.0
+10:12.0, ,99-90,Offensive rebound by T. Jackson-Davis,,4,99,90,9,2268.0
+10:12.0, ,99-92,T. Jackson-Davis makes 2-pt layup at rim,,4,99,92,7,2268.0
+10:02.0,Def 3 sec tech foul by Team,99-92, ,,4,99,92,7,2278.0
+10:02.0,J. Tatum makes technical free throw,100-92, ,,4,100,92,8,2278.0
+9:53.0,P. Pritchard makes 3-pt jump shot from 26 ft (assist by S. Hauser),103-92, ,,4,103,92,11,2287.0
+9:40.0, ,103-92,Turnover by S. Curry (bad pass; steal by J. Holiday),,4,103,92,11,2300.0
+9:35.0,S. Hauser misses 3-pt jump shot from 27 ft,103-92, ,,4,103,92,11,2305.0
+9:32.0, ,103-92,Defensive rebound by Team,,4,103,92,11,2308.0
+9:19.0, ,103-92,Personal foul by P. Pritchard (drawn by C. Paul),,4,103,92,11,2321.0
+9:15.0, ,103-95,S. Curry makes 3-pt jump shot from 27 ft (assist by C. Paul),,4,103,95,8,2325.0
+8:52.0,S. Hauser misses 3-pt jump shot from 24 ft,103-95, ,,4,103,95,8,2348.0
+8:49.0, ,103-95,Defensive rebound by C. Paul,,4,103,95,8,2351.0
+8:46.0, ,103-97,A. Wiggins makes 2-pt layup from 4 ft (assist by C. Paul),,4,103,97,6,2354.0
+8:46.0,Boston full timeout,103-97, ,,4,103,97,6,2354.0
+8:24.0,Personal foul by C. Paul (drawn by J. Tatum),103-97, ,,4,103,97,6,2376.0
+8:14.0,J. Holiday makes 3-pt jump shot from 23 ft (assist by P. Pritchard),106-97, ,,4,106,97,9,2386.0
+7:56.0, ,106-97,M. Moody misses 3-pt jump shot from 23 ft,,4,106,97,9,2404.0
+7:54.0, ,106-97,Offensive rebound by T. Jackson-Davis,,4,106,97,9,2406.0
+7:53.0, ,106-97,T. Jackson-Davis misses 2-pt layup from 4 ft,,4,106,97,9,2407.0
+7:52.0, ,106-97,Offensive rebound by T. Jackson-Davis,,4,106,97,9,2408.0
+7:51.0, ,106-97,T. Jackson-Davis misses 2-pt layup at rim,,4,106,97,9,2409.0
+7:51.0, ,106-97,Offensive rebound by T. Jackson-Davis,,4,106,97,9,2409.0
+7:50.0, ,106-99,T. Jackson-Davis makes 2-pt layup at rim,,4,106,99,7,2410.0
+7:34.0,S. Hauser misses 3-pt jump shot from 25 ft,106-99, ,,4,106,99,7,2426.0
+7:31.0,Offensive rebound by N. Queta,106-99, ,,4,106,99,7,2429.0
+7:31.0,Turnover by P. Pritchard (step out of bounds),106-99, ,,4,106,99,7,2429.0
+7:31.0, ,106-99,K. Thompson enters the game for C. Paul,,4,106,99,7,2429.0
+7:07.0, ,106-99,M. Moody misses 3-pt jump shot from 29 ft,,4,106,99,7,2453.0
+7:03.0,Defensive rebound by J. Tatum,106-99, ,,4,106,99,7,2457.0
+6:57.0,Shooting foul by T. Jackson-Davis (drawn by J. Tatum),106-99, ,,4,106,99,7,2463.0
+6:57.0,J. Tatum makes free throw 1 of 2,107-99, ,,4,107,99,8,2463.0
+6:57.0,J. Brown enters the game for S. Hauser,107-99, ,,4,107,99,8,2463.0
+6:57.0,A. Horford enters the game for P. Pritchard,107-99, ,,4,107,99,8,2463.0
+6:57.0,D. White enters the game for N. Queta,107-99, ,,4,107,99,8,2463.0
+6:57.0, ,107-99,J. Kuminga enters the game for T. Jackson-Davis,,4,107,99,8,2463.0
+6:57.0, ,107-99,D. Šarić enters the game for A. Wiggins,,4,107,99,8,2463.0
+6:57.0,J. Tatum makes free throw 2 of 2,108-99, ,,4,108,99,9,2463.0
+6:39.0, ,108-99,Shooting foul by A. Horford (drawn by M. Moody),,4,108,99,9,2481.0
+6:39.0, ,108-100,M. Moody makes free throw 1 of 2,,4,108,100,8,2481.0
+6:39.0, ,108-101,M. Moody makes free throw 2 of 2,,4,108,101,7,2481.0
+6:25.0,J. Tatum misses 2-pt layup from 4 ft,108-101, ,,4,108,101,7,2495.0
+6:25.0,Offensive rebound by Team,108-101, ,,4,108,101,7,2495.0
+6:25.0, ,108-101,Loose ball foul by D. Šarić (drawn by J. Tatum),,4,108,101,7,2495.0
+6:21.0,J. Holiday makes 2-pt jump shot from 6 ft (assist by J. Tatum),110-101, ,,4,110,101,9,2499.0
+6:08.0, ,110-103,S. Curry makes 2-pt layup from 4 ft,,4,110,103,7,2512.0
+5:43.0,J. Holiday misses 3-pt jump shot from 24 ft,110-103, ,,4,110,103,7,2537.0
+5:40.0, ,110-103,Defensive rebound by S. Curry,,4,110,103,7,2540.0
+5:35.0, ,110-105,S. Curry makes 2-pt layup from 9 ft,,4,110,105,5,2545.0
+5:10.0,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),113-105, ,,4,113,105,8,2570.0
+4:48.0, ,113-107,M. Moody makes 2-pt jump shot from 4 ft,,4,113,107,6,2592.0
+4:24.0,J. Holiday misses 2-pt layup from 4 ft,113-107, ,,4,113,107,6,2616.0
+4:22.0, ,113-107,Defensive rebound by D. Šarić,,4,113,107,6,2618.0
+4:15.0, ,113-107,S. Curry misses 2-pt layup from 7 ft (block by A. Horford),,4,113,107,6,2625.0
+4:12.0,Defensive rebound by A. Horford,113-107, ,,4,113,107,6,2628.0
+4:09.0,Shooting foul by D. Šarić (drawn by D. White),113-107, ,,4,113,107,6,2631.0
+4:09.0,D. White misses free throw 1 of 2,113-107, ,,4,113,107,6,2631.0
+4:09.0,Offensive rebound by Team,113-107, ,,4,113,107,6,2631.0
+4:09.0, ,113-107,T. Jackson-Davis enters the game for M. Moody,,4,113,107,6,2631.0
+4:09.0, ,113-107,C. Paul enters the game for D. Šarić,,4,113,107,6,2631.0
+4:09.0,D. White makes free throw 2 of 2,114-107, ,,4,114,107,7,2631.0
+3:56.0, ,114-110,K. Thompson makes 3-pt jump shot from 27 ft (assist by S. Curry),,4,114,110,4,2644.0
+3:45.0,Personal foul by C. Paul (drawn by J. Brown),114-110, ,,4,114,110,4,2655.0
+3:45.0,J. Brown makes free throw 1 of 2,115-110, ,,4,115,110,5,2655.0
+3:45.0,J. Brown makes free throw 2 of 2,116-110, ,,4,116,110,6,2655.0
+3:29.0, ,116-112,C. Paul makes 2-pt layup from 5 ft (assist by S. Curry),,4,116,112,4,2671.0
+3:16.0,Offensive foul by J. Brown (drawn by S. Curry),116-112, ,,4,116,112,4,2684.0
+3:16.0,Turnover by J. Brown (offensive foul),116-112, ,,4,116,112,4,2684.0
+3:06.0, ,116-115,S. Curry makes 3-pt jump shot from 30 ft,,4,116,115,1,2694.0
+2:44.0,J. Brown misses 2-pt jump shot from 10 ft,116-115, ,,4,116,115,1,2716.0
+2:42.0,Offensive rebound by J. Brown,116-115, ,,4,116,115,1,2718.0
+2:34.0,Shooting foul by T. Jackson-Davis (drawn by J. Holiday),116-115, ,,4,116,115,1,2726.0
+2:34.0, ,116-115,Golden State full timeout,,4,116,115,1,2726.0
+2:34.0,J. Holiday makes free throw 1 of 2,117-115, ,,4,117,115,2,2726.0
+2:34.0,J. Holiday makes free throw 2 of 2,118-115, ,,4,118,115,3,2726.0
+2:18.0, ,118-118,K. Thompson makes 3-pt jump shot from 31 ft (assist by C. Paul),Tie,4,118,118,0,2742.0
+1:53.0,D. White makes 3-pt jump shot from 22 ft (assist by J. Tatum),121-118, ,,4,121,118,3,2767.0
+1:36.0, ,121-121,S. Curry makes 3-pt jump shot from 28 ft,Tie,4,121,121,0,2784.0
+1:21.0,D. White misses 3-pt jump shot from 27 ft,121-121, ,,4,121,121,0,2799.0
+1:18.0,Offensive rebound by J. Tatum,121-121, ,,4,121,121,0,2802.0
+1:13.0,J. Tatum misses 3-pt jump shot from 25 ft,121-121, ,,4,121,121,0,2807.0
+1:07.0,Offensive rebound by J. Holiday,121-121, ,,4,121,121,0,2813.0
+1:06.0,D. White misses 3-pt jump shot from 26 ft,121-121, ,,4,121,121,0,2814.0
+1:03.0,Offensive rebound by J. Brown,121-121, ,,4,121,121,0,2817.0
+0:55.0,J. Brown misses 2-pt layup from 3 ft,121-121, ,,4,121,121,0,2825.0
+0:52.0,Offensive rebound by A. Horford,121-121, ,,4,121,121,0,2828.0
+0:52.0,A. Horford misses 2-pt layup at rim,121-121, ,,4,121,121,0,2828.0
+0:51.0, ,121-121,Defensive rebound by T. Jackson-Davis,,4,121,121,0,2829.0
+0:32.0, ,121-121,S. Curry misses 3-pt jump shot from 29 ft,,4,121,121,0,2848.0
+0:29.0, ,121-121,Offensive rebound by Team,,4,121,121,0,2851.0
+0:29.0,Boston full timeout,121-121, ,,4,121,121,0,2851.0
+0:29.0,Instant Replay (Challenge: Stands),121-121, ,,4,121,121,0,2851.0
+0:18.0, ,121-121,C. Paul misses 3-pt jump shot from 31 ft,,4,121,121,0,2862.0
+0:14.0,Defensive rebound by J. Holiday,121-121, ,,4,121,121,0,2866.0
+0:02.0,J. Tatum misses 2-pt jump shot from 23 ft,121-121, ,,4,121,121,0,2878.0
+0:01.0, ,121-121,Defensive rebound by T. Jackson-Davis,,4,121,121,0,2879.0
+0:00.0,End of 4th quarter,121-121,,,4,121,121,0,2880.0
+5:00.0,Start of 1st overtime,121-121,,,5,121,121,0,2880.0
+5:00.0,Jump ball: A. Horford vs. T. Jackson-Davis (J. Kuminga gains possession),121-121,,,5,121,121,0,2880.0
+4:39.0, ,121-121,C. Paul misses 2-pt jump shot from 20 ft,,5,121,121,0,2901.0
+4:36.0,Defensive rebound by J. Holiday,121-121, ,,5,121,121,0,2904.0
+4:25.0,J. Brown misses 2-pt jump shot from 16 ft,121-121, ,,5,121,121,0,2915.0
+4:22.0, ,121-121,Defensive rebound by S. Curry,,5,121,121,0,2918.0
+4:15.0, ,121-121,K. Thompson misses 3-pt jump shot from 28 ft,,5,121,121,0,2925.0
+4:11.0,Defensive rebound by J. Holiday,121-121, ,,5,121,121,0,2929.0
+4:06.0,D. White misses 3-pt jump shot from 23 ft,121-121, ,,5,121,121,0,2934.0
+4:02.0, ,121-121,Defensive rebound by T. Jackson-Davis,,5,121,121,0,2938.0
+3:47.0, ,121-121,K. Thompson misses 3-pt jump shot from 26 ft,,5,121,121,0,2953.0
+3:44.0, ,121-121,Offensive rebound by J. Kuminga,,5,121,121,0,2956.0
+3:44.0, ,121-121,C. Paul misses 3-pt jump shot from 27 ft,,5,121,121,0,2956.0
+3:41.0,Defensive rebound by D. White,121-121, ,,5,121,121,0,2959.0
+3:28.0,Turnover by A. Horford (bad pass; steal by J. Kuminga),121-121, ,,5,121,121,0,2972.0
+3:24.0, ,121-123,J. Kuminga makes 2-pt dunk from 3 ft,Lead change,5,121,123,-2,2976.0
+3:04.0,A. Horford misses 3-pt jump shot from 26 ft,121-123, ,,5,121,123,-2,2996.0
+3:02.0, ,121-123,Defensive rebound by J. Kuminga,,5,121,123,-2,2998.0
+2:47.0, ,121-125,T. Jackson-Davis makes 2-pt dunk from 4 ft (assist by K. Thompson),,5,121,125,-4,3013.0
+2:27.0,J. Brown misses 2-pt dunk from 4 ft (block by T. Jackson-Davis),121-125, ,,5,121,125,-4,3033.0
+2:25.0, ,121-125,Defensive rebound by K. Thompson,,5,121,125,-4,3035.0
+2:12.0, ,121-125,K. Thompson misses 3-pt jump shot from 24 ft,,5,121,125,-4,3048.0
+2:10.0,Defensive rebound by J. Brown,121-125, ,,5,121,125,-4,3050.0
+2:01.0,J. Brown makes 2-pt layup from 4 ft (assist by J. Holiday),123-125, ,,5,123,125,-2,3059.0
+1:39.0, ,123-125,S. Curry misses 2-pt jump shot from 8 ft,,5,123,125,-2,3081.0
+1:37.0,Defensive rebound by D. White,123-125, ,,5,123,125,-2,3083.0
+1:34.0,A. Horford misses 3-pt jump shot from 23 ft,123-125, ,,5,123,125,-2,3086.0
+1:31.0, ,123-125,Defensive rebound by Team,,5,123,125,-2,3089.0
+1:31.0, ,123-125,Golden State full timeout,,5,123,125,-2,3089.0
+1:09.0, ,123-125,K. Thompson misses 2-pt layup from 4 ft (block by J. Brown),,5,123,125,-2,3111.0
+1:05.0,Defensive rebound by J. Brown,123-125, ,,5,123,125,-2,3115.0
+0:53.0,J. Tatum misses 2-pt layup from 4 ft,123-125, ,,5,123,125,-2,3127.0
+0:52.0,Offensive rebound by A. Horford,123-125, ,,5,123,125,-2,3128.0
+0:52.0,A. Horford misses 2-pt layup at rim,123-125, ,,5,123,125,-2,3128.0
+0:52.0, ,123-125,Defensive rebound by Team,,5,123,125,-2,3128.0
+0:38.0, ,123-127,S. Curry makes 2-pt layup from 5 ft (assist by C. Paul),,5,123,127,-4,3142.0
+0:38.0,Boston full timeout,123-127, ,,5,123,127,-4,3142.0
+0:35.0,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Brown),126-127, ,,5,126,127,-1,3145.0
+0:16.0, ,126-127,S. Curry misses 2-pt layup from 4 ft,,5,126,127,-1,3164.0
+0:13.0, ,126-127,Offensive rebound by C. Paul,,5,126,127,-1,3167.0
+0:11.0, ,126-130,S. Curry makes 3-pt jump shot from 25 ft (assist by C. Paul),,5,126,130,-4,3169.0
+0:10.0,Boston full timeout,126-130, ,,5,126,130,-4,3170.0
+0:08.0,D. White misses 3-pt jump shot from 26 ft,126-130, ,,5,126,130,-4,3172.0
+0:04.0, ,126-130,Defensive rebound by T. Jackson-Davis,,5,126,130,-4,3176.0
+0:04.0, ,126-130,Personal take foul by J. Holiday (drawn by T. Jackson-Davis),,5,126,130,-4,3176.0
+0:03.0, ,126-130,Personal take foul by D. White (drawn by S. Curry),,5,126,130,-4,3177.0
+0:03.0, ,126-131,S. Curry makes free throw 1 of 2,,5,126,131,-5,3177.0
+0:03.0, ,126-132,S. Curry makes free throw 2 of 2,,5,126,132,-6,3177.0
+0:01.0,J. Holiday misses 3-pt jump shot from 39 ft,126-132, ,,5,126,132,-6,3179.0
+0:00.0,Offensive rebound by Team,126-132, ,,5,126,132,-6,3180.0
+0:00.0,End of 1st overtime,126-132,,,5,126,132,-6,3180.0

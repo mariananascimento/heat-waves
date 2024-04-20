@@ -1,0 +1,417 @@
+Time,Phoenix,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Nurkić vs. A. Horford (B. Beal gains possession),0-0,,,1,0,0,0,0.0
+11:40.0,K. Durant makes 2-pt jump shot from 19 ft,2-0, ,,1,0,2,-2,20.0
+11:19.0, ,2-0,J. Brown misses 2-pt jump shot from 13 ft,,1,0,2,-2,41.0
+11:17.0,Defensive rebound by B. Beal,2-0, ,,1,0,2,-2,43.0
+11:11.0,D. Booker misses 2-pt jump shot from 23 ft,2-0, ,,1,0,2,-2,49.0
+11:09.0,Offensive rebound by J. Nurkić,2-0, ,,1,0,2,-2,51.0
+11:09.0,J. Nurkić makes 2-pt layup at rim,4-0, ,,1,0,4,-4,51.0
+10:54.0, ,4-3,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Brown),,1,3,4,-1,66.0
+10:33.0,J. Nurkić misses 2-pt hook shot from 11 ft,4-3, ,,1,3,4,-1,87.0
+10:31.0, ,4-3,Defensive rebound by J. Tatum,,1,3,4,-1,89.0
+10:14.0, ,4-3,Turnover by J. Tatum (lost ball; steal by G. Allen),,1,3,4,-1,106.0
+10:14.0,Personal foul by J. Tatum (drawn by G. Allen),4-3, ,,1,3,4,-1,106.0
+9:52.0,D. Booker misses 2-pt layup from 4 ft,4-3, ,,1,3,4,-1,128.0
+9:50.0,Offensive rebound by G. Allen,4-3, ,,1,3,4,-1,130.0
+9:48.0,B. Beal misses 3-pt jump shot from 27 ft,4-3, ,,1,3,4,-1,132.0
+9:48.0, ,4-3,Defensive rebound by D. White,,1,3,4,-1,132.0
+9:37.0, ,4-3,Personal foul by G. Allen (drawn by J. Brown),,1,3,4,-1,143.0
+9:25.0, ,4-3,A. Horford misses 2-pt layup from 5 ft,,1,3,4,-1,155.0
+9:23.0,Defensive rebound by J. Nurkić,4-3, ,,1,3,4,-1,157.0
+9:18.0,K. Durant makes 2-pt jump shot from 21 ft (assist by J. Nurkić),6-3, ,,1,3,6,-3,162.0
+9:10.0, ,6-3,Personal foul by D. Booker (drawn by J. Brown),,1,3,6,-3,170.0
+9:05.0, ,6-3,J. Brown misses 2-pt jump shot from 11 ft,,1,3,6,-3,175.0
+9:03.0,Defensive rebound by J. Nurkić,6-3, ,,1,3,6,-3,177.0
+8:54.0,Turnover by K. Durant (bad pass; steal by A. Horford),6-3, ,,1,3,6,-3,186.0
+8:51.0, ,6-5,A. Horford makes 2-pt layup from 2 ft,,1,5,6,-1,189.0
+8:34.0,K. Durant makes 2-pt layup from 7 ft (assist by D. Booker),8-5, ,,1,5,8,-3,206.0
+8:24.0, ,8-8,J. Brown makes 3-pt jump shot from 24 ft (assist by D. White),Tie,1,8,8,0,216.0
+8:09.0,B. Beal makes 2-pt jump shot from 10 ft (assist by J. Nurkić),10-8, ,,1,8,10,-2,231.0
+7:51.0, ,10-8,J. Brown misses 2-pt layup from 2 ft (block by B. Beal),,1,8,10,-2,249.0
+7:49.0,Defensive rebound by J. Nurkić,10-8, ,,1,8,10,-2,251.0
+7:43.0,G. Allen makes 2-pt jump shot from 9 ft (assist by B. Beal),12-8, ,,1,8,12,-4,257.0
+7:27.0, ,12-8,J. Holiday misses 3-pt jump shot from 28 ft,,1,8,12,-4,273.0
+7:25.0,Defensive rebound by B. Beal,12-8, ,,1,8,12,-4,275.0
+7:17.0,B. Beal makes 3-pt jump shot from 26 ft,15-8, ,,1,8,15,-7,283.0
+7:02.0, ,15-11,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Holiday),,1,11,15,-4,298.0
+6:50.0,Turnover by K. Durant (bad pass; steal by D. White),15-11, ,,1,11,15,-4,310.0
+6:45.0, ,15-13,J. Brown makes 2-pt layup from 1 ft (assist by D. White),,1,13,15,-2,315.0
+6:27.0,K. Durant makes 2-pt layup from 4 ft (assist by J. Nurkić),17-13, ,,1,13,17,-4,333.0
+6:08.0, ,17-15,J. Tatum makes 2-pt layup from 1 ft,,1,15,17,-2,352.0
+5:46.0,B. Beal makes 2-pt layup from 3 ft,19-15, ,,1,15,19,-4,374.0
+5:46.0, ,19-15,Boston full timeout,,1,15,19,-4,374.0
+5:46.0,R. O'Neale enters the game for B. Beal,19-15, ,,1,15,19,-4,374.0
+5:46.0, ,19-15,S. Hauser enters the game for J. Brown,,1,15,19,-4,374.0
+5:46.0, ,19-15,L. Kornet enters the game for D. White,,1,15,19,-4,374.0
+5:37.0, ,19-15,J. Tatum misses 3-pt jump shot from 26 ft,,1,15,19,-4,383.0
+5:34.0,Defensive rebound by K. Durant,19-15, ,,1,15,19,-4,386.0
+5:29.0,D. Booker misses 3-pt jump shot from 29 ft,19-15, ,,1,15,19,-4,391.0
+5:27.0,Offensive rebound by Team,19-15, ,,1,15,19,-4,393.0
+5:27.0, ,19-15,Loose ball foul by L. Kornet (drawn by J. Nurkić),,1,15,19,-4,393.0
+5:24.0,K. Durant makes 3-pt jump shot from 25 ft (assist by D. Booker),22-15, ,,1,15,22,-7,396.0
+5:08.0, ,22-18,J. Tatum makes 3-pt jump shot from 28 ft (assist by J. Holiday),,1,18,22,-4,412.0
+4:51.0,D. Booker misses 3-pt jump shot from 28 ft,22-18, ,,1,18,22,-4,429.0
+4:48.0, ,22-18,Defensive rebound by J. Tatum,,1,18,22,-4,432.0
+4:46.0, ,22-18,Turnover by J. Tatum (lost ball; steal by J. Nurkić),,1,18,22,-4,434.0
+4:42.0,R. O'Neale misses 3-pt jump shot from 25 ft,22-18, ,,1,18,22,-4,438.0
+4:39.0, ,22-18,Defensive rebound by S. Hauser,,1,18,22,-4,441.0
+4:27.0, ,22-18,L. Kornet misses 2-pt layup from 3 ft,,1,18,22,-4,453.0
+4:27.0,Defensive rebound by Team,22-18, ,,1,18,22,-4,453.0
+4:13.0,Shooting foul by J. Holiday (drawn by D. Booker),22-18, ,,1,18,22,-4,467.0
+4:13.0,D. Booker makes free throw 1 of 2,23-18, ,,1,18,23,-5,467.0
+4:13.0,D. Eubanks enters the game for J. Nurkić,23-18, ,,1,18,23,-5,467.0
+4:13.0,D. Booker makes free throw 2 of 2,24-18, ,,1,18,24,-6,467.0
+4:02.0, ,24-18,A. Horford misses 3-pt jump shot from 25 ft,,1,18,24,-6,478.0
+3:58.0,Defensive rebound by R. O'Neale,24-18, ,,1,18,24,-6,482.0
+3:53.0,D. Booker makes 2-pt jump shot from 16 ft,26-18, ,,1,18,26,-8,487.0
+3:36.0, ,26-20,J. Tatum makes 2-pt jump shot from 21 ft,,1,20,26,-6,504.0
+3:21.0,K. Durant misses 2-pt jump shot from 17 ft,26-20, ,,1,20,26,-6,519.0
+3:19.0, ,26-20,Defensive rebound by S. Hauser,,1,20,26,-6,521.0
+3:13.0, ,26-23,J. Tatum makes 3-pt jump shot from 27 ft (assist by S. Hauser),,1,23,26,-3,527.0
+3:12.0,Phoenix full timeout,26-23, ,,1,23,26,-3,528.0
+3:12.0,B. Beal enters the game for G. Allen,26-23, ,,1,23,26,-3,528.0
+3:12.0, ,26-23,P. Pritchard enters the game for A. Horford,,1,23,26,-3,528.0
+3:01.0,B. Beal makes 2-pt layup from 2 ft (assist by R. O'Neale),28-23, ,,1,23,28,-5,539.0
+2:41.0, ,28-25,J. Tatum makes 2-pt layup from 1 ft,,1,25,28,-3,559.0
+2:25.0,K. Durant makes 2-pt jump shot from 16 ft (assist by D. Booker),30-25, ,,1,25,30,-5,575.0
+2:07.0, ,30-28,J. Holiday makes 3-pt jump shot from 27 ft (assist by L. Kornet),,1,28,30,-2,593.0
+1:44.0,Turnover by R. O'Neale (lost ball; steal by P. Pritchard),30-28, ,,1,28,30,-2,616.0
+1:41.0, ,30-30,J. Tatum makes 2-pt dunk from 1 ft,Tie,1,30,30,0,619.0
+1:26.0,R. O'Neale misses 3-pt jump shot from 26 ft,30-30, ,,1,30,30,0,634.0
+1:23.0,Offensive rebound by D. Eubanks,30-30, ,,1,30,30,0,637.0
+1:21.0,D. Booker misses 3-pt jump shot from 26 ft,30-30, ,,1,30,30,0,639.0
+1:17.0, ,30-30,Defensive rebound by S. Hauser,,1,30,30,0,643.0
+1:12.0, ,30-33,P. Pritchard makes 3-pt jump shot from 28 ft (assist by J. Holiday),Lead change,1,33,30,3,648.0
+0:46.0,D. Eubanks misses 2-pt dunk from 4 ft (block by J. Holiday),30-33, ,,1,33,30,3,674.0
+0:43.0,Offensive rebound by D. Eubanks,30-33, ,,1,33,30,3,677.0
+0:42.0,D. Eubanks misses 2-pt layup from 5 ft,30-33, ,,1,33,30,3,678.0
+0:41.0,Offensive rebound by D. Eubanks,30-33, ,,1,33,30,3,679.0
+0:38.0,K. Durant makes 2-pt jump shot from 4 ft (assist by R. O'Neale),32-33, ,,1,33,32,1,682.0
+0:31.0, ,32-35,L. Kornet makes 2-pt layup from 2 ft (assist by J. Holiday),,1,35,32,3,689.0
+0:08.0,R. O'Neale misses 2-pt layup from 7 ft,32-35, ,,1,35,32,3,712.0
+0:07.0,Offensive rebound by Team,32-35, ,,1,35,32,3,713.0
+0:07.0,Turnover by Team (shot clock),32-35, ,,1,35,32,3,713.0
+0:02.0, ,32-35,Personal foul by R. O'Neale (drawn by J. Tatum),,1,35,32,3,718.0
+0:02.0,I. Wainright enters the game for D. Booker,32-35, ,,1,35,32,3,718.0
+0:00.0, ,32-35,J. Tatum misses 3-pt jump shot from 30 ft,,1,35,32,3,720.0
+0:00.0, ,32-35,Offensive rebound by Team,,1,35,32,3,720.0
+0:00.0,End of 1st quarter,32-35,,,1,35,32,3,720.0
+12:00.0,Start of 2nd quarter,32-35,,,2,35,32,3,720.0
+11:44.0, ,32-37,J. Brown makes 2-pt layup from 4 ft (assist by X. Tillman),,2,37,32,5,736.0
+11:44.0, ,32-37,Shooting foul by J. Nurkić (drawn by J. Brown),,2,37,32,5,736.0
+11:44.0, ,32-38,J. Brown makes free throw 1 of 1,,2,38,32,6,736.0
+11:34.0,J. Nurkić misses 2-pt hook shot from 7 ft,32-38, ,,2,38,32,6,746.0
+11:32.0,Offensive rebound by Team,32-38, ,,2,38,32,6,748.0
+11:32.0, ,32-38,Loose ball foul by X. Tillman (drawn by J. Nurkić),,2,38,32,6,748.0
+11:20.0,B. Beal misses 2-pt layup from 7 ft,32-38, ,,2,38,32,6,760.0
+11:16.0,Offensive rebound by J. Nurkić,32-38, ,,2,38,32,6,764.0
+11:15.0,G. Allen misses 3-pt jump shot from 26 ft,32-38, ,,2,38,32,6,765.0
+11:13.0,Offensive rebound by Team,32-38, ,,2,38,32,6,767.0
+11:10.0,B. Beal misses 2-pt layup from 7 ft (block by X. Tillman),32-38, ,,2,38,32,6,770.0
+11:08.0,Offensive rebound by B. Beal,32-38, ,,2,38,32,6,772.0
+11:07.0,B. Beal misses 2-pt layup from 3 ft,32-38, ,,2,38,32,6,773.0
+11:05.0, ,32-38,Defensive rebound by X. Tillman,,2,38,32,6,775.0
+10:53.0, ,32-41,D. White makes 3-pt jump shot from 28 ft (assist by J. Brown),,2,41,32,9,787.0
+10:39.0,G. Allen makes 2-pt jump shot from 13 ft (assist by J. Nurkić),34-41, ,,2,41,34,7,801.0
+10:32.0, ,34-41,Personal foul by B. Beal (drawn by D. White),,2,41,34,7,808.0
+10:20.0, ,34-41,J. Brown misses 3-pt jump shot from 26 ft,,2,41,34,7,820.0
+10:16.0,Defensive rebound by R. O'Neale,34-41, ,,2,41,34,7,824.0
+10:02.0,G. Allen makes 3-pt jump shot from 23 ft (assist by B. Beal),37-41, ,,2,41,37,4,838.0
+9:49.0, ,37-41,D. White misses 3-pt jump shot from 27 ft,,2,41,37,4,851.0
+9:47.0,Defensive rebound by R. O'Neale,37-41, ,,2,41,37,4,853.0
+9:40.0,B. Beal misses 2-pt layup from 2 ft,37-41, ,,2,41,37,4,860.0
+9:39.0,Offensive rebound by J. Nurkić,37-41, ,,2,41,37,4,861.0
+9:38.0,J. Nurkić makes 2-pt layup from 2 ft,39-41, ,,2,41,39,2,862.0
+9:23.0, ,39-43,J. Brown makes 2-pt jump shot from 10 ft,,2,43,39,4,877.0
+9:07.0,B. Bol makes 3-pt jump shot from 25 ft (assist by B. Beal),42-43, ,,2,43,42,1,893.0
+8:52.0, ,42-43,Turnover by P. Pritchard (3 sec),,2,43,42,1,908.0
+8:52.0, ,42-43,A. Horford enters the game for S. Hauser,,2,43,42,1,908.0
+8:35.0,B. Beal misses 2-pt jump shot from 12 ft,42-43, ,,2,43,42,1,925.0
+8:31.0, ,42-43,Defensive rebound by P. Pritchard,,2,43,42,1,929.0
+8:28.0, ,42-45,J. Brown makes 2-pt layup from 3 ft (assist by P. Pritchard),,2,45,42,3,932.0
+8:10.0,Personal foul by J. Brown (drawn by B. Beal),42-45, ,,2,45,42,3,950.0
+8:01.0,Turnover by G. Allen (bad pass; steal by J. Brown),42-45, ,,2,45,42,3,959.0
+7:43.0, ,42-45,A. Horford misses 2-pt layup from 5 ft (block by J. Nurkić),,2,45,42,3,977.0
+7:42.0, ,42-45,Offensive rebound by Team,,2,45,42,3,978.0
+7:40.0, ,42-45,Offensive foul by A. Horford (drawn by B. Beal),,2,45,42,3,980.0
+7:40.0, ,42-45,Turnover by A. Horford (offensive foul),,2,45,42,3,980.0
+7:40.0,Phoenix full timeout,42-45, ,,2,45,42,3,980.0
+7:40.0,Instant Replay (Challenge: Ruling Stands),42-45, ,,2,45,42,3,980.0
+7:40.0,D. Booker enters the game for B. Beal,42-45, ,,2,45,42,3,980.0
+7:26.0,Personal foul by P. Pritchard (drawn by J. Nurkić),42-45, ,,2,45,42,3,994.0
+7:16.0,R. O'Neale misses 3-pt jump shot from 24 ft,42-45, ,,2,45,42,3,1004.0
+7:13.0,Offensive rebound by J. Nurkić,42-45, ,,2,45,42,3,1007.0
+7:12.0,B. Bol makes 2-pt jump shot from 10 ft (assist by J. Nurkić),44-45, ,,2,45,44,1,1008.0
+6:56.0, ,44-48,J. Brown makes 3-pt jump shot from 28 ft,,2,48,44,4,1024.0
+6:32.0,R. O'Neale misses 3-pt jump shot from 27 ft,44-48, ,,2,48,44,4,1048.0
+6:29.0,Offensive rebound by B. Bol,44-48, ,,2,48,44,4,1051.0
+6:28.0,B. Bol makes 2-pt layup from 2 ft,46-48, ,,2,48,46,2,1052.0
+6:19.0, ,46-50,J. Brown makes 2-pt layup from 4 ft,,2,50,46,4,1061.0
+6:02.0,D. Booker makes 2-pt jump shot from 21 ft,48-50, ,,2,50,48,2,1078.0
+5:47.0, ,48-50,J. Brown misses 3-pt jump shot from 26 ft,,2,50,48,2,1093.0
+5:44.0,Defensive rebound by J. Nurkić,48-50, ,,2,50,48,2,1096.0
+5:28.0,D. Booker misses 2-pt jump shot from 10 ft,48-50, ,,2,50,48,2,1112.0
+5:26.0,Offensive rebound by B. Bol,48-50, ,,2,50,48,2,1114.0
+5:24.0,R. O'Neale misses 3-pt jump shot from 25 ft,48-50, ,,2,50,48,2,1116.0
+5:23.0, ,48-50,Defensive rebound by P. Pritchard,,2,50,48,2,1117.0
+5:13.0, ,48-50,X. Tillman misses 3-pt jump shot from 24 ft,,2,50,48,2,1127.0
+5:10.0,Defensive rebound by D. Booker,48-50, ,,2,50,48,2,1130.0
+4:58.0,B. Bol makes 3-pt jump shot from 24 ft (assist by D. Booker),51-50, ,Lead change,2,50,51,-1,1142.0
+4:57.0, ,51-50,Boston full timeout,,2,50,51,-1,1143.0
+4:57.0,B. Beal enters the game for G. Allen,51-50, ,,2,50,51,-1,1143.0
+4:57.0,K. Durant enters the game for R. O'Neale,51-50, ,,2,50,51,-1,1143.0
+4:57.0, ,51-50,J. Holiday enters the game for P. Pritchard,,2,50,51,-1,1143.0
+4:57.0, ,51-50,J. Tatum enters the game for X. Tillman,,2,50,51,-1,1143.0
+4:37.0, ,51-50,Shooting foul by D. Booker (drawn by J. Brown),,2,50,51,-1,1163.0
+4:37.0, ,51-50,J. Brown misses free throw 1 of 2,,2,50,51,-1,1163.0
+4:37.0, ,51-50,Offensive rebound by Team,,2,50,51,-1,1163.0
+4:37.0, ,51-50,J. Brown misses free throw 2 of 2,,2,50,51,-1,1163.0
+4:37.0,Defensive rebound by B. Bol,51-50, ,,2,50,51,-1,1163.0
+4:17.0,D. Booker misses 2-pt jump shot from 21 ft,51-50, ,,2,50,51,-1,1183.0
+4:15.0, ,51-50,Defensive rebound by D. White,,2,50,51,-1,1185.0
+4:03.0, ,51-52,J. Tatum makes 2-pt layup from 2 ft,Lead change,2,52,51,1,1197.0
+3:53.0,K. Durant misses 2-pt jump shot from 13 ft,51-52, ,,2,52,51,1,1207.0
+3:51.0,Offensive rebound by J. Nurkić,51-52, ,,2,52,51,1,1209.0
+3:51.0,J. Nurkić misses 2-pt layup at rim,51-52, ,,2,52,51,1,1209.0
+3:50.0, ,51-52,Defensive rebound by Team,,2,52,51,1,1210.0
+3:43.0, ,51-54,J. Brown makes 2-pt layup from 2 ft (assist by J. Holiday),,2,54,51,3,1217.0
+3:43.0, ,51-54,Shooting foul by B. Beal (drawn by J. Brown),,2,54,51,3,1217.0
+3:43.0,I. Wainright enters the game for B. Bol,51-54, ,,2,54,51,3,1217.0
+3:43.0, ,51-55,J. Brown makes free throw 1 of 1,,2,55,51,4,1217.0
+3:33.0,B. Beal makes 2-pt layup from 3 ft,53-55, ,,2,55,53,2,1227.0
+3:17.0, ,53-55,D. White misses 3-pt jump shot from 23 ft,,2,55,53,2,1243.0
+3:15.0,Defensive rebound by J. Nurkić,53-55, ,,2,55,53,2,1245.0
+3:11.0,Jump ball: D. Booker vs. J. Holiday (K. Durant gains possession),53-55,,,2,55,53,2,1249.0
+3:06.0,K. Durant misses 2-pt jump shot from 15 ft,53-55, ,,2,55,53,2,1254.0
+3:04.0, ,53-55,Defensive rebound by J. Tatum,,2,55,53,2,1256.0
+2:59.0, ,53-55,Shooting foul by K. Durant (drawn by J. Tatum),,2,55,53,2,1261.0
+2:59.0, ,53-55,J. Tatum misses free throw 1 of 2,,2,55,53,2,1261.0
+2:59.0, ,53-55,Offensive rebound by Team,,2,55,53,2,1261.0
+2:59.0, ,53-56,J. Tatum makes free throw 2 of 2,,2,56,53,3,1261.0
+2:48.0,I. Wainright makes 3-pt jump shot from 26 ft (assist by B. Beal),56-56, ,Tie,2,56,56,0,1272.0
+2:27.0, ,56-59,A. Horford makes 3-pt jump shot from 29 ft (assist by J. Tatum),,2,59,56,3,1293.0
+2:18.0,Offensive foul by I. Wainright (drawn by J. Holiday),56-59, ,,2,59,56,3,1302.0
+2:18.0,Turnover by I. Wainright (offensive foul),56-59, ,,2,59,56,3,1302.0
+2:05.0, ,56-59,D. White misses 3-pt jump shot from 23 ft,,2,59,56,3,1315.0
+2:03.0,Defensive rebound by Team,56-59, ,,2,59,56,3,1317.0
+2:03.0, ,56-59,Loose ball foul by J. Brown (drawn by J. Nurkić),,2,59,56,3,1317.0
+1:42.0,Shooting foul by J. Tatum (drawn by B. Beal),56-59, ,,2,59,56,3,1338.0
+1:42.0,B. Beal makes free throw 1 of 2,57-59, ,,2,59,57,2,1338.0
+1:42.0,B. Beal makes free throw 2 of 2,58-59, ,,2,59,58,1,1338.0
+1:32.0, ,58-59,A. Horford misses 3-pt jump shot from 27 ft,,2,59,58,1,1348.0
+1:29.0,Defensive rebound by J. Nurkić,58-59, ,,2,59,58,1,1351.0
+1:27.0,Turnover by J. Nurkić (bad pass; steal by A. Horford),58-59, ,,2,59,58,1,1353.0
+1:20.0, ,58-59,D. White misses 3-pt jump shot from 29 ft,,2,59,58,1,1360.0
+1:16.0, ,58-59,Offensive rebound by J. Tatum,,2,59,58,1,1364.0
+1:14.0, ,58-62,J. Tatum makes 3-pt jump shot from 26 ft,,2,62,58,4,1366.0
+1:00.0,D. Booker misses 3-pt jump shot from 27 ft,58-62, ,,2,62,58,4,1380.0
+0:57.0, ,58-62,Defensive rebound by D. White,,2,62,58,4,1383.0
+0:47.0, ,58-65,J. Tatum makes 3-pt jump shot from 25 ft,,2,65,58,7,1393.0
+0:34.0,K. Durant misses 3-pt jump shot from 28 ft,58-65, ,,2,65,58,7,1406.0
+0:30.0,Offensive rebound by I. Wainright,58-65, ,,2,65,58,7,1410.0
+0:23.0,D. Booker makes 2-pt jump shot from 13 ft (assist by B. Beal),60-65, ,,2,65,60,5,1417.0
+0:03.0, ,60-65,Turnover by J. Tatum (bad pass; steal by B. Beal),,2,65,60,5,1437.0
+0:00.0,End of 2nd quarter,60-65,,,2,65,60,5,1440.0
+12:00.0,Start of 3rd quarter,60-65,,,3,65,60,5,1440.0
+11:46.0, ,60-65,J. Tatum misses 2-pt layup from 7 ft,,3,65,60,5,1454.0
+11:43.0, ,60-65,Offensive rebound by A. Horford,,3,65,60,5,1457.0
+11:42.0, ,60-68,J. Brown makes 3-pt jump shot from 26 ft (assist by A. Horford),,3,68,60,8,1458.0
+11:16.0,B. Beal makes 3-pt jump shot from 26 ft (assist by J. Nurkić),63-68, ,,3,68,63,5,1484.0
+11:08.0, ,63-68,Turnover by J. Brown (out of bounds lost ball),,3,68,63,5,1492.0
+11:00.0,D. Booker makes 2-pt jump shot from 11 ft,65-68, ,,3,68,65,3,1500.0
+10:44.0, ,65-68,Shooting foul by G. Allen (drawn by A. Horford),,3,68,65,3,1516.0
+10:44.0, ,65-69,A. Horford makes free throw 1 of 2,,3,69,65,4,1516.0
+10:44.0, ,65-70,A. Horford makes free throw 2 of 2,,3,70,65,5,1516.0
+10:29.0,K. Durant misses 2-pt jump shot from 17 ft,65-70, ,,3,70,65,5,1531.0
+10:25.0,Offensive rebound by J. Nurkić,65-70, ,,3,70,65,5,1535.0
+10:15.0,D. Booker misses 2-pt jump shot from 13 ft,65-70, ,,3,70,65,5,1545.0
+10:11.0, ,65-70,Defensive rebound by J. Brown,,3,70,65,5,1549.0
+10:06.0, ,65-72,D. White makes 2-pt layup from 6 ft (assist by J. Tatum),,3,72,65,7,1554.0
+9:55.0,B. Beal misses 2-pt layup from 6 ft,65-72, ,,3,72,65,7,1565.0
+9:54.0, ,65-72,Defensive rebound by D. White,,3,72,65,7,1566.0
+9:51.0, ,65-72,D. White misses 3-pt jump shot from 26 ft,,3,72,65,7,1569.0
+9:48.0,Defensive rebound by K. Durant,65-72, ,,3,72,65,7,1572.0
+9:40.0,Turnover by K. Durant (lost ball; steal by D. White),65-72, ,,3,72,65,7,1580.0
+9:39.0, ,65-72,Shooting foul by D. Booker (drawn by J. Brown),,3,72,65,7,1581.0
+9:39.0, ,65-73,J. Brown makes free throw 1 of 2,,3,73,65,8,1581.0
+9:39.0, ,65-74,J. Brown makes free throw 2 of 2,,3,74,65,9,1581.0
+9:30.0,K. Durant misses 2-pt jump shot from 16 ft,65-74, ,,3,74,65,9,1590.0
+9:27.0, ,65-74,Defensive rebound by J. Brown,,3,74,65,9,1593.0
+9:19.0, ,65-74,J. Brown misses 2-pt jump shot from 14 ft,,3,74,65,9,1601.0
+9:17.0,Defensive rebound by J. Nurkić,65-74, ,,3,74,65,9,1603.0
+9:11.0,K. Durant misses 3-pt jump shot from 28 ft,65-74, ,,3,74,65,9,1609.0
+9:07.0, ,65-74,Defensive rebound by D. White,,3,74,65,9,1613.0
+8:50.0, ,65-77,D. White makes 3-pt jump shot from 26 ft (assist by J. Holiday),,3,77,65,12,1630.0
+8:49.0,Phoenix full timeout,65-77, ,,3,77,65,12,1631.0
+8:36.0,Turnover by B. Beal (bad pass; steal by J. Holiday),65-77, ,,3,77,65,12,1644.0
+8:31.0, ,65-79,J. Tatum makes 2-pt layup from 3 ft (assist by J. Holiday),,3,79,65,14,1649.0
+8:16.0,B. Beal makes 2-pt layup from 3 ft,67-79, ,,3,79,67,12,1664.0
+8:04.0, ,67-79,J. Tatum misses 3-pt jump shot from 28 ft,,3,79,67,12,1676.0
+8:02.0,Defensive rebound by J. Nurkić,67-79, ,,3,79,67,12,1678.0
+7:50.0,G. Allen makes 3-pt jump shot from 27 ft (assist by K. Durant),70-79, ,,3,79,70,9,1690.0
+7:29.0, ,70-79,D. White misses 2-pt jump shot from 10 ft,,3,79,70,9,1711.0
+7:27.0,Defensive rebound by J. Nurkić,70-79, ,,3,79,70,9,1713.0
+7:13.0,J. Nurkić misses 2-pt layup from 6 ft (block by D. White),70-79, ,,3,79,70,9,1727.0
+7:11.0, ,70-79,Defensive rebound by J. Brown,,3,79,70,9,1729.0
+6:48.0, ,70-79,Turnover by Team (shot clock),,3,79,70,9,1752.0
+6:35.0,J. Nurkić makes 2-pt layup from 3 ft (assist by D. Booker),72-79, ,,3,79,72,7,1765.0
+6:11.0, ,72-82,J. Brown makes 3-pt jump shot from 24 ft (assist by D. White),,3,82,72,10,1789.0
+5:56.0,Turnover by B. Beal (lost ball; steal by J. Holiday),72-82, ,,3,82,72,10,1804.0
+5:52.0, ,72-85,J. Holiday makes 3-pt jump shot from 25 ft,,3,85,72,13,1808.0
+5:50.0,Phoenix full timeout,72-85, ,,3,85,72,13,1810.0
+5:50.0,Technical foul by F. Vogel,72-85, ,,3,85,72,13,1810.0
+5:50.0, ,72-85,S. Hauser enters the game for J. Brown,,3,85,72,13,1810.0
+5:50.0, ,72-85,X. Tillman enters the game for D. White,,3,85,72,13,1810.0
+5:50.0, ,72-86,J. Tatum makes technical free throw,,3,86,72,14,1810.0
+5:40.0,K. Durant makes 2-pt jump shot from 18 ft (assist by B. Beal),74-86, ,,3,86,74,12,1820.0
+5:23.0, ,74-89,S. Hauser makes 3-pt jump shot from 25 ft (assist by A. Horford),,3,89,74,15,1837.0
+5:11.0,Shooting foul by J. Tatum (drawn by K. Durant),74-89, ,,3,89,74,15,1849.0
+5:11.0,K. Durant misses free throw 1 of 2,74-89, ,,3,89,74,15,1849.0
+5:11.0,Offensive rebound by Team,74-89, ,,3,89,74,15,1849.0
+5:11.0,R. O'Neale enters the game for B. Beal,74-89, ,,3,89,74,15,1849.0
+5:11.0,K. Durant makes free throw 2 of 2,75-89, ,,3,89,75,14,1849.0
+4:53.0, ,75-89,J. Holiday misses 3-pt jump shot from 26 ft (block by K. Durant),,3,89,75,14,1867.0
+4:49.0, ,75-89,Offensive rebound by X. Tillman,,3,89,75,14,1871.0
+4:48.0, ,75-89,S. Hauser misses 3-pt jump shot from 26 ft,,3,89,75,14,1872.0
+4:46.0,Defensive rebound by J. Nurkić,75-89, ,,3,89,75,14,1874.0
+4:32.0,Turnover by J. Nurkić (lost ball; steal by A. Horford),75-89, ,,3,89,75,14,1888.0
+4:16.0, ,75-89,A. Horford misses 3-pt jump shot from 27 ft,,3,89,75,14,1904.0
+4:14.0,Defensive rebound by K. Durant,75-89, ,,3,89,75,14,1906.0
+4:10.0,D. Booker misses 3-pt jump shot from 26 ft,75-89, ,,3,89,75,14,1910.0
+4:08.0, ,75-89,Defensive rebound by J. Tatum,,3,89,75,14,1912.0
+3:49.0, ,75-89,J. Tatum misses 2-pt jump shot from 20 ft,,3,89,75,14,1931.0
+3:47.0, ,75-89,Offensive rebound by A. Horford,,3,89,75,14,1933.0
+3:40.0, ,75-92,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Holiday),,3,92,75,17,1940.0
+3:17.0,K. Durant misses 2-pt layup from 3 ft,75-92, ,,3,92,75,17,1963.0
+3:15.0, ,75-92,Defensive rebound by A. Horford,,3,92,75,17,1965.0
+3:11.0, ,75-92,S. Hauser misses 2-pt layup from 4 ft,,3,92,75,17,1969.0
+3:09.0,Defensive rebound by J. Nurkić,75-92, ,,3,92,75,17,1971.0
+3:00.0,Shooting foul by X. Tillman (drawn by J. Nurkić),75-92, ,,3,92,75,17,1980.0
+3:00.0,J. Nurkić misses free throw 1 of 2,75-92, ,,3,92,75,17,1980.0
+3:00.0,Offensive rebound by Team,75-92, ,,3,92,75,17,1980.0
+3:00.0,J. Nurkić misses free throw 2 of 2,75-92, ,,3,92,75,17,1980.0
+3:00.0, ,75-92,Defensive rebound by X. Tillman,,3,92,75,17,1980.0
+2:45.0, ,75-95,A. Horford makes 3-pt jump shot from 27 ft (assist by J. Tatum),,3,95,75,20,1995.0
+2:27.0,K. Durant misses 2-pt jump shot from 22 ft,75-95, ,,3,95,75,20,2013.0
+2:25.0, ,75-95,Defensive rebound by S. Hauser,,3,95,75,20,2015.0
+2:15.0, ,75-95,J. Tatum misses 3-pt jump shot from 26 ft,,3,95,75,20,2025.0
+2:13.0,Defensive rebound by J. Nurkić,75-95, ,,3,95,75,20,2027.0
+2:02.0,G. Allen makes 3-pt jump shot from 24 ft (assist by D. Booker),78-95, ,,3,95,78,17,2038.0
+1:42.0, ,78-97,X. Tillman makes 2-pt hook shot from 6 ft (assist by J. Holiday),,3,97,78,19,2058.0
+1:26.0,J. Nurkić misses 2-pt layup from 5 ft (block by J. Holiday),78-97, ,,3,97,78,19,2074.0
+1:25.0,Offensive rebound by J. Nurkić,78-97, ,,3,97,78,19,2075.0
+1:23.0,J. Nurkić makes 2-pt layup from 1 ft,80-97, ,,3,97,80,17,2077.0
+1:23.0,Violation by Team (delay of game),80-97, ,,3,97,80,17,2077.0
+1:12.0, ,80-97,A. Horford misses 3-pt jump shot from 26 ft,,3,97,80,17,2088.0
+1:09.0,Defensive rebound by J. Nurkić,80-97, ,,3,97,80,17,2091.0
+1:02.0,D. Booker makes 3-pt jump shot from 28 ft,83-97, ,,3,97,83,14,2098.0
+1:00.0, ,83-97,Boston full timeout,,3,97,83,14,2100.0
+1:00.0,B. Beal enters the game for G. Allen,83-97, ,,3,97,83,14,2100.0
+1:00.0,B. Bol enters the game for K. Durant,83-97, ,,3,97,83,14,2100.0
+1:00.0,I. Wainright enters the game for J. Nurkić,83-97, ,,3,97,83,14,2100.0
+1:00.0, ,83-97,P. Pritchard enters the game for A. Horford,,3,97,83,14,2100.0
+0:52.0, ,83-100,S. Hauser makes 3-pt jump shot from 25 ft (assist by J. Tatum),,3,100,83,17,2108.0
+0:43.0,D. Booker makes 2-pt jump shot from 20 ft,85-100, ,,3,100,85,15,2117.0
+0:37.0, ,85-102,S. Hauser makes 2-pt layup from 2 ft (assist by J. Holiday),,3,102,85,17,2123.0
+0:20.0,Turnover by B. Beal (lost ball; steal by S. Hauser),85-102, ,,3,102,85,17,2140.0
+0:03.0, ,85-102,J. Tatum misses 2-pt jump shot from 8 ft,,3,102,85,17,2157.0
+0:02.0,Defensive rebound by I. Wainright,85-102, ,,3,102,85,17,2158.0
+0:00.0,End of 3rd quarter,85-102,,,3,102,85,17,2160.0
+12:00.0,Start of 4th quarter,85-102,,,4,102,85,17,2160.0
+11:48.0,I. Wainright misses 2-pt layup from 5 ft,85-102, ,,4,102,85,17,2172.0
+11:47.0,Offensive rebound by I. Wainright,85-102, ,,4,102,85,17,2173.0
+11:47.0,I. Wainright misses 2-pt layup from 3 ft,85-102, ,,4,102,85,17,2173.0
+11:45.0,Offensive rebound by I. Wainright,85-102, ,,4,102,85,17,2175.0
+11:42.0,G. Allen makes 3-pt jump shot from 27 ft (assist by R. O'Neale),88-102, ,,4,102,88,14,2178.0
+11:24.0, ,88-104,J. Brown makes 2-pt jump shot from 7 ft (assist by D. White),,4,104,88,16,2196.0
+11:13.0,B. Beal misses 3-pt jump shot from 26 ft,88-104, ,,4,104,88,16,2207.0
+11:11.0, ,88-104,Defensive rebound by D. White,,4,104,88,16,2209.0
+11:04.0, ,88-104,D. White misses 2-pt jump shot from 8 ft,,4,104,88,16,2216.0
+11:01.0,Defensive rebound by I. Wainright,88-104, ,,4,104,88,16,2219.0
+10:52.0,I. Wainright misses 3-pt jump shot from 28 ft,88-104, ,,4,104,88,16,2228.0
+10:49.0, ,88-104,Defensive rebound by J. Brown,,4,104,88,16,2231.0
+10:33.0, ,88-104,S. Hauser misses 3-pt jump shot from 26 ft,,4,104,88,16,2247.0
+10:29.0,Defensive rebound by B. Bol,88-104, ,,4,104,88,16,2251.0
+10:12.0,B. Beal makes 2-pt jump shot from 16 ft (assist by I. Wainright),90-104, ,,4,104,90,14,2268.0
+9:46.0, ,90-106,J. Brown makes 2-pt jump shot from 15 ft,,4,106,90,16,2294.0
+9:31.0,I. Wainright misses 3-pt jump shot from 27 ft,90-106, ,,4,106,90,16,2309.0
+9:29.0, ,90-106,Defensive rebound by L. Kornet,,4,106,90,16,2311.0
+9:12.0, ,90-109,J. Brown makes 3-pt jump shot from 26 ft,,4,109,90,19,2328.0
+9:10.0,Phoenix full timeout,90-109, ,,4,109,90,19,2330.0
+9:10.0,D. Booker enters the game for B. Bol,90-109, ,,4,109,90,19,2330.0
+9:10.0,K. Durant enters the game for I. Wainright,90-109, ,,4,109,90,19,2330.0
+9:10.0, ,90-109,X. Tillman enters the game for L. Kornet,,4,109,90,19,2330.0
+9:00.0,K. Durant makes 2-pt dunk from 1 ft,92-109, ,,4,109,92,17,2340.0
+8:40.0, ,92-109,J. Brown misses 3-pt jump shot from 26 ft,,4,109,92,17,2360.0
+8:38.0, ,92-109,Offensive rebound by P. Pritchard,,4,109,92,17,2362.0
+8:37.0, ,92-109,P. Pritchard misses 2-pt layup from 2 ft,,4,109,92,17,2363.0
+8:36.0, ,92-109,Offensive rebound by D. White,,4,109,92,17,2364.0
+8:36.0, ,92-111,D. White makes 2-pt layup at rim,,4,111,92,19,2364.0
+8:28.0,Personal foul by D. White (drawn by D. Booker),92-111, ,,4,111,92,19,2372.0
+8:17.0,D. Booker makes 2-pt jump shot from 17 ft,94-111, ,,4,111,94,17,2383.0
+7:48.0, ,94-111,P. Pritchard misses 2-pt jump shot from 16 ft,,4,111,94,17,2412.0
+7:46.0,Defensive rebound by G. Allen,94-111, ,,4,111,94,17,2414.0
+7:36.0,G. Allen makes 2-pt layup from 1 ft,96-111, ,,4,111,96,15,2424.0
+7:15.0, ,96-111,D. White misses 3-pt jump shot from 27 ft,,4,111,96,15,2445.0
+7:13.0,Defensive rebound by R. O'Neale,96-111, ,,4,111,96,15,2447.0
+7:06.0,Shooting foul by X. Tillman (drawn by D. Booker),96-111, ,,4,111,96,15,2454.0
+7:06.0,D. Booker makes free throw 1 of 2,97-111, ,,4,111,97,14,2454.0
+7:06.0, ,97-111,J. Holiday enters the game for S. Hauser,,4,111,97,14,2454.0
+7:06.0, ,97-111,A. Horford enters the game for P. Pritchard,,4,111,97,14,2454.0
+7:06.0, ,97-111,J. Tatum enters the game for X. Tillman,,4,111,97,14,2454.0
+7:06.0,D. Booker makes free throw 2 of 2,98-111, ,,4,111,98,13,2454.0
+6:50.0, ,98-114,J. Holiday makes 3-pt jump shot from 24 ft (assist by A. Horford),,4,114,98,16,2470.0
+6:35.0,K. Durant misses 2-pt layup from 4 ft (block by A. Horford),98-114, ,,4,114,98,16,2485.0
+6:32.0, ,98-114,Defensive rebound by D. White,,4,114,98,16,2488.0
+6:27.0, ,98-116,A. Horford makes 2-pt layup from 3 ft (assist by D. White),,4,116,98,18,2493.0
+6:15.0,D. Booker misses 2-pt layup from 2 ft,98-116, ,,4,116,98,18,2505.0
+6:12.0,Offensive rebound by R. O'Neale,98-116, ,,4,116,98,18,2508.0
+6:04.0,G. Allen makes 2-pt layup from 2 ft (assist by R. O'Neale),100-116, ,,4,116,100,16,2516.0
+5:47.0, ,100-119,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Tatum),,4,119,100,19,2533.0
+5:20.0,R. O'Neale misses 2-pt jump shot from 8 ft,100-119, ,,4,119,100,19,2560.0
+5:18.0, ,100-119,Defensive rebound by J. Brown,,4,119,100,19,2562.0
+5:04.0, ,100-119,J. Brown misses 2-pt layup from 5 ft,,4,119,100,19,2576.0
+5:01.0,Defensive rebound by D. Booker,100-119, ,,4,119,100,19,2579.0
+4:58.0,B. Beal makes 2-pt layup from 1 ft (assist by D. Booker),102-119, ,,4,119,102,17,2582.0
+4:29.0, ,102-119,Personal foul by G. Allen (drawn by J. Tatum),,4,119,102,17,2611.0
+4:18.0, ,102-119,J. Tatum misses 2-pt jump shot from 9 ft,,4,119,102,17,2622.0
+4:17.0,Defensive rebound by Team,102-119, ,,4,119,102,17,2623.0
+4:03.0,D. Booker makes 2-pt jump shot from 21 ft (assist by B. Beal),104-119, ,,4,119,104,15,2637.0
+3:38.0, ,104-122,D. White makes 3-pt jump shot from 27 ft (assist by J. Brown),,4,122,104,18,2662.0
+3:27.0,D. Booker makes 2-pt layup from 5 ft,106-122, ,,4,122,106,16,2673.0
+3:05.0, ,106-122,J. Brown misses 3-pt jump shot from 26 ft,,4,122,106,16,2695.0
+3:03.0,Defensive rebound by G. Allen,106-122, ,,4,122,106,16,2697.0
+3:01.0,Turnover by G. Allen (bad pass; steal by J. Brown),106-122, ,,4,122,106,16,2699.0
+2:58.0, ,106-124,J. Brown makes 2-pt dunk from 1 ft,,4,124,106,18,2702.0
+2:58.0,Phoenix full timeout,106-124, ,,4,124,106,18,2702.0
+2:58.0,B. Bol enters the game for G. Allen,106-124, ,,4,124,106,18,2702.0
+2:58.0,N. Little enters the game for B. Beal,106-124, ,,4,124,106,18,2702.0
+2:58.0,D. Roddy enters the game for D. Booker,106-124, ,,4,124,106,18,2702.0
+2:58.0,I. Wainright enters the game for K. Durant,106-124, ,,4,124,106,18,2702.0
+2:58.0,T. Young enters the game for R. O'Neale,106-124, ,,4,124,106,18,2702.0
+2:58.0, ,106-124,O. Brissett enters the game for J. Brown,,4,124,106,18,2702.0
+2:58.0, ,106-124,S. Hauser enters the game for J. Holiday,,4,124,106,18,2702.0
+2:58.0, ,106-124,L. Kornet enters the game for A. Horford,,4,124,106,18,2702.0
+2:58.0, ,106-124,P. Pritchard enters the game for J. Tatum,,4,124,106,18,2702.0
+2:58.0, ,106-124,X. Tillman enters the game for D. White,,4,124,106,18,2702.0
+2:50.0,D. Roddy makes 2-pt layup from 2 ft (assist by T. Young),108-124, ,,4,124,108,16,2710.0
+2:32.0, ,108-127,X. Tillman makes 3-pt jump shot from 25 ft (assist by S. Hauser),,4,127,108,19,2728.0
+2:07.0,I. Wainright misses 3-pt jump shot from 27 ft,108-127, ,,4,127,108,19,2753.0
+2:06.0,Offensive rebound by Team,108-127, ,,4,127,108,19,2754.0
+1:51.0,N. Little misses 3-pt jump shot from 29 ft,108-127, ,,4,127,108,19,2769.0
+1:49.0, ,108-127,Defensive rebound by Team,,4,127,108,19,2771.0
+1:41.0, ,108-127,X. Tillman misses 3-pt jump shot from 24 ft,,4,127,108,19,2779.0
+1:37.0,Defensive rebound by D. Roddy,108-127, ,,4,127,108,19,2783.0
+1:31.0,D. Roddy makes 2-pt layup from 2 ft,110-127, ,,4,127,110,17,2789.0
+1:15.0, ,110-127,Turnover by P. Pritchard (bad pass; steal by I. Wainright),,4,127,110,17,2805.0
+1:10.0,B. Bol misses 2-pt jump shot from 7 ft,110-127, ,,4,127,110,17,2810.0
+1:08.0, ,110-127,Defensive rebound by X. Tillman,,4,127,110,17,2812.0
+1:01.0, ,110-127,Turnover by P. Pritchard (bad pass),,4,127,110,17,2819.0
+0:49.0,Turnover by D. Roddy (lost ball; steal by L. Kornet),110-127, ,,4,127,110,17,2831.0
+0:44.0, ,110-127,S. Hauser misses 3-pt jump shot from 25 ft,,4,127,110,17,2836.0
+0:41.0,Defensive rebound by N. Little,110-127, ,,4,127,110,17,2839.0
+0:35.0,D. Roddy misses 3-pt jump shot from 26 ft,110-127, ,,4,127,110,17,2845.0
+0:33.0,Offensive rebound by T. Young,110-127, ,,4,127,110,17,2847.0
+0:31.0,T. Young makes 2-pt layup from 2 ft,112-127, ,,4,127,112,15,2849.0
+0:07.0, ,112-127,Turnover by Team (shot clock),,4,127,112,15,2873.0
+0:00.0,End of 4th quarter,112-127,,,4,127,112,15,2880.0

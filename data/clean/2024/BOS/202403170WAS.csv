@@ -1,0 +1,447 @@
+Time,Boston,Score,Washington,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: A. Horford vs. R. Holmes (S. Hauser gains possession),0-0,,,1,0,0,0,0.0
+11:44.0,Shooting foul by J. Champagnie (drawn by J. Tatum),0-0, ,,1,0,0,0,16.0
+11:44.0,J. Tatum makes free throw 1 of 2,1-0, ,,1,1,0,1,16.0
+11:44.0,J. Tatum misses free throw 2 of 2,1-0, ,,1,1,0,1,16.0
+11:41.0, ,1-0,Defensive rebound by R. Holmes,,1,1,0,1,19.0
+11:30.0, ,1-0,C. Kispert misses 3-pt jump shot from 23 ft,,1,1,0,1,30.0
+11:26.0,Defensive rebound by J. Tatum,1-0, ,,1,1,0,1,34.0
+11:13.0,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Tatum),4-0, ,,1,4,0,4,47.0
+10:59.0, ,4-0,J. Champagnie misses 3-pt jump shot from 24 ft,,1,4,0,4,61.0
+10:57.0,Defensive rebound by J. Tatum,4-0, ,,1,4,0,4,63.0
+10:53.0,J. Holiday makes 3-pt jump shot from 27 ft (assist by J. Tatum),7-0, ,,1,7,0,7,67.0
+10:34.0, ,7-3,J. Champagnie makes 3-pt jump shot from 24 ft (assist by J. Poole),,1,7,3,4,86.0
+10:23.0,Offensive foul by A. Horford (drawn by J. Poole),7-3, ,,1,7,3,4,97.0
+10:23.0,Turnover by A. Horford (offensive foul),7-3, ,,1,7,3,4,97.0
+10:11.0, ,7-5,J. Poole makes 2-pt jump shot from 10 ft,,1,7,5,2,109.0
+9:50.0,J. Tatum makes 3-pt jump shot from 23 ft,10-5, ,,1,10,5,5,130.0
+9:39.0, ,10-8,J. Poole makes 3-pt jump shot from 28 ft,,1,10,8,2,141.0
+9:26.0,Turnover by J. Tatum (bad pass; steal by J. Champagnie),10-8, ,,1,10,8,2,154.0
+9:21.0, ,10-10,R. Holmes makes 2-pt layup from 2 ft (assist by J. Champagnie),Tie,1,10,10,0,159.0
+9:01.0,J. Tatum makes 3-pt jump shot from 28 ft (assist by J. Holiday),13-10, ,,1,13,10,3,179.0
+8:46.0, ,13-13,J. Poole makes 3-pt jump shot from 31 ft (assist by C. Kispert),Tie,1,13,13,0,194.0
+8:26.0,J. Holiday misses 2-pt layup from 4 ft (block by P. Baldwin),13-13, ,,1,13,13,0,214.0
+8:22.0, ,13-13,Defensive rebound by C. Kispert,,1,13,13,0,218.0
+8:18.0, ,13-13,J. Poole misses 3-pt jump shot from 27 ft,,1,13,13,0,222.0
+8:18.0,Defensive rebound by J. Tatum,13-13, ,,1,13,13,0,222.0
+7:58.0,Turnover by J. Holiday (bad pass; steal by P. Baldwin),13-13, ,,1,13,13,0,242.0
+7:53.0, ,13-13,P. Baldwin misses 2-pt layup from 1 ft,,1,13,13,0,247.0
+7:49.0,Defensive rebound by S. Hauser,13-13, ,,1,13,13,0,251.0
+7:48.0,Personal foul by C. Kispert (drawn by J. Tatum),13-13, ,,1,13,13,0,252.0
+7:40.0,J. Holiday makes 2-pt layup from 5 ft,15-13, ,,1,15,13,2,260.0
+7:23.0, ,15-13,Turnover by J. Poole (lost ball; steal by S. Hauser),,1,15,13,2,277.0
+7:16.0,J. Tatum misses 3-pt jump shot from 27 ft,15-13, ,,1,15,13,2,284.0
+7:11.0,Offensive rebound by O. Brissett,15-13, ,,1,15,13,2,289.0
+7:11.0,Personal foul by J. Poole (drawn by O. Brissett),15-13, ,,1,15,13,2,289.0
+7:01.0,Shooting foul by R. Holmes (drawn by O. Brissett),15-13, ,,1,15,13,2,299.0
+7:01.0,O. Brissett makes free throw 1 of 2,16-13, ,,1,16,13,3,299.0
+7:01.0,O. Brissett makes free throw 2 of 2,17-13, ,,1,17,13,4,299.0
+6:49.0, ,17-13,Shooting foul by O. Brissett (drawn by J. Champagnie),,1,17,13,4,311.0
+6:49.0, ,17-13,Washington full timeout,,1,17,13,4,311.0
+6:49.0, ,17-13,J. Davis enters the game for C. Kispert,,1,17,13,4,311.0
+6:49.0, ,17-14,J. Champagnie makes free throw 1 of 2,,1,17,14,3,311.0
+6:49.0, ,17-15,J. Champagnie makes free throw 2 of 2,,1,17,15,2,311.0
+6:38.0,A. Horford misses 3-pt jump shot from 24 ft,17-15, ,,1,17,15,2,322.0
+6:36.0, ,17-15,Defensive rebound by R. Holmes,,1,17,15,2,324.0
+6:25.0, ,17-17,J. Champagnie makes 2-pt layup from 2 ft (assist by J. Poole),Tie,1,17,17,0,335.0
+6:03.0,S. Hauser misses 3-pt jump shot from 29 ft,17-17, ,,1,17,17,0,357.0
+6:00.0,Offensive rebound by A. Horford,17-17, ,,1,17,17,0,360.0
+5:58.0,S. Hauser makes 3-pt jump shot from 25 ft (assist by A. Horford),20-17, ,,1,20,17,3,362.0
+5:43.0, ,20-17,P. Baldwin misses 3-pt jump shot from 25 ft,,1,20,17,3,377.0
+5:41.0,Defensive rebound by S. Hauser,20-17, ,,1,20,17,3,379.0
+5:33.0,J. Tatum makes 2-pt layup from 3 ft,22-17, ,,1,22,17,5,387.0
+5:28.0, ,22-17,Washington full timeout,,1,22,17,5,392.0
+5:28.0,L. Kornet enters the game for O. Brissett,22-17, ,,1,22,17,5,392.0
+5:28.0,S. Mykhailiuk enters the game for S. Hauser,22-17, ,,1,22,17,5,392.0
+5:28.0,P. Pritchard enters the game for J. Holiday,22-17, ,,1,22,17,5,392.0
+5:28.0, ,22-17,A. Gill enters the game for P. Baldwin,,1,22,17,5,392.0
+5:28.0, ,22-17,E. Omoruyi enters the game for R. Holmes,,1,22,17,5,392.0
+5:16.0, ,22-19,A. Gill makes 2-pt jump shot from 7 ft (assist by J. Poole),,1,22,19,3,404.0
+5:02.0,A. Horford makes 2-pt layup from 3 ft (assist by P. Pritchard),24-19, ,,1,24,19,5,418.0
+4:48.0, ,24-19,J. Champagnie misses 3-pt jump shot from 26 ft,,1,24,19,5,432.0
+4:44.0,Defensive rebound by P. Pritchard,24-19, ,,1,24,19,5,436.0
+4:29.0,P. Pritchard makes 3-pt jump shot from 23 ft (assist by S. Mykhailiuk),27-19, ,,1,27,19,8,451.0
+4:08.0, ,27-19,A. Gill misses 3-pt jump shot from 27 ft,,1,27,19,8,472.0
+4:04.0,Defensive rebound by L. Kornet,27-19, ,,1,27,19,8,476.0
+3:59.0,J. Tatum makes 3-pt jump shot from 27 ft (assist by P. Pritchard),30-19, ,,1,30,19,11,481.0
+3:46.0, ,30-21,J. Poole makes 2-pt jump shot from 12 ft,,1,30,21,9,494.0
+3:26.0,A. Horford makes 2-pt layup from 3 ft (assist by P. Pritchard),32-21, ,,1,32,21,11,514.0
+3:17.0, ,32-23,J. Poole makes 2-pt jump shot from 18 ft,,1,32,23,9,523.0
+3:04.0,Personal foul by E. Omoruyi (drawn by A. Horford),32-23, ,,1,32,23,9,536.0
+3:04.0,A. Horford makes free throw 1 of 2,33-23, ,,1,33,23,10,536.0
+3:04.0, ,33-23,J. Butler enters the game for J. Poole,,1,33,23,10,536.0
+3:04.0,A. Horford makes free throw 2 of 2,34-23, ,,1,34,23,11,536.0
+2:52.0, ,34-23,J. Champagnie misses 2-pt layup from 2 ft (block by L. Kornet),,1,34,23,11,548.0
+2:48.0,Defensive rebound by J. Tatum,34-23, ,,1,34,23,11,552.0
+2:47.0,J. Tatum misses 3-pt jump shot from 27 ft,34-23, ,,1,34,23,11,553.0
+2:44.0, ,34-23,Defensive rebound by A. Gill,,1,34,23,11,556.0
+2:39.0, ,34-23,J. Davis misses 3-pt jump shot from 25 ft,,1,34,23,11,561.0
+2:37.0, ,34-23,Offensive rebound by J. Champagnie,,1,34,23,11,563.0
+2:36.0, ,34-23,J. Champagnie misses 2-pt jump shot from 9 ft,,1,34,23,11,564.0
+2:34.0, ,34-23,Offensive rebound by Team,,1,34,23,11,566.0
+2:34.0,X. Tillman enters the game for A. Horford,34-23, ,,1,34,23,11,566.0
+2:34.0, ,34-23,C. Kispert enters the game for J. Champagnie,,1,34,23,11,566.0
+2:32.0, ,34-23,C. Kispert misses 3-pt jump shot from 24 ft (block by J. Tatum),,1,34,23,11,568.0
+2:31.0,Defensive rebound by Team,34-23, ,,1,34,23,11,569.0
+2:15.0,S. Mykhailiuk makes 3-pt jump shot from 28 ft (assist by L. Kornet),37-23, ,,1,37,23,14,585.0
+2:07.0, ,37-23,Turnover by J. Butler (lost ball; steal by X. Tillman),,1,37,23,14,593.0
+2:03.0,Shooting foul by C. Kispert (drawn by L. Kornet),37-23, ,,1,37,23,14,597.0
+2:03.0,L. Kornet makes free throw 1 of 2,38-23, ,,1,38,23,15,597.0
+2:03.0,L. Kornet makes free throw 2 of 2,39-23, ,,1,39,23,16,597.0
+1:50.0, ,39-23,A. Gill misses 3-pt jump shot from 27 ft,,1,39,23,16,610.0
+1:47.0, ,39-23,Offensive rebound by E. Omoruyi,,1,39,23,16,613.0
+1:44.0, ,39-23,C. Kispert misses 3-pt jump shot from 26 ft,,1,39,23,16,616.0
+1:40.0,Defensive rebound by S. Mykhailiuk,39-23, ,,1,39,23,16,620.0
+1:30.0,J. Tatum misses 3-pt jump shot from 28 ft,39-23, ,,1,39,23,16,630.0
+1:28.0,Offensive rebound by Team,39-23, ,,1,39,23,16,632.0
+1:18.0,P. Pritchard misses 2-pt jump shot from 18 ft,39-23, ,,1,39,23,16,642.0
+1:14.0,Offensive rebound by P. Pritchard,39-23, ,,1,39,23,16,646.0
+1:09.0,J. Tatum makes 2-pt layup from 3 ft (assist by S. Mykhailiuk),41-23, ,,1,41,23,18,651.0
+0:53.0, ,41-23,E. Omoruyi misses 3-pt jump shot from 26 ft,,1,41,23,18,667.0
+0:53.0, ,41-23,Offensive rebound by Team,,1,41,23,18,667.0
+0:53.0,Loose ball foul by L. Kornet (drawn by A. Gill),41-23, ,,1,41,23,18,667.0
+0:42.0, ,41-25,J. Davis makes 2-pt dunk from 1 ft (assist by E. Omoruyi),,1,41,25,16,678.0
+0:34.0,Shooting foul by A. Gill (drawn by J. Tatum),41-25, ,,1,41,25,16,686.0
+0:34.0,J. Tatum makes free throw 1 of 2,42-25, ,,1,42,25,17,686.0
+0:34.0,O. Brissett enters the game for L. Kornet,42-25, ,,1,42,25,17,686.0
+0:34.0,J. Tatum misses free throw 2 of 2,42-25, ,,1,42,25,17,686.0
+0:31.0, ,42-25,Defensive rebound by E. Omoruyi,,1,42,25,17,689.0
+0:20.0, ,42-27,J. Butler makes 2-pt layup from 10 ft,,1,42,27,15,700.0
+0:00.0,J. Tatum makes 3-pt jump shot from 27 ft,45-27, ,,1,45,27,18,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),45-27, ,,1,45,27,18,720.0
+0:00.0,End of 1st quarter,45-27,,,1,45,27,18,720.0
+12:00.0,Start of 2nd quarter,45-27,,,2,45,27,18,720.0
+11:36.0,Jump ball: X. Tillman vs. J. Butler (L. Kornet gains possession),45-27,,,2,45,27,18,744.0
+11:33.0, ,45-27,Turnover by J. Butler (lost ball; steal by X. Tillman),,2,45,27,18,747.0
+11:19.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Holiday),48-27, ,,2,48,27,21,761.0
+10:58.0, ,48-30,C. Kispert makes 3-pt jump shot from 26 ft (assist by J. Bernard),,2,48,30,18,782.0
+10:46.0,X. Tillman misses 3-pt jump shot from 24 ft,48-30, ,,2,48,30,18,794.0
+10:42.0,Offensive rebound by L. Kornet,48-30, ,,2,48,30,18,798.0
+10:42.0,L. Kornet misses 2-pt layup at rim,48-30, ,,2,48,30,18,798.0
+10:42.0, ,48-30,Defensive rebound by R. Holmes,,2,48,30,18,798.0
+10:37.0, ,48-30,Turnover by J. Bernard (traveling),,2,48,30,18,803.0
+10:23.0,L. Kornet misses 2-pt layup from 5 ft,48-30, ,,2,48,30,18,817.0
+10:19.0, ,48-30,Defensive rebound by J. Butler,,2,48,30,18,821.0
+10:19.0, ,48-32,J. Bernard makes 2-pt layup from 2 ft (assist by J. Butler),,2,48,32,16,821.0
+10:19.0, ,48-32,Shooting foul by J. Holiday (drawn by J. Bernard),,2,48,32,16,821.0
+10:19.0, ,48-33,J. Bernard makes free throw 1 of 1,,2,48,33,15,821.0
+9:56.0,J. Holiday misses 2-pt jump shot from 20 ft,48-33, ,,2,48,33,15,844.0
+9:56.0,Offensive rebound by L. Kornet,48-33, ,,2,48,33,15,844.0
+9:56.0,Shooting foul by E. Omoruyi (drawn by L. Kornet),48-33, ,,2,48,33,15,844.0
+9:56.0,L. Kornet makes free throw 1 of 2,49-33, ,,2,49,33,16,844.0
+9:56.0,L. Kornet makes free throw 2 of 2,50-33, ,,2,50,33,17,844.0
+9:37.0, ,50-33,Turnover by E. Omoruyi (traveling),,2,50,33,17,863.0
+9:23.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by P. Pritchard),53-33, ,,2,53,33,20,877.0
+9:01.0, ,53-33,Turnover by C. Kispert (3 sec),,2,53,33,20,899.0
+8:50.0,P. Pritchard makes 2-pt jump shot from 13 ft,55-33, ,,2,55,33,22,910.0
+8:49.0, ,55-33,Washington full timeout,,2,55,33,22,911.0
+8:49.0,O. Brissett enters the game for L. Kornet,55-33, ,,2,55,33,22,911.0
+8:49.0, ,55-33,P. Baldwin enters the game for J. Butler,,2,55,33,22,911.0
+8:49.0, ,55-33,J. Poole enters the game for E. Omoruyi,,2,55,33,22,911.0
+8:38.0, ,55-33,J. Poole misses 2-pt jump shot from 8 ft,,2,55,33,22,922.0
+8:33.0,Defensive rebound by X. Tillman,55-33, ,,2,55,33,22,927.0
+8:22.0,O. Brissett misses 3-pt jump shot from 25 ft,55-33, ,,2,55,33,22,938.0
+8:18.0, ,55-33,Defensive rebound by R. Holmes,,2,55,33,22,942.0
+8:14.0, ,55-33,J. Bernard misses 2-pt layup from 2 ft,,2,55,33,22,946.0
+8:14.0,Defensive rebound by S. Hauser,55-33, ,,2,55,33,22,946.0
+8:07.0,P. Pritchard misses 2-pt layup from 5 ft (block by P. Baldwin),55-33, ,,2,55,33,22,953.0
+8:03.0, ,55-33,Defensive rebound by P. Baldwin,,2,55,33,22,957.0
+8:02.0, ,55-35,J. Bernard makes 2-pt dunk from 2 ft (assist by P. Baldwin),,2,55,35,20,958.0
+7:45.0,S. Hauser makes 3-pt jump shot from 28 ft (assist by P. Pritchard),58-35, ,,2,58,35,23,975.0
+7:29.0, ,58-35,Personal foul by S. Hauser (drawn by C. Kispert),,2,58,35,23,991.0
+7:15.0, ,58-35,J. Poole misses 3-pt jump shot from 28 ft,,2,58,35,23,1005.0
+7:12.0, ,58-35,Offensive rebound by J. Bernard,,2,58,35,23,1008.0
+7:11.0, ,58-37,J. Bernard makes 2-pt layup at rim,,2,58,37,21,1009.0
+6:55.0,J. Holiday misses 2-pt jump shot from 15 ft,58-37, ,,2,58,37,21,1025.0
+6:55.0,Offensive rebound by O. Brissett,58-37, ,,2,58,37,21,1025.0
+6:50.0,S. Hauser makes 3-pt jump shot from 24 ft (assist by O. Brissett),61-37, ,,2,61,37,24,1030.0
+6:38.0, ,61-37,J. Poole misses 2-pt layup from 2 ft (block by J. Holiday),,2,61,37,24,1042.0
+6:36.0, ,61-37,Offensive rebound by Team,,2,61,37,24,1044.0
+6:36.0,J. Tatum enters the game for P. Pritchard,61-37, ,,2,61,37,24,1044.0
+6:36.0, ,61-37,J. Champagnie enters the game for C. Kispert,,2,61,37,24,1044.0
+6:33.0, ,61-37,Turnover by J. Champagnie (bad pass; steal by J. Tatum),,2,61,37,24,1047.0
+6:29.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by J. Tatum),64-37, ,,2,64,37,27,1051.0
+6:29.0, ,64-37,Washington full timeout,,2,64,37,27,1051.0
+6:29.0,A. Horford enters the game for X. Tillman,64-37, ,,2,64,37,27,1051.0
+6:29.0, ,64-37,A. Gill enters the game for R. Holmes,,2,64,37,27,1051.0
+6:14.0, ,64-37,J. Poole misses 3-pt jump shot from 25 ft,,2,64,37,27,1066.0
+6:11.0,Defensive rebound by A. Horford,64-37, ,,2,64,37,27,1069.0
+6:00.0,A. Horford makes 2-pt hook shot from 8 ft (assist by S. Hauser),66-37, ,,2,66,37,29,1080.0
+5:42.0, ,66-37,A. Gill misses 2-pt jump shot from 12 ft,,2,66,37,29,1098.0
+5:42.0,Defensive rebound by Team,66-37, ,,2,66,37,29,1098.0
+5:25.0,J. Holiday misses 3-pt jump shot from 23 ft,66-37, ,,2,66,37,29,1115.0
+5:22.0, ,66-37,Defensive rebound by P. Baldwin,,2,66,37,29,1118.0
+5:07.0, ,66-37,Turnover by P. Baldwin (bad pass; steal by J. Tatum),,2,66,37,29,1133.0
+4:54.0,Shooting foul by J. Champagnie (drawn by J. Tatum),66-37, ,,2,66,37,29,1146.0
+4:54.0,J. Tatum makes free throw 1 of 2,67-37, ,,2,67,37,30,1146.0
+4:54.0, ,67-37,J. Butler enters the game for P. Baldwin,,2,67,37,30,1146.0
+4:54.0,J. Tatum makes free throw 2 of 2,68-37, ,,2,68,37,31,1146.0
+4:44.0, ,68-37,Shooting foul by A. Horford (drawn by J. Poole),,2,68,37,31,1156.0
+4:44.0, ,68-38,J. Poole makes free throw 1 of 2,,2,68,38,30,1156.0
+4:44.0, ,68-39,J. Poole makes free throw 2 of 2,,2,68,39,29,1156.0
+4:28.0,J. Tatum misses 2-pt jump shot from 18 ft,68-39, ,,2,68,39,29,1172.0
+4:24.0, ,68-39,Defensive rebound by J. Poole,,2,68,39,29,1176.0
+4:19.0, ,68-41,J. Poole makes 2-pt jump shot from 7 ft,,2,68,41,27,1181.0
+4:19.0, ,68-41,Shooting foul by O. Brissett (drawn by J. Poole),,2,68,41,27,1181.0
+4:19.0,P. Pritchard enters the game for J. Holiday,68-41, ,,2,68,41,27,1181.0
+4:19.0, ,68-42,J. Poole makes free throw 1 of 1,,2,68,42,26,1181.0
+4:07.0,S. Hauser makes 3-pt jump shot from 22 ft (assist by J. Tatum),71-42, ,,2,71,42,29,1193.0
+3:51.0, ,71-42,J. Bernard misses 3-pt jump shot from 26 ft,,2,71,42,29,1209.0
+3:50.0,Defensive rebound by Team,71-42, ,,2,71,42,29,1210.0
+3:40.0,S. Hauser misses 3-pt jump shot from 25 ft,71-42, ,,2,71,42,29,1220.0
+3:36.0, ,71-42,Defensive rebound by J. Champagnie,,2,71,42,29,1224.0
+3:17.0, ,71-42,J. Bernard misses 3-pt jump shot from 25 ft,,2,71,42,29,1243.0
+3:14.0, ,71-42,Offensive rebound by J. Butler,,2,71,42,29,1246.0
+3:13.0, ,71-44,J. Champagnie makes 2-pt layup from 1 ft (assist by J. Butler),,2,71,44,27,1247.0
+3:13.0,Boston full timeout,71-44, ,,2,71,44,27,1247.0
+3:13.0,L. Kornet enters the game for O. Brissett,71-44, ,,2,71,44,27,1247.0
+3:13.0, ,71-44,J. Davis enters the game for J. Bernard,,2,71,44,27,1247.0
+3:13.0, ,71-44,E. Omoruyi enters the game for A. Gill,,2,71,44,27,1247.0
+3:00.0,Shooting foul by J. Davis (drawn by J. Tatum),71-44, ,,2,71,44,27,1260.0
+3:00.0,J. Tatum makes free throw 1 of 2,72-44, ,,2,72,44,28,1260.0
+3:00.0,J. Tatum makes free throw 2 of 2,73-44, ,,2,73,44,29,1260.0
+2:38.0, ,73-46,J. Poole makes 2-pt jump shot from 14 ft,,2,73,46,27,1282.0
+2:17.0,J. Tatum makes 3-pt jump shot from 30 ft,76-46, ,,2,76,46,30,1303.0
+2:01.0, ,76-46,J. Champagnie misses 2-pt jump shot from 9 ft,,2,76,46,30,1319.0
+1:59.0,Defensive rebound by L. Kornet,76-46, ,,2,76,46,30,1321.0
+1:48.0,L. Kornet makes 2-pt dunk from 2 ft (assist by P. Pritchard),78-46, ,,2,78,46,32,1332.0
+1:30.0, ,78-48,J. Champagnie makes 2-pt layup from 1 ft (assist by E. Omoruyi),,2,78,48,30,1350.0
+1:13.0,J. Tatum misses 3-pt jump shot from 27 ft,78-48, ,,2,78,48,30,1367.0
+1:10.0, ,78-48,Defensive rebound by J. Butler,,2,78,48,30,1370.0
+1:00.0, ,78-48,J. Butler misses 3-pt jump shot from 27 ft,,2,78,48,30,1380.0
+0:56.0,Defensive rebound by S. Hauser,78-48, ,,2,78,48,30,1384.0
+0:51.0,Personal foul by J. Davis (drawn by L. Kornet),78-48, ,,2,78,48,30,1389.0
+0:38.0,A. Horford makes 3-pt jump shot from 27 ft (assist by J. Tatum),81-48, ,,2,81,48,33,1402.0
+0:33.0, ,81-51,J. Poole makes 3-pt jump shot from 33 ft,,2,81,51,30,1407.0
+0:28.0,J. Tatum misses 3-pt jump shot from 29 ft,81-51, ,,2,81,51,30,1412.0
+0:25.0, ,81-51,Defensive rebound by Team,,2,81,51,30,1415.0
+0:08.0, ,81-53,J. Poole makes 2-pt layup from 1 ft,,2,81,53,28,1432.0
+0:01.0,Turnover by L. Kornet (out of bounds lost ball),81-53, ,,2,81,53,28,1439.0
+0:00.0,End of 2nd quarter,81-53,,,2,81,53,28,1440.0
+12:00.0,Start of 3rd quarter,81-53,,,3,81,53,28,1440.0
+11:42.0, ,81-53,J. Poole misses 2-pt jump shot from 15 ft,,3,81,53,28,1458.0
+11:38.0,Defensive rebound by A. Horford,81-53, ,,3,81,53,28,1462.0
+11:29.0,S. Hauser makes 3-pt jump shot from 30 ft (assist by J. Tatum),84-53, ,,3,84,53,31,1471.0
+11:13.0, ,84-53,P. Baldwin misses 2-pt jump shot from 10 ft,,3,84,53,31,1487.0
+11:11.0,Defensive rebound by S. Hauser,84-53, ,,3,84,53,31,1489.0
+11:05.0,J. Tatum misses 3-pt jump shot from 27 ft,84-53, ,,3,84,53,31,1495.0
+11:02.0,Offensive rebound by A. Horford,84-53, ,,3,84,53,31,1498.0
+10:54.0,O. Brissett misses 3-pt jump shot from 23 ft,84-53, ,,3,84,53,31,1506.0
+10:49.0, ,84-53,Defensive rebound by C. Kispert,,3,84,53,31,1511.0
+10:48.0, ,84-53,Shooting foul by J. Tatum (drawn by C. Kispert),,3,84,53,31,1512.0
+10:48.0, ,84-53,C. Kispert misses free throw 1 of 2,,3,84,53,31,1512.0
+10:48.0, ,84-53,Offensive rebound by Team,,3,84,53,31,1512.0
+10:48.0, ,84-54,C. Kispert makes free throw 2 of 2,,3,84,54,30,1512.0
+10:23.0,J. Holiday makes 2-pt jump shot from 15 ft,86-54, ,,3,86,54,32,1537.0
+10:08.0, ,86-54,R. Holmes misses 2-pt jump shot from 10 ft,,3,86,54,32,1552.0
+10:06.0,Defensive rebound by J. Holiday,86-54, ,,3,86,54,32,1554.0
+10:03.0,S. Hauser makes 3-pt jump shot from 30 ft (assist by J. Holiday),89-54, ,,3,89,54,35,1557.0
+10:02.0, ,89-54,Washington full timeout,,3,89,54,35,1558.0
+9:52.0, ,89-54,P. Baldwin misses 3-pt jump shot from 29 ft,,3,89,54,35,1568.0
+9:48.0, ,89-54,Offensive rebound by J. Poole,,3,89,54,35,1572.0
+9:45.0, ,89-56,J. Poole makes 2-pt jump shot from 12 ft,,3,89,56,33,1575.0
+9:27.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by A. Horford),92-56, ,,3,92,56,36,1593.0
+9:13.0, ,92-58,R. Holmes makes 2-pt hook shot from 8 ft (assist by P. Baldwin),,3,92,58,34,1607.0
+9:03.0,Turnover by J. Holiday (bad pass),92-58, ,,3,92,58,34,1617.0
+8:44.0, ,92-58,R. Holmes misses 2-pt hook shot from 10 ft,,3,92,58,34,1636.0
+8:41.0, ,92-58,Offensive rebound by J. Champagnie,,3,92,58,34,1639.0
+8:41.0,Jump ball: J. Champagnie vs. S. Hauser (O. Brissett gains possession),92-58,,,3,92,58,34,1639.0
+8:41.0,Violation by Team (jump ball),92-58, ,,3,92,58,34,1639.0
+8:37.0, ,92-58,Shooting foul by A. Horford (drawn by J. Poole),,3,92,58,34,1643.0
+8:37.0, ,92-59,J. Poole makes free throw 1 of 2,,3,92,59,33,1643.0
+8:37.0, ,92-59,J. Poole misses free throw 2 of 2,,3,92,59,33,1643.0
+8:34.0,Defensive rebound by S. Hauser,92-59, ,,3,92,59,33,1646.0
+8:21.0,A. Horford misses 3-pt jump shot from 28 ft,92-59, ,,3,92,59,33,1659.0
+8:18.0, ,92-59,Defensive rebound by J. Champagnie,,3,92,59,33,1662.0
+8:09.0, ,92-61,R. Holmes makes 2-pt hook shot from 9 ft (assist by P. Baldwin),,3,92,61,31,1671.0
+7:56.0,J. Tatum misses 2-pt layup from 8 ft (block by R. Holmes),92-61, ,,3,92,61,31,1684.0
+7:56.0,Offensive rebound by Team,92-61, ,,3,92,61,31,1684.0
+7:53.0,S. Hauser misses 3-pt jump shot from 24 ft,92-61, ,,3,92,61,31,1687.0
+7:50.0, ,92-61,Defensive rebound by J. Champagnie,,3,92,61,31,1690.0
+7:45.0, ,92-61,C. Kispert misses 3-pt jump shot from 25 ft,,3,92,61,31,1695.0
+7:43.0, ,92-61,Offensive rebound by Team,,3,92,61,31,1697.0
+7:43.0,Loose ball foul by O. Brissett (drawn by R. Holmes),92-61, ,,3,92,61,31,1697.0
+7:43.0,P. Pritchard enters the game for S. Hauser,92-61, ,,3,92,61,31,1697.0
+7:34.0, ,92-63,J. Poole makes 2-pt layup from 1 ft (assist by R. Holmes),,3,92,63,29,1706.0
+7:18.0,Shooting foul by C. Kispert (drawn by J. Tatum),92-63, ,,3,92,63,29,1722.0
+7:18.0,J. Tatum makes free throw 1 of 2,93-63, ,,3,93,63,30,1722.0
+7:18.0,J. Tatum makes free throw 2 of 2,94-63, ,,3,94,63,31,1722.0
+7:04.0, ,94-65,R. Holmes makes 2-pt layup from 6 ft (assist by J. Poole),,3,94,65,29,1736.0
+6:57.0,Shooting foul by R. Holmes (drawn by O. Brissett),94-65, ,,3,94,65,29,1743.0
+6:57.0,O. Brissett makes free throw 1 of 2,95-65, ,,3,95,65,30,1743.0
+6:57.0,O. Brissett makes free throw 2 of 2,96-65, ,,3,96,65,31,1743.0
+6:45.0, ,96-67,J. Poole makes 2-pt jump shot from 12 ft,,3,96,67,29,1755.0
+6:33.0,Offensive foul by J. Holiday (drawn by J. Poole),96-67, ,,3,96,67,29,1767.0
+6:33.0,Turnover by J. Holiday (offensive foul),96-67, ,,3,96,67,29,1767.0
+6:24.0, ,96-67,J. Poole misses 2-pt layup from 3 ft (block by J. Holiday),,3,96,67,29,1776.0
+6:23.0,Defensive rebound by J. Tatum,96-67, ,,3,96,67,29,1777.0
+6:22.0,Personal foul by J. Poole (drawn by J. Tatum),96-67, ,,3,96,67,29,1778.0
+6:22.0, ,96-67,J. Butler enters the game for J. Poole,,3,96,67,29,1778.0
+6:07.0,P. Pritchard misses 2-pt jump shot from 18 ft,96-67, ,,3,96,67,29,1793.0
+6:05.0, ,96-67,Defensive rebound by J. Champagnie,,3,96,67,29,1795.0
+6:02.0, ,96-67,Offensive foul by R. Holmes (drawn by P. Pritchard),,3,96,67,29,1798.0
+6:02.0, ,96-67,Turnover by R. Holmes (offensive foul),,3,96,67,29,1798.0
+5:45.0,J. Tatum makes 3-pt jump shot from 28 ft,99-67, ,,3,99,67,32,1815.0
+5:28.0, ,99-67,Turnover by J. Champagnie (bad pass; steal by J. Holiday),,3,99,67,32,1832.0
+5:18.0,J. Tatum misses 2-pt jump shot from 21 ft,99-67, ,,3,99,67,32,1842.0
+5:14.0, ,99-67,Defensive rebound by J. Champagnie,,3,99,67,32,1846.0
+5:13.0, ,99-67,Turnover by J. Champagnie (bad pass; steal by J. Tatum),,3,99,67,32,1847.0
+5:07.0,Turnover by J. Tatum (bad pass),99-67, ,,3,99,67,32,1853.0
+5:07.0,L. Kornet enters the game for O. Brissett,99-67, ,,3,99,67,32,1853.0
+5:07.0,S. Mykhailiuk enters the game for A. Horford,99-67, ,,3,99,67,32,1853.0
+4:51.0,Violation by Team (kicked ball),99-67, ,,3,99,67,32,1869.0
+4:51.0, ,99-67,E. Omoruyi enters the game for R. Holmes,,3,99,67,32,1869.0
+4:47.0, ,99-67,P. Baldwin misses 2-pt jump shot from 19 ft,,3,99,67,32,1873.0
+4:42.0,Defensive rebound by S. Mykhailiuk,99-67, ,,3,99,67,32,1878.0
+4:37.0,L. Kornet misses 2-pt layup from 2 ft,99-67, ,,3,99,67,32,1883.0
+4:34.0, ,99-67,Defensive rebound by P. Baldwin,,3,99,67,32,1886.0
+4:23.0, ,99-67,J. Butler misses 2-pt jump shot from 6 ft,,3,99,67,32,1897.0
+4:20.0,Defensive rebound by J. Tatum,99-67, ,,3,99,67,32,1900.0
+4:16.0,P. Pritchard misses 3-pt jump shot from 24 ft,99-67, ,,3,99,67,32,1904.0
+4:11.0, ,99-67,Defensive rebound by P. Baldwin,,3,99,67,32,1909.0
+4:01.0, ,99-67,P. Baldwin misses 3-pt jump shot from 26 ft,,3,99,67,32,1919.0
+4:00.0,Defensive rebound by S. Mykhailiuk,99-67, ,,3,99,67,32,1920.0
+4:00.0,Boston full timeout,99-67, ,,3,99,67,32,1920.0
+4:00.0,O. Brissett enters the game for J. Holiday,99-67, ,,3,99,67,32,1920.0
+4:00.0,J. Springer enters the game for J. Tatum,99-67, ,,3,99,67,32,1920.0
+4:00.0, ,99-67,J. Bernard enters the game for P. Baldwin,,3,99,67,32,1920.0
+4:00.0, ,99-67,J. Davis enters the game for J. Champagnie,,3,99,67,32,1920.0
+4:00.0, ,99-67,A. Gill enters the game for C. Kispert,,3,99,67,32,1920.0
+3:37.0,P. Pritchard misses 2-pt jump shot from 15 ft,99-67, ,,3,99,67,32,1943.0
+3:34.0, ,99-67,Defensive rebound by J. Davis,,3,99,67,32,1946.0
+3:25.0, ,99-67,J. Bernard misses 2-pt layup from 4 ft,,3,99,67,32,1955.0
+3:23.0, ,99-67,Offensive rebound by J. Bernard,,3,99,67,32,1957.0
+3:21.0, ,99-67,J. Davis misses 3-pt jump shot from 26 ft,,3,99,67,32,1959.0
+3:21.0,Defensive rebound by L. Kornet,99-67, ,,3,99,67,32,1959.0
+3:19.0,Offensive foul by J. Springer (drawn by E. Omoruyi),99-67, ,,3,99,67,32,1961.0
+3:19.0,Turnover by J. Springer (offensive foul),99-67, ,,3,99,67,32,1961.0
+3:19.0,Instant Replay (Request: Ruling Stands),99-67, ,,3,99,67,32,1961.0
+3:19.0, ,99-67,Technical foul by E. Omoruyi,,3,99,67,32,1961.0
+3:19.0,Technical foul by J. Springer,99-67, ,,3,99,67,32,1961.0
+3:12.0, ,99-67,Turnover by J. Butler (bad pass; steal by J. Springer),,3,99,67,32,1968.0
+3:09.0,P. Pritchard misses 2-pt layup from 1 ft (block by J. Davis),99-67, ,,3,99,67,32,1971.0
+3:09.0,Offensive rebound by Team,99-67, ,,3,99,67,32,1971.0
+3:09.0,Boston full timeout,99-67, ,,3,99,67,32,1971.0
+3:09.0,Instant Replay (Challenge: Ruling Stands),99-67, ,,3,99,67,32,1971.0
+2:55.0,P. Pritchard misses 3-pt jump shot from 26 ft,99-67, ,,3,99,67,32,1985.0
+2:54.0,Offensive rebound by Team,99-67, ,,3,99,67,32,1986.0
+2:54.0, ,99-67,Loose ball foul by A. Gill (drawn by L. Kornet),,3,99,67,32,1986.0
+2:47.0,Turnover by O. Brissett (traveling),99-67, ,,3,99,67,32,1993.0
+2:33.0, ,99-69,A. Gill makes 2-pt layup from 2 ft (assist by J. Butler),,3,99,69,30,2007.0
+2:16.0,S. Mykhailiuk misses 3-pt jump shot from 25 ft,99-69, ,,3,99,69,30,2024.0
+2:12.0,Offensive rebound by P. Pritchard,99-69, ,,3,99,69,30,2028.0
+2:11.0,L. Kornet makes 2-pt dunk from 1 ft (assist by P. Pritchard),101-69, ,,3,101,69,32,2029.0
+2:05.0, ,101-69,Personal foul by J. Springer (drawn by J. Bernard),,3,101,69,32,2035.0
+1:58.0, ,101-69,J. Butler misses 2-pt layup from 4 ft (block by L. Kornet),,3,101,69,32,2042.0
+1:55.0, ,101-69,Offensive rebound by A. Gill,,3,101,69,32,2045.0
+1:54.0, ,101-71,A. Gill makes 2-pt layup from 2 ft,,3,101,71,30,2046.0
+1:37.0,O. Brissett misses 3-pt jump shot from 27 ft,101-71, ,,3,101,71,30,2063.0
+1:33.0, ,101-71,Defensive rebound by J. Bernard,,3,101,71,30,2067.0
+1:23.0, ,101-71,Shooting foul by J. Springer (drawn by A. Gill),,3,101,71,30,2077.0
+1:23.0, ,101-72,A. Gill makes free throw 1 of 2,,3,101,72,29,2077.0
+1:23.0, ,101-72,P. Baldwin enters the game for E. Omoruyi,,3,101,72,29,2077.0
+1:23.0, ,101-73,A. Gill makes free throw 2 of 2,,3,101,73,28,2077.0
+1:09.0,S. Mykhailiuk misses 3-pt jump shot from 28 ft,101-73, ,,3,101,73,28,2091.0
+1:06.0,Offensive rebound by J. Springer,101-73, ,,3,101,73,28,2094.0
+1:05.0,J. Springer makes 2-pt layup at rim,103-73, ,,3,103,73,30,2095.0
+0:50.0, ,103-76,A. Gill makes 3-pt jump shot from 27 ft (assist by J. Butler),,3,103,76,27,2110.0
+0:31.0,L. Kornet makes 2-pt dunk from 1 ft (assist by P. Pritchard),105-76, ,,3,105,76,29,2129.0
+0:24.0, ,105-78,J. Butler makes 2-pt jump shot from 14 ft,,3,105,78,27,2136.0
+0:00.0,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by P. Pritchard),108-78, ,,3,108,78,30,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),108-78, ,,3,108,78,30,2160.0
+0:00.0,End of 3rd quarter,108-78,,,3,108,78,30,2160.0
+12:00.0,Start of 4th quarter,108-78,,,4,108,78,30,2160.0
+11:43.0,J. Springer misses 3-pt jump shot from 23 ft,108-78, ,,4,108,78,30,2177.0
+11:40.0, ,108-78,Defensive rebound by A. Gill,,4,108,78,30,2180.0
+11:32.0, ,108-78,A. Gill misses 3-pt jump shot from 24 ft,,4,108,78,30,2188.0
+11:27.0,Defensive rebound by P. Pritchard,108-78, ,,4,108,78,30,2193.0
+11:08.0,L. Kornet makes 2-pt dunk from 2 ft (assist by P. Pritchard),110-78, ,,4,110,78,32,2212.0
+10:47.0, ,110-78,Shooting foul by J. Springer (drawn by J. Butler),,4,110,78,32,2233.0
+10:47.0, ,110-79,J. Butler makes free throw 1 of 2,,4,110,79,31,2233.0
+10:47.0, ,110-80,J. Butler makes free throw 2 of 2,,4,110,80,30,2233.0
+10:24.0,L. Kornet misses 2-pt layup at rim,110-80, ,,4,110,80,30,2256.0
+10:20.0, ,110-80,Defensive rebound by P. Baldwin,,4,110,80,30,2260.0
+10:16.0, ,110-80,J. Bernard misses 2-pt jump shot from 20 ft,,4,110,80,30,2264.0
+10:14.0,Defensive rebound by J. Springer,110-80, ,,4,110,80,30,2266.0
+10:13.0,Turnover by J. Springer (lost ball; steal by J. Champagnie),110-80, ,,4,110,80,30,2267.0
+10:06.0, ,110-82,A. Gill makes 2-pt layup from 3 ft,,4,110,82,28,2274.0
+9:52.0,X. Tillman makes 2-pt layup from 2 ft (assist by P. Pritchard),112-82, ,,4,112,82,30,2288.0
+9:36.0, ,112-85,P. Baldwin makes 3-pt jump shot from 28 ft (assist by A. Gill),,4,112,85,27,2304.0
+9:22.0,Offensive foul by X. Tillman (drawn by J. Butler),112-85, ,,4,112,85,27,2318.0
+9:22.0,Turnover by X. Tillman (offensive foul),112-85, ,,4,112,85,27,2318.0
+9:12.0, ,112-87,J. Butler makes 2-pt jump shot from 17 ft (assist by A. Gill),,4,112,87,25,2328.0
+8:52.0,P. Pritchard misses 2-pt jump shot from 16 ft,112-87, ,,4,112,87,25,2348.0
+8:47.0,Offensive rebound by L. Kornet,112-87, ,,4,112,87,25,2353.0
+8:47.0,L. Kornet makes 2-pt dunk at rim,114-87, ,,4,114,87,27,2353.0
+8:39.0, ,114-90,P. Baldwin makes 3-pt jump shot from 26 ft (assist by J. Butler),,4,114,90,24,2361.0
+8:39.0,N. Queta enters the game for L. Kornet,114-90, ,,4,114,90,24,2361.0
+8:39.0, ,114-90,J. Davis enters the game for J. Bernard,,4,114,90,24,2361.0
+8:20.0,S. Mykhailiuk makes 3-pt jump shot from 24 ft (assist by P. Pritchard),117-90, ,,4,117,90,27,2380.0
+8:07.0, ,117-93,J. Champagnie makes 3-pt jump shot from 23 ft (assist by J. Butler),,4,117,93,24,2393.0
+7:43.0,X. Tillman misses 3-pt jump shot from 23 ft,117-93, ,,4,117,93,24,2417.0
+7:40.0,Offensive rebound by X. Tillman,117-93, ,,4,117,93,24,2420.0
+7:38.0,Shooting foul by J. Davis (drawn by X. Tillman),117-93, ,,4,117,93,24,2422.0
+7:38.0,X. Tillman makes free throw 1 of 2,118-93, ,,4,118,93,25,2422.0
+7:38.0,X. Tillman misses free throw 2 of 2,118-93, ,,4,118,93,25,2422.0
+7:35.0, ,118-93,Defensive rebound by J. Champagnie,,4,118,93,25,2425.0
+7:24.0, ,118-93,Offensive foul by P. Baldwin (drawn by J. Springer),,4,118,93,25,2436.0
+7:24.0, ,118-93,Turnover by P. Baldwin (offensive foul),,4,118,93,25,2436.0
+7:24.0, ,118-93,J. Bernard enters the game for J. Butler,,4,118,93,25,2436.0
+7:10.0,Turnover by N. Queta (3 sec),118-93, ,,4,118,93,25,2450.0
+6:55.0, ,118-93,A. Gill misses 2-pt layup from 2 ft (block by X. Tillman),,4,118,93,25,2465.0
+6:54.0, ,118-93,Offensive rebound by Team,,4,118,93,25,2466.0
+6:53.0, ,118-93,Washington full timeout,,4,118,93,25,2467.0
+6:52.0, ,118-93,Offensive foul by A. Gill (drawn by J. Springer),,4,118,93,25,2468.0
+6:52.0, ,118-93,Turnover by A. Gill (offensive foul),,4,118,93,25,2468.0
+6:39.0,S. Mykhailiuk misses 2-pt layup from 2 ft (block by J. Davis),118-93, ,,4,118,93,25,2481.0
+6:38.0, ,118-93,Defensive rebound by J. Bernard,,4,118,93,25,2482.0
+6:38.0, ,118-93,Personal foul by N. Queta (drawn by J. Bernard),,4,118,93,25,2482.0
+6:23.0, ,118-96,J. Bernard makes 3-pt jump shot from 28 ft (assist by J. Davis),,4,118,96,22,2497.0
+6:04.0,X. Tillman misses 3-pt jump shot from 23 ft,118-96, ,,4,118,96,22,2516.0
+6:01.0, ,118-96,Defensive rebound by J. Davis,,4,118,96,22,2519.0
+5:55.0, ,118-98,J. Davis makes 2-pt jump shot from 10 ft,,4,118,98,20,2525.0
+5:43.0,P. Pritchard makes 2-pt layup from 1 ft,120-98, ,,4,120,98,22,2537.0
+5:23.0, ,120-98,P. Baldwin misses 3-pt jump shot from 27 ft,,4,120,98,22,2557.0
+5:21.0, ,120-98,Offensive rebound by A. Gill,,4,120,98,22,2559.0
+5:19.0, ,120-98,Turnover by A. Gill (bad pass),,4,120,98,22,2561.0
+5:19.0,O. Brissett enters the game for X. Tillman,120-98, ,,4,120,98,22,2561.0
+5:04.0,Turnover by P. Pritchard (traveling),120-98, ,,4,120,98,22,2576.0
+4:51.0, ,120-98,J. Davis misses 2-pt jump shot from 15 ft,,4,120,98,22,2589.0
+4:48.0,Defensive rebound by O. Brissett,120-98, ,,4,120,98,22,2592.0
+4:40.0,O. Brissett misses 2-pt jump shot from 13 ft,120-98, ,,4,120,98,22,2600.0
+4:37.0,Offensive rebound by O. Brissett,120-98, ,,4,120,98,22,2603.0
+4:36.0,P. Pritchard makes 3-pt jump shot from 23 ft (assist by O. Brissett),123-98, ,,4,123,98,25,2604.0
+4:33.0, ,123-98,Washington full timeout,,4,123,98,25,2607.0
+4:18.0, ,123-98,P. Baldwin misses 3-pt jump shot from 25 ft,,4,123,98,25,2622.0
+4:15.0,Defensive rebound by N. Queta,123-98, ,,4,123,98,25,2625.0
+3:57.0,P. Pritchard makes 2-pt layup from 1 ft,125-98, ,,4,125,98,27,2643.0
+3:45.0, ,125-100,J. Bernard makes 2-pt jump shot from 8 ft (assist by A. Gill),,4,125,100,25,2655.0
+3:30.0,Shooting foul by A. Gill (drawn by O. Brissett),125-100, ,,4,125,100,25,2670.0
+3:30.0,O. Brissett misses free throw 1 of 2,125-100, ,,4,125,100,25,2670.0
+3:30.0,Offensive rebound by Team,125-100, ,,4,125,100,25,2670.0
+3:30.0,O. Brissett makes free throw 2 of 2,126-100, ,,4,126,100,26,2670.0
+3:15.0, ,126-102,J. Davis makes 2-pt dunk from 2 ft (assist by P. Baldwin),,4,126,102,24,2685.0
+3:04.0,Turnover by J. Springer (traveling),126-102, ,,4,126,102,24,2696.0
+2:51.0, ,126-102,J. Bernard misses 2-pt jump shot from 4 ft,,4,126,102,24,2709.0
+2:47.0,Defensive rebound by P. Pritchard,126-102, ,,4,126,102,24,2713.0
+2:44.0,O. Brissett makes 2-pt layup from 1 ft (assist by P. Pritchard),128-102, ,,4,128,102,26,2716.0
+2:28.0, ,128-102,P. Baldwin misses 2-pt jump shot from 14 ft,,4,128,102,26,2732.0
+2:25.0,Defensive rebound by S. Mykhailiuk,128-102, ,,4,128,102,26,2735.0
+2:18.0,J. Springer misses 3-pt jump shot from 26 ft,128-102, ,,4,128,102,26,2742.0
+2:13.0, ,128-102,Defensive rebound by P. Baldwin,,4,128,102,26,2747.0
+1:51.0, ,128-102,A. Gill misses 2-pt jump shot from 12 ft,,4,128,102,26,2769.0
+1:49.0, ,128-102,Offensive rebound by J. Davis,,4,128,102,26,2771.0
+1:48.0, ,128-104,J. Davis makes 2-pt jump shot from 6 ft,,4,128,104,24,2772.0
+1:33.0,P. Pritchard misses 3-pt jump shot from 24 ft,128-104, ,,4,128,104,24,2787.0
+1:29.0, ,128-104,Defensive rebound by J. Davis,,4,128,104,24,2791.0
+1:25.0, ,128-104,J. Champagnie misses 2-pt layup from 3 ft,,4,128,104,24,2795.0
+1:21.0,Defensive rebound by S. Mykhailiuk,128-104, ,,4,128,104,24,2799.0
+1:17.0,S. Mykhailiuk misses 3-pt jump shot from 26 ft,128-104, ,,4,128,104,24,2803.0
+1:11.0, ,128-104,Defensive rebound by P. Baldwin,,4,128,104,24,2809.0
+1:00.0, ,128-104,Turnover by J. Bernard (lost ball; steal by P. Pritchard),,4,128,104,24,2820.0
+0:58.0,P. Pritchard makes 2-pt layup from 1 ft,130-104, ,,4,130,104,26,2822.0
+0:58.0, ,130-104,Violation by Team (def goaltending),,4,130,104,26,2822.0
+0:47.0, ,130-104,J. Bernard misses 3-pt jump shot from 25 ft,,4,130,104,26,2833.0
+0:42.0,Defensive rebound by N. Queta,130-104, ,,4,130,104,26,2838.0
+0:20.0,Turnover by Team (shot clock),130-104, ,,4,130,104,26,2860.0
+0:00.0,End of 4th quarter,130-104,,,4,130,104,26,2880.0

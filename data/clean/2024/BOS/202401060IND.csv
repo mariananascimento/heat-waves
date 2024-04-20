@@ -1,0 +1,476 @@
+Time,Boston,Score,Indiana,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. M. Turner (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:38.0,J. Brown misses 2-pt jump shot from 13 ft,0-0, ,,1,0,0,0,22.0
+11:36.0, ,0-0,Defensive rebound by J. Smith,,1,0,0,0,24.0
+11:29.0, ,0-0,A. Nesmith misses 3-pt jump shot from 23 ft,,1,0,0,0,31.0
+11:26.0,Defensive rebound by K. Porziņģis,0-0, ,,1,0,0,0,34.0
+11:16.0,J. Holiday misses 3-pt jump shot from 22 ft,0-0, ,,1,0,0,0,44.0
+11:12.0, ,0-0,Defensive rebound by T. Haliburton,,1,0,0,0,48.0
+11:02.0, ,0-0,B. Hield misses 2-pt layup from 1 ft,,1,0,0,0,58.0
+11:00.0,Defensive rebound by J. Tatum,0-0, ,,1,0,0,0,60.0
+10:54.0,J. Holiday misses 3-pt jump shot from 22 ft,0-0, ,,1,0,0,0,66.0
+10:50.0,Offensive rebound by K. Porziņģis,0-0, ,,1,0,0,0,70.0
+10:47.0,J. Brown makes 2-pt dunk from 2 ft (assist by J. Tatum),2-0, ,,1,2,0,2,73.0
+10:31.0, ,2-0,Turnover by T. Haliburton (bad pass; steal by K. Porziņģis),,1,2,0,2,89.0
+10:26.0,K. Porziņģis makes 2-pt dunk at rim (assist by D. White),4-0, ,,1,4,0,4,94.0
+10:12.0, ,4-0,M. Turner misses 3-pt jump shot from 26 ft,,1,4,0,4,108.0
+10:10.0,Defensive rebound by J. Holiday,4-0, ,,1,4,0,4,110.0
+10:03.0,J. Holiday makes 2-pt jump shot from 8 ft (assist by J. Brown),6-0, ,,1,6,0,6,117.0
+9:52.0, ,6-3,J. Smith makes 3-pt jump shot from 28 ft (assist by T. Haliburton),,1,6,3,3,128.0
+9:29.0,Turnover by J. Holiday (bad pass; steal by T. Haliburton),6-3, ,,1,6,3,3,151.0
+9:11.0, ,6-3,T. Haliburton misses 2-pt jump shot from 19 ft,,1,6,3,3,169.0
+9:08.0,Defensive rebound by J. Holiday,6-3, ,,1,6,3,3,172.0
+8:52.0,K. Porziņģis misses 3-pt jump shot from 28 ft,6-3, ,,1,6,3,3,188.0
+8:49.0, ,6-3,Defensive rebound by T. Haliburton,,1,6,3,3,191.0
+8:45.0, ,6-3,T. Haliburton misses 3-pt jump shot from 27 ft,,1,6,3,3,195.0
+8:42.0, ,6-3,Offensive rebound by M. Turner,,1,6,3,3,198.0
+8:35.0, ,6-5,M. Turner makes 2-pt hook shot from 9 ft,,1,6,5,1,205.0
+8:21.0,J. Tatum misses 3-pt jump shot from 27 ft,6-5, ,,1,6,5,1,219.0
+8:19.0, ,6-5,Defensive rebound by J. Smith,,1,6,5,1,221.0
+8:14.0, ,6-5,B. Hield misses 3-pt jump shot from 27 ft,,1,6,5,1,226.0
+8:11.0,Defensive rebound by J. Holiday,6-5, ,,1,6,5,1,229.0
+8:03.0,J. Brown misses 2-pt layup from 2 ft,6-5, ,,1,6,5,1,237.0
+8:01.0, ,6-5,Defensive rebound by J. Smith,,1,6,5,1,239.0
+7:58.0, ,6-5,A. Nesmith misses 3-pt jump shot from 29 ft,,1,6,5,1,242.0
+7:54.0,Defensive rebound by D. White,6-5, ,,1,6,5,1,246.0
+7:41.0,J. Brown makes 2-pt layup from 1 ft,8-5, ,,1,8,5,3,259.0
+7:31.0, ,8-5,M. Turner misses 3-pt jump shot from 27 ft,,1,8,5,3,269.0
+7:28.0,Defensive rebound by K. Porziņģis,8-5, ,,1,8,5,3,272.0
+7:16.0,J. Tatum misses 2-pt jump shot from 8 ft,8-5, ,,1,8,5,3,284.0
+7:14.0, ,8-5,Defensive rebound by B. Hield,,1,8,5,3,286.0
+7:07.0, ,8-5,A. Nesmith misses 2-pt layup from 2 ft (block by K. Porziņģis),,1,8,5,3,293.0
+7:06.0,Defensive rebound by Team,8-5, ,,1,8,5,3,294.0
+7:06.0, ,8-5,Loose ball foul by A. Nesmith (drawn by K. Porziņģis),,1,8,5,3,294.0
+7:06.0,Boston full timeout,8-5, ,,1,8,5,3,294.0
+7:06.0,A. Horford enters the game for K. Porziņģis,8-5, ,,1,8,5,3,294.0
+7:06.0, ,8-5,B. Mathurin enters the game for A. Nesmith,,1,8,5,3,294.0
+6:54.0,J. Holiday makes 3-pt jump shot from 25 ft (assist by A. Horford),11-5, ,,1,11,5,6,306.0
+6:33.0, ,11-5,Turnover by T. Haliburton (bad pass),,1,11,5,6,327.0
+6:23.0,D. White makes 3-pt jump shot from 26 ft (assist by A. Horford),14-5, ,,1,14,5,9,337.0
+6:07.0, ,14-5,T. Haliburton misses 3-pt jump shot from 26 ft,,1,14,5,9,353.0
+6:03.0, ,14-5,Offensive rebound by T. Haliburton,,1,14,5,9,357.0
+5:53.0, ,14-7,J. Smith makes 2-pt layup from 1 ft (assist by M. Turner),,1,14,7,7,367.0
+5:35.0,A. Horford makes 3-pt jump shot from 27 ft (assist by J. Tatum),17-7, ,,1,17,7,10,385.0
+5:19.0, ,17-7,M. Turner misses 2-pt layup from 2 ft (block by A. Horford),,1,17,7,10,401.0
+5:15.0,Defensive rebound by A. Horford,17-7, ,,1,17,7,10,405.0
+5:11.0,Offensive foul by A. Horford (drawn by B. Mathurin),17-7, ,,1,17,7,10,409.0
+5:11.0,Turnover by A. Horford (offensive foul),17-7, ,,1,17,7,10,409.0
+5:11.0,S. Hauser enters the game for J. Holiday,17-7, ,,1,17,7,10,409.0
+5:11.0, ,17-7,O. Toppin enters the game for J. Smith,,1,17,7,10,409.0
+4:54.0, ,17-9,M. Turner makes 2-pt layup from 4 ft (assist by T. Haliburton),,1,17,9,8,426.0
+4:54.0, ,17-9,Shooting foul by S. Hauser (drawn by M. Turner),,1,17,9,8,426.0
+4:54.0,K. Porziņģis enters the game for J. Tatum,17-9, ,,1,17,9,8,426.0
+4:54.0, ,17-9,A. Nesmith enters the game for B. Hield,,1,17,9,8,426.0
+4:54.0, ,17-9,M. Turner misses free throw 1 of 1,,1,17,9,8,426.0
+4:52.0,Defensive rebound by J. Brown,17-9, ,,1,17,9,8,428.0
+4:44.0,J. Brown misses 3-pt jump shot from 25 ft,17-9, ,,1,17,9,8,436.0
+4:39.0, ,17-9,Defensive rebound by T. Haliburton,,1,17,9,8,441.0
+4:23.0, ,17-9,O. Toppin misses 2-pt layup from 1 ft,,1,17,9,8,457.0
+4:23.0,Defensive rebound by A. Horford,17-9, ,,1,17,9,8,457.0
+4:07.0,J. Brown makes 2-pt layup from 1 ft,19-9, ,,1,19,9,10,473.0
+3:59.0, ,19-9,T. Haliburton misses 2-pt layup at rim,,1,19,9,10,481.0
+3:57.0,Defensive rebound by S. Hauser,19-9, ,,1,19,9,10,483.0
+3:38.0,Turnover by A. Horford (bad pass; steal by T. Haliburton),19-9, ,,1,19,9,10,502.0
+3:34.0, ,19-9,Shooting foul by D. White (drawn by B. Mathurin),,1,19,9,10,506.0
+3:34.0, ,19-10,B. Mathurin makes free throw 1 of 2,,1,19,10,9,506.0
+3:34.0,O. Brissett enters the game for K. Porziņģis,19-10, ,,1,19,10,9,506.0
+3:34.0, ,19-10,I. Jackson enters the game for A. Nesmith,,1,19,10,9,506.0
+3:34.0, ,19-10,B. Mathurin misses free throw 2 of 2,,1,19,10,9,506.0
+3:33.0,Defensive rebound by O. Brissett,19-10, ,,1,19,10,9,507.0
+3:18.0,J. Brown makes 2-pt jump shot from 4 ft,21-10, ,,1,21,10,11,522.0
+3:18.0, ,21-10,Indiana full timeout,,1,21,10,11,522.0
+3:18.0, ,21-10,A. Nesmith enters the game for M. Turner,,1,21,10,11,522.0
+3:12.0, ,21-10,B. Mathurin misses 2-pt jump shot from 8 ft,,1,21,10,11,528.0
+3:10.0, ,21-10,Offensive rebound by B. Mathurin,,1,21,10,11,530.0
+3:10.0, ,21-10,Shooting foul by S. Hauser (drawn by B. Mathurin),,1,21,10,11,530.0
+3:10.0, ,21-11,B. Mathurin makes free throw 1 of 2,,1,21,11,10,530.0
+3:10.0, ,21-11,B. Mathurin misses free throw 2 of 2,,1,21,11,10,530.0
+3:09.0,Defensive rebound by J. Brown,21-11, ,,1,21,11,10,531.0
+2:57.0,S. Hauser misses 3-pt jump shot from 28 ft,21-11, ,,1,21,11,10,543.0
+2:52.0,Offensive rebound by O. Brissett,21-11, ,,1,21,11,10,548.0
+2:44.0,J. Brown makes 2-pt layup from 1 ft,23-11, ,,1,23,11,12,556.0
+2:28.0, ,23-13,I. Jackson makes 2-pt dunk at rim,,1,23,13,10,572.0
+2:13.0,Personal foul by I. Jackson (drawn by A. Horford),23-13, ,,1,23,13,10,587.0
+2:13.0,J. Holiday enters the game for S. Hauser,23-13, ,,1,23,13,10,587.0
+2:13.0,J. Tatum enters the game for D. White,23-13, ,,1,23,13,10,587.0
+2:13.0, ,23-13,T. McConnell enters the game for T. Haliburton,,1,23,13,10,587.0
+2:07.0,J. Brown misses 2-pt jump shot from 6 ft,23-13, ,,1,23,13,10,593.0
+2:03.0, ,23-13,Defensive rebound by I. Jackson,,1,23,13,10,597.0
+1:46.0, ,23-13,B. Mathurin misses 3-pt jump shot from 26 ft,,1,23,13,10,614.0
+1:44.0,Defensive rebound by O. Brissett,23-13, ,,1,23,13,10,616.0
+1:28.0,Turnover by J. Holiday (bad pass; steal by T. McConnell),23-13, ,,1,23,13,10,632.0
+1:25.0, ,23-15,B. Mathurin makes 2-pt dunk from 1 ft (assist by T. McConnell),,1,23,15,8,635.0
+1:17.0,J. Tatum makes 3-pt jump shot from 29 ft (assist by J. Holiday),26-15, ,,1,26,15,11,643.0
+1:02.0, ,26-15,A. Nesmith misses 3-pt jump shot from 23 ft,,1,26,15,11,658.0
+0:59.0,Defensive rebound by J. Brown,26-15, ,,1,26,15,11,661.0
+0:48.0,Offensive foul by J. Tatum (drawn by A. Nesmith),26-15, ,,1,26,15,11,672.0
+0:48.0,Turnover by J. Tatum (offensive foul),26-15, ,,1,26,15,11,672.0
+0:48.0,P. Pritchard enters the game for J. Brown,26-15, ,,1,26,15,11,672.0
+0:48.0, ,26-15,B. Hield enters the game for A. Nesmith,,1,26,15,11,672.0
+0:42.0, ,26-15,Turnover by T. McConnell (traveling),,1,26,15,11,678.0
+0:34.0,J. Tatum makes 3-pt jump shot from 27 ft,29-15, ,,1,29,15,14,686.0
+0:19.0, ,29-17,T. McConnell makes 2-pt jump shot from 15 ft,,1,29,17,12,701.0
+0:06.0,Personal take foul by B. Hield (drawn by J. Tatum),29-17, ,,1,29,17,12,714.0
+0:06.0,S. Hauser enters the game for O. Brissett,29-17, ,,1,29,17,12,714.0
+0:00.0,J. Holiday misses 3-pt jump shot from 28 ft,29-17, ,,1,29,17,12,720.0
+0:00.0,Offensive rebound by Team,29-17, ,,1,29,17,12,720.0
+0:00.0,End of 1st quarter,29-17,,,1,29,17,12,720.0
+12:00.0,Start of 2nd quarter,29-17,,,2,29,17,12,720.0
+11:35.0, ,29-17,Turnover by T. McConnell (bad pass; steal by P. Pritchard),,2,29,17,12,745.0
+11:28.0,Offensive foul by J. Tatum (drawn by T. McConnell),29-17, ,,2,29,17,12,752.0
+11:28.0,Turnover by J. Tatum (offensive foul),29-17, ,,2,29,17,12,752.0
+11:03.0, ,29-17,B. Hield misses 2-pt layup from 2 ft,,2,29,17,12,777.0
+11:00.0,Defensive rebound by S. Hauser,29-17, ,,2,29,17,12,780.0
+10:43.0,P. Pritchard makes 2-pt layup from 2 ft,31-17, ,,2,31,17,14,797.0
+10:29.0, ,31-19,T. McConnell makes 2-pt layup from 2 ft,,2,31,19,12,811.0
+10:17.0,J. Tatum misses 3-pt jump shot from 30 ft,31-19, ,,2,31,19,12,823.0
+10:15.0,Offensive rebound by L. Kornet,31-19, ,,2,31,19,12,825.0
+10:12.0,P. Pritchard makes 3-pt jump shot from 28 ft (assist by J. Holiday),34-19, ,,2,34,19,15,828.0
+9:54.0, ,34-19,Personal foul by S. Hauser (drawn by I. Jackson),,2,34,19,15,846.0
+9:54.0,O. Brissett enters the game for S. Hauser,34-19, ,,2,34,19,15,846.0
+9:43.0, ,34-19,B. Mathurin misses 2-pt jump shot from 19 ft,,2,34,19,15,857.0
+9:41.0, ,34-19,Offensive rebound by I. Jackson,,2,34,19,15,859.0
+9:41.0, ,34-19,I. Jackson misses 2-pt layup from 2 ft,,2,34,19,15,859.0
+9:41.0,Defensive rebound by L. Kornet,34-19, ,,2,34,19,15,859.0
+9:39.0,Personal foul by I. Jackson (drawn by L. Kornet),34-19, ,,2,34,19,15,861.0
+9:39.0, ,34-19,J. Smith enters the game for I. Jackson,,2,34,19,15,861.0
+9:23.0,J. Tatum misses 3-pt jump shot from 27 ft,34-19, ,,2,34,19,15,877.0
+9:19.0, ,34-19,Defensive rebound by B. Mathurin,,2,34,19,15,881.0
+8:57.0, ,34-21,B. Mathurin makes 2-pt layup at rim (assist by J. Smith),,2,34,21,13,903.0
+8:52.0,Turnover by L. Kornet (bad pass; steal by T. McConnell),34-21, ,,2,34,21,13,908.0
+8:49.0, ,34-24,B. Hield makes 3-pt jump shot from 25 ft (assist by T. McConnell),,2,34,24,10,911.0
+8:33.0,L. Kornet misses 2-pt layup from 3 ft,34-24, ,,2,34,24,10,927.0
+8:30.0,Offensive rebound by O. Brissett,34-24, ,,2,34,24,10,930.0
+8:30.0,O. Brissett misses 2-pt layup at rim,34-24, ,,2,34,24,10,930.0
+8:29.0,O. Brissett misses 2-pt layup from 3 ft,34-24, ,,2,34,24,10,931.0
+8:29.0, ,34-24,Defensive rebound by B. Hield,,2,34,24,10,931.0
+8:18.0, ,34-24,B. Mathurin misses 3-pt jump shot from 27 ft,,2,34,24,10,942.0
+8:14.0, ,34-24,Offensive rebound by O. Toppin,,2,34,24,10,946.0
+8:06.0, ,34-27,O. Toppin makes 3-pt jump shot from 26 ft (assist by T. McConnell),,2,34,27,7,954.0
+7:44.0,P. Pritchard misses 3-pt jump shot from 28 ft,34-27, ,,2,34,27,7,976.0
+7:39.0, ,34-27,Defensive rebound by T. McConnell,,2,34,27,7,981.0
+7:35.0, ,34-27,Turnover by T. McConnell (bad pass; steal by L. Kornet),,2,34,27,7,985.0
+7:32.0,J. Tatum makes 2-pt jump shot from 18 ft (assist by J. Holiday),36-27, ,,2,36,27,9,988.0
+7:24.0, ,36-29,T. McConnell makes 2-pt jump shot from 16 ft,,2,36,29,7,996.0
+7:04.0,J. Tatum makes 2-pt jump shot from 17 ft,38-29, ,,2,38,29,9,1016.0
+6:54.0, ,38-29,O. Toppin misses 3-pt jump shot from 25 ft,,2,38,29,9,1026.0
+6:52.0,Defensive rebound by J. Tatum,38-29, ,,2,38,29,9,1028.0
+6:42.0,J. Tatum makes 2-pt layup from 2 ft,40-29, ,,2,40,29,11,1038.0
+6:28.0, ,40-29,Shooting foul by O. Brissett (drawn by B. Mathurin),,2,40,29,11,1052.0
+6:28.0, ,40-29,Indiana full timeout,,2,40,29,11,1052.0
+6:28.0,J. Brown enters the game for O. Brissett,40-29, ,,2,40,29,11,1052.0
+6:28.0,A. Horford enters the game for J. Holiday,40-29, ,,2,40,29,11,1052.0
+6:28.0,D. White enters the game for P. Pritchard,40-29, ,,2,40,29,11,1052.0
+6:28.0, ,40-29,T. Haliburton enters the game for B. Hield,,2,40,29,11,1052.0
+6:28.0, ,40-29,A. Nesmith enters the game for T. McConnell,,2,40,29,11,1052.0
+6:28.0, ,40-29,B. Mathurin misses free throw 1 of 2,,2,40,29,11,1052.0
+6:28.0, ,40-29,Offensive rebound by Team,,2,40,29,11,1052.0
+6:28.0, ,40-30,B. Mathurin makes free throw 2 of 2,,2,40,30,10,1052.0
+6:17.0,J. Brown makes 2-pt jump shot from 10 ft (assist by J. Tatum),42-30, ,,2,42,30,12,1063.0
+5:54.0, ,42-30,A. Nesmith misses 2-pt jump shot from 9 ft,,2,42,30,12,1086.0
+5:52.0,Defensive rebound by J. Tatum,42-30, ,,2,42,30,12,1088.0
+5:44.0,J. Brown misses 3-pt jump shot from 26 ft,42-30, ,,2,42,30,12,1096.0
+5:40.0,Offensive rebound by J. Tatum,42-30, ,,2,42,30,12,1100.0
+5:40.0, ,42-30,M. Turner enters the game for O. Toppin,,2,42,30,12,1100.0
+5:27.0,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Tatum),45-30, ,,2,45,30,15,1113.0
+5:09.0, ,45-30,B. Mathurin misses 2-pt layup from 3 ft,,2,45,30,15,1131.0
+5:08.0,Defensive rebound by D. White,45-30, ,,2,45,30,15,1132.0
+5:08.0,Personal foul by J. Smith (drawn by D. White),45-30, ,,2,45,30,15,1132.0
+5:02.0,Turnover by D. White (bad pass; steal by A. Nesmith),45-30, ,,2,45,30,15,1138.0
+4:58.0, ,45-32,A. Nesmith makes 2-pt dunk from 1 ft,,2,45,32,13,1142.0
+4:38.0,J. Tatum makes 2-pt jump shot from 7 ft,47-32, ,,2,47,32,15,1162.0
+4:28.0, ,47-35,T. Haliburton makes 3-pt jump shot from 26 ft,,2,47,35,12,1172.0
+4:10.0,D. White misses 2-pt jump shot from 6 ft,47-35, ,,2,47,35,12,1190.0
+4:09.0,Offensive rebound by Team,47-35, ,,2,47,35,12,1191.0
+4:04.0,Turnover by J. Brown (bad pass; steal by B. Mathurin),47-35, ,,2,47,35,12,1196.0
+3:58.0, ,47-37,M. Turner makes 2-pt layup from 2 ft (assist by B. Mathurin),,2,47,37,10,1202.0
+3:58.0, ,47-37,Shooting foul by L. Kornet (drawn by M. Turner),,2,47,37,10,1202.0
+3:58.0,J. Holiday enters the game for L. Kornet,47-37, ,,2,47,37,10,1202.0
+3:58.0, ,47-38,M. Turner makes free throw 1 of 1,,2,47,38,9,1202.0
+3:45.0,Turnover by D. White (bad pass; steal by T. Haliburton),47-38, ,,2,47,38,9,1215.0
+3:41.0, ,47-38,Shooting foul by D. White (drawn by T. Haliburton),,2,47,38,9,1219.0
+3:41.0, ,47-39,T. Haliburton makes free throw 1 of 2,,2,47,39,8,1219.0
+3:41.0, ,47-40,T. Haliburton makes free throw 2 of 2,,2,47,40,7,1219.0
+3:28.0,J. Tatum makes 3-pt jump shot from 27 ft (assist by D. White),50-40, ,,2,50,40,10,1232.0
+3:19.0, ,50-40,T. Haliburton misses 3-pt jump shot from 27 ft,,2,50,40,10,1241.0
+3:15.0, ,50-40,Offensive rebound by A. Nesmith,,2,50,40,10,1245.0
+3:09.0, ,50-42,B. Mathurin makes 2-pt layup from 1 ft,,2,50,42,8,1251.0
+3:08.0,Boston full timeout,50-42, ,,2,50,42,8,1252.0
+2:55.0,J. Brown makes 3-pt jump shot from 24 ft (assist by A. Horford),53-42, ,,2,53,42,11,1265.0
+2:41.0, ,53-42,M. Turner misses 3-pt jump shot from 24 ft,,2,53,42,11,1279.0
+2:38.0,Defensive rebound by J. Tatum,53-42, ,,2,53,42,11,1282.0
+2:29.0,J. Tatum misses 3-pt jump shot from 28 ft,53-42, ,,2,53,42,11,1291.0
+2:27.0, ,53-42,Defensive rebound by M. Turner,,2,53,42,11,1293.0
+2:22.0, ,53-42,M. Turner misses 3-pt jump shot from 28 ft,,2,53,42,11,1298.0
+2:17.0,Defensive rebound by J. Tatum,53-42, ,,2,53,42,11,1303.0
+2:05.0,J. Brown makes 2-pt jump shot from 9 ft,55-42, ,,2,55,42,13,1315.0
+1:49.0, ,55-42,J. Smith misses 3-pt jump shot from 29 ft,,2,55,42,13,1331.0
+1:46.0,Defensive rebound by D. White,55-42, ,,2,55,42,13,1334.0
+1:37.0,J. Tatum makes 3-pt jump shot from 26 ft,58-42, ,,2,58,42,16,1343.0
+1:34.0, ,58-42,Indiana full timeout,,2,58,42,16,1346.0
+1:34.0, ,58-42,B. Hield enters the game for B. Mathurin,,2,58,42,16,1346.0
+1:17.0, ,58-44,A. Nesmith makes 2-pt layup from 2 ft,,2,58,44,14,1363.0
+0:49.0,J. Tatum misses 3-pt jump shot from 25 ft,58-44, ,,2,58,44,14,1391.0
+0:47.0,Offensive rebound by J. Holiday,58-44, ,,2,58,44,14,1393.0
+0:42.0,Turnover by D. White (bad pass; steal by A. Nesmith),58-44, ,,2,58,44,14,1398.0
+0:42.0, ,58-44,Personal foul by J. Tatum (drawn by A. Nesmith),,2,58,44,14,1398.0
+0:42.0, ,58-45,T. Haliburton makes free throw 1 of 1,,2,58,45,13,1398.0
+0:28.0, ,58-47,B. Hield makes 2-pt layup from 1 ft (assist by T. Haliburton),,2,58,47,11,1412.0
+0:04.0,Turnover by J. Tatum (bad pass; steal by T. Haliburton),58-47, ,,2,58,47,11,1436.0
+0:00.0, ,58-47,Shooting foul by D. White (drawn by J. Smith),,2,58,47,11,1440.0
+0:00.0, ,58-48,J. Smith makes free throw 1 of 2,,2,58,48,10,1440.0
+0:00.0, ,58-49,J. Smith makes free throw 2 of 2,,2,58,49,9,1440.0
+0:00.0,End of 2nd quarter,58-49,,,2,58,49,9,1440.0
+12:00.0,Start of 3rd quarter,58-49,,,3,58,49,9,1440.0
+11:42.0, ,58-52,B. Hield makes 3-pt jump shot from 29 ft (assist by T. Haliburton),,3,58,52,6,1458.0
+11:26.0,A. Horford misses 3-pt jump shot from 25 ft,58-52, ,,3,58,52,6,1474.0
+11:24.0, ,58-52,Defensive rebound by T. Haliburton,,3,58,52,6,1476.0
+11:16.0, ,58-52,Shooting foul by D. White (drawn by T. Haliburton),,3,58,52,6,1484.0
+11:16.0, ,58-53,T. Haliburton makes free throw 1 of 2,,3,58,53,5,1484.0
+11:16.0,S. Hauser enters the game for D. White,58-53, ,,3,58,53,5,1484.0
+11:16.0, ,58-54,T. Haliburton makes free throw 2 of 2,,3,58,54,4,1484.0
+10:57.0,S. Hauser makes 2-pt layup from 1 ft (assist by A. Horford),60-54, ,,3,60,54,6,1503.0
+10:39.0, ,60-56,B. Hield makes 2-pt layup from 1 ft,,3,60,56,4,1521.0
+10:34.0,Shooting foul by M. Turner (drawn by J. Brown),60-56, ,,3,60,56,4,1526.0
+10:34.0,J. Brown misses free throw 1 of 2,60-56, ,,3,60,56,4,1526.0
+10:34.0,Offensive rebound by Team,60-56, ,,3,60,56,4,1526.0
+10:34.0,J. Brown misses free throw 2 of 2,60-56, ,,3,60,56,4,1526.0
+10:32.0, ,60-56,Defensive rebound by J. Smith,,3,60,56,4,1528.0
+10:09.0, ,60-58,M. Turner makes 2-pt layup from 1 ft (assist by B. Hield),,3,60,58,2,1551.0
+9:47.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by A. Horford),63-58, ,,3,63,58,5,1573.0
+9:35.0, ,63-58,B. Hield misses 3-pt jump shot from 27 ft,,3,63,58,5,1585.0
+9:30.0,Defensive rebound by S. Hauser,63-58, ,,3,63,58,5,1590.0
+9:23.0,A. Horford makes 2-pt jump shot from 4 ft (assist by J. Tatum),65-58, ,,3,65,58,7,1597.0
+9:08.0, ,65-58,J. Smith misses 3-pt jump shot from 25 ft,,3,65,58,7,1612.0
+9:07.0,Defensive rebound by Team,65-58, ,,3,65,58,7,1613.0
+9:07.0, ,65-58,Loose ball foul by M. Turner (drawn by J. Tatum),,3,65,58,7,1613.0
+8:48.0,J. Brown misses 2-pt layup from 2 ft,65-58, ,,3,65,58,7,1632.0
+8:44.0, ,65-58,Defensive rebound by M. Turner,,3,65,58,7,1636.0
+8:38.0, ,65-58,J. Smith misses 2-pt layup at rim (block by A. Horford),,3,65,58,7,1642.0
+8:35.0, ,65-58,Offensive rebound by J. Smith,,3,65,58,7,1645.0
+8:32.0, ,65-60,T. Haliburton makes 2-pt layup from 1 ft (assist by J. Smith),,3,65,60,5,1648.0
+8:23.0,J. Holiday misses 2-pt layup from 2 ft (block by A. Nesmith),65-60, ,,3,65,60,5,1657.0
+8:23.0,Offensive rebound by Team,65-60, ,,3,65,60,5,1657.0
+8:19.0,Shooting foul by A. Nesmith (drawn by J. Holiday),65-60, ,,3,65,60,5,1661.0
+8:19.0,J. Holiday misses free throw 1 of 2,65-60, ,,3,65,60,5,1661.0
+8:19.0,Offensive rebound by Team,65-60, ,,3,65,60,5,1661.0
+8:19.0,J. Holiday makes free throw 2 of 2,66-60, ,,3,66,60,6,1661.0
+8:09.0, ,66-62,M. Turner makes 2-pt layup from 1 ft (assist by T. Haliburton),,3,66,62,4,1671.0
+7:53.0,J. Tatum makes 3-pt jump shot from 27 ft,69-62, ,,3,69,62,7,1687.0
+7:42.0, ,69-62,B. Hield misses 3-pt jump shot from 29 ft,,3,69,62,7,1698.0
+7:37.0,Defensive rebound by J. Tatum,69-62, ,,3,69,62,7,1703.0
+7:33.0,Shooting foul by B. Hield (drawn by J. Brown),69-62, ,,3,69,62,7,1707.0
+7:33.0,J. Brown makes free throw 1 of 2,70-62, ,,3,70,62,8,1707.0
+7:33.0,J. Brown makes free throw 2 of 2,71-62, ,,3,71,62,9,1707.0
+7:11.0, ,71-62,A. Nesmith misses 3-pt jump shot from 22 ft,,3,71,62,9,1729.0
+7:07.0,Defensive rebound by J. Tatum,71-62, ,,3,71,62,9,1733.0
+6:58.0,Shooting foul by B. Hield (drawn by J. Tatum),71-62, ,,3,71,62,9,1742.0
+6:58.0, ,71-62,Indiana full timeout,,3,71,62,9,1742.0
+6:58.0, ,71-62,B. Mathurin enters the game for B. Hield,,3,71,62,9,1742.0
+6:58.0, ,71-62,O. Toppin enters the game for J. Smith,,3,71,62,9,1742.0
+6:58.0,J. Tatum misses free throw 1 of 2,71-62, ,,3,71,62,9,1742.0
+6:58.0,Offensive rebound by Team,71-62, ,,3,71,62,9,1742.0
+6:58.0,J. Tatum misses free throw 2 of 2,71-62, ,,3,71,62,9,1742.0
+6:56.0, ,71-62,Defensive rebound by A. Nesmith,,3,71,62,9,1744.0
+6:41.0, ,71-62,A. Nesmith misses 3-pt jump shot from 27 ft,,3,71,62,9,1759.0
+6:39.0, ,71-62,Offensive rebound by B. Mathurin,,3,71,62,9,1761.0
+6:37.0, ,71-62,Shooting foul by J. Tatum (drawn by A. Nesmith),,3,71,62,9,1763.0
+6:37.0, ,71-63,A. Nesmith makes free throw 1 of 2,,3,71,63,8,1763.0
+6:37.0,O. Brissett enters the game for J. Tatum,71-63, ,,3,71,63,8,1763.0
+6:37.0, ,71-64,A. Nesmith makes free throw 2 of 2,,3,71,64,7,1763.0
+6:21.0,S. Hauser misses 3-pt jump shot from 27 ft,71-64, ,,3,71,64,7,1779.0
+6:18.0,Offensive rebound by J. Brown,71-64, ,,3,71,64,7,1782.0
+6:12.0,J. Brown misses 3-pt jump shot from 24 ft,71-64, ,,3,71,64,7,1788.0
+6:09.0, ,71-64,Defensive rebound by A. Nesmith,,3,71,64,7,1791.0
+6:09.0, ,71-64,Personal foul by O. Brissett (drawn by A. Nesmith),,3,71,64,7,1791.0
+5:49.0, ,71-64,A. Nesmith misses 2-pt layup from 2 ft,,3,71,64,7,1811.0
+5:47.0,Defensive rebound by A. Horford,71-64, ,,3,71,64,7,1813.0
+5:42.0,J. Holiday makes 2-pt layup from 2 ft (assist by S. Hauser),73-64, ,,3,73,64,9,1818.0
+5:27.0, ,73-66,T. Haliburton makes 2-pt dunk from 1 ft,,3,73,66,7,1833.0
+5:16.0,Personal foul by M. Turner (drawn by A. Horford),73-66, ,,3,73,66,7,1844.0
+5:16.0,A. Horford misses free throw 1 of 2,73-66, ,,3,73,66,7,1844.0
+5:16.0,Offensive rebound by Team,73-66, ,,3,73,66,7,1844.0
+5:16.0,A. Horford misses free throw 2 of 2,73-66, ,,3,73,66,7,1844.0
+5:14.0, ,73-66,Defensive rebound by A. Nesmith,,3,73,66,7,1846.0
+5:02.0, ,73-66,M. Turner misses 3-pt jump shot from 25 ft,,3,73,66,7,1858.0
+4:58.0,Defensive rebound by A. Horford,73-66, ,,3,73,66,7,1862.0
+4:55.0,J. Holiday misses 3-pt jump shot from 27 ft,73-66, ,,3,73,66,7,1865.0
+4:48.0,Offensive rebound by O. Brissett,73-66, ,,3,73,66,7,1872.0
+4:48.0,O. Brissett misses 2-pt layup at rim,73-66, ,,3,73,66,7,1872.0
+4:48.0, ,73-66,Defensive rebound by O. Toppin,,3,73,66,7,1872.0
+4:41.0, ,73-69,O. Toppin makes 3-pt jump shot from 28 ft (assist by T. Haliburton),,3,73,69,4,1879.0
+4:26.0,Offensive foul by S. Hauser (drawn by A. Nesmith),73-69, ,,3,73,69,4,1894.0
+4:26.0,Turnover by S. Hauser (offensive foul),73-69, ,,3,73,69,4,1894.0
+4:18.0, ,73-69,O. Toppin misses 3-pt jump shot from 27 ft,,3,73,69,4,1902.0
+4:13.0,Defensive rebound by J. Holiday,73-69, ,,3,73,69,4,1907.0
+4:05.0,S. Hauser misses 3-pt jump shot from 27 ft,73-69, ,,3,73,69,4,1915.0
+4:01.0, ,73-69,Defensive rebound by M. Turner,,3,73,69,4,1919.0
+3:53.0, ,73-69,T. Haliburton misses 3-pt jump shot from 29 ft,,3,73,69,4,1927.0
+3:52.0,Defensive rebound by Team,73-69, ,,3,73,69,4,1928.0
+3:52.0, ,73-69,I. Jackson enters the game for M. Turner,,3,73,69,4,1928.0
+3:33.0,O. Brissett misses 3-pt jump shot from 23 ft,73-69, ,,3,73,69,4,1947.0
+3:29.0,Offensive rebound by A. Horford,73-69, ,,3,73,69,4,1951.0
+3:25.0,A. Horford makes 2-pt dunk from 2 ft (assist by J. Holiday),75-69, ,,3,75,69,6,1955.0
+3:15.0, ,75-72,T. Haliburton makes 3-pt jump shot from 28 ft (assist by B. Mathurin),,3,75,72,3,1965.0
+3:14.0,Boston full timeout,75-72, ,,3,75,72,3,1966.0
+3:14.0,L. Kornet enters the game for O. Brissett,75-72, ,,3,75,72,3,1966.0
+3:14.0,P. Pritchard enters the game for A. Horford,75-72, ,,3,75,72,3,1966.0
+3:14.0, ,75-72,B. Hield enters the game for A. Nesmith,,3,75,72,3,1966.0
+2:51.0,Turnover by J. Brown (bad pass; steal by T. Haliburton),75-72, ,,3,75,72,3,1989.0
+2:47.0, ,75-72,T. Haliburton misses 3-pt jump shot from 30 ft,,3,75,72,3,1993.0
+2:43.0,Defensive rebound by P. Pritchard,75-72, ,,3,75,72,3,1997.0
+2:35.0,Shooting foul by I. Jackson (drawn by J. Brown),75-72, ,,3,75,72,3,2005.0
+2:35.0,J. Brown misses free throw 1 of 2,75-72, ,,3,75,72,3,2005.0
+2:35.0,Offensive rebound by Team,75-72, ,,3,75,72,3,2005.0
+2:35.0,J. Brown makes free throw 2 of 2,76-72, ,,3,76,72,4,2005.0
+2:13.0, ,76-72,B. Mathurin misses 2-pt jump shot from 13 ft,,3,76,72,4,2027.0
+2:09.0,Defensive rebound by S. Hauser,76-72, ,,3,76,72,4,2031.0
+2:01.0,J. Brown makes 2-pt jump shot from 4 ft,78-72, ,,3,78,72,6,2039.0
+1:45.0, ,78-74,I. Jackson makes 2-pt dunk from 1 ft (assist by T. Haliburton),,3,78,74,4,2055.0
+1:27.0,J. Holiday misses 2-pt layup from 3 ft,78-74, ,,3,78,74,4,2073.0
+1:25.0, ,78-74,Defensive rebound by I. Jackson,,3,78,74,4,2075.0
+1:20.0, ,78-76,O. Toppin makes 2-pt dunk from 2 ft (assist by B. Hield),,3,78,76,2,2080.0
+0:58.0,J. Brown makes 2-pt jump shot from 5 ft,80-76, ,,3,80,76,4,2102.0
+0:48.0, ,80-76,B. Hield misses 3-pt jump shot from 28 ft,,3,80,76,4,2112.0
+0:47.0,Defensive rebound by Team,80-76, ,,3,80,76,4,2113.0
+0:47.0, ,80-76,Loose ball foul by I. Jackson (drawn by L. Kornet),,3,80,76,4,2113.0
+0:47.0,L. Kornet makes free throw 1 of 2,81-76, ,,3,81,76,5,2113.0
+0:47.0, ,81-76,T. McConnell enters the game for T. Haliburton,,3,81,76,5,2113.0
+0:47.0, ,81-76,J. Smith enters the game for I. Jackson,,3,81,76,5,2113.0
+0:47.0,L. Kornet makes free throw 2 of 2,82-76, ,,3,82,76,6,2113.0
+0:35.0, ,82-78,B. Mathurin makes 2-pt layup from 1 ft (assist by O. Toppin),,3,82,78,4,2125.0
+0:32.0,S. Hauser misses 3-pt jump shot from 26 ft,82-78, ,,3,82,78,4,2128.0
+0:28.0, ,82-78,Defensive rebound by O. Toppin,,3,82,78,4,2132.0
+0:23.0, ,82-81,B. Hield makes 3-pt jump shot from 24 ft (assist by T. McConnell),,3,82,81,1,2137.0
+0:03.0,J. Brown makes 2-pt jump shot from 7 ft,84-81, ,,3,84,81,3,2157.0
+0:00.0, ,84-81,B. Hield misses 3-pt jump shot from 30 ft,,3,84,81,3,2160.0
+0:00.0, ,84-81,Offensive rebound by Team,,3,84,81,3,2160.0
+0:00.0,End of 3rd quarter,84-81,,,3,84,81,3,2160.0
+12:00.0,Start of 4th quarter,84-81,,,4,84,81,3,2160.0
+11:44.0,D. White makes 2-pt jump shot from 9 ft (assist by L. Kornet),86-81, ,,4,86,81,5,2176.0
+11:26.0, ,86-81,B. Mathurin misses 3-pt jump shot from 24 ft,,4,86,81,5,2194.0
+11:23.0,Defensive rebound by D. White,86-81, ,,4,86,81,5,2197.0
+11:13.0,Turnover by D. White (lost ball; steal by B. Mathurin),86-81, ,,4,86,81,5,2207.0
+11:09.0, ,86-83,O. Toppin makes 2-pt dunk from 1 ft,,4,86,83,3,2211.0
+10:50.0,J. Tatum makes 3-pt jump shot from 26 ft,89-83, ,,4,89,83,6,2230.0
+10:43.0, ,89-83,J. Smith misses 3-pt jump shot from 27 ft,,4,89,83,6,2237.0
+10:40.0,Defensive rebound by J. Tatum,89-83, ,,4,89,83,6,2240.0
+10:23.0,O. Brissett misses 2-pt layup from 2 ft,89-83, ,,4,89,83,6,2257.0
+10:21.0,Offensive rebound by L. Kornet,89-83, ,,4,89,83,6,2259.0
+10:21.0,L. Kornet makes 2-pt layup at rim,91-83, ,,4,91,83,8,2259.0
+10:21.0, ,91-83,Indiana full timeout,,4,91,83,8,2259.0
+9:57.0, ,91-83,B. Hield misses 2-pt jump shot from 14 ft,,4,91,83,8,2283.0
+9:52.0,Defensive rebound by J. Tatum,91-83, ,,4,91,83,8,2288.0
+9:49.0,D. White misses 3-pt jump shot from 29 ft,91-83, ,,4,91,83,8,2291.0
+9:46.0, ,91-83,Defensive rebound by J. Smith,,4,91,83,8,2294.0
+9:43.0, ,91-83,O. Toppin misses 2-pt layup from 3 ft,,4,91,83,8,2297.0
+9:42.0,Defensive rebound by D. White,91-83, ,,4,91,83,8,2298.0
+9:36.0,D. White misses 2-pt jump shot from 6 ft,91-83, ,,4,91,83,8,2304.0
+9:34.0, ,91-83,Defensive rebound by J. Smith,,4,91,83,8,2306.0
+9:23.0, ,91-85,B. Hield makes 2-pt layup from 5 ft (assist by T. McConnell),,4,91,85,6,2317.0
+9:01.0,O. Brissett makes 2-pt layup from 1 ft (assist by L. Kornet),93-85, ,,4,93,85,8,2339.0
+9:01.0, ,93-85,Violation by Team (def goaltending),,4,93,85,8,2339.0
+9:01.0,Shooting foul by O. Toppin (drawn by O. Brissett),93-85, ,,4,93,85,8,2339.0
+9:01.0, ,93-85,A. Nesmith enters the game for B. Hield,,4,93,85,8,2339.0
+9:01.0,O. Brissett makes free throw 1 of 1,94-85, ,,4,94,85,9,2339.0
+8:52.0, ,94-85,A. Nesmith misses 3-pt jump shot from 23 ft,,4,94,85,9,2348.0
+8:46.0,Defensive rebound by P. Pritchard,94-85, ,,4,94,85,9,2354.0
+8:42.0,P. Pritchard misses 3-pt jump shot from 26 ft,94-85, ,,4,94,85,9,2358.0
+8:37.0,Offensive rebound by O. Brissett,94-85, ,,4,94,85,9,2363.0
+8:28.0,Personal foul by J. Smith (drawn by J. Tatum),94-85, ,,4,94,85,9,2372.0
+8:28.0, ,94-85,Indiana full timeout,,4,94,85,9,2372.0
+8:28.0, ,94-85,Instant Replay (Challenge: Stands),,4,94,85,9,2372.0
+8:28.0, ,94-85,M. Turner enters the game for J. Smith,,4,94,85,9,2372.0
+8:21.0,J. Tatum misses 2-pt layup from 9 ft (block by B. Mathurin),94-85, ,,4,94,85,9,2379.0
+8:21.0,Offensive rebound by Team,94-85, ,,4,94,85,9,2379.0
+8:21.0,A. Horford enters the game for L. Kornet,94-85, ,,4,94,85,9,2379.0
+8:21.0, ,94-85,T. Haliburton enters the game for T. McConnell,,4,94,85,9,2379.0
+8:19.0,Jump ball: J. Tatum vs. B. Mathurin (A. Horford gains possession),94-85,,,4,94,85,9,2381.0
+8:15.0,A. Horford misses 2-pt layup from 4 ft,94-85, ,,4,94,85,9,2385.0
+8:11.0, ,94-85,Defensive rebound by B. Mathurin,,4,94,85,9,2389.0
+8:08.0, ,94-85,T. Haliburton misses 3-pt jump shot from 30 ft,,4,94,85,9,2392.0
+8:05.0,Defensive rebound by J. Tatum,94-85, ,,4,94,85,9,2395.0
+7:58.0,J. Tatum makes 2-pt layup from 1 ft,96-85, ,,4,96,85,11,2402.0
+7:58.0,Shooting foul by B. Mathurin (drawn by J. Tatum),96-85, ,,4,96,85,11,2402.0
+7:58.0,J. Tatum makes free throw 1 of 1,97-85, ,,4,97,85,12,2402.0
+7:47.0, ,97-85,T. Haliburton misses 2-pt jump shot from 9 ft (block by D. White),,4,97,85,12,2413.0
+7:43.0,Defensive rebound by O. Brissett,97-85, ,,4,97,85,12,2417.0
+7:30.0,J. Tatum makes 3-pt jump shot from 26 ft,100-85, ,,4,100,85,15,2430.0
+7:18.0, ,100-85,Personal foul by D. White (drawn by A. Nesmith),,4,100,85,15,2442.0
+7:18.0,J. Holiday enters the game for D. White,100-85, ,,4,100,85,15,2442.0
+7:18.0, ,100-85,B. Hield enters the game for O. Toppin,,4,100,85,15,2442.0
+7:12.0, ,100-85,Shooting foul by J. Holiday (drawn by M. Turner),,4,100,85,15,2448.0
+7:12.0, ,100-86,M. Turner makes free throw 1 of 2,,4,100,86,14,2448.0
+7:12.0,J. Brown enters the game for P. Pritchard,100-86, ,,4,100,86,14,2448.0
+7:12.0, ,100-86,M. Turner misses free throw 2 of 2,,4,100,86,14,2448.0
+7:11.0,Defensive rebound by J. Holiday,100-86, ,,4,100,86,14,2449.0
+6:59.0,Turnover by J. Tatum (lost ball; steal by A. Nesmith),100-86, ,,4,100,86,14,2461.0
+6:56.0, ,100-88,A. Nesmith makes 2-pt dunk from 1 ft (assist by B. Hield),,4,100,88,12,2464.0
+6:35.0,Turnover by J. Brown (out of bounds lost ball),100-88, ,,4,100,88,12,2485.0
+6:24.0, ,100-88,T. Haliburton misses 2-pt layup from 1 ft,,4,100,88,12,2496.0
+6:24.0,Defensive rebound by J. Tatum,100-88, ,,4,100,88,12,2496.0
+6:24.0, ,100-88,Technical foul by R. Carlisle,,4,100,88,12,2496.0
+6:24.0,J. Tatum makes technical free throw,101-88, ,,4,101,88,13,2496.0
+6:16.0,J. Tatum misses 2-pt jump shot from 17 ft,101-88, ,,4,101,88,13,2504.0
+6:12.0, ,101-88,Defensive rebound by T. Haliburton,,4,101,88,13,2508.0
+6:01.0, ,101-90,T. Haliburton makes 2-pt layup from 2 ft (assist by M. Turner),,4,101,90,11,2519.0
+5:37.0,J. Tatum makes 2-pt layup at rim (assist by A. Horford),103-90, ,,4,103,90,13,2543.0
+5:23.0, ,103-90,Turnover by T. Haliburton (bad pass; steal by A. Horford),,4,103,90,13,2557.0
+5:19.0,J. Brown makes 2-pt dunk from 2 ft (assist by A. Horford),105-90, ,,4,105,90,15,2561.0
+5:19.0, ,105-90,Indiana full timeout,,4,105,90,15,2561.0
+5:09.0, ,105-90,Shooting foul by J. Holiday (drawn by B. Mathurin),,4,105,90,15,2571.0
+5:09.0, ,105-91,B. Mathurin makes free throw 1 of 2,,4,105,91,14,2571.0
+5:09.0, ,105-92,B. Mathurin makes free throw 2 of 2,,4,105,92,13,2571.0
+4:47.0,A. Horford misses 3-pt jump shot from 26 ft,105-92, ,,4,105,92,13,2593.0
+4:43.0, ,105-92,Defensive rebound by Team,,4,105,92,13,2597.0
+4:28.0, ,105-92,Offensive foul by B. Mathurin (drawn by J. Holiday),,4,105,92,13,2612.0
+4:28.0, ,105-92,Turnover by B. Mathurin (offensive foul),,4,105,92,13,2612.0
+4:22.0,O. Brissett makes 3-pt jump shot from 24 ft (assist by A. Horford),108-92, ,,4,108,92,16,2618.0
+4:05.0, ,108-92,B. Hield misses 3-pt jump shot from 26 ft (block by J. Brown),,4,108,92,16,2635.0
+4:02.0, ,108-92,Offensive rebound by M. Turner,,4,108,92,16,2638.0
+4:01.0, ,108-92,B. Hield misses 3-pt jump shot from 26 ft (block by O. Brissett),,4,108,92,16,2639.0
+4:01.0,Defensive rebound by A. Horford,108-92, ,,4,108,92,16,2639.0
+3:51.0,O. Brissett misses 3-pt jump shot from 23 ft,108-92, ,,4,108,92,16,2649.0
+3:49.0, ,108-92,Defensive rebound by Team,,4,108,92,16,2651.0
+3:36.0, ,108-94,B. Mathurin makes 2-pt layup from 1 ft,,4,108,94,14,2664.0
+3:36.0, ,108-94,Shooting foul by O. Brissett (drawn by B. Mathurin),,4,108,94,14,2664.0
+3:36.0,D. White enters the game for O. Brissett,108-94, ,,4,108,94,14,2664.0
+3:36.0, ,108-95,B. Mathurin makes free throw 1 of 1,,4,108,95,13,2664.0
+3:20.0,J. Tatum misses 2-pt layup from 2 ft,108-95, ,,4,108,95,13,2680.0
+3:18.0, ,108-95,Defensive rebound by M. Turner,,4,108,95,13,2682.0
+3:14.0, ,108-95,Turnover by T. Haliburton (bad pass; steal by J. Holiday),,4,108,95,13,2686.0
+2:57.0,Shooting foul by T. Haliburton (drawn by J. Brown),108-95, ,,4,108,95,13,2703.0
+2:57.0, ,108-95,B. Sheppard enters the game for B. Hield,,4,108,95,13,2703.0
+2:57.0,J. Brown misses free throw 1 of 2,108-95, ,,4,108,95,13,2703.0
+2:57.0,Offensive rebound by Team,108-95, ,,4,108,95,13,2703.0
+2:57.0,J. Brown makes free throw 2 of 2,109-95, ,,4,109,95,14,2703.0
+2:48.0, ,109-95,A. Nesmith misses 3-pt jump shot from 31 ft,,4,109,95,14,2712.0
+2:44.0, ,109-95,Offensive rebound by M. Turner,,4,109,95,14,2716.0
+2:40.0, ,109-95,Turnover by B. Mathurin (lost ball; steal by J. Tatum),,4,109,95,14,2720.0
+2:37.0,J. Brown makes 2-pt dunk at rim (assist by J. Tatum),111-95, ,,4,111,95,16,2723.0
+2:29.0, ,111-95,T. Haliburton misses 3-pt jump shot from 29 ft,,4,111,95,16,2731.0
+2:24.0,Defensive rebound by J. Tatum,111-95, ,,4,111,95,16,2736.0
+2:08.0,D. White makes 2-pt layup from 1 ft (assist by J. Holiday),113-95, ,,4,113,95,18,2752.0
+1:57.0, ,113-95,T. Haliburton misses 2-pt jump shot from 13 ft,,4,113,95,18,2763.0
+1:54.0,Defensive rebound by A. Horford,113-95, ,,4,113,95,18,2766.0
+1:49.0,A. Horford misses 3-pt jump shot from 29 ft,113-95, ,,4,113,95,18,2771.0
+1:46.0, ,113-95,Defensive rebound by B. Sheppard,,4,113,95,18,2774.0
+1:39.0, ,113-97,B. Mathurin makes 2-pt jump shot from 6 ft,,4,113,97,16,2781.0
+1:17.0,J. Tatum makes 3-pt jump shot from 32 ft,116-97, ,,4,116,97,19,2803.0
+1:06.0, ,116-99,B. Mathurin makes 2-pt jump shot from 17 ft,,4,116,99,17,2814.0
+1:06.0,Boston full timeout,116-99, ,,4,116,99,17,2814.0
+1:06.0,D. Banton enters the game for J. Brown,116-99, ,,4,116,99,17,2814.0
+1:06.0,O. Brissett enters the game for J. Holiday,116-99, ,,4,116,99,17,2814.0
+1:06.0,L. Kornet enters the game for A. Horford,116-99, ,,4,116,99,17,2814.0
+1:06.0,S. Mykhailiuk enters the game for J. Tatum,116-99, ,,4,116,99,17,2814.0
+1:06.0,P. Pritchard enters the game for D. White,116-99, ,,4,116,99,17,2814.0
+1:06.0, ,116-99,K. Brown enters the game for T. Haliburton,,4,116,99,17,2814.0
+1:06.0, ,116-99,J. Nwora enters the game for B. Mathurin,,4,116,99,17,2814.0
+1:06.0, ,116-99,O. Tshiebwe enters the game for A. Nesmith,,4,116,99,17,2814.0
+1:06.0, ,116-99,J. Walker enters the game for M. Turner,,4,116,99,17,2814.0
+0:48.0,P. Pritchard misses 2-pt jump shot from 15 ft,116-99, ,,4,116,99,17,2832.0
+0:44.0,Offensive rebound by L. Kornet,116-99, ,,4,116,99,17,2836.0
+0:40.0,O. Brissett makes 2-pt layup from 1 ft (assist by L. Kornet),118-99, ,,4,118,99,19,2840.0
+0:31.0, ,118-101,O. Tshiebwe makes 2-pt jump shot from 19 ft (assist by J. Walker),,4,118,101,17,2849.0
+0:07.0,Turnover by Team (shot clock),118-101, ,,4,118,101,17,2873.0
+0:00.0,End of 4th quarter,118-101,,,4,118,101,17,2880.0

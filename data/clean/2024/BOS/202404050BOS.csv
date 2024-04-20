@@ -1,0 +1,448 @@
+Time,Sacramento,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Sabonis vs. K. Porziņģis (A. Horford gains possession),0-0,,,1,0,0,0,0.0
+11:45.0, ,0-0,S. Hauser misses 3-pt jump shot from 26 ft,,1,0,0,0,15.0
+11:43.0,Defensive rebound by H. Barnes,0-0, ,,1,0,0,0,17.0
+11:28.0,K. Ellis makes 3-pt jump shot from 27 ft (assist by D. Sabonis),3-0, ,,1,0,3,-3,32.0
+11:22.0, ,3-0,Turnover by J. Tatum (bad pass),,1,0,3,-3,38.0
+11:07.0,K. Ellis misses 2-pt jump shot from 15 ft,3-0, ,,1,0,3,-3,53.0
+11:06.0, ,3-0,Defensive rebound by K. Porziņģis,,1,0,3,-3,54.0
+10:53.0, ,3-0,A. Horford misses 3-pt jump shot from 26 ft,,1,0,3,-3,67.0
+10:51.0,Defensive rebound by D. Fox,3-0, ,,1,0,3,-3,69.0
+10:39.0,D. Fox misses 3-pt jump shot from 26 ft,3-0, ,,1,0,3,-3,81.0
+10:37.0, ,3-0,Defensive rebound by A. Horford,,1,0,3,-3,83.0
+10:25.0, ,3-0,J. Tatum misses 2-pt jump shot from 15 ft,,1,0,3,-3,95.0
+10:24.0,Defensive rebound by D. Sabonis,3-0, ,,1,0,3,-3,96.0
+10:10.0,K. Murray misses 3-pt jump shot from 24 ft,3-0, ,,1,0,3,-3,110.0
+10:08.0, ,3-0,Defensive rebound by J. Tatum,,1,0,3,-3,112.0
+9:56.0, ,3-0,S. Hauser misses 3-pt jump shot from 22 ft,,1,0,3,-3,124.0
+9:55.0,Defensive rebound by K. Murray,3-0, ,,1,0,3,-3,125.0
+9:48.0,Turnover by K. Murray (bad pass; steal by K. Porziņģis),3-0, ,,1,0,3,-3,132.0
+9:45.0, ,3-2,K. Porziņģis makes 2-pt dunk from 1 ft,,1,2,3,-1,135.0
+9:23.0,Turnover by D. Fox (bad pass; steal by K. Porziņģis),3-2, ,,1,2,3,-1,157.0
+9:17.0, ,3-2,J. Holiday misses 2-pt jump shot from 14 ft,,1,2,3,-1,163.0
+9:16.0,Defensive rebound by K. Ellis,3-2, ,,1,2,3,-1,164.0
+9:01.0,H. Barnes misses 3-pt jump shot from 24 ft,3-2, ,,1,2,3,-1,179.0
+8:59.0, ,3-2,Defensive rebound by K. Porziņģis,,1,2,3,-1,181.0
+8:50.0, ,3-2,S. Hauser misses 3-pt jump shot from 27 ft,,1,2,3,-1,190.0
+8:48.0,Defensive rebound by K. Murray,3-2, ,,1,2,3,-1,192.0
+8:38.0,D. Sabonis misses 2-pt jump shot from 7 ft (block by K. Porziņģis),3-2, ,,1,2,3,-1,202.0
+8:37.0, ,3-2,Defensive rebound by K. Porziņģis,,1,2,3,-1,203.0
+8:29.0, ,3-2,Shooting foul by K. Ellis (drawn by A. Horford),,1,2,3,-1,211.0
+8:29.0, ,3-2,A. Horford misses free throw 1 of 2,,1,2,3,-1,211.0
+8:29.0, ,3-2,Offensive rebound by Team,,1,2,3,-1,211.0
+8:29.0, ,3-3,A. Horford makes free throw 2 of 2,Tie,1,3,3,0,211.0
+8:12.0,D. Sabonis misses 2-pt jump shot from 15 ft,3-3, ,,1,3,3,0,228.0
+8:10.0, ,3-3,Defensive rebound by A. Horford,,1,3,3,0,230.0
+8:02.0, ,3-3,Turnover by J. Tatum (bad pass; steal by K. Murray),,1,3,3,0,238.0
+7:51.0,Turnover by D. Sabonis (traveling),3-3, ,,1,3,3,0,249.0
+7:31.0, ,3-3,J. Tatum misses 3-pt jump shot from 26 ft,,1,3,3,0,269.0
+7:30.0,Defensive rebound by D. Sabonis,3-3, ,,1,3,3,0,270.0
+7:19.0,Shooting foul by K. Porziņģis (drawn by H. Barnes),3-3, ,,1,3,3,0,281.0
+7:19.0,H. Barnes misses free throw 1 of 2,3-3, ,,1,3,3,0,281.0
+7:19.0,Offensive rebound by Team,3-3, ,,1,3,3,0,281.0
+7:19.0,H. Barnes makes free throw 2 of 2,4-3, ,,1,3,4,-1,281.0
+7:06.0, ,4-3,S. Hauser misses 3-pt jump shot from 25 ft,,1,3,4,-1,294.0
+7:05.0,Defensive rebound by K. Ellis,4-3, ,,1,3,4,-1,295.0
+6:52.0,D. Fox misses 3-pt jump shot from 26 ft,4-3, ,,1,3,4,-1,308.0
+6:51.0, ,4-3,Defensive rebound by J. Tatum,,1,3,4,-1,309.0
+6:41.0, ,4-3,Turnover by J. Tatum (lost ball; steal by D. Fox),,1,3,4,-1,319.0
+6:33.0,D. Sabonis makes 2-pt dunk from 1 ft (assist by K. Murray),6-3, ,,1,3,6,-3,327.0
+6:31.0, ,6-3,Boston full timeout,,1,3,6,-3,329.0
+6:16.0, ,6-3,K. Porziņģis misses 2-pt jump shot from 7 ft,,1,3,6,-3,344.0
+6:15.0,Defensive rebound by K. Murray,6-3, ,,1,3,6,-3,345.0
+5:56.0,H. Barnes makes 2-pt jump shot from 11 ft,8-3, ,,1,3,8,-5,364.0
+5:41.0, ,8-5,K. Porziņģis makes 2-pt layup from 3 ft (assist by J. Holiday),,1,5,8,-3,379.0
+5:32.0,H. Barnes misses 3-pt jump shot from 26 ft,8-5, ,,1,5,8,-3,388.0
+5:31.0, ,8-5,Defensive rebound by K. Porziņģis,,1,5,8,-3,389.0
+5:15.0, ,8-5,Shooting foul by K. Murray (drawn by J. Tatum),,1,5,8,-3,405.0
+5:15.0, ,8-6,J. Tatum makes free throw 1 of 2,,1,6,8,-2,405.0
+5:15.0,K. Edwards enters the game for K. Ellis,8-6, ,,1,6,8,-2,405.0
+5:15.0,D. Mitchell enters the game for D. Fox,8-6, ,,1,6,8,-2,405.0
+5:15.0, ,8-6,P. Pritchard enters the game for J. Holiday,,1,6,8,-2,405.0
+5:15.0, ,8-6,X. Tillman enters the game for A. Horford,,1,6,8,-2,405.0
+5:15.0, ,8-7,J. Tatum makes free throw 2 of 2,,1,7,8,-1,405.0
+4:56.0,K. Murray misses 3-pt jump shot from 26 ft,8-7, ,,1,7,8,-1,424.0
+4:54.0, ,8-7,Defensive rebound by S. Hauser,,1,7,8,-1,426.0
+4:43.0, ,8-10,X. Tillman makes 3-pt jump shot from 24 ft (assist by P. Pritchard),Lead change,1,10,8,2,437.0
+4:26.0,D. Sabonis makes 2-pt jump shot from 8 ft (assist by D. Mitchell),10-10, ,Tie,1,10,10,0,454.0
+4:26.0,Shooting foul by P. Pritchard (drawn by D. Sabonis),10-10, ,,1,10,10,0,454.0
+4:26.0,D. Sabonis makes free throw 1 of 1,11-10, ,Lead change,1,10,11,-1,454.0
+4:07.0, ,11-12,J. Tatum makes 2-pt jump shot from 15 ft,Lead change,1,12,11,1,473.0
+3:53.0,H. Barnes misses 3-pt jump shot from 26 ft,11-12, ,,1,12,11,1,487.0
+3:52.0, ,11-12,Defensive rebound by K. Porziņģis,,1,12,11,1,488.0
+3:42.0, ,11-15,K. Porziņģis makes 3-pt jump shot from 30 ft (assist by J. Tatum),,1,15,11,4,498.0
+3:40.0,Sacramento full timeout,11-15, ,,1,15,11,4,500.0
+3:40.0,T. Lyles enters the game for H. Barnes,11-15, ,,1,15,11,4,500.0
+3:40.0, ,11-15,L. Kornet enters the game for S. Hauser,,1,15,11,4,500.0
+3:40.0, ,11-15,S. Mykhailiuk enters the game for K. Porziņģis,,1,15,11,4,500.0
+3:22.0,D. Sabonis misses 2-pt jump shot from 14 ft,11-15, ,,1,15,11,4,518.0
+3:20.0, ,11-15,Defensive rebound by X. Tillman,,1,15,11,4,520.0
+3:20.0,D. Fox enters the game for K. Murray,11-15, ,,1,15,11,4,520.0
+3:15.0,Sacramento full timeout,11-15, ,,1,15,11,4,525.0
+3:15.0,K. Murray enters the game for D. Fox,11-15, ,,1,15,11,4,525.0
+3:15.0,Instant Replay (Challenge: Ruling Stands),11-15, ,,1,15,11,4,525.0
+3:15.0,D. Fox enters the game for K. Murray,11-15, ,,1,15,11,4,525.0
+3:15.0,A. Len enters the game for D. Sabonis,11-15, ,,1,15,11,4,525.0
+3:15.0, ,11-15,Turnover by P. Pritchard (lost ball; steal by K. Edwards),,1,15,11,4,525.0
+3:15.0,Jump ball: K. Edwards vs. L. Kornet (D. Mitchell gains possession),11-15,,,1,15,11,4,525.0
+2:57.0,D. Fox misses 3-pt jump shot from 28 ft,11-15, ,,1,15,11,4,543.0
+2:55.0,Offensive rebound by D. Mitchell,11-15, ,,1,15,11,4,545.0
+2:52.0,T. Lyles misses 3-pt jump shot from 23 ft,11-15, ,,1,15,11,4,548.0
+2:50.0, ,11-15,Defensive rebound by X. Tillman,,1,15,11,4,550.0
+2:31.0, ,11-18,P. Pritchard makes 3-pt jump shot from 23 ft (assist by X. Tillman),,1,18,11,7,569.0
+2:03.0,K. Edwards misses 3-pt jump shot from 24 ft,11-18, ,,1,18,11,7,597.0
+2:02.0, ,11-18,Defensive rebound by S. Mykhailiuk,,1,18,11,7,598.0
+1:43.0, ,11-20,X. Tillman makes 2-pt layup from 4 ft (assist by P. Pritchard),,1,20,11,9,617.0
+1:26.0,A. Len misses 2-pt hook shot from 9 ft,11-20, ,,1,20,11,9,634.0
+1:25.0, ,11-20,Defensive rebound by J. Tatum,,1,20,11,9,635.0
+1:19.0, ,11-20,J. Tatum misses 3-pt jump shot from 28 ft,,1,20,11,9,641.0
+1:18.0, ,11-20,Offensive rebound by L. Kornet,,1,20,11,9,642.0
+1:18.0, ,11-22,L. Kornet makes 2-pt dunk at rim,,1,22,11,11,642.0
+0:51.0,K. Edwards makes 3-pt jump shot from 28 ft (assist by D. Fox),14-22, ,,1,22,14,8,669.0
+0:34.0, ,14-22,Personal foul by T. Lyles (drawn by L. Kornet),,1,22,14,8,686.0
+0:34.0, ,14-22,Boston full timeout,,1,22,14,8,686.0
+0:34.0, ,14-22,Instant Replay (Challenge: Ruling Stands),,1,22,14,8,686.0
+0:34.0,A. Vezenkov enters the game for D. Mitchell,14-22, ,,1,22,14,8,686.0
+0:31.0, ,14-25,S. Mykhailiuk makes 3-pt jump shot from 25 ft (assist by J. Tatum),,1,25,14,11,689.0
+0:14.0,Shooting foul by P. Pritchard (drawn by D. Fox),14-25, ,,1,25,14,11,706.0
+0:14.0,D. Fox misses free throw 1 of 2,14-25, ,,1,25,14,11,706.0
+0:14.0,Offensive rebound by Team,14-25, ,,1,25,14,11,706.0
+0:14.0,K. Ellis enters the game for A. Len,14-25, ,,1,25,14,11,706.0
+0:14.0,D. Mitchell enters the game for A. Vezenkov,14-25, ,,1,25,14,11,706.0
+0:14.0,D. Fox makes free throw 2 of 2,15-25, ,,1,25,15,10,706.0
+0:03.0, ,15-27,J. Tatum makes 2-pt dunk from 1 ft,,1,27,15,12,717.0
+0:00.0,D. Fox misses 3-pt jump shot from 27 ft,15-27, ,,1,27,15,12,720.0
+0:00.0,Offensive rebound by Team,15-27, ,,1,27,15,12,720.0
+0:00.0,End of 1st quarter,15-27,,,1,27,15,12,720.0
+12:00.0,Start of 2nd quarter,15-27,,,2,27,15,12,720.0
+11:48.0,A. Vezenkov misses 3-pt jump shot from 27 ft,15-27, ,,2,27,15,12,732.0
+11:46.0, ,15-27,Defensive rebound by L. Kornet,,2,27,15,12,734.0
+11:28.0, ,15-29,J. Holiday makes 2-pt hook shot from 12 ft (assist by S. Hauser),,2,29,15,14,752.0
+11:11.0,D. Fox makes 2-pt jump shot from 14 ft,17-29, ,,2,29,17,12,769.0
+10:52.0, ,17-31,L. Kornet makes 2-pt dunk from 1 ft (assist by A. Horford),,2,31,17,14,788.0
+10:34.0,A. Vezenkov misses 3-pt jump shot from 24 ft,17-31, ,,2,31,17,14,806.0
+10:33.0, ,17-31,Defensive rebound by S. Hauser,,2,31,17,14,807.0
+10:23.0, ,17-31,J. Holiday misses 3-pt jump shot from 27 ft,,2,31,17,14,817.0
+10:22.0,Defensive rebound by T. Lyles,17-31, ,,2,31,17,14,818.0
+10:15.0,T. Lyles misses 2-pt layup from 5 ft (block by L. Kornet),17-31, ,,2,31,17,14,825.0
+10:14.0,Offensive rebound by Team,17-31, ,,2,31,17,14,826.0
+10:10.0,T. Lyles misses 2-pt layup from 3 ft (block by L. Kornet),17-31, ,,2,31,17,14,830.0
+10:09.0, ,17-31,Defensive rebound by A. Horford,,2,31,17,14,831.0
+9:57.0, ,17-31,A. Horford misses 3-pt jump shot from 26 ft,,2,31,17,14,843.0
+9:55.0, ,17-31,Offensive rebound by L. Kornet,,2,31,17,14,845.0
+9:51.0, ,17-31,S. Hauser misses 3-pt jump shot from 27 ft,,2,31,17,14,849.0
+9:50.0,Defensive rebound by A. Vezenkov,17-31, ,,2,31,17,14,850.0
+9:33.0,A. Vezenkov misses 3-pt jump shot from 24 ft,17-31, ,,2,31,17,14,867.0
+9:32.0, ,17-31,Defensive rebound by A. Horford,,2,31,17,14,868.0
+9:21.0, ,17-33,P. Pritchard makes 2-pt layup from 2 ft,,2,33,17,16,879.0
+9:21.0,Sacramento full timeout,17-33, ,,2,33,17,16,879.0
+9:08.0,T. Lyles misses 3-pt jump shot from 28 ft,17-33, ,,2,33,17,16,892.0
+9:05.0,Offensive rebound by D. Fox,17-33, ,,2,33,17,16,895.0
+9:05.0,D. Fox makes 2-pt layup at rim,19-33, ,,2,33,19,14,895.0
+8:40.0, ,19-35,J. Holiday makes 2-pt jump shot from 22 ft,,2,35,19,16,920.0
+8:29.0,D. Fox makes 2-pt layup from 2 ft,21-35, ,,2,35,21,14,931.0
+8:08.0, ,21-37,A. Horford makes 2-pt hook shot from 10 ft (assist by J. Holiday),,2,37,21,16,952.0
+7:53.0,K. Murray misses 3-pt jump shot from 27 ft,21-37, ,,2,37,21,16,967.0
+7:52.0, ,21-37,Defensive rebound by S. Hauser,,2,37,21,16,968.0
+7:41.0, ,21-37,S. Hauser misses 3-pt jump shot from 26 ft,,2,37,21,16,979.0
+7:40.0,Defensive rebound by K. Ellis,21-37, ,,2,37,21,16,980.0
+7:28.0,K. Murray makes 3-pt jump shot from 24 ft (assist by K. Ellis),24-37, ,,2,37,24,13,992.0
+7:12.0, ,24-40,P. Pritchard makes 3-pt jump shot from 28 ft (assist by J. Holiday),,2,40,24,16,1008.0
+6:58.0,K. Ellis misses 2-pt jump shot from 17 ft,24-40, ,,2,40,24,16,1022.0
+6:57.0, ,24-40,Defensive rebound by J. Holiday,,2,40,24,16,1023.0
+6:51.0, ,24-40,S. Hauser misses 2-pt jump shot from 10 ft,,2,40,24,16,1029.0
+6:50.0, ,24-40,Offensive rebound by J. Holiday,,2,40,24,16,1030.0
+6:47.0, ,24-40,P. Pritchard misses 3-pt jump shot from 24 ft,,2,40,24,16,1033.0
+6:45.0,Defensive rebound by A. Vezenkov,24-40, ,,2,40,24,16,1035.0
+6:35.0,D. Fox makes 3-pt jump shot from 26 ft,27-40, ,,2,40,27,13,1045.0
+6:17.0, ,27-42,J. Holiday makes 2-pt jump shot from 8 ft,,2,42,27,15,1063.0
+6:05.0,D. Fox makes 3-pt jump shot from 25 ft (assist by A. Vezenkov),30-42, ,,2,42,30,12,1075.0
+5:54.0, ,30-42,Personal foul by K. Murray (drawn by S. Hauser),,2,42,30,12,1086.0
+5:54.0,H. Barnes enters the game for K. Ellis,30-42, ,,2,42,30,12,1086.0
+5:54.0,D. Mitchell enters the game for T. Lyles,30-42, ,,2,42,30,12,1086.0
+5:54.0,D. Sabonis enters the game for A. Vezenkov,30-42, ,,2,42,30,12,1086.0
+5:54.0, ,30-42,K. Porziņģis enters the game for A. Horford,,2,42,30,12,1086.0
+5:54.0, ,30-42,J. Tatum enters the game for L. Kornet,,2,42,30,12,1086.0
+5:54.0, ,30-42,X. Tillman enters the game for P. Pritchard,,2,42,30,12,1086.0
+5:48.0, ,30-44,J. Holiday makes 2-pt hook shot from 12 ft,,2,44,30,14,1092.0
+5:35.0,H. Barnes makes 3-pt jump shot from 24 ft (assist by K. Murray),33-44, ,,2,44,33,11,1105.0
+5:23.0, ,33-46,K. Porziņģis makes 2-pt jump shot from 15 ft (assist by J. Tatum),,2,46,33,13,1117.0
+5:06.0,D. Fox misses 2-pt jump shot from 18 ft,33-46, ,,2,46,33,13,1134.0
+5:05.0, ,33-46,Defensive rebound by K. Porziņģis,,2,46,33,13,1135.0
+4:50.0, ,33-46,J. Tatum misses 3-pt jump shot from 26 ft,,2,46,33,13,1150.0
+4:49.0, ,33-46,Offensive rebound by X. Tillman,,2,46,33,13,1151.0
+4:45.0, ,33-49,K. Porziņģis makes 3-pt jump shot from 27 ft (assist by X. Tillman),,2,49,33,16,1155.0
+4:29.0,D. Mitchell misses 3-pt jump shot from 26 ft,33-49, ,,2,49,33,16,1171.0
+4:27.0, ,33-49,Defensive rebound by J. Holiday,,2,49,33,16,1173.0
+4:21.0, ,33-49,J. Holiday misses 3-pt jump shot from 26 ft,,2,49,33,16,1179.0
+4:20.0,Defensive rebound by H. Barnes,33-49, ,,2,49,33,16,1180.0
+4:06.0,H. Barnes misses 3-pt jump shot from 24 ft,33-49, ,,2,49,33,16,1194.0
+4:05.0,Offensive rebound by Team,33-49, ,,2,49,33,16,1195.0
+4:05.0, ,33-49,Loose ball foul by K. Porziņģis (drawn by D. Sabonis),,2,49,33,16,1195.0
+3:52.0,D. Fox makes 2-pt layup from 6 ft,35-49, ,,2,49,35,14,1208.0
+3:35.0, ,35-49,K. Porziņģis misses 2-pt jump shot from 7 ft,,2,49,35,14,1225.0
+3:34.0,Defensive rebound by D. Sabonis,35-49, ,,2,49,35,14,1226.0
+3:29.0,D. Mitchell makes 2-pt layup from 3 ft (assist by D. Sabonis),37-49, ,,2,49,37,12,1231.0
+3:29.0, ,37-49,Boston full timeout,,2,49,37,12,1231.0
+3:29.0, ,37-49,P. Pritchard enters the game for S. Hauser,,2,49,37,12,1231.0
+3:16.0, ,37-52,P. Pritchard makes 3-pt jump shot from 26 ft (assist by K. Porziņģis),,2,52,37,15,1244.0
+3:01.0,D. Fox makes 3-pt jump shot from 26 ft (assist by D. Mitchell),40-52, ,,2,52,40,12,1259.0
+2:45.0, ,40-52,J. Tatum misses 3-pt jump shot from 27 ft,,2,52,40,12,1275.0
+2:44.0,Defensive rebound by D. Sabonis,40-52, ,,2,52,40,12,1276.0
+2:37.0,K. Murray makes 3-pt jump shot from 23 ft (assist by H. Barnes),43-52, ,,2,52,43,9,1283.0
+2:09.0, ,43-52,P. Pritchard misses 3-pt jump shot from 29 ft,,2,52,43,9,1311.0
+2:07.0,Defensive rebound by K. Murray,43-52, ,,2,52,43,9,1313.0
+1:59.0,D. Fox makes 3-pt jump shot from 28 ft (assist by K. Murray),46-52, ,,2,52,46,6,1321.0
+1:47.0, ,46-52,Turnover by J. Holiday (out of bounds lost ball),,2,52,46,6,1333.0
+1:37.0,D. Sabonis makes 2-pt dunk at rim (assist by D. Mitchell),48-52, ,,2,52,48,4,1343.0
+1:18.0, ,48-54,J. Tatum makes 2-pt layup from 2 ft (assist by K. Porziņģis),,2,54,48,6,1362.0
+1:04.0,D. Mitchell makes 2-pt layup from 2 ft,50-54, ,,2,54,50,4,1376.0
+0:52.0, ,50-54,J. Tatum misses 2-pt layup from 4 ft,,2,54,50,4,1388.0
+0:49.0,Defensive rebound by D. Fox,50-54, ,,2,54,50,4,1391.0
+0:49.0, ,50-54,S. Hauser enters the game for X. Tillman,,2,54,50,4,1391.0
+0:31.0,D. Fox misses 3-pt jump shot from 28 ft,50-54, ,,2,54,50,4,1409.0
+0:28.0, ,50-54,Defensive rebound by Team,,2,54,50,4,1412.0
+0:28.0,Loose ball foul by D. Sabonis (drawn by J. Tatum),50-54, ,,2,54,50,4,1412.0
+0:05.0, ,50-54,S. Hauser misses 3-pt jump shot from 24 ft,,2,54,50,4,1435.0
+0:03.0,Defensive rebound by D. Mitchell,50-54, ,,2,54,50,4,1437.0
+0:00.0,End of 2nd quarter,50-54,,,2,54,50,4,1440.0
+12:00.0,Start of 3rd quarter,50-54,,,3,54,50,4,1440.0
+11:43.0,D. Fox misses 2-pt jump shot from 16 ft,50-54, ,,3,54,50,4,1457.0
+11:42.0,Offensive rebound by D. Sabonis,50-54, ,,3,54,50,4,1458.0
+11:39.0,D. Sabonis misses 2-pt layup from 4 ft (block by A. Horford),50-54, ,,3,54,50,4,1461.0
+11:38.0, ,50-54,Defensive rebound by A. Horford,,3,54,50,4,1462.0
+11:22.0, ,50-57,S. Hauser makes 3-pt jump shot from 24 ft (assist by J. Tatum),,3,57,50,7,1478.0
+11:04.0,K. Murray misses 3-pt jump shot from 25 ft,50-57, ,,3,57,50,7,1496.0
+11:03.0,Offensive rebound by D. Sabonis,50-57, ,,3,57,50,7,1497.0
+11:02.0,Personal foul by P. Pritchard (drawn by D. Sabonis),50-57, ,,3,57,50,7,1498.0
+10:49.0,D. Sabonis makes 2-pt layup from 6 ft,52-57, ,,3,57,52,5,1511.0
+10:32.0, ,52-60,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Holiday),,3,60,52,8,1528.0
+10:17.0,Turnover by D. Sabonis (lost ball; steal by P. Pritchard),52-60, ,,3,60,52,8,1543.0
+10:17.0, ,52-60,K. Porziņģis enters the game for P. Pritchard,,3,60,52,8,1543.0
+9:58.0, ,52-62,J. Holiday makes 2-pt jump shot from 13 ft,,3,62,52,10,1562.0
+9:51.0,H. Barnes misses 3-pt jump shot from 24 ft,52-62, ,,3,62,52,10,1569.0
+9:50.0, ,52-62,Defensive rebound by S. Hauser,,3,62,52,10,1570.0
+9:35.0, ,52-64,A. Horford makes 2-pt layup from 2 ft (assist by S. Hauser),,3,64,52,12,1585.0
+9:34.0,Sacramento full timeout,52-64, ,,3,64,52,12,1586.0
+9:25.0,H. Barnes misses 3-pt jump shot from 25 ft,52-64, ,,3,64,52,12,1595.0
+9:22.0,Offensive rebound by K. Murray,52-64, ,,3,64,52,12,1598.0
+9:13.0,D. Fox misses 2-pt jump shot from 14 ft,52-64, ,,3,64,52,12,1607.0
+9:12.0, ,52-64,Defensive rebound by K. Porziņģis,,3,64,52,12,1608.0
+9:02.0, ,52-64,Shooting foul by D. Fox (drawn by K. Porziņģis),,3,64,52,12,1618.0
+9:02.0, ,52-65,K. Porziņģis makes free throw 1 of 2,,3,65,52,13,1618.0
+9:02.0,D. Mitchell enters the game for D. Fox,52-65, ,,3,65,52,13,1618.0
+9:02.0, ,52-66,K. Porziņģis makes free throw 2 of 2,,3,66,52,14,1618.0
+8:52.0,D. Mitchell misses 2-pt jump shot from 13 ft,52-66, ,,3,66,52,14,1628.0
+8:50.0, ,52-66,Defensive rebound by Team,,3,66,52,14,1630.0
+8:50.0,D. Fox enters the game for K. Ellis,52-66, ,,3,66,52,14,1630.0
+8:50.0, ,52-66,Boston full timeout,,3,66,52,14,1630.0
+8:50.0,K. Ellis enters the game for D. Fox,52-66, ,,3,66,52,14,1630.0
+8:50.0, ,52-66,Instant Replay (Challenge: Ruling Stands),,3,66,52,14,1630.0
+8:26.0, ,52-66,S. Hauser misses 2-pt jump shot from 14 ft,,3,66,52,14,1654.0
+8:25.0,Defensive rebound by D. Sabonis,52-66, ,,3,66,52,14,1655.0
+8:11.0,K. Murray misses 2-pt jump shot from 17 ft,52-66, ,,3,66,52,14,1669.0
+8:10.0, ,52-66,Defensive rebound by S. Hauser,,3,66,52,14,1670.0
+7:55.0, ,52-66,S. Hauser misses 3-pt jump shot from 26 ft,,3,66,52,14,1685.0
+7:53.0, ,52-66,Offensive rebound by K. Porziņģis,,3,66,52,14,1687.0
+7:51.0, ,52-66,Turnover by K. Porziņģis (bad pass),,3,66,52,14,1689.0
+7:37.0,K. Murray misses 3-pt jump shot from 25 ft,52-66, ,,3,66,52,14,1703.0
+7:35.0,Offensive rebound by Team,52-66, ,,3,66,52,14,1705.0
+7:33.0,D. Fox makes 2-pt layup from 6 ft (assist by D. Mitchell),54-66, ,,3,66,54,12,1707.0
+7:18.0, ,54-66,A. Horford misses 3-pt jump shot from 24 ft,,3,66,54,12,1722.0
+7:16.0,Defensive rebound by D. Mitchell,54-66, ,,3,66,54,12,1724.0
+7:00.0,D. Mitchell misses 3-pt jump shot from 28 ft,54-66, ,,3,66,54,12,1740.0
+6:59.0,Offensive rebound by H. Barnes,54-66, ,,3,66,54,12,1741.0
+6:54.0,D. Mitchell makes 3-pt jump shot from 24 ft (assist by D. Sabonis),57-66, ,,3,66,57,9,1746.0
+6:31.0, ,57-66,J. Tatum misses 2-pt layup from 3 ft,,3,66,57,9,1769.0
+6:30.0,Defensive rebound by D. Sabonis,57-66, ,,3,66,57,9,1770.0
+6:23.0,D. Fox misses 2-pt layup from 4 ft,57-66, ,,3,66,57,9,1777.0
+6:21.0, ,57-66,Defensive rebound by A. Horford,,3,66,57,9,1779.0
+6:18.0, ,57-66,A. Horford misses 3-pt jump shot from 26 ft,,3,66,57,9,1782.0
+6:16.0,Defensive rebound by D. Sabonis,57-66, ,,3,66,57,9,1784.0
+6:10.0,D. Sabonis makes 2-pt layup from 6 ft,59-66, ,,3,66,59,7,1790.0
+5:49.0, ,59-66,K. Porziņģis misses 2-pt jump shot from 15 ft,,3,66,59,7,1811.0
+5:48.0,Defensive rebound by D. Fox,59-66, ,,3,66,59,7,1812.0
+5:33.0,D. Fox makes 3-pt jump shot from 27 ft (assist by D. Sabonis),62-66, ,,3,66,62,4,1827.0
+5:18.0, ,62-68,J. Tatum makes 2-pt dunk at rim (assist by J. Holiday),,3,68,62,6,1842.0
+5:06.0,D. Mitchell misses 3-pt jump shot from 24 ft,62-68, ,,3,68,62,6,1854.0
+5:05.0, ,62-68,Defensive rebound by K. Porziņģis,,3,68,62,6,1855.0
+4:48.0, ,62-68,Shooting foul by D. Mitchell (drawn by J. Tatum),,3,68,62,6,1872.0
+4:48.0, ,62-69,J. Tatum makes free throw 1 of 2,,3,69,62,7,1872.0
+4:48.0,K. Edwards enters the game for H. Barnes,62-69, ,,3,69,62,7,1872.0
+4:48.0,T. Lyles enters the game for D. Fox,62-69, ,,3,69,62,7,1872.0
+4:48.0, ,62-69,P. Pritchard enters the game for A. Horford,,3,69,62,7,1872.0
+4:48.0, ,62-70,J. Tatum makes free throw 2 of 2,,3,70,62,8,1872.0
+4:34.0,D. Mitchell misses 2-pt layup from 5 ft,62-70, ,,3,70,62,8,1886.0
+4:33.0,Offensive rebound by D. Sabonis,62-70, ,,3,70,62,8,1887.0
+4:31.0,T. Lyles makes 3-pt jump shot from 27 ft (assist by D. Sabonis),65-70, ,,3,70,65,5,1889.0
+4:18.0, ,65-72,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Holiday),,3,72,65,7,1902.0
+3:55.0,Shooting foul by S. Hauser (drawn by D. Sabonis),65-72, ,,3,72,65,7,1925.0
+3:55.0,D. Sabonis makes free throw 1 of 2,66-72, ,,3,72,66,6,1925.0
+3:55.0,D. Sabonis makes free throw 2 of 2,67-72, ,,3,72,67,5,1925.0
+3:46.0, ,67-72,J. Tatum misses 3-pt jump shot from 27 ft,,3,72,67,5,1934.0
+3:44.0,Defensive rebound by D. Mitchell,67-72, ,,3,72,67,5,1936.0
+3:20.0,Shooting foul by K. Porziņģis (drawn by D. Sabonis),67-72, ,,3,72,67,5,1960.0
+3:20.0,D. Sabonis misses free throw 1 of 2,67-72, ,,3,72,67,5,1960.0
+3:20.0,Offensive rebound by Team,67-72, ,,3,72,67,5,1960.0
+3:20.0,D. Sabonis misses free throw 2 of 2,67-72, ,,3,72,67,5,1960.0
+3:20.0, ,67-72,Defensive rebound by K. Porziņģis,,3,72,67,5,1960.0
+3:07.0, ,67-72,Shooting foul by D. Mitchell (drawn by J. Tatum),,3,72,67,5,1973.0
+3:07.0, ,67-72,J. Tatum misses free throw 1 of 2,,3,72,67,5,1973.0
+3:07.0, ,67-72,Offensive rebound by Team,,3,72,67,5,1973.0
+3:07.0,D. Fox enters the game for K. Murray,67-72, ,,3,72,67,5,1973.0
+3:07.0, ,67-73,J. Tatum makes free throw 2 of 2,,3,73,67,6,1973.0
+2:55.0,K. Edwards misses 3-pt jump shot from 26 ft,67-73, ,,3,73,67,6,1985.0
+2:54.0, ,67-73,Defensive rebound by J. Tatum,,3,73,67,6,1986.0
+2:42.0, ,67-73,P. Pritchard misses 3-pt jump shot from 27 ft,,3,73,67,6,1998.0
+2:41.0,Defensive rebound by K. Edwards,67-73, ,,3,73,67,6,1999.0
+2:34.0,D. Sabonis misses 2-pt layup from 3 ft,67-73, ,,3,73,67,6,2006.0
+2:33.0, ,67-73,Defensive rebound by J. Holiday,,3,73,67,6,2007.0
+2:28.0, ,67-73,S. Hauser misses 3-pt jump shot from 28 ft,,3,73,67,6,2012.0
+2:26.0,Defensive rebound by D. Sabonis,67-73, ,,3,73,67,6,2014.0
+2:19.0,T. Lyles misses 3-pt jump shot from 26 ft,67-73, ,,3,73,67,6,2021.0
+2:18.0, ,67-73,Defensive rebound by J. Tatum,,3,73,67,6,2022.0
+2:15.0, ,67-73,Shooting foul by D. Fox (drawn by K. Porziņģis),,3,73,67,6,2025.0
+2:15.0, ,67-74,K. Porziņģis makes free throw 1 of 2,,3,74,67,7,2025.0
+2:15.0,A. Vezenkov enters the game for D. Sabonis,67-74, ,,3,74,67,7,2025.0
+2:15.0, ,67-75,K. Porziņģis makes free throw 2 of 2,,3,75,67,8,2025.0
+2:01.0,A. Vezenkov makes 3-pt jump shot from 23 ft (assist by D. Mitchell),70-75, ,,3,75,70,5,2039.0
+1:42.0, ,70-78,P. Pritchard makes 3-pt jump shot from 24 ft (assist by J. Holiday),,3,78,70,8,2058.0
+1:21.0,K. Edwards misses 2-pt layup from 6 ft,70-78, ,,3,78,70,8,2079.0
+1:19.0, ,70-78,Defensive rebound by K. Porziņģis,,3,78,70,8,2081.0
+1:04.0, ,70-78,Personal foul by A. Vezenkov (drawn by J. Tatum),,3,78,70,8,2096.0
+1:04.0, ,70-78,J. Tatum misses free throw 1 of 2,,3,78,70,8,2096.0
+1:04.0, ,70-78,Offensive rebound by Team,,3,78,70,8,2096.0
+1:04.0,K. Ellis enters the game for D. Mitchell,70-78, ,,3,78,70,8,2096.0
+1:04.0, ,70-79,J. Tatum makes free throw 2 of 2,,3,79,70,9,2096.0
+0:46.0,Turnover by K. Ellis (bad pass; steal by P. Pritchard),70-79, ,,3,79,70,9,2114.0
+0:41.0, ,70-81,K. Porziņģis makes 2-pt dunk at rim (assist by S. Hauser),,3,81,70,11,2119.0
+0:27.0,K. Edwards misses 3-pt jump shot from 24 ft,70-81, ,,3,81,70,11,2133.0
+0:24.0,Offensive rebound by K. Ellis,70-81, ,,3,81,70,11,2136.0
+0:23.0,D. Fox makes 2-pt layup from 3 ft (assist by K. Ellis),72-81, ,,3,81,72,9,2137.0
+0:02.0, ,72-84,J. Tatum makes 3-pt jump shot from 28 ft (assist by P. Pritchard),,3,84,72,12,2158.0
+0:00.0,T. Lyles misses 3-pt jump shot from 55 ft,72-84, ,,3,84,72,12,2160.0
+0:00.0,Offensive rebound by Team,72-84, ,,3,84,72,12,2160.0
+0:00.0,End of 3rd quarter,72-84,,,3,84,72,12,2160.0
+12:00.0,Start of 4th quarter,72-84,,,4,84,72,12,2160.0
+11:42.0, ,72-86,L. Kornet makes 2-pt layup from 1 ft (assist by J. Tatum),,4,86,72,14,2178.0
+11:29.0,Turnover by D. Mitchell (lost ball; steal by L. Kornet),72-86, ,,4,86,72,14,2191.0
+11:24.0, ,72-86,J. Tatum misses 2-pt layup from 2 ft,,4,86,72,14,2196.0
+11:21.0, ,72-86,Offensive rebound by P. Pritchard,,4,86,72,14,2199.0
+11:09.0, ,72-86,J. Tatum misses 2-pt jump shot from 17 ft,,4,86,72,14,2211.0
+11:06.0,Defensive rebound by T. Lyles,72-86, ,,4,86,72,14,2214.0
+11:00.0,A. Vezenkov misses 3-pt jump shot from 24 ft,72-86, ,,4,86,72,14,2220.0
+10:59.0,Offensive rebound by K. Murray,72-86, ,,4,86,72,14,2221.0
+10:59.0,K. Murray makes 2-pt layup from 2 ft,74-86, ,,4,86,74,12,2221.0
+10:35.0, ,74-88,P. Pritchard makes 2-pt jump shot from 19 ft,,4,88,74,14,2245.0
+10:27.0,D. Fox misses 3-pt jump shot from 26 ft,74-88, ,,4,88,74,14,2253.0
+10:25.0,Offensive rebound by D. Mitchell,74-88, ,,4,88,74,14,2255.0
+10:10.0,K. Murray misses 3-pt jump shot from 25 ft,74-88, ,,4,88,74,14,2270.0
+10:09.0, ,74-88,Defensive rebound by J. Tatum,,4,88,74,14,2271.0
+9:57.0, ,74-88,P. Pritchard misses 3-pt jump shot from 29 ft,,4,88,74,14,2283.0
+9:54.0,Defensive rebound by D. Mitchell,74-88, ,,4,88,74,14,2286.0
+9:48.0,K. Murray misses 3-pt jump shot from 26 ft,74-88, ,,4,88,74,14,2292.0
+9:45.0,Offensive rebound by K. Murray,74-88, ,,4,88,74,14,2295.0
+9:41.0,K. Murray makes 2-pt jump shot from 15 ft,76-88, ,,4,88,76,12,2299.0
+9:28.0, ,76-88,X. Tillman misses 3-pt jump shot from 23 ft,,4,88,76,12,2312.0
+9:24.0, ,76-88,Offensive rebound by S. Mykhailiuk,,4,88,76,12,2316.0
+9:24.0, ,76-90,S. Mykhailiuk makes 2-pt layup from 3 ft,,4,90,76,14,2316.0
+9:24.0,Sacramento full timeout,76-90, ,,4,90,76,14,2316.0
+9:24.0,D. Sabonis enters the game for T. Lyles,76-90, ,,4,90,76,14,2316.0
+9:24.0, ,76-90,J. Walsh enters the game for J. Tatum,,4,90,76,14,2316.0
+9:06.0,K. Murray misses 2-pt jump shot from 18 ft,76-90, ,,4,90,76,14,2334.0
+9:04.0, ,76-90,Defensive rebound by L. Kornet,,4,90,76,14,2336.0
+8:40.0, ,76-90,L. Kornet misses 2-pt layup from 7 ft,,4,90,76,14,2360.0
+8:38.0, ,76-90,Offensive rebound by J. Walsh,,4,90,76,14,2362.0
+8:32.0, ,76-90,J. Walsh misses 3-pt jump shot from 26 ft,,4,90,76,14,2368.0
+8:31.0,Defensive rebound by K. Murray,76-90, ,,4,90,76,14,2369.0
+8:18.0,A. Vezenkov misses 2-pt layup from 9 ft,76-90, ,,4,90,76,14,2382.0
+8:17.0,Offensive rebound by D. Sabonis,76-90, ,,4,90,76,14,2383.0
+8:10.0,D. Sabonis misses 2-pt layup from 8 ft,76-90, ,,4,90,76,14,2390.0
+8:09.0, ,76-90,Defensive rebound by X. Tillman,,4,90,76,14,2391.0
+7:53.0, ,76-92,P. Pritchard makes 2-pt jump shot from 19 ft,,4,92,76,16,2407.0
+7:35.0,A. Vezenkov makes 3-pt jump shot from 27 ft (assist by D. Sabonis),79-92, ,,4,92,79,13,2425.0
+7:23.0, ,79-92,Personal foul by A. Vezenkov (drawn by P. Pritchard),,4,92,79,13,2437.0
+7:14.0, ,79-94,X. Tillman makes 2-pt layup from 1 ft (assist by S. Mykhailiuk),,4,94,79,15,2446.0
+7:00.0,K. Murray misses 3-pt jump shot from 25 ft,79-94, ,,4,94,79,15,2460.0
+6:59.0, ,79-94,Defensive rebound by L. Kornet,,4,94,79,15,2461.0
+6:44.0, ,79-97,P. Pritchard makes 3-pt jump shot from 26 ft (assist by L. Kornet),,4,97,79,18,2476.0
+6:42.0,Sacramento full timeout,79-97, ,,4,97,79,18,2478.0
+6:42.0,H. Barnes enters the game for A. Vezenkov,79-97, ,,4,97,79,18,2478.0
+6:42.0, ,79-97,O. Brissett enters the game for S. Mykhailiuk,,4,97,79,18,2478.0
+6:42.0, ,79-97,S. Hauser enters the game for X. Tillman,,4,97,79,18,2478.0
+6:31.0,D. Fox misses 2-pt jump shot from 15 ft,79-97, ,,4,97,79,18,2489.0
+6:30.0,Offensive rebound by D. Sabonis,79-97, ,,4,97,79,18,2490.0
+6:30.0,D. Sabonis misses 2-pt layup at rim,79-97, ,,4,97,79,18,2490.0
+6:28.0, ,79-97,Defensive rebound by Team,,4,97,79,18,2492.0
+6:09.0, ,79-97,P. Pritchard misses 3-pt jump shot from 32 ft,,4,97,79,18,2511.0
+6:08.0, ,79-97,Offensive rebound by O. Brissett,,4,97,79,18,2512.0
+6:06.0, ,79-97,Shooting foul by D. Mitchell (drawn by O. Brissett),,4,97,79,18,2514.0
+6:06.0, ,79-98,O. Brissett makes free throw 1 of 2,,4,98,79,19,2514.0
+6:06.0, ,79-98,O. Brissett misses free throw 2 of 2,,4,98,79,19,2514.0
+6:06.0,Defensive rebound by H. Barnes,79-98, ,,4,98,79,19,2514.0
+5:49.0,Shooting foul by J. Walsh (drawn by H. Barnes),79-98, ,,4,98,79,19,2531.0
+5:49.0,H. Barnes makes free throw 1 of 2,80-98, ,,4,98,80,18,2531.0
+5:49.0,C. Jones enters the game for D. Mitchell,80-98, ,,4,98,80,18,2531.0
+5:49.0,H. Barnes misses free throw 2 of 2,80-98, ,,4,98,80,18,2531.0
+5:49.0, ,80-98,Defensive rebound by S. Hauser,,4,98,80,18,2531.0
+5:31.0, ,80-98,S. Hauser misses 3-pt jump shot from 24 ft,,4,98,80,18,2549.0
+5:30.0,Defensive rebound by K. Murray,80-98, ,,4,98,80,18,2550.0
+5:22.0,C. Jones makes 2-pt jump shot from 7 ft (assist by K. Murray),82-98, ,,4,98,82,16,2558.0
+5:05.0, ,82-98,Personal foul by C. Jones (drawn by S. Hauser),,4,98,82,16,2575.0
+5:02.0, ,82-98,Turnover by O. Brissett (bad pass; steal by D. Sabonis),,4,98,82,16,2578.0
+4:59.0,D. Sabonis makes 2-pt dunk from 1 ft,84-98, ,,4,98,84,14,2581.0
+4:37.0, ,84-98,Personal foul by C. Jones (drawn by S. Hauser),,4,98,84,14,2603.0
+4:25.0, ,84-98,S. Hauser misses 2-pt jump shot from 16 ft,,4,98,84,14,2615.0
+4:24.0, ,84-98,Offensive rebound by O. Brissett,,4,98,84,14,2616.0
+4:14.0, ,84-98,P. Pritchard misses 2-pt jump shot from 16 ft (block by C. Jones),,4,98,84,14,2626.0
+4:13.0, ,84-98,Offensive rebound by S. Hauser,,4,98,84,14,2627.0
+4:10.0, ,84-98,S. Hauser misses 3-pt jump shot from 38 ft,,4,98,84,14,2630.0
+4:09.0, ,84-98,Offensive rebound by Team,,4,98,84,14,2631.0
+4:09.0, ,84-98,Turnover by Team (shot clock),,4,98,84,14,2631.0
+3:59.0,D. Fox makes 2-pt jump shot from 10 ft,86-98, ,,4,98,86,12,2641.0
+3:35.0, ,86-98,P. Pritchard misses 2-pt jump shot from 13 ft,,4,98,86,12,2665.0
+3:32.0,Defensive rebound by D. Sabonis,86-98, ,,4,98,86,12,2668.0
+3:26.0,Shooting foul by L. Kornet (drawn by D. Sabonis),86-98, ,,4,98,86,12,2674.0
+3:26.0,D. Sabonis misses free throw 1 of 2,86-98, ,,4,98,86,12,2674.0
+3:26.0,Offensive rebound by Team,86-98, ,,4,98,86,12,2674.0
+3:26.0, ,86-98,X. Tillman enters the game for L. Kornet,,4,98,86,12,2674.0
+3:26.0,D. Sabonis makes free throw 2 of 2,87-98, ,,4,98,87,11,2674.0
+3:11.0, ,87-98,X. Tillman misses 2-pt hook shot from 11 ft,,4,98,87,11,2689.0
+3:10.0,Defensive rebound by C. Jones,87-98, ,,4,98,87,11,2690.0
+3:04.0,Personal foul by O. Brissett (drawn by D. Sabonis),87-98, ,,4,98,87,11,2696.0
+2:58.0,D. Fox makes 2-pt layup from 6 ft,89-98, ,,4,98,89,9,2702.0
+2:58.0, ,89-98,Boston full timeout,,4,98,89,9,2702.0
+2:58.0, ,89-98,S. Mykhailiuk enters the game for J. Walsh,,4,98,89,9,2702.0
+2:40.0, ,89-98,X. Tillman misses 3-pt jump shot from 25 ft,,4,98,89,9,2720.0
+2:37.0,Defensive rebound by H. Barnes,89-98, ,,4,98,89,9,2723.0
+2:27.0,D. Fox makes 3-pt jump shot from 26 ft,92-98, ,,4,98,92,6,2733.0
+2:13.0, ,92-98,Shooting foul by C. Jones (drawn by O. Brissett),,4,98,92,6,2747.0
+2:13.0, ,92-98,O. Brissett misses free throw 1 of 2,,4,98,92,6,2747.0
+2:13.0, ,92-98,Offensive rebound by Team,,4,98,92,6,2747.0
+2:13.0, ,92-99,O. Brissett makes free throw 2 of 2,,4,99,92,7,2747.0
+2:00.0,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Fox),95-99, ,,4,99,95,4,2760.0
+1:40.0, ,95-99,S. Mykhailiuk misses 3-pt jump shot from 26 ft,,4,99,95,4,2780.0
+1:38.0, ,95-99,Offensive rebound by O. Brissett,,4,99,95,4,2782.0
+1:33.0, ,95-99,S. Hauser misses 2-pt jump shot from 7 ft,,4,99,95,4,2787.0
+1:31.0,Defensive rebound by D. Sabonis,95-99, ,,4,99,95,4,2789.0
+1:22.0,D. Fox misses 2-pt jump shot from 16 ft,95-99, ,,4,99,95,4,2798.0
+1:21.0, ,95-99,Defensive rebound by O. Brissett,,4,99,95,4,2799.0
+1:05.0, ,95-99,S. Hauser misses 3-pt jump shot from 26 ft,,4,99,95,4,2815.0
+1:04.0,Defensive rebound by D. Sabonis,95-99, ,,4,99,95,4,2816.0
+1:03.0,Personal foul by O. Brissett (drawn by D. Sabonis),95-99, ,,4,99,95,4,2817.0
+0:56.0,D. Fox makes 2-pt layup from 5 ft,97-99, ,,4,99,97,2,2824.0
+0:35.0, ,97-99,P. Pritchard misses 2-pt jump shot from 15 ft (block by D. Sabonis),,4,99,97,2,2845.0
+0:33.0,Defensive rebound by C. Jones,97-99, ,,4,99,97,2,2847.0
+0:27.0,D. Fox makes 3-pt jump shot from 27 ft,100-99, ,Lead change,4,99,100,-1,2853.0
+0:12.0, ,100-99,S. Hauser misses 2-pt jump shot from 8 ft (block by K. Murray),,4,99,100,-1,2868.0
+0:11.0,Defensive rebound by K. Murray,100-99, ,,4,99,100,-1,2869.0
+0:10.0,Turnover by K. Murray (lost ball; steal by S. Hauser),100-99, ,,4,99,100,-1,2870.0
+0:07.0, ,100-101,X. Tillman makes 2-pt jump shot from 13 ft,Lead change,4,101,100,1,2873.0
+0:07.0,Sacramento full timeout,100-101, ,,4,101,100,1,2873.0
+0:05.0,D. Fox misses 2-pt jump shot from 17 ft,100-101, ,,4,101,100,1,2875.0
+0:03.0,Offensive rebound by K. Murray,100-101, ,,4,101,100,1,2877.0
+0:03.0,K. Murray misses 2-pt layup from 7 ft,100-101, ,,4,101,100,1,2877.0
+0:01.0,Offensive rebound by C. Jones,100-101, ,,4,101,100,1,2879.0
+0:01.0,C. Jones misses 2-pt layup from 4 ft,100-101, ,,4,101,100,1,2879.0
+0:00.0,Offensive rebound by Team,100-101, ,,4,101,100,1,2880.0
+0:00.0,End of 4th quarter,100-101,,,4,101,100,1,2880.0

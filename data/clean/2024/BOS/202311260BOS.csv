@@ -1,0 +1,474 @@
+Time,Atlanta,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. A. Horford (J. Brown gains possession),0-0,,,1,0,0,0,0.0
+11:43.0, ,0-2,A. Horford makes 2-pt layup from 3 ft (assist by J. Tatum),,1,2,0,2,17.0
+11:17.0,Turnover by D. Murray (bad pass; steal by J. Tatum),0-2, ,,1,2,0,2,43.0
+11:08.0, ,0-5,J. Tatum makes 3-pt jump shot from 25 ft (assist by D. White),,1,5,0,5,52.0
+10:53.0,Turnover by C. Capela (bad pass),0-5, ,,1,5,0,5,67.0
+10:45.0, ,0-5,Turnover by J. Tatum (bad pass; steal by D. Hunter),,1,5,0,5,75.0
+10:40.0,D. Murray misses 2-pt layup from 6 ft,0-5, ,,1,5,0,5,80.0
+10:38.0, ,0-5,Defensive rebound by J. Tatum,,1,5,0,5,82.0
+10:36.0, ,0-5,A. Horford misses 3-pt jump shot from 26 ft,,1,5,0,5,84.0
+10:35.0,Defensive rebound by S. Bey,0-5, ,,1,5,0,5,85.0
+10:25.0,T. Young makes 2-pt layup from 4 ft,2-5, ,,1,5,2,3,95.0
+10:08.0, ,2-5,Personal foul by S. Bey (drawn by J. Brown),,1,5,2,3,112.0
+9:54.0, ,2-7,J. Brown makes 2-pt layup from 2 ft (assist by A. Horford),,1,7,2,5,126.0
+9:42.0,D. Hunter misses 3-pt jump shot from 27 ft,2-7, ,,1,7,2,5,138.0
+9:39.0, ,2-7,Defensive rebound by A. Horford,,1,7,2,5,141.0
+9:32.0, ,2-7,Turnover by J. Tatum (bad pass; steal by C. Capela),,1,7,2,5,148.0
+9:29.0,S. Bey makes 2-pt dunk from 4 ft (assist by T. Young),4-7, ,,1,7,4,3,151.0
+9:21.0, ,4-10,J. Brown makes 3-pt jump shot from 26 ft (assist by J. Tatum),,1,10,4,6,159.0
+9:00.0,D. Murray misses 2-pt jump shot from 20 ft,4-10, ,,1,10,4,6,180.0
+8:58.0,Offensive rebound by Team,4-10, ,,1,10,4,6,182.0
+8:58.0, ,4-10,Loose ball foul by D. Banton (drawn by C. Capela),,1,10,4,6,182.0
+8:55.0,T. Young misses 3-pt jump shot from 38 ft,4-10, ,,1,10,4,6,185.0
+8:52.0, ,4-10,Defensive rebound by A. Horford,,1,10,4,6,188.0
+8:43.0, ,4-10,Shooting foul by S. Bey (drawn by J. Tatum),,1,10,4,6,197.0
+8:43.0,A. Griffin enters the game for S. Bey,4-10, ,,1,10,4,6,197.0
+8:43.0, ,4-10,J. Tatum misses free throw 1 of 2,,1,10,4,6,197.0
+8:43.0, ,4-10,Offensive rebound by Team,,1,10,4,6,197.0
+8:43.0, ,4-11,J. Tatum makes free throw 2 of 2,,1,11,4,7,197.0
+8:21.0,C. Capela misses 2-pt hook shot from 6 ft (block by A. Horford),4-11, ,,1,11,4,7,219.0
+8:19.0, ,4-11,Defensive rebound by A. Horford,,1,11,4,7,221.0
+8:18.0,Technical foul by T. Young,4-11, ,,1,11,4,7,222.0
+8:18.0, ,4-12,J. Tatum makes technical free throw,,1,12,4,8,222.0
+8:08.0, ,4-12,D. White misses 2-pt layup from 2 ft,,1,12,4,8,232.0
+8:06.0, ,4-12,Offensive rebound by D. Banton,,1,12,4,8,234.0
+8:05.0, ,4-12,D. Banton misses 2-pt layup from 3 ft (block by C. Capela),,1,12,4,8,235.0
+8:03.0,Defensive rebound by D. Hunter,4-12, ,,1,12,4,8,237.0
+8:00.0,D. Hunter makes 3-pt jump shot from 27 ft (assist by T. Young),7-12, ,,1,12,7,5,240.0
+7:39.0, ,7-12,J. Tatum misses 2-pt layup from 3 ft,,1,12,7,5,261.0
+7:37.0,Defensive rebound by C. Capela,7-12, ,,1,12,7,5,263.0
+7:32.0,A. Griffin misses 3-pt jump shot from 27 ft,7-12, ,,1,12,7,5,268.0
+7:29.0, ,7-12,Defensive rebound by A. Horford,,1,12,7,5,271.0
+7:24.0, ,7-12,J. Brown misses 2-pt jump shot from 6 ft,,1,12,7,5,276.0
+7:22.0,Defensive rebound by D. Murray,7-12, ,,1,12,7,5,278.0
+7:11.0,T. Young makes 3-pt jump shot from 28 ft (assist by A. Griffin),10-12, ,,1,12,10,2,289.0
+7:09.0, ,10-12,Boston full timeout,,1,12,10,2,291.0
+7:09.0,B. Bogdanović enters the game for A. Griffin,10-12, ,,1,12,10,2,291.0
+6:55.0, ,10-12,D. White misses 3-pt jump shot from 23 ft,,1,12,10,2,305.0
+6:52.0,Defensive rebound by C. Capela,10-12, ,,1,12,10,2,308.0
+6:44.0,Turnover by T. Young (bad pass; steal by D. White),10-12, ,,1,12,10,2,316.0
+6:40.0, ,10-14,J. Brown makes 2-pt dunk from 1 ft (assist by J. Tatum),,1,14,10,4,320.0
+6:28.0,T. Young makes 3-pt jump shot from 26 ft (assist by D. Murray),13-14, ,,1,14,13,1,332.0
+6:05.0, ,13-16,D. White makes 2-pt layup from 5 ft,,1,16,13,3,355.0
+5:50.0,D. Murray misses 2-pt jump shot from 19 ft,13-16, ,,1,16,13,3,370.0
+5:47.0, ,13-16,Defensive rebound by D. Banton,,1,16,13,3,373.0
+5:39.0, ,13-16,D. White misses 3-pt jump shot from 23 ft,,1,16,13,3,381.0
+5:36.0, ,13-16,Offensive rebound by D. White,,1,16,13,3,384.0
+5:34.0, ,13-16,D. White misses 3-pt jump shot from 23 ft,,1,16,13,3,386.0
+5:32.0,Defensive rebound by B. Bogdanović,13-16, ,,1,16,13,3,388.0
+5:27.0,Shooting foul by D. Banton (drawn by C. Capela),13-16, ,,1,16,13,3,393.0
+5:27.0,C. Capela misses free throw 1 of 2,13-16, ,,1,16,13,3,393.0
+5:27.0,Offensive rebound by Team,13-16, ,,1,16,13,3,393.0
+5:27.0,A. Griffin enters the game for T. Young,13-16, ,,1,16,13,3,393.0
+5:27.0, ,13-16,S. Hauser enters the game for D. Banton,,1,16,13,3,393.0
+5:27.0, ,13-16,L. Kornet enters the game for A. Horford,,1,16,13,3,393.0
+5:27.0, ,13-16,P. Pritchard enters the game for J. Tatum,,1,16,13,3,393.0
+5:27.0,C. Capela makes free throw 2 of 2,14-16, ,,1,16,14,2,393.0
+5:08.0, ,14-19,S. Hauser makes 3-pt jump shot from 24 ft (assist by D. White),,1,19,14,5,412.0
+4:58.0,A. Griffin misses 3-pt jump shot from 26 ft,14-19, ,,1,19,14,5,422.0
+4:55.0,Offensive rebound by C. Capela,14-19, ,,1,19,14,5,425.0
+4:50.0,A. Griffin misses 2-pt layup from 5 ft,14-19, ,,1,19,14,5,430.0
+4:49.0,Offensive rebound by D. Murray,14-19, ,,1,19,14,5,431.0
+4:47.0,B. Bogdanović makes 3-pt jump shot from 29 ft (assist by D. Murray),17-19, ,,1,19,17,2,433.0
+4:22.0, ,17-22,P. Pritchard makes 3-pt jump shot from 31 ft (assist by S. Hauser),,1,22,17,5,458.0
+4:07.0,D. Hunter misses 2-pt jump shot from 19 ft,17-22, ,,1,22,17,5,473.0
+4:02.0,Offensive rebound by C. Capela,17-22, ,,1,22,17,5,478.0
+3:55.0,Shooting foul by L. Kornet (drawn by C. Capela),17-22, ,,1,22,17,5,485.0
+3:55.0,C. Capela misses free throw 1 of 2,17-22, ,,1,22,17,5,485.0
+3:55.0,Offensive rebound by Team,17-22, ,,1,22,17,5,485.0
+3:55.0,C. Capela misses free throw 2 of 2,17-22, ,,1,22,17,5,485.0
+3:55.0, ,17-22,Defensive rebound by J. Brown,,1,22,17,5,485.0
+3:40.0, ,17-22,J. Brown misses 3-pt jump shot from 26 ft,,1,22,17,5,500.0
+3:37.0,Defensive rebound by A. Griffin,17-22, ,,1,22,17,5,503.0
+3:26.0,C. Capela misses 2-pt layup from 4 ft,17-22, ,,1,22,17,5,514.0
+3:24.0, ,17-22,Defensive rebound by L. Kornet,,1,22,17,5,516.0
+3:18.0, ,17-24,D. White makes 2-pt jump shot from 9 ft (assist by J. Brown),,1,24,17,7,522.0
+3:15.0,Atlanta full timeout,17-24, ,,1,24,17,7,525.0
+3:15.0,S. Bey enters the game for C. Capela,17-24, ,,1,24,17,7,525.0
+3:15.0,W. Matthews enters the game for A. Griffin,17-24, ,,1,24,17,7,525.0
+3:15.0,O. Okongwu enters the game for D. Hunter,17-24, ,,1,24,17,7,525.0
+3:15.0,T. Young enters the game for D. Murray,17-24, ,,1,24,17,7,525.0
+3:15.0, ,17-24,J. Tatum enters the game for D. White,,1,24,17,7,525.0
+2:55.0,B. Bogdanović makes 2-pt jump shot from 13 ft,19-24, ,,1,24,19,5,545.0
+2:40.0, ,19-24,J. Brown misses 3-pt jump shot from 25 ft,,1,24,19,5,560.0
+2:37.0, ,19-24,Offensive rebound by L. Kornet,,1,24,19,5,563.0
+2:36.0, ,19-26,L. Kornet makes 2-pt layup from 10 ft,,1,26,19,7,564.0
+2:16.0,W. Matthews makes 2-pt layup from 11 ft (assist by T. Young),21-26, ,,1,26,21,5,584.0
+2:05.0, ,21-28,L. Kornet makes 2-pt layup from 2 ft (assist by J. Tatum),,1,28,21,7,595.0
+1:55.0,T. Young misses 2-pt jump shot from 16 ft,21-28, ,,1,28,21,7,605.0
+1:52.0, ,21-28,Defensive rebound by J. Tatum,,1,28,21,7,608.0
+1:42.0, ,21-28,Shooting foul by W. Matthews (drawn by J. Tatum),,1,28,21,7,618.0
+1:42.0,Technical foul by W. Matthews,21-28, ,,1,28,21,7,618.0
+1:42.0, ,21-29,J. Tatum makes technical free throw,,1,29,21,8,618.0
+1:42.0, ,21-30,J. Tatum makes free throw 1 of 2,,1,30,21,9,618.0
+1:42.0, ,21-30,D. Banton enters the game for J. Brown,,1,30,21,9,618.0
+1:42.0, ,21-31,J. Tatum makes free throw 2 of 2,,1,31,21,10,618.0
+1:26.0,Turnover by B. Bogdanović (bad pass; steal by L. Kornet),21-31, ,,1,31,21,10,634.0
+1:10.0, ,21-33,J. Tatum makes 2-pt layup from 2 ft,,1,33,21,12,650.0
+0:58.0,W. Matthews misses 3-pt jump shot from 28 ft,21-33, ,,1,33,21,12,662.0
+0:56.0,Offensive rebound by T. Young,21-33, ,,1,33,21,12,664.0
+0:55.0,T. Young makes 2-pt layup from 3 ft,23-33, ,,1,33,23,10,665.0
+0:37.0, ,23-33,P. Pritchard misses 3-pt jump shot from 24 ft,,1,33,23,10,683.0
+0:34.0,Defensive rebound by S. Bey,23-33, ,,1,33,23,10,686.0
+0:20.0,T. Young makes 3-pt jump shot from 27 ft,26-33, ,,1,33,26,7,700.0
+0:01.0, ,26-33,J. Tatum misses 3-pt jump shot from 26 ft,,1,33,26,7,719.0
+0:00.0, ,26-33,Offensive rebound by Team,,1,33,26,7,720.0
+0:00.0,End of 1st quarter,26-33,,,1,33,26,7,720.0
+12:00.0,Start of 2nd quarter,26-33,,,2,33,26,7,720.0
+11:47.0,T. Young misses 2-pt jump shot from 6 ft,26-33, ,,2,33,26,7,733.0
+11:44.0, ,26-33,Defensive rebound by A. Horford,,2,33,26,7,736.0
+11:25.0, ,26-33,N. Queta misses 2-pt hook shot from 4 ft,,2,33,26,7,755.0
+11:23.0, ,26-33,Offensive rebound by N. Queta,,2,33,26,7,757.0
+11:22.0, ,26-33,N. Queta misses 2-pt layup at rim,,2,33,26,7,758.0
+11:19.0, ,26-33,Offensive rebound by N. Queta,,2,33,26,7,761.0
+11:10.0, ,26-33,N. Queta misses 2-pt hook shot from 3 ft,,2,33,26,7,770.0
+11:08.0,Defensive rebound by Team,26-33, ,,2,33,26,7,772.0
+10:55.0,W. Matthews misses 3-pt jump shot from 28 ft,26-33, ,,2,33,26,7,785.0
+10:52.0,Offensive rebound by S. Bey,26-33, ,,2,33,26,7,788.0
+10:50.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by S. Bey),29-33, ,,2,33,29,4,790.0
+10:32.0, ,29-33,Turnover by J. Tatum (lost ball; steal by O. Okongwu),,2,33,29,4,808.0
+10:25.0,T. Young misses 3-pt jump shot from 27 ft,29-33, ,,2,33,29,4,815.0
+10:22.0, ,29-33,Defensive rebound by S. Hauser,,2,33,29,4,818.0
+10:15.0, ,29-33,P. Pritchard misses 3-pt jump shot from 27 ft,,2,33,29,4,825.0
+10:13.0, ,29-33,Offensive rebound by A. Horford,,2,33,29,4,827.0
+10:11.0, ,29-35,A. Horford makes 2-pt layup from 4 ft,,2,35,29,6,829.0
+10:00.0,B. Bogdanović makes 3-pt jump shot from 27 ft,32-35, ,,2,35,32,3,840.0
+10:00.0, ,32-35,Boston full timeout,,2,35,32,3,840.0
+10:00.0, ,32-35,D. White enters the game for P. Pritchard,,2,35,32,3,840.0
+9:43.0, ,32-37,N. Queta makes 2-pt hook shot from 6 ft (assist by D. White),,2,37,32,5,857.0
+9:28.0,T. Young misses 3-pt jump shot from 27 ft,32-37, ,,2,37,32,5,872.0
+9:25.0, ,32-37,Defensive rebound by N. Queta,,2,37,32,5,875.0
+9:17.0, ,32-37,A. Horford misses 3-pt jump shot from 23 ft,,2,37,32,5,883.0
+9:14.0, ,32-37,Offensive rebound by N. Queta,,2,37,32,5,886.0
+9:13.0, ,32-37,N. Queta misses 2-pt layup at rim,,2,37,32,5,887.0
+9:11.0, ,32-37,Offensive rebound by S. Hauser,,2,37,32,5,889.0
+9:04.0, ,32-37,Turnover by J. Tatum (bad pass; steal by O. Okongwu),,2,37,32,5,896.0
+9:00.0,S. Bey makes 2-pt layup from 4 ft (assist by T. Young),34-37, ,,2,37,34,3,900.0
+8:44.0, ,34-40,J. Tatum makes 3-pt jump shot from 25 ft (assist by D. White),,2,40,34,6,916.0
+8:36.0,Personal foul by S. Hauser (drawn by B. Bogdanović),34-40, ,,2,40,34,6,924.0
+8:36.0,A. Griffin enters the game for S. Bey,34-40, ,,2,40,34,6,924.0
+8:36.0,D. Hunter enters the game for W. Matthews,34-40, ,,2,40,34,6,924.0
+8:32.0,Shooting foul by D. White (drawn by T. Young),34-40, ,,2,40,34,6,928.0
+8:32.0,T. Young makes free throw 1 of 2,35-40, ,,2,40,35,5,928.0
+8:32.0,T. Young makes free throw 2 of 2,36-40, ,,2,40,36,4,928.0
+8:18.0, ,36-43,J. Tatum makes 3-pt jump shot from 25 ft (assist by D. White),,2,43,36,7,942.0
+8:08.0,Offensive foul by D. Hunter (drawn by D. White),36-43, ,,2,43,36,7,952.0
+8:08.0,Turnover by D. Hunter (offensive foul),36-43, ,,2,43,36,7,952.0
+8:08.0,D. Murray enters the game for T. Young,36-43, ,,2,43,36,7,952.0
+7:49.0, ,36-43,J. Tatum misses 3-pt jump shot from 30 ft,,2,43,36,7,971.0
+7:46.0, ,36-43,Offensive rebound by A. Horford,,2,43,36,7,974.0
+7:45.0, ,36-45,D. White makes 2-pt layup from 3 ft (assist by A. Horford),,2,45,36,9,975.0
+7:45.0, ,36-45,Shooting foul by O. Okongwu (drawn by D. White),,2,45,36,9,975.0
+7:45.0, ,36-46,D. White makes free throw 1 of 1,,2,46,36,10,975.0
+7:28.0,Turnover by D. Murray (bad pass; steal by A. Horford),36-46, ,,2,46,36,10,992.0
+7:16.0, ,36-48,J. Tatum makes 2-pt layup from 2 ft,,2,48,36,12,1004.0
+7:14.0,Atlanta full timeout,36-48, ,,2,48,36,12,1006.0
+7:14.0, ,36-48,J. Brown enters the game for S. Hauser,,2,48,36,12,1006.0
+7:14.0, ,36-48,P. Pritchard enters the game for A. Horford,,2,48,36,12,1006.0
+7:01.0,D. Hunter makes 3-pt jump shot from 28 ft,39-48, ,,2,48,39,9,1019.0
+6:38.0, ,39-48,J. Tatum misses 2-pt jump shot from 7 ft,,2,48,39,9,1042.0
+6:36.0, ,39-48,Offensive rebound by J. Tatum,,2,48,39,9,1044.0
+6:35.0, ,39-48,J. Tatum misses 2-pt layup from 3 ft (block by O. Okongwu),,2,48,39,9,1045.0
+6:34.0,Defensive rebound by O. Okongwu,39-48, ,,2,48,39,9,1046.0
+6:30.0,D. Hunter misses 3-pt jump shot from 28 ft,39-48, ,,2,48,39,9,1050.0
+6:28.0, ,39-48,Defensive rebound by J. Tatum,,2,48,39,9,1052.0
+6:22.0, ,39-48,J. Brown misses 3-pt jump shot from 23 ft,,2,48,39,9,1058.0
+6:19.0,Defensive rebound by A. Griffin,39-48, ,,2,48,39,9,1061.0
+6:04.0,A. Griffin misses 2-pt jump shot from 19 ft,39-48, ,,2,48,39,9,1076.0
+6:02.0, ,39-48,Defensive rebound by J. Brown,,2,48,39,9,1078.0
+5:47.0, ,39-48,J. Tatum misses 3-pt jump shot from 29 ft,,2,48,39,9,1093.0
+5:45.0, ,39-48,Offensive rebound by N. Queta,,2,48,39,9,1095.0
+5:44.0, ,39-48,N. Queta misses 2-pt layup from 2 ft,,2,48,39,9,1096.0
+5:42.0, ,39-48,Offensive rebound by N. Queta,,2,48,39,9,1098.0
+5:42.0, ,39-50,N. Queta makes 2-pt layup from 4 ft,,2,50,39,11,1098.0
+5:42.0, ,39-50,Shooting foul by O. Okongwu (drawn by N. Queta),,2,50,39,11,1098.0
+5:42.0,S. Bey enters the game for A. Griffin,39-50, ,,2,50,39,11,1098.0
+5:42.0, ,39-50,S. Hauser enters the game for J. Tatum,,2,50,39,11,1098.0
+5:42.0, ,39-51,N. Queta makes free throw 1 of 1,,2,51,39,12,1098.0
+5:23.0,Jump ball: D. White vs. S. Bey (N. Queta gains possession),39-51,,,2,51,39,12,1117.0
+5:23.0,Turnover by D. Murray (lost ball; steal by D. White),39-51, ,,2,51,39,12,1117.0
+5:16.0, ,39-53,J. Brown makes 2-pt layup from 1 ft,,2,53,39,14,1124.0
+5:02.0,O. Okongwu makes 2-pt layup from 4 ft (assist by D. Hunter),41-53, ,,2,53,41,12,1138.0
+4:51.0, ,41-53,Personal foul by D. Murray (drawn by J. Brown),,2,53,41,12,1149.0
+4:51.0,C. Capela enters the game for B. Bogdanović,41-53, ,,2,53,41,12,1149.0
+4:51.0,T. Young enters the game for O. Okongwu,41-53, ,,2,53,41,12,1149.0
+4:51.0, ,41-53,A. Horford enters the game for N. Queta,,2,53,41,12,1149.0
+4:44.0, ,41-56,P. Pritchard makes 3-pt jump shot from 31 ft (assist by D. White),,2,56,41,15,1156.0
+4:23.0,D. Murray misses 3-pt jump shot from 28 ft,41-56, ,,2,56,41,15,1177.0
+4:20.0, ,41-56,Defensive rebound by P. Pritchard,,2,56,41,15,1180.0
+4:09.0, ,41-58,D. White makes 2-pt jump shot from 14 ft,,2,58,41,17,1191.0
+3:54.0,T. Young makes 3-pt jump shot from 27 ft,44-58, ,,2,58,44,14,1206.0
+3:44.0, ,44-58,J. Brown misses 2-pt jump shot from 13 ft,,2,58,44,14,1216.0
+3:41.0,Defensive rebound by S. Bey,44-58, ,,2,58,44,14,1219.0
+3:32.0,C. Capela makes 2-pt layup from 2 ft (assist by T. Young),46-58, ,,2,58,46,12,1228.0
+3:19.0, ,46-60,D. White makes 2-pt dunk from 1 ft,,2,60,46,14,1241.0
+3:05.0,T. Young makes 2-pt jump shot from 11 ft,48-60, ,,2,60,48,12,1255.0
+2:48.0, ,48-60,D. White misses 3-pt jump shot from 25 ft,,2,60,48,12,1272.0
+2:45.0, ,48-60,Offensive rebound by J. Brown,,2,60,48,12,1275.0
+2:41.0, ,48-62,J. Brown makes 2-pt dunk from 1 ft,,2,62,48,14,1279.0
+2:26.0,Shooting foul by J. Brown (drawn by D. Murray),48-62, ,,2,62,48,14,1294.0
+2:26.0,D. Murray makes free throw 1 of 2,49-62, ,,2,62,49,13,1294.0
+2:26.0, ,49-62,J. Tatum enters the game for P. Pritchard,,2,62,49,13,1294.0
+2:26.0,D. Murray makes free throw 2 of 2,50-62, ,,2,62,50,12,1294.0
+2:14.0, ,50-64,J. Brown makes 2-pt jump shot from 16 ft (assist by D. White),,2,64,50,14,1306.0
+2:02.0,S. Bey misses 3-pt jump shot from 28 ft,50-64, ,,2,64,50,14,1318.0
+1:59.0, ,50-64,Defensive rebound by A. Horford,,2,64,50,14,1321.0
+1:57.0, ,50-64,Shooting foul by T. Young (drawn by D. White),,2,64,50,14,1323.0
+1:57.0, ,50-65,D. White makes free throw 1 of 2,,2,65,50,15,1323.0
+1:57.0, ,50-66,D. White makes free throw 2 of 2,,2,66,50,16,1323.0
+1:44.0,D. Hunter makes 3-pt jump shot from 28 ft (assist by T. Young),53-66, ,,2,66,53,13,1336.0
+1:24.0, ,53-66,S. Hauser misses 3-pt jump shot from 30 ft,,2,66,53,13,1356.0
+1:20.0,Defensive rebound by T. Young,53-66, ,,2,66,53,13,1360.0
+1:20.0,T. Young misses 3-pt jump shot from 25 ft,53-66, ,,2,66,53,13,1360.0
+1:17.0,Offensive rebound by D. Murray,53-66, ,,2,66,53,13,1363.0
+1:10.0,D. Murray misses 3-pt jump shot from 26 ft,53-66, ,,2,66,53,13,1370.0
+1:08.0,Offensive rebound by C. Capela,53-66, ,,2,66,53,13,1372.0
+1:08.0,C. Capela misses 2-pt layup at rim,53-66, ,,2,66,53,13,1372.0
+1:07.0,Offensive rebound by C. Capela,53-66, ,,2,66,53,13,1373.0
+1:07.0,C. Capela misses 2-pt layup at rim,53-66, ,,2,66,53,13,1373.0
+1:06.0, ,53-66,Defensive rebound by J. Tatum,,2,66,53,13,1374.0
+0:55.0, ,53-66,A. Horford misses 3-pt jump shot from 23 ft,,2,66,53,13,1385.0
+0:55.0,Defensive rebound by T. Young,53-66, ,,2,66,53,13,1385.0
+0:49.0,S. Bey misses 3-pt jump shot from 24 ft,53-66, ,,2,66,53,13,1391.0
+0:46.0, ,53-66,Defensive rebound by D. White,,2,66,53,13,1394.0
+0:35.0, ,53-69,J. Tatum makes 3-pt jump shot from 27 ft,,2,69,53,16,1405.0
+0:25.0,T. Young misses 2-pt jump shot from 18 ft,53-69, ,,2,69,53,16,1415.0
+0:23.0, ,53-69,Defensive rebound by A. Horford,,2,69,53,16,1417.0
+0:03.0, ,53-69,J. Brown misses 2-pt jump shot from 15 ft,,2,69,53,16,1437.0
+0:01.0,Defensive rebound by S. Bey,53-69, ,,2,69,53,16,1439.0
+0:01.0,S. Bey misses 3-pt jump shot from 54 ft,53-69, ,,2,69,53,16,1439.0
+0:00.0,Offensive rebound by Team,53-69, ,,2,69,53,16,1440.0
+0:00.0,End of 2nd quarter,53-69,,,2,69,53,16,1440.0
+12:00.0,Start of 3rd quarter,53-69,,,3,69,53,16,1440.0
+11:37.0,D. Murray misses 3-pt jump shot from 24 ft,53-69, ,,3,69,53,16,1463.0
+11:34.0,Offensive rebound by S. Bey,53-69, ,,3,69,53,16,1466.0
+11:31.0,D. Hunter misses 3-pt jump shot from 27 ft,53-69, ,,3,69,53,16,1469.0
+11:28.0, ,53-69,Defensive rebound by J. Brown,,3,69,53,16,1472.0
+11:16.0, ,53-69,J. Tatum misses 2-pt jump shot from 14 ft (block by D. Hunter),,3,69,53,16,1484.0
+11:13.0,Defensive rebound by T. Young,53-69, ,,3,69,53,16,1487.0
+11:08.0,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Hunter),56-69, ,,3,69,56,13,1492.0
+10:48.0, ,56-69,Offensive foul by D. White (drawn by D. Hunter),,3,69,56,13,1512.0
+10:48.0, ,56-69,Turnover by D. White (offensive foul),,3,69,56,13,1512.0
+10:38.0,Shooting foul by J. Brown (drawn by T. Young),56-69, ,,3,69,56,13,1522.0
+10:38.0,T. Young misses free throw 1 of 2,56-69, ,,3,69,56,13,1522.0
+10:38.0,Offensive rebound by Team,56-69, ,,3,69,56,13,1522.0
+10:38.0,T. Young makes free throw 2 of 2,57-69, ,,3,69,57,12,1522.0
+10:24.0, ,57-71,J. Brown makes 2-pt jump shot from 16 ft,,3,71,57,14,1536.0
+10:13.0,Turnover by T. Young (out of bounds lost ball),57-71, ,,3,71,57,14,1547.0
+10:07.0, ,57-73,D. Banton makes 2-pt dunk from 5 ft,,3,73,57,16,1553.0
+9:44.0,Shooting foul by A. Horford (drawn by C. Capela),57-73, ,,3,73,57,16,1576.0
+9:44.0,C. Capela makes free throw 1 of 2,58-73, ,,3,73,58,15,1576.0
+9:44.0,C. Capela misses free throw 2 of 2,58-73, ,,3,73,58,15,1576.0
+9:44.0, ,58-73,Defensive rebound by J. Brown,,3,73,58,15,1576.0
+9:30.0, ,58-73,J. Tatum misses 3-pt jump shot from 25 ft,,3,73,58,15,1590.0
+9:28.0,Defensive rebound by T. Young,58-73, ,,3,73,58,15,1592.0
+9:24.0,D. Hunter misses 3-pt jump shot from 27 ft,58-73, ,,3,73,58,15,1596.0
+9:21.0, ,58-73,Defensive rebound by J. Tatum,,3,73,58,15,1599.0
+9:19.0, ,58-73,Shooting foul by T. Young (drawn by J. Brown),,3,73,58,15,1601.0
+9:19.0, ,58-73,J. Brown misses free throw 1 of 2,,3,73,58,15,1601.0
+9:19.0, ,58-73,Offensive rebound by Team,,3,73,58,15,1601.0
+9:19.0, ,58-74,J. Brown makes free throw 2 of 2,,3,74,58,16,1601.0
+9:05.0,Turnover by T. Young (bad pass; steal by J. Brown),58-74, ,,3,74,58,16,1615.0
+9:00.0, ,58-74,J. Brown misses 2-pt layup from 5 ft,,3,74,58,16,1620.0
+8:58.0,Defensive rebound by C. Capela,58-74, ,,3,74,58,16,1622.0
+8:54.0,D. Murray misses 3-pt jump shot from 27 ft,58-74, ,,3,74,58,16,1626.0
+8:51.0, ,58-74,Defensive rebound by A. Horford,,3,74,58,16,1629.0
+8:49.0, ,58-74,Personal foul by S. Bey (drawn by J. Brown),,3,74,58,16,1631.0
+8:39.0, ,58-76,J. Brown makes 2-pt jump shot from 14 ft,,3,76,58,18,1641.0
+8:21.0,S. Bey misses 3-pt jump shot from 24 ft,58-76, ,,3,76,58,18,1659.0
+8:17.0, ,58-76,Defensive rebound by J. Tatum,,3,76,58,18,1663.0
+8:13.0, ,58-76,J. Tatum misses 3-pt jump shot from 27 ft,,3,76,58,18,1667.0
+8:10.0,Defensive rebound by C. Capela,58-76, ,,3,76,58,18,1670.0
+8:01.0,D. Murray misses 2-pt jump shot from 14 ft,58-76, ,,3,76,58,18,1679.0
+7:58.0, ,58-76,Defensive rebound by J. Brown,,3,76,58,18,1682.0
+7:48.0, ,58-76,J. Tatum misses 2-pt layup from 4 ft (block by C. Capela),,3,76,58,18,1692.0
+7:46.0, ,58-76,Offensive rebound by D. Banton,,3,76,58,18,1694.0
+7:46.0, ,58-78,D. Banton makes 2-pt layup from 4 ft,,3,78,58,20,1694.0
+7:46.0,Atlanta full timeout,58-78, ,,3,78,58,20,1694.0
+7:46.0, ,58-78,L. Kornet enters the game for A. Horford,,3,78,58,20,1694.0
+7:31.0,D. Hunter makes 3-pt jump shot from 24 ft (assist by D. Murray),61-78, ,,3,78,61,17,1709.0
+7:09.0, ,61-78,Shooting foul by T. Young (drawn by D. Banton),,3,78,61,17,1731.0
+7:09.0, ,61-79,D. Banton makes free throw 1 of 2,,3,79,61,18,1731.0
+7:09.0, ,61-80,D. Banton makes free throw 2 of 2,,3,80,61,19,1731.0
+6:54.0,T. Young misses 3-pt jump shot from 27 ft,61-80, ,,3,80,61,19,1746.0
+6:52.0,Offensive rebound by S. Bey,61-80, ,,3,80,61,19,1748.0
+6:52.0,Personal foul by D. White (drawn by S. Bey),61-80, ,,3,80,61,19,1748.0
+6:52.0,B. Bogdanović enters the game for S. Bey,61-80, ,,3,80,61,19,1748.0
+6:52.0,A. Griffin enters the game for T. Young,61-80, ,,3,80,61,19,1748.0
+6:52.0, ,61-80,P. Pritchard enters the game for D. White,,3,80,61,19,1748.0
+6:51.0,D. Murray misses 2-pt layup from 7 ft (block by L. Kornet),61-80, ,,3,80,61,19,1749.0
+6:49.0,Offensive rebound by B. Bogdanović,61-80, ,,3,80,61,19,1751.0
+6:48.0,A. Griffin misses 3-pt jump shot from 27 ft,61-80, ,,3,80,61,19,1752.0
+6:45.0, ,61-80,Defensive rebound by P. Pritchard,,3,80,61,19,1755.0
+6:23.0, ,61-80,J. Brown misses 3-pt jump shot from 28 ft,,3,80,61,19,1777.0
+6:23.0,Defensive rebound by D. Murray,61-80, ,,3,80,61,19,1777.0
+6:05.0,B. Bogdanović makes 3-pt jump shot from 26 ft,64-80, ,,3,80,64,16,1795.0
+5:47.0, ,64-83,J. Brown makes 3-pt jump shot from 28 ft (assist by D. Banton),,3,83,64,19,1813.0
+5:27.0,D. Hunter makes 3-pt jump shot from 27 ft,67-83, ,,3,83,67,16,1833.0
+5:02.0, ,67-83,D. Banton misses 3-pt jump shot from 27 ft,,3,83,67,16,1858.0
+4:59.0,Defensive rebound by A. Griffin,67-83, ,,3,83,67,16,1861.0
+4:51.0,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by C. Capela),70-83, ,,3,83,70,13,1869.0
+4:37.0, ,70-83,Offensive foul by J. Brown (drawn by D. Hunter),,3,83,70,13,1883.0
+4:37.0, ,70-83,Turnover by J. Brown (offensive foul),,3,83,70,13,1883.0
+4:37.0,O. Okongwu enters the game for C. Capela,70-83, ,,3,83,70,13,1883.0
+4:37.0, ,70-83,S. Hauser enters the game for D. Banton,,3,83,70,13,1883.0
+4:18.0,D. Hunter makes 2-pt jump shot from 6 ft,72-83, ,,3,83,72,11,1902.0
+3:54.0, ,72-83,Turnover by J. Tatum (lost ball; steal by B. Bogdanović),,3,83,72,11,1926.0
+3:53.0, ,72-83,Clear path foul by D. Hunter,,3,83,72,11,1927.0
+3:53.0, ,72-83,Instant Replay (Request: Ruling Stands),,3,83,72,11,1927.0
+3:53.0,D. Hunter makes clear path free throw 1 of 2,73-83, ,,3,83,73,10,1927.0
+3:53.0,D. Hunter makes clear path free throw 2 of 2,74-83, ,,3,83,74,9,1927.0
+3:53.0, ,74-83,N. Queta enters the game for L. Kornet,,3,83,74,9,1927.0
+3:46.0,B. Bogdanović makes 3-pt jump shot from 27 ft,77-83, ,,3,83,77,6,1934.0
+3:44.0, ,77-83,Boston full timeout,,3,83,77,6,1936.0
+3:44.0, ,77-83,D. White enters the game for J. Tatum,,3,83,77,6,1936.0
+3:27.0, ,77-85,N. Queta makes 2-pt layup from 3 ft (assist by J. Brown),,3,85,77,8,1953.0
+3:06.0,D. Hunter misses 3-pt jump shot from 25 ft,77-85, ,,3,85,77,8,1974.0
+3:04.0, ,77-85,Defensive rebound by J. Brown,,3,85,77,8,1976.0
+2:50.0, ,77-88,S. Hauser makes 3-pt jump shot from 22 ft (assist by J. Brown),,3,88,77,11,1990.0
+2:30.0,D. Murray misses 3-pt jump shot from 26 ft,77-88, ,,3,88,77,11,2010.0
+2:27.0, ,77-88,Defensive rebound by N. Queta,,3,88,77,11,2013.0
+2:15.0, ,77-88,D. White misses 3-pt jump shot from 28 ft,,3,88,77,11,2025.0
+2:10.0,Defensive rebound by B. Bogdanović,77-88, ,,3,88,77,11,2030.0
+2:08.0,B. Bogdanović makes 3-pt jump shot from 25 ft,80-88, ,,3,88,80,8,2032.0
+1:50.0, ,80-88,S. Hauser misses 3-pt jump shot from 24 ft,,3,88,80,8,2050.0
+1:47.0,Defensive rebound by A. Griffin,80-88, ,,3,88,80,8,2053.0
+1:37.0,Offensive foul by B. Bogdanović (drawn by N. Queta),80-88, ,,3,88,80,8,2063.0
+1:37.0,Turnover by B. Bogdanović (offensive foul),80-88, ,,3,88,80,8,2063.0
+1:37.0,S. Bey enters the game for A. Griffin,80-88, ,,3,88,80,8,2063.0
+1:37.0,W. Matthews enters the game for D. Hunter,80-88, ,,3,88,80,8,2063.0
+1:37.0,T. Young enters the game for D. Murray,80-88, ,,3,88,80,8,2063.0
+1:27.0, ,80-88,Shooting foul by B. Bogdanović (drawn by D. White),,3,88,80,8,2073.0
+1:27.0, ,80-89,D. White makes free throw 1 of 2,,3,89,80,9,2073.0
+1:27.0, ,80-90,D. White makes free throw 2 of 2,,3,90,80,10,2073.0
+1:14.0,B. Bogdanović misses 3-pt jump shot from 32 ft,80-90, ,,3,90,80,10,2086.0
+1:10.0, ,80-90,Defensive rebound by N. Queta,,3,90,80,10,2090.0
+1:03.0, ,80-90,D. White misses 2-pt jump shot from 10 ft,,3,90,80,10,2097.0
+1:01.0,Defensive rebound by O. Okongwu,80-90, ,,3,90,80,10,2099.0
+0:55.0,T. Young misses 3-pt jump shot from 32 ft,80-90, ,,3,90,80,10,2105.0
+0:52.0, ,80-90,Defensive rebound by N. Queta,,3,90,80,10,2108.0
+0:30.0, ,80-90,P. Pritchard misses 3-pt jump shot from 23 ft,,3,90,80,10,2130.0
+0:29.0, ,80-90,Offensive rebound by N. Queta,,3,90,80,10,2131.0
+0:29.0,A. Griffin enters the game for W. Matthews,80-90, ,,3,90,80,10,2131.0
+0:29.0, ,80-90,Turnover by  (5 sec),,3,90,80,10,2131.0
+0:09.0,T. Young makes 2-pt layup from 2 ft,82-90, ,,3,90,82,8,2151.0
+0:09.0,Shooting foul by D. White (drawn by T. Young),82-90, ,,3,90,82,8,2151.0
+0:09.0,D. Hunter enters the game for A. Griffin,82-90, ,,3,90,82,8,2151.0
+0:09.0,T. Young misses free throw 1 of 1,82-90, ,,3,90,82,8,2151.0
+0:07.0, ,82-90,Defensive rebound by Team,,3,90,82,8,2153.0
+0:07.0,Jump ball: S. Hauser vs. O. Okongwu (D. White gains possession),82-90,,,3,90,82,8,2153.0
+0:00.0, ,82-90,P. Pritchard misses 3-pt jump shot from 30 ft,,3,90,82,8,2160.0
+0:00.0, ,82-90,Offensive rebound by Team,,3,90,82,8,2160.0
+0:00.0,End of 3rd quarter,82-90,,,3,90,82,8,2160.0
+12:00.0,Start of 4th quarter,82-90,,,4,90,82,8,2160.0
+11:49.0, ,82-90,Turnover by D. White (bad pass),,4,90,82,8,2171.0
+11:49.0,D. Hunter enters the game for A. Griffin,82-90, ,,4,90,82,8,2171.0
+11:39.0,Turnover by T. Young (bad pass; steal by N. Queta),82-90, ,,4,90,82,8,2181.0
+11:33.0, ,82-90,S. Hauser misses 3-pt jump shot from 28 ft,,4,90,82,8,2187.0
+11:30.0, ,82-90,Offensive rebound by D. White,,4,90,82,8,2190.0
+11:25.0, ,82-93,S. Hauser makes 3-pt jump shot from 25 ft (assist by D. White),,4,93,82,11,2195.0
+11:17.0,Offensive foul by D. Hunter (drawn by D. White),82-93, ,,4,93,82,11,2203.0
+11:17.0,Turnover by D. Hunter (offensive foul),82-93, ,,4,93,82,11,2203.0
+11:01.0, ,82-95,J. Tatum makes 2-pt jump shot from 15 ft (assist by D. White),,4,95,82,13,2219.0
+10:47.0,T. Young misses 3-pt jump shot from 33 ft,82-95, ,,4,95,82,13,2233.0
+10:44.0, ,82-95,Defensive rebound by J. Tatum,,4,95,82,13,2236.0
+10:33.0, ,82-95,A. Horford misses 3-pt jump shot from 24 ft,,4,95,82,13,2247.0
+10:30.0,Defensive rebound by S. Bey,82-95, ,,4,95,82,13,2250.0
+10:23.0,O. Okongwu makes 2-pt dunk from 2 ft (assist by T. Young),84-95, ,,4,95,84,11,2257.0
+9:56.0, ,84-95,Shooting foul by D. Hunter (drawn by J. Tatum),,4,95,84,11,2284.0
+9:56.0, ,84-95,J. Tatum misses free throw 1 of 2,,4,95,84,11,2284.0
+9:56.0, ,84-95,Offensive rebound by Team,,4,95,84,11,2284.0
+9:56.0, ,84-96,J. Tatum makes free throw 2 of 2,,4,96,84,12,2284.0
+9:46.0,T. Young makes 2-pt jump shot from 9 ft,86-96, ,,4,96,86,10,2294.0
+9:28.0, ,86-98,A. Horford makes 2-pt jump shot from 11 ft,,4,98,86,12,2312.0
+9:18.0,T. Young makes 3-pt jump shot from 27 ft,89-98, ,,4,98,89,9,2322.0
+8:53.0, ,89-100,J. Tatum makes 2-pt jump shot from 17 ft,,4,100,89,11,2347.0
+8:44.0,T. Young makes 2-pt jump shot from 6 ft,91-100, ,,4,100,91,9,2356.0
+8:44.0, ,91-100,Violation by Team (def goaltending),,4,100,91,9,2356.0
+8:44.0,Shooting foul by D. White (drawn by T. Young),91-100, ,,4,100,91,9,2356.0
+8:44.0,T. Young misses free throw 1 of 1,91-100, ,,4,100,91,9,2356.0
+8:44.0, ,91-100,Defensive rebound by A. Horford,,4,100,91,9,2356.0
+8:25.0, ,91-103,J. Tatum makes 3-pt jump shot from 27 ft,,4,103,91,12,2375.0
+8:08.0,T. Young makes 3-pt jump shot from 26 ft,94-103, ,,4,103,94,9,2392.0
+7:56.0, ,94-103,Personal foul by D. Hunter (drawn by J. Tatum),,4,103,94,9,2404.0
+7:53.0, ,94-103,Offensive foul by J. Tatum (drawn by D. Hunter),,4,103,94,9,2407.0
+7:53.0, ,94-103,Turnover by J. Tatum (offensive foul),,4,103,94,9,2407.0
+7:53.0, ,94-103,D. Banton enters the game for N. Queta,,4,103,94,9,2407.0
+7:39.0,B. Bogdanović misses 2-pt jump shot from 6 ft,94-103, ,,4,103,94,9,2421.0
+7:36.0, ,94-103,Defensive rebound by S. Hauser,,4,103,94,9,2424.0
+7:22.0, ,94-103,S. Hauser misses 3-pt jump shot from 28 ft,,4,103,94,9,2438.0
+7:18.0, ,94-103,Offensive rebound by A. Horford,,4,103,94,9,2442.0
+7:13.0, ,94-103,J. Tatum misses 3-pt jump shot from 27 ft,,4,103,94,9,2447.0
+7:10.0,Defensive rebound by B. Bogdanović,94-103, ,,4,103,94,9,2450.0
+7:00.0,Turnover by B. Bogdanović (lost ball; steal by J. Tatum),94-103, ,,4,103,94,9,2460.0
+6:56.0, ,94-105,D. Banton makes 2-pt dunk from 3 ft (assist by S. Hauser),,4,105,94,11,2464.0
+6:56.0,Atlanta full timeout,94-105, ,,4,105,94,11,2464.0
+6:56.0,D. Murray enters the game for B. Bogdanović,94-105, ,,4,105,94,11,2464.0
+6:56.0, ,94-105,J. Brown enters the game for D. White,,4,105,94,11,2464.0
+6:46.0,T. Young misses 3-pt jump shot from 30 ft,94-105, ,,4,105,94,11,2474.0
+6:42.0, ,94-105,Defensive rebound by A. Horford,,4,105,94,11,2478.0
+6:30.0, ,94-108,S. Hauser makes 3-pt jump shot from 24 ft (assist by A. Horford),,4,108,94,14,2490.0
+6:10.0,Shooting foul by D. Banton (drawn by D. Hunter),94-108, ,,4,108,94,14,2510.0
+6:10.0,D. Hunter makes free throw 1 of 3,95-108, ,,4,108,95,13,2510.0
+6:10.0,D. Hunter makes free throw 2 of 3,96-108, ,,4,108,96,12,2510.0
+6:10.0,D. Hunter makes free throw 3 of 3,97-108, ,,4,108,97,11,2510.0
+5:55.0, ,97-108,Offensive foul by D. Banton (drawn by T. Young),,4,108,97,11,2525.0
+5:55.0, ,97-108,Turnover by D. Banton (offensive foul),,4,108,97,11,2525.0
+5:46.0,T. Young misses 3-pt jump shot from 27 ft,97-108, ,,4,108,97,11,2534.0
+5:43.0, ,97-108,Defensive rebound by D. Banton,,4,108,97,11,2537.0
+5:36.0, ,97-108,Turnover by J. Brown (traveling),,4,108,97,11,2544.0
+5:31.0,Personal foul by S. Hauser (drawn by T. Young),97-108, ,,4,108,97,11,2549.0
+5:31.0,B. Bogdanović enters the game for S. Bey,97-108, ,,4,108,97,11,2549.0
+5:20.0,B. Bogdanović misses 3-pt jump shot from 25 ft,97-108, ,,4,108,97,11,2560.0
+5:17.0, ,97-108,Defensive rebound by D. Banton,,4,108,97,11,2563.0
+5:01.0, ,97-108,A. Horford misses 3-pt jump shot from 27 ft,,4,108,97,11,2579.0
+4:57.0,Defensive rebound by O. Okongwu,97-108, ,,4,108,97,11,2583.0
+4:48.0,D. Murray makes 2-pt jump shot from 9 ft,99-108, ,,4,108,99,9,2592.0
+4:48.0, ,99-108,Boston full timeout,,4,108,99,9,2592.0
+4:48.0, ,99-108,D. White enters the game for D. Banton,,4,108,99,9,2592.0
+4:35.0, ,99-110,J. Tatum makes 2-pt jump shot from 15 ft (assist by D. White),,4,110,99,11,2605.0
+4:23.0,T. Young misses 2-pt jump shot from 10 ft,99-110, ,,4,110,99,11,2617.0
+4:20.0, ,99-110,Defensive rebound by D. White,,4,110,99,11,2620.0
+4:08.0, ,99-110,S. Hauser misses 3-pt jump shot from 24 ft,,4,110,99,11,2632.0
+4:05.0,Defensive rebound by B. Bogdanović,99-110, ,,4,110,99,11,2635.0
+3:50.0,D. Hunter makes 2-pt layup from 2 ft,101-110, ,,4,110,101,9,2650.0
+3:35.0, ,101-110,Turnover by D. White (out of bounds lost ball),,4,110,101,9,2665.0
+3:35.0,Atlanta full timeout,101-110, ,,4,110,101,9,2665.0
+3:35.0,Instant Replay (Challenge: Ruling Stands),101-110, ,,4,110,101,9,2665.0
+3:28.0,Personal foul by J. Brown (drawn by B. Bogdanović),101-110, ,,4,110,101,9,2672.0
+3:25.0,Turnover by  (5 sec),101-110, ,,4,110,101,9,2675.0
+3:12.0, ,101-110,J. Tatum misses 2-pt jump shot from 18 ft,,4,110,101,9,2688.0
+3:09.0,Defensive rebound by B. Bogdanović,101-110, ,,4,110,101,9,2691.0
+3:01.0,Turnover by T. Young (lost ball; steal by D. White),101-110, ,,4,110,101,9,2699.0
+2:58.0, ,101-110,Shooting foul by B. Bogdanović (drawn by J. Tatum),,4,110,101,9,2702.0
+2:58.0, ,101-110,J. Tatum misses free throw 1 of 2,,4,110,101,9,2702.0
+2:58.0, ,101-110,Offensive rebound by Team,,4,110,101,9,2702.0
+2:58.0, ,101-111,J. Tatum makes free throw 2 of 2,,4,111,101,10,2702.0
+2:44.0,T. Young misses 2-pt layup from 5 ft (block by A. Horford),101-111, ,,4,111,101,10,2716.0
+2:42.0,Offensive rebound by Team,101-111, ,,4,111,101,10,2718.0
+2:36.0,D. Hunter misses 3-pt jump shot from 26 ft,101-111, ,,4,111,101,10,2724.0
+2:33.0, ,101-111,Defensive rebound by A. Horford,,4,111,101,10,2727.0
+2:16.0, ,101-111,D. White misses 3-pt jump shot from 26 ft,,4,111,101,10,2744.0
+2:14.0,Defensive rebound by D. Hunter,101-111, ,,4,111,101,10,2746.0
+2:06.0,T. Young misses 3-pt jump shot from 26 ft,101-111, ,,4,111,101,10,2754.0
+2:03.0, ,101-111,Defensive rebound by J. Tatum,,4,111,101,10,2757.0
+1:47.0, ,101-111,J. Tatum misses 3-pt jump shot from 27 ft,,4,111,101,10,2773.0
+1:44.0,Defensive rebound by D. Hunter,101-111, ,,4,111,101,10,2776.0
+1:41.0,Turnover by B. Bogdanović (traveling),101-111, ,,4,111,101,10,2779.0
+1:17.0, ,101-111,J. Brown misses 3-pt jump shot from 26 ft,,4,111,101,10,2803.0
+1:14.0, ,101-111,Offensive rebound by S. Hauser,,4,111,101,10,2806.0
+1:11.0, ,101-111,J. Tatum misses 3-pt jump shot from 27 ft,,4,111,101,10,2809.0
+1:08.0,Defensive rebound by D. Hunter,101-111, ,,4,111,101,10,2812.0
+1:03.0,D. Murray makes 2-pt layup from 3 ft,103-111, ,,4,111,103,8,2817.0
+0:54.0, ,103-113,J. Tatum makes 2-pt layup from 2 ft (assist by D. White),,4,113,103,10,2826.0
+0:49.0,D. Murray misses 3-pt jump shot from 26 ft,103-113, ,,4,113,103,10,2831.0
+0:47.0, ,103-113,Defensive rebound by Team,,4,113,103,10,2833.0
+0:47.0, ,103-113,Boston full timeout,,4,113,103,10,2833.0
+0:47.0, ,103-113,Instant Replay (Challenge: Ruling Stands),,4,113,103,10,2833.0
+0:47.0, ,103-113,P. Pritchard enters the game for S. Hauser,,4,113,103,10,2833.0
+0:28.0, ,103-113,J. Brown misses 2-pt jump shot from 10 ft,,4,113,103,10,2852.0
+0:25.0,Defensive rebound by B. Bogdanović,103-113, ,,4,113,103,10,2855.0
+0:21.0,B. Bogdanović misses 3-pt jump shot from 27 ft,103-113, ,,4,113,103,10,2859.0
+0:17.0, ,103-113,Defensive rebound by A. Horford,,4,113,103,10,2863.0
+0:00.0,End of 4th quarter,103-113,,,4,113,103,10,2880.0

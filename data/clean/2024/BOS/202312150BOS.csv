@@ -1,0 +1,459 @@
+Time,Orlando,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: G. Bitadze vs. L. Stevens (J. Suggs gains possession),0-0,,,1,0,0,0,0.0
+11:36.0,J. Suggs makes 3-pt jump shot from 26 ft,3-0, ,,1,0,3,-3,24.0
+11:07.0, ,3-0,J. Tatum misses 3-pt jump shot from 27 ft,,1,0,3,-3,53.0
+11:03.0,Defensive rebound by A. Black,3-0, ,,1,0,3,-3,57.0
+10:50.0,F. Wagner makes 2-pt layup from 3 ft,5-0, ,,1,0,5,-5,70.0
+10:37.0, ,5-0,L. Stevens misses 3-pt jump shot from 24 ft,,1,0,5,-5,83.0
+10:32.0,Defensive rebound by J. Suggs,5-0, ,,1,0,5,-5,88.0
+10:31.0,J. Suggs misses 2-pt layup from 3 ft,5-0, ,,1,0,5,-5,89.0
+10:26.0,Offensive rebound by G. Bitadze,5-0, ,,1,0,5,-5,94.0
+10:24.0,G. Bitadze makes 2-pt layup from 5 ft,7-0, ,,1,0,7,-7,96.0
+10:17.0, ,7-2,J. Tatum makes 2-pt layup from 2 ft (assist by D. White),,1,2,7,-5,103.0
+9:56.0,F. Wagner misses 3-pt jump shot from 28 ft,7-2, ,,1,2,7,-5,124.0
+9:56.0, ,7-2,Defensive rebound by J. Tatum,,1,2,7,-5,124.0
+9:44.0, ,7-2,D. White misses 3-pt jump shot from 24 ft,,1,2,7,-5,136.0
+9:41.0,Defensive rebound by A. Black,7-2, ,,1,2,7,-5,139.0
+9:37.0,F. Wagner makes 2-pt layup from 3 ft (assist by A. Black),9-2, ,,1,2,9,-7,143.0
+9:33.0, ,9-2,Turnover by J. Tatum (bad pass; steal by F. Wagner),,1,2,9,-7,147.0
+9:27.0,F. Wagner misses 3-pt jump shot from 26 ft,9-2, ,,1,2,9,-7,153.0
+9:25.0, ,9-2,Defensive rebound by J. Tatum,,1,2,9,-7,155.0
+9:21.0, ,9-4,L. Stevens makes 2-pt layup from 4 ft (assist by D. White),,1,4,9,-5,159.0
+8:55.0,J. Suggs misses 3-pt jump shot from 28 ft,9-4, ,,1,4,9,-5,185.0
+8:52.0, ,9-4,Defensive rebound by J. Holiday,,1,4,9,-5,188.0
+8:48.0, ,9-4,D. White misses 3-pt jump shot from 28 ft,,1,4,9,-5,192.0
+8:45.0,Defensive rebound by G. Bitadze,9-4, ,,1,4,9,-5,195.0
+8:36.0,Turnover by P. Banchero (bad pass; steal by J. Holiday),9-4, ,,1,4,9,-5,204.0
+8:29.0, ,9-4,J. Tatum misses 3-pt jump shot from 27 ft,,1,4,9,-5,211.0
+8:26.0,Defensive rebound by A. Black,9-4, ,,1,4,9,-5,214.0
+8:22.0,Offensive foul by F. Wagner (drawn by D. White),9-4, ,,1,4,9,-5,218.0
+8:22.0,Turnover by F. Wagner (offensive foul),9-4, ,,1,4,9,-5,218.0
+8:22.0,Instant Replay,9-4, ,,1,4,9,-5,218.0
+7:59.0, ,9-4,J. Tatum misses 3-pt jump shot from 27 ft,,1,4,9,-5,241.0
+7:58.0, ,9-4,Offensive rebound by Team,,1,4,9,-5,242.0
+7:58.0, ,9-4,Turnover by Team (shot clock),,1,4,9,-5,242.0
+7:46.0,P. Banchero makes 2-pt layup from 3 ft,11-4, ,,1,4,11,-7,254.0
+7:32.0, ,11-6,L. Stevens makes 2-pt dunk from 1 ft (assist by J. Holiday),,1,6,11,-5,268.0
+7:22.0,Personal foul by J. Holiday (drawn by F. Wagner),11-6, ,,1,6,11,-5,278.0
+7:09.0,G. Bitadze makes 2-pt layup from 3 ft (assist by A. Black),13-6, ,,1,6,13,-7,291.0
+7:02.0, ,13-8,J. Brown makes 2-pt dunk from 3 ft (assist by D. White),,1,8,13,-5,298.0
+6:54.0,F. Wagner misses 2-pt layup from 3 ft (block by J. Brown),13-8, ,,1,8,13,-5,306.0
+6:54.0, ,13-8,Defensive rebound by L. Stevens,,1,8,13,-5,306.0
+6:48.0, ,13-8,J. Holiday misses 3-pt jump shot from 26 ft,,1,8,13,-5,312.0
+6:45.0,Defensive rebound by A. Black,13-8, ,,1,8,13,-5,315.0
+6:38.0,Turnover by P. Banchero (lost ball; steal by D. White),13-8, ,,1,8,13,-5,322.0
+6:35.0, ,13-8,Shooting foul by A. Black (drawn by J. Brown),,1,8,13,-5,325.0
+6:35.0, ,13-8,Boston full timeout,,1,8,13,-5,325.0
+6:35.0, ,13-8,S. Hauser enters the game for J. Tatum,,1,8,13,-5,325.0
+6:35.0, ,13-9,J. Brown makes free throw 1 of 2,,1,9,13,-4,325.0
+6:35.0, ,13-9,J. Brown misses free throw 2 of 2,,1,9,13,-4,325.0
+6:29.0, ,13-9,Offensive rebound by J. Holiday,,1,9,13,-4,331.0
+6:27.0, ,13-9,S. Hauser misses 3-pt jump shot from 23 ft,,1,9,13,-4,333.0
+6:24.0,Defensive rebound by P. Banchero,13-9, ,,1,9,13,-4,336.0
+6:21.0,J. Suggs makes 2-pt layup from 3 ft (assist by P. Banchero),15-9, ,,1,9,15,-6,339.0
+6:11.0, ,15-9,D. White misses 2-pt layup from 7 ft (block by P. Banchero),,1,9,15,-6,349.0
+6:09.0,Defensive rebound by J. Suggs,15-9, ,,1,9,15,-6,351.0
+6:09.0,Offensive foul by J. Suggs (drawn by J. Holiday),15-9, ,,1,9,15,-6,351.0
+6:09.0,Turnover by J. Suggs (offensive foul),15-9, ,,1,9,15,-6,351.0
+6:09.0,J. Ingles enters the game for F. Wagner,15-9, ,,1,9,15,-6,351.0
+6:09.0, ,15-9,Boston full timeout,,1,9,15,-6,351.0
+6:09.0,F. Wagner enters the game for J. Ingles,15-9, ,,1,9,15,-6,351.0
+6:09.0, ,15-9,Instant Replay (Challenge: Ruling Stands),,1,9,15,-6,351.0
+5:47.0, ,15-9,J. Brown misses 2-pt jump shot from 15 ft,,1,9,15,-6,373.0
+5:46.0,Defensive rebound by Team,15-9, ,,1,9,15,-6,374.0
+5:46.0, ,15-9,Loose ball foul by L. Stevens (drawn by G. Bitadze),,1,9,15,-6,374.0
+5:46.0, ,15-9,P. Pritchard enters the game for J. Holiday,,1,9,15,-6,374.0
+5:46.0, ,15-9,N. Queta enters the game for L. Stevens,,1,9,15,-6,374.0
+5:37.0,Turnover by P. Banchero (bad pass),15-9, ,,1,9,15,-6,383.0
+5:27.0, ,15-9,D. White misses 2-pt jump shot from 10 ft,,1,9,15,-6,393.0
+5:23.0,Defensive rebound by J. Ingles,15-9, ,,1,9,15,-6,397.0
+5:15.0,P. Banchero misses 2-pt jump shot from 14 ft,15-9, ,,1,9,15,-6,405.0
+5:13.0, ,15-9,Defensive rebound by S. Hauser,,1,9,15,-6,407.0
+5:05.0, ,15-12,P. Pritchard makes 3-pt jump shot from 23 ft (assist by J. Brown),,1,12,15,-3,415.0
+4:49.0,A. Black makes 2-pt dunk from 3 ft (assist by P. Banchero),17-12, ,,1,12,17,-5,431.0
+4:32.0, ,17-15,P. Pritchard makes 3-pt jump shot from 24 ft (assist by J. Brown),,1,15,17,-2,448.0
+4:14.0,P. Banchero misses 2-pt jump shot from 18 ft,17-15, ,,1,15,17,-2,466.0
+4:12.0, ,17-15,Defensive rebound by D. White,,1,15,17,-2,468.0
+4:07.0, ,17-15,P. Pritchard misses 2-pt layup from 4 ft (block by J. Suggs),,1,15,17,-2,473.0
+4:06.0, ,17-15,Offensive rebound by Team,,1,15,17,-2,474.0
+4:06.0,Orlando full timeout,17-15, ,,1,15,17,-2,474.0
+4:06.0,C. Anthony enters the game for A. Black,17-15, ,,1,15,17,-2,474.0
+4:06.0,G. Harris enters the game for J. Suggs,17-15, ,,1,15,17,-2,474.0
+3:58.0, ,17-17,J. Brown makes 2-pt jump shot from 14 ft,Tie,1,17,17,0,482.0
+3:58.0, ,17-17,Shooting foul by C. Anthony (drawn by J. Brown),,1,17,17,0,482.0
+3:58.0, ,17-18,J. Brown makes free throw 1 of 1,Lead change,1,18,17,1,482.0
+3:55.0,Personal foul by P. Pritchard (drawn by C. Anthony),17-18, ,,1,18,17,1,485.0
+3:55.0, ,17-18,J. Tatum enters the game for D. White,,1,18,17,1,485.0
+3:40.0,C. Anthony makes 2-pt layup from 7 ft,19-18, ,Lead change,1,18,19,-1,500.0
+3:26.0, ,19-20,J. Tatum makes 2-pt layup from 3 ft (assist by P. Pritchard),Lead change,1,20,19,1,514.0
+3:07.0,P. Banchero makes 2-pt layup from 3 ft (assist by J. Ingles),21-20, ,Lead change,1,20,21,-1,533.0
+2:58.0, ,21-22,J. Brown makes 2-pt hook shot from 8 ft,Lead change,1,22,21,1,542.0
+2:46.0,Turnover by G. Bitadze (lost ball; steal by N. Queta),21-22, ,,1,22,21,1,554.0
+2:39.0, ,21-24,J. Brown makes 2-pt layup from 3 ft (assist by P. Pritchard),,1,24,21,3,561.0
+2:20.0,G. Bitadze makes 2-pt layup from 5 ft (assist by J. Ingles),23-24, ,,1,24,23,1,580.0
+2:03.0, ,23-24,P. Pritchard misses 3-pt jump shot from 27 ft,,1,24,23,1,597.0
+2:00.0,Defensive rebound by P. Banchero,23-24, ,,1,24,23,1,600.0
+1:46.0,C. Anthony misses 3-pt jump shot from 29 ft,23-24, ,,1,24,23,1,614.0
+1:40.0, ,23-24,Defensive rebound by S. Hauser,,1,24,23,1,620.0
+1:26.0, ,23-24,J. Brown misses 3-pt jump shot from 24 ft,,1,24,23,1,634.0
+1:24.0,Defensive rebound by P. Banchero,23-24, ,,1,24,23,1,636.0
+1:15.0,Shooting foul by N. Queta (drawn by P. Banchero),23-24, ,,1,24,23,1,645.0
+1:15.0,P. Banchero makes free throw 1 of 2,24-24, ,Tie,1,24,24,0,645.0
+1:15.0,M. Wagner enters the game for G. Bitadze,24-24, ,,1,24,24,0,645.0
+1:15.0,P. Banchero misses free throw 2 of 2,24-24, ,,1,24,24,0,645.0
+1:13.0, ,24-24,Defensive rebound by N. Queta,,1,24,24,0,647.0
+0:55.0, ,24-27,J. Tatum makes 3-pt jump shot from 28 ft,,1,27,24,3,665.0
+0:55.0,J. Isaac enters the game for P. Banchero,24-27, ,,1,27,24,3,665.0
+0:41.0,G. Harris misses 3-pt jump shot from 23 ft,24-27, ,,1,27,24,3,679.0
+0:38.0,Offensive rebound by J. Ingles,24-27, ,,1,27,24,3,682.0
+0:35.0,J. Ingles misses 2-pt layup from 5 ft (block by N. Queta),24-27, ,,1,27,24,3,685.0
+0:32.0, ,24-27,Defensive rebound by J. Brown,,1,27,24,3,688.0
+0:23.0, ,24-30,P. Pritchard makes 3-pt jump shot from 24 ft (assist by S. Hauser),,1,30,24,6,697.0
+0:02.0,Turnover by M. Wagner (bad pass; steal by S. Hauser),24-30, ,,1,30,24,6,718.0
+0:00.0, ,24-30,J. Brown misses 3-pt jump shot from 27 ft,,1,30,24,6,720.0
+0:00.0, ,24-30,Offensive rebound by Team,,1,30,24,6,720.0
+0:00.0,End of 1st quarter,24-30,,,1,30,24,6,720.0
+12:00.0,Start of 2nd quarter,24-30,,,2,30,24,6,720.0
+11:44.0, ,24-30,J. Tatum misses 2-pt layup from 4 ft,,2,30,24,6,736.0
+11:43.0,Defensive rebound by J. Isaac,24-30, ,,2,30,24,6,737.0
+11:39.0,Turnover by F. Wagner (bad pass),24-30, ,,2,30,24,6,741.0
+11:16.0, ,24-32,O. Brissett makes 2-pt layup from 2 ft (assist by J. Tatum),,2,32,24,8,764.0
+11:07.0,Personal foul by P. Pritchard (drawn by C. Anthony),24-32, ,,2,32,24,8,773.0
+10:58.0,F. Wagner misses 2-pt layup from 13 ft (block by N. Queta),24-32, ,,2,32,24,8,782.0
+10:57.0,Offensive rebound by Team,24-32, ,,2,32,24,8,783.0
+10:52.0,Shooting foul by N. Queta (drawn by F. Wagner),24-32, ,,2,32,24,8,788.0
+10:52.0,F. Wagner makes free throw 1 of 2,25-32, ,,2,32,25,7,788.0
+10:52.0,F. Wagner makes free throw 2 of 2,26-32, ,,2,32,26,6,788.0
+10:43.0, ,26-34,J. Tatum makes 2-pt layup from 3 ft,,2,34,26,8,797.0
+10:43.0, ,26-34,Shooting foul by J. Isaac (drawn by J. Tatum),,2,34,26,8,797.0
+10:43.0, ,26-35,J. Tatum makes free throw 1 of 1,,2,35,26,9,797.0
+10:33.0,G. Harris makes 2-pt jump shot from 15 ft (assist by C. Anthony),28-35, ,,2,35,28,7,807.0
+10:11.0, ,28-35,Turnover by O. Brissett (lost ball; steal by F. Wagner),,2,35,28,7,829.0
+10:10.0,Personal foul by O. Brissett (drawn by F. Wagner),28-35, ,,2,35,28,7,830.0
+9:58.0,Shooting foul by O. Brissett (drawn by C. Anthony),28-35, ,,2,35,28,7,842.0
+9:58.0,C. Anthony makes free throw 1 of 2,29-35, ,,2,35,29,6,842.0
+9:58.0, ,29-35,J. Holiday enters the game for S. Mykhailiuk,,2,35,29,6,842.0
+9:58.0,C. Anthony makes free throw 2 of 2,30-35, ,,2,35,30,5,842.0
+9:43.0, ,30-35,J. Tatum misses 3-pt jump shot from 26 ft,,2,35,30,5,857.0
+9:41.0,Defensive rebound by F. Wagner,30-35, ,,2,35,30,5,859.0
+9:27.0,C. Anthony makes 3-pt jump shot from 27 ft (assist by M. Wagner),33-35, ,,2,35,33,2,873.0
+9:14.0, ,33-37,P. Pritchard makes 2-pt layup from 3 ft (assist by O. Brissett),,2,37,33,4,886.0
+8:55.0,C. Anthony makes 3-pt jump shot from 27 ft (assist by F. Wagner),36-37, ,,2,37,36,1,905.0
+8:39.0, ,36-37,J. Holiday misses 2-pt jump shot from 6 ft,,2,37,36,1,921.0
+8:37.0, ,36-37,Offensive rebound by N. Queta,,2,37,36,1,923.0
+8:35.0, ,36-40,O. Brissett makes 3-pt jump shot from 24 ft (assist by N. Queta),,2,40,36,4,925.0
+8:24.0,M. Wagner misses 3-pt jump shot from 24 ft,36-40, ,,2,40,36,4,936.0
+8:24.0, ,36-40,Defensive rebound by J. Tatum,,2,40,36,4,936.0
+8:15.0, ,36-42,J. Tatum makes 2-pt layup from 2 ft,,2,42,36,6,945.0
+8:15.0, ,36-42,Shooting foul by M. Wagner (drawn by J. Tatum),,2,42,36,6,945.0
+8:15.0, ,36-42,J. Tatum misses free throw 1 of 1,,2,42,36,6,945.0
+8:12.0,Defensive rebound by F. Wagner,36-42, ,,2,42,36,6,948.0
+8:00.0,Shooting foul by N. Queta (drawn by F. Wagner),36-42, ,,2,42,36,6,960.0
+8:00.0,F. Wagner makes free throw 1 of 2,37-42, ,,2,42,37,5,960.0
+8:00.0,P. Banchero enters the game for M. Wagner,37-42, ,,2,42,37,5,960.0
+8:00.0, ,37-42,S. Hauser enters the game for N. Queta,,2,42,37,5,960.0
+8:00.0,F. Wagner makes free throw 2 of 2,38-42, ,,2,42,38,4,960.0
+7:43.0, ,38-44,O. Brissett makes 2-pt dunk from 2 ft (assist by J. Holiday),,2,44,38,6,977.0
+7:32.0,F. Wagner misses 2-pt hook shot from 3 ft,38-44, ,,2,44,38,6,988.0
+7:28.0,Offensive rebound by J. Isaac,38-44, ,,2,44,38,6,992.0
+7:28.0,J. Isaac makes 2-pt layup at rim,40-44, ,,2,44,40,4,992.0
+7:23.0, ,40-44,Personal foul by G. Harris (drawn by J. Holiday),,2,44,40,4,997.0
+7:23.0, ,40-44,J. Brown enters the game for O. Brissett,,2,44,40,4,997.0
+7:23.0, ,40-44,D. White enters the game for P. Pritchard,,2,44,40,4,997.0
+7:18.0, ,40-44,Personal foul by C. Anthony (drawn by D. White),,2,44,40,4,1002.0
+7:18.0,J. Suggs enters the game for G. Harris,40-44, ,,2,44,40,4,1002.0
+7:06.0, ,40-44,J. Holiday misses 2-pt jump shot from 16 ft,,2,44,40,4,1014.0
+7:04.0,Defensive rebound by J. Isaac,40-44, ,,2,44,40,4,1016.0
+6:47.0,C. Anthony misses 2-pt jump shot from 12 ft,40-44, ,,2,44,40,4,1033.0
+6:47.0, ,40-44,Defensive rebound by Team,,2,44,40,4,1033.0
+6:47.0, ,40-44,Boston full timeout,,2,44,40,4,1033.0
+6:47.0,C. Houstan enters the game for C. Anthony,40-44, ,,2,44,40,4,1033.0
+6:33.0, ,40-46,D. White makes 2-pt layup from 3 ft,,2,46,40,6,1047.0
+6:06.0,J. Suggs misses 3-pt jump shot from 27 ft,40-46, ,,2,46,40,6,1074.0
+6:04.0, ,40-46,Defensive rebound by J. Tatum,,2,46,40,6,1076.0
+5:48.0, ,40-48,J. Tatum makes 2-pt jump shot from 15 ft,,2,48,40,8,1092.0
+5:32.0,P. Banchero misses 2-pt layup from 5 ft (block by D. White),40-48, ,,2,48,40,8,1108.0
+5:29.0,Offensive rebound by P. Banchero,40-48, ,,2,48,40,8,1111.0
+5:28.0,Turnover by P. Banchero (bad pass; steal by J. Holiday),40-48, ,,2,48,40,8,1112.0
+5:23.0, ,40-50,J. Brown makes 2-pt dunk from 2 ft (assist by J. Holiday),,2,50,40,10,1117.0
+5:08.0,J. Isaac makes 2-pt dunk from 2 ft (assist by F. Wagner),42-50, ,,2,50,42,8,1132.0
+4:53.0, ,42-53,J. Holiday makes 3-pt jump shot from 26 ft,,2,53,42,11,1147.0
+4:41.0,Personal foul by J. Holiday (drawn by P. Banchero),42-53, ,,2,53,42,11,1159.0
+4:41.0,P. Banchero makes free throw 1 of 2,43-53, ,,2,53,43,10,1159.0
+4:41.0,A. Black enters the game for J. Isaac,43-53, ,,2,53,43,10,1159.0
+4:41.0,P. Banchero misses free throw 2 of 2,43-53, ,,2,53,43,10,1159.0
+4:39.0, ,43-53,Defensive rebound by J. Brown,,2,53,43,10,1161.0
+4:28.0, ,43-55,J. Brown makes 2-pt dunk from 2 ft (assist by D. White),,2,55,43,12,1172.0
+4:04.0,Turnover by F. Wagner (bad pass; steal by S. Hauser),43-55, ,,2,55,43,12,1196.0
+3:55.0, ,43-55,J. Tatum misses 3-pt jump shot from 29 ft,,2,55,43,12,1205.0
+3:54.0,Defensive rebound by Team,43-55, ,,2,55,43,12,1206.0
+3:39.0,C. Houstan misses 3-pt jump shot from 27 ft,43-55, ,,2,55,43,12,1221.0
+3:37.0, ,43-55,Defensive rebound by J. Tatum,,2,55,43,12,1223.0
+3:30.0, ,43-57,J. Tatum makes 2-pt layup from 2 ft (assist by D. White),,2,57,43,14,1230.0
+3:30.0,Orlando full timeout,43-57, ,,2,57,43,14,1230.0
+3:30.0,G. Bitadze enters the game for C. Houstan,43-57, ,,2,57,43,14,1230.0
+3:13.0,F. Wagner makes 2-pt layup from 3 ft (assist by P. Banchero),45-57, ,,2,57,45,12,1247.0
+2:57.0, ,45-60,S. Hauser makes 3-pt jump shot from 28 ft (assist by J. Brown),,2,60,45,15,1263.0
+2:45.0,P. Banchero misses 2-pt layup from 7 ft,45-60, ,,2,60,45,15,1275.0
+2:41.0,Offensive rebound by G. Bitadze,45-60, ,,2,60,45,15,1279.0
+2:41.0,G. Bitadze makes 2-pt layup at rim,47-60, ,,2,60,47,13,1279.0
+2:24.0, ,47-60,J. Brown misses 3-pt jump shot from 23 ft,,2,60,47,13,1296.0
+2:22.0,Defensive rebound by J. Suggs,47-60, ,,2,60,47,13,1298.0
+2:15.0,F. Wagner misses 2-pt layup from 3 ft,47-60, ,,2,60,47,13,1305.0
+2:14.0,Offensive rebound by Team,47-60, ,,2,60,47,13,1306.0
+2:07.0,Turnover by P. Banchero (bad pass; steal by S. Hauser),47-60, ,,2,60,47,13,1313.0
+2:01.0, ,47-62,S. Hauser makes 2-pt layup from 5 ft,,2,62,47,15,1319.0
+1:48.0,P. Banchero misses 3-pt jump shot from 29 ft,47-62, ,,2,62,47,15,1332.0
+1:48.0,Offensive rebound by Team,47-62, ,,2,62,47,15,1332.0
+1:48.0, ,47-62,Loose ball foul by J. Tatum (drawn by G. Bitadze),,2,62,47,15,1332.0
+1:48.0,G. Bitadze makes free throw 1 of 2,48-62, ,,2,62,48,14,1332.0
+1:48.0,J. Isaac enters the game for P. Banchero,48-62, ,,2,62,48,14,1332.0
+1:48.0,G. Bitadze misses free throw 2 of 2,48-62, ,,2,62,48,14,1332.0
+1:46.0, ,48-62,Defensive rebound by J. Brown,,2,62,48,14,1334.0
+1:30.0, ,48-64,J. Tatum makes 2-pt dunk from 2 ft (assist by J. Brown),,2,64,48,16,1350.0
+1:09.0,J. Suggs misses 3-pt jump shot from 24 ft,48-64, ,,2,64,48,16,1371.0
+1:07.0, ,48-64,Defensive rebound by D. White,,2,64,48,16,1373.0
+1:03.0, ,48-64,D. White misses 3-pt jump shot from 28 ft,,2,64,48,16,1377.0
+0:59.0,Defensive rebound by G. Bitadze,48-64, ,,2,64,48,16,1381.0
+0:54.0,A. Black makes 3-pt jump shot from 27 ft (assist by J. Suggs),51-64, ,,2,64,51,13,1386.0
+0:33.0, ,51-64,S. Hauser misses 2-pt layup from 5 ft,,2,64,51,13,1407.0
+0:31.0,Defensive rebound by J. Suggs,51-64, ,,2,64,51,13,1409.0
+0:24.0,J. Isaac misses 2-pt hook shot from 5 ft,51-64, ,,2,64,51,13,1416.0
+0:20.0, ,51-64,Defensive rebound by J. Tatum,,2,64,51,13,1420.0
+0:02.0, ,51-64,J. Holiday misses 2-pt jump shot from 17 ft,,2,64,51,13,1438.0
+0:00.0, ,51-64,Offensive rebound by D. White,,2,64,51,13,1440.0
+0:00.0, ,51-64,D. White misses 2-pt layup from 8 ft,,2,64,51,13,1440.0
+0:00.0,Defensive rebound by G. Bitadze,51-64, ,,2,64,51,13,1440.0
+0:00.0,End of 2nd quarter,51-64,,,2,64,51,13,1440.0
+12:00.0,Start of 3rd quarter,51-64,,,3,64,51,13,1440.0
+11:46.0, ,51-64,J. Brown misses 3-pt jump shot from 27 ft,,3,64,51,13,1454.0
+11:44.0,Defensive rebound by F. Wagner,51-64, ,,3,64,51,13,1456.0
+11:22.0,P. Banchero misses 3-pt jump shot from 28 ft,51-64, ,,3,64,51,13,1478.0
+11:20.0, ,51-64,Defensive rebound by J. Holiday,,3,64,51,13,1480.0
+11:08.0, ,51-64,Personal foul by A. Black (drawn by D. White),,3,64,51,13,1492.0
+11:06.0, ,51-64,Turnover by D. White (back court),,3,64,51,13,1494.0
+10:57.0,G. Bitadze makes 2-pt layup from 4 ft (assist by P. Banchero),53-64, ,,3,64,53,11,1503.0
+10:41.0, ,53-64,J. Holiday misses 2-pt jump shot from 22 ft,,3,64,53,11,1519.0
+10:40.0, ,53-64,Offensive rebound by L. Stevens,,3,64,53,11,1520.0
+10:40.0, ,53-64,L. Stevens misses 2-pt layup at rim,,3,64,53,11,1520.0
+10:40.0, ,53-64,Offensive rebound by Team,,3,64,53,11,1520.0
+10:40.0,Loose ball foul by F. Wagner (drawn by L. Stevens),53-64, ,,3,64,53,11,1520.0
+10:27.0, ,53-66,J. Brown makes 2-pt jump shot from 19 ft,,3,66,53,13,1533.0
+10:05.0,P. Banchero makes 2-pt layup from 5 ft,55-66, ,,3,66,55,11,1555.0
+9:54.0, ,55-66,Shooting foul by P. Banchero (drawn by J. Tatum),,3,66,55,11,1566.0
+9:54.0, ,55-67,J. Tatum makes free throw 1 of 2,,3,67,55,12,1566.0
+9:54.0, ,55-68,J. Tatum makes free throw 2 of 2,,3,68,55,13,1566.0
+9:42.0,F. Wagner misses 2-pt layup from 6 ft,55-68, ,,3,68,55,13,1578.0
+9:38.0, ,55-68,Defensive rebound by L. Stevens,,3,68,55,13,1582.0
+9:38.0, ,55-68,Personal foul by G. Harris (drawn by J. Brown),,3,68,55,13,1582.0
+9:34.0, ,55-68,J. Brown misses 2-pt jump shot from 13 ft,,3,68,55,13,1586.0
+9:30.0,Defensive rebound by G. Bitadze,55-68, ,,3,68,55,13,1590.0
+9:21.0,Shooting foul by L. Stevens (drawn by P. Banchero),55-68, ,,3,68,55,13,1599.0
+9:21.0,P. Banchero misses free throw 1 of 2,55-68, ,,3,68,55,13,1599.0
+9:21.0,Offensive rebound by Team,55-68, ,,3,68,55,13,1599.0
+9:21.0,P. Banchero makes free throw 2 of 2,56-68, ,,3,68,56,12,1599.0
+9:07.0, ,56-70,D. White makes 2-pt jump shot from 12 ft,,3,70,56,14,1613.0
+8:48.0,Turnover by F. Wagner (bad pass; steal by L. Stevens),56-70, ,,3,70,56,14,1632.0
+8:30.0, ,56-70,J. Tatum misses 2-pt jump shot from 19 ft,,3,70,56,14,1650.0
+8:27.0,Defensive rebound by G. Bitadze,56-70, ,,3,70,56,14,1653.0
+8:21.0,G. Harris misses 3-pt jump shot from 25 ft,56-70, ,,3,70,56,14,1659.0
+8:18.0,Offensive rebound by Team,56-70, ,,3,70,56,14,1662.0
+8:17.0,Personal foul by J. Tatum (drawn by G. Bitadze),56-70, ,,3,70,56,14,1663.0
+8:13.0,Turnover by G. Bitadze (bad pass; steal by L. Stevens),56-70, ,,3,70,56,14,1667.0
+8:08.0, ,56-70,Turnover by L. Stevens (lost ball; steal by F. Wagner),,3,70,56,14,1672.0
+8:03.0,P. Banchero misses 2-pt layup from 4 ft,56-70, ,,3,70,56,14,1677.0
+8:00.0,Offensive rebound by G. Bitadze,56-70, ,,3,70,56,14,1680.0
+8:00.0,G. Bitadze makes 2-pt layup at rim,58-70, ,,3,70,58,12,1680.0
+7:53.0, ,58-73,D. White makes 3-pt jump shot from 29 ft,,3,73,58,15,1687.0
+7:44.0,Offensive foul by F. Wagner (drawn by J. Brown),58-73, ,,3,73,58,15,1696.0
+7:44.0,Turnover by F. Wagner (offensive foul),58-73, ,,3,73,58,15,1696.0
+7:20.0, ,58-76,L. Stevens makes 3-pt jump shot from 24 ft (assist by J. Tatum),,3,76,58,18,1720.0
+7:19.0,Orlando full timeout,58-76, ,,3,76,58,18,1721.0
+7:07.0,Turnover by F. Wagner (lost ball),58-76, ,,3,76,58,18,1733.0
+7:07.0, ,58-76,Boston full timeout,,3,76,58,18,1733.0
+7:07.0, ,58-76,Instant Replay (Challenge: Ruling Stands),,3,76,58,18,1733.0
+6:49.0, ,58-76,J. Brown misses 3-pt jump shot from 27 ft,,3,76,58,18,1751.0
+6:46.0,Defensive rebound by G. Bitadze,58-76, ,,3,76,58,18,1754.0
+6:45.0,Turnover by G. Bitadze (lost ball; steal by D. White),58-76, ,,3,76,58,18,1755.0
+6:42.0, ,58-79,D. White makes 3-pt jump shot from 23 ft,,3,79,58,21,1758.0
+6:20.0,F. Wagner makes 3-pt jump shot from 26 ft (assist by G. Bitadze),61-79, ,,3,79,61,18,1780.0
+6:03.0, ,61-79,J. Tatum misses 3-pt jump shot from 27 ft,,3,79,61,18,1797.0
+6:01.0,Defensive rebound by F. Wagner,61-79, ,,3,79,61,18,1799.0
+5:55.0,A. Black misses 3-pt jump shot from 23 ft,61-79, ,,3,79,61,18,1805.0
+5:54.0, ,61-79,Defensive rebound by Team,,3,79,61,18,1806.0
+5:54.0,Loose ball foul by G. Harris (drawn by J. Tatum),61-79, ,,3,79,61,18,1806.0
+5:54.0,C. Houstan enters the game for F. Wagner,61-79, ,,3,79,61,18,1806.0
+5:54.0, ,61-79,N. Queta enters the game for L. Stevens,,3,79,61,18,1806.0
+5:54.0, ,61-79,J. Tatum misses free throw 1 of 2,,3,79,61,18,1806.0
+5:54.0, ,61-79,Offensive rebound by Team,,3,79,61,18,1806.0
+5:54.0, ,61-79,P. Pritchard enters the game for D. White,,3,79,61,18,1806.0
+5:54.0, ,61-80,J. Tatum makes free throw 2 of 2,,3,80,61,19,1806.0
+5:39.0,P. Banchero misses 2-pt layup from 18 ft (block by J. Holiday),61-80, ,,3,80,61,19,1821.0
+5:36.0,Offensive rebound by G. Bitadze,61-80, ,,3,80,61,19,1824.0
+5:35.0,G. Bitadze makes 2-pt layup from 2 ft,63-80, ,,3,80,63,17,1825.0
+5:30.0, ,63-80,Turnover by J. Brown (lost ball; steal by G. Harris),,3,80,63,17,1830.0
+5:25.0,P. Banchero misses 2-pt layup from 3 ft,63-80, ,,3,80,63,17,1835.0
+5:25.0,Offensive rebound by G. Bitadze,63-80, ,,3,80,63,17,1835.0
+5:24.0,G. Bitadze misses 2-pt layup from 1 ft,63-80, ,,3,80,63,17,1836.0
+5:24.0,Offensive rebound by A. Black,63-80, ,,3,80,63,17,1836.0
+5:22.0,A. Black makes 2-pt layup at rim,65-80, ,,3,80,65,15,1838.0
+5:03.0, ,65-82,J. Brown makes 2-pt layup from 5 ft,,3,82,65,17,1857.0
+4:55.0,C. Houstan misses 3-pt jump shot from 24 ft,65-82, ,,3,82,65,17,1865.0
+4:55.0,Offensive rebound by Team,65-82, ,,3,82,65,17,1865.0
+4:55.0, ,65-82,Loose ball foul by P. Pritchard (drawn by A. Black),,3,82,65,17,1865.0
+4:55.0,C. Anthony enters the game for G. Harris,65-82, ,,3,82,65,17,1865.0
+4:55.0, ,65-82,S. Hauser enters the game for J. Tatum,,3,82,65,17,1865.0
+4:46.0,P. Banchero misses 2-pt layup from 6 ft,65-82, ,,3,82,65,17,1874.0
+4:46.0,Offensive rebound by Team,65-82, ,,3,82,65,17,1874.0
+4:43.0,P. Banchero misses 3-pt jump shot from 24 ft,65-82, ,,3,82,65,17,1877.0
+4:40.0,Offensive rebound by A. Black,65-82, ,,3,82,65,17,1880.0
+4:33.0,Turnover by C. Anthony (bad pass; steal by S. Hauser),65-82, ,,3,82,65,17,1887.0
+4:24.0, ,65-85,P. Pritchard makes 3-pt jump shot from 24 ft (assist by S. Hauser),,3,85,65,20,1896.0
+4:02.0,A. Black misses 3-pt jump shot from 23 ft,65-85, ,,3,85,65,20,1918.0
+4:01.0,Offensive rebound by Team,65-85, ,,3,85,65,20,1919.0
+4:01.0, ,65-85,Loose ball foul by N. Queta (drawn by G. Bitadze),,3,85,65,20,1919.0
+4:01.0,J. Suggs enters the game for G. Bitadze,65-85, ,,3,85,65,20,1919.0
+4:01.0,M. Wagner enters the game for A. Black,65-85, ,,3,85,65,20,1919.0
+3:49.0,J. Suggs misses 3-pt jump shot from 28 ft,65-85, ,,3,85,65,20,1931.0
+3:44.0,Offensive rebound by M. Wagner,65-85, ,,3,85,65,20,1936.0
+3:44.0,M. Wagner misses 2-pt layup at rim,65-85, ,,3,85,65,20,1936.0
+3:41.0, ,65-85,Defensive rebound by S. Hauser,,3,85,65,20,1939.0
+3:35.0, ,65-85,S. Hauser misses 3-pt jump shot from 24 ft,,3,85,65,20,1945.0
+3:35.0,Defensive rebound by C. Houstan,65-85, ,,3,85,65,20,1945.0
+3:19.0,P. Banchero makes 3-pt jump shot from 28 ft,68-85, ,,3,85,68,17,1961.0
+2:59.0, ,68-88,P. Pritchard makes 3-pt jump shot from 24 ft (assist by S. Hauser),,3,88,68,20,1981.0
+2:42.0,J. Suggs makes 3-pt jump shot from 24 ft (assist by C. Anthony),71-88, ,,3,88,71,17,1998.0
+2:23.0, ,71-88,Turnover by J. Brown (bad pass),,3,88,71,17,2017.0
+2:09.0,P. Banchero misses 2-pt layup from 7 ft,71-88, ,,3,88,71,17,2031.0
+2:06.0, ,71-88,Defensive rebound by J. Holiday,,3,88,71,17,2034.0
+2:02.0, ,71-91,S. Hauser makes 3-pt jump shot from 28 ft (assist by J. Holiday),,3,91,71,20,2038.0
+1:48.0,Shooting foul by N. Queta (drawn by C. Anthony),71-91, ,,3,91,71,20,2052.0
+1:48.0,C. Anthony makes free throw 1 of 2,72-91, ,,3,91,72,19,2052.0
+1:48.0,J. Isaac enters the game for P. Banchero,72-91, ,,3,91,72,19,2052.0
+1:48.0,F. Wagner enters the game for C. Houstan,72-91, ,,3,91,72,19,2052.0
+1:48.0, ,72-91,O. Brissett enters the game for J. Brown,,3,91,72,19,2052.0
+1:48.0, ,72-91,J. Tatum enters the game for N. Queta,,3,91,72,19,2052.0
+1:48.0,C. Anthony makes free throw 2 of 2,73-91, ,,3,91,73,18,2052.0
+1:40.0, ,73-91,Personal foul by C. Anthony (drawn by P. Pritchard),,3,91,73,18,2060.0
+1:40.0, ,73-91,P. Pritchard misses free throw 1 of 2,,3,91,73,18,2060.0
+1:40.0, ,73-91,Offensive rebound by Team,,3,91,73,18,2060.0
+1:40.0, ,73-92,P. Pritchard makes free throw 2 of 2,,3,92,73,19,2060.0
+1:22.0,F. Wagner makes 2-pt layup from 5 ft,75-92, ,,3,92,75,17,2078.0
+1:02.0, ,75-95,J. Holiday makes 3-pt jump shot from 24 ft (assist by J. Tatum),,3,95,75,20,2098.0
+0:49.0,C. Anthony misses 2-pt layup from 5 ft,75-95, ,,3,95,75,20,2111.0
+0:49.0, ,75-95,Defensive rebound by P. Pritchard,,3,95,75,20,2111.0
+0:38.0, ,75-95,Personal foul by M. Wagner (drawn by J. Tatum),,3,95,75,20,2122.0
+0:38.0, ,75-96,J. Tatum makes free throw 1 of 2,,3,96,75,21,2122.0
+0:38.0, ,75-96,J. Tatum misses free throw 2 of 2,,3,96,75,21,2122.0
+0:35.0, ,75-96,Offensive rebound by Team,,3,96,75,21,2125.0
+0:31.0, ,75-96,J. Tatum misses 3-pt jump shot from 27 ft,,3,96,75,21,2129.0
+0:29.0, ,75-96,Offensive rebound by O. Brissett,,3,96,75,21,2131.0
+0:29.0, ,75-96,Personal foul by M. Wagner (drawn by O. Brissett),,3,96,75,21,2131.0
+0:29.0, ,75-97,O. Brissett makes free throw 1 of 2,,3,97,75,22,2131.0
+0:29.0, ,75-98,O. Brissett makes free throw 2 of 2,,3,98,75,23,2131.0
+0:11.0,J. Suggs makes 3-pt jump shot from 23 ft (assist by C. Anthony),78-98, ,,3,98,78,20,2149.0
+0:00.0, ,78-100,J. Tatum makes 2-pt layup from 3 ft,,3,100,78,22,2160.0
+0:00.0, ,78-100,Shooting foul by F. Wagner (drawn by J. Tatum),,3,100,78,22,2160.0
+0:00.0, ,78-101,J. Tatum makes free throw 1 of 1,,3,101,78,23,2160.0
+0:00.0,End of 3rd quarter,78-101,,,3,101,78,23,2160.0
+12:00.0,Start of 4th quarter,78-101,,,4,101,78,23,2160.0
+11:45.0,M. Wagner makes 2-pt layup from 5 ft (assist by F. Wagner),80-101, ,,4,101,80,21,2175.0
+11:30.0, ,80-101,J. Tatum misses 2-pt jump shot from 20 ft,,4,101,80,21,2190.0
+11:28.0,Defensive rebound by J. Isaac,80-101, ,,4,101,80,21,2192.0
+11:25.0,Shooting foul by S. Hauser (drawn by C. Anthony),80-101, ,,4,101,80,21,2195.0
+11:25.0,C. Anthony misses free throw 1 of 2,80-101, ,,4,101,80,21,2195.0
+11:25.0,Offensive rebound by Team,80-101, ,,4,101,80,21,2195.0
+11:25.0,C. Anthony makes free throw 2 of 2,81-101, ,,4,101,81,20,2195.0
+11:13.0, ,81-101,Offensive foul by J. Tatum (drawn by C. Anthony),,4,101,81,20,2207.0
+11:13.0, ,81-101,Turnover by J. Tatum (offensive foul),,4,101,81,20,2207.0
+11:04.0,C. Anthony makes 2-pt layup from 2 ft,83-101, ,,4,101,83,18,2216.0
+10:47.0, ,83-104,J. Tatum makes 3-pt jump shot from 27 ft (assist by D. White),,4,104,83,21,2233.0
+10:36.0,Turnover by M. Wagner (bad pass),83-104, ,,4,104,83,21,2244.0
+10:24.0, ,83-107,D. White makes 3-pt jump shot from 27 ft,,4,107,83,24,2256.0
+10:24.0,Orlando full timeout,83-107, ,,4,107,83,24,2256.0
+10:18.0,Personal foul by P. Pritchard (drawn by F. Wagner),83-107, ,,4,107,83,24,2262.0
+10:14.0,J. Isaac makes 3-pt jump shot from 27 ft (assist by M. Wagner),86-107, ,,4,107,86,21,2266.0
+9:57.0, ,86-107,D. White misses 2-pt jump shot from 12 ft,,4,107,86,21,2283.0
+9:54.0, ,86-107,Offensive rebound by S. Hauser,,4,107,86,21,2286.0
+9:52.0, ,86-107,Turnover by S. Hauser (bad pass; steal by C. Anthony),,4,107,86,21,2288.0
+9:49.0,J. Suggs makes 2-pt layup from 2 ft (assist by C. Anthony),88-107, ,,4,107,88,19,2291.0
+9:28.0, ,88-109,D. White makes 2-pt jump shot from 13 ft (assist by J. Tatum),,4,109,88,21,2312.0
+9:04.0,J. Isaac misses 3-pt jump shot from 23 ft,88-109, ,,4,109,88,21,2336.0
+9:02.0, ,88-109,Defensive rebound by D. White,,4,109,88,21,2338.0
+8:58.0, ,88-112,S. Hauser makes 3-pt jump shot from 28 ft (assist by D. White),,4,112,88,24,2342.0
+8:33.0,J. Suggs makes 3-pt jump shot from 27 ft (assist by F. Wagner),91-112, ,,4,112,91,21,2367.0
+8:08.0, ,91-114,J. Tatum makes 2-pt jump shot from 10 ft (assist by P. Pritchard),,4,114,91,23,2392.0
+7:56.0,Turnover by M. Wagner (lost ball; steal by D. White),91-114, ,,4,114,91,23,2404.0
+7:52.0, ,91-116,O. Brissett makes 2-pt dunk from 3 ft (assist by D. White),,4,116,91,25,2408.0
+7:52.0,Orlando full timeout,91-116, ,,4,116,91,25,2408.0
+7:52.0,P. Banchero enters the game for C. Anthony,91-116, ,,4,116,91,25,2408.0
+7:52.0,G. Bitadze enters the game for J. Isaac,91-116, ,,4,116,91,25,2408.0
+7:52.0,A. Black enters the game for M. Wagner,91-116, ,,4,116,91,25,2408.0
+7:38.0,Personal foul by O. Brissett (drawn by G. Bitadze),91-116, ,,4,116,91,25,2422.0
+7:35.0,F. Wagner makes 2-pt layup from 4 ft (assist by A. Black),93-116, ,,4,116,93,23,2425.0
+7:35.0, ,93-116,Violation by Team (def goaltending),,4,116,93,23,2425.0
+7:14.0, ,93-116,J. Tatum misses 2-pt jump shot from 17 ft,,4,116,93,23,2446.0
+7:10.0,Defensive rebound by A. Black,93-116, ,,4,116,93,23,2450.0
+6:55.0,J. Suggs makes 3-pt jump shot from 24 ft (assist by F. Wagner),96-116, ,,4,116,96,20,2465.0
+6:37.0, ,96-116,Offensive foul by O. Brissett (drawn by J. Suggs),,4,116,96,20,2483.0
+6:37.0, ,96-116,Turnover by O. Brissett (offensive foul),,4,116,96,20,2483.0
+6:15.0,F. Wagner misses 3-pt jump shot from 26 ft,96-116, ,,4,116,96,20,2505.0
+6:13.0,Offensive rebound by A. Black,96-116, ,,4,116,96,20,2507.0
+6:13.0,A. Black misses 2-pt layup at rim,96-116, ,,4,116,96,20,2507.0
+6:13.0, ,96-116,Defensive rebound by Team,,4,116,96,20,2507.0
+6:13.0,Loose ball foul by G. Bitadze (drawn by D. White),96-116, ,,4,116,96,20,2507.0
+6:13.0, ,96-116,N. Queta enters the game for O. Brissett,,4,116,96,20,2507.0
+6:00.0, ,96-118,D. White makes 2-pt jump shot from 17 ft,,4,118,96,22,2520.0
+5:48.0,P. Banchero makes 2-pt jump shot from 16 ft,98-118, ,,4,118,98,20,2532.0
+5:14.0, ,98-118,P. Pritchard misses 2-pt jump shot from 21 ft,,4,118,98,20,2566.0
+5:11.0, ,98-118,Offensive rebound by S. Hauser,,4,118,98,20,2569.0
+5:08.0, ,98-118,Shooting foul by J. Suggs (drawn by D. White),,4,118,98,20,2572.0
+5:08.0, ,98-119,D. White makes free throw 1 of 2,,4,119,98,21,2572.0
+5:08.0,C. Anthony enters the game for J. Suggs,98-119, ,,4,119,98,21,2572.0
+5:08.0, ,98-120,D. White makes free throw 2 of 2,,4,120,98,22,2572.0
+4:57.0,Turnover by G. Bitadze (bad pass; steal by D. White),98-120, ,,4,120,98,22,2583.0
+4:57.0, ,98-120,Personal foul by G. Bitadze (drawn by S. Hauser),,4,120,98,22,2583.0
+4:42.0, ,98-120,N. Queta misses 2-pt layup from 7 ft,,4,120,98,22,2598.0
+4:39.0, ,98-120,Offensive rebound by P. Pritchard,,4,120,98,22,2601.0
+4:36.0, ,98-123,P. Pritchard makes 3-pt jump shot from 24 ft (assist by S. Hauser),,4,123,98,25,2604.0
+4:22.0,A. Black makes 3-pt jump shot from 26 ft (assist by P. Banchero),101-123, ,,4,123,101,22,2618.0
+4:01.0, ,101-123,D. White misses 3-pt jump shot from 29 ft,,4,123,101,22,2639.0
+3:58.0, ,101-123,Offensive rebound by N. Queta,,4,123,101,22,2642.0
+3:53.0, ,101-123,S. Hauser misses 3-pt jump shot from 28 ft,,4,123,101,22,2647.0
+3:49.0,Defensive rebound by F. Wagner,101-123, ,,4,123,101,22,2651.0
+3:26.0,C. Anthony makes 2-pt jump shot from 15 ft,103-123, ,,4,123,103,20,2674.0
+3:26.0, ,103-123,Boston full timeout,,4,123,103,20,2674.0
+3:26.0,C. Houstan enters the game for C. Anthony,103-123, ,,4,123,103,20,2674.0
+3:26.0,J. Howard enters the game for P. Banchero,103-123, ,,4,123,103,20,2674.0
+3:26.0,C. Okeke enters the game for G. Bitadze,103-123, ,,4,123,103,20,2674.0
+3:26.0,A. Schofield enters the game for F. Wagner,103-123, ,,4,123,103,20,2674.0
+3:26.0, ,103-123,O. Brissett enters the game for J. Tatum,,4,123,103,20,2674.0
+3:26.0, ,103-123,S. Mykhailiuk enters the game for D. White,,4,123,103,20,2674.0
+3:13.0, ,103-125,N. Queta makes 2-pt dunk from 3 ft (assist by P. Pritchard),,4,125,103,22,2687.0
+2:51.0,C. Okeke misses 2-pt layup from 7 ft (block by N. Queta),103-125, ,,4,125,103,22,2709.0
+2:49.0, ,103-125,Defensive rebound by S. Hauser,,4,125,103,22,2711.0
+2:32.0, ,103-127,N. Queta makes 2-pt hook shot from 4 ft (assist by P. Pritchard),,4,127,103,24,2728.0
+2:19.0,Turnover by A. Schofield (bad pass; steal by P. Pritchard),103-127, ,,4,127,103,24,2741.0
+2:11.0, ,103-127,S. Mykhailiuk misses 3-pt jump shot from 27 ft,,4,127,103,24,2749.0
+2:08.0,Defensive rebound by A. Schofield,103-127, ,,4,127,103,24,2752.0
+2:01.0,C. Houstan misses 3-pt jump shot from 27 ft,103-127, ,,4,127,103,24,2759.0
+1:57.0, ,103-127,Defensive rebound by P. Pritchard,,4,127,103,24,2763.0
+1:47.0, ,103-127,Offensive foul by N. Queta (drawn by A. Schofield),,4,127,103,24,2773.0
+1:47.0, ,103-127,Turnover by N. Queta (offensive foul),,4,127,103,24,2773.0
+1:47.0, ,103-127,L. Stevens enters the game for N. Queta,,4,127,103,24,2773.0
+1:38.0,C. Houstan makes 3-pt jump shot from 26 ft (assist by A. Black),106-127, ,,4,127,106,21,2782.0
+1:22.0, ,106-127,Shooting foul by A. Schofield (drawn by L. Stevens),,4,127,106,21,2798.0
+1:22.0, ,106-128,L. Stevens makes free throw 1 of 2,,4,128,106,22,2798.0
+1:22.0, ,106-128,L. Stevens misses free throw 2 of 2,,4,128,106,22,2798.0
+1:19.0,Defensive rebound by A. Schofield,106-128, ,,4,128,106,22,2801.0
+1:03.0,A. Black makes 3-pt jump shot from 27 ft (assist by C. Houstan),109-128, ,,4,128,109,19,2817.0
+0:50.0, ,109-128,L. Stevens misses 3-pt jump shot from 24 ft,,4,128,109,19,2830.0
+0:50.0,Defensive rebound by A. Black,109-128, ,,4,128,109,19,2830.0
+0:36.0,A. Schofield misses 2-pt dunk from 6 ft (block by L. Stevens),109-128, ,,4,128,109,19,2844.0
+0:33.0, ,109-128,Defensive rebound by S. Hauser,,4,128,109,19,2847.0
+0:18.0, ,109-128,L. Stevens misses 2-pt jump shot from 13 ft,,4,128,109,19,2862.0
+0:15.0,Defensive rebound by J. Howard,109-128, ,,4,128,109,19,2865.0
+0:12.0,J. Howard misses 3-pt jump shot from 29 ft,109-128, ,,4,128,109,19,2868.0
+0:08.0,Offensive rebound by C. Houstan,109-128, ,,4,128,109,19,2872.0
+0:08.0,C. Houstan makes 2-pt layup from 3 ft,111-128, ,,4,128,111,17,2872.0
+0:00.0,End of 4th quarter,111-128,,,4,128,111,17,2880.0

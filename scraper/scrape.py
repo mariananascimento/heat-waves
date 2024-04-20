@@ -502,4 +502,4 @@ def combine(team, season):
     print("Save combined file " + quarter_midquarter_viz_filename) 
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
-scrape("MIA", "2024")
+scrape("BOS", "2024")

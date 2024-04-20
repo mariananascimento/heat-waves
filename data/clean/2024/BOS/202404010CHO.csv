@@ -1,0 +1,419 @@
+Time,Boston,Score,Charlotte,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. G. Williams (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,Shooting foul by G. Williams (drawn by K. Porziņģis),0-0, ,,1,0,0,0,17.0
+11:43.0,K. Porziņģis makes free throw 1 of 2,1-0, ,,1,1,0,1,17.0
+11:43.0,K. Porziņģis makes free throw 2 of 2,2-0, ,,1,2,0,2,17.0
+11:17.0, ,2-3,M. Bridges makes 3-pt jump shot from 27 ft (assist by V. Micić),Lead change,1,2,3,-1,43.0
+11:09.0,D. White misses 3-pt jump shot from 25 ft,2-3, ,,1,2,3,-1,51.0
+11:07.0, ,2-3,Defensive rebound by M. Bridges,,1,2,3,-1,53.0
+10:58.0, ,2-5,M. Bridges makes 2-pt hook shot from 2 ft,,1,2,5,-3,62.0
+10:46.0,J. Holiday misses 3-pt jump shot from 26 ft,2-5, ,,1,2,5,-3,74.0
+10:43.0, ,2-5,Defensive rebound by V. Micić,,1,2,5,-3,77.0
+10:27.0, ,2-7,G. Williams makes 2-pt jump shot from 13 ft (assist by V. Micić),,1,2,7,-5,93.0
+10:16.0,J. Holiday misses 3-pt jump shot from 23 ft,2-7, ,,1,2,7,-5,104.0
+10:13.0, ,2-7,Defensive rebound by M. Bridges,,1,2,7,-5,107.0
+10:06.0, ,2-10,B. Miller makes 3-pt jump shot from 27 ft (assist by M. Bridges),,1,2,10,-8,114.0
+9:44.0,J. Tatum makes 3-pt jump shot from 26 ft,5-10, ,,1,5,10,-5,136.0
+9:27.0, ,5-10,M. Bridges misses 3-pt jump shot from 27 ft,,1,5,10,-5,153.0
+9:25.0,Defensive rebound by K. Porziņģis,5-10, ,,1,5,10,-5,155.0
+9:15.0,J. Tatum misses 3-pt jump shot from 26 ft,5-10, ,,1,5,10,-5,165.0
+9:12.0,Offensive rebound by J. Holiday,5-10, ,,1,5,10,-5,168.0
+9:08.0,A. Horford misses 3-pt jump shot from 25 ft,5-10, ,,1,5,10,-5,172.0
+9:03.0,Offensive rebound by D. White,5-10, ,,1,5,10,-5,177.0
+9:03.0,D. White makes 2-pt layup at rim,7-10, ,,1,7,10,-3,177.0
+8:47.0, ,7-10,B. Miller misses 2-pt jump shot from 16 ft,,1,7,10,-3,193.0
+8:43.0,Defensive rebound by J. Holiday,7-10, ,,1,7,10,-3,197.0
+8:38.0,J. Holiday makes 2-pt layup from 1 ft (assist by J. Tatum),9-10, ,,1,9,10,-1,202.0
+8:29.0, ,9-10,T. Mann misses 2-pt layup from 2 ft,,1,9,10,-1,211.0
+8:29.0,Defensive rebound by D. White,9-10, ,,1,9,10,-1,211.0
+8:24.0,D. White misses 2-pt layup from 1 ft,9-10, ,,1,9,10,-1,216.0
+8:22.0, ,9-10,Defensive rebound by T. Mann,,1,9,10,-1,218.0
+8:13.0, ,9-12,G. Williams makes 2-pt jump shot from 3 ft (assist by V. Micić),,1,9,12,-3,227.0
+8:13.0, ,9-12,Shooting foul by J. Holiday (drawn by G. Williams),,1,9,12,-3,227.0
+8:13.0, ,9-13,G. Williams makes free throw 1 of 1,,1,9,13,-4,227.0
+7:59.0,D. White misses 3-pt jump shot from 26 ft,9-13, ,,1,9,13,-4,241.0
+7:57.0,Offensive rebound by K. Porziņģis,9-13, ,,1,9,13,-4,243.0
+7:55.0,A. Horford misses 3-pt jump shot from 25 ft,9-13, ,,1,9,13,-4,245.0
+7:53.0, ,9-13,Defensive rebound by T. Mann,,1,9,13,-4,247.0
+7:50.0, ,9-16,B. Miller makes 3-pt jump shot from 28 ft (assist by T. Mann),,1,9,16,-7,250.0
+7:41.0,Personal foul by G. Williams (drawn by D. White),9-16, ,,1,9,16,-7,259.0
+7:41.0, ,9-16,M. Bolden enters the game for G. Williams,,1,9,16,-7,259.0
+7:27.0,A. Horford makes 3-pt jump shot from 22 ft (assist by K. Porziņģis),12-16, ,,1,12,16,-4,273.0
+7:15.0, ,12-16,T. Mann misses 2-pt jump shot from 3 ft,,1,12,16,-4,285.0
+7:13.0, ,12-16,Offensive rebound by M. Bolden,,1,12,16,-4,287.0
+7:06.0, ,12-18,V. Micić makes 2-pt layup from 3 ft,,1,12,18,-6,294.0
+6:50.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by A. Horford),15-18, ,,1,15,18,-3,310.0
+6:28.0, ,15-21,M. Bridges makes 3-pt jump shot from 26 ft (assist by B. Miller),,1,15,21,-6,332.0
+6:09.0,K. Porziņģis misses 2-pt jump shot from 13 ft,15-21, ,,1,15,21,-6,351.0
+6:07.0, ,15-21,Defensive rebound by M. Bolden,,1,15,21,-6,353.0
+5:55.0, ,15-23,T. Mann makes 2-pt layup from 1 ft (assist by M. Bridges),,1,15,23,-8,365.0
+5:41.0,A. Horford makes 2-pt dunk from 2 ft (assist by K. Porziņģis),17-23, ,,1,17,23,-6,379.0
+5:14.0, ,17-23,T. Mann misses 3-pt jump shot from 31 ft,,1,17,23,-6,406.0
+5:12.0,Defensive rebound by J. Tatum,17-23, ,,1,17,23,-6,408.0
+5:00.0,D. White makes 3-pt jump shot from 23 ft (assist by K. Porziņģis),20-23, ,,1,20,23,-3,420.0
+5:00.0, ,20-23,Charlotte full timeout,,1,20,23,-3,420.0
+5:00.0,O. Brissett enters the game for J. Holiday,20-23, ,,1,20,23,-3,420.0
+5:00.0,S. Hauser enters the game for A. Horford,20-23, ,,1,20,23,-3,420.0
+5:00.0,P. Pritchard enters the game for D. White,20-23, ,,1,20,23,-3,420.0
+5:00.0, ,20-23,A. Pokusevski enters the game for T. Mann,,1,20,23,-3,420.0
+4:45.0, ,20-25,M. Bolden makes 2-pt dunk from 3 ft (assist by M. Bridges),,1,20,25,-5,435.0
+4:27.0,Shooting foul by M. Bolden (drawn by K. Porziņģis),20-25, ,,1,20,25,-5,453.0
+4:27.0,K. Porziņģis makes free throw 1 of 2,21-25, ,,1,21,25,-4,453.0
+4:27.0,K. Porziņģis misses free throw 2 of 2,21-25, ,,1,21,25,-4,453.0
+4:25.0, ,21-25,Defensive rebound by M. Bolden,,1,21,25,-4,455.0
+4:04.0, ,21-25,A. Pokusevski misses 2-pt layup from 3 ft (block by K. Porziņģis),,1,21,25,-4,476.0
+4:02.0, ,21-25,Offensive rebound by A. Pokusevski,,1,21,25,-4,478.0
+4:02.0, ,21-25,Turnover by Team (shot clock),,1,21,25,-4,478.0
+4:00.0, ,21-25,Technical foul by S. Clifford,,1,21,25,-4,480.0
+4:00.0,J. Tatum makes technical free throw,22-25, ,,1,22,25,-3,480.0
+3:47.0,K. Porziņģis misses 3-pt jump shot from 26 ft,22-25, ,,1,22,25,-3,493.0
+3:45.0, ,22-25,Defensive rebound by M. Bridges,,1,22,25,-3,495.0
+3:39.0, ,22-27,B. Miller makes 2-pt jump shot from 7 ft (assist by M. Bridges),,1,22,27,-5,501.0
+3:25.0,J. Tatum misses 3-pt jump shot from 25 ft,22-27, ,,1,22,27,-5,515.0
+3:22.0, ,22-27,Defensive rebound by M. Bolden,,1,22,27,-5,518.0
+3:11.0, ,22-27,V. Micić misses 2-pt jump shot from 4 ft,,1,22,27,-5,529.0
+3:09.0,Defensive rebound by S. Hauser,22-27, ,,1,22,27,-5,531.0
+3:01.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by O. Brissett),25-27, ,,1,25,27,-2,539.0
+2:49.0, ,25-29,B. Miller makes 2-pt jump shot from 9 ft,,1,25,29,-4,551.0
+2:49.0, ,25-29,Shooting foul by J. Tatum (drawn by B. Miller),,1,25,29,-4,551.0
+2:49.0,Boston full timeout,25-29, ,,1,25,29,-4,551.0
+2:49.0,L. Kornet enters the game for K. Porziņģis,25-29, ,,1,25,29,-4,551.0
+2:49.0, ,25-29,T. Mann enters the game for V. Micić,,1,25,29,-4,551.0
+2:49.0, ,25-30,B. Miller makes free throw 1 of 1,,1,25,30,-5,551.0
+2:28.0,J. Tatum makes 2-pt layup from 1 ft,27-30, ,,1,27,30,-3,572.0
+2:07.0, ,27-30,Turnover by B. Miller (lost ball; steal by J. Tatum),,1,27,30,-3,593.0
+2:04.0,Turnover by J. Tatum (lost ball; steal by B. Miller),27-30, ,,1,27,30,-3,596.0
+1:45.0, ,27-30,M. Bridges misses 2-pt jump shot from 13 ft,,1,27,30,-3,615.0
+1:43.0,Defensive rebound by L. Kornet,27-30, ,,1,27,30,-3,617.0
+1:32.0,S. Hauser makes 3-pt jump shot from 25 ft (assist by P. Pritchard),30-30, ,Tie,1,30,30,0,628.0
+1:13.0, ,30-30,M. Bridges misses 2-pt layup from 2 ft,,1,30,30,0,647.0
+1:12.0,Defensive rebound by O. Brissett,30-30, ,,1,30,30,0,648.0
+1:06.0,J. Tatum misses 3-pt jump shot from 26 ft,30-30, ,,1,30,30,0,654.0
+1:02.0, ,30-30,Defensive rebound by T. Mann,,1,30,30,0,658.0
+1:00.0, ,30-32,M. Bridges makes 2-pt dunk from 1 ft (assist by T. Mann),,1,30,32,-2,660.0
+0:45.0,P. Pritchard misses 3-pt jump shot from 26 ft,30-32, ,,1,30,32,-2,675.0
+0:43.0, ,30-32,Defensive rebound by A. Pokusevski,,1,30,32,-2,677.0
+0:33.0, ,30-32,A. Pokusevski misses 2-pt jump shot from 19 ft,,1,30,32,-2,687.0
+0:31.0,Defensive rebound by J. Tatum,30-32, ,,1,30,32,-2,689.0
+0:13.0,Turnover by P. Pritchard (step out of bounds),30-32, ,,1,30,32,-2,707.0
+0:13.0, ,30-32,D. Bertāns enters the game for B. Miller,,1,30,32,-2,707.0
+0:07.0, ,30-32,Personal foul by P. Pritchard (drawn by T. Mann),,1,30,32,-2,713.0
+0:07.0,D. White enters the game for L. Kornet,30-32, ,,1,30,32,-2,713.0
+0:01.0, ,30-32,A. Pokusevski misses 2-pt jump shot from 17 ft,,1,30,32,-2,719.0
+0:01.0,Defensive rebound by P. Pritchard,30-32, ,,1,30,32,-2,719.0
+0:00.0,End of 1st quarter,30-32,,,1,30,32,-2,720.0
+12:00.0,Start of 2nd quarter,30-32,,,2,30,32,-2,720.0
+11:49.0, ,30-32,Turnover by G. Williams (bad pass; steal by L. Kornet),,2,30,32,-2,731.0
+11:44.0,Turnover by D. White (bad pass; steal by A. Pokusevski),30-32, ,,2,30,32,-2,736.0
+11:37.0, ,30-32,D. Bertāns misses 3-pt jump shot from 27 ft,,2,30,32,-2,743.0
+11:34.0,Defensive rebound by S. Hauser,30-32, ,,2,30,32,-2,746.0
+11:26.0,D. White misses 3-pt jump shot from 26 ft,30-32, ,,2,30,32,-2,754.0
+11:20.0,Offensive rebound by L. Kornet,30-32, ,,2,30,32,-2,760.0
+11:20.0,L. Kornet makes 2-pt dunk at rim,32-32, ,Tie,2,32,32,0,760.0
+11:01.0, ,32-34,G. Williams makes 2-pt layup from 2 ft (assist by A. Pokusevski),,2,32,34,-2,779.0
+11:01.0, ,32-34,Shooting foul by S. Hauser (drawn by G. Williams),,2,32,34,-2,779.0
+11:01.0, ,32-34,G. Williams misses free throw 1 of 1,,2,32,34,-2,779.0
+10:59.0,Defensive rebound by J. Holiday,32-34, ,,2,32,34,-2,781.0
+10:47.0,Turnover by D. White (bad pass),32-34, ,,2,32,34,-2,793.0
+10:47.0,A. Horford enters the game for S. Hauser,32-34, ,,2,32,34,-2,793.0
+10:30.0, ,32-34,G. Williams misses 2-pt jump shot from 6 ft,,2,32,34,-2,810.0
+10:28.0,Defensive rebound by L. Kornet,32-34, ,,2,32,34,-2,812.0
+10:23.0,J. Holiday misses 3-pt jump shot from 26 ft,32-34, ,,2,32,34,-2,817.0
+10:20.0,Offensive rebound by P. Pritchard,32-34, ,,2,32,34,-2,820.0
+10:11.0,D. White misses 3-pt jump shot from 26 ft,32-34, ,,2,32,34,-2,829.0
+10:07.0, ,32-34,Defensive rebound by A. Pokusevski,,2,32,34,-2,833.0
+9:53.0, ,32-34,A. Pokusevski misses 3-pt jump shot from 25 ft,,2,32,34,-2,847.0
+9:50.0,Defensive rebound by D. White,32-34, ,,2,32,34,-2,850.0
+9:29.0,P. Pritchard makes 2-pt jump shot from 8 ft (assist by L. Kornet),34-34, ,Tie,2,34,34,0,871.0
+9:08.0, ,34-34,G. Williams misses 2-pt jump shot from 16 ft,,2,34,34,0,892.0
+9:06.0,Defensive rebound by J. Holiday,34-34, ,,2,34,34,0,894.0
+8:53.0,J. Holiday misses 2-pt layup from 1 ft,34-34, ,,2,34,34,0,907.0
+8:52.0, ,34-34,Defensive rebound by Team,,2,34,34,0,908.0
+8:52.0, ,34-34,B. Miller enters the game for A. Pokusevski,,2,34,34,0,908.0
+8:36.0, ,34-34,Offensive foul by T. Mann (drawn by D. White),,2,34,34,0,924.0
+8:36.0, ,34-34,Turnover by T. Mann (offensive foul),,2,34,34,0,924.0
+8:21.0,P. Pritchard makes 2-pt jump shot from 21 ft (assist by D. White),36-34, ,Lead change,2,36,34,2,939.0
+8:07.0, ,36-36,T. Mann makes 2-pt jump shot from 11 ft,Tie,2,36,36,0,953.0
+8:03.0,Shooting foul by B. Miller (drawn by P. Pritchard),36-36, ,,2,36,36,0,957.0
+8:03.0,P. Pritchard makes free throw 1 of 2,37-36, ,,2,37,36,1,957.0
+8:03.0,X. Tillman enters the game for L. Kornet,37-36, ,,2,37,36,1,957.0
+8:03.0, ,37-36,M. Bridges enters the game for T. Mann,,2,37,36,1,957.0
+8:03.0, ,37-36,V. Micić enters the game for J. Thor,,2,37,36,1,957.0
+8:03.0,P. Pritchard misses free throw 2 of 2,37-36, ,,2,37,36,1,957.0
+8:01.0, ,37-36,Defensive rebound by G. Williams,,2,37,36,1,959.0
+7:49.0, ,37-36,V. Micić misses 2-pt layup from 2 ft,,2,37,36,1,971.0
+7:45.0, ,37-36,Offensive rebound by G. Williams,,2,37,36,1,975.0
+7:37.0, ,37-38,V. Micić makes 2-pt jump shot from 5 ft,Lead change,2,37,38,-1,983.0
+7:21.0,J. Holiday misses 3-pt jump shot from 23 ft,37-38, ,,2,37,38,-1,999.0
+7:21.0, ,37-38,Defensive rebound by M. Bridges,,2,37,38,-1,999.0
+7:13.0, ,37-40,M. Bridges makes 2-pt layup at rim,,2,37,40,-3,1007.0
+6:57.0,D. White makes 3-pt jump shot from 22 ft (assist by P. Pritchard),40-40, ,Tie,2,40,40,0,1023.0
+6:46.0, ,40-42,D. Bertāns makes 2-pt layup from 2 ft (assist by V. Micić),,2,40,42,-2,1034.0
+6:27.0,D. White makes 3-pt jump shot from 22 ft (assist by X. Tillman),43-42, ,Lead change,2,43,42,1,1053.0
+6:10.0, ,43-42,Personal foul by J. Holiday (drawn by V. Micić),,2,43,42,1,1070.0
+6:10.0, ,43-42,Charlotte full timeout,,2,43,42,1,1070.0
+6:10.0,J. Tatum enters the game for J. Holiday,43-42, ,,2,43,42,1,1070.0
+6:03.0, ,43-44,B. Miller makes 2-pt jump shot from 6 ft (assist by V. Micić),Lead change,2,43,44,-1,1077.0
+6:03.0, ,43-44,Shooting foul by X. Tillman (drawn by B. Miller),,2,43,44,-1,1077.0
+6:03.0, ,43-45,B. Miller makes free throw 1 of 1,,2,43,45,-2,1077.0
+5:48.0,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Tatum),46-45, ,Lead change,2,46,45,1,1092.0
+5:30.0, ,46-45,M. Bridges misses 2-pt jump shot from 16 ft,,2,46,45,1,1110.0
+5:28.0, ,46-45,Offensive rebound by G. Williams,,2,46,45,1,1112.0
+5:24.0, ,46-45,B. Miller misses 3-pt jump shot from 26 ft,,2,46,45,1,1116.0
+5:22.0,Defensive rebound by D. White,46-45, ,,2,46,45,1,1118.0
+5:15.0,A. Horford misses 3-pt jump shot from 25 ft,46-45, ,,2,46,45,1,1125.0
+5:13.0, ,46-45,Defensive rebound by B. Miller,,2,46,45,1,1127.0
+5:06.0, ,46-45,B. Miller misses 2-pt jump shot from 10 ft (block by D. White),,2,46,45,1,1134.0
+5:02.0,Defensive rebound by X. Tillman,46-45, ,,2,46,45,1,1138.0
+4:54.0,J. Tatum misses 2-pt jump shot from 15 ft,46-45, ,,2,46,45,1,1146.0
+4:52.0,Offensive rebound by Team,46-45, ,,2,46,45,1,1148.0
+4:52.0,K. Porziņģis enters the game for X. Tillman,46-45, ,,2,46,45,1,1148.0
+4:52.0,Boston full timeout,46-45, ,,2,46,45,1,1148.0
+4:52.0,X. Tillman enters the game for K. Porziņģis,46-45, ,,2,46,45,1,1148.0
+4:52.0,Instant Replay (Challenge: Ruling Stands),46-45, ,,2,46,45,1,1148.0
+4:40.0,K. Porziņģis makes 2-pt jump shot from 14 ft,48-45, ,,2,48,45,3,1160.0
+4:18.0, ,48-45,D. Bertāns misses 3-pt jump shot from 27 ft,,2,48,45,3,1182.0
+4:17.0, ,48-45,Offensive rebound by M. Bridges,,2,48,45,3,1183.0
+4:14.0, ,48-45,M. Bridges misses 2-pt layup from 1 ft,,2,48,45,3,1186.0
+4:12.0,Defensive rebound by K. Porziņģis,48-45, ,,2,48,45,3,1188.0
+4:04.0,J. Tatum makes 3-pt jump shot from 24 ft (assist by D. White),51-45, ,,2,51,45,6,1196.0
+3:49.0, ,51-47,V. Micić makes 2-pt layup from 3 ft,,2,51,47,4,1211.0
+3:25.0,J. Tatum misses 2-pt jump shot from 17 ft,51-47, ,,2,51,47,4,1235.0
+3:23.0, ,51-47,Defensive rebound by G. Williams,,2,51,47,4,1237.0
+3:08.0, ,51-47,G. Williams misses 3-pt jump shot from 26 ft,,2,51,47,4,1252.0
+3:06.0,Defensive rebound by J. Tatum,51-47, ,,2,51,47,4,1254.0
+3:01.0,Offensive foul by K. Porziņģis (drawn by G. Williams),51-47, ,,2,51,47,4,1259.0
+3:01.0,Turnover by K. Porziņģis (offensive foul),51-47, ,,2,51,47,4,1259.0
+3:01.0,S. Hauser enters the game for A. Horford,51-47, ,,2,51,47,4,1259.0
+3:01.0,J. Holiday enters the game for P. Pritchard,51-47, ,,2,51,47,4,1259.0
+3:01.0, ,51-47,M. Bolden enters the game for D. Bertāns,,2,51,47,4,1259.0
+3:01.0, ,51-47,T. Mann enters the game for G. Williams,,2,51,47,4,1259.0
+2:48.0, ,51-49,M. Bridges makes 2-pt layup from 1 ft (assist by V. Micić),,2,51,49,2,1272.0
+2:31.0,D. White misses 2-pt jump shot from 2 ft,51-49, ,,2,51,49,2,1289.0
+2:22.0, ,51-49,Defensive rebound by T. Mann,,2,51,49,2,1298.0
+2:19.0, ,51-49,V. Micić misses 3-pt jump shot from 26 ft,,2,51,49,2,1301.0
+2:15.0, ,51-49,Offensive rebound by M. Bolden,,2,51,49,2,1305.0
+2:15.0, ,51-51,M. Bolden makes 2-pt layup at rim,Tie,2,51,51,0,1305.0
+2:04.0,S. Hauser misses 3-pt jump shot from 23 ft,51-51, ,,2,51,51,0,1316.0
+2:04.0,Offensive rebound by D. White,51-51, ,,2,51,51,0,1316.0
+1:49.0,J. Tatum misses 2-pt jump shot from 12 ft,51-51, ,,2,51,51,0,1331.0
+1:43.0,Offensive rebound by K. Porziņģis,51-51, ,,2,51,51,0,1337.0
+1:43.0,K. Porziņģis makes 2-pt layup at rim,53-51, ,,2,53,51,2,1337.0
+1:37.0, ,53-53,V. Micić makes 2-pt jump shot from 16 ft,Tie,2,53,53,0,1343.0
+1:30.0,Turnover by J. Holiday (step out of bounds),53-53, ,,2,53,53,0,1350.0
+1:17.0, ,53-53,M. Bolden misses 2-pt jump shot from 5 ft,,2,53,53,0,1363.0
+1:15.0,Defensive rebound by J. Tatum,53-53, ,,2,53,53,0,1365.0
+1:08.0,J. Tatum makes 2-pt dunk from 1 ft,55-53, ,,2,55,53,2,1372.0
+0:59.0, ,55-53,Turnover by M. Bridges (bad pass),,2,55,53,2,1381.0
+0:38.0,K. Porziņģis makes 2-pt layup from 2 ft (assist by J. Holiday),57-53, ,,2,57,53,4,1402.0
+0:21.0, ,57-53,V. Micić misses 3-pt jump shot from 26 ft,,2,57,53,4,1419.0
+0:19.0,Defensive rebound by D. White,57-53, ,,2,57,53,4,1421.0
+0:04.0,Shooting foul by B. Miller (drawn by J. Tatum),57-53, ,,2,57,53,4,1436.0
+0:04.0,J. Tatum makes free throw 1 of 2,58-53, ,,2,58,53,5,1436.0
+0:04.0,J. Tatum makes free throw 2 of 2,59-53, ,,2,59,53,6,1436.0
+0:04.0,P. Pritchard enters the game for J. Holiday,59-53, ,,2,59,53,6,1436.0
+0:02.0, ,59-53,Personal take foul by D. White (drawn by T. Mann),,2,59,53,6,1438.0
+0:00.0, ,59-53,M. Bridges misses 3-pt jump shot from 27 ft (block by J. Tatum),,2,59,53,6,1440.0
+0:00.0,Defensive rebound by S. Hauser,59-53, ,,2,59,53,6,1440.0
+0:00.0,End of 2nd quarter,59-53,,,2,59,53,6,1440.0
+12:00.0,Start of 3rd quarter,59-53,,,3,59,53,6,1440.0
+11:42.0, ,59-55,G. Williams makes 2-pt layup from 2 ft,,3,59,55,4,1458.0
+11:18.0,A. Horford makes 2-pt layup from 2 ft (assist by D. White),61-55, ,,3,61,55,6,1482.0
+11:03.0, ,61-58,G. Williams makes 3-pt jump shot from 25 ft (assist by T. Mann),,3,61,58,3,1497.0
+10:37.0,K. Porziņģis makes 3-pt jump shot from 27 ft (assist by J. Tatum),64-58, ,,3,64,58,6,1523.0
+10:21.0, ,64-58,Personal foul by D. White (drawn by B. Miller),,3,64,58,6,1539.0
+10:07.0, ,64-60,G. Williams makes 2-pt layup at rim (assist by T. Mann),,3,64,60,4,1553.0
+9:56.0,J. Holiday misses 3-pt jump shot from 27 ft,64-60, ,,3,64,60,4,1564.0
+9:53.0, ,64-60,Defensive rebound by M. Bridges,,3,64,60,4,1567.0
+9:47.0, ,64-60,M. Bridges misses 2-pt layup from 2 ft,,3,64,60,4,1573.0
+9:44.0,Defensive rebound by K. Porziņģis,64-60, ,,3,64,60,4,1576.0
+9:43.0,D. White makes 2-pt layup from 1 ft (assist by J. Holiday),66-60, ,,3,66,60,6,1577.0
+9:43.0,Shooting foul by V. Micić (drawn by D. White),66-60, ,,3,66,60,6,1577.0
+9:43.0,D. White makes free throw 1 of 1,67-60, ,,3,67,60,7,1577.0
+9:26.0, ,67-62,B. Miller makes 2-pt jump shot from 15 ft (assist by G. Williams),,3,67,62,5,1594.0
+9:07.0,A. Horford misses 2-pt hook shot from 4 ft,67-62, ,,3,67,62,5,1613.0
+9:05.0, ,67-62,Defensive rebound by Team,,3,67,62,5,1615.0
+8:51.0, ,67-62,Turnover by T. Mann (traveling),,3,67,62,5,1629.0
+8:38.0,A. Horford makes 3-pt jump shot from 24 ft (assist by D. White),70-62, ,,3,70,62,8,1642.0
+8:21.0, ,70-62,M. Bridges misses 3-pt jump shot from 26 ft,,3,70,62,8,1659.0
+8:19.0,Defensive rebound by J. Tatum,70-62, ,,3,70,62,8,1661.0
+8:14.0,Offensive foul by J. Tatum (drawn by G. Williams),70-62, ,,3,70,62,8,1666.0
+8:14.0,Turnover by J. Tatum (offensive foul),70-62, ,,3,70,62,8,1666.0
+7:57.0, ,70-62,G. Williams misses 2-pt layup from 2 ft,,3,70,62,8,1683.0
+7:55.0,Defensive rebound by A. Horford,70-62, ,,3,70,62,8,1685.0
+7:45.0,J. Tatum makes 2-pt layup from 1 ft,72-62, ,,3,72,62,10,1695.0
+7:45.0, ,72-62,Charlotte full timeout,,3,72,62,10,1695.0
+7:33.0, ,72-62,Shooting foul by D. White (drawn by M. Bridges),,3,72,62,10,1707.0
+7:33.0, ,72-63,M. Bridges makes free throw 1 of 2,,3,72,63,9,1707.0
+7:33.0, ,72-64,M. Bridges makes free throw 2 of 2,,3,72,64,8,1707.0
+7:12.0,A. Horford makes 2-pt hook shot from 4 ft (assist by K. Porziņģis),74-64, ,,3,74,64,10,1728.0
+6:51.0, ,74-64,T. Mann misses 3-pt jump shot from 26 ft,,3,74,64,10,1749.0
+6:49.0,Defensive rebound by J. Tatum,74-64, ,,3,74,64,10,1751.0
+6:40.0,J. Tatum makes 2-pt dunk from 1 ft,76-64, ,,3,76,64,12,1760.0
+6:12.0, ,76-64,B. Miller misses 2-pt jump shot from 12 ft,,3,76,64,12,1788.0
+6:08.0,Defensive rebound by J. Tatum,76-64, ,,3,76,64,12,1792.0
+6:05.0,Shooting foul by T. Mann (drawn by K. Porziņģis),76-64, ,,3,76,64,12,1795.0
+6:05.0,K. Porziņģis makes free throw 1 of 2,77-64, ,,3,77,64,13,1795.0
+6:05.0,P. Pritchard enters the game for D. White,77-64, ,,3,77,64,13,1795.0
+6:05.0, ,77-64,A. Pokusevski enters the game for T. Mann,,3,77,64,13,1795.0
+6:05.0,K. Porziņģis makes free throw 2 of 2,78-64, ,,3,78,64,14,1795.0
+5:41.0, ,78-67,B. Miller makes 3-pt jump shot from 26 ft (assist by G. Williams),,3,78,67,11,1819.0
+5:16.0,J. Tatum makes 3-pt jump shot from 28 ft (assist by P. Pritchard),81-67, ,,3,81,67,14,1844.0
+5:06.0, ,81-67,Shooting foul by P. Pritchard (drawn by V. Micić),,3,81,67,14,1854.0
+5:06.0, ,81-68,V. Micić makes free throw 1 of 2,,3,81,68,13,1854.0
+5:06.0, ,81-69,V. Micić makes free throw 2 of 2,,3,81,69,12,1854.0
+4:49.0,K. Porziņģis misses 3-pt jump shot from 27 ft,81-69, ,,3,81,69,12,1871.0
+4:47.0, ,81-69,Defensive rebound by B. Miller,,3,81,69,12,1873.0
+4:30.0, ,81-69,V. Micić misses 3-pt jump shot from 25 ft,,3,81,69,12,1890.0
+4:27.0,Defensive rebound by J. Holiday,81-69, ,,3,81,69,12,1893.0
+4:24.0,J. Holiday misses 2-pt jump shot from 3 ft,81-69, ,,3,81,69,12,1896.0
+4:24.0,Offensive rebound by Team,81-69, ,,3,81,69,12,1896.0
+4:24.0, ,81-69,Loose ball foul by B. Miller (drawn by K. Porziņģis),,3,81,69,12,1896.0
+4:24.0,S. Hauser enters the game for A. Horford,81-69, ,,3,81,69,12,1896.0
+4:18.0,J. Holiday misses 3-pt jump shot from 26 ft,81-69, ,,3,81,69,12,1902.0
+4:15.0, ,81-69,Defensive rebound by A. Pokusevski,,3,81,69,12,1905.0
+4:08.0, ,81-71,M. Bridges makes 2-pt layup from 1 ft,,3,81,71,10,1912.0
+3:48.0,S. Hauser makes 2-pt jump shot from 10 ft (assist by P. Pritchard),83-71, ,,3,83,71,12,1932.0
+3:21.0, ,83-74,V. Micić makes 3-pt jump shot from 28 ft (assist by A. Pokusevski),,3,83,74,9,1959.0
+2:58.0,J. Tatum misses 3-pt jump shot from 27 ft,83-74, ,,3,83,74,9,1982.0
+2:54.0, ,83-74,Defensive rebound by B. Miller,,3,83,74,9,1986.0
+2:53.0, ,83-76,M. Bridges makes 2-pt dunk from 2 ft (assist by B. Miller),,3,83,76,7,1987.0
+2:53.0,Boston full timeout,83-76, ,,3,83,76,7,1987.0
+2:53.0,O. Brissett enters the game for J. Holiday,83-76, ,,3,83,76,7,1987.0
+2:53.0, ,83-76,D. Bertāns enters the game for V. Micić,,3,83,76,7,1987.0
+2:53.0, ,83-76,M. Bolden enters the game for B. Miller,,3,83,76,7,1987.0
+2:53.0, ,83-76,T. Mann enters the game for G. Williams,,3,83,76,7,1987.0
+2:39.0,K. Porziņģis makes 2-pt jump shot from 7 ft,85-76, ,,3,85,76,9,2001.0
+2:39.0,Shooting foul by M. Bolden (drawn by K. Porziņģis),85-76, ,,3,85,76,9,2001.0
+2:39.0,K. Porziņģis makes free throw 1 of 1,86-76, ,,3,86,76,10,2001.0
+2:22.0, ,86-76,M. Bridges misses 3-pt jump shot from 25 ft,,3,86,76,10,2018.0
+2:20.0,Defensive rebound by J. Tatum,86-76, ,,3,86,76,10,2020.0
+2:04.0,J. Tatum misses 2-pt layup from 3 ft (block by D. Bertāns),86-76, ,,3,86,76,10,2036.0
+2:00.0, ,86-76,Defensive rebound by M. Bridges,,3,86,76,10,2040.0
+1:56.0, ,86-79,A. Pokusevski makes 3-pt jump shot from 26 ft (assist by M. Bridges),,3,86,79,7,2044.0
+1:32.0,K. Porziņģis makes 2-pt jump shot from 3 ft,88-79, ,,3,88,79,9,2068.0
+1:32.0,Shooting foul by M. Bolden (drawn by K. Porziņģis),88-79, ,,3,88,79,9,2068.0
+1:32.0,K. Porziņģis makes free throw 1 of 1,89-79, ,,3,89,79,10,2068.0
+1:16.0, ,89-79,A. Pokusevski misses 2-pt jump shot from 7 ft,,3,89,79,10,2084.0
+1:14.0,Defensive rebound by K. Porziņģis,89-79, ,,3,89,79,10,2086.0
+1:05.0,Shooting foul by D. Bertāns (drawn by O. Brissett),89-79, ,,3,89,79,10,2095.0
+1:05.0,O. Brissett misses free throw 1 of 2,89-79, ,,3,89,79,10,2095.0
+1:05.0,Offensive rebound by Team,89-79, ,,3,89,79,10,2095.0
+1:05.0,O. Brissett makes free throw 2 of 2,90-79, ,,3,90,79,11,2095.0
+0:51.0, ,90-79,A. Pokusevski misses 3-pt jump shot from 23 ft,,3,90,79,11,2109.0
+0:49.0,Defensive rebound by J. Tatum,90-79, ,,3,90,79,11,2111.0
+0:36.0,J. Tatum misses 3-pt jump shot from 26 ft,90-79, ,,3,90,79,11,2124.0
+0:35.0,Offensive rebound by S. Hauser,90-79, ,,3,90,79,11,2125.0
+0:35.0,S. Hauser makes 2-pt layup at rim,92-79, ,,3,92,79,13,2125.0
+0:26.0, ,92-79,T. Mann misses 3-pt jump shot from 26 ft,,3,92,79,13,2134.0
+0:24.0,Defensive rebound by J. Tatum,92-79, ,,3,92,79,13,2136.0
+0:03.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Tatum),95-79, ,,3,95,79,16,2157.0
+0:00.0, ,95-79,M. Bridges misses 3-pt jump shot from 48 ft,,3,95,79,16,2160.0
+0:00.0, ,95-79,Offensive rebound by Team,,3,95,79,16,2160.0
+0:00.0,End of 3rd quarter,95-79,,,3,95,79,16,2160.0
+12:00.0,Start of 4th quarter,95-79,,,4,95,79,16,2160.0
+11:43.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by D. White),98-79, ,,4,98,79,19,2177.0
+11:26.0, ,98-79,B. Miller misses 3-pt jump shot from 23 ft,,4,98,79,19,2194.0
+11:24.0,Defensive rebound by O. Brissett,98-79, ,,4,98,79,19,2196.0
+11:14.0,S. Hauser misses 3-pt jump shot from 27 ft,98-79, ,,4,98,79,19,2206.0
+11:12.0, ,98-79,Defensive rebound by G. Williams,,4,98,79,19,2208.0
+11:01.0, ,98-79,G. Williams misses 2-pt jump shot from 11 ft,,4,98,79,19,2219.0
+10:59.0,Defensive rebound by P. Pritchard,98-79, ,,4,98,79,19,2221.0
+10:45.0,Turnover by S. Hauser (bad pass),98-79, ,,4,98,79,19,2235.0
+10:29.0, ,98-79,V. Micić misses 3-pt jump shot from 25 ft,,4,98,79,19,2251.0
+10:26.0, ,98-79,Offensive rebound by G. Williams,,4,98,79,19,2254.0
+10:24.0, ,98-82,M. Bridges makes 3-pt jump shot from 25 ft (assist by D. Bertāns),,4,98,82,16,2256.0
+10:08.0,D. White misses 3-pt jump shot from 29 ft,98-82, ,,4,98,82,16,2272.0
+10:05.0, ,98-82,Defensive rebound by G. Williams,,4,98,82,16,2275.0
+9:58.0, ,98-82,V. Micić misses 2-pt layup from 2 ft,,4,98,82,16,2282.0
+9:56.0,Defensive rebound by D. White,98-82, ,,4,98,82,16,2284.0
+9:49.0,P. Pritchard misses 3-pt jump shot from 27 ft,98-82, ,,4,98,82,16,2291.0
+9:46.0, ,98-82,Defensive rebound by D. Bertāns,,4,98,82,16,2294.0
+9:37.0, ,98-82,B. Miller misses 2-pt layup from 2 ft,,4,98,82,16,2303.0
+9:34.0, ,98-82,Offensive rebound by B. Miller,,4,98,82,16,2306.0
+9:34.0, ,98-82,B. Miller misses 2-pt layup at rim,,4,98,82,16,2306.0
+9:34.0,Defensive rebound by S. Hauser,98-82, ,,4,98,82,16,2306.0
+9:28.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by P. Pritchard),101-82, ,,4,101,82,19,2312.0
+9:07.0, ,101-84,G. Williams makes 2-pt layup from 1 ft (assist by V. Micić),,4,101,84,17,2333.0
+8:50.0,L. Kornet makes 2-pt layup from 3 ft (assist by O. Brissett),103-84, ,,4,103,84,19,2350.0
+8:33.0, ,103-86,M. Bridges makes 2-pt layup from 1 ft,,4,103,86,17,2367.0
+8:33.0, ,103-86,Shooting foul by P. Pritchard (drawn by M. Bridges),,4,103,86,17,2367.0
+8:33.0, ,103-87,M. Bridges makes free throw 1 of 1,,4,103,87,16,2367.0
+8:16.0,O. Brissett misses 3-pt jump shot from 25 ft,103-87, ,,4,103,87,16,2384.0
+8:13.0, ,103-87,Defensive rebound by B. Miller,,4,103,87,16,2387.0
+8:06.0, ,103-87,M. Bridges misses 2-pt layup from 1 ft,,4,103,87,16,2394.0
+8:05.0,Defensive rebound by L. Kornet,103-87, ,,4,103,87,16,2395.0
+8:05.0,Boston full timeout,103-87, ,,4,103,87,16,2395.0
+8:05.0,A. Horford enters the game for O. Brissett,103-87, ,,4,103,87,16,2395.0
+7:55.0,S. Hauser misses 3-pt jump shot from 26 ft,103-87, ,,4,103,87,16,2405.0
+7:52.0, ,103-87,Defensive rebound by M. Bridges,,4,103,87,16,2408.0
+7:46.0, ,103-90,G. Williams makes 3-pt jump shot from 26 ft (assist by V. Micić),,4,103,90,13,2414.0
+7:30.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by A. Horford),106-90, ,,4,106,90,16,2430.0
+7:11.0, ,106-93,D. Bertāns makes 3-pt jump shot from 25 ft (assist by V. Micić),,4,106,93,13,2449.0
+6:51.0,Personal foul by D. Bertāns (drawn by D. White),106-93, ,,4,106,93,13,2469.0
+6:51.0,J. Holiday enters the game for L. Kornet,106-93, ,,4,106,93,13,2469.0
+6:43.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by A. Horford),109-93, ,,4,109,93,16,2477.0
+6:31.0, ,109-96,D. Bertāns makes 3-pt jump shot from 26 ft (assist by M. Bridges),,4,109,96,13,2489.0
+6:10.0,A. Horford misses 2-pt jump shot from 22 ft,109-96, ,,4,109,96,13,2510.0
+6:07.0, ,109-96,Defensive rebound by M. Bridges,,4,109,96,13,2513.0
+6:03.0, ,109-96,M. Bridges misses 2-pt layup at rim,,4,109,96,13,2517.0
+6:01.0,Defensive rebound by A. Horford,109-96, ,,4,109,96,13,2519.0
+5:58.0,S. Hauser misses 3-pt jump shot from 26 ft,109-96, ,,4,109,96,13,2522.0
+5:53.0,Offensive rebound by A. Horford,109-96, ,,4,109,96,13,2527.0
+5:52.0,J. Holiday misses 3-pt jump shot from 26 ft,109-96, ,,4,109,96,13,2528.0
+5:50.0,Offensive rebound by A. Horford,109-96, ,,4,109,96,13,2530.0
+5:48.0,P. Pritchard misses 3-pt jump shot from 25 ft,109-96, ,,4,109,96,13,2532.0
+5:45.0,Offensive rebound by A. Horford,109-96, ,,4,109,96,13,2535.0
+5:37.0,D. White makes 2-pt jump shot from 9 ft,111-96, ,,4,111,96,15,2543.0
+5:37.0, ,111-96,Charlotte full timeout,,4,111,96,15,2543.0
+5:37.0,K. Porziņģis enters the game for A. Horford,111-96, ,,4,111,96,15,2543.0
+5:37.0,J. Tatum enters the game for P. Pritchard,111-96, ,,4,111,96,15,2543.0
+5:25.0, ,111-96,Personal foul by S. Hauser (drawn by G. Williams),,4,111,96,15,2555.0
+5:13.0, ,111-96,B. Miller misses 3-pt jump shot from 26 ft,,4,111,96,15,2567.0
+5:11.0,Defensive rebound by D. White,111-96, ,,4,111,96,15,2569.0
+4:52.0,Personal foul by G. Williams (drawn by K. Porziņģis),111-96, ,,4,111,96,15,2588.0
+4:43.0,Turnover by J. Tatum (lost ball; steal by D. Bertāns),111-96, ,,4,111,96,15,2597.0
+4:23.0, ,111-98,G. Williams makes 2-pt jump shot from 13 ft (assist by M. Bridges),,4,111,98,13,2617.0
+4:06.0,D. White makes 3-pt jump shot from 23 ft (assist by K. Porziņģis),114-98, ,,4,114,98,16,2634.0
+3:53.0, ,114-98,G. Williams misses 3-pt jump shot from 26 ft,,4,114,98,16,2647.0
+3:52.0,Defensive rebound by Team,114-98, ,,4,114,98,16,2648.0
+3:34.0,K. Porziņģis misses 2-pt layup from 3 ft,114-98, ,,4,114,98,16,2666.0
+3:32.0, ,114-98,Defensive rebound by V. Micić,,4,114,98,16,2668.0
+3:27.0, ,114-98,V. Micić misses 3-pt jump shot from 26 ft,,4,114,98,16,2673.0
+3:25.0,Defensive rebound by Team,114-98, ,,4,114,98,16,2675.0
+3:12.0,J. Tatum misses 3-pt jump shot from 27 ft,114-98, ,,4,114,98,16,2688.0
+3:09.0, ,114-98,Defensive rebound by M. Bridges,,4,114,98,16,2691.0
+3:05.0, ,114-98,Turnover by V. Micić (bad pass; steal by J. Tatum),,4,114,98,16,2695.0
+2:47.0,J. Holiday misses 3-pt jump shot from 25 ft,114-98, ,,4,114,98,16,2713.0
+2:47.0,Offensive rebound by Team,114-98, ,,4,114,98,16,2713.0
+2:43.0,D. White misses 3-pt jump shot from 22 ft,114-98, ,,4,114,98,16,2717.0
+2:40.0, ,114-98,Defensive rebound by M. Bridges,,4,114,98,16,2720.0
+2:30.0, ,114-100,G. Williams makes 2-pt layup from 1 ft (assist by M. Bridges),,4,114,100,14,2730.0
+2:10.0,Turnover by J. Tatum (bad pass),114-100, ,,4,114,100,14,2750.0
+1:58.0, ,114-100,D. Bertāns misses 3-pt jump shot from 26 ft,,4,114,100,14,2762.0
+1:55.0,Defensive rebound by D. White,114-100, ,,4,114,100,14,2765.0
+1:37.0,J. Tatum makes 2-pt jump shot from 13 ft,116-100, ,,4,116,100,16,2783.0
+1:27.0, ,116-100,M. Bridges misses 3-pt jump shot from 27 ft,,4,116,100,16,2793.0
+1:25.0,Defensive rebound by K. Porziņģis,116-100, ,,4,116,100,16,2795.0
+1:24.0,Personal foul by B. Miller (drawn by J. Tatum),116-100, ,,4,116,100,16,2796.0
+1:24.0,O. Brissett enters the game for S. Hauser,116-100, ,,4,116,100,16,2796.0
+1:24.0,L. Kornet enters the game for J. Holiday,116-100, ,,4,116,100,16,2796.0
+1:24.0,S. Mykhailiuk enters the game for K. Porziņģis,116-100, ,,4,116,100,16,2796.0
+1:24.0,P. Pritchard enters the game for J. Tatum,116-100, ,,4,116,100,16,2796.0
+1:24.0,X. Tillman enters the game for D. White,116-100, ,,4,116,100,16,2796.0
+1:24.0, ,116-100,M. Bolden enters the game for D. Bertāns,,4,116,100,16,2796.0
+1:24.0, ,116-100,B. McGowens enters the game for M. Bridges,,4,116,100,16,2796.0
+1:24.0, ,116-100,A. Pokusevski enters the game for V. Micić,,4,116,100,16,2796.0
+1:24.0, ,116-100,N. Smith enters the game for B. Miller,,4,116,100,16,2796.0
+1:24.0, ,116-100,J. Thor enters the game for G. Williams,,4,116,100,16,2796.0
+0:58.0,P. Pritchard misses 3-pt jump shot from 24 ft (block by J. Thor),116-100, ,,4,116,100,16,2822.0
+0:55.0, ,116-100,Defensive rebound by J. Thor,,4,116,100,16,2825.0
+0:50.0, ,116-103,N. Smith makes 3-pt jump shot from 26 ft,,4,116,103,13,2830.0
+0:35.0,P. Pritchard makes 2-pt layup from 3 ft,118-103, ,,4,118,103,15,2845.0
+0:35.0, ,118-103,Violation by Team (def goaltending),,4,118,103,15,2845.0
+0:27.0, ,118-103,Shooting foul by P. Pritchard (drawn by J. Thor),,4,118,103,15,2853.0
+0:27.0, ,118-103,J. Thor misses free throw 1 of 2,,4,118,103,15,2853.0
+0:27.0, ,118-103,Offensive rebound by Team,,4,118,103,15,2853.0
+0:27.0, ,118-104,J. Thor makes free throw 2 of 2,,4,118,104,14,2853.0
+0:02.0,Turnover by Team (shot clock),118-104, ,,4,118,104,14,2878.0
+0:00.0,End of 4th quarter,118-104,,,4,118,104,14,2880.0

@@ -1,0 +1,455 @@
+Time,Boston,Score,Toronto,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. S. Barnes (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:42.0,J. Holiday misses 2-pt jump shot from 17 ft,0-0, ,,1,0,0,0,18.0
+11:40.0, ,0-0,Defensive rebound by J. Porter,,1,0,0,0,20.0
+11:35.0, ,0-0,R. Barrett misses 3-pt jump shot from 26 ft,,1,0,0,0,25.0
+11:32.0, ,0-0,Offensive rebound by S. Barnes,,1,0,0,0,28.0
+11:23.0, ,0-0,I. Quickley misses 2-pt jump shot from 6 ft (block by J. Holiday),,1,0,0,0,37.0
+11:23.0, ,0-0,Offensive rebound by Team,,1,0,0,0,37.0
+11:18.0, ,0-0,Turnover by S. Barnes (lost ball; steal by J. Holiday),,1,0,0,0,42.0
+11:10.0,K. Porziņģis makes 3-pt jump shot from 26 ft (assist by J. Holiday),3-0, ,,1,3,0,3,50.0
+10:47.0, ,3-0,S. Barnes misses 2-pt hook shot from 6 ft,,1,3,0,3,73.0
+10:44.0,Defensive rebound by J. Tatum,3-0, ,,1,3,0,3,76.0
+10:36.0,J. Tatum misses 2-pt jump shot from 16 ft,3-0, ,,1,3,0,3,84.0
+10:33.0, ,3-0,Defensive rebound by I. Quickley,,1,3,0,3,87.0
+10:25.0, ,3-0,P. Siakam misses 2-pt hook shot from 6 ft,,1,3,0,3,95.0
+10:22.0, ,3-0,Offensive rebound by J. Porter,,1,3,0,3,98.0
+10:12.0, ,3-0,J. Porter misses 2-pt layup from 2 ft (block by K. Porziņģis),,1,3,0,3,108.0
+10:12.0, ,3-0,Offensive rebound by Team,,1,3,0,3,108.0
+10:08.0, ,3-0,J. Porter misses 2-pt layup from 4 ft (block by J. Holiday),,1,3,0,3,112.0
+10:05.0,Defensive rebound by J. Tatum,3-0, ,,1,3,0,3,115.0
+10:03.0,Turnover by A. Horford (out of bounds lost ball),3-0, ,,1,3,0,3,117.0
+9:51.0, ,3-0,I. Quickley misses 2-pt layup at rim,,1,3,0,3,129.0
+9:49.0,Defensive rebound by J. Tatum,3-0, ,,1,3,0,3,131.0
+9:44.0,J. Holiday makes 3-pt jump shot from 23 ft (assist by J. Tatum),6-0, ,,1,6,0,6,136.0
+9:31.0, ,6-2,R. Barrett makes 2-pt jump shot from 16 ft,,1,6,2,4,149.0
+9:14.0,Turnover by K. Porziņģis (bad pass),6-2, ,,1,6,2,4,166.0
+8:59.0, ,6-2,P. Siakam misses 2-pt jump shot from 15 ft,,1,6,2,4,181.0
+8:56.0,Defensive rebound by J. Holiday,6-2, ,,1,6,2,4,184.0
+8:47.0,J. Holiday misses 2-pt jump shot from 7 ft,6-2, ,,1,6,2,4,193.0
+8:46.0, ,6-2,Defensive rebound by Team,,1,6,2,4,194.0
+8:32.0, ,6-4,I. Quickley makes 2-pt layup from 1 ft (assist by P. Siakam),,1,6,4,2,208.0
+8:14.0,Turnover by K. Porziņģis (bad pass; steal by I. Quickley),6-4, ,,1,6,4,2,226.0
+8:11.0, ,6-6,I. Quickley makes 2-pt layup at rim,Tie,1,6,6,0,229.0
+7:51.0,J. Tatum makes 2-pt layup from 1 ft,8-6, ,,1,8,6,2,249.0
+7:38.0, ,8-6,J. Porter misses 3-pt jump shot from 25 ft,,1,8,6,2,262.0
+7:36.0,Defensive rebound by J. Holiday,8-6, ,,1,8,6,2,264.0
+7:29.0,J. Holiday misses 3-pt jump shot from 26 ft,8-6, ,,1,8,6,2,271.0
+7:26.0, ,8-6,Defensive rebound by R. Barrett,,1,8,6,2,274.0
+7:23.0, ,8-8,P. Siakam makes 2-pt layup from 5 ft (assist by R. Barrett),Tie,1,8,8,0,277.0
+7:23.0, ,8-8,Shooting foul by J. Holiday (drawn by P. Siakam),,1,8,8,0,277.0
+7:23.0, ,8-9,P. Siakam makes free throw 1 of 1,Lead change,1,8,9,-1,277.0
+7:13.0,Shooting foul by I. Quickley (drawn by J. Holiday),8-9, ,,1,8,9,-1,287.0
+7:13.0,J. Holiday makes free throw 1 of 2,9-9, ,Tie,1,9,9,0,287.0
+7:13.0,J. Holiday makes free throw 2 of 2,10-9, ,Lead change,1,10,9,1,287.0
+6:53.0, ,10-11,R. Barrett makes 2-pt layup from 1 ft (assist by J. Porter),Lead change,1,10,11,-1,307.0
+6:32.0,J. Tatum makes 2-pt jump shot from 19 ft,12-11, ,Lead change,1,12,11,1,328.0
+6:22.0, ,12-11,P. Siakam misses 2-pt jump shot from 8 ft,,1,12,11,1,338.0
+6:19.0,Defensive rebound by A. Horford,12-11, ,,1,12,11,1,341.0
+6:14.0,D. White makes 3-pt jump shot from 24 ft (assist by J. Holiday),15-11, ,,1,15,11,4,346.0
+6:12.0, ,15-11,Toronto full timeout,,1,15,11,4,348.0
+6:12.0, ,15-11,D. Schröder enters the game for S. Barnes,,1,15,11,4,348.0
+5:48.0, ,15-11,P. Siakam misses 3-pt jump shot from 24 ft,,1,15,11,4,372.0
+5:46.0,Defensive rebound by J. Tatum,15-11, ,,1,15,11,4,374.0
+5:35.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by K. Porziņģis),18-11, ,,1,18,11,7,385.0
+5:17.0, ,18-13,R. Barrett makes 2-pt layup from 6 ft (assist by J. Porter),,1,18,13,5,403.0
+5:01.0,A. Horford makes 2-pt jump shot from 8 ft (assist by D. White),20-13, ,,1,20,13,7,419.0
+4:52.0, ,20-13,I. Quickley misses 3-pt jump shot from 25 ft,,1,20,13,7,428.0
+4:50.0,Defensive rebound by J. Tatum,20-13, ,,1,20,13,7,430.0
+4:44.0,K. Porziņģis misses 3-pt jump shot from 25 ft,20-13, ,,1,20,13,7,436.0
+4:41.0, ,20-13,Defensive rebound by J. Porter,,1,20,13,7,439.0
+4:30.0, ,20-15,R. Barrett makes 2-pt jump shot from 7 ft (assist by D. Schröder),,1,20,15,5,450.0
+4:07.0,Turnover by K. Porziņģis (off goaltending),20-15, ,,1,20,15,5,473.0
+4:07.0,S. Hauser enters the game for A. Horford,20-15, ,,1,20,15,5,473.0
+4:07.0,L. Kornet enters the game for D. White,20-15, ,,1,20,15,5,473.0
+4:07.0, ,20-15,J. McDaniels enters the game for R. Barrett,,1,20,15,5,473.0
+4:07.0, ,20-15,T. Young enters the game for J. Porter,,1,20,15,5,473.0
+3:54.0, ,20-15,I. Quickley misses 2-pt jump shot from 5 ft,,1,20,15,5,486.0
+3:50.0,Defensive rebound by L. Kornet,20-15, ,,1,20,15,5,490.0
+3:43.0,L. Kornet makes 2-pt layup from 2 ft (assist by K. Porziņģis),22-15, ,,1,22,15,7,497.0
+3:27.0, ,22-18,I. Quickley makes 3-pt jump shot from 27 ft (assist by P. Siakam),,1,22,18,4,513.0
+3:08.0,K. Porziņģis makes 2-pt layup from 2 ft (assist by J. Holiday),24-18, ,,1,24,18,6,532.0
+3:08.0,Shooting foul by D. Schröder (drawn by K. Porziņģis),24-18, ,,1,24,18,6,532.0
+3:08.0, ,24-18,S. Barnes enters the game for I. Quickley,,1,24,18,6,532.0
+3:08.0,K. Porziņģis misses free throw 1 of 1,24-18, ,,1,24,18,6,532.0
+3:06.0, ,24-18,Defensive rebound by T. Young,,1,24,18,6,534.0
+2:52.0, ,24-18,S. Barnes misses 2-pt jump shot from 10 ft,,1,24,18,6,548.0
+2:49.0,Defensive rebound by K. Porziņģis,24-18, ,,1,24,18,6,551.0
+2:33.0,J. Holiday makes 2-pt layup from 1 ft,26-18, ,,1,26,18,8,567.0
+2:26.0, ,26-18,P. Siakam misses 3-pt jump shot from 23 ft,,1,26,18,8,574.0
+2:24.0, ,26-18,Offensive rebound by S. Barnes,,1,26,18,8,576.0
+2:20.0, ,26-18,J. McDaniels misses 3-pt jump shot from 27 ft,,1,26,18,8,580.0
+2:16.0,Defensive rebound by L. Kornet,26-18, ,,1,26,18,8,584.0
+2:05.0,Turnover by J. Tatum (lost ball; steal by T. Young),26-18, ,,1,26,18,8,595.0
+2:02.0, ,26-21,J. McDaniels makes 3-pt jump shot from 26 ft (assist by S. Barnes),,1,26,21,5,598.0
+2:00.0,Boston full timeout,26-21, ,,1,26,21,5,600.0
+2:00.0,P. Pritchard enters the game for J. Holiday,26-21, ,,1,26,21,5,600.0
+2:00.0,D. White enters the game for K. Porziņģis,26-21, ,,1,26,21,5,600.0
+2:00.0, ,26-21,R. Barrett enters the game for P. Siakam,,1,26,21,5,600.0
+1:45.0,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),29-21, ,,1,29,21,8,615.0
+1:31.0, ,29-23,R. Barrett makes 2-pt layup at rim (assist by T. Young),,1,29,23,6,629.0
+1:15.0,S. Hauser misses 2-pt jump shot from 10 ft,29-23, ,,1,29,23,6,645.0
+1:12.0, ,29-23,Defensive rebound by S. Barnes,,1,29,23,6,648.0
+1:03.0, ,29-25,S. Barnes makes 2-pt hook shot from 6 ft,,1,29,25,4,657.0
+0:47.0,D. White misses 3-pt jump shot from 26 ft,29-25, ,,1,29,25,4,673.0
+0:44.0, ,29-25,Defensive rebound by J. McDaniels,,1,29,25,4,676.0
+0:32.0, ,29-25,T. Young misses 2-pt hook shot from 6 ft,,1,29,25,4,688.0
+0:29.0,Defensive rebound by S. Hauser,29-25, ,,1,29,25,4,691.0
+0:22.0,Personal foul by T. Young (drawn by J. Tatum),29-25, ,,1,29,25,4,698.0
+0:17.0,P. Pritchard misses 3-pt jump shot from 25 ft,29-25, ,,1,29,25,4,703.0
+0:14.0, ,29-25,Defensive rebound by R. Barrett,,1,29,25,4,706.0
+0:00.0, ,29-25,J. McDaniels misses 3-pt jump shot from 25 ft,,1,29,25,4,720.0
+0:00.0, ,29-25,Offensive rebound by Team,,1,29,25,4,720.0
+0:00.0,End of 1st quarter,29-25,,,1,29,25,4,720.0
+12:00.0,Start of 2nd quarter,29-25,,,2,29,25,4,720.0
+11:46.0, ,29-25,Shooting foul by L. Kornet (drawn by C. Boucher),,2,29,25,4,734.0
+11:46.0, ,29-26,C. Boucher makes free throw 1 of 2,,2,29,26,3,734.0
+11:46.0, ,29-27,C. Boucher makes free throw 2 of 2,,2,29,27,2,734.0
+11:21.0,A. Horford misses 2-pt jump shot from 21 ft,29-27, ,,2,29,27,2,759.0
+11:19.0, ,29-27,Defensive rebound by S. Barnes,,2,29,27,2,761.0
+11:15.0, ,29-30,D. Schröder makes 3-pt jump shot from 24 ft (assist by S. Barnes),Lead change,2,29,30,-1,765.0
+10:52.0,P. Pritchard misses 2-pt layup from 2 ft,29-30, ,,2,29,30,-1,788.0
+10:48.0, ,29-30,Defensive rebound by S. Barnes,,2,29,30,-1,792.0
+10:45.0, ,29-30,R. Barrett misses 3-pt jump shot from 23 ft,,2,29,30,-1,795.0
+10:43.0, ,29-30,Offensive rebound by J. McDaniels,,2,29,30,-1,797.0
+10:39.0, ,29-30,C. Boucher misses 3-pt jump shot from 25 ft,,2,29,30,-1,801.0
+10:36.0,Defensive rebound by P. Pritchard,29-30, ,,2,29,30,-1,804.0
+10:32.0,A. Horford makes 3-pt jump shot from 26 ft (assist by P. Pritchard),32-30, ,Lead change,2,32,30,2,808.0
+10:11.0, ,32-32,R. Barrett makes 2-pt layup from 6 ft,Tie,2,32,32,0,829.0
+9:52.0,Turnover by D. White (traveling),32-32, ,,2,32,32,0,848.0
+9:32.0, ,32-34,J. McDaniels makes 2-pt hook shot from 6 ft (assist by R. Barrett),Lead change,2,32,34,-2,868.0
+9:14.0,A. Horford misses 2-pt hook shot from 3 ft,32-34, ,,2,32,34,-2,886.0
+9:13.0,Offensive rebound by A. Horford,32-34, ,,2,32,34,-2,887.0
+9:13.0,A. Horford makes 2-pt hook shot at rim,34-34, ,Tie,2,34,34,0,887.0
+9:13.0, ,34-34,Violation by Team (def goaltending),,2,34,34,0,887.0
+9:01.0, ,34-34,Turnover by D. Schröder (bad pass),,2,34,34,0,899.0
+9:01.0,O. Brissett enters the game for L. Kornet,34-34, ,,2,34,34,0,899.0
+8:50.0,D. White makes 3-pt jump shot from 26 ft,37-34, ,Lead change,2,37,34,3,910.0
+8:31.0, ,37-34,D. Schröder misses 3-pt jump shot from 24 ft,,2,37,34,3,929.0
+8:28.0,Defensive rebound by P. Pritchard,37-34, ,,2,37,34,3,932.0
+8:21.0,D. White makes 3-pt jump shot from 25 ft (assist by A. Horford),40-34, ,,2,40,34,6,939.0
+8:20.0, ,40-34,Toronto full timeout,,2,40,34,6,940.0
+8:20.0, ,40-34,J. Porter enters the game for R. Barrett,,2,40,34,6,940.0
+8:20.0, ,40-34,I. Quickley enters the game for J. McDaniels,,2,40,34,6,940.0
+7:55.0, ,40-36,I. Quickley makes 2-pt jump shot from 19 ft (assist by D. Schröder),,2,40,36,4,965.0
+7:28.0,D. White misses 2-pt jump shot from 18 ft (block by J. Porter),40-36, ,,2,40,36,4,992.0
+7:25.0, ,40-36,Defensive rebound by S. Barnes,,2,40,36,4,995.0
+7:22.0, ,40-36,C. Boucher misses 3-pt jump shot from 25 ft,,2,40,36,4,998.0
+7:18.0,Defensive rebound by S. Hauser,40-36, ,,2,40,36,4,1002.0
+7:05.0,O. Brissett misses 2-pt jump shot from 9 ft,40-36, ,,2,40,36,4,1015.0
+7:03.0,Offensive rebound by A. Horford,40-36, ,,2,40,36,4,1017.0
+7:00.0,A. Horford misses 2-pt hook shot from 6 ft,40-36, ,,2,40,36,4,1020.0
+7:00.0,Offensive rebound by O. Brissett,40-36, ,,2,40,36,4,1020.0
+6:55.0,O. Brissett misses 2-pt dunk at rim,40-36, ,,2,40,36,4,1025.0
+6:54.0, ,40-36,Defensive rebound by C. Boucher,,2,40,36,4,1026.0
+6:50.0, ,40-36,C. Boucher misses 2-pt layup from 5 ft,,2,40,36,4,1030.0
+6:48.0,Defensive rebound by A. Horford,40-36, ,,2,40,36,4,1032.0
+6:41.0,D. White misses 3-pt jump shot from 26 ft,40-36, ,,2,40,36,4,1039.0
+6:38.0, ,40-36,Defensive rebound by S. Barnes,,2,40,36,4,1042.0
+6:31.0, ,40-38,D. Schröder makes 2-pt jump shot from 9 ft,,2,40,38,2,1049.0
+6:16.0,Shooting foul by C. Boucher (drawn by O. Brissett),40-38, ,,2,40,38,2,1064.0
+6:16.0,O. Brissett makes free throw 1 of 2,41-38, ,,2,41,38,3,1064.0
+6:16.0,J. Holiday enters the game for S. Hauser,41-38, ,,2,41,38,3,1064.0
+6:16.0,K. Porziņģis enters the game for A. Horford,41-38, ,,2,41,38,3,1064.0
+6:16.0,J. Tatum enters the game for P. Pritchard,41-38, ,,2,41,38,3,1064.0
+6:16.0, ,41-38,R. Barrett enters the game for S. Barnes,,2,41,38,3,1064.0
+6:16.0, ,41-38,P. Siakam enters the game for C. Boucher,,2,41,38,3,1064.0
+6:16.0,O. Brissett makes free throw 2 of 2,42-38, ,,2,42,38,4,1064.0
+6:03.0, ,42-38,J. Porter misses 3-pt jump shot from 27 ft,,2,42,38,4,1077.0
+5:58.0,Defensive rebound by J. Holiday,42-38, ,,2,42,38,4,1082.0
+5:52.0,D. White misses 2-pt jump shot from 7 ft,42-38, ,,2,42,38,4,1088.0
+5:52.0, ,42-38,Defensive rebound by I. Quickley,,2,42,38,4,1088.0
+5:37.0, ,42-38,D. Schröder misses 2-pt layup from 4 ft,,2,42,38,4,1103.0
+5:35.0,Defensive rebound by J. Tatum,42-38, ,,2,42,38,4,1105.0
+5:32.0,J. Tatum makes 3-pt jump shot from 26 ft,45-38, ,,2,45,38,7,1108.0
+5:13.0, ,45-40,I. Quickley makes 2-pt jump shot from 13 ft (assist by J. Porter),,2,45,40,5,1127.0
+4:56.0,D. White misses 2-pt jump shot from 8 ft,45-40, ,,2,45,40,5,1144.0
+4:52.0,Offensive rebound by O. Brissett,45-40, ,,2,45,40,5,1148.0
+4:52.0,O. Brissett makes 2-pt layup at rim,47-40, ,,2,47,40,7,1148.0
+4:47.0, ,47-40,R. Barrett misses 3-pt jump shot from 24 ft,,2,47,40,7,1153.0
+4:45.0,Defensive rebound by J. Holiday,47-40, ,,2,47,40,7,1155.0
+4:39.0,D. White misses 3-pt jump shot from 23 ft,47-40, ,,2,47,40,7,1161.0
+4:38.0, ,47-40,Defensive rebound by Team,,2,47,40,7,1162.0
+4:38.0,P. Pritchard enters the game for D. White,47-40, ,,2,47,40,7,1162.0
+4:25.0, ,47-42,J. Porter makes 2-pt hook shot from 7 ft (assist by R. Barrett),,2,47,42,5,1175.0
+4:10.0,Personal foul by J. Porter (drawn by K. Porziņģis),47-42, ,,2,47,42,5,1190.0
+3:59.0,J. Tatum misses 2-pt jump shot from 15 ft,47-42, ,,2,47,42,5,1201.0
+3:56.0, ,47-42,Defensive rebound by D. Schröder,,2,47,42,5,1204.0
+3:47.0, ,47-42,Shooting foul by P. Pritchard (drawn by D. Schröder),,2,47,42,5,1213.0
+3:47.0, ,47-43,D. Schröder makes free throw 1 of 2,,2,47,43,4,1213.0
+3:47.0, ,47-44,D. Schröder makes free throw 2 of 2,,2,47,44,3,1213.0
+3:34.0,Personal foul by D. Schröder (drawn by K. Porziņģis),47-44, ,,2,47,44,3,1226.0
+3:34.0, ,47-44,S. Barnes enters the game for D. Schröder,,2,47,44,3,1226.0
+3:24.0,J. Tatum makes 2-pt jump shot from 12 ft (assist by J. Holiday),49-44, ,,2,49,44,5,1236.0
+3:24.0,Shooting foul by R. Barrett (drawn by J. Tatum),49-44, ,,2,49,44,5,1236.0
+3:24.0,J. Tatum makes free throw 1 of 1,50-44, ,,2,50,44,6,1236.0
+3:03.0, ,50-46,R. Barrett makes 2-pt layup from 1 ft,,2,50,46,4,1257.0
+2:55.0,O. Brissett makes 3-pt jump shot from 24 ft (assist by J. Holiday),53-46, ,,2,53,46,7,1265.0
+2:31.0, ,53-46,S. Barnes misses 3-pt jump shot from 29 ft,,2,53,46,7,1289.0
+2:27.0,Defensive rebound by O. Brissett,53-46, ,,2,53,46,7,1293.0
+2:22.0,J. Tatum misses 2-pt jump shot from 19 ft,53-46, ,,2,53,46,7,1298.0
+2:18.0, ,53-46,Defensive rebound by J. Porter,,2,53,46,7,1302.0
+2:16.0, ,53-46,Shooting foul by O. Brissett (drawn by P. Siakam),,2,53,46,7,1304.0
+2:16.0,Boston full timeout,53-46, ,,2,53,46,7,1304.0
+2:16.0,A. Horford enters the game for O. Brissett,53-46, ,,2,53,46,7,1304.0
+2:16.0,D. White enters the game for P. Pritchard,53-46, ,,2,53,46,7,1304.0
+2:16.0, ,53-47,P. Siakam makes free throw 1 of 2,,2,53,47,6,1304.0
+2:16.0, ,53-48,P. Siakam makes free throw 2 of 2,,2,53,48,5,1304.0
+2:02.0,Shooting foul by J. Porter (drawn by K. Porziņģis),53-48, ,,2,53,48,5,1318.0
+2:02.0,K. Porziņģis makes free throw 1 of 2,54-48, ,,2,54,48,6,1318.0
+2:02.0,K. Porziņģis makes free throw 2 of 2,55-48, ,,2,55,48,7,1318.0
+1:52.0, ,55-48,P. Siakam misses 3-pt jump shot from 23 ft,,2,55,48,7,1328.0
+1:49.0,Defensive rebound by A. Horford,55-48, ,,2,55,48,7,1331.0
+1:40.0,Personal foul by J. Porter (drawn by K. Porziņģis),55-48, ,,2,55,48,7,1340.0
+1:40.0,K. Porziņģis makes free throw 1 of 2,56-48, ,,2,56,48,8,1340.0
+1:40.0, ,56-48,T. Young enters the game for J. Porter,,2,56,48,8,1340.0
+1:40.0,K. Porziņģis makes free throw 2 of 2,57-48, ,,2,57,48,9,1340.0
+1:29.0, ,57-48,P. Siakam misses 2-pt jump shot from 8 ft,,2,57,48,9,1351.0
+1:25.0, ,57-48,Offensive rebound by T. Young,,2,57,48,9,1355.0
+1:25.0, ,57-48,T. Young misses 2-pt layup at rim,,2,57,48,9,1355.0
+1:24.0,Defensive rebound by K. Porziņģis,57-48, ,,2,57,48,9,1356.0
+1:13.0,D. White misses 3-pt jump shot from 22 ft,57-48, ,,2,57,48,9,1367.0
+1:08.0,Offensive rebound by J. Holiday,57-48, ,,2,57,48,9,1372.0
+1:06.0,J. Holiday makes 2-pt layup at rim,59-48, ,,2,59,48,11,1374.0
+0:56.0, ,59-48,Shooting foul by J. Holiday (drawn by I. Quickley),,2,59,48,11,1384.0
+0:56.0, ,59-49,I. Quickley makes free throw 1 of 2,,2,59,49,10,1384.0
+0:56.0, ,59-50,I. Quickley makes free throw 2 of 2,,2,59,50,9,1384.0
+0:48.0,Personal foul by I. Quickley (drawn by K. Porziņģis),59-50, ,,2,59,50,9,1392.0
+0:48.0,K. Porziņģis makes free throw 1 of 2,60-50, ,,2,60,50,10,1392.0
+0:48.0,K. Porziņģis makes free throw 2 of 2,61-50, ,,2,61,50,11,1392.0
+0:36.0, ,61-52,P. Siakam makes 2-pt jump shot from 5 ft (assist by T. Young),,2,61,52,9,1404.0
+0:32.0,J. Holiday misses 2-pt jump shot from 22 ft,61-52, ,,2,61,52,9,1408.0
+0:29.0, ,61-52,Defensive rebound by P. Siakam,,2,61,52,9,1411.0
+0:26.0, ,61-55,I. Quickley makes 3-pt jump shot from 25 ft (assist by P. Siakam),,2,61,55,6,1414.0
+0:02.0,J. Tatum misses 3-pt jump shot from 26 ft,61-55, ,,2,61,55,6,1438.0
+0:02.0, ,61-55,Defensive rebound by R. Barrett,,2,61,55,6,1438.0
+0:00.0,End of 2nd quarter,61-55,,,2,61,55,6,1440.0
+12:00.0,Start of 3rd quarter,61-55,,,3,61,55,6,1440.0
+11:50.0, ,61-55,Offensive foul by J. Porter (drawn by J. Holiday),,3,61,55,6,1450.0
+11:50.0, ,61-55,Turnover by J. Porter (offensive foul),,3,61,55,6,1450.0
+11:50.0, ,61-55,T. Young enters the game for J. Porter,,3,61,55,6,1450.0
+11:36.0,Offensive foul by K. Porziņģis (drawn by T. Young),61-55, ,,3,61,55,6,1464.0
+11:36.0,Turnover by K. Porziņģis (offensive foul),61-55, ,,3,61,55,6,1464.0
+11:24.0, ,61-57,R. Barrett makes 2-pt layup from 1 ft (assist by T. Young),,3,61,57,4,1476.0
+11:10.0,K. Porziņģis misses 3-pt jump shot from 25 ft,61-57, ,,3,61,57,4,1490.0
+11:07.0, ,61-57,Defensive rebound by S. Barnes,,3,61,57,4,1493.0
+10:55.0, ,61-57,S. Barnes misses 2-pt jump shot from 14 ft,,3,61,57,4,1505.0
+10:52.0,Defensive rebound by J. Tatum,61-57, ,,3,61,57,4,1508.0
+10:37.0,J. Holiday misses 2-pt layup from 3 ft,61-57, ,,3,61,57,4,1523.0
+10:34.0, ,61-57,Defensive rebound by R. Barrett,,3,61,57,4,1526.0
+10:32.0, ,61-57,Shooting foul by A. Horford (drawn by R. Barrett),,3,61,57,4,1528.0
+10:32.0, ,61-58,R. Barrett makes free throw 1 of 2,,3,61,58,3,1528.0
+10:32.0, ,61-58,R. Barrett misses free throw 2 of 2,,3,61,58,3,1528.0
+10:29.0,Defensive rebound by D. White,61-58, ,,3,61,58,3,1531.0
+10:10.0,J. Tatum misses 2-pt layup from 5 ft,61-58, ,,3,61,58,3,1550.0
+10:07.0, ,61-58,Defensive rebound by S. Barnes,,3,61,58,3,1553.0
+10:01.0, ,61-60,I. Quickley makes 2-pt layup from 1 ft,,3,61,60,1,1559.0
+9:54.0,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Holiday),64-60, ,,3,64,60,4,1566.0
+9:31.0, ,64-60,R. Barrett misses 2-pt hook shot from 5 ft,,3,64,60,4,1589.0
+9:29.0,Defensive rebound by J. Tatum,64-60, ,,3,64,60,4,1591.0
+9:19.0,Turnover by K. Porziņģis (lost ball; steal by T. Young),64-60, ,,3,64,60,4,1601.0
+9:12.0, ,64-62,S. Barnes makes 2-pt dunk at rim (assist by T. Young),,3,64,62,2,1608.0
+8:59.0,J. Holiday misses 3-pt jump shot from 26 ft,64-62, ,,3,64,62,2,1621.0
+8:56.0, ,64-62,Defensive rebound by P. Siakam,,3,64,62,2,1624.0
+8:53.0, ,64-62,Shooting foul by A. Horford (drawn by P. Siakam),,3,64,62,2,1627.0
+8:53.0, ,64-63,P. Siakam makes free throw 1 of 2,,3,64,63,1,1627.0
+8:53.0, ,64-64,P. Siakam makes free throw 2 of 2,Tie,3,64,64,0,1627.0
+8:36.0,A. Horford misses 2-pt layup from 6 ft (block by I. Quickley),64-64, ,,3,64,64,0,1644.0
+8:35.0, ,64-64,Defensive rebound by I. Quickley,,3,64,64,0,1645.0
+8:18.0, ,64-66,R. Barrett makes 2-pt hook shot from 4 ft (assist by T. Young),Lead change,3,64,66,-2,1662.0
+8:18.0,Boston full timeout,64-66, ,,3,64,66,-2,1662.0
+8:07.0,J. Tatum misses 2-pt jump shot from 19 ft,64-66, ,,3,64,66,-2,1673.0
+8:03.0, ,64-66,Defensive rebound by S. Barnes,,3,64,66,-2,1677.0
+8:01.0, ,64-68,R. Barrett makes 2-pt layup from 5 ft,,3,64,68,-4,1679.0
+8:01.0, ,64-68,Shooting foul by K. Porziņģis (drawn by R. Barrett),,3,64,68,-4,1679.0
+8:01.0, ,64-69,R. Barrett makes free throw 1 of 1,,3,64,69,-5,1679.0
+7:48.0,D. White misses 3-pt jump shot from 28 ft,64-69, ,,3,64,69,-5,1692.0
+7:44.0, ,64-69,Defensive rebound by R. Barrett,,3,64,69,-5,1696.0
+7:27.0, ,64-71,P. Siakam makes 2-pt layup from 3 ft (assist by T. Young),,3,64,71,-7,1713.0
+7:27.0, ,64-71,Shooting foul by A. Horford (drawn by P. Siakam),,3,64,71,-7,1713.0
+7:27.0, ,64-71,P. Siakam misses free throw 1 of 1,,3,64,71,-7,1713.0
+7:24.0,Defensive rebound by A. Horford,64-71, ,,3,64,71,-7,1716.0
+7:14.0,Turnover by D. White (lost ball; steal by S. Barnes),64-71, ,,3,64,71,-7,1726.0
+7:08.0, ,64-71,Turnover by S. Barnes (bad pass; steal by J. Tatum),,3,64,71,-7,1732.0
+6:57.0,J. Holiday makes 2-pt jump shot from 11 ft,66-71, ,,3,66,71,-5,1743.0
+6:45.0, ,66-71,I. Quickley misses 2-pt jump shot from 16 ft,,3,66,71,-5,1755.0
+6:43.0,Defensive rebound by J. Tatum,66-71, ,,3,66,71,-5,1757.0
+6:29.0,K. Porziņģis misses 3-pt jump shot from 30 ft,66-71, ,,3,66,71,-5,1771.0
+6:26.0, ,66-71,Defensive rebound by R. Barrett,,3,66,71,-5,1774.0
+6:18.0, ,66-73,S. Barnes makes 2-pt layup from 2 ft,,3,66,73,-7,1782.0
+6:04.0,K. Porziņģis misses 2-pt jump shot from 8 ft,66-73, ,,3,66,73,-7,1796.0
+6:03.0, ,66-73,Defensive rebound by T. Young,,3,66,73,-7,1797.0
+6:03.0,L. Kornet enters the game for A. Horford,66-73, ,,3,66,73,-7,1797.0
+6:03.0,P. Pritchard enters the game for D. White,66-73, ,,3,66,73,-7,1797.0
+6:03.0, ,66-73,D. Schröder enters the game for S. Barnes,,3,66,73,-7,1797.0
+5:55.0, ,66-73,P. Siakam misses 3-pt jump shot from 24 ft,,3,66,73,-7,1805.0
+5:51.0,Defensive rebound by J. Tatum,66-73, ,,3,66,73,-7,1809.0
+5:44.0,J. Tatum makes 2-pt dunk from 1 ft,68-73, ,,3,68,73,-5,1816.0
+5:23.0, ,68-73,T. Young misses 3-pt jump shot from 22 ft,,3,68,73,-5,1837.0
+5:21.0,Defensive rebound by J. Tatum,68-73, ,,3,68,73,-5,1839.0
+5:12.0,J. Tatum misses 2-pt jump shot from 14 ft,68-73, ,,3,68,73,-5,1848.0
+5:07.0, ,68-73,Defensive rebound by R. Barrett,,3,68,73,-5,1853.0
+4:59.0, ,68-73,R. Barrett misses 3-pt jump shot from 26 ft,,3,68,73,-5,1861.0
+4:56.0,Defensive rebound by K. Porziņģis,68-73, ,,3,68,73,-5,1864.0
+4:48.0,Shooting foul by R. Barrett (drawn by K. Porziņģis),68-73, ,,3,68,73,-5,1872.0
+4:48.0,K. Porziņģis makes free throw 1 of 2,69-73, ,,3,69,73,-4,1872.0
+4:48.0,K. Porziņģis makes free throw 2 of 2,70-73, ,,3,70,73,-3,1872.0
+4:39.0, ,70-73,I. Quickley misses 3-pt jump shot from 28 ft,,3,70,73,-3,1881.0
+4:37.0,Defensive rebound by J. Tatum,70-73, ,,3,70,73,-3,1883.0
+4:30.0,Personal foul by R. Barrett (drawn by J. Tatum),70-73, ,,3,70,73,-3,1890.0
+4:24.0,J. Tatum makes 2-pt dunk at rim (assist by J. Holiday),72-73, ,,3,72,73,-1,1896.0
+4:24.0,Shooting foul by T. Young (drawn by J. Tatum),72-73, ,,3,72,73,-1,1896.0
+4:24.0, ,72-73,Toronto full timeout,,3,72,73,-1,1896.0
+4:24.0, ,72-73,S. Barnes enters the game for R. Barrett,,3,72,73,-1,1896.0
+4:24.0,J. Tatum makes free throw 1 of 1,73-73, ,Tie,3,73,73,0,1896.0
+4:06.0, ,73-73,T. Young misses 2-pt hook shot from 4 ft (block by K. Porziņģis),,3,73,73,0,1914.0
+4:02.0, ,73-73,Offensive rebound by P. Siakam,,3,73,73,0,1918.0
+4:01.0, ,73-73,I. Quickley misses 2-pt jump shot from 16 ft,,3,73,73,0,1919.0
+3:58.0, ,73-73,Offensive rebound by T. Young,,3,73,73,0,1922.0
+3:52.0, ,73-73,Turnover by D. Schröder (out of bounds lost ball),,3,73,73,0,1928.0
+3:32.0,J. Tatum misses 3-pt jump shot from 27 ft,73-73, ,,3,73,73,0,1948.0
+3:32.0, ,73-73,Defensive rebound by D. Schröder,,3,73,73,0,1948.0
+3:22.0, ,73-75,P. Siakam makes 2-pt dunk from 1 ft (assist by T. Young),,3,73,75,-2,1958.0
+3:11.0,Shooting foul by P. Siakam (drawn by K. Porziņģis),73-75, ,,3,73,75,-2,1969.0
+3:11.0,K. Porziņģis makes free throw 1 of 2,74-75, ,,3,74,75,-1,1969.0
+3:11.0, ,74-75,J. McDaniels enters the game for I. Quickley,,3,74,75,-1,1969.0
+3:11.0,K. Porziņģis makes free throw 2 of 2,75-75, ,Tie,3,75,75,0,1969.0
+2:51.0, ,75-75,J. McDaniels misses 2-pt jump shot from 8 ft (block by J. Tatum),,3,75,75,0,1989.0
+2:48.0,Defensive rebound by K. Porziņģis,75-75, ,,3,75,75,0,1992.0
+2:44.0,Shooting foul by S. Barnes (drawn by J. Tatum),75-75, ,,3,75,75,0,1996.0
+2:44.0,J. Tatum makes free throw 1 of 2,76-75, ,Lead change,3,76,75,1,1996.0
+2:44.0,A. Horford enters the game for K. Porziņģis,76-75, ,,3,76,75,1,1996.0
+2:44.0,J. Tatum makes free throw 2 of 2,77-75, ,,3,77,75,2,1996.0
+2:22.0, ,77-75,Turnover by S. Barnes (bad pass),,3,77,75,2,2018.0
+2:11.0,J. Tatum makes 2-pt layup from 1 ft,79-75, ,,3,79,75,4,2029.0
+1:51.0, ,79-75,Turnover by S. Barnes (bad pass; steal by A. Horford),,3,79,75,4,2049.0
+1:42.0,A. Horford misses 3-pt jump shot from 26 ft,79-75, ,,3,79,75,4,2058.0
+1:39.0, ,79-75,Defensive rebound by S. Barnes,,3,79,75,4,2061.0
+1:32.0, ,79-75,Personal foul by J. Tatum (drawn by J. McDaniels),,3,79,75,4,2068.0
+1:32.0, ,79-75,J. McDaniels misses free throw 1 of 2,,3,79,75,4,2068.0
+1:32.0, ,79-75,Offensive rebound by Team,,3,79,75,4,2068.0
+1:32.0,S. Hauser enters the game for J. Holiday,79-75, ,,3,79,75,4,2068.0
+1:32.0, ,79-75,C. Boucher enters the game for T. Young,,3,79,75,4,2068.0
+1:32.0, ,79-75,J. McDaniels misses free throw 2 of 2,,3,79,75,4,2068.0
+1:29.0,Defensive rebound by L. Kornet,79-75, ,,3,79,75,4,2071.0
+1:08.0,L. Kornet makes 2-pt dunk from 1 ft (assist by J. Tatum),81-75, ,,3,81,75,6,2092.0
+0:47.0, ,81-75,S. Barnes misses 2-pt hook shot from 7 ft,,3,81,75,6,2113.0
+0:45.0,Defensive rebound by A. Horford,81-75, ,,3,81,75,6,2115.0
+0:32.0,P. Pritchard makes 3-pt jump shot from 26 ft (assist by J. Tatum),84-75, ,,3,84,75,9,2128.0
+0:25.0, ,84-75,C. Boucher misses 3-pt jump shot from 23 ft,,3,84,75,9,2135.0
+0:22.0,Defensive rebound by P. Pritchard,84-75, ,,3,84,75,9,2138.0
+0:02.0,J. Tatum misses 3-pt jump shot from 30 ft,84-75, ,,3,84,75,9,2158.0
+0:02.0, ,84-75,Defensive rebound by D. Schröder,,3,84,75,9,2158.0
+0:00.0,End of 3rd quarter,84-75,,,3,84,75,9,2160.0
+12:00.0,Start of 4th quarter,84-75,,,4,84,75,9,2160.0
+11:42.0,P. Pritchard misses 3-pt jump shot from 24 ft,84-75, ,,4,84,75,9,2178.0
+11:39.0, ,84-75,Defensive rebound by D. Schröder,,4,84,75,9,2181.0
+11:30.0, ,84-75,S. Barnes misses 3-pt jump shot from 23 ft,,4,84,75,9,2190.0
+11:28.0,Defensive rebound by S. Hauser,84-75, ,,4,84,75,9,2192.0
+11:16.0,D. White misses 3-pt jump shot from 31 ft,84-75, ,,4,84,75,9,2204.0
+11:13.0, ,84-75,Defensive rebound by D. Schröder,,4,84,75,9,2207.0
+11:07.0,Violation by Team (kicked ball),84-75, ,,4,84,75,9,2213.0
+10:52.0, ,84-75,C. Boucher misses 3-pt jump shot from 22 ft,,4,84,75,9,2228.0
+10:48.0,Defensive rebound by A. Horford,84-75, ,,4,84,75,9,2232.0
+10:43.0,Shooting foul by D. Schröder (drawn by D. White),84-75, ,,4,84,75,9,2237.0
+10:43.0,D. White makes free throw 1 of 2,85-75, ,,4,85,75,10,2237.0
+10:43.0, ,85-75,I. Quickley enters the game for J. McDaniels,,4,85,75,10,2237.0
+10:43.0,D. White makes free throw 2 of 2,86-75, ,,4,86,75,11,2237.0
+10:31.0, ,86-75,Shooting foul by P. Pritchard (drawn by I. Quickley),,4,86,75,11,2249.0
+10:31.0, ,86-76,I. Quickley makes free throw 1 of 2,,4,86,76,10,2249.0
+10:31.0, ,86-76,I. Quickley misses free throw 2 of 2,,4,86,76,10,2249.0
+10:29.0,Defensive rebound by S. Hauser,86-76, ,,4,86,76,10,2251.0
+10:14.0,P. Pritchard misses 3-pt jump shot from 25 ft,86-76, ,,4,86,76,10,2266.0
+10:10.0, ,86-76,Defensive rebound by S. Barnes,,4,86,76,10,2270.0
+10:04.0, ,86-76,R. Barrett misses 2-pt jump shot from 12 ft,,4,86,76,10,2276.0
+10:02.0,Defensive rebound by A. Horford,86-76, ,,4,86,76,10,2278.0
+9:56.0,Turnover by D. White (bad pass; steal by S. Barnes),86-76, ,,4,86,76,10,2284.0
+9:52.0, ,86-78,R. Barrett makes 2-pt layup from 1 ft (assist by I. Quickley),,4,86,78,8,2288.0
+9:34.0,D. White makes 2-pt jump shot from 12 ft (assist by A. Horford),88-78, ,,4,88,78,10,2306.0
+9:34.0,Shooting foul by R. Barrett (drawn by D. White),88-78, ,,4,88,78,10,2306.0
+9:34.0,D. White makes free throw 1 of 1,89-78, ,,4,89,78,11,2306.0
+9:25.0, ,89-80,D. Schröder makes 2-pt jump shot from 10 ft,,4,89,80,9,2315.0
+9:03.0,D. White makes 2-pt jump shot from 14 ft,91-80, ,,4,91,80,11,2337.0
+8:38.0, ,91-80,I. Quickley misses 3-pt jump shot from 24 ft (block by L. Kornet),,4,91,80,11,2362.0
+8:34.0,Defensive rebound by S. Hauser,91-80, ,,4,91,80,11,2366.0
+8:19.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by P. Pritchard),94-80, ,,4,94,80,14,2381.0
+8:18.0, ,94-80,Toronto full timeout,,4,94,80,14,2382.0
+8:18.0, ,94-80,P. Siakam enters the game for R. Barrett,,4,94,80,14,2382.0
+7:56.0, ,94-82,D. Schröder makes 2-pt layup from 1 ft (assist by P. Siakam),,4,94,82,12,2404.0
+7:33.0,P. Pritchard misses 3-pt jump shot from 28 ft,94-82, ,,4,94,82,12,2427.0
+7:28.0, ,94-82,Defensive rebound by I. Quickley,,4,94,82,12,2432.0
+7:22.0, ,94-82,D. Schröder misses 2-pt layup from 2 ft (block by S. Hauser),,4,94,82,12,2438.0
+7:19.0, ,94-82,Offensive rebound by C. Boucher,,4,94,82,12,2441.0
+7:18.0, ,94-84,C. Boucher makes 2-pt layup from 1 ft,,4,94,84,10,2442.0
+7:12.0,Personal foul by D. Schröder (drawn by D. White),94-84, ,,4,94,84,10,2448.0
+7:12.0,J. Holiday enters the game for S. Hauser,94-84, ,,4,94,84,10,2448.0
+7:12.0,K. Porziņģis enters the game for A. Horford,94-84, ,,4,94,84,10,2448.0
+7:12.0,J. Tatum enters the game for L. Kornet,94-84, ,,4,94,84,10,2448.0
+6:54.0,J. Tatum misses 2-pt jump shot from 21 ft,94-84, ,,4,94,84,10,2466.0
+6:52.0, ,94-84,Defensive rebound by I. Quickley,,4,94,84,10,2468.0
+6:48.0, ,94-86,S. Barnes makes 2-pt layup from 4 ft (assist by I. Quickley),,4,94,86,8,2472.0
+6:48.0,Boston full timeout,94-86, ,,4,94,86,8,2472.0
+6:26.0,P. Pritchard misses 3-pt jump shot from 23 ft,94-86, ,,4,94,86,8,2494.0
+6:24.0, ,94-86,Defensive rebound by D. Schröder,,4,94,86,8,2496.0
+6:24.0, ,94-86,Personal foul by J. Tatum (drawn by D. Schröder),,4,94,86,8,2496.0
+6:15.0, ,94-88,D. Schröder makes 2-pt layup from 1 ft,,4,94,88,6,2505.0
+6:02.0,J. Holiday makes 3-pt jump shot from 26 ft,97-88, ,,4,97,88,9,2518.0
+5:44.0, ,97-88,I. Quickley misses 3-pt jump shot from 25 ft,,4,97,88,9,2536.0
+5:43.0, ,97-88,Offensive rebound by Team,,4,97,88,9,2537.0
+5:43.0,Loose ball foul by K. Porziņģis (drawn by P. Siakam),97-88, ,,4,97,88,9,2537.0
+5:43.0,A. Horford enters the game for D. White,97-88, ,,4,97,88,9,2537.0
+5:36.0, ,97-88,P. Siakam misses 3-pt jump shot from 25 ft,,4,97,88,9,2544.0
+5:33.0,Defensive rebound by J. Tatum,97-88, ,,4,97,88,9,2547.0
+5:23.0,J. Holiday misses 2-pt jump shot from 14 ft,97-88, ,,4,97,88,9,2557.0
+5:21.0, ,97-88,Defensive rebound by I. Quickley,,4,97,88,9,2559.0
+5:16.0, ,97-88,I. Quickley misses 2-pt layup from 8 ft,,4,97,88,9,2564.0
+5:14.0,Defensive rebound by A. Horford,97-88, ,,4,97,88,9,2566.0
+5:10.0,J. Holiday makes 3-pt jump shot from 25 ft (assist by J. Tatum),100-88, ,,4,100,88,12,2570.0
+5:10.0, ,100-88,Loose ball foul by I. Quickley (drawn by K. Porziņģis),,4,100,88,12,2570.0
+5:10.0, ,100-88,Toronto full timeout,,4,100,88,12,2570.0
+5:10.0,D. White enters the game for P. Pritchard,100-88, ,,4,100,88,12,2570.0
+5:10.0, ,100-88,R. Barrett enters the game for C. Boucher,,4,100,88,12,2570.0
+5:10.0,K. Porziņģis misses free throw 1 of 1,100-88, ,,4,100,88,12,2570.0
+5:08.0, ,100-88,Defensive rebound by R. Barrett,,4,100,88,12,2572.0
+4:47.0, ,100-88,R. Barrett misses 2-pt layup from 2 ft,,4,100,88,12,2593.0
+4:45.0,Defensive rebound by J. Holiday,100-88, ,,4,100,88,12,2595.0
+4:28.0,J. Tatum misses 3-pt jump shot from 25 ft,100-88, ,,4,100,88,12,2612.0
+4:24.0, ,100-88,Defensive rebound by P. Siakam,,4,100,88,12,2616.0
+4:16.0, ,100-88,S. Barnes misses 2-pt layup from 2 ft,,4,100,88,12,2624.0
+4:12.0, ,100-88,Offensive rebound by P. Siakam,,4,100,88,12,2628.0
+4:12.0, ,100-90,P. Siakam makes 2-pt layup at rim,,4,100,90,10,2628.0
+4:00.0,Offensive foul by K. Porziņģis (drawn by P. Siakam),100-90, ,,4,100,90,10,2640.0
+4:00.0,Turnover by K. Porziņģis (offensive foul),100-90, ,,4,100,90,10,2640.0
+3:49.0, ,100-90,D. Schröder misses 3-pt jump shot from 23 ft,,4,100,90,10,2651.0
+3:45.0,Defensive rebound by K. Porziņģis,100-90, ,,4,100,90,10,2655.0
+3:33.0,A. Horford misses 3-pt jump shot from 27 ft,100-90, ,,4,100,90,10,2667.0
+3:30.0, ,100-90,Defensive rebound by S. Barnes,,4,100,90,10,2670.0
+3:24.0, ,100-90,Shooting foul by D. White (drawn by P. Siakam),,4,100,90,10,2676.0
+3:24.0, ,100-91,P. Siakam makes free throw 1 of 2,,4,100,91,9,2676.0
+3:24.0, ,100-92,P. Siakam makes free throw 2 of 2,,4,100,92,8,2676.0
+3:15.0,Turnover by J. Holiday (lost ball; steal by P. Siakam),100-92, ,,4,100,92,8,2685.0
+3:09.0, ,100-94,I. Quickley makes 2-pt jump shot from 11 ft (assist by R. Barrett),,4,100,94,6,2691.0
+3:04.0,Boston full timeout,100-94, ,,4,100,94,6,2696.0
+2:43.0,D. White misses 2-pt layup from 1 ft,100-94, ,,4,100,94,6,2717.0
+2:41.0, ,100-94,Defensive rebound by R. Barrett,,4,100,94,6,2719.0
+2:32.0, ,100-94,R. Barrett misses 2-pt jump shot from 1 ft,,4,100,94,6,2728.0
+2:30.0,Defensive rebound by K. Porziņģis,100-94, ,,4,100,94,6,2730.0
+2:14.0,D. White misses 2-pt jump shot from 9 ft,100-94, ,,4,100,94,6,2746.0
+2:12.0, ,100-94,Defensive rebound by Team,,4,100,94,6,2748.0
+2:00.0, ,100-96,S. Barnes makes 2-pt layup from 1 ft (assist by I. Quickley),,4,100,96,4,2760.0
+1:47.0,J. Tatum misses 3-pt jump shot from 26 ft,100-96, ,,4,100,96,4,2773.0
+1:43.0, ,100-96,Defensive rebound by D. Schröder,,4,100,96,4,2777.0
+1:39.0, ,100-96,I. Quickley misses 3-pt jump shot from 24 ft,,4,100,96,4,2781.0
+1:36.0,Defensive rebound by A. Horford,100-96, ,,4,100,96,4,2784.0
+1:17.0,D. White makes 3-pt jump shot from 23 ft (assist by J. Tatum),103-96, ,,4,103,96,7,2803.0
+0:59.0, ,103-96,P. Siakam misses 3-pt jump shot from 23 ft,,4,103,96,7,2821.0
+0:57.0,Defensive rebound by J. Tatum,103-96, ,,4,103,96,7,2823.0
+0:50.0,Personal foul by S. Barnes (drawn by J. Holiday),103-96, ,,4,103,96,7,2830.0
+0:50.0,J. Holiday makes free throw 1 of 2,104-96, ,,4,104,96,8,2830.0
+0:50.0,J. Holiday makes free throw 2 of 2,105-96, ,,4,105,96,9,2830.0
+0:50.0, ,105-96,Toronto full timeout,,4,105,96,9,2830.0
+0:50.0,P. Pritchard enters the game for K. Porziņģis,105-96, ,,4,105,96,9,2830.0
+0:45.0, ,105-96,I. Quickley misses 2-pt jump shot from 6 ft,,4,105,96,9,2835.0
+0:43.0,Defensive rebound by D. White,105-96, ,,4,105,96,9,2837.0
+0:21.0,Turnover by Team (shot clock),105-96, ,,4,105,96,9,2859.0
+0:00.0,End of 4th quarter,105-96,,,4,105,96,9,2880.0

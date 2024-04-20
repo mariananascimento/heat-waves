@@ -1,0 +1,446 @@
+Time,Boston,Score,San Antonio,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. V. Wembanyama (J. Champagnie gains possession),0-0,,,1,0,0,0,0.0
+11:44.0, ,0-0,V. Wembanyama misses 2-pt layup from 8 ft,,1,0,0,0,16.0
+11:41.0,Defensive rebound by A. Horford,0-0, ,,1,0,0,0,19.0
+11:32.0,Turnover by K. Porziņģis (bad pass; steal by D. Vassell),0-0, ,,1,0,0,0,28.0
+11:19.0, ,0-0,V. Wembanyama misses 3-pt jump shot from 26 ft,,1,0,0,0,41.0
+11:16.0,Defensive rebound by J. Brown,0-0, ,,1,0,0,0,44.0
+11:09.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by A. Horford),3-0, ,,1,3,0,3,51.0
+10:55.0, ,3-2,D. Vassell makes 2-pt jump shot from 15 ft,,1,3,2,1,65.0
+10:37.0,K. Porziņģis misses 3-pt jump shot from 24 ft,3-2, ,,1,3,2,1,83.0
+10:36.0, ,3-2,Defensive rebound by D. Vassell,,1,3,2,1,84.0
+10:21.0, ,3-2,J. Sochan misses 2-pt layup from 2 ft,,1,3,2,1,99.0
+10:19.0,Defensive rebound by A. Horford,3-2, ,,1,3,2,1,101.0
+10:11.0,J. Brown makes 2-pt dunk from 1 ft,5-2, ,,1,5,2,3,109.0
+9:55.0, ,5-2,V. Wembanyama misses 2-pt hook shot from 9 ft,,1,5,2,3,125.0
+9:53.0,Defensive rebound by A. Horford,5-2, ,,1,5,2,3,127.0
+9:49.0, ,5-2,Violation by Team (kicked ball),,1,5,2,3,131.0
+9:37.0,J. Tatum misses 2-pt jump shot from 6 ft,5-2, ,,1,5,2,3,143.0
+9:35.0, ,5-2,Defensive rebound by J. Sochan,,1,5,2,3,145.0
+9:29.0, ,5-5,V. Wembanyama makes 3-pt jump shot from 26 ft (assist by J. Sochan),Tie,1,5,5,0,151.0
+9:10.0,Personal foul by J. Champagnie (drawn by J. Brown),5-5, ,,1,5,5,0,170.0
+9:06.0,D. White makes 3-pt jump shot from 26 ft (assist by A. Horford),8-5, ,,1,8,5,3,174.0
+8:53.0, ,8-7,V. Wembanyama makes 2-pt layup from 1 ft (assist by J. Champagnie),,1,8,7,1,187.0
+8:47.0,D. White makes 3-pt jump shot from 24 ft (assist by J. Brown),11-7, ,,1,11,7,4,193.0
+8:31.0, ,11-9,D. Vassell makes 2-pt layup from 1 ft,,1,11,9,2,209.0
+8:13.0,D. White misses 3-pt jump shot from 26 ft,11-9, ,,1,11,9,2,227.0
+8:10.0, ,11-9,Defensive rebound by D. Vassell,,1,11,9,2,230.0
+8:03.0, ,11-9,J. Champagnie misses 3-pt jump shot from 25 ft,,1,11,9,2,237.0
+8:01.0,Defensive rebound by K. Porziņģis,11-9, ,,1,11,9,2,239.0
+7:50.0,D. White makes 2-pt layup from 1 ft (assist by A. Horford),13-9, ,,1,13,9,4,250.0
+7:49.0, ,13-9,San Antonio full timeout,,1,13,9,4,251.0
+7:38.0, ,13-9,J. Sochan misses 3-pt jump shot from 25 ft,,1,13,9,4,262.0
+7:35.0,Defensive rebound by D. White,13-9, ,,1,13,9,4,265.0
+7:30.0,K. Porziņģis misses 3-pt jump shot from 27 ft,13-9, ,,1,13,9,4,270.0
+7:27.0, ,13-9,Defensive rebound by J. Sochan,,1,13,9,4,273.0
+7:22.0, ,13-12,V. Wembanyama makes 3-pt jump shot from 26 ft (assist by J. Sochan),,1,13,12,1,278.0
+7:00.0,J. Brown makes 2-pt layup from 1 ft,15-12, ,,1,15,12,3,300.0
+6:45.0, ,15-12,D. Vassell misses 2-pt jump shot from 14 ft,,1,15,12,3,315.0
+6:42.0,Defensive rebound by K. Porziņģis,15-12, ,,1,15,12,3,318.0
+6:36.0,K. Porziņģis misses 3-pt jump shot from 26 ft,15-12, ,,1,15,12,3,324.0
+6:33.0, ,15-12,Defensive rebound by D. Vassell,,1,15,12,3,327.0
+6:31.0, ,15-12,Turnover by D. Vassell (bad pass),,1,15,12,3,329.0
+6:31.0,S. Hauser enters the game for A. Horford,15-12, ,,1,15,12,3,329.0
+6:31.0,L. Kornet enters the game for J. Tatum,15-12, ,,1,15,12,3,329.0
+6:31.0, ,15-12,S. Mamukelashvili enters the game for V. Wembanyama,,1,15,12,3,329.0
+6:14.0,L. Kornet makes 2-pt layup at rim (assist by D. White),17-12, ,,1,17,12,5,346.0
+6:05.0, ,17-12,J. Sochan misses 2-pt layup from 2 ft (block by L. Kornet),,1,17,12,5,355.0
+6:02.0,Defensive rebound by S. Hauser,17-12, ,,1,17,12,5,358.0
+5:53.0,J. Brown makes 2-pt jump shot from 15 ft,19-12, ,,1,19,12,7,367.0
+5:41.0, ,19-12,J. Sochan misses 2-pt layup from 1 ft (block by L. Kornet),,1,19,12,7,379.0
+5:38.0,Defensive rebound by S. Hauser,19-12, ,,1,19,12,7,382.0
+5:33.0,J. Brown makes 2-pt layup from 1 ft,21-12, ,,1,21,12,9,387.0
+5:33.0, ,21-12,San Antonio full timeout,,1,21,12,9,387.0
+5:33.0, ,21-12,T. Jones enters the game for M. Branham,,1,21,12,9,387.0
+5:33.0, ,21-12,D. McDermott enters the game for J. Champagnie,,1,21,12,9,387.0
+5:33.0, ,21-12,C. Osman enters the game for J. Sochan,,1,21,12,9,387.0
+5:07.0, ,21-12,T. Jones misses 2-pt jump shot from 10 ft,,1,21,12,9,413.0
+5:04.0, ,21-12,Offensive rebound by S. Mamukelashvili,,1,21,12,9,416.0
+5:02.0, ,21-12,D. McDermott misses 3-pt jump shot from 24 ft,,1,21,12,9,418.0
+4:59.0,Defensive rebound by D. White,21-12, ,,1,21,12,9,421.0
+4:52.0,Turnover by J. Brown (bad pass; steal by D. Vassell),21-12, ,,1,21,12,9,428.0
+4:48.0, ,21-14,D. Vassell makes 2-pt jump shot from 10 ft,,1,21,14,7,432.0
+4:33.0,L. Kornet makes 2-pt dunk from 1 ft (assist by D. White),23-14, ,,1,23,14,9,447.0
+4:18.0, ,23-16,D. Vassell makes 2-pt layup from 1 ft,,1,23,16,7,462.0
+4:18.0, ,23-16,Shooting foul by S. Hauser (drawn by D. Vassell),,1,23,16,7,462.0
+4:18.0, ,23-17,D. Vassell makes free throw 1 of 1,,1,23,17,6,462.0
+4:05.0,Shooting foul by D. Vassell (drawn by L. Kornet),23-17, ,,1,23,17,6,475.0
+4:05.0,L. Kornet makes free throw 1 of 2,24-17, ,,1,24,17,7,475.0
+4:05.0,L. Kornet makes free throw 2 of 2,25-17, ,,1,25,17,8,475.0
+3:57.0, ,25-17,D. Vassell misses 3-pt jump shot from 24 ft,,1,25,17,8,483.0
+3:54.0,Defensive rebound by K. Porziņģis,25-17, ,,1,25,17,8,486.0
+3:44.0,Shooting foul by D. McDermott (drawn by K. Porziņģis),25-17, ,,1,25,17,8,496.0
+3:44.0,K. Porziņģis makes free throw 1 of 2,26-17, ,,1,26,17,9,496.0
+3:44.0,K. Porziņģis makes free throw 2 of 2,27-17, ,,1,27,17,10,496.0
+3:23.0, ,27-17,Turnover by D. McDermott (step out of bounds),,1,27,17,10,517.0
+3:23.0,O. Brissett enters the game for L. Kornet,27-17, ,,1,27,17,10,517.0
+3:11.0,K. Porziņģis misses 3-pt jump shot from 26 ft,27-17, ,,1,27,17,10,529.0
+3:07.0, ,27-17,Defensive rebound by T. Jones,,1,27,17,10,533.0
+3:01.0, ,27-17,T. Jones misses 3-pt jump shot from 25 ft,,1,27,17,10,539.0
+2:59.0,Defensive rebound by O. Brissett,27-17, ,,1,27,17,10,541.0
+2:44.0,K. Porziņģis misses 2-pt dunk from 1 ft,27-17, ,,1,27,17,10,556.0
+2:42.0, ,27-17,Defensive rebound by S. Mamukelashvili,,1,27,17,10,558.0
+2:39.0, ,27-17,D. McDermott misses 3-pt jump shot from 25 ft,,1,27,17,10,561.0
+2:35.0,Defensive rebound by J. Brown,27-17, ,,1,27,17,10,565.0
+2:30.0,Turnover by J. Brown (lost ball; steal by C. Osman),27-17, ,,1,27,17,10,570.0
+2:25.0, ,27-19,T. Jones makes 2-pt layup from 1 ft (assist by C. Osman),,1,27,19,8,575.0
+2:24.0,Boston full timeout,27-19, ,,1,27,19,8,576.0
+2:24.0,P. Pritchard enters the game for J. Brown,27-19, ,,1,27,19,8,576.0
+2:24.0,J. Tatum enters the game for D. White,27-19, ,,1,27,19,8,576.0
+2:24.0, ,27-19,B. Wesley enters the game for D. Vassell,,1,27,19,8,576.0
+2:03.0,J. Tatum misses 2-pt layup from 1 ft,27-19, ,,1,27,19,8,597.0
+2:01.0, ,27-19,Defensive rebound by T. Jones,,1,27,19,8,599.0
+1:56.0, ,27-19,C. Osman misses 3-pt jump shot from 25 ft,,1,27,19,8,604.0
+1:53.0,Defensive rebound by S. Hauser,27-19, ,,1,27,19,8,607.0
+1:46.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by P. Pritchard),30-19, ,,1,30,19,11,614.0
+1:32.0, ,30-22,S. Mamukelashvili makes 3-pt jump shot from 26 ft (assist by B. Wesley),,1,30,22,8,628.0
+1:12.0,P. Pritchard misses 3-pt jump shot from 24 ft,30-22, ,,1,30,22,8,648.0
+1:09.0, ,30-22,Defensive rebound by Team,,1,30,22,8,651.0
+0:50.0, ,30-22,S. Mamukelashvili misses 3-pt jump shot from 27 ft,,1,30,22,8,670.0
+0:47.0,Defensive rebound by O. Brissett,30-22, ,,1,30,22,8,673.0
+0:33.0,K. Porziņģis misses 3-pt jump shot from 28 ft,30-22, ,,1,30,22,8,687.0
+0:30.0, ,30-22,Defensive rebound by S. Mamukelashvili,,1,30,22,8,690.0
+0:09.0, ,30-22,S. Mamukelashvili misses 2-pt dunk at rim (block by K. Porziņģis),,1,30,22,8,711.0
+0:06.0,Defensive rebound by J. Tatum,30-22, ,,1,30,22,8,714.0
+0:02.0,Personal foul by T. Jones (drawn by J. Tatum),30-22, ,,1,30,22,8,718.0
+0:00.0,End of 1st quarter,30-22,,,1,30,22,8,720.0
+12:00.0,Start of 2nd quarter,30-22,,,2,30,22,8,720.0
+11:44.0,P. Pritchard makes 3-pt jump shot from 28 ft (assist by J. Tatum),33-22, ,,2,33,22,11,736.0
+11:23.0, ,33-24,C. Osman makes 2-pt layup from 1 ft (assist by B. Wesley),,2,33,24,9,757.0
+11:10.0,A. Horford makes 3-pt jump shot from 23 ft (assist by S. Hauser),36-24, ,,2,36,24,12,770.0
+10:50.0, ,36-24,V. Wembanyama misses 3-pt jump shot from 25 ft,,2,36,24,12,790.0
+10:47.0,Defensive rebound by A. Horford,36-24, ,,2,36,24,12,793.0
+10:32.0,P. Pritchard makes 2-pt layup from 1 ft,38-24, ,,2,38,24,14,808.0
+10:23.0, ,38-26,V. Wembanyama makes 2-pt dunk from 1 ft (assist by T. Jones),,2,38,26,12,817.0
+10:19.0,Turnover by S. Hauser (bad pass),38-26, ,,2,38,26,12,821.0
+10:19.0, ,38-26,J. Sochan enters the game for C. Osman,,2,38,26,12,821.0
+10:15.0, ,38-29,V. Wembanyama makes 3-pt jump shot from 25 ft (assist by B. Wesley),,2,38,29,9,825.0
+9:55.0,J. Tatum makes 2-pt jump shot from 17 ft (assist by P. Pritchard),40-29, ,,2,40,29,11,845.0
+9:36.0, ,40-31,J. Sochan makes 2-pt layup from 4 ft (assist by B. Wesley),,2,40,31,9,864.0
+9:20.0,P. Pritchard misses 3-pt jump shot from 26 ft,40-31, ,,2,40,31,9,880.0
+9:17.0,Offensive rebound by L. Kornet,40-31, ,,2,40,31,9,883.0
+9:06.0,A. Horford makes 2-pt jump shot from 12 ft (assist by P. Pritchard),42-31, ,,2,42,31,11,894.0
+8:50.0, ,42-33,T. Jones makes 2-pt jump shot from 7 ft,,2,42,33,9,910.0
+8:34.0,S. Hauser misses 3-pt jump shot from 28 ft,42-33, ,,2,42,33,9,926.0
+8:30.0, ,42-33,Defensive rebound by B. Wesley,,2,42,33,9,930.0
+8:22.0, ,42-35,V. Wembanyama makes 2-pt jump shot from 18 ft (assist by D. McDermott),,2,42,35,7,938.0
+8:08.0,Personal foul by T. Jones (drawn by J. Tatum),42-35, ,,2,42,35,7,952.0
+8:08.0, ,42-35,J. Champagnie enters the game for D. McDermott,,2,42,35,7,952.0
+8:08.0, ,42-35,D. Vassell enters the game for B. Wesley,,2,42,35,7,952.0
+7:55.0,J. Tatum makes 2-pt jump shot from 19 ft,44-35, ,,2,44,35,9,965.0
+7:37.0, ,44-37,D. Vassell makes 2-pt jump shot from 13 ft (assist by V. Wembanyama),,2,44,37,7,983.0
+7:14.0,L. Kornet makes 2-pt layup from 1 ft (assist by P. Pritchard),46-37, ,,2,46,37,9,1006.0
+7:03.0, ,46-39,J. Sochan makes 2-pt layup from 1 ft (assist by T. Jones),,2,46,39,7,1017.0
+7:03.0,Boston full timeout,46-39, ,,2,46,39,7,1017.0
+7:03.0,J. Brown enters the game for S. Hauser,46-39, ,,2,46,39,7,1017.0
+7:03.0, ,46-39,M. Branham enters the game for T. Jones,,2,46,39,7,1017.0
+6:43.0,A. Horford misses 3-pt jump shot from 24 ft,46-39, ,,2,46,39,7,1037.0
+6:40.0,Offensive rebound by L. Kornet,46-39, ,,2,46,39,7,1040.0
+6:39.0,P. Pritchard misses 3-pt jump shot from 22 ft,46-39, ,,2,46,39,7,1041.0
+6:35.0,Offensive rebound by J. Tatum,46-39, ,,2,46,39,7,1045.0
+6:34.0,J. Tatum makes 2-pt layup at rim,48-39, ,,2,48,39,9,1046.0
+6:34.0,D. White enters the game for P. Pritchard,48-39, ,,2,48,39,9,1046.0
+6:12.0, ,48-39,D. Vassell misses 2-pt jump shot from 16 ft,,2,48,39,9,1068.0
+6:10.0,Defensive rebound by L. Kornet,48-39, ,,2,48,39,9,1070.0
+5:59.0,D. White misses 3-pt jump shot from 29 ft,48-39, ,,2,48,39,9,1081.0
+5:56.0, ,48-39,Defensive rebound by J. Sochan,,2,48,39,9,1084.0
+5:47.0, ,48-41,J. Sochan makes 2-pt layup from 3 ft (assist by V. Wembanyama),,2,48,41,7,1093.0
+5:37.0,J. Brown misses 2-pt layup from 2 ft,48-41, ,,2,48,41,7,1103.0
+5:34.0, ,48-41,Defensive rebound by J. Champagnie,,2,48,41,7,1106.0
+5:33.0, ,48-43,M. Branham makes 2-pt dunk from 1 ft (assist by J. Champagnie),,2,48,43,5,1107.0
+5:33.0, ,48-43,Shooting foul by D. White (drawn by M. Branham),,2,48,43,5,1107.0
+5:33.0,K. Porziņģis enters the game for L. Kornet,48-43, ,,2,48,43,5,1107.0
+5:33.0, ,48-44,M. Branham makes free throw 1 of 1,,2,48,44,4,1107.0
+5:16.0,Shooting foul by J. Sochan (drawn by K. Porziņģis),48-44, ,,2,48,44,4,1124.0
+5:16.0,K. Porziņģis makes free throw 1 of 2,49-44, ,,2,49,44,5,1124.0
+5:16.0,O. Brissett enters the game for A. Horford,49-44, ,,2,49,44,5,1124.0
+5:16.0,K. Porziņģis makes free throw 2 of 2,50-44, ,,2,50,44,6,1124.0
+4:58.0, ,50-44,D. Vassell misses 3-pt jump shot from 25 ft,,2,50,44,6,1142.0
+4:56.0,Defensive rebound by K. Porziņģis,50-44, ,,2,50,44,6,1144.0
+4:38.0,J. Brown misses 2-pt layup from 1 ft,50-44, ,,2,50,44,6,1162.0
+4:36.0, ,50-44,Defensive rebound by M. Branham,,2,50,44,6,1164.0
+4:27.0, ,50-44,V. Wembanyama misses 2-pt jump shot from 15 ft,,2,50,44,6,1173.0
+4:25.0,Defensive rebound by K. Porziņģis,50-44, ,,2,50,44,6,1175.0
+4:20.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by D. White),53-44, ,,2,53,44,9,1180.0
+4:20.0, ,53-44,San Antonio full timeout,,2,53,44,9,1180.0
+4:20.0, ,53-44,S. Mamukelashvili enters the game for V. Wembanyama,,2,53,44,9,1180.0
+3:58.0, ,53-44,J. Sochan misses 2-pt hook shot from 3 ft (block by J. Tatum),,2,53,44,9,1202.0
+3:57.0, ,53-44,Offensive rebound by Team,,2,53,44,9,1203.0
+3:55.0, ,53-44,Turnover by Team (shot clock),,2,53,44,9,1205.0
+3:39.0,K. Porziņģis makes 2-pt jump shot from 14 ft,55-44, ,,2,55,44,11,1221.0
+3:26.0, ,55-47,J. Sochan makes 3-pt jump shot from 26 ft (assist by D. Vassell),,2,55,47,8,1234.0
+3:16.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by D. White),58-47, ,,2,58,47,11,1244.0
+3:03.0, ,58-47,Shooting foul by J. Tatum (drawn by M. Branham),,2,58,47,11,1257.0
+3:03.0, ,58-48,M. Branham makes free throw 1 of 2,,2,58,48,10,1257.0
+3:03.0, ,58-48,T. Jones enters the game for J. Champagnie,,2,58,48,10,1257.0
+3:03.0, ,58-48,M. Branham misses free throw 2 of 2,,2,58,48,10,1257.0
+3:01.0,Defensive rebound by J. Brown,58-48, ,,2,58,48,10,1259.0
+2:49.0,D. White makes 2-pt layup at rim,60-48, ,,2,60,48,12,1271.0
+2:42.0, ,60-48,Turnover by T. Jones (bad pass; steal by O. Brissett),,2,60,48,12,1278.0
+2:38.0,O. Brissett misses 2-pt layup from 1 ft,60-48, ,,2,60,48,12,1282.0
+2:36.0, ,60-48,Defensive rebound by Team,,2,60,48,12,1284.0
+2:13.0, ,60-48,D. Vassell misses 2-pt jump shot from 16 ft,,2,60,48,12,1307.0
+2:10.0,Defensive rebound by J. Tatum,60-48, ,,2,60,48,12,1310.0
+2:05.0,Turnover by J. Tatum (bad pass),60-48, ,,2,60,48,12,1315.0
+1:47.0, ,60-50,S. Mamukelashvili makes 2-pt layup at rim (assist by J. Sochan),,2,60,50,10,1333.0
+1:31.0,Shooting foul by S. Mamukelashvili (drawn by K. Porziņģis),60-50, ,,2,60,50,10,1349.0
+1:31.0,K. Porziņģis makes free throw 1 of 2,61-50, ,,2,61,50,11,1349.0
+1:31.0,K. Porziņģis makes free throw 2 of 2,62-50, ,,2,62,50,12,1349.0
+1:05.0, ,62-50,M. Branham misses 3-pt jump shot from 29 ft (block by J. Tatum),,2,62,50,12,1375.0
+1:05.0, ,62-50,Offensive rebound by Team,,2,62,50,12,1375.0
+1:05.0, ,62-50,Turnover by Team (shot clock),,2,62,50,12,1375.0
+0:55.0,D. White misses 2-pt jump shot from 8 ft,62-50, ,,2,62,50,12,1385.0
+0:53.0, ,62-50,Defensive rebound by S. Mamukelashvili,,2,62,50,12,1387.0
+0:42.0, ,62-50,J. Sochan misses 3-pt jump shot from 23 ft,,2,62,50,12,1398.0
+0:39.0,Defensive rebound by K. Porziņģis,62-50, ,,2,62,50,12,1401.0
+0:32.0,J. Tatum misses 3-pt jump shot from 25 ft,62-50, ,,2,62,50,12,1408.0
+0:29.0,Offensive rebound by O. Brissett,62-50, ,,2,62,50,12,1411.0
+0:27.0,D. White makes 3-pt jump shot from 26 ft (assist by K. Porziņģis),65-50, ,,2,65,50,15,1413.0
+0:00.0, ,65-53,M. Branham makes 3-pt jump shot from 27 ft (assist by J. Sochan),,2,65,53,12,1440.0
+0:00.0,K. Porziņģis misses 3-pt jump shot from 71 ft,65-53, ,,2,65,53,12,1440.0
+0:00.0,Offensive rebound by Team,65-53, ,,2,65,53,12,1440.0
+0:00.0,End of 2nd quarter,65-53,,,2,65,53,12,1440.0
+12:00.0,Start of 3rd quarter,65-53,,,3,65,53,12,1440.0
+11:42.0,K. Porziņģis misses 2-pt layup from 2 ft,65-53, ,,3,65,53,12,1458.0
+11:40.0,Offensive rebound by J. Brown,65-53, ,,3,65,53,12,1460.0
+11:36.0,J. Brown makes 2-pt jump shot from 15 ft,67-53, ,,3,67,53,14,1464.0
+11:21.0, ,67-53,Personal foul by K. Porziņģis (drawn by V. Wembanyama),,3,67,53,14,1479.0
+11:18.0, ,67-53,Turnover by V. Wembanyama (bad pass),,3,67,53,14,1482.0
+11:07.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by K. Porziņģis),70-53, ,,3,70,53,17,1493.0
+10:55.0, ,70-55,M. Branham makes 2-pt layup from 1 ft,,3,70,55,15,1505.0
+10:43.0,Shooting foul by D. Vassell (drawn by J. Brown),70-55, ,,3,70,55,15,1517.0
+10:43.0, ,70-55,San Antonio full timeout,,3,70,55,15,1517.0
+10:43.0, ,70-55,Instant Replay (Challenge: Ruling Stands),,3,70,55,15,1517.0
+10:43.0,J. Brown makes free throw 1 of 2,71-55, ,,3,71,55,16,1517.0
+10:43.0,J. Brown makes free throw 2 of 2,72-55, ,,3,72,55,17,1517.0
+10:33.0, ,72-55,Turnover by J. Sochan (out of bounds lost ball),,3,72,55,17,1527.0
+10:24.0,J. Tatum misses 3-pt jump shot from 26 ft,72-55, ,,3,72,55,17,1536.0
+10:19.0,Offensive rebound by A. Horford,72-55, ,,3,72,55,17,1541.0
+10:15.0,J. Brown makes 3-pt jump shot from 26 ft,75-55, ,,3,75,55,20,1545.0
+9:54.0, ,75-55,J. Sochan misses 3-pt jump shot from 24 ft,,3,75,55,20,1566.0
+9:52.0,Defensive rebound by J. Brown,75-55, ,,3,75,55,20,1568.0
+9:50.0,D. White makes 2-pt dunk from 1 ft (assist by J. Brown),77-55, ,,3,77,55,22,1570.0
+9:50.0, ,77-55,San Antonio full timeout,,3,77,55,22,1570.0
+9:31.0, ,77-55,Turnover by V. Wembanyama (bad pass; steal by K. Porziņģis),,3,77,55,22,1589.0
+9:18.0,A. Horford misses 3-pt jump shot from 25 ft,77-55, ,,3,77,55,22,1602.0
+9:14.0,Offensive rebound by D. White,77-55, ,,3,77,55,22,1606.0
+9:05.0,D. White misses 3-pt jump shot from 27 ft,77-55, ,,3,77,55,22,1615.0
+9:03.0, ,77-55,Defensive rebound by V. Wembanyama,,3,77,55,22,1617.0
+8:51.0, ,77-55,M. Branham misses 3-pt jump shot from 23 ft,,3,77,55,22,1629.0
+8:48.0,Defensive rebound by A. Horford,77-55, ,,3,77,55,22,1632.0
+8:34.0,J. Brown makes 2-pt dunk from 1 ft (assist by A. Horford),79-55, ,,3,79,55,24,1646.0
+8:26.0, ,79-58,D. Vassell makes 3-pt jump shot from 26 ft (assist by J. Sochan),,3,79,58,21,1654.0
+8:11.0,J. Tatum misses 3-pt jump shot from 25 ft,79-58, ,,3,79,58,21,1669.0
+8:07.0, ,79-58,Defensive rebound by V. Wembanyama,,3,79,58,21,1673.0
+8:05.0, ,79-60,V. Wembanyama makes 2-pt dunk from 1 ft,,3,79,60,19,1675.0
+7:43.0,J. Tatum misses 3-pt jump shot from 23 ft,79-60, ,,3,79,60,19,1697.0
+7:41.0, ,79-60,Defensive rebound by V. Wembanyama,,3,79,60,19,1699.0
+7:35.0, ,79-60,V. Wembanyama misses 3-pt jump shot from 29 ft,,3,79,60,19,1705.0
+7:32.0,Defensive rebound by J. Tatum,79-60, ,,3,79,60,19,1708.0
+7:26.0,Shooting foul by J. Champagnie (drawn by J. Brown),79-60, ,,3,79,60,19,1714.0
+7:26.0,J. Brown misses free throw 1 of 2,79-60, ,,3,79,60,19,1714.0
+7:26.0,Offensive rebound by Team,79-60, ,,3,79,60,19,1714.0
+7:26.0,J. Brown misses free throw 2 of 2,79-60, ,,3,79,60,19,1714.0
+7:21.0,Offensive rebound by K. Porziņģis,79-60, ,,3,79,60,19,1719.0
+7:21.0,K. Porziņģis makes 2-pt layup at rim,81-60, ,,3,81,60,21,1719.0
+7:05.0, ,81-62,M. Branham makes 2-pt layup from 2 ft (assist by V. Wembanyama),,3,81,62,19,1735.0
+6:58.0,J. Brown makes 3-pt jump shot from 25 ft,84-62, ,,3,84,62,22,1742.0
+6:41.0, ,84-62,J. Champagnie misses 3-pt jump shot from 25 ft,,3,84,62,22,1759.0
+6:38.0,Defensive rebound by A. Horford,84-62, ,,3,84,62,22,1762.0
+6:31.0,A. Horford makes 2-pt jump shot from 16 ft (assist by D. White),86-62, ,,3,86,62,24,1769.0
+6:20.0, ,86-62,M. Branham misses 3-pt jump shot from 26 ft,,3,86,62,24,1780.0
+6:15.0, ,86-62,Offensive rebound by V. Wembanyama,,3,86,62,24,1785.0
+6:15.0, ,86-64,V. Wembanyama makes 2-pt dunk at rim,,3,86,64,22,1785.0
+5:54.0,K. Porziņģis misses 2-pt jump shot from 11 ft,86-64, ,,3,86,64,22,1806.0
+5:52.0, ,86-64,Defensive rebound by J. Champagnie,,3,86,64,22,1808.0
+5:47.0, ,86-64,Turnover by J. Champagnie (bad pass; steal by J. Brown),,3,86,64,22,1813.0
+5:45.0,D. White makes 2-pt dunk from 1 ft (assist by J. Brown),88-64, ,,3,88,64,24,1815.0
+5:29.0, ,88-64,V. Wembanyama misses 3-pt jump shot from 26 ft,,3,88,64,24,1831.0
+5:26.0,Defensive rebound by J. Tatum,88-64, ,,3,88,64,24,1834.0
+5:13.0,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Tatum),90-64, ,,3,90,64,26,1847.0
+5:03.0, ,90-64,Turnover by M. Branham (bad pass; steal by J. Brown),,3,90,64,26,1857.0
+4:59.0,J. Brown makes 2-pt dunk from 1 ft,92-64, ,,3,92,64,28,1861.0
+4:48.0, ,92-64,Shooting foul by K. Porziņģis (drawn by V. Wembanyama),,3,92,64,28,1872.0
+4:48.0, ,92-65,V. Wembanyama makes free throw 1 of 2,,3,92,65,27,1872.0
+4:48.0,S. Hauser enters the game for J. Tatum,92-65, ,,3,92,65,27,1872.0
+4:48.0, ,92-65,T. Jones enters the game for M. Branham,,3,92,65,27,1872.0
+4:48.0, ,92-65,C. Osman enters the game for J. Champagnie,,3,92,65,27,1872.0
+4:48.0, ,92-66,V. Wembanyama makes free throw 2 of 2,,3,92,66,26,1872.0
+4:34.0,Shooting foul by D. Vassell (drawn by J. Brown),92-66, ,,3,92,66,26,1886.0
+4:34.0,J. Brown makes free throw 1 of 2,93-66, ,,3,93,66,27,1886.0
+4:34.0,O. Brissett enters the game for A. Horford,93-66, ,,3,93,66,27,1886.0
+4:34.0, ,93-66,D. Barlow enters the game for J. Sochan,,3,93,66,27,1886.0
+4:34.0, ,93-66,M. Branham enters the game for V. Wembanyama,,3,93,66,27,1886.0
+4:34.0,J. Brown makes free throw 2 of 2,94-66, ,,3,94,66,28,1886.0
+4:21.0, ,94-68,T. Jones makes 2-pt layup from 1 ft,,3,94,68,26,1899.0
+4:01.0,K. Porziņģis makes 2-pt jump shot from 6 ft,96-68, ,,3,96,68,28,1919.0
+3:51.0, ,96-68,D. Vassell misses 2-pt layup from 5 ft,,3,96,68,28,1929.0
+3:49.0,Defensive rebound by K. Porziņģis,96-68, ,,3,96,68,28,1931.0
+3:42.0,K. Porziņģis misses 3-pt jump shot from 29 ft,96-68, ,,3,96,68,28,1938.0
+3:39.0, ,96-68,Defensive rebound by D. Vassell,,3,96,68,28,1941.0
+3:27.0, ,96-68,M. Branham misses 2-pt layup from 4 ft,,3,96,68,28,1953.0
+3:22.0, ,96-68,Offensive rebound by D. Barlow,,3,96,68,28,1958.0
+3:21.0, ,96-70,D. Vassell makes 2-pt jump shot at rim (assist by D. Barlow),,3,96,70,26,1959.0
+3:06.0,J. Brown misses 2-pt layup from 1 ft,96-70, ,,3,96,70,26,1974.0
+3:03.0, ,96-70,Defensive rebound by D. Barlow,,3,96,70,26,1977.0
+2:59.0, ,96-70,M. Branham misses 3-pt jump shot from 25 ft,,3,96,70,26,1981.0
+2:55.0,Defensive rebound by J. Brown,96-70, ,,3,96,70,26,1985.0
+2:35.0,J. Brown misses 2-pt jump shot from 17 ft,96-70, ,,3,96,70,26,2005.0
+2:29.0,Offensive rebound by O. Brissett,96-70, ,,3,96,70,26,2011.0
+2:29.0,O. Brissett misses 2-pt layup at rim,96-70, ,,3,96,70,26,2011.0
+2:27.0,Offensive rebound by O. Brissett,96-70, ,,3,96,70,26,2013.0
+2:27.0,O. Brissett misses 2-pt layup at rim,96-70, ,,3,96,70,26,2013.0
+2:26.0, ,96-70,Defensive rebound by D. Barlow,,3,96,70,26,2014.0
+2:19.0, ,96-70,Shooting foul by O. Brissett (drawn by D. Barlow),,3,96,70,26,2021.0
+2:19.0, ,96-70,D. Barlow misses free throw 1 of 2,,3,96,70,26,2021.0
+2:19.0, ,96-70,Offensive rebound by Team,,3,96,70,26,2021.0
+2:19.0,P. Pritchard enters the game for J. Brown,96-70, ,,3,96,70,26,2021.0
+2:19.0,J. Tatum enters the game for D. White,96-70, ,,3,96,70,26,2021.0
+2:19.0, ,96-70,D. McDermott enters the game for M. Branham,,3,96,70,26,2021.0
+2:19.0, ,96-70,B. Wesley enters the game for D. Vassell,,3,96,70,26,2021.0
+2:19.0, ,96-71,D. Barlow makes free throw 2 of 2,,3,96,71,25,2021.0
+2:05.0,J. Tatum makes 3-pt jump shot from 25 ft,99-71, ,,3,99,71,28,2035.0
+1:41.0, ,99-71,C. Osman misses 2-pt layup from 3 ft (block by K. Porziņģis),,3,99,71,28,2059.0
+1:39.0, ,99-71,Offensive rebound by T. Jones,,3,99,71,28,2061.0
+1:39.0, ,99-71,Turnover by Team (shot clock),,3,99,71,28,2061.0
+1:24.0,J. Tatum makes 2-pt layup from 2 ft,101-71, ,,3,101,71,30,2076.0
+1:15.0, ,101-71,D. McDermott misses 3-pt jump shot from 26 ft,,3,101,71,30,2085.0
+1:15.0,Defensive rebound by K. Porziņģis,101-71, ,,3,101,71,30,2085.0
+1:12.0,Turnover by J. Tatum (traveling),101-71, ,,3,101,71,30,2088.0
+1:03.0, ,101-73,T. Jones makes 2-pt layup from 1 ft,,3,101,73,28,2097.0
+0:52.0,J. Tatum misses 3-pt jump shot from 25 ft,101-73, ,,3,101,73,28,2108.0
+0:50.0, ,101-73,Defensive rebound by T. Jones,,3,101,73,28,2110.0
+0:47.0, ,101-73,D. Barlow misses 2-pt layup from 1 ft,,3,101,73,28,2113.0
+0:44.0,Defensive rebound by J. Tatum,101-73, ,,3,101,73,28,2116.0
+0:42.0,Turnover by J. Tatum (bad pass; steal by D. Barlow),101-73, ,,3,101,73,28,2118.0
+0:34.0, ,101-73,D. Barlow misses 2-pt jump shot at rim,,3,101,73,28,2126.0
+0:34.0,Defensive rebound by S. Hauser,101-73, ,,3,101,73,28,2126.0
+0:34.0,Personal foul by C. Osman (drawn by K. Porziņģis),101-73, ,,3,101,73,28,2126.0
+0:29.0,J. Tatum makes 2-pt jump shot from 15 ft,103-73, ,,3,103,73,30,2131.0
+0:06.0, ,103-76,C. Osman makes 3-pt jump shot from 25 ft (assist by B. Wesley),,3,103,76,27,2154.0
+0:00.0,P. Pritchard makes 2-pt jump shot from 12 ft,105-76, ,,3,105,76,29,2160.0
+0:00.0,End of 3rd quarter,105-76,,,3,105,76,29,2160.0
+12:00.0,Start of 4th quarter,105-76,,,4,105,76,29,2160.0
+11:47.0, ,105-76,V. Wembanyama misses 3-pt jump shot from 26 ft,,4,105,76,29,2173.0
+11:43.0,Defensive rebound by O. Brissett,105-76, ,,4,105,76,29,2177.0
+11:23.0,P. Pritchard makes 2-pt layup from 1 ft,107-76, ,,4,107,76,31,2197.0
+11:12.0, ,107-76,T. Jones misses 3-pt jump shot from 26 ft,,4,107,76,31,2208.0
+11:12.0,Defensive rebound by Team,107-76, ,,4,107,76,31,2208.0
+11:12.0, ,107-76,Loose ball foul by C. Osman (drawn by P. Pritchard),,4,107,76,31,2208.0
+10:55.0,S. Hauser makes 3-pt jump shot from 25 ft (assist by P. Pritchard),110-76, ,,4,110,76,34,2225.0
+10:40.0, ,110-76,T. Jones misses 3-pt jump shot from 24 ft,,4,110,76,34,2240.0
+10:40.0, ,110-76,Offensive rebound by V. Wembanyama,,4,110,76,34,2240.0
+10:40.0, ,110-76,Turnover by V. Wembanyama (bad pass; steal by O. Brissett),,4,110,76,34,2240.0
+10:34.0,O. Brissett makes 2-pt layup from 1 ft,112-76, ,,4,112,76,36,2246.0
+10:34.0,Shooting foul by T. Jones (drawn by O. Brissett),112-76, ,,4,112,76,36,2246.0
+10:34.0,D. Banton enters the game for J. Tatum,112-76, ,,4,112,76,36,2246.0
+10:34.0,O. Brissett misses free throw 1 of 1,112-76, ,,4,112,76,36,2246.0
+10:31.0, ,112-76,Defensive rebound by V. Wembanyama,,4,112,76,36,2249.0
+10:27.0, ,112-76,Personal foul by L. Kornet (drawn by D. McDermott),,4,112,76,36,2253.0
+10:22.0, ,112-79,D. Vassell makes 3-pt jump shot from 25 ft (assist by C. Osman),,4,112,79,33,2258.0
+10:01.0,L. Kornet makes 2-pt dunk from 1 ft (assist by P. Pritchard),114-79, ,,4,114,79,35,2279.0
+9:48.0, ,114-79,Personal foul by D. Banton (drawn by V. Wembanyama),,4,114,79,35,2292.0
+9:45.0, ,114-79,T. Jones misses 3-pt jump shot from 26 ft,,4,114,79,35,2295.0
+9:42.0,Defensive rebound by P. Pritchard,114-79, ,,4,114,79,35,2298.0
+9:37.0,P. Pritchard misses 3-pt jump shot from 27 ft,114-79, ,,4,114,79,35,2303.0
+9:36.0, ,114-79,Defensive rebound by Team,,4,114,79,35,2304.0
+9:26.0, ,114-79,T. Jones misses 3-pt jump shot from 24 ft,,4,114,79,35,2314.0
+9:23.0,Defensive rebound by D. Banton,114-79, ,,4,114,79,35,2317.0
+9:05.0,S. Hauser misses 3-pt jump shot from 23 ft,114-79, ,,4,114,79,35,2335.0
+9:05.0,Offensive rebound by L. Kornet,114-79, ,,4,114,79,35,2335.0
+9:04.0,L. Kornet misses 2-pt layup from 3 ft (block by V. Wembanyama),114-79, ,,4,114,79,35,2336.0
+9:04.0, ,114-79,Defensive rebound by V. Wembanyama,,4,114,79,35,2336.0
+8:53.0, ,114-81,D. Vassell makes 2-pt jump shot from 6 ft,,4,114,81,33,2347.0
+8:53.0, ,114-81,Shooting foul by D. Banton (drawn by D. Vassell),,4,114,81,33,2347.0
+8:53.0, ,114-81,S. Mamukelashvili enters the game for V. Wembanyama,,4,114,81,33,2347.0
+8:53.0, ,114-82,D. Vassell makes free throw 1 of 1,,4,114,82,32,2347.0
+8:36.0,S. Hauser makes 2-pt dunk from 1 ft (assist by L. Kornet),116-82, ,,4,116,82,34,2364.0
+8:22.0, ,116-82,Personal foul by S. Hauser (drawn by D. Vassell),,4,116,82,34,2378.0
+8:16.0, ,116-82,Turnover by D. Vassell (bad pass),,4,116,82,34,2384.0
+8:02.0,S. Hauser makes 3-pt jump shot from 25 ft (assist by L. Kornet),119-82, ,,4,119,82,37,2398.0
+8:00.0, ,119-82,San Antonio full timeout,,4,119,82,37,2400.0
+8:00.0,S. Mykhailiuk enters the game for S. Hauser,119-82, ,,4,119,82,37,2400.0
+8:00.0, ,119-82,D. Barlow enters the game for T. Jones,,4,119,82,37,2400.0
+8:00.0, ,119-82,S. Cissoko enters the game for D. McDermott,,4,119,82,37,2400.0
+8:00.0, ,119-82,D. Graham enters the game for C. Osman,,4,119,82,37,2400.0
+8:00.0, ,119-82,B. Wesley enters the game for D. Vassell,,4,119,82,37,2400.0
+7:49.0, ,119-82,Turnover by D. Graham (bad pass),,4,119,82,37,2411.0
+7:35.0,S. Mykhailiuk misses 3-pt jump shot from 25 ft,119-82, ,,4,119,82,37,2425.0
+7:32.0, ,119-82,Defensive rebound by D. Graham,,4,119,82,37,2428.0
+7:26.0, ,119-82,S. Cissoko misses 3-pt jump shot from 24 ft,,4,119,82,37,2434.0
+7:24.0, ,119-82,Offensive rebound by S. Mamukelashvili,,4,119,82,37,2436.0
+7:21.0, ,119-82,D. Graham misses 2-pt jump shot from 16 ft,,4,119,82,37,2439.0
+7:18.0,Defensive rebound by P. Pritchard,119-82, ,,4,119,82,37,2442.0
+7:10.0,L. Kornet misses 2-pt dunk from 1 ft,119-82, ,,4,119,82,37,2450.0
+7:07.0, ,119-82,Defensive rebound by S. Mamukelashvili,,4,119,82,37,2453.0
+7:04.0, ,119-84,D. Graham makes 2-pt layup from 1 ft (assist by S. Mamukelashvili),,4,119,84,35,2456.0
+7:04.0, ,119-84,Shooting foul by S. Mykhailiuk (drawn by D. Graham),,4,119,84,35,2456.0
+7:04.0,L. Stevens enters the game for O. Brissett,119-84, ,,4,119,84,35,2456.0
+7:04.0, ,119-85,D. Graham makes free throw 1 of 1,,4,119,85,34,2456.0
+6:47.0,L. Kornet makes 2-pt dunk from 2 ft (assist by P. Pritchard),121-85, ,,4,121,85,36,2473.0
+6:32.0, ,121-85,D. Barlow misses 2-pt jump shot from 12 ft,,4,121,85,36,2488.0
+6:30.0,Defensive rebound by D. Banton,121-85, ,,4,121,85,36,2490.0
+6:20.0,S. Mykhailiuk misses 3-pt jump shot from 26 ft,121-85, ,,4,121,85,36,2500.0
+6:16.0, ,121-85,Defensive rebound by S. Cissoko,,4,121,85,36,2504.0
+6:00.0, ,121-87,S. Mamukelashvili makes 2-pt jump shot from 10 ft,,4,121,87,34,2520.0
+5:41.0,S. Mykhailiuk misses 3-pt jump shot from 23 ft,121-87, ,,4,121,87,34,2539.0
+5:36.0,Offensive rebound by D. Banton,121-87, ,,4,121,87,34,2544.0
+5:34.0,Turnover by D. Banton (bad pass; steal by D. Barlow),121-87, ,,4,121,87,34,2546.0
+5:30.0, ,121-89,D. Barlow makes 2-pt layup from 1 ft (assist by D. Graham),,4,121,89,32,2550.0
+5:17.0,Shooting foul by B. Wesley (drawn by P. Pritchard),121-89, ,,4,121,89,32,2563.0
+5:17.0,P. Pritchard misses free throw 1 of 2,121-89, ,,4,121,89,32,2563.0
+5:17.0,Offensive rebound by Team,121-89, ,,4,121,89,32,2563.0
+5:17.0,N. Queta enters the game for L. Kornet,121-89, ,,4,121,89,32,2563.0
+5:17.0,P. Pritchard misses free throw 2 of 2,121-89, ,,4,121,89,32,2563.0
+5:14.0, ,121-89,Defensive rebound by D. Barlow,,4,121,89,32,2566.0
+5:06.0, ,121-91,D. Barlow makes 2-pt dunk from 2 ft (assist by S. Mamukelashvili),,4,121,91,30,2574.0
+4:53.0,Shooting foul by B. Wesley (drawn by D. Banton),121-91, ,,4,121,91,30,2587.0
+4:53.0,D. Banton makes free throw 1 of 2,122-91, ,,4,122,91,31,2587.0
+4:53.0,D. Banton makes free throw 2 of 2,123-91, ,,4,123,91,32,2587.0
+4:37.0, ,123-91,S. Mamukelashvili misses 3-pt jump shot from 24 ft,,4,123,91,32,2603.0
+4:35.0,Defensive rebound by D. Banton,123-91, ,,4,123,91,32,2605.0
+4:31.0,Shooting foul by D. Barlow (drawn by D. Banton),123-91, ,,4,123,91,32,2609.0
+4:31.0,D. Banton makes free throw 1 of 2,124-91, ,,4,124,91,33,2609.0
+4:31.0,D. Banton makes free throw 2 of 2,125-91, ,,4,125,91,34,2609.0
+4:20.0,Violation by Team (kicked ball),125-91, ,,4,125,91,34,2620.0
+4:08.0, ,125-91,S. Mamukelashvili misses 2-pt dunk from 2 ft (block by N. Queta),,4,125,91,34,2632.0
+4:06.0, ,125-91,Offensive rebound by D. Graham,,4,125,91,34,2634.0
+4:06.0, ,125-91,Turnover by Team (shot clock),,4,125,91,34,2634.0
+3:53.0,D. Banton misses 2-pt layup from 2 ft,125-91, ,,4,125,91,34,2647.0
+3:51.0, ,125-91,Defensive rebound by S. Cissoko,,4,125,91,34,2649.0
+3:47.0, ,125-94,D. Graham makes 3-pt jump shot from 26 ft (assist by S. Mamukelashvili),,4,125,94,31,2653.0
+3:28.0,S. Mykhailiuk misses 3-pt jump shot from 26 ft,125-94, ,,4,125,94,31,2672.0
+3:28.0,Offensive rebound by P. Pritchard,125-94, ,,4,125,94,31,2672.0
+3:18.0,N. Queta makes 2-pt layup from 2 ft (assist by L. Stevens),127-94, ,,4,127,94,33,2682.0
+3:18.0,Shooting foul by D. Barlow (drawn by N. Queta),127-94, ,,4,127,94,33,2682.0
+3:18.0,O. Brissett enters the game for P. Pritchard,127-94, ,,4,127,94,33,2682.0
+3:18.0,N. Queta makes free throw 1 of 1,128-94, ,,4,128,94,34,2682.0
+2:59.0, ,128-97,D. Barlow makes 3-pt jump shot from 23 ft (assist by B. Wesley),,4,128,97,31,2701.0
+2:44.0,Turnover by D. Banton (bad pass),128-97, ,,4,128,97,31,2716.0
+2:44.0,Boston full timeout,128-97, ,,4,128,97,31,2716.0
+2:35.0, ,128-97,Shooting foul by O. Brissett (drawn by B. Wesley),,4,128,97,31,2725.0
+2:35.0, ,128-98,B. Wesley makes free throw 1 of 2,,4,128,98,30,2725.0
+2:35.0, ,128-98,B. Wesley misses free throw 2 of 2,,4,128,98,30,2725.0
+2:32.0,Defensive rebound by N. Queta,128-98, ,,4,128,98,30,2728.0
+2:20.0,N. Queta makes 2-pt layup from 1 ft (assist by L. Stevens),130-98, ,,4,130,98,32,2740.0
+2:06.0, ,130-98,Turnover by B. Wesley (bad pass; steal by S. Mykhailiuk),,4,130,98,32,2754.0
+2:00.0,Turnover by S. Mykhailiuk (bad pass; steal by S. Cissoko),130-98, ,,4,130,98,32,2760.0
+1:55.0, ,130-98,B. Wesley misses 3-pt jump shot from 24 ft,,4,130,98,32,2765.0
+1:52.0,Defensive rebound by L. Stevens,130-98, ,,4,130,98,32,2768.0
+1:49.0,L. Stevens makes 2-pt layup from 1 ft,132-98, ,,4,132,98,34,2771.0
+1:38.0, ,132-98,S. Mamukelashvili misses 3-pt jump shot from 26 ft,,4,132,98,34,2782.0
+1:33.0, ,132-98,Offensive rebound by B. Wesley,,4,132,98,34,2787.0
+1:31.0, ,132-98,B. Wesley misses 3-pt jump shot from 25 ft,,4,132,98,34,2789.0
+1:31.0,Defensive rebound by L. Stevens,132-98, ,,4,132,98,34,2789.0
+1:20.0,D. Banton misses 2-pt layup from 3 ft,132-98, ,,4,132,98,34,2800.0
+1:17.0, ,132-98,Defensive rebound by S. Mamukelashvili,,4,132,98,34,2803.0
+1:14.0, ,132-101,D. Graham makes 3-pt jump shot from 28 ft (assist by S. Mamukelashvili),,4,132,101,31,2806.0
+0:55.0,O. Brissett makes 2-pt layup from 1 ft (assist by D. Banton),134-101, ,,4,134,101,33,2825.0
+0:49.0, ,134-101,B. Wesley misses 2-pt layup from 1 ft,,4,134,101,33,2831.0
+0:47.0,Defensive rebound by N. Queta,134-101, ,,4,134,101,33,2833.0
+0:26.0,Turnover by Team (shot clock),134-101, ,,4,134,101,33,2854.0
+0:16.0, ,134-101,S. Cissoko misses 3-pt jump shot from 26 ft,,4,134,101,33,2864.0
+0:14.0, ,134-101,Offensive rebound by D. Barlow,,4,134,101,33,2866.0
+0:11.0, ,134-101,S. Mamukelashvili misses 3-pt jump shot from 26 ft,,4,134,101,33,2869.0
+0:06.0,Defensive rebound by S. Mykhailiuk,134-101, ,,4,134,101,33,2874.0
+0:00.0,End of 4th quarter,134-101,,,4,134,101,33,2880.0

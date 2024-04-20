@@ -1,0 +1,411 @@
+Time,Score,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. M. Robinson (D. White gains possession),New York,202310250NYK
+12:00.0,30-18,,2,30,18,12,720.0,Start of 2nd quarter,New York,202310250NYK
+12:00.0,51-46,,3,51,46,5,1440.0,Start of 3rd quarter,New York,202310250NYK
+12:00.0,82-73,,4,82,73,9,2160.0,Start of 4th quarter,New York,202310250NYK
+0:00.0,108-104,,4,108,104,4,2880.0, ,New York,202310250NYK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. K. Porziņģis (D. White gains possession),Miami,202310270BOS
+12:00.0,28-25,,2,25,28,-3,720.0,Start of 2nd quarter,Miami,202310270BOS
+12:00.0,55-60,,3,60,55,5,1440.0,Start of 3rd quarter,Miami,202310270BOS
+12:00.0,88-87,,4,87,88,-1,2160.0,Start of 4th quarter,Miami,202310270BOS
+0:00.0,111-119,,4,119,111,8,2880.0,End of 4th quarter,Miami,202310270BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. D. Avdija (D. White gains possession),Washington,202310300WAS
+12:00.0,42-19,,2,42,19,23,720.0,Start of 2nd quarter,Washington,202310300WAS
+12:00.0,77-51,,3,77,51,26,1440.0,Start of 3rd quarter,Washington,202310300WAS
+12:00.0,108-75,,4,108,75,33,2160.0,Start of 4th quarter,Washington,202310300WAS
+0:00.0,126-107,,4,126,107,19,2880.0,End of 4th quarter,Washington,202310300WAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. K. Porziņģis (J. Brown gains possession),Indiana,202311010BOS
+12:00.0,27-44,,2,44,27,17,720.0,Start of 2nd quarter,Indiana,202311010BOS
+12:00.0,54-75,,3,75,54,21,1440.0,Start of 3rd quarter,Indiana,202311010BOS
+12:00.0,71-109,,4,109,71,38,2160.0,Start of 4th quarter,Indiana,202311010BOS
+0:00.0,104-155,,4,155,104,51,2880.0,End of 4th quarter,Indiana,202311010BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. D. Finney-Smith (A. Horford gains possession),Brooklyn,202311040BRK
+12:00.0,34-34,,2,34,34,0,720.0,Start of 2nd quarter,Brooklyn,202311040BRK
+12:00.0,70-58,,3,70,58,12,1440.0,Start of 3rd quarter,Brooklyn,202311040BRK
+12:00.0,91-88,,4,91,88,3,2160.0,Start of 4th quarter,Brooklyn,202311040BRK
+0:00.0,124-114,,4,124,114,10,2880.0,End of 4th quarter,Brooklyn,202311040BRK
+12:00.0,0-0,,1,0,0,0,0.0,Violation by Team (jump ball),Minnesota,202311060MIN
+12:00.0,26-29,,2,26,29,-3,720.0,Start of 2nd quarter,Minnesota,202311060MIN
+12:00.0,55-52,,3,55,52,3,1440.0,Start of 3rd quarter,Minnesota,202311060MIN
+12:00.0,74-79,,4,74,79,-5,2160.0,Start of 4th quarter,Minnesota,202311060MIN
+0:00.0,109-114,,5,109,114,-5,3180.0,End of 1st overtime,Minnesota,202311060MIN
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. J. Embiid (K. Oubre gains possession),Philadelphia,202311080PHI
+12:00.0,27-22,,2,27,22,5,720.0,Start of 2nd quarter,Philadelphia,202311080PHI
+12:00.0,54-61,,3,54,61,-7,1440.0,Start of 3rd quarter,Philadelphia,202311080PHI
+12:00.0,71-81,,4,71,81,-10,2160.0,Start of 4th quarter,Philadelphia,202311080PHI
+0:00.0,103-106,,4,103,106,-3,2880.0,End of 4th quarter,Philadelphia,202311080PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Finney-Smith vs. K. Porziņģis (J. Brown gains possession),Brooklyn,202311100BOS
+12:00.0,33-38,,2,38,33,5,720.0,Start of 2nd quarter,Brooklyn,202311100BOS
+12:00.0,54-66,,3,66,54,12,1440.0,Start of 3rd quarter,Brooklyn,202311100BOS
+12:00.0,84-93,,4,93,84,9,2160.0,Start of 4th quarter,Brooklyn,202311100BOS
+0:00.0,107-121,,4,121,107,14,2880.0,End of 4th quarter,Brooklyn,202311100BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Poeltl vs. K. Porziņģis (S. Barnes gains possession),Toronto,202311110BOS
+12:00.0,26-30,,2,30,26,4,720.0,Start of 2nd quarter,Toronto,202311110BOS
+12:00.0,46-55,,3,55,46,9,1440.0,Start of 3rd quarter,Toronto,202311110BOS
+12:00.0,71-88,,4,88,71,17,2160.0,Start of 4th quarter,Toronto,202311110BOS
+0:00.0,94-117,,4,117,94,23,2880.0,End of 4th quarter,Toronto,202311110BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. K. Porziņģis (D. White gains possession),New York,202311130BOS
+12:00.0,24-25,,2,25,24,1,720.0,Start of 2nd quarter,New York,202311130BOS
+12:00.0,53-52,,3,52,53,-1,1440.0,Start of 3rd quarter,New York,202311130BOS
+12:00.0,76-84,,4,84,76,8,2160.0,Start of 4th quarter,New York,202311130BOS
+0:00.0,98-114,,4,114,98,16,2880.0,End of 4th quarter,New York,202311130BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. J. Embiid (R. Covington gains possession),Philadelphia,202311150PHI
+12:00.0,37-22,,2,37,22,15,720.0,Start of 2nd quarter,Philadelphia,202311150PHI
+12:00.0,57-58,,3,57,58,-1,1440.0,Start of 3rd quarter,Philadelphia,202311150PHI
+12:00.0,83-75,,4,83,75,8,2160.0,Start of 4th quarter,Philadelphia,202311150PHI
+0:00.0,117-107,,4,117,107,10,2880.0,End of 4th quarter,Philadelphia,202311150PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. J. Poeltl (J. Tatum gains possession),Toronto,202311170TOR
+12:00.0,26-32,,2,26,32,-6,720.0,Start of 2nd quarter,Toronto,202311170TOR
+12:00.0,65-49,,3,65,49,16,1440.0,Start of 3rd quarter,Toronto,202311170TOR
+12:00.0,84-81,,4,84,81,3,2160.0,Start of 4th quarter,Toronto,202311170TOR
+0:00.0,108-105,,4,108,105,3,2880.0,End of 4th quarter,Toronto,202311170TOR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. J. Jackson (D. White gains possession),Memphis,202311190MEM
+12:00.0,26-27,,2,26,27,-1,720.0,Start of 2nd quarter,Memphis,202311190MEM
+12:00.0,56-53,,3,56,53,3,1440.0,Start of 3rd quarter,Memphis,202311190MEM
+12:00.0,79-76,,4,79,76,3,2160.0,Start of 4th quarter,Memphis,202311190MEM
+0:00.0,102-100,,4,102,100,2,2880.0, ,Memphis,202311190MEM
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. M. Williams (J. Brown gains possession),Charlotte,202311200CHO
+12:00.0,31-25,,2,31,25,6,720.0,Start of 2nd quarter,Charlotte,202311200CHO
+12:00.0,65-54,,3,65,54,11,1440.0,Start of 3rd quarter,Charlotte,202311200CHO
+12:00.0,87-81,,4,87,81,6,2160.0,Start of 4th quarter,Charlotte,202311200CHO
+0:00.0,118-119,,5,118,119,-1,3180.0, ,Charlotte,202311200CHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Lopez vs. K. Porziņģis (D. White gains possession),Milwaukee,202311220BOS
+12:00.0,17-29,,2,29,17,12,720.0,Start of 2nd quarter,Milwaukee,202311220BOS
+12:00.0,53-67,,3,67,53,14,1440.0,Start of 3rd quarter,Milwaukee,202311220BOS
+12:00.0,79-94,,4,94,79,15,2160.0,Start of 4th quarter,Milwaukee,202311220BOS
+0:00.0,116-119,,4,119,116,3,2880.0, ,Milwaukee,202311220BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. G. Bitadze (A. Horford gains possession),Orlando,202311240ORL
+12:00.0,30-19,,2,30,19,11,720.0,Start of 2nd quarter,Orlando,202311240ORL
+12:00.0,56-48,,3,56,48,8,1440.0,Start of 3rd quarter,Orlando,202311240ORL
+12:00.0,74-77,,4,74,77,-3,2160.0,Start of 4th quarter,Orlando,202311240ORL
+0:00.0,96-113,,4,96,113,-17,2880.0,End of 4th quarter,Orlando,202311240ORL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. A. Horford (J. Brown gains possession),Atlanta,202311260BOS
+12:00.0,26-33,,2,33,26,7,720.0,Start of 2nd quarter,Atlanta,202311260BOS
+12:00.0,53-69,,3,69,53,16,1440.0,Start of 3rd quarter,Atlanta,202311260BOS
+12:00.0,82-90,,4,90,82,8,2160.0,Start of 4th quarter,Atlanta,202311260BOS
+0:00.0,103-113,,4,113,103,10,2880.0,End of 4th quarter,Atlanta,202311260BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. A. Horford (C. White gains possession),Chicago,202311280BOS
+12:00.0,20-31,,2,31,20,11,720.0,Start of 2nd quarter,Chicago,202311280BOS
+12:00.0,50-69,,3,69,50,19,1440.0,Start of 3rd quarter,Chicago,202311280BOS
+12:00.0,68-97,,4,97,68,29,2160.0,Start of 4th quarter,Chicago,202311280BOS
+0:00.0,97-124,,4,124,97,27,2880.0, ,Chicago,202311280BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: P. Reed vs. A. Horford (J. Brown gains possession),Philadelphia,202312010BOS
+12:00.0,36-44,,2,44,36,8,720.0,Start of 2nd quarter,Philadelphia,202312010BOS
+12:00.0,72-69,,3,69,72,-3,1440.0,Start of 3rd quarter,Philadelphia,202312010BOS
+12:00.0,97-95,,4,95,97,-2,2160.0,Start of 4th quarter,Philadelphia,202312010BOS
+0:00.0,119-125,,4,125,119,6,2880.0,End of 4th quarter,Philadelphia,202312010BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. M. Turner (O. Toppin gains possession),Indiana,202312040IND
+12:00.0,24-22,,2,24,22,2,720.0,Start of 2nd quarter,Indiana,202312040IND
+12:00.0,55-48,,3,55,48,7,1440.0,Start of 3rd quarter,Indiana,202312040IND
+12:00.0,78-85,,4,78,85,-7,2160.0,Start of 4th quarter,Indiana,202312040IND
+0:00.0,112-122,,4,112,122,-10,2880.0, ,Indiana,202312040IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. K. Porziņģis (D. White gains possession),New York,202312080BOS
+12:00.0,32-33,,2,33,32,1,720.0,Start of 2nd quarter,New York,202312080BOS
+12:00.0,65-74,,3,74,65,9,1440.0,Start of 3rd quarter,New York,202312080BOS
+12:00.0,95-109,,4,109,95,14,2160.0,Start of 4th quarter,New York,202312080BOS
+0:00.0,123-133,,4,133,123,10,2880.0,End of 4th quarter,New York,202312080BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. K. Porziņģis (D. Garland gains possession),Cleveland,202312120BOS
+12:00.0,31-21,,2,21,31,-10,720.0,Start of 2nd quarter,Cleveland,202312120BOS
+12:00.0,60-59,,3,59,60,-1,1440.0,Start of 3rd quarter,Cleveland,202312120BOS
+12:00.0,92-94,,4,94,92,2,2160.0,Start of 4th quarter,Cleveland,202312120BOS
+0:00.0,113-120,,4,120,113,7,2880.0,End of 4th quarter,Cleveland,202312120BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. K. Porziņģis (J. Brown gains possession),Cleveland,202312140BOS
+12:00.0,24-33,,2,33,24,9,720.0,Start of 2nd quarter,Cleveland,202312140BOS
+12:00.0,54-65,,3,65,54,11,1440.0,Start of 3rd quarter,Cleveland,202312140BOS
+12:00.0,87-90,,4,90,87,3,2160.0,Start of 4th quarter,Cleveland,202312140BOS
+0:00.0,107-116,,4,116,107,9,2880.0,End of 4th quarter,Cleveland,202312140BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Bitadze vs. L. Stevens (J. Suggs gains possession),Orlando,202312150BOS
+12:00.0,24-30,,2,30,24,6,720.0,Start of 2nd quarter,Orlando,202312150BOS
+12:00.0,51-64,,3,64,51,13,1440.0,Start of 3rd quarter,Orlando,202312150BOS
+12:00.0,78-101,,4,101,78,23,2160.0,Start of 4th quarter,Orlando,202312150BOS
+0:00.0,111-128,,4,128,111,17,2880.0,End of 4th quarter,Orlando,202312150BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Bitadze vs. K. Porziņģis (J. Suggs gains possession),Orlando,202312170BOS
+12:00.0,31-27,,2,27,31,-4,720.0,Start of 2nd quarter,Orlando,202312170BOS
+12:00.0,50-61,,3,61,50,11,1440.0,Start of 3rd quarter,Orlando,202312170BOS
+12:00.0,74-83,,4,83,74,9,2160.0,Start of 4th quarter,Orlando,202312170BOS
+0:00.0,97-114,,4,114,97,17,2880.0,End of 4th quarter,Orlando,202312170BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. K. Looney (D. White gains possession),Golden State,202312190GSW
+12:00.0,40-30,,2,40,30,10,720.0,Start of 2nd quarter,Golden State,202312190GSW
+12:00.0,65-62,,3,65,62,3,1440.0,Start of 3rd quarter,Golden State,202312190GSW
+12:00.0,97-86,,4,97,86,11,2160.0,Start of 4th quarter,Golden State,202312190GSW
+0:00.0,126-132,,5,126,132,-6,3180.0,Offensive rebound by Team,Golden State,202312190GSW
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. D. Sabonis (D. White gains possession),Sacramento,202312200SAC
+12:00.0,38-41,,2,38,41,-3,720.0,Start of 2nd quarter,Sacramento,202312200SAC
+12:00.0,74-66,,3,74,66,8,1440.0,Start of 3rd quarter,Sacramento,202312200SAC
+12:00.0,113-90,,4,113,90,23,2160.0,Start of 4th quarter,Sacramento,202312200SAC
+0:00.0,144-119,,4,144,119,25,2880.0,End of 4th quarter,Sacramento,202312200SAC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. I. Zubac (J. Brown gains possession),LA Clippers,202312230LAC
+12:00.0,28-21,,2,28,21,7,720.0,Start of 2nd quarter,LA Clippers,202312230LAC
+12:00.0,68-51,,3,68,51,17,1440.0,Start of 3rd quarter,LA Clippers,202312230LAC
+12:00.0,106-81,,4,106,81,25,2160.0,Start of 4th quarter,LA Clippers,202312230LAC
+0:00.0,145-108,,4,145,108,37,2880.0,End of 4th quarter,LA Clippers,202312230LAC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. A. Davis (J. Brown gains possession),LA Lakers,202312250LAL
+12:00.0,32-23,,2,32,23,9,720.0,Start of 2nd quarter,LA Lakers,202312250LAL
+12:00.0,58-57,,3,58,57,1,1440.0,Start of 3rd quarter,LA Lakers,202312250LAL
+12:00.0,99-90,,4,99,90,9,2160.0,Start of 4th quarter,LA Lakers,202312250LAL
+0:00.0,126-115,,4,126,115,11,2880.0, ,LA Lakers,202312250LAL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Duren vs. K. Porziņģis (J. Ivey gains possession),Detroit,202312280BOS
+12:00.0,30-27,,2,27,30,-3,720.0,Start of 2nd quarter,Detroit,202312280BOS
+12:00.0,66-47,,3,47,66,-19,1440.0,Start of 3rd quarter,Detroit,202312280BOS
+12:00.0,82-82,,4,82,82,0,2160.0,Start of 4th quarter,Detroit,202312280BOS
+0:00.0,122-128,,5,128,122,6,3180.0, ,Detroit,202312280BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Poeltl vs. L. Kornet (O. Anunoby gains possession),Toronto,202312290BOS
+12:00.0,20-35,,2,35,20,15,720.0,Start of 2nd quarter,Toronto,202312290BOS
+12:00.0,53-68,,3,68,53,15,1440.0,Start of 3rd quarter,Toronto,202312290BOS
+12:00.0,86-99,,4,99,86,13,2160.0,Start of 4th quarter,Toronto,202312290BOS
+0:00.0,118-120,,4,120,118,2,2880.0, ,Toronto,202312290BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. V. Wembanyama (J. Champagnie gains possession),San Antonio,202312310SAS
+12:00.0,30-22,,2,30,22,8,720.0,Start of 2nd quarter,San Antonio,202312310SAS
+12:00.0,65-53,,3,65,53,12,1440.0,Start of 3rd quarter,San Antonio,202312310SAS
+12:00.0,105-76,,4,105,76,29,2160.0,Start of 4th quarter,San Antonio,202312310SAS
+0:00.0,134-101,,4,134,101,33,2880.0,End of 4th quarter,San Antonio,202312310SAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. C. Holmgren (D. White gains possession),Oklahoma City,202401020OKC
+12:00.0,29-31,,2,29,31,-2,720.0,Start of 2nd quarter,Oklahoma City,202401020OKC
+12:00.0,61-58,,3,61,58,3,1440.0,Start of 3rd quarter,Oklahoma City,202401020OKC
+12:00.0,86-98,,4,86,98,-12,2160.0,Start of 4th quarter,Oklahoma City,202401020OKC
+0:00.0,123-127,,4,123,127,-4,2880.0,J. Brown misses 3-pt jump shot from 23 ft,Oklahoma City,202401020OKC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: L. Markkanen vs. K. Porziņģis (D. White gains possession),Utah,202401050BOS
+12:00.0,15-30,,2,30,15,15,720.0,Start of 2nd quarter,Utah,202401050BOS
+12:00.0,40-71,,3,71,40,31,1440.0,Start of 3rd quarter,Utah,202401050BOS
+12:00.0,75-107,,4,107,75,32,2160.0,Start of 4th quarter,Utah,202401050BOS
+0:00.0,97-126,,4,126,97,29,2880.0,End of 4th quarter,Utah,202401050BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. M. Turner (D. White gains possession),Indiana,202401060IND
+12:00.0,29-17,,2,29,17,12,720.0,Start of 2nd quarter,Indiana,202401060IND
+12:00.0,58-49,,3,58,49,9,1440.0,Start of 3rd quarter,Indiana,202401060IND
+12:00.0,84-81,,4,84,81,3,2160.0,Start of 4th quarter,Indiana,202401060IND
+0:00.0,118-101,,4,118,101,17,2880.0,End of 4th quarter,Indiana,202401060IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. M. Turner (B. Brown gains possession),Indiana,202401080IND
+12:00.0,34-33,,2,34,33,1,720.0,Start of 2nd quarter,Indiana,202401080IND
+12:00.0,68-59,,3,68,59,9,1440.0,Start of 3rd quarter,Indiana,202401080IND
+12:00.0,101-103,,4,101,103,-2,2160.0,Start of 4th quarter,Indiana,202401080IND
+0:00.0,131-131,,4,131,131,0,2880.0, ,Indiana,202401080IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Towns vs. A. Horford (J. Brown gains possession),Minnesota,202401100BOS
+12:00.0,27-32,,2,32,27,5,720.0,Start of 2nd quarter,Minnesota,202401100BOS
+12:00.0,53-54,,3,54,53,1,1440.0,Start of 3rd quarter,Minnesota,202401100BOS
+12:00.0,85-79,,4,79,85,-6,2160.0,Start of 4th quarter,Minnesota,202401100BOS
+0:00.0,120-127,,5,127,120,7,3180.0,End of 1st overtime,Minnesota,202401100BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Lopez (D. White gains possession),Milwaukee,202401110MIL
+12:00.0,23-41,,2,23,41,-18,720.0,Start of 2nd quarter,Milwaukee,202401110MIL
+12:00.0,38-75,,3,38,75,-37,1440.0,Start of 3rd quarter,Milwaukee,202401110MIL
+12:00.0,70-111,,4,70,111,-41,2160.0,Start of 4th quarter,Milwaukee,202401110MIL
+0:00.0,102-135,,4,102,135,-33,2880.0,End of 4th quarter,Milwaukee,202401110MIL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Sengun vs. K. Porziņģis (D. White gains possession),Houston,202401130BOS
+12:00.0,31-35,,2,35,31,4,720.0,Start of 2nd quarter,Houston,202401130BOS
+12:00.0,58-69,,3,69,58,11,1440.0,Start of 3rd quarter,Houston,202401130BOS
+12:00.0,86-112,,4,112,86,26,2160.0,Start of 4th quarter,Houston,202401130BOS
+0:00.0,113-145,,4,145,113,32,2880.0,End of 4th quarter,Houston,202401130BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. S. Barnes (D. White gains possession),Toronto,202401150TOR
+12:00.0,29-25,,2,29,25,4,720.0,Start of 2nd quarter,Toronto,202401150TOR
+12:00.0,61-55,,3,61,55,6,1440.0,Start of 3rd quarter,Toronto,202401150TOR
+12:00.0,84-75,,4,84,75,9,2160.0,Start of 4th quarter,Toronto,202401150TOR
+0:00.0,105-96,,4,105,96,9,2880.0,End of 4th quarter,Toronto,202401150TOR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: V. Wembanyama vs. L. Kornet (A. Horford gains possession),San Antonio,202401170BOS
+12:00.0,25-30,,2,30,25,5,720.0,Start of 2nd quarter,San Antonio,202401170BOS
+12:00.0,45-70,,3,70,45,25,1440.0,Start of 3rd quarter,San Antonio,202401170BOS
+12:00.0,78-94,,4,94,78,16,2160.0,Start of 4th quarter,San Antonio,202401170BOS
+0:00.0,98-117,,4,117,98,19,2880.0,End of 4th quarter,San Antonio,202401170BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jokić vs. K. Porziņģis (D. White gains possession),Denver,202401190BOS
+12:00.0,31-32,,2,32,31,1,720.0,Start of 2nd quarter,Denver,202401190BOS
+12:00.0,55-61,,3,61,55,6,1440.0,Start of 3rd quarter,Denver,202401190BOS
+12:00.0,81-82,,4,82,81,1,2160.0,Start of 4th quarter,Denver,202401190BOS
+0:00.0,102-100,,4,100,102,-2,2880.0,End of 4th quarter,Denver,202401190BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. A. Sengun (D. Brooks gains possession),Houston,202401210HOU
+12:00.0,35-25,,2,35,25,10,720.0,Start of 2nd quarter,Houston,202401210HOU
+12:00.0,70-55,,3,70,55,15,1440.0,Start of 3rd quarter,Houston,202401210HOU
+12:00.0,90-80,,4,90,80,10,2160.0,Start of 4th quarter,Houston,202401210HOU
+0:00.0,116-107,,4,116,107,9,2880.0,End of 4th quarter,Houston,202401210HOU
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. D. Lively (J. Tatum gains possession),Dallas,202401220DAL
+12:00.0,24-26,,2,24,26,-2,720.0,Start of 2nd quarter,Dallas,202401220DAL
+12:00.0,65-59,,3,65,59,6,1440.0,Start of 3rd quarter,Dallas,202401220DAL
+12:00.0,94-83,,4,94,83,11,2160.0,Start of 4th quarter,Dallas,202401220DAL
+0:00.0,119-110,,4,119,110,9,2880.0,End of 4th quarter,Dallas,202401220DAL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Adebayo (D. White gains possession),Miami,202401250MIA
+12:00.0,42-29,,2,42,29,13,720.0,Start of 2nd quarter,Miami,202401250MIA
+12:00.0,77-64,,3,77,64,13,1440.0,Start of 3rd quarter,Miami,202401250MIA
+12:00.0,113-90,,4,113,90,23,2160.0,Start of 4th quarter,Miami,202401250MIA
+0:00.0,143-110,,4,143,110,33,2880.0,End of 4th quarter,Miami,202401250MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Plumlee vs. A. Horford (J. Tatum gains possession),LA Clippers,202401270BOS
+12:00.0,26-21,,2,21,26,-5,720.0,Start of 2nd quarter,LA Clippers,202401270BOS
+12:00.0,55-39,,3,39,55,-16,1440.0,Start of 3rd quarter,LA Clippers,202401270BOS
+12:00.0,91-60,,4,60,91,-31,2160.0,Start of 4th quarter,LA Clippers,202401270BOS
+0:00.0,115-96,,4,96,115,-19,2880.0, ,LA Clippers,202401270BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Valančiūnas vs. A. Horford (Z. Williamson gains possession),New Orleans,202401290BOS
+12:00.0,36-25,,2,25,36,-11,720.0,Start of 2nd quarter,New Orleans,202401290BOS
+12:00.0,60-50,,3,50,60,-10,1440.0,Start of 3rd quarter,New Orleans,202401290BOS
+12:00.0,87-81,,4,81,87,-6,2160.0,Start of 4th quarter,New Orleans,202401290BOS
+0:00.0,112-118,,4,118,112,6,2880.0,End of 4th quarter,New Orleans,202401290BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. K. Porziņģis (J. Brown gains possession),Indiana,202401300BOS
+12:00.0,26-36,,2,36,26,10,720.0,Start of 2nd quarter,Indiana,202401300BOS
+12:00.0,66-81,,3,81,66,15,1440.0,Start of 3rd quarter,Indiana,202401300BOS
+12:00.0,103-106,,4,106,103,3,2160.0,Start of 4th quarter,Indiana,202401300BOS
+0:00.0,124-129,,4,129,124,5,2880.0,End of 4th quarter,Indiana,202401300BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Hayes vs. K. Porziņģis (D. White gains possession),LA Lakers,202402010BOS
+12:00.0,28-25,,2,25,28,-3,720.0,Start of 2nd quarter,LA Lakers,202402010BOS
+12:00.0,60-46,,3,46,60,-14,1440.0,Start of 3rd quarter,LA Lakers,202402010BOS
+12:00.0,88-78,,4,78,88,-10,2160.0,Start of 4th quarter,LA Lakers,202402010BOS
+0:00.0,114-105,,4,105,114,-9,2880.0,End of 4th quarter,LA Lakers,202402010BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: T. Jemison vs. K. Porziņģis (D. White gains possession),Memphis,202402040BOS
+12:00.0,20-29,,2,29,20,9,720.0,Start of 2nd quarter,Memphis,202402040BOS
+12:00.0,50-70,,3,70,50,20,1440.0,Start of 3rd quarter,Memphis,202402040BOS
+12:00.0,76-99,,4,99,76,23,2160.0,Start of 4th quarter,Memphis,202402040BOS
+0:00.0,91-131,,4,131,91,40,2880.0,Turnover by Team (shot clock),Memphis,202402040BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Okongwu vs. K. Porziņģis (D. White gains possession),Atlanta,202402070BOS
+12:00.0,37-35,,2,35,37,-2,720.0,Start of 2nd quarter,Atlanta,202402070BOS
+12:00.0,67-71,,3,71,67,4,1440.0,Start of 3rd quarter,Atlanta,202402070BOS
+12:00.0,90-95,,4,95,90,5,2160.0,Start of 4th quarter,Atlanta,202402070BOS
+0:00.0,117-125,,4,125,117,8,2880.0,End of 4th quarter,Atlanta,202402070BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Avdija vs. K. Porziņģis (D. White gains possession),Washington,202402090BOS
+12:00.0,35-31,,2,31,35,-4,720.0,Start of 2nd quarter,Washington,202402090BOS
+12:00.0,71-64,,3,64,71,-7,1440.0,Start of 3rd quarter,Washington,202402090BOS
+12:00.0,87-100,,4,100,87,13,2160.0,Start of 4th quarter,Washington,202402090BOS
+0:00.0,129-133,,4,133,129,4,2880.0,End of 4th quarter,Washington,202402090BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. B. Adebayo (D. White gains possession),Miami,202402110MIA
+12:00.0,26-22,,2,26,22,4,720.0,Start of 2nd quarter,Miami,202402110MIA
+12:00.0,59-50,,3,59,50,9,1440.0,Start of 3rd quarter,Miami,202402110MIA
+12:00.0,86-79,,4,86,79,7,2160.0,Start of 4th quarter,Miami,202402110MIA
+0:00.0,110-106,,4,110,106,4,2880.0,End of 4th quarter,Miami,202402110MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. N. Claxton (B. Simmons gains possession),Brooklyn,202402130BRK
+12:00.0,36-30,,2,36,30,6,720.0,Start of 2nd quarter,Brooklyn,202402130BRK
+12:00.0,72-57,,3,72,57,15,1440.0,Start of 3rd quarter,Brooklyn,202402130BRK
+12:00.0,98-82,,4,98,82,16,2160.0,Start of 4th quarter,Brooklyn,202402130BRK
+0:00.0,118-110,,4,118,110,8,2880.0,End of 4th quarter,Brooklyn,202402130BRK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Claxton vs. K. Porziņģis (D. White gains possession),Brooklyn,202402140BOS
+12:00.0,15-30,,2,30,15,15,720.0,Start of 2nd quarter,Brooklyn,202402140BOS
+12:00.0,32-68,,3,68,32,36,1440.0,Start of 3rd quarter,Brooklyn,202402140BOS
+12:00.0,55-101,,4,101,55,46,2160.0,Start of 4th quarter,Brooklyn,202402140BOS
+0:00.0,86-136,,4,136,86,50,2880.0,Turnover by Team (shot clock),Brooklyn,202402140BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. N. Vučević (J. Brown gains possession),Chicago,202402220CHI
+12:00.0,31-23,,2,31,23,8,720.0,Start of 2nd quarter,Chicago,202402220CHI
+12:00.0,59-62,,3,59,62,-3,1440.0,Start of 3rd quarter,Chicago,202402220CHI
+12:00.0,96-83,,4,96,83,13,2160.0,Start of 4th quarter,Chicago,202402220CHI
+0:00.0,129-112,,4,129,112,17,2880.0,End of 4th quarter,Chicago,202402220CHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. I. Hartenstein (D. White gains possession),New York,202402240NYK
+12:00.0,30-26,,2,30,26,4,720.0,Start of 2nd quarter,New York,202402240NYK
+12:00.0,62-58,,3,62,58,4,1440.0,Start of 3rd quarter,New York,202402240NYK
+12:00.0,97-84,,4,97,84,13,2160.0,Start of 4th quarter,New York,202402240NYK
+0:00.0,116-102,,4,116,102,14,2880.0,End of 4th quarter,New York,202402240NYK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: P. Reed vs. K. Porziņģis (D. White gains possession),Philadelphia,202402270BOS
+12:00.0,30-30,,2,30,30,0,720.0,Start of 2nd quarter,Philadelphia,202402270BOS
+12:00.0,51-53,,3,53,51,2,1440.0,Start of 3rd quarter,Philadelphia,202402270BOS
+12:00.0,75-86,,4,86,75,11,2160.0,Start of 4th quarter,Philadelphia,202402270BOS
+0:00.0,99-117,,4,117,99,18,2880.0,End of 4th quarter,Philadelphia,202402270BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Lively vs. K. Porziņģis (P. Washington gains possession),Dallas,202403010BOS
+12:00.0,32-38,,2,38,32,6,720.0,Start of 2nd quarter,Dallas,202403010BOS
+12:00.0,59-66,,3,66,59,7,1440.0,Start of 3rd quarter,Dallas,202403010BOS
+12:00.0,90-102,,4,102,90,12,2160.0,Start of 4th quarter,Dallas,202403010BOS
+0:00.0,110-138,,4,138,110,28,2880.0,End of 4th quarter,Dallas,202403010BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Green vs. A. Horford (J. Holiday gains possession),Golden State,202403030BOS
+12:00.0,22-44,,2,44,22,22,720.0,Start of 2nd quarter,Golden State,202403030BOS
+12:00.0,38-82,,3,82,38,44,1440.0,Start of 3rd quarter,Golden State,202403030BOS
+12:00.0,62-115,,4,115,62,53,2160.0,Start of 4th quarter,Golden State,202403030BOS
+0:00.0,88-140,,4,140,88,52,2880.0,End of 4th quarter,Golden State,202403030BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. J. Allen (D. White gains possession),Cleveland,202403050CLE
+12:00.0,33-25,,2,33,25,8,720.0,Start of 2nd quarter,Cleveland,202403050CLE
+12:00.0,55-45,,3,55,45,10,1440.0,Start of 3rd quarter,Cleveland,202403050CLE
+12:00.0,87-71,,4,87,71,16,2160.0,Start of 4th quarter,Cleveland,202403050CLE
+0:00.0,104-105,,4,104,105,-1,2880.0,Offensive rebound by Team,Cleveland,202403050CLE
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. N. Jokić (K. Caldwell-Pope gains possession),Denver,202403070DEN
+12:00.0,28-30,,2,28,30,-2,720.0,Start of 2nd quarter,Denver,202403070DEN
+12:00.0,54-62,,3,54,62,-8,1440.0,Start of 3rd quarter,Denver,202403070DEN
+12:00.0,80-90,,4,80,90,-10,2160.0,Start of 4th quarter,Denver,202403070DEN
+0:00.0,109-115,,4,109,115,-6,2880.0,K. Porziņģis misses 2-pt layup at rim,Denver,202403070DEN
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. J. Nurkić (J. Brown gains possession),Phoenix,202403090PHO
+12:00.0,31-26,,2,31,26,5,720.0,Start of 2nd quarter,Phoenix,202403090PHO
+12:00.0,62-50,,3,62,50,12,1440.0,Start of 3rd quarter,Phoenix,202403090PHO
+12:00.0,87-78,,4,87,78,9,2160.0,Start of 4th quarter,Phoenix,202403090PHO
+0:00.0,117-107,,4,117,107,10,2880.0,End of 4th quarter,Phoenix,202403090PHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. D. Ayton (D. White gains possession),Portland,202403110POR
+12:00.0,37-28,,2,37,28,9,720.0,Start of 2nd quarter,Portland,202403110POR
+12:00.0,66-52,,3,66,52,14,1440.0,Start of 3rd quarter,Portland,202403110POR
+12:00.0,88-75,,4,88,75,13,2160.0,Start of 4th quarter,Portland,202403110POR
+0:00.0,121-99,,4,121,99,22,2880.0,End of 4th quarter,Portland,202403110POR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: L. Kornet vs. J. Collins (D. White gains possession),Utah,202403120UTA
+12:00.0,44-33,,2,44,33,11,720.0,Start of 2nd quarter,Utah,202403120UTA
+12:00.0,72-57,,3,72,57,15,1440.0,Start of 3rd quarter,Utah,202403120UTA
+12:00.0,98-91,,4,98,91,7,2160.0,Start of 4th quarter,Utah,202403120UTA
+0:00.0,123-107,,4,123,107,16,2880.0,End of 4th quarter,Utah,202403120UTA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Nurkić vs. A. Horford (B. Beal gains possession),Phoenix,202403140BOS
+12:00.0,32-35,,2,35,32,3,720.0,Start of 2nd quarter,Phoenix,202403140BOS
+12:00.0,60-65,,3,65,60,5,1440.0,Start of 3rd quarter,Phoenix,202403140BOS
+12:00.0,85-102,,4,102,85,17,2160.0,Start of 4th quarter,Phoenix,202403140BOS
+0:00.0,112-127,,4,127,112,15,2880.0,End of 4th quarter,Phoenix,202403140BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: A. Horford vs. R. Holmes (S. Hauser gains possession),Washington,202403170WAS
+12:00.0,45-27,,2,45,27,18,720.0,Start of 2nd quarter,Washington,202403170WAS
+12:00.0,81-53,,3,81,53,28,1440.0,Start of 3rd quarter,Washington,202403170WAS
+12:00.0,108-78,,4,108,78,30,2160.0,Start of 4th quarter,Washington,202403170WAS
+0:00.0,130-104,,4,130,104,26,2880.0,End of 4th quarter,Washington,202403170WAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Duren vs. K. Porziņģis (P. Pritchard gains possession),Detroit,202403180BOS
+12:00.0,28-31,,2,31,28,3,720.0,Start of 2nd quarter,Detroit,202403180BOS
+12:00.0,46-59,,3,59,46,13,1440.0,Start of 3rd quarter,Detroit,202403180BOS
+12:00.0,66-92,,4,92,66,26,2160.0,Start of 4th quarter,Detroit,202403180BOS
+0:00.0,94-119,,4,119,94,25,2880.0,End of 4th quarter,Detroit,202403180BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Lopez vs. K. Porziņģis (A. Horford gains possession),Milwaukee,202403200BOS
+12:00.0,28-33,,2,33,28,5,720.0,Start of 2nd quarter,Milwaukee,202403200BOS
+12:00.0,56-69,,3,69,56,13,1440.0,Start of 3rd quarter,Milwaukee,202403200BOS
+12:00.0,83-101,,4,101,83,18,2160.0,Start of 4th quarter,Milwaukee,202403200BOS
+0:00.0,119-122,,4,122,119,3,2880.0,End of 4th quarter,Milwaukee,202403200BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. J. Wiseman (J. Ivey gains possession),Detroit,202403220DET
+12:00.0,32-34,,2,32,34,-2,720.0,Start of 2nd quarter,Detroit,202403220DET
+12:00.0,69-53,,3,69,53,16,1440.0,Start of 3rd quarter,Detroit,202403220DET
+12:00.0,104-83,,4,104,83,21,2160.0,Start of 4th quarter,Detroit,202403220DET
+0:00.0,129-102,,4,129,102,27,2880.0,End of 4th quarter,Detroit,202403220DET
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: L. Kornet vs. N. Vučević (S. Hauser gains possession),Chicago,202403230CHI
+12:00.0,31-31,,2,31,31,0,720.0,Start of 2nd quarter,Chicago,202403230CHI
+12:00.0,66-60,,3,66,60,6,1440.0,Start of 3rd quarter,Chicago,202403230CHI
+12:00.0,95-92,,4,95,92,3,2160.0,Start of 4th quarter,Chicago,202403230CHI
+0:00.0,124-113,,4,124,113,11,2880.0,End of 4th quarter,Chicago,202403230CHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. C. Capela (S. Hauser gains possession),Atlanta,202403250ATL
+12:00.0,44-22,,2,44,22,22,720.0,Start of 2nd quarter,Atlanta,202403250ATL
+12:00.0,74-56,,3,74,56,18,1440.0,Start of 3rd quarter,Atlanta,202403250ATL
+12:00.0,96-90,,4,96,90,6,2160.0,Start of 4th quarter,Atlanta,202403250ATL
+0:00.0,118-120,,4,118,120,-2,2880.0,End of 4th quarter,Atlanta,202403250ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. C. Capela (D. White gains possession),Atlanta,202403280ATL
+12:00.0,29-28,,2,29,28,1,720.0,Start of 2nd quarter,Atlanta,202403280ATL
+12:00.0,63-59,,3,63,59,4,1440.0,Start of 3rd quarter,Atlanta,202403280ATL
+12:00.0,90-89,,4,90,89,1,2160.0,Start of 4th quarter,Atlanta,202403280ATL
+0:00.0,122-123,Lead change,5,122,123,-1,3180.0, ,Atlanta,202403280ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. J. Valančiūnas (D. White gains possession),New Orleans,202403300NOP
+12:00.0,28-37,,2,28,37,-9,720.0,Start of 2nd quarter,New Orleans,202403300NOP
+12:00.0,59-57,,3,59,57,2,1440.0,Start of 3rd quarter,New Orleans,202403300NOP
+12:00.0,83-68,,4,83,68,15,2160.0,Start of 4th quarter,New Orleans,202403300NOP
+0:00.0,104-92,,4,104,92,12,2880.0,End of 4th quarter,New Orleans,202403300NOP
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. G. Williams (D. White gains possession),Charlotte,202404010CHO
+12:00.0,30-32,,2,30,32,-2,720.0,Start of 2nd quarter,Charlotte,202404010CHO
+12:00.0,59-53,,3,59,53,6,1440.0,Start of 3rd quarter,Charlotte,202404010CHO
+12:00.0,95-79,,4,95,79,16,2160.0,Start of 4th quarter,Charlotte,202404010CHO
+0:00.0,118-104,,4,118,104,14,2880.0,End of 4th quarter,Charlotte,202404010CHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Holmgren vs. K. Porziņģis (J. Holiday gains possession),Oklahoma City,202404030BOS
+12:00.0,23-30,,2,30,23,7,720.0,Start of 2nd quarter,Oklahoma City,202404030BOS
+12:00.0,47-61,,3,61,47,14,1440.0,Start of 3rd quarter,Oklahoma City,202404030BOS
+12:00.0,83-93,,4,93,83,10,2160.0,Start of 4th quarter,Oklahoma City,202404030BOS
+0:00.0,100-135,,4,135,100,35,2880.0,End of 4th quarter,Oklahoma City,202404030BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Sabonis vs. K. Porziņģis (A. Horford gains possession),Sacramento,202404050BOS
+12:00.0,15-27,,2,27,15,12,720.0,Start of 2nd quarter,Sacramento,202404050BOS
+12:00.0,50-54,,3,54,50,4,1440.0,Start of 3rd quarter,Sacramento,202404050BOS
+12:00.0,72-84,,4,84,72,12,2160.0,Start of 4th quarter,Sacramento,202404050BOS
+0:00.0,100-101,,4,101,100,1,2880.0, ,Sacramento,202404050BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Ayton vs. K. Porziņģis (D. White gains possession),Portland,202404070BOS
+12:00.0,24-30,,2,30,24,6,720.0,Start of 2nd quarter,Portland,202404070BOS
+12:00.0,56-63,,3,63,56,7,1440.0,Start of 3rd quarter,Portland,202404070BOS
+12:00.0,85-93,,4,93,85,8,2160.0,Start of 4th quarter,Portland,202404070BOS
+0:00.0,107-124,,4,124,107,17,2880.0,End of 4th quarter,Portland,202404070BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: X. Tillman vs. B. Lopez (G. Antetokounmpo gains possession),Milwaukee,202404090MIL
+12:00.0,21-37,,2,21,37,-16,720.0,Start of 2nd quarter,Milwaukee,202404090MIL
+12:00.0,43-63,,3,43,63,-20,1440.0,Start of 3rd quarter,Milwaukee,202404090MIL
+12:00.0,67-78,,4,67,78,-11,2160.0,Start of 4th quarter,Milwaukee,202404090MIL
+0:00.0,91-104,,4,91,104,-13,2880.0,End of 4th quarter,Milwaukee,202404090MIL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: I. Hartenstein vs. K. Porziņģis (D. White gains possession),New York,202404110BOS
+12:00.0,32-29,,2,29,32,-3,720.0,Start of 2nd quarter,New York,202404110BOS
+12:00.0,69-48,,3,48,69,-21,1440.0,Start of 3rd quarter,New York,202404110BOS
+12:00.0,100-71,,4,71,100,-29,2160.0,Start of 4th quarter,New York,202404110BOS
+0:00.0,118-109,,4,109,118,-9,2880.0, ,New York,202404110BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Bolden vs. L. Kornet (S. Mykhailiuk gains possession),Charlotte,202404120BOS
+12:00.0,24-30,,2,30,24,6,720.0,Start of 2nd quarter,Charlotte,202404120BOS
+12:00.0,43-69,,3,69,43,26,1440.0,Start of 3rd quarter,Charlotte,202404120BOS
+12:00.0,76-94,,4,94,76,18,2160.0,Start of 4th quarter,Charlotte,202404120BOS
+0:00.0,98-131,,4,131,98,33,2880.0,End of 4th quarter,Charlotte,202404120BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Avdija vs. L. Kornet (J. Walsh gains possession),Washington,202404140BOS
+12:00.0,30-34,,2,34,30,4,720.0,Start of 2nd quarter,Washington,202404140BOS
+12:00.0,59-69,,3,69,59,10,1440.0,Start of 3rd quarter,Washington,202404140BOS
+12:00.0,89-107,,4,107,89,18,2160.0,Start of 4th quarter,Washington,202404140BOS
+0:00.0,122-132,,4,132,122,10,2880.0,End of 4th quarter,Washington,202404140BOS

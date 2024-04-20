@@ -1,0 +1,448 @@
+Time,Boston,Score,Memphis,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. J. Jackson (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:53.0,J. Brown makes 2-pt dunk at rim (assist by D. White),2-0, ,,1,2,0,2,7.0
+11:35.0, ,2-0,J. Jackson misses 2-pt layup from 6 ft (block by K. Porziņģis),,1,2,0,2,25.0
+11:31.0,Defensive rebound by K. Porziņģis,2-0, ,,1,2,0,2,29.0
+11:26.0,Turnover by J. Holiday (bad pass; steal by J. Jackson),2-0, ,,1,2,0,2,34.0
+11:20.0, ,2-0,D. Bane misses 3-pt jump shot from 25 ft,,1,2,0,2,40.0
+11:16.0,Defensive rebound by K. Porziņģis,2-0, ,,1,2,0,2,44.0
+11:02.0,J. Holiday makes 2-pt layup from 5 ft,4-0, ,,1,4,0,4,58.0
+10:41.0, ,4-0,S. Aldama misses 3-pt jump shot from 26 ft,,1,4,0,4,79.0
+10:39.0,Defensive rebound by J. Tatum,4-0, ,,1,4,0,4,81.0
+10:34.0,K. Porziņģis makes 2-pt layup from 1 ft (assist by J. Tatum),6-0, ,,1,6,0,6,86.0
+10:31.0, ,6-0,Memphis full timeout,,1,6,0,6,89.0
+10:06.0, ,6-2,J. Jackson makes 2-pt jump shot from 9 ft,,1,6,2,4,114.0
+9:48.0,Turnover by J. Tatum (bad pass),6-2, ,,1,6,2,4,132.0
+9:30.0, ,6-2,D. Bane misses 2-pt jump shot from 6 ft (block by K. Porziņģis),,1,6,2,4,150.0
+9:27.0, ,6-2,Offensive rebound by D. Bane,,1,6,2,4,153.0
+9:25.0, ,6-2,S. Aldama misses 3-pt jump shot from 26 ft,,1,6,2,4,155.0
+9:23.0,Defensive rebound by Team,6-2, ,,1,6,2,4,157.0
+9:14.0,K. Porziņģis misses 3-pt jump shot from 26 ft,6-2, ,,1,6,2,4,166.0
+9:12.0, ,6-2,Defensive rebound by J. Jackson,,1,6,2,4,168.0
+9:02.0, ,6-2,D. Bane misses 2-pt jump shot from 5 ft,,1,6,2,4,178.0
+9:02.0,Defensive rebound by Team,6-2, ,,1,6,2,4,178.0
+9:02.0, ,6-2,Loose ball foul by B. Biyombo (drawn by K. Porziņģis),,1,6,2,4,178.0
+8:41.0,K. Porziņģis makes 2-pt jump shot from 13 ft,8-2, ,,1,8,2,6,199.0
+8:20.0, ,8-5,S. Aldama makes 3-pt jump shot from 25 ft (assist by D. Bane),,1,8,5,3,220.0
+8:10.0,Shooting foul by J. Jackson (drawn by J. Brown),8-5, ,,1,8,5,3,230.0
+8:10.0,J. Brown makes free throw 1 of 2,9-5, ,,1,9,5,4,230.0
+8:10.0,J. Brown misses free throw 2 of 2,9-5, ,,1,9,5,4,230.0
+8:08.0, ,9-5,Defensive rebound by Team,,1,9,5,4,232.0
+8:08.0,Boston full timeout,9-5, ,,1,9,5,4,232.0
+8:08.0,Instant Replay (Challenge: Stands),9-5, ,,1,9,5,4,232.0
+7:51.0, ,9-5,Personal foul by J. Brown (drawn by J. Jackson),,1,9,5,4,249.0
+7:40.0, ,9-7,D. Bane makes 2-pt jump shot from 18 ft,,1,9,7,2,260.0
+7:21.0,Shooting foul by S. Aldama (drawn by J. Tatum),9-7, ,,1,9,7,2,279.0
+7:21.0,J. Tatum makes free throw 1 of 2,10-7, ,,1,10,7,3,279.0
+7:21.0,J. Tatum makes free throw 2 of 2,11-7, ,,1,11,7,4,279.0
+7:06.0, ,11-7,J. Jackson misses 2-pt hook shot from 8 ft,,1,11,7,4,294.0
+7:03.0,Defensive rebound by J. Tatum,11-7, ,,1,11,7,4,297.0
+6:58.0,J. Tatum misses 2-pt layup from 2 ft (block by B. Biyombo),11-7, ,,1,11,7,4,302.0
+6:55.0, ,11-7,Defensive rebound by J. Konchar,,1,11,7,4,305.0
+6:50.0, ,11-7,J. Jackson misses 3-pt jump shot from 25 ft,,1,11,7,4,310.0
+6:47.0, ,11-7,Offensive rebound by J. Jackson,,1,11,7,4,313.0
+6:40.0, ,11-10,D. Bane makes 3-pt jump shot from 23 ft (assist by S. Aldama),,1,11,10,1,320.0
+6:27.0,J. Brown misses 3-pt jump shot from 26 ft,11-10, ,,1,11,10,1,333.0
+6:24.0, ,11-10,Defensive rebound by S. Aldama,,1,11,10,1,336.0
+6:20.0, ,11-13,D. Bane makes 3-pt jump shot from 26 ft (assist by S. Aldama),Lead change,1,11,13,-2,340.0
+6:00.0,Turnover by J. Holiday (bad pass; steal by D. Bane),11-13, ,,1,11,13,-2,360.0
+5:57.0, ,11-13,D. Bane misses 3-pt jump shot from 24 ft,,1,11,13,-2,363.0
+5:54.0,Defensive rebound by J. Brown,11-13, ,,1,11,13,-2,366.0
+5:44.0,J. Brown makes 2-pt jump shot from 6 ft,13-13, ,Tie,1,13,13,0,376.0
+5:27.0, ,13-15,D. Bane makes 2-pt layup from 2 ft,,1,13,15,-2,393.0
+5:14.0,Personal foul by B. Biyombo (drawn by J. Brown),13-15, ,,1,13,15,-2,406.0
+5:14.0,S. Hauser enters the game for J. Holiday,13-15, ,,1,13,15,-2,406.0
+5:14.0,A. Horford enters the game for J. Tatum,13-15, ,,1,13,15,-2,406.0
+5:14.0, ,13-15,D. Roddy enters the game for S. Aldama,,1,13,15,-2,406.0
+5:14.0, ,13-15,Z. Williams enters the game for B. Biyombo,,1,13,15,-2,406.0
+5:05.0,D. White misses 3-pt jump shot from 25 ft,13-15, ,,1,13,15,-2,415.0
+5:02.0,Offensive rebound by K. Porziņģis,13-15, ,,1,13,15,-2,418.0
+4:56.0,S. Hauser makes 3-pt jump shot from 24 ft (assist by J. Brown),16-15, ,Lead change,1,16,15,1,424.0
+4:47.0, ,16-15,Shooting foul by K. Porziņģis (drawn by J. Jackson),,1,16,15,1,433.0
+4:47.0, ,16-16,J. Jackson makes free throw 1 of 2,Tie,1,16,16,0,433.0
+4:47.0, ,16-17,J. Jackson makes free throw 2 of 2,Lead change,1,16,17,-1,433.0
+4:35.0,K. Porziņģis makes 2-pt jump shot from 6 ft (assist by D. White),18-17, ,Lead change,1,18,17,1,445.0
+4:35.0,Shooting foul by D. Bane (drawn by K. Porziņģis),18-17, ,,1,18,17,1,445.0
+4:35.0,K. Porziņģis makes free throw 1 of 1,19-17, ,,1,19,17,2,445.0
+4:21.0, ,19-17,Z. Williams misses 2-pt jump shot from 15 ft,,1,19,17,2,459.0
+4:18.0,Defensive rebound by K. Porziņģis,19-17, ,,1,19,17,2,462.0
+4:08.0,K. Porziņģis makes 2-pt layup from 5 ft,21-17, ,,1,21,17,4,472.0
+3:58.0, ,21-17,J. Jackson misses 3-pt jump shot from 24 ft,,1,21,17,4,482.0
+3:55.0,Defensive rebound by J. Brown,21-17, ,,1,21,17,4,485.0
+3:49.0,Turnover by D. White (bad pass; steal by J. Konchar),21-17, ,,1,21,17,4,491.0
+3:46.0, ,21-17,J. Konchar misses 2-pt layup from 1 ft (block by J. Brown),,1,21,17,4,494.0
+3:46.0, ,21-17,Offensive rebound by Team,,1,21,17,4,494.0
+3:46.0,P. Pritchard enters the game for D. White,21-17, ,,1,21,17,4,494.0
+3:39.0, ,21-17,Z. Williams misses 3-pt jump shot from 24 ft,,1,21,17,4,501.0
+3:38.0,Defensive rebound by Team,21-17, ,,1,21,17,4,502.0
+3:22.0,J. Brown misses 2-pt layup from 1 ft (block by J. Jackson),21-17, ,,1,21,17,4,518.0
+3:22.0,Offensive rebound by Team,21-17, ,,1,21,17,4,518.0
+3:15.0,K. Porziņģis makes 2-pt jump shot from 7 ft,23-17, ,,1,23,17,6,525.0
+2:56.0, ,23-17,Z. Williams misses 3-pt jump shot from 24 ft,,1,23,17,6,544.0
+2:53.0, ,23-17,Offensive rebound by J. Konchar,,1,23,17,6,547.0
+2:51.0, ,23-19,J. Jackson makes 2-pt jump shot from 7 ft (assist by J. Konchar),,1,23,19,4,549.0
+2:51.0, ,23-19,Shooting foul by A. Horford (drawn by J. Jackson),,1,23,19,4,549.0
+2:51.0,J. Holiday enters the game for J. Brown,23-19, ,,1,23,19,4,549.0
+2:51.0,J. Tatum enters the game for S. Hauser,23-19, ,,1,23,19,4,549.0
+2:51.0, ,23-19,S. Aldama enters the game for J. Konchar,,1,23,19,4,549.0
+2:51.0, ,23-20,J. Jackson makes free throw 1 of 1,,1,23,20,3,549.0
+2:33.0,P. Pritchard misses 2-pt jump shot from 13 ft,23-20, ,,1,23,20,3,567.0
+2:29.0, ,23-20,Defensive rebound by J. Jackson,,1,23,20,3,571.0
+2:15.0, ,23-23,D. Bane makes 3-pt jump shot from 25 ft,Tie,1,23,23,0,585.0
+2:06.0,Personal foul by Z. Williams (drawn by K. Porziņģis),23-23, ,,1,23,23,0,594.0
+2:06.0,K. Porziņģis makes free throw 1 of 2,24-23, ,,1,24,23,1,594.0
+2:06.0, ,24-23,J. Gilyard enters the game for J. Jackson,,1,24,23,1,594.0
+2:06.0,K. Porziņģis misses free throw 2 of 2,24-23, ,,1,24,23,1,594.0
+2:04.0, ,24-23,Defensive rebound by S. Aldama,,1,24,23,1,596.0
+1:54.0, ,24-25,S. Aldama makes 2-pt jump shot from 3 ft (assist by Z. Williams),Lead change,1,24,25,-1,606.0
+1:39.0,J. Tatum misses 2-pt layup from 2 ft,24-25, ,,1,24,25,-1,621.0
+1:34.0,Offensive rebound by J. Holiday,24-25, ,,1,24,25,-1,626.0
+1:29.0,J. Holiday misses 3-pt jump shot from 25 ft,24-25, ,,1,24,25,-1,631.0
+1:25.0,Offensive rebound by J. Tatum,24-25, ,,1,24,25,-1,635.0
+1:25.0,J. Tatum misses 2-pt layup at rim,24-25, ,,1,24,25,-1,635.0
+1:22.0,Offensive rebound by J. Tatum,24-25, ,,1,24,25,-1,638.0
+1:22.0,J. Tatum misses 2-pt layup at rim,24-25, ,,1,24,25,-1,638.0
+1:21.0, ,24-25,Defensive rebound by Z. Williams,,1,24,25,-1,639.0
+1:16.0, ,24-25,D. Bane misses 2-pt layup from 3 ft (block by K. Porziņģis),,1,24,25,-1,644.0
+1:16.0,Defensive rebound by K. Porziņģis,24-25, ,,1,24,25,-1,644.0
+1:09.0,A. Horford misses 3-pt jump shot from 23 ft,24-25, ,,1,24,25,-1,651.0
+1:06.0, ,24-25,Defensive rebound by Z. Williams,,1,24,25,-1,654.0
+0:58.0, ,24-27,S. Aldama makes 2-pt dunk from 1 ft (assist by Z. Williams),,1,24,27,-3,662.0
+0:43.0, ,24-27,Violation by Team (kicked ball),,1,24,27,-3,677.0
+0:36.0,J. Tatum makes 2-pt dunk from 1 ft,26-27, ,,1,26,27,-1,684.0
+0:15.0, ,26-27,S. Aldama misses 2-pt jump shot from 8 ft,,1,26,27,-1,705.0
+0:12.0,Defensive rebound by J. Tatum,26-27, ,,1,26,27,-1,708.0
+0:00.0,P. Pritchard misses 3-pt jump shot from 32 ft,26-27, ,,1,26,27,-1,720.0
+0:00.0,Offensive rebound by Team,26-27, ,,1,26,27,-1,720.0
+0:00.0,End of 1st quarter,26-27,,,1,26,27,-1,720.0
+12:00.0,Start of 2nd quarter,26-27,,,2,26,27,-1,720.0
+11:38.0, ,26-27,J. Jackson misses 2-pt hook shot from 9 ft,,2,26,27,-1,742.0
+11:35.0,Defensive rebound by J. Tatum,26-27, ,,2,26,27,-1,745.0
+11:26.0,A. Horford misses 3-pt jump shot from 25 ft,26-27, ,,2,26,27,-1,754.0
+11:23.0, ,26-27,Defensive rebound by J. Gilyard,,2,26,27,-1,757.0
+11:09.0, ,26-27,Z. Williams misses 3-pt jump shot from 25 ft,,2,26,27,-1,771.0
+11:08.0,Defensive rebound by Team,26-27, ,,2,26,27,-1,772.0
+10:51.0,P. Pritchard misses 2-pt jump shot from 22 ft,26-27, ,,2,26,27,-1,789.0
+10:50.0, ,26-27,Defensive rebound by S. Aldama,,2,26,27,-1,790.0
+10:27.0, ,26-27,S. Aldama misses 3-pt jump shot from 24 ft,,2,26,27,-1,813.0
+10:25.0,Defensive rebound by P. Pritchard,26-27, ,,2,26,27,-1,815.0
+10:14.0,Turnover by J. Tatum (lost ball; steal by J. Gilyard),26-27, ,,2,26,27,-1,826.0
+10:03.0, ,26-27,Z. Williams misses 2-pt jump shot from 10 ft,,2,26,27,-1,837.0
+9:59.0, ,26-27,Offensive rebound by J. Gilyard,,2,26,27,-1,841.0
+9:51.0, ,26-27,S. Aldama misses 2-pt jump shot from 10 ft,,2,26,27,-1,849.0
+9:47.0,Defensive rebound by S. Hauser,26-27, ,,2,26,27,-1,853.0
+9:40.0,P. Pritchard makes 2-pt jump shot from 23 ft,28-27, ,Lead change,2,28,27,1,860.0
+9:21.0, ,28-27,S. Aldama misses 3-pt jump shot from 26 ft,,2,28,27,1,879.0
+9:19.0,Defensive rebound by J. Holiday,28-27, ,,2,28,27,1,881.0
+9:19.0, ,28-27,V. Williams enters the game for Z. Williams,,2,28,27,1,881.0
+9:14.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by J. Tatum),31-27, ,,2,31,27,4,886.0
+9:00.0, ,31-27,J. Gilyard misses 3-pt jump shot from 25 ft,,2,31,27,4,900.0
+8:57.0,Defensive rebound by J. Tatum,31-27, ,,2,31,27,4,903.0
+8:49.0,A. Horford makes 2-pt layup from 1 ft (assist by P. Pritchard),33-27, ,,2,33,27,6,911.0
+8:49.0, ,33-27,Memphis full timeout,,2,33,27,6,911.0
+8:49.0, ,33-27,B. Biyombo enters the game for S. Aldama,,2,33,27,6,911.0
+8:34.0, ,33-27,Shooting foul by A. Horford (drawn by J. Jackson),,2,33,27,6,926.0
+8:34.0, ,33-27,J. Jackson misses free throw 1 of 2,,2,33,27,6,926.0
+8:34.0, ,33-27,Offensive rebound by Team,,2,33,27,6,926.0
+8:34.0, ,33-28,J. Jackson makes free throw 2 of 2,,2,33,28,5,926.0
+8:12.0,Shooting foul by B. Biyombo (drawn by P. Pritchard),33-28, ,,2,33,28,5,948.0
+8:12.0,P. Pritchard makes free throw 1 of 2,34-28, ,,2,34,28,6,948.0
+8:12.0, ,34-28,S. Aldama enters the game for B. Biyombo,,2,34,28,6,948.0
+8:12.0,P. Pritchard misses free throw 2 of 2,34-28, ,,2,34,28,6,948.0
+8:10.0, ,34-28,Defensive rebound by J. Jackson,,2,34,28,6,950.0
+7:58.0, ,34-30,S. Aldama makes 2-pt jump shot from 8 ft (assist by J. Gilyard),,2,34,30,4,962.0
+7:43.0,Offensive foul by J. Tatum (drawn by S. Aldama),34-30, ,,2,34,30,4,977.0
+7:43.0,Turnover by J. Tatum (offensive foul),34-30, ,,2,34,30,4,977.0
+7:43.0,J. Brown enters the game for P. Pritchard,34-30, ,,2,34,30,4,977.0
+7:43.0,D. White enters the game for J. Tatum,34-30, ,,2,34,30,4,977.0
+7:27.0, ,34-30,Shooting foul by J. Brown (drawn by J. Jackson),,2,34,30,4,993.0
+7:27.0, ,34-31,J. Jackson makes free throw 1 of 2,,2,34,31,3,993.0
+7:27.0, ,34-32,J. Jackson makes free throw 2 of 2,,2,34,32,2,993.0
+7:14.0,J. Brown misses 3-pt jump shot from 26 ft,34-32, ,,2,34,32,2,1006.0
+7:12.0, ,34-32,Defensive rebound by S. Aldama,,2,34,32,2,1008.0
+7:06.0, ,34-35,S. Aldama makes 3-pt jump shot from 27 ft (assist by J. Gilyard),Lead change,2,34,35,-1,1014.0
+6:53.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by A. Horford),37-35, ,Lead change,2,37,35,2,1027.0
+6:44.0, ,37-35,Turnover by J. Gilyard (palming),,2,37,35,2,1036.0
+6:33.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by J. Brown),40-35, ,,2,40,35,5,1047.0
+6:07.0, ,40-38,J. Gilyard makes 3-pt jump shot from 25 ft (assist by S. Aldama),,2,40,38,2,1073.0
+5:47.0,S. Hauser misses 3-pt jump shot from 24 ft,40-38, ,,2,40,38,2,1093.0
+5:43.0, ,40-38,Defensive rebound by D. Roddy,,2,40,38,2,1097.0
+5:30.0, ,40-38,Offensive foul by J. Jackson (drawn by J. Holiday),,2,40,38,2,1110.0
+5:30.0, ,40-38,Turnover by J. Jackson (offensive foul),,2,40,38,2,1110.0
+5:30.0,K. Porziņģis enters the game for A. Horford,40-38, ,,2,40,38,2,1110.0
+5:30.0, ,40-38,D. Bane enters the game for J. Gilyard,,2,40,38,2,1110.0
+5:30.0, ,40-38,J. Konchar enters the game for J. Jackson,,2,40,38,2,1110.0
+5:30.0, ,40-38,K. Lofton enters the game for D. Roddy,,2,40,38,2,1110.0
+5:17.0,J. Brown makes 2-pt dunk at rim (assist by K. Porziņģis),42-38, ,,2,42,38,4,1123.0
+5:03.0, ,42-38,K. Lofton misses 2-pt jump shot from 15 ft,,2,42,38,4,1137.0
+4:59.0,Defensive rebound by J. Holiday,42-38, ,,2,42,38,4,1141.0
+4:53.0,J. Brown misses 3-pt jump shot from 23 ft,42-38, ,,2,42,38,4,1147.0
+4:49.0, ,42-38,Defensive rebound by J. Konchar,,2,42,38,4,1151.0
+4:45.0, ,42-38,S. Aldama misses 3-pt jump shot from 25 ft,,2,42,38,4,1155.0
+4:43.0, ,42-38,Offensive rebound by S. Aldama,,2,42,38,4,1157.0
+4:39.0, ,42-38,S. Aldama misses 2-pt jump shot from 6 ft,,2,42,38,4,1161.0
+4:36.0, ,42-38,Offensive rebound by S. Aldama,,2,42,38,4,1164.0
+4:33.0, ,42-40,D. Bane makes 2-pt jump shot from 10 ft (assist by S. Aldama),,2,42,40,2,1167.0
+4:31.0,Boston full timeout,42-40, ,,2,42,40,2,1169.0
+4:31.0,J. Tatum enters the game for J. Holiday,42-40, ,,2,42,40,2,1169.0
+4:31.0, ,42-40,Z. Williams enters the game for V. Williams,,2,42,40,2,1169.0
+4:18.0,J. Tatum makes 2-pt layup from 6 ft,44-40, ,,2,44,40,4,1182.0
+4:03.0, ,44-40,Turnover by K. Lofton (lost ball; steal by S. Hauser),,2,44,40,4,1197.0
+4:01.0,Shooting foul by Z. Williams (drawn by J. Tatum),44-40, ,,2,44,40,4,1199.0
+4:01.0,J. Tatum makes free throw 1 of 2,45-40, ,,2,45,40,5,1199.0
+4:01.0,J. Tatum makes free throw 2 of 2,46-40, ,,2,46,40,6,1199.0
+3:46.0, ,46-40,S. Aldama misses 2-pt layup from 2 ft (block by J. Tatum),,2,46,40,6,1214.0
+3:41.0,Defensive rebound by D. White,46-40, ,,2,46,40,6,1219.0
+3:38.0,D. White makes 2-pt layup from 6 ft,48-40, ,,2,48,40,8,1222.0
+3:27.0, ,48-40,D. Bane misses 3-pt jump shot from 25 ft,,2,48,40,8,1233.0
+3:25.0,Defensive rebound by K. Porziņģis,48-40, ,,2,48,40,8,1235.0
+3:16.0,J. Tatum makes 2-pt layup from 1 ft,50-40, ,,2,50,40,10,1244.0
+3:07.0, ,50-42,K. Lofton makes 2-pt dunk from 1 ft (assist by D. Bane),,2,50,42,8,1253.0
+2:50.0,Offensive foul by J. Tatum (drawn by Z. Williams),50-42, ,,2,50,42,8,1270.0
+2:50.0,Turnover by J. Tatum (offensive foul),50-42, ,,2,50,42,8,1270.0
+2:50.0, ,50-42,Memphis full timeout,,2,50,42,8,1270.0
+2:50.0, ,50-42,Instant Replay (Challenge: Ruling Stands),,2,50,42,8,1270.0
+2:50.0,J. Holiday enters the game for S. Hauser,50-42, ,,2,50,42,8,1270.0
+2:50.0, ,50-42,J. Jackson enters the game for J. Konchar,,2,50,42,8,1270.0
+2:50.0, ,50-42,D. Roddy enters the game for K. Lofton,,2,50,42,8,1270.0
+2:50.0, ,50-42,V. Williams enters the game for Z. Williams,,2,50,42,8,1270.0
+2:39.0, ,50-42,D. Bane misses 2-pt jump shot from 10 ft (block by D. White),,2,50,42,8,1281.0
+2:39.0, ,50-42,Offensive rebound by Team,,2,50,42,8,1281.0
+2:35.0, ,50-45,V. Williams makes 3-pt jump shot from 25 ft (assist by D. Bane),,2,50,45,5,1285.0
+2:20.0,K. Porziņģis makes 2-pt layup from 1 ft (assist by J. Tatum),52-45, ,,2,52,45,7,1300.0
+2:07.0, ,52-45,Personal foul by J. Holiday (drawn by V. Williams),,2,52,45,7,1313.0
+2:05.0, ,52-45,V. Williams misses 3-pt jump shot from 24 ft,,2,52,45,7,1315.0
+2:01.0, ,52-45,Offensive rebound by S. Aldama,,2,52,45,7,1319.0
+2:01.0, ,52-47,S. Aldama makes 2-pt dunk at rim,,2,52,47,5,1319.0
+1:49.0,J. Tatum misses 2-pt layup at rim,52-47, ,,2,52,47,5,1331.0
+1:49.0, ,52-47,Defensive rebound by D. Roddy,,2,52,47,5,1331.0
+1:39.0, ,52-50,S. Aldama makes 3-pt jump shot from 22 ft (assist by D. Bane),,2,52,50,2,1341.0
+1:19.0,Personal foul by J. Jackson (drawn by D. White),52-50, ,,2,52,50,2,1361.0
+1:19.0, ,52-50,J. Gilyard enters the game for J. Jackson,,2,52,50,2,1361.0
+1:09.0,J. Brown misses 2-pt layup from 2 ft,52-50, ,,2,52,50,2,1371.0
+1:09.0, ,52-50,Defensive rebound by Team,,2,52,50,2,1371.0
+1:09.0,Loose ball foul by K. Porziņģis (drawn by D. Bane),52-50, ,,2,52,50,2,1371.0
+0:47.0, ,52-50,D. Bane misses 2-pt jump shot from 22 ft,,2,52,50,2,1393.0
+0:45.0,Defensive rebound by J. Brown,52-50, ,,2,52,50,2,1395.0
+0:41.0,D. White misses 2-pt layup from 5 ft (block by V. Williams),52-50, ,,2,52,50,2,1399.0
+0:41.0,Offensive rebound by Team,52-50, ,,2,52,50,2,1399.0
+0:32.0,J. Tatum makes 2-pt jump shot from 11 ft,54-50, ,,2,54,50,4,1408.0
+0:11.0, ,54-53,D. Bane makes 3-pt jump shot from 25 ft (assist by J. Gilyard),,2,54,53,1,1429.0
+0:00.0,Personal foul by V. Williams (drawn by K. Porziņģis),54-53, ,,2,54,53,1,1440.0
+0:00.0,K. Porziņģis makes free throw 1 of 2,55-53, ,,2,55,53,2,1440.0
+0:00.0,K. Porziņģis makes free throw 2 of 2,56-53, ,,2,56,53,3,1440.0
+0:00.0,End of 2nd quarter,56-53,,,2,56,53,3,1440.0
+12:00.0,Start of 3rd quarter,56-53,,,3,56,53,3,1440.0
+11:46.0, ,56-53,Turnover by D. Bane (traveling),,3,56,53,3,1454.0
+11:33.0,J. Holiday misses 2-pt jump shot from 13 ft,56-53, ,,3,56,53,3,1467.0
+11:30.0, ,56-53,Defensive rebound by B. Biyombo,,3,56,53,3,1470.0
+11:23.0, ,56-55,B. Biyombo makes 2-pt hook shot from 6 ft (assist by D. Bane),,3,56,55,1,1477.0
+11:10.0,D. White misses 2-pt hook shot from 5 ft,56-55, ,,3,56,55,1,1490.0
+11:09.0, ,56-55,Defensive rebound by Team,,3,56,55,1,1491.0
+11:09.0,Loose ball foul by D. White (drawn by S. Aldama),56-55, ,,3,56,55,1,1491.0
+10:53.0, ,56-57,D. Bane makes 2-pt jump shot from 16 ft (assist by S. Aldama),Lead change,3,56,57,-1,1507.0
+10:39.0,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Brown),58-57, ,Lead change,3,58,57,1,1521.0
+10:25.0, ,58-57,Turnover by D. Bane (bad pass; steal by K. Porziņģis),,3,58,57,1,1535.0
+10:12.0,Offensive foul by J. Brown (drawn by J. Jackson),58-57, ,,3,58,57,1,1548.0
+10:12.0,Turnover by J. Brown (offensive foul),58-57, ,,3,58,57,1,1548.0
+10:00.0, ,58-59,J. Jackson makes 2-pt layup from 2 ft (assist by D. Bane),Lead change,3,58,59,-1,1560.0
+9:48.0,J. Tatum makes 2-pt dunk from 1 ft,60-59, ,Lead change,3,60,59,1,1572.0
+9:42.0, ,60-59,S. Aldama misses 3-pt jump shot from 26 ft,,3,60,59,1,1578.0
+9:37.0,Defensive rebound by J. Brown,60-59, ,,3,60,59,1,1583.0
+9:29.0,K. Porziņģis makes 2-pt dunk at rim (assist by J. Tatum),62-59, ,,3,62,59,3,1591.0
+9:29.0, ,62-59,Memphis full timeout,,3,62,59,3,1591.0
+9:05.0, ,62-59,D. Bane misses 2-pt layup from 5 ft,,3,62,59,3,1615.0
+9:05.0, ,62-59,Offensive rebound by B. Biyombo,,3,62,59,3,1615.0
+9:05.0, ,62-59,Turnover by Team (shot clock),,3,62,59,3,1615.0
+8:53.0,J. Brown misses 3-pt jump shot from 25 ft,62-59, ,,3,62,59,3,1627.0
+8:52.0,Offensive rebound by K. Porziņģis,62-59, ,,3,62,59,3,1628.0
+8:45.0,J. Brown makes 3-pt jump shot from 26 ft (assist by J. Holiday),65-59, ,,3,65,59,6,1635.0
+8:24.0, ,65-59,J. Konchar misses 2-pt jump shot from 2 ft,,3,65,59,6,1656.0
+8:22.0,Defensive rebound by J. Tatum,65-59, ,,3,65,59,6,1658.0
+8:15.0,J. Brown misses 2-pt layup from 2 ft,65-59, ,,3,65,59,6,1665.0
+8:12.0, ,65-59,Defensive rebound by J. Jackson,,3,65,59,6,1668.0
+8:06.0, ,65-61,S. Aldama makes 2-pt dunk from 1 ft (assist by D. Bane),,3,65,61,4,1674.0
+7:58.0,Technical foul by J. Brown,65-61, ,,3,65,61,4,1682.0
+7:58.0, ,65-62,D. Bane makes technical free throw,,3,65,62,3,1682.0
+7:53.0,Personal foul by B. Biyombo (drawn by J. Holiday),65-62, ,,3,65,62,3,1687.0
+7:40.0,Shooting foul by J. Konchar (drawn by K. Porziņģis),65-62, ,,3,65,62,3,1700.0
+7:40.0,K. Porziņģis makes free throw 1 of 2,66-62, ,,3,66,62,4,1700.0
+7:40.0,K. Porziņģis makes free throw 2 of 2,67-62, ,,3,67,62,5,1700.0
+7:26.0, ,67-62,D. Bane misses 2-pt jump shot from 19 ft,,3,67,62,5,1714.0
+7:22.0,Defensive rebound by J. Holiday,67-62, ,,3,67,62,5,1718.0
+7:17.0,J. Brown misses 2-pt jump shot from 1 ft,67-62, ,,3,67,62,5,1723.0
+7:13.0, ,67-62,Defensive rebound by S. Aldama,,3,67,62,5,1727.0
+7:10.0, ,67-64,J. Konchar makes 2-pt layup from 2 ft (assist by S. Aldama),,3,67,64,3,1730.0
+7:10.0,Boston full timeout,67-64, ,,3,67,64,3,1730.0
+7:10.0,S. Hauser enters the game for J. Brown,67-64, ,,3,67,64,3,1730.0
+7:10.0,A. Horford enters the game for J. Holiday,67-64, ,,3,67,64,3,1730.0
+7:10.0,P. Pritchard enters the game for J. Tatum,67-64, ,,3,67,64,3,1730.0
+6:56.0,Personal foul by B. Biyombo (drawn by K. Porziņģis),67-64, ,,3,67,64,3,1744.0
+6:56.0, ,67-64,D. Roddy enters the game for B. Biyombo,,3,67,64,3,1744.0
+6:45.0,P. Pritchard makes 3-pt jump shot from 27 ft (assist by A. Horford),70-64, ,,3,70,64,6,1755.0
+6:30.0, ,70-64,D. Roddy misses 3-pt jump shot from 24 ft,,3,70,64,6,1770.0
+6:26.0,Defensive rebound by S. Hauser,70-64, ,,3,70,64,6,1774.0
+6:19.0,K. Porziņģis misses 3-pt jump shot from 26 ft,70-64, ,,3,70,64,6,1781.0
+6:17.0,Offensive rebound by A. Horford,70-64, ,,3,70,64,6,1783.0
+6:13.0,D. White misses 3-pt jump shot from 25 ft,70-64, ,,3,70,64,6,1787.0
+6:09.0, ,70-64,Defensive rebound by Team,,3,70,64,6,1791.0
+6:07.0,Jump ball: J. Konchar vs. A. Horford (D. Roddy gains possession),70-64,,,3,70,64,6,1793.0
+5:56.0, ,70-64,J. Jackson misses 2-pt layup from 1 ft,,3,70,64,6,1804.0
+5:52.0,Defensive rebound by P. Pritchard,70-64, ,,3,70,64,6,1808.0
+5:49.0,S. Hauser misses 2-pt layup from 1 ft (block by J. Konchar),70-64, ,,3,70,64,6,1811.0
+5:49.0,Offensive rebound by Team,70-64, ,,3,70,64,6,1811.0
+5:49.0,Personal foul by J. Jackson (drawn by K. Porziņģis),70-64, ,,3,70,64,6,1811.0
+5:49.0, ,70-64,Z. Williams enters the game for J. Jackson,,3,70,64,6,1811.0
+5:43.0,Offensive foul by K. Porziņģis (drawn by D. Roddy),70-64, ,,3,70,64,6,1817.0
+5:43.0,Turnover by K. Porziņģis (offensive foul),70-64, ,,3,70,64,6,1817.0
+5:24.0, ,70-64,Z. Williams misses 2-pt dunk from 2 ft (block by K. Porziņģis),,3,70,64,6,1836.0
+5:19.0,Defensive rebound by S. Hauser,70-64, ,,3,70,64,6,1841.0
+5:17.0,Offensive foul by K. Porziņģis (drawn by J. Konchar),70-64, ,,3,70,64,6,1843.0
+5:17.0,Turnover by K. Porziņģis (offensive foul),70-64, ,,3,70,64,6,1843.0
+5:17.0,N. Queta enters the game for K. Porziņģis,70-64, ,,3,70,64,6,1843.0
+4:57.0, ,70-64,D. Bane misses 3-pt jump shot from 26 ft,,3,70,64,6,1863.0
+4:54.0,Defensive rebound by P. Pritchard,70-64, ,,3,70,64,6,1866.0
+4:49.0,Shooting foul by J. Konchar (drawn by D. White),70-64, ,,3,70,64,6,1871.0
+4:49.0,D. White makes free throw 1 of 2,71-64, ,,3,71,64,7,1871.0
+4:49.0, ,71-64,K. Lofton enters the game for J. Konchar,,3,71,64,7,1871.0
+4:49.0,D. White makes free throw 2 of 2,72-64, ,,3,72,64,8,1871.0
+4:29.0, ,72-66,Z. Williams makes 2-pt jump shot from 7 ft,,3,72,66,6,1891.0
+4:12.0,D. White makes 3-pt jump shot from 25 ft,75-66, ,,3,75,66,9,1908.0
+3:51.0, ,75-66,S. Aldama misses 3-pt jump shot from 23 ft,,3,75,66,9,1929.0
+3:48.0,Defensive rebound by A. Horford,75-66, ,,3,75,66,9,1932.0
+3:40.0,D. White misses 3-pt jump shot from 26 ft,75-66, ,,3,75,66,9,1940.0
+3:37.0, ,75-66,Defensive rebound by K. Lofton,,3,75,66,9,1943.0
+3:28.0, ,75-69,S. Aldama makes 3-pt jump shot from 27 ft (assist by K. Lofton),,3,75,69,6,1952.0
+3:11.0,D. White misses 2-pt jump shot from 9 ft,75-69, ,,3,75,69,6,1969.0
+3:08.0, ,75-69,Defensive rebound by Z. Williams,,3,75,69,6,1972.0
+3:01.0, ,75-69,K. Lofton misses 2-pt jump shot from 16 ft,,3,75,69,6,1979.0
+2:58.0,Defensive rebound by N. Queta,75-69, ,,3,75,69,6,1982.0
+2:39.0,Turnover by P. Pritchard (bad pass; steal by S. Aldama),75-69, ,,3,75,69,6,2001.0
+2:31.0, ,75-69,D. Roddy misses 3-pt jump shot from 26 ft,,3,75,69,6,2009.0
+2:29.0,Defensive rebound by S. Hauser,75-69, ,,3,75,69,6,2011.0
+2:14.0,A. Horford misses 2-pt jump shot from 12 ft,75-69, ,,3,75,69,6,2026.0
+2:10.0, ,75-69,Defensive rebound by S. Aldama,,3,75,69,6,2030.0
+1:55.0, ,75-69,D. Bane misses 3-pt jump shot from 26 ft,,3,75,69,6,2045.0
+1:54.0,Defensive rebound by N. Queta,75-69, ,,3,75,69,6,2046.0
+1:46.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by D. White),78-69, ,,3,78,69,9,2054.0
+1:22.0, ,78-71,Z. Williams makes 2-pt layup from 1 ft (assist by D. Bane),,3,78,71,7,2078.0
+1:07.0,Offensive foul by D. White (drawn by D. Bane),78-71, ,,3,78,71,7,2093.0
+1:07.0,Turnover by D. White (offensive foul),78-71, ,,3,78,71,7,2093.0
+1:07.0, ,78-71,V. Williams enters the game for D. Roddy,,3,78,71,7,2093.0
+0:51.0, ,78-71,Shooting foul by N. Queta (drawn by K. Lofton),,3,78,71,7,2109.0
+0:51.0, ,78-72,K. Lofton makes free throw 1 of 2,,3,78,72,6,2109.0
+0:51.0, ,78-73,K. Lofton makes free throw 2 of 2,,3,78,73,5,2109.0
+0:44.0,Personal foul by D. Bane (drawn by P. Pritchard),78-73, ,,3,78,73,5,2116.0
+0:44.0,P. Pritchard misses free throw 1 of 2,78-73, ,,3,78,73,5,2116.0
+0:44.0,Offensive rebound by Team,78-73, ,,3,78,73,5,2116.0
+0:44.0,P. Pritchard makes free throw 2 of 2,79-73, ,,3,79,73,6,2116.0
+0:30.0, ,79-76,S. Aldama makes 3-pt jump shot from 25 ft (assist by Z. Williams),,3,79,76,3,2130.0
+0:08.0,N. Queta misses 2-pt hook shot from 8 ft,79-76, ,,3,79,76,3,2152.0
+0:04.0, ,79-76,Defensive rebound by K. Lofton,,3,79,76,3,2156.0
+0:01.0, ,79-76,Turnover by K. Lofton (bad pass; steal by S. Hauser),,3,79,76,3,2159.0
+0:00.0,S. Hauser misses 3-pt jump shot from 70 ft,79-76, ,,3,79,76,3,2160.0
+0:00.0,Offensive rebound by Team,79-76, ,,3,79,76,3,2160.0
+0:00.0,End of 3rd quarter,79-76,,,3,79,76,3,2160.0
+12:00.0,Start of 4th quarter,79-76,,,4,79,76,3,2160.0
+11:51.0,Turnover by J. Tatum (bad pass),79-76, ,,4,79,76,3,2169.0
+11:36.0, ,79-76,Personal foul by L. Stevens (drawn by J. Jackson),,4,79,76,3,2184.0
+11:29.0, ,79-76,Z. Williams misses 3-pt jump shot from 27 ft,,4,79,76,3,2191.0
+11:26.0, ,79-76,Offensive rebound by J. Jackson,,4,79,76,3,2194.0
+11:13.0, ,79-79,V. Williams makes 3-pt jump shot from 25 ft (assist by Z. Williams),Tie,4,79,79,0,2207.0
+11:00.0,A. Horford makes 3-pt jump shot from 25 ft (assist by J. Holiday),82-79, ,,4,82,79,3,2220.0
+10:40.0, ,82-79,V. Williams misses 2-pt jump shot from 7 ft,,4,82,79,3,2240.0
+10:37.0,Defensive rebound by L. Stevens,82-79, ,,4,82,79,3,2243.0
+10:21.0,J. Holiday misses 2-pt layup from 2 ft,82-79, ,,4,82,79,3,2259.0
+10:19.0, ,82-79,Defensive rebound by J. Jackson,,4,82,79,3,2261.0
+10:13.0, ,82-81,J. Jackson makes 2-pt layup from 1 ft,,4,82,81,1,2267.0
+9:59.0,J. Brown misses 2-pt layup from 5 ft (block by V. Williams),82-81, ,,4,82,81,1,2281.0
+9:56.0,Offensive rebound by A. Horford,82-81, ,,4,82,81,1,2284.0
+9:50.0,Turnover by J. Tatum (bad pass; steal by J. Gilyard),82-81, ,,4,82,81,1,2290.0
+9:44.0, ,82-83,K. Lofton makes 2-pt dunk from 1 ft (assist by J. Gilyard),Lead change,4,82,83,-1,2296.0
+9:19.0,Shooting foul by J. Gilyard (drawn by J. Holiday),82-83, ,,4,82,83,-1,2321.0
+9:19.0,J. Holiday makes free throw 1 of 2,83-83, ,Tie,4,83,83,0,2321.0
+9:19.0,S. Hauser enters the game for A. Horford,83-83, ,,4,83,83,0,2321.0
+9:19.0,K. Porziņģis enters the game for L. Stevens,83-83, ,,4,83,83,0,2321.0
+9:19.0, ,83-83,B. Biyombo enters the game for K. Lofton,,4,83,83,0,2321.0
+9:19.0,J. Holiday makes free throw 2 of 2,84-83, ,Lead change,4,84,83,1,2321.0
+9:01.0, ,84-86,J. Jackson makes 3-pt jump shot from 26 ft (assist by J. Gilyard),Lead change,4,84,86,-2,2339.0
+8:45.0,J. Brown misses 3-pt jump shot from 25 ft,84-86, ,,4,84,86,-2,2355.0
+8:42.0, ,84-86,Defensive rebound by J. Jackson,,4,84,86,-2,2358.0
+8:22.0, ,84-86,J. Jackson misses 2-pt jump shot from 2 ft,,4,84,86,-2,2378.0
+8:20.0,Defensive rebound by K. Porziņģis,84-86, ,,4,84,86,-2,2380.0
+8:10.0,K. Porziņģis misses 2-pt layup from 3 ft,84-86, ,,4,84,86,-2,2390.0
+8:07.0,Offensive rebound by J. Holiday,84-86, ,,4,84,86,-2,2393.0
+8:03.0,J. Brown makes 2-pt layup from 1 ft (assist by J. Holiday),86-86, ,Tie,4,86,86,0,2397.0
+7:37.0, ,86-86,B. Biyombo misses 2-pt hook shot from 3 ft,,4,86,86,0,2423.0
+7:37.0, ,86-86,Offensive rebound by Team,,4,86,86,0,2423.0
+7:37.0, ,86-86,Turnover by Team (shot clock),,4,86,86,0,2423.0
+7:28.0,J. Tatum makes 3-pt jump shot from 25 ft,89-86, ,Lead change,4,89,86,3,2432.0
+7:20.0, ,89-86,Memphis full timeout,,4,89,86,3,2440.0
+7:20.0, ,89-86,D. Bane enters the game for B. Biyombo,,4,89,86,3,2440.0
+7:20.0, ,89-86,J. Konchar enters the game for J. Gilyard,,4,89,86,3,2440.0
+7:20.0, ,89-86,K. Lofton enters the game for Z. Williams,,4,89,86,3,2440.0
+7:05.0, ,89-86,K. Lofton misses 3-pt jump shot from 25 ft,,4,89,86,3,2455.0
+7:01.0,Defensive rebound by J. Holiday,89-86, ,,4,89,86,3,2459.0
+6:49.0,Offensive foul by J. Tatum (drawn by K. Lofton),89-86, ,,4,89,86,3,2471.0
+6:49.0,Turnover by J. Tatum (offensive foul),89-86, ,,4,89,86,3,2471.0
+6:35.0, ,89-86,D. Bane misses 2-pt jump shot from 19 ft,,4,89,86,3,2485.0
+6:32.0,Defensive rebound by J. Brown,89-86, ,,4,89,86,3,2488.0
+6:25.0,J. Brown misses 3-pt jump shot from 26 ft,89-86, ,,4,89,86,3,2495.0
+6:21.0, ,89-86,Defensive rebound by J. Konchar,,4,89,86,3,2499.0
+6:13.0, ,89-86,Turnover by J. Jackson (bad pass; steal by J. Brown),,4,89,86,3,2507.0
+6:11.0,Shooting foul by J. Jackson (drawn by J. Tatum),89-86, ,,4,89,86,3,2509.0
+6:11.0,J. Tatum makes free throw 1 of 2,90-86, ,,4,90,86,4,2509.0
+6:11.0,D. White enters the game for S. Hauser,90-86, ,,4,90,86,4,2509.0
+6:11.0, ,90-86,S. Aldama enters the game for J. Jackson,,4,90,86,4,2509.0
+6:11.0,J. Tatum misses free throw 2 of 2,90-86, ,,4,90,86,4,2509.0
+6:09.0, ,90-86,Defensive rebound by S. Aldama,,4,90,86,4,2511.0
+5:49.0, ,90-86,S. Aldama misses 3-pt jump shot from 26 ft,,4,90,86,4,2531.0
+5:46.0, ,90-86,Offensive rebound by D. Bane,,4,90,86,4,2534.0
+5:44.0, ,90-86,D. Bane misses 3-pt jump shot from 25 ft,,4,90,86,4,2536.0
+5:44.0, ,90-86,Offensive rebound by S. Aldama,,4,90,86,4,2536.0
+5:37.0, ,90-86,Turnover by J. Konchar (lost ball; steal by J. Tatum),,4,90,86,4,2543.0
+5:33.0,J. Tatum makes 2-pt dunk from 1 ft (assist by D. White),92-86, ,,4,92,86,6,2547.0
+5:24.0, ,92-89,D. Bane makes 3-pt jump shot from 27 ft,,4,92,89,3,2556.0
+5:10.0,J. Holiday makes 3-pt jump shot from 26 ft,95-89, ,,4,95,89,6,2570.0
+4:49.0, ,95-89,S. Aldama misses 2-pt jump shot from 8 ft (block by J. Brown),,4,95,89,6,2591.0
+4:45.0,Defensive rebound by J. Brown,95-89, ,,4,95,89,6,2595.0
+4:44.0,Turnover by J. Brown (lost ball; steal by S. Aldama),95-89, ,,4,95,89,6,2596.0
+4:41.0, ,95-89,D. Bane misses 3-pt jump shot from 28 ft,,4,95,89,6,2599.0
+4:39.0, ,95-89,Offensive rebound by J. Konchar,,4,95,89,6,2601.0
+4:37.0, ,95-92,D. Bane makes 3-pt jump shot from 26 ft (assist by J. Konchar),,4,95,92,3,2603.0
+4:12.0,Personal foul by V. Williams (drawn by J. Brown),95-92, ,,4,95,92,3,2628.0
+4:12.0, ,95-92,J. Jackson enters the game for K. Lofton,,4,95,92,3,2628.0
+4:12.0, ,95-92,Z. Williams enters the game for V. Williams,,4,95,92,3,2628.0
+4:07.0,D. White makes 3-pt jump shot from 22 ft (assist by J. Holiday),98-92, ,,4,98,92,6,2633.0
+3:48.0, ,98-95,S. Aldama makes 3-pt jump shot from 25 ft (assist by J. Konchar),,4,98,95,3,2652.0
+3:33.0,Offensive foul by J. Tatum (drawn by Z. Williams),98-95, ,,4,98,95,3,2667.0
+3:33.0,Turnover by J. Tatum (offensive foul),98-95, ,,4,98,95,3,2667.0
+3:33.0, ,98-95,Memphis full timeout,,4,98,95,3,2667.0
+3:11.0, ,98-95,S. Aldama misses 2-pt layup from 2 ft,,4,98,95,3,2689.0
+3:05.0, ,98-95,Offensive rebound by Z. Williams,,4,98,95,3,2695.0
+3:05.0, ,98-97,Z. Williams makes 2-pt dunk at rim,,4,98,97,1,2695.0
+2:48.0,J. Holiday misses 3-pt jump shot from 25 ft,98-97, ,,4,98,97,1,2712.0
+2:45.0, ,98-97,Defensive rebound by S. Aldama,,4,98,97,1,2715.0
+2:37.0, ,98-97,Personal foul by J. Brown (drawn by S. Aldama),,4,98,97,1,2723.0
+2:23.0, ,98-97,S. Aldama misses 2-pt layup from 4 ft (block by K. Porziņģis),,4,98,97,1,2737.0
+2:20.0,Defensive rebound by J. Tatum,98-97, ,,4,98,97,1,2740.0
+2:04.0,K. Porziņģis misses 3-pt jump shot from 25 ft,98-97, ,,4,98,97,1,2756.0
+2:00.0, ,98-97,Defensive rebound by Z. Williams,,4,98,97,1,2760.0
+1:48.0, ,98-100,D. Bane makes 3-pt jump shot from 26 ft (assist by J. Jackson),Lead change,4,98,100,-2,2772.0
+1:33.0,Shooting foul by S. Aldama (drawn by K. Porziņģis),98-100, ,,4,98,100,-2,2787.0
+1:33.0,K. Porziņģis makes free throw 1 of 2,99-100, ,,4,99,100,-1,2787.0
+1:33.0,K. Porziņģis makes free throw 2 of 2,100-100, ,Tie,4,100,100,0,2787.0
+1:17.0, ,100-100,Turnover by S. Aldama (bad pass; steal by J. Brown),,4,100,100,0,2803.0
+1:11.0,Jump ball: D. White vs. D. Bane (J. Tatum gains possession),100-100,,,4,100,100,0,2809.0
+1:01.0,K. Porziņģis makes 2-pt dunk at rim (assist by J. Tatum),102-100, ,Lead change,4,102,100,2,2819.0
+0:37.0, ,102-100,D. Bane misses 2-pt jump shot from 22 ft,,4,102,100,2,2843.0
+0:34.0,Defensive rebound by D. White,102-100, ,,4,102,100,2,2846.0
+0:17.0,J. Tatum misses 2-pt jump shot from 22 ft,102-100, ,,4,102,100,2,2863.0
+0:14.0,Offensive rebound by D. White,102-100, ,,4,102,100,2,2866.0
+0:09.0,J. Holiday misses 2-pt dunk from 1 ft,102-100, ,,4,102,100,2,2871.0
+0:07.0, ,102-100,Defensive rebound by Z. Williams,,4,102,100,2,2873.0
+0:04.0, ,102-100,S. Aldama misses 3-pt jump shot from 26 ft,,4,102,100,2,2876.0
+0:00.0, ,102-100,Offensive rebound by Z. Williams,,4,102,100,2,2880.0
+0:00.0, ,102-100,Z. Williams misses 2-pt jump shot from 18 ft (block by K. Porziņģis),,4,102,100,2,2880.0
+0:00.0, ,102-100,Offensive rebound by Team,,4,102,100,2,2880.0
+0:00.0,End of 4th quarter,102-100,,,4,102,100,2,2880.0

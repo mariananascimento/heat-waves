@@ -1,0 +1,417 @@
+Time,Boston,Score,Utah,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: L. Kornet vs. J. Collins (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:44.0,L. Kornet makes 2-pt layup from 4 ft (assist by J. Holiday),2-0, ,,1,2,0,2,16.0
+11:28.0, ,2-3,K. George makes 3-pt jump shot from 26 ft (assist by B. Sensabaugh),Lead change,1,2,3,-1,32.0
+10:59.0,D. White misses 2-pt jump shot from 16 ft,2-3, ,,1,2,3,-1,61.0
+10:53.0, ,2-3,Defensive rebound by J. Collins,,1,2,3,-1,67.0
+10:43.0, ,2-3,Shooting foul by L. Kornet (drawn by J. Collins),,1,2,3,-1,77.0
+10:43.0, ,2-4,J. Collins makes free throw 1 of 2,,1,2,4,-2,77.0
+10:43.0, ,2-5,J. Collins makes free throw 2 of 2,,1,2,5,-3,77.0
+10:34.0,S. Hauser misses 3-pt jump shot from 25 ft,2-5, ,,1,2,5,-3,86.0
+10:30.0, ,2-5,Defensive rebound by L. Šamanić,,1,2,5,-3,90.0
+10:25.0, ,2-7,K. George makes 2-pt jump shot from 22 ft,,1,2,7,-5,95.0
+10:12.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by L. Kornet),5-7, ,,1,5,7,-2,108.0
+9:58.0, ,5-9,K. George makes 2-pt jump shot from 10 ft (assist by C. Sexton),,1,5,9,-4,122.0
+9:52.0,D. White makes 3-pt jump shot from 26 ft (assist by J. Holiday),8-9, ,,1,8,9,-1,128.0
+9:30.0, ,8-9,C. Sexton misses 3-pt jump shot from 24 ft,,1,8,9,-1,150.0
+9:26.0, ,8-9,Offensive rebound by C. Sexton,,1,8,9,-1,154.0
+9:25.0, ,8-9,Turnover by C. Sexton (bad pass; steal by S. Hauser),,1,8,9,-1,155.0
+9:19.0,J. Tatum makes 2-pt dunk from 4 ft (assist by S. Hauser),10-9, ,Lead change,1,10,9,1,161.0
+9:05.0, ,10-11,C. Sexton makes 2-pt layup from 4 ft,Lead change,1,10,11,-1,175.0
+9:05.0,Violation by Team (def goaltending),10-11, ,,1,10,11,-1,175.0
+8:50.0,J. Tatum makes 2-pt jump shot from 7 ft,12-11, ,Lead change,1,12,11,1,190.0
+8:42.0, ,12-11,Personal foul by J. Tatum (drawn by L. Šamanić),,1,12,11,1,198.0
+8:33.0, ,12-13,L. Šamanić makes 2-pt dunk from 3 ft (assist by C. Sexton),Lead change,1,12,13,-1,207.0
+8:16.0,D. White makes 3-pt jump shot from 25 ft (assist by L. Kornet),15-13, ,Lead change,1,15,13,2,224.0
+8:06.0, ,15-13,Offensive foul by C. Sexton (drawn by D. White),,1,15,13,2,234.0
+8:06.0, ,15-13,Turnover by C. Sexton (offensive foul),,1,15,13,2,234.0
+7:53.0,Shooting foul by K. George (drawn by J. Tatum),15-13, ,,1,15,13,2,247.0
+7:53.0, ,15-13,Utah full timeout,,1,15,13,2,247.0
+7:53.0, ,15-13,Instant Replay (Challenge: Ruling Stands),,1,15,13,2,247.0
+7:53.0,J. Tatum makes free throw 1 of 3,16-13, ,,1,16,13,3,247.0
+7:53.0,J. Tatum makes free throw 2 of 3,17-13, ,,1,17,13,4,247.0
+7:53.0,J. Tatum makes free throw 3 of 3,18-13, ,,1,18,13,5,247.0
+7:36.0, ,18-16,J. Collins makes 3-pt jump shot from 26 ft (assist by K. George),,1,18,16,2,264.0
+7:19.0,J. Tatum misses 2-pt jump shot from 17 ft,18-16, ,,1,18,16,2,281.0
+7:18.0,Offensive rebound by Team,18-16, ,,1,18,16,2,282.0
+7:15.0,D. White misses 3-pt jump shot from 23 ft,18-16, ,,1,18,16,2,285.0
+7:13.0, ,18-16,Defensive rebound by L. Šamanić,,1,18,16,2,287.0
+7:06.0, ,18-16,Turnover by J. Collins (off goaltending),,1,18,16,2,294.0
+6:54.0,S. Hauser makes 3-pt jump shot from 25 ft (assist by J. Holiday),21-16, ,,1,21,16,5,306.0
+6:44.0, ,21-16,Shooting foul by D. White (drawn by K. George),,1,21,16,5,316.0
+6:44.0, ,21-17,K. George makes free throw 1 of 2,,1,21,17,4,316.0
+6:44.0,O. Brissett enters the game for S. Hauser,21-17, ,,1,21,17,4,316.0
+6:44.0,P. Pritchard enters the game for J. Holiday,21-17, ,,1,21,17,4,316.0
+6:44.0, ,21-17,K. Dunn enters the game for B. Sensabaugh,,1,21,17,4,316.0
+6:44.0, ,21-17,K. George misses free throw 2 of 2,,1,21,17,4,316.0
+6:41.0,Defensive rebound by D. White,21-17, ,,1,21,17,4,319.0
+6:28.0,J. Tatum makes 3-pt jump shot from 26 ft,24-17, ,,1,24,17,7,332.0
+6:13.0, ,24-17,C. Sexton misses 2-pt jump shot from 11 ft,,1,24,17,7,347.0
+6:09.0,Defensive rebound by J. Tatum,24-17, ,,1,24,17,7,351.0
+6:06.0,P. Pritchard misses 2-pt layup from 3 ft (block by K. George),24-17, ,,1,24,17,7,354.0
+6:05.0, ,24-17,Defensive rebound by L. Šamanić,,1,24,17,7,355.0
+6:05.0, ,24-17,Personal foul by D. White (drawn by K. George),,1,24,17,7,355.0
+5:53.0, ,24-17,Shooting foul by L. Kornet (drawn by J. Collins),,1,24,17,7,367.0
+5:53.0, ,24-18,J. Collins makes free throw 1 of 2,,1,24,18,6,367.0
+5:53.0,J. Holiday enters the game for L. Kornet,24-18, ,,1,24,18,6,367.0
+5:53.0,X. Tillman enters the game for D. White,24-18, ,,1,24,18,6,367.0
+5:53.0, ,24-19,J. Collins makes free throw 2 of 2,,1,24,19,5,367.0
+5:33.0,P. Pritchard makes 3-pt jump shot from 24 ft,27-19, ,,1,27,19,8,387.0
+5:20.0, ,27-22,K. George makes 3-pt jump shot from 26 ft,,1,27,22,5,400.0
+5:00.0,P. Pritchard misses 3-pt jump shot from 25 ft,27-22, ,,1,27,22,5,420.0
+4:57.0,Offensive rebound by O. Brissett,27-22, ,,1,27,22,5,423.0
+4:55.0,J. Tatum misses 3-pt jump shot from 25 ft,27-22, ,,1,27,22,5,425.0
+4:51.0, ,27-22,Defensive rebound by K. Dunn,,1,27,22,5,429.0
+4:48.0, ,27-25,K. George makes 3-pt jump shot from 26 ft (assist by K. Dunn),,1,27,25,2,432.0
+4:47.0,Boston full timeout,27-25, ,,1,27,25,2,433.0
+4:47.0, ,27-25,J. Clarkson enters the game for J. Collins,,1,27,25,2,433.0
+4:47.0, ,27-25,W. Kessler enters the game for L. Šamanić,,1,27,25,2,433.0
+4:32.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by J. Holiday),30-25, ,,1,30,25,5,448.0
+4:15.0, ,30-27,C. Sexton makes 2-pt jump shot from 8 ft (assist by K. George),,1,30,27,3,465.0
+3:53.0,X. Tillman makes 3-pt jump shot from 24 ft (assist by J. Holiday),33-27, ,,1,33,27,6,487.0
+3:36.0, ,33-27,C. Sexton misses 2-pt layup from 6 ft (block by J. Tatum),,1,33,27,6,504.0
+3:34.0, ,33-27,Offensive rebound by C. Sexton,,1,33,27,6,506.0
+3:33.0, ,33-27,K. Dunn misses 3-pt jump shot from 25 ft,,1,33,27,6,507.0
+3:30.0,Defensive rebound by J. Holiday,33-27, ,,1,33,27,6,510.0
+3:23.0,J. Holiday misses 3-pt jump shot from 26 ft,33-27, ,,1,33,27,6,517.0
+3:20.0, ,33-27,Defensive rebound by W. Kessler,,1,33,27,6,520.0
+3:10.0, ,33-27,J. Clarkson misses 3-pt jump shot from 27 ft,,1,33,27,6,530.0
+3:09.0, ,33-27,Offensive rebound by Team,,1,33,27,6,531.0
+3:09.0, ,33-27,T. Horton-Tucker enters the game for C. Sexton,,1,33,27,6,531.0
+3:06.0, ,33-27,K. George misses 3-pt jump shot from 23 ft,,1,33,27,6,534.0
+3:01.0,Defensive rebound by J. Tatum,33-27, ,,1,33,27,6,539.0
+2:55.0,P. Pritchard makes 3-pt jump shot from 26 ft (assist by O. Brissett),36-27, ,,1,36,27,9,545.0
+2:36.0, ,36-29,T. Horton-Tucker makes 2-pt jump shot from 8 ft,,1,36,29,7,564.0
+2:19.0,J. Holiday makes 2-pt jump shot from 10 ft,38-29, ,,1,38,29,9,581.0
+1:59.0, ,38-29,Turnover by K. George (bad pass; steal by X. Tillman),,1,38,29,9,601.0
+1:52.0,O. Brissett makes 2-pt layup from 3 ft (assist by J. Tatum),40-29, ,,1,40,29,11,608.0
+1:39.0, ,40-29,K. George misses 2-pt layup from 7 ft,,1,40,29,11,621.0
+1:35.0, ,40-29,Offensive rebound by W. Kessler,,1,40,29,11,625.0
+1:35.0, ,40-31,W. Kessler makes 2-pt dunk at rim,,1,40,31,9,625.0
+1:16.0,X. Tillman makes 2-pt hook shot from 1 ft (assist by J. Holiday),42-31, ,,1,42,31,11,644.0
+1:16.0, ,42-31,Violation by Team (def goaltending),,1,42,31,11,644.0
+1:01.0, ,42-31,K. Dunn misses 2-pt jump shot from 8 ft,,1,42,31,11,659.0
+1:00.0,Defensive rebound by J. Tatum,42-31, ,,1,42,31,11,660.0
+0:50.0,J. Tatum misses 3-pt jump shot from 28 ft,42-31, ,,1,42,31,11,670.0
+0:47.0, ,42-31,Defensive rebound by W. Kessler,,1,42,31,11,673.0
+0:33.0, ,42-31,K. George misses 3-pt jump shot from 26 ft,,1,42,31,11,687.0
+0:30.0,Defensive rebound by O. Brissett,42-31, ,,1,42,31,11,690.0
+0:11.0,J. Tatum makes 2-pt layup from 3 ft (assist by P. Pritchard),44-31, ,,1,44,31,13,709.0
+0:01.0, ,44-33,J. Clarkson makes 2-pt jump shot from 10 ft,,1,44,33,11,719.0
+0:00.0,Turnover by P. Pritchard (bad pass; steal by T. Horton-Tucker),44-33, ,,1,44,33,11,720.0
+0:00.0,End of 1st quarter,44-33,,,1,44,33,11,720.0
+12:00.0,Start of 2nd quarter,44-33,,,2,44,33,11,720.0
+11:37.0, ,44-33,T. Horton-Tucker misses 2-pt jump shot from 18 ft,,2,44,33,11,743.0
+11:31.0,Defensive rebound by S. Hauser,44-33, ,,2,44,33,11,749.0
+11:28.0,P. Pritchard makes 2-pt layup from 3 ft,46-33, ,,2,46,33,13,752.0
+11:28.0, ,46-33,Violation by Team (def goaltending),,2,46,33,13,752.0
+11:09.0, ,46-33,K. Dunn misses 2-pt jump shot from 8 ft (block by S. Hauser),,2,46,33,13,771.0
+11:06.0,Defensive rebound by D. White,46-33, ,,2,46,33,13,774.0
+11:03.0,P. Pritchard misses 3-pt jump shot from 25 ft,46-33, ,,2,46,33,13,777.0
+11:00.0,Offensive rebound by X. Tillman,46-33, ,,2,46,33,13,780.0
+10:56.0,D. White makes 3-pt jump shot from 24 ft (assist by S. Hauser),49-33, ,,2,49,33,16,784.0
+10:38.0, ,49-33,T. Horton-Tucker misses 2-pt hook shot from 7 ft,,2,49,33,16,802.0
+10:36.0,Defensive rebound by X. Tillman,49-33, ,,2,49,33,16,804.0
+10:31.0,Turnover by D. White (off goaltending),49-33, ,,2,49,33,16,809.0
+10:09.0, ,49-35,J. Clarkson makes 2-pt jump shot from 17 ft,,2,49,35,14,831.0
+9:53.0,D. White makes 3-pt jump shot from 24 ft (assist by L. Kornet),52-35, ,,2,52,35,17,847.0
+9:38.0, ,52-35,J. Clarkson misses 2-pt jump shot from 5 ft (block by D. White),,2,52,35,17,862.0
+9:38.0,Defensive rebound by D. White,52-35, ,,2,52,35,17,862.0
+9:32.0,Turnover by D. White (bad pass; steal by T. Horton-Tucker),52-35, ,,2,52,35,17,868.0
+9:28.0, ,52-37,J. Clarkson makes 2-pt dunk from 4 ft (assist by K. Dunn),,2,52,37,15,872.0
+9:13.0,D. White misses 2-pt jump shot from 11 ft,52-37, ,,2,52,37,15,887.0
+9:11.0, ,52-37,Defensive rebound by W. Kessler,,2,52,37,15,889.0
+9:02.0, ,52-40,M. Potter makes 3-pt jump shot from 24 ft (assist by W. Kessler),,2,52,40,12,898.0
+8:40.0,Turnover by D. White (bad pass; steal by J. Clarkson),52-40, ,,2,52,40,12,920.0
+8:21.0, ,52-42,M. Potter makes 2-pt dunk from 4 ft (assist by K. Dunn),,2,52,42,10,939.0
+8:20.0,Boston full timeout,52-42, ,,2,52,42,10,940.0
+8:20.0,O. Brissett enters the game for X. Tillman,52-42, ,,2,52,42,10,940.0
+8:20.0, ,52-42,B. Sensabaugh enters the game for K. Dunn,,2,52,42,10,940.0
+8:10.0,P. Pritchard misses 3-pt jump shot from 25 ft,52-42, ,,2,52,42,10,950.0
+8:06.0, ,52-42,Defensive rebound by W. Kessler,,2,52,42,10,954.0
+7:49.0, ,52-44,J. Clarkson makes 2-pt jump shot from 10 ft (assist by B. Sensabaugh),,2,52,44,8,971.0
+7:26.0,Shooting foul by B. Sensabaugh (drawn by L. Kornet),52-44, ,,2,52,44,8,994.0
+7:26.0,L. Kornet makes free throw 1 of 2,53-44, ,,2,53,44,9,994.0
+7:26.0,J. Holiday enters the game for P. Pritchard,53-44, ,,2,53,44,9,994.0
+7:26.0,L. Kornet makes free throw 2 of 2,54-44, ,,2,54,44,10,994.0
+7:09.0, ,54-44,B. Sensabaugh misses 2-pt jump shot from 10 ft,,2,54,44,10,1011.0
+7:06.0,Defensive rebound by L. Kornet,54-44, ,,2,54,44,10,1014.0
+7:00.0,S. Hauser misses 3-pt jump shot from 25 ft,54-44, ,,2,54,44,10,1020.0
+6:58.0, ,54-44,Defensive rebound by B. Sensabaugh,,2,54,44,10,1022.0
+6:48.0, ,54-47,T. Horton-Tucker makes 3-pt jump shot from 25 ft,,2,54,47,7,1032.0
+6:24.0,S. Hauser misses 3-pt jump shot from 27 ft,54-47, ,,2,54,47,7,1056.0
+6:22.0, ,54-47,Defensive rebound by B. Sensabaugh,,2,54,47,7,1058.0
+6:07.0, ,54-50,J. Clarkson makes 3-pt jump shot from 26 ft,,2,54,50,4,1073.0
+5:52.0,J. Holiday makes 2-pt layup from 5 ft (assist by D. White),56-50, ,,2,56,50,6,1088.0
+5:32.0, ,56-50,T. Horton-Tucker misses 2-pt layup from 6 ft (block by J. Holiday),,2,56,50,6,1108.0
+5:32.0,Defensive rebound by Team,56-50, ,,2,56,50,6,1108.0
+5:32.0,J. Tatum enters the game for O. Brissett,56-50, ,,2,56,50,6,1108.0
+5:32.0, ,56-50,J. Collins enters the game for T. Horton-Tucker,,2,56,50,6,1108.0
+5:32.0, ,56-50,K. George enters the game for W. Kessler,,2,56,50,6,1108.0
+5:32.0, ,56-50,C. Sexton enters the game for M. Potter,,2,56,50,6,1108.0
+5:21.0,J. Tatum misses 2-pt jump shot from 15 ft,56-50, ,,2,56,50,6,1119.0
+5:17.0,Offensive rebound by L. Kornet,56-50, ,,2,56,50,6,1123.0
+5:16.0, ,56-50,Violation by Team (kicked ball),,2,56,50,6,1124.0
+5:08.0,L. Kornet makes 2-pt dunk from 3 ft (assist by J. Holiday),58-50, ,,2,58,50,8,1132.0
+5:08.0, ,58-50,Utah full timeout,,2,58,50,8,1132.0
+4:43.0, ,58-50,B. Sensabaugh misses 2-pt jump shot from 10 ft,,2,58,50,8,1157.0
+4:42.0,Defensive rebound by Team,58-50, ,,2,58,50,8,1158.0
+4:29.0,S. Hauser misses 2-pt jump shot from 12 ft,58-50, ,,2,58,50,8,1171.0
+4:25.0, ,58-50,Defensive rebound by K. George,,2,58,50,8,1175.0
+4:15.0, ,58-50,B. Sensabaugh misses 3-pt jump shot from 22 ft,,2,58,50,8,1185.0
+4:13.0,Defensive rebound by L. Kornet,58-50, ,,2,58,50,8,1187.0
+4:05.0,J. Tatum makes 3-pt jump shot from 26 ft,61-50, ,,2,61,50,11,1195.0
+3:47.0, ,61-50,C. Sexton misses 3-pt jump shot from 27 ft,,2,61,50,11,1213.0
+3:43.0, ,61-50,Offensive rebound by C. Sexton,,2,61,50,11,1217.0
+3:42.0, ,61-50,Turnover by C. Sexton (bad pass; steal by D. White),,2,61,50,11,1218.0
+3:39.0,J. Holiday misses 3-pt jump shot from 25 ft,61-50, ,,2,61,50,11,1221.0
+3:36.0, ,61-50,Defensive rebound by J. Collins,,2,61,50,11,1224.0
+3:25.0, ,61-53,K. George makes 3-pt jump shot from 26 ft (assist by C. Sexton),,2,61,53,8,1235.0
+3:00.0,L. Kornet makes 2-pt dunk from 4 ft (assist by J. Holiday),63-53, ,,2,63,53,10,1260.0
+2:46.0, ,63-53,K. George misses 3-pt jump shot from 27 ft,,2,63,53,10,1274.0
+2:45.0,Defensive rebound by J. Holiday,63-53, ,,2,63,53,10,1275.0
+2:35.0,D. White misses 2-pt jump shot from 10 ft,63-53, ,,2,63,53,10,1285.0
+2:33.0,Offensive rebound by L. Kornet,63-53, ,,2,63,53,10,1287.0
+2:33.0,D. White makes 2-pt layup from 3 ft (assist by L. Kornet),65-53, ,,2,65,53,12,1287.0
+2:33.0,Shooting foul by K. George (drawn by D. White),65-53, ,,2,65,53,12,1287.0
+2:33.0, ,65-53,K. Dunn enters the game for B. Sensabaugh,,2,65,53,12,1287.0
+2:33.0,D. White makes free throw 1 of 1,66-53, ,,2,66,53,13,1287.0
+2:17.0, ,66-53,C. Sexton misses 3-pt jump shot from 26 ft,,2,66,53,13,1303.0
+2:14.0,Defensive rebound by L. Kornet,66-53, ,,2,66,53,13,1306.0
+2:09.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by D. White),69-53, ,,2,69,53,16,1311.0
+1:57.0, ,69-53,J. Collins misses 2-pt hook shot from 7 ft (block by L. Kornet),,2,69,53,16,1323.0
+1:55.0,Defensive rebound by L. Kornet,69-53, ,,2,69,53,16,1325.0
+1:44.0,Offensive foul by J. Tatum (drawn by K. George),69-53, ,,2,69,53,16,1336.0
+1:44.0,Turnover by J. Tatum (offensive foul),69-53, ,,2,69,53,16,1336.0
+1:28.0, ,69-55,C. Sexton makes 2-pt jump shot from 6 ft (assist by J. Clarkson),,2,69,55,14,1352.0
+1:19.0,Turnover by J. Holiday (traveling),69-55, ,,2,69,55,14,1361.0
+1:19.0,X. Tillman enters the game for L. Kornet,69-55, ,,2,69,55,14,1361.0
+1:02.0, ,69-55,J. Collins misses 2-pt layup from 5 ft,,2,69,55,14,1378.0
+1:00.0,Defensive rebound by J. Holiday,69-55, ,,2,69,55,14,1380.0
+0:38.0,S. Hauser makes 3-pt jump shot from 25 ft,72-55, ,,2,72,55,17,1402.0
+0:26.0, ,72-55,C. Sexton misses 2-pt jump shot from 5 ft,,2,72,55,17,1414.0
+0:24.0, ,72-55,Offensive rebound by C. Sexton,,2,72,55,17,1416.0
+0:24.0, ,72-57,C. Sexton makes 2-pt layup at rim,,2,72,57,15,1416.0
+0:08.0,Personal foul by K. George (drawn by J. Tatum),72-57, ,,2,72,57,15,1432.0
+0:08.0,P. Pritchard enters the game for X. Tillman,72-57, ,,2,72,57,15,1432.0
+0:08.0, ,72-57,T. Horton-Tucker enters the game for K. George,,2,72,57,15,1432.0
+0:00.0,Turnover by J. Tatum (lost ball; steal by K. Dunn),72-57, ,,2,72,57,15,1440.0
+0:00.0,End of 2nd quarter,72-57,,,2,72,57,15,1440.0
+12:00.0,Start of 3rd quarter,72-57,,,3,72,57,15,1440.0
+11:54.0, ,72-57,Offensive foul by K. George (drawn by J. Holiday),,3,72,57,15,1446.0
+11:54.0, ,72-57,Turnover by K. George (offensive foul),,3,72,57,15,1446.0
+11:39.0,S. Hauser misses 3-pt jump shot from 23 ft,72-57, ,,3,72,57,15,1461.0
+11:35.0, ,72-57,Defensive rebound by J. Collins,,3,72,57,15,1465.0
+11:17.0, ,72-57,B. Sensabaugh misses 3-pt jump shot from 25 ft,,3,72,57,15,1483.0
+11:13.0,Defensive rebound by D. White,72-57, ,,3,72,57,15,1487.0
+11:09.0,J. Tatum misses 2-pt layup from 5 ft (block by K. George),72-57, ,,3,72,57,15,1491.0
+11:04.0,Offensive rebound by J. Tatum,72-57, ,,3,72,57,15,1496.0
+11:04.0,J. Tatum makes 2-pt layup at rim,74-57, ,,3,74,57,17,1496.0
+10:52.0, ,74-59,C. Sexton makes 2-pt layup from 8 ft (assist by K. George),,3,74,59,15,1508.0
+10:52.0, ,74-59,Shooting foul by D. White (drawn by C. Sexton),,3,74,59,15,1508.0
+10:52.0, ,74-60,C. Sexton makes free throw 1 of 1,,3,74,60,14,1508.0
+10:40.0,D. White makes 3-pt jump shot from 27 ft (assist by L. Kornet),77-60, ,,3,77,60,17,1520.0
+10:25.0, ,77-62,K. George makes 2-pt jump shot from 18 ft,,3,77,62,15,1535.0
+10:12.0,J. Tatum misses 2-pt jump shot from 15 ft,77-62, ,,3,77,62,15,1548.0
+10:09.0, ,77-62,Defensive rebound by L. Šamanić,,3,77,62,15,1551.0
+10:03.0, ,77-65,J. Collins makes 3-pt jump shot from 25 ft (assist by K. George),,3,77,65,12,1557.0
+9:38.0,D. White misses 2-pt jump shot from 12 ft,77-65, ,,3,77,65,12,1582.0
+9:35.0,Offensive rebound by L. Kornet,77-65, ,,3,77,65,12,1585.0
+9:35.0,L. Kornet makes 2-pt layup at rim,79-65, ,,3,79,65,14,1585.0
+9:17.0, ,79-67,C. Sexton makes 2-pt jump shot from 8 ft (assist by K. George),,3,79,67,12,1603.0
+9:06.0,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),82-67, ,,3,82,67,15,1614.0
+8:52.0, ,82-67,K. George misses 3-pt jump shot from 25 ft,,3,82,67,15,1628.0
+8:50.0,Defensive rebound by S. Hauser,82-67, ,,3,82,67,15,1630.0
+8:41.0,J. Holiday makes 2-pt layup from 8 ft,84-67, ,,3,84,67,17,1639.0
+8:41.0, ,84-67,Utah full timeout,,3,84,67,17,1639.0
+8:18.0, ,84-70,L. Šamanić makes 3-pt jump shot from 25 ft (assist by C. Sexton),,3,84,70,14,1662.0
+7:56.0,J. Tatum misses 3-pt jump shot from 26 ft,84-70, ,,3,84,70,14,1684.0
+7:52.0,Offensive rebound by L. Kornet,84-70, ,,3,84,70,14,1688.0
+7:51.0,L. Kornet misses 2-pt layup from 5 ft (block by J. Collins),84-70, ,,3,84,70,14,1689.0
+7:51.0,Offensive rebound by Team,84-70, ,,3,84,70,14,1689.0
+7:50.0,D. White misses 3-pt jump shot from 24 ft,84-70, ,,3,84,70,14,1690.0
+7:45.0, ,84-70,Defensive rebound by L. Šamanić,,3,84,70,14,1695.0
+7:37.0, ,84-70,L. Šamanić misses 2-pt layup from 7 ft,,3,84,70,14,1703.0
+7:35.0,Defensive rebound by S. Hauser,84-70, ,,3,84,70,14,1705.0
+7:27.0,J. Tatum misses 3-pt jump shot from 26 ft,84-70, ,,3,84,70,14,1713.0
+7:22.0, ,84-70,Defensive rebound by L. Šamanić,,3,84,70,14,1718.0
+7:21.0, ,84-70,L. Šamanić misses 2-pt layup from 5 ft (block by S. Hauser),,3,84,70,14,1719.0
+7:21.0, ,84-70,Offensive rebound by Team,,3,84,70,14,1719.0
+7:19.0, ,84-70,J. Collins misses 3-pt jump shot from 25 ft,,3,84,70,14,1721.0
+7:17.0, ,84-70,Offensive rebound by L. Šamanić,,3,84,70,14,1723.0
+7:17.0, ,84-70,Shooting foul by S. Hauser (drawn by L. Šamanić),,3,84,70,14,1723.0
+7:17.0, ,84-71,L. Šamanić makes free throw 1 of 2,,3,84,71,13,1723.0
+7:17.0, ,84-72,L. Šamanić makes free throw 2 of 2,,3,84,72,12,1723.0
+7:06.0,L. Kornet misses 2-pt layup from 4 ft (block by C. Sexton),84-72, ,,3,84,72,12,1734.0
+7:06.0, ,84-72,Defensive rebound by Team,,3,84,72,12,1734.0
+6:46.0, ,84-74,C. Sexton makes 2-pt jump shot from 11 ft,,3,84,74,10,1754.0
+6:27.0,J. Tatum makes 2-pt layup from 3 ft,86-74, ,,3,86,74,12,1773.0
+6:17.0, ,86-74,Offensive foul by C. Sexton (drawn by J. Holiday),,3,86,74,12,1783.0
+6:17.0, ,86-74,Turnover by C. Sexton (offensive foul),,3,86,74,12,1783.0
+6:17.0,O. Brissett enters the game for S. Hauser,86-74, ,,3,86,74,12,1783.0
+6:17.0,P. Pritchard enters the game for D. White,86-74, ,,3,86,74,12,1783.0
+6:17.0, ,86-74,K. Dunn enters the game for K. George,,3,86,74,12,1783.0
+5:59.0,Shooting foul by C. Sexton (drawn by P. Pritchard),86-74, ,,3,86,74,12,1801.0
+5:59.0,P. Pritchard makes free throw 1 of 2,87-74, ,,3,87,74,13,1801.0
+5:59.0,P. Pritchard makes free throw 2 of 2,88-74, ,,3,88,74,14,1801.0
+5:48.0, ,88-74,J. Collins misses 3-pt jump shot from 24 ft,,3,88,74,14,1812.0
+5:45.0,Defensive rebound by J. Tatum,88-74, ,,3,88,74,14,1815.0
+5:34.0,J. Holiday misses 2-pt layup from 7 ft (block by J. Collins),88-74, ,,3,88,74,14,1826.0
+5:31.0, ,88-74,Defensive rebound by B. Sensabaugh,,3,88,74,14,1829.0
+5:26.0, ,88-77,K. Dunn makes 3-pt jump shot from 24 ft (assist by B. Sensabaugh),,3,88,77,11,1834.0
+5:08.0,J. Tatum misses 3-pt jump shot from 26 ft,88-77, ,,3,88,77,11,1852.0
+5:05.0, ,88-77,Defensive rebound by B. Sensabaugh,,3,88,77,11,1855.0
+4:56.0, ,88-80,K. Dunn makes 3-pt jump shot from 26 ft (assist by L. Šamanić),,3,88,80,8,1864.0
+4:54.0,Boston full timeout,88-80, ,,3,88,80,8,1866.0
+4:54.0,X. Tillman enters the game for L. Kornet,88-80, ,,3,88,80,8,1866.0
+4:54.0, ,88-80,J. Clarkson enters the game for L. Šamanić,,3,88,80,8,1866.0
+4:38.0,P. Pritchard misses 3-pt jump shot from 26 ft,88-80, ,,3,88,80,8,1882.0
+4:34.0, ,88-80,Defensive rebound by C. Sexton,,3,88,80,8,1886.0
+4:21.0, ,88-80,J. Collins misses 2-pt hook shot from 6 ft,,3,88,80,8,1899.0
+4:18.0,Defensive rebound by O. Brissett,88-80, ,,3,88,80,8,1902.0
+4:02.0,J. Tatum makes 2-pt layup from 3 ft,90-80, ,,3,90,80,10,1918.0
+3:44.0, ,90-82,B. Sensabaugh makes 2-pt jump shot from 14 ft (assist by C. Sexton),,3,90,82,8,1936.0
+3:22.0,J. Holiday misses 3-pt jump shot from 26 ft,90-82, ,,3,90,82,8,1958.0
+3:19.0,Offensive rebound by O. Brissett,90-82, ,,3,90,82,8,1961.0
+3:19.0,Shooting foul by J. Clarkson (drawn by O. Brissett),90-82, ,,3,90,82,8,1961.0
+3:19.0,O. Brissett misses free throw 1 of 2,90-82, ,,3,90,82,8,1961.0
+3:19.0,Offensive rebound by Team,90-82, ,,3,90,82,8,1961.0
+3:19.0, ,90-82,W. Kessler enters the game for J. Collins,,3,90,82,8,1961.0
+3:19.0,O. Brissett misses free throw 2 of 2,90-82, ,,3,90,82,8,1961.0
+3:17.0, ,90-82,Defensive rebound by K. Dunn,,3,90,82,8,1963.0
+2:55.0, ,90-82,J. Clarkson misses 2-pt jump shot from 15 ft,,3,90,82,8,1985.0
+2:52.0, ,90-82,Offensive rebound by W. Kessler,,3,90,82,8,1988.0
+2:45.0, ,90-84,J. Clarkson makes 2-pt layup from 4 ft,,3,90,84,6,1995.0
+2:17.0,X. Tillman misses 2-pt jump shot from 8 ft,90-84, ,,3,90,84,6,2023.0
+2:17.0,Offensive rebound by Team,90-84, ,,3,90,84,6,2023.0
+2:17.0, ,90-84,Loose ball foul by C. Sexton (drawn by O. Brissett),,3,90,84,6,2023.0
+2:17.0, ,90-84,M. Potter enters the game for C. Sexton,,3,90,84,6,2023.0
+2:11.0,J. Tatum misses 2-pt jump shot from 16 ft,90-84, ,,3,90,84,6,2029.0
+2:09.0, ,90-84,Defensive rebound by M. Potter,,3,90,84,6,2031.0
+1:57.0, ,90-86,J. Clarkson makes 2-pt hook shot from 8 ft (assist by K. Dunn),,3,90,86,4,2043.0
+1:36.0,P. Pritchard misses 3-pt jump shot from 26 ft,90-86, ,,3,90,86,4,2064.0
+1:33.0,Offensive rebound by J. Tatum,90-86, ,,3,90,86,4,2067.0
+1:31.0,J. Tatum makes 2-pt layup from 8 ft,92-86, ,,3,92,86,6,2069.0
+1:31.0,Shooting foul by K. Dunn (drawn by J. Tatum),92-86, ,,3,92,86,6,2069.0
+1:31.0,J. Tatum makes free throw 1 of 1,93-86, ,,3,93,86,7,2069.0
+1:11.0, ,93-89,M. Potter makes 3-pt jump shot from 24 ft (assist by B. Sensabaugh),,3,93,89,4,2089.0
+0:52.0,J. Holiday misses 3-pt jump shot from 26 ft,93-89, ,,3,93,89,4,2108.0
+0:49.0, ,93-89,Defensive rebound by W. Kessler,,3,93,89,4,2111.0
+0:43.0, ,93-89,Personal foul by P. Pritchard (drawn by J. Clarkson),,3,93,89,4,2117.0
+0:36.0, ,93-91,J. Clarkson makes 2-pt jump shot from 8 ft,,3,93,91,2,2124.0
+0:31.0,J. Tatum makes 3-pt jump shot from 26 ft,96-91, ,,3,96,91,5,2129.0
+0:10.0, ,96-91,Turnover by J. Clarkson (lost ball; steal by J. Holiday),,3,96,91,5,2150.0
+0:06.0,J. Holiday makes 2-pt layup from 5 ft,98-91, ,,3,98,91,7,2154.0
+0:06.0,L. Kornet enters the game for P. Pritchard,98-91, ,,3,98,91,7,2154.0
+0:00.0, ,98-91,J. Clarkson misses 3-pt jump shot from 24 ft,,3,98,91,7,2160.0
+0:00.0, ,98-91,Offensive rebound by Team,,3,98,91,7,2160.0
+0:00.0,End of 3rd quarter,98-91,,,3,98,91,7,2160.0
+12:00.0,Start of 4th quarter,98-91,,,4,98,91,7,2160.0
+11:45.0,Shooting foul by M. Potter (drawn by L. Kornet),98-91, ,,4,98,91,7,2175.0
+11:45.0,L. Kornet makes free throw 1 of 2,99-91, ,,4,99,91,8,2175.0
+11:45.0,L. Kornet makes free throw 2 of 2,100-91, ,,4,100,91,9,2175.0
+11:25.0, ,100-91,T. Horton-Tucker misses 3-pt jump shot from 25 ft,,4,100,91,9,2195.0
+11:21.0,Defensive rebound by P. Pritchard,100-91, ,,4,100,91,9,2199.0
+11:19.0,Personal foul by J. Clarkson (drawn by D. White),100-91, ,,4,100,91,9,2201.0
+11:12.0,D. White misses 2-pt jump shot from 11 ft,100-91, ,,4,100,91,9,2208.0
+11:09.0,Offensive rebound by X. Tillman,100-91, ,,4,100,91,9,2211.0
+11:04.0,X. Tillman makes 2-pt jump shot from 22 ft (assist by P. Pritchard),102-91, ,,4,102,91,11,2216.0
+10:47.0, ,102-91,J. Clarkson misses 2-pt hook shot from 6 ft,,4,102,91,11,2233.0
+10:43.0,Defensive rebound by L. Kornet,102-91, ,,4,102,91,11,2237.0
+10:29.0,D. White misses 3-pt jump shot from 28 ft,102-91, ,,4,102,91,11,2251.0
+10:25.0,Offensive rebound by X. Tillman,102-91, ,,4,102,91,11,2255.0
+10:16.0,X. Tillman misses 2-pt layup from 6 ft (block by W. Kessler),102-91, ,,4,102,91,11,2264.0
+10:16.0, ,102-91,Defensive rebound by Team,,4,102,91,11,2264.0
+10:07.0, ,102-91,K. George misses 3-pt jump shot from 24 ft,,4,102,91,11,2273.0
+10:03.0, ,102-91,Offensive rebound by W. Kessler,,4,102,91,11,2277.0
+10:01.0, ,102-91,Personal foul by S. Hauser (drawn by K. George),,4,102,91,11,2279.0
+9:48.0, ,102-91,K. George misses 2-pt jump shot from 10 ft,,4,102,91,11,2292.0
+9:46.0,Defensive rebound by X. Tillman,102-91, ,,4,102,91,11,2294.0
+9:46.0,Personal foul by J. Clarkson (drawn by P. Pritchard),102-91, ,,4,102,91,11,2294.0
+9:35.0,D. White makes 3-pt jump shot from 26 ft (assist by L. Kornet),105-91, ,,4,105,91,14,2305.0
+9:34.0, ,105-91,Utah full timeout,,4,105,91,14,2306.0
+9:15.0, ,105-91,J. Clarkson misses 2-pt jump shot from 12 ft,,4,105,91,14,2325.0
+9:12.0,Defensive rebound by X. Tillman,105-91, ,,4,105,91,14,2328.0
+8:57.0,L. Kornet misses 2-pt dunk from 4 ft,105-91, ,,4,105,91,14,2343.0
+8:54.0, ,105-91,Defensive rebound by M. Potter,,4,105,91,14,2346.0
+8:45.0, ,105-91,Turnover by K. George (step out of bounds),,4,105,91,14,2355.0
+8:25.0,P. Pritchard misses 3-pt jump shot from 26 ft,105-91, ,,4,105,91,14,2375.0
+8:22.0,Offensive rebound by Team,105-91, ,,4,105,91,14,2378.0
+8:17.0,S. Hauser misses 3-pt jump shot from 25 ft,105-91, ,,4,105,91,14,2383.0
+8:13.0, ,105-91,Defensive rebound by T. Horton-Tucker,,4,105,91,14,2387.0
+8:04.0, ,105-91,T. Horton-Tucker misses 2-pt jump shot from 6 ft,,4,105,91,14,2396.0
+8:00.0,Defensive rebound by D. White,105-91, ,,4,105,91,14,2400.0
+7:56.0,P. Pritchard misses 3-pt jump shot from 26 ft,105-91, ,,4,105,91,14,2404.0
+7:53.0,Offensive rebound by S. Hauser,105-91, ,,4,105,91,14,2407.0
+7:53.0,S. Hauser makes 2-pt layup from 3 ft,107-91, ,,4,107,91,16,2407.0
+7:53.0, ,107-91,Utah full timeout,,4,107,91,16,2407.0
+7:53.0,J. Holiday enters the game for L. Kornet,107-91, ,,4,107,91,16,2407.0
+7:53.0, ,107-91,J. Collins enters the game for W. Kessler,,4,107,91,16,2407.0
+7:53.0, ,107-91,C. Sexton enters the game for M. Potter,,4,107,91,16,2407.0
+7:33.0, ,107-91,J. Collins misses 2-pt hook shot from 5 ft (block by D. White),,4,107,91,16,2427.0
+7:30.0,Defensive rebound by X. Tillman,107-91, ,,4,107,91,16,2430.0
+7:20.0,Personal foul by J. Collins (drawn by X. Tillman),107-91, ,,4,107,91,16,2440.0
+7:13.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. White),110-91, ,,4,110,91,19,2447.0
+6:51.0, ,110-91,J. Clarkson misses 2-pt layup from 6 ft,,4,110,91,19,2469.0
+6:48.0,Defensive rebound by D. White,110-91, ,,4,110,91,19,2472.0
+6:31.0,P. Pritchard misses 2-pt layup from 4 ft,110-91, ,,4,110,91,19,2489.0
+6:29.0,Offensive rebound by X. Tillman,110-91, ,,4,110,91,19,2491.0
+6:28.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by X. Tillman),113-91, ,,4,113,91,22,2492.0
+6:07.0, ,113-91,C. Sexton misses 2-pt jump shot from 10 ft,,4,113,91,22,2513.0
+6:03.0,Defensive rebound by P. Pritchard,113-91, ,,4,113,91,22,2517.0
+5:54.0,J. Holiday misses 3-pt jump shot from 28 ft,113-91, ,,4,113,91,22,2526.0
+5:52.0, ,113-91,Defensive rebound by C. Sexton,,4,113,91,22,2528.0
+5:34.0, ,113-93,J. Clarkson makes 2-pt layup from 2 ft,,4,113,93,20,2546.0
+5:11.0,S. Hauser misses 3-pt jump shot from 25 ft,113-93, ,,4,113,93,20,2569.0
+5:11.0, ,113-93,Defensive rebound by Team,,4,113,93,20,2569.0
+5:11.0,Loose ball foul by J. Holiday (drawn by T. Horton-Tucker),113-93, ,,4,113,93,20,2569.0
+5:11.0,J. Tatum enters the game for P. Pritchard,113-93, ,,4,113,93,20,2569.0
+5:11.0, ,113-93,K. Dunn enters the game for T. Horton-Tucker,,4,113,93,20,2569.0
+4:53.0, ,113-96,C. Sexton makes 3-pt jump shot from 25 ft,,4,113,96,17,2587.0
+4:30.0,Offensive foul by J. Tatum (drawn by K. George),113-96, ,,4,113,96,17,2610.0
+4:30.0,Turnover by J. Tatum (offensive foul),113-96, ,,4,113,96,17,2610.0
+4:30.0, ,113-96,T. Horton-Tucker enters the game for C. Sexton,,4,113,96,17,2610.0
+4:15.0, ,113-96,K. George misses 2-pt jump shot from 16 ft,,4,113,96,17,2625.0
+4:12.0,Defensive rebound by S. Hauser,113-96, ,,4,113,96,17,2628.0
+3:53.0,J. Tatum misses 2-pt jump shot from 7 ft (block by K. Dunn),113-96, ,,4,113,96,17,2647.0
+3:50.0, ,113-96,Defensive rebound by T. Horton-Tucker,,4,113,96,17,2650.0
+3:48.0, ,113-96,Shooting foul by S. Hauser (drawn by K. George),,4,113,96,17,2652.0
+3:48.0, ,113-97,K. George makes free throw 1 of 2,,4,113,97,16,2652.0
+3:48.0, ,113-97,C. Sexton enters the game for T. Horton-Tucker,,4,113,97,16,2652.0
+3:48.0, ,113-98,K. George makes free throw 2 of 2,,4,113,98,15,2652.0
+3:31.0,J. Tatum makes 2-pt layup from 6 ft,115-98, ,,4,115,98,17,2669.0
+3:14.0, ,115-100,K. George makes 2-pt jump shot from 9 ft,,4,115,100,15,2686.0
+2:54.0,J. Tatum makes 2-pt jump shot from 9 ft,117-100, ,,4,117,100,17,2706.0
+2:43.0, ,117-103,K. George makes 3-pt jump shot from 30 ft (assist by J. Clarkson),,4,117,103,14,2717.0
+2:27.0,Shooting foul by K. Dunn (drawn by J. Tatum),117-103, ,,4,117,103,14,2733.0
+2:27.0,J. Tatum makes free throw 1 of 2,118-103, ,,4,118,103,15,2733.0
+2:27.0,J. Tatum makes free throw 2 of 2,119-103, ,,4,119,103,16,2733.0
+2:13.0, ,119-105,J. Clarkson makes 2-pt jump shot from 8 ft (assist by K. George),,4,119,105,14,2747.0
+1:50.0,D. White misses 3-pt jump shot from 26 ft,119-105, ,,4,119,105,14,2770.0
+1:46.0,Offensive rebound by J. Holiday,119-105, ,,4,119,105,14,2774.0
+1:42.0,J. Tatum misses 3-pt jump shot from 26 ft,119-105, ,,4,119,105,14,2778.0
+1:40.0, ,119-105,Defensive rebound by J. Collins,,4,119,105,14,2780.0
+1:29.0, ,119-105,J. Collins misses 2-pt layup from 5 ft (block by D. White),,4,119,105,14,2791.0
+1:27.0,Defensive rebound by J. Holiday,119-105, ,,4,119,105,14,2793.0
+1:12.0,S. Hauser misses 3-pt jump shot from 29 ft,119-105, ,,4,119,105,14,2808.0
+1:08.0, ,119-105,Defensive rebound by K. Dunn,,4,119,105,14,2812.0
+1:01.0, ,119-105,Turnover by C. Sexton (bad pass; steal by J. Holiday),,4,119,105,14,2819.0
+0:56.0,Personal foul by K. George (drawn by J. Holiday),119-105, ,,4,119,105,14,2824.0
+0:56.0,J. Holiday makes free throw 1 of 2,120-105, ,,4,120,105,15,2824.0
+0:56.0,O. Brissett enters the game for X. Tillman,120-105, ,,4,120,105,15,2824.0
+0:56.0,J. Holiday makes free throw 2 of 2,121-105, ,,4,121,105,16,2824.0
+0:48.0, ,121-105,J. Clarkson misses 3-pt jump shot from 26 ft,,4,121,105,16,2832.0
+0:46.0, ,121-105,Offensive rebound by C. Sexton,,4,121,105,16,2834.0
+0:46.0, ,121-107,C. Sexton makes 2-pt layup at rim,,4,121,107,14,2834.0
+0:46.0,Personal take foul by C. Sexton (drawn by J. Tatum),121-107, ,,4,121,107,14,2834.0
+0:46.0,J. Tatum makes free throw 1 of 2,122-107, ,,4,122,107,15,2834.0
+0:46.0,J. Davison enters the game for S. Hauser,122-107, ,,4,122,107,15,2834.0
+0:46.0,P. Pritchard enters the game for J. Holiday,122-107, ,,4,122,107,15,2834.0
+0:46.0,J. Springer enters the game for D. White,122-107, ,,4,122,107,15,2834.0
+0:46.0,J. Tatum makes free throw 2 of 2,123-107, ,,4,123,107,16,2834.0
+0:43.0, ,123-107,Personal take foul by P. Pritchard (drawn by K. George),,4,123,107,16,2837.0
+0:43.0,S. Mykhailiuk enters the game for J. Tatum,123-107, ,,4,123,107,16,2837.0
+0:35.0, ,123-107,K. Dunn misses 2-pt jump shot from 9 ft,,4,123,107,16,2845.0
+0:32.0,Defensive rebound by O. Brissett,123-107, ,,4,123,107,16,2848.0
+0:08.0,Turnover by Team (shot clock),123-107, ,,4,123,107,16,2872.0
+0:00.0,End of 4th quarter,123-107,,,4,123,107,16,2880.0

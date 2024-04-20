@@ -1,0 +1,418 @@
+Time,Boston,Score,Portland,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: A. Horford vs. D. Ayton (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:39.0,P. Pritchard makes 2-pt jump shot from 14 ft,2-0, ,,1,2,0,2,21.0
+11:21.0, ,2-3,A. Simons makes 3-pt jump shot from 27 ft (assist by K. Murray),Lead change,1,2,3,-1,39.0
+11:06.0,A. Horford makes 3-pt jump shot from 25 ft (assist by J. Tatum),5-3, ,Lead change,1,5,3,2,54.0
+10:54.0, ,5-3,J. Grant misses 3-pt jump shot from 25 ft,,1,5,3,2,66.0
+10:51.0,Defensive rebound by P. Pritchard,5-3, ,,1,5,3,2,69.0
+10:40.0,Turnover by J. Tatum (lost ball; steal by J. Grant),5-3, ,,1,5,3,2,80.0
+10:32.0, ,5-5,D. Ayton makes 2-pt jump shot from 16 ft,Tie,1,5,5,0,88.0
+10:16.0,J. Brown misses 2-pt jump shot from 16 ft,5-5, ,,1,5,5,0,104.0
+10:14.0, ,5-5,Defensive rebound by A. Simons,,1,5,5,0,106.0
+10:08.0, ,5-5,D. Ayton misses 2-pt hook shot from 6 ft (block by A. Horford),,1,5,5,0,112.0
+10:02.0, ,5-5,Offensive rebound by D. Ayton,,1,5,5,0,118.0
+10:01.0, ,5-7,D. Ayton makes 2-pt dunk from 2 ft,Lead change,1,5,7,-2,119.0
+9:46.0,D. White makes 3-pt jump shot from 25 ft (assist by P. Pritchard),8-7, ,Lead change,1,8,7,1,134.0
+9:31.0, ,8-7,J. Grant misses 2-pt jump shot from 12 ft,,1,8,7,1,149.0
+9:28.0,Defensive rebound by P. Pritchard,8-7, ,,1,8,7,1,152.0
+9:22.0,J. Tatum misses 3-pt jump shot from 23 ft,8-7, ,,1,8,7,1,158.0
+9:19.0, ,8-7,Defensive rebound by K. Murray,,1,8,7,1,161.0
+9:04.0, ,8-7,J. Grant misses 2-pt jump shot from 7 ft,,1,8,7,1,176.0
+9:02.0,Defensive rebound by A. Horford,8-7, ,,1,8,7,1,178.0
+8:48.0,J. Tatum misses 2-pt jump shot from 17 ft,8-7, ,,1,8,7,1,192.0
+8:46.0,Offensive rebound by Team,8-7, ,,1,8,7,1,194.0
+8:44.0,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Tatum),11-7, ,,1,11,7,4,196.0
+8:30.0, ,11-7,D. Ayton misses 2-pt layup from 5 ft,,1,11,7,4,210.0
+8:28.0,Defensive rebound by A. Horford,11-7, ,,1,11,7,4,212.0
+8:16.0,P. Pritchard misses 3-pt jump shot from 26 ft,11-7, ,,1,11,7,4,224.0
+8:12.0,Offensive rebound by D. White,11-7, ,,1,11,7,4,228.0
+8:11.0,J. Tatum misses 3-pt jump shot from 27 ft,11-7, ,,1,11,7,4,229.0
+8:09.0, ,11-7,Defensive rebound by S. Henderson,,1,11,7,4,231.0
+8:04.0, ,11-7,Turnover by S. Henderson (lost ball; steal by D. White),,1,11,7,4,236.0
+8:00.0,J. Brown makes 2-pt layup from 1 ft (assist by P. Pritchard),13-7, ,,1,13,7,6,240.0
+8:00.0, ,13-7,Portland full timeout,,1,13,7,6,240.0
+7:44.0, ,13-9,S. Henderson makes 2-pt jump shot from 8 ft,,1,13,9,4,256.0
+7:32.0,D. White misses 3-pt jump shot from 25 ft,13-9, ,,1,13,9,4,268.0
+7:29.0,Offensive rebound by P. Pritchard,13-9, ,,1,13,9,4,271.0
+7:17.0,P. Pritchard misses 2-pt layup from 7 ft (block by K. Murray),13-9, ,,1,13,9,4,283.0
+7:14.0, ,13-9,Defensive rebound by A. Simons,,1,13,9,4,286.0
+7:06.0, ,13-9,D. Ayton misses 2-pt jump shot from 14 ft,,1,13,9,4,294.0
+7:03.0,Defensive rebound by J. Tatum,13-9, ,,1,13,9,4,297.0
+6:58.0,Shooting foul by S. Henderson (drawn by J. Tatum),13-9, ,,1,13,9,4,302.0
+6:58.0,J. Tatum misses free throw 1 of 2,13-9, ,,1,13,9,4,302.0
+6:58.0,Offensive rebound by Team,13-9, ,,1,13,9,4,302.0
+6:58.0,S. Hauser enters the game for P. Pritchard,13-9, ,,1,13,9,4,302.0
+6:58.0,J. Tatum makes free throw 2 of 2,14-9, ,,1,14,9,5,302.0
+6:42.0, ,14-12,S. Henderson makes 3-pt jump shot from 26 ft (assist by D. Ayton),,1,14,12,2,318.0
+6:17.0,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Tatum),17-12, ,,1,17,12,5,343.0
+6:06.0, ,17-12,Shooting foul by J. Brown (drawn by S. Henderson),,1,17,12,5,354.0
+6:06.0, ,17-13,S. Henderson makes free throw 1 of 2,,1,17,13,4,354.0
+6:06.0, ,17-14,S. Henderson makes free throw 2 of 2,,1,17,14,3,354.0
+5:51.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by A. Horford),20-14, ,,1,20,14,6,369.0
+5:37.0, ,20-14,A. Simons misses 3-pt jump shot from 27 ft,,1,20,14,6,383.0
+5:32.0,Defensive rebound by D. White,20-14, ,,1,20,14,6,388.0
+5:22.0,J. Brown misses 3-pt jump shot from 23 ft,20-14, ,,1,20,14,6,398.0
+5:20.0, ,20-14,Defensive rebound by A. Simons,,1,20,14,6,400.0
+5:12.0, ,20-14,A. Simons misses 2-pt hook shot from 6 ft,,1,20,14,6,408.0
+5:09.0, ,20-14,Offensive rebound by D. Ayton,,1,20,14,6,411.0
+5:09.0, ,20-16,D. Ayton makes 2-pt layup at rim,,1,20,16,4,411.0
+5:05.0,S. Hauser makes 2-pt layup from 2 ft (assist by D. White),22-16, ,,1,22,16,6,415.0
+4:51.0, ,22-16,Shooting foul by A. Horford (drawn by A. Simons),,1,22,16,6,429.0
+4:51.0, ,22-17,A. Simons makes free throw 1 of 2,,1,22,17,5,429.0
+4:51.0,O. Brissett enters the game for J. Tatum,22-17, ,,1,22,17,5,429.0
+4:51.0, ,22-17,D. Banton enters the game for S. Henderson,,1,22,17,5,429.0
+4:51.0, ,22-17,M. Thybulle enters the game for K. Murray,,1,22,17,5,429.0
+4:51.0, ,22-18,A. Simons makes free throw 2 of 2,,1,22,18,4,429.0
+4:31.0,J. Brown makes 2-pt layup from 3 ft (assist by O. Brissett),24-18, ,,1,24,18,6,449.0
+4:14.0, ,24-18,Turnover by J. Grant (bad pass; steal by S. Hauser),,1,24,18,6,466.0
+4:10.0,D. White makes 2-pt jump shot from 7 ft (assist by A. Horford),26-18, ,,1,26,18,8,470.0
+3:45.0, ,26-20,A. Simons makes 2-pt layup from 2 ft,,1,26,20,6,495.0
+3:35.0,J. Brown makes 2-pt jump shot from 6 ft (assist by D. White),28-20, ,,1,28,20,8,505.0
+3:22.0,Violation by Team (kicked ball),28-20, ,,1,28,20,8,518.0
+3:22.0,L. Kornet enters the game for A. Horford,28-20, ,,1,28,20,8,518.0
+3:12.0, ,28-23,J. Grant makes 3-pt jump shot from 24 ft (assist by D. Banton),,1,28,23,5,528.0
+2:53.0,D. White misses 2-pt jump shot from 12 ft,28-23, ,,1,28,23,5,547.0
+2:52.0, ,28-23,Defensive rebound by Team,,1,28,23,5,548.0
+2:52.0,Boston full timeout,28-23, ,,1,28,23,5,548.0
+2:52.0, ,28-23,T. Camara enters the game for D. Ayton,,1,28,23,5,548.0
+2:52.0, ,28-23,S. Henderson enters the game for J. Grant,,1,28,23,5,548.0
+2:52.0, ,28-23,D. Reath enters the game for A. Simons,,1,28,23,5,548.0
+2:38.0, ,28-23,S. Henderson misses 3-pt jump shot from 26 ft,,1,28,23,5,562.0
+2:35.0,Defensive rebound by S. Hauser,28-23, ,,1,28,23,5,565.0
+2:19.0,J. Brown makes 3-pt jump shot from 26 ft (assist by D. White),31-23, ,,1,31,23,8,581.0
+2:07.0, ,31-23,S. Henderson misses 2-pt layup from 3 ft,,1,31,23,8,593.0
+2:05.0,Defensive rebound by D. White,31-23, ,,1,31,23,8,595.0
+1:56.0,J. Brown misses 3-pt jump shot from 25 ft,31-23, ,,1,31,23,8,604.0
+1:54.0, ,31-23,Defensive rebound by S. Henderson,,1,31,23,8,606.0
+1:54.0, ,31-23,Personal foul by O. Brissett (drawn by S. Henderson),,1,31,23,8,606.0
+1:54.0,P. Pritchard enters the game for J. Brown,31-23, ,,1,31,23,8,606.0
+1:54.0,J. Tatum enters the game for D. White,31-23, ,,1,31,23,8,606.0
+1:33.0, ,31-23,Shooting foul by O. Brissett (drawn by T. Camara),,1,31,23,8,627.0
+1:33.0, ,31-24,T. Camara makes free throw 1 of 2,,1,31,24,7,627.0
+1:33.0, ,31-25,T. Camara makes free throw 2 of 2,,1,31,25,6,627.0
+1:13.0,L. Kornet makes 2-pt dunk from 2 ft (assist by P. Pritchard),33-25, ,,1,33,25,8,647.0
+1:02.0, ,33-28,D. Reath makes 3-pt jump shot from 28 ft (assist by T. Camara),,1,33,28,5,658.0
+0:39.0,J. Tatum misses 2-pt layup from 4 ft,33-28, ,,1,33,28,5,681.0
+0:39.0,Offensive rebound by Team,33-28, ,,1,33,28,5,681.0
+0:39.0, ,33-28,Loose ball foul by D. Banton (drawn by J. Tatum),,1,33,28,5,681.0
+0:33.0,J. Tatum makes 2-pt layup from 3 ft,35-28, ,,1,35,28,7,687.0
+0:12.0, ,35-28,S. Henderson misses 3-pt jump shot from 26 ft,,1,35,28,7,708.0
+0:10.0,Defensive rebound by Team,35-28, ,,1,35,28,7,710.0
+0:10.0,D. White enters the game for O. Brissett,35-28, ,,1,35,28,7,710.0
+0:01.0,P. Pritchard misses 2-pt layup from 4 ft,35-28, ,,1,35,28,7,719.0
+0:00.0,Offensive rebound by L. Kornet,35-28, ,,1,35,28,7,720.0
+0:00.0,L. Kornet makes 2-pt layup at rim,37-28, ,,1,37,28,9,720.0
+0:00.0,End of 1st quarter,37-28,,,1,37,28,9,720.0
+12:00.0,Start of 2nd quarter,37-28,,,2,37,28,9,720.0
+11:40.0, ,37-28,D. Reath misses 3-pt jump shot from 25 ft,,2,37,28,9,740.0
+11:37.0,Defensive rebound by O. Brissett,37-28, ,,2,37,28,9,743.0
+11:24.0,O. Brissett misses 3-pt jump shot from 26 ft,37-28, ,,2,37,28,9,756.0
+11:21.0,Offensive rebound by O. Brissett,37-28, ,,2,37,28,9,759.0
+11:19.0,Shooting foul by D. Banton (drawn by O. Brissett),37-28, ,,2,37,28,9,761.0
+11:19.0,O. Brissett misses free throw 1 of 2,37-28, ,,2,37,28,9,761.0
+11:19.0,Offensive rebound by Team,37-28, ,,2,37,28,9,761.0
+11:19.0,O. Brissett makes free throw 2 of 2,38-28, ,,2,38,28,10,761.0
+11:09.0, ,38-28,S. Henderson misses 2-pt layup from 3 ft,,2,38,28,10,771.0
+11:06.0,Defensive rebound by O. Brissett,38-28, ,,2,38,28,10,774.0
+11:03.0,J. Tatum makes 2-pt dunk from 2 ft (assist by P. Pritchard),40-28, ,,2,40,28,12,777.0
+10:45.0, ,40-30,T. Camara makes 2-pt jump shot from 6 ft,,2,40,30,10,795.0
+10:28.0,S. Hauser makes 3-pt jump shot from 26 ft (assist by L. Kornet),43-30, ,,2,43,30,13,812.0
+10:16.0, ,43-30,J. Grant misses 3-pt jump shot from 25 ft,,2,43,30,13,824.0
+10:13.0,Defensive rebound by S. Hauser,43-30, ,,2,43,30,13,827.0
+10:08.0,S. Hauser misses 3-pt jump shot from 26 ft,43-30, ,,2,43,30,13,832.0
+10:04.0,Offensive rebound by L. Kornet,43-30, ,,2,43,30,13,836.0
+10:02.0,P. Pritchard makes 2-pt jump shot from 12 ft (assist by L. Kornet),45-30, ,,2,45,30,15,838.0
+10:02.0, ,45-30,Portland full timeout,,2,45,30,15,838.0
+10:02.0, ,45-30,A. Simons enters the game for D. Banton,,2,45,30,15,838.0
+9:42.0, ,45-33,D. Reath makes 3-pt jump shot from 27 ft (assist by S. Henderson),,2,45,33,12,858.0
+9:16.0,S. Hauser misses 3-pt jump shot from 23 ft,45-33, ,,2,45,33,12,884.0
+9:14.0, ,45-33,Defensive rebound by J. Grant,,2,45,33,12,886.0
+9:05.0, ,45-33,J. Grant misses 2-pt layup from 4 ft,,2,45,33,12,895.0
+9:02.0,Defensive rebound by J. Tatum,45-33, ,,2,45,33,12,898.0
+9:00.0,P. Pritchard makes 3-pt jump shot from 24 ft (assist by J. Tatum),48-33, ,,2,48,33,15,900.0
+8:46.0, ,48-33,A. Simons misses 3-pt jump shot from 28 ft,,2,48,33,15,914.0
+8:44.0,Defensive rebound by P. Pritchard,48-33, ,,2,48,33,15,916.0
+8:39.0,S. Hauser misses 3-pt jump shot from 24 ft,48-33, ,,2,48,33,15,921.0
+8:35.0,Offensive rebound by O. Brissett,48-33, ,,2,48,33,15,925.0
+8:33.0,P. Pritchard misses 3-pt jump shot from 24 ft,48-33, ,,2,48,33,15,927.0
+8:30.0, ,48-33,Defensive rebound by S. Henderson,,2,48,33,15,930.0
+8:15.0, ,48-33,A. Simons misses 2-pt jump shot from 14 ft,,2,48,33,15,945.0
+8:11.0, ,48-33,Offensive rebound by D. Reath,,2,48,33,15,949.0
+8:06.0, ,48-33,D. Reath misses 2-pt jump shot from 10 ft,,2,48,33,15,954.0
+8:03.0,Defensive rebound by L. Kornet,48-33, ,,2,48,33,15,957.0
+7:51.0,J. Tatum misses 2-pt layup from 8 ft,48-33, ,,2,48,33,15,969.0
+7:47.0,Offensive rebound by L. Kornet,48-33, ,,2,48,33,15,973.0
+7:47.0,L. Kornet makes 2-pt dunk at rim,50-33, ,,2,50,33,17,973.0
+7:38.0, ,50-33,Shooting foul by O. Brissett (drawn by J. Grant),,2,50,33,17,982.0
+7:38.0, ,50-34,J. Grant makes free throw 1 of 2,,2,50,34,16,982.0
+7:38.0,J. Brown enters the game for O. Brissett,50-34, ,,2,50,34,16,982.0
+7:38.0,A. Horford enters the game for S. Hauser,50-34, ,,2,50,34,16,982.0
+7:38.0,D. White enters the game for J. Tatum,50-34, ,,2,50,34,16,982.0
+7:38.0, ,50-34,D. Ayton enters the game for T. Camara,,2,50,34,16,982.0
+7:38.0, ,50-34,K. Murray enters the game for D. Reath,,2,50,34,16,982.0
+7:38.0, ,50-35,J. Grant makes free throw 2 of 2,,2,50,35,15,982.0
+7:22.0,J. Brown makes 2-pt jump shot from 8 ft,52-35, ,,2,52,35,17,998.0
+7:07.0, ,52-37,D. Ayton makes 2-pt jump shot from 17 ft (assist by A. Simons),,2,52,37,15,1013.0
+6:41.0,P. Pritchard misses 2-pt jump shot from 13 ft,52-37, ,,2,52,37,15,1039.0
+6:37.0, ,52-37,Defensive rebound by D. Ayton,,2,52,37,15,1043.0
+6:31.0, ,52-39,D. Ayton makes 2-pt jump shot from 16 ft (assist by S. Henderson),,2,52,39,13,1049.0
+6:12.0,J. Brown makes 2-pt jump shot from 10 ft (assist by A. Horford),54-39, ,,2,54,39,15,1068.0
+5:55.0,Violation by Team (kicked ball),54-39, ,,2,54,39,15,1085.0
+5:55.0,J. Tatum enters the game for L. Kornet,54-39, ,,2,54,39,15,1085.0
+5:55.0, ,54-39,M. Thybulle enters the game for J. Grant,,2,54,39,15,1085.0
+5:40.0, ,54-39,S. Henderson misses 3-pt jump shot from 25 ft,,2,54,39,15,1100.0
+5:38.0,Defensive rebound by J. Tatum,54-39, ,,2,54,39,15,1102.0
+5:34.0,D. White makes 2-pt layup from 3 ft (assist by J. Tatum),56-39, ,,2,56,39,17,1106.0
+5:18.0, ,56-42,M. Thybulle makes 3-pt jump shot from 24 ft (assist by A. Simons),,2,56,42,14,1122.0
+4:58.0,J. Brown misses 2-pt jump shot from 8 ft,56-42, ,,2,56,42,14,1142.0
+4:57.0,Offensive rebound by J. Brown,56-42, ,,2,56,42,14,1143.0
+4:55.0,D. White misses 3-pt jump shot from 24 ft,56-42, ,,2,56,42,14,1145.0
+4:52.0, ,56-42,Defensive rebound by M. Thybulle,,2,56,42,14,1148.0
+4:44.0, ,56-45,A. Simons makes 3-pt jump shot from 26 ft (assist by S. Henderson),,2,56,45,11,1156.0
+4:43.0,Boston full timeout,56-45, ,,2,56,45,11,1157.0
+4:43.0,S. Hauser enters the game for P. Pritchard,56-45, ,,2,56,45,11,1157.0
+4:43.0, ,56-45,D. Banton enters the game for S. Henderson,,2,56,45,11,1157.0
+4:23.0,J. Brown misses 2-pt jump shot from 7 ft,56-45, ,,2,56,45,11,1177.0
+4:20.0, ,56-45,Defensive rebound by D. Banton,,2,56,45,11,1180.0
+4:12.0, ,56-45,M. Thybulle misses 3-pt jump shot from 26 ft,,2,56,45,11,1188.0
+4:10.0, ,56-45,Offensive rebound by D. Ayton,,2,56,45,11,1190.0
+4:08.0, ,56-47,D. Ayton makes 2-pt jump shot from 6 ft,,2,56,47,9,1192.0
+3:45.0,J. Tatum misses 3-pt jump shot from 25 ft,56-47, ,,2,56,47,9,1215.0
+3:43.0, ,56-47,Defensive rebound by D. Ayton,,2,56,47,9,1217.0
+3:37.0, ,56-50,A. Simons makes 3-pt jump shot from 26 ft,,2,56,50,6,1223.0
+3:13.0,J. Brown misses 3-pt jump shot from 27 ft (block by M. Thybulle),56-50, ,,2,56,50,6,1247.0
+3:11.0,Offensive rebound by J. Brown,56-50, ,,2,56,50,6,1249.0
+3:11.0,J. Brown makes 2-pt layup from 3 ft,58-50, ,,2,58,50,8,1249.0
+2:52.0, ,58-50,A. Simons misses 3-pt jump shot from 26 ft,,2,58,50,8,1268.0
+2:50.0,Defensive rebound by A. Horford,58-50, ,,2,58,50,8,1270.0
+2:44.0,D. White makes 2-pt layup from 1 ft (assist by J. Brown),60-50, ,,2,60,50,10,1276.0
+2:24.0, ,60-50,D. Banton misses 3-pt jump shot from 27 ft,,2,60,50,10,1296.0
+2:21.0,Defensive rebound by J. Tatum,60-50, ,,2,60,50,10,1299.0
+2:15.0,J. Tatum makes 2-pt dunk from 1 ft,62-50, ,,2,62,50,12,1305.0
+1:59.0, ,62-52,D. Ayton makes 2-pt jump shot from 11 ft (assist by D. Banton),,2,62,52,10,1321.0
+1:39.0,Shooting foul by A. Simons (drawn by J. Tatum),62-52, ,,2,62,52,10,1341.0
+1:39.0,J. Tatum makes free throw 1 of 2,63-52, ,,2,63,52,11,1341.0
+1:39.0, ,63-52,J. Grant enters the game for K. Murray,,2,63,52,11,1341.0
+1:39.0,J. Tatum makes free throw 2 of 2,64-52, ,,2,64,52,12,1341.0
+1:14.0, ,64-52,Turnover by A. Simons (bad pass; steal by D. White),,2,64,52,12,1366.0
+0:57.0,J. Brown makes 2-pt jump shot from 3 ft (assist by J. Tatum),66-52, ,,2,66,52,14,1383.0
+0:41.0, ,66-52,D. Banton misses 2-pt jump shot from 11 ft,,2,66,52,14,1399.0
+0:38.0,Defensive rebound by J. Brown,66-52, ,,2,66,52,14,1402.0
+0:33.0,J. Brown misses 3-pt jump shot from 25 ft,66-52, ,,2,66,52,14,1407.0
+0:29.0, ,66-52,Defensive rebound by D. Ayton,,2,66,52,14,1411.0
+0:06.0, ,66-52,A. Simons misses 3-pt jump shot from 32 ft,,2,66,52,14,1434.0
+0:03.0,Defensive rebound by D. White,66-52, ,,2,66,52,14,1437.0
+0:00.0,D. White misses 3-pt jump shot from 28 ft,66-52, ,,2,66,52,14,1440.0
+0:00.0,Offensive rebound by Team,66-52, ,,2,66,52,14,1440.0
+0:00.0,End of 2nd quarter,66-52,,,2,66,52,14,1440.0
+12:00.0,Start of 3rd quarter,66-52,,,3,66,52,14,1440.0
+11:48.0, ,66-52,Turnover by S. Henderson (bad pass; steal by J. Brown),,3,66,52,14,1452.0
+11:45.0,J. Brown makes 2-pt layup from 3 ft,68-52, ,,3,68,52,16,1455.0
+11:27.0, ,68-54,D. Ayton makes 2-pt dunk from 2 ft (assist by S. Henderson),,3,68,54,14,1473.0
+11:07.0,D. White misses 2-pt jump shot from 7 ft,68-54, ,,3,68,54,14,1493.0
+11:05.0, ,68-54,Defensive rebound by K. Murray,,3,68,54,14,1495.0
+11:05.0, ,68-54,Personal foul by D. White (drawn by K. Murray),,3,68,54,14,1495.0
+11:00.0, ,68-54,Turnover by S. Henderson (bad pass),,3,68,54,14,1500.0
+10:47.0,J. Brown makes 2-pt layup from 6 ft,70-54, ,,3,70,54,16,1513.0
+10:38.0, ,70-56,A. Simons makes 2-pt layup from 6 ft,,3,70,56,14,1522.0
+10:13.0,J. Brown misses 2-pt jump shot from 17 ft,70-56, ,,3,70,56,14,1547.0
+10:09.0, ,70-56,Defensive rebound by K. Murray,,3,70,56,14,1551.0
+10:04.0, ,70-58,K. Murray makes 2-pt jump shot from 10 ft,,3,70,58,12,1556.0
+9:43.0,J. Tatum misses 2-pt layup from 4 ft,70-58, ,,3,70,58,12,1577.0
+9:41.0, ,70-58,Defensive rebound by D. Ayton,,3,70,58,12,1579.0
+9:33.0, ,70-58,S. Henderson misses 3-pt jump shot from 25 ft,,3,70,58,12,1587.0
+9:29.0,Defensive rebound by P. Pritchard,70-58, ,,3,70,58,12,1591.0
+9:26.0,J. Tatum makes 2-pt dunk from 3 ft (assist by J. Brown),72-58, ,,3,72,58,14,1594.0
+9:09.0, ,72-60,J. Grant makes 2-pt hook shot from 4 ft,,3,72,60,12,1611.0
+8:44.0,J. Tatum makes 2-pt layup from 9 ft (assist by P. Pritchard),74-60, ,,3,74,60,14,1636.0
+8:35.0, ,74-60,A. Simons misses 2-pt layup from 3 ft (block by A. Horford),,3,74,60,14,1645.0
+8:31.0,Defensive rebound by J. Brown,74-60, ,,3,74,60,14,1649.0
+8:27.0,J. Brown makes 2-pt layup from 3 ft,76-60, ,,3,76,60,16,1653.0
+8:27.0, ,76-60,Portland full timeout,,3,76,60,16,1653.0
+8:13.0, ,76-60,A. Simons misses 2-pt layup from 8 ft (block by A. Horford),,3,76,60,16,1667.0
+8:11.0,Defensive rebound by P. Pritchard,76-60, ,,3,76,60,16,1669.0
+8:06.0,J. Brown makes 2-pt layup from 5 ft (assist by P. Pritchard),78-60, ,,3,78,60,18,1674.0
+7:47.0, ,78-60,Turnover by S. Henderson (bad pass; steal by A. Horford),,3,78,60,18,1693.0
+7:44.0,Shooting foul by A. Simons (drawn by J. Tatum),78-60, ,,3,78,60,18,1696.0
+7:44.0,J. Tatum makes free throw 1 of 2,79-60, ,,3,79,60,19,1696.0
+7:44.0, ,79-60,T. Camara enters the game for S. Henderson,,3,79,60,19,1696.0
+7:44.0, ,79-60,M. Thybulle enters the game for K. Murray,,3,79,60,19,1696.0
+7:44.0,J. Tatum misses free throw 2 of 2,79-60, ,,3,79,60,19,1696.0
+7:41.0, ,79-60,Defensive rebound by D. Ayton,,3,79,60,19,1699.0
+7:25.0, ,79-62,T. Camara makes 2-pt layup from 3 ft (assist by M. Thybulle),,3,79,62,17,1715.0
+7:03.0,J. Brown misses 2-pt jump shot from 6 ft,79-62, ,,3,79,62,17,1737.0
+7:02.0,Offensive rebound by D. White,79-62, ,,3,79,62,17,1738.0
+7:02.0,D. White misses 2-pt layup from 2 ft,79-62, ,,3,79,62,17,1738.0
+7:00.0,Offensive rebound by J. Brown,79-62, ,,3,79,62,17,1740.0
+7:00.0,J. Brown misses 2-pt layup from 2 ft,79-62, ,,3,79,62,17,1740.0
+6:59.0, ,79-62,Defensive rebound by T. Camara,,3,79,62,17,1741.0
+6:58.0, ,79-62,Personal foul by D. White (drawn by T. Camara),,3,79,62,17,1742.0
+6:49.0, ,79-64,M. Thybulle makes 2-pt layup from 2 ft (assist by J. Grant),,3,79,64,15,1751.0
+6:36.0,J. Brown misses 3-pt jump shot from 23 ft,79-64, ,,3,79,64,15,1764.0
+6:33.0, ,79-64,Defensive rebound by J. Grant,,3,79,64,15,1767.0
+6:22.0, ,79-66,D. Ayton makes 2-pt jump shot from 12 ft (assist by J. Grant),,3,79,66,13,1778.0
+5:59.0,P. Pritchard misses 3-pt jump shot from 26 ft,79-66, ,,3,79,66,13,1801.0
+5:56.0, ,79-66,Defensive rebound by D. Ayton,,3,79,66,13,1804.0
+5:46.0, ,79-66,A. Simons misses 3-pt jump shot from 23 ft,,3,79,66,13,1814.0
+5:46.0,Defensive rebound by P. Pritchard,79-66, ,,3,79,66,13,1814.0
+5:46.0,Boston full timeout,79-66, ,,3,79,66,13,1814.0
+5:46.0,S. Hauser enters the game for P. Pritchard,79-66, ,,3,79,66,13,1814.0
+5:46.0,L. Kornet enters the game for J. Tatum,79-66, ,,3,79,66,13,1814.0
+5:37.0,S. Hauser makes 3-pt jump shot from 24 ft (assist by J. Brown),82-66, ,,3,82,66,16,1823.0
+5:10.0, ,82-68,J. Grant makes 2-pt jump shot from 20 ft,,3,82,68,14,1850.0
+4:48.0,Turnover by L. Kornet (lost ball; steal by J. Grant),82-68, ,,3,82,68,14,1872.0
+4:40.0, ,82-68,D. Ayton misses 2-pt jump shot from 17 ft,,3,82,68,14,1880.0
+4:36.0,Defensive rebound by A. Horford,82-68, ,,3,82,68,14,1884.0
+4:31.0,J. Brown misses 3-pt jump shot from 26 ft,82-68, ,,3,82,68,14,1889.0
+4:29.0,Offensive rebound by Team,82-68, ,,3,82,68,14,1891.0
+4:24.0,Turnover by D. White (bad pass; steal by M. Thybulle),82-68, ,,3,82,68,14,1896.0
+4:08.0, ,82-68,J. Grant misses 2-pt layup from 2 ft (block by S. Hauser),,3,82,68,14,1912.0
+4:06.0, ,82-68,Offensive rebound by Team,,3,82,68,14,1914.0
+4:06.0, ,82-68,S. Henderson enters the game for A. Simons,,3,82,68,14,1914.0
+4:06.0, ,82-68,Personal foul by D. White (drawn by J. Grant),,3,82,68,14,1914.0
+3:58.0, ,82-70,S. Henderson makes 2-pt jump shot from 14 ft,,3,82,70,12,1922.0
+3:40.0,J. Brown misses 3-pt jump shot from 26 ft,82-70, ,,3,82,70,12,1940.0
+3:37.0, ,82-70,Defensive rebound by D. Ayton,,3,82,70,12,1943.0
+3:33.0, ,82-70,J. Grant misses 3-pt jump shot from 25 ft,,3,82,70,12,1947.0
+3:31.0,Defensive rebound by Team,82-70, ,,3,82,70,12,1949.0
+3:24.0,D. White makes 2-pt layup from 3 ft (assist by J. Brown),84-70, ,,3,84,70,14,1956.0
+3:09.0, ,84-70,D. Ayton misses 2-pt jump shot from 10 ft,,3,84,70,14,1971.0
+3:07.0,Defensive rebound by J. Brown,84-70, ,,3,84,70,14,1973.0
+2:46.0,J. Brown misses 2-pt jump shot from 16 ft,84-70, ,,3,84,70,14,1994.0
+2:44.0, ,84-70,Defensive rebound by M. Thybulle,,3,84,70,14,1996.0
+2:40.0, ,84-70,Personal foul by J. Brown (drawn by S. Henderson),,3,84,70,14,2000.0
+2:40.0,O. Brissett enters the game for A. Horford,84-70, ,,3,84,70,14,2000.0
+2:40.0, ,84-70,D. Banton enters the game for D. Ayton,,3,84,70,14,2000.0
+2:40.0, ,84-70,D. Reath enters the game for T. Camara,,3,84,70,14,2000.0
+2:28.0, ,84-70,J. Grant misses 2-pt jump shot from 9 ft (block by D. White),,3,84,70,14,2012.0
+2:25.0,Defensive rebound by D. White,84-70, ,,3,84,70,14,2015.0
+2:20.0,D. White misses 2-pt jump shot from 8 ft,84-70, ,,3,84,70,14,2020.0
+2:19.0,Offensive rebound by O. Brissett,84-70, ,,3,84,70,14,2021.0
+2:19.0,Personal foul by S. Henderson (drawn by O. Brissett),84-70, ,,3,84,70,14,2021.0
+2:11.0,J. Brown misses 2-pt jump shot from 7 ft (block by M. Thybulle),84-70, ,,3,84,70,14,2029.0
+2:11.0, ,84-70,Defensive rebound by Team,,3,84,70,14,2029.0
+2:11.0,Jump ball: M. Thybulle vs. J. Brown (S. Henderson gains possession),84-70,,,3,84,70,14,2029.0
+2:05.0, ,84-72,S. Henderson makes 2-pt layup from 1 ft,,3,84,72,12,2035.0
+1:45.0,D. White misses 2-pt jump shot from 11 ft,84-72, ,,3,84,72,12,2055.0
+1:43.0, ,84-72,Defensive rebound by M. Thybulle,,3,84,72,12,2057.0
+1:36.0, ,84-74,J. Grant makes 2-pt jump shot from 11 ft,,3,84,74,10,2064.0
+1:36.0, ,84-74,Shooting foul by J. Brown (drawn by J. Grant),,3,84,74,10,2064.0
+1:36.0, ,84-75,J. Grant makes free throw 1 of 1,,3,84,75,9,2064.0
+1:20.0,S. Hauser makes 2-pt jump shot from 15 ft (assist by J. Brown),86-75, ,,3,86,75,11,2080.0
+0:57.0, ,86-75,S. Henderson misses 2-pt layup from 5 ft (block by L. Kornet),,3,86,75,11,2103.0
+0:54.0,Defensive rebound by L. Kornet,86-75, ,,3,86,75,11,2106.0
+0:39.0,D. White misses 3-pt jump shot from 25 ft,86-75, ,,3,86,75,11,2121.0
+0:38.0,Offensive rebound by Team,86-75, ,,3,86,75,11,2122.0
+0:38.0, ,86-75,Loose ball foul by S. Henderson (drawn by O. Brissett),,3,86,75,11,2122.0
+0:36.0,J. Brown makes 2-pt jump shot from 14 ft (assist by D. White),88-75, ,,3,88,75,13,2124.0
+0:16.0, ,88-75,Offensive foul by D. Reath (drawn by D. White),,3,88,75,13,2144.0
+0:16.0, ,88-75,Turnover by D. Reath (offensive foul),,3,88,75,13,2144.0
+0:16.0,P. Pritchard enters the game for O. Brissett,88-75, ,,3,88,75,13,2144.0
+0:16.0, ,88-75,T. Camara enters the game for D. Reath,,3,88,75,13,2144.0
+0:02.0,J. Brown misses 2-pt jump shot from 14 ft (block by M. Thybulle),88-75, ,,3,88,75,13,2158.0
+0:01.0, ,88-75,Defensive rebound by Team,,3,88,75,13,2159.0
+0:00.0,End of 3rd quarter,88-75,,,3,88,75,13,2160.0
+12:00.0,Start of 4th quarter,88-75,,,4,88,75,13,2160.0
+11:41.0,J. Tatum misses 3-pt jump shot from 26 ft,88-75, ,,4,88,75,13,2179.0
+11:39.0,Offensive rebound by O. Brissett,88-75, ,,4,88,75,13,2181.0
+11:37.0,J. Tatum misses 3-pt jump shot from 25 ft,88-75, ,,4,88,75,13,2183.0
+11:35.0, ,88-75,Defensive rebound by Team,,4,88,75,13,2185.0
+11:17.0, ,88-77,D. Reath makes 2-pt dunk from 1 ft (assist by D. Banton),,4,88,77,11,2203.0
+10:57.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by P. Pritchard),91-77, ,,4,91,77,14,2223.0
+10:46.0, ,91-80,D. Banton makes 3-pt jump shot from 25 ft (assist by S. Henderson),,4,91,80,11,2234.0
+10:30.0,J. Tatum makes 2-pt layup from 3 ft,93-80, ,,4,93,80,13,2250.0
+10:11.0, ,93-80,T. Camara misses 3-pt jump shot from 23 ft,,4,93,80,13,2269.0
+10:07.0,Defensive rebound by P. Pritchard,93-80, ,,4,93,80,13,2273.0
+9:45.0,O. Brissett makes 2-pt dunk from 2 ft (assist by J. Tatum),95-80, ,,4,95,80,15,2295.0
+9:28.0, ,95-80,T. Camara misses 2-pt jump shot from 10 ft,,4,95,80,15,2312.0
+9:26.0, ,95-80,Offensive rebound by S. Henderson,,4,95,80,15,2314.0
+9:24.0, ,95-83,D. Banton makes 3-pt jump shot from 26 ft (assist by S. Henderson),,4,95,83,12,2316.0
+9:05.0,J. Tatum makes 3-pt jump shot from 26 ft,98-83, ,,4,98,83,15,2335.0
+8:44.0, ,98-83,Turnover by S. Henderson (lost ball; steal by S. Hauser),,4,98,83,15,2356.0
+8:40.0,S. Hauser makes 3-pt jump shot from 24 ft (assist by P. Pritchard),101-83, ,,4,101,83,18,2360.0
+8:38.0, ,101-83,Portland full timeout,,4,101,83,18,2362.0
+8:38.0, ,101-83,D. Ayton enters the game for S. Henderson,,4,101,83,18,2362.0
+8:38.0, ,101-83,J. Grant enters the game for D. Reath,,4,101,83,18,2362.0
+8:38.0, ,101-83,A. Simons enters the game for M. Thybulle,,4,101,83,18,2362.0
+8:21.0, ,101-85,A. Simons makes 2-pt hook shot from 4 ft,,4,101,85,16,2379.0
+8:04.0,J. Tatum misses 3-pt jump shot from 25 ft,101-85, ,,4,101,85,16,2396.0
+8:03.0,Offensive rebound by Team,101-85, ,,4,101,85,16,2397.0
+8:03.0, ,101-85,Loose ball foul by D. Banton (drawn by L. Kornet),,4,101,85,16,2397.0
+7:54.0,J. Tatum misses 2-pt jump shot from 17 ft,101-85, ,,4,101,85,16,2406.0
+7:51.0, ,101-85,Defensive rebound by A. Simons,,4,101,85,16,2409.0
+7:47.0, ,101-87,D. Ayton makes 2-pt layup from 4 ft (assist by D. Banton),,4,101,87,14,2413.0
+7:30.0,J. Tatum misses 2-pt layup from 5 ft (block by T. Camara),101-87, ,,4,101,87,14,2430.0
+7:27.0, ,101-87,Defensive rebound by D. Banton,,4,101,87,14,2433.0
+7:26.0, ,101-87,D. Banton misses 2-pt layup from 3 ft (block by L. Kornet),,4,101,87,14,2434.0
+7:26.0, ,101-87,Offensive rebound by Team,,4,101,87,14,2434.0
+7:17.0, ,101-87,D. Ayton misses 2-pt jump shot from 15 ft,,4,101,87,14,2443.0
+7:14.0,Defensive rebound by O. Brissett,101-87, ,,4,101,87,14,2446.0
+6:58.0,P. Pritchard makes 2-pt layup from 2 ft,103-87, ,,4,103,87,16,2462.0
+6:40.0, ,103-87,A. Simons misses 3-pt jump shot from 27 ft,,4,103,87,16,2480.0
+6:37.0,Defensive rebound by J. Tatum,103-87, ,,4,103,87,16,2483.0
+6:21.0,J. Tatum misses 2-pt layup from 3 ft,103-87, ,,4,103,87,16,2499.0
+6:19.0, ,103-87,Defensive rebound by D. Ayton,,4,103,87,16,2501.0
+6:10.0, ,103-87,D. Banton misses 3-pt jump shot from 26 ft,,4,103,87,16,2510.0
+6:09.0,Defensive rebound by Team,103-87, ,,4,103,87,16,2511.0
+6:09.0,Boston full timeout,103-87, ,,4,103,87,16,2511.0
+6:09.0,A. Horford enters the game for O. Brissett,103-87, ,,4,103,87,16,2511.0
+6:09.0,D. White enters the game for L. Kornet,103-87, ,,4,103,87,16,2511.0
+6:09.0, ,103-87,S. Henderson enters the game for D. Banton,,4,103,87,16,2511.0
+5:54.0,S. Hauser misses 3-pt jump shot from 23 ft,103-87, ,,4,103,87,16,2526.0
+5:51.0, ,103-87,Defensive rebound by D. Ayton,,4,103,87,16,2529.0
+5:41.0, ,103-89,S. Henderson makes 2-pt jump shot from 10 ft (assist by T. Camara),,4,103,89,14,2539.0
+5:17.0,J. Tatum makes 2-pt jump shot from 6 ft,105-89, ,,4,105,89,16,2563.0
+4:56.0, ,105-89,Turnover by J. Grant (bad pass),,4,105,89,16,2584.0
+4:56.0,J. Brown enters the game for P. Pritchard,105-89, ,,4,105,89,16,2584.0
+4:39.0,Shooting foul by A. Simons (drawn by J. Tatum),105-89, ,,4,105,89,16,2601.0
+4:39.0,J. Tatum makes free throw 1 of 2,106-89, ,,4,106,89,17,2601.0
+4:39.0,J. Tatum makes free throw 2 of 2,107-89, ,,4,107,89,18,2601.0
+4:31.0, ,107-91,D. Ayton makes 2-pt dunk from 2 ft (assist by A. Simons),,4,107,91,16,2609.0
+4:13.0,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Tatum),110-91, ,,4,110,91,19,2627.0
+3:54.0, ,110-91,J. Grant misses 2-pt jump shot from 11 ft (block by D. White),,4,110,91,19,2646.0
+3:54.0, ,110-91,Offensive rebound by Team,,4,110,91,19,2646.0
+3:51.0, ,110-93,J. Grant makes 2-pt jump shot from 17 ft (assist by S. Henderson),,4,110,93,17,2649.0
+3:28.0,J. Tatum misses 2-pt layup from 4 ft,110-93, ,,4,110,93,17,2672.0
+3:26.0, ,110-93,Defensive rebound by S. Henderson,,4,110,93,17,2674.0
+3:19.0, ,110-93,A. Simons misses 2-pt layup from 5 ft,,4,110,93,17,2681.0
+3:15.0, ,110-93,Offensive rebound by D. Ayton,,4,110,93,17,2685.0
+3:15.0, ,110-93,D. Ayton misses 2-pt layup at rim,,4,110,93,17,2685.0
+3:13.0, ,110-93,Turnover by D. Ayton (traveling),,4,110,93,17,2687.0
+2:58.0,A. Horford makes 2-pt dunk from 3 ft (assist by D. White),112-93, ,,4,112,93,19,2702.0
+2:41.0, ,112-93,A. Simons misses 2-pt jump shot from 12 ft,,4,112,93,19,2719.0
+2:39.0, ,112-93,Offensive rebound by D. Ayton,,4,112,93,19,2721.0
+2:38.0, ,112-93,D. Ayton misses 2-pt hook shot from 7 ft (block by D. White),,4,112,93,19,2722.0
+2:34.0, ,112-93,Offensive rebound by S. Henderson,,4,112,93,19,2726.0
+2:30.0, ,112-95,T. Camara makes 2-pt layup from 2 ft (assist by S. Henderson),,4,112,95,17,2730.0
+2:00.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by A. Horford),115-95, ,,4,115,95,20,2760.0
+1:54.0, ,115-95,Portland full timeout,,4,115,95,20,2766.0
+1:54.0,O. Brissett enters the game for J. Brown,115-95, ,,4,115,95,20,2766.0
+1:54.0,J. Davison enters the game for S. Hauser,115-95, ,,4,115,95,20,2766.0
+1:54.0,P. Pritchard enters the game for A. Horford,115-95, ,,4,115,95,20,2766.0
+1:54.0,N. Queta enters the game for J. Tatum,115-95, ,,4,115,95,20,2766.0
+1:54.0,J. Springer enters the game for D. White,115-95, ,,4,115,95,20,2766.0
+1:54.0, ,115-95,D. Banton enters the game for D. Ayton,,4,115,95,20,2766.0
+1:54.0, ,115-95,M. Brown enters the game for J. Grant,,4,115,95,20,2766.0
+1:54.0, ,115-95,K. Murray enters the game for S. Henderson,,4,115,95,20,2766.0
+1:54.0, ,115-95,R. Rupert enters the game for A. Simons,,4,115,95,20,2766.0
+1:40.0, ,115-95,M. Brown misses 2-pt layup from 5 ft (block by N. Queta),,4,115,95,20,2780.0
+1:40.0, ,115-95,Offensive rebound by Team,,4,115,95,20,2780.0
+1:40.0,Jump ball: M. Brown vs. N. Queta (D. Banton gains possession),115-95,,,4,115,95,20,2780.0
+1:28.0, ,115-95,M. Brown misses 2-pt hook shot from 5 ft,,4,115,95,20,2792.0
+1:28.0, ,115-95,Offensive rebound by Team,,4,115,95,20,2792.0
+1:20.0, ,115-95,R. Rupert misses 2-pt layup from 3 ft,,4,115,95,20,2800.0
+1:17.0,Defensive rebound by J. Davison,115-95, ,,4,115,95,20,2803.0
+1:14.0,P. Pritchard makes 2-pt jump shot from 11 ft,117-95, ,,4,117,95,22,2806.0
+1:07.0, ,117-95,Shooting foul by J. Davison (drawn by D. Banton),,4,117,95,22,2813.0
+1:07.0, ,117-96,D. Banton makes free throw 1 of 2,,4,117,96,21,2813.0
+1:07.0, ,117-97,D. Banton makes free throw 2 of 2,,4,117,97,20,2813.0
+0:51.0,J. Davison makes 3-pt jump shot from 26 ft (assist by N. Queta),120-97, ,,4,120,97,23,2829.0
+0:42.0, ,120-97,Turnover by D. Banton (lost ball; steal by J. Springer),,4,120,97,23,2838.0
+0:36.0,N. Queta misses 2-pt hook shot from 8 ft,120-97, ,,4,120,97,23,2844.0
+0:35.0,Offensive rebound by N. Queta,120-97, ,,4,120,97,23,2845.0
+0:35.0,Shooting foul by M. Brown (drawn by N. Queta),120-97, ,,4,120,97,23,2845.0
+0:35.0,N. Queta makes free throw 1 of 2,121-97, ,,4,121,97,24,2845.0
+0:35.0,N. Queta misses free throw 2 of 2,121-97, ,,4,121,97,24,2845.0
+0:32.0, ,121-97,Defensive rebound by K. Murray,,4,121,97,24,2848.0
+0:17.0, ,121-99,M. Brown makes 2-pt layup from 4 ft (assist by R. Rupert),,4,121,99,22,2863.0
+0:00.0,End of 4th quarter,121-99,,,4,121,99,22,2880.0

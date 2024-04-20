@@ -1,0 +1,437 @@
+Time,Washington,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Avdija vs. L. Kornet (J. Walsh gains possession),0-0,,,1,0,0,0,0.0
+11:44.0, ,0-2,P. Pritchard makes 2-pt layup from 3 ft,,1,2,0,2,16.0
+11:26.0,A. Gill misses 3-pt jump shot from 27 ft,0-2, ,,1,2,0,2,34.0
+11:24.0, ,0-2,Defensive rebound by S. Mykhailiuk,,1,2,0,2,36.0
+11:11.0, ,0-4,S. Mykhailiuk makes 2-pt layup from 4 ft (assist by J. Walsh),,1,4,0,4,49.0
+10:58.0,A. Gill misses 3-pt jump shot from 27 ft,0-4, ,,1,4,0,4,62.0
+10:57.0, ,0-4,Defensive rebound by S. Hauser,,1,4,0,4,63.0
+10:45.0, ,0-4,Shooting foul by J. Davis (drawn by P. Pritchard),,1,4,0,4,75.0
+10:45.0, ,0-5,P. Pritchard makes free throw 1 of 2,,1,5,0,5,75.0
+10:45.0, ,0-6,P. Pritchard makes free throw 2 of 2,,1,6,0,6,75.0
+10:34.0,C. Kispert misses 2-pt jump shot from 13 ft,0-6, ,,1,6,0,6,86.0
+10:33.0, ,0-6,Defensive rebound by L. Kornet,,1,6,0,6,87.0
+10:28.0, ,0-9,S. Mykhailiuk makes 3-pt jump shot from 27 ft (assist by P. Pritchard),,1,9,0,9,92.0
+10:14.0,A. Gill misses 2-pt jump shot from 8 ft,0-9, ,,1,9,0,9,106.0
+10:13.0, ,0-9,Defensive rebound by L. Kornet,,1,9,0,9,107.0
+10:05.0, ,0-9,Personal foul by J. Davis (drawn by P. Pritchard),,1,9,0,9,115.0
+10:00.0, ,0-9,S. Hauser misses 3-pt jump shot from 27 ft,,1,9,0,9,120.0
+9:58.0,Defensive rebound by P. Baldwin,0-9, ,,1,9,0,9,122.0
+9:52.0,Shooting foul by S. Mykhailiuk (drawn by D. Avdija),0-9, ,,1,9,0,9,128.0
+9:52.0,D. Avdija makes free throw 1 of 2,1-9, ,,1,9,1,8,128.0
+9:52.0,D. Avdija makes free throw 2 of 2,2-9, ,,1,9,2,7,128.0
+9:39.0, ,2-9,P. Pritchard misses 2-pt jump shot from 11 ft,,1,9,2,7,141.0
+9:38.0,Defensive rebound by A. Gill,2-9, ,,1,9,2,7,142.0
+9:32.0,A. Gill makes 2-pt layup from 3 ft,4-9, ,,1,9,4,5,148.0
+9:16.0, ,4-9,S. Hauser misses 2-pt layup from 3 ft,,1,9,4,5,164.0
+9:15.0,Defensive rebound by P. Baldwin,4-9, ,,1,9,4,5,165.0
+9:07.0,A. Gill makes 2-pt jump shot from 8 ft (assist by C. Kispert),6-9, ,,1,9,6,3,173.0
+9:07.0,Shooting foul by S. Hauser (drawn by A. Gill),6-9, ,,1,9,6,3,173.0
+9:07.0,A. Gill makes free throw 1 of 1,7-9, ,,1,9,7,2,173.0
+9:00.0, ,7-9,Personal foul by D. Avdija (drawn by S. Mykhailiuk),,1,9,7,2,180.0
+8:53.0, ,7-9,J. Walsh misses 3-pt jump shot from 23 ft,,1,9,7,2,187.0
+8:50.0, ,7-9,Offensive rebound by L. Kornet,,1,9,7,2,190.0
+8:40.0, ,7-9,P. Pritchard misses 2-pt jump shot from 10 ft,,1,9,7,2,200.0
+8:38.0, ,7-9,Offensive rebound by S. Mykhailiuk,,1,9,7,2,202.0
+8:33.0, ,7-9,S. Hauser misses 3-pt jump shot from 25 ft,,1,9,7,2,207.0
+8:31.0,Defensive rebound by D. Avdija,7-9, ,,1,9,7,2,209.0
+8:20.0,D. Avdija misses 2-pt layup from 4 ft,7-9, ,,1,9,7,2,220.0
+8:19.0,Offensive rebound by Team,7-9, ,,1,9,7,2,221.0
+8:17.0,C. Kispert misses 3-pt jump shot from 23 ft,7-9, ,,1,9,7,2,223.0
+8:16.0, ,7-9,Defensive rebound by S. Hauser,,1,9,7,2,224.0
+8:11.0, ,7-11,S. Mykhailiuk makes 2-pt dunk from 2 ft (assist by P. Pritchard),,1,11,7,4,229.0
+7:53.0,A. Gill misses 2-pt hook shot from 10 ft (block by L. Kornet),7-11, ,,1,11,7,4,247.0
+7:52.0,Offensive rebound by A. Gill,7-11, ,,1,11,7,4,248.0
+7:49.0,A. Gill misses 2-pt hook shot from 7 ft (block by L. Kornet),7-11, ,,1,11,7,4,251.0
+7:47.0, ,7-11,Defensive rebound by J. Walsh,,1,11,7,4,253.0
+7:31.0, ,7-13,S. Mykhailiuk makes 2-pt layup from 2 ft (assist by L. Kornet),,1,13,7,6,269.0
+7:22.0,Turnover by D. Avdija (lost ball; steal by J. Walsh),7-13, ,,1,13,7,6,278.0
+7:20.0, ,7-13,Shooting foul by A. Gill (drawn by J. Walsh),,1,13,7,6,280.0
+7:20.0, ,7-13,J. Walsh misses free throw 1 of 2,,1,13,7,6,280.0
+7:20.0, ,7-13,Offensive rebound by Team,,1,13,7,6,280.0
+7:20.0, ,7-14,J. Walsh makes free throw 2 of 2,,1,14,7,7,280.0
+6:59.0,P. Baldwin makes 3-pt jump shot from 27 ft (assist by A. Gill),10-14, ,,1,14,10,4,301.0
+6:39.0, ,10-17,S. Mykhailiuk makes 3-pt jump shot from 27 ft (assist by P. Pritchard),,1,17,10,7,321.0
+6:31.0,A. Gill makes 2-pt jump shot from 8 ft (assist by C. Kispert),12-17, ,,1,17,12,5,329.0
+6:31.0, ,12-17,Violation by Team (def goaltending),,1,17,12,5,329.0
+6:08.0, ,12-17,S. Hauser misses 2-pt jump shot from 3 ft,,1,17,12,5,352.0
+6:06.0,Defensive rebound by J. Davis,12-17, ,,1,17,12,5,354.0
+6:00.0,J. Davis misses 2-pt jump shot from 4 ft (block by S. Hauser),12-17, ,,1,17,12,5,360.0
+5:59.0, ,12-17,Defensive rebound by P. Pritchard,,1,17,12,5,361.0
+5:54.0, ,12-19,P. Pritchard makes 2-pt layup from 1 ft,,1,19,12,7,366.0
+5:54.0,Washington full timeout,12-19, ,,1,19,12,7,366.0
+5:54.0,J. Butler enters the game for D. Avdija,12-19, ,,1,19,12,7,366.0
+5:54.0,E. Omoruyi enters the game for A. Gill,12-19, ,,1,19,12,7,366.0
+5:54.0, ,12-19,J. Springer enters the game for S. Hauser,,1,19,12,7,366.0
+5:54.0, ,12-19,X. Tillman enters the game for J. Walsh,,1,19,12,7,366.0
+5:42.0,P. Baldwin misses 3-pt jump shot from 27 ft,12-19, ,,1,19,12,7,378.0
+5:40.0, ,12-19,Defensive rebound by J. Springer,,1,19,12,7,380.0
+5:19.0, ,12-19,P. Pritchard misses 2-pt jump shot from 18 ft,,1,19,12,7,401.0
+5:17.0,Defensive rebound by Team,12-19, ,,1,19,12,7,403.0
+5:00.0,E. Omoruyi makes 3-pt jump shot from 27 ft (assist by J. Davis),15-19, ,,1,19,15,4,420.0
+4:43.0, ,15-19,P. Pritchard misses 3-pt jump shot from 25 ft,,1,19,15,4,437.0
+4:41.0,Defensive rebound by C. Kispert,15-19, ,,1,19,15,4,439.0
+4:32.0,Turnover by J. Davis (lost ball; steal by J. Springer),15-19, ,,1,19,15,4,448.0
+4:29.0, ,15-21,L. Kornet makes 2-pt dunk at rim (assist by P. Pritchard),,1,21,15,6,451.0
+4:14.0,Turnover by J. Davis (lost ball; steal by J. Springer),15-21, ,,1,21,15,6,466.0
+4:11.0, ,15-21,Personal foul by E. Omoruyi (drawn by J. Springer),,1,21,15,6,469.0
+4:11.0, ,15-22,J. Springer makes free throw 1 of 2,,1,22,15,7,469.0
+4:11.0,J. Champagnie enters the game for J. Davis,15-22, ,,1,22,15,7,469.0
+4:11.0, ,15-22,O. Brissett enters the game for L. Kornet,,1,22,15,7,469.0
+4:11.0, ,15-22,D. Peterson enters the game for S. Mykhailiuk,,1,22,15,7,469.0
+4:11.0, ,15-23,J. Springer makes free throw 2 of 2,,1,23,15,8,469.0
+3:57.0,J. Butler makes 2-pt layup from 4 ft,17-23, ,,1,23,17,6,483.0
+3:47.0, ,17-23,Turnover by X. Tillman (traveling),,1,23,17,6,493.0
+3:35.0,J. Champagnie makes 2-pt layup from 3 ft (assist by E. Omoruyi),19-23, ,,1,23,19,4,505.0
+3:15.0, ,19-26,X. Tillman makes 3-pt jump shot from 23 ft (assist by P. Pritchard),,1,26,19,7,525.0
+3:05.0,J. Butler misses 2-pt layup from 5 ft (block by J. Springer),19-26, ,,1,26,19,7,535.0
+3:04.0,Offensive rebound by Team,19-26, ,,1,26,19,7,536.0
+3:04.0,D. Avdija enters the game for P. Baldwin,19-26, ,,1,26,19,7,536.0
+3:04.0,J. Bernard enters the game for C. Kispert,19-26, ,,1,26,19,7,536.0
+3:02.0,D. Avdija makes 2-pt layup from 3 ft,21-26, ,,1,26,21,5,538.0
+2:46.0, ,21-26,D. Peterson misses 3-pt jump shot from 27 ft,,1,26,21,5,554.0
+2:44.0, ,21-26,Offensive rebound by X. Tillman,,1,26,21,5,556.0
+2:39.0, ,21-28,X. Tillman makes 2-pt hook shot from 3 ft,,1,28,21,7,561.0
+2:24.0,E. Omoruyi makes 2-pt dunk from 2 ft (assist by J. Champagnie),23-28, ,,1,28,23,5,576.0
+2:06.0, ,23-28,O. Brissett misses 2-pt layup from 2 ft,,1,28,23,5,594.0
+2:05.0,Defensive rebound by E. Omoruyi,23-28, ,,1,28,23,5,595.0
+1:58.0,E. Omoruyi makes 2-pt jump shot from 10 ft,25-28, ,,1,28,25,3,602.0
+1:37.0, ,25-30,X. Tillman makes 2-pt hook shot from 5 ft,,1,30,25,5,623.0
+1:22.0,D. Avdija misses 3-pt jump shot from 28 ft,25-30, ,,1,30,25,5,638.0
+1:20.0, ,25-30,Defensive rebound by Team,,1,30,25,5,640.0
+1:20.0, ,25-30,Boston full timeout,,1,30,25,5,640.0
+1:03.0, ,25-30,P. Pritchard misses 2-pt layup from 7 ft (block by D. Avdija),,1,30,25,5,657.0
+1:02.0,Defensive rebound by D. Avdija,25-30, ,,1,30,25,5,658.0
+0:57.0,J. Bernard misses 3-pt jump shot from 27 ft,25-30, ,,1,30,25,5,663.0
+0:56.0, ,25-30,Defensive rebound by O. Brissett,,1,30,25,5,664.0
+0:40.0, ,25-32,J. Springer makes 2-pt layup from 2 ft,,1,32,25,7,680.0
+0:28.0,J. Butler makes 2-pt layup from 2 ft (assist by J. Bernard),27-32, ,,1,32,27,5,692.0
+0:08.0, ,27-34,X. Tillman makes 2-pt layup from 3 ft (assist by O. Brissett),,1,34,27,7,712.0
+0:08.0, ,27-34,Shooting foul by J. Butler (drawn by X. Tillman),,1,34,27,7,712.0
+0:08.0, ,27-34,X. Tillman misses free throw 1 of 1,,1,34,27,7,712.0
+0:08.0,Defensive rebound by J. Butler,27-34, ,,1,34,27,7,712.0
+0:06.0,Personal foul by P. Pritchard (drawn by J. Butler),27-34, ,,1,34,27,7,714.0
+0:06.0, ,27-34,J. Walsh enters the game for X. Tillman,,1,34,27,7,714.0
+0:00.0,J. Butler makes 3-pt jump shot from 28 ft,30-34, ,,1,34,30,4,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),30-34, ,,1,34,30,4,720.0
+0:00.0,End of 1st quarter,30-34,,,1,34,30,4,720.0
+12:00.0,Start of 2nd quarter,30-34,,,2,34,30,4,720.0
+11:51.0,D. Avdija misses 2-pt jump shot from 14 ft (block by O. Brissett),30-34, ,,2,34,30,4,729.0
+11:50.0, ,30-34,Defensive rebound by J. Walsh,,2,34,30,4,730.0
+11:34.0, ,30-34,S. Hauser misses 2-pt layup from 3 ft,,2,34,30,4,746.0
+11:32.0,Defensive rebound by A. Gill,30-34, ,,2,34,30,4,748.0
+11:26.0,J. Champagnie makes 2-pt layup from 2 ft (assist by J. Butler),32-34, ,,2,34,32,2,754.0
+11:12.0, ,32-34,Turnover by O. Brissett (lost ball; steal by J. Champagnie),,2,34,32,2,768.0
+11:05.0,J. Champagnie misses 3-pt jump shot from 26 ft,32-34, ,,2,34,32,2,775.0
+11:04.0, ,32-34,Defensive rebound by S. Hauser,,2,34,32,2,776.0
+10:46.0, ,32-34,Shooting foul by A. Gill (drawn by J. Davison),,2,34,32,2,794.0
+10:46.0, ,32-35,J. Davison makes free throw 1 of 2,,2,35,32,3,794.0
+10:46.0, ,32-35,J. Davison misses free throw 2 of 2,,2,35,32,3,794.0
+10:46.0,Defensive rebound by J. Champagnie,32-35, ,,2,35,32,3,794.0
+10:30.0,J. Butler misses 2-pt layup from 5 ft (block by N. Queta),32-35, ,,2,35,32,3,810.0
+10:29.0, ,32-35,Defensive rebound by N. Queta,,2,35,32,3,811.0
+10:16.0, ,32-35,S. Hauser misses 3-pt jump shot from 23 ft,,2,35,32,3,824.0
+10:14.0,Defensive rebound by C. Kispert,32-35, ,,2,35,32,3,826.0
+10:07.0,C. Kispert misses 3-pt jump shot from 28 ft,32-35, ,,2,35,32,3,833.0
+10:05.0,Offensive rebound by J. Champagnie,32-35, ,,2,35,32,3,835.0
+10:05.0,J. Champagnie makes 2-pt layup at rim,34-35, ,,2,35,34,1,835.0
+10:05.0,Shooting foul by J. Davison (drawn by J. Champagnie),34-35, ,,2,35,34,1,835.0
+10:05.0,J. Champagnie makes free throw 1 of 1,35-35, ,Tie,2,35,35,0,835.0
+9:52.0, ,35-35,Offensive foul by J. Walsh (drawn by A. Gill),,2,35,35,0,848.0
+9:52.0, ,35-35,Turnover by J. Walsh (offensive foul),,2,35,35,0,848.0
+9:52.0,J. Bernard enters the game for J. Champagnie,35-35, ,,2,35,35,0,848.0
+9:52.0, ,35-35,S. Mykhailiuk enters the game for O. Brissett,,2,35,35,0,848.0
+9:39.0,C. Kispert misses 3-pt jump shot from 28 ft,35-35, ,,2,35,35,0,861.0
+9:36.0,Offensive rebound by A. Gill,35-35, ,,2,35,35,0,864.0
+9:31.0,C. Kispert makes 2-pt layup from 4 ft (assist by A. Gill),37-35, ,Lead change,2,35,37,-2,869.0
+9:16.0, ,37-35,S. Hauser misses 3-pt jump shot from 26 ft,,2,35,37,-2,884.0
+9:15.0,Defensive rebound by J. Bernard,37-35, ,,2,35,37,-2,885.0
+9:07.0,J. Bernard makes 2-pt layup from 4 ft,39-35, ,,2,35,39,-4,893.0
+9:06.0, ,39-35,Boston full timeout,,2,35,39,-4,894.0
+9:06.0,J. Champagnie enters the game for J. Butler,39-35, ,,2,35,39,-4,894.0
+8:51.0, ,39-35,N. Queta misses 2-pt hook shot from 6 ft,,2,35,39,-4,909.0
+8:50.0, ,39-35,Offensive rebound by N. Queta,,2,35,39,-4,910.0
+8:49.0, ,39-37,N. Queta makes 2-pt layup from 1 ft,,2,37,39,-2,911.0
+8:29.0,Turnover by J. Bernard (bad pass; steal by J. Davison),39-37, ,,2,37,39,-2,931.0
+8:15.0, ,39-40,S. Mykhailiuk makes 3-pt jump shot from 24 ft (assist by J. Davison),Lead change,2,40,39,1,945.0
+8:00.0,D. Avdija misses 3-pt jump shot from 28 ft,39-40, ,,2,40,39,1,960.0
+7:59.0, ,39-40,Defensive rebound by N. Queta,,2,40,39,1,961.0
+7:51.0, ,39-40,S. Mykhailiuk misses 3-pt jump shot from 28 ft,,2,40,39,1,969.0
+7:49.0,Defensive rebound by D. Avdija,39-40, ,,2,40,39,1,971.0
+7:44.0,D. Avdija misses 2-pt layup from 5 ft (block by N. Queta),39-40, ,,2,40,39,1,976.0
+7:43.0,Offensive rebound by Team,39-40, ,,2,40,39,1,977.0
+7:43.0,J. Butler enters the game for D. Avdija,39-40, ,,2,40,39,1,977.0
+7:43.0,J. Davis enters the game for J. Champagnie,39-40, ,,2,40,39,1,977.0
+7:43.0, ,39-40,P. Pritchard enters the game for J. Walsh,,2,40,39,1,977.0
+7:26.0,J. Bernard misses 3-pt jump shot from 27 ft,39-40, ,,2,40,39,1,994.0
+7:24.0, ,39-40,Defensive rebound by J. Davison,,2,40,39,1,996.0
+7:15.0, ,39-40,Offensive foul by N. Queta (drawn by J. Davis),,2,40,39,1,1005.0
+7:15.0, ,39-40,Turnover by N. Queta (offensive foul),,2,40,39,1,1005.0
+7:03.0,Turnover by J. Butler (bad pass),39-40, ,,2,40,39,1,1017.0
+6:47.0, ,39-40,Turnover by J. Davison (bad pass; steal by J. Butler),,2,40,39,1,1033.0
+6:43.0,C. Kispert makes 2-pt layup from 4 ft (assist by J. Butler),41-40, ,Lead change,2,40,41,-1,1037.0
+6:34.0, ,41-42,N. Queta makes 2-pt layup at rim (assist by S. Hauser),Lead change,2,42,41,1,1046.0
+6:16.0,J. Bernard misses 2-pt layup from 4 ft (block by N. Queta),41-42, ,,2,42,41,1,1064.0
+6:15.0,Offensive rebound by A. Gill,41-42, ,,2,42,41,1,1065.0
+6:09.0,A. Gill misses 3-pt jump shot from 23 ft,41-42, ,,2,42,41,1,1071.0
+6:08.0, ,41-42,Defensive rebound by S. Mykhailiuk,,2,42,41,1,1072.0
+6:00.0, ,41-45,S. Hauser makes 3-pt jump shot from 27 ft (assist by P. Pritchard),,2,45,41,4,1080.0
+5:59.0,Washington full timeout,41-45, ,,2,45,41,4,1081.0
+5:59.0,P. Baldwin enters the game for J. Bernard,41-45, ,,2,45,41,4,1081.0
+5:59.0,E. Omoruyi enters the game for A. Gill,41-45, ,,2,45,41,4,1081.0
+5:59.0, ,41-45,L. Kornet enters the game for J. Davison,,2,45,41,4,1081.0
+5:38.0,E. Omoruyi misses 2-pt layup from 4 ft (block by N. Queta),41-45, ,,2,45,41,4,1102.0
+5:37.0, ,41-45,Defensive rebound by L. Kornet,,2,45,41,4,1103.0
+5:15.0, ,41-47,N. Queta makes 2-pt dunk from 1 ft (assist by L. Kornet),,2,47,41,6,1125.0
+5:05.0,J. Davis makes 2-pt layup from 3 ft (assist by J. Butler),43-47, ,,2,47,43,4,1135.0
+4:48.0, ,43-49,L. Kornet makes 2-pt layup from 2 ft (assist by S. Mykhailiuk),,2,49,43,6,1152.0
+4:48.0, ,43-49,Shooting foul by P. Baldwin (drawn by L. Kornet),,2,49,43,6,1152.0
+4:48.0,D. Avdija enters the game for J. Butler,43-49, ,,2,49,43,6,1152.0
+4:48.0, ,43-50,L. Kornet makes free throw 1 of 1,,2,50,43,7,1152.0
+4:32.0,J. Davis makes 2-pt layup from 2 ft (assist by C. Kispert),45-50, ,,2,50,45,5,1168.0
+4:24.0, ,45-52,P. Pritchard makes 2-pt layup from 2 ft (assist by S. Mykhailiuk),,2,52,45,7,1176.0
+4:05.0,E. Omoruyi makes 3-pt jump shot from 28 ft (assist by J. Davis),48-52, ,,2,52,48,4,1195.0
+3:46.0, ,48-54,N. Queta makes 2-pt jump shot from 5 ft (assist by S. Mykhailiuk),,2,54,48,6,1214.0
+3:29.0,E. Omoruyi makes 3-pt jump shot from 28 ft,51-54, ,,2,54,51,3,1231.0
+3:11.0, ,51-54,Shooting foul by J. Davis (drawn by N. Queta),,2,54,51,3,1249.0
+3:11.0, ,51-54,N. Queta misses free throw 1 of 2,,2,54,51,3,1249.0
+3:11.0, ,51-54,Offensive rebound by Team,,2,54,51,3,1249.0
+3:11.0,J. Butler enters the game for J. Davis,51-54, ,,2,54,51,3,1249.0
+3:11.0, ,51-54,J. Springer enters the game for L. Kornet,,2,54,51,3,1249.0
+3:11.0, ,51-55,N. Queta makes free throw 2 of 2,,2,55,51,4,1249.0
+3:03.0,Shooting foul by S. Mykhailiuk (drawn by C. Kispert),51-55, ,,2,55,51,4,1257.0
+3:03.0,C. Kispert makes free throw 1 of 2,52-55, ,,2,55,52,3,1257.0
+3:03.0,C. Kispert makes free throw 2 of 2,53-55, ,,2,55,53,2,1257.0
+2:51.0, ,53-55,Offensive foul by N. Queta (drawn by E. Omoruyi),,2,55,53,2,1269.0
+2:51.0, ,53-55,Turnover by N. Queta (offensive foul),,2,55,53,2,1269.0
+2:51.0, ,53-55,L. Kornet enters the game for N. Queta,,2,55,53,2,1269.0
+2:40.0,J. Butler misses 2-pt layup from 6 ft,53-55, ,,2,55,53,2,1280.0
+2:39.0,Offensive rebound by J. Butler,53-55, ,,2,55,53,2,1281.0
+2:38.0,Shooting foul by J. Springer (drawn by J. Butler),53-55, ,,2,55,53,2,1282.0
+2:38.0,J. Butler makes free throw 1 of 2,54-55, ,,2,55,54,1,1282.0
+2:38.0,J. Butler makes free throw 2 of 2,55-55, ,Tie,2,55,55,0,1282.0
+2:19.0, ,55-58,P. Pritchard makes 3-pt jump shot from 27 ft (assist by L. Kornet),,2,58,55,3,1301.0
+2:03.0,E. Omoruyi misses 3-pt jump shot from 28 ft,55-58, ,,2,58,55,3,1317.0
+2:02.0, ,55-58,Defensive rebound by S. Mykhailiuk,,2,58,55,3,1318.0
+1:56.0, ,55-61,P. Pritchard makes 3-pt jump shot from 25 ft,,2,61,55,6,1324.0
+1:38.0,E. Omoruyi makes 2-pt layup from 2 ft,57-61, ,,2,61,57,4,1342.0
+1:27.0, ,57-61,S. Hauser misses 3-pt jump shot from 31 ft,,2,61,57,4,1353.0
+1:26.0,Defensive rebound by P. Baldwin,57-61, ,,2,61,57,4,1354.0
+1:14.0,J. Butler makes 2-pt layup from 4 ft (assist by E. Omoruyi),59-61, ,,2,61,59,2,1366.0
+0:59.0, ,59-63,P. Pritchard makes 2-pt jump shot from 12 ft,,2,63,59,4,1381.0
+0:35.0,Turnover by Team (shot clock),59-63, ,,2,63,59,4,1405.0
+0:31.0, ,59-66,P. Pritchard makes 3-pt jump shot from 27 ft,,2,66,59,7,1409.0
+0:16.0,E. Omoruyi misses 2-pt jump shot from 8 ft,59-66, ,,2,66,59,7,1424.0
+0:15.0,Offensive rebound by Team,59-66, ,,2,66,59,7,1425.0
+0:13.0,Turnover by J. Butler (bad pass; steal by J. Springer),59-66, ,,2,66,59,7,1427.0
+0:03.0, ,59-69,P. Pritchard makes 3-pt jump shot from 26 ft,,2,69,59,10,1437.0
+0:01.0,J. Butler misses 3-pt jump shot from 50 ft,59-69, ,,2,69,59,10,1439.0
+0:00.0,Offensive rebound by Team,59-69, ,,2,69,59,10,1440.0
+0:00.0,End of 2nd quarter,59-69,,,2,69,59,10,1440.0
+12:00.0,Start of 3rd quarter,59-69,,,3,69,59,10,1440.0
+11:48.0,C. Kispert misses 3-pt jump shot from 27 ft,59-69, ,,3,69,59,10,1452.0
+11:47.0, ,59-69,Defensive rebound by L. Kornet,,3,69,59,10,1453.0
+11:31.0, ,59-69,Turnover by S. Mykhailiuk (bad pass; steal by C. Kispert),,3,69,59,10,1469.0
+11:28.0,C. Kispert misses 3-pt jump shot from 27 ft,59-69, ,,3,69,59,10,1472.0
+11:27.0, ,59-69,Defensive rebound by J. Walsh,,3,69,59,10,1473.0
+11:10.0, ,59-69,S. Hauser misses 3-pt jump shot from 26 ft,,3,69,59,10,1490.0
+11:08.0,Defensive rebound by P. Baldwin,59-69, ,,3,69,59,10,1492.0
+11:02.0,D. Avdija misses 3-pt jump shot from 29 ft,59-69, ,,3,69,59,10,1498.0
+11:01.0, ,59-69,Defensive rebound by Team,,3,69,59,10,1499.0
+10:45.0, ,59-71,P. Pritchard makes 2-pt layup from 1 ft,,3,71,59,12,1515.0
+10:35.0,D. Avdija makes 2-pt layup from 1 ft,61-71, ,,3,71,61,10,1525.0
+10:09.0, ,61-71,S. Mykhailiuk misses 2-pt jump shot from 20 ft,,3,71,61,10,1551.0
+10:08.0,Defensive rebound by P. Baldwin,61-71, ,,3,71,61,10,1552.0
+9:56.0,D. Avdija makes 3-pt jump shot from 26 ft (assist by A. Gill),64-71, ,,3,71,64,7,1564.0
+9:39.0, ,64-74,S. Hauser makes 3-pt jump shot from 26 ft,,3,74,64,10,1581.0
+9:25.0,A. Gill makes 3-pt jump shot from 27 ft (assist by D. Avdija),67-74, ,,3,74,67,7,1595.0
+9:07.0, ,67-77,S. Mykhailiuk makes 3-pt jump shot from 24 ft (assist by L. Kornet),,3,77,67,10,1613.0
+8:42.0,A. Gill misses 3-pt jump shot from 25 ft (block by L. Kornet),67-77, ,,3,77,67,10,1638.0
+8:41.0, ,67-77,Defensive rebound by P. Pritchard,,3,77,67,10,1639.0
+8:27.0, ,67-79,P. Pritchard makes 2-pt layup from 2 ft,,3,79,67,12,1653.0
+8:10.0,Turnover by P. Baldwin (bad pass; steal by S. Hauser),67-79, ,,3,79,67,12,1670.0
+8:04.0, ,67-81,S. Hauser makes 2-pt jump shot from 6 ft,,3,81,67,14,1676.0
+8:02.0,Washington full timeout,67-81, ,,3,81,67,14,1678.0
+7:46.0,A. Gill makes 2-pt jump shot from 23 ft (assist by C. Kispert),69-81, ,,3,81,69,12,1694.0
+7:24.0, ,69-84,S. Hauser makes 3-pt jump shot from 28 ft (assist by S. Mykhailiuk),,3,84,69,15,1716.0
+7:12.0,Turnover by J. Davis (bad pass; steal by J. Walsh),69-84, ,,3,84,69,15,1728.0
+7:08.0, ,69-84,J. Walsh misses 2-pt dunk from 4 ft,,3,84,69,15,1732.0
+7:07.0, ,69-84,Offensive rebound by P. Pritchard,,3,84,69,15,1733.0
+7:05.0, ,69-86,P. Pritchard makes 2-pt jump shot from 18 ft,,3,86,69,17,1735.0
+6:54.0,D. Avdija misses 2-pt jump shot from 19 ft,69-86, ,,3,86,69,17,1746.0
+6:53.0, ,69-86,Defensive rebound by P. Pritchard,,3,86,69,17,1747.0
+6:42.0, ,69-86,S. Hauser misses 2-pt jump shot from 10 ft,,3,86,69,17,1758.0
+6:41.0,Defensive rebound by Team,69-86, ,,3,86,69,17,1759.0
+6:41.0, ,69-86,Loose ball foul by P. Pritchard (drawn by P. Baldwin),,3,86,69,17,1759.0
+6:41.0,J. Champagnie enters the game for A. Gill,69-86, ,,3,86,69,17,1759.0
+6:26.0,J. Champagnie misses 3-pt jump shot from 26 ft,69-86, ,,3,86,69,17,1774.0
+6:24.0, ,69-86,Defensive rebound by P. Pritchard,,3,86,69,17,1776.0
+6:17.0, ,69-86,S. Hauser misses 3-pt jump shot from 27 ft,,3,86,69,17,1783.0
+6:15.0,Defensive rebound by C. Kispert,69-86, ,,3,86,69,17,1785.0
+6:08.0,J. Champagnie makes 2-pt layup from 2 ft (assist by C. Kispert),71-86, ,,3,86,71,15,1792.0
+5:52.0, ,71-88,S. Hauser makes 2-pt layup from 3 ft (assist by L. Kornet),,3,88,71,17,1808.0
+5:35.0,P. Baldwin misses 3-pt jump shot from 26 ft,71-88, ,,3,88,71,17,1825.0
+5:34.0, ,71-88,Defensive rebound by S. Hauser,,3,88,71,17,1826.0
+5:22.0, ,71-88,S. Mykhailiuk misses 3-pt jump shot from 27 ft,,3,88,71,17,1838.0
+5:21.0, ,71-88,Offensive rebound by L. Kornet,,3,88,71,17,1839.0
+5:21.0, ,71-88,Shooting foul by P. Baldwin (drawn by L. Kornet),,3,88,71,17,1839.0
+5:21.0, ,71-89,L. Kornet makes free throw 1 of 2,,3,89,71,18,1839.0
+5:21.0,J. Bernard enters the game for J. Davis,71-89, ,,3,89,71,18,1839.0
+5:21.0, ,71-89,J. Springer enters the game for J. Walsh,,3,89,71,18,1839.0
+5:21.0, ,71-90,L. Kornet makes free throw 2 of 2,,3,90,71,19,1839.0
+5:07.0,P. Baldwin misses 3-pt jump shot from 30 ft,71-90, ,,3,90,71,19,1853.0
+5:03.0, ,71-90,Defensive rebound by P. Pritchard,,3,90,71,19,1857.0
+4:57.0, ,71-92,P. Pritchard makes 2-pt layup from 4 ft,,3,92,71,21,1863.0
+4:44.0,P. Baldwin makes 3-pt jump shot from 30 ft (assist by D. Avdija),74-92, ,,3,92,74,18,1876.0
+4:21.0, ,74-92,S. Hauser misses 2-pt jump shot from 5 ft,,3,92,74,18,1899.0
+4:20.0, ,74-92,Offensive rebound by S. Hauser,,3,92,74,18,1900.0
+4:19.0, ,74-94,L. Kornet makes 2-pt layup from 3 ft (assist by S. Hauser),,3,94,74,20,1901.0
+4:08.0,J. Champagnie misses 2-pt layup from 4 ft,74-94, ,,3,94,74,20,1912.0
+4:07.0, ,74-94,Defensive rebound by L. Kornet,,3,94,74,20,1913.0
+3:59.0, ,74-97,S. Hauser makes 3-pt jump shot from 27 ft (assist by P. Pritchard),,3,97,74,23,1921.0
+3:57.0,Washington full timeout,74-97, ,,3,97,74,23,1923.0
+3:57.0,J. Butler enters the game for D. Avdija,74-97, ,,3,97,74,23,1923.0
+3:57.0,E. Omoruyi enters the game for P. Baldwin,74-97, ,,3,97,74,23,1923.0
+3:57.0, ,74-97,D. Peterson enters the game for S. Hauser,,3,97,74,23,1923.0
+3:57.0, ,74-97,N. Queta enters the game for L. Kornet,,3,97,74,23,1923.0
+3:35.0,J. Butler misses 2-pt jump shot from 9 ft,74-97, ,,3,97,74,23,1945.0
+3:34.0,Offensive rebound by J. Bernard,74-97, ,,3,97,74,23,1946.0
+3:32.0,J. Bernard misses 2-pt jump shot from 1 ft,74-97, ,,3,97,74,23,1948.0
+3:30.0,Offensive rebound by E. Omoruyi,74-97, ,,3,97,74,23,1950.0
+3:29.0,E. Omoruyi makes 2-pt layup from 3 ft,76-97, ,,3,97,76,21,1951.0
+3:11.0, ,76-97,Shooting foul by J. Champagnie (drawn by N. Queta),,3,97,76,21,1969.0
+3:11.0, ,76-98,N. Queta makes free throw 1 of 2,,3,98,76,22,1969.0
+3:11.0, ,76-99,N. Queta makes free throw 2 of 2,,3,99,76,23,1969.0
+2:59.0,J. Butler makes 3-pt jump shot from 23 ft (assist by C. Kispert),79-99, ,,3,99,79,20,1981.0
+2:40.0, ,79-102,J. Springer makes 3-pt jump shot from 26 ft (assist by P. Pritchard),,3,102,79,23,2000.0
+2:31.0,Personal foul by J. Springer (drawn by J. Butler),79-102, ,,3,102,79,23,2009.0
+2:24.0,E. Omoruyi makes 2-pt layup from 3 ft (assist by J. Butler),81-102, ,,3,102,81,21,2016.0
+2:04.0, ,81-102,N. Queta misses 2-pt layup from 4 ft (block by J. Butler),,3,102,81,21,2036.0
+2:03.0,Defensive rebound by J. Champagnie,81-102, ,,3,102,81,21,2037.0
+1:52.0,C. Kispert makes 2-pt hook shot from 5 ft (assist by E. Omoruyi),83-102, ,,3,102,83,19,2048.0
+1:26.0, ,83-102,J. Springer misses 2-pt layup from 4 ft,,3,102,83,19,2074.0
+1:25.0, ,83-102,Offensive rebound by N. Queta,,3,102,83,19,2075.0
+1:24.0, ,83-102,Turnover by Team (shot clock),,3,102,83,19,2076.0
+1:14.0,J. Butler misses 2-pt jump shot from 9 ft,83-102, ,,3,102,83,19,2086.0
+1:13.0, ,83-102,Defensive rebound by D. Peterson,,3,102,83,19,2087.0
+1:02.0, ,83-102,P. Pritchard misses 3-pt jump shot from 27 ft,,3,102,83,19,2098.0
+0:58.0,Defensive rebound by J. Champagnie,83-102, ,,3,102,83,19,2102.0
+0:53.0,Turnover by J. Butler (bad pass; steal by D. Peterson),83-102, ,,3,102,83,19,2107.0
+0:52.0, ,83-102,Turnover by D. Peterson (out of bounds lost ball),,3,102,83,19,2108.0
+0:40.0,E. Omoruyi misses 2-pt layup from 3 ft,83-102, ,,3,102,83,19,2120.0
+0:39.0, ,83-102,Defensive rebound by N. Queta,,3,102,83,19,2121.0
+0:28.0, ,83-105,S. Mykhailiuk makes 3-pt jump shot from 24 ft (assist by P. Pritchard),,3,105,83,22,2132.0
+0:16.0,E. Omoruyi makes 3-pt jump shot from 27 ft (assist by C. Kispert),86-105, ,,3,105,86,19,2144.0
+0:03.0, ,86-107,P. Pritchard makes 2-pt jump shot from 19 ft,,3,107,86,21,2157.0
+0:00.0,J. Bernard makes 3-pt jump shot from 32 ft (assist by C. Kispert),89-107, ,,3,107,89,18,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),89-107, ,,3,107,89,18,2160.0
+0:00.0,End of 3rd quarter,89-107,,,3,107,89,18,2160.0
+12:00.0,Start of 4th quarter,89-107,,,4,107,89,18,2160.0
+11:36.0, ,89-107,J. Davison misses 2-pt jump shot from 5 ft,,4,107,89,18,2184.0
+11:35.0, ,89-107,Offensive rebound by N. Queta,,4,107,89,18,2185.0
+11:35.0, ,89-109,N. Queta makes 2-pt layup from 3 ft,,4,109,89,20,2185.0
+11:19.0,E. Omoruyi misses 2-pt layup from 3 ft (block by N. Queta),89-109, ,,4,109,89,20,2201.0
+11:18.0, ,89-109,Defensive rebound by N. Queta,,4,109,89,20,2202.0
+11:14.0, ,89-111,O. Brissett makes 2-pt layup from 6 ft,,4,111,89,22,2206.0
+11:14.0, ,89-111,Shooting foul by J. Butler (drawn by O. Brissett),,4,111,89,22,2206.0
+11:14.0, ,89-111,O. Brissett misses free throw 1 of 1,,4,111,89,22,2206.0
+11:14.0,Defensive rebound by J. Champagnie,89-111, ,,4,111,89,22,2206.0
+11:02.0,D. Avdija misses 3-pt jump shot from 24 ft,89-111, ,,4,111,89,22,2218.0
+11:01.0, ,89-111,Defensive rebound by J. Davison,,4,111,89,22,2219.0
+10:54.0, ,89-111,O. Brissett misses 3-pt jump shot from 27 ft,,4,111,89,22,2226.0
+10:53.0,Defensive rebound by J. Champagnie,89-111, ,,4,111,89,22,2227.0
+10:33.0,J. Bernard misses 2-pt layup from 2 ft,89-111, ,,4,111,89,22,2247.0
+10:32.0, ,89-111,Defensive rebound by N. Queta,,4,111,89,22,2248.0
+10:26.0, ,89-113,O. Brissett makes 2-pt dunk from 3 ft (assist by J. Davison),,4,113,89,24,2254.0
+10:25.0,Washington full timeout,89-113, ,,4,113,89,24,2255.0
+10:25.0,P. Baldwin enters the game for E. Omoruyi,89-113, ,,4,113,89,24,2255.0
+10:05.0,J. Butler makes 2-pt jump shot from 11 ft,91-113, ,,4,113,91,22,2275.0
+9:48.0, ,91-113,Turnover by N. Queta (bad pass; steal by P. Baldwin),,4,113,91,22,2292.0
+9:44.0,J. Butler makes 2-pt layup from 1 ft (assist by J. Champagnie),93-113, ,,4,113,93,20,2296.0
+9:17.0, ,93-115,N. Queta makes 2-pt layup from 3 ft (assist by P. Pritchard),,4,115,93,22,2323.0
+9:02.0,J. Butler misses 2-pt layup from 3 ft (block by N. Queta),93-115, ,,4,115,93,22,2338.0
+9:01.0, ,93-115,Defensive rebound by N. Queta,,4,115,93,22,2339.0
+9:00.0, ,93-115,Personal foul by J. Butler (drawn by N. Queta),,4,115,93,22,2340.0
+8:51.0, ,93-115,Turnover by O. Brissett (bad pass; steal by J. Champagnie),,4,115,93,22,2349.0
+8:48.0,P. Baldwin makes 2-pt dunk from 1 ft (assist by J. Champagnie),95-115, ,,4,115,95,20,2352.0
+8:33.0, ,95-115,S. Hauser misses 2-pt layup from 4 ft,,4,115,95,20,2367.0
+8:32.0,Defensive rebound by P. Baldwin,95-115, ,,4,115,95,20,2368.0
+8:28.0,J. Champagnie misses 2-pt layup from 4 ft (block by O. Brissett),95-115, ,,4,115,95,20,2372.0
+8:27.0, ,95-115,Defensive rebound by J. Davison,,4,115,95,20,2373.0
+8:24.0, ,95-115,Shooting foul by P. Baldwin (drawn by O. Brissett),,4,115,95,20,2376.0
+8:24.0, ,95-115,O. Brissett misses free throw 1 of 2,,4,115,95,20,2376.0
+8:24.0, ,95-115,Offensive rebound by Team,,4,115,95,20,2376.0
+8:24.0, ,95-115,O. Brissett misses free throw 2 of 2,,4,115,95,20,2376.0
+8:21.0,Defensive rebound by J. Bernard,95-115, ,,4,115,95,20,2379.0
+8:15.0,J. Champagnie misses 2-pt layup from 3 ft (block by O. Brissett),95-115, ,,4,115,95,20,2385.0
+8:14.0, ,95-115,Defensive rebound by P. Pritchard,,4,115,95,20,2386.0
+8:09.0, ,95-115,J. Davison misses 3-pt jump shot from 27 ft,,4,115,95,20,2391.0
+8:07.0,Defensive rebound by J. Bernard,95-115, ,,4,115,95,20,2393.0
+8:00.0,J. Bernard makes 2-pt layup from 2 ft,97-115, ,,4,115,97,18,2400.0
+7:39.0, ,97-115,O. Brissett misses 2-pt layup from 5 ft (block by J. Champagnie),,4,115,97,18,2421.0
+7:37.0,Defensive rebound by J. Champagnie,97-115, ,,4,115,97,18,2423.0
+7:35.0,P. Baldwin makes 2-pt dunk from 2 ft (assist by J. Butler),99-115, ,,4,115,99,16,2425.0
+7:35.0,Shooting foul by J. Davison (drawn by P. Baldwin),99-115, ,,4,115,99,16,2425.0
+7:35.0,J. Davis enters the game for D. Avdija,99-115, ,,4,115,99,16,2425.0
+7:35.0, ,99-115,S. Mykhailiuk enters the game for J. Davison,,4,115,99,16,2425.0
+7:35.0,P. Baldwin makes free throw 1 of 1,100-115, ,,4,115,100,15,2425.0
+7:24.0, ,100-115,Personal foul by J. Davis (drawn by S. Hauser),,4,115,100,15,2436.0
+7:18.0, ,100-118,S. Mykhailiuk makes 3-pt jump shot from 28 ft (assist by N. Queta),,4,118,100,18,2442.0
+7:00.0,Turnover by J. Butler (bad pass; steal by S. Hauser),100-118, ,,4,118,100,18,2460.0
+6:56.0, ,100-118,N. Queta misses 2-pt layup from 4 ft (block by P. Baldwin),,4,118,100,18,2464.0
+6:55.0, ,100-118,Offensive rebound by Team,,4,118,100,18,2465.0
+6:52.0, ,100-120,N. Queta makes 2-pt jump shot from 21 ft (assist by P. Pritchard),,4,120,100,20,2468.0
+6:42.0,Turnover by J. Bernard (lost ball; steal by O. Brissett),100-120, ,,4,120,100,20,2478.0
+6:31.0, ,100-122,N. Queta makes 2-pt dunk from 1 ft (assist by P. Pritchard),,4,122,100,22,2489.0
+6:11.0,P. Baldwin makes 3-pt jump shot from 27 ft (assist by J. Butler),103-122, ,,4,122,103,19,2509.0
+5:48.0, ,103-122,O. Brissett misses 2-pt layup from 5 ft,,4,122,103,19,2532.0
+5:47.0,Defensive rebound by P. Baldwin,103-122, ,,4,122,103,19,2533.0
+5:43.0,J. Butler misses 3-pt jump shot from 26 ft,103-122, ,,4,122,103,19,2537.0
+5:41.0, ,103-122,Defensive rebound by P. Pritchard,,4,122,103,19,2539.0
+5:36.0, ,103-122,Shooting foul by J. Butler (drawn by P. Pritchard),,4,122,103,19,2544.0
+5:36.0, ,103-123,P. Pritchard makes free throw 1 of 2,,4,123,103,20,2544.0
+5:36.0,E. Omoruyi enters the game for J. Champagnie,103-123, ,,4,123,103,20,2544.0
+5:36.0, ,103-123,L. Kornet enters the game for S. Hauser,,4,123,103,20,2544.0
+5:36.0, ,103-123,J. Springer enters the game for N. Queta,,4,123,103,20,2544.0
+5:36.0, ,103-124,P. Pritchard makes free throw 2 of 2,,4,124,103,21,2544.0
+5:23.0,P. Baldwin misses 2-pt jump shot from 10 ft,103-124, ,,4,124,103,21,2557.0
+5:22.0, ,103-124,Defensive rebound by P. Pritchard,,4,124,103,21,2558.0
+5:08.0, ,103-124,Turnover by O. Brissett (bad pass; steal by J. Davis),,4,124,103,21,2572.0
+5:04.0,J. Davis misses 2-pt layup from 2 ft (block by S. Mykhailiuk),103-124, ,,4,124,103,21,2576.0
+5:03.0,Offensive rebound by Team,103-124, ,,4,124,103,21,2577.0
+4:57.0,J. Butler misses 2-pt jump shot from 10 ft,103-124, ,,4,124,103,21,2583.0
+4:55.0, ,103-124,Defensive rebound by S. Mykhailiuk,,4,124,103,21,2585.0
+4:48.0, ,103-124,J. Springer misses 3-pt jump shot from 26 ft,,4,124,103,21,2592.0
+4:47.0,Defensive rebound by J. Bernard,103-124, ,,4,124,103,21,2593.0
+4:37.0,P. Baldwin makes 3-pt jump shot from 24 ft (assist by J. Bernard),106-124, ,,4,124,106,18,2603.0
+4:17.0, ,106-124,Turnover by P. Pritchard (lost ball; steal by J. Bernard),,4,124,106,18,2623.0
+4:06.0,J. Bernard makes 3-pt jump shot from 28 ft (assist by E. Omoruyi),109-124, ,,4,124,109,15,2634.0
+3:42.0, ,109-126,S. Mykhailiuk makes 2-pt jump shot from 5 ft,,4,126,109,17,2658.0
+3:29.0,E. Omoruyi misses 3-pt jump shot from 26 ft,109-126, ,,4,126,109,17,2671.0
+3:28.0, ,109-126,Defensive rebound by O. Brissett,,4,126,109,17,2672.0
+3:09.0, ,109-126,Turnover by J. Springer (lost ball; steal by P. Baldwin),,4,126,109,17,2691.0
+3:04.0,E. Omoruyi makes 2-pt layup from 2 ft (assist by J. Bernard),111-126, ,,4,126,111,15,2696.0
+2:46.0, ,111-126,Turnover by P. Pritchard (lost ball; steal by J. Davis),,4,126,111,15,2714.0
+2:43.0,J. Davis makes 2-pt dunk from 2 ft,113-126, ,,4,126,113,13,2717.0
+2:43.0, ,113-126,Boston full timeout,,4,126,113,13,2717.0
+2:43.0, ,113-126,S. Hauser enters the game for O. Brissett,,4,126,113,13,2717.0
+2:21.0, ,113-126,S. Hauser misses 2-pt jump shot from 11 ft,,4,126,113,13,2739.0
+2:20.0, ,113-126,L. Kornet misses 2-pt layup from 1 ft,,4,126,113,13,2740.0
+2:20.0, ,113-126,Offensive rebound by L. Kornet,,4,126,113,13,2740.0
+2:19.0, ,113-126,Turnover by Team (shot clock),,4,126,113,13,2741.0
+2:07.0,P. Baldwin misses 2-pt jump shot from 6 ft,113-126, ,,4,126,113,13,2753.0
+2:06.0,Offensive rebound by J. Bernard,113-126, ,,4,126,113,13,2754.0
+2:05.0,J. Bernard makes 2-pt layup from 2 ft,115-126, ,,4,126,115,11,2755.0
+2:05.0,Shooting foul by P. Pritchard (drawn by J. Bernard),115-126, ,,4,126,115,11,2755.0
+2:05.0,J. Bernard makes free throw 1 of 1,116-126, ,,4,126,116,10,2755.0
+1:44.0, ,116-128,L. Kornet makes 2-pt dunk from 3 ft (assist by S. Mykhailiuk),,4,128,116,12,2776.0
+1:34.0,J. Butler makes 2-pt layup from 2 ft (assist by E. Omoruyi),118-128, ,,4,128,118,10,2786.0
+1:16.0, ,118-130,P. Pritchard makes 2-pt jump shot from 13 ft,,4,130,118,12,2804.0
+1:07.0,E. Omoruyi makes 2-pt dunk from 2 ft (assist by J. Butler),120-130, ,,4,130,120,10,2813.0
+0:50.0, ,120-132,P. Pritchard makes 2-pt layup from 3 ft,,4,132,120,12,2830.0
+0:50.0,Washington full timeout,120-132, ,,4,132,120,12,2830.0
+0:40.0,J. Butler misses 2-pt layup from 3 ft,120-132, ,,4,132,120,12,2840.0
+0:38.0, ,120-132,Defensive rebound by J. Springer,,4,132,120,12,2842.0
+0:15.0, ,120-132,Turnover by Team (shot clock),,4,132,120,12,2865.0
+0:04.0,J. Butler makes 2-pt jump shot from 8 ft,122-132, ,,4,132,122,10,2876.0
+0:00.0,End of 4th quarter,122-132,,,4,132,122,10,2880.0

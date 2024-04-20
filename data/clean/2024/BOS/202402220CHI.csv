@@ -1,0 +1,441 @@
+Time,Boston,Score,Chicago,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. N. Vučević (J. Brown gains possession),0-0,,,1,0,0,0,0.0
+11:46.0,D. White misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,14.0
+11:43.0, ,0-0,Defensive rebound by N. Vučević,,1,0,0,0,17.0
+11:35.0, ,0-0,Turnover by A. Caruso (bad pass; steal by K. Porziņģis),,1,0,0,0,25.0
+11:25.0,K. Porziņģis misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,35.0
+11:23.0, ,0-0,Defensive rebound by A. Dosunmu,,1,0,0,0,37.0
+11:16.0, ,0-0,A. Dosunmu misses 2-pt layup from 1 ft,,1,0,0,0,44.0
+11:14.0,Defensive rebound by K. Porziņģis,0-0, ,,1,0,0,0,46.0
+11:04.0,J. Tatum misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,56.0
+11:01.0, ,0-0,Defensive rebound by D. DeRozan,,1,0,0,0,59.0
+10:42.0, ,0-2,N. Vučević makes 2-pt jump shot from 15 ft (assist by C. White),,1,0,2,-2,78.0
+10:20.0,J. Holiday makes 3-pt jump shot from 24 ft (assist by J. Tatum),3-2, ,Lead change,1,3,2,1,100.0
+10:04.0, ,3-2,Turnover by N. Vučević (bad pass; steal by J. Brown),,1,3,2,1,116.0
+9:54.0,J. Brown makes 2-pt layup from 2 ft,5-2, ,,1,5,2,3,126.0
+9:44.0, ,5-2,N. Vučević misses 3-pt jump shot from 25 ft,,1,5,2,3,136.0
+9:41.0,Defensive rebound by J. Holiday,5-2, ,,1,5,2,3,139.0
+9:30.0,J. Holiday misses 2-pt hook shot from 5 ft,5-2, ,,1,5,2,3,150.0
+9:28.0, ,5-2,Defensive rebound by N. Vučević,,1,5,2,3,152.0
+9:18.0, ,5-2,D. DeRozan misses 2-pt jump shot from 12 ft,,1,5,2,3,162.0
+9:16.0,Defensive rebound by J. Tatum,5-2, ,,1,5,2,3,164.0
+9:07.0,K. Porziņģis makes 3-pt jump shot from 25 ft (assist by J. Holiday),8-2, ,,1,8,2,6,173.0
+8:45.0, ,8-5,A. Dosunmu makes 3-pt jump shot from 26 ft (assist by N. Vučević),,1,8,5,3,195.0
+8:31.0,K. Porziņģis makes 2-pt dunk from 1 ft (assist by J. Brown),10-5, ,,1,10,5,5,209.0
+8:20.0, ,10-5,C. White misses 3-pt jump shot from 25 ft,,1,10,5,5,220.0
+8:17.0,Defensive rebound by J. Tatum,10-5, ,,1,10,5,5,223.0
+8:07.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by J. Brown),13-5, ,,1,13,5,8,233.0
+7:55.0, ,13-5,Turnover by D. DeRozan (bad pass; steal by J. Tatum),,1,13,5,8,245.0
+7:50.0,J. Tatum misses 2-pt layup from 2 ft,13-5, ,,1,13,5,8,250.0
+7:48.0, ,13-5,Defensive rebound by A. Caruso,,1,13,5,8,252.0
+7:43.0, ,13-5,N. Vučević misses 2-pt layup from 2 ft (block by D. White),,1,13,5,8,257.0
+7:42.0, ,13-5,Offensive rebound by A. Dosunmu,,1,13,5,8,258.0
+7:40.0, ,13-5,D. DeRozan misses 2-pt layup from 2 ft (block by J. Holiday),,1,13,5,8,260.0
+7:38.0, ,13-5,Offensive rebound by Team,,1,13,5,8,262.0
+7:37.0, ,13-5,Chicago full timeout,,1,13,5,8,263.0
+7:27.0, ,13-5,A. Dosunmu misses 2-pt layup from 3 ft (block by K. Porziņģis),,1,13,5,8,273.0
+7:24.0,Defensive rebound by K. Porziņģis,13-5, ,,1,13,5,8,276.0
+7:19.0,D. White makes 2-pt jump shot from 5 ft (assist by J. Holiday),15-5, ,,1,15,5,10,281.0
+7:08.0, ,15-7,A. Caruso makes 2-pt layup from 1 ft (assist by N. Vučević),,1,15,7,8,292.0
+6:58.0,Shooting foul by A. Caruso (drawn by D. White),15-7, ,,1,15,7,8,302.0
+6:58.0,D. White makes free throw 1 of 2,16-7, ,,1,16,7,9,302.0
+6:58.0,S. Hauser enters the game for J. Holiday,16-7, ,,1,16,7,9,302.0
+6:58.0,A. Horford enters the game for J. Tatum,16-7, ,,1,16,7,9,302.0
+6:58.0, ,16-7,J. Phillips enters the game for A. Caruso,,1,16,7,9,302.0
+6:58.0,D. White makes free throw 2 of 2,17-7, ,,1,17,7,10,302.0
+6:45.0, ,17-9,N. Vučević makes 2-pt jump shot from 17 ft (assist by C. White),,1,17,9,8,315.0
+6:35.0,J. Brown misses 2-pt jump shot from 16 ft,17-9, ,,1,17,9,8,325.0
+6:32.0,Offensive rebound by A. Horford,17-9, ,,1,17,9,8,328.0
+6:23.0,D. White misses 3-pt jump shot from 26 ft,17-9, ,,1,17,9,8,337.0
+6:20.0, ,17-9,Defensive rebound by C. White,,1,17,9,8,340.0
+6:15.0, ,17-9,C. White misses 3-pt jump shot from 25 ft,,1,17,9,8,345.0
+6:12.0,Defensive rebound by J. Brown,17-9, ,,1,17,9,8,348.0
+6:08.0,Shooting foul by J. Phillips (drawn by J. Brown),17-9, ,,1,17,9,8,352.0
+6:08.0,J. Brown makes free throw 1 of 2,18-9, ,,1,18,9,9,352.0
+6:08.0, ,18-9,A. Drummond enters the game for D. DeRozan,,1,18,9,9,352.0
+6:08.0,J. Brown misses free throw 2 of 2,18-9, ,,1,18,9,9,352.0
+6:05.0, ,18-9,Defensive rebound by J. Phillips,,1,18,9,9,355.0
+5:42.0, ,18-11,N. Vučević makes 2-pt jump shot from 16 ft (assist by A. Dosunmu),,1,18,11,7,378.0
+5:29.0,K. Porziņģis makes 2-pt jump shot from 21 ft (assist by J. Brown),20-11, ,,1,20,11,9,391.0
+5:16.0, ,20-11,Turnover by C. White (bad pass; steal by D. White),,1,20,11,9,404.0
+5:11.0,D. White makes 2-pt dunk from 1 ft,22-11, ,,1,22,11,11,409.0
+4:52.0, ,22-11,N. Vučević misses 2-pt layup from 6 ft (block by D. White),,1,22,11,11,428.0
+4:51.0, ,22-11,Offensive rebound by N. Vučević,,1,22,11,11,429.0
+4:50.0, ,22-11,J. Phillips misses 2-pt layup from 1 ft (block by D. White),,1,22,11,11,430.0
+4:48.0,Defensive rebound by J. Brown,22-11, ,,1,22,11,11,432.0
+4:44.0,J. Brown makes 2-pt layup from 2 ft,24-11, ,,1,24,11,13,436.0
+4:44.0,Shooting foul by C. White (drawn by J. Brown),24-11, ,,1,24,11,13,436.0
+4:44.0, ,24-11,D. DeRozan enters the game for A. Dosunmu,,1,24,11,13,436.0
+4:44.0,J. Brown makes free throw 1 of 1,25-11, ,,1,25,11,14,436.0
+4:30.0, ,25-11,A. Drummond misses 2-pt layup from 1 ft (block by K. Porziņģis),,1,25,11,14,450.0
+4:28.0, ,25-11,Offensive rebound by Team,,1,25,11,14,452.0
+4:22.0, ,25-13,D. DeRozan makes 2-pt jump shot from 20 ft (assist by J. Phillips),,1,25,13,12,458.0
+4:13.0,D. White makes 3-pt jump shot from 26 ft,28-13, ,,1,28,13,15,467.0
+4:04.0, ,28-13,Shooting foul by J. Brown (drawn by D. DeRozan),,1,28,13,15,476.0
+4:04.0, ,28-14,D. DeRozan makes free throw 1 of 2,,1,28,14,14,476.0
+4:04.0,J. Tatum enters the game for J. Brown,28-14, ,,1,28,14,14,476.0
+4:04.0, ,28-14,A. Dosunmu enters the game for C. White,,1,28,14,14,476.0
+4:04.0, ,28-15,D. DeRozan makes free throw 2 of 2,,1,28,15,13,476.0
+3:52.0,D. White makes 3-pt jump shot from 26 ft,31-15, ,,1,31,15,16,488.0
+3:32.0, ,31-15,D. DeRozan misses 2-pt layup from 2 ft,,1,31,15,16,508.0
+3:31.0, ,31-15,Offensive rebound by N. Vučević,,1,31,15,16,509.0
+3:27.0, ,31-15,D. DeRozan misses 2-pt jump shot from 9 ft,,1,31,15,16,513.0
+3:26.0,Defensive rebound by A. Horford,31-15, ,,1,31,15,16,514.0
+3:24.0,Personal foul by D. DeRozan (drawn by A. Horford),31-15, ,,1,31,15,16,516.0
+3:05.0,K. Porziņģis misses 2-pt jump shot from 13 ft,31-15, ,,1,31,15,16,535.0
+3:03.0, ,31-15,Defensive rebound by A. Drummond,,1,31,15,16,537.0
+2:45.0, ,31-15,D. DeRozan misses 3-pt jump shot from 25 ft,,1,31,15,16,555.0
+2:43.0,Defensive rebound by S. Hauser,31-15, ,,1,31,15,16,557.0
+2:36.0,D. White misses 3-pt jump shot from 24 ft,31-15, ,,1,31,15,16,564.0
+2:34.0, ,31-15,Defensive rebound by A. Drummond,,1,31,15,16,566.0
+2:26.0, ,31-17,N. Vučević makes 2-pt hook shot from 5 ft (assist by A. Dosunmu),,1,31,17,14,574.0
+2:11.0,K. Porziņģis misses 3-pt jump shot from 28 ft,31-17, ,,1,31,17,14,589.0
+2:10.0, ,31-17,Defensive rebound by J. Phillips,,1,31,17,14,590.0
+2:02.0, ,31-17,D. DeRozan misses 2-pt layup from 1 ft (block by A. Horford),,1,31,17,14,598.0
+2:00.0,Defensive rebound by K. Porziņģis,31-17, ,,1,31,17,14,600.0
+1:55.0,Offensive foul by D. White (drawn by J. Phillips),31-17, ,,1,31,17,14,605.0
+1:55.0,Turnover by D. White (offensive foul),31-17, ,,1,31,17,14,605.0
+1:55.0,Boston full timeout,31-17, ,,1,31,17,14,605.0
+1:55.0,J. Holiday enters the game for K. Porziņģis,31-17, ,,1,31,17,14,605.0
+1:55.0,P. Pritchard enters the game for D. White,31-17, ,,1,31,17,14,605.0
+1:55.0, ,31-17,J. Carter enters the game for J. Phillips,,1,31,17,14,605.0
+1:55.0, ,31-17,A. Caruso enters the game for N. Vučević,,1,31,17,14,605.0
+1:43.0, ,31-17,Shooting foul by J. Tatum (drawn by A. Drummond),,1,31,17,14,617.0
+1:43.0, ,31-18,A. Drummond makes free throw 1 of 2,,1,31,18,13,617.0
+1:43.0, ,31-19,A. Drummond makes free throw 2 of 2,,1,31,19,12,617.0
+1:21.0,J. Tatum misses 2-pt jump shot from 5 ft (block by A. Caruso),31-19, ,,1,31,19,12,639.0
+1:19.0, ,31-19,Defensive rebound by A. Dosunmu,,1,31,19,12,641.0
+1:16.0, ,31-21,A. Dosunmu makes 2-pt layup from 1 ft,,1,31,21,10,644.0
+1:02.0,J. Tatum misses 2-pt jump shot from 13 ft,31-21, ,,1,31,21,10,658.0
+1:00.0, ,31-21,Defensive rebound by A. Dosunmu,,1,31,21,10,660.0
+0:54.0, ,31-21,J. Carter misses 3-pt jump shot from 25 ft,,1,31,21,10,666.0
+0:51.0,Defensive rebound by A. Horford,31-21, ,,1,31,21,10,669.0
+0:31.0,P. Pritchard misses 3-pt jump shot from 28 ft,31-21, ,,1,31,21,10,689.0
+0:28.0, ,31-21,Defensive rebound by A. Drummond,,1,31,21,10,692.0
+0:20.0, ,31-23,A. Drummond makes 2-pt layup from 1 ft (assist by A. Caruso),,1,31,23,8,700.0
+0:06.0,Offensive foul by J. Tatum (drawn by A. Dosunmu),31-23, ,,1,31,23,8,714.0
+0:06.0,Turnover by J. Tatum (offensive foul),31-23, ,,1,31,23,8,714.0
+0:02.0, ,31-23,A. Caruso misses 3-pt jump shot from 25 ft,,1,31,23,8,718.0
+0:00.0, ,31-23,Offensive rebound by Team,,1,31,23,8,720.0
+0:00.0,End of 1st quarter,31-23,,,1,31,23,8,720.0
+12:00.0,Start of 2nd quarter,31-23,,,2,31,23,8,720.0
+11:38.0, ,31-25,A. Drummond makes 2-pt layup from 1 ft (assist by A. Dosunmu),,2,31,25,6,742.0
+11:19.0,J. Holiday makes 2-pt jump shot from 12 ft,33-25, ,,2,33,25,8,761.0
+11:08.0, ,33-28,A. Caruso makes 3-pt jump shot from 25 ft (assist by D. DeRozan),,2,33,28,5,772.0
+10:48.0,P. Pritchard misses 3-pt jump shot from 23 ft,33-28, ,,2,33,28,5,792.0
+10:45.0, ,33-28,Defensive rebound by J. Carter,,2,33,28,5,795.0
+10:34.0, ,33-28,D. DeRozan misses 2-pt jump shot from 6 ft,,2,33,28,5,806.0
+10:33.0,Defensive rebound by J. Tatum,33-28, ,,2,33,28,5,807.0
+10:28.0,Turnover by J. Holiday (lost ball; steal by A. Caruso),33-28, ,,2,33,28,5,812.0
+10:08.0, ,33-31,A. Dosunmu makes 3-pt jump shot from 23 ft (assist by A. Caruso),,2,33,31,2,832.0
+9:54.0,Personal foul by J. Carter (drawn by L. Kornet),33-31, ,,2,33,31,2,846.0
+9:54.0,S. Hauser enters the game for A. Horford,33-31, ,,2,33,31,2,846.0
+9:54.0, ,33-31,C. White enters the game for A. Dosunmu,,2,33,31,2,846.0
+9:38.0,P. Pritchard makes 3-pt jump shot from 24 ft (assist by S. Hauser),36-31, ,,2,36,31,5,862.0
+9:23.0, ,36-31,Turnover by A. Caruso (bad pass; steal by L. Kornet),,2,36,31,5,877.0
+9:18.0,S. Hauser makes 2-pt layup from 1 ft (assist by J. Holiday),38-31, ,,2,38,31,7,882.0
+9:07.0, ,38-31,Shooting foul by L. Kornet (drawn by D. DeRozan),,2,38,31,7,893.0
+9:07.0, ,38-32,D. DeRozan makes free throw 1 of 2,,2,38,32,6,893.0
+9:07.0, ,38-32,A. Dosunmu enters the game for A. Caruso,,2,38,32,6,893.0
+9:07.0, ,38-32,N. Vučević enters the game for A. Drummond,,2,38,32,6,893.0
+9:07.0, ,38-33,D. DeRozan makes free throw 2 of 2,,2,38,33,5,893.0
+8:54.0,L. Kornet makes 2-pt dunk from 1 ft (assist by J. Tatum),40-33, ,,2,40,33,7,906.0
+8:39.0, ,40-35,N. Vučević makes 2-pt layup from 1 ft (assist by J. Carter),,2,40,35,5,921.0
+8:31.0,Offensive foul by J. Holiday (drawn by D. DeRozan),40-35, ,,2,40,35,5,929.0
+8:31.0,Turnover by J. Holiday (offensive foul),40-35, ,,2,40,35,5,929.0
+8:31.0,J. Brown enters the game for J. Holiday,40-35, ,,2,40,35,5,929.0
+8:31.0, ,40-35,D. Terry enters the game for D. DeRozan,,2,40,35,5,929.0
+8:21.0, ,40-35,Turnover by C. White (bad pass; steal by J. Tatum),,2,40,35,5,939.0
+8:15.0,Turnover by J. Tatum (lost ball; steal by A. Dosunmu),40-35, ,,2,40,35,5,945.0
+8:06.0, ,40-35,A. Dosunmu misses 3-pt jump shot from 26 ft,,2,40,35,5,954.0
+8:00.0, ,40-35,Offensive rebound by D. Terry,,2,40,35,5,960.0
+7:57.0, ,40-35,C. White misses 2-pt jump shot from 18 ft,,2,40,35,5,963.0
+7:54.0,Defensive rebound by J. Tatum,40-35, ,,2,40,35,5,966.0
+7:45.0,S. Hauser makes 3-pt jump shot from 23 ft (assist by J. Brown),43-35, ,,2,43,35,8,975.0
+7:26.0, ,43-37,N. Vučević makes 2-pt hook shot from 6 ft (assist by A. Dosunmu),,2,43,37,6,994.0
+7:14.0,J. Tatum makes 2-pt jump shot from 16 ft (assist by L. Kornet),45-37, ,,2,45,37,8,1006.0
+6:57.0, ,45-37,Chicago full timeout,,2,45,37,8,1023.0
+6:57.0,A. Horford enters the game for L. Kornet,45-37, ,,2,45,37,8,1023.0
+6:57.0,K. Porziņģis enters the game for P. Pritchard,45-37, ,,2,45,37,8,1023.0
+6:57.0,D. White enters the game for J. Tatum,45-37, ,,2,45,37,8,1023.0
+6:57.0, ,45-37,J. Phillips enters the game for J. Carter,,2,45,37,8,1023.0
+6:47.0, ,45-40,J. Phillips makes 3-pt jump shot from 23 ft (assist by A. Dosunmu),,2,45,40,5,1033.0
+6:34.0,Turnover by D. White (out of bounds lost ball),45-40, ,,2,45,40,5,1046.0
+6:17.0, ,45-40,Shooting foul by J. Brown (drawn by C. White),,2,45,40,5,1063.0
+6:17.0,Boston full timeout,45-40, ,,2,45,40,5,1063.0
+6:17.0, ,45-41,C. White makes free throw 1 of 2,,2,45,41,4,1063.0
+6:17.0, ,45-42,C. White makes free throw 2 of 2,,2,45,42,3,1063.0
+6:03.0,J. Brown makes 3-pt jump shot from 29 ft (assist by D. White),48-42, ,,2,48,42,6,1077.0
+5:39.0, ,48-44,N. Vučević makes 2-pt layup from 1 ft (assist by A. Dosunmu),,2,48,44,4,1101.0
+5:21.0,K. Porziņģis misses 3-pt jump shot from 29 ft,48-44, ,,2,48,44,4,1119.0
+5:19.0, ,48-44,Defensive rebound by N. Vučević,,2,48,44,4,1121.0
+5:06.0, ,48-46,J. Phillips makes 2-pt layup from 1 ft (assist by D. Terry),,2,48,46,2,1134.0
+4:47.0,K. Porziņģis misses 2-pt jump shot from 14 ft,48-46, ,,2,48,46,2,1153.0
+4:45.0, ,48-46,Defensive rebound by N. Vučević,,2,48,46,2,1155.0
+4:38.0, ,48-46,C. White misses 2-pt layup from 3 ft,,2,48,46,2,1162.0
+4:36.0,Defensive rebound by A. Horford,48-46, ,,2,48,46,2,1164.0
+4:26.0,J. Brown makes 2-pt layup from 1 ft,50-46, ,,2,50,46,4,1174.0
+4:26.0,Shooting foul by A. Dosunmu (drawn by J. Brown),50-46, ,,2,50,46,4,1174.0
+4:26.0,J. Holiday enters the game for S. Hauser,50-46, ,,2,50,46,4,1174.0
+4:26.0,J. Tatum enters the game for A. Horford,50-46, ,,2,50,46,4,1174.0
+4:26.0, ,50-46,A. Caruso enters the game for D. Terry,,2,50,46,4,1174.0
+4:26.0, ,50-46,D. DeRozan enters the game for C. White,,2,50,46,4,1174.0
+4:26.0,J. Brown makes free throw 1 of 1,51-46, ,,2,51,46,5,1174.0
+4:10.0, ,51-46,A. Caruso misses 2-pt jump shot from 7 ft,,2,51,46,5,1190.0
+4:08.0, ,51-46,Offensive rebound by N. Vučević,,2,51,46,5,1192.0
+3:58.0, ,51-48,N. Vučević makes 2-pt layup from 1 ft,,2,51,48,3,1202.0
+3:52.0,Personal foul by A. Caruso (drawn by K. Porziņģis),51-48, ,,2,51,48,3,1208.0
+3:45.0,K. Porziņģis misses 3-pt jump shot from 28 ft,51-48, ,,2,51,48,3,1215.0
+3:41.0, ,51-48,Defensive rebound by A. Dosunmu,,2,51,48,3,1219.0
+3:28.0, ,51-51,D. DeRozan makes 3-pt jump shot from 25 ft (assist by A. Caruso),Tie,2,51,51,0,1232.0
+3:06.0,J. Brown makes 3-pt jump shot from 26 ft,54-51, ,,2,54,51,3,1254.0
+2:54.0, ,54-53,A. Dosunmu makes 2-pt layup from 2 ft,,2,54,53,1,1266.0
+2:42.0,J. Brown makes 2-pt jump shot from 14 ft,56-53, ,,2,56,53,3,1278.0
+2:22.0, ,56-55,N. Vučević makes 2-pt jump shot from 11 ft,,2,56,55,1,1298.0
+2:06.0,Offensive foul by K. Porziņģis (drawn by A. Caruso),56-55, ,,2,56,55,1,1314.0
+2:06.0,Turnover by K. Porziņģis (offensive foul),56-55, ,,2,56,55,1,1314.0
+2:06.0, ,56-55,C. White enters the game for J. Phillips,,2,56,55,1,1314.0
+1:58.0, ,56-55,Shooting foul by K. Porziņģis (drawn by N. Vučević),,2,56,55,1,1322.0
+1:58.0, ,56-56,N. Vučević makes free throw 1 of 2,Tie,2,56,56,0,1322.0
+1:58.0, ,56-57,N. Vučević makes free throw 2 of 2,Lead change,2,56,57,-1,1322.0
+1:37.0,J. Brown makes 3-pt jump shot from 28 ft,59-57, ,Lead change,2,59,57,2,1343.0
+1:15.0, ,59-59,A. Dosunmu makes 2-pt layup from 3 ft,Tie,2,59,59,0,1365.0
+1:06.0,J. Brown misses 2-pt jump shot from 21 ft,59-59, ,,2,59,59,0,1374.0
+1:01.0, ,59-59,Defensive rebound by A. Caruso,,2,59,59,0,1379.0
+0:57.0, ,59-59,A. Caruso misses 3-pt jump shot from 26 ft,,2,59,59,0,1383.0
+0:54.0,Defensive rebound by J. Tatum,59-59, ,,2,59,59,0,1386.0
+0:32.0,J. Tatum misses 3-pt jump shot from 25 ft,59-59, ,,2,59,59,0,1408.0
+0:29.0, ,59-59,Defensive rebound by N. Vučević,,2,59,59,0,1411.0
+0:07.0, ,59-62,C. White makes 3-pt jump shot from 25 ft (assist by A. Caruso),Lead change,2,59,62,-3,1433.0
+0:00.0,J. Brown misses 3-pt jump shot from 28 ft,59-62, ,,2,59,62,-3,1440.0
+0:00.0, ,59-62,Defensive rebound by N. Vučević,,2,59,62,-3,1440.0
+0:00.0,End of 2nd quarter,59-62,,,2,59,62,-3,1440.0
+12:00.0,Start of 3rd quarter,59-62,,,3,59,62,-3,1440.0
+11:52.0, ,59-62,N. Vučević misses 2-pt jump shot from 16 ft,,3,59,62,-3,1448.0
+11:50.0,Defensive rebound by J. Tatum,59-62, ,,3,59,62,-3,1450.0
+11:37.0,J. Brown misses 2-pt jump shot from 10 ft,59-62, ,,3,59,62,-3,1463.0
+11:35.0, ,59-62,Defensive rebound by Team,,3,59,62,-3,1465.0
+11:13.0, ,59-62,C. White misses 2-pt jump shot from 7 ft,,3,59,62,-3,1487.0
+11:11.0,Defensive rebound by D. White,59-62, ,,3,59,62,-3,1489.0
+11:04.0,Shooting foul by A. Dosunmu (drawn by J. Tatum),59-62, ,,3,59,62,-3,1496.0
+11:04.0,J. Tatum makes free throw 1 of 2,60-62, ,,3,60,62,-2,1496.0
+11:04.0,J. Tatum misses free throw 2 of 2,60-62, ,,3,60,62,-2,1496.0
+11:02.0, ,60-62,Defensive rebound by N. Vučević,,3,60,62,-2,1498.0
+10:49.0, ,60-62,C. White misses 3-pt jump shot from 26 ft,,3,60,62,-2,1511.0
+10:46.0,Defensive rebound by J. Holiday,60-62, ,,3,60,62,-2,1514.0
+10:35.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by J. Tatum),63-62, ,Lead change,3,63,62,1,1525.0
+10:29.0, ,63-62,Personal foul by J. Holiday (drawn by A. Caruso),,3,63,62,1,1531.0
+10:22.0, ,63-62,A. Caruso misses 2-pt layup from 2 ft,,3,63,62,1,1538.0
+10:20.0, ,63-62,Offensive rebound by Team,,3,63,62,1,1540.0
+10:06.0, ,63-62,A. Dosunmu misses 3-pt jump shot from 22 ft,,3,63,62,1,1554.0
+10:04.0,Defensive rebound by D. White,63-62, ,,3,63,62,1,1556.0
+9:50.0,K. Porziņģis misses 2-pt jump shot from 7 ft,63-62, ,,3,63,62,1,1570.0
+9:48.0, ,63-62,Defensive rebound by N. Vučević,,3,63,62,1,1572.0
+9:34.0, ,63-62,Offensive foul by N. Vučević (drawn by J. Brown),,3,63,62,1,1586.0
+9:34.0, ,63-62,Turnover by N. Vučević (offensive foul),,3,63,62,1,1586.0
+9:19.0,Shooting foul by A. Caruso (drawn by J. Tatum),63-62, ,,3,63,62,1,1601.0
+9:19.0,J. Tatum makes free throw 1 of 2,64-62, ,,3,64,62,2,1601.0
+9:19.0,J. Tatum misses free throw 2 of 2,64-62, ,,3,64,62,2,1601.0
+9:17.0, ,64-62,Defensive rebound by D. DeRozan,,3,64,62,2,1603.0
+9:02.0, ,64-62,Turnover by N. Vučević (lost ball; steal by J. Holiday),,3,64,62,2,1618.0
+8:55.0,D. White makes 3-pt jump shot from 25 ft (assist by J. Tatum),67-62, ,,3,67,62,5,1625.0
+8:53.0, ,67-62,Chicago full timeout,,3,67,62,5,1627.0
+8:39.0, ,67-62,N. Vučević misses 3-pt jump shot from 26 ft,,3,67,62,5,1641.0
+8:37.0,Defensive rebound by J. Brown,67-62, ,,3,67,62,5,1643.0
+8:17.0,K. Porziņģis makes 2-pt jump shot from 16 ft (assist by D. White),69-62, ,,3,69,62,7,1663.0
+8:08.0, ,69-64,A. Caruso makes 2-pt layup from 2 ft,,3,69,64,5,1672.0
+7:49.0,J. Tatum makes 3-pt jump shot from 25 ft,72-64, ,,3,72,64,8,1691.0
+7:28.0, ,72-64,C. White misses 2-pt jump shot from 3 ft,,3,72,64,8,1712.0
+7:26.0, ,72-64,Offensive rebound by N. Vučević,,3,72,64,8,1714.0
+7:24.0, ,72-67,C. White makes 3-pt jump shot from 25 ft (assist by A. Dosunmu),,3,72,67,5,1716.0
+7:16.0,Personal foul by D. DeRozan (drawn by D. White),72-67, ,,3,72,67,5,1724.0
+7:12.0,Shooting foul by A. Dosunmu (drawn by J. Brown),72-67, ,,3,72,67,5,1728.0
+7:12.0,J. Brown misses free throw 1 of 2,72-67, ,,3,72,67,5,1728.0
+7:12.0,Offensive rebound by Team,72-67, ,,3,72,67,5,1728.0
+7:12.0,J. Brown makes free throw 2 of 2,73-67, ,,3,73,67,6,1728.0
+6:56.0, ,73-69,D. DeRozan makes 2-pt layup at rim (assist by C. White),,3,73,69,4,1744.0
+6:47.0,D. White makes 3-pt jump shot from 25 ft (assist by J. Holiday),76-69, ,,3,76,69,7,1753.0
+6:34.0, ,76-71,D. DeRozan makes 2-pt layup from 1 ft,,3,76,71,5,1766.0
+6:20.0,Turnover by J. Brown (bad pass),76-71, ,,3,76,71,5,1780.0
+6:01.0, ,76-71,D. DeRozan misses 2-pt jump shot from 14 ft,,3,76,71,5,1799.0
+5:59.0,Defensive rebound by J. Tatum,76-71, ,,3,76,71,5,1801.0
+5:48.0,J. Tatum misses 3-pt jump shot from 25 ft,76-71, ,,3,76,71,5,1812.0
+5:47.0, ,76-71,Defensive rebound by A. Dosunmu,,3,76,71,5,1813.0
+5:47.0, ,76-71,Turnover by A. Dosunmu (lost ball; steal by D. White),,3,76,71,5,1813.0
+5:43.0,Turnover by J. Brown (bad pass; steal by A. Caruso),76-71, ,,3,76,71,5,1817.0
+5:39.0, ,76-71,A. Dosunmu misses 2-pt layup from 3 ft (block by J. Brown),,3,76,71,5,1821.0
+5:37.0,Defensive rebound by Team,76-71, ,,3,76,71,5,1823.0
+5:37.0,A. Horford enters the game for D. White,76-71, ,,3,76,71,5,1823.0
+5:37.0, ,76-71,A. Drummond enters the game for A. Caruso,,3,76,71,5,1823.0
+5:37.0, ,76-71,J. Phillips enters the game for D. DeRozan,,3,76,71,5,1823.0
+5:26.0,J. Tatum makes 2-pt layup from 1 ft (assist by J. Holiday),78-71, ,,3,78,71,7,1834.0
+5:18.0, ,78-71,Personal foul by K. Porziņģis (drawn by A. Drummond),,3,78,71,7,1842.0
+5:18.0,S. Hauser enters the game for J. Brown,78-71, ,,3,78,71,7,1842.0
+5:07.0, ,78-71,C. White misses 2-pt layup from 1 ft (block by K. Porziņģis),,3,78,71,7,1853.0
+5:05.0,Defensive rebound by A. Horford,78-71, ,,3,78,71,7,1855.0
+4:56.0,Personal foul by C. White (drawn by K. Porziņģis),78-71, ,,3,78,71,7,1864.0
+4:56.0,K. Porziņģis makes free throw 1 of 2,79-71, ,,3,79,71,8,1864.0
+4:56.0,K. Porziņģis makes free throw 2 of 2,80-71, ,,3,80,71,9,1864.0
+4:48.0, ,80-71,A. Dosunmu misses 2-pt jump shot from 5 ft,,3,80,71,9,1872.0
+4:47.0, ,80-71,Offensive rebound by A. Drummond,,3,80,71,9,1873.0
+4:47.0, ,80-71,A. Drummond misses 2-pt layup from 1 ft,,3,80,71,9,1873.0
+4:45.0, ,80-71,Shooting foul by K. Porziņģis (drawn by A. Drummond),,3,80,71,9,1875.0
+4:45.0, ,80-72,A. Drummond makes free throw 1 of 2,,3,80,72,8,1875.0
+4:45.0,L. Kornet enters the game for K. Porziņģis,80-72, ,,3,80,72,8,1875.0
+4:45.0, ,80-72,A. Drummond misses free throw 2 of 2,,3,80,72,8,1875.0
+4:43.0,Defensive rebound by Team,80-72, ,,3,80,72,8,1877.0
+4:43.0, ,80-72,J. Carter enters the game for C. White,,3,80,72,8,1877.0
+4:22.0,J. Tatum makes 3-pt jump shot from 25 ft,83-72, ,,3,83,72,11,1898.0
+4:02.0, ,83-72,A. Drummond misses 2-pt layup from 2 ft (block by S. Hauser),,3,83,72,11,1918.0
+4:02.0, ,83-72,Offensive rebound by N. Vučević,,3,83,72,11,1918.0
+3:55.0, ,83-72,Turnover by N. Vučević (bad pass; steal by J. Tatum),,3,83,72,11,1925.0
+3:51.0,S. Hauser makes 3-pt jump shot from 25 ft (assist by J. Holiday),86-72, ,,3,86,72,14,1929.0
+3:48.0, ,86-72,Chicago full timeout,,3,86,72,14,1932.0
+3:24.0, ,86-74,J. Phillips makes 2-pt layup from 2 ft,,3,86,74,12,1956.0
+3:24.0,P. Pritchard enters the game for S. Hauser,86-74, ,,3,86,74,12,1956.0
+3:24.0, ,86-74,D. DeRozan enters the game for N. Vučević,,3,86,74,12,1956.0
+3:00.0,J. Tatum misses 3-pt jump shot from 26 ft,86-74, ,,3,86,74,12,1980.0
+2:57.0,Offensive rebound by L. Kornet,86-74, ,,3,86,74,12,1983.0
+2:45.0,J. Tatum misses 2-pt layup from 1 ft (block by A. Drummond),86-74, ,,3,86,74,12,1995.0
+2:41.0,Offensive rebound by L. Kornet,86-74, ,,3,86,74,12,1999.0
+2:41.0,L. Kornet makes 2-pt dunk at rim,88-74, ,,3,88,74,14,1999.0
+2:37.0, ,88-74,Personal foul by J. Tatum (drawn by D. DeRozan),,3,88,74,14,2003.0
+2:37.0, ,88-74,C. White enters the game for A. Dosunmu,,3,88,74,14,2003.0
+2:29.0, ,88-77,C. White makes 3-pt jump shot from 25 ft (assist by D. DeRozan),,3,88,77,11,2011.0
+2:13.0,J. Holiday misses 3-pt jump shot from 26 ft,88-77, ,,3,88,77,11,2027.0
+2:13.0, ,88-77,Defensive rebound by A. Drummond,,3,88,77,11,2027.0
+2:00.0, ,88-79,A. Drummond makes 2-pt hook shot from 2 ft (assist by D. DeRozan),,3,88,79,9,2040.0
+1:50.0,Personal foul by C. White (drawn by J. Holiday),88-79, ,,3,88,79,9,2050.0
+1:50.0,J. Holiday misses free throw 1 of 2,88-79, ,,3,88,79,9,2050.0
+1:50.0,Offensive rebound by Team,88-79, ,,3,88,79,9,2050.0
+1:50.0, ,88-79,A. Caruso enters the game for J. Carter,,3,88,79,9,2050.0
+1:50.0,J. Holiday makes free throw 2 of 2,89-79, ,,3,89,79,10,2050.0
+1:35.0, ,89-79,D. DeRozan misses 3-pt jump shot from 27 ft,,3,89,79,10,2065.0
+1:33.0,Defensive rebound by P. Pritchard,89-79, ,,3,89,79,10,2067.0
+1:28.0,Turnover by P. Pritchard (bad pass; steal by D. DeRozan),89-79, ,,3,89,79,10,2072.0
+1:24.0, ,89-81,D. DeRozan makes 2-pt jump shot from 5 ft,,3,89,81,8,2076.0
+0:59.0,J. Tatum makes 2-pt jump shot from 17 ft,91-81, ,,3,91,81,10,2101.0
+0:41.0, ,91-81,Turnover by A. Caruso (lost ball; steal by J. Holiday),,3,91,81,10,2119.0
+0:37.0,L. Kornet makes 2-pt dunk at rim (assist by J. Tatum),93-81, ,,3,93,81,12,2123.0
+0:32.0, ,93-81,C. White misses 3-pt jump shot from 26 ft,,3,93,81,12,2128.0
+0:30.0,Defensive rebound by P. Pritchard,93-81, ,,3,93,81,12,2130.0
+0:10.0,J. Tatum makes 3-pt jump shot from 25 ft,96-81, ,,3,96,81,15,2150.0
+0:00.0, ,96-83,C. White makes 2-pt jump shot from 16 ft,,3,96,83,13,2160.0
+0:00.0,P. Pritchard misses 3-pt jump shot from 77 ft,96-83, ,,3,96,83,13,2160.0
+0:00.0,Offensive rebound by Team,96-83, ,,3,96,83,13,2160.0
+0:00.0,End of 3rd quarter,96-83,,,3,96,83,13,2160.0
+12:00.0,Start of 4th quarter,96-83,,,4,96,83,13,2160.0
+11:49.0,Offensive foul by A. Horford (drawn by A. Caruso),96-83, ,,4,96,83,13,2171.0
+11:49.0,Turnover by A. Horford (offensive foul),96-83, ,,4,96,83,13,2171.0
+11:32.0, ,96-83,D. DeRozan misses 2-pt jump shot from 14 ft,,4,96,83,13,2188.0
+11:29.0, ,96-83,Offensive rebound by A. Drummond,,4,96,83,13,2191.0
+11:29.0, ,96-83,A. Drummond misses 2-pt layup at rim,,4,96,83,13,2191.0
+11:28.0, ,96-83,Offensive rebound by A. Drummond,,4,96,83,13,2192.0
+11:28.0, ,96-85,A. Drummond makes 2-pt layup at rim,,4,96,85,11,2192.0
+11:16.0,P. Pritchard makes 3-pt jump shot from 22 ft (assist by D. White),99-85, ,,4,99,85,14,2204.0
+10:52.0, ,99-88,A. Caruso makes 3-pt jump shot from 24 ft,,4,99,88,11,2228.0
+10:37.0,P. Pritchard makes 3-pt jump shot from 28 ft (assist by D. White),102-88, ,,4,102,88,14,2243.0
+10:16.0, ,102-90,D. DeRozan makes 2-pt jump shot from 18 ft (assist by A. Caruso),,4,102,90,12,2264.0
+10:03.0,D. White makes 3-pt jump shot from 26 ft (assist by L. Kornet),105-90, ,,4,105,90,15,2277.0
+9:52.0, ,105-90,Turnover by D. DeRozan (out of bounds lost ball),,4,105,90,15,2288.0
+9:42.0,A. Horford misses 2-pt jump shot from 20 ft,105-90, ,,4,105,90,15,2298.0
+9:38.0,Offensive rebound by L. Kornet,105-90, ,,4,105,90,15,2302.0
+9:38.0,L. Kornet makes 2-pt dunk at rim,107-90, ,,4,107,90,17,2302.0
+9:29.0, ,107-90,C. White misses 2-pt jump shot from 9 ft,,4,107,90,17,2311.0
+9:29.0,Defensive rebound by Team,107-90, ,,4,107,90,17,2311.0
+9:17.0,D. White misses 3-pt jump shot from 26 ft,107-90, ,,4,107,90,17,2323.0
+9:15.0,Offensive rebound by L. Kornet,107-90, ,,4,107,90,17,2325.0
+9:15.0,L. Kornet makes 2-pt dunk at rim,109-90, ,,4,109,90,19,2325.0
+9:15.0, ,109-90,Chicago full timeout,,4,109,90,19,2325.0
+9:15.0, ,109-90,Technical foul by D. DeRozan,,4,109,90,19,2325.0
+9:15.0,D. White makes technical free throw,110-90, ,,4,110,90,20,2325.0
+9:15.0, ,110-90,N. Vučević enters the game for A. Drummond,,4,110,90,20,2325.0
+9:01.0, ,110-92,D. DeRozan makes 2-pt jump shot from 18 ft (assist by C. White),,4,110,92,18,2339.0
+8:47.0,D. White makes 2-pt jump shot from 17 ft,112-92, ,,4,112,92,20,2353.0
+8:47.0,Shooting foul by C. White (drawn by D. White),112-92, ,,4,112,92,20,2353.0
+8:47.0, ,112-92,D. Terry enters the game for A. Caruso,,4,112,92,20,2353.0
+8:47.0,D. White makes free throw 1 of 1,113-92, ,,4,113,92,21,2353.0
+8:30.0, ,113-95,C. White makes 3-pt jump shot from 26 ft (assist by D. DeRozan),,4,113,95,18,2370.0
+8:08.0,L. Kornet misses 2-pt layup from 1 ft,113-95, ,,4,113,95,18,2392.0
+8:06.0, ,113-95,Defensive rebound by N. Vučević,,4,113,95,18,2394.0
+7:56.0, ,113-95,Turnover by A. Dosunmu (bad pass),,4,113,95,18,2404.0
+7:56.0,K. Porziņģis enters the game for L. Kornet,113-95, ,,4,113,95,18,2404.0
+7:41.0,K. Porziņģis makes 3-pt jump shot from 25 ft (assist by J. Brown),116-95, ,,4,116,95,21,2419.0
+7:27.0, ,116-97,C. White makes 2-pt layup from 1 ft,,4,116,97,19,2433.0
+7:18.0,J. Brown misses 3-pt jump shot from 25 ft,116-97, ,,4,116,97,19,2442.0
+7:16.0, ,116-97,Defensive rebound by A. Dosunmu,,4,116,97,19,2444.0
+7:04.0, ,116-97,N. Vučević misses 2-pt hook shot from 6 ft,,4,116,97,19,2456.0
+7:02.0,Defensive rebound by J. Brown,116-97, ,,4,116,97,19,2458.0
+6:51.0,K. Porziņģis misses 3-pt jump shot from 26 ft,116-97, ,,4,116,97,19,2469.0
+6:49.0, ,116-97,Defensive rebound by C. White,,4,116,97,19,2471.0
+6:42.0, ,116-97,A. Dosunmu misses 3-pt jump shot from 25 ft,,4,116,97,19,2478.0
+6:39.0, ,116-97,Offensive rebound by D. DeRozan,,4,116,97,19,2481.0
+6:34.0, ,116-99,N. Vučević makes 2-pt jump shot from 14 ft (assist by D. DeRozan),,4,116,99,17,2486.0
+6:34.0,Boston full timeout,116-99, ,,4,116,99,17,2486.0
+6:34.0,J. Tatum enters the game for A. Horford,116-99, ,,4,116,99,17,2486.0
+6:34.0, ,116-99,A. Caruso enters the game for D. DeRozan,,4,116,99,17,2486.0
+6:20.0,D. White makes 2-pt hook shot from 8 ft (assist by K. Porziņģis),118-99, ,,4,118,99,19,2500.0
+6:20.0,Shooting foul by C. White (drawn by D. White),118-99, ,,4,118,99,19,2500.0
+6:20.0,D. White makes free throw 1 of 1,119-99, ,,4,119,99,20,2500.0
+6:10.0, ,119-101,A. Caruso makes 2-pt layup from 2 ft (assist by A. Dosunmu),,4,119,101,18,2510.0
+5:52.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by D. White),122-101, ,,4,122,101,21,2528.0
+5:41.0, ,122-101,N. Vučević misses 3-pt jump shot from 25 ft,,4,122,101,21,2539.0
+5:36.0, ,122-101,Offensive rebound by D. Terry,,4,122,101,21,2544.0
+5:36.0, ,122-103,D. Terry makes 2-pt layup at rim,,4,122,103,19,2544.0
+5:06.0,Turnover by J. Tatum (bad pass; steal by C. White),122-103, ,,4,122,103,19,2574.0
+5:01.0, ,122-105,A. Dosunmu makes 2-pt layup from 1 ft (assist by D. Terry),,4,122,105,17,2579.0
+4:38.0,K. Porziņģis misses 3-pt jump shot from 25 ft,122-105, ,,4,122,105,17,2602.0
+4:37.0,Offensive rebound by Team,122-105, ,,4,122,105,17,2603.0
+4:37.0,Turnover by Team (shot clock),122-105, ,,4,122,105,17,2603.0
+4:37.0,J. Holiday enters the game for P. Pritchard,122-105, ,,4,122,105,17,2603.0
+4:37.0, ,122-105,D. DeRozan enters the game for A. Dosunmu,,4,122,105,17,2603.0
+4:29.0, ,122-105,N. Vučević misses 2-pt layup from 1 ft,,4,122,105,17,2611.0
+4:27.0,Defensive rebound by J. Brown,122-105, ,,4,122,105,17,2613.0
+4:07.0,K. Porziņģis misses 2-pt jump shot from 18 ft,122-105, ,,4,122,105,17,2633.0
+4:03.0, ,122-105,Defensive rebound by A. Caruso,,4,122,105,17,2637.0
+3:55.0, ,122-105,N. Vučević misses 2-pt hook shot from 5 ft,,4,122,105,17,2645.0
+3:53.0,Defensive rebound by K. Porziņģis,122-105, ,,4,122,105,17,2647.0
+3:35.0,Shooting foul by N. Vučević (drawn by J. Tatum),122-105, ,,4,122,105,17,2665.0
+3:35.0,J. Tatum makes free throw 1 of 2,123-105, ,,4,123,105,18,2665.0
+3:35.0, ,123-105,A. Dosunmu enters the game for D. Terry,,4,123,105,18,2665.0
+3:35.0,J. Tatum makes free throw 2 of 2,124-105, ,,4,124,105,19,2665.0
+3:27.0, ,124-105,C. White misses 3-pt jump shot from 29 ft,,4,124,105,19,2673.0
+3:24.0,Defensive rebound by J. Holiday,124-105, ,,4,124,105,19,2676.0
+3:07.0,K. Porziņģis misses 3-pt jump shot from 27 ft,124-105, ,,4,124,105,19,2693.0
+3:03.0, ,124-105,Defensive rebound by A. Dosunmu,,4,124,105,19,2697.0
+2:51.0, ,124-105,A. Dosunmu misses 3-pt jump shot from 26 ft,,4,124,105,19,2709.0
+2:48.0,Defensive rebound by D. White,124-105, ,,4,124,105,19,2712.0
+2:39.0,D. White misses 3-pt jump shot from 24 ft,124-105, ,,4,124,105,19,2721.0
+2:36.0, ,124-105,Defensive rebound by D. DeRozan,,4,124,105,19,2724.0
+2:33.0, ,124-105,Shooting foul by J. Holiday (drawn by C. White),,4,124,105,19,2727.0
+2:33.0, ,124-106,C. White makes free throw 1 of 2,,4,124,106,18,2727.0
+2:33.0,X. Tillman enters the game for K. Porziņģis,124-106, ,,4,124,106,18,2727.0
+2:33.0, ,124-106,O. Bitim enters the game for A. Caruso,,4,124,106,18,2727.0
+2:33.0, ,124-106,T. Taylor enters the game for D. DeRozan,,4,124,106,18,2727.0
+2:33.0, ,124-106,D. Terry enters the game for N. Vučević,,4,124,106,18,2727.0
+2:33.0, ,124-107,C. White makes free throw 2 of 2,,4,124,107,17,2727.0
+2:15.0,J. Tatum misses 3-pt jump shot from 26 ft,124-107, ,,4,124,107,17,2745.0
+2:14.0, ,124-107,Defensive rebound by D. Terry,,4,124,107,17,2746.0
+2:14.0, ,124-107,Chicago full timeout,,4,124,107,17,2746.0
+2:14.0,O. Brissett enters the game for J. Brown,124-107, ,,4,124,107,17,2746.0
+2:14.0,S. Mykhailiuk enters the game for J. Holiday,124-107, ,,4,124,107,17,2746.0
+2:14.0,P. Pritchard enters the game for J. Tatum,124-107, ,,4,124,107,17,2746.0
+2:14.0,J. Springer enters the game for D. White,124-107, ,,4,124,107,17,2746.0
+2:14.0, ,124-107,J. Carter enters the game for A. Dosunmu,,4,124,107,17,2746.0
+2:14.0, ,124-107,J. Phillips enters the game for C. White,,4,124,107,17,2746.0
+1:56.0, ,124-109,J. Phillips makes 2-pt layup from 1 ft (assist by J. Carter),,4,124,109,15,2764.0
+1:34.0,X. Tillman makes 2-pt layup from 1 ft (assist by S. Mykhailiuk),126-109, ,,4,126,109,17,2786.0
+1:28.0, ,126-109,Shooting foul by X. Tillman (drawn by D. Terry),,4,126,109,17,2792.0
+1:28.0, ,126-109,D. Terry misses free throw 1 of 2,,4,126,109,17,2792.0
+1:28.0, ,126-109,Offensive rebound by Team,,4,126,109,17,2792.0
+1:28.0, ,126-110,D. Terry makes free throw 2 of 2,,4,126,110,16,2792.0
+1:05.0,J. Springer misses 3-pt jump shot from 23 ft,126-110, ,,4,126,110,16,2815.0
+1:04.0, ,126-110,Defensive rebound by Team,,4,126,110,16,2816.0
+0:52.0, ,126-110,O. Bitim misses 3-pt jump shot from 23 ft,,4,126,110,16,2828.0
+0:49.0,Defensive rebound by P. Pritchard,126-110, ,,4,126,110,16,2831.0
+0:40.0,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by P. Pritchard),129-110, ,,4,129,110,19,2840.0
+0:30.0, ,129-110,O. Bitim misses 2-pt layup from 1 ft (block by X. Tillman),,4,129,110,19,2850.0
+0:30.0,Defensive rebound by S. Mykhailiuk,129-110, ,,4,129,110,19,2850.0
+0:24.0,Turnover by P. Pritchard (bad pass; steal by D. Terry),129-110, ,,4,129,110,19,2856.0
+0:10.0, ,129-112,J. Carter makes 2-pt jump shot from 12 ft (assist by T. Taylor),,4,129,112,17,2870.0
+0:00.0,End of 4th quarter,129-112,,,4,129,112,17,2880.0

@@ -1,0 +1,468 @@
+Time,Washington,Score,Boston,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Avdija vs. K. Porziņģis (D. White gains possession),0-0,,,1,0,0,0,0.0
+11:41.0, ,0-0,J. Holiday misses 2-pt layup from 2 ft,,1,0,0,0,19.0
+11:39.0,Defensive rebound by B. Coulibaly,0-0, ,,1,0,0,0,21.0
+11:37.0,Turnover by T. Jones (lost ball; steal by D. White),0-0, ,,1,0,0,0,23.0
+11:32.0, ,0-2,J. Tatum makes 2-pt layup from 2 ft (assist by J. Brown),,1,2,0,2,28.0
+11:14.0,J. Poole makes 2-pt jump shot from 15 ft (assist by K. Kuzma),2-2, ,Tie,1,2,2,0,46.0
+11:01.0, ,2-4,K. Porziņģis makes 2-pt jump shot from 14 ft,,1,4,2,2,59.0
+10:52.0,B. Coulibaly misses 3-pt jump shot from 26 ft,2-4, ,,1,4,2,2,68.0
+10:51.0, ,2-4,Defensive rebound by J. Tatum,,1,4,2,2,69.0
+10:46.0, ,2-4,Personal foul by J. Poole (drawn by K. Porziņģis),,1,4,2,2,74.0
+10:41.0, ,2-6,J. Brown makes 2-pt layup from 3 ft,,1,6,2,4,79.0
+10:32.0,J. Poole misses 2-pt layup from 4 ft,2-6, ,,1,6,2,4,88.0
+10:30.0, ,2-6,Defensive rebound by K. Porziņģis,,1,6,2,4,90.0
+10:24.0, ,2-8,K. Porziņģis makes 2-pt layup from 2 ft (assist by J. Holiday),,1,8,2,6,96.0
+10:12.0,T. Jones makes 2-pt jump shot from 12 ft,4-8, ,,1,8,4,4,108.0
+9:57.0, ,4-8,J. Tatum misses 3-pt jump shot from 27 ft,,1,8,4,4,123.0
+9:55.0,Defensive rebound by D. Avdija,4-8, ,,1,8,4,4,125.0
+9:51.0,D. Avdija makes 2-pt layup from 4 ft,6-8, ,,1,8,6,2,129.0
+9:51.0,Shooting foul by J. Brown (drawn by D. Avdija),6-8, ,,1,8,6,2,129.0
+9:51.0,D. Avdija makes free throw 1 of 1,7-8, ,,1,8,7,1,129.0
+9:32.0, ,7-8,Shooting foul by K. Kuzma (drawn by K. Porziņģis),,1,8,7,1,148.0
+9:32.0, ,7-9,K. Porziņģis makes free throw 1 of 2,,1,9,7,2,148.0
+9:32.0, ,7-10,K. Porziņģis makes free throw 2 of 2,,1,10,7,3,148.0
+9:22.0,Personal foul by K. Porziņģis (drawn by B. Coulibaly),7-10, ,,1,10,7,3,158.0
+9:16.0,B. Coulibaly misses 3-pt jump shot from 27 ft,7-10, ,,1,10,7,3,164.0
+9:14.0, ,7-10,Defensive rebound by J. Tatum,,1,10,7,3,166.0
+9:01.0, ,7-12,J. Holiday makes 2-pt layup from 1 ft (assist by J. Tatum),,1,12,7,5,179.0
+8:41.0,Turnover by D. Avdija (bad pass; steal by J. Holiday),7-12, ,,1,12,7,5,199.0
+8:33.0, ,7-14,J. Brown makes 2-pt layup from 2 ft (assist by J. Tatum),,1,14,7,7,207.0
+8:19.0,J. Poole makes 3-pt jump shot from 27 ft (assist by K. Kuzma),10-14, ,,1,14,10,4,221.0
+8:06.0, ,10-16,J. Holiday makes 2-pt layup from 1 ft (assist by D. White),,1,16,10,6,234.0
+8:00.0,K. Kuzma misses 3-pt jump shot from 27 ft,10-16, ,,1,16,10,6,240.0
+7:58.0, ,10-16,Defensive rebound by K. Porziņģis,,1,16,10,6,242.0
+7:48.0, ,10-16,J. Tatum misses 2-pt layup from 4 ft,,1,16,10,6,252.0
+7:46.0,Defensive rebound by J. Poole,10-16, ,,1,16,10,6,254.0
+7:43.0,K. Kuzma makes 2-pt dunk from 2 ft (assist by J. Poole),12-16, ,,1,16,12,4,257.0
+7:42.0, ,12-16,Boston full timeout,,1,16,12,4,258.0
+7:24.0, ,12-16,K. Porziņģis misses 2-pt jump shot from 17 ft,,1,16,12,4,276.0
+7:22.0,Defensive rebound by D. Avdija,12-16, ,,1,16,12,4,278.0
+7:18.0,K. Kuzma makes 3-pt jump shot from 24 ft (assist by D. Avdija),15-16, ,,1,16,15,1,282.0
+7:06.0, ,15-16,D. White misses 3-pt jump shot from 25 ft,,1,16,15,1,294.0
+7:05.0,Defensive rebound by K. Kuzma,15-16, ,,1,16,15,1,295.0
+6:53.0,J. Poole misses 3-pt jump shot from 25 ft,15-16, ,,1,16,15,1,307.0
+6:50.0,Offensive rebound by B. Coulibaly,15-16, ,,1,16,15,1,310.0
+6:47.0,J. Poole misses 3-pt jump shot from 23 ft,15-16, ,,1,16,15,1,313.0
+6:46.0,Offensive rebound by B. Coulibaly,15-16, ,,1,16,15,1,314.0
+6:43.0,K. Kuzma misses 3-pt jump shot from 27 ft,15-16, ,,1,16,15,1,317.0
+6:41.0, ,15-16,Defensive rebound by J. Holiday,,1,16,15,1,319.0
+6:33.0, ,15-16,J. Tatum misses 3-pt jump shot from 27 ft,,1,16,15,1,327.0
+6:31.0,Defensive rebound by D. Avdija,15-16, ,,1,16,15,1,329.0
+6:21.0,J. Poole makes 2-pt jump shot from 11 ft,17-16, ,Lead change,1,16,17,-1,339.0
+6:06.0, ,17-16,K. Porziņģis misses 2-pt jump shot from 4 ft,,1,16,17,-1,354.0
+6:04.0,Defensive rebound by D. Avdija,17-16, ,,1,16,17,-1,356.0
+6:02.0,Turnover by D. Avdija (bad pass),17-16, ,,1,16,17,-1,358.0
+6:02.0, ,17-16,S. Hauser enters the game for J. Holiday,,1,16,17,-1,358.0
+6:02.0, ,17-16,A. Horford enters the game for J. Tatum,,1,16,17,-1,358.0
+5:43.0, ,17-18,J. Brown makes 2-pt jump shot from 13 ft,Lead change,1,18,17,1,377.0
+5:24.0,D. Avdija misses 2-pt jump shot from 9 ft,17-18, ,,1,18,17,1,396.0
+5:22.0, ,17-18,Defensive rebound by K. Porziņģis,,1,18,17,1,398.0
+5:17.0, ,17-18,K. Porziņģis misses 3-pt jump shot from 29 ft,,1,18,17,1,403.0
+5:16.0,Defensive rebound by J. Poole,17-18, ,,1,18,17,1,404.0
+5:10.0,T. Jones makes 3-pt jump shot from 24 ft (assist by J. Poole),20-18, ,Lead change,1,18,20,-2,410.0
+4:55.0, ,20-18,Personal foul by B. Coulibaly (drawn by K. Porziņģis),,1,18,20,-2,425.0
+4:55.0,C. Kispert enters the game for D. Avdija,20-18, ,,1,18,20,-2,425.0
+4:55.0,E. Omoruyi enters the game for J. Poole,20-18, ,,1,18,20,-2,425.0
+4:50.0, ,20-20,K. Porziņģis makes 2-pt dunk at rim (assist by J. Brown),Tie,1,20,20,0,430.0
+4:29.0,B. Coulibaly misses 3-pt jump shot from 25 ft,20-20, ,,1,20,20,0,451.0
+4:28.0, ,20-20,Defensive rebound by K. Porziņģis,,1,20,20,0,452.0
+4:27.0, ,20-20,Personal foul by E. Omoruyi (drawn by K. Porziņģis),,1,20,20,0,453.0
+4:08.0, ,20-20,S. Hauser misses 3-pt jump shot from 25 ft,,1,20,20,0,472.0
+4:07.0,Defensive rebound by B. Coulibaly,20-20, ,,1,20,20,0,473.0
+4:01.0,B. Coulibaly misses 2-pt layup from 4 ft (block by K. Porziņģis),20-20, ,,1,20,20,0,479.0
+4:00.0, ,20-20,Defensive rebound by A. Horford,,1,20,20,0,480.0
+3:53.0, ,20-20,Turnover by D. White (lost ball; steal by C. Kispert),,1,20,20,0,487.0
+3:47.0,K. Kuzma misses 2-pt jump shot from 7 ft,20-20, ,,1,20,20,0,493.0
+3:46.0, ,20-20,Defensive rebound by J. Brown,,1,20,20,0,494.0
+3:39.0, ,20-23,A. Horford makes 3-pt jump shot from 26 ft (assist by D. White),Lead change,1,23,20,3,501.0
+3:37.0,Washington full timeout,20-23, ,,1,23,20,3,503.0
+3:37.0,D. Avdija enters the game for B. Coulibaly,20-23, ,,1,23,20,3,503.0
+3:37.0,J. Poole enters the game for T. Jones,20-23, ,,1,23,20,3,503.0
+3:37.0,L. Shamet enters the game for K. Kuzma,20-23, ,,1,23,20,3,503.0
+3:37.0, ,20-23,P. Pritchard enters the game for D. White,,1,23,20,3,503.0
+3:26.0,J. Poole makes 2-pt layup from 8 ft,22-23, ,,1,23,22,1,514.0
+3:20.0, ,22-23,P. Pritchard misses 3-pt jump shot from 28 ft,,1,23,22,1,520.0
+3:18.0,Defensive rebound by C. Kispert,22-23, ,,1,23,22,1,522.0
+3:10.0,C. Kispert makes 3-pt jump shot from 28 ft (assist by D. Avdija),25-23, ,Lead change,1,23,25,-2,530.0
+2:51.0, ,25-23,J. Brown misses 2-pt jump shot from 11 ft,,1,23,25,-2,549.0
+2:50.0, ,25-23,Offensive rebound by A. Horford,,1,23,25,-2,550.0
+2:50.0, ,25-23,A. Horford misses 2-pt layup from 1 ft,,1,23,25,-2,550.0
+2:49.0,Defensive rebound by E. Omoruyi,25-23, ,,1,23,25,-2,551.0
+2:41.0,C. Kispert makes 2-pt jump shot from 14 ft (assist by E. Omoruyi),27-23, ,,1,23,27,-4,559.0
+2:23.0, ,27-23,Shooting foul by C. Kispert (drawn by S. Hauser),,1,23,27,-4,577.0
+2:23.0, ,27-24,S. Hauser makes free throw 1 of 2,,1,24,27,-3,577.0
+2:23.0, ,27-24,J. Holiday enters the game for J. Brown,,1,24,27,-3,577.0
+2:23.0, ,27-24,J. Tatum enters the game for K. Porziņģis,,1,24,27,-3,577.0
+2:23.0, ,27-25,S. Hauser makes free throw 2 of 2,,1,25,27,-2,577.0
+2:09.0,E. Omoruyi makes 2-pt layup from 3 ft (assist by J. Poole),29-25, ,,1,25,29,-4,591.0
+2:03.0, ,29-25,Turnover by J. Holiday (bad pass),,1,25,29,-4,597.0
+1:53.0,D. Avdija makes 2-pt layup from 4 ft (assist by J. Poole),31-25, ,,1,25,31,-6,607.0
+1:41.0, ,31-25,J. Tatum misses 3-pt jump shot from 26 ft,,1,25,31,-6,619.0
+1:40.0,Defensive rebound by C. Kispert,31-25, ,,1,25,31,-6,620.0
+1:31.0,J. Poole misses 3-pt jump shot from 27 ft,31-25, ,,1,25,31,-6,629.0
+1:29.0,Offensive rebound by Team,31-25, ,,1,25,31,-6,631.0
+1:29.0, ,31-25,Loose ball foul by A. Horford (drawn by E. Omoruyi),,1,25,31,-6,631.0
+1:16.0,Turnover by L. Shamet (lost ball; steal by A. Horford),31-25, ,,1,25,31,-6,644.0
+1:00.0, ,31-25,P. Pritchard misses 3-pt jump shot from 27 ft,,1,25,31,-6,660.0
+0:58.0, ,31-25,Offensive rebound by J. Holiday,,1,25,31,-6,662.0
+0:51.0, ,31-25,S. Hauser misses 3-pt jump shot from 26 ft,,1,25,31,-6,669.0
+0:49.0,Defensive rebound by C. Kispert,31-25, ,,1,25,31,-6,671.0
+0:45.0,E. Omoruyi makes 2-pt dunk from 3 ft (assist by C. Kispert),33-25, ,,1,25,33,-8,675.0
+0:30.0, ,33-25,J. Tatum misses 3-pt jump shot from 27 ft,,1,25,33,-8,690.0
+0:28.0, ,33-25,Offensive rebound by A. Horford,,1,25,33,-8,692.0
+0:25.0, ,33-28,J. Tatum makes 3-pt jump shot from 26 ft (assist by A. Horford),,1,28,33,-5,695.0
+0:02.0,J. Poole makes 2-pt jump shot from 23 ft,35-28, ,,1,28,35,-7,718.0
+0:00.0, ,35-31,P. Pritchard makes 3-pt jump shot from 50 ft (assist by J. Holiday),,1,31,35,-4,720.0
+0:00.0, ,35-31,Instant Replay (Request: Ruling Stands),,1,31,35,-4,720.0
+0:00.0,End of 1st quarter,35-31,,,1,31,35,-4,720.0
+12:00.0,Start of 2nd quarter,35-31,,,2,31,35,-4,720.0
+11:47.0,J. Poole misses 3-pt jump shot from 27 ft,35-31, ,,2,31,35,-4,733.0
+11:45.0, ,35-31,Defensive rebound by P. Pritchard,,2,31,35,-4,735.0
+11:30.0, ,35-31,J. Tatum misses 3-pt jump shot from 28 ft,,2,31,35,-4,750.0
+11:28.0,Defensive rebound by L. Shamet,35-31, ,,2,31,35,-4,752.0
+11:22.0,J. Poole misses 3-pt jump shot from 27 ft,35-31, ,,2,31,35,-4,758.0
+11:20.0, ,35-31,Defensive rebound by J. Tatum,,2,31,35,-4,760.0
+11:12.0, ,35-31,S. Hauser misses 3-pt jump shot from 28 ft,,2,31,35,-4,768.0
+11:10.0,Defensive rebound by C. Kispert,35-31, ,,2,31,35,-4,770.0
+11:04.0,Turnover by J. Poole (bad pass; steal by S. Hauser),35-31, ,,2,31,35,-4,776.0
+10:58.0, ,35-31,Personal foul by J. Poole (drawn by J. Holiday),,2,31,35,-4,782.0
+10:51.0, ,35-33,J. Tatum makes 2-pt jump shot from 17 ft (assist by J. Holiday),,2,33,35,-2,789.0
+10:31.0,J. Poole misses 2-pt jump shot from 15 ft,35-33, ,,2,33,35,-2,809.0
+10:29.0, ,35-33,Defensive rebound by S. Hauser,,2,33,35,-2,811.0
+10:19.0, ,35-33,J. Holiday misses 2-pt hook shot from 11 ft,,2,33,35,-2,821.0
+10:18.0,Defensive rebound by E. Omoruyi,35-33, ,,2,33,35,-2,822.0
+10:05.0,E. Omoruyi misses 3-pt jump shot from 28 ft,35-33, ,,2,33,35,-2,835.0
+10:03.0, ,35-33,Defensive rebound by P. Pritchard,,2,33,35,-2,837.0
+9:43.0, ,35-35,J. Tatum makes 2-pt jump shot from 18 ft,Tie,2,35,35,0,857.0
+9:43.0, ,35-35,Shooting foul by D. Wright (drawn by J. Tatum),,2,35,35,0,857.0
+9:43.0,K. Kuzma enters the game for E. Omoruyi,35-35, ,,2,35,35,0,857.0
+9:43.0, ,35-36,J. Tatum makes free throw 1 of 1,Lead change,2,36,35,1,857.0
+9:32.0,Shooting foul by S. Hauser (drawn by J. Poole),35-36, ,,2,36,35,1,868.0
+9:32.0,J. Poole makes free throw 1 of 2,36-36, ,Tie,2,36,36,0,868.0
+9:32.0,J. Poole makes free throw 2 of 2,37-36, ,Lead change,2,36,37,-1,868.0
+9:24.0, ,37-36,Def 3 sec tech foul by Team,,2,36,37,-1,876.0
+9:24.0, ,37-37,J. Tatum makes technical free throw,Tie,2,37,37,0,876.0
+9:17.0, ,37-37,S. Hauser misses 3-pt jump shot from 26 ft,,2,37,37,0,883.0
+9:15.0,Defensive rebound by C. Kispert,37-37, ,,2,37,37,0,885.0
+9:10.0,Shooting foul by L. Kornet (drawn by K. Kuzma),37-37, ,,2,37,37,0,890.0
+9:10.0,K. Kuzma makes free throw 1 of 2,38-37, ,,2,37,38,-1,890.0
+9:10.0, ,38-37,D. White enters the game for S. Hauser,,2,37,38,-1,890.0
+9:10.0,K. Kuzma makes free throw 2 of 2,39-37, ,,2,37,39,-2,890.0
+8:46.0, ,39-39,J. Holiday makes 2-pt jump shot from 7 ft,Tie,2,39,39,0,914.0
+8:38.0,K. Kuzma misses 3-pt jump shot from 28 ft,39-39, ,,2,39,39,0,922.0
+8:37.0, ,39-39,Defensive rebound by P. Pritchard,,2,39,39,0,923.0
+8:27.0, ,39-39,Shooting foul by L. Shamet (drawn by J. Tatum),,2,39,39,0,933.0
+8:27.0, ,39-40,J. Tatum makes free throw 1 of 2,Lead change,2,40,39,1,933.0
+8:27.0,B. Coulibaly enters the game for J. Poole,39-40, ,,2,40,39,1,933.0
+8:27.0,T. Jones enters the game for D. Wright,39-40, ,,2,40,39,1,933.0
+8:27.0, ,39-40,J. Brown enters the game for P. Pritchard,,2,40,39,1,933.0
+8:27.0, ,39-41,J. Tatum makes free throw 2 of 2,,2,41,39,2,933.0
+8:15.0,C. Kispert misses 2-pt layup from 9 ft,39-41, ,,2,41,39,2,945.0
+8:14.0, ,39-41,Defensive rebound by J. Brown,,2,41,39,2,946.0
+8:04.0, ,39-43,J. Holiday makes 2-pt layup from 1 ft (assist by D. White),,2,43,39,4,956.0
+7:56.0,Washington full timeout,39-43, ,,2,43,39,4,964.0
+7:56.0,D. Avdija enters the game for L. Shamet,39-43, ,,2,43,39,4,964.0
+7:54.0,T. Jones makes 2-pt jump shot from 10 ft (assist by C. Kispert),41-43, ,,2,43,41,2,966.0
+7:40.0, ,41-46,J. Tatum makes 3-pt jump shot from 26 ft,,2,46,41,5,980.0
+7:24.0,C. Kispert misses 2-pt layup from 4 ft (block by L. Kornet),41-46, ,,2,46,41,5,996.0
+7:22.0,Offensive rebound by B. Coulibaly,41-46, ,,2,46,41,5,998.0
+7:19.0,C. Kispert misses 3-pt jump shot from 23 ft,41-46, ,,2,46,41,5,1001.0
+7:18.0, ,41-46,Defensive rebound by J. Holiday,,2,46,41,5,1002.0
+7:08.0, ,41-48,D. White makes 2-pt layup from 4 ft (assist by J. Brown),,2,48,41,7,1012.0
+7:00.0,B. Coulibaly makes 3-pt jump shot from 26 ft (assist by D. Avdija),44-48, ,,2,48,44,4,1020.0
+6:50.0, ,44-48,J. Brown misses 2-pt layup from 6 ft,,2,48,44,4,1030.0
+6:48.0,Defensive rebound by D. Avdija,44-48, ,,2,48,44,4,1032.0
+6:45.0,B. Coulibaly misses 2-pt layup from 4 ft,44-48, ,,2,48,44,4,1035.0
+6:45.0,Offensive rebound by K. Kuzma,44-48, ,,2,48,44,4,1035.0
+6:40.0,B. Coulibaly makes 3-pt jump shot from 24 ft (assist by K. Kuzma),47-48, ,,2,48,47,1,1040.0
+6:22.0, ,47-50,J. Tatum makes 2-pt layup from 1 ft,,2,50,47,3,1058.0
+6:12.0,B. Coulibaly misses 3-pt jump shot from 27 ft,47-50, ,,2,50,47,3,1068.0
+6:11.0, ,47-50,Defensive rebound by J. Brown,,2,50,47,3,1069.0
+6:01.0, ,47-50,Turnover by J. Brown (bad pass; steal by C. Kispert),,2,50,47,3,1079.0
+5:57.0,C. Kispert makes 3-pt jump shot from 25 ft,50-50, ,Tie,2,50,50,0,1083.0
+5:56.0, ,50-50,Boston full timeout,,2,50,50,0,1084.0
+5:56.0, ,50-50,Instant Replay,,2,50,50,0,1084.0
+5:56.0, ,50-50,A. Horford enters the game for J. Holiday,,2,50,50,0,1084.0
+5:56.0, ,50-50,K. Porziņģis enters the game for L. Kornet,,2,50,50,0,1084.0
+5:33.0, ,50-50,J. Tatum misses 3-pt jump shot from 26 ft,,2,50,50,0,1107.0
+5:31.0,Defensive rebound by B. Coulibaly,50-50, ,,2,50,50,0,1109.0
+5:19.0,D. Avdija makes 3-pt jump shot from 28 ft (assist by B. Coulibaly),53-50, ,Lead change,2,50,53,-3,1121.0
+5:02.0, ,53-50,Shooting foul by D. Avdija (drawn by K. Porziņģis),,2,50,53,-3,1138.0
+5:02.0, ,53-51,K. Porziņģis makes free throw 1 of 2,,2,51,53,-2,1138.0
+5:02.0, ,53-52,K. Porziņģis makes free throw 2 of 2,,2,52,53,-1,1138.0
+4:55.0,B. Coulibaly misses 3-pt jump shot from 25 ft,53-52, ,,2,52,53,-1,1145.0
+4:54.0, ,53-52,Defensive rebound by A. Horford,,2,52,53,-1,1146.0
+4:48.0, ,53-52,Personal foul by B. Coulibaly (drawn by K. Porziņģis),,2,52,53,-1,1152.0
+4:48.0, ,53-53,K. Porziņģis makes free throw 1 of 2,Tie,2,53,53,0,1152.0
+4:48.0, ,53-54,K. Porziņģis makes free throw 2 of 2,Lead change,2,54,53,1,1152.0
+4:31.0,Turnover by B. Coulibaly (bad pass; steal by D. White),53-54, ,,2,54,53,1,1169.0
+4:29.0, ,53-54,Turnover by D. White (lost ball; steal by B. Coulibaly),,2,54,53,1,1171.0
+4:27.0,C. Kispert misses 3-pt jump shot from 27 ft,53-54, ,,2,54,53,1,1173.0
+4:25.0, ,53-54,Defensive rebound by Team,,2,54,53,1,1175.0
+4:25.0,J. Poole enters the game for C. Kispert,53-54, ,,2,54,53,1,1175.0
+4:08.0, ,53-54,K. Porziņģis misses 2-pt jump shot from 6 ft,,2,54,53,1,1192.0
+4:07.0, ,53-54,Offensive rebound by K. Porziņģis,,2,54,53,1,1193.0
+4:03.0, ,53-56,K. Porziņģis makes 2-pt jump shot from 10 ft,,2,56,53,3,1197.0
+3:53.0,Shooting foul by K. Porziņģis (drawn by B. Coulibaly),53-56, ,,2,56,53,3,1207.0
+3:53.0,B. Coulibaly makes free throw 1 of 2,54-56, ,,2,56,54,2,1207.0
+3:53.0,B. Coulibaly makes free throw 2 of 2,55-56, ,,2,56,55,1,1207.0
+3:37.0, ,55-58,J. Brown makes 2-pt jump shot from 3 ft,,2,58,55,3,1223.0
+3:22.0,T. Jones makes 2-pt jump shot from 9 ft (assist by K. Kuzma),57-58, ,,2,58,57,1,1238.0
+3:08.0, ,57-58,D. White misses 3-pt jump shot from 27 ft,,2,58,57,1,1252.0
+3:06.0, ,57-58,Offensive rebound by J. Tatum,,2,58,57,1,1254.0
+2:59.0, ,57-58,A. Horford misses 2-pt layup from 3 ft,,2,58,57,1,1261.0
+2:58.0,Defensive rebound by D. Avdija,57-58, ,,2,58,57,1,1262.0
+2:42.0,J. Poole misses 2-pt layup from 5 ft (block by J. Tatum),57-58, ,,2,58,57,1,1278.0
+2:41.0, ,57-58,Defensive rebound by A. Horford,,2,58,57,1,1279.0
+2:31.0, ,57-58,J. Brown misses 2-pt layup from 2 ft,,2,58,57,1,1289.0
+2:30.0, ,57-58,Offensive rebound by J. Brown,,2,58,57,1,1290.0
+2:30.0, ,57-60,J. Brown makes 2-pt layup at rim,,2,60,57,3,1290.0
+2:12.0,T. Jones misses 2-pt jump shot from 9 ft,57-60, ,,2,60,57,3,1308.0
+2:10.0, ,57-60,Defensive rebound by D. White,,2,60,57,3,1310.0
+2:05.0, ,57-62,J. Brown makes 2-pt layup from 2 ft (assist by D. White),,2,62,57,5,1315.0
+1:57.0,B. Coulibaly misses 2-pt layup from 4 ft (block by J. Tatum),57-62, ,,2,62,57,5,1323.0
+1:56.0, ,57-62,Defensive rebound by K. Porziņģis,,2,62,57,5,1324.0
+1:52.0, ,57-62,J. Tatum misses 2-pt layup from 3 ft,,2,62,57,5,1328.0
+1:51.0,Defensive rebound by D. Avdija,57-62, ,,2,62,57,5,1329.0
+1:43.0,Shooting foul by D. White (drawn by B. Coulibaly),57-62, ,,2,62,57,5,1337.0
+1:43.0,B. Coulibaly makes free throw 1 of 2,58-62, ,,2,62,58,4,1337.0
+1:43.0, ,58-62,J. Holiday enters the game for A. Horford,,2,62,58,4,1337.0
+1:43.0,B. Coulibaly makes free throw 2 of 2,59-62, ,,2,62,59,3,1337.0
+1:30.0, ,59-62,Turnover by K. Porziņģis (bad pass; steal by J. Poole),,2,62,59,3,1350.0
+1:27.0,J. Poole makes 3-pt jump shot from 26 ft,62-62, ,Tie,2,62,62,0,1353.0
+1:07.0, ,62-62,Shooting foul by K. Kuzma (drawn by K. Porziņģis),,2,62,62,0,1373.0
+1:07.0, ,62-63,K. Porziņģis makes free throw 1 of 2,,2,63,62,1,1373.0
+1:07.0, ,62-64,K. Porziņģis makes free throw 2 of 2,,2,64,62,2,1373.0
+0:57.0,K. Kuzma makes 3-pt jump shot from 25 ft (assist by B. Coulibaly),65-64, ,Lead change,2,64,65,-1,1383.0
+0:48.0, ,65-64,J. Holiday misses 2-pt jump shot from 16 ft,,2,64,65,-1,1392.0
+0:46.0,Defensive rebound by D. Avdija,65-64, ,,2,64,65,-1,1394.0
+0:33.0,J. Poole makes 3-pt jump shot from 29 ft (assist by T. Jones),68-64, ,,2,64,68,-4,1407.0
+0:24.0, ,68-64,J. Brown misses 2-pt layup from 3 ft,,2,64,68,-4,1416.0
+0:23.0,Defensive rebound by B. Coulibaly,68-64, ,,2,64,68,-4,1417.0
+0:03.0,D. Avdija makes 3-pt jump shot from 28 ft (assist by T. Jones),71-64, ,,2,64,71,-7,1437.0
+0:00.0,End of 2nd quarter,71-64,,,2,64,71,-7,1440.0
+12:00.0,Start of 3rd quarter,71-64,,,3,64,71,-7,1440.0
+11:47.0,B. Coulibaly misses 2-pt hook shot from 5 ft,71-64, ,,3,64,71,-7,1453.0
+11:45.0, ,71-64,Defensive rebound by K. Porziņģis,,3,64,71,-7,1455.0
+11:37.0, ,71-64,K. Porziņģis misses 3-pt jump shot from 26 ft,,3,64,71,-7,1463.0
+11:33.0,Defensive rebound by D. Avdija,71-64, ,,3,64,71,-7,1467.0
+11:31.0,Shooting foul by J. Tatum (drawn by D. Avdija),71-64, ,,3,64,71,-7,1469.0
+11:31.0,D. Avdija misses free throw 1 of 2,71-64, ,,3,64,71,-7,1469.0
+11:31.0,Offensive rebound by Team,71-64, ,,3,64,71,-7,1469.0
+11:31.0,D. Avdija makes free throw 2 of 2,72-64, ,,3,64,72,-8,1469.0
+11:15.0, ,72-64,D. White misses 3-pt jump shot from 26 ft,,3,64,72,-8,1485.0
+11:14.0, ,72-64,Offensive rebound by J. Holiday,,3,64,72,-8,1486.0
+11:11.0, ,72-64,D. White misses 3-pt jump shot from 27 ft,,3,64,72,-8,1489.0
+11:10.0,Defensive rebound by T. Jones,72-64, ,,3,64,72,-8,1490.0
+10:59.0,Turnover by D. Avdija (lost ball; steal by J. Brown),72-64, ,,3,64,72,-8,1501.0
+10:57.0, ,72-64,Turnover by J. Brown (bad pass),,3,64,72,-8,1503.0
+10:51.0,T. Jones misses 2-pt jump shot from 13 ft,72-64, ,,3,64,72,-8,1509.0
+10:49.0, ,72-64,Defensive rebound by K. Porziņģis,,3,64,72,-8,1511.0
+10:34.0, ,72-66,K. Porziņģis makes 2-pt jump shot from 12 ft (assist by J. Holiday),,3,66,72,-6,1526.0
+10:10.0,D. Avdija misses 3-pt jump shot from 26 ft,72-66, ,,3,66,72,-6,1550.0
+10:09.0, ,72-66,Defensive rebound by Team,,3,66,72,-6,1551.0
+9:56.0, ,72-66,J. Holiday misses 2-pt layup from 5 ft (block by T. Jones),,3,66,72,-6,1564.0
+9:55.0, ,72-66,Offensive rebound by J. Holiday,,3,66,72,-6,1565.0
+9:54.0, ,72-68,J. Holiday makes 2-pt layup from 2 ft,,3,68,72,-4,1566.0
+9:44.0,T. Jones makes 2-pt jump shot from 12 ft,74-68, ,,3,68,74,-6,1576.0
+9:38.0, ,74-68,Turnover by D. White (lost ball; steal by D. Avdija),,3,68,74,-6,1582.0
+9:37.0,Personal foul by D. White (drawn by D. Avdija),74-68, ,,3,68,74,-6,1583.0
+9:37.0,J. Poole misses free throw 1 of 1,74-68, ,,3,68,74,-6,1583.0
+9:37.0,Offensive rebound by Team,74-68, ,,3,68,74,-6,1583.0
+9:25.0,T. Jones misses 2-pt jump shot from 12 ft,74-68, ,,3,68,74,-6,1595.0
+9:23.0, ,74-68,Defensive rebound by J. Tatum,,3,68,74,-6,1597.0
+9:11.0, ,74-68,K. Porziņģis misses 2-pt jump shot from 9 ft,,3,68,74,-6,1609.0
+9:09.0, ,74-68,Offensive rebound by K. Porziņģis,,3,68,74,-6,1611.0
+9:08.0, ,74-70,K. Porziņģis makes 2-pt dunk at rim,,3,70,74,-4,1612.0
+8:57.0,K. Kuzma misses 2-pt hook shot from 9 ft,74-70, ,,3,70,74,-4,1623.0
+8:55.0, ,74-70,Defensive rebound by J. Tatum,,3,70,74,-4,1625.0
+8:49.0, ,74-72,J. Brown makes 2-pt layup from 3 ft,,3,72,74,-2,1631.0
+8:43.0,Washington full timeout,74-72, ,,3,72,74,-2,1637.0
+8:30.0,Turnover by B. Coulibaly (bad pass; steal by D. White),74-72, ,,3,72,74,-2,1650.0
+8:27.0, ,74-72,Personal foul by B. Coulibaly (drawn by K. Porziņģis),,3,72,74,-2,1653.0
+8:17.0, ,74-72,Turnover by K. Porziņģis (bad pass),,3,72,74,-2,1663.0
+8:03.0,B. Coulibaly misses 3-pt jump shot from 27 ft,74-72, ,,3,72,74,-2,1677.0
+8:00.0, ,74-72,Defensive rebound by Team,,3,72,74,-2,1680.0
+8:00.0,Loose ball foul by D. Avdija (drawn by J. Tatum),74-72, ,,3,72,74,-2,1680.0
+8:00.0, ,74-72,Boston full timeout,,3,72,74,-2,1680.0
+8:00.0, ,74-72,Instant Replay (Challenge: Ruling Stands),,3,72,74,-2,1680.0
+7:45.0, ,74-74,J. Tatum makes 2-pt layup from 3 ft (assist by D. White),Tie,3,74,74,0,1695.0
+7:32.0,Personal foul by J. Brown (drawn by J. Poole),74-74, ,,3,74,74,0,1708.0
+7:27.0,K. Kuzma misses 2-pt jump shot from 15 ft,74-74, ,,3,74,74,0,1713.0
+7:25.0, ,74-74,Defensive rebound by K. Porziņģis,,3,74,74,0,1715.0
+7:17.0, ,74-74,J. Tatum misses 2-pt jump shot from 4 ft,,3,74,74,0,1723.0
+7:15.0,Defensive rebound by K. Kuzma,74-74, ,,3,74,74,0,1725.0
+7:04.0,B. Coulibaly makes 2-pt layup from 4 ft (assist by K. Kuzma),76-74, ,,3,74,76,-2,1736.0
+6:53.0, ,76-74,Personal foul by K. Kuzma (drawn by K. Porziņģis),,3,74,76,-2,1747.0
+6:50.0, ,76-74,Offensive foul by K. Porziņģis (drawn by K. Kuzma),,3,74,76,-2,1750.0
+6:50.0, ,76-74,Turnover by K. Porziņģis (offensive foul),,3,74,76,-2,1750.0
+6:34.0,T. Jones misses 2-pt jump shot from 16 ft,76-74, ,,3,74,76,-2,1766.0
+6:33.0, ,76-74,Defensive rebound by K. Porziņģis,,3,74,76,-2,1767.0
+6:23.0, ,76-76,J. Tatum makes 2-pt dunk from 1 ft,Tie,3,76,76,0,1777.0
+6:05.0,Turnover by J. Poole (dbl dribble),76-76, ,,3,76,76,0,1795.0
+6:05.0, ,76-76,S. Hauser enters the game for J. Brown,,3,76,76,0,1795.0
+6:05.0, ,76-76,A. Horford enters the game for J. Holiday,,3,76,76,0,1795.0
+5:55.0, ,76-76,Personal foul by B. Coulibaly (drawn by J. Tatum),,3,76,76,0,1805.0
+5:55.0,C. Kispert enters the game for D. Avdija,76-76, ,,3,76,76,0,1805.0
+5:55.0,E. Omoruyi enters the game for B. Coulibaly,76-76, ,,3,76,76,0,1805.0
+5:55.0,L. Shamet enters the game for J. Poole,76-76, ,,3,76,76,0,1805.0
+5:45.0, ,76-76,K. Porziņģis misses 2-pt jump shot from 13 ft,,3,76,76,0,1815.0
+5:44.0,Defensive rebound by K. Kuzma,76-76, ,,3,76,76,0,1816.0
+5:35.0,C. Kispert makes 2-pt layup from 5 ft (assist by T. Jones),78-76, ,,3,76,78,-2,1825.0
+5:16.0, ,78-79,K. Porziņģis makes 3-pt jump shot from 27 ft (assist by S. Hauser),Lead change,3,79,78,1,1844.0
+5:06.0,T. Jones misses 2-pt jump shot from 11 ft,78-79, ,,3,79,78,1,1854.0
+5:04.0, ,78-79,Defensive rebound by Team,,3,79,78,1,1856.0
+5:04.0,Loose ball foul by K. Kuzma (drawn by K. Porziņģis),78-79, ,,3,79,78,1,1856.0
+5:04.0, ,78-80,K. Porziņģis makes free throw 1 of 2,,3,80,78,2,1856.0
+5:04.0,D. Avdija enters the game for K. Kuzma,78-80, ,,3,80,78,2,1856.0
+5:04.0, ,78-81,K. Porziņģis makes free throw 2 of 2,,3,81,78,3,1856.0
+4:52.0,L. Shamet misses 3-pt jump shot from 23 ft (block by D. White),78-81, ,,3,81,78,3,1868.0
+4:51.0, ,78-81,Defensive rebound by J. Tatum,,3,81,78,3,1869.0
+4:45.0, ,78-84,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Tatum),,3,84,78,6,1875.0
+4:32.0,C. Kispert makes 2-pt jump shot from 8 ft (assist by E. Omoruyi),80-84, ,,3,84,80,4,1888.0
+4:13.0, ,80-84,J. Tatum misses 3-pt jump shot from 27 ft,,3,84,80,4,1907.0
+4:11.0,Defensive rebound by E. Omoruyi,80-84, ,,3,84,80,4,1909.0
+3:57.0,L. Shamet makes 3-pt jump shot from 27 ft (assist by C. Kispert),83-84, ,,3,84,83,1,1923.0
+3:38.0, ,83-84,S. Hauser misses 3-pt jump shot from 24 ft,,3,84,83,1,1942.0
+3:36.0,Defensive rebound by E. Omoruyi,83-84, ,,3,84,83,1,1944.0
+3:27.0,Offensive foul by E. Omoruyi (drawn by S. Hauser),83-84, ,,3,84,83,1,1953.0
+3:27.0,Turnover by E. Omoruyi (offensive foul),83-84, ,,3,84,83,1,1953.0
+3:27.0,J. Poole enters the game for T. Jones,83-84, ,,3,84,83,1,1953.0
+3:27.0, ,83-84,P. Pritchard enters the game for D. White,,3,84,83,1,1953.0
+3:11.0, ,83-84,Shooting foul by D. Avdija (drawn by K. Porziņģis),,3,84,83,1,1969.0
+3:11.0, ,83-85,K. Porziņģis makes free throw 1 of 2,,3,85,83,2,1969.0
+3:11.0, ,83-86,K. Porziņģis makes free throw 2 of 2,,3,86,83,3,1969.0
+3:02.0,Turnover by E. Omoruyi (bad pass; steal by A. Horford),83-86, ,,3,86,83,3,1978.0
+2:53.0, ,83-89,K. Porziņģis makes 3-pt jump shot from 27 ft (assist by J. Tatum),,3,89,83,6,1987.0
+2:39.0,J. Poole misses 2-pt layup from 2 ft,83-89, ,,3,89,83,6,2001.0
+2:38.0,Offensive rebound by E. Omoruyi,83-89, ,,3,89,83,6,2002.0
+2:38.0,E. Omoruyi misses 2-pt layup at rim,83-89, ,,3,89,83,6,2002.0
+2:37.0, ,83-89,Defensive rebound by J. Tatum,,3,89,83,6,2003.0
+2:27.0, ,83-91,A. Horford makes 2-pt layup from 9 ft (assist by J. Tatum),,3,91,83,8,2013.0
+2:18.0,L. Shamet misses 2-pt dunk from 1 ft,83-91, ,,3,91,83,8,2022.0
+2:16.0, ,83-91,Defensive rebound by P. Pritchard,,3,91,83,8,2024.0
+2:01.0, ,83-91,Turnover by J. Tatum (bad pass; steal by C. Kispert),,3,91,83,8,2039.0
+1:58.0,C. Kispert makes 2-pt dunk from 1 ft,85-91, ,,3,91,85,6,2042.0
+1:38.0, ,85-93,J. Tatum makes 2-pt dunk from 2 ft,,3,93,85,8,2062.0
+1:20.0,J. Poole misses 3-pt jump shot from 25 ft,85-93, ,,3,93,85,8,2080.0
+1:19.0, ,85-93,Defensive rebound by J. Tatum,,3,93,85,8,2081.0
+1:06.0, ,85-93,Personal foul by J. Poole (drawn by J. Tatum),,3,93,85,8,2094.0
+1:06.0, ,85-94,J. Tatum makes free throw 1 of 2,,3,94,85,9,2094.0
+1:06.0, ,85-95,J. Tatum makes free throw 2 of 2,,3,95,85,10,2094.0
+0:46.0,Turnover by J. Poole (bad pass; steal by J. Tatum),85-95, ,,3,95,85,10,2114.0
+0:43.0, ,85-97,J. Tatum makes 2-pt layup from 2 ft (assist by P. Pritchard),,3,97,85,12,2117.0
+0:32.0,C. Kispert makes 2-pt layup from 2 ft,87-97, ,,3,97,87,10,2128.0
+0:12.0, ,87-100,J. Tatum makes 3-pt jump shot from 27 ft,,3,100,87,13,2148.0
+0:02.0,J. Poole misses 2-pt jump shot from 12 ft,87-100, ,,3,100,87,13,2158.0
+0:02.0, ,87-100,Defensive rebound by P. Pritchard,,3,100,87,13,2158.0
+0:00.0, ,87-100,Instant Replay (Request: Ruling Stands),,3,100,87,13,2160.0
+0:00.0,End of 3rd quarter,87-100,,,3,100,87,13,2160.0
+12:00.0,Start of 4th quarter,87-100,,,4,100,87,13,2160.0
+11:39.0, ,87-102,J. Holiday makes 2-pt jump shot from 21 ft,,4,102,87,15,2181.0
+11:13.0,D. Avdija makes 2-pt layup from 4 ft (assist by C. Kispert),89-102, ,,4,102,89,13,2207.0
+11:13.0,Shooting foul by L. Kornet (drawn by D. Avdija),89-102, ,,4,102,89,13,2207.0
+11:13.0,D. Avdija makes free throw 1 of 1,90-102, ,,4,102,90,12,2207.0
+11:01.0, ,90-102,A. Horford misses 3-pt jump shot from 26 ft,,4,102,90,12,2219.0
+11:00.0,Defensive rebound by T. Jones,90-102, ,,4,102,90,12,2220.0
+10:53.0,K. Kuzma misses 3-pt jump shot from 26 ft,90-102, ,,4,102,90,12,2227.0
+10:52.0, ,90-102,Defensive rebound by P. Pritchard,,4,102,90,12,2228.0
+10:44.0, ,90-104,P. Pritchard makes 2-pt layup from 4 ft,,4,104,90,14,2236.0
+10:44.0, ,90-104,Shooting foul by J. Poole (drawn by P. Pritchard),,4,104,90,14,2236.0
+10:44.0, ,90-104,J. Brown enters the game for S. Hauser,,4,104,90,14,2236.0
+10:44.0, ,90-105,P. Pritchard makes free throw 1 of 1,,4,105,90,15,2236.0
+10:33.0,K. Kuzma makes 2-pt jump shot from 6 ft (assist by T. Jones),92-105, ,,4,105,92,13,2247.0
+10:07.0, ,92-105,J. Brown misses 2-pt hook shot from 5 ft,,4,105,92,13,2273.0
+10:06.0,Defensive rebound by Team,92-105, ,,4,105,92,13,2274.0
+10:06.0,B. Coulibaly enters the game for J. Poole,92-105, ,,4,105,92,13,2274.0
+10:02.0,C. Kispert makes 2-pt jump shot from 9 ft (assist by T. Jones),94-105, ,,4,105,94,11,2278.0
+10:02.0,Shooting foul by J. Holiday (drawn by C. Kispert),94-105, ,,4,105,94,11,2278.0
+10:02.0,C. Kispert makes free throw 1 of 1,95-105, ,,4,105,95,10,2278.0
+9:45.0, ,95-107,P. Pritchard makes 2-pt jump shot from 11 ft,,4,107,95,12,2295.0
+9:33.0,D. Avdija makes 3-pt jump shot from 26 ft (assist by B. Coulibaly),98-107, ,,4,107,98,9,2307.0
+9:17.0, ,98-109,J. Brown makes 2-pt jump shot from 18 ft,,4,109,98,11,2323.0
+9:02.0,B. Coulibaly misses 3-pt jump shot from 24 ft,98-109, ,,4,109,98,11,2338.0
+9:00.0, ,98-109,Defensive rebound by J. Brown,,4,109,98,11,2340.0
+8:50.0, ,98-109,P. Pritchard misses 3-pt jump shot from 26 ft,,4,109,98,11,2350.0
+8:48.0,Defensive rebound by C. Kispert,98-109, ,,4,109,98,11,2352.0
+8:37.0,C. Kispert makes 3-pt jump shot from 28 ft (assist by D. Avdija),101-109, ,,4,109,101,8,2363.0
+8:18.0, ,101-112,P. Pritchard makes 3-pt jump shot from 26 ft (assist by J. Holiday),,4,112,101,11,2382.0
+8:02.0,K. Kuzma misses 3-pt jump shot from 25 ft,101-112, ,,4,112,101,11,2398.0
+8:00.0, ,101-112,Defensive rebound by J. Holiday,,4,112,101,11,2400.0
+7:43.0, ,101-112,J. Brown misses 3-pt jump shot from 28 ft,,4,112,101,11,2417.0
+7:41.0,Defensive rebound by B. Coulibaly,101-112, ,,4,112,101,11,2419.0
+7:28.0,C. Kispert misses 3-pt jump shot from 25 ft,101-112, ,,4,112,101,11,2432.0
+7:27.0, ,101-112,Defensive rebound by J. Brown,,4,112,101,11,2433.0
+7:04.0, ,101-114,J. Brown makes 2-pt jump shot from 8 ft,,4,114,101,13,2456.0
+7:04.0,Washington full timeout,101-114, ,,4,114,101,13,2456.0
+7:04.0,J. Poole enters the game for C. Kispert,101-114, ,,4,114,101,13,2456.0
+7:04.0, ,101-114,D. White enters the game for L. Kornet,,4,114,101,13,2456.0
+6:49.0,K. Kuzma makes 2-pt layup from 2 ft,103-114, ,,4,114,103,11,2471.0
+6:34.0, ,103-114,Turnover by J. Holiday (bad pass; steal by D. Avdija),,4,114,103,11,2486.0
+6:31.0,Shooting foul by D. White (drawn by D. Avdija),103-114, ,,4,114,103,11,2489.0
+6:31.0,D. Avdija makes free throw 1 of 2,104-114, ,,4,114,104,10,2489.0
+6:31.0,D. Avdija makes free throw 2 of 2,105-114, ,,4,114,105,9,2489.0
+6:17.0, ,105-117,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. White),,4,117,105,12,2503.0
+6:02.0,B. Coulibaly makes 3-pt jump shot from 23 ft (assist by T. Jones),108-117, ,,4,117,108,9,2518.0
+6:02.0, ,108-117,K. Porziņģis enters the game for A. Horford,,4,117,108,9,2518.0
+6:02.0, ,108-117,J. Tatum enters the game for P. Pritchard,,4,117,108,9,2518.0
+5:43.0,Jump ball: K. Porziņģis vs. K. Kuzma (D. White gains possession),108-117,,,4,117,108,9,2537.0
+5:37.0,Washington full timeout,108-117, ,,4,117,108,9,2543.0
+5:37.0,Instant Replay (Challenge: Ruling Stands),108-117, ,,4,117,108,9,2543.0
+5:33.0,Jump ball: K. Porziņģis vs. K. Kuzma (J. Brown gains possession),108-117,,,4,117,108,9,2547.0
+5:20.0, ,108-117,K. Porziņģis misses 2-pt jump shot from 15 ft,,4,117,108,9,2560.0
+5:19.0,Defensive rebound by D. Avdija,108-117, ,,4,117,108,9,2561.0
+5:06.0,J. Poole misses 3-pt jump shot from 29 ft,108-117, ,,4,117,108,9,2574.0
+5:04.0, ,108-117,Defensive rebound by J. Holiday,,4,117,108,9,2576.0
+4:43.0, ,108-120,J. Holiday makes 3-pt jump shot from 24 ft (assist by J. Tatum),,4,120,108,12,2597.0
+4:18.0,Shooting foul by J. Brown (drawn by D. Avdija),108-120, ,,4,120,108,12,2622.0
+4:18.0,D. Avdija makes free throw 1 of 2,109-120, ,,4,120,109,11,2622.0
+4:18.0,D. Avdija makes free throw 2 of 2,110-120, ,,4,120,110,10,2622.0
+4:02.0, ,110-120,Shooting foul by J. Poole (drawn by K. Porziņģis),,4,120,110,10,2638.0
+4:02.0, ,110-121,K. Porziņģis makes free throw 1 of 2,,4,121,110,11,2638.0
+4:02.0, ,110-122,K. Porziņģis makes free throw 2 of 2,,4,122,110,12,2638.0
+3:50.0,B. Coulibaly misses 3-pt jump shot from 25 ft,110-122, ,,4,122,110,12,2650.0
+3:47.0, ,110-122,Defensive rebound by J. Brown,,4,122,110,12,2653.0
+3:36.0, ,110-122,Personal foul by K. Kuzma (drawn by K. Porziņģis),,4,122,110,12,2664.0
+3:24.0, ,110-124,J. Tatum makes 2-pt jump shot from 13 ft,,4,124,110,14,2676.0
+3:24.0, ,110-124,Shooting foul by D. Avdija (drawn by J. Tatum),,4,124,110,14,2676.0
+3:24.0, ,110-125,J. Tatum makes free throw 1 of 1,,4,125,110,15,2676.0
+3:15.0,T. Jones makes 3-pt jump shot from 26 ft,113-125, ,,4,125,113,12,2685.0
+2:55.0, ,113-125,Turnover by J. Brown (out of bounds lost ball),,4,125,113,12,2705.0
+2:45.0,T. Jones misses 2-pt jump shot from 16 ft,113-125, ,,4,125,113,12,2715.0
+2:44.0, ,113-125,Defensive rebound by J. Tatum,,4,125,113,12,2716.0
+2:27.0, ,113-127,D. White makes 2-pt jump shot from 7 ft (assist by J. Tatum),,4,127,113,14,2733.0
+2:12.0,T. Jones makes 3-pt jump shot from 26 ft,116-127, ,,4,127,116,11,2748.0
+1:45.0, ,116-127,K. Porziņģis misses 2-pt layup from 4 ft,,4,127,116,11,2775.0
+1:43.0,Defensive rebound by D. Avdija,116-127, ,,4,127,116,11,2777.0
+1:38.0,K. Kuzma makes 3-pt jump shot from 26 ft (assist by T. Jones),119-127, ,,4,127,119,8,2782.0
+1:23.0, ,119-129,J. Holiday makes 2-pt layup from 4 ft (assist by J. Tatum),,4,129,119,10,2797.0
+1:14.0,B. Coulibaly makes 3-pt jump shot from 24 ft (assist by T. Jones),122-129, ,,4,129,122,7,2806.0
+0:55.0, ,122-129,Turnover by J. Tatum (lost ball; steal by B. Coulibaly),,4,129,122,7,2825.0
+0:51.0,B. Coulibaly makes 2-pt dunk at rim (assist by J. Poole),124-129, ,,4,129,124,5,2829.0
+0:51.0,Shooting foul by J. Holiday (drawn by B. Coulibaly),124-129, ,,4,129,124,5,2829.0
+0:51.0,B. Coulibaly makes free throw 1 of 1,125-129, ,,4,129,125,4,2829.0
+0:31.0, ,125-131,K. Porziņģis makes 2-pt jump shot from 20 ft,,4,131,125,6,2849.0
+0:30.0,Washington full timeout,125-131, ,,4,131,125,6,2850.0
+0:30.0,C. Kispert enters the game for B. Coulibaly,125-131, ,,4,131,125,6,2850.0
+0:30.0, ,125-131,A. Horford enters the game for K. Porziņģis,,4,131,125,6,2850.0
+0:25.0,D. Avdija makes 2-pt dunk from 1 ft (assist by T. Jones),127-131, ,,4,131,127,4,2855.0
+0:19.0, ,127-131,Personal take foul by D. Avdija (drawn by A. Horford),,4,131,127,4,2861.0
+0:19.0, ,127-131,A. Horford misses free throw 1 of 2,,4,131,127,4,2861.0
+0:19.0, ,127-131,Offensive rebound by Team,,4,131,127,4,2861.0
+0:19.0, ,127-132,A. Horford makes free throw 2 of 2,,4,132,127,5,2861.0
+0:14.0,D. Avdija misses 3-pt jump shot from 25 ft,127-132, ,,4,132,127,5,2866.0
+0:12.0, ,127-132,Defensive rebound by D. White,,4,132,127,5,2868.0
+0:08.0, ,127-132,Personal take foul by T. Jones (drawn by J. Tatum),,4,132,127,5,2872.0
+0:08.0, ,127-132,J. Tatum misses free throw 1 of 2,,4,132,127,5,2872.0
+0:08.0, ,127-132,Offensive rebound by Team,,4,132,127,5,2872.0
+0:08.0, ,127-132,P. Pritchard enters the game for A. Horford,,4,132,127,5,2872.0
+0:08.0, ,127-133,J. Tatum makes free throw 2 of 2,,4,133,127,6,2872.0
+0:08.0,Washington full timeout,127-133, ,,4,133,127,6,2872.0
+0:08.0, ,127-133,A. Horford enters the game for P. Pritchard,,4,133,127,6,2872.0
+0:07.0,Personal take foul by D. White (drawn by C. Kispert),127-133, ,,4,133,127,6,2873.0
+0:07.0,C. Kispert makes free throw 1 of 2,128-133, ,,4,133,128,5,2873.0
+0:07.0, ,128-133,L. Kornet enters the game for J. Holiday,,4,133,128,5,2873.0
+0:07.0, ,128-133,K. Porziņģis enters the game for D. White,,4,133,128,5,2873.0
+0:07.0,C. Kispert makes free throw 2 of 2,129-133, ,,4,133,129,4,2873.0
+0:00.0,End of 4th quarter,129-133,,,4,133,129,4,2880.0

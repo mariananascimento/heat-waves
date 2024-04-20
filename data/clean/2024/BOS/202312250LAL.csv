@@ -1,0 +1,454 @@
+Time,Boston,Score,LA Lakers,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: K. Porziņģis vs. A. Davis (J. Brown gains possession),0-0,,,1,0,0,0,0.0
+11:50.0,J. Brown makes 2-pt jump shot from 17 ft,2-0, ,,1,2,0,2,10.0
+11:32.0, ,2-0,T. Prince misses 3-pt jump shot from 26 ft,,1,2,0,2,28.0
+11:30.0,Defensive rebound by K. Porziņģis,2-0, ,,1,2,0,2,30.0
+11:25.0,K. Porziņģis misses 3-pt jump shot from 27 ft,2-0, ,,1,2,0,2,35.0
+11:21.0, ,2-0,Defensive rebound by T. Prince,,1,2,0,2,39.0
+11:13.0, ,2-0,A. Davis misses 2-pt hook shot from 11 ft,,1,2,0,2,47.0
+11:09.0, ,2-0,Offensive rebound by J. Vanderbilt,,1,2,0,2,51.0
+11:09.0, ,2-0,J. Vanderbilt misses 2-pt layup at rim,,1,2,0,2,51.0
+11:09.0,Defensive rebound by K. Porziņģis,2-0, ,,1,2,0,2,51.0
+11:06.0,J. Brown makes 2-pt jump shot from 18 ft (assist by J. Tatum),4-0, ,,1,4,0,4,54.0
+10:44.0, ,4-0,A. Davis misses 2-pt jump shot from 6 ft,,1,4,0,4,76.0
+10:42.0,Defensive rebound by K. Porziņģis,4-0, ,,1,4,0,4,78.0
+10:37.0,Offensive foul by J. Brown (drawn by J. Vanderbilt),4-0, ,,1,4,0,4,83.0
+10:37.0,Turnover by J. Brown (offensive foul),4-0, ,,1,4,0,4,83.0
+10:28.0, ,4-0,Turnover by A. Davis (bad pass; steal by D. White),,1,4,0,4,92.0
+10:16.0,J. Holiday makes 3-pt jump shot from 25 ft (assist by D. White),7-0, ,,1,7,0,7,104.0
+9:53.0, ,7-0,L. James misses 2-pt jump shot from 9 ft,,1,7,0,7,127.0
+9:51.0,Defensive rebound by J. Holiday,7-0, ,,1,7,0,7,129.0
+9:41.0,D. White misses 3-pt jump shot from 26 ft,7-0, ,,1,7,0,7,139.0
+9:41.0,Offensive rebound by K. Porziņģis,7-0, ,,1,7,0,7,139.0
+9:41.0,K. Porziņģis makes 2-pt dunk at rim,9-0, ,,1,9,0,9,139.0
+9:26.0, ,9-0,Turnover by C. Reddish (bad pass; steal by D. White),,1,9,0,9,154.0
+9:21.0,J. Brown makes 3-pt jump shot from 26 ft (assist by D. White),12-0, ,,1,12,0,12,159.0
+9:21.0, ,12-0,LA Lakers full timeout,,1,12,0,12,159.0
+9:10.0, ,12-0,L. James misses 2-pt layup from 4 ft (block by K. Porziņģis),,1,12,0,12,170.0
+9:07.0, ,12-0,Offensive rebound by J. Vanderbilt,,1,12,0,12,173.0
+8:59.0, ,12-3,C. Reddish makes 3-pt jump shot from 26 ft (assist by T. Prince),,1,12,3,9,181.0
+8:37.0,K. Porziņģis makes 2-pt jump shot from 7 ft (assist by J. Brown),14-3, ,,1,14,3,11,203.0
+8:37.0,Shooting foul by T. Prince (drawn by K. Porziņģis),14-3, ,,1,14,3,11,203.0
+8:37.0,K. Porziņģis misses free throw 1 of 1,14-3, ,,1,14,3,11,203.0
+8:35.0, ,14-3,Defensive rebound by L. James,,1,14,3,11,205.0
+8:31.0, ,14-3,L. James misses 2-pt layup from 2 ft,,1,14,3,11,209.0
+8:28.0,Defensive rebound by J. Holiday,14-3, ,,1,14,3,11,212.0
+8:24.0,J. Brown misses 2-pt layup from 2 ft,14-3, ,,1,14,3,11,216.0
+8:22.0, ,14-3,Defensive rebound by Team,,1,14,3,11,218.0
+8:04.0, ,14-3,L. James misses 2-pt layup from 2 ft,,1,14,3,11,236.0
+8:01.0, ,14-3,Offensive rebound by J. Vanderbilt,,1,14,3,11,239.0
+7:57.0, ,14-3,J. Vanderbilt misses 2-pt layup from 3 ft,,1,14,3,11,243.0
+7:57.0, ,14-3,Offensive rebound by A. Davis,,1,14,3,11,243.0
+7:53.0, ,14-5,A. Davis makes 2-pt layup at rim,,1,14,5,9,247.0
+7:46.0,J. Brown misses 2-pt jump shot from 17 ft,14-5, ,,1,14,5,9,254.0
+7:44.0, ,14-5,Defensive rebound by L. James,,1,14,5,9,256.0
+7:43.0, ,14-5,Shooting foul by K. Porziņģis (drawn by L. James),,1,14,5,9,257.0
+7:43.0, ,14-5,L. James misses free throw 1 of 2,,1,14,5,9,257.0
+7:43.0, ,14-5,Offensive rebound by Team,,1,14,5,9,257.0
+7:43.0, ,14-5,A. Reaves enters the game for J. Vanderbilt,,1,14,5,9,257.0
+7:43.0, ,14-6,L. James makes free throw 2 of 2,,1,14,6,8,257.0
+7:24.0,Shooting foul by C. Reddish (drawn by J. Tatum),14-6, ,,1,14,6,8,276.0
+7:24.0,J. Tatum makes free throw 1 of 2,15-6, ,,1,15,6,9,276.0
+7:24.0,J. Tatum makes free throw 2 of 2,16-6, ,,1,16,6,10,276.0
+7:08.0, ,16-6,C. Reddish misses 2-pt layup from 1 ft,,1,16,6,10,292.0
+7:05.0, ,16-6,Offensive rebound by A. Davis,,1,16,6,10,295.0
+7:05.0, ,16-8,A. Davis makes 2-pt layup at rim,,1,16,8,8,295.0
+6:53.0,J. Holiday makes 2-pt jump shot from 7 ft (assist by D. White),18-8, ,,1,18,8,10,307.0
+6:53.0,Shooting foul by A. Reaves (drawn by J. Holiday),18-8, ,,1,18,8,10,307.0
+6:53.0, ,18-8,R. Hachimura enters the game for T. Prince,,1,18,8,10,307.0
+6:53.0,J. Holiday makes free throw 1 of 1,19-8, ,,1,19,8,11,307.0
+6:41.0, ,19-8,R. Hachimura misses 3-pt jump shot from 26 ft,,1,19,8,11,319.0
+6:36.0,Defensive rebound by J. Brown,19-8, ,,1,19,8,11,324.0
+6:21.0,J. Tatum makes 2-pt layup from 3 ft,21-8, ,,1,21,8,13,339.0
+6:03.0, ,21-10,A. Davis makes 2-pt jump shot from 8 ft,,1,21,10,11,357.0
+5:46.0,D. White makes 2-pt layup from 3 ft (assist by J. Tatum),23-10, ,,1,23,10,13,374.0
+5:35.0, ,23-10,Turnover by C. Reddish (bad pass; steal by J. Brown),,1,23,10,13,385.0
+5:30.0,K. Porziņģis makes 2-pt layup from 4 ft (assist by J. Holiday),25-10, ,,1,25,10,15,390.0
+5:20.0, ,25-10,Shooting foul by K. Porziņģis (drawn by L. James),,1,25,10,15,400.0
+5:20.0, ,25-11,L. James makes free throw 1 of 2,,1,25,11,14,400.0
+5:20.0, ,25-12,L. James makes free throw 2 of 2,,1,25,12,13,400.0
+4:58.0,J. Tatum makes 3-pt jump shot from 27 ft,28-12, ,,1,28,12,16,422.0
+4:38.0, ,28-12,A. Davis misses 2-pt hook shot from 7 ft,,1,28,12,16,442.0
+4:36.0,Defensive rebound by J. Tatum,28-12, ,,1,28,12,16,444.0
+4:33.0,J. Tatum misses 3-pt jump shot from 26 ft,28-12, ,,1,28,12,16,447.0
+4:32.0, ,28-12,Defensive rebound by Team,,1,28,12,16,448.0
+4:32.0,S. Hauser enters the game for J. Holiday,28-12, ,,1,28,12,16,448.0
+4:32.0,A. Horford enters the game for J. Tatum,28-12, ,,1,28,12,16,448.0
+4:32.0, ,28-12,D. Russell enters the game for L. James,,1,28,12,16,448.0
+4:20.0, ,28-12,R. Hachimura misses 3-pt jump shot from 26 ft,,1,28,12,16,460.0
+4:17.0, ,28-12,Offensive rebound by A. Davis,,1,28,12,16,463.0
+4:13.0, ,28-12,Offensive foul by A. Reaves (drawn by S. Hauser),,1,28,12,16,467.0
+4:13.0, ,28-12,Turnover by A. Reaves (offensive foul),,1,28,12,16,467.0
+4:13.0, ,28-12,T. Prince enters the game for C. Reddish,,1,28,12,16,467.0
+3:57.0,J. Brown makes 2-pt jump shot from 12 ft,30-12, ,,1,30,12,18,483.0
+3:39.0, ,30-14,A. Davis makes 2-pt dunk from 4 ft (assist by T. Prince),,1,30,14,16,501.0
+3:28.0,K. Porziņģis misses 3-pt jump shot from 27 ft,30-14, ,,1,30,14,16,512.0
+3:25.0, ,30-14,Defensive rebound by A. Davis,,1,30,14,16,515.0
+3:19.0, ,30-14,D. Russell misses 3-pt jump shot from 25 ft,,1,30,14,16,521.0
+3:17.0,Defensive rebound by K. Porziņģis,30-14, ,,1,30,14,16,523.0
+3:11.0,D. White makes 2-pt jump shot from 9 ft,32-14, ,,1,32,14,18,529.0
+3:00.0, ,32-16,A. Davis makes 2-pt jump shot from 8 ft,,1,32,16,16,540.0
+2:45.0,J. Brown misses 2-pt dunk from 1 ft,32-16, ,,1,32,16,16,555.0
+2:45.0, ,32-16,Defensive rebound by Team,,1,32,16,16,555.0
+2:45.0,Boston full timeout,32-16, ,,1,32,16,16,555.0
+2:45.0,Instant Replay (Challenge: Ruling Stands),32-16, ,,1,32,16,16,555.0
+2:45.0,P. Pritchard enters the game for K. Porziņģis,32-16, ,,1,32,16,16,555.0
+2:45.0,N. Queta enters the game for D. White,32-16, ,,1,32,16,16,555.0
+2:34.0, ,32-16,Turnover by D. Russell (bad pass; steal by N. Queta),,1,32,16,16,566.0
+2:25.0,J. Brown misses 2-pt jump shot from 16 ft,32-16, ,,1,32,16,16,575.0
+2:23.0, ,32-16,Defensive rebound by Team,,1,32,16,16,577.0
+2:11.0, ,32-18,A. Davis makes 2-pt jump shot from 15 ft (assist by D. Russell),,1,32,18,14,589.0
+1:55.0,S. Hauser misses 3-pt jump shot from 24 ft,32-18, ,,1,32,18,14,605.0
+1:52.0, ,32-18,Defensive rebound by A. Davis,,1,32,18,14,608.0
+1:48.0, ,32-18,Shooting foul by N. Queta (drawn by A. Davis),,1,32,18,14,612.0
+1:48.0, ,32-18,A. Davis misses free throw 1 of 2,,1,32,18,14,612.0
+1:48.0, ,32-18,Offensive rebound by Team,,1,32,18,14,612.0
+1:48.0,J. Tatum enters the game for J. Brown,32-18, ,,1,32,18,14,612.0
+1:48.0, ,32-18,L. James enters the game for A. Reaves,,1,32,18,14,612.0
+1:48.0, ,32-19,A. Davis makes free throw 2 of 2,,1,32,19,13,612.0
+1:23.0,P. Pritchard misses 3-pt jump shot from 26 ft,32-19, ,,1,32,19,13,637.0
+1:20.0, ,32-19,Defensive rebound by L. James,,1,32,19,13,640.0
+1:07.0, ,32-21,R. Hachimura makes 2-pt jump shot from 8 ft (assist by A. Davis),,1,32,21,11,653.0
+0:53.0,J. Tatum misses 3-pt jump shot from 26 ft,32-21, ,,1,32,21,11,667.0
+0:49.0,Offensive rebound by P. Pritchard,32-21, ,,1,32,21,11,671.0
+0:41.0,S. Hauser misses 3-pt jump shot from 26 ft,32-21, ,,1,32,21,11,679.0
+0:37.0, ,32-21,Defensive rebound by T. Prince,,1,32,21,11,683.0
+0:32.0, ,32-23,L. James makes 2-pt layup from 3 ft,,1,32,23,9,688.0
+0:10.0,P. Pritchard misses 3-pt jump shot from 25 ft,32-23, ,,1,32,23,9,710.0
+0:08.0, ,32-23,Defensive rebound by L. James,,1,32,23,9,712.0
+0:01.0, ,32-23,T. Prince misses 3-pt jump shot from 27 ft,,1,32,23,9,719.0
+0:01.0,Defensive rebound by J. Tatum,32-23, ,,1,32,23,9,719.0
+0:00.0,End of 1st quarter,32-23,,,1,32,23,9,720.0
+12:00.0,Start of 2nd quarter,32-23,,,2,32,23,9,720.0
+11:44.0, ,32-23,Shooting foul by A. Horford (drawn by J. Hayes),,2,32,23,9,736.0
+11:44.0, ,32-23,J. Hayes misses free throw 1 of 2,,2,32,23,9,736.0
+11:44.0, ,32-23,Offensive rebound by Team,,2,32,23,9,736.0
+11:44.0, ,32-23,J. Hayes misses free throw 2 of 2,,2,32,23,9,736.0
+11:41.0, ,32-23,Offensive rebound by J. Vanderbilt,,2,32,23,9,739.0
+11:36.0, ,32-25,J. Vanderbilt makes 2-pt jump shot from 4 ft (assist by T. Prince),,2,32,25,7,744.0
+11:36.0,Violation by Team (def goaltending),32-25, ,,2,32,25,7,744.0
+11:14.0,A. Horford misses 3-pt jump shot from 25 ft,32-25, ,,2,32,25,7,766.0
+11:13.0,Offensive rebound by J. Holiday,32-25, ,,2,32,25,7,767.0
+11:11.0,J. Holiday makes 3-pt jump shot from 26 ft,35-25, ,,2,35,25,10,769.0
+10:51.0, ,35-25,L. James misses 2-pt layup from 3 ft,,2,35,25,10,789.0
+10:48.0,Defensive rebound by N. Queta,35-25, ,,2,35,25,10,792.0
+10:43.0,P. Pritchard misses 3-pt jump shot from 22 ft,35-25, ,,2,35,25,10,797.0
+10:40.0, ,35-25,Defensive rebound by L. James,,2,35,25,10,800.0
+10:33.0, ,35-28,T. Prince makes 3-pt jump shot from 23 ft (assist by D. Russell),,2,35,28,7,807.0
+10:16.0,P. Pritchard makes 3-pt jump shot from 25 ft (assist by N. Queta),38-28, ,,2,38,28,10,824.0
+10:07.0, ,38-28,Personal foul by P. Pritchard (drawn by D. Russell),,2,38,28,10,833.0
+9:57.0, ,38-30,T. Prince makes 2-pt layup from 4 ft (assist by D. Russell),,2,38,30,8,843.0
+9:38.0,P. Pritchard makes 3-pt jump shot from 26 ft (assist by J. Tatum),41-30, ,,2,41,30,11,862.0
+9:23.0, ,41-32,D. Russell makes 2-pt jump shot from 20 ft,,2,41,32,9,877.0
+9:02.0,J. Holiday misses 3-pt jump shot from 27 ft,41-32, ,,2,41,32,9,898.0
+9:01.0,Offensive rebound by P. Pritchard,41-32, ,,2,41,32,9,899.0
+8:48.0,Turnover by J. Holiday (bad pass; steal by J. Vanderbilt),41-32, ,,2,41,32,9,912.0
+8:45.0, ,41-32,Turnover by L. James (traveling),,2,41,32,9,915.0
+8:32.0,J. Tatum misses 2-pt jump shot from 11 ft,41-32, ,,2,41,32,9,928.0
+8:30.0, ,41-32,Defensive rebound by L. James,,2,41,32,9,930.0
+8:28.0, ,41-32,Personal foul by N. Queta (drawn by J. Hayes),,2,41,32,9,932.0
+8:28.0,S. Hauser enters the game for N. Queta,41-32, ,,2,41,32,9,932.0
+8:28.0, ,41-32,R. Hachimura enters the game for T. Prince,,2,41,32,9,932.0
+8:16.0, ,41-32,R. Hachimura misses 3-pt jump shot from 23 ft (block by A. Horford),,2,41,32,9,944.0
+8:12.0,Defensive rebound by J. Holiday,41-32, ,,2,41,32,9,948.0
+8:11.0,P. Pritchard makes 2-pt layup from 1 ft (assist by J. Tatum),43-32, ,,2,43,32,11,949.0
+8:11.0, ,43-32,Violation by Team (def goaltending),,2,43,32,11,949.0
+7:54.0, ,43-34,D. Russell makes 2-pt jump shot from 14 ft,,2,43,34,9,966.0
+7:36.0,P. Pritchard makes 2-pt layup from 3 ft (assist by A. Horford),45-34, ,,2,45,34,11,984.0
+7:17.0, ,45-37,L. James makes 3-pt jump shot from 26 ft (assist by D. Russell),,2,45,37,8,1003.0
+6:52.0,Shooting foul by J. Vanderbilt (drawn by J. Tatum),45-37, ,,2,45,37,8,1028.0
+6:52.0, ,45-37,LA Lakers full timeout,,2,45,37,8,1028.0
+6:52.0,J. Brown enters the game for S. Hauser,45-37, ,,2,45,37,8,1028.0
+6:52.0,K. Porziņģis enters the game for A. Horford,45-37, ,,2,45,37,8,1028.0
+6:52.0,D. White enters the game for P. Pritchard,45-37, ,,2,45,37,8,1028.0
+6:52.0, ,45-37,A. Davis enters the game for J. Hayes,,2,45,37,8,1028.0
+6:52.0, ,45-37,A. Reaves enters the game for D. Russell,,2,45,37,8,1028.0
+6:52.0, ,45-37,C. Reddish enters the game for J. Vanderbilt,,2,45,37,8,1028.0
+6:52.0,J. Tatum makes free throw 1 of 3,46-37, ,,2,46,37,9,1028.0
+6:52.0,J. Tatum makes free throw 2 of 3,47-37, ,,2,47,37,10,1028.0
+6:52.0,J. Tatum misses free throw 3 of 3,47-37, ,,2,47,37,10,1028.0
+6:49.0, ,47-37,Defensive rebound by R. Hachimura,,2,47,37,10,1031.0
+6:33.0, ,47-39,A. Davis makes 2-pt hook shot from 4 ft,,2,47,39,8,1047.0
+6:20.0,K. Porziņģis misses 3-pt jump shot from 28 ft,47-39, ,,2,47,39,8,1060.0
+6:16.0, ,47-39,Defensive rebound by A. Reaves,,2,47,39,8,1064.0
+6:11.0, ,47-41,R. Hachimura makes 2-pt dunk from 3 ft (assist by A. Reaves),,2,47,41,6,1069.0
+5:58.0,J. Brown misses 3-pt jump shot from 27 ft,47-41, ,,2,47,41,6,1082.0
+5:55.0, ,47-41,Defensive rebound by R. Hachimura,,2,47,41,6,1085.0
+5:54.0, ,47-41,Personal foul by J. Brown (drawn by A. Davis),,2,47,41,6,1086.0
+5:38.0, ,47-41,A. Davis misses 2-pt jump shot from 16 ft,,2,47,41,6,1102.0
+5:35.0,Defensive rebound by J. Tatum,47-41, ,,2,47,41,6,1105.0
+5:25.0,K. Porziņģis misses 3-pt jump shot from 27 ft,47-41, ,,2,47,41,6,1115.0
+5:21.0, ,47-41,Defensive rebound by R. Hachimura,,2,47,41,6,1119.0
+5:10.0, ,47-44,A. Davis makes 3-pt jump shot from 27 ft (assist by L. James),,2,47,44,3,1130.0
+5:09.0,Boston full timeout,47-44, ,,2,47,44,3,1131.0
+5:09.0,A. Horford enters the game for J. Holiday,47-44, ,,2,47,44,3,1131.0
+4:56.0,D. White misses 2-pt jump shot from 7 ft,47-44, ,,2,47,44,3,1144.0
+4:53.0, ,47-44,Defensive rebound by L. James,,2,47,44,3,1147.0
+4:51.0, ,47-46,R. Hachimura makes 2-pt dunk from 5 ft (assist by L. James),,2,47,46,1,1149.0
+4:23.0,J. Tatum misses 2-pt jump shot from 23 ft,47-46, ,,2,47,46,1,1177.0
+4:20.0, ,47-46,Defensive rebound by L. James,,2,47,46,1,1180.0
+4:18.0, ,47-46,Turnover by R. Hachimura (out of bounds lost ball),,2,47,46,1,1182.0
+4:02.0,Turnover by K. Porziņģis (bad pass),47-46, ,,2,47,46,1,1198.0
+4:02.0,J. Holiday enters the game for J. Brown,47-46, ,,2,47,46,1,1198.0
+4:02.0, ,47-46,T. Prince enters the game for L. James,,2,47,46,1,1198.0
+3:51.0, ,47-46,A. Reaves misses 2-pt jump shot from 14 ft,,2,47,46,1,1209.0
+3:50.0, ,47-46,Offensive rebound by A. Reaves,,2,47,46,1,1210.0
+3:47.0, ,47-46,R. Hachimura misses 2-pt jump shot from 19 ft,,2,47,46,1,1213.0
+3:44.0, ,47-46,Offensive rebound by A. Reaves,,2,47,46,1,1216.0
+3:43.0, ,47-46,Turnover by A. Reaves (lost ball; steal by J. Holiday),,2,47,46,1,1217.0
+3:27.0,K. Porziņģis makes 3-pt jump shot from 26 ft (assist by J. Holiday),50-46, ,,2,50,46,4,1233.0
+3:06.0, ,50-46,R. Hachimura misses 2-pt jump shot from 16 ft,,2,50,46,4,1254.0
+3:02.0,Defensive rebound by J. Tatum,50-46, ,,2,50,46,4,1258.0
+2:55.0,J. Holiday makes 2-pt jump shot from 14 ft,52-46, ,,2,52,46,6,1265.0
+2:41.0, ,52-48,A. Reaves makes 2-pt jump shot from 8 ft,,2,52,48,4,1279.0
+2:41.0, ,52-48,Shooting foul by J. Holiday (drawn by A. Reaves),,2,52,48,4,1279.0
+2:41.0, ,52-48,L. James enters the game for C. Reddish,,2,52,48,4,1279.0
+2:41.0, ,52-49,A. Reaves makes free throw 1 of 1,,2,52,49,3,1279.0
+2:28.0,K. Porziņģis misses 3-pt jump shot from 29 ft,52-49, ,,2,52,49,3,1292.0
+2:26.0,Offensive rebound by Team,52-49, ,,2,52,49,3,1294.0
+2:26.0, ,52-49,Loose ball foul by R. Hachimura (drawn by D. White),,2,52,49,3,1294.0
+2:11.0,J. Tatum misses 2-pt layup from 3 ft (block by A. Davis),52-49, ,,2,52,49,3,1309.0
+2:07.0, ,52-49,Defensive rebound by A. Davis,,2,52,49,3,1313.0
+2:04.0, ,52-52,T. Prince makes 3-pt jump shot from 26 ft (assist by L. James),Tie,2,52,52,0,1316.0
+1:46.0,D. White makes 2-pt jump shot from 5 ft,54-52, ,,2,54,52,2,1334.0
+1:34.0, ,54-52,A. Reaves misses 2-pt jump shot from 9 ft (block by D. White),,2,54,52,2,1346.0
+1:33.0,Defensive rebound by K. Porziņģis,54-52, ,,2,54,52,2,1347.0
+1:32.0,Shooting foul by T. Prince (drawn by J. Tatum),54-52, ,,2,54,52,2,1348.0
+1:32.0, ,54-52,LA Lakers full timeout,,2,54,52,2,1348.0
+1:32.0, ,54-52,Instant Replay (Challenge: Ruling Stands),,2,54,52,2,1348.0
+1:32.0,J. Tatum makes free throw 1 of 2,55-52, ,,2,55,52,3,1348.0
+1:32.0,J. Tatum makes free throw 2 of 2,56-52, ,,2,56,52,4,1348.0
+1:16.0, ,56-52,R. Hachimura misses 3-pt jump shot from 26 ft,,2,56,52,4,1364.0
+1:12.0,Defensive rebound by A. Horford,56-52, ,,2,56,52,4,1368.0
+1:02.0,K. Porziņģis makes 2-pt jump shot from 4 ft,58-52, ,,2,58,52,6,1378.0
+0:47.0, ,58-55,T. Prince makes 3-pt jump shot from 25 ft (assist by L. James),,2,58,55,3,1393.0
+0:36.0,A. Horford misses 3-pt jump shot from 23 ft,58-55, ,,2,58,55,3,1404.0
+0:34.0, ,58-55,Defensive rebound by A. Davis,,2,58,55,3,1406.0
+0:19.0, ,58-57,A. Davis makes 2-pt jump shot from 4 ft,,2,58,57,1,1421.0
+0:04.0,Offensive foul by D. White (drawn by A. Reaves),58-57, ,,2,58,57,1,1436.0
+0:04.0,Turnover by D. White (offensive foul),58-57, ,,2,58,57,1,1436.0
+0:00.0, ,58-57,A. Davis misses 3-pt jump shot from 25 ft,,2,58,57,1,1440.0
+0:00.0, ,58-57,Offensive rebound by Team,,2,58,57,1,1440.0
+0:00.0,End of 2nd quarter,58-57,,,2,58,57,1,1440.0
+12:00.0,Start of 3rd quarter,58-57,,,3,58,57,1,1440.0
+11:36.0, ,58-59,L. James makes 2-pt layup from 3 ft,Lead change,3,58,59,-1,1464.0
+11:16.0,D. White misses 3-pt jump shot from 27 ft,58-59, ,,3,58,59,-1,1484.0
+11:12.0,Offensive rebound by J. Holiday,58-59, ,,3,58,59,-1,1488.0
+11:10.0,J. Brown misses 3-pt jump shot from 27 ft,58-59, ,,3,58,59,-1,1490.0
+11:07.0, ,58-59,Defensive rebound by A. Davis,,3,58,59,-1,1493.0
+10:56.0, ,58-59,A. Davis misses 2-pt jump shot from 8 ft,,3,58,59,-1,1504.0
+10:54.0,Defensive rebound by J. Tatum,58-59, ,,3,58,59,-1,1506.0
+10:52.0,Shooting foul by J. Vanderbilt (drawn by J. Brown),58-59, ,,3,58,59,-1,1508.0
+10:52.0,J. Brown makes free throw 1 of 2,59-59, ,Tie,3,59,59,0,1508.0
+10:52.0,J. Brown makes free throw 2 of 2,60-59, ,Lead change,3,60,59,1,1508.0
+10:38.0, ,60-62,T. Prince makes 3-pt jump shot from 26 ft (assist by A. Davis),Lead change,3,60,62,-2,1522.0
+10:20.0,K. Porziņģis makes 2-pt hook shot from 3 ft (assist by J. Holiday),62-62, ,Tie,3,62,62,0,1540.0
+10:20.0,Shooting foul by L. James (drawn by K. Porziņģis),62-62, ,,3,62,62,0,1540.0
+10:20.0,K. Porziņģis misses free throw 1 of 1,62-62, ,,3,62,62,0,1540.0
+10:17.0, ,62-62,Defensive rebound by L. James,,3,62,62,0,1543.0
+10:14.0, ,62-62,Shooting foul by J. Brown (drawn by C. Reddish),,3,62,62,0,1546.0
+10:14.0, ,62-63,C. Reddish makes free throw 1 of 2,,3,62,63,-1,1546.0
+10:14.0, ,62-64,C. Reddish makes free throw 2 of 2,,3,62,64,-2,1546.0
+10:00.0,Shooting foul by T. Prince (drawn by J. Tatum),62-64, ,,3,62,64,-2,1560.0
+10:00.0,J. Tatum makes free throw 1 of 2,63-64, ,,3,63,64,-1,1560.0
+10:00.0,J. Tatum makes free throw 2 of 2,64-64, ,Tie,3,64,64,0,1560.0
+9:40.0, ,64-66,J. Vanderbilt makes 2-pt dunk from 3 ft (assist by A. Davis),,3,64,66,-2,1580.0
+9:35.0,K. Porziņģis makes 2-pt dunk from 2 ft (assist by J. Holiday),66-66, ,Tie,3,66,66,0,1585.0
+9:21.0, ,66-66,Turnover by A. Davis (out of bounds lost ball),,3,66,66,0,1599.0
+9:14.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. White),69-66, ,Lead change,3,69,66,3,1606.0
+8:57.0, ,69-66,A. Davis misses 2-pt jump shot from 7 ft (block by J. Tatum),,3,69,66,3,1623.0
+8:54.0, ,69-66,Offensive rebound by A. Davis,,3,69,66,3,1626.0
+8:54.0, ,69-66,L. James misses 2-pt layup from 6 ft (block by K. Porziņģis),,3,69,66,3,1626.0
+8:53.0, ,69-66,Offensive rebound by A. Davis,,3,69,66,3,1627.0
+8:53.0, ,69-66,A. Davis misses 2-pt layup from 6 ft,,3,69,66,3,1627.0
+8:53.0,Defensive rebound by D. White,69-66, ,,3,69,66,3,1627.0
+8:53.0,Personal foul by J. Vanderbilt (drawn by D. White),69-66, ,,3,69,66,3,1627.0
+8:37.0,J. Brown makes 2-pt dunk from 3 ft (assist by D. White),71-66, ,,3,71,66,5,1643.0
+8:37.0, ,71-66,LA Lakers full timeout,,3,71,66,5,1643.0
+8:20.0, ,71-68,A. Davis makes 2-pt layup from 4 ft (assist by L. James),,3,71,68,3,1660.0
+8:05.0,J. Brown misses 3-pt jump shot from 25 ft,71-68, ,,3,71,68,3,1675.0
+8:03.0, ,71-68,Defensive rebound by T. Prince,,3,71,68,3,1677.0
+7:51.0, ,71-68,Def 3 sec tech foul by Team,,3,71,68,3,1689.0
+7:51.0, ,71-69,A. Davis makes technical free throw,,3,71,69,2,1689.0
+7:51.0, ,71-69,A. Reaves enters the game for C. Reddish,,3,71,69,2,1689.0
+7:38.0, ,71-69,A. Davis misses 2-pt hook shot from 8 ft,,3,71,69,2,1702.0
+7:36.0,Defensive rebound by K. Porziņģis,71-69, ,,3,71,69,2,1704.0
+7:31.0,K. Porziņģis makes 2-pt layup from 1 ft (assist by J. Holiday),73-69, ,,3,73,69,4,1709.0
+7:31.0,Shooting foul by J. Vanderbilt (drawn by K. Porziņģis),73-69, ,,3,73,69,4,1709.0
+7:31.0, ,73-69,R. Hachimura enters the game for J. Vanderbilt,,3,73,69,4,1709.0
+7:31.0,K. Porziņģis misses free throw 1 of 1,73-69, ,,3,73,69,4,1709.0
+7:27.0, ,73-69,Defensive rebound by A. Davis,,3,73,69,4,1713.0
+7:10.0, ,73-72,T. Prince makes 3-pt jump shot from 26 ft (assist by L. James),,3,73,72,1,1730.0
+6:51.0,D. White makes 3-pt jump shot from 26 ft,76-72, ,,3,76,72,4,1749.0
+6:34.0, ,76-72,R. Hachimura misses 3-pt jump shot from 24 ft,,3,76,72,4,1766.0
+6:32.0,Defensive rebound by Team,76-72, ,,3,76,72,4,1768.0
+6:31.0, ,76-72,Loose ball foul by A. Davis (drawn by K. Porziņģis),,3,76,72,4,1769.0
+6:31.0,K. Porziņģis makes free throw 1 of 2,77-72, ,,3,77,72,5,1769.0
+6:31.0,K. Porziņģis makes free throw 2 of 2,78-72, ,,3,78,72,6,1769.0
+6:18.0, ,78-72,R. Hachimura misses 3-pt jump shot from 26 ft,,3,78,72,6,1782.0
+6:15.0,Defensive rebound by J. Holiday,78-72, ,,3,78,72,6,1785.0
+6:00.0,K. Porziņģis makes 3-pt jump shot from 26 ft (assist by D. White),81-72, ,,3,81,72,9,1800.0
+5:44.0, ,81-74,A. Davis makes 2-pt dunk from 3 ft (assist by L. James),,3,81,74,7,1816.0
+5:33.0,J. Holiday misses 3-pt jump shot from 27 ft,81-74, ,,3,81,74,7,1827.0
+5:30.0,Offensive rebound by K. Porziņģis,81-74, ,,3,81,74,7,1830.0
+5:29.0,K. Porziņģis misses 2-pt layup at rim,81-74, ,,3,81,74,7,1831.0
+5:29.0, ,81-74,Defensive rebound by A. Reaves,,3,81,74,7,1831.0
+5:24.0, ,81-74,T. Prince misses 3-pt jump shot from 27 ft,,3,81,74,7,1836.0
+5:24.0,Defensive rebound by K. Porziņģis,81-74, ,,3,81,74,7,1836.0
+5:12.0,J. Brown misses 2-pt layup from 4 ft,81-74, ,,3,81,74,7,1848.0
+5:08.0,Offensive rebound by J. Brown,81-74, ,,3,81,74,7,1852.0
+5:08.0,J. Brown misses 2-pt layup at rim,81-74, ,,3,81,74,7,1852.0
+5:07.0,Offensive rebound by J. Brown,81-74, ,,3,81,74,7,1853.0
+5:07.0,J. Brown makes 2-pt layup at rim,83-74, ,,3,83,74,9,1853.0
+4:44.0, ,83-76,A. Davis makes 2-pt hook shot from 5 ft,,3,83,76,7,1876.0
+4:33.0,Turnover by J. Tatum (bad pass; steal by T. Prince),83-76, ,,3,83,76,7,1887.0
+4:28.0, ,83-79,A. Reaves makes 3-pt jump shot from 26 ft,,3,83,79,4,1892.0
+4:28.0,Boston full timeout,83-79, ,,3,83,79,4,1892.0
+4:28.0,S. Hauser enters the game for J. Brown,83-79, ,,3,83,79,4,1892.0
+4:28.0,A. Horford enters the game for J. Holiday,83-79, ,,3,83,79,4,1892.0
+4:28.0, ,83-79,D. Russell enters the game for L. James,,3,83,79,4,1892.0
+4:17.0,J. Tatum makes 2-pt layup from 2 ft (assist by D. White),85-79, ,,3,85,79,6,1903.0
+4:00.0, ,85-79,R. Hachimura misses 3-pt jump shot from 23 ft,,3,85,79,6,1920.0
+3:57.0,Defensive rebound by S. Hauser,85-79, ,,3,85,79,6,1923.0
+3:46.0,J. Tatum misses 2-pt jump shot from 5 ft,85-79, ,,3,85,79,6,1934.0
+3:44.0, ,85-79,Defensive rebound by A. Davis,,3,85,79,6,1936.0
+3:31.0, ,85-79,A. Reaves misses 2-pt layup from 6 ft (block by D. White),,3,85,79,6,1949.0
+3:29.0,Defensive rebound by A. Horford,85-79, ,,3,85,79,6,1951.0
+3:16.0,Personal foul by A. Davis (drawn by K. Porziņģis),85-79, ,,3,85,79,6,1964.0
+3:16.0,K. Porziņģis makes free throw 1 of 2,86-79, ,,3,86,79,7,1964.0
+3:16.0,K. Porziņģis makes free throw 2 of 2,87-79, ,,3,87,79,8,1964.0
+3:05.0, ,87-81,D. Russell makes 2-pt jump shot from 21 ft,,3,87,81,6,1975.0
+2:49.0,J. Tatum misses 3-pt jump shot from 27 ft,87-81, ,,3,87,81,6,1991.0
+2:46.0, ,87-81,Defensive rebound by D. Russell,,3,87,81,6,1994.0
+2:41.0, ,87-81,D. Russell misses 2-pt jump shot from 15 ft,,3,87,81,6,1999.0
+2:38.0,Defensive rebound by J. Tatum,87-81, ,,3,87,81,6,2002.0
+2:32.0,S. Hauser makes 2-pt layup from 3 ft (assist by J. Tatum),89-81, ,,3,89,81,8,2008.0
+2:16.0, ,89-81,Shooting foul by A. Horford (drawn by A. Davis),,3,89,81,8,2024.0
+2:16.0, ,89-82,A. Davis makes free throw 1 of 2,,3,89,82,7,2024.0
+2:16.0, ,89-82,C. Reddish enters the game for T. Prince,,3,89,82,7,2024.0
+2:16.0, ,89-82,A. Davis misses free throw 2 of 2,,3,89,82,7,2024.0
+2:14.0,Defensive rebound by J. Tatum,89-82, ,,3,89,82,7,2026.0
+2:09.0,A. Horford makes 3-pt jump shot from 28 ft (assist by D. White),92-82, ,,3,92,82,10,2031.0
+1:50.0, ,92-82,A. Reaves misses 2-pt layup from 3 ft,,3,92,82,10,2050.0
+1:47.0,Defensive rebound by K. Porziņģis,92-82, ,,3,92,82,10,2053.0
+1:42.0,D. White makes 3-pt jump shot from 23 ft (assist by J. Tatum),95-82, ,,3,95,82,13,2058.0
+1:25.0, ,95-85,A. Reaves makes 3-pt jump shot from 28 ft (assist by D. Russell),,3,95,85,10,2075.0
+1:03.0,D. White misses 2-pt jump shot from 9 ft,95-85, ,,3,95,85,10,2097.0
+0:59.0, ,95-85,Defensive rebound by A. Davis,,3,95,85,10,2101.0
+0:53.0, ,95-85,A. Davis misses 2-pt layup from 4 ft,,3,95,85,10,2107.0
+0:50.0,Defensive rebound by D. White,95-85, ,,3,95,85,10,2110.0
+0:47.0,Personal foul by R. Hachimura (drawn by J. Tatum),95-85, ,,3,95,85,10,2113.0
+0:47.0,J. Tatum makes free throw 1 of 2,96-85, ,,3,96,85,11,2113.0
+0:47.0,P. Pritchard enters the game for K. Porziņģis,96-85, ,,3,96,85,11,2113.0
+0:47.0,N. Queta enters the game for D. White,96-85, ,,3,96,85,11,2113.0
+0:47.0,J. Tatum makes free throw 2 of 2,97-85, ,,3,97,85,12,2113.0
+0:37.0, ,97-87,A. Davis makes 2-pt layup from 2 ft (assist by D. Russell),,3,97,87,10,2123.0
+0:37.0, ,97-87,Shooting foul by N. Queta (drawn by A. Davis),,3,97,87,10,2123.0
+0:37.0, ,97-88,A. Davis makes free throw 1 of 1,,3,97,88,9,2123.0
+0:32.0,Shooting foul by C. Reddish (drawn by J. Tatum),97-88, ,,3,97,88,9,2128.0
+0:32.0,J. Tatum makes free throw 1 of 2,98-88, ,,3,98,88,10,2128.0
+0:32.0,J. Tatum makes free throw 2 of 2,99-88, ,,3,99,88,11,2128.0
+0:21.0, ,99-88,Shooting foul by A. Horford (drawn by A. Davis),,3,99,88,11,2139.0
+0:21.0, ,99-89,A. Davis makes free throw 1 of 2,,3,99,89,10,2139.0
+0:21.0,J. Holiday enters the game for N. Queta,99-89, ,,3,99,89,10,2139.0
+0:21.0, ,99-89,T. Prince enters the game for A. Reaves,,3,99,89,10,2139.0
+0:21.0, ,99-89,J. Vanderbilt enters the game for D. Russell,,3,99,89,10,2139.0
+0:21.0, ,99-90,A. Davis makes free throw 2 of 2,,3,99,90,9,2139.0
+0:01.0,J. Tatum misses 3-pt jump shot from 28 ft,99-90, ,,3,99,90,9,2159.0
+0:00.0,Offensive rebound by Team,99-90, ,,3,99,90,9,2160.0
+0:00.0,End of 3rd quarter,99-90,,,3,99,90,9,2160.0
+12:00.0,Start of 4th quarter,99-90,,,4,99,90,9,2160.0
+11:44.0,J. Brown misses 3-pt jump shot from 26 ft,99-90, ,,4,99,90,9,2176.0
+11:40.0, ,99-90,Defensive rebound by J. Vanderbilt,,4,99,90,9,2180.0
+11:26.0, ,99-90,L. James misses 2-pt layup from 2 ft,,4,99,90,9,2194.0
+11:23.0,Defensive rebound by A. Horford,99-90, ,,4,99,90,9,2197.0
+11:20.0,Shooting foul by T. Prince (drawn by J. Brown),99-90, ,,4,99,90,9,2200.0
+11:20.0,J. Brown misses free throw 1 of 2,99-90, ,,4,99,90,9,2200.0
+11:20.0,Offensive rebound by Team,99-90, ,,4,99,90,9,2200.0
+11:20.0,J. Brown makes free throw 2 of 2,100-90, ,,4,100,90,10,2200.0
+10:59.0, ,100-92,L. James makes 2-pt hook shot from 5 ft,,4,100,92,8,2221.0
+10:47.0,Turnover by J. Brown (out of bounds lost ball),100-92, ,,4,100,92,8,2233.0
+10:25.0, ,100-92,J. Hayes misses 2-pt dunk from 4 ft (block by J. Holiday),,4,100,92,8,2255.0
+10:22.0,Defensive rebound by A. Horford,100-92, ,,4,100,92,8,2258.0
+10:18.0,P. Pritchard misses 3-pt jump shot from 23 ft,100-92, ,,4,100,92,8,2262.0
+10:13.0,Offensive rebound by S. Hauser,100-92, ,,4,100,92,8,2267.0
+10:06.0,Turnover by J. Holiday (bad pass; steal by D. Russell),100-92, ,,4,100,92,8,2274.0
+10:02.0, ,100-92,Turnover by D. Russell (bad pass; steal by J. Brown),,4,100,92,8,2278.0
+9:57.0,S. Hauser misses 3-pt jump shot from 25 ft,100-92, ,,4,100,92,8,2283.0
+9:52.0, ,100-92,Defensive rebound by J. Vanderbilt,,4,100,92,8,2288.0
+9:46.0, ,100-92,L. James misses 3-pt jump shot from 25 ft,,4,100,92,8,2294.0
+9:42.0,Defensive rebound by A. Horford,100-92, ,,4,100,92,8,2298.0
+9:33.0,J. Holiday makes 2-pt hook shot from 4 ft (assist by J. Brown),102-92, ,,4,102,92,10,2307.0
+9:19.0, ,102-94,D. Russell makes 2-pt jump shot from 17 ft,,4,102,94,8,2321.0
+8:54.0,J. Holiday misses 2-pt jump shot from 16 ft,102-94, ,,4,102,94,8,2346.0
+8:52.0, ,102-94,Defensive rebound by J. Hayes,,4,102,94,8,2348.0
+8:37.0, ,102-94,T. Prince misses 3-pt jump shot from 23 ft,,4,102,94,8,2363.0
+8:33.0,Defensive rebound by J. Holiday,102-94, ,,4,102,94,8,2367.0
+8:26.0,A. Horford makes 3-pt jump shot from 25 ft (assist by J. Holiday),105-94, ,,4,105,94,11,2374.0
+8:06.0, ,105-94,L. James misses 2-pt layup from 3 ft,,4,105,94,11,2394.0
+8:03.0,Defensive rebound by A. Horford,105-94, ,,4,105,94,11,2397.0
+7:59.0,S. Hauser misses 3-pt jump shot from 25 ft,105-94, ,,4,105,94,11,2401.0
+7:58.0,Offensive rebound by J. Brown,105-94, ,,4,105,94,11,2402.0
+7:58.0,J. Brown makes 2-pt layup at rim,107-94, ,,4,107,94,13,2402.0
+7:58.0,Shooting foul by D. Russell (drawn by J. Brown),107-94, ,,4,107,94,13,2402.0
+7:58.0,K. Porziņģis enters the game for S. Hauser,107-94, ,,4,107,94,13,2402.0
+7:58.0,J. Tatum enters the game for A. Horford,107-94, ,,4,107,94,13,2402.0
+7:58.0,D. White enters the game for P. Pritchard,107-94, ,,4,107,94,13,2402.0
+7:58.0, ,107-94,A. Davis enters the game for J. Hayes,,4,107,94,13,2402.0
+7:58.0, ,107-94,A. Reaves enters the game for D. Russell,,4,107,94,13,2402.0
+7:58.0,J. Brown misses free throw 1 of 1,107-94, ,,4,107,94,13,2402.0
+7:58.0, ,107-94,Defensive rebound by T. Prince,,4,107,94,13,2402.0
+7:36.0, ,107-94,Shooting foul by D. White (drawn by L. James),,4,107,94,13,2424.0
+7:36.0, ,107-95,L. James makes free throw 1 of 2,,4,107,95,12,2424.0
+7:36.0, ,107-96,L. James makes free throw 2 of 2,,4,107,96,11,2424.0
+7:19.0,D. White makes 2-pt layup from 4 ft,109-96, ,,4,109,96,13,2441.0
+7:02.0, ,109-98,J. Vanderbilt makes 2-pt layup from 1 ft,,4,109,98,11,2458.0
+6:49.0,D. White makes 2-pt layup from 2 ft (assist by K. Porziņģis),111-98, ,,4,111,98,13,2471.0
+6:30.0, ,111-100,A. Reaves makes 2-pt jump shot from 10 ft,,4,111,100,11,2490.0
+6:11.0, ,111-100,Violation by Team (kicked ball),,4,111,100,11,2509.0
+6:11.0, ,111-100,LA Lakers full timeout,,4,111,100,11,2509.0
+6:11.0, ,111-100,R. Hachimura enters the game for J. Vanderbilt,,4,111,100,11,2509.0
+5:57.0,J. Tatum makes 2-pt jump shot from 13 ft (assist by D. White),113-100, ,,4,113,100,13,2523.0
+5:37.0, ,113-103,A. Davis makes 3-pt jump shot from 25 ft (assist by L. James),,4,113,103,10,2543.0
+5:16.0,K. Porziņģis misses 3-pt jump shot from 26 ft,113-103, ,,4,113,103,10,2564.0
+5:15.0, ,113-103,Defensive rebound by Team,,4,113,103,10,2565.0
+5:15.0,Loose ball foul by D. White (drawn by A. Reaves),113-103, ,,4,113,103,10,2565.0
+4:56.0, ,113-103,Turnover by L. James (bad pass; steal by K. Porziņģis),,4,113,103,10,2584.0
+4:50.0,J. Tatum makes 2-pt dunk from 3 ft (assist by D. White),115-103, ,,4,115,103,12,2590.0
+4:29.0, ,115-105,A. Davis makes 2-pt hook shot from 8 ft,,4,115,105,10,2611.0
+4:12.0,J. Tatum makes 2-pt layup from 4 ft (assist by K. Porziņģis),117-105, ,,4,117,105,12,2628.0
+4:01.0, ,117-105,A. Reaves misses 3-pt jump shot from 27 ft,,4,117,105,12,2639.0
+3:59.0,Defensive rebound by J. Brown,117-105, ,,4,117,105,12,2641.0
+3:43.0,J. Holiday makes 2-pt layup from 3 ft (assist by D. White),119-105, ,,4,119,105,14,2657.0
+3:26.0, ,119-107,L. James makes 2-pt layup from 1 ft (assist by A. Reaves),,4,119,107,12,2674.0
+3:01.0,D. White misses 2-pt jump shot from 14 ft,119-107, ,,4,119,107,12,2699.0
+2:57.0,Offensive rebound by K. Porziņģis,119-107, ,,4,119,107,12,2703.0
+2:57.0,K. Porziņģis makes 2-pt dunk at rim,121-107, ,,4,121,107,14,2703.0
+2:41.0, ,121-107,Turnover by L. James (lost ball; steal by J. Brown),,4,121,107,14,2719.0
+2:40.0,Shooting foul by A. Reaves (drawn by J. Brown),121-107, ,,4,121,107,14,2720.0
+2:40.0,Boston full timeout,121-107, ,,4,121,107,14,2720.0
+2:40.0, ,121-107,J. Vanderbilt enters the game for L. James,,4,121,107,14,2720.0
+2:40.0,J. Brown misses free throw 1 of 2,121-107, ,,4,121,107,14,2720.0
+2:40.0,Offensive rebound by Team,121-107, ,,4,121,107,14,2720.0
+2:40.0,J. Brown makes free throw 2 of 2,122-107, ,,4,122,107,15,2720.0
+2:25.0, ,122-107,Shooting foul by K. Porziņģis (drawn by A. Davis),,4,122,107,15,2735.0
+2:25.0, ,122-108,A. Davis makes free throw 1 of 2,,4,122,108,14,2735.0
+2:25.0, ,122-109,A. Davis makes free throw 2 of 2,,4,122,109,13,2735.0
+2:10.0,J. Tatum misses 3-pt jump shot from 25 ft,122-109, ,,4,122,109,13,2750.0
+2:09.0, ,122-109,Defensive rebound by Team,,4,122,109,13,2751.0
+1:53.0, ,122-112,R. Hachimura makes 3-pt jump shot from 27 ft (assist by A. Reaves),,4,122,112,10,2767.0
+1:29.0,K. Porziņģis misses 2-pt jump shot from 22 ft,122-112, ,,4,122,112,10,2791.0
+1:28.0,Offensive rebound by Team,122-112, ,,4,122,112,10,2792.0
+1:16.0,K. Porziņģis makes 2-pt jump shot from 20 ft (assist by J. Holiday),124-112, ,,4,124,112,12,2804.0
+1:08.0, ,124-115,R. Hachimura makes 3-pt jump shot from 26 ft (assist by A. Davis),,4,124,115,9,2812.0
+0:57.0,D. White makes 2-pt dunk from 3 ft (assist by J. Tatum),126-115, ,,4,126,115,11,2823.0
+0:39.0, ,126-115,A. Davis misses 3-pt jump shot from 27 ft,,4,126,115,11,2841.0
+0:35.0, ,126-115,Offensive rebound by A. Reaves,,4,126,115,11,2845.0
+0:33.0, ,126-115,T. Prince misses 3-pt jump shot from 26 ft,,4,126,115,11,2847.0
+0:30.0, ,126-115,Offensive rebound by A. Reaves,,4,126,115,11,2850.0
+0:28.0, ,126-115,T. Prince misses 3-pt jump shot from 24 ft,,4,126,115,11,2852.0
+0:25.0,Defensive rebound by J. Tatum,126-115, ,,4,126,115,11,2855.0
+0:03.0,Turnover by D. White (bad pass; steal by A. Reaves),126-115, ,,4,126,115,11,2877.0
+0:00.0, ,126-115,T. Prince misses 3-pt jump shot from 30 ft,,4,126,115,11,2880.0
+0:00.0, ,126-115,Offensive rebound by Team,,4,126,115,11,2880.0
+0:00.0,End of 4th quarter,126-115,,,4,126,115,11,2880.0
