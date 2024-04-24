@@ -1,0 +1,501 @@
+Time,Houston,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Green vs. O. Okongwu (A. Thompson gains possession),0-0,,,1,0,0,0,0.0
+11:37.0,J. Green misses 3-pt jump shot from 23 ft,0-0, ,,1,0,0,0,23.0
+11:31.0,Offensive rebound by D. Brooks,0-0, ,,1,0,0,0,29.0
+11:31.0,D. Brooks misses 2-pt layup at rim,0-0, ,,1,0,0,0,29.0
+11:30.0, ,0-0,Defensive rebound by O. Okongwu,,1,0,0,0,30.0
+11:18.0, ,0-2,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,1,2,0,2,42.0
+11:04.0,Turnover by J. Smith (traveling),0-2, ,,1,2,0,2,56.0
+10:51.0, ,0-2,Offensive foul by J. Johnson (drawn by A. Thompson),,1,2,0,2,69.0
+10:51.0, ,0-2,Turnover by J. Johnson (offensive foul),,1,2,0,2,69.0
+10:42.0,J. Green makes 3-pt jump shot from 25 ft (assist by J. Green),3-2, ,Lead change,1,2,3,-1,78.0
+10:26.0, ,3-5,D. Murray makes 3-pt jump shot from 24 ft (assist by J. Johnson),Lead change,1,5,3,2,94.0
+10:26.0, ,3-5,Shooting foul by D. Brooks (drawn by D. Murray),,1,5,3,2,94.0
+10:26.0, ,3-6,D. Murray makes free throw 1 of 1,,1,6,3,3,94.0
+10:15.0,J. Green misses 3-pt jump shot from 23 ft,3-6, ,,1,6,3,3,105.0
+10:12.0, ,3-6,Defensive rebound by T. Young,,1,6,3,3,108.0
+10:08.0, ,3-6,S. Bey misses 3-pt jump shot from 25 ft,,1,6,3,3,112.0
+10:05.0,Defensive rebound by J. Smith,3-6, ,,1,6,3,3,115.0
+9:51.0,J. Green misses 3-pt jump shot from 26 ft,3-6, ,,1,6,3,3,129.0
+9:48.0, ,3-6,Defensive rebound by T. Young,,1,6,3,3,132.0
+9:34.0, ,3-6,T. Young misses 3-pt jump shot from 29 ft,,1,6,3,3,146.0
+9:30.0,Defensive rebound by J. Green,3-6, ,,1,6,3,3,150.0
+9:24.0,Turnover by J. Green (bad pass; steal by D. Murray),3-6, ,,1,6,3,3,156.0
+9:20.0, ,3-8,J. Johnson makes 2-pt dunk at rim (assist by D. Murray),,1,8,3,5,160.0
+9:01.0,D. Brooks makes 2-pt layup from 2 ft,5-8, ,,1,8,5,3,179.0
+8:51.0, ,5-8,Turnover by D. Murray (out of bounds lost ball),,1,8,5,3,189.0
+8:35.0,A. Thompson makes 2-pt dunk from 1 ft (assist by J. Smith),7-8, ,,1,8,7,1,205.0
+8:21.0, ,7-10,J. Johnson makes 2-pt dunk from 1 ft (assist by T. Young),,1,10,7,3,219.0
+8:19.0,Houston full timeout,7-10, ,,1,10,7,3,221.0
+8:07.0,D. Brooks misses 2-pt layup from 4 ft,7-10, ,,1,10,7,3,233.0
+8:03.0, ,7-10,Defensive rebound by T. Young,,1,10,7,3,237.0
+7:56.0, ,7-10,T. Young misses 3-pt jump shot from 25 ft,,1,10,7,3,244.0
+7:54.0,Defensive rebound by J. Green,7-10, ,,1,10,7,3,246.0
+7:40.0,J. Smith misses 2-pt jump shot from 12 ft,7-10, ,,1,10,7,3,260.0
+7:37.0,Offensive rebound by Team,7-10, ,,1,10,7,3,263.0
+7:29.0,J. Smith misses 3-pt jump shot from 26 ft,7-10, ,,1,10,7,3,271.0
+7:27.0, ,7-10,Defensive rebound by S. Bey,,1,10,7,3,273.0
+7:13.0, ,7-12,S. Bey makes 2-pt dunk at rim (assist by D. Murray),,1,12,7,5,287.0
+6:48.0,J. Green makes 3-pt jump shot from 24 ft (assist by J. Green),10-12, ,,1,12,10,2,312.0
+6:33.0, ,10-12,J. Johnson misses 2-pt jump shot from 4 ft,,1,12,10,2,327.0
+6:30.0,Defensive rebound by J. Smith,10-12, ,,1,12,10,2,330.0
+6:27.0,J. Smith makes 2-pt jump shot from 15 ft,12-12, ,Tie,1,12,12,0,333.0
+6:12.0, ,12-15,T. Young makes 3-pt jump shot from 28 ft,,1,15,12,3,348.0
+6:03.0,A. Thompson makes 2-pt layup from 4 ft,14-15, ,,1,15,14,1,357.0
+5:49.0, ,14-15,S. Bey misses 2-pt layup from 6 ft (block by J. Smith),,1,15,14,1,371.0
+5:49.0,Defensive rebound by Team,14-15, ,,1,15,14,1,371.0
+5:49.0,A. Holiday enters the game for J. Green,14-15, ,,1,15,14,1,371.0
+5:49.0,J. Landale enters the game for A. Thompson,14-15, ,,1,15,14,1,371.0
+5:49.0, ,14-15,B. Bogdanović enters the game for O. Okongwu,,1,15,14,1,371.0
+5:49.0, ,14-15,K. Bufkin enters the game for T. Young,,1,15,14,1,371.0
+5:49.0,Jump ball: J. Smith vs. S. Bey (J. Landale gains possession),14-15,,,1,15,14,1,371.0
+5:36.0,A. Holiday makes 3-pt jump shot from 23 ft (assist by J. Green),17-15, ,Lead change,1,15,17,-2,384.0
+5:20.0, ,17-15,K. Bufkin misses 3-pt jump shot from 26 ft,,1,15,17,-2,400.0
+5:17.0,Defensive rebound by J. Green,17-15, ,,1,15,17,-2,403.0
+5:08.0,Shooting foul by B. Bogdanović (drawn by J. Landale),17-15, ,,1,15,17,-2,412.0
+5:08.0,J. Landale makes free throw 1 of 2,18-15, ,,1,15,18,-3,412.0
+5:08.0,J. Landale makes free throw 2 of 2,19-15, ,,1,15,19,-4,412.0
+4:57.0, ,19-15,D. Murray misses 3-pt jump shot from 25 ft,,1,15,19,-4,423.0
+4:54.0,Defensive rebound by J. Smith,19-15, ,,1,15,19,-4,426.0
+4:49.0,J. Green misses 3-pt jump shot from 26 ft,19-15, ,,1,15,19,-4,431.0
+4:47.0,Offensive rebound by J. Landale,19-15, ,,1,15,19,-4,433.0
+4:47.0,J. Landale misses 2-pt layup at rim (block by J. Johnson),19-15, ,,1,15,19,-4,433.0
+4:46.0, ,19-15,Defensive rebound by Team,,1,15,19,-4,434.0
+4:28.0, ,19-15,Turnover by J. Johnson (bad pass; steal by J. Smith),,1,15,19,-4,452.0
+4:23.0,J. Green makes 2-pt layup from 2 ft,21-15, ,,1,15,21,-6,457.0
+4:08.0, ,21-15,B. Bogdanović misses 2-pt jump shot from 15 ft,,1,15,21,-6,472.0
+4:05.0,Defensive rebound by J. Green,21-15, ,,1,15,21,-6,475.0
+4:01.0,Shooting foul by J. Johnson (drawn by J. Green),21-15, ,,1,15,21,-6,479.0
+4:01.0,J. Green misses free throw 1 of 2,21-15, ,,1,15,21,-6,479.0
+4:01.0,Offensive rebound by Team,21-15, ,,1,15,21,-6,479.0
+4:01.0,R. Bullock enters the game for D. Brooks,21-15, ,,1,15,21,-6,479.0
+4:01.0,J. Tate enters the game for J. Smith,21-15, ,,1,15,21,-6,479.0
+4:01.0,J. Green makes free throw 2 of 2,22-15, ,,1,15,22,-7,479.0
+3:45.0, ,22-15,D. Murray misses 2-pt layup at rim,,1,15,22,-7,495.0
+3:41.0,Defensive rebound by J. Tate,22-15, ,,1,15,22,-7,499.0
+3:36.0,R. Bullock misses 3-pt jump shot from 25 ft,22-15, ,,1,15,22,-7,504.0
+3:33.0, ,22-15,Defensive rebound by D. Murray,,1,15,22,-7,507.0
+3:30.0, ,22-17,J. Johnson makes 2-pt dunk at rim (assist by D. Murray),,1,17,22,-5,510.0
+3:14.0,A. Holiday makes 2-pt jump shot from 12 ft (assist by J. Green),24-17, ,,1,17,24,-7,526.0
+3:14.0, ,24-17,G. Mathews enters the game for S. Bey,,1,17,24,-7,526.0
+3:14.0, ,24-17,O. Okongwu enters the game for J. Johnson,,1,17,24,-7,526.0
+3:14.0, ,24-17,T. Young enters the game for D. Murray,,1,17,24,-7,526.0
+2:58.0, ,24-17,T. Young misses 3-pt jump shot from 26 ft,,1,17,24,-7,542.0
+2:55.0, ,24-17,Offensive rebound by O. Okongwu,,1,17,24,-7,545.0
+2:53.0, ,24-17,B. Bogdanović misses 3-pt jump shot from 25 ft,,1,17,24,-7,547.0
+2:50.0,Defensive rebound by A. Holiday,24-17, ,,1,17,24,-7,550.0
+2:45.0,A. Holiday misses 3-pt jump shot from 25 ft,24-17, ,,1,17,24,-7,555.0
+2:42.0, ,24-17,Defensive rebound by G. Mathews,,1,17,24,-7,558.0
+2:35.0, ,24-19,O. Okongwu makes 2-pt layup from 1 ft (assist by T. Young),,1,19,24,-5,565.0
+2:23.0,A. Holiday makes 3-pt jump shot from 23 ft (assist by J. Green),27-19, ,,1,19,27,-8,577.0
+2:07.0, ,27-19,T. Young misses 2-pt jump shot from 12 ft,,1,19,27,-8,593.0
+2:05.0,Defensive rebound by J. Green,27-19, ,,1,19,27,-8,595.0
+2:01.0,J. Green misses 2-pt layup from 3 ft,27-19, ,,1,19,27,-8,599.0
+2:00.0,Offensive rebound by Team,27-19, ,,1,19,27,-8,600.0
+1:59.0,Turnover by J. Landale (illegal assist),27-19, ,,1,19,27,-8,601.0
+1:59.0, ,27-19,Atlanta full timeout,,1,19,27,-8,601.0
+1:49.0, ,27-19,B. Bogdanović misses 3-pt jump shot from 26 ft,,1,19,27,-8,611.0
+1:46.0,Defensive rebound by J. Green,27-19, ,,1,19,27,-8,614.0
+1:35.0,J. Landale misses 3-pt jump shot from 25 ft,27-19, ,,1,19,27,-8,625.0
+1:32.0,Offensive rebound by J. Green,27-19, ,,1,19,27,-8,628.0
+1:28.0,J. Green makes 2-pt layup from 2 ft,29-19, ,,1,19,29,-10,632.0
+1:17.0, ,29-19,B. Bogdanović misses 2-pt jump shot from 14 ft,,1,19,29,-10,643.0
+1:15.0, ,29-19,Offensive rebound by Team,,1,19,29,-10,645.0
+1:15.0,Loose ball foul by J. Tate (drawn by O. Okongwu),29-19, ,,1,19,29,-10,645.0
+1:10.0, ,29-19,T. Young misses 2-pt layup from 6 ft,,1,19,29,-10,650.0
+1:09.0,Defensive rebound by J. Landale,29-19, ,,1,19,29,-10,651.0
+1:08.0,Turnover by J. Landale (bad pass),29-19, ,,1,19,29,-10,652.0
+1:02.0, ,29-19,B. Bogdanović misses 3-pt jump shot from 24 ft,,1,19,29,-10,658.0
+1:00.0,Defensive rebound by J. Green,29-19, ,,1,19,29,-10,660.0
+0:53.0,J. Tate makes 2-pt layup from 1 ft (assist by J. Landale),31-19, ,,1,19,31,-12,667.0
+0:42.0, ,31-19,B. Bogdanović misses 2-pt layup from 3 ft,,1,19,31,-12,678.0
+0:39.0,Defensive rebound by J. Landale,31-19, ,,1,19,31,-12,681.0
+0:33.0,Turnover by J. Green (out of bounds lost ball),31-19, ,,1,19,31,-12,687.0
+0:26.0, ,31-19,O. Okongwu misses 2-pt hook shot from 7 ft,,1,19,31,-12,694.0
+0:24.0,Defensive rebound by J. Landale,31-19, ,,1,19,31,-12,696.0
+0:07.0,J. Green misses 2-pt layup from 3 ft (block by O. Okongwu),31-19, ,,1,19,31,-12,713.0
+0:04.0, ,31-19,Defensive rebound by B. Bogdanović,,1,19,31,-12,716.0
+0:00.0, ,31-19,O. Okongwu misses 3-pt jump shot from 25 ft,,1,19,31,-12,720.0
+0:00.0, ,31-19,Offensive rebound by Team,,1,19,31,-12,720.0
+0:00.0,End of 1st quarter,31-19,,,1,19,31,-12,720.0
+12:00.0,Start of 2nd quarter,31-19,,,2,19,31,-12,720.0
+11:45.0, ,31-19,O. Okongwu misses 2-pt jump shot from 5 ft,,2,19,31,-12,735.0
+11:42.0,Defensive rebound by J. Green,31-19, ,,2,19,31,-12,738.0
+11:35.0,Offensive foul by J. Green (drawn by G. Mathews),31-19, ,,2,19,31,-12,745.0
+11:35.0,Turnover by J. Green (offensive foul),31-19, ,,2,19,31,-12,745.0
+11:25.0, ,31-19,Personal foul by A. Holiday (drawn by B. Bogdanović),,2,19,31,-12,755.0
+11:18.0, ,31-21,O. Okongwu makes 2-pt dunk from 1 ft (assist by B. Bogdanović),,2,21,31,-10,762.0
+10:56.0,Shooting foul by O. Okongwu (drawn by J. Green),31-21, ,,2,21,31,-10,784.0
+10:56.0,J. Green misses free throw 1 of 2,31-21, ,,2,21,31,-10,784.0
+10:56.0,Offensive rebound by Team,31-21, ,,2,21,31,-10,784.0
+10:56.0,J. Green misses free throw 2 of 2,31-21, ,,2,21,31,-10,784.0
+10:54.0, ,31-21,Defensive rebound by K. Bufkin,,2,21,31,-10,786.0
+10:36.0, ,31-23,T. Young makes 2-pt jump shot from 23 ft,,2,23,31,-8,804.0
+10:24.0,A. Thompson misses 2-pt jump shot from 16 ft,31-23, ,,2,23,31,-8,816.0
+10:23.0, ,31-23,Defensive rebound by G. Mathews,,2,23,31,-8,817.0
+10:13.0, ,31-26,G. Mathews makes 3-pt jump shot from 26 ft (assist by T. Young),,2,26,31,-5,827.0
+10:10.0,Houston full timeout,31-26, ,,2,26,31,-5,830.0
+10:10.0, ,31-26,D. Murray enters the game for K. Bufkin,,2,26,31,-5,830.0
+9:56.0,A. Holiday misses 2-pt jump shot from 11 ft,31-26, ,,2,26,31,-5,844.0
+9:51.0, ,31-26,Defensive rebound by B. Bogdanović,,2,26,31,-5,849.0
+9:39.0, ,31-26,O. Okongwu misses 2-pt layup from 2 ft (block by A. Holiday),,2,26,31,-5,861.0
+9:37.0,Defensive rebound by R. Bullock,31-26, ,,2,26,31,-5,863.0
+9:30.0,R. Bullock makes 3-pt jump shot from 25 ft (assist by A. Holiday),34-26, ,,2,26,34,-8,870.0
+9:05.0, ,34-28,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,2,28,34,-6,895.0
+9:05.0, ,34-28,Shooting foul by A. Holiday (drawn by O. Okongwu),,2,28,34,-6,895.0
+9:05.0,D. Brooks enters the game for A. Holiday,34-28, ,,2,28,34,-6,895.0
+9:05.0, ,34-28,S. Bey enters the game for T. Young,,2,28,34,-6,895.0
+9:05.0, ,34-29,O. Okongwu makes free throw 1 of 1,,2,29,34,-5,895.0
+8:52.0,J. Green misses 2-pt layup from 2 ft,34-29, ,,2,29,34,-5,908.0
+8:51.0,Offensive rebound by J. Green,34-29, ,,2,29,34,-5,909.0
+8:51.0,Shooting foul by O. Okongwu (drawn by J. Green),34-29, ,,2,29,34,-5,909.0
+8:51.0,J. Green makes free throw 1 of 2,35-29, ,,2,29,35,-6,909.0
+8:51.0,J. Landale enters the game for J. Smith,35-29, ,,2,29,35,-6,909.0
+8:51.0, ,35-29,J. Johnson enters the game for O. Okongwu,,2,29,35,-6,909.0
+8:51.0,J. Green makes free throw 2 of 2,36-29, ,,2,29,36,-7,909.0
+8:38.0, ,36-29,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,29,36,-7,922.0
+8:36.0,Defensive rebound by J. Landale,36-29, ,,2,29,36,-7,924.0
+8:27.0,R. Bullock misses 3-pt jump shot from 24 ft,36-29, ,,2,29,36,-7,933.0
+8:24.0,Offensive rebound by J. Landale,36-29, ,,2,29,36,-7,936.0
+8:23.0,Turnover by J. Green (traveling),36-29, ,,2,29,36,-7,937.0
+8:11.0, ,36-29,S. Bey misses 3-pt jump shot from 26 ft,,2,29,36,-7,949.0
+8:07.0,Defensive rebound by R. Bullock,36-29, ,,2,29,36,-7,953.0
+7:55.0,D. Brooks misses 2-pt jump shot from 13 ft,36-29, ,,2,29,36,-7,965.0
+7:55.0,Offensive rebound by J. Landale,36-29, ,,2,29,36,-7,965.0
+7:54.0,J. Landale misses 2-pt layup from 3 ft,36-29, ,,2,29,36,-7,966.0
+7:53.0, ,36-29,Defensive rebound by Team,,2,29,36,-7,967.0
+7:42.0, ,36-29,Shooting foul by A. Thompson (drawn by D. Murray),,2,29,36,-7,978.0
+7:42.0, ,36-30,D. Murray makes free throw 1 of 2,,2,30,36,-6,978.0
+7:42.0,J. Green enters the game for R. Bullock,36-30, ,,2,30,36,-6,978.0
+7:42.0, ,36-30,O. Okongwu enters the game for G. Mathews,,2,30,36,-6,978.0
+7:42.0, ,36-31,D. Murray makes free throw 2 of 2,,2,31,36,-5,978.0
+7:26.0,A. Thompson makes 2-pt dunk from 1 ft,38-31, ,,2,31,38,-7,994.0
+7:17.0, ,38-33,D. Murray makes 2-pt layup at rim,,2,33,38,-5,1003.0
+6:59.0,Turnover by J. Green (bad pass; steal by S. Bey),38-33, ,,2,33,38,-5,1021.0
+6:51.0, ,38-33,B. Bogdanović misses 3-pt jump shot from 23 ft,,2,33,38,-5,1029.0
+6:46.0,Defensive rebound by J. Landale,38-33, ,,2,33,38,-5,1034.0
+6:41.0,Turnover by A. Thompson (traveling),38-33, ,,2,33,38,-5,1039.0
+6:41.0,J. Smith enters the game for J. Green,38-33, ,,2,33,38,-5,1039.0
+6:21.0, ,38-35,J. Johnson makes 2-pt jump shot from 9 ft (assist by S. Bey),,2,35,38,-3,1059.0
+6:20.0,Technical foul by I. Udoka,38-35, ,,2,35,38,-3,1060.0
+6:20.0, ,38-36,B. Bogdanović makes technical free throw,,2,36,38,-2,1060.0
+6:08.0,Turnover by J. Smith (out of bounds lost ball),38-36, ,,2,36,38,-2,1072.0
+5:59.0, ,38-38,S. Bey makes 2-pt jump shot from 14 ft (assist by D. Murray),Tie,2,38,38,0,1081.0
+5:46.0,D. Brooks misses 2-pt jump shot from 6 ft,38-38, ,,2,38,38,0,1094.0
+5:45.0,Offensive rebound by A. Thompson,38-38, ,,2,38,38,0,1095.0
+5:45.0,A. Thompson misses 2-pt layup from 5 ft,38-38, ,,2,38,38,0,1095.0
+5:43.0, ,38-38,Defensive rebound by S. Bey,,2,38,38,0,1097.0
+5:40.0, ,38-38,Shooting foul by J. Landale (drawn by J. Johnson),,2,38,38,0,1100.0
+5:40.0, ,38-39,J. Johnson makes free throw 1 of 2,Lead change,2,39,38,1,1100.0
+5:40.0,A. Holiday enters the game for A. Thompson,38-39, ,,2,39,38,1,1100.0
+5:40.0, ,38-40,J. Johnson makes free throw 2 of 2,,2,40,38,2,1100.0
+5:23.0, ,38-40,Loose ball foul by S. Bey (drawn by J. Landale),,2,40,38,2,1117.0
+5:16.0,D. Brooks makes 2-pt jump shot from 17 ft,40-40, ,Tie,2,40,40,0,1124.0
+5:02.0, ,40-40,Offensive foul by O. Okongwu (drawn by A. Holiday),,2,40,40,0,1138.0
+5:02.0, ,40-40,Turnover by O. Okongwu (offensive foul),,2,40,40,0,1138.0
+5:02.0,J. Green enters the game for J. Landale,40-40, ,,2,40,40,0,1138.0
+5:02.0, ,40-40,T. Young enters the game for O. Okongwu,,2,40,40,0,1138.0
+4:52.0,Shooting foul by T. Young (drawn by D. Brooks),40-40, ,,2,40,40,0,1148.0
+4:52.0,D. Brooks makes free throw 1 of 2,41-40, ,Lead change,2,40,41,-1,1148.0
+4:52.0,D. Brooks makes free throw 2 of 2,42-40, ,,2,40,42,-2,1148.0
+4:35.0, ,42-43,J. Johnson makes 3-pt jump shot from 29 ft,Lead change,2,43,42,1,1165.0
+4:16.0,D. Brooks misses 3-pt jump shot from 26 ft,42-43, ,,2,43,42,1,1184.0
+4:13.0, ,42-43,Defensive rebound by S. Bey,,2,43,42,1,1187.0
+4:00.0, ,42-43,D. Murray misses 3-pt jump shot from 26 ft,,2,43,42,1,1200.0
+3:57.0,Defensive rebound by J. Green,42-43, ,,2,43,42,1,1203.0
+3:47.0,J. Green misses 2-pt layup from 2 ft,42-43, ,,2,43,42,1,1213.0
+3:42.0, ,42-43,Defensive rebound by B. Bogdanović,,2,43,42,1,1218.0
+3:38.0, ,42-46,B. Bogdanović makes 3-pt jump shot from 22 ft (assist by T. Young),,2,46,42,4,1222.0
+3:21.0,D. Brooks misses 3-pt jump shot from 23 ft,42-46, ,,2,46,42,4,1239.0
+3:17.0, ,42-46,Defensive rebound by D. Murray,,2,46,42,4,1243.0
+3:08.0, ,42-48,S. Bey makes 2-pt layup from 4 ft (assist by D. Murray),,2,48,42,6,1252.0
+2:49.0,D. Brooks misses 3-pt jump shot from 24 ft,42-48, ,,2,48,42,6,1271.0
+2:45.0,Offensive rebound by J. Smith,42-48, ,,2,48,42,6,1275.0
+2:45.0,J. Smith makes 2-pt layup at rim,44-48, ,,2,48,44,4,1275.0
+2:45.0, ,44-48,Atlanta full timeout,,2,48,44,4,1275.0
+2:45.0,A. Thompson enters the game for A. Holiday,44-48, ,,2,48,44,4,1275.0
+2:24.0, ,44-48,J. Johnson misses 3-pt jump shot from 23 ft,,2,48,44,4,1296.0
+2:20.0,Defensive rebound by J. Green,44-48, ,,2,48,44,4,1300.0
+2:15.0,J. Green makes 2-pt layup from 2 ft (assist by J. Green),46-48, ,,2,48,46,2,1305.0
+2:04.0, ,46-50,D. Murray makes 2-pt layup from 4 ft,,2,50,46,4,1316.0
+2:04.0,Violation by Team (def goaltending),46-50, ,,2,50,46,4,1316.0
+1:50.0,D. Brooks misses 3-pt jump shot from 26 ft,46-50, ,,2,50,46,4,1330.0
+1:47.0, ,46-50,Defensive rebound by J. Johnson,,2,50,46,4,1333.0
+1:43.0, ,46-50,T. Young misses 3-pt jump shot from 31 ft,,2,50,46,4,1337.0
+1:41.0,Defensive rebound by A. Thompson,46-50, ,,2,50,46,4,1339.0
+1:31.0,D. Brooks makes 3-pt jump shot from 26 ft (assist by A. Thompson),49-50, ,,2,50,49,1,1349.0
+1:15.0, ,49-53,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Young),,2,53,49,4,1365.0
+0:52.0,J. Green misses 3-pt jump shot from 26 ft,49-53, ,,2,53,49,4,1388.0
+0:51.0, ,49-53,Defensive rebound by Team,,2,53,49,4,1389.0
+0:42.0, ,49-53,Shooting foul by J. Green (drawn by S. Bey),,2,53,49,4,1398.0
+0:42.0, ,49-54,S. Bey makes free throw 1 of 2,,2,54,49,5,1398.0
+0:42.0, ,49-55,S. Bey makes free throw 2 of 2,,2,55,49,6,1398.0
+0:29.0,J. Green misses 2-pt layup from 1 ft (block by J. Johnson),49-55, ,,2,55,49,6,1411.0
+0:27.0, ,49-55,Defensive rebound by Team,,2,55,49,6,1413.0
+0:03.0, ,49-55,T. Young misses 3-pt jump shot from 26 ft,,2,55,49,6,1437.0
+0:01.0, ,49-55,Offensive rebound by J. Johnson,,2,55,49,6,1439.0
+0:01.0, ,49-57,J. Johnson makes 2-pt dunk at rim,,2,57,49,8,1439.0
+0:00.0,J. Green misses 3-pt jump shot from 52 ft,49-57, ,,2,57,49,8,1440.0
+0:00.0,Offensive rebound by Team,49-57, ,,2,57,49,8,1440.0
+0:00.0,End of 2nd quarter,49-57,,,2,57,49,8,1440.0
+12:00.0,Start of 3rd quarter,49-57,,,3,57,49,8,1440.0
+11:40.0, ,49-60,T. Young makes 3-pt jump shot from 29 ft,,3,60,49,11,1460.0
+11:23.0,J. Smith misses 3-pt jump shot from 25 ft,49-60, ,,3,60,49,11,1477.0
+11:20.0, ,49-60,Defensive rebound by S. Bey,,3,60,49,11,1480.0
+11:18.0, ,49-62,J. Johnson makes 2-pt dunk from 1 ft (assist by S. Bey),,3,62,49,13,1482.0
+11:05.0,D. Brooks misses 3-pt jump shot from 23 ft,49-62, ,,3,62,49,13,1495.0
+11:02.0, ,49-62,Defensive rebound by D. Murray,,3,62,49,13,1498.0
+10:55.0, ,49-62,Def 3 sec tech foul by Team,,3,62,49,13,1505.0
+10:55.0, ,49-62,T. Young misses technical free throw,,3,62,49,13,1505.0
+10:55.0, ,49-62,Offensive rebound by Team,,3,62,49,13,1505.0
+10:51.0, ,49-62,Shooting foul by A. Thompson (drawn by D. Murray),,3,62,49,13,1509.0
+10:51.0, ,49-62,Instant Replay (Request: Ruling Stands),,3,62,49,13,1509.0
+10:51.0, ,49-63,D. Murray makes free throw 1 of 3,,3,63,49,14,1509.0
+10:51.0, ,49-64,D. Murray makes free throw 2 of 3,,3,64,49,15,1509.0
+10:51.0, ,49-64,D. Murray misses free throw 3 of 3,,3,64,49,15,1509.0
+10:49.0,Defensive rebound by A. Thompson,49-64, ,,3,64,49,15,1511.0
+10:34.0,J. Smith makes 3-pt jump shot from 25 ft (assist by J. Green),52-64, ,,3,64,52,12,1526.0
+10:21.0, ,52-64,S. Bey misses 2-pt dunk from 1 ft (block by J. Smith),,3,64,52,12,1539.0
+10:18.0,Defensive rebound by J. Smith,52-64, ,,3,64,52,12,1542.0
+10:18.0,Turnover by J. Smith (bad pass; steal by T. Young),52-64, ,,3,64,52,12,1542.0
+10:14.0, ,52-64,S. Bey misses 3-pt jump shot from 23 ft,,3,64,52,12,1546.0
+10:10.0, ,52-64,Offensive rebound by J. Johnson,,3,64,52,12,1550.0
+10:09.0, ,52-64,Shooting foul by J. Green (drawn by O. Okongwu),,3,64,52,12,1551.0
+10:09.0, ,52-64,O. Okongwu misses free throw 1 of 2,,3,64,52,12,1551.0
+10:09.0, ,52-64,Offensive rebound by Team,,3,64,52,12,1551.0
+10:09.0, ,52-64,O. Okongwu misses free throw 2 of 2,,3,64,52,12,1551.0
+10:07.0,Defensive rebound by J. Smith,52-64, ,,3,64,52,12,1553.0
+9:55.0,J. Smith makes 2-pt layup from 3 ft (assist by J. Green),54-64, ,,3,64,54,10,1565.0
+9:40.0, ,54-66,T. Young makes 2-pt layup from 2 ft (assist by O. Okongwu),,3,66,54,12,1580.0
+9:35.0,Offensive foul by J. Green (drawn by D. Murray),54-66, ,,3,66,54,12,1585.0
+9:35.0,Turnover by J. Green (offensive foul),54-66, ,,3,66,54,12,1585.0
+9:20.0, ,54-66,D. Murray misses 2-pt jump shot from 20 ft,,3,66,54,12,1600.0
+9:16.0,Defensive rebound by J. Green,54-66, ,,3,66,54,12,1604.0
+9:03.0,J. Green makes 3-pt jump shot from 23 ft (assist by D. Brooks),57-66, ,,3,66,57,9,1617.0
+8:47.0, ,57-68,T. Young makes 2-pt layup from 7 ft,,3,68,57,11,1633.0
+8:34.0,J. Green misses 3-pt jump shot from 25 ft,57-68, ,,3,68,57,11,1646.0
+8:31.0, ,57-68,Defensive rebound by O. Okongwu,,3,68,57,11,1649.0
+8:22.0, ,57-68,T. Young misses 3-pt jump shot from 26 ft,,3,68,57,11,1658.0
+8:19.0,Defensive rebound by A. Thompson,57-68, ,,3,68,57,11,1661.0
+8:15.0,A. Thompson makes 2-pt dunk from 1 ft,59-68, ,,3,68,59,9,1665.0
+7:56.0, ,59-68,O. Okongwu misses 2-pt hook shot from 8 ft,,3,68,59,9,1684.0
+7:52.0, ,59-68,Offensive rebound by S. Bey,,3,68,59,9,1688.0
+7:45.0, ,59-70,D. Murray makes 2-pt jump shot from 4 ft,,3,70,59,11,1695.0
+7:29.0,J. Green makes 3-pt jump shot from 24 ft (assist by J. Green),62-70, ,,3,70,62,8,1711.0
+7:14.0, ,62-70,Shooting foul by A. Thompson (drawn by T. Young),,3,70,62,8,1726.0
+7:14.0, ,62-71,T. Young makes free throw 1 of 2,,3,71,62,9,1726.0
+7:14.0, ,62-71,T. Young misses free throw 2 of 2,,3,71,62,9,1726.0
+7:11.0,Defensive rebound by J. Green,62-71, ,,3,71,62,9,1729.0
+7:00.0,Turnover by A. Thompson (bad pass; steal by D. Murray),62-71, ,,3,71,62,9,1740.0
+6:55.0, ,62-71,S. Bey misses 3-pt jump shot from 23 ft,,3,71,62,9,1745.0
+6:51.0,Defensive rebound by J. Smith,62-71, ,,3,71,62,9,1749.0
+6:42.0,J. Green makes 2-pt layup from 1 ft (assist by J. Smith),64-71, ,,3,71,64,7,1758.0
+6:42.0,Shooting foul by O. Okongwu (drawn by J. Green),64-71, ,,3,71,64,7,1758.0
+6:42.0, ,64-71,Atlanta full timeout,,3,71,64,7,1758.0
+6:42.0,A. Holiday enters the game for A. Thompson,64-71, ,,3,71,64,7,1758.0
+6:42.0, ,64-71,B. Bogdanović enters the game for O. Okongwu,,3,71,64,7,1758.0
+6:42.0, ,64-71,K. Bufkin enters the game for T. Young,,3,71,64,7,1758.0
+6:42.0,J. Green makes free throw 1 of 1,65-71, ,,3,71,65,6,1758.0
+6:30.0, ,65-74,D. Murray makes 3-pt jump shot from 23 ft (assist by J. Johnson),,3,74,65,9,1770.0
+6:11.0,D. Brooks misses 2-pt jump shot from 21 ft,65-74, ,,3,74,65,9,1789.0
+6:08.0, ,65-74,Defensive rebound by D. Murray,,3,74,65,9,1792.0
+5:57.0, ,65-77,K. Bufkin makes 3-pt jump shot from 25 ft (assist by J. Johnson),,3,77,65,12,1803.0
+5:41.0,J. Green makes 3-pt jump shot from 25 ft,68-77, ,,3,77,68,9,1819.0
+5:18.0, ,68-80,D. Murray makes 3-pt jump shot from 26 ft,,3,80,68,12,1842.0
+4:59.0,J. Smith misses 2-pt layup from 2 ft,68-80, ,,3,80,68,12,1861.0
+4:58.0, ,68-80,Defensive rebound by Team,,3,80,68,12,1862.0
+4:58.0,Loose ball foul by J. Smith (drawn by J. Johnson),68-80, ,,3,80,68,12,1862.0
+4:58.0,J. Landale enters the game for J. Green,68-80, ,,3,80,68,12,1862.0
+4:46.0, ,68-80,S. Bey misses 3-pt jump shot from 26 ft,,3,80,68,12,1874.0
+4:43.0,Defensive rebound by J. Green,68-80, ,,3,80,68,12,1877.0
+4:39.0,J. Green makes 2-pt layup at rim,70-80, ,,3,80,70,10,1881.0
+4:39.0,Shooting foul by B. Bogdanović (drawn by J. Green),70-80, ,,3,80,70,10,1881.0
+4:39.0,J. Tate enters the game for J. Smith,70-80, ,,3,80,70,10,1881.0
+4:39.0,J. Green misses free throw 1 of 1,70-80, ,,3,80,70,10,1881.0
+4:38.0,Offensive rebound by J. Tate,70-80, ,,3,80,70,10,1882.0
+4:32.0,J. Green misses 2-pt jump shot from 14 ft,70-80, ,,3,80,70,10,1888.0
+4:28.0, ,70-80,Defensive rebound by J. Johnson,,3,80,70,10,1892.0
+4:09.0, ,70-80,K. Bufkin misses 3-pt jump shot from 23 ft,,3,80,70,10,1911.0
+4:06.0,Defensive rebound by J. Landale,70-80, ,,3,80,70,10,1914.0
+3:44.0,J. Green makes 2-pt layup from 1 ft,72-80, ,,3,80,72,8,1936.0
+3:32.0, ,72-80,Shooting foul by J. Tate (drawn by D. Murray),,3,80,72,8,1948.0
+3:32.0, ,72-81,D. Murray makes free throw 1 of 2,,3,81,72,9,1948.0
+3:32.0,R. Bullock enters the game for D. Brooks,72-81, ,,3,81,72,9,1948.0
+3:32.0, ,72-81,D. Murray misses free throw 2 of 2,,3,81,72,9,1948.0
+3:30.0,Defensive rebound by J. Green,72-81, ,,3,81,72,9,1950.0
+3:13.0,Turnover by J. Green (bad pass; steal by J. Johnson),72-81, ,,3,81,72,9,1967.0
+3:07.0, ,72-84,S. Bey makes 3-pt jump shot from 22 ft (assist by B. Bogdanović),,3,84,72,12,1973.0
+2:48.0,Turnover by J. Green (bad pass; steal by J. Johnson),72-84, ,,3,84,72,12,1992.0
+2:45.0, ,72-86,J. Johnson makes 2-pt dunk from 2 ft (assist by S. Bey),,3,86,72,14,1995.0
+2:23.0,J. Tate misses 2-pt layup from 3 ft (block by S. Bey),72-86, ,,3,86,72,14,2017.0
+2:23.0,Offensive rebound by Team,72-86, ,,3,86,72,14,2017.0
+2:23.0, ,72-86,Loose ball foul by K. Bufkin (drawn by A. Holiday),,3,86,72,14,2017.0
+2:23.0,Houston full timeout,72-86, ,,3,86,72,14,2017.0
+2:23.0,J. Williams enters the game for J. Green,72-86, ,,3,86,72,14,2017.0
+2:18.0,A. Holiday makes 3-pt jump shot from 29 ft (assist by J. Landale),75-86, ,,3,86,75,11,2022.0
+1:50.0, ,75-86,Shooting foul by J. Williams (drawn by S. Bey),,3,86,75,11,2050.0
+1:50.0, ,75-87,S. Bey makes free throw 1 of 2,,3,87,75,12,2050.0
+1:50.0,J. Smith enters the game for J. Landale,75-87, ,,3,87,75,12,2050.0
+1:50.0, ,75-87,T. Young enters the game for D. Murray,,3,87,75,12,2050.0
+1:50.0, ,75-88,S. Bey makes free throw 2 of 2,,3,88,75,13,2050.0
+1:36.0,J. Williams makes 2-pt layup from 1 ft,77-88, ,,3,88,77,11,2064.0
+1:22.0, ,77-90,B. Bogdanović makes 2-pt layup from 3 ft,,3,90,77,13,2078.0
+1:15.0,J. Williams makes 2-pt dunk at rim (assist by A. Holiday),79-90, ,,3,90,79,11,2085.0
+0:54.0, ,79-93,S. Bey makes 3-pt jump shot from 26 ft (assist by T. Young),,3,93,79,14,2106.0
+0:48.0,A. Holiday makes 2-pt layup from 1 ft,81-93, ,,3,93,81,12,2112.0
+0:33.0, ,81-93,Shooting foul by J. Williams (drawn by J. Johnson),,3,93,81,12,2127.0
+0:33.0, ,81-94,J. Johnson makes free throw 1 of 2,,3,94,81,13,2127.0
+0:33.0, ,81-95,J. Johnson makes free throw 2 of 2,,3,95,81,14,2127.0
+0:28.0,A. Holiday makes 2-pt dunk from 1 ft,83-95, ,,3,95,83,12,2132.0
+0:28.0,Shooting foul by J. Johnson (drawn by A. Holiday),83-95, ,,3,95,83,12,2132.0
+0:28.0,A. Holiday makes free throw 1 of 1,84-95, ,,3,95,84,11,2132.0
+0:03.0, ,84-95,Turnover by T. Young (bad pass; steal by J. Smith),,3,95,84,11,2157.0
+0:00.0,J. Smith misses 3-pt jump shot from 25 ft,84-95, ,,3,95,84,11,2160.0
+0:00.0,Offensive rebound by Team,84-95, ,,3,95,84,11,2160.0
+0:00.0,End of 3rd quarter,84-95,,,3,95,84,11,2160.0
+12:00.0,Start of 4th quarter,84-95,,,4,95,84,11,2160.0
+11:51.0,J. Smith misses 3-pt jump shot from 25 ft (block by T. Young),84-95, ,,4,95,84,11,2169.0
+11:47.0, ,84-95,Defensive rebound by K. Bufkin,,4,95,84,11,2173.0
+11:42.0, ,84-95,K. Bufkin misses 3-pt jump shot from 26 ft,,4,95,84,11,2178.0
+11:39.0, ,84-95,Offensive rebound by K. Bufkin,,4,95,84,11,2181.0
+11:30.0, ,84-95,Personal foul by A. Thompson (drawn by G. Mathews),,4,95,84,11,2190.0
+11:15.0, ,84-95,T. Young misses 3-pt jump shot from 26 ft,,4,95,84,11,2205.0
+11:12.0,Defensive rebound by A. Thompson,84-95, ,,4,95,84,11,2208.0
+11:00.0,J. Smith misses 2-pt layup from 1 ft,84-95, ,,4,95,84,11,2220.0
+10:55.0,Offensive rebound by J. Williams,84-95, ,,4,95,84,11,2225.0
+10:55.0,J. Williams makes 2-pt dunk at rim,86-95, ,,4,95,86,9,2225.0
+10:49.0, ,86-95,O. Okongwu misses 2-pt layup from 2 ft (block by J. Smith),,4,95,86,9,2231.0
+10:46.0, ,86-95,Offensive rebound by B. Bogdanović,,4,95,86,9,2234.0
+10:46.0, ,86-95,Personal foul by R. Bullock (drawn by B. Bogdanović),,4,95,86,9,2234.0
+10:43.0, ,86-97,T. Young makes 2-pt jump shot from 11 ft (assist by G. Mathews),,4,97,86,11,2237.0
+10:43.0, ,86-97,Shooting foul by A. Holiday (drawn by T. Young),,4,97,86,11,2237.0
+10:43.0, ,86-98,T. Young makes free throw 1 of 1,,4,98,86,12,2237.0
+10:35.0,Personal foul by T. Young (drawn by A. Holiday),86-98, ,,4,98,86,12,2245.0
+10:35.0, ,86-98,D. Murray enters the game for K. Bufkin,,4,98,86,12,2245.0
+10:34.0,Personal foul by G. Mathews (drawn by R. Bullock),86-98, ,,4,98,86,12,2246.0
+10:23.0,J. Williams makes 2-pt layup from 1 ft,88-98, ,,4,98,88,10,2257.0
+10:14.0, ,88-98,Offensive foul by B. Bogdanović (drawn by A. Holiday),,4,98,88,10,2266.0
+10:14.0, ,88-98,Turnover by B. Bogdanović (offensive foul),,4,98,88,10,2266.0
+10:05.0,Shooting foul by B. Bogdanović (drawn by J. Williams),88-98, ,,4,98,88,10,2275.0
+10:05.0,J. Williams misses free throw 1 of 2,88-98, ,,4,98,88,10,2275.0
+10:05.0,Offensive rebound by Team,88-98, ,,4,98,88,10,2275.0
+10:05.0, ,88-98,J. Johnson enters the game for G. Mathews,,4,98,88,10,2275.0
+10:05.0,J. Williams misses free throw 2 of 2,88-98, ,,4,98,88,10,2275.0
+10:03.0, ,88-98,Defensive rebound by B. Bogdanović,,4,98,88,10,2277.0
+9:49.0, ,88-98,D. Murray misses 2-pt jump shot from 17 ft,,4,98,88,10,2291.0
+9:46.0,Defensive rebound by A. Thompson,88-98, ,,4,98,88,10,2294.0
+9:42.0,A. Thompson misses 2-pt layup from 1 ft,88-98, ,,4,98,88,10,2298.0
+9:39.0,Offensive rebound by A. Thompson,88-98, ,,4,98,88,10,2301.0
+9:38.0,A. Thompson makes 2-pt dunk from 1 ft,90-98, ,,4,98,90,8,2302.0
+9:25.0, ,90-98,Turnover by T. Young (bad pass; steal by J. Smith),,4,98,90,8,2315.0
+9:16.0,A. Holiday makes 2-pt jump shot from 12 ft,92-98, ,,4,98,92,6,2324.0
+9:15.0, ,92-98,Atlanta full timeout,,4,98,92,6,2325.0
+9:15.0,D. Brooks enters the game for R. Bullock,92-98, ,,4,98,92,6,2325.0
+9:15.0, ,92-98,S. Bey enters the game for T. Young,,4,98,92,6,2325.0
+9:03.0, ,92-98,B. Bogdanović misses 2-pt layup from 2 ft,,4,98,92,6,2337.0
+9:01.0, ,92-98,Offensive rebound by O. Okongwu,,4,98,92,6,2339.0
+9:01.0, ,92-98,Shooting foul by A. Holiday (drawn by O. Okongwu),,4,98,92,6,2339.0
+9:01.0, ,92-98,O. Okongwu misses free throw 1 of 2,,4,98,92,6,2339.0
+9:01.0, ,92-98,Offensive rebound by Team,,4,98,92,6,2339.0
+9:01.0, ,92-99,O. Okongwu makes free throw 2 of 2,,4,99,92,7,2339.0
+8:51.0,D. Brooks misses 3-pt jump shot from 27 ft,92-99, ,,4,99,92,7,2349.0
+8:48.0, ,92-99,Defensive rebound by B. Bogdanović,,4,99,92,7,2352.0
+8:36.0, ,92-101,B. Bogdanović makes 2-pt layup from 2 ft,,4,101,92,9,2364.0
+8:30.0,J. Smith misses 3-pt jump shot from 26 ft,92-101, ,,4,101,92,9,2370.0
+8:26.0,Offensive rebound by J. Williams,92-101, ,,4,101,92,9,2374.0
+8:21.0,A. Holiday misses 3-pt jump shot from 24 ft,92-101, ,,4,101,92,9,2379.0
+8:18.0, ,92-101,Defensive rebound by D. Murray,,4,101,92,9,2382.0
+8:03.0, ,92-101,Turnover by S. Bey (lost ball; steal by J. Smith),,4,101,92,9,2397.0
+7:59.0,J. Williams misses 2-pt layup from 1 ft,92-101, ,,4,101,92,9,2401.0
+7:58.0, ,92-101,Defensive rebound by B. Bogdanović,,4,101,92,9,2402.0
+7:55.0,Houston full timeout,92-101, ,,4,101,92,9,2405.0
+7:55.0,Instant Replay (Challenge: Ruling Stands),92-101, ,,4,101,92,9,2405.0
+7:55.0,J. Green enters the game for A. Holiday,92-101, ,,4,101,92,9,2405.0
+7:55.0,J. Green enters the game for J. Smith,92-101, ,,4,101,92,9,2405.0
+7:55.0, ,92-101,Turnover by B. Bogdanović (lost ball; steal by A. Thompson),,4,101,92,9,2405.0
+7:51.0,J. Green makes 3-pt jump shot from 23 ft (assist by J. Green),95-101, ,,4,101,95,6,2409.0
+7:33.0, ,95-104,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Murray),,4,104,95,9,2427.0
+7:13.0,J. Williams misses 2-pt layup from 3 ft (block by D. Murray),95-104, ,,4,104,95,9,2447.0
+7:10.0,Offensive rebound by A. Thompson,95-104, ,,4,104,95,9,2450.0
+7:08.0,J. Green misses 3-pt jump shot from 26 ft,95-104, ,,4,104,95,9,2452.0
+7:06.0, ,95-104,Defensive rebound by J. Johnson,,4,104,95,9,2454.0
+6:54.0, ,95-104,D. Murray misses 3-pt jump shot from 23 ft,,4,104,95,9,2466.0
+6:51.0,Defensive rebound by A. Thompson,95-104, ,,4,104,95,9,2469.0
+6:44.0,A. Thompson misses 3-pt jump shot from 25 ft,95-104, ,,4,104,95,9,2476.0
+6:40.0, ,95-104,Defensive rebound by D. Murray,,4,104,95,9,2480.0
+6:35.0, ,95-104,Shooting foul by J. Williams (drawn by O. Okongwu),,4,104,95,9,2485.0
+6:35.0, ,95-105,O. Okongwu makes free throw 1 of 2,,4,105,95,10,2485.0
+6:35.0, ,95-105,O. Okongwu misses free throw 2 of 2,,4,105,95,10,2485.0
+6:33.0,Defensive rebound by A. Thompson,95-105, ,,4,105,95,10,2487.0
+6:18.0,D. Brooks makes 2-pt jump shot from 11 ft (assist by J. Green),97-105, ,,4,105,97,8,2502.0
+6:06.0, ,97-107,D. Murray makes 2-pt layup from 3 ft,,4,107,97,10,2514.0
+5:56.0,D. Brooks misses 2-pt layup from 3 ft,97-107, ,,4,107,97,10,2524.0
+5:54.0, ,97-107,Defensive rebound by O. Okongwu,,4,107,97,10,2526.0
+5:50.0, ,97-107,Shooting foul by J. Green (drawn by D. Murray),,4,107,97,10,2530.0
+5:50.0, ,97-108,D. Murray makes free throw 1 of 2,,4,108,97,11,2530.0
+5:50.0,J. Smith enters the game for J. Williams,97-108, ,,4,108,97,11,2530.0
+5:50.0, ,97-108,T. Young enters the game for B. Bogdanović,,4,108,97,11,2530.0
+5:50.0, ,97-109,D. Murray makes free throw 2 of 2,,4,109,97,12,2530.0
+5:34.0,Turnover by J. Green (traveling),97-109, ,,4,109,97,12,2546.0
+5:19.0, ,97-109,D. Murray misses 3-pt jump shot from 25 ft,,4,109,97,12,2561.0
+5:15.0,Defensive rebound by J. Green,97-109, ,,4,109,97,12,2565.0
+5:10.0,Shooting foul by O. Okongwu (drawn by J. Green),97-109, ,,4,109,97,12,2570.0
+5:10.0,J. Green misses free throw 1 of 2,97-109, ,,4,109,97,12,2570.0
+5:10.0,Offensive rebound by Team,97-109, ,,4,109,97,12,2570.0
+5:10.0,J. Green makes free throw 2 of 2,98-109, ,,4,109,98,11,2570.0
+4:49.0, ,98-109,Shooting foul by J. Smith (drawn by T. Young),,4,109,98,11,2591.0
+4:49.0, ,98-110,T. Young makes free throw 1 of 2,,4,110,98,12,2591.0
+4:49.0, ,98-111,T. Young makes free throw 2 of 2,,4,111,98,13,2591.0
+4:46.0,Personal foul by T. Young (drawn by J. Green),98-111, ,,4,111,98,13,2594.0
+4:46.0,J. Green makes free throw 1 of 2,99-111, ,,4,111,99,12,2594.0
+4:46.0,J. Green makes free throw 2 of 2,100-111, ,,4,111,100,11,2594.0
+4:30.0, ,100-111,T. Young misses 2-pt jump shot from 21 ft,,4,111,100,11,2610.0
+4:27.0,Defensive rebound by J. Green,100-111, ,,4,111,100,11,2613.0
+4:21.0,J. Green makes 2-pt layup from 1 ft (assist by A. Thompson),102-111, ,,4,111,102,9,2619.0
+4:17.0, ,102-111,Atlanta full timeout,,4,111,102,9,2623.0
+4:00.0, ,102-111,D. Murray misses 2-pt layup from 2 ft (block by J. Smith),,4,111,102,9,2640.0
+3:57.0,Defensive rebound by J. Green,102-111, ,,4,111,102,9,2643.0
+3:51.0,D. Brooks misses 3-pt jump shot from 27 ft,102-111, ,,4,111,102,9,2649.0
+3:49.0,Offensive rebound by A. Thompson,102-111, ,,4,111,102,9,2651.0
+3:48.0,A. Thompson makes 2-pt dunk from 1 ft,104-111, ,,4,111,104,7,2652.0
+3:36.0, ,104-111,J. Johnson misses 2-pt dunk from 2 ft (block by J. Green),,4,111,104,7,2664.0
+3:33.0,Defensive rebound by J. Smith,104-111, ,,4,111,104,7,2667.0
+3:30.0,J. Smith misses 3-pt jump shot from 25 ft,104-111, ,,4,111,104,7,2670.0
+3:27.0,Offensive rebound by J. Green,104-111, ,,4,111,104,7,2673.0
+3:20.0,D. Brooks makes 3-pt jump shot from 26 ft (assist by J. Green),107-111, ,,4,111,107,4,2680.0
+3:06.0, ,107-113,D. Murray makes 2-pt layup from 2 ft,,4,113,107,6,2694.0
+3:06.0, ,107-113,Shooting foul by D. Brooks (drawn by D. Murray),,4,113,107,6,2694.0
+3:06.0, ,107-114,D. Murray makes free throw 1 of 1,,4,114,107,7,2694.0
+3:06.0,Houston full timeout,107-114, ,,4,114,107,7,2694.0
+2:49.0,J. Green makes 2-pt jump shot from 19 ft,109-114, ,,4,114,109,5,2711.0
+2:32.0, ,109-114,Personal foul by A. Thompson (drawn by D. Murray),,4,114,109,5,2728.0
+2:32.0, ,109-115,D. Murray makes free throw 1 of 2,,4,115,109,6,2728.0
+2:32.0, ,109-115,D. Murray misses free throw 2 of 2,,4,115,109,6,2728.0
+2:30.0,Defensive rebound by J. Smith,109-115, ,,4,115,109,6,2730.0
+2:17.0, ,109-115,Atlanta full timeout,,4,115,109,6,2743.0
+2:17.0, ,109-115,Instant Replay (Challenge: Ruling Stands),,4,115,109,6,2743.0
+2:17.0,J. Smith misses 2-pt layup from 4 ft (block by O. Okongwu),109-115, ,,4,115,109,6,2743.0
+2:17.0,Offensive rebound by Team,109-115, ,,4,115,109,6,2743.0
+2:11.0,J. Green misses 3-pt jump shot from 23 ft,109-115, ,,4,115,109,6,2749.0
+2:05.0,Offensive rebound by J. Smith,109-115, ,,4,115,109,6,2755.0
+2:05.0,J. Smith misses 2-pt layup at rim (block by O. Okongwu),109-115, ,,4,115,109,6,2755.0
+2:03.0, ,109-115,Defensive rebound by O. Okongwu,,4,115,109,6,2757.0
+1:59.0, ,109-118,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Murray),,4,118,109,9,2761.0
+1:43.0,D. Brooks misses 3-pt jump shot from 25 ft,109-118, ,,4,118,109,9,2777.0
+1:39.0, ,109-118,Defensive rebound by T. Young,,4,118,109,9,2781.0
+1:29.0, ,109-118,Turnover by T. Young (discontinued dribble),,4,118,109,9,2791.0
+1:22.0,J. Green makes 2-pt dunk from 2 ft,111-118, ,,4,118,111,7,2798.0
+1:13.0, ,111-118,Turnover by T. Young (lost ball; steal by J. Green),,4,118,111,7,2807.0
+1:09.0,J. Green makes 2-pt layup from 1 ft (assist by A. Thompson),113-118, ,,4,118,113,5,2811.0
+1:05.0, ,113-118,Personal foul by D. Brooks (drawn by D. Murray),,4,118,113,5,2815.0
+1:05.0, ,113-119,D. Murray makes free throw 1 of 2,,4,119,113,6,2815.0
+1:05.0, ,113-120,D. Murray makes free throw 2 of 2,,4,120,113,7,2815.0
+0:57.0,Turnover by J. Green (lost ball; steal by T. Young),113-120, ,,4,120,113,7,2823.0
+0:39.0, ,113-120,D. Murray misses 2-pt layup from 2 ft,,4,120,113,7,2841.0
+0:36.0, ,113-120,Offensive rebound by O. Okongwu,,4,120,113,7,2844.0
+0:27.0, ,113-120,D. Murray misses 3-pt jump shot from 23 ft,,4,120,113,7,2853.0
+0:26.0, ,113-120,Offensive rebound by S. Bey,,4,120,113,7,2854.0
+0:26.0, ,113-122,S. Bey makes 2-pt dunk at rim,,4,122,113,9,2854.0
+0:22.0,J. Green misses 3-pt jump shot from 26 ft,113-122, ,,4,122,113,9,2858.0
+0:19.0, ,113-122,Defensive rebound by J. Johnson,,4,122,113,9,2861.0
+0:00.0,End of 4th quarter,113-122,,,4,122,113,9,2880.0

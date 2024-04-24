@@ -1,0 +1,462 @@
+Time,Atlanta,Score,Utah,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. J. Collins (J. Johnson gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,V. Krejci misses 2-pt layup from 5 ft,0-0, ,,1,0,0,0,17.0
+11:41.0, ,0-0,Defensive rebound by J. Collins,,1,0,0,0,19.0
+11:25.0, ,0-0,J. Collins misses 2-pt jump shot from 8 ft (block by W. Matthews),,1,0,0,0,35.0
+11:24.0, ,0-0,Offensive rebound by Team,,1,0,0,0,36.0
+11:20.0, ,0-0,J. Collins misses 2-pt jump shot from 18 ft,,1,0,0,0,40.0
+11:17.0,Defensive rebound by D. Murray,0-0, ,,1,0,0,0,43.0
+11:13.0,V. Krejci misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,47.0
+11:10.0, ,0-0,Defensive rebound by T. Hendricks,,1,0,0,0,50.0
+11:02.0, ,0-0,T. Hendricks misses 3-pt jump shot from 26 ft,,1,0,0,0,58.0
+10:58.0, ,0-0,Offensive rebound by J. Collins,,1,0,0,0,62.0
+10:58.0, ,0-2,J. Collins makes 2-pt layup at rim,,1,0,2,-2,62.0
+10:44.0,J. Johnson misses 3-pt jump shot from 25 ft,0-2, ,,1,0,2,-2,76.0
+10:43.0, ,0-2,Defensive rebound by K. George,,1,0,2,-2,77.0
+10:35.0, ,0-2,K. George misses 3-pt jump shot from 25 ft,,1,0,2,-2,85.0
+10:31.0,Defensive rebound by C. Capela,0-2, ,,1,0,2,-2,89.0
+10:28.0,V. Krejci makes 2-pt dunk from 2 ft (assist by J. Johnson),2-2, ,Tie,1,2,2,0,92.0
+10:16.0, ,2-5,J. Collins makes 3-pt jump shot from 26 ft (assist by C. Sexton),,1,2,5,-3,104.0
+10:01.0,W. Matthews misses 2-pt layup from 4 ft (block by T. Hendricks),2-5, ,,1,2,5,-3,119.0
+9:59.0, ,2-5,Defensive rebound by T. Hendricks,,1,2,5,-3,121.0
+9:48.0, ,2-8,C. Sexton makes 3-pt jump shot from 23 ft,,1,2,8,-6,132.0
+9:35.0,D. Murray makes 3-pt jump shot from 25 ft,5-8, ,,1,5,8,-3,145.0
+9:24.0, ,5-8,T. Hendricks misses 3-pt jump shot from 26 ft,,1,5,8,-3,156.0
+9:21.0,Defensive rebound by W. Matthews,5-8, ,,1,5,8,-3,159.0
+9:13.0,W. Matthews makes 3-pt jump shot from 22 ft (assist by D. Murray),8-8, ,Tie,1,8,8,0,167.0
+9:11.0, ,8-8,Utah full timeout,,1,8,8,0,169.0
+8:51.0, ,8-8,Turnover by J. Collins (out of bounds lost ball),,1,8,8,0,189.0
+8:37.0,J. Johnson misses 2-pt layup from 6 ft,8-8, ,,1,8,8,0,203.0
+8:35.0, ,8-8,Defensive rebound by J. Collins,,1,8,8,0,205.0
+8:30.0, ,8-10,C. Sexton makes 2-pt layup from 3 ft (assist by K. George),,1,8,10,-2,210.0
+8:18.0,Shooting foul by T. Hendricks (drawn by J. Johnson),8-10, ,,1,8,10,-2,222.0
+8:18.0,J. Johnson misses free throw 1 of 2,8-10, ,,1,8,10,-2,222.0
+8:18.0,Offensive rebound by Team,8-10, ,,1,8,10,-2,222.0
+8:18.0,J. Johnson misses free throw 2 of 2,8-10, ,,1,8,10,-2,222.0
+8:16.0,Offensive rebound by C. Capela,8-10, ,,1,8,10,-2,224.0
+8:14.0,W. Matthews makes 3-pt jump shot from 23 ft (assist by C. Capela),11-10, ,Lead change,1,11,10,1,226.0
+7:58.0, ,11-10,K. George misses 3-pt jump shot from 26 ft,,1,11,10,1,242.0
+7:55.0,Defensive rebound by D. Murray,11-10, ,,1,11,10,1,245.0
+7:51.0,W. Matthews makes 3-pt jump shot from 30 ft (assist by D. Murray),14-10, ,,1,14,10,4,249.0
+7:31.0, ,14-10,Shooting foul by C. Capela (drawn by J. Collins),,1,14,10,4,269.0
+7:31.0, ,14-11,J. Collins makes free throw 1 of 2,,1,14,11,3,269.0
+7:31.0, ,14-12,J. Collins makes free throw 2 of 2,,1,14,12,2,269.0
+7:18.0,D. Murray makes 2-pt jump shot from 13 ft (assist by C. Capela),16-12, ,,1,16,12,4,282.0
+7:02.0, ,16-12,T. Hendricks misses 3-pt jump shot from 23 ft,,1,16,12,4,298.0
+6:57.0, ,16-12,Offensive rebound by J. Collins,,1,16,12,4,303.0
+6:57.0, ,16-14,J. Collins makes 2-pt layup at rim,,1,16,14,2,303.0
+6:37.0,D. Murray misses 2-pt jump shot from 19 ft,16-14, ,,1,16,14,2,323.0
+6:34.0, ,16-14,Defensive rebound by T. Hendricks,,1,16,14,2,326.0
+6:28.0, ,16-14,C. Sexton misses 2-pt jump shot from 7 ft,,1,16,14,2,332.0
+6:25.0, ,16-14,Offensive rebound by T. Hendricks,,1,16,14,2,335.0
+6:25.0, ,16-16,T. Hendricks makes 2-pt layup at rim,Tie,1,16,16,0,335.0
+6:15.0,J. Johnson misses 3-pt jump shot from 26 ft,16-16, ,,1,16,16,0,345.0
+6:13.0, ,16-16,Defensive rebound by K. George,,1,16,16,0,347.0
+6:05.0, ,16-18,C. Sexton makes 2-pt jump shot from 7 ft (assist by K. George),Lead change,1,16,18,-2,355.0
+6:05.0,Atlanta full timeout,16-18, ,,1,16,18,-2,355.0
+6:05.0,B. Fernando enters the game for C. Capela,16-18, ,,1,16,18,-2,355.0
+6:05.0,D. Hunter enters the game for J. Johnson,16-18, ,,1,16,18,-2,355.0
+6:05.0,G. Mathews enters the game for W. Matthews,16-18, ,,1,16,18,-2,355.0
+6:05.0, ,16-18,M. Potter enters the game for T. Hendricks,,1,16,18,-2,355.0
+5:49.0,Turnover by D. Murray (bad pass; steal by K. George),16-18, ,,1,16,18,-2,371.0
+5:45.0, ,16-20,J. Collins makes 2-pt dunk from 7 ft (assist by C. Sexton),,1,16,20,-4,375.0
+5:36.0,G. Mathews misses 3-pt jump shot from 25 ft,16-20, ,,1,16,20,-4,384.0
+5:36.0, ,16-20,Defensive rebound by J. Collins,,1,16,20,-4,384.0
+5:23.0, ,16-20,B. Sensabaugh misses 3-pt jump shot from 26 ft,,1,16,20,-4,397.0
+5:19.0,Defensive rebound by D. Hunter,16-20, ,,1,16,20,-4,401.0
+5:13.0,D. Hunter makes 3-pt jump shot from 23 ft (assist by D. Murray),19-20, ,,1,19,20,-1,407.0
+4:58.0, ,19-22,K. George makes 2-pt layup from 3 ft,,1,19,22,-3,422.0
+4:45.0,B. Fernando makes 2-pt jump shot from 5 ft (assist by D. Murray),21-22, ,,1,21,22,-1,435.0
+4:25.0,Violation by Team (kicked ball),21-22, ,,1,21,22,-1,455.0
+4:25.0,T. Forrest enters the game for V. Krejci,21-22, ,,1,21,22,-1,455.0
+4:25.0, ,21-22,J. Juzang enters the game for J. Collins,,1,21,22,-1,455.0
+4:25.0, ,21-22,W. Kessler enters the game for B. Sensabaugh,,1,21,22,-1,455.0
+4:19.0, ,21-22,K. George misses 2-pt jump shot from 14 ft,,1,21,22,-1,461.0
+4:17.0, ,21-22,Offensive rebound by W. Kessler,,1,21,22,-1,463.0
+4:04.0, ,21-24,K. George makes 2-pt layup from 5 ft,,1,21,24,-3,476.0
+3:53.0,Personal foul by K. George (drawn by D. Murray),21-24, ,,1,21,24,-3,487.0
+3:53.0, ,21-24,T. Horton-Tucker enters the game for C. Sexton,,1,21,24,-3,487.0
+3:45.0,D. Murray misses 3-pt jump shot from 28 ft,21-24, ,,1,21,24,-3,495.0
+3:42.0, ,21-24,Defensive rebound by J. Juzang,,1,21,24,-3,498.0
+3:33.0, ,21-24,Shooting foul by B. Fernando (drawn by K. George),,1,21,24,-3,507.0
+3:33.0, ,21-25,K. George makes free throw 1 of 2,,1,21,25,-4,507.0
+3:33.0,J. Johnson enters the game for D. Murray,21-25, ,,1,21,25,-4,507.0
+3:33.0, ,21-26,K. George makes free throw 2 of 2,,1,21,26,-5,507.0
+3:18.0,G. Mathews makes 3-pt jump shot from 24 ft (assist by B. Fernando),24-26, ,,1,24,26,-2,522.0
+3:00.0, ,24-29,J. Juzang makes 3-pt jump shot from 25 ft (assist by K. George),,1,24,29,-5,540.0
+2:37.0,J. Johnson misses 3-pt jump shot from 26 ft,24-29, ,,1,24,29,-5,563.0
+2:33.0, ,24-29,Defensive rebound by K. George,,1,24,29,-5,567.0
+2:29.0, ,24-29,K. George misses 2-pt layup from 6 ft,,1,24,29,-5,571.0
+2:28.0,Defensive rebound by G. Mathews,24-29, ,,1,24,29,-5,572.0
+2:23.0,J. Johnson makes 2-pt dunk from 3 ft (assist by G. Mathews),26-29, ,,1,26,29,-3,577.0
+2:02.0, ,26-29,J. Juzang misses 3-pt jump shot from 23 ft,,1,26,29,-3,598.0
+1:59.0, ,26-29,Offensive rebound by W. Kessler,,1,26,29,-3,601.0
+1:59.0, ,26-29,J. Preston enters the game for K. George,,1,26,29,-3,601.0
+1:51.0, ,26-29,J. Juzang misses 2-pt layup from 3 ft (block by G. Mathews),,1,26,29,-3,609.0
+1:48.0,Defensive rebound by T. Forrest,26-29, ,,1,26,29,-3,612.0
+1:42.0,Turnover by J. Johnson (bad pass; steal by W. Kessler),26-29, ,,1,26,29,-3,618.0
+1:35.0, ,26-32,J. Juzang makes 3-pt jump shot from 26 ft (assist by J. Preston),,1,26,32,-6,625.0
+1:34.0,Atlanta full timeout,26-32, ,,1,26,32,-6,626.0
+1:22.0,D. Hunter misses 2-pt jump shot from 8 ft,26-32, ,,1,26,32,-6,638.0
+1:19.0, ,26-32,Defensive rebound by W. Kessler,,1,26,32,-6,641.0
+1:13.0, ,26-32,J. Preston misses 2-pt jump shot from 9 ft,,1,26,32,-6,647.0
+1:12.0,Defensive rebound by B. Fernando,26-32, ,,1,26,32,-6,648.0
+1:05.0,Personal foul by J. Preston (drawn by T. Forrest),26-32, ,,1,26,32,-6,655.0
+0:58.0,D. Hunter misses 2-pt layup from 5 ft (block by T. Horton-Tucker),26-32, ,,1,26,32,-6,662.0
+0:58.0, ,26-32,Defensive rebound by Team,,1,26,32,-6,662.0
+0:39.0, ,26-32,Turnover by W. Kessler (lost ball; steal by B. Fernando),,1,26,32,-6,681.0
+0:35.0,D. Hunter misses 3-pt jump shot from 22 ft,26-32, ,,1,26,32,-6,685.0
+0:31.0,Offensive rebound by B. Fernando,26-32, ,,1,26,32,-6,689.0
+0:28.0,J. Johnson makes 2-pt layup from 3 ft (assist by G. Mathews),28-32, ,,1,28,32,-4,692.0
+0:09.0, ,28-32,T. Horton-Tucker misses 3-pt jump shot from 26 ft,,1,28,32,-4,711.0
+0:05.0, ,28-32,Offensive rebound by J. Preston,,1,28,32,-4,715.0
+0:05.0, ,28-34,J. Preston makes 2-pt jump shot from 6 ft,,1,28,34,-6,715.0
+0:00.0, ,28-34,Instant Replay (Request: Ruling Stands),,1,28,34,-6,720.0
+0:00.0,End of 1st quarter,28-34,,,1,28,34,-6,720.0
+12:00.0,Start of 2nd quarter,28-34,,,2,28,34,-6,720.0
+11:36.0, ,28-36,W. Kessler makes 2-pt layup from 2 ft (assist by T. Horton-Tucker),,2,28,36,-8,744.0
+11:14.0,J. Johnson misses 2-pt jump shot from 10 ft,28-36, ,,2,28,36,-8,766.0
+11:12.0, ,28-36,Defensive rebound by T. Hendricks,,2,28,36,-8,768.0
+11:07.0, ,28-39,T. Horton-Tucker makes 3-pt jump shot from 28 ft (assist by J. Preston),,2,28,39,-11,773.0
+10:45.0,D. Hunter makes 2-pt jump shot from 18 ft (assist by T. Forrest),30-39, ,,2,30,39,-9,795.0
+10:45.0,Shooting foul by T. Horton-Tucker (drawn by D. Hunter),30-39, ,,2,30,39,-9,795.0
+10:45.0,D. Hunter makes free throw 1 of 1,31-39, ,,2,31,39,-8,795.0
+10:34.0, ,31-39,T. Horton-Tucker misses 3-pt jump shot from 26 ft,,2,31,39,-8,806.0
+10:32.0,Defensive rebound by Team,31-39, ,,2,31,39,-8,808.0
+10:11.0,C. Capela misses 2-pt layup from 4 ft,31-39, ,,2,31,39,-8,829.0
+10:10.0,Offensive rebound by C. Capela,31-39, ,,2,31,39,-8,830.0
+10:10.0,Turnover by C. Capela (traveling),31-39, ,,2,31,39,-8,830.0
+9:55.0, ,31-39,W. Kessler misses 2-pt layup from 5 ft (block by C. Capela),,2,31,39,-8,845.0
+9:52.0,Defensive rebound by G. Mathews,31-39, ,,2,31,39,-8,848.0
+9:44.0,C. Capela makes 2-pt dunk from 4 ft (assist by J. Johnson),33-39, ,,2,33,39,-6,856.0
+9:24.0, ,33-42,J. Juzang makes 3-pt jump shot from 25 ft (assist by T. Horton-Tucker),,2,33,42,-9,876.0
+9:01.0,J. Johnson misses 2-pt dunk from 3 ft (block by W. Kessler),33-42, ,,2,33,42,-9,899.0
+8:58.0, ,33-42,Defensive rebound by T. Hendricks,,2,33,42,-9,902.0
+8:57.0, ,33-42,J. Juzang misses 3-pt jump shot from 26 ft,,2,33,42,-9,903.0
+8:53.0,Defensive rebound by C. Capela,33-42, ,,2,33,42,-9,907.0
+8:52.0,Shooting foul by J. Juzang (drawn by J. Johnson),33-42, ,,2,33,42,-9,908.0
+8:52.0,J. Johnson misses free throw 1 of 2,33-42, ,,2,33,42,-9,908.0
+8:52.0,Offensive rebound by Team,33-42, ,,2,33,42,-9,908.0
+8:52.0,D. Murray enters the game for G. Mathews,33-42, ,,2,33,42,-9,908.0
+8:52.0,J. Johnson makes free throw 2 of 2,34-42, ,,2,34,42,-8,908.0
+8:35.0, ,34-42,T. Horton-Tucker misses 3-pt jump shot from 28 ft,,2,34,42,-8,925.0
+8:31.0,Defensive rebound by C. Capela,34-42, ,,2,34,42,-8,929.0
+8:24.0,D. Hunter makes 3-pt jump shot from 24 ft (assist by J. Johnson),37-42, ,,2,37,42,-5,936.0
+8:22.0, ,37-42,Utah full timeout,,2,37,42,-5,938.0
+8:22.0,W. Matthews enters the game for J. Johnson,37-42, ,,2,37,42,-5,938.0
+8:06.0, ,37-42,Turnover by J. Preston (bad pass; steal by D. Murray),,2,37,42,-5,954.0
+8:00.0,Shooting foul by W. Kessler (drawn by C. Capela),37-42, ,,2,37,42,-5,960.0
+8:00.0,C. Capela misses free throw 1 of 2,37-42, ,,2,37,42,-5,960.0
+8:00.0,Offensive rebound by Team,37-42, ,,2,37,42,-5,960.0
+8:00.0,G. Mathews enters the game for D. Hunter,37-42, ,,2,37,42,-5,960.0
+8:00.0, ,37-42,B. Sensabaugh enters the game for J. Juzang,,2,37,42,-5,960.0
+8:00.0,C. Capela makes free throw 2 of 2,38-42, ,,2,38,42,-4,960.0
+7:44.0, ,38-42,T. Hendricks misses 2-pt layup from 5 ft,,2,38,42,-4,976.0
+7:42.0, ,38-42,Offensive rebound by T. Hendricks,,2,38,42,-4,978.0
+7:41.0, ,38-42,T. Hendricks misses 2-pt layup from 3 ft (block by T. Forrest),,2,38,42,-4,979.0
+7:41.0,Defensive rebound by T. Forrest,38-42, ,,2,38,42,-4,979.0
+7:29.0,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Forrest),41-42, ,,2,41,42,-1,991.0
+7:15.0, ,41-44,W. Kessler makes 2-pt layup from 5 ft (assist by T. Horton-Tucker),,2,41,44,-3,1005.0
+6:56.0,G. Mathews makes 3-pt jump shot from 25 ft (assist by W. Matthews),44-44, ,Tie,2,44,44,0,1024.0
+6:38.0, ,44-44,Shooting foul by T. Forrest (drawn by T. Hendricks),,2,44,44,0,1042.0
+6:38.0, ,44-45,T. Hendricks makes free throw 1 of 2,,2,44,45,-1,1042.0
+6:38.0,B. Fernando enters the game for C. Capela,44-45, ,,2,44,45,-1,1042.0
+6:38.0,V. Krejci enters the game for T. Forrest,44-45, ,,2,44,45,-1,1042.0
+6:38.0, ,44-45,J. Collins enters the game for T. Horton-Tucker,,2,44,45,-1,1042.0
+6:38.0, ,44-45,K. George enters the game for W. Kessler,,2,44,45,-1,1042.0
+6:38.0, ,44-45,C. Sexton enters the game for J. Preston,,2,44,45,-1,1042.0
+6:38.0, ,44-45,T. Hendricks misses free throw 2 of 2,,2,44,45,-1,1042.0
+6:34.0,Defensive rebound by B. Fernando,44-45, ,,2,44,45,-1,1046.0
+6:24.0,D. Murray misses 3-pt jump shot from 25 ft,44-45, ,,2,44,45,-1,1056.0
+6:23.0, ,44-45,Defensive rebound by C. Sexton,,2,44,45,-1,1057.0
+6:20.0, ,44-45,Offensive foul by B. Sensabaugh (drawn by G. Mathews),,2,44,45,-1,1060.0
+6:20.0, ,44-45,Turnover by B. Sensabaugh (offensive foul),,2,44,45,-1,1060.0
+6:20.0,Atlanta full timeout,44-45, ,,2,44,45,-1,1060.0
+6:20.0,Instant Replay (Challenge: Ruling Stands),44-45, ,,2,44,45,-1,1060.0
+6:20.0,D. Hunter enters the game for G. Mathews,44-45, ,,2,44,45,-1,1060.0
+6:20.0,J. Johnson enters the game for W. Matthews,44-45, ,,2,44,45,-1,1060.0
+6:20.0, ,44-45,W. Kessler enters the game for T. Hendricks,,2,44,45,-1,1060.0
+6:06.0,D. Hunter makes 2-pt layup from 2 ft,46-45, ,Lead change,2,46,45,1,1074.0
+6:06.0,Shooting foul by B. Sensabaugh (drawn by D. Hunter),46-45, ,,2,46,45,1,1074.0
+6:06.0,D. Hunter makes free throw 1 of 1,47-45, ,,2,47,45,2,1074.0
+5:48.0, ,47-45,B. Sensabaugh misses 3-pt jump shot from 26 ft,,2,47,45,2,1092.0
+5:44.0, ,47-45,Offensive rebound by J. Collins,,2,47,45,2,1096.0
+5:43.0, ,47-47,J. Collins makes 2-pt hook shot from 6 ft,Tie,2,47,47,0,1097.0
+5:43.0, ,47-47,Shooting foul by J. Johnson (drawn by J. Collins),,2,47,47,0,1097.0
+5:43.0, ,47-47,J. Collins misses free throw 1 of 1,,2,47,47,0,1097.0
+5:40.0,Defensive rebound by J. Johnson,47-47, ,,2,47,47,0,1100.0
+5:17.0,J. Johnson misses 3-pt jump shot from 25 ft,47-47, ,,2,47,47,0,1123.0
+5:13.0, ,47-47,Defensive rebound by B. Sensabaugh,,2,47,47,0,1127.0
+5:06.0, ,47-47,Shooting foul by D. Hunter (drawn by B. Sensabaugh),,2,47,47,0,1134.0
+5:06.0, ,47-48,B. Sensabaugh makes free throw 1 of 2,Lead change,2,47,48,-1,1134.0
+5:06.0, ,47-49,B. Sensabaugh makes free throw 2 of 2,,2,47,49,-2,1134.0
+4:50.0,J. Johnson misses 2-pt jump shot from 9 ft,47-49, ,,2,47,49,-2,1150.0
+4:48.0, ,47-49,Defensive rebound by K. George,,2,47,49,-2,1152.0
+4:42.0, ,47-49,K. George misses 2-pt layup from 6 ft,,2,47,49,-2,1158.0
+4:41.0,Defensive rebound by J. Johnson,47-49, ,,2,47,49,-2,1159.0
+4:32.0,J. Johnson makes 3-pt jump shot from 25 ft (assist by D. Murray),50-49, ,Lead change,2,50,49,1,1168.0
+4:11.0, ,50-49,K. George misses 3-pt jump shot from 27 ft,,2,50,49,1,1189.0
+4:08.0,Defensive rebound by B. Fernando,50-49, ,,2,50,49,1,1192.0
+3:55.0,D. Murray misses 2-pt jump shot from 11 ft,50-49, ,,2,50,49,1,1205.0
+3:52.0, ,50-49,Defensive rebound by W. Kessler,,2,50,49,1,1208.0
+3:49.0, ,50-52,C. Sexton makes 3-pt jump shot from 26 ft,Lead change,2,50,52,-2,1211.0
+3:29.0,D. Hunter misses 3-pt jump shot from 25 ft,50-52, ,,2,50,52,-2,1231.0
+3:25.0, ,50-52,Defensive rebound by W. Kessler,,2,50,52,-2,1235.0
+3:13.0, ,50-52,Turnover by J. Collins (lost ball; steal by D. Hunter),,2,50,52,-2,1247.0
+3:07.0,D. Hunter makes 2-pt layup from 4 ft (assist by J. Johnson),52-52, ,Tie,2,52,52,0,1253.0
+3:00.0, ,52-52,Personal foul by V. Krejci (drawn by K. George),,2,52,52,0,1260.0
+3:00.0,C. Capela enters the game for B. Fernando,52-52, ,,2,52,52,0,1260.0
+2:43.0, ,52-54,B. Sensabaugh makes 2-pt jump shot from 9 ft (assist by J. Collins),,2,52,54,-2,1277.0
+2:33.0,J. Johnson makes 3-pt jump shot from 25 ft (assist by D. Murray),55-54, ,Lead change,2,55,54,1,1287.0
+2:09.0, ,55-54,B. Sensabaugh misses 3-pt jump shot from 25 ft,,2,55,54,1,1311.0
+2:06.0,Defensive rebound by J. Johnson,55-54, ,,2,55,54,1,1314.0
+2:04.0,D. Murray misses 2-pt layup from 5 ft,55-54, ,,2,55,54,1,1316.0
+2:03.0,Offensive rebound by C. Capela,55-54, ,,2,55,54,1,1317.0
+2:02.0,C. Capela makes 2-pt dunk at rim,57-54, ,,2,57,54,3,1318.0
+1:45.0, ,57-54,C. Sexton misses 3-pt jump shot from 26 ft,,2,57,54,3,1335.0
+1:44.0,Defensive rebound by Team,57-54, ,,2,57,54,3,1336.0
+1:34.0,Shooting foul by K. George (drawn by D. Murray),57-54, ,,2,57,54,3,1346.0
+1:34.0,D. Murray makes free throw 1 of 2,58-54, ,,2,58,54,4,1346.0
+1:34.0,D. Murray makes free throw 2 of 2,59-54, ,,2,59,54,5,1346.0
+1:19.0, ,59-56,K. George makes 2-pt jump shot from 14 ft,,2,59,56,3,1361.0
+1:19.0, ,59-56,Shooting foul by V. Krejci (drawn by K. George),,2,59,56,3,1361.0
+1:19.0, ,59-57,K. George makes free throw 1 of 1,,2,59,57,2,1361.0
+1:02.0,C. Capela makes 2-pt dunk from 1 ft (assist by D. Murray),61-57, ,,2,61,57,4,1378.0
+0:42.0, ,61-59,B. Sensabaugh makes 2-pt jump shot from 13 ft,,2,61,59,2,1398.0
+0:27.0,J. Johnson misses 2-pt jump shot from 9 ft,61-59, ,,2,61,59,2,1413.0
+0:25.0,Offensive rebound by C. Capela,61-59, ,,2,61,59,2,1415.0
+0:25.0,Shooting foul by W. Kessler (drawn by C. Capela),61-59, ,,2,61,59,2,1415.0
+0:25.0,C. Capela makes free throw 1 of 2,62-59, ,,2,62,59,3,1415.0
+0:25.0,C. Capela misses free throw 2 of 2,62-59, ,,2,62,59,3,1415.0
+0:24.0, ,62-59,Defensive rebound by J. Collins,,2,62,59,3,1416.0
+0:04.0, ,62-59,C. Sexton misses 2-pt jump shot from 8 ft,,2,62,59,3,1436.0
+0:04.0, ,62-59,Offensive rebound by W. Kessler,,2,62,59,3,1436.0
+0:04.0, ,62-61,W. Kessler makes 2-pt layup at rim,,2,62,61,1,1436.0
+0:00.0,D. Murray misses 3-pt jump shot from 28 ft,62-61, ,,2,62,61,1,1440.0
+0:00.0, ,62-61,Defensive rebound by B. Sensabaugh,,2,62,61,1,1440.0
+0:00.0,End of 2nd quarter,62-61,,,2,62,61,1,1440.0
+12:00.0,Start of 3rd quarter,62-61,,,3,62,61,1,1440.0
+11:37.0, ,62-64,J. Collins makes 3-pt jump shot from 24 ft (assist by B. Sensabaugh),Lead change,3,62,64,-2,1463.0
+11:16.0,D. Murray misses 2-pt jump shot from 10 ft,62-64, ,,3,62,64,-2,1484.0
+11:15.0, ,62-64,Defensive rebound by Team,,3,62,64,-2,1485.0
+10:59.0, ,62-64,J. Collins misses 2-pt jump shot from 18 ft,,3,62,64,-2,1501.0
+10:57.0,Defensive rebound by D. Murray,62-64, ,,3,62,64,-2,1503.0
+10:47.0,J. Johnson misses 2-pt dunk from 5 ft (block by J. Collins),62-64, ,,3,62,64,-2,1513.0
+10:45.0, ,62-64,Defensive rebound by T. Hendricks,,3,62,64,-2,1515.0
+10:41.0, ,62-64,T. Hendricks misses 2-pt layup from 6 ft (block by C. Capela),,3,62,64,-2,1519.0
+10:40.0,Defensive rebound by W. Matthews,62-64, ,,3,62,64,-2,1520.0
+10:36.0,J. Johnson makes 2-pt layup from 5 ft,64-64, ,Tie,3,64,64,0,1524.0
+10:36.0,Shooting foul by C. Sexton (drawn by J. Johnson),64-64, ,,3,64,64,0,1524.0
+10:36.0,J. Johnson misses free throw 1 of 1,64-64, ,,3,64,64,0,1524.0
+10:35.0, ,64-64,Defensive rebound by T. Hendricks,,3,64,64,0,1525.0
+10:22.0, ,64-66,B. Sensabaugh makes 2-pt jump shot from 12 ft (assist by K. George),,3,64,66,-2,1538.0
+10:01.0,C. Capela misses 2-pt layup from 3 ft,64-66, ,,3,64,66,-2,1559.0
+9:59.0, ,64-66,Defensive rebound by T. Hendricks,,3,64,66,-2,1561.0
+9:54.0, ,64-68,K. George makes 2-pt layup from 5 ft,,3,64,68,-4,1566.0
+9:44.0,Shooting foul by T. Hendricks (drawn by J. Johnson),64-68, ,,3,64,68,-4,1576.0
+9:44.0,J. Johnson makes free throw 1 of 2,65-68, ,,3,65,68,-3,1576.0
+9:44.0,J. Johnson makes free throw 2 of 2,66-68, ,,3,66,68,-2,1576.0
+9:28.0, ,66-68,K. George misses 2-pt jump shot from 14 ft,,3,66,68,-2,1592.0
+9:26.0,Defensive rebound by C. Capela,66-68, ,,3,66,68,-2,1594.0
+9:18.0,C. Capela misses 2-pt jump shot from 3 ft (block by T. Hendricks),66-68, ,,3,66,68,-2,1602.0
+9:16.0,Offensive rebound by C. Capela,66-68, ,,3,66,68,-2,1604.0
+9:15.0,C. Capela misses 2-pt layup from 2 ft (block by T. Hendricks),66-68, ,,3,66,68,-2,1605.0
+9:13.0,Offensive rebound by C. Capela,66-68, ,,3,66,68,-2,1607.0
+9:10.0,D. Murray misses 3-pt jump shot from 26 ft,66-68, ,,3,66,68,-2,1610.0
+9:09.0,Offensive rebound by D. Murray,66-68, ,,3,66,68,-2,1611.0
+9:09.0,J. Johnson makes 2-pt dunk from 3 ft (assist by D. Murray),68-68, ,Tie,3,68,68,0,1611.0
+9:09.0,Shooting foul by J. Collins (drawn by J. Johnson),68-68, ,,3,68,68,0,1611.0
+9:09.0,J. Johnson makes free throw 1 of 1,69-68, ,Lead change,3,69,68,1,1611.0
+8:54.0, ,69-70,B. Sensabaugh makes 2-pt jump shot from 8 ft,Lead change,3,69,70,-1,1626.0
+8:39.0,J. Johnson misses 2-pt layup from 4 ft,69-70, ,,3,69,70,-1,1641.0
+8:37.0, ,69-70,Defensive rebound by J. Collins,,3,69,70,-1,1643.0
+8:35.0, ,69-72,B. Sensabaugh makes 2-pt layup from 2 ft (assist by J. Collins),,3,69,72,-3,1645.0
+8:34.0,Atlanta full timeout,69-72, ,,3,69,72,-3,1646.0
+8:24.0,V. Krejci misses 3-pt jump shot from 26 ft,69-72, ,,3,69,72,-3,1656.0
+8:21.0,Offensive rebound by C. Capela,69-72, ,,3,69,72,-3,1659.0
+8:14.0,W. Matthews makes 2-pt jump shot from 11 ft (assist by V. Krejci),71-72, ,,3,71,72,-1,1666.0
+7:57.0, ,71-72,B. Sensabaugh misses 3-pt jump shot from 25 ft,,3,71,72,-1,1683.0
+7:55.0,Defensive rebound by Team,71-72, ,,3,71,72,-1,1685.0
+7:55.0,G. Mathews enters the game for J. Johnson,71-72, ,,3,71,72,-1,1685.0
+7:41.0,Shooting foul by T. Hendricks (drawn by D. Murray),71-72, ,,3,71,72,-1,1699.0
+7:41.0,D. Murray misses free throw 1 of 2,71-72, ,,3,71,72,-1,1699.0
+7:41.0,Offensive rebound by Team,71-72, ,,3,71,72,-1,1699.0
+7:41.0,D. Murray makes free throw 2 of 2,72-72, ,Tie,3,72,72,0,1699.0
+7:27.0, ,72-75,K. George makes 3-pt jump shot from 25 ft (assist by B. Sensabaugh),,3,72,75,-3,1713.0
+7:17.0,Personal foul by T. Hendricks (drawn by W. Matthews),72-75, ,,3,72,75,-3,1723.0
+7:17.0,W. Matthews makes free throw 1 of 2,73-75, ,,3,73,75,-2,1723.0
+7:17.0,W. Matthews makes free throw 2 of 2,74-75, ,,3,74,75,-1,1723.0
+7:07.0, ,74-75,Turnover by K. George (bad pass; steal by G. Mathews),,3,74,75,-1,1733.0
+7:03.0,G. Mathews misses 2-pt layup from 10 ft,74-75, ,,3,74,75,-1,1737.0
+7:01.0, ,74-75,Defensive rebound by B. Sensabaugh,,3,74,75,-1,1739.0
+6:58.0, ,74-75,Shooting foul by W. Matthews (drawn by B. Sensabaugh),,3,74,75,-1,1742.0
+6:58.0, ,74-76,B. Sensabaugh makes free throw 1 of 2,,3,74,76,-2,1742.0
+6:58.0, ,74-77,B. Sensabaugh makes free throw 2 of 2,,3,74,77,-3,1742.0
+6:46.0,D. Murray misses 2-pt jump shot from 20 ft,74-77, ,,3,74,77,-3,1754.0
+6:42.0, ,74-77,Defensive rebound by C. Sexton,,3,74,77,-3,1758.0
+6:39.0, ,74-77,Personal foul by V. Krejci (drawn by C. Sexton),,3,74,77,-3,1761.0
+6:24.0, ,74-79,C. Sexton makes 2-pt layup from 7 ft,,3,74,79,-5,1776.0
+6:16.0,Shooting foul by T. Hendricks (drawn by D. Murray),74-79, ,,3,74,79,-5,1784.0
+6:16.0,D. Murray makes free throw 1 of 2,75-79, ,,3,75,79,-4,1784.0
+6:16.0,B. Fernando enters the game for C. Capela,75-79, ,,3,75,79,-4,1784.0
+6:16.0,D. Hunter enters the game for W. Matthews,75-79, ,,3,75,79,-4,1784.0
+6:16.0,D. Murray makes free throw 2 of 2,76-79, ,,3,76,79,-3,1784.0
+5:56.0, ,76-81,J. Collins makes 2-pt dunk from 4 ft (assist by C. Sexton),,3,76,81,-5,1804.0
+5:40.0,D. Murray misses 3-pt jump shot from 29 ft,76-81, ,,3,76,81,-5,1820.0
+5:37.0, ,76-81,Defensive rebound by B. Sensabaugh,,3,76,81,-5,1823.0
+5:26.0, ,76-81,C. Sexton misses 3-pt jump shot from 24 ft,,3,76,81,-5,1834.0
+5:22.0,Defensive rebound by G. Mathews,76-81, ,,3,76,81,-5,1838.0
+5:09.0,G. Mathews makes 3-pt jump shot from 27 ft (assist by V. Krejci),79-81, ,,3,79,81,-2,1851.0
+4:56.0, ,79-81,Personal foul by B. Fernando (drawn by K. George),,3,79,81,-2,1864.0
+4:56.0, ,79-81,J. Juzang enters the game for B. Sensabaugh,,3,79,81,-2,1864.0
+4:42.0, ,79-83,C. Sexton makes 2-pt jump shot from 5 ft,,3,79,83,-4,1878.0
+4:28.0,D. Murray misses 2-pt jump shot from 11 ft,79-83, ,,3,79,83,-4,1892.0
+4:22.0, ,79-83,Defensive rebound by C. Sexton,,3,79,83,-4,1898.0
+4:19.0, ,79-83,Offensive foul by C. Sexton (drawn by G. Mathews),,3,79,83,-4,1901.0
+4:19.0, ,79-83,Turnover by C. Sexton (offensive foul),,3,79,83,-4,1901.0
+4:19.0, ,79-83,Utah full timeout,,3,79,83,-4,1901.0
+4:19.0, ,79-83,Technical foul by W. Hardy,,3,79,83,-4,1901.0
+4:19.0,T. Forrest enters the game for V. Krejci,79-83, ,,3,79,83,-4,1901.0
+4:19.0, ,79-83,M. Potter enters the game for T. Hendricks,,3,79,83,-4,1901.0
+4:19.0,D. Murray makes technical free throw,80-83, ,,3,80,83,-3,1901.0
+4:04.0,D. Hunter makes 2-pt jump shot from 10 ft (assist by G. Mathews),82-83, ,,3,82,83,-1,1916.0
+3:42.0, ,82-85,K. George makes 2-pt jump shot from 10 ft (assist by C. Sexton),,3,82,85,-3,1938.0
+3:42.0, ,82-85,Shooting foul by D. Hunter (drawn by K. George),,3,82,85,-3,1938.0
+3:42.0, ,82-86,K. George makes free throw 1 of 1,,3,82,86,-4,1938.0
+3:31.0,Turnover by D. Hunter (traveling),82-86, ,,3,82,86,-4,1949.0
+3:31.0, ,82-86,T. Horton-Tucker enters the game for J. Collins,,3,82,86,-4,1949.0
+3:31.0, ,82-86,W. Kessler enters the game for C. Sexton,,3,82,86,-4,1949.0
+3:13.0, ,82-86,Shooting foul by G. Mathews (drawn by K. George),,3,82,86,-4,1967.0
+3:13.0, ,82-87,K. George makes free throw 1 of 2,,3,82,87,-5,1967.0
+3:13.0, ,82-88,K. George makes free throw 2 of 2,,3,82,88,-6,1967.0
+3:05.0,D. Hunter makes 3-pt jump shot from 26 ft (assist by D. Murray),85-88, ,,3,85,88,-3,1975.0
+2:47.0, ,85-88,Shooting foul by B. Fernando (drawn by K. George),,3,85,88,-3,1993.0
+2:47.0, ,85-89,K. George makes free throw 1 of 2,,3,85,89,-4,1993.0
+2:47.0, ,85-90,K. George makes free throw 2 of 2,,3,85,90,-5,1993.0
+2:35.0,D. Hunter misses 2-pt layup from 5 ft (block by W. Kessler),85-90, ,,3,85,90,-5,2005.0
+2:30.0, ,85-90,Defensive rebound by J. Juzang,,3,85,90,-5,2010.0
+2:27.0, ,85-93,M. Potter makes 3-pt jump shot from 23 ft (assist by T. Horton-Tucker),,3,85,93,-8,2013.0
+2:26.0,Atlanta full timeout,85-93, ,,3,85,93,-8,2014.0
+2:16.0,D. Hunter makes 3-pt jump shot from 26 ft (assist by B. Fernando),88-93, ,,3,88,93,-5,2024.0
+1:58.0, ,88-93,T. Horton-Tucker misses 2-pt jump shot from 11 ft,,3,88,93,-5,2042.0
+1:55.0,Defensive rebound by B. Fernando,88-93, ,,3,88,93,-5,2045.0
+1:45.0,Turnover by D. Murray (bad pass; steal by K. George),88-93, ,,3,88,93,-5,2055.0
+1:41.0, ,88-93,Turnover by J. Juzang (step out of bounds),,3,88,93,-5,2059.0
+1:27.0,D. Hunter misses 2-pt jump shot from 21 ft,88-93, ,,3,88,93,-5,2073.0
+1:22.0, ,88-93,Defensive rebound by M. Potter,,3,88,93,-5,2078.0
+1:04.0, ,88-96,J. Juzang makes 3-pt jump shot from 26 ft (assist by K. George),,3,88,96,-8,2096.0
+0:48.0,D. Hunter makes 3-pt jump shot from 24 ft (assist by T. Forrest),91-96, ,,3,91,96,-5,2112.0
+0:33.0, ,91-96,Turnover by T. Horton-Tucker (bad pass; steal by B. Fernando),,3,91,96,-5,2127.0
+0:27.0,D. Murray makes 2-pt layup from 6 ft (assist by G. Mathews),93-96, ,,3,93,96,-3,2133.0
+0:04.0, ,93-96,W. Kessler misses 2-pt layup from 4 ft,,3,93,96,-3,2156.0
+0:04.0, ,93-96,Offensive rebound by M. Potter,,3,93,96,-3,2156.0
+0:04.0, ,93-98,M. Potter makes 2-pt dunk at rim,,3,93,98,-5,2156.0
+0:00.0,D. Murray makes 3-pt jump shot from 32 ft,96-98, ,,3,96,98,-2,2160.0
+0:00.0,Instant Replay (Request: Ruling Stands),96-98, ,,3,96,98,-2,2160.0
+0:00.0,End of 3rd quarter,96-98,,,3,96,98,-2,2160.0
+12:00.0,Start of 4th quarter,96-98,,,4,96,98,-2,2160.0
+11:38.0,Turnover by D. Hunter (lost ball; steal by T. Horton-Tucker),96-98, ,,4,96,98,-2,2182.0
+11:33.0, ,96-100,J. Juzang makes 2-pt layup from 7 ft (assist by M. Potter),,4,96,100,-4,2187.0
+11:22.0,J. Johnson misses 2-pt jump shot from 13 ft,96-100, ,,4,96,100,-4,2198.0
+11:22.0, ,96-100,Defensive rebound by J. Preston,,4,96,100,-4,2198.0
+11:14.0, ,96-100,Shooting foul by C. Capela (drawn by T. Horton-Tucker),,4,96,100,-4,2206.0
+11:14.0, ,96-101,T. Horton-Tucker makes free throw 1 of 2,,4,96,101,-5,2206.0
+11:14.0, ,96-102,T. Horton-Tucker makes free throw 2 of 2,,4,96,102,-6,2206.0
+11:00.0,J. Johnson makes 3-pt jump shot from 25 ft (assist by C. Capela),99-102, ,,4,99,102,-3,2220.0
+10:38.0, ,99-104,M. Potter makes 2-pt layup from 4 ft (assist by T. Horton-Tucker),,4,99,104,-5,2242.0
+10:24.0,Turnover by J. Johnson (traveling),99-104, ,,4,99,104,-5,2256.0
+10:01.0, ,99-107,M. Potter makes 3-pt jump shot from 25 ft (assist by W. Kessler),,4,99,107,-8,2279.0
+10:01.0, ,99-107,Shooting foul by G. Mathews (drawn by M. Potter),,4,99,107,-8,2279.0
+10:01.0,W. Matthews enters the game for G. Mathews,99-107, ,,4,99,107,-8,2279.0
+10:01.0, ,99-108,M. Potter makes free throw 1 of 1,,4,99,108,-9,2279.0
+9:43.0,D. Hunter makes 2-pt jump shot from 8 ft (assist by C. Capela),101-108, ,,4,101,108,-7,2297.0
+9:31.0, ,101-108,T. Horton-Tucker misses 2-pt layup from 9 ft,,4,101,108,-7,2309.0
+9:31.0,Defensive rebound by Team,101-108, ,,4,101,108,-7,2309.0
+9:31.0, ,101-108,Loose ball foul by M. Potter (drawn by D. Hunter),,4,101,108,-7,2309.0
+9:31.0,D. Murray enters the game for D. Hunter,101-108, ,,4,101,108,-7,2309.0
+9:17.0,T. Forrest misses 2-pt jump shot from 6 ft,101-108, ,,4,101,108,-7,2323.0
+9:15.0, ,101-108,Defensive rebound by J. Juzang,,4,101,108,-7,2325.0
+9:09.0, ,101-108,J. Juzang misses 3-pt jump shot from 26 ft,,4,101,108,-7,2331.0
+9:07.0,Defensive rebound by C. Capela,101-108, ,,4,101,108,-7,2333.0
+8:55.0,D. Murray makes 2-pt jump shot from 13 ft,103-108, ,,4,103,108,-5,2345.0
+8:38.0, ,103-108,J. Preston misses 2-pt jump shot from 9 ft,,4,103,108,-5,2362.0
+8:36.0,Defensive rebound by W. Matthews,103-108, ,,4,103,108,-5,2364.0
+8:24.0,D. Murray misses 3-pt jump shot from 24 ft,103-108, ,,4,103,108,-5,2376.0
+8:21.0, ,103-108,Defensive rebound by W. Kessler,,4,103,108,-5,2379.0
+8:19.0, ,103-108,Turnover by W. Kessler (bad pass; steal by D. Murray),,4,103,108,-5,2381.0
+8:15.0,J. Johnson makes 3-pt jump shot from 29 ft (assist by T. Forrest),106-108, ,,4,106,108,-2,2385.0
+8:13.0, ,106-108,Utah full timeout,,4,106,108,-2,2387.0
+8:13.0, ,106-108,C. Sexton enters the game for M. Potter,,4,106,108,-2,2387.0
+7:56.0, ,106-110,C. Sexton makes 2-pt jump shot from 20 ft,,4,106,110,-4,2404.0
+7:41.0,J. Johnson misses 2-pt jump shot from 8 ft,106-110, ,,4,106,110,-4,2419.0
+7:40.0,Offensive rebound by J. Johnson,106-110, ,,4,106,110,-4,2420.0
+7:39.0,J. Johnson misses 2-pt jump shot from 8 ft,106-110, ,,4,106,110,-4,2421.0
+7:38.0, ,106-110,Defensive rebound by W. Kessler,,4,106,110,-4,2422.0
+7:24.0, ,106-113,J. Juzang makes 3-pt jump shot from 23 ft (assist by C. Sexton),,4,106,113,-7,2436.0
+7:04.0,Turnover by D. Murray (bad pass; steal by C. Sexton),106-113, ,,4,106,113,-7,2456.0
+7:01.0, ,106-116,C. Sexton makes 3-pt jump shot from 25 ft,,4,106,116,-10,2459.0
+6:59.0,Atlanta full timeout,106-116, ,,4,106,116,-10,2461.0
+6:59.0,D. Hunter enters the game for T. Forrest,106-116, ,,4,106,116,-10,2461.0
+6:59.0,V. Krejci enters the game for W. Matthews,106-116, ,,4,106,116,-10,2461.0
+6:59.0, ,106-116,J. Collins enters the game for J. Preston,,4,106,116,-10,2461.0
+6:39.0,D. Murray makes 2-pt jump shot from 7 ft,108-116, ,,4,108,116,-8,2481.0
+6:21.0, ,108-116,C. Sexton misses 2-pt jump shot from 17 ft,,4,108,116,-8,2499.0
+6:18.0,Defensive rebound by C. Capela,108-116, ,,4,108,116,-8,2502.0
+6:08.0,D. Murray misses 2-pt layup from 4 ft,108-116, ,,4,108,116,-8,2512.0
+6:07.0, ,108-116,Defensive rebound by W. Kessler,,4,108,116,-8,2513.0
+5:54.0, ,108-116,C. Sexton misses 3-pt jump shot from 25 ft,,4,108,116,-8,2526.0
+5:50.0,Defensive rebound by D. Hunter,108-116, ,,4,108,116,-8,2530.0
+5:46.0,Shooting foul by J. Collins (drawn by D. Murray),108-116, ,,4,108,116,-8,2534.0
+5:46.0,D. Murray makes free throw 1 of 2,109-116, ,,4,109,116,-7,2534.0
+5:46.0,G. Mathews enters the game for J. Johnson,109-116, ,,4,109,116,-7,2534.0
+5:46.0, ,109-116,K. George enters the game for T. Horton-Tucker,,4,109,116,-7,2534.0
+5:46.0, ,109-116,B. Sensabaugh enters the game for W. Kessler,,4,109,116,-7,2534.0
+5:46.0,D. Murray makes free throw 2 of 2,110-116, ,,4,110,116,-6,2534.0
+5:34.0, ,110-116,K. George misses 2-pt jump shot from 11 ft,,4,110,116,-6,2546.0
+5:31.0,Defensive rebound by C. Capela,110-116, ,,4,110,116,-6,2549.0
+5:16.0,D. Hunter misses 2-pt jump shot from 23 ft,110-116, ,,4,110,116,-6,2564.0
+5:11.0, ,110-116,Defensive rebound by J. Collins,,4,110,116,-6,2569.0
+4:51.0, ,110-116,Turnover by Team (shot clock),,4,110,116,-6,2589.0
+4:51.0,J. Johnson enters the game for G. Mathews,110-116, ,,4,110,116,-6,2589.0
+4:37.0,D. Murray misses 3-pt jump shot from 26 ft,110-116, ,,4,110,116,-6,2603.0
+4:34.0, ,110-116,Defensive rebound by C. Sexton,,4,110,116,-6,2606.0
+4:18.0, ,110-118,J. Juzang makes 2-pt layup from 5 ft (assist by C. Sexton),,4,110,118,-8,2622.0
+3:56.0,C. Capela makes 2-pt dunk from 4 ft (assist by J. Johnson),112-118, ,,4,112,118,-6,2644.0
+3:38.0, ,112-120,K. George makes 2-pt jump shot from 8 ft,,4,112,120,-8,2662.0
+3:23.0,J. Johnson misses 2-pt layup from 5 ft,112-120, ,,4,112,120,-8,2677.0
+3:21.0, ,112-120,Defensive rebound by J. Collins,,4,112,120,-8,2679.0
+3:14.0, ,112-120,K. George misses 3-pt jump shot from 26 ft,,4,112,120,-8,2686.0
+3:12.0,Defensive rebound by C. Capela,112-120, ,,4,112,120,-8,2688.0
+3:03.0,D. Murray misses 2-pt jump shot from 9 ft,112-120, ,,4,112,120,-8,2697.0
+3:02.0,Offensive rebound by Team,112-120, ,,4,112,120,-8,2698.0
+3:02.0, ,112-120,Loose ball foul by J. Collins (drawn by C. Capela),,4,112,120,-8,2698.0
+2:54.0,Shooting foul by J. Collins (drawn by J. Johnson),112-120, ,,4,112,120,-8,2706.0
+2:54.0,J. Johnson makes free throw 1 of 2,113-120, ,,4,113,120,-7,2706.0
+2:54.0,J. Johnson makes free throw 2 of 2,114-120, ,,4,114,120,-6,2706.0
+2:42.0, ,114-120,K. George misses 3-pt jump shot from 25 ft,,4,114,120,-6,2718.0
+2:41.0,Defensive rebound by J. Johnson,114-120, ,,4,114,120,-6,2719.0
+2:40.0,Turnover by J. Johnson (lost ball; steal by C. Sexton),114-120, ,,4,114,120,-6,2720.0
+2:36.0, ,114-122,C. Sexton makes 2-pt dunk from 1 ft,,4,114,122,-8,2724.0
+2:22.0,D. Murray makes 2-pt layup from 7 ft,116-122, ,,4,116,122,-6,2738.0
+2:07.0, ,116-122,Personal foul by V. Krejci (drawn by K. George),,4,116,122,-6,2753.0
+1:56.0, ,116-124,K. George makes 2-pt layup from 5 ft,,4,116,124,-8,2764.0
+1:45.0,D. Murray makes 3-pt jump shot from 28 ft (assist by D. Hunter),119-124, ,,4,119,124,-5,2775.0
+1:25.0, ,119-124,Turnover by K. George (bad pass; steal by V. Krejci),,4,119,124,-5,2795.0
+1:18.0,D. Murray makes 3-pt jump shot from 28 ft,122-124, ,,4,122,124,-2,2802.0
+0:58.0, ,122-124,C. Sexton misses 2-pt jump shot from 8 ft,,4,122,124,-2,2822.0
+0:56.0,Defensive rebound by D. Murray,122-124, ,,4,122,124,-2,2824.0
+0:49.0,D. Murray misses 3-pt jump shot from 26 ft,122-124, ,,4,122,124,-2,2831.0
+0:47.0,Offensive rebound by D. Murray,122-124, ,,4,122,124,-2,2833.0
+0:35.0,D. Murray misses 3-pt jump shot from 28 ft,122-124, ,,4,122,124,-2,2845.0
+0:31.0, ,122-124,Defensive rebound by J. Collins,,4,122,124,-2,2849.0
+0:16.0, ,122-124,Utah full timeout,,4,122,124,-2,2864.0
+0:09.0, ,122-124,K. George misses 3-pt jump shot from 23 ft,,4,122,124,-2,2871.0
+0:08.0, ,122-124,Offensive rebound by Team,,4,122,124,-2,2872.0
+0:08.0, ,122-124,Turnover by Team (shot clock),,4,122,124,-2,2872.0
+0:08.0, ,122-124,Instant Replay (Request: Ruling Stands),,4,122,124,-2,2872.0
+0:08.0, ,122-124,T. Hendricks enters the game for J. Juzang,,4,122,124,-2,2872.0
+0:08.0, ,122-124,W. Kessler enters the game for B. Sensabaugh,,4,122,124,-2,2872.0
+0:08.0,Atlanta full timeout,122-124, ,,4,122,124,-2,2872.0
+0:01.0,V. Krejci misses 3-pt jump shot from 26 ft,122-124, ,,4,122,124,-2,2879.0
+0:01.0,Offensive rebound by Team,122-124, ,,4,122,124,-2,2879.0
+0:00.0,End of 4th quarter,122-124,,,4,122,124,-2,2880.0

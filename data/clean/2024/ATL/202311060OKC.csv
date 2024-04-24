@@ -1,0 +1,513 @@
+Time,Atlanta,Score,Oklahoma City,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. C. Holmgren (J. Giddey gains possession),0-0,,,1,0,0,0,0.0
+11:40.0, ,0-2,C. Holmgren makes 2-pt hook shot from 4 ft (assist by L. Dort),,1,0,2,-2,20.0
+11:20.0,Turnover by T. Young (lost ball; steal by C. Holmgren),0-2, ,,1,0,2,-2,40.0
+11:04.0, ,0-2,L. Dort misses 2-pt jump shot from 8 ft,,1,0,2,-2,56.0
+11:02.0,Defensive rebound by T. Young,0-2, ,,1,0,2,-2,58.0
+10:55.0,D. Hunter misses 3-pt jump shot from 24 ft,0-2, ,,1,0,2,-2,65.0
+10:53.0, ,0-2,Defensive rebound by L. Dort,,1,0,2,-2,67.0
+10:46.0, ,0-2,J. Giddey misses 2-pt layup from 4 ft (block by C. Capela),,1,0,2,-2,74.0
+10:42.0,Defensive rebound by J. Johnson,0-2, ,,1,0,2,-2,78.0
+10:35.0,D. Murray misses 3-pt jump shot from 23 ft,0-2, ,,1,0,2,-2,85.0
+10:31.0, ,0-2,Defensive rebound by C. Holmgren,,1,0,2,-2,89.0
+10:27.0, ,0-5,L. Dort makes 3-pt jump shot from 24 ft (assist by J. Giddey),,1,0,5,-5,93.0
+10:09.0,T. Young makes 2-pt layup from 5 ft (assist by J. Johnson),2-5, ,,1,2,5,-3,111.0
+9:57.0, ,2-5,C. Holmgren misses 2-pt layup from 4 ft,,1,2,5,-3,123.0
+9:56.0,Defensive rebound by C. Capela,2-5, ,,1,2,5,-3,124.0
+9:51.0,T. Young misses 3-pt jump shot from 30 ft,2-5, ,,1,2,5,-3,129.0
+9:47.0,Offensive rebound by T. Young,2-5, ,,1,2,5,-3,133.0
+9:37.0,C. Capela misses 2-pt layup from 1 ft,2-5, ,,1,2,5,-3,143.0
+9:36.0,Offensive rebound by J. Johnson,2-5, ,,1,2,5,-3,144.0
+9:36.0,J. Johnson misses 2-pt layup at rim,2-5, ,,1,2,5,-3,144.0
+9:36.0,Offensive rebound by C. Capela,2-5, ,,1,2,5,-3,144.0
+9:36.0,Shooting foul by S. Gilgeous-Alexander (drawn by C. Capela),2-5, ,,1,2,5,-3,144.0
+9:36.0,C. Capela makes free throw 1 of 2,3-5, ,,1,3,5,-2,144.0
+9:36.0,C. Capela misses free throw 2 of 2,3-5, ,,1,3,5,-2,144.0
+9:36.0, ,3-5,Defensive rebound by C. Holmgren,,1,3,5,-2,144.0
+9:31.0,Violation by Team (kicked ball),3-5, ,,1,3,5,-2,149.0
+9:24.0, ,3-8,J. Williams makes 3-pt jump shot from 23 ft,,1,3,8,-5,156.0
+9:09.0,D. Hunter misses 2-pt jump shot from 17 ft,3-8, ,,1,3,8,-5,171.0
+9:07.0, ,3-8,Defensive rebound by S. Gilgeous-Alexander,,1,3,8,-5,173.0
+8:56.0, ,3-11,L. Dort makes 3-pt jump shot from 25 ft (assist by C. Holmgren),,1,3,11,-8,184.0
+8:36.0,Shooting foul by J. Williams (drawn by D. Murray),3-11, ,,1,3,11,-8,204.0
+8:36.0,D. Murray makes free throw 1 of 2,4-11, ,,1,4,11,-7,204.0
+8:36.0, ,4-11,A. Wiggins enters the game for J. Williams,,1,4,11,-7,204.0
+8:36.0,D. Murray makes free throw 2 of 2,5-11, ,,1,5,11,-6,204.0
+8:13.0, ,5-11,J. Giddey misses 2-pt layup from 3 ft (block by J. Johnson),,1,5,11,-6,227.0
+8:13.0, ,5-11,Offensive rebound by Team,,1,5,11,-6,227.0
+8:13.0, ,5-11,J. Williams enters the game for A. Wiggins,,1,5,11,-6,227.0
+8:11.0, ,5-11,Turnover by J. Giddey (bad pass; steal by C. Capela),,1,5,11,-6,229.0
+8:06.0,D. Murray misses 2-pt jump shot from 17 ft,5-11, ,,1,5,11,-6,234.0
+8:04.0, ,5-11,Defensive rebound by S. Gilgeous-Alexander,,1,5,11,-6,236.0
+7:57.0, ,5-11,Turnover by S. Gilgeous-Alexander (lost ball; steal by D. Murray),,1,5,11,-6,243.0
+7:51.0,D. Murray misses 2-pt layup from 6 ft,5-11, ,,1,5,11,-6,249.0
+7:45.0,Offensive rebound by J. Johnson,5-11, ,,1,5,11,-6,255.0
+7:43.0,J. Johnson misses 2-pt layup from 5 ft (block by C. Holmgren),5-11, ,,1,5,11,-6,257.0
+7:40.0, ,5-11,Defensive rebound by S. Gilgeous-Alexander,,1,5,11,-6,260.0
+7:38.0, ,5-13,J. Giddey makes 2-pt layup from 2 ft (assist by J. Williams),,1,5,13,-8,262.0
+7:26.0,D. Hunter misses 3-pt jump shot from 23 ft,5-13, ,,1,5,13,-8,274.0
+7:23.0, ,5-13,Defensive rebound by J. Giddey,,1,5,13,-8,277.0
+7:01.0, ,5-13,J. Giddey misses 2-pt jump shot from 6 ft,,1,5,13,-8,299.0
+6:59.0,Defensive rebound by C. Capela,5-13, ,,1,5,13,-8,301.0
+6:52.0,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Young),8-13, ,,1,8,13,-5,308.0
+6:33.0, ,8-15,J. Williams makes 2-pt dunk from 1 ft (assist by J. Giddey),,1,8,15,-7,327.0
+6:17.0,J. Johnson misses 3-pt jump shot from 23 ft,8-15, ,,1,8,15,-7,343.0
+6:14.0, ,8-15,Defensive rebound by C. Holmgren,,1,8,15,-7,346.0
+6:09.0, ,8-15,C. Holmgren misses 2-pt layup from 3 ft (block by C. Capela),,1,8,15,-7,351.0
+6:06.0,Defensive rebound by J. Johnson,8-15, ,,1,8,15,-7,354.0
+6:03.0,T. Young makes 2-pt layup from 2 ft (assist by J. Johnson),10-15, ,,1,10,15,-5,357.0
+5:47.0, ,10-17,L. Dort makes 2-pt jump shot from 7 ft (assist by S. Gilgeous-Alexander),,1,10,17,-7,373.0
+5:47.0,Atlanta full timeout,10-17, ,,1,10,17,-7,373.0
+5:47.0,S. Bey enters the game for J. Johnson,10-17, ,,1,10,17,-7,373.0
+5:47.0,B. Bogdanović enters the game for T. Young,10-17, ,,1,10,17,-7,373.0
+5:47.0, ,10-17,I. Joe enters the game for J. Giddey,,1,10,17,-7,373.0
+5:47.0, ,10-17,J. Williams enters the game for C. Holmgren,,1,10,17,-7,373.0
+5:32.0,D. Hunter misses 2-pt jump shot from 6 ft,10-17, ,,1,10,17,-7,388.0
+5:31.0, ,10-17,Defensive rebound by I. Joe,,1,10,17,-7,389.0
+5:22.0, ,10-17,J. Williams misses 2-pt layup from 2 ft,,1,10,17,-7,398.0
+5:19.0,Defensive rebound by D. Hunter,10-17, ,,1,10,17,-7,401.0
+5:15.0,S. Bey makes 3-pt jump shot from 27 ft (assist by B. Bogdanović),13-17, ,,1,13,17,-4,405.0
+4:49.0, ,13-20,S. Gilgeous-Alexander makes 3-pt jump shot from 26 ft,,1,13,20,-7,431.0
+4:36.0,B. Bogdanović makes 2-pt jump shot from 13 ft (assist by D. Murray),15-20, ,,1,15,20,-5,444.0
+4:26.0, ,15-20,I. Joe misses 3-pt jump shot from 27 ft,,1,15,20,-5,454.0
+4:23.0,Defensive rebound by C. Capela,15-20, ,,1,15,20,-5,457.0
+4:09.0,Turnover by D. Murray (bad pass; steal by J. Williams),15-20, ,,1,15,20,-5,471.0
+4:02.0, ,15-20,S. Gilgeous-Alexander misses 2-pt jump shot from 8 ft,,1,15,20,-5,478.0
+4:00.0,Defensive rebound by C. Capela,15-20, ,,1,15,20,-5,480.0
+3:43.0,C. Capela makes 2-pt dunk from 2 ft (assist by S. Bey),17-20, ,,1,17,20,-3,497.0
+3:27.0, ,17-20,S. Gilgeous-Alexander misses 3-pt jump shot from 26 ft,,1,17,20,-3,513.0
+3:24.0,Defensive rebound by S. Bey,17-20, ,,1,17,20,-3,516.0
+3:13.0,D. Murray makes 2-pt jump shot from 5 ft,19-20, ,,1,19,20,-1,527.0
+3:13.0, ,19-20,Oklahoma City full timeout,,1,19,20,-1,527.0
+3:13.0,J. Johnson enters the game for C. Capela,19-20, ,,1,19,20,-1,527.0
+3:13.0,O. Okongwu enters the game for D. Hunter,19-20, ,,1,19,20,-1,527.0
+3:13.0,T. Young enters the game for D. Murray,19-20, ,,1,19,20,-1,527.0
+3:13.0, ,19-20,C. Wallace enters the game for L. Dort,,1,19,20,-1,527.0
+3:13.0, ,19-20,A. Wiggins enters the game for J. Williams,,1,19,20,-1,527.0
+3:01.0, ,19-22,A. Wiggins makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander),,1,19,22,-3,539.0
+2:44.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),22-22, ,Tie,1,22,22,0,556.0
+2:17.0, ,22-25,A. Wiggins makes 3-pt jump shot from 26 ft,,1,22,25,-3,583.0
+1:56.0,T. Young misses 2-pt jump shot from 23 ft,22-25, ,,1,22,25,-3,604.0
+1:56.0,Offensive rebound by Team,22-25, ,,1,22,25,-3,604.0
+1:56.0, ,22-25,Loose ball foul by J. Williams (drawn by O. Okongwu),,1,22,25,-3,604.0
+1:49.0,B. Bogdanović misses 3-pt jump shot from 28 ft,22-25, ,,1,22,25,-3,611.0
+1:45.0, ,22-25,Defensive rebound by J. Williams,,1,22,25,-3,615.0
+1:35.0, ,22-27,S. Gilgeous-Alexander makes 2-pt layup from 3 ft,,1,22,27,-5,625.0
+1:23.0,Turnover by T. Young (bad pass),22-27, ,,1,22,27,-5,637.0
+1:23.0, ,22-27,C. Holmgren enters the game for J. Williams,,1,22,27,-5,637.0
+1:17.0, ,22-27,S. Gilgeous-Alexander misses 2-pt jump shot from 14 ft,,1,22,27,-5,643.0
+1:13.0,Defensive rebound by T. Young,22-27, ,,1,22,27,-5,647.0
+1:04.0,J. Johnson makes 2-pt dunk from 3 ft (assist by T. Young),24-27, ,,1,24,27,-3,656.0
+0:56.0, ,24-27,C. Holmgren misses 3-pt jump shot from 25 ft,,1,24,27,-3,664.0
+0:54.0,Defensive rebound by J. Johnson,24-27, ,,1,24,27,-3,666.0
+0:48.0,B. Bogdanović makes 2-pt layup from 3 ft (assist by T. Young),26-27, ,,1,26,27,-1,672.0
+0:48.0, ,26-27,J. Giddey enters the game for A. Wiggins,,1,26,27,-1,672.0
+0:27.0, ,26-27,Shooting foul by O. Okongwu (drawn by C. Holmgren),,1,26,27,-1,693.0
+0:27.0, ,26-28,C. Holmgren makes free throw 1 of 2,,1,26,28,-2,693.0
+0:27.0, ,26-28,A. Wiggins enters the game for J. Giddey,,1,26,28,-2,693.0
+0:27.0, ,26-29,C. Holmgren makes free throw 2 of 2,,1,26,29,-3,693.0
+0:04.0,B. Bogdanović misses 2-pt jump shot from 21 ft,26-29, ,,1,26,29,-3,716.0
+0:00.0,Offensive rebound by S. Bey,26-29, ,,1,26,29,-3,720.0
+0:00.0,S. Bey misses 2-pt jump shot from 8 ft,26-29, ,,1,26,29,-3,720.0
+0:00.0,Offensive rebound by J. Johnson,26-29, ,,1,26,29,-3,720.0
+0:00.0,J. Johnson makes 2-pt layup at rim,28-29, ,,1,28,29,-1,720.0
+0:00.0,End of 1st quarter,28-29,,,1,28,29,-1,720.0
+12:00.0,Start of 2nd quarter,28-29,,,2,28,29,-1,720.0
+11:40.0,T. Young misses 2-pt jump shot from 12 ft,28-29, ,,2,28,29,-1,740.0
+11:36.0, ,28-29,Defensive rebound by C. Holmgren,,2,28,29,-1,744.0
+11:14.0, ,28-29,J. Giddey misses 2-pt layup from 2 ft,,2,28,29,-1,766.0
+11:13.0,Defensive rebound by O. Okongwu,28-29, ,,2,28,29,-1,767.0
+11:04.0,O. Okongwu misses 2-pt layup from 5 ft,28-29, ,,2,28,29,-1,776.0
+11:03.0, ,28-29,Defensive rebound by C. Holmgren,,2,28,29,-1,777.0
+10:46.0, ,28-29,C. Holmgren misses 2-pt jump shot from 8 ft,,2,28,29,-1,794.0
+10:44.0,Defensive rebound by G. Mathews,28-29, ,,2,28,29,-1,796.0
+10:33.0,Turnover by T. Young (bad pass),28-29, ,,2,28,29,-1,807.0
+10:21.0, ,28-29,Oklahoma City full timeout,,2,28,29,-1,819.0
+10:14.0, ,28-32,O. Dieng makes 3-pt jump shot from 26 ft (assist by C. Wallace),,2,28,32,-4,826.0
+9:56.0,Turnover by S. Bey (bad pass; steal by C. Wallace),28-32, ,,2,28,32,-4,844.0
+9:54.0, ,28-34,C. Wallace makes 2-pt dunk from 3 ft,,2,28,34,-6,846.0
+9:44.0,Shooting foul by C. Holmgren (drawn by T. Young),28-34, ,,2,28,34,-6,856.0
+9:44.0,T. Young makes free throw 1 of 2,29-34, ,,2,29,34,-5,856.0
+9:44.0,T. Young makes free throw 2 of 2,30-34, ,,2,30,34,-4,856.0
+9:22.0, ,30-34,C. Wallace misses 3-pt jump shot from 25 ft,,2,30,34,-4,878.0
+9:22.0, ,30-34,Offensive rebound by J. Giddey,,2,30,34,-4,878.0
+9:08.0, ,30-34,J. Williams misses 2-pt jump shot from 8 ft,,2,30,34,-4,892.0
+9:04.0, ,30-34,Offensive rebound by O. Dieng,,2,30,34,-4,896.0
+9:04.0, ,30-34,O. Dieng misses 2-pt layup at rim,,2,30,34,-4,896.0
+9:04.0,Defensive rebound by B. Bogdanović,30-34, ,,2,30,34,-4,896.0
+8:58.0,T. Young misses 3-pt jump shot from 26 ft,30-34, ,,2,30,34,-4,902.0
+8:56.0, ,30-34,Defensive rebound by Team,,2,30,34,-4,904.0
+8:49.0, ,30-34,Turnover by J. Williams (bad pass; steal by B. Bogdanović),,2,30,34,-4,911.0
+8:44.0,B. Bogdanović misses 2-pt layup from 3 ft (block by J. Williams),30-34, ,,2,30,34,-4,916.0
+8:41.0,Offensive rebound by O. Okongwu,30-34, ,,2,30,34,-4,919.0
+8:35.0,G. Mathews misses 3-pt jump shot from 29 ft,30-34, ,,2,30,34,-4,925.0
+8:33.0,Offensive rebound by S. Bey,30-34, ,,2,30,34,-4,927.0
+8:31.0,S. Bey misses 2-pt layup from 4 ft,30-34, ,,2,30,34,-4,929.0
+8:27.0,Offensive rebound by S. Bey,30-34, ,,2,30,34,-4,933.0
+8:26.0,B. Bogdanović misses 3-pt jump shot from 26 ft,30-34, ,,2,30,34,-4,934.0
+8:24.0, ,30-34,Defensive rebound by J. Giddey,,2,30,34,-4,936.0
+8:19.0, ,30-34,Turnover by J. Giddey (bad pass; steal by B. Bogdanović),,2,30,34,-4,941.0
+8:01.0,G. Mathews misses 3-pt jump shot from 24 ft,30-34, ,,2,30,34,-4,959.0
+7:58.0, ,30-34,Defensive rebound by C. Holmgren,,2,30,34,-4,962.0
+7:53.0, ,30-36,C. Wallace makes 2-pt layup from 3 ft (assist by C. Holmgren),,2,30,36,-6,967.0
+7:53.0,Atlanta full timeout,30-36, ,,2,30,36,-6,967.0
+7:53.0,D. Hunter enters the game for G. Mathews,30-36, ,,2,30,36,-6,967.0
+7:53.0,D. Murray enters the game for T. Young,30-36, ,,2,30,36,-6,967.0
+7:42.0,O. Okongwu misses 3-pt jump shot from 24 ft,30-36, ,,2,30,36,-6,978.0
+7:39.0, ,30-36,Defensive rebound by O. Dieng,,2,30,36,-6,981.0
+7:26.0, ,30-38,J. Giddey makes 2-pt jump shot from 6 ft,,2,30,38,-8,994.0
+7:12.0,S. Bey misses 3-pt jump shot from 25 ft,30-38, ,,2,30,38,-8,1008.0
+7:10.0, ,30-38,Defensive rebound by J. Williams,,2,30,38,-8,1010.0
+7:04.0, ,30-38,J. Williams misses 3-pt jump shot from 25 ft,,2,30,38,-8,1016.0
+7:02.0,Defensive rebound by S. Bey,30-38, ,,2,30,38,-8,1018.0
+6:51.0,D. Murray misses 2-pt jump shot from 6 ft,30-38, ,,2,30,38,-8,1029.0
+6:49.0, ,30-38,Defensive rebound by J. Williams,,2,30,38,-8,1031.0
+6:36.0, ,30-38,C. Wallace misses 3-pt jump shot from 26 ft,,2,30,38,-8,1044.0
+6:31.0,Defensive rebound by D. Murray,30-38, ,,2,30,38,-8,1049.0
+6:25.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by D. Murray),33-38, ,,2,33,38,-5,1055.0
+6:09.0, ,33-38,J. Giddey misses 2-pt jump shot from 6 ft,,2,33,38,-5,1071.0
+6:07.0,Defensive rebound by O. Okongwu,33-38, ,,2,33,38,-5,1073.0
+5:53.0,S. Bey makes 2-pt layup from 5 ft,35-38, ,,2,35,38,-3,1087.0
+5:42.0, ,35-38,O. Dieng misses 2-pt jump shot from 10 ft,,2,35,38,-3,1098.0
+5:41.0,Defensive rebound by D. Hunter,35-38, ,,2,35,38,-3,1099.0
+5:36.0,Shooting foul by C. Holmgren (drawn by D. Hunter),35-38, ,,2,35,38,-3,1104.0
+5:36.0,D. Hunter makes free throw 1 of 2,36-38, ,,2,36,38,-2,1104.0
+5:36.0,C. Capela enters the game for S. Bey,36-38, ,,2,36,38,-2,1104.0
+5:36.0,J. Johnson enters the game for O. Okongwu,36-38, ,,2,36,38,-2,1104.0
+5:36.0, ,36-38,L. Dort enters the game for O. Dieng,,2,36,38,-2,1104.0
+5:36.0, ,36-38,S. Gilgeous-Alexander enters the game for J. Giddey,,2,36,38,-2,1104.0
+5:36.0, ,36-38,I. Joe enters the game for J. Williams,,2,36,38,-2,1104.0
+5:36.0,D. Hunter misses free throw 2 of 2,36-38, ,,2,36,38,-2,1104.0
+5:35.0, ,36-38,Defensive rebound by S. Gilgeous-Alexander,,2,36,38,-2,1105.0
+5:17.0, ,36-38,Turnover by C. Wallace (step out of bounds),,2,36,38,-2,1123.0
+5:03.0,D. Murray misses 2-pt jump shot from 22 ft,36-38, ,,2,36,38,-2,1137.0
+4:59.0,Offensive rebound by C. Capela,36-38, ,,2,36,38,-2,1141.0
+4:58.0,C. Capela misses 2-pt layup at rim,36-38, ,,2,36,38,-2,1142.0
+4:58.0,Offensive rebound by C. Capela,36-38, ,,2,36,38,-2,1142.0
+4:58.0,C. Capela misses 2-pt layup from 1 ft,36-38, ,,2,36,38,-2,1142.0
+4:58.0, ,36-38,Defensive rebound by I. Joe,,2,36,38,-2,1142.0
+4:50.0, ,36-41,C. Holmgren makes 3-pt jump shot from 25 ft (assist by I. Joe),,2,36,41,-5,1150.0
+4:30.0,D. Hunter makes 3-pt jump shot from 26 ft (assist by J. Johnson),39-41, ,,2,39,41,-2,1170.0
+4:15.0, ,39-41,C. Holmgren misses 3-pt jump shot from 24 ft,,2,39,41,-2,1185.0
+4:13.0,Defensive rebound by J. Johnson,39-41, ,,2,39,41,-2,1187.0
+4:07.0,J. Johnson misses 3-pt jump shot from 26 ft,39-41, ,,2,39,41,-2,1193.0
+4:04.0, ,39-41,Defensive rebound by C. Wallace,,2,39,41,-2,1196.0
+3:59.0, ,39-44,S. Gilgeous-Alexander makes 3-pt jump shot from 26 ft,,2,39,44,-5,1201.0
+3:57.0,Atlanta full timeout,39-44, ,,2,39,44,-5,1203.0
+3:57.0,Instant Replay,39-44, ,,2,39,44,-5,1203.0
+3:57.0,T. Young enters the game for B. Bogdanović,39-44, ,,2,39,44,-5,1203.0
+3:57.0, ,39-44,J. Williams enters the game for C. Holmgren,,2,39,44,-5,1203.0
+3:38.0,D. Hunter misses 3-pt jump shot from 26 ft,39-44, ,,2,39,44,-5,1222.0
+3:33.0, ,39-44,Defensive rebound by L. Dort,,2,39,44,-5,1227.0
+3:25.0, ,39-46,S. Gilgeous-Alexander makes 2-pt layup from 3 ft,,2,39,46,-7,1235.0
+3:16.0,J. Johnson misses 3-pt jump shot from 23 ft,39-46, ,,2,39,46,-7,1244.0
+3:13.0, ,39-46,Defensive rebound by L. Dort,,2,39,46,-7,1247.0
+3:04.0, ,39-46,L. Dort misses 3-pt jump shot from 25 ft,,2,39,46,-7,1256.0
+3:00.0,Defensive rebound by D. Murray,39-46, ,,2,39,46,-7,1260.0
+2:57.0,Turnover by D. Murray (bad pass; steal by S. Gilgeous-Alexander),39-46, ,,2,39,46,-7,1263.0
+2:54.0, ,39-48,J. Williams makes 2-pt dunk from 2 ft (assist by I. Joe),,2,39,48,-9,1266.0
+2:29.0,D. Hunter misses 2-pt jump shot from 14 ft,39-48, ,,2,39,48,-9,1291.0
+2:27.0,Offensive rebound by J. Johnson,39-48, ,,2,39,48,-9,1293.0
+2:27.0,J. Johnson misses 2-pt layup from 4 ft,39-48, ,,2,39,48,-9,1293.0
+2:27.0,Offensive rebound by C. Capela,39-48, ,,2,39,48,-9,1293.0
+2:27.0, ,39-48,J. Giddey enters the game for I. Joe,,2,39,48,-9,1293.0
+2:27.0, ,39-48,C. Holmgren enters the game for C. Wallace,,2,39,48,-9,1293.0
+2:27.0,Shooting foul by L. Dort (drawn by C. Capela),39-48, ,,2,39,48,-9,1293.0
+2:27.0,C. Capela makes free throw 1 of 2,40-48, ,,2,40,48,-8,1293.0
+2:27.0,C. Capela misses free throw 2 of 2,40-48, ,,2,40,48,-8,1293.0
+2:27.0, ,40-48,Defensive rebound by C. Holmgren,,2,40,48,-8,1293.0
+2:13.0,Technical foul by J. Johnson,40-48, ,,2,40,48,-8,1307.0
+2:13.0, ,40-49,J. Williams makes technical free throw,,2,40,49,-9,1307.0
+2:13.0, ,40-49,Shooting foul by J. Johnson (drawn by J. Williams),,2,40,49,-9,1307.0
+2:13.0, ,40-50,J. Williams makes free throw 1 of 2,,2,40,50,-10,1307.0
+2:13.0, ,40-51,J. Williams makes free throw 2 of 2,,2,40,51,-11,1307.0
+2:05.0,T. Young misses 2-pt jump shot from 13 ft,40-51, ,,2,40,51,-11,1315.0
+2:02.0,Offensive rebound by D. Murray,40-51, ,,2,40,51,-11,1318.0
+1:49.0,D. Hunter misses 2-pt dunk from 3 ft (block by C. Holmgren),40-51, ,,2,40,51,-11,1331.0
+1:46.0, ,40-51,Defensive rebound by S. Gilgeous-Alexander,,2,40,51,-11,1334.0
+1:42.0, ,40-51,J. Giddey misses 2-pt layup from 3 ft,,2,40,51,-11,1338.0
+1:38.0, ,40-51,Offensive rebound by L. Dort,,2,40,51,-11,1342.0
+1:38.0, ,40-53,L. Dort makes 2-pt layup at rim,,2,40,53,-13,1342.0
+1:34.0,Shooting foul by S. Gilgeous-Alexander (drawn by D. Murray),40-53, ,,2,40,53,-13,1346.0
+1:34.0,D. Murray makes free throw 1 of 2,41-53, ,,2,41,53,-12,1346.0
+1:34.0,D. Murray makes free throw 2 of 2,42-53, ,,2,42,53,-11,1346.0
+1:29.0, ,42-53,Turnover by S. Gilgeous-Alexander (bad pass; steal by J. Johnson),,2,42,53,-11,1351.0
+1:23.0,D. Hunter misses 3-pt jump shot from 24 ft,42-53, ,,2,42,53,-11,1357.0
+1:20.0,Offensive rebound by J. Johnson,42-53, ,,2,42,53,-11,1360.0
+1:20.0,Personal foul by S. Gilgeous-Alexander (drawn by D. Hunter),42-53, ,,2,42,53,-11,1360.0
+1:20.0,D. Hunter makes free throw 1 of 2,43-53, ,,2,43,53,-10,1360.0
+1:20.0,D. Hunter makes free throw 2 of 2,44-53, ,,2,44,53,-9,1360.0
+0:59.0, ,44-53,J. Giddey misses 2-pt jump shot from 3 ft,,2,44,53,-9,1381.0
+0:58.0, ,44-53,Offensive rebound by C. Holmgren,,2,44,53,-9,1382.0
+0:58.0, ,44-53,C. Holmgren misses 2-pt layup at rim,,2,44,53,-9,1382.0
+0:58.0, ,44-53,Shooting foul by C. Capela (drawn by C. Holmgren),,2,44,53,-9,1382.0
+0:58.0, ,44-53,Technical foul by J. Giddey,,2,44,53,-9,1382.0
+0:58.0,T. Young makes technical free throw,45-53, ,,2,45,53,-8,1382.0
+0:58.0, ,45-54,C. Holmgren makes free throw 1 of 2,,2,45,54,-9,1382.0
+0:58.0, ,45-55,C. Holmgren makes free throw 2 of 2,,2,45,55,-10,1382.0
+0:34.0,J. Johnson misses 2-pt jump shot from 12 ft,45-55, ,,2,45,55,-10,1406.0
+0:32.0,Offensive rebound by J. Johnson,45-55, ,,2,45,55,-10,1408.0
+0:31.0,D. Murray makes 3-pt jump shot from 26 ft (assist by J. Johnson),48-55, ,,2,48,55,-7,1409.0
+0:17.0, ,48-55,S. Gilgeous-Alexander misses 3-pt jump shot from 25 ft,,2,48,55,-7,1423.0
+0:15.0,Defensive rebound by T. Young,48-55, ,,2,48,55,-7,1425.0
+0:02.0,D. Hunter makes 2-pt layup from 3 ft (assist by D. Murray),50-55, ,,2,50,55,-5,1438.0
+0:00.0, ,50-55,Shooting foul by T. Young (drawn by L. Dort),,2,50,55,-5,1440.0
+0:00.0, ,50-55,Instant Replay (Request: Ruling Stands),,2,50,55,-5,1440.0
+0:00.0, ,50-56,L. Dort makes free throw 1 of 3,,2,50,56,-6,1440.0
+0:00.0, ,50-57,L. Dort makes free throw 2 of 3,,2,50,57,-7,1440.0
+0:00.0, ,50-58,L. Dort makes free throw 3 of 3,,2,50,58,-8,1440.0
+0:00.0,End of 2nd quarter,50-58,,,2,50,58,-8,1440.0
+12:00.0,Start of 3rd quarter,50-58,,,3,50,58,-8,1440.0
+11:50.0,D. Hunter misses 3-pt jump shot from 27 ft,50-58, ,,3,50,58,-8,1450.0
+11:50.0,Offensive rebound by C. Capela,50-58, ,,3,50,58,-8,1450.0
+11:39.0,T. Young makes 3-pt jump shot from 26 ft,53-58, ,,3,53,58,-5,1461.0
+11:24.0, ,53-58,Offensive foul by J. Giddey (drawn by T. Young),,3,53,58,-5,1476.0
+11:24.0, ,53-58,Turnover by J. Giddey (offensive foul),,3,53,58,-5,1476.0
+11:14.0,J. Johnson misses 3-pt jump shot from 23 ft,53-58, ,,3,53,58,-5,1486.0
+11:10.0, ,53-58,Defensive rebound by S. Gilgeous-Alexander,,3,53,58,-5,1490.0
+11:07.0, ,53-58,J. Williams misses 3-pt jump shot from 25 ft,,3,53,58,-5,1493.0
+11:03.0,Defensive rebound by C. Capela,53-58, ,,3,53,58,-5,1497.0
+10:42.0,T. Young misses 3-pt jump shot from 29 ft,53-58, ,,3,53,58,-5,1518.0
+10:40.0, ,53-58,Defensive rebound by J. Williams,,3,53,58,-5,1520.0
+10:36.0, ,53-60,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by L. Dort),,3,53,60,-7,1524.0
+10:20.0,C. Capela makes 2-pt dunk from 3 ft (assist by T. Young),55-60, ,,3,55,60,-5,1540.0
+10:08.0, ,55-62,C. Holmgren makes 2-pt layup from 4 ft (assist by S. Gilgeous-Alexander),,3,55,62,-7,1552.0
+9:48.0,T. Young misses 2-pt jump shot from 17 ft (block by L. Dort),55-62, ,,3,55,62,-7,1572.0
+9:46.0, ,55-62,Defensive rebound by L. Dort,,3,55,62,-7,1574.0
+9:45.0, ,55-62,Turnover by L. Dort (bad pass; steal by T. Young),,3,55,62,-7,1575.0
+9:38.0,Personal foul by J. Giddey (drawn by D. Hunter),55-62, ,,3,55,62,-7,1582.0
+9:29.0,D. Murray misses 2-pt jump shot from 16 ft,55-62, ,,3,55,62,-7,1591.0
+9:26.0,Offensive rebound by C. Capela,55-62, ,,3,55,62,-7,1594.0
+9:26.0,Turnover by C. Capela (traveling),55-62, ,,3,55,62,-7,1594.0
+9:11.0, ,55-62,Shooting foul by C. Capela (drawn by C. Holmgren),,3,55,62,-7,1609.0
+9:11.0, ,55-63,C. Holmgren makes free throw 1 of 2,,3,55,63,-8,1609.0
+9:11.0, ,55-64,C. Holmgren makes free throw 2 of 2,,3,55,64,-9,1609.0
+9:00.0,D. Murray makes 3-pt jump shot from 25 ft (assist by T. Young),58-64, ,,3,58,64,-6,1620.0
+8:35.0, ,58-64,Turnover by J. Giddey (lost ball; steal by J. Johnson),,3,58,64,-6,1645.0
+8:30.0,J. Johnson makes 2-pt dunk from 3 ft (assist by T. Young),60-64, ,,3,60,64,-4,1650.0
+8:13.0, ,60-64,C. Holmgren misses 2-pt dunk from 4 ft,,3,60,64,-4,1667.0
+8:13.0,Defensive rebound by Team,60-64, ,,3,60,64,-4,1667.0
+8:08.0,D. Hunter misses 3-pt jump shot from 25 ft,60-64, ,,3,60,64,-4,1672.0
+8:08.0,Offensive rebound by D. Murray,60-64, ,,3,60,64,-4,1672.0
+8:00.0,D. Murray misses 3-pt jump shot from 23 ft,60-64, ,,3,60,64,-4,1680.0
+7:58.0, ,60-64,Defensive rebound by C. Holmgren,,3,60,64,-4,1682.0
+7:52.0, ,60-64,L. Dort misses 3-pt jump shot from 26 ft,,3,60,64,-4,1688.0
+7:48.0, ,60-64,Offensive rebound by J. Giddey,,3,60,64,-4,1692.0
+7:48.0, ,60-66,J. Giddey makes 2-pt layup from 2 ft,,3,60,66,-6,1692.0
+7:33.0,Turnover by T. Young (bad pass),60-66, ,,3,60,66,-6,1707.0
+7:28.0, ,60-68,L. Dort makes 2-pt layup from 4 ft (assist by S. Gilgeous-Alexander),,3,60,68,-8,1712.0
+7:15.0,Shooting foul by J. Williams (drawn by T. Young),60-68, ,,3,60,68,-8,1725.0
+7:15.0,T. Young makes free throw 1 of 2,61-68, ,,3,61,68,-7,1725.0
+7:15.0,T. Young makes free throw 2 of 2,62-68, ,,3,62,68,-6,1725.0
+7:07.0, ,62-70,J. Giddey makes 2-pt layup from 4 ft (assist by J. Williams),,3,62,70,-8,1733.0
+6:54.0,D. Murray misses 2-pt layup from 5 ft (block by C. Holmgren),62-70, ,,3,62,70,-8,1746.0
+6:52.0, ,62-70,Defensive rebound by J. Giddey,,3,62,70,-8,1748.0
+6:48.0, ,62-73,S. Gilgeous-Alexander makes 3-pt jump shot from 23 ft (assist by J. Giddey),,3,62,73,-11,1752.0
+6:47.0,Atlanta full timeout,62-73, ,,3,62,73,-11,1753.0
+6:47.0,S. Bey enters the game for J. Johnson,62-73, ,,3,62,73,-11,1753.0
+6:47.0,B. Bogdanović enters the game for T. Young,62-73, ,,3,62,73,-11,1753.0
+6:34.0,D. Hunter misses 2-pt jump shot from 14 ft,62-73, ,,3,62,73,-11,1766.0
+6:33.0, ,62-73,Defensive rebound by L. Dort,,3,62,73,-11,1767.0
+6:24.0, ,62-73,Shooting foul by B. Bogdanović (drawn by L. Dort),,3,62,73,-11,1776.0
+6:24.0, ,62-74,L. Dort makes free throw 1 of 2,,3,62,74,-12,1776.0
+6:24.0, ,62-75,L. Dort makes free throw 2 of 2,,3,62,75,-13,1776.0
+6:11.0,S. Bey makes 3-pt jump shot from 25 ft (assist by D. Murray),65-75, ,,3,65,75,-10,1789.0
+5:56.0, ,65-75,Shooting foul by S. Bey (drawn by S. Gilgeous-Alexander),,3,65,75,-10,1804.0
+5:56.0, ,65-76,S. Gilgeous-Alexander makes free throw 1 of 2,,3,65,76,-11,1804.0
+5:56.0, ,65-77,S. Gilgeous-Alexander makes free throw 2 of 2,,3,65,77,-12,1804.0
+5:56.0,Turnover by D. Murray (lost ball),65-77, ,,3,65,77,-12,1804.0
+5:46.0,Loose ball foul by D. Murray (drawn by J. Williams),65-77, ,,3,65,77,-12,1814.0
+5:32.0, ,65-77,J. Giddey misses 2-pt layup from 4 ft,,3,65,77,-12,1828.0
+5:28.0,Defensive rebound by C. Capela,65-77, ,,3,65,77,-12,1832.0
+5:26.0,S. Bey makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),68-77, ,,3,68,77,-9,1834.0
+5:11.0, ,68-79,S. Gilgeous-Alexander makes 2-pt jump shot from 6 ft,,3,68,79,-11,1849.0
+4:56.0,Turnover by S. Bey (bad pass),68-79, ,,3,68,79,-11,1864.0
+4:56.0,O. Okongwu enters the game for C. Capela,68-79, ,,3,68,79,-11,1864.0
+4:56.0, ,68-79,I. Joe enters the game for J. Giddey,,3,68,79,-11,1864.0
+4:56.0, ,68-79,J. Williams enters the game for C. Holmgren,,3,68,79,-11,1864.0
+4:42.0, ,68-79,Turnover by J. Williams (off goaltending),,3,68,79,-11,1878.0
+4:30.0,D. Murray makes 3-pt jump shot from 27 ft,71-79, ,,3,71,79,-8,1890.0
+4:13.0, ,71-82,I. Joe makes 3-pt jump shot from 26 ft (assist by L. Dort),,3,71,82,-11,1907.0
+3:59.0,O. Okongwu makes 2-pt layup from 4 ft (assist by D. Murray),73-82, ,,3,73,82,-9,1921.0
+3:45.0, ,73-85,I. Joe makes 3-pt jump shot from 25 ft (assist by J. Williams),,3,73,85,-12,1935.0
+3:33.0,Personal foul by I. Joe (drawn by B. Bogdanović),73-85, ,,3,73,85,-12,1947.0
+3:33.0,J. Johnson enters the game for D. Hunter,73-85, ,,3,73,85,-12,1947.0
+3:33.0,T. Young enters the game for D. Murray,73-85, ,,3,73,85,-12,1947.0
+3:33.0, ,73-85,C. Wallace enters the game for L. Dort,,3,73,85,-12,1947.0
+3:33.0, ,73-85,A. Wiggins enters the game for J. Williams,,3,73,85,-12,1947.0
+3:26.0,Turnover by T. Young (bad pass; steal by C. Wallace),73-85, ,,3,73,85,-12,1954.0
+3:23.0, ,73-88,I. Joe makes 3-pt jump shot from 26 ft (assist by C. Wallace),,3,73,88,-15,1957.0
+3:20.0,Atlanta full timeout,73-88, ,,3,73,88,-15,1960.0
+3:08.0,J. Johnson misses 2-pt layup from 3 ft (block by J. Williams),73-88, ,,3,73,88,-15,1972.0
+3:03.0, ,73-88,Defensive rebound by J. Williams,,3,73,88,-15,1977.0
+2:48.0, ,73-88,J. Williams misses 3-pt jump shot from 28 ft,,3,73,88,-15,1992.0
+2:43.0, ,73-88,Offensive rebound by A. Wiggins,,3,73,88,-15,1997.0
+2:39.0, ,73-90,S. Gilgeous-Alexander makes 2-pt jump shot from 15 ft,,3,73,90,-17,2001.0
+2:20.0,B. Bogdanović misses 3-pt jump shot from 24 ft,73-90, ,,3,73,90,-17,2020.0
+2:18.0, ,73-90,Defensive rebound by I. Joe,,3,73,90,-17,2022.0
+2:03.0, ,73-90,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,,3,73,90,-17,2037.0
+2:00.0,Defensive rebound by O. Okongwu,73-90, ,,3,73,90,-17,2040.0
+1:56.0,Turnover by T. Young (bad pass; steal by C. Wallace),73-90, ,,3,73,90,-17,2044.0
+1:50.0, ,73-90,I. Joe misses 3-pt jump shot from 22 ft,,3,73,90,-17,2050.0
+1:47.0,Defensive rebound by O. Okongwu,73-90, ,,3,73,90,-17,2053.0
+1:36.0,B. Bogdanović makes 2-pt layup from 4 ft,75-90, ,,3,75,90,-15,2064.0
+1:09.0, ,75-92,J. Williams makes 2-pt jump shot from 21 ft (assist by I. Joe),,3,75,92,-17,2091.0
+0:45.0,T. Young misses 3-pt jump shot from 27 ft,75-92, ,,3,75,92,-17,2115.0
+0:42.0, ,75-92,Defensive rebound by S. Gilgeous-Alexander,,3,75,92,-17,2118.0
+0:40.0, ,75-94,C. Wallace makes 2-pt dunk from 3 ft (assist by S. Gilgeous-Alexander),,3,75,94,-19,2120.0
+0:28.0,Turnover by T. Young (bad pass; steal by C. Wallace),75-94, ,,3,75,94,-19,2132.0
+0:10.0, ,75-94,S. Gilgeous-Alexander misses 2-pt jump shot from 20 ft,,3,75,94,-19,2150.0
+0:07.0,Defensive rebound by S. Bey,75-94, ,,3,75,94,-19,2153.0
+0:04.0,J. Johnson makes 2-pt dunk from 3 ft (assist by S. Bey),77-94, ,,3,77,94,-17,2156.0
+0:04.0, ,77-94,Oklahoma City full timeout,,3,77,94,-17,2156.0
+0:04.0, ,77-94,J. Giddey enters the game for C. Wallace,,3,77,94,-17,2156.0
+0:04.0, ,77-94,C. Holmgren enters the game for A. Wiggins,,3,77,94,-17,2156.0
+0:04.0, ,77-94,J. Williams enters the game for J. Williams,,3,77,94,-17,2156.0
+0:00.0, ,77-96,J. Williams makes 2-pt jump shot from 21 ft,,3,77,96,-19,2160.0
+0:00.0, ,77-96,Instant Replay (Request: Ruling Stands),,3,77,96,-19,2160.0
+0:00.0,End of 3rd quarter,77-96,,,3,77,96,-19,2160.0
+12:00.0,Start of 4th quarter,77-96,,,4,77,96,-19,2160.0
+11:38.0, ,77-96,O. Dieng misses 3-pt jump shot from 24 ft,,4,77,96,-19,2182.0
+11:36.0,Defensive rebound by Team,77-96, ,,4,77,96,-19,2184.0
+11:36.0, ,77-96,Loose ball foul by J. Giddey (drawn by J. Johnson),,4,77,96,-19,2184.0
+11:26.0,B. Bogdanović misses 3-pt jump shot from 26 ft,77-96, ,,4,77,96,-19,2194.0
+11:23.0,Offensive rebound by O. Okongwu,77-96, ,,4,77,96,-19,2197.0
+11:23.0,O. Okongwu makes 2-pt layup from 3 ft,79-96, ,,4,79,96,-17,2197.0
+11:23.0,Shooting foul by J. Williams (drawn by O. Okongwu),79-96, ,,4,79,96,-17,2197.0
+11:23.0,O. Okongwu makes free throw 1 of 1,80-96, ,,4,80,96,-16,2197.0
+11:10.0, ,80-96,C. Wallace misses 3-pt jump shot from 24 ft,,4,80,96,-16,2210.0
+11:06.0,Defensive rebound by S. Bey,80-96, ,,4,80,96,-16,2214.0
+10:58.0,Shooting foul by J. Williams (drawn by T. Young),80-96, ,,4,80,96,-16,2222.0
+10:58.0, ,80-96,Oklahoma City full timeout,,4,80,96,-16,2222.0
+10:58.0, ,80-96,Instant Replay (Challenge: Ruling Stands),,4,80,96,-16,2222.0
+10:58.0,T. Young makes free throw 1 of 2,81-96, ,,4,81,96,-15,2222.0
+10:58.0,T. Young makes free throw 2 of 2,82-96, ,,4,82,96,-14,2222.0
+10:44.0, ,82-99,J. Williams makes 3-pt jump shot from 25 ft (assist by J. Giddey),,4,82,99,-17,2236.0
+10:27.0,J. Johnson makes 2-pt layup from 2 ft (assist by B. Bogdanović),84-99, ,,4,84,99,-15,2253.0
+10:08.0, ,84-101,J. Williams makes 2-pt layup from 3 ft (assist by C. Wallace),,4,84,101,-17,2272.0
+9:55.0,T. Young misses 2-pt layup from 2 ft,84-101, ,,4,84,101,-17,2285.0
+9:53.0,Offensive rebound by O. Okongwu,84-101, ,,4,84,101,-17,2287.0
+9:53.0,O. Okongwu misses 2-pt layup at rim,84-101, ,,4,84,101,-17,2287.0
+9:53.0,Turnover by O. Okongwu (traveling),84-101, ,,4,84,101,-17,2287.0
+9:53.0,Violation by Team (delay of game),84-101, ,,4,84,101,-17,2287.0
+9:37.0, ,84-101,J. Williams misses 2-pt jump shot from 9 ft,,4,84,101,-17,2303.0
+9:33.0,Defensive rebound by O. Okongwu,84-101, ,,4,84,101,-17,2307.0
+9:29.0,B. Bogdanović makes 2-pt layup from 4 ft (assist by T. Young),86-101, ,,4,86,101,-15,2311.0
+9:14.0, ,86-101,Turnover by C. Holmgren (bad pass),,4,86,101,-15,2326.0
+9:10.0,Offensive foul by O. Okongwu (drawn by C. Wallace),86-101, ,,4,86,101,-15,2330.0
+9:10.0,Turnover by O. Okongwu (offensive foul),86-101, ,,4,86,101,-15,2330.0
+8:50.0, ,86-101,Turnover by O. Dieng (lost ball; steal by J. Johnson),,4,86,101,-15,2350.0
+8:47.0,S. Bey makes 2-pt dunk from 1 ft,88-101, ,,4,88,101,-13,2353.0
+8:47.0, ,88-101,Oklahoma City full timeout,,4,88,101,-13,2353.0
+8:47.0, ,88-101,L. Dort enters the game for O. Dieng,,4,88,101,-13,2353.0
+8:30.0, ,88-101,J. Giddey misses 2-pt jump shot from 5 ft,,4,88,101,-13,2370.0
+8:29.0, ,88-101,Offensive rebound by J. Giddey,,4,88,101,-13,2371.0
+8:29.0,Atlanta full timeout,88-101, ,,4,88,101,-13,2371.0
+8:29.0,Instant Replay (Challenge: Ruling Stands),88-101, ,,4,88,101,-13,2371.0
+8:22.0, ,88-101,L. Dort misses 3-pt jump shot from 23 ft,,4,88,101,-13,2378.0
+8:19.0,Defensive rebound by O. Okongwu,88-101, ,,4,88,101,-13,2381.0
+8:12.0,S. Bey misses 3-pt jump shot from 26 ft,88-101, ,,4,88,101,-13,2388.0
+8:08.0, ,88-101,Defensive rebound by J. Giddey,,4,88,101,-13,2392.0
+8:02.0, ,88-101,C. Holmgren misses 2-pt jump shot from 23 ft,,4,88,101,-13,2398.0
+7:59.0,Defensive rebound by B. Bogdanović,88-101, ,,4,88,101,-13,2401.0
+7:51.0,O. Okongwu misses 2-pt layup from 3 ft,88-101, ,,4,88,101,-13,2409.0
+7:51.0,Offensive rebound by Team,88-101, ,,4,88,101,-13,2409.0
+7:51.0,D. Hunter enters the game for J. Johnson,88-101, ,,4,88,101,-13,2409.0
+7:51.0,D. Murray enters the game for T. Young,88-101, ,,4,88,101,-13,2409.0
+7:51.0, ,88-101,S. Gilgeous-Alexander enters the game for J. Giddey,,4,88,101,-13,2409.0
+7:51.0, ,88-101,I. Joe enters the game for J. Williams,,4,88,101,-13,2409.0
+7:40.0,B. Bogdanović misses 3-pt jump shot from 27 ft,88-101, ,,4,88,101,-13,2420.0
+7:36.0,Offensive rebound by S. Bey,88-101, ,,4,88,101,-13,2424.0
+7:33.0,S. Bey makes 2-pt dunk from 3 ft,90-101, ,,4,90,101,-11,2427.0
+7:17.0, ,90-101,C. Holmgren misses 2-pt layup from 2 ft,,4,90,101,-11,2443.0
+7:17.0,Defensive rebound by Team,90-101, ,,4,90,101,-11,2443.0
+7:17.0, ,90-101,Loose ball foul by C. Wallace (drawn by D. Hunter),,4,90,101,-11,2443.0
+7:17.0, ,90-101,J. Williams enters the game for C. Holmgren,,4,90,101,-11,2443.0
+6:56.0,D. Murray misses 3-pt jump shot from 26 ft,90-101, ,,4,90,101,-11,2464.0
+6:50.0, ,90-101,Defensive rebound by L. Dort,,4,90,101,-11,2470.0
+6:45.0, ,90-103,S. Gilgeous-Alexander makes 2-pt layup from 4 ft,,4,90,103,-13,2475.0
+6:28.0,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by D. Murray),93-103, ,,4,93,103,-10,2492.0
+6:11.0, ,93-105,S. Gilgeous-Alexander makes 2-pt layup from 5 ft (assist by C. Wallace),,4,93,105,-12,2509.0
+6:00.0,Personal foul by S. Gilgeous-Alexander (drawn by D. Murray),93-105, ,,4,93,105,-12,2520.0
+6:00.0,D. Murray makes free throw 1 of 2,94-105, ,,4,94,105,-11,2520.0
+6:00.0,J. Johnson enters the game for B. Bogdanović,94-105, ,,4,94,105,-11,2520.0
+6:00.0,T. Young enters the game for O. Okongwu,94-105, ,,4,94,105,-11,2520.0
+6:00.0,D. Murray makes free throw 2 of 2,95-105, ,,4,95,105,-10,2520.0
+5:45.0, ,95-107,J. Williams makes 2-pt jump shot from 6 ft,,4,95,107,-12,2535.0
+5:37.0,S. Bey misses 3-pt jump shot from 23 ft,95-107, ,,4,95,107,-12,2543.0
+5:34.0, ,95-107,Defensive rebound by C. Wallace,,4,95,107,-12,2546.0
+5:31.0, ,95-107,Personal foul by J. Johnson (drawn by S. Gilgeous-Alexander),,4,95,107,-12,2549.0
+5:20.0, ,95-107,S. Gilgeous-Alexander misses 3-pt jump shot from 30 ft,,4,95,107,-12,2560.0
+5:17.0,Defensive rebound by J. Johnson,95-107, ,,4,95,107,-12,2563.0
+5:07.0,J. Johnson makes 2-pt dunk from 3 ft (assist by T. Young),97-107, ,,4,97,107,-10,2573.0
+4:52.0, ,97-109,L. Dort makes 2-pt dunk from 2 ft (assist by J. Williams),,4,97,109,-12,2588.0
+4:41.0,Personal foul by J. Williams (drawn by T. Young),97-109, ,,4,97,109,-12,2599.0
+4:41.0,T. Young makes free throw 1 of 2,98-109, ,,4,98,109,-11,2599.0
+4:41.0,O. Okongwu enters the game for S. Bey,98-109, ,,4,98,109,-11,2599.0
+4:41.0, ,98-109,J. Williams enters the game for C. Wallace,,4,98,109,-11,2599.0
+4:41.0,T. Young makes free throw 2 of 2,99-109, ,,4,99,109,-10,2599.0
+4:28.0, ,99-109,Shooting foul by D. Murray (drawn by J. Williams),,4,99,109,-10,2612.0
+4:28.0, ,99-110,J. Williams makes free throw 1 of 2,,4,99,110,-11,2612.0
+4:28.0, ,99-111,J. Williams makes free throw 2 of 2,,4,99,111,-12,2612.0
+4:21.0,Personal foul by J. Williams (drawn by T. Young),99-111, ,,4,99,111,-12,2619.0
+4:21.0,T. Young makes free throw 1 of 2,100-111, ,,4,100,111,-11,2619.0
+4:21.0,T. Young makes free throw 2 of 2,101-111, ,,4,101,111,-10,2619.0
+4:05.0, ,101-111,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,,4,101,111,-10,2635.0
+4:00.0,Defensive rebound by O. Okongwu,101-111, ,,4,101,111,-10,2640.0
+3:55.0,Personal foul by J. Williams (drawn by D. Murray),101-111, ,,4,101,111,-10,2645.0
+3:55.0,D. Murray misses free throw 1 of 2,101-111, ,,4,101,111,-10,2645.0
+3:55.0,Offensive rebound by Team,101-111, ,,4,101,111,-10,2645.0
+3:55.0, ,101-111,C. Holmgren enters the game for J. Williams,,4,101,111,-10,2645.0
+3:55.0,D. Murray makes free throw 2 of 2,102-111, ,,4,102,111,-9,2645.0
+3:40.0, ,102-111,I. Joe misses 3-pt jump shot from 27 ft,,4,102,111,-9,2660.0
+3:36.0,Defensive rebound by J. Johnson,102-111, ,,4,102,111,-9,2664.0
+3:30.0,T. Young misses 2-pt jump shot from 13 ft,102-111, ,,4,102,111,-9,2670.0
+3:29.0, ,102-111,Defensive rebound by Team,,4,102,111,-9,2671.0
+3:17.0, ,102-111,Personal foul by D. Hunter (drawn by S. Gilgeous-Alexander),,4,102,111,-9,2683.0
+3:08.0, ,102-111,I. Joe misses 3-pt jump shot from 26 ft,,4,102,111,-9,2692.0
+3:05.0,Defensive rebound by O. Okongwu,102-111, ,,4,102,111,-9,2695.0
+2:59.0,D. Murray makes 3-pt jump shot from 25 ft (assist by T. Young),105-111, ,,4,105,111,-6,2701.0
+2:35.0, ,105-114,I. Joe makes 3-pt jump shot from 23 ft (assist by C. Holmgren),,4,105,114,-9,2725.0
+2:24.0,T. Young makes 2-pt jump shot from 8 ft,107-114, ,,4,107,114,-7,2736.0
+2:06.0, ,107-114,J. Williams misses 3-pt jump shot from 23 ft,,4,107,114,-7,2754.0
+2:04.0, ,107-114,Offensive rebound by L. Dort,,4,107,114,-7,2756.0
+2:04.0, ,107-114,Turnover by L. Dort (step out of bounds),,4,107,114,-7,2756.0
+2:04.0, ,107-114,J. Giddey enters the game for I. Joe,,4,107,114,-7,2756.0
+1:59.0,T. Young misses 2-pt jump shot from 11 ft,107-114, ,,4,107,114,-7,2761.0
+1:55.0,Offensive rebound by O. Okongwu,107-114, ,,4,107,114,-7,2765.0
+1:55.0,O. Okongwu misses 2-pt layup at rim,107-114, ,,4,107,114,-7,2765.0
+1:55.0,O. Okongwu makes 2-pt layup from 3 ft,109-114, ,,4,109,114,-5,2765.0
+1:40.0, ,109-116,J. Williams makes 2-pt layup from 5 ft,,4,109,116,-7,2780.0
+1:30.0,T. Young misses 2-pt jump shot from 24 ft (block by L. Dort),109-116, ,,4,109,116,-7,2790.0
+1:26.0, ,109-116,Defensive rebound by L. Dort,,4,109,116,-7,2794.0
+1:25.0, ,109-118,J. Williams makes 2-pt dunk from 3 ft (assist by S. Gilgeous-Alexander),,4,109,118,-9,2795.0
+1:19.0,Shooting foul by S. Gilgeous-Alexander (drawn by D. Murray),109-118, ,,4,109,118,-9,2801.0
+1:19.0,D. Murray makes free throw 1 of 2,110-118, ,,4,110,118,-8,2801.0
+1:19.0,D. Murray makes free throw 2 of 2,111-118, ,,4,111,118,-7,2801.0
+1:11.0, ,111-118,Personal foul by D. Murray (drawn by S. Gilgeous-Alexander),,4,111,118,-7,2809.0
+1:00.0, ,111-118,C. Holmgren misses 2-pt jump shot from 8 ft,,4,111,118,-7,2820.0
+1:00.0,Defensive rebound by Team,111-118, ,,4,111,118,-7,2820.0
+1:00.0, ,111-118,Loose ball foul by C. Holmgren (drawn by J. Johnson),,4,111,118,-7,2820.0
+1:00.0,J. Johnson misses free throw 1 of 2,111-118, ,,4,111,118,-7,2820.0
+1:00.0,Offensive rebound by Team,111-118, ,,4,111,118,-7,2820.0
+1:00.0, ,111-118,I. Joe enters the game for J. Giddey,,4,111,118,-7,2820.0
+1:00.0,J. Johnson makes free throw 2 of 2,112-118, ,,4,112,118,-6,2820.0
+0:37.0, ,112-118,S. Gilgeous-Alexander misses 3-pt jump shot from 24 ft,,4,112,118,-6,2843.0
+0:34.0, ,112-118,Offensive rebound by C. Holmgren,,4,112,118,-6,2846.0
+0:33.0, ,112-120,C. Holmgren makes 2-pt layup from 3 ft,,4,112,120,-8,2847.0
+0:33.0, ,112-120,Shooting foul by O. Okongwu (drawn by C. Holmgren),,4,112,120,-8,2847.0
+0:33.0, ,112-120,C. Wallace enters the game for I. Joe,,4,112,120,-8,2847.0
+0:33.0, ,112-121,C. Holmgren makes free throw 1 of 1,,4,112,121,-9,2847.0
+0:27.0,T. Young misses 2-pt layup from 4 ft,112-121, ,,4,112,121,-9,2853.0
+0:25.0, ,112-121,Defensive rebound by C. Holmgren,,4,112,121,-9,2855.0
+0:23.0, ,112-121,Personal take foul by D. Hunter (drawn by S. Gilgeous-Alexander),,4,112,121,-9,2857.0
+0:23.0, ,112-122,S. Gilgeous-Alexander makes free throw 1 of 2,,4,112,122,-10,2857.0
+0:23.0, ,112-123,S. Gilgeous-Alexander makes free throw 2 of 2,,4,112,123,-11,2857.0
+0:17.0,D. Murray makes 3-pt jump shot from 25 ft (assist by T. Young),115-123, ,,4,115,123,-8,2863.0
+0:14.0, ,115-123,Personal take foul by D. Murray (drawn by S. Gilgeous-Alexander),,4,115,123,-8,2866.0
+0:14.0, ,115-124,S. Gilgeous-Alexander makes free throw 1 of 2,,4,115,124,-9,2866.0
+0:14.0, ,115-124,S. Gilgeous-Alexander misses free throw 2 of 2,,4,115,124,-9,2866.0
+0:12.0, ,115-124,Offensive rebound by S. Gilgeous-Alexander,,4,115,124,-9,2868.0
+0:12.0, ,115-126,S. Gilgeous-Alexander makes 2-pt layup from 4 ft,,4,115,126,-11,2868.0
+0:07.0,T. Young makes 2-pt layup from 3 ft (assist by J. Johnson),117-126, ,,4,117,126,-9,2873.0
+0:00.0,End of 4th quarter,117-126,,,4,117,126,-9,2880.0

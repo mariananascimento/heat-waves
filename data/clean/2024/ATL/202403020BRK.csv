@@ -1,0 +1,475 @@
+Time,Atlanta,Score,Brooklyn,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. N. Claxton (D. Schröder gains possession),0-0,,,1,0,0,0,0.0
+11:39.0, ,0-0,D. Schröder misses 3-pt jump shot from 23 ft,,1,0,0,0,21.0
+11:36.0, ,0-0,Offensive rebound by M. Bridges,,1,0,0,0,24.0
+11:32.0, ,0-0,Turnover by D. Schröder (bad pass; steal by D. Murray),,1,0,0,0,28.0
+11:18.0,S. Bey misses 3-pt jump shot from 26 ft,0-0, ,,1,0,0,0,42.0
+11:16.0, ,0-0,Defensive rebound by C. Johnson,,1,0,0,0,44.0
+11:03.0, ,0-2,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by C. Johnson),,1,0,2,-2,57.0
+10:46.0,B. Bogdanović makes 3-pt jump shot from 22 ft (assist by D. Murray),3-2, ,Lead change,1,3,2,1,74.0
+10:37.0, ,3-2,M. Bridges misses 3-pt jump shot from 27 ft,,1,3,2,1,83.0
+10:35.0,Defensive rebound by J. Johnson,3-2, ,,1,3,2,1,85.0
+10:28.0,D. Murray makes 2-pt jump shot from 13 ft,5-2, ,,1,5,2,3,92.0
+10:10.0, ,5-2,Turnover by D. Schröder (bad pass; steal by D. Murray),,1,5,2,3,110.0
+9:59.0,D. Murray makes 2-pt jump shot from 5 ft,7-2, ,,1,7,2,5,121.0
+9:59.0, ,7-2,Brooklyn full timeout,,1,7,2,5,121.0
+9:49.0, ,7-2,C. Johnson misses 3-pt jump shot from 28 ft,,1,7,2,5,131.0
+9:45.0,Defensive rebound by C. Capela,7-2, ,,1,7,2,5,135.0
+9:41.0,D. Murray misses 3-pt jump shot from 26 ft,7-2, ,,1,7,2,5,139.0
+9:37.0, ,7-2,Defensive rebound by N. Claxton,,1,7,2,5,143.0
+9:30.0, ,7-5,C. Johnson makes 3-pt jump shot from 29 ft (assist by D. Schröder),,1,7,5,2,150.0
+9:13.0,C. Capela misses 2-pt hook shot from 5 ft,7-5, ,,1,7,5,2,167.0
+9:12.0,Offensive rebound by C. Capela,7-5, ,,1,7,5,2,168.0
+9:11.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by C. Capela),10-5, ,,1,10,5,5,169.0
+8:54.0, ,10-7,M. Bridges makes 2-pt jump shot from 8 ft,,1,10,7,3,186.0
+8:37.0,Shooting foul by D. Schröder (drawn by C. Capela),10-7, ,,1,10,7,3,203.0
+8:37.0,C. Capela misses free throw 1 of 2,10-7, ,,1,10,7,3,203.0
+8:37.0,Offensive rebound by Team,10-7, ,,1,10,7,3,203.0
+8:37.0,C. Capela makes free throw 2 of 2,11-7, ,,1,11,7,4,203.0
+8:15.0, ,11-7,D. Schröder misses 2-pt jump shot from 18 ft,,1,11,7,4,225.0
+8:13.0, ,11-7,Offensive rebound by D. Finney-Smith,,1,11,7,4,227.0
+8:11.0, ,11-7,D. Finney-Smith misses 3-pt jump shot from 27 ft,,1,11,7,4,229.0
+8:09.0,Defensive rebound by C. Capela,11-7, ,,1,11,7,4,231.0
+8:06.0,B. Bogdanović misses 2-pt layup from 4 ft (block by D. Schröder),11-7, ,,1,11,7,4,234.0
+8:06.0, ,11-7,Defensive rebound by Team,,1,11,7,4,234.0
+7:51.0, ,11-7,Offensive foul by D. Finney-Smith (drawn by C. Capela),,1,11,7,4,249.0
+7:51.0, ,11-7,Turnover by D. Finney-Smith (offensive foul),,1,11,7,4,249.0
+7:51.0, ,11-7,Brooklyn full timeout,,1,11,7,4,249.0
+7:51.0, ,11-7,Instant Replay (Challenge: Stands),,1,11,7,4,249.0
+7:38.0,J. Johnson misses 2-pt layup from 2 ft,11-7, ,,1,11,7,4,262.0
+7:36.0, ,11-7,Defensive rebound by N. Claxton,,1,11,7,4,264.0
+7:31.0, ,11-7,C. Johnson misses 2-pt jump shot from 15 ft,,1,11,7,4,269.0
+7:27.0,Defensive rebound by J. Johnson,11-7, ,,1,11,7,4,273.0
+7:18.0,S. Bey makes 2-pt layup from 3 ft (assist by J. Johnson),13-7, ,,1,13,7,6,282.0
+7:06.0, ,13-7,D. Schröder misses 2-pt layup from 2 ft,,1,13,7,6,294.0
+7:04.0, ,13-7,Offensive rebound by D. Finney-Smith,,1,13,7,6,296.0
+6:56.0, ,13-7,M. Bridges misses 2-pt jump shot from 16 ft,,1,13,7,6,304.0
+6:52.0,Defensive rebound by D. Murray,13-7, ,,1,13,7,6,308.0
+6:48.0,C. Capela makes 2-pt layup from 2 ft (assist by D. Murray),15-7, ,,1,15,7,8,312.0
+6:48.0,Shooting foul by M. Bridges (drawn by C. Capela),15-7, ,,1,15,7,8,312.0
+6:48.0,D. Hunter enters the game for B. Bogdanović,15-7, ,,1,15,7,8,312.0
+6:48.0,G. Mathews enters the game for J. Johnson,15-7, ,,1,15,7,8,312.0
+6:48.0, ,15-7,D. Sharpe enters the game for M. Bridges,,1,15,7,8,312.0
+6:48.0, ,15-7,L. Walker enters the game for N. Claxton,,1,15,7,8,312.0
+6:48.0,C. Capela makes free throw 1 of 1,16-7, ,,1,16,7,9,312.0
+6:35.0, ,16-7,L. Walker misses 3-pt jump shot from 24 ft,,1,16,7,9,325.0
+6:33.0,Defensive rebound by C. Capela,16-7, ,,1,16,7,9,327.0
+6:24.0,D. Murray misses 2-pt jump shot from 10 ft,16-7, ,,1,16,7,9,336.0
+6:22.0, ,16-7,Defensive rebound by D. Sharpe,,1,16,7,9,338.0
+6:17.0, ,16-9,C. Johnson makes 2-pt jump shot from 5 ft,,1,16,9,7,343.0
+6:17.0, ,16-9,Shooting foul by G. Mathews (drawn by C. Johnson),,1,16,9,7,343.0
+6:17.0,B. Fernando enters the game for C. Capela,16-9, ,,1,16,9,7,343.0
+6:17.0, ,16-10,C. Johnson makes free throw 1 of 1,,1,16,10,6,343.0
+5:57.0,D. Murray misses 3-pt jump shot from 27 ft,16-10, ,,1,16,10,6,363.0
+5:52.0, ,16-10,Defensive rebound by D. Finney-Smith,,1,16,10,6,368.0
+5:46.0, ,16-10,L. Walker misses 2-pt layup from 4 ft,,1,16,10,6,374.0
+5:44.0, ,16-10,Offensive rebound by D. Sharpe,,1,16,10,6,376.0
+5:44.0, ,16-12,D. Sharpe makes 2-pt layup at rim,,1,16,12,4,376.0
+5:23.0,S. Bey makes 2-pt hook shot from 2 ft (assist by D. Murray),18-12, ,,1,18,12,6,397.0
+5:08.0,Violation by Team (kicked ball),18-12, ,,1,18,12,6,412.0
+5:08.0, ,18-12,M. Bridges enters the game for D. Finney-Smith,,1,18,12,6,412.0
+5:08.0, ,18-12,J. Wilson enters the game for C. Johnson,,1,18,12,6,412.0
+4:56.0, ,18-12,L. Walker misses 2-pt jump shot from 17 ft,,1,18,12,6,424.0
+4:55.0, ,18-12,Offensive rebound by Team,,1,18,12,6,425.0
+4:55.0,Loose ball foul by D. Hunter (drawn by D. Sharpe),18-12, ,,1,18,12,6,425.0
+4:55.0, ,18-12,D. Smith enters the game for D. Schröder,,1,18,12,6,425.0
+4:43.0, ,18-12,L. Walker misses 2-pt hook shot from 4 ft,,1,18,12,6,437.0
+4:41.0,Defensive rebound by Team,18-12, ,,1,18,12,6,439.0
+4:30.0,D. Hunter makes 3-pt jump shot from 27 ft (assist by B. Fernando),21-12, ,,1,21,12,9,450.0
+4:13.0, ,21-12,Turnover by M. Bridges (out of bounds lost ball),,1,21,12,9,467.0
+4:03.0,D. Hunter makes 3-pt jump shot from 26 ft (assist by D. Murray),24-12, ,,1,24,12,12,477.0
+3:44.0, ,24-15,M. Bridges makes 3-pt jump shot from 28 ft (assist by D. Smith),,1,24,15,9,496.0
+3:27.0,Shooting foul by J. Wilson (drawn by D. Murray),24-15, ,,1,24,15,9,513.0
+3:27.0,D. Murray misses free throw 1 of 2,24-15, ,,1,24,15,9,513.0
+3:27.0,Offensive rebound by Team,24-15, ,,1,24,15,9,513.0
+3:27.0,J. Johnson enters the game for S. Bey,24-15, ,,1,24,15,9,513.0
+3:27.0,D. Murray misses free throw 2 of 2,24-15, ,,1,24,15,9,513.0
+3:24.0, ,24-15,Defensive rebound by L. Walker,,1,24,15,9,516.0
+3:05.0, ,24-15,L. Walker misses 3-pt jump shot from 26 ft,,1,24,15,9,535.0
+3:00.0, ,24-15,Offensive rebound by M. Bridges,,1,24,15,9,540.0
+3:00.0, ,24-15,M. Bridges misses 2-pt layup at rim,,1,24,15,9,540.0
+2:59.0,Defensive rebound by J. Johnson,24-15, ,,1,24,15,9,541.0
+2:53.0,J. Johnson misses 3-pt jump shot from 27 ft,24-15, ,,1,24,15,9,547.0
+2:49.0, ,24-15,Defensive rebound by D. Smith,,1,24,15,9,551.0
+2:42.0, ,24-15,M. Bridges misses 2-pt jump shot from 4 ft,,1,24,15,9,558.0
+2:41.0, ,24-15,Offensive rebound by D. Sharpe,,1,24,15,9,559.0
+2:41.0, ,24-15,D. Sharpe misses 2-pt layup at rim,,1,24,15,9,559.0
+2:40.0, ,24-15,Offensive rebound by D. Sharpe,,1,24,15,9,560.0
+2:33.0, ,24-15,M. Bridges misses 3-pt jump shot from 23 ft,,1,24,15,9,567.0
+2:31.0,Defensive rebound by D. Murray,24-15, ,,1,24,15,9,569.0
+2:20.0,B. Fernando makes 2-pt hook shot from 2 ft (assist by D. Murray),26-15, ,,1,26,15,11,580.0
+2:00.0, ,26-15,L. Walker misses 3-pt jump shot from 23 ft,,1,26,15,11,600.0
+1:58.0,Defensive rebound by J. Johnson,26-15, ,,1,26,15,11,602.0
+1:47.0,B. Fernando makes 2-pt dunk from 1 ft (assist by D. Murray),28-15, ,,1,28,15,13,613.0
+1:29.0, ,28-18,J. Wilson makes 3-pt jump shot from 23 ft (assist by D. Smith),,1,28,18,10,631.0
+1:14.0,J. Johnson misses 2-pt layup from 2 ft (block by D. Sharpe),28-18, ,,1,28,18,10,646.0
+1:12.0, ,28-18,Defensive rebound by M. Bridges,,1,28,18,10,648.0
+1:09.0, ,28-18,M. Bridges misses 2-pt layup from 3 ft,,1,28,18,10,651.0
+1:07.0, ,28-18,Offensive rebound by J. Wilson,,1,28,18,10,653.0
+1:06.0, ,28-18,Shooting foul by B. Fernando (drawn by D. Sharpe),,1,28,18,10,654.0
+1:06.0, ,28-18,D. Sharpe misses free throw 1 of 2,,1,28,18,10,654.0
+1:06.0, ,28-18,Offensive rebound by Team,,1,28,18,10,654.0
+1:06.0,B. Bogdanović enters the game for G. Mathews,28-18, ,,1,28,18,10,654.0
+1:06.0,K. Bufkin enters the game for D. Murray,28-18, ,,1,28,18,10,654.0
+1:06.0, ,28-18,C. Johnson enters the game for L. Walker,,1,28,18,10,654.0
+1:06.0, ,28-19,D. Sharpe makes free throw 2 of 2,,1,28,19,9,654.0
+0:52.0,D. Hunter misses 3-pt jump shot from 28 ft,28-19, ,,1,28,19,9,668.0
+0:50.0, ,28-19,Defensive rebound by C. Johnson,,1,28,19,9,670.0
+0:43.0, ,28-19,D. Smith misses 3-pt jump shot from 23 ft,,1,28,19,9,677.0
+0:40.0,Defensive rebound by Team,28-19, ,,1,28,19,9,680.0
+0:40.0, ,28-19,Loose ball foul by D. Sharpe (drawn by J. Johnson),,1,28,19,9,680.0
+0:40.0, ,28-19,N. Claxton enters the game for D. Sharpe,,1,28,19,9,680.0
+0:27.0,Turnover by B. Bogdanović (out of bounds lost ball),28-19, ,,1,28,19,9,693.0
+0:08.0, ,28-19,Shooting foul by B. Fernando (drawn by C. Johnson),,1,28,19,9,712.0
+0:08.0, ,28-20,C. Johnson makes free throw 1 of 2,,1,28,20,8,712.0
+0:08.0,D. Murray enters the game for K. Bufkin,28-20, ,,1,28,20,8,712.0
+0:08.0, ,28-21,C. Johnson makes free throw 2 of 2,,1,28,21,7,712.0
+0:01.0,D. Murray misses 3-pt jump shot from 25 ft,28-21, ,,1,28,21,7,719.0
+0:01.0, ,28-21,Defensive rebound by J. Wilson,,1,28,21,7,719.0
+0:00.0,End of 1st quarter,28-21,,,1,28,21,7,720.0
+12:00.0,Start of 2nd quarter,28-21,,,2,28,21,7,720.0
+11:47.0,Personal foul by C. Johnson (drawn by D. Hunter),28-21, ,,2,28,21,7,733.0
+11:40.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by K. Bufkin),31-21, ,,2,31,21,10,740.0
+11:30.0, ,31-21,Personal foul by K. Bufkin (drawn by C. Johnson),,2,31,21,10,750.0
+11:24.0, ,31-24,M. Bridges makes 3-pt jump shot from 26 ft,,2,31,24,7,756.0
+10:58.0,J. Johnson makes 2-pt jump shot from 4 ft,33-24, ,,2,33,24,9,782.0
+10:58.0, ,33-24,D. Finney-Smith enters the game for J. Wilson,,2,33,24,9,782.0
+10:32.0, ,33-26,N. Claxton makes 2-pt layup from 1 ft (assist by D. Smith),,2,33,26,7,808.0
+10:07.0,D. Hunter misses 2-pt jump shot from 17 ft,33-26, ,,2,33,26,7,833.0
+10:02.0, ,33-26,Defensive rebound by N. Claxton,,2,33,26,7,838.0
+9:50.0, ,33-28,D. Finney-Smith makes 2-pt layup from 2 ft (assist by N. Claxton),,2,33,28,5,850.0
+9:36.0,Shooting foul by N. Claxton (drawn by K. Bufkin),33-28, ,,2,33,28,5,864.0
+9:36.0,K. Bufkin misses free throw 1 of 2,33-28, ,,2,33,28,5,864.0
+9:36.0,Offensive rebound by Team,33-28, ,,2,33,28,5,864.0
+9:36.0,C. Capela enters the game for B. Fernando,33-28, ,,2,33,28,5,864.0
+9:36.0,G. Mathews enters the game for D. Hunter,33-28, ,,2,33,28,5,864.0
+9:36.0,K. Bufkin makes free throw 2 of 2,34-28, ,,2,34,28,6,864.0
+9:16.0, ,34-28,D. Smith misses 2-pt jump shot from 10 ft,,2,34,28,6,884.0
+9:13.0,Defensive rebound by B. Bogdanović,34-28, ,,2,34,28,6,887.0
+9:08.0,G. Mathews misses 3-pt jump shot from 27 ft,34-28, ,,2,34,28,6,892.0
+9:04.0, ,34-28,Defensive rebound by D. Smith,,2,34,28,6,896.0
+9:00.0, ,34-28,Personal foul by K. Bufkin (drawn by N. Claxton),,2,34,28,6,900.0
+9:00.0,S. Bey enters the game for J. Johnson,34-28, ,,2,34,28,6,900.0
+9:00.0, ,34-28,D. Schröder enters the game for M. Bridges,,2,34,28,6,900.0
+9:00.0, ,34-28,L. Walker enters the game for D. Smith,,2,34,28,6,900.0
+8:53.0, ,34-28,C. Johnson misses 2-pt jump shot from 16 ft,,2,34,28,6,907.0
+8:49.0,Defensive rebound by B. Bogdanović,34-28, ,,2,34,28,6,911.0
+8:32.0,S. Bey makes 3-pt jump shot from 24 ft (assist by K. Bufkin),37-28, ,,2,37,28,9,928.0
+8:14.0, ,37-31,C. Johnson makes 3-pt jump shot from 28 ft (assist by N. Claxton),,2,37,31,6,946.0
+8:01.0,S. Bey makes 2-pt dunk from 1 ft (assist by K. Bufkin),39-31, ,,2,39,31,8,959.0
+7:50.0, ,39-31,N. Claxton misses 2-pt layup from 3 ft,,2,39,31,8,970.0
+7:48.0,Defensive rebound by B. Bogdanović,39-31, ,,2,39,31,8,972.0
+7:43.0,S. Bey misses 3-pt jump shot from 25 ft,39-31, ,,2,39,31,8,977.0
+7:40.0,Offensive rebound by C. Capela,39-31, ,,2,39,31,8,980.0
+7:40.0,Turnover by C. Capela (lost ball; steal by C. Johnson),39-31, ,,2,39,31,8,980.0
+7:40.0, ,39-31,Turnover by L. Walker (traveling),,2,39,31,8,980.0
+7:40.0,Atlanta full timeout,39-31, ,,2,39,31,8,980.0
+7:40.0,D. Hunter enters the game for B. Bogdanović,39-31, ,,2,39,31,8,980.0
+7:40.0,D. Murray enters the game for G. Mathews,39-31, ,,2,39,31,8,980.0
+7:40.0, ,39-31,M. Bridges enters the game for L. Walker,,2,39,31,8,980.0
+7:32.0,D. Hunter misses 3-pt jump shot from 24 ft,39-31, ,,2,39,31,8,988.0
+7:28.0, ,39-31,Defensive rebound by N. Claxton,,2,39,31,8,992.0
+7:23.0, ,39-34,M. Bridges makes 3-pt jump shot from 26 ft (assist by N. Claxton),,2,39,34,5,997.0
+7:08.0,S. Bey makes 2-pt layup from 2 ft,41-34, ,,2,41,34,7,1012.0
+6:57.0, ,41-34,Shooting foul by C. Capela (drawn by M. Bridges),,2,41,34,7,1023.0
+6:57.0, ,41-35,M. Bridges makes free throw 1 of 2,,2,41,35,6,1023.0
+6:57.0,B. Bogdanović enters the game for K. Bufkin,41-35, ,,2,41,35,6,1023.0
+6:57.0, ,41-36,M. Bridges makes free throw 2 of 2,,2,41,36,5,1023.0
+6:36.0,S. Bey makes 3-pt jump shot from 25 ft (assist by D. Murray),44-36, ,,2,44,36,8,1044.0
+6:23.0, ,44-39,C. Johnson makes 3-pt jump shot from 24 ft (assist by D. Schröder),,2,44,39,5,1057.0
+6:09.0,D. Murray misses 2-pt layup from 4 ft,44-39, ,,2,44,39,5,1071.0
+6:06.0, ,44-39,Defensive rebound by N. Claxton,,2,44,39,5,1074.0
+5:55.0, ,44-39,M. Bridges misses 2-pt layup from 2 ft (block by D. Murray),,2,44,39,5,1085.0
+5:53.0,Defensive rebound by D. Murray,44-39, ,,2,44,39,5,1087.0
+5:50.0,B. Bogdanović misses 3-pt jump shot from 26 ft,44-39, ,,2,44,39,5,1090.0
+5:50.0,Offensive rebound by Team,44-39, ,,2,44,39,5,1090.0
+5:45.0,C. Capela makes 2-pt layup from 1 ft (assist by D. Murray),46-39, ,,2,46,39,7,1095.0
+5:45.0,Shooting foul by D. Schröder (drawn by C. Capela),46-39, ,,2,46,39,7,1095.0
+5:45.0,C. Capela makes free throw 1 of 1,47-39, ,,2,47,39,8,1095.0
+5:28.0, ,47-41,M. Bridges makes 2-pt jump shot from 10 ft,,2,47,41,6,1112.0
+5:16.0,D. Murray makes 2-pt layup from 3 ft,49-41, ,,2,49,41,8,1124.0
+5:00.0, ,49-44,D. Schröder makes 3-pt jump shot from 27 ft (assist by M. Bridges),,2,49,44,5,1140.0
+4:41.0,C. Capela makes 2-pt hook shot from 4 ft (assist by D. Murray),51-44, ,,2,51,44,7,1159.0
+4:26.0, ,51-44,D. Schröder misses 2-pt jump shot from 15 ft,,2,51,44,7,1174.0
+4:22.0,Defensive rebound by C. Capela,51-44, ,,2,51,44,7,1178.0
+4:14.0,D. Hunter makes 3-pt jump shot from 23 ft (assist by C. Capela),54-44, ,,2,54,44,10,1186.0
+4:14.0,Loose ball foul by S. Bey (drawn by C. Johnson),54-44, ,,2,54,44,10,1186.0
+4:14.0,Instant Replay (Request: Ruling Stands),54-44, ,,2,54,44,10,1186.0
+4:14.0, ,54-44,D. Smith enters the game for C. Johnson,,2,54,44,10,1186.0
+3:54.0, ,54-46,M. Bridges makes 2-pt layup from 3 ft (assist by N. Claxton),,2,54,46,8,1206.0
+3:24.0,D. Hunter makes 2-pt jump shot from 20 ft (assist by S. Bey),56-46, ,,2,56,46,10,1236.0
+3:06.0, ,56-48,N. Claxton makes 2-pt hook shot from 6 ft (assist by D. Finney-Smith),,2,56,48,8,1254.0
+2:48.0,D. Hunter misses 2-pt jump shot from 6 ft,56-48, ,,2,56,48,8,1272.0
+2:46.0, ,56-48,Defensive rebound by D. Smith,,2,56,48,8,1274.0
+2:40.0, ,56-51,D. Finney-Smith makes 3-pt jump shot from 27 ft (assist by D. Smith),,2,56,51,5,1280.0
+2:23.0,B. Bogdanović misses 3-pt jump shot from 25 ft,56-51, ,,2,56,51,5,1297.0
+2:20.0, ,56-51,Defensive rebound by N. Claxton,,2,56,51,5,1300.0
+2:03.0, ,56-54,D. Smith makes 3-pt jump shot from 24 ft (assist by M. Bridges),,2,56,54,2,1317.0
+1:49.0,D. Hunter makes 3-pt jump shot from 24 ft (assist by D. Murray),59-54, ,,2,59,54,5,1331.0
+1:36.0, ,59-54,Personal foul by D. Hunter (drawn by N. Claxton),,2,59,54,5,1344.0
+1:36.0, ,59-54,Brooklyn full timeout,,2,59,54,5,1344.0
+1:36.0,J. Johnson enters the game for C. Capela,59-54, ,,2,59,54,5,1344.0
+1:36.0, ,59-54,N. Claxton misses free throw 1 of 2,,2,59,54,5,1344.0
+1:36.0, ,59-54,Offensive rebound by Team,,2,59,54,5,1344.0
+1:36.0, ,59-54,N. Claxton misses free throw 2 of 2,,2,59,54,5,1344.0
+1:33.0,Defensive rebound by B. Bogdanović,59-54, ,,2,59,54,5,1347.0
+1:14.0,B. Bogdanović misses 3-pt jump shot from 26 ft,59-54, ,,2,59,54,5,1366.0
+1:10.0, ,59-54,Defensive rebound by D. Smith,,2,59,54,5,1370.0
+1:01.0, ,59-56,D. Finney-Smith makes 2-pt layup from 6 ft (assist by D. Smith),,2,59,56,3,1379.0
+0:41.0,D. Hunter misses 2-pt jump shot from 18 ft,59-56, ,,2,59,56,3,1399.0
+0:38.0,Offensive rebound by B. Bogdanović,59-56, ,,2,59,56,3,1402.0
+0:38.0,Turnover by B. Bogdanović (step out of bounds),59-56, ,,2,59,56,3,1402.0
+0:33.0, ,59-59,M. Bridges makes 3-pt jump shot from 28 ft (assist by D. Schröder),Tie,2,59,59,0,1407.0
+0:12.0,D. Murray makes 3-pt jump shot from 25 ft,62-59, ,,2,62,59,3,1428.0
+0:00.0, ,62-59,Shooting foul by D. Murray (drawn by D. Schröder),,2,62,59,3,1440.0
+0:00.0,Atlanta full timeout,62-59, ,,2,62,59,3,1440.0
+0:00.0,Instant Replay (Challenge: Ruling Stands),62-59, ,,2,62,59,3,1440.0
+0:00.0,C. Capela enters the game for B. Bogdanović,62-59, ,,2,62,59,3,1440.0
+0:00.0, ,62-59,D. Sharpe enters the game for M. Bridges,,2,62,59,3,1440.0
+0:00.0, ,62-60,D. Schröder makes free throw 1 of 2,,2,62,60,2,1440.0
+0:00.0, ,62-60,D. Schröder misses free throw 2 of 2,,2,62,60,2,1440.0
+0:00.0,Defensive rebound by C. Capela,62-60, ,,2,62,60,2,1440.0
+0:00.0,End of 2nd quarter,62-60,,,2,62,60,2,1440.0
+12:00.0,Start of 3rd quarter,62-60,,,3,62,60,2,1440.0
+11:35.0,J. Johnson makes 2-pt jump shot from 15 ft,64-60, ,,3,64,60,4,1465.0
+11:13.0, ,64-60,D. Finney-Smith misses 3-pt jump shot from 24 ft,,3,64,60,4,1487.0
+11:11.0,Defensive rebound by D. Murray,64-60, ,,3,64,60,4,1489.0
+11:01.0,J. Johnson misses 2-pt jump shot from 2 ft,64-60, ,,3,64,60,4,1499.0
+10:59.0, ,64-60,Defensive rebound by N. Claxton,,3,64,60,4,1501.0
+10:49.0, ,64-60,M. Bridges misses 2-pt jump shot from 7 ft,,3,64,60,4,1511.0
+10:47.0,Defensive rebound by S. Bey,64-60, ,,3,64,60,4,1513.0
+10:38.0,D. Murray misses 2-pt jump shot from 6 ft (block by M. Bridges),64-60, ,,3,64,60,4,1522.0
+10:36.0,Offensive rebound by C. Capela,64-60, ,,3,64,60,4,1524.0
+10:35.0,J. Johnson misses 3-pt jump shot from 24 ft,64-60, ,,3,64,60,4,1525.0
+10:35.0, ,64-60,Defensive rebound by Team,,3,64,60,4,1525.0
+10:35.0,Loose ball foul by C. Capela (drawn by N. Claxton),64-60, ,,3,64,60,4,1525.0
+10:20.0, ,64-62,M. Bridges makes 2-pt jump shot from 18 ft,,3,64,62,2,1540.0
+10:00.0,B. Bogdanović misses 2-pt jump shot from 8 ft,64-62, ,,3,64,62,2,1560.0
+9:59.0, ,64-62,Defensive rebound by N. Claxton,,3,64,62,2,1561.0
+9:49.0, ,64-62,Turnover by C. Johnson (bad pass; steal by C. Capela),,3,64,62,2,1571.0
+9:37.0,D. Murray misses 3-pt jump shot from 25 ft,64-62, ,,3,64,62,2,1583.0
+9:34.0,Offensive rebound by C. Capela,64-62, ,,3,64,62,2,1586.0
+9:33.0,C. Capela misses 2-pt layup from 1 ft,64-62, ,,3,64,62,2,1587.0
+9:32.0,Offensive rebound by B. Bogdanović,64-62, ,,3,64,62,2,1588.0
+9:31.0,B. Bogdanović misses 2-pt layup from 4 ft,64-62, ,,3,64,62,2,1589.0
+9:29.0, ,64-62,Defensive rebound by M. Bridges,,3,64,62,2,1591.0
+9:26.0, ,64-64,M. Bridges makes 2-pt layup from 1 ft,Tie,3,64,64,0,1594.0
+9:13.0,J. Johnson misses 2-pt layup from 5 ft (block by D. Schröder),64-64, ,,3,64,64,0,1607.0
+9:11.0, ,64-64,Defensive rebound by C. Johnson,,3,64,64,0,1609.0
+9:09.0, ,64-64,Shooting foul by B. Bogdanović (drawn by C. Johnson),,3,64,64,0,1611.0
+9:09.0, ,64-65,C. Johnson makes free throw 1 of 2,Lead change,3,64,65,-1,1611.0
+9:09.0, ,64-66,C. Johnson makes free throw 2 of 2,,3,64,66,-2,1611.0
+8:58.0,B. Bogdanović misses 3-pt jump shot from 26 ft,64-66, ,,3,64,66,-2,1622.0
+8:54.0, ,64-66,Defensive rebound by C. Johnson,,3,64,66,-2,1626.0
+8:37.0, ,64-68,M. Bridges makes 2-pt layup from 3 ft,,3,64,68,-4,1643.0
+8:35.0,Atlanta full timeout,64-68, ,,3,64,68,-4,1645.0
+8:12.0,S. Bey misses 2-pt layup from 4 ft,64-68, ,,3,64,68,-4,1668.0
+8:11.0,Offensive rebound by Team,64-68, ,,3,64,68,-4,1669.0
+8:11.0,Turnover by Team (shot clock),64-68, ,,3,64,68,-4,1669.0
+7:57.0, ,64-68,M. Bridges misses 3-pt jump shot from 27 ft,,3,64,68,-4,1683.0
+7:57.0, ,64-68,Offensive rebound by Team,,3,64,68,-4,1683.0
+7:42.0, ,64-70,N. Claxton makes 2-pt hook shot from 5 ft,,3,64,70,-6,1698.0
+7:27.0,J. Johnson makes 2-pt dunk from 1 ft (assist by B. Bogdanović),66-70, ,,3,66,70,-4,1713.0
+7:20.0, ,66-70,Offensive foul by N. Claxton (drawn by B. Bogdanović),,3,66,70,-4,1720.0
+7:20.0, ,66-70,Turnover by N. Claxton (offensive foul),,3,66,70,-4,1720.0
+7:06.0,B. Bogdanović misses 3-pt jump shot from 24 ft,66-70, ,,3,66,70,-4,1734.0
+7:04.0, ,66-70,Defensive rebound by N. Claxton,,3,66,70,-4,1736.0
+6:49.0, ,66-73,D. Schröder makes 3-pt jump shot from 27 ft (assist by D. Finney-Smith),,3,66,73,-7,1751.0
+6:29.0,B. Bogdanović misses 2-pt layup from 4 ft (block by N. Claxton),66-73, ,,3,66,73,-7,1771.0
+6:29.0, ,66-73,Defensive rebound by D. Finney-Smith,,3,66,73,-7,1771.0
+6:24.0, ,66-75,M. Bridges makes 2-pt layup from 3 ft (assist by D. Finney-Smith),,3,66,75,-9,1776.0
+6:04.0,B. Bogdanović makes 2-pt hook shot from 3 ft (assist by D. Murray),68-75, ,,3,68,75,-7,1796.0
+6:04.0, ,68-75,Violation by Team (def goaltending),,3,68,75,-7,1796.0
+5:53.0, ,68-75,D. Schröder misses 2-pt jump shot from 10 ft,,3,68,75,-7,1807.0
+5:52.0,Defensive rebound by D. Murray,68-75, ,,3,68,75,-7,1808.0
+5:42.0,J. Johnson misses 2-pt layup from 4 ft (block by N. Claxton),68-75, ,,3,68,75,-7,1818.0
+5:39.0, ,68-75,Defensive rebound by N. Claxton,,3,68,75,-7,1821.0
+5:36.0, ,68-75,M. Bridges misses 2-pt jump shot from 7 ft,,3,68,75,-7,1824.0
+5:32.0,Defensive rebound by D. Murray,68-75, ,,3,68,75,-7,1828.0
+5:25.0,C. Capela makes 2-pt dunk from 2 ft (assist by S. Bey),70-75, ,,3,70,75,-5,1835.0
+5:08.0, ,70-77,D. Schröder makes 2-pt jump shot from 18 ft (assist by D. Finney-Smith),,3,70,77,-7,1852.0
+5:08.0,B. Fernando enters the game for B. Bogdanović,70-77, ,,3,70,77,-7,1852.0
+5:08.0,D. Hunter enters the game for C. Capela,70-77, ,,3,70,77,-7,1852.0
+5:08.0,G. Mathews enters the game for J. Johnson,70-77, ,,3,70,77,-7,1852.0
+5:08.0, ,70-77,D. Sharpe enters the game for M. Bridges,,3,70,77,-7,1852.0
+5:08.0, ,70-77,J. Wilson enters the game for N. Claxton,,3,70,77,-7,1852.0
+4:44.0,Turnover by D. Murray (bad pass),70-77, ,,3,70,77,-7,1876.0
+4:33.0, ,70-79,D. Sharpe makes 2-pt dunk at rim (assist by D. Schröder),,3,70,79,-9,1887.0
+4:18.0,D. Murray makes 3-pt jump shot from 28 ft,73-79, ,,3,73,79,-6,1902.0
+4:08.0, ,73-79,C. Johnson misses 3-pt jump shot from 27 ft,,3,73,79,-6,1912.0
+4:06.0, ,73-79,Offensive rebound by J. Wilson,,3,73,79,-6,1914.0
+4:04.0, ,73-82,C. Johnson makes 3-pt jump shot from 25 ft (assist by D. Schröder),,3,73,82,-9,1916.0
+4:03.0, ,73-82,Shooting foul by G. Mathews (drawn by C. Johnson),,3,73,82,-9,1917.0
+4:03.0, ,73-82,L. Walker enters the game for D. Finney-Smith,,3,73,82,-9,1917.0
+4:03.0, ,73-83,C. Johnson makes free throw 1 of 1,,3,73,83,-10,1917.0
+3:50.0,Personal foul by C. Johnson (drawn by D. Hunter),73-83, ,,3,73,83,-10,1930.0
+3:50.0,J. Johnson enters the game for S. Bey,73-83, ,,3,73,83,-10,1930.0
+3:50.0, ,73-83,M. Bridges enters the game for C. Johnson,,3,73,83,-10,1930.0
+3:50.0, ,73-83,D. Smith enters the game for D. Schröder,,3,73,83,-10,1930.0
+3:48.0,D. Murray misses 2-pt layup from 3 ft (block by D. Smith),73-83, ,,3,73,83,-10,1932.0
+3:47.0,Offensive rebound by B. Fernando,73-83, ,,3,73,83,-10,1933.0
+3:42.0,B. Fernando makes 2-pt layup from 3 ft,75-83, ,,3,75,83,-8,1938.0
+3:19.0, ,75-83,Shooting foul by D. Murray (drawn by D. Sharpe),,3,75,83,-8,1961.0
+3:19.0, ,75-83,D. Sharpe misses free throw 1 of 2,,3,75,83,-8,1961.0
+3:19.0, ,75-83,Offensive rebound by Team,,3,75,83,-8,1961.0
+3:19.0, ,75-84,D. Sharpe makes free throw 2 of 2,,3,75,84,-9,1961.0
+3:06.0,D. Murray misses 3-pt jump shot from 29 ft,75-84, ,,3,75,84,-9,1974.0
+3:04.0,Offensive rebound by J. Johnson,75-84, ,,3,75,84,-9,1976.0
+2:54.0,Turnover by D. Hunter (traveling),75-84, ,,3,75,84,-9,1986.0
+2:54.0, ,75-84,Brooklyn full timeout,,3,75,84,-9,1986.0
+2:54.0,K. Bufkin enters the game for D. Murray,75-84, ,,3,75,84,-9,1986.0
+2:34.0, ,75-84,M. Bridges misses 3-pt jump shot from 23 ft,,3,75,84,-9,2006.0
+2:29.0,Defensive rebound by B. Fernando,75-84, ,,3,75,84,-9,2011.0
+2:22.0,K. Bufkin misses 2-pt layup from 4 ft (block by D. Sharpe),75-84, ,,3,75,84,-9,2018.0
+2:20.0, ,75-84,Defensive rebound by J. Wilson,,3,75,84,-9,2020.0
+2:06.0, ,75-84,D. Smith misses 2-pt layup from 2 ft,,3,75,84,-9,2034.0
+2:05.0,Defensive rebound by B. Fernando,75-84, ,,3,75,84,-9,2035.0
+1:57.0,B. Fernando misses 2-pt layup from 4 ft,75-84, ,,3,75,84,-9,2043.0
+1:55.0, ,75-84,Defensive rebound by D. Smith,,3,75,84,-9,2045.0
+1:43.0, ,75-84,Shooting foul by B. Fernando (drawn by M. Bridges),,3,75,84,-9,2057.0
+1:43.0, ,75-85,M. Bridges makes free throw 1 of 2,,3,75,85,-10,2057.0
+1:43.0, ,75-86,M. Bridges makes free throw 2 of 2,,3,75,86,-11,2057.0
+1:32.0,Def 3 sec tech foul by Team,75-86, ,,3,75,86,-11,2068.0
+1:32.0,B. Bogdanović enters the game for G. Mathews,75-86, ,,3,75,86,-11,2068.0
+1:32.0,D. Hunter makes technical free throw,76-86, ,,3,76,86,-10,2068.0
+1:21.0,K. Bufkin misses 2-pt layup from 4 ft,76-86, ,,3,76,86,-10,2079.0
+1:20.0,Offensive rebound by B. Fernando,76-86, ,,3,76,86,-10,2080.0
+1:20.0,Shooting foul by J. Wilson (drawn by B. Fernando),76-86, ,,3,76,86,-10,2080.0
+1:20.0,B. Fernando makes free throw 1 of 2,77-86, ,,3,77,86,-9,2080.0
+1:20.0,B. Fernando makes free throw 2 of 2,78-86, ,,3,78,86,-8,2080.0
+0:58.0, ,78-86,J. Wilson misses 3-pt jump shot from 26 ft,,3,78,86,-8,2102.0
+0:55.0, ,78-86,Offensive rebound by D. Smith,,3,78,86,-8,2105.0
+0:48.0, ,78-86,D. Smith misses 2-pt layup from 2 ft (block by B. Fernando),,3,78,86,-8,2112.0
+0:47.0, ,78-86,Offensive rebound by Team,,3,78,86,-8,2113.0
+0:46.0, ,78-88,L. Walker makes 2-pt jump shot from 20 ft (assist by D. Smith),,3,78,88,-10,2114.0
+0:30.0,Turnover by J. Johnson (bad pass; steal by M. Bridges),78-88, ,,3,78,88,-10,2130.0
+0:26.0, ,78-90,M. Bridges makes 2-pt layup from 1 ft,,3,78,90,-12,2134.0
+0:12.0,Personal foul by L. Walker (drawn by B. Bogdanović),78-90, ,,3,78,90,-12,2148.0
+0:12.0,B. Bogdanović makes free throw 1 of 2,79-90, ,,3,79,90,-11,2148.0
+0:12.0, ,79-90,D. Finney-Smith enters the game for D. Sharpe,,3,79,90,-11,2148.0
+0:12.0, ,79-90,C. Johnson enters the game for D. Smith,,3,79,90,-11,2148.0
+0:12.0, ,79-90,D. Schröder enters the game for J. Wilson,,3,79,90,-11,2148.0
+0:12.0,B. Bogdanović makes free throw 2 of 2,80-90, ,,3,80,90,-10,2148.0
+0:00.0, ,80-90,D. Schröder misses 2-pt layup from 4 ft,,3,80,90,-10,2160.0
+0:00.0,Defensive rebound by K. Bufkin,80-90, ,,3,80,90,-10,2160.0
+0:00.0,End of 3rd quarter,80-90,,,3,80,90,-10,2160.0
+12:00.0,Start of 4th quarter,80-90,,,4,80,90,-10,2160.0
+11:48.0, ,80-90,D. Schröder misses 2-pt layup from 5 ft,,4,80,90,-10,2172.0
+11:46.0,Defensive rebound by J. Johnson,80-90, ,,4,80,90,-10,2174.0
+11:42.0,Turnover by K. Bufkin (bad pass; steal by D. Finney-Smith),80-90, ,,4,80,90,-10,2178.0
+11:35.0, ,80-90,Turnover by N. Claxton (bad pass),,4,80,90,-10,2185.0
+11:21.0,K. Bufkin makes 2-pt jump shot from 7 ft,82-90, ,,4,82,90,-8,2199.0
+11:02.0, ,82-92,C. Johnson makes 2-pt jump shot from 13 ft,,4,82,92,-10,2218.0
+10:45.0,Turnover by D. Hunter (bad pass; steal by N. Claxton),82-92, ,,4,82,92,-10,2235.0
+10:45.0, ,82-92,Personal foul by B. Fernando (drawn by N. Claxton),,4,82,92,-10,2235.0
+10:31.0, ,82-92,C. Johnson misses 2-pt layup from 5 ft (block by B. Fernando),,4,82,92,-10,2249.0
+10:30.0, ,82-92,Offensive rebound by C. Johnson,,4,82,92,-10,2250.0
+10:30.0, ,82-92,Brooklyn full timeout,,4,82,92,-10,2250.0
+10:17.0, ,82-92,D. Smith misses 3-pt jump shot from 22 ft,,4,82,92,-10,2263.0
+10:16.0, ,82-92,Offensive rebound by N. Claxton,,4,82,92,-10,2264.0
+10:14.0, ,82-92,N. Claxton misses 2-pt hook shot from 5 ft,,4,82,92,-10,2266.0
+10:11.0,Defensive rebound by D. Hunter,82-92, ,,4,82,92,-10,2269.0
+10:05.0,D. Hunter misses 2-pt layup from 5 ft,82-92, ,,4,82,92,-10,2275.0
+10:04.0,Offensive rebound by Team,82-92, ,,4,82,92,-10,2276.0
+10:04.0, ,82-92,Loose ball foul by D. Schröder (drawn by B. Fernando),,4,82,92,-10,2276.0
+9:54.0,K. Bufkin misses 2-pt jump shot from 15 ft,82-92, ,,4,82,92,-10,2286.0
+9:51.0, ,82-92,Defensive rebound by N. Claxton,,4,82,92,-10,2289.0
+9:38.0, ,82-92,N. Claxton misses 2-pt hook shot from 6 ft,,4,82,92,-10,2302.0
+9:34.0,Defensive rebound by K. Bufkin,82-92, ,,4,82,92,-10,2306.0
+9:19.0,J. Johnson misses 3-pt jump shot from 22 ft,82-92, ,,4,82,92,-10,2321.0
+9:15.0, ,82-92,Defensive rebound by D. Schröder,,4,82,92,-10,2325.0
+9:13.0, ,82-92,C. Johnson misses 3-pt jump shot from 27 ft,,4,82,92,-10,2327.0
+9:11.0,Defensive rebound by Team,82-92, ,,4,82,92,-10,2329.0
+9:11.0,S. Bey enters the game for K. Bufkin,82-92, ,,4,82,92,-10,2329.0
+9:11.0,C. Capela enters the game for B. Fernando,82-92, ,,4,82,92,-10,2329.0
+9:11.0,D. Murray enters the game for D. Hunter,82-92, ,,4,82,92,-10,2329.0
+8:50.0,D. Murray misses 2-pt jump shot from 20 ft,82-92, ,,4,82,92,-10,2350.0
+8:47.0,Offensive rebound by C. Capela,82-92, ,,4,82,92,-10,2353.0
+8:47.0,C. Capela misses 2-pt layup from 6 ft,82-92, ,,4,82,92,-10,2353.0
+8:47.0,Offensive rebound by J. Johnson,82-92, ,,4,82,92,-10,2353.0
+8:45.0,Shooting foul by D. Smith (drawn by J. Johnson),82-92, ,,4,82,92,-10,2355.0
+8:45.0,J. Johnson misses free throw 1 of 2,82-92, ,,4,82,92,-10,2355.0
+8:45.0,Offensive rebound by Team,82-92, ,,4,82,92,-10,2355.0
+8:45.0, ,82-92,M. Bridges enters the game for C. Johnson,,4,82,92,-10,2355.0
+8:45.0, ,82-92,J. Wilson enters the game for D. Smith,,4,82,92,-10,2355.0
+8:45.0,J. Johnson makes free throw 2 of 2,83-92, ,,4,83,92,-9,2355.0
+8:31.0, ,83-94,N. Claxton makes 2-pt dunk at rim (assist by D. Schröder),,4,83,94,-11,2369.0
+8:14.0,S. Bey misses 3-pt jump shot from 27 ft,83-94, ,,4,83,94,-11,2386.0
+8:11.0, ,83-94,Defensive rebound by D. Schröder,,4,83,94,-11,2389.0
+7:59.0, ,83-94,D. Schröder misses 2-pt jump shot from 11 ft,,4,83,94,-11,2401.0
+7:56.0,Defensive rebound by J. Johnson,83-94, ,,4,83,94,-11,2404.0
+7:47.0,Turnover by D. Murray (bad pass; steal by N. Claxton),83-94, ,,4,83,94,-11,2413.0
+7:42.0, ,83-96,N. Claxton makes 2-pt dunk from 1 ft (assist by J. Wilson),,4,83,96,-13,2418.0
+7:42.0,Atlanta full timeout,83-96, ,,4,83,96,-13,2418.0
+7:23.0,D. Murray makes 2-pt layup from 3 ft,85-96, ,,4,85,96,-11,2437.0
+7:07.0, ,85-99,M. Bridges makes 3-pt jump shot from 26 ft (assist by D. Schröder),,4,85,99,-14,2453.0
+7:07.0, ,85-99,Shooting foul by S. Bey (drawn by M. Bridges),,4,85,99,-14,2453.0
+7:07.0,D. Hunter enters the game for B. Bogdanović,85-99, ,,4,85,99,-14,2453.0
+7:07.0, ,85-99,C. Johnson enters the game for J. Wilson,,4,85,99,-14,2453.0
+7:07.0, ,85-100,M. Bridges makes free throw 1 of 1,,4,85,100,-15,2453.0
+6:50.0,D. Murray makes 2-pt layup from 4 ft,87-100, ,,4,87,100,-13,2470.0
+6:24.0, ,87-100,D. Schröder misses 2-pt layup from 4 ft,,4,87,100,-13,2496.0
+6:22.0,Defensive rebound by D. Hunter,87-100, ,,4,87,100,-13,2498.0
+6:10.0,S. Bey makes 2-pt layup from 3 ft (assist by D. Hunter),89-100, ,,4,89,100,-11,2510.0
+6:10.0,Shooting foul by D. Finney-Smith (drawn by S. Bey),89-100, ,,4,89,100,-11,2510.0
+6:10.0,B. Bogdanović enters the game for C. Capela,89-100, ,,4,89,100,-11,2510.0
+6:10.0,S. Bey makes free throw 1 of 1,90-100, ,,4,90,100,-10,2510.0
+5:47.0, ,90-102,N. Claxton makes 2-pt dunk from 1 ft (assist by D. Schröder),,4,90,102,-12,2533.0
+5:34.0,D. Murray misses 3-pt jump shot from 31 ft,90-102, ,,4,90,102,-12,2546.0
+5:31.0, ,90-102,Defensive rebound by N. Claxton,,4,90,102,-12,2549.0
+5:11.0, ,90-102,Offensive foul by M. Bridges (drawn by S. Bey),,4,90,102,-12,2569.0
+5:11.0, ,90-102,Turnover by M. Bridges (offensive foul),,4,90,102,-12,2569.0
+5:10.0, ,90-102,Technical foul by M. Bridges,,4,90,102,-12,2570.0
+5:10.0,D. Hunter misses technical free throw,90-102, ,,4,90,102,-12,2570.0
+5:10.0,Offensive rebound by Team,90-102, ,,4,90,102,-12,2570.0
+5:00.0,Turnover by B. Bogdanović (bad pass; steal by M. Bridges),90-102, ,,4,90,102,-12,2580.0
+4:57.0, ,90-104,M. Bridges makes 2-pt layup from 1 ft,,4,90,104,-14,2583.0
+4:36.0,Turnover by B. Bogdanović (bad pass),90-104, ,,4,90,104,-14,2604.0
+4:19.0, ,90-107,D. Schröder makes 3-pt jump shot from 27 ft (assist by D. Finney-Smith),,4,90,107,-17,2621.0
+4:16.0,Atlanta full timeout,90-107, ,,4,90,107,-17,2624.0
+4:16.0,Technical foul by D. Murray,90-107, ,,4,90,107,-17,2624.0
+4:16.0, ,90-108,C. Johnson makes technical free throw,,4,90,108,-18,2624.0
+4:03.0,D. Murray makes 2-pt layup from 2 ft,92-108, ,,4,92,108,-16,2637.0
+3:40.0, ,92-108,Shooting foul by J. Johnson (drawn by D. Schröder),,4,92,108,-16,2660.0
+3:40.0, ,92-109,D. Schröder makes free throw 1 of 2,,4,92,109,-17,2660.0
+3:40.0, ,92-109,J. Wilson enters the game for C. Johnson,,4,92,109,-17,2660.0
+3:40.0, ,92-110,D. Schröder makes free throw 2 of 2,,4,92,110,-18,2660.0
+3:32.0,Shooting foul by J. Wilson (drawn by D. Murray),92-110, ,,4,92,110,-18,2668.0
+3:32.0,D. Murray makes free throw 1 of 2,93-110, ,,4,93,110,-17,2668.0
+3:32.0,D. Murray makes free throw 2 of 2,94-110, ,,4,94,110,-16,2668.0
+3:19.0, ,94-110,Personal foul by D. Hunter (drawn by D. Finney-Smith),,4,94,110,-16,2681.0
+3:19.0, ,94-110,D. Sharpe enters the game for N. Claxton,,4,94,110,-16,2681.0
+3:13.0, ,94-112,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by D. Sharpe),,4,94,112,-18,2687.0
+3:05.0,S. Bey misses 3-pt jump shot from 26 ft,94-112, ,,4,94,112,-18,2695.0
+3:03.0, ,94-112,Defensive rebound by M. Bridges,,4,94,112,-18,2697.0
+2:53.0, ,94-112,Turnover by D. Sharpe (lost ball; steal by B. Bogdanović),,4,94,112,-18,2707.0
+2:46.0,J. Johnson misses 3-pt jump shot from 27 ft,94-112, ,,4,94,112,-18,2714.0
+2:44.0, ,94-112,Defensive rebound by D. Sharpe,,4,94,112,-18,2716.0
+2:26.0, ,94-112,M. Bridges misses 3-pt jump shot from 26 ft,,4,94,112,-18,2734.0
+2:23.0,Defensive rebound by S. Bey,94-112, ,,4,94,112,-18,2737.0
+2:18.0,S. Bey misses 2-pt layup from 4 ft,94-112, ,,4,94,112,-18,2742.0
+2:18.0,Offensive rebound by Team,94-112, ,,4,94,112,-18,2742.0
+2:18.0,Shooting foul by D. Schröder (drawn by S. Bey),94-112, ,,4,94,112,-18,2742.0
+2:18.0,S. Bey makes free throw 1 of 2,95-112, ,,4,95,112,-17,2742.0
+2:18.0,K. Bufkin enters the game for B. Bogdanović,95-112, ,,4,95,112,-17,2742.0
+2:18.0,B. Fernando enters the game for D. Hunter,95-112, ,,4,95,112,-17,2742.0
+2:18.0,G. Mathews enters the game for D. Murray,95-112, ,,4,95,112,-17,2742.0
+2:18.0, ,95-112,K. Bates-Diop enters the game for M. Bridges,,4,95,112,-17,2742.0
+2:18.0, ,95-112,D. Smith enters the game for D. Finney-Smith,,4,95,112,-17,2742.0
+2:18.0, ,95-112,T. Watford enters the game for D. Schröder,,4,95,112,-17,2742.0
+2:18.0,S. Bey makes free throw 2 of 2,96-112, ,,4,96,112,-16,2742.0
+2:03.0, ,96-112,D. Sharpe misses 2-pt hook shot from 9 ft,,4,96,112,-16,2757.0
+2:01.0,Defensive rebound by J. Johnson,96-112, ,,4,96,112,-16,2759.0
+1:45.0,Shooting foul by D. Smith (drawn by S. Bey),96-112, ,,4,96,112,-16,2775.0
+1:45.0,S. Bey makes free throw 1 of 2,97-112, ,,4,97,112,-15,2775.0
+1:45.0,T. Forrest enters the game for J. Johnson,97-112, ,,4,97,112,-15,2775.0
+1:45.0,S. Bey makes free throw 2 of 2,98-112, ,,4,98,112,-14,2775.0
+1:28.0, ,98-112,J. Wilson misses 2-pt hook shot from 5 ft (block by B. Fernando),,4,98,112,-14,2792.0
+1:27.0,Defensive rebound by Team,98-112, ,,4,98,112,-14,2793.0
+1:10.0,K. Bufkin misses 3-pt jump shot from 24 ft,98-112, ,,4,98,112,-14,2810.0
+1:09.0,Offensive rebound by S. Bey,98-112, ,,4,98,112,-14,2811.0
+1:09.0,S. Bey makes 2-pt dunk from 2 ft,100-112, ,,4,100,112,-12,2811.0
+0:54.0, ,100-114,T. Watford makes 2-pt layup from 2 ft,,4,100,114,-14,2826.0
+0:41.0,B. Fernando makes 2-pt layup from 1 ft (assist by T. Forrest),102-114, ,,4,102,114,-12,2839.0
+0:16.0, ,102-114,Turnover by Team (shot clock),,4,102,114,-12,2864.0
+0:00.0,End of 4th quarter,102-114,,,4,102,114,-12,2880.0

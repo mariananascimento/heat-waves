@@ -1,0 +1,484 @@
+Time,Memphis,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: J. Jackson vs. C. Capela (D. Bane gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,D. Bane misses 3-pt jump shot from 25 ft,0-0, ,,1,0,0,0,15.0
+11:41.0, ,0-0,Defensive rebound by C. Capela,,1,0,0,0,19.0
+11:29.0, ,0-0,Turnover by D. Murray (bad pass; steal by J. Morant),,1,0,0,0,31.0
+11:23.0,J. Jackson makes 2-pt jump shot from 8 ft,2-0, ,,1,0,2,-2,37.0
+11:00.0, ,2-0,S. Bey misses 3-pt jump shot from 25 ft,,1,0,2,-2,60.0
+10:57.0, ,2-0,Offensive rebound by C. Capela,,1,0,2,-2,63.0
+10:56.0, ,2-2,C. Capela makes 2-pt layup from 1 ft,Tie,1,2,2,0,64.0
+10:56.0, ,2-2,Shooting foul by V. Williams (drawn by C. Capela),,1,2,2,0,64.0
+10:56.0, ,2-3,C. Capela makes free throw 1 of 1,Lead change,1,3,2,1,64.0
+10:44.0,D. Bane makes 2-pt jump shot from 12 ft (assist by J. Morant),4-3, ,Lead change,1,3,4,-1,76.0
+10:23.0, ,4-6,D. Murray makes 3-pt jump shot from 24 ft (assist by C. Capela),Lead change,1,6,4,2,97.0
+10:15.0,Personal foul by G. Mathews (drawn by J. Jackson),4-6, ,,1,6,4,2,105.0
+9:59.0,J. Morant makes 2-pt layup from 2 ft,6-6, ,Tie,1,6,6,0,121.0
+9:42.0, ,6-9,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Young),,1,9,6,3,138.0
+9:29.0,J. Jackson makes 2-pt jump shot from 8 ft (assist by D. Bane),8-9, ,,1,9,8,1,151.0
+9:17.0, ,8-9,C. Capela misses 2-pt layup from 2 ft,,1,9,8,1,163.0
+9:14.0,Defensive rebound by J. Morant,8-9, ,,1,9,8,1,166.0
+9:05.0,J. Morant misses 2-pt jump shot from 12 ft,8-9, ,,1,9,8,1,175.0
+9:02.0, ,8-9,Defensive rebound by G. Mathews,,1,9,8,1,178.0
+8:54.0, ,8-9,D. Murray misses 2-pt jump shot from 20 ft,,1,9,8,1,186.0
+8:53.0,Defensive rebound by Team,8-9, ,,1,9,8,1,187.0
+8:36.0,D. Bane makes 2-pt layup from 7 ft,10-9, ,Lead change,1,9,10,-1,204.0
+8:21.0, ,10-11,C. Capela makes 2-pt dunk at rim (assist by T. Young),Lead change,1,11,10,1,219.0
+7:59.0,J. Morant misses 2-pt dunk from 1 ft,10-11, ,,1,11,10,1,241.0
+7:56.0, ,10-11,Defensive rebound by S. Bey,,1,11,10,1,244.0
+7:43.0, ,10-13,T. Young makes 2-pt jump shot from 10 ft (assist by G. Mathews),,1,13,10,3,257.0
+7:30.0,J. Morant makes 2-pt jump shot from 10 ft,12-13, ,,1,13,12,1,270.0
+7:15.0, ,12-15,T. Young makes 2-pt jump shot from 11 ft,,1,15,12,3,285.0
+7:02.0,Turnover by J. Jackson (lost ball; steal by S. Bey),12-15, ,,1,15,12,3,298.0
+6:57.0, ,12-17,D. Murray makes 2-pt layup from 1 ft (assist by S. Bey),,1,17,12,5,303.0
+6:56.0,Memphis full timeout,12-17, ,,1,17,12,5,304.0
+6:56.0, ,12-17,B. Bogdanović enters the game for S. Bey,,1,17,12,5,304.0
+6:56.0, ,12-17,O. Okongwu enters the game for T. Young,,1,17,12,5,304.0
+6:43.0,Turnover by J. Morant (bad pass; steal by G. Mathews),12-17, ,,1,17,12,5,317.0
+6:30.0, ,12-17,D. Murray misses 3-pt jump shot from 24 ft,,1,17,12,5,330.0
+6:27.0,Defensive rebound by V. Williams,12-17, ,,1,17,12,5,333.0
+6:24.0,Personal foul by G. Mathews (drawn by D. Bane),12-17, ,,1,17,12,5,336.0
+6:14.0,V. Williams misses 3-pt jump shot from 23 ft,12-17, ,,1,17,12,5,346.0
+6:12.0,Offensive rebound by B. Biyombo,12-17, ,,1,17,12,5,348.0
+6:09.0,D. Bane misses 3-pt jump shot from 25 ft,12-17, ,,1,17,12,5,351.0
+6:05.0, ,12-17,Defensive rebound by D. Murray,,1,17,12,5,355.0
+5:56.0, ,12-17,Turnover by D. Murray (bad pass; steal by V. Williams),,1,17,12,5,364.0
+5:39.0,B. Biyombo makes 2-pt dunk at rim (assist by J. Morant),14-17, ,,1,17,14,3,381.0
+5:39.0,S. Aldama enters the game for B. Biyombo,14-17, ,,1,17,14,3,381.0
+5:39.0,J. Konchar enters the game for J. Morant,14-17, ,,1,17,14,3,381.0
+5:13.0, ,14-19,B. Bogdanović makes 2-pt jump shot from 16 ft (assist by D. Murray),,1,19,14,5,407.0
+4:56.0,J. Konchar misses 3-pt jump shot from 24 ft,14-19, ,,1,19,14,5,424.0
+4:52.0, ,14-19,Defensive rebound by O. Okongwu,,1,19,14,5,428.0
+4:44.0, ,14-19,G. Mathews misses 3-pt jump shot from 24 ft (block by J. Konchar),,1,19,14,5,436.0
+4:40.0, ,14-19,Offensive rebound by O. Okongwu,,1,19,14,5,440.0
+4:38.0, ,14-21,D. Murray makes 2-pt jump shot from 14 ft (assist by O. Okongwu),,1,21,14,7,442.0
+4:28.0,J. Jackson misses 2-pt jump shot from 9 ft (block by C. Capela),14-21, ,,1,21,14,7,452.0
+4:26.0, ,14-21,Defensive rebound by D. Murray,,1,21,14,7,454.0
+4:23.0, ,14-21,Offensive foul by D. Murray (drawn by D. Bane),,1,21,14,7,457.0
+4:23.0, ,14-21,Turnover by D. Murray (offensive foul),,1,21,14,7,457.0
+4:23.0,Z. Williams enters the game for V. Williams,14-21, ,,1,21,14,7,457.0
+4:23.0, ,14-21,S. Bey enters the game for C. Capela,,1,21,14,7,457.0
+4:23.0, ,14-21,S. Lundy enters the game for G. Mathews,,1,21,14,7,457.0
+4:23.0, ,14-21,T. Young enters the game for D. Murray,,1,21,14,7,457.0
+4:13.0,Personal foul by B. Bogdanović (drawn by J. Jackson),14-21, ,,1,21,14,7,467.0
+4:07.0,D. Bane makes 2-pt layup from 2 ft,16-21, ,,1,21,16,5,473.0
+3:51.0, ,16-21,S. Bey misses 3-pt jump shot from 24 ft,,1,21,16,5,489.0
+3:49.0,Defensive rebound by J. Konchar,16-21, ,,1,21,16,5,491.0
+3:42.0,J. Jackson makes 3-pt jump shot from 26 ft (assist by J. Konchar),19-21, ,,1,21,19,2,498.0
+3:23.0, ,19-23,O. Okongwu makes 2-pt layup from 1 ft (assist by T. Young),,1,23,19,4,517.0
+3:11.0, ,19-23,Violation by Team (kicked ball),,1,23,19,4,529.0
+3:03.0,Turnover by D. Bane (bad pass; steal by O. Okongwu),19-23, ,,1,23,19,4,537.0
+2:59.0, ,19-26,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),,1,26,19,7,541.0
+2:48.0,J. Jackson misses 3-pt jump shot from 25 ft,19-26, ,,1,26,19,7,552.0
+2:45.0, ,19-26,Defensive rebound by S. Bey,,1,26,19,7,555.0
+2:32.0, ,19-26,T. Young misses 3-pt jump shot from 27 ft,,1,26,19,7,568.0
+2:30.0,Defensive rebound by D. Bane,19-26, ,,1,26,19,7,570.0
+2:22.0,Shooting foul by T. Young (drawn by Z. Williams),19-26, ,,1,26,19,7,578.0
+2:22.0, ,19-26,Atlanta full timeout,,1,26,19,7,578.0
+2:22.0,J. Morant enters the game for D. Bane,19-26, ,,1,26,19,7,578.0
+2:22.0,X. Tillman enters the game for J. Jackson,19-26, ,,1,26,19,7,578.0
+2:22.0,Z. Williams makes free throw 1 of 3,20-26, ,,1,26,20,6,578.0
+2:22.0,Z. Williams misses free throw 2 of 3,20-26, ,,1,26,20,6,578.0
+2:22.0,Offensive rebound by Team,20-26, ,,1,26,20,6,578.0
+2:22.0,Z. Williams misses free throw 3 of 3,20-26, ,,1,26,20,6,578.0
+2:20.0, ,20-26,Defensive rebound by B. Bogdanović,,1,26,20,6,580.0
+1:58.0, ,20-26,T. Young misses 3-pt jump shot from 25 ft,,1,26,20,6,602.0
+1:57.0, ,20-26,Offensive rebound by Team,,1,26,20,6,603.0
+1:57.0, ,20-26,Turnover by Team (shot clock),,1,26,20,6,603.0
+1:45.0,Turnover by J. Morant (lost ball; steal by S. Bey),20-26, ,,1,26,20,6,615.0
+1:43.0, ,20-26,Shooting foul by J. Konchar (drawn by S. Bey),,1,26,20,6,617.0
+1:43.0, ,20-27,S. Bey makes free throw 1 of 2,,1,27,20,7,617.0
+1:43.0, ,20-28,S. Bey makes free throw 2 of 2,,1,28,20,8,617.0
+1:31.0,J. Konchar makes 2-pt layup from 1 ft (assist by J. Morant),22-28, ,,1,28,22,6,629.0
+1:18.0, ,22-28,S. Lundy misses 3-pt jump shot from 26 ft,,1,28,22,6,642.0
+1:14.0,Defensive rebound by X. Tillman,22-28, ,,1,28,22,6,646.0
+1:09.0,Z. Williams misses 2-pt jump shot from 12 ft,22-28, ,,1,28,22,6,651.0
+1:06.0, ,22-28,Defensive rebound by S. Bey,,1,28,22,6,654.0
+0:56.0, ,22-30,O. Okongwu makes 2-pt layup from 1 ft (assist by T. Young),,1,30,22,8,664.0
+0:42.0,Z. Williams misses 3-pt jump shot from 23 ft (block by T. Young),22-30, ,,1,30,22,8,678.0
+0:39.0,Offensive rebound by J. Konchar,22-30, ,,1,30,22,8,681.0
+0:35.0,J. Morant makes 3-pt jump shot from 26 ft (assist by J. Konchar),25-30, ,,1,30,25,5,685.0
+0:28.0, ,25-30,Shooting foul by Z. Williams (drawn by T. Young),,1,30,25,5,692.0
+0:28.0, ,25-31,T. Young makes free throw 1 of 2,,1,31,25,6,692.0
+0:28.0,D. Bane enters the game for Z. Williams,25-31, ,,1,31,25,6,692.0
+0:28.0, ,25-32,T. Young makes free throw 2 of 2,,1,32,25,7,692.0
+0:06.0,X. Tillman misses 2-pt jump shot from 9 ft,25-32, ,,1,32,25,7,714.0
+0:02.0,Offensive rebound by X. Tillman,25-32, ,,1,32,25,7,718.0
+0:02.0,X. Tillman misses 2-pt layup at rim,25-32, ,,1,32,25,7,718.0
+0:01.0, ,25-32,Defensive rebound by T. Young,,1,32,25,7,719.0
+0:00.0,End of 1st quarter,25-32,,,1,32,25,7,720.0
+12:00.0,Start of 2nd quarter,25-32,,,2,32,25,7,720.0
+11:45.0, ,25-34,B. Bogdanović makes 2-pt jump shot from 13 ft (assist by O. Okongwu),,2,34,25,9,735.0
+11:26.0,S. Aldama makes 3-pt jump shot from 22 ft (assist by Z. Williams),28-34, ,,2,34,28,6,754.0
+11:14.0, ,28-34,B. Bogdanović misses 3-pt jump shot from 27 ft,,2,34,28,6,766.0
+11:11.0,Defensive rebound by J. Morant,28-34, ,,2,34,28,6,769.0
+11:00.0,X. Tillman makes 2-pt layup from 2 ft (assist by Z. Williams),30-34, ,,2,34,30,4,780.0
+10:42.0, ,30-36,S. Bey makes 2-pt hook shot from 6 ft,,2,36,30,6,798.0
+10:32.0,Personal foul by S. Lundy (drawn by J. Morant),30-36, ,,2,36,30,6,808.0
+10:25.0,Z. Williams misses 3-pt jump shot from 24 ft,30-36, ,,2,36,30,6,815.0
+10:22.0, ,30-36,Defensive rebound by T. Young,,2,36,30,6,818.0
+10:17.0, ,30-36,S. Lundy misses 3-pt jump shot from 26 ft,,2,36,30,6,823.0
+10:15.0, ,30-36,Offensive rebound by O. Okongwu,,2,36,30,6,825.0
+10:10.0, ,30-39,S. Lundy makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),,2,39,30,9,830.0
+9:55.0,S. Aldama misses 3-pt jump shot from 23 ft,30-39, ,,2,39,30,9,845.0
+9:51.0,Offensive rebound by Z. Williams,30-39, ,,2,39,30,9,849.0
+9:51.0,Z. Williams makes 2-pt layup at rim,32-39, ,,2,39,32,7,849.0
+9:40.0, ,32-39,Turnover by T. Young (bad pass; steal by X. Tillman),,2,39,32,7,860.0
+9:35.0,S. Aldama makes 2-pt dunk from 1 ft (assist by J. Morant),34-39, ,,2,39,34,5,865.0
+9:10.0, ,34-39,S. Bey misses 3-pt jump shot from 24 ft,,2,39,34,5,890.0
+9:08.0,Defensive rebound by V. Williams,34-39, ,,2,39,34,5,892.0
+8:46.0,Turnover by Team (shot clock),34-39, ,,2,39,34,5,914.0
+8:46.0,J. Konchar enters the game for Z. Williams,34-39, ,,2,39,34,5,914.0
+8:46.0, ,34-39,G. Mathews enters the game for B. Bogdanović,,2,39,34,5,914.0
+8:46.0, ,34-39,D. Murray enters the game for T. Young,,2,39,34,5,914.0
+8:33.0, ,34-39,G. Mathews misses 2-pt jump shot from 6 ft,,2,39,34,5,927.0
+8:28.0, ,34-39,Offensive rebound by O. Okongwu,,2,39,34,5,932.0
+8:28.0, ,34-41,O. Okongwu makes 2-pt layup at rim,,2,41,34,7,932.0
+8:19.0,J. Morant makes 2-pt jump shot from 6 ft,36-41, ,,2,41,36,5,941.0
+8:04.0, ,36-41,O. Okongwu misses 2-pt layup from 4 ft (block by J. Konchar),,2,41,36,5,956.0
+8:02.0,Defensive rebound by J. Konchar,36-41, ,,2,41,36,5,958.0
+8:01.0,J. Morant makes 2-pt layup from 1 ft,38-41, ,,2,41,38,3,959.0
+8:01.0,Shooting foul by S. Lundy (drawn by J. Morant),38-41, ,,2,41,38,3,959.0
+8:01.0, ,38-41,Atlanta full timeout,,2,41,38,3,959.0
+8:01.0, ,38-41,C. Capela enters the game for S. Bey,,2,41,38,3,959.0
+8:01.0,J. Morant makes free throw 1 of 1,39-41, ,,2,41,39,2,959.0
+7:50.0, ,39-41,S. Lundy misses 3-pt jump shot from 25 ft,,2,41,39,2,970.0
+7:48.0, ,39-41,Offensive rebound by D. Murray,,2,41,39,2,972.0
+7:41.0, ,39-41,D. Murray misses 3-pt jump shot from 26 ft,,2,41,39,2,979.0
+7:36.0,Defensive rebound by J. Konchar,39-41, ,,2,41,39,2,984.0
+7:26.0,S. Aldama misses 3-pt jump shot from 26 ft,39-41, ,,2,41,39,2,994.0
+7:23.0, ,39-41,Defensive rebound by D. Murray,,2,41,39,2,997.0
+7:20.0, ,39-41,Personal foul by J. Morant (drawn by S. Lundy),,2,41,39,2,1000.0
+7:20.0, ,39-41,B. Bogdanović enters the game for S. Lundy,,2,41,39,2,1000.0
+7:20.0, ,39-41,T. Young enters the game for G. Mathews,,2,41,39,2,1000.0
+7:18.0, ,39-41,B. Bogdanović misses 2-pt layup from 4 ft (block by S. Aldama),,2,41,39,2,1002.0
+7:15.0,Defensive rebound by J. Morant,39-41, ,,2,41,39,2,1005.0
+7:11.0,J. Morant makes 2-pt jump shot from 10 ft,41-41, ,Tie,2,41,41,0,1009.0
+6:54.0, ,41-41,O. Okongwu misses 3-pt jump shot from 23 ft,,2,41,41,0,1026.0
+6:51.0, ,41-41,Offensive rebound by C. Capela,,2,41,41,0,1029.0
+6:50.0,Memphis full timeout,41-41, ,,2,41,41,0,1030.0
+6:50.0,Instant Replay (Challenge: Ruling Stands),41-41, ,,2,41,41,0,1030.0
+6:50.0, ,41-41,C. Capela misses 2-pt layup from 1 ft (block by X. Tillman),,2,41,41,0,1030.0
+6:50.0, ,41-41,Offensive rebound by Team,,2,41,41,0,1030.0
+6:50.0,D. Bane enters the game for S. Aldama,41-41, ,,2,41,41,0,1030.0
+6:50.0,B. Biyombo enters the game for J. Konchar,41-41, ,,2,41,41,0,1030.0
+6:50.0,J. Jackson enters the game for X. Tillman,41-41, ,,2,41,41,0,1030.0
+6:47.0, ,41-41,B. Bogdanović misses 3-pt jump shot from 23 ft,,2,41,41,0,1033.0
+6:44.0,Defensive rebound by V. Williams,41-41, ,,2,41,41,0,1036.0
+6:37.0,J. Morant misses 2-pt jump shot from 13 ft,41-41, ,,2,41,41,0,1043.0
+6:35.0, ,41-41,Defensive rebound by B. Bogdanović,,2,41,41,0,1045.0
+6:21.0, ,41-43,T. Young makes 2-pt jump shot from 8 ft,,2,43,41,2,1059.0
+6:05.0,Turnover by J. Morant (bad pass; steal by O. Okongwu),41-43, ,,2,43,41,2,1075.0
+6:05.0, ,41-43,Personal foul by J. Jackson (drawn by O. Okongwu),,2,43,41,2,1075.0
+6:05.0,J. Konchar enters the game for J. Morant,41-43, ,,2,43,41,2,1075.0
+5:52.0, ,41-43,Shooting foul by B. Biyombo (drawn by C. Capela),,2,43,41,2,1088.0
+5:52.0, ,41-44,C. Capela makes free throw 1 of 2,,2,44,41,3,1088.0
+5:52.0, ,41-45,C. Capela makes free throw 2 of 2,,2,45,41,4,1088.0
+5:44.0,J. Jackson makes 2-pt layup from 2 ft (assist by D. Bane),43-45, ,,2,45,43,2,1096.0
+5:44.0,Shooting foul by O. Okongwu (drawn by J. Jackson),43-45, ,,2,45,43,2,1096.0
+5:44.0,J. Jackson makes free throw 1 of 1,44-45, ,,2,45,44,1,1096.0
+5:33.0, ,44-45,T. Young misses 2-pt layup from 3 ft,,2,45,44,1,1107.0
+5:29.0, ,44-45,Offensive rebound by C. Capela,,2,45,44,1,1111.0
+5:29.0, ,44-47,C. Capela makes 2-pt layup at rim,,2,47,44,3,1111.0
+5:27.0,Turnover by B. Biyombo (bad pass; steal by T. Young),44-47, ,,2,47,44,3,1113.0
+5:16.0, ,44-47,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,47,44,3,1124.0
+5:13.0,Defensive rebound by B. Biyombo,44-47, ,,2,47,44,3,1127.0
+4:57.0,Turnover by D. Bane (step out of bounds),44-47, ,,2,47,44,3,1143.0
+4:57.0,Z. Williams enters the game for V. Williams,44-47, ,,2,47,44,3,1143.0
+4:57.0, ,44-47,S. Bey enters the game for O. Okongwu,,2,47,44,3,1143.0
+4:46.0, ,44-49,D. Murray makes 2-pt jump shot from 11 ft,,2,49,44,5,1154.0
+4:34.0,Z. Williams misses 2-pt layup from 3 ft,44-49, ,,2,49,44,5,1166.0
+4:31.0,Offensive rebound by B. Biyombo,44-49, ,,2,49,44,5,1169.0
+4:28.0,Turnover by Z. Williams (bad pass; steal by D. Murray),44-49, ,,2,49,44,5,1172.0
+4:19.0, ,44-49,Shooting foul by J. Jackson (drawn by T. Young),,2,49,44,5,1181.0
+4:19.0, ,44-50,T. Young makes free throw 1 of 2,,2,50,44,6,1181.0
+4:19.0, ,44-50,T. Young misses free throw 2 of 2,,2,50,44,6,1181.0
+4:17.0,Defensive rebound by B. Biyombo,44-50, ,,2,50,44,6,1183.0
+4:08.0,B. Biyombo makes 2-pt dunk from 2 ft (assist by D. Bane),46-50, ,,2,50,46,4,1192.0
+3:52.0, ,46-50,B. Bogdanović misses 2-pt layup from 2 ft,,2,50,46,4,1208.0
+3:50.0, ,46-50,Offensive rebound by C. Capela,,2,50,46,4,1210.0
+3:50.0, ,46-52,C. Capela makes 2-pt layup from 1 ft,,2,52,46,6,1210.0
+3:50.0, ,46-52,Shooting foul by J. Jackson (drawn by C. Capela),,2,52,46,6,1210.0
+3:50.0,S. Aldama enters the game for J. Jackson,46-52, ,,2,52,46,6,1210.0
+3:50.0, ,46-53,C. Capela makes free throw 1 of 1,,2,53,46,7,1210.0
+3:27.0,S. Aldama misses 2-pt jump shot from 9 ft,46-53, ,,2,53,46,7,1233.0
+3:25.0, ,46-53,Defensive rebound by Team,,2,53,46,7,1235.0
+3:16.0, ,46-53,T. Young misses 3-pt jump shot from 28 ft,,2,53,46,7,1244.0
+3:13.0,Defensive rebound by J. Konchar,46-53, ,,2,53,46,7,1247.0
+3:07.0,Personal foul by S. Bey (drawn by S. Aldama),46-53, ,,2,53,46,7,1253.0
+3:07.0,J. Morant enters the game for J. Konchar,46-53, ,,2,53,46,7,1253.0
+3:07.0,V. Williams enters the game for Z. Williams,46-53, ,,2,53,46,7,1253.0
+2:57.0,S. Aldama misses 2-pt layup from 3 ft,46-53, ,,2,53,46,7,1263.0
+2:56.0,Offensive rebound by B. Biyombo,46-53, ,,2,53,46,7,1264.0
+2:55.0,B. Biyombo misses 2-pt layup from 5 ft,46-53, ,,2,53,46,7,1265.0
+2:54.0,Offensive rebound by V. Williams,46-53, ,,2,53,46,7,1266.0
+2:49.0,D. Bane misses 3-pt jump shot from 26 ft,46-53, ,,2,53,46,7,1271.0
+2:49.0,Offensive rebound by B. Biyombo,46-53, ,,2,53,46,7,1271.0
+2:49.0,Shooting foul by C. Capela (drawn by B. Biyombo),46-53, ,,2,53,46,7,1271.0
+2:49.0,B. Biyombo misses free throw 1 of 2,46-53, ,,2,53,46,7,1271.0
+2:49.0,Offensive rebound by Team,46-53, ,,2,53,46,7,1271.0
+2:49.0,B. Biyombo makes free throw 2 of 2,47-53, ,,2,53,47,6,1271.0
+2:33.0, ,47-56,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Young),,2,56,47,9,1287.0
+2:24.0,D. Bane misses 3-pt jump shot from 28 ft,47-56, ,,2,56,47,9,1296.0
+2:21.0, ,47-56,Defensive rebound by S. Bey,,2,56,47,9,1299.0
+2:08.0, ,47-56,D. Murray misses 2-pt jump shot from 12 ft,,2,56,47,9,1312.0
+2:03.0,Defensive rebound by B. Biyombo,47-56, ,,2,56,47,9,1317.0
+1:56.0,V. Williams misses 3-pt jump shot from 25 ft,47-56, ,,2,56,47,9,1324.0
+1:53.0,Offensive rebound by V. Williams,47-56, ,,2,56,47,9,1327.0
+1:52.0,Turnover by V. Williams (bad pass; steal by D. Murray),47-56, ,,2,56,47,9,1328.0
+1:44.0, ,47-56,S. Bey misses 3-pt jump shot from 25 ft,,2,56,47,9,1336.0
+1:41.0,Defensive rebound by V. Williams,47-56, ,,2,56,47,9,1339.0
+1:33.0,J. Morant misses 3-pt jump shot from 22 ft,47-56, ,,2,56,47,9,1347.0
+1:29.0, ,47-56,Defensive rebound by B. Bogdanović,,2,56,47,9,1351.0
+1:25.0, ,47-56,T. Young misses 3-pt jump shot from 30 ft,,2,56,47,9,1355.0
+1:23.0, ,47-56,Offensive rebound by B. Bogdanović,,2,56,47,9,1357.0
+1:20.0, ,47-58,B. Bogdanović makes 2-pt jump shot from 6 ft,,2,58,47,11,1360.0
+1:03.0,Personal foul by B. Bogdanović (drawn by B. Biyombo),47-58, ,,2,58,47,11,1377.0
+1:03.0,B. Biyombo misses free throw 1 of 2,47-58, ,,2,58,47,11,1377.0
+1:03.0,Offensive rebound by Team,47-58, ,,2,58,47,11,1377.0
+1:03.0,B. Biyombo makes free throw 2 of 2,48-58, ,,2,58,48,10,1377.0
+0:51.0, ,48-58,T. Young misses 2-pt jump shot from 11 ft,,2,58,48,10,1389.0
+0:48.0,Defensive rebound by D. Bane,48-58, ,,2,58,48,10,1392.0
+0:43.0,J. Morant makes 2-pt layup from 2 ft (assist by D. Bane),50-58, ,,2,58,50,8,1397.0
+0:30.0, ,50-60,T. Young makes 2-pt jump shot from 8 ft,,2,60,50,10,1410.0
+0:12.0,D. Bane misses 3-pt jump shot from 26 ft,50-60, ,,2,60,50,10,1428.0
+0:08.0, ,50-60,Defensive rebound by C. Capela,,2,60,50,10,1432.0
+0:00.0, ,50-60,T. Young misses 2-pt layup from 5 ft,,2,60,50,10,1440.0
+0:00.0, ,50-60,Offensive rebound by Team,,2,60,50,10,1440.0
+0:00.0,End of 2nd quarter,50-60,,,2,60,50,10,1440.0
+12:00.0,Start of 3rd quarter,50-60,,,3,60,50,10,1440.0
+11:47.0, ,50-62,D. Murray makes 2-pt layup from 1 ft (assist by S. Bey),,3,62,50,12,1453.0
+11:32.0,B. Biyombo misses 2-pt layup from 2 ft (block by C. Capela),50-62, ,,3,62,50,12,1468.0
+11:31.0,Offensive rebound by B. Biyombo,50-62, ,,3,62,50,12,1469.0
+11:30.0,B. Biyombo misses 2-pt layup from 4 ft,50-62, ,,3,62,50,12,1470.0
+11:29.0,Offensive rebound by Team,50-62, ,,3,62,50,12,1471.0
+11:29.0,Away from play foul by G. Mathews (drawn by D. Bane),50-62, ,,3,62,50,12,1471.0
+11:29.0,Instant Replay (Request: Ruling Stands),50-62, ,,3,62,50,12,1471.0
+11:29.0,D. Bane makes free throw 1 of 1,51-62, ,,3,62,51,11,1471.0
+11:24.0,J. Morant makes 2-pt jump shot from 4 ft (assist by D. Bane),53-62, ,,3,62,53,9,1476.0
+10:57.0, ,53-62,T. Young misses 3-pt jump shot from 27 ft,,3,62,53,9,1503.0
+10:55.0,Defensive rebound by D. Bane,53-62, ,,3,62,53,9,1505.0
+10:39.0,D. Bane makes 3-pt jump shot from 24 ft (assist by J. Morant),56-62, ,,3,62,56,6,1521.0
+10:20.0, ,56-62,C. Capela misses 2-pt layup from 3 ft,,3,62,56,6,1540.0
+10:17.0,Defensive rebound by V. Williams,56-62, ,,3,62,56,6,1543.0
+10:13.0,D. Bane makes 2-pt layup from 1 ft,58-62, ,,3,62,58,4,1547.0
+10:11.0, ,58-62,Atlanta full timeout,,3,62,58,4,1549.0
+9:54.0, ,58-62,G. Mathews misses 3-pt jump shot from 26 ft,,3,62,58,4,1566.0
+9:51.0,Defensive rebound by V. Williams,58-62, ,,3,62,58,4,1569.0
+9:43.0,J. Morant makes 2-pt layup from 1 ft,60-62, ,,3,62,60,2,1577.0
+9:35.0, ,60-64,T. Young makes 2-pt jump shot from 7 ft (assist by D. Murray),,3,64,60,4,1585.0
+9:15.0,D. Bane misses 3-pt jump shot from 25 ft,60-64, ,,3,64,60,4,1605.0
+9:11.0,Offensive rebound by B. Biyombo,60-64, ,,3,64,60,4,1609.0
+8:59.0,D. Bane misses 3-pt jump shot from 26 ft,60-64, ,,3,64,60,4,1621.0
+8:57.0,Offensive rebound by Team,60-64, ,,3,64,60,4,1623.0
+8:57.0,Personal foul by T. Young (drawn by V. Williams),60-64, ,,3,64,60,4,1623.0
+8:48.0,D. Bane makes 3-pt jump shot from 23 ft (assist by J. Morant),63-64, ,,3,64,63,1,1632.0
+8:33.0, ,63-64,Personal foul by V. Williams (drawn by T. Young),,3,64,63,1,1647.0
+8:22.0, ,63-64,Turnover by T. Young (lost ball; steal by B. Biyombo),,3,64,63,1,1658.0
+8:19.0,V. Williams makes 3-pt jump shot from 23 ft (assist by D. Bane),66-64, ,Lead change,3,64,66,-2,1661.0
+8:06.0, ,66-66,D. Murray makes 2-pt layup from 4 ft,Tie,3,66,66,0,1674.0
+7:53.0,J. Jackson makes 2-pt dunk at rim (assist by B. Biyombo),68-66, ,,3,66,68,-2,1687.0
+7:41.0, ,68-69,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Murray),Lead change,3,69,68,1,1699.0
+7:16.0,J. Morant misses 2-pt jump shot from 12 ft,68-69, ,,3,69,68,1,1724.0
+7:12.0, ,68-69,Defensive rebound by C. Capela,,3,69,68,1,1728.0
+7:11.0, ,68-69,Turnover by C. Capela (lost ball; steal by V. Williams),,3,69,68,1,1729.0
+7:08.0,J. Morant makes 2-pt dunk from 1 ft,70-69, ,Lead change,3,69,70,-1,1732.0
+6:48.0, ,70-69,Shooting foul by J. Jackson (drawn by S. Bey),,3,69,70,-1,1752.0
+6:48.0, ,70-69,S. Bey misses free throw 1 of 2,,3,69,70,-1,1752.0
+6:48.0, ,70-69,Offensive rebound by Team,,3,69,70,-1,1752.0
+6:48.0,S. Aldama enters the game for J. Jackson,70-69, ,,3,69,70,-1,1752.0
+6:48.0, ,70-69,B. Bogdanović enters the game for G. Mathews,,3,69,70,-1,1752.0
+6:48.0, ,70-70,S. Bey makes free throw 2 of 2,Tie,3,70,70,0,1752.0
+6:32.0,Turnover by S. Aldama (3 sec),70-70, ,,3,70,70,0,1768.0
+6:32.0, ,70-70,O. Okongwu enters the game for S. Bey,,3,70,70,0,1768.0
+6:18.0, ,70-72,D. Murray makes 2-pt layup from 1 ft (assist by T. Young),Lead change,3,72,70,2,1782.0
+6:02.0,J. Morant misses 2-pt jump shot from 1 ft,70-72, ,,3,72,70,2,1798.0
+5:58.0,Offensive rebound by B. Biyombo,70-72, ,,3,72,70,2,1802.0
+5:58.0,B. Biyombo makes 2-pt layup at rim,72-72, ,Tie,3,72,72,0,1802.0
+5:49.0, ,72-74,C. Capela makes 2-pt dunk from 1 ft (assist by O. Okongwu),,3,74,72,2,1811.0
+5:35.0,J. Morant misses 2-pt layup from 1 ft,72-74, ,,3,74,72,2,1825.0
+5:32.0, ,72-74,Defensive rebound by C. Capela,,3,74,72,2,1828.0
+5:30.0, ,72-74,Turnover by O. Okongwu (out of bounds lost ball),,3,74,72,2,1830.0
+5:30.0,J. Konchar enters the game for J. Morant,72-74, ,,3,74,72,2,1830.0
+5:30.0, ,72-74,S. Lundy enters the game for T. Young,,3,74,72,2,1830.0
+5:15.0,D. Bane makes 3-pt jump shot from 26 ft (assist by S. Aldama),75-74, ,Lead change,3,74,75,-1,1845.0
+5:02.0, ,75-76,C. Capela makes 2-pt dunk from 1 ft (assist by O. Okongwu),Lead change,3,76,75,1,1858.0
+4:45.0,V. Williams misses 3-pt jump shot from 25 ft,75-76, ,,3,76,75,1,1875.0
+4:42.0, ,75-76,Defensive rebound by C. Capela,,3,76,75,1,1878.0
+4:33.0, ,75-76,S. Lundy misses 3-pt jump shot from 26 ft,,3,76,75,1,1887.0
+4:30.0,Defensive rebound by V. Williams,75-76, ,,3,76,75,1,1890.0
+4:21.0,J. Konchar makes 3-pt jump shot from 23 ft (assist by S. Aldama),78-76, ,Lead change,3,76,78,-2,1899.0
+4:08.0, ,78-76,Shooting foul by V. Williams (drawn by D. Murray),,3,76,78,-2,1912.0
+4:08.0, ,78-77,D. Murray makes free throw 1 of 2,,3,77,78,-1,1912.0
+4:08.0,Z. Williams enters the game for V. Williams,78-77, ,,3,77,78,-1,1912.0
+4:08.0, ,78-77,S. Bey enters the game for C. Capela,,3,77,78,-1,1912.0
+4:08.0, ,78-78,D. Murray makes free throw 2 of 2,Tie,3,78,78,0,1912.0
+3:52.0,D. Bane makes 2-pt layup from 1 ft,80-78, ,,3,78,80,-2,1928.0
+3:52.0, ,80-78,Violation by Team (def goaltending),,3,78,80,-2,1928.0
+3:35.0, ,80-78,Turnover by S. Bey (bad pass; steal by D. Bane),,3,78,80,-2,1945.0
+3:30.0,D. Bane makes 2-pt layup from 1 ft,82-78, ,,3,78,82,-4,1950.0
+3:17.0, ,82-81,D. Murray makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,3,81,82,-1,1963.0
+2:54.0,Z. Williams makes 2-pt dunk from 1 ft (assist by B. Biyombo),84-81, ,,3,81,84,-3,1986.0
+2:41.0, ,84-81,S. Bey misses 3-pt jump shot from 27 ft,,3,81,84,-3,1999.0
+2:37.0,Defensive rebound by S. Aldama,84-81, ,,3,81,84,-3,2003.0
+2:25.0,D. Bane makes 2-pt jump shot from 21 ft,86-81, ,,3,81,86,-5,2015.0
+2:25.0, ,86-81,Atlanta full timeout,,3,81,86,-5,2015.0
+2:25.0,J. Morant enters the game for B. Biyombo,86-81, ,,3,81,86,-5,2015.0
+2:25.0,X. Tillman enters the game for J. Konchar,86-81, ,,3,81,86,-5,2015.0
+2:25.0, ,86-81,T. Young enters the game for D. Murray,,3,81,86,-5,2015.0
+2:13.0, ,86-83,T. Young makes 2-pt jump shot from 7 ft,,3,83,86,-3,2027.0
+1:57.0,D. Bane misses 2-pt jump shot from 18 ft,86-83, ,,3,83,86,-3,2043.0
+1:54.0, ,86-83,Defensive rebound by O. Okongwu,,3,83,86,-3,2046.0
+1:48.0, ,86-86,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),Tie,3,86,86,0,2052.0
+1:26.0,J. Morant makes 2-pt jump shot from 2 ft (assist by Z. Williams),88-86, ,,3,86,88,-2,2074.0
+1:18.0, ,88-88,B. Bogdanović makes 2-pt layup from 2 ft (assist by T. Young),Tie,3,88,88,0,2082.0
+1:17.0,Memphis full timeout,88-88, ,,3,88,88,0,2083.0
+1:05.0,J. Morant makes 2-pt dunk from 1 ft (assist by S. Aldama),90-88, ,,3,88,90,-2,2095.0
+0:45.0, ,90-91,T. Young makes 3-pt jump shot from 27 ft (assist by B. Bogdanović),Lead change,3,91,90,1,2115.0
+0:33.0, ,90-91,Atlanta full timeout,,3,91,90,1,2127.0
+0:33.0, ,90-91,Instant Replay (Challenge: Ruling Stands),,3,91,90,1,2127.0
+0:33.0,J. Morant misses 2-pt jump shot from 10 ft,90-91, ,,3,91,90,1,2127.0
+0:30.0, ,90-91,Defensive rebound by Team,,3,91,90,1,2130.0
+0:30.0,Jump ball: O. Okongwu vs. S. Aldama (T. Young gains possession),90-91,,,3,91,90,1,2130.0
+0:08.0, ,90-91,S. Bey misses 3-pt jump shot from 26 ft,,3,91,90,1,2152.0
+0:06.0, ,90-91,Offensive rebound by S. Lundy,,3,91,90,1,2154.0
+0:03.0, ,90-91,Shooting foul by Z. Williams (drawn by B. Bogdanović),,3,91,90,1,2157.0
+0:03.0,Memphis full timeout,90-91, ,,3,91,90,1,2157.0
+0:03.0,Instant Replay (Challenge: Ruling Stands),90-91, ,,3,91,90,1,2157.0
+0:03.0, ,90-92,B. Bogdanović makes free throw 1 of 3,,3,92,90,2,2157.0
+0:03.0, ,90-93,B. Bogdanović makes free throw 2 of 3,,3,93,90,3,2157.0
+0:03.0, ,90-93,B. Bogdanović misses free throw 3 of 3,,3,93,90,3,2157.0
+0:01.0,Defensive rebound by S. Aldama,90-93, ,,3,93,90,3,2159.0
+0:00.0,End of 3rd quarter,90-93,,,3,93,90,3,2160.0
+12:00.0,Start of 4th quarter,90-93,,,4,93,90,3,2160.0
+11:47.0,J. Jackson makes 2-pt hook shot from 3 ft (assist by V. Williams),92-93, ,,4,93,92,1,2173.0
+11:36.0, ,92-93,Offensive foul by O. Okongwu (drawn by Z. Williams),,4,93,92,1,2184.0
+11:36.0, ,92-93,Turnover by O. Okongwu (offensive foul),,4,93,92,1,2184.0
+11:29.0,J. Jackson makes 2-pt layup from 5 ft,94-93, ,Lead change,4,93,94,-1,2191.0
+11:29.0,Shooting foul by S. Bey (drawn by J. Jackson),94-93, ,,4,93,94,-1,2191.0
+11:29.0,J. Jackson makes free throw 1 of 1,95-93, ,,4,93,95,-2,2191.0
+11:12.0, ,95-95,O. Okongwu makes 2-pt dunk from 2 ft (assist by T. Young),Tie,4,95,95,0,2208.0
+10:58.0,Z. Williams makes 3-pt jump shot from 23 ft (assist by J. Morant),98-95, ,,4,95,98,-3,2222.0
+10:43.0, ,98-95,Shooting foul by J. Jackson (drawn by T. Young),,4,95,98,-3,2237.0
+10:43.0, ,98-96,T. Young makes free throw 1 of 2,,4,96,98,-2,2237.0
+10:43.0,S. Aldama enters the game for J. Jackson,98-96, ,,4,96,98,-2,2237.0
+10:43.0, ,98-97,T. Young makes free throw 2 of 2,,4,97,98,-1,2237.0
+10:28.0,X. Tillman makes 2-pt jump shot from 6 ft (assist by J. Morant),100-97, ,,4,97,100,-3,2252.0
+10:16.0, ,100-97,S. Lundy misses 3-pt jump shot from 26 ft,,4,97,100,-3,2264.0
+10:14.0,Defensive rebound by Z. Williams,100-97, ,,4,97,100,-3,2266.0
+9:56.0,V. Williams makes 2-pt jump shot from 3 ft (assist by J. Morant),102-97, ,,4,97,102,-5,2284.0
+9:36.0, ,102-97,S. Lundy misses 2-pt layup from 4 ft (block by X. Tillman),,4,97,102,-5,2304.0
+9:33.0,Defensive rebound by J. Morant,102-97, ,,4,97,102,-5,2307.0
+9:27.0,Personal foul by O. Okongwu (drawn by Z. Williams),102-97, ,,4,97,102,-5,2313.0
+9:27.0, ,102-97,D. Murray enters the game for B. Bogdanović,,4,97,102,-5,2313.0
+9:13.0,J. Morant misses 3-pt jump shot from 25 ft,102-97, ,,4,97,102,-5,2327.0
+9:08.0, ,102-97,Defensive rebound by S. Bey,,4,97,102,-5,2332.0
+8:59.0, ,102-99,O. Okongwu makes 2-pt dunk from 2 ft (assist by T. Young),,4,99,102,-3,2341.0
+8:38.0,X. Tillman makes 2-pt layup from 1 ft (assist by J. Morant),104-99, ,,4,99,104,-5,2362.0
+8:28.0, ,104-102,S. Bey makes 3-pt jump shot from 24 ft (assist by T. Young),,4,102,104,-2,2372.0
+8:20.0,X. Tillman misses 2-pt layup from 1 ft (block by O. Okongwu),104-102, ,,4,102,104,-2,2380.0
+8:17.0, ,104-102,Defensive rebound by S. Lundy,,4,102,104,-2,2383.0
+8:13.0, ,104-102,T. Young misses 3-pt jump shot from 26 ft,,4,102,104,-2,2387.0
+8:11.0,Defensive rebound by J. Morant,104-102, ,,4,102,104,-2,2389.0
+8:02.0,J. Morant misses 2-pt dunk from 2 ft (block by O. Okongwu),104-102, ,,4,102,104,-2,2398.0
+7:59.0, ,104-102,Defensive rebound by T. Young,,4,102,104,-2,2401.0
+7:57.0, ,104-104,T. Young makes 2-pt jump shot from 11 ft,Tie,4,104,104,0,2403.0
+7:34.0,J. Morant makes 2-pt layup at rim,106-104, ,,4,104,106,-2,2426.0
+7:24.0, ,106-104,Personal foul by Z. Williams (drawn by D. Murray),,4,104,106,-2,2436.0
+7:24.0,D. Bane enters the game for J. Morant,106-104, ,,4,104,106,-2,2436.0
+7:24.0, ,106-104,B. Bogdanović enters the game for S. Bey,,4,104,106,-2,2436.0
+7:24.0, ,106-104,C. Capela enters the game for S. Lundy,,4,104,106,-2,2436.0
+7:19.0, ,106-106,T. Young makes 2-pt jump shot from 15 ft,Tie,4,106,106,0,2441.0
+7:19.0, ,106-106,Shooting foul by V. Williams (drawn by T. Young),,4,106,106,0,2441.0
+7:19.0, ,106-106,T. Young misses free throw 1 of 1,,4,106,106,0,2441.0
+7:17.0,Defensive rebound by Z. Williams,106-106, ,,4,106,106,0,2443.0
+7:04.0,S. Aldama misses 3-pt jump shot from 24 ft,106-106, ,,4,106,106,0,2456.0
+7:00.0,Offensive rebound by Team,106-106, ,,4,106,106,0,2460.0
+6:48.0,D. Bane misses 2-pt layup from 1 ft,106-106, ,,4,106,106,0,2472.0
+6:44.0,Offensive rebound by X. Tillman,106-106, ,,4,106,106,0,2476.0
+6:44.0,X. Tillman misses 2-pt layup at rim,106-106, ,,4,106,106,0,2476.0
+6:44.0, ,106-106,Defensive rebound by T. Young,,4,106,106,0,2476.0
+6:40.0, ,106-106,B. Bogdanović misses 3-pt jump shot from 25 ft,,4,106,106,0,2480.0
+6:37.0,Defensive rebound by D. Bane,106-106, ,,4,106,106,0,2483.0
+6:34.0,D. Bane makes 3-pt jump shot from 25 ft,109-106, ,,4,106,109,-3,2486.0
+6:33.0, ,109-106,Atlanta full timeout,,4,106,109,-3,2487.0
+6:33.0,B. Biyombo enters the game for X. Tillman,109-106, ,,4,106,109,-3,2487.0
+6:19.0, ,109-106,B. Bogdanović misses 3-pt jump shot from 26 ft,,4,106,109,-3,2501.0
+6:16.0,Defensive rebound by V. Williams,109-106, ,,4,106,109,-3,2504.0
+6:08.0,Shooting foul by O. Okongwu (drawn by S. Aldama),109-106, ,,4,106,109,-3,2512.0
+6:08.0,S. Aldama misses free throw 1 of 2,109-106, ,,4,106,109,-3,2512.0
+6:08.0,Offensive rebound by Team,109-106, ,,4,106,109,-3,2512.0
+6:08.0,S. Aldama makes free throw 2 of 2,110-106, ,,4,106,110,-4,2512.0
+5:58.0, ,110-106,O. Okongwu misses 3-pt jump shot from 22 ft,,4,106,110,-4,2522.0
+5:52.0,Defensive rebound by S. Aldama,110-106, ,,4,106,110,-4,2528.0
+5:44.0,Z. Williams misses 2-pt layup from 1 ft,110-106, ,,4,106,110,-4,2536.0
+5:42.0, ,110-106,Defensive rebound by O. Okongwu,,4,106,110,-4,2538.0
+5:32.0, ,110-106,O. Okongwu misses 2-pt jump shot from 1 ft,,4,106,110,-4,2548.0
+5:31.0, ,110-106,Offensive rebound by Team,,4,106,110,-4,2549.0
+5:31.0, ,110-106,Turnover by O. Okongwu (traveling),,4,106,110,-4,2549.0
+5:31.0, ,110-106,S. Bey enters the game for O. Okongwu,,4,106,110,-4,2549.0
+5:12.0,D. Bane makes 3-pt jump shot from 22 ft (assist by B. Biyombo),113-106, ,,4,106,113,-7,2568.0
+5:00.0, ,113-106,T. Young misses 2-pt layup from 3 ft,,4,106,113,-7,2580.0
+4:57.0,Defensive rebound by S. Aldama,113-106, ,,4,106,113,-7,2583.0
+4:57.0,J. Jackson enters the game for S. Aldama,113-106, ,,4,106,113,-7,2583.0
+4:57.0,J. Morant enters the game for V. Williams,113-106, ,,4,106,113,-7,2583.0
+4:43.0,D. Bane misses 2-pt jump shot from 13 ft,113-106, ,,4,106,113,-7,2597.0
+4:39.0, ,113-106,Defensive rebound by C. Capela,,4,106,113,-7,2601.0
+4:28.0, ,113-106,D. Murray misses 2-pt jump shot from 19 ft,,4,106,113,-7,2612.0
+4:25.0,Defensive rebound by D. Bane,113-106, ,,4,106,113,-7,2615.0
+4:07.0,D. Bane misses 3-pt jump shot from 26 ft,113-106, ,,4,106,113,-7,2633.0
+4:04.0,Offensive rebound by J. Jackson,113-106, ,,4,106,113,-7,2636.0
+3:59.0,J. Morant makes 2-pt jump shot from 7 ft,115-106, ,,4,106,115,-9,2641.0
+3:44.0, ,115-109,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Murray),,4,109,115,-6,2656.0
+3:15.0,D. Bane makes 2-pt layup from 1 ft (assist by J. Morant),117-109, ,,4,109,117,-8,2685.0
+2:57.0, ,117-111,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),,4,111,117,-6,2703.0
+2:28.0,J. Morant misses 2-pt jump shot from 10 ft,117-111, ,,4,111,117,-6,2732.0
+2:26.0, ,117-111,Defensive rebound by T. Young,,4,111,117,-6,2734.0
+2:24.0, ,117-111,B. Bogdanović misses 2-pt layup from 3 ft (block by J. Morant),,4,111,117,-6,2736.0
+2:23.0, ,117-111,Offensive rebound by S. Bey,,4,111,117,-6,2737.0
+2:16.0, ,117-111,S. Bey misses 2-pt layup from 2 ft (block by D. Bane),,4,111,117,-6,2744.0
+2:13.0,Defensive rebound by B. Biyombo,117-111, ,,4,111,117,-6,2747.0
+2:13.0,Personal foul by T. Young (drawn by B. Biyombo),117-111, ,,4,111,117,-6,2747.0
+2:13.0,Memphis full timeout,117-111, ,,4,111,117,-6,2747.0
+2:13.0,V. Williams enters the game for Z. Williams,117-111, ,,4,111,117,-6,2747.0
+2:13.0,D. Bane makes free throw 1 of 1,118-111, ,,4,111,118,-7,2747.0
+1:58.0,Turnover by J. Jackson (out of bounds lost ball),118-111, ,,4,111,118,-7,2762.0
+1:47.0, ,118-114,T. Young makes 3-pt jump shot from 27 ft,,4,114,118,-4,2773.0
+1:47.0, ,118-114,Instant Replay (Request: Ruling Stands),,4,114,118,-4,2773.0
+1:29.0,D. Bane misses 3-pt jump shot from 23 ft,118-114, ,,4,114,118,-4,2791.0
+1:28.0,Offensive rebound by Team,118-114, ,,4,114,118,-4,2792.0
+1:28.0, ,118-114,Loose ball foul by D. Murray (drawn by J. Jackson),,4,114,118,-4,2792.0
+1:28.0,J. Jackson misses free throw 1 of 2,118-114, ,,4,114,118,-4,2792.0
+1:28.0,J. Jackson makes free throw 2 of 2,119-114, ,,4,114,119,-5,2792.0
+1:19.0, ,119-114,Personal foul by B. Biyombo (drawn by T. Young),,4,114,119,-5,2801.0
+1:16.0, ,119-114,T. Young misses 3-pt jump shot from 27 ft,,4,114,119,-5,2804.0
+1:13.0,Defensive rebound by J. Morant,119-114, ,,4,114,119,-5,2807.0
+0:52.0,V. Williams misses 3-pt jump shot from 24 ft,119-114, ,,4,114,119,-5,2828.0
+0:51.0,Offensive rebound by J. Jackson,119-114, ,,4,114,119,-5,2829.0
+0:51.0,J. Jackson makes 2-pt dunk at rim,121-114, ,,4,114,121,-7,2829.0
+0:45.0, ,121-114,T. Young misses 2-pt jump shot from 9 ft,,4,114,121,-7,2835.0
+0:44.0, ,121-114,Offensive rebound by C. Capela,,4,114,121,-7,2836.0
+0:44.0, ,121-116,C. Capela makes 2-pt layup at rim,,4,116,121,-5,2836.0
+0:36.0,Personal foul by C. Capela (drawn by B. Biyombo),121-116, ,,4,116,121,-5,2844.0
+0:36.0,B. Biyombo misses free throw 1 of 2,121-116, ,,4,116,121,-5,2844.0
+0:36.0,Offensive rebound by Team,121-116, ,,4,116,121,-5,2844.0
+0:36.0,B. Biyombo misses free throw 2 of 2,121-116, ,,4,116,121,-5,2844.0
+0:34.0, ,121-116,Defensive rebound by C. Capela,,4,116,121,-5,2846.0
+0:34.0, ,121-116,Atlanta full timeout,,4,116,121,-5,2846.0
+0:34.0,Z. Williams enters the game for B. Biyombo,121-116, ,,4,116,121,-5,2846.0
+0:34.0, ,121-116,O. Okongwu enters the game for C. Capela,,4,116,121,-5,2846.0
+0:30.0, ,121-116,T. Young misses 2-pt layup from 2 ft,,4,116,121,-5,2850.0
+0:26.0, ,121-116,Offensive rebound by O. Okongwu,,4,116,121,-5,2854.0
+0:26.0, ,121-116,O. Okongwu misses 2-pt layup at rim,,4,116,121,-5,2854.0
+0:25.0,Defensive rebound by D. Bane,121-116, ,,4,116,121,-5,2855.0
+0:20.0,Personal take foul by D. Murray (drawn by D. Bane),121-116, ,,4,116,121,-5,2860.0
+0:20.0,D. Bane makes free throw 1 of 2,122-116, ,,4,116,122,-6,2860.0
+0:20.0,D. Bane makes free throw 2 of 2,123-116, ,,4,116,123,-7,2860.0
+0:15.0, ,123-119,T. Young makes 3-pt jump shot from 26 ft,,4,119,123,-4,2865.0
+0:13.0,Personal take foul by D. Murray (drawn by D. Bane),123-119, ,,4,119,123,-4,2867.0
+0:13.0,D. Bane makes free throw 1 of 2,124-119, ,,4,119,124,-5,2867.0
+0:13.0,D. Bane makes free throw 2 of 2,125-119, ,,4,119,125,-6,2867.0
+0:13.0, ,125-119,Atlanta full timeout,,4,119,125,-6,2867.0
+0:13.0,X. Tillman enters the game for J. Morant,125-119, ,,4,119,125,-6,2867.0
+0:12.0, ,125-119,B. Bogdanović misses 3-pt jump shot from 27 ft,,4,119,125,-6,2868.0
+0:08.0,Defensive rebound by V. Williams,125-119, ,,4,119,125,-6,2872.0
+0:00.0,End of 4th quarter,125-119,,,4,119,125,-6,2880.0

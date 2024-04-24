@@ -1,0 +1,479 @@
+Time,Denver,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: N. Jokić vs. C. Capela (A. Gordon gains possession),0-0,,,1,0,0,0,0.0
+11:43.0,N. Jokić makes 2-pt hook shot from 3 ft,2-0, ,,1,0,2,-2,17.0
+11:21.0, ,2-2,T. Young makes 2-pt jump shot from 10 ft (assist by S. Bey),Tie,1,2,2,0,39.0
+11:10.0,J. Murray makes 2-pt jump shot from 5 ft (assist by N. Jokić),4-2, ,,1,2,4,-2,50.0
+10:48.0, ,4-4,S. Bey makes 2-pt hook shot from 6 ft,Tie,1,4,4,0,72.0
+10:36.0,Shooting foul by D. Murray (drawn by K. Caldwell-Pope),4-4, ,,1,4,4,0,84.0
+10:36.0,K. Caldwell-Pope misses free throw 1 of 3,4-4, ,,1,4,4,0,84.0
+10:36.0,Offensive rebound by Team,4-4, ,,1,4,4,0,84.0
+10:36.0,K. Caldwell-Pope makes free throw 2 of 3,5-4, ,,1,4,5,-1,84.0
+10:36.0,K. Caldwell-Pope makes free throw 3 of 3,6-4, ,,1,4,6,-2,84.0
+10:26.0, ,6-4,D. Murray misses 2-pt jump shot from 19 ft,,1,4,6,-2,94.0
+10:23.0,Defensive rebound by A. Gordon,6-4, ,,1,4,6,-2,97.0
+10:17.0,J. Murray misses 2-pt layup from 1 ft,6-4, ,,1,4,6,-2,103.0
+10:16.0,Offensive rebound by Team,6-4, ,,1,4,6,-2,104.0
+10:11.0,M. Porter misses 2-pt jump shot from 20 ft,6-4, ,,1,4,6,-2,109.0
+10:08.0, ,6-4,Defensive rebound by C. Capela,,1,4,6,-2,112.0
+9:59.0, ,6-6,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),Tie,1,6,6,0,121.0
+9:37.0,J. Murray misses 2-pt layup from 1 ft,6-6, ,,1,6,6,0,143.0
+9:33.0,Offensive rebound by A. Gordon,6-6, ,,1,6,6,0,147.0
+9:33.0,A. Gordon makes 2-pt layup at rim,8-6, ,,1,6,8,-2,147.0
+9:13.0, ,8-6,C. Capela misses 2-pt layup from 1 ft,,1,6,8,-2,167.0
+9:10.0,Defensive rebound by M. Porter,8-6, ,,1,6,8,-2,170.0
+9:00.0,A. Gordon misses 2-pt layup from 3 ft,8-6, ,,1,6,8,-2,180.0
+8:57.0,Offensive rebound by M. Porter,8-6, ,,1,6,8,-2,183.0
+8:57.0,M. Porter misses 2-pt layup at rim,8-6, ,,1,6,8,-2,183.0
+8:54.0,Offensive rebound by A. Gordon,8-6, ,,1,6,8,-2,186.0
+8:54.0,A. Gordon makes 2-pt dunk at rim,10-6, ,,1,6,10,-4,186.0
+8:45.0, ,10-8,T. Young makes 2-pt layup from 2 ft (assist by C. Capela),,1,8,10,-2,195.0
+8:23.0,M. Porter misses 3-pt jump shot from 25 ft,10-8, ,,1,8,10,-2,217.0
+8:20.0, ,10-8,Defensive rebound by C. Capela,,1,8,10,-2,220.0
+8:14.0, ,10-8,Shooting foul by K. Caldwell-Pope (drawn by T. Young),,1,8,10,-2,226.0
+8:14.0, ,10-9,T. Young makes free throw 1 of 2,,1,9,10,-1,226.0
+8:14.0, ,10-10,T. Young makes free throw 2 of 2,Tie,1,10,10,0,226.0
+8:01.0,N. Jokić misses 2-pt jump shot from 10 ft,10-10, ,,1,10,10,0,239.0
+7:59.0, ,10-10,Defensive rebound by S. Bey,,1,10,10,0,241.0
+7:47.0, ,10-10,T. Young misses 3-pt jump shot from 29 ft,,1,10,10,0,253.0
+7:44.0,Defensive rebound by J. Murray,10-10, ,,1,10,10,0,256.0
+7:37.0,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,10-10, ,,1,10,10,0,263.0
+7:33.0,Offensive rebound by J. Murray,10-10, ,,1,10,10,0,267.0
+7:32.0,M. Porter misses 3-pt jump shot from 23 ft,10-10, ,,1,10,10,0,268.0
+7:32.0, ,10-10,Defensive rebound by Team,,1,10,10,0,268.0
+7:30.0,Violation by Team (delay of game),10-10, ,,1,10,10,0,270.0
+7:07.0, ,10-10,G. Mathews misses 3-pt jump shot from 25 ft,,1,10,10,0,293.0
+7:03.0, ,10-10,Offensive rebound by C. Capela,,1,10,10,0,297.0
+7:01.0, ,10-12,C. Capela makes 2-pt layup from 1 ft,Lead change,1,12,10,2,299.0
+6:47.0,J. Murray makes 2-pt jump shot from 5 ft (assist by A. Gordon),12-12, ,Tie,1,12,12,0,313.0
+6:31.0, ,12-15,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Young),,1,15,12,3,329.0
+6:30.0,Denver full timeout,12-15, ,,1,15,12,3,330.0
+6:30.0,R. Jackson enters the game for J. Murray,12-15, ,,1,15,12,3,330.0
+6:30.0,J. Strawther enters the game for M. Porter,12-15, ,,1,15,12,3,330.0
+6:30.0, ,12-15,B. Bogdanović enters the game for T. Young,,1,15,12,3,330.0
+6:12.0,R. Jackson misses 3-pt jump shot from 23 ft,12-15, ,,1,15,12,3,348.0
+6:10.0,Offensive rebound by A. Gordon,12-15, ,,1,15,12,3,350.0
+6:03.0,A. Gordon makes 2-pt layup from 1 ft,14-15, ,,1,15,14,1,357.0
+5:50.0, ,14-17,C. Capela makes 2-pt layup from 1 ft (assist by B. Bogdanović),,1,17,14,3,370.0
+5:34.0,R. Jackson misses 3-pt jump shot from 25 ft,14-17, ,,1,17,14,3,386.0
+5:31.0, ,14-17,Defensive rebound by S. Bey,,1,17,14,3,389.0
+5:23.0, ,14-20,D. Murray makes 3-pt jump shot from 26 ft,,1,20,14,6,397.0
+5:23.0, ,14-20,W. Matthews enters the game for C. Capela,,1,20,14,6,397.0
+5:23.0, ,14-20,O. Okongwu enters the game for G. Mathews,,1,20,14,6,397.0
+5:08.0,N. Jokić makes 2-pt jump shot from 5 ft (assist by R. Jackson),16-20, ,,1,20,16,4,412.0
+4:48.0, ,16-20,D. Murray misses 2-pt layup from 3 ft,,1,20,16,4,432.0
+4:45.0,Defensive rebound by N. Jokić,16-20, ,,1,20,16,4,435.0
+4:36.0,Turnover by K. Caldwell-Pope (bad pass; steal by W. Matthews),16-20, ,,1,20,16,4,444.0
+4:31.0, ,16-23,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by D. Murray),,1,23,16,7,449.0
+4:31.0,P. Watson enters the game for A. Gordon,16-23, ,,1,23,16,7,449.0
+4:07.0,N. Jokić makes 2-pt hook shot from 3 ft (assist by R. Jackson),18-23, ,,1,23,18,5,473.0
+3:48.0, ,18-25,S. Bey makes 2-pt layup from 2 ft (assist by O. Okongwu),,1,25,18,7,492.0
+3:32.0,K. Caldwell-Pope misses 2-pt layup from 1 ft,18-25, ,,1,25,18,7,508.0
+3:30.0, ,18-25,Defensive rebound by B. Bogdanović,,1,25,18,7,510.0
+3:22.0, ,18-25,Shooting foul by N. Jokić (drawn by D. Murray),,1,25,18,7,518.0
+3:22.0, ,18-26,D. Murray makes free throw 1 of 2,,1,26,18,8,518.0
+3:22.0,C. Braun enters the game for K. Caldwell-Pope,18-26, ,,1,26,18,8,518.0
+3:22.0, ,18-27,D. Murray makes free throw 2 of 2,,1,27,18,9,518.0
+3:02.0,N. Jokić misses 2-pt jump shot from 12 ft,18-27, ,,1,27,18,9,538.0
+2:58.0, ,18-27,Defensive rebound by W. Matthews,,1,27,18,9,542.0
+2:44.0, ,18-27,W. Matthews misses 3-pt jump shot from 24 ft,,1,27,18,9,556.0
+2:41.0,Defensive rebound by N. Jokić,18-27, ,,1,27,18,9,559.0
+2:27.0,N. Jokić makes 2-pt layup from 2 ft (assist by J. Strawther),20-27, ,,1,27,20,7,573.0
+2:27.0, ,20-27,Atlanta full timeout,,1,27,20,7,573.0
+2:27.0,Z. Nnaji enters the game for N. Jokić,20-27, ,,1,27,20,7,573.0
+2:27.0, ,20-27,A. Griffin enters the game for S. Bey,,1,27,20,7,573.0
+2:27.0, ,20-27,T. Young enters the game for D. Murray,,1,27,20,7,573.0
+2:11.0, ,20-27,Turnover by T. Young (bad pass; steal by J. Strawther),,1,27,20,7,589.0
+2:00.0,J. Strawther misses 2-pt jump shot from 16 ft,20-27, ,,1,27,20,7,600.0
+1:56.0, ,20-27,Defensive rebound by A. Griffin,,1,27,20,7,604.0
+1:51.0, ,20-30,T. Young makes 3-pt jump shot from 30 ft,,1,30,20,10,609.0
+1:35.0,J. Strawther makes 3-pt jump shot from 26 ft (assist by R. Jackson),23-30, ,,1,30,23,7,625.0
+1:18.0, ,23-33,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),,1,33,23,10,642.0
+0:57.0,R. Jackson makes 2-pt jump shot from 17 ft (assist by Z. Nnaji),25-33, ,,1,33,25,8,663.0
+0:45.0, ,25-36,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),,1,36,25,11,675.0
+0:36.0,R. Jackson misses 3-pt jump shot from 26 ft,25-36, ,,1,36,25,11,684.0
+0:34.0, ,25-36,Defensive rebound by Team,,1,36,25,11,686.0
+0:19.0, ,25-36,A. Griffin misses 3-pt jump shot from 25 ft,,1,36,25,11,701.0
+0:14.0,Defensive rebound by R. Jackson,25-36, ,,1,36,25,11,706.0
+0:11.0,J. Strawther makes 3-pt jump shot from 26 ft (assist by R. Jackson),28-36, ,,1,36,28,8,709.0
+0:01.0, ,28-36,T. Young misses 2-pt jump shot from 22 ft,,1,36,28,8,719.0
+0:00.0, ,28-36,Offensive rebound by Team,,1,36,28,8,720.0
+0:00.0,End of 1st quarter,28-36,,,1,36,28,8,720.0
+12:00.0,Start of 2nd quarter,28-36,,,2,36,28,8,720.0
+11:48.0, ,28-36,Turnover by T. Young (bad pass; steal by J. Strawther),,2,36,28,8,732.0
+11:34.0,P. Watson makes 2-pt dunk from 1 ft (assist by R. Jackson),30-36, ,,2,36,30,6,746.0
+11:24.0, ,30-38,W. Matthews makes 2-pt layup from 1 ft (assist by T. Young),,2,38,30,8,756.0
+11:08.0,R. Jackson misses 2-pt jump shot from 5 ft,30-38, ,,2,38,30,8,772.0
+11:06.0, ,30-38,Defensive rebound by W. Matthews,,2,38,30,8,774.0
+10:55.0, ,30-38,Turnover by W. Matthews (bad pass; steal by J. Strawther),,2,38,30,8,785.0
+10:40.0,M. Porter makes 2-pt layup from 1 ft,32-38, ,,2,38,32,6,800.0
+10:21.0, ,32-40,T. Young makes 2-pt jump shot from 8 ft,,2,40,32,8,819.0
+10:12.0,Offensive foul by M. Porter (drawn by T. Young),32-40, ,,2,40,32,8,828.0
+10:12.0,Turnover by M. Porter (offensive foul),32-40, ,,2,40,32,8,828.0
+10:01.0, ,32-42,O. Okongwu makes 2-pt layup from 2 ft (assist by B. Bogdanović),,2,42,32,10,839.0
+9:48.0,M. Porter misses 2-pt jump shot from 19 ft,32-42, ,,2,42,32,10,852.0
+9:46.0,Offensive rebound by Z. Nnaji,32-42, ,,2,42,32,10,854.0
+9:45.0,Z. Nnaji makes 2-pt layup from 2 ft,34-42, ,,2,42,34,8,855.0
+9:45.0,Shooting foul by O. Okongwu (drawn by Z. Nnaji),34-42, ,,2,42,34,8,855.0
+9:45.0, ,34-42,S. Bey enters the game for W. Matthews,,2,42,34,8,855.0
+9:45.0,Z. Nnaji makes free throw 1 of 1,35-42, ,,2,42,35,7,855.0
+9:30.0, ,35-42,B. Bogdanović misses 3-pt jump shot from 26 ft (block by Z. Nnaji),,2,42,35,7,870.0
+9:27.0, ,35-42,Offensive rebound by B. Bogdanović,,2,42,35,7,873.0
+9:23.0, ,35-44,B. Bogdanović makes 2-pt jump shot from 9 ft,,2,44,35,9,877.0
+9:23.0,Denver full timeout,35-44, ,,2,44,35,9,877.0
+9:11.0,Personal foul by A. Griffin (drawn by R. Jackson),35-44, ,,2,44,35,9,889.0
+9:02.0,J. Strawther makes 2-pt layup from 1 ft (assist by M. Porter),37-44, ,,2,44,37,7,898.0
+9:02.0, ,37-44,G. Mathews enters the game for A. Griffin,,2,44,37,7,898.0
+8:38.0, ,37-44,T. Young misses 2-pt jump shot from 5 ft,,2,44,37,7,922.0
+8:34.0,Defensive rebound by M. Porter,37-44, ,,2,44,37,7,926.0
+8:28.0,J. Strawther makes 2-pt jump shot from 4 ft,39-44, ,,2,44,39,5,932.0
+8:09.0, ,39-44,B. Bogdanović misses 2-pt jump shot from 14 ft,,2,44,39,5,951.0
+8:07.0,Defensive rebound by J. Strawther,39-44, ,,2,44,39,5,953.0
+8:06.0,Turnover by J. Strawther (lost ball; steal by G. Mathews),39-44, ,,2,44,39,5,954.0
+8:02.0, ,39-47,G. Mathews makes 3-pt jump shot from 27 ft (assist by O. Okongwu),,2,47,39,8,958.0
+7:56.0,J. Strawther makes 3-pt jump shot from 25 ft (assist by R. Jackson),42-47, ,,2,47,42,5,964.0
+7:38.0, ,42-47,Personal foul by Z. Nnaji (drawn by T. Young),,2,47,42,5,982.0
+7:38.0,K. Caldwell-Pope enters the game for R. Jackson,42-47, ,,2,47,42,5,982.0
+7:38.0,A. Gordon enters the game for Z. Nnaji,42-47, ,,2,47,42,5,982.0
+7:38.0,N. Jokić enters the game for M. Porter,42-47, ,,2,47,42,5,982.0
+7:38.0,J. Murray enters the game for P. Watson,42-47, ,,2,47,42,5,982.0
+7:38.0, ,42-47,W. Matthews enters the game for B. Bogdanović,,2,47,42,5,982.0
+7:38.0, ,42-47,D. Murray enters the game for T. Young,,2,47,42,5,982.0
+7:26.0, ,42-50,S. Bey makes 3-pt jump shot from 23 ft (assist by G. Mathews),,2,50,42,8,994.0
+7:09.0,Turnover by J. Murray (bad pass),42-50, ,,2,50,42,8,1011.0
+6:52.0, ,42-50,W. Matthews misses 3-pt jump shot from 26 ft,,2,50,42,8,1028.0
+6:49.0,Defensive rebound by J. Murray,42-50, ,,2,50,42,8,1031.0
+6:46.0,Offensive foul by A. Gordon (drawn by W. Matthews),42-50, ,,2,50,42,8,1034.0
+6:46.0,Turnover by A. Gordon (offensive foul),42-50, ,,2,50,42,8,1034.0
+6:32.0, ,42-50,G. Mathews misses 3-pt jump shot from 25 ft,,2,50,42,8,1048.0
+6:29.0,Defensive rebound by A. Gordon,42-50, ,,2,50,42,8,1051.0
+6:23.0,J. Strawther makes 3-pt jump shot from 26 ft (assist by J. Murray),45-50, ,,2,50,45,5,1057.0
+6:06.0, ,45-50,D. Murray misses 3-pt jump shot from 27 ft,,2,50,45,5,1074.0
+6:02.0,Defensive rebound by K. Caldwell-Pope,45-50, ,,2,50,45,5,1078.0
+5:53.0,A. Gordon makes 2-pt dunk at rim (assist by N. Jokić),47-50, ,,2,50,47,3,1087.0
+5:53.0, ,47-50,Atlanta full timeout,,2,50,47,3,1087.0
+5:53.0, ,47-50,B. Bogdanović enters the game for G. Mathews,,2,50,47,3,1087.0
+5:53.0, ,47-50,C. Capela enters the game for W. Matthews,,2,50,47,3,1087.0
+5:53.0, ,47-50,T. Young enters the game for O. Okongwu,,2,50,47,3,1087.0
+5:39.0, ,47-52,D. Murray makes 2-pt layup from 2 ft (assist by T. Young),,2,52,47,5,1101.0
+5:22.0,J. Strawther makes 3-pt jump shot from 25 ft (assist by N. Jokić),50-52, ,,2,52,50,2,1118.0
+5:08.0, ,50-52,S. Bey misses 2-pt layup from 1 ft,,2,52,50,2,1132.0
+5:05.0, ,50-52,Offensive rebound by S. Bey,,2,52,50,2,1135.0
+5:02.0, ,50-55,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by D. Murray),,2,55,50,5,1138.0
+4:49.0,N. Jokić makes 2-pt jump shot from 8 ft,52-55, ,,2,55,52,3,1151.0
+4:32.0, ,52-55,D. Murray misses 2-pt jump shot from 11 ft,,2,55,52,3,1168.0
+4:29.0,Defensive rebound by J. Murray,52-55, ,,2,55,52,3,1171.0
+4:21.0,Offensive foul by A. Gordon (drawn by S. Bey),52-55, ,,2,55,52,3,1179.0
+4:21.0,Turnover by A. Gordon (offensive foul),52-55, ,,2,55,52,3,1179.0
+4:21.0,Technical foul by A. Gordon,52-55, ,,2,55,52,3,1179.0
+4:21.0, ,52-56,T. Young makes technical free throw,,2,56,52,4,1179.0
+4:13.0, ,52-56,Shooting foul by K. Caldwell-Pope (drawn by T. Young),,2,56,52,4,1187.0
+4:13.0, ,52-57,T. Young makes free throw 1 of 2,,2,57,52,5,1187.0
+4:13.0, ,52-58,T. Young makes free throw 2 of 2,,2,58,52,6,1187.0
+4:01.0,J. Strawther misses 3-pt jump shot from 23 ft,52-58, ,,2,58,52,6,1199.0
+3:58.0,Offensive rebound by A. Gordon,52-58, ,,2,58,52,6,1202.0
+3:58.0,A. Gordon misses 2-pt layup at rim,52-58, ,,2,58,52,6,1202.0
+3:57.0,Offensive rebound by A. Gordon,52-58, ,,2,58,52,6,1203.0
+3:57.0,Shooting foul by C. Capela (drawn by A. Gordon),52-58, ,,2,58,52,6,1203.0
+3:57.0,A. Gordon makes free throw 1 of 2,53-58, ,,2,58,53,5,1203.0
+3:57.0,A. Gordon makes free throw 2 of 2,54-58, ,,2,58,54,4,1203.0
+3:42.0, ,54-58,Turnover by B. Bogdanović (bad pass; steal by J. Strawther),,2,58,54,4,1218.0
+3:34.0,J. Strawther misses 3-pt jump shot from 25 ft,54-58, ,,2,58,54,4,1226.0
+3:28.0, ,54-58,Defensive rebound by D. Murray,,2,58,54,4,1232.0
+3:21.0, ,54-58,C. Capela misses 2-pt layup from 5 ft (block by J. Murray),,2,58,54,4,1239.0
+3:20.0, ,54-58,Offensive rebound by Team,,2,58,54,4,1240.0
+3:18.0, ,54-58,D. Murray misses 3-pt jump shot from 23 ft,,2,58,54,4,1242.0
+3:14.0,Defensive rebound by N. Jokić,54-58, ,,2,58,54,4,1246.0
+3:12.0,J. Murray makes 3-pt jump shot from 26 ft (assist by N. Jokić),57-58, ,,2,58,57,1,1248.0
+2:54.0, ,57-60,B. Bogdanović makes 2-pt jump shot from 14 ft,,2,60,57,3,1266.0
+2:41.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,57-60, ,,2,60,57,3,1279.0
+2:39.0, ,57-60,Defensive rebound by C. Capela,,2,60,57,3,1281.0
+2:30.0, ,57-60,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,60,57,3,1290.0
+2:26.0,Defensive rebound by J. Murray,57-60, ,,2,60,57,3,1294.0
+2:18.0,Personal foul by T. Young (drawn by J. Murray),57-60, ,,2,60,57,3,1302.0
+2:18.0,M. Porter enters the game for J. Strawther,57-60, ,,2,60,57,3,1302.0
+2:14.0,J. Murray makes 2-pt jump shot from 3 ft (assist by N. Jokić),59-60, ,,2,60,59,1,1306.0
+1:47.0, ,59-60,T. Young misses 3-pt jump shot from 26 ft,,2,60,59,1,1333.0
+1:45.0,Defensive rebound by A. Gordon,59-60, ,,2,60,59,1,1335.0
+1:36.0,N. Jokić makes 2-pt layup from 5 ft (assist by K. Caldwell-Pope),61-60, ,Lead change,2,60,61,-1,1344.0
+1:11.0, ,61-62,S. Bey makes 2-pt layup from 5 ft,Lead change,2,62,61,1,1369.0
+0:54.0,M. Porter misses 2-pt jump shot from 12 ft,61-62, ,,2,62,61,1,1386.0
+0:51.0,Offensive rebound by N. Jokić,61-62, ,,2,62,61,1,1389.0
+0:50.0,J. Murray makes 2-pt dunk from 1 ft (assist by N. Jokić),63-62, ,Lead change,2,62,63,-1,1390.0
+0:34.0,Denver full timeout,63-62, ,,2,62,63,-1,1406.0
+0:34.0,Instant Replay (Challenge: Ruling Stands),63-62, ,,2,62,63,-1,1406.0
+0:34.0, ,63-62,Turnover by T. Young (bad pass),,2,62,63,-1,1406.0
+0:26.0,J. Murray makes 2-pt jump shot from 10 ft,65-62, ,,2,62,65,-3,1414.0
+0:06.0, ,65-62,Personal foul by M. Porter (drawn by T. Young),,2,62,65,-3,1434.0
+0:06.0,C. Braun enters the game for K. Caldwell-Pope,65-62, ,,2,62,65,-3,1434.0
+0:06.0,P. Watson enters the game for M. Porter,65-62, ,,2,62,65,-3,1434.0
+0:03.0, ,65-62,S. Bey misses 3-pt jump shot from 23 ft,,2,62,65,-3,1437.0
+0:03.0,Defensive rebound by J. Murray,65-62, ,,2,62,65,-3,1437.0
+0:00.0,End of 2nd quarter,65-62,,,2,62,65,-3,1440.0
+12:00.0,Start of 3rd quarter,65-62,,,3,62,65,-3,1440.0
+11:47.0, ,65-62,C. Capela misses 2-pt layup from 23 ft (block by N. Jokić),,3,62,65,-3,1453.0
+11:46.0, ,65-62,Offensive rebound by Team,,3,62,65,-3,1454.0
+11:44.0, ,65-62,G. Mathews misses 3-pt jump shot from 23 ft,,3,62,65,-3,1456.0
+11:41.0,Defensive rebound by M. Porter,65-62, ,,3,62,65,-3,1459.0
+11:37.0,A. Gordon makes 2-pt dunk at rim (assist by K. Caldwell-Pope),67-62, ,,3,62,67,-5,1463.0
+11:22.0, ,67-62,Turnover by D. Murray (bad pass; steal by N. Jokić),,3,62,67,-5,1478.0
+11:12.0,J. Murray makes 2-pt jump shot from 19 ft,69-62, ,,3,62,69,-7,1488.0
+10:59.0, ,69-64,C. Capela makes 2-pt layup from 3 ft (assist by T. Young),,3,64,69,-5,1501.0
+10:37.0,N. Jokić misses 2-pt jump shot from 19 ft,69-64, ,,3,64,69,-5,1523.0
+10:34.0, ,69-64,Defensive rebound by D. Murray,,3,64,69,-5,1526.0
+10:23.0, ,69-66,S. Bey makes 2-pt jump shot from 8 ft (assist by D. Murray),,3,66,69,-3,1537.0
+10:05.0,Def 3 sec tech foul by Team,69-66, ,,3,66,69,-3,1555.0
+10:05.0,J. Murray makes technical free throw,70-66, ,,3,66,70,-4,1555.0
+9:59.0,N. Jokić makes 3-pt jump shot from 25 ft (assist by J. Murray),73-66, ,,3,66,73,-7,1561.0
+9:41.0, ,73-69,T. Young makes 3-pt jump shot from 25 ft,,3,69,73,-4,1579.0
+9:22.0,K. Caldwell-Pope makes 2-pt layup from 1 ft (assist by N. Jokić),75-69, ,,3,69,75,-6,1598.0
+9:04.0, ,75-69,D. Murray misses 3-pt jump shot from 24 ft,,3,69,75,-6,1616.0
+9:02.0,Defensive rebound by M. Porter,75-69, ,,3,69,75,-6,1618.0
+8:54.0,Personal foul by D. Murray (drawn by J. Murray),75-69, ,,3,69,75,-6,1626.0
+8:46.0,M. Porter misses 2-pt jump shot from 15 ft,75-69, ,,3,69,75,-6,1634.0
+8:41.0,Offensive rebound by N. Jokić,75-69, ,,3,69,75,-6,1639.0
+8:41.0,N. Jokić makes 2-pt layup at rim,77-69, ,,3,69,77,-8,1639.0
+8:33.0, ,77-69,Personal foul by N. Jokić (drawn by T. Young),,3,69,77,-8,1647.0
+8:25.0, ,77-69,T. Young misses 2-pt layup from 2 ft,,3,69,77,-8,1655.0
+8:24.0, ,77-69,Offensive rebound by C. Capela,,3,69,77,-8,1656.0
+8:24.0, ,77-69,C. Capela misses 2-pt layup at rim,,3,69,77,-8,1656.0
+8:23.0,Defensive rebound by N. Jokić,77-69, ,,3,69,77,-8,1657.0
+8:23.0,Personal foul by C. Capela (drawn by N. Jokić),77-69, ,,3,69,77,-8,1657.0
+8:12.0,K. Caldwell-Pope misses 2-pt jump shot from 17 ft,77-69, ,,3,69,77,-8,1668.0
+8:11.0,Offensive rebound by M. Porter,77-69, ,,3,69,77,-8,1669.0
+8:11.0,Shooting foul by G. Mathews (drawn by M. Porter),77-69, ,,3,69,77,-8,1669.0
+8:11.0,M. Porter misses free throw 1 of 2,77-69, ,,3,69,77,-8,1669.0
+8:11.0,Offensive rebound by Team,77-69, ,,3,69,77,-8,1669.0
+8:11.0,M. Porter makes free throw 2 of 2,78-69, ,,3,69,78,-9,1669.0
+7:56.0, ,78-69,T. Young misses 3-pt jump shot from 25 ft,,3,69,78,-9,1684.0
+7:51.0,Defensive rebound by J. Murray,78-69, ,,3,69,78,-9,1689.0
+7:50.0,Turnover by J. Murray (lost ball; steal by S. Bey),78-69, ,,3,69,78,-9,1690.0
+7:47.0, ,78-71,S. Bey makes 2-pt layup from 2 ft,,3,71,78,-7,1693.0
+7:39.0,A. Gordon makes 2-pt layup from 1 ft (assist by J. Murray),80-71, ,,3,71,80,-9,1701.0
+7:24.0, ,80-71,S. Bey misses 3-pt jump shot from 25 ft,,3,71,80,-9,1716.0
+7:20.0,Defensive rebound by K. Caldwell-Pope,80-71, ,,3,71,80,-9,1720.0
+7:13.0,Turnover by K. Caldwell-Pope (bad pass; steal by T. Young),80-71, ,,3,71,80,-9,1727.0
+7:05.0, ,80-71,Turnover by T. Young (bad pass; steal by N. Jokić),,3,71,80,-9,1735.0
+6:57.0,N. Jokić misses 2-pt layup from 4 ft,80-71, ,,3,71,80,-9,1743.0
+6:53.0, ,80-71,Defensive rebound by T. Young,,3,71,80,-9,1747.0
+6:50.0, ,80-71,D. Murray misses 2-pt layup from 2 ft (block by K. Caldwell-Pope),,3,71,80,-9,1750.0
+6:49.0, ,80-71,Offensive rebound by Team,,3,71,80,-9,1751.0
+6:49.0, ,80-71,Atlanta full timeout,,3,71,80,-9,1751.0
+6:49.0, ,80-71,B. Bogdanović enters the game for T. Young,,3,71,80,-9,1751.0
+6:36.0, ,80-71,G. Mathews misses 3-pt jump shot from 26 ft,,3,71,80,-9,1764.0
+6:33.0,Defensive rebound by K. Caldwell-Pope,80-71, ,,3,71,80,-9,1767.0
+6:22.0,J. Murray makes 2-pt jump shot from 19 ft,82-71, ,,3,71,82,-11,1778.0
+6:03.0, ,82-71,D. Murray misses 2-pt layup from 4 ft (block by J. Murray),,3,71,82,-11,1797.0
+6:00.0,Defensive rebound by J. Murray,82-71, ,,3,71,82,-11,1800.0
+5:56.0,Turnover by J. Murray (lost ball; steal by D. Murray),82-71, ,,3,71,82,-11,1804.0
+5:35.0, ,82-71,D. Murray misses 2-pt layup from 1 ft,,3,71,82,-11,1825.0
+5:33.0,Defensive rebound by M. Porter,82-71, ,,3,71,82,-11,1827.0
+5:24.0,J. Murray makes 3-pt jump shot from 26 ft (assist by M. Porter),85-71, ,,3,71,85,-14,1836.0
+5:04.0, ,85-71,S. Bey misses 2-pt layup from 3 ft,,3,71,85,-14,1856.0
+5:03.0,Defensive rebound by N. Jokić,85-71, ,,3,71,85,-14,1857.0
+5:03.0,Personal foul by C. Capela (drawn by N. Jokić),85-71, ,,3,71,85,-14,1857.0
+5:03.0,J. Strawther enters the game for M. Porter,85-71, ,,3,71,85,-14,1857.0
+5:03.0, ,85-71,W. Matthews enters the game for C. Capela,,3,71,85,-14,1857.0
+5:03.0, ,85-71,O. Okongwu enters the game for G. Mathews,,3,71,85,-14,1857.0
+4:45.0,A. Gordon makes 2-pt layup from 1 ft,87-71, ,,3,71,87,-16,1875.0
+4:45.0,Shooting foul by O. Okongwu (drawn by A. Gordon),87-71, ,,3,71,87,-16,1875.0
+4:45.0,A. Gordon makes free throw 1 of 1,88-71, ,,3,71,88,-17,1875.0
+4:28.0, ,88-71,Turnover by W. Matthews (lost ball; steal by J. Murray),,3,71,88,-17,1892.0
+4:22.0,J. Strawther makes 3-pt jump shot from 26 ft (assist by J. Murray),91-71, ,,3,71,91,-20,1898.0
+4:21.0, ,91-71,Atlanta full timeout,,3,71,91,-20,1899.0
+4:21.0,R. Jackson enters the game for J. Murray,91-71, ,,3,71,91,-20,1899.0
+4:06.0,Denver full timeout,91-71, ,,3,71,91,-20,1914.0
+4:06.0,Instant Replay (Challenge: Ruling Stands),91-71, ,,3,71,91,-20,1914.0
+4:06.0, ,91-71,S. Bey misses 3-pt jump shot from 23 ft,,3,71,91,-20,1914.0
+4:06.0,Defensive rebound by N. Jokić,91-71, ,,3,71,91,-20,1914.0
+3:53.0,K. Caldwell-Pope misses 2-pt jump shot from 18 ft,91-71, ,,3,71,91,-20,1927.0
+3:49.0, ,91-71,Defensive rebound by W. Matthews,,3,71,91,-20,1931.0
+3:46.0, ,91-71,B. Bogdanović misses 2-pt jump shot from 3 ft,,3,71,91,-20,1934.0
+3:39.0, ,91-71,Offensive rebound by O. Okongwu,,3,71,91,-20,1941.0
+3:39.0, ,91-73,O. Okongwu makes 2-pt dunk at rim,,3,73,91,-18,1941.0
+3:24.0,J. Strawther misses 2-pt layup from 1 ft (block by S. Bey),91-73, ,,3,73,91,-18,1956.0
+3:23.0,Offensive rebound by Team,91-73, ,,3,73,91,-18,1957.0
+3:23.0,C. Braun enters the game for K. Caldwell-Pope,91-73, ,,3,73,91,-18,1957.0
+3:23.0,P. Watson enters the game for A. Gordon,91-73, ,,3,73,91,-18,1957.0
+3:23.0, ,91-73,A. Griffin enters the game for S. Bey,,3,73,91,-18,1957.0
+3:23.0, ,91-73,T. Young enters the game for D. Murray,,3,73,91,-18,1957.0
+3:11.0,Turnover by J. Strawther (bad pass; steal by B. Bogdanović),91-73, ,,3,73,91,-18,1969.0
+2:59.0, ,91-73,Shooting foul by C. Braun (drawn by T. Young),,3,73,91,-18,1981.0
+2:59.0, ,91-74,T. Young makes free throw 1 of 2,,3,74,91,-17,1981.0
+2:59.0, ,91-75,T. Young makes free throw 2 of 2,,3,75,91,-16,1981.0
+2:47.0,C. Braun makes 2-pt dunk from 1 ft (assist by N. Jokić),93-75, ,,3,75,93,-18,1993.0
+2:37.0, ,93-75,Turnover by T. Young (bad pass; steal by N. Jokić),,3,75,93,-18,2003.0
+2:34.0,Shooting foul by T. Young (drawn by P. Watson),93-75, ,,3,75,93,-18,2006.0
+2:34.0,P. Watson misses free throw 1 of 2,93-75, ,,3,75,93,-18,2006.0
+2:34.0,Offensive rebound by Team,93-75, ,,3,75,93,-18,2006.0
+2:34.0,P. Watson makes free throw 2 of 2,94-75, ,,3,75,94,-19,2006.0
+2:15.0, ,94-78,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by A. Griffin),,3,78,94,-16,2025.0
+1:54.0,C. Braun makes 2-pt jump shot from 6 ft,96-78, ,,3,78,96,-18,2046.0
+1:42.0, ,96-81,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),,3,81,96,-15,2058.0
+1:21.0,R. Jackson makes 2-pt jump shot from 3 ft (assist by N. Jokić),98-81, ,,3,81,98,-17,2079.0
+1:21.0,Shooting foul by W. Matthews (drawn by R. Jackson),98-81, ,,3,81,98,-17,2079.0
+1:21.0,Z. Nnaji enters the game for N. Jokić,98-81, ,,3,81,98,-17,2079.0
+1:21.0,R. Jackson makes free throw 1 of 1,99-81, ,,3,81,99,-18,2079.0
+1:08.0, ,99-83,B. Bogdanović makes 2-pt layup from 2 ft (assist by T. Young),,3,83,99,-16,2092.0
+0:59.0,J. Strawther misses 2-pt layup from 2 ft (block by O. Okongwu),99-83, ,,3,83,99,-16,2101.0
+0:57.0, ,99-83,Defensive rebound by A. Griffin,,3,83,99,-16,2103.0
+0:50.0, ,99-86,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by W. Matthews),,3,86,99,-13,2110.0
+0:49.0,Denver full timeout,99-86, ,,3,86,99,-13,2111.0
+0:34.0,Offensive foul by Z. Nnaji (drawn by T. Young),99-86, ,,3,86,99,-13,2126.0
+0:34.0,Turnover by Z. Nnaji (offensive foul),99-86, ,,3,86,99,-13,2126.0
+0:29.0, ,99-86,T. Young misses 2-pt jump shot from 3 ft,,3,86,99,-13,2131.0
+0:25.0,Defensive rebound by Z. Nnaji,99-86, ,,3,86,99,-13,2135.0
+0:25.0,Personal foul by B. Bogdanović (drawn by C. Braun),99-86, ,,3,86,99,-13,2135.0
+0:25.0,C. Braun makes free throw 1 of 2,100-86, ,,3,86,100,-14,2135.0
+0:25.0,K. Caldwell-Pope enters the game for J. Strawther,100-86, ,,3,86,100,-14,2135.0
+0:25.0, ,100-86,Technical foul by T. Young,,3,86,100,-14,2135.0
+0:25.0, ,100-86,Technical foul by Q. Snyder,,3,86,100,-14,2135.0
+0:25.0, ,100-86,T. Young ejected from game,,3,86,100,-14,2135.0
+0:25.0,K. Caldwell-Pope misses technical free throw,100-86, ,,3,86,100,-14,2135.0
+0:25.0,Offensive rebound by Team,100-86, ,,3,86,100,-14,2135.0
+0:25.0, ,100-86,D. Murray enters the game for T. Young,,3,86,100,-14,2135.0
+0:25.0,K. Caldwell-Pope makes technical free throw,101-86, ,,3,86,101,-15,2135.0
+0:25.0,K. Caldwell-Pope makes technical free throw,102-86, ,,3,86,102,-16,2135.0
+0:25.0,C. Braun makes free throw 2 of 2,103-86, ,,3,86,103,-17,2135.0
+0:05.0, ,103-86,O. Okongwu misses 2-pt layup from 3 ft (block by Z. Nnaji),,3,86,103,-17,2155.0
+0:01.0,Defensive rebound by P. Watson,103-86, ,,3,86,103,-17,2159.0
+0:00.0,R. Jackson misses 3-pt jump shot from 30 ft,103-86, ,,3,86,103,-17,2160.0
+0:00.0,Offensive rebound by Team,103-86, ,,3,86,103,-17,2160.0
+0:00.0,End of 3rd quarter,103-86,,,3,86,103,-17,2160.0
+12:00.0,Start of 4th quarter,103-86,,,4,86,103,-17,2160.0
+11:46.0,R. Jackson makes 2-pt jump shot from 7 ft (assist by C. Braun),105-86, ,,4,86,105,-19,2174.0
+11:28.0, ,105-86,B. Bogdanović misses 2-pt jump shot from 14 ft,,4,86,105,-19,2192.0
+11:25.0,Defensive rebound by C. Braun,105-86, ,,4,86,105,-19,2195.0
+11:19.0,J. Strawther misses 3-pt jump shot from 26 ft,105-86, ,,4,86,105,-19,2201.0
+11:16.0, ,105-86,Defensive rebound by W. Matthews,,4,86,105,-19,2204.0
+11:11.0, ,105-88,D. Murray makes 2-pt layup from 1 ft,,4,88,105,-17,2209.0
+11:01.0,Z. Nnaji misses 3-pt jump shot from 25 ft,105-88, ,,4,88,105,-17,2219.0
+10:58.0, ,105-88,Defensive rebound by O. Okongwu,,4,88,105,-17,2222.0
+10:51.0, ,105-88,D. Murray misses 2-pt layup from 4 ft (block by P. Watson),,4,88,105,-17,2229.0
+10:48.0,Defensive rebound by C. Braun,105-88, ,,4,88,105,-17,2232.0
+10:38.0,P. Watson misses 2-pt jump shot from 10 ft,105-88, ,,4,88,105,-17,2242.0
+10:36.0, ,105-88,Defensive rebound by O. Okongwu,,4,88,105,-17,2244.0
+10:30.0, ,105-88,Personal foul by P. Watson (drawn by S. Bey),,4,88,105,-17,2250.0
+10:24.0, ,105-88,Personal foul by P. Watson (drawn by O. Okongwu),,4,88,105,-17,2256.0
+10:15.0,Violation by Team (kicked ball),105-88, ,,4,88,105,-17,2265.0
+10:08.0, ,105-88,B. Bogdanović misses 3-pt jump shot from 25 ft,,4,88,105,-17,2272.0
+10:03.0,Defensive rebound by Z. Nnaji,105-88, ,,4,88,105,-17,2277.0
+9:55.0,R. Jackson makes 3-pt jump shot from 25 ft (assist by J. Strawther),108-88, ,,4,88,108,-20,2285.0
+9:42.0, ,108-90,O. Okongwu makes 2-pt layup from 2 ft (assist by B. Bogdanović),,4,90,108,-18,2298.0
+9:42.0, ,108-90,Shooting foul by C. Braun (drawn by O. Okongwu),,4,90,108,-18,2298.0
+9:42.0, ,108-91,O. Okongwu makes free throw 1 of 1,,4,91,108,-17,2298.0
+9:32.0,Turnover by R. Jackson (bad pass; steal by W. Matthews),108-91, ,,4,91,108,-17,2308.0
+9:25.0, ,108-91,Personal foul by Z. Nnaji (drawn by B. Bogdanović),,4,91,108,-17,2315.0
+9:13.0, ,108-91,Shooting foul by J. Strawther (drawn by S. Bey),,4,91,108,-17,2327.0
+9:13.0, ,108-92,S. Bey makes free throw 1 of 2,,4,92,108,-16,2327.0
+9:13.0, ,108-93,S. Bey makes free throw 2 of 2,,4,93,108,-15,2327.0
+9:03.0,R. Jackson makes 2-pt layup from 2 ft,110-93, ,,4,93,110,-17,2337.0
+8:46.0, ,110-95,D. Murray makes 2-pt layup from 4 ft,,4,95,110,-15,2354.0
+8:32.0,C. Braun misses 2-pt jump shot from 5 ft,110-95, ,,4,95,110,-15,2368.0
+8:29.0, ,110-95,Defensive rebound by O. Okongwu,,4,95,110,-15,2371.0
+8:23.0, ,110-95,D. Murray misses 2-pt jump shot from 10 ft,,4,95,110,-15,2377.0
+8:20.0, ,110-95,Offensive rebound by D. Murray,,4,95,110,-15,2380.0
+8:19.0, ,110-95,W. Matthews misses 3-pt jump shot from 25 ft,,4,95,110,-15,2381.0
+8:15.0, ,110-95,Offensive rebound by W. Matthews,,4,95,110,-15,2385.0
+8:14.0, ,110-95,W. Matthews misses 3-pt jump shot from 26 ft,,4,95,110,-15,2386.0
+8:11.0,Defensive rebound by Z. Nnaji,110-95, ,,4,95,110,-15,2389.0
+8:11.0,Denver full timeout,110-95, ,,4,95,110,-15,2389.0
+8:11.0,N. Jokić enters the game for C. Braun,110-95, ,,4,95,110,-15,2389.0
+8:11.0,J. Murray enters the game for R. Jackson,110-95, ,,4,95,110,-15,2389.0
+8:11.0,M. Porter enters the game for Z. Nnaji,110-95, ,,4,95,110,-15,2389.0
+8:11.0, ,110-95,C. Capela enters the game for W. Matthews,,4,95,110,-15,2389.0
+7:56.0,M. Porter misses 3-pt jump shot from 23 ft,110-95, ,,4,95,110,-15,2404.0
+7:53.0, ,110-95,Defensive rebound by B. Bogdanović,,4,95,110,-15,2407.0
+7:42.0, ,110-95,Turnover by D. Murray (bad pass; steal by J. Strawther),,4,95,110,-15,2418.0
+7:42.0,Personal foul by S. Bey (drawn by J. Strawther),110-95, ,,4,95,110,-15,2418.0
+7:32.0,J. Murray makes 2-pt layup from 1 ft,112-95, ,,4,95,112,-17,2428.0
+7:17.0, ,112-95,B. Bogdanović misses 3-pt jump shot from 24 ft,,4,95,112,-17,2443.0
+7:15.0, ,112-95,Offensive rebound by O. Okongwu,,4,95,112,-17,2445.0
+7:12.0, ,112-97,C. Capela makes 2-pt dunk at rim (assist by O. Okongwu),,4,97,112,-15,2448.0
+6:52.0,J. Murray makes 3-pt jump shot from 25 ft (assist by M. Porter),115-97, ,,4,97,115,-18,2468.0
+6:40.0, ,115-97,D. Murray misses 3-pt jump shot from 26 ft,,4,97,115,-18,2480.0
+6:36.0, ,115-97,Offensive rebound by D. Murray,,4,97,115,-18,2484.0
+6:32.0, ,115-99,B. Bogdanović makes 2-pt jump shot from 4 ft (assist by S. Bey),,4,99,115,-16,2488.0
+6:09.0,J. Murray misses 3-pt jump shot from 27 ft,115-99, ,,4,99,115,-16,2511.0
+6:07.0, ,115-99,Defensive rebound by S. Bey,,4,99,115,-16,2513.0
+6:00.0, ,115-102,D. Murray makes 3-pt jump shot from 25 ft,,4,102,115,-13,2520.0
+5:39.0,J. Strawther misses 3-pt jump shot from 26 ft,115-102, ,,4,102,115,-13,2541.0
+5:36.0, ,115-102,Defensive rebound by O. Okongwu,,4,102,115,-13,2544.0
+5:23.0, ,115-104,D. Murray makes 2-pt jump shot from 20 ft,,4,104,115,-11,2557.0
+5:06.0,J. Strawther misses 3-pt jump shot from 23 ft,115-104, ,,4,104,115,-11,2574.0
+5:03.0,Offensive rebound by P. Watson,115-104, ,,4,104,115,-11,2577.0
+4:55.0,J. Murray makes 3-pt jump shot from 26 ft,118-104, ,,4,104,118,-14,2585.0
+4:35.0, ,118-104,Shooting foul by M. Porter (drawn by B. Bogdanović),,4,104,118,-14,2605.0
+4:35.0, ,118-105,B. Bogdanović makes free throw 1 of 2,,4,105,118,-13,2605.0
+4:35.0,K. Caldwell-Pope enters the game for J. Strawther,118-105, ,,4,105,118,-13,2605.0
+4:35.0,A. Gordon enters the game for P. Watson,118-105, ,,4,105,118,-13,2605.0
+4:35.0, ,118-106,B. Bogdanović makes free throw 2 of 2,,4,106,118,-12,2605.0
+4:17.0,N. Jokić makes 2-pt jump shot from 12 ft,120-106, ,,4,106,120,-14,2623.0
+4:17.0,Shooting foul by C. Capela (drawn by N. Jokić),120-106, ,,4,106,120,-14,2623.0
+4:17.0,N. Jokić makes free throw 1 of 1,121-106, ,,4,106,121,-15,2623.0
+4:03.0, ,121-106,O. Okongwu misses 2-pt layup from 1 ft,,4,106,121,-15,2637.0
+4:02.0, ,121-106,Offensive rebound by C. Capela,,4,106,121,-15,2638.0
+4:01.0, ,121-108,C. Capela makes 2-pt layup at rim,,4,108,121,-13,2639.0
+3:39.0,Shooting foul by B. Bogdanović (drawn by N. Jokić),121-108, ,,4,108,121,-13,2661.0
+3:39.0,N. Jokić misses free throw 1 of 2,121-108, ,,4,108,121,-13,2661.0
+3:39.0,Offensive rebound by Team,121-108, ,,4,108,121,-13,2661.0
+3:39.0,N. Jokić makes free throw 2 of 2,122-108, ,,4,108,122,-14,2661.0
+3:29.0, ,122-108,D. Murray misses 2-pt jump shot from 17 ft,,4,108,122,-14,2671.0
+3:26.0, ,122-108,Offensive rebound by D. Murray,,4,108,122,-14,2674.0
+3:26.0, ,122-108,Shooting foul by N. Jokić (drawn by C. Capela),,4,108,122,-14,2674.0
+3:26.0, ,122-109,C. Capela makes free throw 1 of 2,,4,109,122,-13,2674.0
+3:26.0, ,122-110,C. Capela makes free throw 2 of 2,,4,110,122,-12,2674.0
+3:08.0,M. Porter misses 3-pt jump shot from 23 ft,122-110, ,,4,110,122,-12,2692.0
+3:04.0,Offensive rebound by A. Gordon,122-110, ,,4,110,122,-12,2696.0
+2:55.0,A. Gordon misses 2-pt jump shot from 14 ft,122-110, ,,4,110,122,-12,2705.0
+2:51.0, ,122-110,Defensive rebound by C. Capela,,4,110,122,-12,2709.0
+2:43.0, ,122-110,C. Capela misses 2-pt dunk from 2 ft (block by N. Jokić),,4,110,122,-12,2717.0
+2:41.0,Defensive rebound by J. Murray,122-110, ,,4,110,122,-12,2719.0
+2:40.0,Turnover by J. Murray (bad pass),122-110, ,,4,110,122,-12,2720.0
+2:40.0, ,122-110,Atlanta full timeout,,4,110,122,-12,2720.0
+2:27.0, ,122-112,D. Murray makes 2-pt jump shot from 18 ft,,4,112,122,-10,2733.0
+2:12.0,Personal foul by B. Bogdanović (drawn by J. Murray),122-112, ,,4,112,122,-10,2748.0
+2:02.0,Denver full timeout,122-112, ,,4,112,122,-10,2758.0
+1:56.0,Turnover by J. Murray (lost ball; steal by C. Capela),122-112, ,,4,112,122,-10,2764.0
+1:52.0, ,122-115,B. Bogdanović makes 3-pt jump shot from 25 ft,,4,115,122,-7,2768.0
+1:45.0,Personal foul by C. Capela (drawn by N. Jokić),122-115, ,,4,115,122,-7,2775.0
+1:45.0,N. Jokić makes free throw 1 of 2,123-115, ,,4,115,123,-8,2775.0
+1:45.0,N. Jokić makes free throw 2 of 2,124-115, ,,4,115,124,-9,2775.0
+1:39.0, ,124-115,D. Murray misses 3-pt jump shot from 26 ft,,4,115,124,-9,2781.0
+1:34.0,Defensive rebound by A. Gordon,124-115, ,,4,115,124,-9,2786.0
+1:17.0,M. Porter misses 2-pt jump shot from 6 ft,124-115, ,,4,115,124,-9,2803.0
+1:15.0,Offensive rebound by A. Gordon,124-115, ,,4,115,124,-9,2805.0
+1:05.0,Turnover by J. Murray (bad pass; steal by B. Bogdanović),124-115, ,,4,115,124,-9,2815.0
+1:01.0, ,124-118,B. Bogdanović makes 3-pt jump shot from 26 ft,,4,118,124,-6,2819.0
+0:53.0,Personal foul by B. Bogdanović (drawn by K. Caldwell-Pope),124-118, ,,4,118,124,-6,2827.0
+0:53.0,K. Caldwell-Pope makes free throw 1 of 2,125-118, ,,4,118,125,-7,2827.0
+0:53.0,P. Watson enters the game for M. Porter,125-118, ,,4,118,125,-7,2827.0
+0:53.0,K. Caldwell-Pope makes free throw 2 of 2,126-118, ,,4,118,126,-8,2827.0
+0:44.0, ,126-118,B. Bogdanović misses 3-pt jump shot from 26 ft,,4,118,126,-8,2836.0
+0:40.0, ,126-118,Offensive rebound by C. Capela,,4,118,126,-8,2840.0
+0:39.0, ,126-121,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by C. Capela),,4,121,126,-5,2841.0
+0:32.0,Turnover by N. Jokić (out of bounds lost ball),126-121, ,,4,121,126,-5,2848.0
+0:32.0, ,126-121,Atlanta full timeout,,4,121,126,-5,2848.0
+0:30.0, ,126-121,Shooting foul by J. Murray (drawn by S. Bey),,4,121,126,-5,2850.0
+0:30.0, ,126-122,S. Bey makes free throw 1 of 2,,4,122,126,-4,2850.0
+0:30.0, ,126-122,S. Bey misses free throw 2 of 2,,4,122,126,-4,2850.0
+0:30.0,Defensive rebound by Team,126-122, ,,4,122,126,-4,2850.0
+0:30.0,M. Porter enters the game for P. Watson,126-122, ,,4,122,126,-4,2850.0
+0:28.0, ,126-122,Atlanta full timeout,,4,122,126,-4,2852.0
+0:28.0,P. Watson enters the game for M. Porter,126-122, ,,4,122,126,-4,2852.0
+0:28.0, ,126-122,Instant Replay (Challenge: Ruling Stands),,4,122,126,-4,2852.0
+0:28.0,R. Jackson enters the game for A. Gordon,126-122, ,,4,122,126,-4,2852.0
+0:28.0,M. Porter enters the game for P. Watson,126-122, ,,4,122,126,-4,2852.0
+0:22.0,Personal take foul by O. Okongwu (drawn by N. Jokić),126-122, ,,4,122,126,-4,2858.0
+0:22.0,N. Jokić makes free throw 1 of 2,127-122, ,,4,122,127,-5,2858.0
+0:22.0,A. Gordon enters the game for R. Jackson,127-122, ,,4,122,127,-5,2858.0
+0:22.0,P. Watson enters the game for M. Porter,127-122, ,,4,122,127,-5,2858.0
+0:22.0,N. Jokić makes free throw 2 of 2,128-122, ,,4,122,128,-6,2858.0
+0:15.0, ,128-122,B. Bogdanović misses 3-pt jump shot from 26 ft,,4,122,128,-6,2865.0
+0:11.0, ,128-122,Offensive rebound by D. Murray,,4,122,128,-6,2869.0
+0:09.0, ,128-122,B. Bogdanović misses 3-pt jump shot from 24 ft,,4,122,128,-6,2871.0
+0:06.0,Defensive rebound by A. Gordon,128-122, ,,4,122,128,-6,2874.0
+0:03.0,Personal take foul by S. Bey (drawn by A. Gordon),128-122, ,,4,122,128,-6,2877.0
+0:03.0,A. Gordon misses free throw 1 of 2,128-122, ,,4,122,128,-6,2877.0
+0:03.0,Offensive rebound by Team,128-122, ,,4,122,128,-6,2877.0
+0:03.0,A. Gordon makes free throw 2 of 2,129-122, ,,4,122,129,-7,2877.0
+0:00.0,End of 4th quarter,129-122,,,4,122,129,-7,2880.0

@@ -1,0 +1,456 @@
+Time,Atlanta,Score,Toronto,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. J. Poeltl (D. Schröder gains possession),0-0,,,1,0,0,0,0.0
+11:44.0, ,0-2,S. Barnes makes 2-pt layup from 2 ft,,1,0,2,-2,16.0
+11:44.0,Violation by Team (def goaltending),0-2, ,,1,0,2,-2,16.0
+11:29.0,T. Young misses 2-pt jump shot from 12 ft,0-2, ,,1,0,2,-2,31.0
+11:27.0, ,0-2,Defensive rebound by S. Barnes,,1,0,2,-2,33.0
+11:23.0, ,0-2,P. Siakam misses 2-pt layup from 3 ft,,1,0,2,-2,37.0
+11:22.0, ,0-2,Offensive rebound by S. Barnes,,1,0,2,-2,38.0
+11:21.0, ,0-4,S. Barnes makes 2-pt dunk at rim,,1,0,4,-4,39.0
+11:05.0,S. Bey misses 3-pt jump shot from 26 ft,0-4, ,,1,0,4,-4,55.0
+11:02.0, ,0-4,Defensive rebound by J. Poeltl,,1,0,4,-4,58.0
+10:43.0, ,0-4,Turnover by J. Poeltl (bad pass; steal by W. Matthews),,1,0,4,-4,77.0
+10:39.0,W. Matthews misses 2-pt layup from 1 ft (block by D. Schröder),0-4, ,,1,0,4,-4,81.0
+10:36.0, ,0-4,Defensive rebound by S. Barnes,,1,0,4,-4,84.0
+10:32.0, ,0-6,J. Poeltl makes 2-pt layup from 2 ft (assist by S. Barnes),,1,0,6,-6,88.0
+10:15.0,D. Murray makes 2-pt jump shot from 14 ft (assist by T. Young),2-6, ,,1,2,6,-4,105.0
+10:01.0, ,2-6,P. Siakam misses 2-pt layup from 5 ft,,1,2,6,-4,119.0
+9:58.0, ,2-6,Offensive rebound by P. Siakam,,1,2,6,-4,122.0
+9:57.0, ,2-8,P. Siakam makes 2-pt layup from 4 ft,,1,2,8,-6,123.0
+9:48.0,Shooting foul by J. Poeltl (drawn by C. Capela),2-8, ,,1,2,8,-6,132.0
+9:48.0,C. Capela makes free throw 1 of 2,3-8, ,,1,3,8,-5,132.0
+9:48.0,C. Capela misses free throw 2 of 2,3-8, ,,1,3,8,-5,132.0
+9:46.0, ,3-8,Defensive rebound by J. Poeltl,,1,3,8,-5,134.0
+9:34.0, ,3-8,S. Barnes misses 2-pt jump shot from 7 ft,,1,3,8,-5,146.0
+9:32.0,Defensive rebound by D. Murray,3-8, ,,1,3,8,-5,148.0
+9:26.0,D. Murray makes 3-pt jump shot from 25 ft,6-8, ,,1,6,8,-2,154.0
+9:10.0, ,6-10,P. Siakam makes 2-pt jump shot from 6 ft (assist by J. Poeltl),,1,6,10,-4,170.0
+8:56.0,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),8-10, ,,1,8,10,-2,184.0
+8:41.0, ,8-10,Turnover by P. Siakam (lost ball; steal by W. Matthews),,1,8,10,-2,199.0
+8:37.0,T. Young misses 3-pt jump shot from 27 ft,8-10, ,,1,8,10,-2,203.0
+8:34.0,Offensive rebound by C. Capela,8-10, ,,1,8,10,-2,206.0
+8:20.0,S. Bey misses 2-pt jump shot from 14 ft,8-10, ,,1,8,10,-2,220.0
+8:17.0, ,8-10,Defensive rebound by J. Poeltl,,1,8,10,-2,223.0
+8:12.0, ,8-10,O. Anunoby misses 3-pt jump shot from 23 ft,,1,8,10,-2,228.0
+8:10.0,Defensive rebound by D. Murray,8-10, ,,1,8,10,-2,230.0
+8:05.0,D. Murray misses 3-pt jump shot from 27 ft,8-10, ,,1,8,10,-2,235.0
+8:01.0, ,8-10,Defensive rebound by S. Barnes,,1,8,10,-2,239.0
+7:55.0, ,8-12,O. Anunoby makes 2-pt layup from 2 ft (assist by S. Barnes),,1,8,12,-4,245.0
+7:35.0,T. Young misses 2-pt layup from 8 ft (block by J. Poeltl),8-12, ,,1,8,12,-4,265.0
+7:33.0, ,8-12,Defensive rebound by P. Siakam,,1,8,12,-4,267.0
+7:24.0, ,8-15,D. Schröder makes 3-pt jump shot from 24 ft (assist by O. Anunoby),,1,8,15,-7,276.0
+7:05.0,W. Matthews makes 3-pt jump shot from 24 ft (assist by T. Young),11-15, ,,1,11,15,-4,295.0
+6:52.0, ,11-17,P. Siakam makes 2-pt jump shot from 7 ft (assist by D. Schröder),,1,11,17,-6,308.0
+6:52.0, ,11-17,Shooting foul by W. Matthews (drawn by P. Siakam),,1,11,17,-6,308.0
+6:52.0, ,11-17,Toronto full timeout,,1,11,17,-6,308.0
+6:52.0,B. Bogdanović enters the game for S. Bey,11-17, ,,1,11,17,-6,308.0
+6:52.0,O. Okongwu enters the game for W. Matthews,11-17, ,,1,11,17,-6,308.0
+6:52.0, ,11-17,P. Siakam misses free throw 1 of 1,,1,11,17,-6,308.0
+6:50.0,Defensive rebound by C. Capela,11-17, ,,1,11,17,-6,310.0
+6:39.0,B. Bogdanović makes 3-pt jump shot from 22 ft (assist by T. Young),14-17, ,,1,14,17,-3,321.0
+6:20.0, ,14-17,D. Schröder misses 2-pt jump shot from 14 ft,,1,14,17,-3,340.0
+6:18.0, ,14-17,Offensive rebound by J. Poeltl,,1,14,17,-3,342.0
+6:13.0, ,14-19,P. Siakam makes 2-pt jump shot from 8 ft (assist by O. Anunoby),,1,14,19,-5,347.0
+5:57.0,B. Bogdanović makes 2-pt jump shot from 2 ft (assist by T. Young),16-19, ,,1,16,19,-3,363.0
+5:57.0,Shooting foul by S. Barnes (drawn by B. Bogdanović),16-19, ,,1,16,19,-3,363.0
+5:57.0,G. Mathews enters the game for T. Young,16-19, ,,1,16,19,-3,363.0
+5:57.0, ,16-19,G. Trent enters the game for S. Barnes,,1,16,19,-3,363.0
+5:57.0,B. Bogdanović misses free throw 1 of 1,16-19, ,,1,16,19,-3,363.0
+5:57.0, ,16-19,Defensive rebound by P. Siakam,,1,16,19,-3,363.0
+5:43.0, ,16-22,P. Siakam makes 3-pt jump shot from 26 ft (assist by O. Anunoby),,1,16,22,-6,377.0
+5:27.0,O. Okongwu makes 3-pt jump shot from 23 ft (assist by D. Murray),19-22, ,,1,19,22,-3,393.0
+5:15.0, ,19-24,O. Anunoby makes 2-pt jump shot from 17 ft (assist by J. Poeltl),,1,19,24,-5,405.0
+4:57.0,D. Murray makes 2-pt layup from 3 ft (assist by C. Capela),21-24, ,,1,21,24,-3,423.0
+4:47.0, ,21-24,Offensive foul by O. Anunoby (drawn by C. Capela),,1,21,24,-3,433.0
+4:47.0, ,21-24,Turnover by O. Anunoby (offensive foul),,1,21,24,-3,433.0
+4:34.0,C. Capela makes 2-pt dunk from 1 ft (assist by B. Bogdanović),23-24, ,,1,23,24,-1,446.0
+4:34.0, ,23-24,Toronto full timeout,,1,23,24,-1,446.0
+4:34.0, ,23-24,P. Achiuwa enters the game for J. Poeltl,,1,23,24,-1,446.0
+4:14.0, ,23-26,P. Achiuwa makes 2-pt jump shot from 18 ft (assist by G. Trent),,1,23,26,-3,466.0
+4:02.0,D. Murray misses 2-pt jump shot from 14 ft,23-26, ,,1,23,26,-3,478.0
+4:00.0, ,23-26,Defensive rebound by D. Schröder,,1,23,26,-3,480.0
+3:51.0, ,23-26,O. Anunoby misses 3-pt jump shot from 27 ft,,1,23,26,-3,489.0
+3:48.0,Defensive rebound by C. Capela,23-26, ,,1,23,26,-3,492.0
+3:43.0,Personal foul by O. Anunoby (drawn by O. Okongwu),23-26, ,,1,23,26,-3,497.0
+3:43.0,S. Bey enters the game for C. Capela,23-26, ,,1,23,26,-3,497.0
+3:43.0,T. Young enters the game for D. Murray,23-26, ,,1,23,26,-3,497.0
+3:43.0, ,23-26,C. Boucher enters the game for O. Anunoby,,1,23,26,-3,497.0
+3:43.0, ,23-26,M. Flynn enters the game for D. Schröder,,1,23,26,-3,497.0
+3:35.0,B. Bogdanović makes 2-pt jump shot from 8 ft (assist by T. Young),25-26, ,,1,25,26,-1,505.0
+3:10.0, ,25-29,P. Siakam makes 3-pt jump shot from 23 ft (assist by M. Flynn),,1,25,29,-4,530.0
+3:02.0,G. Mathews makes 3-pt jump shot from 29 ft (assist by T. Young),28-29, ,,1,28,29,-1,538.0
+3:02.0, ,28-29,S. Barnes enters the game for P. Siakam,,1,28,29,-1,538.0
+2:45.0, ,28-29,G. Trent misses 2-pt jump shot from 18 ft,,1,28,29,-1,555.0
+2:41.0,Defensive rebound by O. Okongwu,28-29, ,,1,28,29,-1,559.0
+2:30.0,O. Okongwu misses 2-pt layup from 2 ft (block by P. Achiuwa),28-29, ,,1,28,29,-1,570.0
+2:28.0, ,28-29,Defensive rebound by S. Barnes,,1,28,29,-1,572.0
+2:20.0, ,28-29,G. Trent misses 3-pt jump shot from 23 ft,,1,28,29,-1,580.0
+2:18.0,Defensive rebound by Team,28-29, ,,1,28,29,-1,582.0
+2:06.0,T. Young makes 2-pt layup from 1 ft,30-29, ,Lead change,1,30,29,1,594.0
+1:54.0, ,30-29,Turnover by M. Flynn (bad pass; steal by G. Mathews),,1,30,29,1,606.0
+1:49.0,S. Bey makes 2-pt layup from 3 ft,32-29, ,,1,32,29,3,611.0
+1:48.0, ,32-29,Toronto full timeout,,1,32,29,3,612.0
+1:32.0, ,32-29,M. Flynn misses 3-pt jump shot from 27 ft,,1,32,29,3,628.0
+1:27.0,Defensive rebound by B. Bogdanović,32-29, ,,1,32,29,3,633.0
+1:15.0,S. Bey misses 3-pt jump shot from 23 ft,32-29, ,,1,32,29,3,645.0
+1:13.0,Offensive rebound by O. Okongwu,32-29, ,,1,32,29,3,647.0
+1:11.0,S. Bey misses 2-pt dunk from 1 ft,32-29, ,,1,32,29,3,649.0
+1:08.0, ,32-29,Defensive rebound by S. Barnes,,1,32,29,3,652.0
+1:05.0, ,32-31,S. Barnes makes 2-pt layup from 2 ft,,1,32,31,1,655.0
+0:50.0,T. Young makes 3-pt jump shot from 27 ft,35-31, ,,1,35,31,4,670.0
+0:39.0, ,35-31,G. Trent misses 2-pt jump shot from 7 ft,,1,35,31,4,681.0
+0:37.0,Defensive rebound by O. Okongwu,35-31, ,,1,35,31,4,683.0
+0:31.0,T. Young makes 2-pt layup from 1 ft (assist by O. Okongwu),37-31, ,,1,37,31,6,689.0
+0:23.0, ,37-31,Turnover by P. Achiuwa (bad pass),,1,37,31,6,697.0
+0:07.0,Personal foul by M. Flynn (drawn by T. Young),37-31, ,,1,37,31,6,713.0
+0:01.0,O. Okongwu misses 2-pt dunk from 2 ft (block by C. Boucher),37-31, ,,1,37,31,6,719.0
+0:01.0,Offensive rebound by S. Bey,37-31, ,,1,37,31,6,719.0
+0:00.0,T. Young makes 2-pt jump shot from 13 ft (assist by S. Bey),39-31, ,,1,39,31,8,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),39-31, ,,1,39,31,8,720.0
+0:00.0,End of 1st quarter,39-31,,,1,39,31,8,720.0
+12:00.0,Start of 2nd quarter,39-31,,,2,39,31,8,720.0
+11:41.0,T. Young makes 2-pt layup from 4 ft,41-31, ,,2,41,31,10,739.0
+11:17.0, ,41-31,M. Flynn misses 3-pt jump shot from 26 ft,,2,41,31,10,763.0
+11:14.0,Defensive rebound by O. Okongwu,41-31, ,,2,41,31,10,766.0
+11:05.0,Turnover by T. Young (bad pass; steal by P. Achiuwa),41-31, ,,2,41,31,10,775.0
+10:59.0, ,41-33,C. Boucher makes 2-pt dunk at rim (assist by S. Barnes),,2,41,33,8,781.0
+10:46.0,T. Young makes 3-pt jump shot from 29 ft,44-33, ,,2,44,33,11,794.0
+10:31.0, ,44-36,P. Achiuwa makes 3-pt jump shot from 26 ft (assist by M. Flynn),,2,44,36,8,809.0
+10:14.0,G. Mathews makes 3-pt jump shot from 22 ft (assist by T. Young),47-36, ,,2,47,36,11,826.0
+9:56.0, ,47-38,S. Barnes makes 2-pt hook shot from 4 ft (assist by M. Flynn),,2,47,38,9,844.0
+9:34.0,T. Young misses 3-pt jump shot from 26 ft,47-38, ,,2,47,38,9,866.0
+9:31.0, ,47-38,Defensive rebound by M. Flynn,,2,47,38,9,869.0
+9:29.0, ,47-38,Offensive foul by M. Flynn (drawn by G. Mathews),,2,47,38,9,871.0
+9:29.0, ,47-38,Turnover by M. Flynn (offensive foul),,2,47,38,9,871.0
+9:21.0,T. Young makes 3-pt jump shot from 30 ft,50-38, ,,2,50,38,12,879.0
+9:04.0, ,50-40,S. Barnes makes 2-pt layup from 1 ft (assist by P. Achiuwa),,2,50,40,10,896.0
+8:42.0,Turnover by T. Young (out of bounds lost ball),50-40, ,,2,50,40,10,918.0
+8:42.0, ,50-40,D. Schröder enters the game for M. Flynn,,2,50,40,10,918.0
+8:29.0, ,50-43,O. Anunoby makes 3-pt jump shot from 26 ft (assist by D. Schröder),,2,50,43,7,931.0
+8:08.0,T. Young misses 2-pt layup from 3 ft (block by C. Boucher),50-43, ,,2,50,43,7,952.0
+8:08.0,Offensive rebound by Team,50-43, ,,2,50,43,7,952.0
+8:08.0,C. Capela enters the game for O. Okongwu,50-43, ,,2,50,43,7,952.0
+8:08.0,D. Murray enters the game for T. Young,50-43, ,,2,50,43,7,952.0
+8:08.0, ,50-43,J. Poeltl enters the game for P. Achiuwa,,2,50,43,7,952.0
+8:08.0,Atlanta full timeout,50-43, ,,2,50,43,7,952.0
+8:08.0,O. Okongwu enters the game for S. Bey,50-43, ,,2,50,43,7,952.0
+8:08.0, ,50-43,P. Siakam enters the game for S. Barnes,,2,50,43,7,952.0
+8:04.0,D. Murray misses 3-pt jump shot from 26 ft,50-43, ,,2,50,43,7,956.0
+8:01.0, ,50-43,Defensive rebound by J. Poeltl,,2,50,43,7,959.0
+7:49.0, ,50-43,Shooting foul by G. Mathews (drawn by J. Poeltl),,2,50,43,7,971.0
+7:49.0, ,50-43,J. Poeltl misses free throw 1 of 2,,2,50,43,7,971.0
+7:49.0, ,50-43,Offensive rebound by Team,,2,50,43,7,971.0
+7:49.0, ,50-43,J. Poeltl misses free throw 2 of 2,,2,50,43,7,971.0
+7:47.0,Defensive rebound by O. Okongwu,50-43, ,,2,50,43,7,973.0
+7:31.0, ,50-43,Flagrant foul type 1 by B. Bogdanović (drawn by D. Schröder),,2,50,43,7,989.0
+7:31.0,Turnover by B. Bogdanović (offensive foul),50-43, ,,2,50,43,7,989.0
+7:31.0,Instant Replay (Request: Ruling Stands),50-43, ,,2,50,43,7,989.0
+7:31.0, ,50-44,D. Schröder makes flagrant free throw 1 of 2,,2,50,44,6,989.0
+7:31.0, ,50-45,D. Schröder makes flagrant free throw 2 of 2,,2,50,45,5,989.0
+7:20.0, ,50-45,C. Boucher misses 3-pt jump shot from 28 ft,,2,50,45,5,1000.0
+7:16.0,Defensive rebound by G. Mathews,50-45, ,,2,50,45,5,1004.0
+7:02.0,C. Capela makes 2-pt layup from 1 ft (assist by D. Murray),52-45, ,,2,52,45,7,1018.0
+7:02.0, ,52-45,Technical foul by C. Boucher,,2,52,45,7,1018.0
+7:02.0,D. Murray misses technical free throw,52-45, ,,2,52,45,7,1018.0
+7:02.0, ,52-45,Defensive rebound by Team,,2,52,45,7,1018.0
+6:59.0, ,52-45,P. Siakam misses 2-pt jump shot from 13 ft,,2,52,45,7,1021.0
+6:59.0,Defensive rebound by C. Capela,52-45, ,,2,52,45,7,1021.0
+6:44.0,O. Okongwu makes 3-pt jump shot from 24 ft (assist by D. Murray),55-45, ,,2,55,45,10,1036.0
+6:17.0, ,55-48,P. Siakam makes 3-pt jump shot from 24 ft (assist by J. Poeltl),,2,55,48,7,1063.0
+6:05.0,B. Bogdanović misses 3-pt jump shot from 26 ft,55-48, ,,2,55,48,7,1075.0
+6:03.0,Offensive rebound by B. Bogdanović,55-48, ,,2,55,48,7,1077.0
+6:02.0,B. Bogdanović misses 2-pt jump shot from 17 ft,55-48, ,,2,55,48,7,1078.0
+6:02.0, ,55-48,Defensive rebound by Team,,2,55,48,7,1078.0
+6:02.0, ,55-48,S. Barnes enters the game for C. Boucher,,2,55,48,7,1078.0
+5:40.0, ,55-48,Shooting foul by B. Bogdanović (drawn by P. Siakam),,2,55,48,7,1100.0
+5:40.0, ,55-49,P. Siakam makes free throw 1 of 2,,2,55,49,6,1100.0
+5:40.0,S. Bey enters the game for B. Bogdanović,55-49, ,,2,55,49,6,1100.0
+5:40.0,T. Young enters the game for G. Mathews,55-49, ,,2,55,49,6,1100.0
+5:40.0, ,55-50,P. Siakam makes free throw 2 of 2,,2,55,50,5,1100.0
+5:21.0,T. Young makes 2-pt jump shot from 11 ft (assist by D. Murray),57-50, ,,2,57,50,7,1119.0
+5:11.0, ,57-50,D. Schröder misses 2-pt jump shot from 17 ft,,2,57,50,7,1129.0
+5:09.0,Defensive rebound by O. Okongwu,57-50, ,,2,57,50,7,1131.0
+4:49.0,D. Murray misses 2-pt layup from 3 ft,57-50, ,,2,57,50,7,1151.0
+4:47.0,Offensive rebound by C. Capela,57-50, ,,2,57,50,7,1153.0
+4:47.0,C. Capela misses 2-pt layup at rim,57-50, ,,2,57,50,7,1153.0
+4:46.0,Offensive rebound by O. Okongwu,57-50, ,,2,57,50,7,1154.0
+4:43.0,D. Murray misses 3-pt jump shot from 25 ft,57-50, ,,2,57,50,7,1157.0
+4:39.0, ,57-50,Defensive rebound by S. Barnes,,2,57,50,7,1161.0
+4:21.0, ,57-52,S. Barnes makes 2-pt layup at rim (assist by P. Siakam),,2,57,52,5,1179.0
+4:09.0,Turnover by T. Young (bad pass; steal by D. Schröder),57-52, ,,2,57,52,5,1191.0
+4:02.0, ,57-52,S. Barnes misses 3-pt jump shot from 23 ft,,2,57,52,5,1198.0
+4:00.0, ,57-52,Offensive rebound by J. Poeltl,,2,57,52,5,1200.0
+3:58.0, ,57-52,P. Siakam misses 3-pt jump shot from 22 ft,,2,57,52,5,1202.0
+3:58.0, ,57-52,Offensive rebound by O. Anunoby,,2,57,52,5,1202.0
+3:52.0, ,57-54,O. Anunoby makes 2-pt hook shot from 1 ft,,2,57,54,3,1208.0
+3:32.0,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),59-54, ,,2,59,54,5,1228.0
+3:19.0, ,59-56,O. Anunoby makes 2-pt jump shot from 18 ft,,2,59,56,3,1241.0
+3:05.0,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),61-56, ,,2,61,56,5,1255.0
+2:50.0, ,61-58,P. Siakam makes 2-pt dunk from 1 ft (assist by J. Poeltl),,2,61,58,3,1270.0
+2:40.0,Shooting foul by S. Barnes (drawn by S. Bey),61-58, ,,2,61,58,3,1280.0
+2:40.0, ,61-58,Toronto full timeout,,2,61,58,3,1280.0
+2:40.0,S. Bey misses free throw 1 of 2,61-58, ,,2,61,58,3,1280.0
+2:40.0,Offensive rebound by Team,61-58, ,,2,61,58,3,1280.0
+2:40.0,S. Bey makes free throw 2 of 2,62-58, ,,2,62,58,4,1280.0
+2:25.0, ,62-58,O. Anunoby misses 3-pt jump shot from 26 ft,,2,62,58,4,1295.0
+2:24.0,Defensive rebound by T. Young,62-58, ,,2,62,58,4,1296.0
+2:24.0,Personal foul by S. Barnes (drawn by T. Young),62-58, ,,2,62,58,4,1296.0
+2:24.0, ,62-58,G. Trent enters the game for S. Barnes,,2,62,58,4,1296.0
+1:59.0,O. Okongwu misses 3-pt jump shot from 23 ft,62-58, ,,2,62,58,4,1321.0
+1:57.0, ,62-58,Defensive rebound by O. Anunoby,,2,62,58,4,1323.0
+1:47.0, ,62-58,J. Poeltl misses 2-pt dunk from 2 ft (block by C. Capela),,2,62,58,4,1333.0
+1:45.0,Defensive rebound by D. Murray,62-58, ,,2,62,58,4,1335.0
+1:37.0,Turnover by S. Bey (traveling),62-58, ,,2,62,58,4,1343.0
+1:37.0,B. Bogdanović enters the game for O. Okongwu,62-58, ,,2,62,58,4,1343.0
+1:29.0, ,62-58,D. Schröder misses 3-pt jump shot from 26 ft,,2,62,58,4,1351.0
+1:25.0,Defensive rebound by C. Capela,62-58, ,,2,62,58,4,1355.0
+1:18.0,T. Young misses 2-pt layup from 2 ft,62-58, ,,2,62,58,4,1362.0
+1:16.0, ,62-58,Defensive rebound by P. Siakam,,2,62,58,4,1364.0
+1:13.0, ,62-61,G. Trent makes 3-pt jump shot from 24 ft (assist by D. Schröder),,2,62,61,1,1367.0
+0:57.0,Shooting foul by D. Schröder (drawn by T. Young),62-61, ,,2,62,61,1,1383.0
+0:57.0,T. Young makes free throw 1 of 2,63-61, ,,2,63,61,2,1383.0
+0:57.0, ,63-61,P. Achiuwa enters the game for O. Anunoby,,2,63,61,2,1383.0
+0:57.0,T. Young misses free throw 2 of 2,63-61, ,,2,63,61,2,1383.0
+0:55.0, ,63-61,Defensive rebound by P. Achiuwa,,2,63,61,2,1385.0
+0:37.0, ,63-64,P. Siakam makes 3-pt jump shot from 23 ft (assist by D. Schröder),Lead change,2,63,64,-1,1403.0
+0:30.0,D. Murray makes 3-pt jump shot from 27 ft,66-64, ,Lead change,2,66,64,2,1410.0
+0:07.0, ,66-64,P. Siakam misses 2-pt jump shot from 6 ft (block by C. Capela),,2,66,64,2,1433.0
+0:06.0, ,66-64,Offensive rebound by P. Achiuwa,,2,66,64,2,1434.0
+0:05.0, ,66-64,P. Achiuwa misses 3-pt jump shot from 29 ft,,2,66,64,2,1435.0
+0:05.0, ,66-64,Offensive rebound by Team,,2,66,64,2,1435.0
+0:05.0, ,66-64,Turnover by Team (shot clock),,2,66,64,2,1435.0
+0:00.0,B. Bogdanović misses 3-pt jump shot from 33 ft,66-64, ,,2,66,64,2,1440.0
+0:00.0,Offensive rebound by Team,66-64, ,,2,66,64,2,1440.0
+0:00.0,End of 2nd quarter,66-64,,,2,66,64,2,1440.0
+12:00.0,Start of 3rd quarter,66-64,,,3,66,64,2,1440.0
+11:38.0,C. Capela makes 2-pt hook shot from 6 ft (assist by W. Matthews),68-64, ,,3,68,64,4,1462.0
+11:21.0, ,68-67,D. Schröder makes 3-pt jump shot from 26 ft (assist by P. Siakam),,3,68,67,1,1479.0
+11:13.0,Offensive foul by T. Young (drawn by D. Schröder),68-67, ,,3,68,67,1,1487.0
+11:13.0,Turnover by T. Young (offensive foul),68-67, ,,3,68,67,1,1487.0
+10:53.0, ,68-67,P. Siakam misses 2-pt layup from 8 ft,,3,68,67,1,1507.0
+10:49.0,Defensive rebound by T. Young,68-67, ,,3,68,67,1,1511.0
+10:37.0,D. Murray misses 3-pt jump shot from 26 ft,68-67, ,,3,68,67,1,1523.0
+10:34.0, ,68-67,Defensive rebound by J. Poeltl,,3,68,67,1,1526.0
+10:24.0, ,68-67,S. Barnes misses 2-pt jump shot from 7 ft,,3,68,67,1,1536.0
+10:22.0, ,68-67,Offensive rebound by J. Poeltl,,3,68,67,1,1538.0
+10:21.0, ,68-67,J. Poeltl misses 2-pt layup at rim (block by D. Murray),,3,68,67,1,1539.0
+10:21.0, ,68-67,Offensive rebound by J. Poeltl,,3,68,67,1,1539.0
+10:18.0, ,68-69,J. Poeltl makes 2-pt layup at rim,Lead change,3,68,69,-1,1542.0
+10:06.0,T. Young makes 2-pt layup from 5 ft,70-69, ,Lead change,3,70,69,1,1554.0
+9:49.0, ,70-71,J. Poeltl makes 2-pt dunk at rim (assist by S. Barnes),Lead change,3,70,71,-1,1571.0
+9:39.0,W. Matthews misses 3-pt jump shot from 29 ft,70-71, ,,3,70,71,-1,1581.0
+9:35.0, ,70-71,Defensive rebound by S. Barnes,,3,70,71,-1,1585.0
+9:28.0, ,70-74,O. Anunoby makes 3-pt jump shot from 25 ft (assist by J. Poeltl),,3,70,74,-4,1592.0
+9:07.0,C. Capela misses 2-pt layup from 1 ft (block by S. Barnes),70-74, ,,3,70,74,-4,1613.0
+9:05.0, ,70-74,Defensive rebound by O. Anunoby,,3,70,74,-4,1615.0
+8:58.0, ,70-77,S. Barnes makes 3-pt jump shot from 24 ft (assist by P. Siakam),,3,70,77,-7,1622.0
+8:57.0,Atlanta full timeout,70-77, ,,3,70,77,-7,1623.0
+8:45.0,W. Matthews misses 3-pt jump shot from 24 ft,70-77, ,,3,70,77,-7,1635.0
+8:42.0,Offensive rebound by C. Capela,70-77, ,,3,70,77,-7,1638.0
+8:40.0,Shooting foul by J. Poeltl (drawn by C. Capela),70-77, ,,3,70,77,-7,1640.0
+8:40.0,C. Capela makes free throw 1 of 2,71-77, ,,3,71,77,-6,1640.0
+8:40.0,C. Capela makes free throw 2 of 2,72-77, ,,3,72,77,-5,1640.0
+8:28.0, ,72-77,D. Schröder misses 2-pt layup from 1 ft,,3,72,77,-5,1652.0
+8:26.0,Defensive rebound by S. Bey,72-77, ,,3,72,77,-5,1654.0
+8:22.0,S. Bey misses 3-pt jump shot from 26 ft,72-77, ,,3,72,77,-5,1658.0
+8:21.0,Offensive rebound by W. Matthews,72-77, ,,3,72,77,-5,1659.0
+8:21.0,Shooting foul by J. Poeltl (drawn by W. Matthews),72-77, ,,3,72,77,-5,1659.0
+8:21.0,W. Matthews makes free throw 1 of 2,73-77, ,,3,73,77,-4,1659.0
+8:21.0,W. Matthews makes free throw 2 of 2,74-77, ,,3,74,77,-3,1659.0
+8:07.0, ,74-80,D. Schröder makes 3-pt jump shot from 26 ft (assist by P. Siakam),,3,74,80,-6,1673.0
+7:50.0,S. Bey misses 3-pt jump shot from 26 ft,74-80, ,,3,74,80,-6,1690.0
+7:48.0, ,74-80,Defensive rebound by Team,,3,74,80,-6,1692.0
+7:48.0,Loose ball foul by W. Matthews (drawn by J. Poeltl),74-80, ,,3,74,80,-6,1692.0
+7:39.0, ,74-80,Turnover by D. Schröder (bad pass; steal by S. Bey),,3,74,80,-6,1701.0
+7:35.0,T. Young makes 2-pt layup from 3 ft (assist by S. Bey),76-80, ,,3,76,80,-4,1705.0
+7:24.0, ,76-83,P. Siakam makes 3-pt jump shot from 23 ft (assist by S. Barnes),,3,76,83,-7,1716.0
+7:08.0,T. Young makes 3-pt jump shot from 35 ft (assist by D. Murray),79-83, ,,3,79,83,-4,1732.0
+6:57.0, ,79-83,J. Poeltl misses 2-pt layup from 3 ft (block by C. Capela),,3,79,83,-4,1743.0
+6:56.0,Defensive rebound by Team,79-83, ,,3,79,83,-4,1744.0
+6:42.0,T. Young makes 2-pt jump shot from 13 ft,81-83, ,,3,81,83,-2,1758.0
+6:22.0, ,81-86,S. Barnes makes 3-pt jump shot from 26 ft (assist by P. Siakam),,3,81,86,-5,1778.0
+6:07.0,D. Murray makes 2-pt layup from 3 ft (assist by T. Young),83-86, ,,3,83,86,-3,1793.0
+5:43.0, ,83-86,P. Siakam misses 2-pt jump shot from 7 ft,,3,83,86,-3,1817.0
+5:41.0,Defensive rebound by T. Young,83-86, ,,3,83,86,-3,1819.0
+5:34.0,W. Matthews misses 3-pt jump shot from 27 ft,83-86, ,,3,83,86,-3,1826.0
+5:32.0, ,83-86,Defensive rebound by S. Barnes,,3,83,86,-3,1828.0
+5:26.0, ,83-86,Personal foul by W. Matthews (drawn by P. Siakam),,3,83,86,-3,1834.0
+5:26.0,B. Bogdanović enters the game for S. Bey,83-86, ,,3,83,86,-3,1834.0
+5:26.0,G. Mathews enters the game for W. Matthews,83-86, ,,3,83,86,-3,1834.0
+5:26.0,O. Okongwu enters the game for T. Young,83-86, ,,3,83,86,-3,1834.0
+5:26.0, ,83-86,M. Flynn enters the game for O. Anunoby,,3,83,86,-3,1834.0
+5:26.0, ,83-86,G. Trent enters the game for D. Schröder,,3,83,86,-3,1834.0
+5:18.0, ,83-86,Turnover by P. Siakam (palming),,3,83,86,-3,1842.0
+5:07.0,D. Murray misses 3-pt jump shot from 24 ft,83-86, ,,3,83,86,-3,1853.0
+5:05.0, ,83-86,Defensive rebound by P. Siakam,,3,83,86,-3,1855.0
+4:50.0, ,83-86,Shooting foul by D. Murray (drawn by S. Barnes),,3,83,86,-3,1870.0
+4:50.0, ,83-87,S. Barnes makes free throw 1 of 2,,3,83,87,-4,1870.0
+4:50.0, ,83-87,P. Achiuwa enters the game for J. Poeltl,,3,83,87,-4,1870.0
+4:50.0, ,83-88,S. Barnes makes free throw 2 of 2,,3,83,88,-5,1870.0
+4:37.0,O. Okongwu makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),86-88, ,,3,86,88,-2,1883.0
+4:16.0, ,86-91,G. Trent makes 3-pt jump shot from 25 ft (assist by M. Flynn),,3,86,91,-5,1904.0
+3:58.0,D. Murray misses 2-pt layup from 3 ft,86-91, ,,3,86,91,-5,1922.0
+3:55.0,Offensive rebound by C. Capela,86-91, ,,3,86,91,-5,1925.0
+3:54.0,C. Capela misses 2-pt layup from 3 ft (block by P. Achiuwa),86-91, ,,3,86,91,-5,1926.0
+3:52.0,Offensive rebound by C. Capela,86-91, ,,3,86,91,-5,1928.0
+3:51.0,C. Capela misses 2-pt layup from 3 ft,86-91, ,,3,86,91,-5,1929.0
+3:51.0,Offensive rebound by C. Capela,86-91, ,,3,86,91,-5,1929.0
+3:49.0,C. Capela misses 2-pt layup from 4 ft,86-91, ,,3,86,91,-5,1931.0
+3:47.0, ,86-91,Defensive rebound by P. Achiuwa,,3,86,91,-5,1933.0
+3:35.0, ,86-94,G. Trent makes 3-pt jump shot from 24 ft (assist by M. Flynn),,3,86,94,-8,1945.0
+3:33.0,Atlanta full timeout,86-94, ,,3,86,94,-8,1947.0
+3:33.0,S. Bey enters the game for C. Capela,86-94, ,,3,86,94,-8,1947.0
+3:33.0,T. Young enters the game for D. Murray,86-94, ,,3,86,94,-8,1947.0
+3:33.0, ,86-94,D. Schröder enters the game for S. Barnes,,3,86,94,-8,1947.0
+3:23.0,T. Young misses 3-pt jump shot from 32 ft,86-94, ,,3,86,94,-8,1957.0
+3:20.0, ,86-94,Defensive rebound by P. Achiuwa,,3,86,94,-8,1960.0
+3:16.0, ,86-94,Shooting foul by S. Bey (drawn by P. Siakam),,3,86,94,-8,1964.0
+3:16.0, ,86-95,P. Siakam makes free throw 1 of 2,,3,86,95,-9,1964.0
+3:16.0, ,86-95,P. Siakam misses free throw 2 of 2,,3,86,95,-9,1964.0
+3:13.0,Defensive rebound by S. Bey,86-95, ,,3,86,95,-9,1967.0
+2:59.0,B. Bogdanović misses 2-pt jump shot from 12 ft,86-95, ,,3,86,95,-9,1981.0
+2:55.0, ,86-95,Defensive rebound by P. Achiuwa,,3,86,95,-9,1985.0
+2:41.0, ,86-97,D. Schröder makes 2-pt jump shot from 18 ft,,3,86,97,-11,1999.0
+2:29.0,O. Okongwu makes 2-pt layup from 2 ft (assist by T. Young),88-97, ,,3,88,97,-9,2011.0
+2:14.0, ,88-97,Shooting foul by T. Young (drawn by P. Achiuwa),,3,88,97,-9,2026.0
+2:14.0, ,88-98,P. Achiuwa makes free throw 1 of 2,,3,88,98,-10,2026.0
+2:14.0, ,88-99,P. Achiuwa makes free throw 2 of 2,,3,88,99,-11,2026.0
+1:54.0,S. Bey makes 2-pt layup from 6 ft,90-99, ,,3,90,99,-9,2046.0
+1:37.0, ,90-99,P. Achiuwa misses 3-pt jump shot from 25 ft,,3,90,99,-9,2063.0
+1:35.0,Defensive rebound by S. Bey,90-99, ,,3,90,99,-9,2065.0
+1:29.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),93-99, ,,3,93,99,-6,2071.0
+1:10.0, ,93-99,M. Flynn misses 3-pt jump shot from 28 ft,,3,93,99,-6,2090.0
+1:10.0,Defensive rebound by S. Bey,93-99, ,,3,93,99,-6,2090.0
+1:01.0,O. Okongwu makes 2-pt layup from 1 ft (assist by T. Young),95-99, ,,3,95,99,-4,2099.0
+0:45.0, ,95-99,G. Trent misses 3-pt jump shot from 26 ft,,3,95,99,-4,2115.0
+0:43.0,Defensive rebound by T. Young,95-99, ,,3,95,99,-4,2117.0
+0:37.0,T. Young misses 3-pt jump shot from 30 ft,95-99, ,,3,95,99,-4,2123.0
+0:34.0, ,95-99,Defensive rebound by P. Achiuwa,,3,95,99,-4,2126.0
+0:30.0, ,95-99,Personal foul by T. Young (drawn by P. Siakam),,3,95,99,-4,2130.0
+0:30.0, ,95-100,P. Siakam makes free throw 1 of 2,,3,95,100,-5,2130.0
+0:30.0, ,95-100,P. Siakam misses free throw 2 of 2,,3,95,100,-5,2130.0
+0:28.0,Defensive rebound by G. Mathews,95-100, ,,3,95,100,-5,2132.0
+0:07.0,T. Young misses 2-pt jump shot from 21 ft,95-100, ,,3,95,100,-5,2153.0
+0:05.0, ,95-100,Defensive rebound by P. Siakam,,3,95,100,-5,2155.0
+0:01.0, ,95-103,G. Trent makes 3-pt jump shot from 26 ft (assist by M. Flynn),,3,95,103,-8,2159.0
+0:00.0,End of 3rd quarter,95-103,,,3,95,103,-8,2160.0
+12:00.0,Start of 4th quarter,95-103,,,4,95,103,-8,2160.0
+11:47.0, ,95-103,P. Achiuwa misses 2-pt jump shot from 2 ft (block by O. Okongwu),,4,95,103,-8,2173.0
+11:44.0, ,95-103,Offensive rebound by O. Anunoby,,4,95,103,-8,2176.0
+11:39.0,Violation by Team (kicked ball),95-103, ,,4,95,103,-8,2181.0
+11:31.0, ,95-103,G. Trent misses 3-pt jump shot from 26 ft,,4,95,103,-8,2189.0
+11:29.0,Defensive rebound by S. Bey,95-103, ,,4,95,103,-8,2191.0
+11:12.0,Turnover by T. Young (lost ball; steal by O. Anunoby),95-103, ,,4,95,103,-8,2208.0
+11:08.0, ,95-103,Personal foul by G. Mathews (drawn by P. Achiuwa),,4,95,103,-8,2212.0
+11:08.0,W. Matthews enters the game for G. Mathews,95-103, ,,4,95,103,-8,2212.0
+10:55.0, ,95-103,G. Trent misses 3-pt jump shot from 23 ft,,4,95,103,-8,2225.0
+10:52.0,Defensive rebound by W. Matthews,95-103, ,,4,95,103,-8,2228.0
+10:38.0,T. Young misses 3-pt jump shot from 30 ft,95-103, ,,4,95,103,-8,2242.0
+10:34.0, ,95-103,Defensive rebound by D. Schröder,,4,95,103,-8,2246.0
+10:27.0, ,95-105,O. Anunoby makes 2-pt dunk from 1 ft (assist by D. Schröder),,4,95,105,-10,2253.0
+10:13.0,W. Matthews misses 2-pt layup from 2 ft,95-105, ,,4,95,105,-10,2267.0
+10:11.0, ,95-105,Defensive rebound by P. Achiuwa,,4,95,105,-10,2269.0
+9:58.0, ,95-105,D. Schröder misses 2-pt layup from 2 ft (block by T. Young),,4,95,105,-10,2282.0
+9:55.0,Defensive rebound by S. Bey,95-105, ,,4,95,105,-10,2285.0
+9:52.0,S. Bey misses 2-pt layup from 4 ft,95-105, ,,4,95,105,-10,2288.0
+9:50.0,Offensive rebound by S. Bey,95-105, ,,4,95,105,-10,2290.0
+9:48.0,S. Bey makes 2-pt layup from 1 ft,97-105, ,,4,97,105,-8,2292.0
+9:33.0, ,97-105,Turnover by P. Achiuwa (lost ball; steal by B. Bogdanović),,4,97,105,-8,2307.0
+9:29.0,B. Bogdanović misses 2-pt layup from 2 ft,97-105, ,,4,97,105,-8,2311.0
+9:24.0, ,97-105,Defensive rebound by M. Flynn,,4,97,105,-8,2316.0
+9:10.0, ,97-105,M. Flynn misses 2-pt layup from 1 ft (block by O. Okongwu),,4,97,105,-8,2330.0
+9:10.0, ,97-105,Offensive rebound by Team,,4,97,105,-8,2330.0
+9:10.0,C. Capela enters the game for W. Matthews,97-105, ,,4,97,105,-8,2330.0
+9:10.0,D. Murray enters the game for T. Young,97-105, ,,4,97,105,-8,2330.0
+9:10.0, ,97-105,S. Barnes enters the game for P. Achiuwa,,4,97,105,-8,2330.0
+9:10.0, ,97-105,J. Poeltl enters the game for D. Schröder,,4,97,105,-8,2330.0
+9:04.0, ,97-107,J. Poeltl makes 2-pt hook shot from 11 ft (assist by M. Flynn),,4,97,107,-10,2336.0
+8:38.0,B. Bogdanović makes 2-pt jump shot from 6 ft,99-107, ,,4,99,107,-8,2362.0
+8:26.0, ,99-107,Turnover by S. Barnes (bad pass; steal by B. Bogdanović),,4,99,107,-8,2374.0
+8:14.0,O. Okongwu misses 3-pt jump shot from 26 ft,99-107, ,,4,99,107,-8,2386.0
+8:11.0, ,99-107,Defensive rebound by S. Barnes,,4,99,107,-8,2389.0
+8:03.0, ,99-107,G. Trent misses 2-pt dunk from 2 ft (block by D. Murray),,4,99,107,-8,2397.0
+7:59.0,Defensive rebound by O. Okongwu,99-107, ,,4,99,107,-8,2401.0
+7:53.0,D. Murray makes 2-pt jump shot from 10 ft (assist by B. Bogdanović),101-107, ,,4,101,107,-6,2407.0
+7:33.0, ,101-109,J. Poeltl makes 2-pt jump shot from 6 ft (assist by M. Flynn),,4,101,109,-8,2427.0
+7:13.0,S. Bey misses 3-pt jump shot from 23 ft,101-109, ,,4,101,109,-8,2447.0
+7:11.0, ,101-109,Defensive rebound by O. Anunoby,,4,101,109,-8,2449.0
+7:09.0, ,101-109,Turnover by O. Anunoby (lost ball; steal by S. Bey),,4,101,109,-8,2451.0
+7:05.0,S. Bey misses 2-pt layup from 3 ft,101-109, ,,4,101,109,-8,2455.0
+7:02.0, ,101-109,Defensive rebound by J. Poeltl,,4,101,109,-8,2458.0
+6:59.0, ,101-109,Toronto full timeout,,4,101,109,-8,2461.0
+6:59.0,T. Young enters the game for S. Bey,101-109, ,,4,101,109,-8,2461.0
+6:59.0, ,101-109,D. Schröder enters the game for O. Anunoby,,4,101,109,-8,2461.0
+6:59.0, ,101-109,P. Siakam enters the game for M. Flynn,,4,101,109,-8,2461.0
+6:47.0, ,101-109,Turnover by D. Schröder (bad pass; steal by B. Bogdanović),,4,101,109,-8,2473.0
+6:41.0,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by T. Young),104-109, ,,4,104,109,-5,2479.0
+6:30.0, ,104-109,Turnover by S. Barnes (lost ball; steal by B. Bogdanović),,4,104,109,-5,2490.0
+6:26.0,B. Bogdanović makes 3-pt jump shot from 29 ft (assist by T. Young),107-109, ,,4,107,109,-2,2494.0
+5:57.0, ,107-111,P. Siakam makes 2-pt layup from 3 ft,,4,107,111,-4,2523.0
+5:43.0,Personal foul by D. Schröder (drawn by T. Young),107-111, ,,4,107,111,-4,2537.0
+5:43.0, ,107-111,O. Anunoby enters the game for G. Trent,,4,107,111,-4,2537.0
+5:43.0,Personal foul by O. Anunoby (drawn by T. Young),107-111, ,,4,107,111,-4,2537.0
+5:31.0,T. Young misses 2-pt jump shot from 12 ft (block by J. Poeltl),107-111, ,,4,107,111,-4,2549.0
+5:27.0, ,107-111,Defensive rebound by D. Schröder,,4,107,111,-4,2553.0
+5:23.0, ,107-113,O. Anunoby makes 2-pt dunk from 1 ft (assist by D. Schröder),,4,107,113,-6,2557.0
+5:01.0,T. Young misses 2-pt layup from 9 ft (block by J. Poeltl),107-113, ,,4,107,113,-6,2579.0
+5:00.0, ,107-113,Defensive rebound by J. Poeltl,,4,107,113,-6,2580.0
+4:57.0, ,107-115,S. Barnes makes 2-pt layup from 1 ft (assist by P. Siakam),,4,107,115,-8,2583.0
+4:57.0, ,107-115,Shooting foul by B. Bogdanović (drawn by S. Barnes),,4,107,115,-8,2583.0
+4:57.0,Atlanta full timeout,107-115, ,,4,107,115,-8,2583.0
+4:57.0,S. Bey enters the game for O. Okongwu,107-115, ,,4,107,115,-8,2583.0
+4:57.0, ,107-115,S. Barnes misses free throw 1 of 1,,4,107,115,-8,2583.0
+4:55.0,Defensive rebound by B. Bogdanović,107-115, ,,4,107,115,-8,2585.0
+4:33.0,Shooting foul by D. Schröder (drawn by B. Bogdanović),107-115, ,,4,107,115,-8,2607.0
+4:33.0,B. Bogdanović makes free throw 1 of 2,108-115, ,,4,108,115,-7,2607.0
+4:33.0,B. Bogdanović makes free throw 2 of 2,109-115, ,,4,109,115,-6,2607.0
+4:24.0, ,109-117,O. Anunoby makes 2-pt layup from 1 ft (assist by J. Poeltl),,4,109,117,-8,2616.0
+4:08.0,T. Young misses 2-pt jump shot from 16 ft,109-117, ,,4,109,117,-8,2632.0
+4:05.0, ,109-117,Defensive rebound by J. Poeltl,,4,109,117,-8,2635.0
+3:50.0, ,109-117,Shooting foul by C. Capela (drawn by J. Poeltl),,4,109,117,-8,2650.0
+3:50.0, ,109-118,J. Poeltl makes free throw 1 of 2,,4,109,118,-9,2650.0
+3:50.0, ,109-118,J. Poeltl misses free throw 2 of 2,,4,109,118,-9,2650.0
+3:48.0, ,109-118,Offensive rebound by Team,,4,109,118,-9,2652.0
+3:46.0, ,109-120,D. Schröder makes 2-pt jump shot from 17 ft (assist by S. Barnes),,4,109,120,-11,2654.0
+3:31.0,Personal foul by O. Anunoby (drawn by C. Capela),109-120, ,,4,109,120,-11,2669.0
+3:31.0,Atlanta full timeout,109-120, ,,4,109,120,-11,2669.0
+3:21.0,Personal foul by D. Schröder (drawn by T. Young),109-120, ,,4,109,120,-11,2679.0
+3:21.0,T. Young makes free throw 1 of 2,110-120, ,,4,110,120,-10,2679.0
+3:21.0,T. Young makes free throw 2 of 2,111-120, ,,4,111,120,-9,2679.0
+3:09.0, ,111-123,S. Barnes makes 3-pt jump shot from 25 ft (assist by D. Schröder),,4,111,123,-12,2691.0
+2:57.0,Personal foul by D. Schröder (drawn by T. Young),111-123, ,,4,111,123,-12,2703.0
+2:57.0,T. Young makes free throw 1 of 2,112-123, ,,4,112,123,-11,2703.0
+2:57.0,T. Young makes free throw 2 of 2,113-123, ,,4,113,123,-10,2703.0
+2:55.0, ,113-123,Personal take foul by B. Bogdanović (drawn by J. Poeltl),,4,113,123,-10,2705.0
+2:54.0, ,113-123,Personal take foul by C. Capela (drawn by J. Poeltl),,4,113,123,-10,2706.0
+2:54.0, ,113-124,J. Poeltl makes free throw 1 of 2,,4,113,124,-11,2706.0
+2:54.0, ,113-125,J. Poeltl makes free throw 2 of 2,,4,113,125,-12,2706.0
+2:44.0,D. Murray misses 2-pt jump shot from 11 ft,113-125, ,,4,113,125,-12,2716.0
+2:41.0, ,113-125,Defensive rebound by P. Siakam,,4,113,125,-12,2719.0
+2:19.0, ,113-127,P. Siakam makes 2-pt layup from 9 ft,,4,113,127,-14,2741.0
+2:10.0,S. Bey makes 2-pt dunk from 1 ft (assist by B. Bogdanović),115-127, ,,4,115,127,-12,2750.0
+1:44.0, ,115-127,D. Schröder misses 2-pt jump shot from 7 ft,,4,115,127,-12,2776.0
+1:42.0,Defensive rebound by S. Bey,115-127, ,,4,115,127,-12,2778.0
+1:25.0,T. Young misses 2-pt jump shot from 19 ft,115-127, ,,4,115,127,-12,2795.0
+1:23.0,Offensive rebound by S. Bey,115-127, ,,4,115,127,-12,2797.0
+1:23.0,S. Bey makes 2-pt layup at rim,117-127, ,,4,117,127,-10,2797.0
+1:23.0,Shooting foul by J. Poeltl (drawn by S. Bey),117-127, ,,4,117,127,-10,2797.0
+1:23.0,S. Bey makes free throw 1 of 1,118-127, ,,4,118,127,-9,2797.0
+1:17.0, ,118-127,Turnover by S. Barnes (bad pass),,4,118,127,-9,2803.0
+1:14.0,D. Murray makes 3-pt jump shot from 24 ft (assist by B. Bogdanović),121-127, ,,4,121,127,-6,2806.0
+1:14.0, ,121-127,Toronto full timeout,,4,121,127,-6,2806.0
+0:51.0, ,121-129,S. Barnes makes 2-pt hook shot from 6 ft,,4,121,129,-8,2829.0
+0:46.0,C. Capela makes 2-pt layup from 5 ft (assist by T. Young),123-129, ,,4,123,129,-6,2834.0
+0:36.0, ,123-131,O. Anunoby makes 2-pt dunk from 1 ft (assist by P. Siakam),,4,123,131,-8,2844.0
+0:32.0,D. Murray makes 3-pt jump shot from 27 ft,126-131, ,,4,126,131,-5,2848.0
+0:25.0, ,126-131,Personal foul by C. Capela (drawn by D. Schröder),,4,126,131,-5,2855.0
+0:25.0, ,126-132,D. Schröder makes free throw 1 of 2,,4,126,132,-6,2855.0
+0:25.0, ,126-133,D. Schröder makes free throw 2 of 2,,4,126,133,-7,2855.0
+0:25.0,Atlanta full timeout,126-133, ,,4,126,133,-7,2855.0
+0:23.0,B. Bogdanović misses 3-pt jump shot from 30 ft,126-133, ,,4,126,133,-7,2857.0
+0:19.0, ,126-133,Defensive rebound by J. Poeltl,,4,126,133,-7,2861.0
+0:19.0, ,126-133,Personal foul by D. Murray (drawn by J. Poeltl),,4,126,133,-7,2861.0
+0:19.0, ,126-134,J. Poeltl makes free throw 1 of 2,,4,126,134,-8,2861.0
+0:19.0, ,126-135,J. Poeltl makes free throw 2 of 2,,4,126,135,-9,2861.0
+0:13.0,T. Young makes 2-pt layup from 1 ft,128-135, ,,4,128,135,-7,2867.0
+0:00.0,End of 4th quarter,128-135,,,4,128,135,-7,2880.0

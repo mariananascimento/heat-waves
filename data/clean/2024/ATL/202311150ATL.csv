@@ -1,0 +1,444 @@
+Time,New York,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: M. Robinson vs. C. Capela (J. Randle gains possession),0-0,,,1,0,0,0,0.0
+11:45.0,J. Hart misses 3-pt jump shot from 23 ft,0-0, ,,1,0,0,0,15.0
+11:40.0,Offensive rebound by M. Robinson,0-0, ,,1,0,0,0,20.0
+11:31.0,J. Randle makes 2-pt jump shot from 10 ft,2-0, ,,1,0,2,-2,29.0
+11:12.0, ,2-3,J. Johnson makes 3-pt jump shot from 23 ft (assist by T. Young),Lead change,1,3,2,1,48.0
+10:48.0,J. Randle makes 3-pt jump shot from 26 ft (assist by J. Brunson),5-3, ,Lead change,1,3,5,-2,72.0
+10:29.0, ,5-3,D. Murray misses 3-pt jump shot from 25 ft,,1,3,5,-2,91.0
+10:24.0,Defensive rebound by J. Hart,5-3, ,,1,3,5,-2,96.0
+10:19.0,J. Randle misses 3-pt jump shot from 27 ft,5-3, ,,1,3,5,-2,101.0
+10:16.0, ,5-3,Defensive rebound by T. Young,,1,3,5,-2,104.0
+10:04.0, ,5-3,Personal foul by J. Randle (drawn by T. Young),,1,3,5,-2,116.0
+9:52.0, ,5-5,J. Johnson makes 2-pt jump shot from 7 ft (assist by T. Young),Tie,1,5,5,0,128.0
+9:33.0,J. Randle misses 2-pt layup from 2 ft (block by C. Capela),5-5, ,,1,5,5,0,147.0
+9:30.0,Offensive rebound by J. Randle,5-5, ,,1,5,5,0,150.0
+9:28.0,J. Randle makes 2-pt jump shot from 7 ft,7-5, ,,1,5,7,-2,152.0
+9:14.0, ,7-5,Personal foul by J. Hart (drawn by T. Young),,1,5,7,-2,166.0
+9:00.0, ,7-5,D. Hunter misses 3-pt jump shot from 23 ft,,1,5,7,-2,180.0
+8:56.0,Defensive rebound by J. Randle,7-5, ,,1,5,7,-2,184.0
+8:51.0,J. Randle misses 2-pt jump shot from 13 ft,7-5, ,,1,5,7,-2,189.0
+8:46.0,Offensive rebound by M. Robinson,7-5, ,,1,5,7,-2,194.0
+8:43.0,Personal foul by D. Hunter (drawn by M. Robinson),7-5, ,,1,5,7,-2,197.0
+8:32.0,J. Brunson misses 2-pt jump shot from 15 ft,7-5, ,,1,5,7,-2,208.0
+8:29.0, ,7-5,Defensive rebound by D. Murray,,1,5,7,-2,211.0
+8:24.0, ,7-5,Turnover by T. Young (bad pass; steal by M. Robinson),,1,5,7,-2,216.0
+8:12.0,J. Hart misses 2-pt layup from 1 ft (block by J. Johnson),7-5, ,,1,5,7,-2,228.0
+8:09.0, ,7-5,Defensive rebound by C. Capela,,1,5,7,-2,231.0
+8:06.0, ,7-7,C. Capela makes 2-pt layup from 1 ft (assist by T. Young),Tie,1,7,7,0,234.0
+7:49.0,Personal foul by D. Hunter (drawn by M. Robinson),7-7, ,,1,7,7,0,251.0
+7:40.0,J. Hart makes 2-pt layup from 2 ft,9-7, ,,1,7,9,-2,260.0
+7:18.0, ,9-7,C. Capela misses 2-pt layup from 1 ft (block by M. Robinson),,1,7,9,-2,282.0
+7:16.0,Defensive rebound by M. Robinson,9-7, ,,1,7,9,-2,284.0
+7:14.0,J. Brunson makes 2-pt layup from 1 ft (assist by J. Hart),11-7, ,,1,7,11,-4,286.0
+7:14.0, ,11-7,Atlanta full timeout,,1,7,11,-4,286.0
+7:14.0, ,11-7,S. Bey enters the game for D. Hunter,,1,7,11,-4,286.0
+7:14.0, ,11-7,B. Bogdanović enters the game for T. Young,,1,7,11,-4,286.0
+7:02.0, ,11-7,Turnover by J. Johnson (bad pass; steal by M. Robinson),,1,7,11,-4,298.0
+6:58.0,Q. Grimes makes 2-pt layup from 2 ft,13-7, ,,1,7,13,-6,302.0
+6:43.0, ,13-9,B. Bogdanović makes 2-pt jump shot from 10 ft,,1,9,13,-4,317.0
+6:26.0,J. Brunson makes 3-pt jump shot from 26 ft,16-9, ,,1,9,16,-7,334.0
+6:02.0, ,16-11,S. Bey makes 2-pt jump shot from 4 ft (assist by D. Murray),,1,11,16,-5,358.0
+5:44.0,J. Randle makes 2-pt jump shot from 12 ft,18-11, ,,1,11,18,-7,376.0
+5:32.0, ,18-11,S. Bey misses 3-pt jump shot from 23 ft,,1,11,18,-7,388.0
+5:29.0,Defensive rebound by M. Robinson,18-11, ,,1,11,18,-7,391.0
+5:14.0,J. Hart misses 3-pt jump shot from 23 ft,18-11, ,,1,11,18,-7,406.0
+5:10.0,Offensive rebound by M. Robinson,18-11, ,,1,11,18,-7,410.0
+5:09.0,Q. Grimes misses 3-pt jump shot from 26 ft,18-11, ,,1,11,18,-7,411.0
+5:05.0,Offensive rebound by J. Hart,18-11, ,,1,11,18,-7,415.0
+5:02.0,J. Randle misses 3-pt jump shot from 23 ft,18-11, ,,1,11,18,-7,418.0
+4:59.0, ,18-11,Defensive rebound by D. Murray,,1,11,18,-7,421.0
+4:51.0, ,18-13,D. Murray makes 2-pt jump shot from 18 ft,,1,13,18,-5,429.0
+4:36.0,Q. Grimes makes 3-pt jump shot from 24 ft (assist by J. Brunson),21-13, ,,1,13,21,-8,444.0
+4:25.0, ,21-13,D. Murray misses 3-pt jump shot from 24 ft,,1,13,21,-8,455.0
+4:22.0,Defensive rebound by J. Hart,21-13, ,,1,13,21,-8,458.0
+4:16.0,J. Brunson makes 3-pt jump shot from 23 ft (assist by J. Hart),24-13, ,,1,13,24,-11,464.0
+3:57.0, ,24-15,C. Capela makes 2-pt layup from 1 ft (assist by B. Bogdanović),,1,15,24,-9,483.0
+3:49.0,New York full timeout,24-15, ,,1,15,24,-9,491.0
+3:49.0,D. DiVincenzo enters the game for Q. Grimes,24-15, ,,1,15,24,-9,491.0
+3:49.0,I. Hartenstein enters the game for J. Hart,24-15, ,,1,15,24,-9,491.0
+3:49.0,I. Quickley enters the game for M. Robinson,24-15, ,,1,15,24,-9,491.0
+3:49.0, ,24-15,W. Matthews enters the game for C. Capela,,1,15,24,-9,491.0
+3:49.0, ,24-15,O. Okongwu enters the game for J. Johnson,,1,15,24,-9,491.0
+3:41.0,I. Hartenstein makes 2-pt layup from 1 ft (assist by J. Brunson),26-15, ,,1,15,26,-11,499.0
+3:26.0, ,26-17,O. Okongwu makes 2-pt hook shot from 9 ft (assist by W. Matthews),,1,17,26,-9,514.0
+3:02.0,D. DiVincenzo makes 2-pt layup from 1 ft (assist by J. Brunson),28-17, ,,1,17,28,-11,538.0
+2:45.0, ,28-17,B. Bogdanović misses 3-pt jump shot from 25 ft,,1,17,28,-11,555.0
+2:42.0,Defensive rebound by J. Randle,28-17, ,,1,17,28,-11,558.0
+2:22.0,I. Quickley misses 2-pt jump shot from 10 ft,28-17, ,,1,17,28,-11,578.0
+2:22.0,Offensive rebound by Team,28-17, ,,1,17,28,-11,578.0
+2:22.0, ,28-17,Loose ball foul by O. Okongwu (drawn by I. Hartenstein),,1,17,28,-11,578.0
+2:22.0, ,28-17,T. Young enters the game for D. Murray,,1,17,28,-11,578.0
+2:14.0,J. Randle misses 2-pt layup from 1 ft,28-17, ,,1,17,28,-11,586.0
+2:11.0, ,28-17,Defensive rebound by O. Okongwu,,1,17,28,-11,589.0
+2:03.0, ,28-17,T. Young misses 2-pt jump shot from 18 ft,,1,17,28,-11,597.0
+1:59.0,Defensive rebound by D. DiVincenzo,28-17, ,,1,17,28,-11,601.0
+1:57.0,J. Randle makes 2-pt layup from 1 ft (assist by D. DiVincenzo),30-17, ,,1,17,30,-13,603.0
+1:39.0, ,30-17,B. Bogdanović misses 3-pt jump shot from 25 ft,,1,17,30,-13,621.0
+1:36.0, ,30-17,Offensive rebound by W. Matthews,,1,17,30,-13,624.0
+1:34.0, ,30-17,T. Young misses 2-pt jump shot from 6 ft,,1,17,30,-13,626.0
+1:31.0,Defensive rebound by D. DiVincenzo,30-17, ,,1,17,30,-13,629.0
+1:31.0,M. McBride enters the game for J. Brunson,30-17, ,,1,17,30,-13,629.0
+1:10.0,J. Randle misses 2-pt jump shot from 12 ft,30-17, ,,1,17,30,-13,650.0
+1:07.0, ,30-17,Defensive rebound by O. Okongwu,,1,17,30,-13,653.0
+0:53.0, ,30-19,B. Bogdanović makes 2-pt jump shot from 10 ft,,1,19,30,-11,667.0
+0:53.0, ,30-19,Shooting foul by I. Hartenstein (drawn by B. Bogdanović),,1,19,30,-11,667.0
+0:53.0, ,30-20,B. Bogdanović makes free throw 1 of 1,,1,20,30,-10,667.0
+0:39.0,J. Randle makes 2-pt jump shot from 9 ft,32-20, ,,1,20,32,-12,681.0
+0:39.0,Shooting foul by S. Bey (drawn by J. Randle),32-20, ,,1,20,32,-12,681.0
+0:39.0,J. Randle makes free throw 1 of 1,33-20, ,,1,20,33,-13,681.0
+0:30.0, ,33-20,Shooting foul by M. McBride (drawn by T. Young),,1,20,33,-13,690.0
+0:30.0, ,33-21,T. Young makes free throw 1 of 2,,1,21,33,-12,690.0
+0:30.0,J. Brunson enters the game for M. McBride,33-21, ,,1,21,33,-12,690.0
+0:30.0, ,33-22,T. Young makes free throw 2 of 2,,1,22,33,-11,690.0
+0:14.0,I. Hartenstein misses 2-pt hook shot from 6 ft,33-22, ,,1,22,33,-11,706.0
+0:11.0, ,33-22,Defensive rebound by S. Bey,,1,22,33,-11,709.0
+0:01.0, ,33-22,Offensive foul by O. Okongwu (drawn by J. Brunson),,1,22,33,-11,719.0
+0:01.0, ,33-22,Turnover by O. Okongwu (offensive foul),,1,22,33,-11,719.0
+0:00.0,I. Hartenstein misses 2-pt jump shot from 14 ft,33-22, ,,1,22,33,-11,720.0
+0:00.0,Offensive rebound by Team,33-22, ,,1,22,33,-11,720.0
+0:00.0,End of 1st quarter,33-22,,,1,22,33,-11,720.0
+12:00.0,Start of 2nd quarter,33-22,,,2,22,33,-11,720.0
+11:40.0, ,33-22,T. Young misses 2-pt jump shot from 11 ft,,2,22,33,-11,740.0
+11:37.0,Defensive rebound by D. DiVincenzo,33-22, ,,2,22,33,-11,743.0
+11:33.0,I. Hartenstein makes 2-pt dunk from 1 ft (assist by J. Hart),35-22, ,,2,22,35,-13,747.0
+11:14.0, ,35-24,J. Johnson makes 2-pt dunk at rim (assist by O. Okongwu),,2,24,35,-11,766.0
+11:01.0,Offensive foul by D. DiVincenzo (drawn by B. Bogdanović),35-24, ,,2,24,35,-11,779.0
+11:01.0,Turnover by D. DiVincenzo (offensive foul),35-24, ,,2,24,35,-11,779.0
+10:52.0, ,35-26,B. Bogdanović makes 2-pt layup at rim (assist by T. Young),,2,26,35,-9,788.0
+10:37.0,I. Quickley makes 2-pt jump shot from 18 ft (assist by D. DiVincenzo),37-26, ,,2,26,37,-11,803.0
+10:15.0, ,37-29,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),,2,29,37,-8,825.0
+9:54.0,D. DiVincenzo makes 2-pt layup from 3 ft (assist by J. Hart),39-29, ,,2,29,39,-10,846.0
+9:42.0, ,39-31,B. Bogdanović makes 2-pt jump shot from 13 ft,,2,31,39,-8,858.0
+9:25.0,Turnover by J. Brunson (lost ball; steal by S. Bey),39-31, ,,2,31,39,-8,875.0
+9:23.0, ,39-31,Turnover by S. Bey (lost ball; steal by I. Hartenstein),,2,31,39,-8,877.0
+9:20.0,J. Hart misses 2-pt layup from 3 ft (block by B. Bogdanović),39-31, ,,2,31,39,-8,880.0
+9:19.0,Offensive rebound by Team,39-31, ,,2,31,39,-8,881.0
+9:19.0,Q. Grimes enters the game for J. Brunson,39-31, ,,2,31,39,-8,881.0
+9:17.0,I. Quickley misses 3-pt jump shot from 24 ft,39-31, ,,2,31,39,-8,883.0
+9:13.0, ,39-31,Defensive rebound by J. Johnson,,2,31,39,-8,887.0
+9:03.0, ,39-34,J. Johnson makes 3-pt jump shot from 23 ft (assist by S. Bey),,2,34,39,-5,897.0
+8:56.0,New York full timeout,39-34, ,,2,34,39,-5,904.0
+8:56.0, ,39-34,D. Hunter enters the game for S. Bey,,2,34,39,-5,904.0
+8:47.0,Q. Grimes misses 3-pt jump shot from 24 ft,39-34, ,,2,34,39,-5,913.0
+8:44.0,Offensive rebound by I. Hartenstein,39-34, ,,2,34,39,-5,916.0
+8:43.0,I. Hartenstein misses 2-pt hook shot from 5 ft,39-34, ,,2,34,39,-5,917.0
+8:40.0, ,39-34,Defensive rebound by J. Johnson,,2,34,39,-5,920.0
+8:31.0, ,39-36,D. Hunter makes 2-pt jump shot from 11 ft,,2,36,39,-3,929.0
+8:13.0,J. Hart makes 3-pt jump shot from 26 ft (assist by I. Quickley),42-36, ,,2,36,42,-6,947.0
+8:00.0, ,42-36,Shooting foul by J. Hart (drawn by O. Okongwu),,2,36,42,-6,960.0
+8:00.0, ,42-37,O. Okongwu makes free throw 1 of 2,,2,37,42,-5,960.0
+8:00.0, ,42-37,S. Bey enters the game for J. Johnson,,2,37,42,-5,960.0
+8:00.0, ,42-38,O. Okongwu makes free throw 2 of 2,,2,38,42,-4,960.0
+7:47.0,I. Hartenstein makes 2-pt hook shot from 2 ft (assist by I. Quickley),44-38, ,,2,38,44,-6,973.0
+7:33.0, ,44-38,Turnover by O. Okongwu (bad pass; steal by D. DiVincenzo),,2,38,44,-6,987.0
+7:28.0,I. Quickley makes 3-pt jump shot from 26 ft (assist by D. DiVincenzo),47-38, ,,2,38,47,-9,992.0
+7:08.0, ,47-40,T. Young makes 2-pt jump shot from 22 ft,,2,40,47,-7,1012.0
+6:51.0,D. DiVincenzo makes 2-pt jump shot from 1 ft (assist by I. Quickley),49-40, ,,2,40,49,-9,1029.0
+6:42.0, ,49-43,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),,2,43,49,-6,1038.0
+6:27.0,Turnover by J. Hart (bad pass),49-43, ,,2,43,49,-6,1053.0
+6:27.0,J. Randle enters the game for J. Hart,49-43, ,,2,43,49,-6,1053.0
+6:27.0, ,49-43,D. Murray enters the game for T. Young,,2,43,49,-6,1053.0
+6:04.0, ,49-43,O. Okongwu misses 2-pt layup from 1 ft,,2,43,49,-6,1076.0
+6:00.0,Defensive rebound by I. Hartenstein,49-43, ,,2,43,49,-6,1080.0
+5:49.0,D. DiVincenzo misses 3-pt jump shot from 23 ft,49-43, ,,2,43,49,-6,1091.0
+5:48.0, ,49-43,Defensive rebound by Team,,2,43,49,-6,1092.0
+5:48.0,Loose ball foul by I. Hartenstein (drawn by O. Okongwu),49-43, ,,2,43,49,-6,1092.0
+5:48.0,J. Brunson enters the game for D. DiVincenzo,49-43, ,,2,43,49,-6,1092.0
+5:48.0,M. Robinson enters the game for I. Hartenstein,49-43, ,,2,43,49,-6,1092.0
+5:48.0, ,49-43,C. Capela enters the game for O. Okongwu,,2,43,49,-6,1092.0
+5:31.0, ,49-45,S. Bey makes 2-pt jump shot from 18 ft,,2,45,49,-4,1109.0
+5:16.0,Personal foul by B. Bogdanović (drawn by Q. Grimes),49-45, ,,2,45,49,-4,1124.0
+5:09.0,Turnover by J. Brunson (bad pass; steal by S. Bey),49-45, ,,2,45,49,-4,1131.0
+5:06.0, ,49-47,S. Bey makes 2-pt dunk from 2 ft (assist by D. Hunter),,2,47,49,-2,1134.0
+4:43.0,I. Quickley makes 2-pt jump shot from 11 ft,51-47, ,,2,47,51,-4,1157.0
+4:27.0, ,51-50,S. Bey makes 3-pt jump shot from 26 ft (assist by D. Murray),,2,50,51,-1,1173.0
+4:08.0,J. Brunson misses 3-pt jump shot from 23 ft,51-50, ,,2,50,51,-1,1192.0
+4:05.0, ,51-50,Defensive rebound by D. Murray,,2,50,51,-1,1195.0
+4:01.0, ,51-50,S. Bey misses 3-pt jump shot from 23 ft,,2,50,51,-1,1199.0
+3:58.0, ,51-50,Offensive rebound by B. Bogdanović,,2,50,51,-1,1202.0
+3:57.0, ,51-52,S. Bey makes 2-pt dunk at rim (assist by B. Bogdanović),Lead change,2,52,51,1,1203.0
+3:45.0,New York full timeout,51-52, ,,2,52,51,1,1215.0
+3:45.0, ,51-52,T. Young enters the game for B. Bogdanović,,2,52,51,1,1215.0
+3:27.0,Turnover by I. Quickley (lost ball; steal by C. Capela),51-52, ,,2,52,51,1,1233.0
+3:19.0, ,51-52,T. Young misses 2-pt jump shot from 10 ft,,2,52,51,1,1241.0
+3:16.0,Defensive rebound by M. Robinson,51-52, ,,2,52,51,1,1244.0
+3:07.0,I. Quickley misses 3-pt jump shot from 23 ft,51-52, ,,2,52,51,1,1253.0
+3:04.0, ,51-52,Defensive rebound by C. Capela,,2,52,51,1,1256.0
+2:43.0, ,51-52,S. Bey misses 3-pt jump shot from 23 ft,,2,52,51,1,1277.0
+2:40.0,Defensive rebound by J. Randle,51-52, ,,2,52,51,1,1280.0
+2:40.0,Personal foul by S. Bey (drawn by J. Randle),51-52, ,,2,52,51,1,1280.0
+2:40.0,D. DiVincenzo enters the game for I. Quickley,51-52, ,,2,52,51,1,1280.0
+2:40.0, ,51-52,J. Johnson enters the game for S. Bey,,2,52,51,1,1280.0
+2:26.0,J. Randle misses 2-pt hook shot from 3 ft (block by C. Capela),51-52, ,,2,52,51,1,1294.0
+2:25.0,Offensive rebound by Team,51-52, ,,2,52,51,1,1295.0
+2:22.0,Q. Grimes misses 2-pt layup from 2 ft,51-52, ,,2,52,51,1,1298.0
+2:18.0,Offensive rebound by M. Robinson,51-52, ,,2,52,51,1,1302.0
+2:18.0,M. Robinson makes 2-pt layup at rim,53-52, ,Lead change,2,52,53,-1,1302.0
+2:06.0, ,53-52,D. Murray misses 3-pt jump shot from 25 ft,,2,52,53,-1,1314.0
+2:03.0,Defensive rebound by J. Randle,53-52, ,,2,52,53,-1,1317.0
+1:51.0,Turnover by J. Brunson (bad pass; steal by T. Young),53-52, ,,2,52,53,-1,1329.0
+1:47.0, ,53-52,J. Johnson misses 2-pt layup from 2 ft,,2,52,53,-1,1333.0
+1:46.0,Defensive rebound by Team,53-52, ,,2,52,53,-1,1334.0
+1:30.0,J. Randle misses 2-pt layup from 5 ft (block by J. Johnson),53-52, ,,2,52,53,-1,1350.0
+1:29.0,Offensive rebound by Team,53-52, ,,2,52,53,-1,1351.0
+1:24.0,J. Brunson misses 2-pt jump shot from 7 ft,53-52, ,,2,52,53,-1,1356.0
+1:21.0, ,53-52,Defensive rebound by J. Johnson,,2,52,53,-1,1359.0
+1:17.0, ,53-52,Offensive foul by D. Hunter (drawn by J. Brunson),,2,52,53,-1,1363.0
+1:17.0, ,53-52,Turnover by D. Hunter (offensive foul),,2,52,53,-1,1363.0
+1:17.0, ,53-52,S. Bey enters the game for D. Hunter,,2,52,53,-1,1363.0
+0:59.0,M. Robinson makes 2-pt dunk from 2 ft (assist by J. Randle),55-52, ,,2,52,55,-3,1381.0
+0:44.0, ,55-55,J. Johnson makes 3-pt jump shot from 25 ft (assist by S. Bey),Tie,2,55,55,0,1396.0
+0:33.0,D. DiVincenzo misses 2-pt layup from 1 ft,55-55, ,,2,55,55,0,1407.0
+0:31.0,Offensive rebound by J. Randle,55-55, ,,2,55,55,0,1409.0
+0:31.0,J. Randle makes 2-pt layup at rim,57-55, ,,2,55,57,-2,1409.0
+0:09.0, ,57-55,Shooting foul by Q. Grimes (drawn by T. Young),,2,55,57,-2,1431.0
+0:09.0, ,57-55,T. Young misses free throw 1 of 2,,2,55,57,-2,1431.0
+0:09.0, ,57-55,Offensive rebound by Team,,2,55,57,-2,1431.0
+0:09.0, ,57-56,T. Young makes free throw 2 of 2,,2,56,57,-1,1431.0
+0:02.0,J. Brunson misses 3-pt jump shot from 26 ft,57-56, ,,2,56,57,-1,1438.0
+0:00.0,Offensive rebound by D. DiVincenzo,57-56, ,,2,56,57,-1,1440.0
+0:00.0,D. DiVincenzo misses 2-pt layup at rim,57-56, ,,2,56,57,-1,1440.0
+0:00.0, ,57-56,Defensive rebound by C. Capela,,2,56,57,-1,1440.0
+0:00.0,End of 2nd quarter,57-56,,,2,56,57,-1,1440.0
+12:00.0,Start of 3rd quarter,57-56,,,3,56,57,-1,1440.0
+11:36.0, ,57-56,T. Young misses 3-pt jump shot from 26 ft,,3,56,57,-1,1464.0
+11:32.0,Defensive rebound by M. Robinson,57-56, ,,3,56,57,-1,1468.0
+11:28.0,Turnover by J. Hart (bad pass; steal by D. Murray),57-56, ,,3,56,57,-1,1472.0
+11:23.0, ,57-56,D. Hunter misses 3-pt jump shot from 26 ft,,3,56,57,-1,1477.0
+11:19.0,Defensive rebound by M. Robinson,57-56, ,,3,56,57,-1,1481.0
+11:00.0,J. Brunson misses 2-pt layup from 2 ft,57-56, ,,3,56,57,-1,1500.0
+10:57.0, ,57-56,Defensive rebound by D. Hunter,,3,56,57,-1,1503.0
+10:46.0, ,57-56,D. Murray misses 2-pt jump shot from 13 ft,,3,56,57,-1,1514.0
+10:43.0,Defensive rebound by J. Randle,57-56, ,,3,56,57,-1,1517.0
+10:39.0,Q. Grimes makes 3-pt jump shot from 23 ft (assist by J. Brunson),60-56, ,,3,56,60,-4,1521.0
+10:16.0, ,60-59,J. Johnson makes 3-pt jump shot from 24 ft (assist by C. Capela),,3,59,60,-1,1544.0
+9:54.0,Turnover by Q. Grimes (lost ball; steal by C. Capela),60-59, ,,3,59,60,-1,1566.0
+9:49.0, ,60-59,Shooting foul by Q. Grimes (drawn by C. Capela),,3,59,60,-1,1571.0
+9:49.0, ,60-59,C. Capela misses free throw 1 of 2,,3,59,60,-1,1571.0
+9:49.0, ,60-59,Offensive rebound by Team,,3,59,60,-1,1571.0
+9:49.0, ,60-59,C. Capela misses free throw 2 of 2,,3,59,60,-1,1571.0
+9:46.0,Defensive rebound by J. Hart,60-59, ,,3,59,60,-1,1574.0
+9:36.0,Q. Grimes makes 3-pt jump shot from 25 ft (assist by J. Randle),63-59, ,,3,59,63,-4,1584.0
+9:22.0, ,63-59,T. Young misses 3-pt jump shot from 29 ft,,3,59,63,-4,1598.0
+9:20.0, ,63-59,Offensive rebound by D. Hunter,,3,59,63,-4,1600.0
+9:15.0, ,63-59,Turnover by J. Johnson (bad pass; steal by Q. Grimes),,3,59,63,-4,1605.0
+9:11.0,Turnover by Q. Grimes (lost ball; steal by T. Young),63-59, ,,3,59,63,-4,1609.0
+9:06.0, ,63-61,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),,3,61,63,-2,1614.0
+8:56.0,M. Robinson makes 2-pt dunk from 1 ft (assist by J. Randle),65-61, ,,3,61,65,-4,1624.0
+8:35.0, ,65-64,D. Hunter makes 3-pt jump shot from 26 ft (assist by T. Young),,3,64,65,-1,1645.0
+8:13.0,J. Brunson misses 3-pt jump shot from 25 ft,65-64, ,,3,64,65,-1,1667.0
+8:12.0, ,65-64,Defensive rebound by Team,,3,64,65,-1,1668.0
+8:00.0, ,65-66,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),Lead change,3,66,65,1,1680.0
+7:45.0,Offensive foul by J. Randle (drawn by C. Capela),65-66, ,,3,66,65,1,1695.0
+7:45.0,Turnover by J. Randle (offensive foul),65-66, ,,3,66,65,1,1695.0
+7:37.0, ,65-66,Turnover by T. Young (bad pass),,3,66,65,1,1703.0
+7:22.0,Q. Grimes misses 3-pt jump shot from 25 ft,65-66, ,,3,66,65,1,1718.0
+7:19.0, ,65-66,Defensive rebound by J. Johnson,,3,66,65,1,1721.0
+7:16.0, ,65-66,Turnover by J. Johnson (bad pass),,3,66,65,1,1724.0
+7:16.0, ,65-66,Loose ball foul by C. Capela (drawn by J. Brunson),,3,66,65,1,1724.0
+6:58.0,J. Brunson misses 2-pt jump shot from 12 ft,65-66, ,,3,66,65,1,1742.0
+6:56.0,Offensive rebound by Team,65-66, ,,3,66,65,1,1744.0
+6:56.0, ,65-66,Loose ball foul by C. Capela (drawn by M. Robinson),,3,66,65,1,1744.0
+6:56.0, ,65-66,Atlanta full timeout,,3,66,65,1,1744.0
+6:56.0, ,65-66,B. Bogdanović enters the game for T. Young,,3,66,65,1,1744.0
+6:43.0,J. Brunson makes 3-pt jump shot from 25 ft,68-66, ,Lead change,3,66,68,-2,1757.0
+6:29.0, ,68-66,D. Hunter misses 2-pt jump shot from 19 ft,,3,66,68,-2,1771.0
+6:26.0,Defensive rebound by J. Randle,68-66, ,,3,66,68,-2,1774.0
+6:08.0,J. Brunson makes 3-pt jump shot from 25 ft (assist by J. Randle),71-66, ,,3,66,71,-5,1792.0
+5:53.0, ,71-66,J. Johnson misses 2-pt jump shot from 12 ft,,3,66,71,-5,1807.0
+5:51.0,Defensive rebound by M. Robinson,71-66, ,,3,66,71,-5,1809.0
+5:45.0,Turnover by Q. Grimes (bad pass; steal by B. Bogdanović),71-66, ,,3,66,71,-5,1815.0
+5:38.0, ,71-66,D. Hunter misses 2-pt jump shot from 21 ft,,3,66,71,-5,1822.0
+5:34.0,Defensive rebound by M. Robinson,71-66, ,,3,66,71,-5,1826.0
+5:18.0,J. Randle makes 3-pt jump shot from 23 ft (assist by Q. Grimes),74-66, ,,3,66,74,-8,1842.0
+5:06.0, ,74-66,D. Murray misses 2-pt jump shot from 21 ft,,3,66,74,-8,1854.0
+5:03.0,Defensive rebound by Q. Grimes,74-66, ,,3,66,74,-8,1857.0
+4:52.0,J. Hart misses 3-pt jump shot from 23 ft,74-66, ,,3,66,74,-8,1868.0
+4:50.0, ,74-66,Defensive rebound by J. Johnson,,3,66,74,-8,1870.0
+4:50.0, ,74-66,Atlanta full timeout,,3,66,74,-8,1870.0
+4:50.0,I. Quickley enters the game for J. Hart,74-66, ,,3,66,74,-8,1870.0
+4:50.0, ,74-66,S. Bey enters the game for C. Capela,,3,66,74,-8,1870.0
+4:50.0, ,74-66,W. Matthews enters the game for D. Hunter,,3,66,74,-8,1870.0
+4:50.0, ,74-66,O. Okongwu enters the game for J. Johnson,,3,66,74,-8,1870.0
+4:41.0, ,74-66,Shooting foul by I. Quickley (drawn by B. Bogdanović),,3,66,74,-8,1879.0
+4:41.0, ,74-67,B. Bogdanović makes free throw 1 of 3,,3,67,74,-7,1879.0
+4:41.0, ,74-68,B. Bogdanović makes free throw 2 of 3,,3,68,74,-6,1879.0
+4:41.0, ,74-69,B. Bogdanović makes free throw 3 of 3,,3,69,74,-5,1879.0
+4:21.0,J. Randle misses 2-pt jump shot from 11 ft,74-69, ,,3,69,74,-5,1899.0
+4:18.0, ,74-69,Defensive rebound by D. Murray,,3,69,74,-5,1902.0
+4:07.0, ,74-69,B. Bogdanović misses 3-pt jump shot from 26 ft,,3,69,74,-5,1913.0
+4:03.0,Defensive rebound by M. Robinson,74-69, ,,3,69,74,-5,1917.0
+3:53.0,Q. Grimes misses 3-pt jump shot from 22 ft,74-69, ,,3,69,74,-5,1927.0
+3:50.0, ,74-69,Defensive rebound by O. Okongwu,,3,69,74,-5,1930.0
+3:47.0, ,74-71,D. Murray makes 2-pt layup from 4 ft,,3,71,74,-3,1933.0
+3:47.0, ,74-71,Shooting foul by J. Brunson (drawn by D. Murray),,3,71,74,-3,1933.0
+3:47.0,D. DiVincenzo enters the game for Q. Grimes,74-71, ,,3,71,74,-3,1933.0
+3:47.0,I. Hartenstein enters the game for M. Robinson,74-71, ,,3,71,74,-3,1933.0
+3:47.0, ,74-71,D. Murray misses free throw 1 of 1,,3,71,74,-3,1933.0
+3:45.0,Defensive rebound by J. Randle,74-71, ,,3,71,74,-3,1935.0
+3:38.0,Personal foul by W. Matthews (drawn by J. Brunson),74-71, ,,3,71,74,-3,1942.0
+3:28.0,J. Randle makes 2-pt dunk at rim (assist by I. Quickley),76-71, ,,3,71,76,-5,1952.0
+3:08.0, ,76-71,B. Bogdanović misses 3-pt jump shot from 25 ft,,3,71,76,-5,1972.0
+3:03.0, ,76-71,Offensive rebound by O. Okongwu,,3,71,76,-5,1977.0
+3:03.0, ,76-71,Turnover by O. Okongwu (bad pass; steal by I. Quickley),,3,71,76,-5,1977.0
+2:54.0,J. Randle makes 2-pt layup from 1 ft,78-71, ,,3,71,78,-7,1986.0
+2:54.0,Shooting foul by O. Okongwu (drawn by J. Randle),78-71, ,,3,71,78,-7,1986.0
+2:54.0, ,78-71,T. Young enters the game for D. Murray,,3,71,78,-7,1986.0
+2:54.0,J. Randle makes free throw 1 of 1,79-71, ,,3,71,79,-8,1986.0
+2:42.0, ,79-73,O. Okongwu makes 2-pt layup from 2 ft (assist by T. Young),,3,73,79,-6,1998.0
+2:18.0,Turnover by D. DiVincenzo (traveling),79-73, ,,3,73,79,-6,2022.0
+2:07.0, ,79-75,T. Young makes 2-pt jump shot from 13 ft,,3,75,79,-4,2033.0
+1:49.0,D. DiVincenzo misses 2-pt layup at rim,79-75, ,,3,75,79,-4,2051.0
+1:45.0,Offensive rebound by I. Hartenstein,79-75, ,,3,75,79,-4,2055.0
+1:45.0,I. Hartenstein makes 2-pt layup at rim,81-75, ,,3,75,81,-6,2055.0
+1:33.0, ,81-75,Personal foul by I. Quickley (drawn by T. Young),,3,75,81,-6,2067.0
+1:33.0,Q. Grimes enters the game for J. Brunson,81-75, ,,3,75,81,-6,2067.0
+1:25.0, ,81-78,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by T. Young),,3,78,81,-3,2075.0
+1:02.0,Q. Grimes misses 2-pt dunk from 1 ft (block by O. Okongwu),81-78, ,,3,78,81,-3,2098.0
+1:01.0,Offensive rebound by Team,81-78, ,,3,78,81,-3,2099.0
+0:59.0,I. Hartenstein makes 2-pt layup from 1 ft (assist by J. Randle),83-78, ,,3,78,83,-5,2101.0
+0:59.0,Shooting foul by B. Bogdanović (drawn by I. Hartenstein),83-78, ,,3,78,83,-5,2101.0
+0:59.0,I. Hartenstein makes free throw 1 of 1,84-78, ,,3,78,84,-6,2101.0
+0:50.0, ,84-81,W. Matthews makes 3-pt jump shot from 23 ft (assist by T. Young),,3,81,84,-3,2110.0
+0:32.0,Turnover by D. DiVincenzo (lost ball; steal by W. Matthews),84-81, ,,3,81,84,-3,2128.0
+0:26.0, ,84-81,B. Bogdanović misses 3-pt jump shot from 27 ft,,3,81,84,-3,2134.0
+0:23.0, ,84-81,Offensive rebound by O. Okongwu,,3,81,84,-3,2137.0
+0:23.0, ,84-81,Turnover by O. Okongwu (traveling),,3,81,84,-3,2137.0
+0:07.0,I. Quickley makes 3-pt jump shot from 32 ft,87-81, ,,3,81,87,-6,2153.0
+0:01.0, ,87-81,Turnover by T. Young (lost ball; steal by J. Randle),,3,81,87,-6,2159.0
+0:00.0,End of 3rd quarter,87-81,,,3,81,87,-6,2160.0
+12:00.0,Start of 4th quarter,87-81,,,4,81,87,-6,2160.0
+11:43.0,Q. Grimes misses 3-pt jump shot from 25 ft,87-81, ,,4,81,87,-6,2177.0
+11:40.0, ,87-81,Defensive rebound by W. Matthews,,4,81,87,-6,2180.0
+11:32.0, ,87-81,Turnover by S. Bey (step out of bounds),,4,81,87,-6,2188.0
+11:23.0,Personal foul by W. Matthews (drawn by I. Quickley),87-81, ,,4,81,87,-6,2197.0
+11:21.0,Turnover by D. DiVincenzo (bad pass; steal by B. Bogdanović),87-81, ,,4,81,87,-6,2199.0
+11:13.0, ,87-81,T. Young misses 3-pt jump shot from 26 ft,,4,81,87,-6,2207.0
+11:09.0,Defensive rebound by J. Hart,87-81, ,,4,81,87,-6,2211.0
+10:57.0,I. Hartenstein misses 2-pt jump shot from 10 ft,87-81, ,,4,81,87,-6,2223.0
+10:55.0,Offensive rebound by I. Hartenstein,87-81, ,,4,81,87,-6,2225.0
+10:50.0,I. Quickley misses 2-pt layup from 1 ft,87-81, ,,4,81,87,-6,2230.0
+10:47.0, ,87-81,Defensive rebound by W. Matthews,,4,81,87,-6,2233.0
+10:45.0, ,87-81,Shooting foul by Q. Grimes (drawn by B. Bogdanović),,4,81,87,-6,2235.0
+10:45.0, ,87-82,B. Bogdanović makes free throw 1 of 2,,4,82,87,-5,2235.0
+10:45.0,J. Brunson enters the game for Q. Grimes,87-82, ,,4,82,87,-5,2235.0
+10:45.0, ,87-82,J. Johnson enters the game for W. Matthews,,4,82,87,-5,2235.0
+10:45.0, ,87-83,B. Bogdanović makes free throw 2 of 2,,4,83,87,-4,2235.0
+10:33.0,J. Brunson misses 2-pt layup from 2 ft,87-83, ,,4,83,87,-4,2247.0
+10:32.0, ,87-83,Defensive rebound by Team,,4,83,87,-4,2248.0
+10:15.0, ,87-83,O. Okongwu misses 2-pt layup from 6 ft (block by J. Hart),,4,83,87,-4,2265.0
+10:13.0, ,87-83,Offensive rebound by Team,,4,83,87,-4,2267.0
+10:13.0,Jump ball: O. Okongwu vs. J. Hart (J. Johnson gains possession),87-83,,,4,83,87,-4,2267.0
+10:09.0, ,87-83,T. Young misses 3-pt jump shot from 34 ft,,4,83,87,-4,2271.0
+10:09.0,Defensive rebound by J. Hart,87-83, ,,4,83,87,-4,2271.0
+10:01.0,D. DiVincenzo misses 3-pt jump shot from 25 ft,87-83, ,,4,83,87,-4,2279.0
+9:58.0, ,87-83,Defensive rebound by B. Bogdanović,,4,83,87,-4,2282.0
+9:56.0,Jump ball: D. DiVincenzo vs. B. Bogdanović (J. Brunson gains possession),87-83,,,4,83,87,-4,2284.0
+9:56.0, ,87-83,Turnover by B. Bogdanović (lost ball; steal by D. DiVincenzo),,4,83,87,-4,2284.0
+9:43.0,J. Hart makes 2-pt jump shot from 16 ft (assist by J. Brunson),89-83, ,,4,83,89,-6,2297.0
+9:34.0, ,89-86,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by T. Young),,4,86,89,-3,2306.0
+9:11.0,Shooting foul by S. Bey (drawn by J. Brunson),89-86, ,,4,86,89,-3,2329.0
+9:11.0,J. Brunson makes free throw 1 of 2,90-86, ,,4,86,90,-4,2329.0
+9:11.0,J. Brunson makes free throw 2 of 2,91-86, ,,4,86,91,-5,2329.0
+9:01.0, ,91-88,J. Johnson makes 2-pt jump shot from 6 ft (assist by T. Young),,4,88,91,-3,2339.0
+8:38.0,Turnover by I. Quickley (discontinued dribble),91-88, ,,4,88,91,-3,2362.0
+8:32.0, ,91-90,T. Young makes 2-pt layup from 2 ft,,4,90,91,-1,2368.0
+8:32.0,New York full timeout,91-90, ,,4,90,91,-1,2368.0
+8:32.0,J. Randle enters the game for I. Hartenstein,91-90, ,,4,90,91,-1,2368.0
+8:32.0,M. Robinson enters the game for I. Quickley,91-90, ,,4,90,91,-1,2368.0
+8:09.0,J. Randle makes 3-pt jump shot from 23 ft,94-90, ,,4,90,94,-4,2391.0
+7:52.0, ,94-93,S. Bey makes 3-pt jump shot from 24 ft (assist by T. Young),,4,93,94,-1,2408.0
+7:30.0,J. Brunson misses 2-pt layup from 1 ft,94-93, ,,4,93,94,-1,2430.0
+7:27.0, ,94-93,Defensive rebound by O. Okongwu,,4,93,94,-1,2433.0
+7:16.0, ,94-93,Shooting foul by J. Hart (drawn by B. Bogdanović),,4,93,94,-1,2444.0
+7:16.0, ,94-94,B. Bogdanović makes free throw 1 of 2,Tie,4,94,94,0,2444.0
+7:16.0, ,94-94,D. Murray enters the game for T. Young,,4,94,94,0,2444.0
+7:16.0, ,94-95,B. Bogdanović makes free throw 2 of 2,Lead change,4,95,94,1,2444.0
+7:03.0,Turnover by M. Robinson (lost ball; steal by O. Okongwu),94-95, ,,4,95,94,1,2457.0
+6:56.0, ,94-95,Shooting foul by J. Randle (drawn by O. Okongwu),,4,95,94,1,2464.0
+6:56.0, ,94-96,O. Okongwu makes free throw 1 of 2,,4,96,94,2,2464.0
+6:56.0,I. Quickley enters the game for D. DiVincenzo,94-96, ,,4,96,94,2,2464.0
+6:56.0, ,94-96,D. Hunter enters the game for J. Johnson,,4,96,94,2,2464.0
+6:56.0, ,94-97,O. Okongwu makes free throw 2 of 2,,4,97,94,3,2464.0
+6:35.0,J. Brunson misses 3-pt jump shot from 25 ft,94-97, ,,4,97,94,3,2485.0
+6:33.0,Offensive rebound by M. Robinson,94-97, ,,4,97,94,3,2487.0
+6:22.0,J. Randle misses 2-pt jump shot from 10 ft,94-97, ,,4,97,94,3,2498.0
+6:21.0,Offensive rebound by Team,94-97, ,,4,97,94,3,2499.0
+6:21.0, ,94-97,Loose ball foul by O. Okongwu (drawn by M. Robinson),,4,97,94,3,2499.0
+6:11.0,Personal foul by B. Bogdanović (drawn by J. Brunson),94-97, ,,4,97,94,3,2509.0
+6:00.0,I. Quickley misses 2-pt jump shot from 21 ft,94-97, ,,4,97,94,3,2520.0
+5:57.0, ,94-97,Defensive rebound by B. Bogdanović,,4,97,94,3,2523.0
+5:48.0, ,94-99,D. Murray makes 2-pt jump shot from 18 ft (assist by B. Bogdanović),,4,99,94,5,2532.0
+5:29.0,J. Brunson misses 2-pt layup from 2 ft,94-99, ,,4,99,94,5,2551.0
+5:26.0, ,94-99,Defensive rebound by D. Murray,,4,99,94,5,2554.0
+5:22.0, ,94-99,B. Bogdanović misses 3-pt jump shot from 28 ft,,4,99,94,5,2558.0
+5:20.0, ,94-99,Offensive rebound by S. Bey,,4,99,94,5,2560.0
+5:20.0, ,94-101,S. Bey makes 2-pt dunk at rim,,4,101,94,7,2560.0
+5:20.0,New York full timeout,94-101, ,,4,101,94,7,2560.0
+5:20.0, ,94-101,C. Capela enters the game for S. Bey,,4,101,94,7,2560.0
+5:20.0, ,94-101,J. Johnson enters the game for B. Bogdanović,,4,101,94,7,2560.0
+5:20.0, ,94-101,T. Young enters the game for O. Okongwu,,4,101,94,7,2560.0
+5:07.0,I. Quickley makes 3-pt jump shot from 26 ft (assist by J. Randle),97-101, ,,4,101,97,4,2573.0
+4:50.0, ,97-101,D. Hunter misses 2-pt jump shot from 14 ft,,4,101,97,4,2590.0
+4:46.0,Defensive rebound by J. Hart,97-101, ,,4,101,97,4,2594.0
+4:33.0,I. Quickley makes 2-pt jump shot from 8 ft (assist by J. Randle),99-101, ,,4,101,99,2,2607.0
+4:14.0, ,99-101,Turnover by D. Murray (bad pass; steal by M. Robinson),,4,101,99,2,2626.0
+4:00.0,J. Randle misses 2-pt layup from 2 ft,99-101, ,,4,101,99,2,2640.0
+3:56.0,Offensive rebound by M. Robinson,99-101, ,,4,101,99,2,2644.0
+3:54.0,J. Brunson makes 3-pt jump shot from 26 ft (assist by J. Hart),102-101, ,Lead change,4,101,102,-1,2646.0
+3:51.0, ,102-101,Atlanta full timeout,,4,101,102,-1,2649.0
+3:40.0, ,102-103,T. Young makes 2-pt layup from 1 ft,Lead change,4,103,102,1,2660.0
+3:17.0,Personal foul by D. Murray (drawn by I. Quickley),102-103, ,,4,103,102,1,2683.0
+3:17.0,I. Quickley misses free throw 1 of 2,102-103, ,,4,103,102,1,2683.0
+3:17.0,Offensive rebound by Team,102-103, ,,4,103,102,1,2683.0
+3:17.0,I. Quickley makes free throw 2 of 2,103-103, ,Tie,4,103,103,0,2683.0
+3:01.0, ,103-105,D. Murray makes 2-pt jump shot from 16 ft (assist by T. Young),,4,105,103,2,2699.0
+2:38.0,Shooting foul by J. Johnson (drawn by I. Quickley),103-105, ,,4,105,103,2,2722.0
+2:38.0,I. Quickley makes free throw 1 of 2,104-105, ,,4,105,104,1,2722.0
+2:38.0,I. Quickley makes free throw 2 of 2,105-105, ,Tie,4,105,105,0,2722.0
+2:23.0, ,105-107,D. Murray makes 2-pt jump shot from 17 ft,,4,107,105,2,2737.0
+2:01.0,J. Brunson makes 3-pt jump shot from 23 ft (assist by J. Randle),108-107, ,Lead change,4,107,108,-1,2759.0
+1:51.0, ,108-107,D. Murray misses 2-pt layup from 3 ft,,4,107,108,-1,2769.0
+1:49.0,Defensive rebound by M. Robinson,108-107, ,,4,107,108,-1,2771.0
+1:26.0,J. Hart makes 2-pt jump shot from 4 ft (assist by J. Brunson),110-107, ,,4,107,110,-3,2794.0
+1:20.0, ,110-107,Personal foul by J. Hart (drawn by J. Johnson),,4,107,110,-3,2800.0
+1:13.0, ,110-107,Shooting foul by I. Quickley (drawn by T. Young),,4,107,110,-3,2807.0
+1:13.0,New York full timeout,110-107, ,,4,107,110,-3,2807.0
+1:13.0,Instant Replay (Challenge: Ruling Stands),110-107, ,,4,107,110,-3,2807.0
+1:13.0, ,110-108,T. Young makes free throw 1 of 3,,4,108,110,-2,2807.0
+1:13.0, ,110-109,T. Young makes free throw 2 of 3,,4,109,110,-1,2807.0
+1:13.0, ,110-110,T. Young makes free throw 3 of 3,Tie,4,110,110,0,2807.0
+0:54.0,J. Randle misses 2-pt jump shot from 12 ft,110-110, ,,4,110,110,0,2826.0
+0:50.0,Offensive rebound by J. Hart,110-110, ,,4,110,110,0,2830.0
+0:43.0,J. Randle makes 2-pt layup at rim (assist by J. Brunson),112-110, ,,4,110,112,-2,2837.0
+0:34.0, ,112-110,Shooting foul by J. Randle (drawn by T. Young),,4,110,112,-2,2846.0
+0:34.0, ,112-111,T. Young makes free throw 1 of 2,,4,111,112,-1,2846.0
+0:34.0, ,112-111,T. Young misses free throw 2 of 2,,4,111,112,-1,2846.0
+0:32.0,Defensive rebound by J. Randle,112-111, ,,4,111,112,-1,2848.0
+0:19.0,J. Brunson makes 2-pt jump shot from 17 ft,114-111, ,,4,111,114,-3,2861.0
+0:18.0, ,114-111,Atlanta full timeout,,4,111,114,-3,2862.0
+0:18.0, ,114-111,B. Bogdanović enters the game for J. Johnson,,4,111,114,-3,2862.0
+0:15.0, ,114-113,D. Murray makes 2-pt layup from 3 ft (assist by T. Young),,4,113,114,-1,2865.0
+0:08.0,Personal take foul by B. Bogdanović (drawn by I. Quickley),114-113, ,,4,113,114,-1,2872.0
+0:08.0,I. Quickley makes free throw 1 of 2,115-113, ,,4,113,115,-2,2872.0
+0:08.0, ,115-113,J. Johnson enters the game for B. Bogdanović,,4,113,115,-2,2872.0
+0:08.0, ,115-113,O. Okongwu enters the game for T. Young,,4,113,115,-2,2872.0
+0:08.0,I. Quickley makes free throw 2 of 2,116-113, ,,4,113,116,-3,2872.0
+0:08.0, ,116-113,Atlanta full timeout,,4,113,116,-3,2872.0
+0:08.0, ,116-113,B. Bogdanović enters the game for D. Hunter,,4,113,116,-3,2872.0
+0:08.0, ,116-113,T. Young enters the game for O. Okongwu,,4,113,116,-3,2872.0
+0:07.0, ,116-113,B. Bogdanović misses 3-pt jump shot from 30 ft,,4,113,116,-3,2873.0
+0:04.0,Defensive rebound by Team,116-113, ,,4,113,116,-3,2876.0
+0:04.0,New York full timeout,116-113, ,,4,113,116,-3,2876.0
+0:04.0,D. DiVincenzo enters the game for M. Robinson,116-113, ,,4,113,116,-3,2876.0
+0:04.0, ,116-113,S. Bey enters the game for B. Bogdanović,,4,113,116,-3,2876.0
+0:04.0, ,116-113,D. Hunter enters the game for C. Capela,,4,113,116,-3,2876.0
+0:04.0,Turnover by  (5 sec),116-113, ,,4,113,116,-3,2876.0
+0:03.0, ,116-113,Personal take foul by J. Brunson (drawn by D. Murray),,4,113,116,-3,2877.0
+0:03.0, ,116-114,D. Murray makes free throw 1 of 2,,4,114,116,-2,2877.0
+0:03.0,M. Robinson enters the game for D. DiVincenzo,116-114, ,,4,114,116,-2,2877.0
+0:03.0, ,116-114,O. Okongwu enters the game for S. Bey,,4,114,116,-2,2877.0
+0:03.0, ,116-114,D. Murray misses free throw 2 of 2,,4,114,116,-2,2877.0
+0:03.0,Defensive rebound by Team,116-114, ,,4,114,116,-2,2877.0
+0:00.0,End of 4th quarter,116-114,,,4,114,116,-2,2880.0

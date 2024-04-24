@@ -1,0 +1,562 @@
+Time,Philadelphia,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: P. Reed vs. O. Okongwu (T. Young gains possession),0-0,,,1,0,0,0,0.0
+11:44.0, ,0-2,O. Okongwu makes 2-pt layup from 2 ft (assist by T. Young),,1,2,0,2,16.0
+11:44.0, ,0-2,Shooting foul by P. Reed (drawn by O. Okongwu),,1,2,0,2,16.0
+11:44.0, ,0-3,O. Okongwu makes free throw 1 of 1,,1,3,0,3,16.0
+11:25.0,T. Harris misses 2-pt jump shot from 18 ft,0-3, ,,1,3,0,3,35.0
+11:22.0, ,0-3,Defensive rebound by D. Murray,,1,3,0,3,38.0
+11:15.0, ,0-5,D. Murray makes 2-pt jump shot from 11 ft,,1,5,0,5,45.0
+11:01.0,D. Melton makes 3-pt jump shot from 24 ft (assist by T. Harris),3-5, ,,1,5,3,2,59.0
+10:46.0, ,3-5,D. Murray misses 2-pt jump shot from 5 ft,,1,5,3,2,74.0
+10:44.0,Defensive rebound by P. Reed,3-5, ,,1,5,3,2,76.0
+10:34.0,T. Harris misses 2-pt layup from 1 ft,3-5, ,,1,5,3,2,86.0
+10:32.0, ,3-5,Defensive rebound by O. Okongwu,,1,5,3,2,88.0
+10:27.0, ,3-5,Shooting foul by N. Batum (drawn by O. Okongwu),,1,5,3,2,93.0
+10:27.0, ,3-6,O. Okongwu makes free throw 1 of 2,,1,6,3,3,93.0
+10:27.0, ,3-7,O. Okongwu makes free throw 2 of 2,,1,7,3,4,93.0
+10:12.0,P. Reed misses 2-pt jump shot from 15 ft,3-7, ,,1,7,3,4,108.0
+10:10.0, ,3-7,Defensive rebound by J. Johnson,,1,7,3,4,110.0
+9:54.0, ,3-7,T. Young misses 2-pt jump shot from 12 ft,,1,7,3,4,126.0
+9:51.0,Defensive rebound by P. Reed,3-7, ,,1,7,3,4,129.0
+9:43.0,P. Reed makes 2-pt layup from 1 ft (assist by D. Melton),5-7, ,,1,7,5,2,137.0
+9:43.0,Shooting foul by O. Okongwu (drawn by P. Reed),5-7, ,,1,7,5,2,137.0
+9:43.0,P. Reed makes free throw 1 of 1,6-7, ,,1,7,6,1,137.0
+9:33.0, ,6-7,J. Johnson misses 2-pt jump shot from 6 ft,,1,7,6,1,147.0
+9:31.0,Defensive rebound by P. Reed,6-7, ,,1,7,6,1,149.0
+9:25.0,T. Maxey makes 3-pt jump shot from 25 ft,9-7, ,Lead change,1,7,9,-2,155.0
+9:11.0, ,9-7,S. Bey misses 2-pt layup from 2 ft,,1,7,9,-2,169.0
+9:08.0,Defensive rebound by P. Reed,9-7, ,,1,7,9,-2,172.0
+9:05.0,Shooting foul by D. Murray (drawn by N. Batum),9-7, ,,1,7,9,-2,175.0
+9:05.0,N. Batum misses free throw 1 of 2,9-7, ,,1,7,9,-2,175.0
+9:05.0,Offensive rebound by Team,9-7, ,,1,7,9,-2,175.0
+9:05.0,N. Batum makes free throw 2 of 2,10-7, ,,1,7,10,-3,175.0
+8:50.0, ,10-9,O. Okongwu makes 2-pt layup from 1 ft (assist by T. Young),,1,9,10,-1,190.0
+8:41.0,T. Harris makes 3-pt jump shot from 26 ft (assist by T. Maxey),13-9, ,,1,9,13,-4,199.0
+8:25.0, ,13-11,S. Bey makes 2-pt dunk from 1 ft (assist by D. Murray),,1,11,13,-2,215.0
+8:12.0,P. Reed makes 2-pt layup at rim (assist by T. Maxey),15-11, ,,1,11,15,-4,228.0
+7:53.0, ,15-13,O. Okongwu makes 2-pt layup from 2 ft (assist by T. Young),,1,13,15,-2,247.0
+7:43.0,D. Melton misses 3-pt jump shot from 24 ft,15-13, ,,1,13,15,-2,257.0
+7:41.0, ,15-13,Defensive rebound by J. Johnson,,1,13,15,-2,259.0
+7:34.0, ,15-13,S. Bey misses 3-pt jump shot from 24 ft,,1,13,15,-2,266.0
+7:31.0, ,15-13,Offensive rebound by O. Okongwu,,1,13,15,-2,269.0
+7:22.0, ,15-16,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Young),Lead change,1,16,15,1,278.0
+7:01.0,D. Melton makes 2-pt jump shot from 4 ft,17-16, ,Lead change,1,16,17,-1,299.0
+6:53.0, ,17-16,D. Murray misses 2-pt layup from 2 ft,,1,16,17,-1,307.0
+6:51.0,Defensive rebound by T. Harris,17-16, ,,1,16,17,-1,309.0
+6:47.0,Turnover by T. Harris (out of bounds lost ball),17-16, ,,1,16,17,-1,313.0
+6:47.0, ,17-16,Atlanta full timeout,,1,16,17,-1,313.0
+6:47.0,K. Oubre enters the game for D. Melton,17-16, ,,1,16,17,-1,313.0
+6:47.0, ,17-16,B. Bogdanović enters the game for J. Johnson,,1,16,17,-1,313.0
+6:47.0, ,17-16,T. Forrest enters the game for T. Young,,1,16,17,-1,313.0
+6:35.0, ,17-16,Shooting foul by P. Reed (drawn by O. Okongwu),,1,16,17,-1,325.0
+6:35.0, ,17-17,O. Okongwu makes free throw 1 of 2,Tie,1,17,17,0,325.0
+6:35.0,M. Bamba enters the game for P. Reed,17-17, ,,1,17,17,0,325.0
+6:35.0, ,17-18,O. Okongwu makes free throw 2 of 2,Lead change,1,18,17,1,325.0
+6:17.0,K. Oubre makes 2-pt jump shot from 13 ft,19-18, ,Lead change,1,18,19,-1,343.0
+5:57.0, ,19-18,S. Bey misses 3-pt jump shot from 23 ft,,1,18,19,-1,363.0
+5:54.0,Defensive rebound by T. Maxey,19-18, ,,1,18,19,-1,366.0
+5:49.0,T. Maxey makes 2-pt jump shot from 14 ft,21-18, ,,1,18,21,-3,371.0
+5:49.0,Shooting foul by T. Forrest (drawn by T. Maxey),21-18, ,,1,18,21,-3,371.0
+5:49.0,T. Maxey makes free throw 1 of 1,22-18, ,,1,18,22,-4,371.0
+5:33.0, ,22-18,B. Bogdanović misses 2-pt layup from 3 ft (block by M. Bamba),,1,18,22,-4,387.0
+5:31.0, ,22-18,Offensive rebound by Team,,1,18,22,-4,389.0
+5:27.0, ,22-18,D. Murray misses 3-pt jump shot from 23 ft,,1,18,22,-4,393.0
+5:24.0,Defensive rebound by T. Maxey,22-18, ,,1,18,22,-4,396.0
+5:13.0,M. Bamba misses 3-pt jump shot from 25 ft,22-18, ,,1,18,22,-4,407.0
+5:09.0, ,22-18,Defensive rebound by O. Okongwu,,1,18,22,-4,411.0
+5:00.0, ,22-18,B. Bogdanović misses 3-pt jump shot from 26 ft,,1,18,22,-4,420.0
+4:57.0,Defensive rebound by T. Harris,22-18, ,,1,18,22,-4,423.0
+4:49.0,T. Harris misses 2-pt jump shot from 5 ft,22-18, ,,1,18,22,-4,431.0
+4:45.0,Offensive rebound by M. Bamba,22-18, ,,1,18,22,-4,435.0
+4:45.0,M. Bamba makes 2-pt layup at rim,24-18, ,,1,18,24,-6,435.0
+4:37.0, ,24-18,D. Murray misses 2-pt layup from 2 ft,,1,18,24,-6,443.0
+4:36.0, ,24-18,Offensive rebound by O. Okongwu,,1,18,24,-6,444.0
+4:36.0, ,24-18,O. Okongwu misses 2-pt layup at rim,,1,18,24,-6,444.0
+4:35.0, ,24-18,Offensive rebound by S. Bey,,1,18,24,-6,445.0
+4:35.0, ,24-20,S. Bey makes 2-pt layup at rim,,1,20,24,-4,445.0
+4:35.0, ,24-20,Shooting foul by M. Bamba (drawn by S. Bey),,1,20,24,-4,445.0
+4:35.0,P. Beverley enters the game for N. Batum,24-20, ,,1,20,24,-4,445.0
+4:35.0, ,24-20,B. Fernando enters the game for O. Okongwu,,1,20,24,-4,445.0
+4:35.0, ,24-21,S. Bey makes free throw 1 of 1,,1,21,24,-3,445.0
+4:24.0,T. Maxey misses 2-pt jump shot from 16 ft,24-21, ,,1,21,24,-3,456.0
+4:21.0, ,24-21,Defensive rebound by T. Forrest,,1,21,24,-3,459.0
+4:15.0, ,24-23,T. Forrest makes 2-pt jump shot from 10 ft,,1,23,24,-1,465.0
+3:58.0,K. Oubre misses 2-pt jump shot from 10 ft,24-23, ,,1,23,24,-1,482.0
+3:55.0,Offensive rebound by M. Bamba,24-23, ,,1,23,24,-1,485.0
+3:55.0,M. Bamba misses 2-pt layup from 6 ft,24-23, ,,1,23,24,-1,485.0
+3:54.0, ,24-23,Defensive rebound by T. Forrest,,1,23,24,-1,486.0
+3:49.0, ,24-23,Shooting foul by M. Bamba (drawn by B. Fernando),,1,23,24,-1,491.0
+3:49.0, ,24-24,B. Fernando makes free throw 1 of 2,Tie,1,24,24,0,491.0
+3:49.0,M. Morris enters the game for T. Harris,24-24, ,,1,24,24,0,491.0
+3:49.0, ,24-24,J. Johnson enters the game for S. Bey,,1,24,24,0,491.0
+3:49.0, ,24-24,P. Mills enters the game for T. Forrest,,1,24,24,0,491.0
+3:49.0, ,24-24,T. Young enters the game for D. Murray,,1,24,24,0,491.0
+3:49.0, ,24-24,B. Fernando misses free throw 2 of 2,,1,24,24,0,491.0
+3:47.0,Defensive rebound by M. Bamba,24-24, ,,1,24,24,0,493.0
+3:34.0,Turnover by T. Maxey (lost ball; steal by B. Bogdanović),24-24, ,,1,24,24,0,506.0
+3:30.0, ,24-26,B. Bogdanović makes 2-pt dunk from 1 ft,Lead change,1,26,24,2,510.0
+3:27.0,Philadelphia full timeout,24-26, ,,1,26,24,2,513.0
+3:14.0,Turnover by T. Maxey (bad pass; steal by B. Bogdanović),24-26, ,,1,26,24,2,526.0
+3:11.0, ,24-26,Shooting foul by T. Maxey (drawn by B. Fernando),,1,26,24,2,529.0
+3:11.0, ,24-26,B. Fernando misses free throw 1 of 2,,1,26,24,2,529.0
+3:11.0, ,24-26,Offensive rebound by Team,,1,26,24,2,529.0
+3:11.0,K. Martin enters the game for M. Bamba,24-26, ,,1,26,24,2,529.0
+3:11.0,J. Springer enters the game for T. Maxey,24-26, ,,1,26,24,2,529.0
+3:11.0, ,24-26,B. Fernando misses free throw 2 of 2,,1,26,24,2,529.0
+3:08.0,Defensive rebound by M. Morris,24-26, ,,1,26,24,2,532.0
+2:54.0,K. Oubre misses 3-pt jump shot from 24 ft,24-26, ,,1,26,24,2,546.0
+2:52.0,Offensive rebound by P. Beverley,24-26, ,,1,26,24,2,548.0
+2:42.0,P. Beverley makes 2-pt jump shot from 6 ft,26-26, ,Tie,1,26,26,0,558.0
+2:23.0, ,26-28,T. Young makes 2-pt jump shot from 14 ft (assist by J. Johnson),,1,28,26,2,577.0
+2:09.0,M. Morris misses 3-pt jump shot from 25 ft,26-28, ,,1,28,26,2,591.0
+2:05.0, ,26-28,Defensive rebound by J. Johnson,,1,28,26,2,595.0
+2:00.0, ,26-30,B. Bogdanović makes 2-pt layup from 1 ft (assist by J. Johnson),,1,30,26,4,600.0
+1:44.0,Shooting foul by P. Mills (drawn by K. Oubre),26-30, ,,1,30,26,4,616.0
+1:44.0,K. Oubre misses free throw 1 of 2,26-30, ,,1,30,26,4,616.0
+1:44.0,Offensive rebound by Team,26-30, ,,1,30,26,4,616.0
+1:44.0,K. Oubre makes free throw 2 of 2,27-30, ,,1,30,27,3,616.0
+1:26.0, ,27-30,B. Bogdanović misses 2-pt layup from 2 ft,,1,30,27,3,634.0
+1:23.0, ,27-30,Offensive rebound by B. Fernando,,1,30,27,3,637.0
+1:22.0, ,27-30,Turnover by B. Fernando (lost ball; steal by J. Springer),,1,30,27,3,638.0
+1:18.0,Turnover by K. Martin (bad pass),27-30, ,,1,30,27,3,642.0
+1:08.0, ,27-30,Personal foul by K. Martin (drawn by T. Young),,1,30,27,3,652.0
+1:08.0, ,27-31,T. Young makes free throw 1 of 2,,1,31,27,4,652.0
+1:08.0, ,27-32,T. Young makes free throw 2 of 2,,1,32,27,5,652.0
+0:50.0,Personal foul by P. Mills (drawn by M. Morris),27-32, ,,1,32,27,5,670.0
+0:50.0,M. Morris makes free throw 1 of 2,28-32, ,,1,32,28,4,670.0
+0:50.0,M. Morris makes free throw 2 of 2,29-32, ,,1,32,29,3,670.0
+0:40.0, ,29-32,T. Young misses 2-pt jump shot from 13 ft,,1,32,29,3,680.0
+0:37.0, ,29-32,Offensive rebound by B. Fernando,,1,32,29,3,683.0
+0:37.0, ,29-34,B. Fernando makes 2-pt layup at rim,,1,34,29,5,683.0
+0:27.0,Shooting foul by B. Fernando (drawn by P. Beverley),29-34, ,,1,34,29,5,693.0
+0:27.0,P. Beverley makes free throw 1 of 2,30-34, ,,1,34,30,4,693.0
+0:27.0,P. Beverley makes free throw 2 of 2,31-34, ,,1,34,31,3,693.0
+0:05.0, ,31-34,B. Fernando misses 2-pt layup from 2 ft,,1,34,31,3,715.0
+0:03.0, ,31-34,Offensive rebound by J. Johnson,,1,34,31,3,717.0
+0:03.0, ,31-34,Turnover by Team (shot clock),,1,34,31,3,717.0
+0:03.0,T. Harris enters the game for P. Beverley,31-34, ,,1,34,31,3,717.0
+0:03.0,T. Maxey enters the game for K. Martin,31-34, ,,1,34,31,3,717.0
+0:03.0,D. Melton enters the game for J. Springer,31-34, ,,1,34,31,3,717.0
+0:00.0,T. Maxey misses 3-pt jump shot from 23 ft,31-34, ,,1,34,31,3,720.0
+0:00.0,Offensive rebound by Team,31-34, ,,1,34,31,3,720.0
+0:00.0,End of 1st quarter,31-34,,,1,34,31,3,720.0
+12:00.0,Start of 2nd quarter,31-34,,,2,34,31,3,720.0
+11:49.0,K. Oubre misses 2-pt layup from 1 ft (block by B. Fernando),31-34, ,,2,34,31,3,731.0
+11:45.0, ,31-34,Defensive rebound by J. Johnson,,2,34,31,3,735.0
+11:43.0, ,31-36,B. Bogdanović makes 2-pt jump shot from 22 ft (assist by J. Johnson),,2,36,31,5,737.0
+11:24.0,P. Beverley makes 2-pt hook shot from 10 ft,33-36, ,,2,36,33,3,756.0
+11:20.0, ,33-36,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,36,33,3,760.0
+11:19.0,Defensive rebound by P. Beverley,33-36, ,,2,36,33,3,761.0
+11:06.0,M. Morris makes 3-pt jump shot from 26 ft (assist by K. Oubre),36-36, ,Tie,2,36,36,0,774.0
+10:40.0, ,36-36,T. Young misses 3-pt jump shot from 22 ft,,2,36,36,0,800.0
+10:38.0,Defensive rebound by M. Morris,36-36, ,,2,36,36,0,802.0
+10:34.0,M. Morris makes 3-pt jump shot from 25 ft (assist by P. Beverley),39-36, ,Lead change,2,36,39,-3,806.0
+10:13.0, ,39-36,T. Young misses 3-pt jump shot from 26 ft,,2,36,39,-3,827.0
+10:10.0,Defensive rebound by P. Beverley,39-36, ,,2,36,39,-3,830.0
+10:06.0,M. Morris misses 3-pt jump shot from 26 ft,39-36, ,,2,36,39,-3,834.0
+10:03.0, ,39-36,Defensive rebound by B. Bogdanović,,2,36,39,-3,837.0
+9:52.0, ,39-38,J. Johnson makes 2-pt layup from 5 ft (assist by B. Bogdanović),,2,38,39,-1,848.0
+9:52.0, ,39-38,Shooting foul by J. Springer (drawn by J. Johnson),,2,38,39,-1,848.0
+9:52.0, ,39-39,J. Johnson makes free throw 1 of 1,Tie,2,39,39,0,848.0
+9:45.0,K. Oubre misses 3-pt jump shot from 26 ft,39-39, ,,2,39,39,0,855.0
+9:42.0, ,39-39,Defensive rebound by B. Fernando,,2,39,39,0,858.0
+9:35.0, ,39-39,Personal foul by P. Beverley (drawn by T. Young),,2,39,39,0,865.0
+9:35.0,T. Harris enters the game for P. Beverley,39-39, ,,2,39,39,0,865.0
+9:35.0,T. Maxey enters the game for K. Martin,39-39, ,,2,39,39,0,865.0
+9:35.0,D. Melton enters the game for K. Oubre,39-39, ,,2,39,39,0,865.0
+9:35.0, ,39-39,T. Forrest enters the game for P. Mills,,2,39,39,0,865.0
+9:24.0, ,39-39,T. Young misses 2-pt layup from 3 ft,,2,39,39,0,876.0
+9:23.0,Defensive rebound by Team,39-39, ,,2,39,39,0,877.0
+9:23.0, ,39-39,Loose ball foul by B. Fernando (drawn by T. Maxey),,2,39,39,0,877.0
+9:08.0,D. Melton misses 3-pt jump shot from 23 ft,39-39, ,,2,39,39,0,892.0
+9:06.0, ,39-39,Defensive rebound by B. Fernando,,2,39,39,0,894.0
+8:54.0, ,39-41,J. Johnson makes 2-pt dunk from 2 ft (assist by T. Young),Lead change,2,41,39,2,906.0
+8:40.0,T. Harris makes 2-pt jump shot from 12 ft,41-41, ,Tie,2,41,41,0,920.0
+8:19.0, ,41-41,Turnover by T. Young (bad pass; steal by T. Maxey),,2,41,41,0,941.0
+8:14.0,T. Harris makes 2-pt layup from 1 ft (assist by T. Maxey),43-41, ,Lead change,2,41,43,-2,946.0
+8:14.0, ,43-41,Atlanta full timeout,,2,41,43,-2,946.0
+8:14.0, ,43-41,S. Bey enters the game for B. Fernando,,2,41,43,-2,946.0
+8:14.0, ,43-41,D. Murray enters the game for J. Johnson,,2,41,43,-2,946.0
+8:14.0, ,43-41,O. Okongwu enters the game for T. Young,,2,41,43,-2,946.0
+7:55.0, ,43-41,Turnover by B. Bogdanović (out of bounds lost ball),,2,41,43,-2,965.0
+7:36.0,T. Harris makes 2-pt jump shot from 12 ft,45-41, ,,2,41,45,-4,984.0
+7:15.0, ,45-41,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,41,45,-4,1005.0
+7:11.0,Defensive rebound by T. Maxey,45-41, ,,2,41,45,-4,1009.0
+7:04.0,M. Morris makes 3-pt jump shot from 26 ft (assist by T. Maxey),48-41, ,,2,41,48,-7,1016.0
+6:50.0, ,48-43,B. Bogdanović makes 2-pt layup from 1 ft (assist by O. Okongwu),,2,43,48,-5,1030.0
+6:50.0, ,48-43,Shooting foul by J. Springer (drawn by B. Bogdanović),,2,43,48,-5,1030.0
+6:50.0,N. Batum enters the game for J. Springer,48-43, ,,2,43,48,-5,1030.0
+6:50.0, ,48-43,B. Bogdanović misses free throw 1 of 1,,2,43,48,-5,1030.0
+6:47.0,Defensive rebound by T. Maxey,48-43, ,,2,43,48,-5,1033.0
+6:35.0,D. Melton misses 2-pt jump shot from 19 ft,48-43, ,,2,43,48,-5,1045.0
+6:33.0, ,48-43,Defensive rebound by D. Murray,,2,43,48,-5,1047.0
+6:25.0, ,48-45,D. Murray makes 2-pt jump shot from 3 ft,,2,45,48,-3,1055.0
+6:09.0,T. Maxey misses 2-pt layup from 2 ft,48-45, ,,2,45,48,-3,1071.0
+6:06.0,Offensive rebound by N. Batum,48-45, ,,2,45,48,-3,1074.0
+6:06.0,N. Batum misses 2-pt layup at rim,48-45, ,,2,45,48,-3,1074.0
+6:05.0,Offensive rebound by M. Morris,48-45, ,,2,45,48,-3,1075.0
+6:04.0,M. Morris makes 2-pt jump shot from 13 ft,50-45, ,,2,45,50,-5,1076.0
+5:52.0, ,50-47,S. Bey makes 2-pt dunk from 1 ft (assist by T. Forrest),,2,47,50,-3,1088.0
+5:27.0,T. Maxey misses 3-pt jump shot from 29 ft,50-47, ,,2,47,50,-3,1113.0
+5:24.0, ,50-47,Defensive rebound by D. Murray,,2,47,50,-3,1116.0
+5:06.0, ,50-47,B. Bogdanović misses 3-pt jump shot from 28 ft,,2,47,50,-3,1134.0
+5:05.0, ,50-47,Offensive rebound by S. Bey,,2,47,50,-3,1135.0
+5:00.0, ,50-47,Turnover by D. Murray (discontinued dribble),,2,47,50,-3,1140.0
+5:00.0, ,50-47,J. Johnson enters the game for B. Bogdanović,,2,47,50,-3,1140.0
+5:00.0, ,50-47,T. Young enters the game for T. Forrest,,2,47,50,-3,1140.0
+5:00.0, ,50-47,Violation by Team (delay of game),,2,47,50,-3,1140.0
+4:42.0,T. Harris misses 2-pt jump shot from 9 ft,50-47, ,,2,47,50,-3,1158.0
+4:39.0,Offensive rebound by D. Melton,50-47, ,,2,47,50,-3,1161.0
+4:38.0,M. Morris misses 3-pt jump shot from 25 ft,50-47, ,,2,47,50,-3,1162.0
+4:34.0, ,50-47,Defensive rebound by J. Johnson,,2,47,50,-3,1166.0
+4:22.0, ,50-50,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Young),Tie,2,50,50,0,1178.0
+4:11.0,Shooting foul by D. Murray (drawn by T. Maxey),50-50, ,,2,50,50,0,1189.0
+4:11.0,T. Maxey makes free throw 1 of 2,51-50, ,,2,50,51,-1,1189.0
+4:11.0,K. Oubre enters the game for D. Melton,51-50, ,,2,50,51,-1,1189.0
+4:11.0,P. Reed enters the game for M. Morris,51-50, ,,2,50,51,-1,1189.0
+4:11.0,T. Maxey makes free throw 2 of 2,52-50, ,,2,50,52,-2,1189.0
+3:57.0, ,52-50,T. Young misses 3-pt jump shot from 24 ft,,2,50,52,-2,1203.0
+3:54.0,Defensive rebound by P. Reed,52-50, ,,2,50,52,-2,1206.0
+3:47.0,P. Reed makes 2-pt layup from 1 ft (assist by T. Maxey),54-50, ,,2,50,54,-4,1213.0
+3:35.0, ,54-52,S. Bey makes 2-pt layup from 2 ft (assist by J. Johnson),,2,52,54,-2,1225.0
+3:26.0,Offensive foul by N. Batum (drawn by J. Johnson),54-52, ,,2,52,54,-2,1234.0
+3:26.0,Turnover by N. Batum (offensive foul),54-52, ,,2,52,54,-2,1234.0
+3:06.0, ,54-55,D. Murray makes 3-pt jump shot from 26 ft (assist by T. Young),Lead change,2,55,54,1,1254.0
+2:54.0,K. Oubre misses 3-pt jump shot from 26 ft,54-55, ,,2,55,54,1,1266.0
+2:52.0, ,54-55,Defensive rebound by J. Johnson,,2,55,54,1,1268.0
+2:46.0, ,54-58,T. Young makes 3-pt jump shot from 26 ft (assist by J. Johnson),,2,58,54,4,1274.0
+2:44.0,Philadelphia full timeout,54-58, ,,2,58,54,4,1276.0
+2:23.0,P. Reed misses 3-pt jump shot from 24 ft,54-58, ,,2,58,54,4,1297.0
+2:20.0, ,54-58,Defensive rebound by J. Johnson,,2,58,54,4,1300.0
+2:08.0, ,54-58,Turnover by T. Young (bad pass; steal by P. Reed),,2,58,54,4,1312.0
+2:00.0,P. Reed misses 2-pt layup from 1 ft,54-58, ,,2,58,54,4,1320.0
+1:55.0, ,54-58,Defensive rebound by S. Bey,,2,58,54,4,1325.0
+1:48.0, ,54-58,D. Murray misses 2-pt layup from 2 ft,,2,58,54,4,1332.0
+1:45.0, ,54-58,Offensive rebound by O. Okongwu,,2,58,54,4,1335.0
+1:45.0, ,54-58,O. Okongwu misses 2-pt layup at rim,,2,58,54,4,1335.0
+1:44.0,Defensive rebound by P. Reed,54-58, ,,2,58,54,4,1336.0
+1:34.0,T. Harris misses 2-pt jump shot from 4 ft,54-58, ,,2,58,54,4,1346.0
+1:31.0, ,54-58,Defensive rebound by J. Johnson,,2,58,54,4,1349.0
+1:23.0, ,54-58,J. Johnson misses 2-pt jump shot from 11 ft (block by T. Harris),,2,58,54,4,1357.0
+1:19.0, ,54-58,Offensive rebound by S. Bey,,2,58,54,4,1361.0
+1:19.0, ,54-58,S. Bey misses 2-pt layup at rim (block by P. Reed),,2,58,54,4,1361.0
+1:18.0,Defensive rebound by K. Oubre,54-58, ,,2,58,54,4,1362.0
+1:17.0,Shooting foul by O. Okongwu (drawn by T. Harris),54-58, ,,2,58,54,4,1363.0
+1:17.0,T. Harris makes free throw 1 of 3,55-58, ,,2,58,55,3,1363.0
+1:17.0,T. Harris makes free throw 2 of 3,56-58, ,,2,58,56,2,1363.0
+1:17.0,M. Bamba enters the game for P. Reed,56-58, ,,2,58,56,2,1363.0
+1:17.0,T. Harris makes free throw 3 of 3,57-58, ,,2,58,57,1,1363.0
+1:10.0, ,57-58,T. Young misses 2-pt layup from 2 ft (block by M. Bamba),,2,58,57,1,1370.0
+1:05.0, ,57-58,Offensive rebound by O. Okongwu,,2,58,57,1,1375.0
+1:05.0, ,57-58,Turnover by O. Okongwu (bad pass; steal by K. Oubre),,2,58,57,1,1375.0
+1:03.0,Turnover by K. Oubre (bad pass),57-58, ,,2,58,57,1,1377.0
+0:54.0, ,57-58,Shooting foul by M. Bamba (drawn by S. Bey),,2,58,57,1,1386.0
+0:54.0, ,57-58,S. Bey misses free throw 1 of 2,,2,58,57,1,1386.0
+0:54.0, ,57-58,Offensive rebound by Team,,2,58,57,1,1386.0
+0:54.0, ,57-59,S. Bey makes free throw 2 of 2,,2,59,57,2,1386.0
+0:33.0,N. Batum makes 3-pt jump shot from 26 ft (assist by T. Maxey),60-59, ,Lead change,2,59,60,-1,1407.0
+0:27.0, ,60-59,Turnover by T. Young (traveling),,2,59,60,-1,1413.0
+0:27.0, ,60-59,Violation by Team (delay of game),,2,59,60,-1,1413.0
+0:27.0,T. Maxey makes technical free throw,61-59, ,,2,59,61,-2,1413.0
+0:27.0, ,61-59,Technical foul by T. Young,,2,59,61,-2,1413.0
+0:27.0,T. Maxey makes technical free throw,62-59, ,,2,59,62,-3,1413.0
+0:07.0,T. Maxey misses 2-pt layup from 1 ft,62-59, ,,2,59,62,-3,1433.0
+0:05.0, ,62-59,Defensive rebound by J. Johnson,,2,59,62,-3,1435.0
+0:03.0, ,62-59,Turnover by J. Johnson (bad pass; steal by M. Bamba),,2,59,62,-3,1437.0
+0:03.0,M. Bamba makes 2-pt dunk from 1 ft,64-59, ,,2,59,64,-5,1437.0
+0:00.0, ,64-61,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,2,61,64,-3,1440.0
+0:00.0, ,64-61,Instant Replay (Request: Ruling Stands),,2,61,64,-3,1440.0
+0:00.0,End of 2nd quarter,64-61,,,2,61,64,-3,1440.0
+12:00.0,Start of 3rd quarter,64-61,,,3,61,64,-3,1440.0
+11:38.0,T. Maxey misses 2-pt jump shot from 19 ft,64-61, ,,3,61,64,-3,1462.0
+11:34.0, ,64-61,Defensive rebound by S. Bey,,3,61,64,-3,1466.0
+11:21.0, ,64-61,Def 3 sec tech foul by Team,,3,61,64,-3,1479.0
+11:21.0, ,64-62,T. Young makes technical free throw,,3,62,64,-2,1479.0
+11:16.0, ,64-62,Turnover by S. Bey (lost ball; steal by T. Maxey),,3,62,64,-2,1484.0
+11:09.0,T. Maxey makes 2-pt layup from 2 ft,66-62, ,,3,62,66,-4,1491.0
+11:09.0,Shooting foul by J. Johnson (drawn by T. Maxey),66-62, ,,3,62,66,-4,1491.0
+11:09.0,T. Maxey misses free throw 1 of 1,66-62, ,,3,62,66,-4,1491.0
+11:07.0, ,66-62,Defensive rebound by S. Bey,,3,62,66,-4,1493.0
+10:51.0, ,66-64,J. Johnson makes 2-pt jump shot from 8 ft,,3,64,66,-2,1509.0
+10:39.0,Shooting foul by O. Okongwu (drawn by T. Harris),66-64, ,,3,64,66,-2,1521.0
+10:39.0,T. Harris makes free throw 1 of 2,67-64, ,,3,64,67,-3,1521.0
+10:39.0,T. Harris makes free throw 2 of 2,68-64, ,,3,64,68,-4,1521.0
+10:31.0, ,68-64,Offensive foul by T. Young (drawn by N. Batum),,3,64,68,-4,1529.0
+10:31.0, ,68-64,Turnover by T. Young (offensive foul),,3,64,68,-4,1529.0
+10:20.0,T. Harris misses 2-pt layup from 3 ft (block by J. Johnson),68-64, ,,3,64,68,-4,1540.0
+10:18.0, ,68-64,Defensive rebound by J. Johnson,,3,64,68,-4,1542.0
+10:18.0,Technical foul by T. Harris,68-64, ,,3,64,68,-4,1542.0
+10:18.0, ,68-65,T. Young makes technical free throw,,3,65,68,-3,1542.0
+10:02.0, ,68-65,S. Bey misses 3-pt jump shot from 23 ft,,3,65,68,-3,1558.0
+10:00.0,Defensive rebound by P. Reed,68-65, ,,3,65,68,-3,1560.0
+9:56.0,D. Melton makes 3-pt jump shot from 26 ft,71-65, ,,3,65,71,-6,1564.0
+9:38.0, ,71-68,J. Johnson makes 3-pt jump shot from 26 ft (assist by D. Murray),,3,68,71,-3,1582.0
+9:24.0,D. Melton misses 2-pt jump shot from 22 ft,71-68, ,,3,68,71,-3,1596.0
+9:22.0, ,71-68,Defensive rebound by S. Bey,,3,68,71,-3,1598.0
+9:16.0, ,71-68,T. Young misses 3-pt jump shot from 25 ft,,3,68,71,-3,1604.0
+9:15.0,Defensive rebound by Team,71-68, ,,3,68,71,-3,1605.0
+9:14.0,Personal foul by T. Young (drawn by D. Melton),71-68, ,,3,68,71,-3,1606.0
+9:14.0,T. Maxey misses free throw 1 of 1,71-68, ,,3,68,71,-3,1606.0
+9:14.0,Offensive rebound by Team,71-68, ,,3,68,71,-3,1606.0
+9:01.0,P. Reed makes 2-pt hook shot from 6 ft (assist by T. Maxey),73-68, ,,3,68,73,-5,1619.0
+8:52.0, ,73-68,Shooting foul by T. Maxey (drawn by T. Young),,3,68,73,-5,1628.0
+8:52.0, ,73-69,T. Young makes free throw 1 of 2,,3,69,73,-4,1628.0
+8:52.0, ,73-70,T. Young makes free throw 2 of 2,,3,70,73,-3,1628.0
+8:43.0,Personal foul by S. Bey (drawn by N. Batum),73-70, ,,3,70,73,-3,1637.0
+8:31.0,Turnover by D. Melton (bad pass; steal by D. Murray),73-70, ,,3,70,73,-3,1649.0
+8:10.0, ,73-73,D. Murray makes 3-pt jump shot from 25 ft (assist by J. Johnson),Tie,3,73,73,0,1670.0
+7:55.0,T. Harris makes 2-pt layup from 2 ft (assist by T. Maxey),75-73, ,,3,73,75,-2,1685.0
+7:33.0, ,75-73,O. Okongwu misses 2-pt layup from 3 ft (block by N. Batum),,3,73,75,-2,1707.0
+7:31.0, ,75-73,Offensive rebound by S. Bey,,3,73,75,-2,1709.0
+7:29.0, ,75-73,S. Bey misses 2-pt jump shot from 5 ft (block by N. Batum),,3,73,75,-2,1711.0
+7:28.0,Defensive rebound by D. Melton,75-73, ,,3,73,75,-2,1712.0
+7:28.0, ,75-73,Atlanta full timeout,,3,73,75,-2,1712.0
+7:28.0, ,75-73,Instant Replay (Challenge: Ruling Stands),,3,73,75,-2,1712.0
+7:28.0,T. Maxey makes 2-pt layup from 2 ft,77-73, ,,3,73,77,-4,1712.0
+7:28.0, ,77-73,Violation by Team (def goaltending),,3,73,77,-4,1712.0
+7:11.0, ,77-75,J. Johnson makes 2-pt layup at rim (assist by D. Murray),,3,75,77,-2,1729.0
+6:51.0,T. Harris makes 2-pt layup from 1 ft (assist by P. Reed),79-75, ,,3,75,79,-4,1749.0
+6:39.0, ,79-75,T. Young misses 2-pt layup from 3 ft (block by P. Reed),,3,75,79,-4,1761.0
+6:39.0, ,79-75,Offensive rebound by Team,,3,75,79,-4,1761.0
+6:39.0,K. Oubre enters the game for D. Melton,79-75, ,,3,75,79,-4,1761.0
+6:39.0, ,79-75,B. Bogdanović enters the game for J. Johnson,,3,75,79,-4,1761.0
+6:39.0, ,79-75,T. Forrest enters the game for T. Young,,3,75,79,-4,1761.0
+6:27.0, ,79-75,S. Bey misses 2-pt jump shot from 19 ft,,3,75,79,-4,1773.0
+6:24.0,Defensive rebound by T. Harris,79-75, ,,3,75,79,-4,1776.0
+6:15.0,N. Batum makes 2-pt layup from 1 ft (assist by P. Reed),81-75, ,,3,75,81,-6,1785.0
+5:58.0, ,81-75,B. Bogdanović misses 3-pt jump shot from 27 ft,,3,75,81,-6,1802.0
+5:55.0,Defensive rebound by P. Reed,81-75, ,,3,75,81,-6,1805.0
+5:46.0,T. Maxey makes 2-pt layup from 1 ft (assist by T. Harris),83-75, ,,3,75,83,-8,1814.0
+5:25.0, ,83-78,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Forrest),,3,78,83,-5,1835.0
+5:25.0, ,83-78,Shooting foul by K. Oubre (drawn by D. Murray),,3,78,83,-5,1835.0
+5:25.0, ,83-79,D. Murray makes free throw 1 of 1,,3,79,83,-4,1835.0
+5:14.0,T. Maxey misses 3-pt jump shot from 25 ft,83-79, ,,3,79,83,-4,1846.0
+5:11.0,Offensive rebound by P. Reed,83-79, ,,3,79,83,-4,1849.0
+5:06.0,K. Oubre makes 2-pt dunk from 2 ft (assist by T. Maxey),85-79, ,,3,79,85,-6,1854.0
+4:50.0, ,85-81,D. Murray makes 2-pt layup from 1 ft,,3,81,85,-4,1870.0
+4:50.0, ,85-81,Shooting foul by N. Batum (drawn by D. Murray),,3,81,85,-4,1870.0
+4:50.0, ,85-81,B. Fernando enters the game for O. Okongwu,,3,81,85,-4,1870.0
+4:50.0, ,85-82,D. Murray makes free throw 1 of 1,,3,82,85,-3,1870.0
+4:33.0,T. Harris makes 2-pt layup from 1 ft,87-82, ,,3,82,87,-5,1887.0
+4:21.0, ,87-84,B. Fernando makes 2-pt dunk from 1 ft (assist by B. Bogdanović),,3,84,87,-3,1899.0
+4:05.0,T. Maxey makes 3-pt jump shot from 23 ft (assist by T. Harris),90-84, ,,3,84,90,-6,1915.0
+3:51.0, ,90-84,Shooting foul by T. Harris (drawn by B. Fernando),,3,84,90,-6,1929.0
+3:51.0, ,90-84,B. Fernando misses free throw 1 of 2,,3,84,90,-6,1929.0
+3:51.0, ,90-84,Offensive rebound by Team,,3,84,90,-6,1929.0
+3:51.0,M. Bamba enters the game for N. Batum,90-84, ,,3,84,90,-6,1929.0
+3:51.0,P. Beverley enters the game for P. Reed,90-84, ,,3,84,90,-6,1929.0
+3:51.0, ,90-84,B. Fernando misses free throw 2 of 2,,3,84,90,-6,1929.0
+3:49.0,Defensive rebound by K. Oubre,90-84, ,,3,84,90,-6,1931.0
+3:27.0,T. Harris misses 2-pt jump shot from 11 ft,90-84, ,,3,84,90,-6,1953.0
+3:23.0, ,90-84,Defensive rebound by B. Fernando,,3,84,90,-6,1957.0
+3:16.0, ,90-86,B. Fernando makes 2-pt layup from 1 ft (assist by T. Forrest),,3,86,90,-4,1964.0
+3:16.0, ,90-86,Shooting foul by P. Beverley (drawn by B. Fernando),,3,86,90,-4,1964.0
+3:16.0,M. Morris enters the game for T. Harris,90-86, ,,3,86,90,-4,1964.0
+3:16.0, ,90-86,J. Johnson enters the game for S. Bey,,3,86,90,-4,1964.0
+3:16.0, ,90-86,T. Young enters the game for D. Murray,,3,86,90,-4,1964.0
+3:16.0, ,90-86,B. Fernando misses free throw 1 of 1,,3,86,90,-4,1964.0
+3:12.0,Defensive rebound by M. Bamba,90-86, ,,3,86,90,-4,1968.0
+3:02.0,K. Oubre misses 2-pt layup from 1 ft (block by B. Fernando),90-86, ,,3,86,90,-4,1978.0
+3:01.0,Offensive rebound by Team,90-86, ,,3,86,90,-4,1979.0
+2:57.0,P. Beverley makes 3-pt jump shot from 23 ft (assist by K. Oubre),93-86, ,,3,86,93,-7,1983.0
+2:48.0, ,93-86,Shooting foul by K. Oubre (drawn by T. Young),,3,86,93,-7,1992.0
+2:48.0,Philadelphia full timeout,93-86, ,,3,86,93,-7,1992.0
+2:48.0,J. Springer enters the game for T. Maxey,93-86, ,,3,86,93,-7,1992.0
+2:48.0, ,93-87,T. Young makes free throw 1 of 2,,3,87,93,-6,1992.0
+2:48.0, ,93-88,T. Young makes free throw 2 of 2,,3,88,93,-5,1992.0
+2:25.0,M. Morris misses 3-pt jump shot from 25 ft,93-88, ,,3,88,93,-5,2015.0
+2:24.0,Offensive rebound by Team,93-88, ,,3,88,93,-5,2016.0
+2:24.0, ,93-88,Loose ball foul by T. Forrest (drawn by M. Bamba),,3,88,93,-5,2016.0
+2:24.0,M. Bamba misses free throw 1 of 2,93-88, ,,3,88,93,-5,2016.0
+2:24.0,M. Bamba makes free throw 2 of 2,94-88, ,,3,88,94,-6,2016.0
+2:11.0, ,94-90,T. Young makes 2-pt layup from 2 ft,,3,90,94,-4,2029.0
+1:52.0,Turnover by P. Beverley (bad pass; steal by T. Young),94-90, ,,3,90,94,-4,2048.0
+1:35.0, ,94-93,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by J. Johnson),,3,93,94,-1,2065.0
+1:14.0,Shooting foul by J. Johnson (drawn by M. Morris),94-93, ,,3,93,94,-1,2086.0
+1:14.0,M. Morris makes free throw 1 of 2,95-93, ,,3,93,95,-2,2086.0
+1:14.0,M. Morris makes free throw 2 of 2,96-93, ,,3,93,96,-3,2086.0
+0:50.0, ,96-93,T. Young misses 2-pt jump shot from 21 ft,,3,93,96,-3,2110.0
+0:47.0, ,96-93,Offensive rebound by J. Johnson,,3,93,96,-3,2113.0
+0:45.0, ,96-93,J. Johnson misses 2-pt jump shot from 5 ft,,3,93,96,-3,2115.0
+0:42.0,Defensive rebound by J. Springer,96-93, ,,3,93,96,-3,2118.0
+0:34.0,J. Springer makes 2-pt jump shot from 11 ft (assist by P. Beverley),98-93, ,,3,93,98,-5,2126.0
+0:27.0, ,98-95,T. Young makes 2-pt jump shot from 11 ft,,3,95,98,-3,2133.0
+0:04.0,J. Springer misses 2-pt jump shot from 11 ft (block by B. Fernando),98-95, ,,3,95,98,-3,2156.0
+0:03.0, ,98-95,Defensive rebound by T. Forrest,,3,95,98,-3,2157.0
+0:00.0, ,98-95,T. Forrest misses 3-pt jump shot from 36 ft,,3,95,98,-3,2160.0
+0:00.0, ,98-95,Offensive rebound by Team,,3,95,98,-3,2160.0
+0:00.0,End of 3rd quarter,98-95,,,3,95,98,-3,2160.0
+12:00.0,Start of 4th quarter,98-95,,,4,95,98,-3,2160.0
+11:45.0, ,98-97,B. Bogdanović makes 2-pt jump shot from 14 ft,,4,97,98,-1,2175.0
+11:26.0,K. Oubre misses 2-pt jump shot from 10 ft,98-97, ,,4,97,98,-1,2194.0
+11:24.0,Offensive rebound by M. Bamba,98-97, ,,4,97,98,-1,2196.0
+11:22.0,Turnover by M. Bamba (lost ball; steal by B. Fernando),98-97, ,,4,97,98,-1,2198.0
+11:17.0, ,98-100,T. Young makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),Lead change,4,100,98,2,2203.0
+11:00.0,T. Maxey misses 3-pt jump shot from 26 ft,98-100, ,,4,100,98,2,2220.0
+10:55.0, ,98-100,Defensive rebound by T. Forrest,,4,100,98,2,2225.0
+10:53.0, ,98-102,T. Forrest makes 2-pt layup from 6 ft,,4,102,98,4,2227.0
+10:30.0,Shooting foul by T. Forrest (drawn by M. Morris),98-102, ,,4,102,98,4,2250.0
+10:30.0,M. Morris makes free throw 1 of 2,99-102, ,,4,102,99,3,2250.0
+10:30.0,D. Melton enters the game for K. Oubre,99-102, ,,4,102,99,3,2250.0
+10:30.0,M. Morris makes free throw 2 of 2,100-102, ,,4,102,100,2,2250.0
+10:19.0, ,100-105,J. Johnson makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),,4,105,100,5,2261.0
+10:19.0,N. Batum enters the game for J. Springer,100-105, ,,4,105,100,5,2261.0
+9:58.0,T. Maxey makes 2-pt jump shot from 10 ft (assist by M. Bamba),102-105, ,,4,105,102,3,2282.0
+9:42.0, ,102-105,Shooting foul by M. Morris (drawn by B. Fernando),,4,105,102,3,2298.0
+9:42.0, ,102-106,B. Fernando makes free throw 1 of 2,,4,106,102,4,2298.0
+9:42.0,T. Harris enters the game for M. Bamba,102-106, ,,4,106,102,4,2298.0
+9:42.0, ,102-106,B. Fernando misses free throw 2 of 2,,4,106,102,4,2298.0
+9:39.0,Defensive rebound by T. Harris,102-106, ,,4,106,102,4,2301.0
+9:15.0,M. Morris misses 3-pt jump shot from 26 ft,102-106, ,,4,106,102,4,2325.0
+9:11.0, ,102-106,Defensive rebound by J. Johnson,,4,106,102,4,2329.0
+9:00.0, ,102-106,T. Young misses 2-pt layup from 2 ft,,4,106,102,4,2340.0
+8:58.0,Defensive rebound by T. Maxey,102-106, ,,4,106,102,4,2342.0
+8:49.0,T. Maxey makes 2-pt layup from 1 ft,104-106, ,,4,106,104,2,2351.0
+8:29.0, ,104-108,T. Young makes 2-pt jump shot from 5 ft,,4,108,104,4,2371.0
+8:17.0,T. Harris misses 3-pt jump shot from 26 ft,104-108, ,,4,108,104,4,2383.0
+8:14.0, ,104-108,Defensive rebound by T. Forrest,,4,108,104,4,2386.0
+7:56.0, ,104-108,J. Johnson misses 2-pt layup from 1 ft,,4,108,104,4,2404.0
+7:54.0,Defensive rebound by T. Harris,104-108, ,,4,108,104,4,2406.0
+7:47.0,T. Maxey misses 3-pt jump shot from 26 ft,104-108, ,,4,108,104,4,2413.0
+7:44.0, ,104-108,Defensive rebound by J. Johnson,,4,108,104,4,2416.0
+7:42.0, ,104-108,Atlanta full timeout,,4,108,104,4,2418.0
+7:42.0,P. Reed enters the game for M. Morris,104-108, ,,4,108,104,4,2418.0
+7:42.0, ,104-108,S. Bey enters the game for B. Fernando,,4,108,104,4,2418.0
+7:42.0, ,104-108,D. Murray enters the game for T. Forrest,,4,108,104,4,2418.0
+7:42.0, ,104-108,O. Okongwu enters the game for J. Johnson,,4,108,104,4,2418.0
+7:28.0, ,104-110,B. Bogdanović makes 2-pt jump shot from 21 ft,,4,110,104,6,2432.0
+7:09.0,Shooting foul by B. Bogdanović (drawn by D. Melton),104-110, ,,4,110,104,6,2451.0
+7:09.0,D. Melton makes free throw 1 of 2,105-110, ,,4,110,105,5,2451.0
+7:09.0,D. Melton makes free throw 2 of 2,106-110, ,,4,110,106,4,2451.0
+6:54.0, ,106-110,B. Bogdanović misses 3-pt jump shot from 28 ft,,4,110,106,4,2466.0
+6:52.0,Defensive rebound by D. Melton,106-110, ,,4,110,106,4,2468.0
+6:48.0,T. Harris makes 2-pt layup from 1 ft (assist by D. Melton),108-110, ,,4,110,108,2,2472.0
+6:31.0, ,108-110,D. Murray misses 2-pt jump shot from 6 ft,,4,110,108,2,2489.0
+6:29.0, ,108-110,Offensive rebound by O. Okongwu,,4,110,108,2,2491.0
+6:28.0, ,108-110,Turnover by O. Okongwu (lost ball; steal by T. Maxey),,4,110,108,2,2492.0
+6:25.0,T. Maxey misses 2-pt layup from 1 ft,108-110, ,,4,110,108,2,2495.0
+6:22.0, ,108-110,Defensive rebound by D. Murray,,4,110,108,2,2498.0
+6:15.0, ,108-112,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,4,112,108,4,2505.0
+5:51.0,T. Harris misses 2-pt jump shot from 6 ft,108-112, ,,4,112,108,4,2529.0
+5:48.0,Offensive rebound by N. Batum,108-112, ,,4,112,108,4,2532.0
+5:47.0,T. Harris makes 2-pt jump shot from 4 ft (assist by N. Batum),110-112, ,,4,112,110,2,2533.0
+5:34.0, ,110-112,S. Bey misses 2-pt layup from 1 ft,,4,112,110,2,2546.0
+5:31.0,Defensive rebound by T. Harris,110-112, ,,4,112,110,2,2549.0
+5:22.0,P. Reed misses 2-pt hook shot from 5 ft,110-112, ,,4,112,110,2,2558.0
+5:18.0, ,110-112,Defensive rebound by B. Bogdanović,,4,112,110,2,2562.0
+5:14.0, ,110-115,S. Bey makes 3-pt jump shot from 23 ft (assist by D. Murray),,4,115,110,5,2566.0
+5:13.0,Philadelphia full timeout,110-115, ,,4,115,110,5,2567.0
+5:13.0,M. Morris enters the game for D. Melton,110-115, ,,4,115,110,5,2567.0
+5:13.0,K. Oubre enters the game for P. Reed,110-115, ,,4,115,110,5,2567.0
+5:13.0, ,110-115,J. Johnson enters the game for B. Bogdanović,,4,115,110,5,2567.0
+5:02.0,T. Maxey misses 3-pt jump shot from 26 ft,110-115, ,,4,115,110,5,2578.0
+4:59.0, ,110-115,Defensive rebound by O. Okongwu,,4,115,110,5,2581.0
+4:47.0, ,110-115,Turnover by T. Young (lost ball; steal by T. Maxey),,4,115,110,5,2593.0
+4:44.0,T. Maxey misses 2-pt layup from 1 ft (block by J. Johnson),110-115, ,,4,115,110,5,2596.0
+4:41.0,Offensive rebound by T. Harris,110-115, ,,4,115,110,5,2599.0
+4:41.0,T. Harris misses 2-pt layup at rim,110-115, ,,4,115,110,5,2599.0
+4:40.0,Offensive rebound by T. Maxey,110-115, ,,4,115,110,5,2600.0
+4:39.0,T. Maxey misses 2-pt layup from 3 ft,110-115, ,,4,115,110,5,2601.0
+4:38.0,Offensive rebound by T. Harris,110-115, ,,4,115,110,5,2602.0
+4:38.0,Shooting foul by O. Okongwu (drawn by T. Harris),110-115, ,,4,115,110,5,2602.0
+4:38.0,T. Harris makes free throw 1 of 2,111-115, ,,4,115,111,4,2602.0
+4:38.0,T. Harris makes free throw 2 of 2,112-115, ,,4,115,112,3,2602.0
+4:25.0, ,112-117,O. Okongwu makes 2-pt dunk at rim (assist by T. Young),,4,117,112,5,2615.0
+4:15.0,Offensive foul by T. Maxey (drawn by J. Johnson),112-117, ,,4,117,112,5,2625.0
+4:15.0,Turnover by T. Maxey (offensive foul),112-117, ,,4,117,112,5,2625.0
+3:59.0, ,112-117,T. Young misses 3-pt jump shot from 29 ft,,4,117,112,5,2641.0
+3:56.0,Defensive rebound by T. Maxey,112-117, ,,4,117,112,5,2644.0
+3:50.0,Shooting foul by O. Okongwu (drawn by T. Maxey),112-117, ,,4,117,112,5,2650.0
+3:50.0,T. Maxey makes free throw 1 of 2,113-117, ,,4,117,113,4,2650.0
+3:50.0,T. Maxey makes free throw 2 of 2,114-117, ,,4,117,114,3,2650.0
+3:32.0, ,114-117,J. Johnson misses 3-pt jump shot from 24 ft,,4,117,114,3,2668.0
+3:28.0,Defensive rebound by T. Harris,114-117, ,,4,117,114,3,2672.0
+3:22.0,T. Harris makes 2-pt layup from 1 ft,116-117, ,,4,117,116,1,2678.0
+3:01.0, ,116-117,D. Murray misses 3-pt jump shot from 26 ft,,4,117,116,1,2699.0
+2:58.0, ,116-117,Offensive rebound by S. Bey,,4,117,116,1,2702.0
+2:57.0, ,116-119,S. Bey makes 2-pt layup from 2 ft,,4,119,116,3,2703.0
+2:38.0,T. Maxey makes 2-pt dunk from 1 ft (assist by M. Morris),118-119, ,,4,119,118,1,2722.0
+2:14.0, ,118-119,T. Young misses 2-pt layup from 5 ft,,4,119,118,1,2746.0
+2:12.0,Defensive rebound by M. Morris,118-119, ,,4,119,118,1,2748.0
+2:03.0,T. Harris makes 2-pt layup from 2 ft (assist by N. Batum),120-119, ,Lead change,4,119,120,-1,2757.0
+1:48.0, ,120-119,Shooting foul by T. Maxey (drawn by D. Murray),,4,119,120,-1,2772.0
+1:48.0, ,120-120,D. Murray makes free throw 1 of 2,Tie,4,120,120,0,2772.0
+1:48.0, ,120-121,D. Murray makes free throw 2 of 2,Lead change,4,121,120,1,2772.0
+1:30.0,T. Maxey makes 2-pt dunk from 2 ft,122-121, ,Lead change,4,121,122,-1,2790.0
+1:13.0, ,122-121,D. Murray misses 2-pt jump shot from 15 ft,,4,121,122,-1,2807.0
+1:11.0,Defensive rebound by T. Harris,122-121, ,,4,121,122,-1,2809.0
+0:54.0,T. Maxey makes 3-pt jump shot from 28 ft,125-121, ,,4,121,125,-4,2826.0
+0:53.0, ,125-121,Atlanta full timeout,,4,121,125,-4,2827.0
+0:48.0, ,125-123,J. Johnson makes 2-pt dunk at rim (assist by S. Bey),,4,123,125,-2,2832.0
+0:48.0, ,125-123,Shooting foul by K. Oubre (drawn by J. Johnson),,4,123,125,-2,2832.0
+0:48.0, ,125-124,J. Johnson makes free throw 1 of 1,,4,124,125,-1,2832.0
+0:31.0,T. Maxey misses 3-pt jump shot from 26 ft,125-124, ,,4,124,125,-1,2849.0
+0:28.0, ,125-124,Defensive rebound by J. Johnson,,4,124,125,-1,2852.0
+0:15.0, ,125-124,Atlanta full timeout,,4,124,125,-1,2865.0
+0:12.0, ,125-124,Shooting foul by T. Maxey (drawn by T. Young),,4,124,125,-1,2868.0
+0:12.0,Philadelphia full timeout,125-124, ,,4,124,125,-1,2868.0
+0:12.0,Instant Replay (Challenge: Ruling Stands),125-124, ,,4,124,125,-1,2868.0
+0:12.0, ,125-124,T. Young misses free throw 1 of 2,,4,124,125,-1,2868.0
+0:12.0, ,125-124,Offensive rebound by Team,,4,124,125,-1,2868.0
+0:12.0, ,125-125,T. Young makes free throw 2 of 2,Tie,4,125,125,0,2868.0
+0:01.0,T. Maxey misses 2-pt jump shot from 11 ft (block by T. Young),125-125, ,,4,125,125,0,2879.0
+0:01.0, ,125-125,Defensive rebound by Team,,4,125,125,0,2879.0
+0:00.0, ,125-125,T. Young misses 3-pt jump shot from 56 ft,,4,125,125,0,2880.0
+0:00.0, ,125-125,Offensive rebound by Team,,4,125,125,0,2880.0
+0:00.0,End of 4th quarter,125-125,,,4,125,125,0,2880.0
+5:00.0,Start of 1st overtime,125-125,,,5,125,125,0,2880.0
+5:00.0,Jump ball: M. Bamba vs. O. Okongwu (T. Harris gains possession),125-125,,,5,125,125,0,2880.0
+4:42.0, ,125-127,T. Young makes 2-pt jump shot from 10 ft,Lead change,5,127,125,2,2898.0
+4:26.0,T. Harris makes 2-pt jump shot from 11 ft,127-127, ,Tie,5,127,127,0,2914.0
+4:13.0, ,127-127,S. Bey misses 3-pt jump shot from 23 ft,,5,127,127,0,2927.0
+4:10.0,Defensive rebound by N. Batum,127-127, ,,5,127,127,0,2930.0
+4:01.0,T. Maxey misses 2-pt layup from 2 ft,127-127, ,,5,127,127,0,2939.0
+3:59.0, ,127-127,Defensive rebound by O. Okongwu,,5,127,127,0,2941.0
+3:40.0, ,127-129,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,5,129,127,2,2960.0
+3:19.0,T. Maxey misses 2-pt jump shot from 13 ft,127-129, ,,5,129,127,2,2981.0
+3:16.0,Offensive rebound by M. Bamba,127-129, ,,5,129,127,2,2984.0
+3:15.0,T. Maxey makes 3-pt jump shot from 25 ft (assist by M. Bamba),130-129, ,Lead change,5,129,130,-1,2985.0
+2:56.0, ,130-129,D. Murray misses 2-pt layup from 4 ft (block by M. Bamba),,5,129,130,-1,3004.0
+2:55.0, ,130-129,Offensive rebound by Team,,5,129,130,-1,3005.0
+2:51.0, ,130-129,S. Bey misses 3-pt jump shot from 23 ft,,5,129,130,-1,3009.0
+2:47.0,Defensive rebound by K. Oubre,130-129, ,,5,129,130,-1,3013.0
+2:31.0,K. Oubre makes 2-pt jump shot from 12 ft (assist by T. Harris),132-129, ,,5,129,132,-3,3029.0
+2:21.0, ,132-129,Personal foul by N. Batum (drawn by S. Bey),,5,129,132,-3,3039.0
+2:10.0, ,132-129,T. Young misses 2-pt jump shot from 15 ft (block by N. Batum),,5,129,132,-3,3050.0
+2:07.0,Defensive rebound by T. Maxey,132-129, ,,5,129,132,-3,3053.0
+1:52.0,N. Batum misses 3-pt jump shot from 25 ft,132-129, ,,5,129,132,-3,3068.0
+1:48.0, ,132-129,Defensive rebound by O. Okongwu,,5,129,132,-3,3072.0
+1:44.0, ,132-129,Shooting foul by T. Maxey (drawn by T. Young),,5,129,132,-3,3076.0
+1:44.0,P. Beverley enters the game for T. Maxey,132-129, ,,5,129,132,-3,3076.0
+1:44.0, ,132-129,B. Bogdanović enters the game for S. Bey,,5,129,132,-3,3076.0
+1:44.0, ,132-130,T. Young makes free throw 1 of 2,,5,130,132,-2,3076.0
+1:44.0, ,132-130,T. Young misses free throw 2 of 2,,5,130,132,-2,3076.0
+1:42.0,Defensive rebound by N. Batum,132-130, ,,5,130,132,-2,3078.0
+1:29.0,Personal foul by J. Johnson (drawn by T. Harris),132-130, ,,5,130,132,-2,3091.0
+1:29.0,M. Morris enters the game for M. Bamba,132-130, ,,5,130,132,-2,3091.0
+1:17.0,T. Harris misses 2-pt jump shot from 11 ft,132-130, ,,5,130,132,-2,3103.0
+1:14.0, ,132-130,Defensive rebound by J. Johnson,,5,130,132,-2,3106.0
+1:11.0, ,132-130,B. Bogdanović misses 3-pt jump shot from 25 ft,,5,130,132,-2,3109.0
+1:08.0, ,132-130,Offensive rebound by O. Okongwu,,5,130,132,-2,3112.0
+1:07.0, ,132-130,Shooting foul by M. Morris (drawn by J. Johnson),,5,130,132,-2,3113.0
+1:07.0, ,132-131,J. Johnson makes free throw 1 of 2,,5,131,132,-1,3113.0
+1:07.0, ,132-132,J. Johnson makes free throw 2 of 2,Tie,5,132,132,0,3113.0
+0:50.0,Turnover by M. Morris (bad pass; steal by J. Johnson),132-132, ,,5,132,132,0,3130.0
+0:40.0, ,132-135,J. Johnson makes 3-pt jump shot from 25 ft (assist by D. Murray),Lead change,5,135,132,3,3140.0
+0:39.0,Philadelphia full timeout,132-135, ,,5,135,132,3,3141.0
+0:39.0, ,132-135,S. Bey enters the game for B. Bogdanović,,5,135,132,3,3141.0
+0:34.0,T. Harris misses 2-pt layup from 5 ft (block by O. Okongwu),132-135, ,,5,135,132,3,3146.0
+0:31.0, ,132-135,Defensive rebound by D. Murray,,5,135,132,3,3149.0
+0:17.0, ,132-135,D. Murray misses 2-pt jump shot from 15 ft,,5,135,132,3,3163.0
+0:13.0, ,132-135,Offensive rebound by S. Bey,,5,135,132,3,3167.0
+0:13.0, ,132-135,Shooting foul by T. Harris (drawn by J. Johnson),,5,135,132,3,3167.0
+0:13.0, ,132-136,J. Johnson makes free throw 1 of 2,,5,136,132,4,3167.0
+0:13.0, ,132-137,J. Johnson makes free throw 2 of 2,,5,137,132,5,3167.0
+0:06.0,K. Oubre misses 2-pt layup from 2 ft (block by O. Okongwu),132-137, ,,5,137,132,5,3174.0
+0:04.0, ,132-137,Defensive rebound by T. Young,,5,137,132,5,3176.0
+0:04.0, ,132-137,Personal take foul by M. Morris (drawn by T. Young),,5,137,132,5,3176.0
+0:04.0, ,132-138,T. Young makes free throw 1 of 2,,5,138,132,6,3176.0
+0:04.0, ,132-139,T. Young makes free throw 2 of 2,,5,139,132,7,3176.0
+0:00.0,P. Beverley misses 3-pt jump shot from 27 ft,132-139, ,,5,139,132,7,3180.0
+0:00.0,Offensive rebound by Team,132-139, ,,5,139,132,7,3180.0
+0:00.0,End of 1st overtime,132-139,,,5,139,132,7,3180.0

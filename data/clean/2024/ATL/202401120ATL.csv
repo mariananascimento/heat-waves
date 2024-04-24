@@ -1,0 +1,431 @@
+Time,Indiana,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: M. Turner vs. C. Capela (S. Bey gains possession),0-0,,,1,0,0,0,0.0
+11:42.0, ,0-2,C. Capela makes 2-pt dunk from 2 ft (assist by T. Young),,1,2,0,2,18.0
+11:28.0,Offensive foul by A. Nembhard (drawn by T. Young),0-2, ,,1,2,0,2,32.0
+11:28.0,Turnover by A. Nembhard (offensive foul),0-2, ,,1,2,0,2,32.0
+11:18.0, ,0-4,C. Capela makes 2-pt hook shot from 6 ft (assist by J. Johnson),,1,4,0,4,42.0
+11:13.0,Indiana full timeout,0-4, ,,1,4,0,4,47.0
+11:02.0,J. Smith misses 2-pt hook shot from 10 ft,0-4, ,,1,4,0,4,58.0
+10:58.0, ,0-4,Defensive rebound by C. Capela,,1,4,0,4,62.0
+10:49.0, ,0-4,J. Johnson misses 2-pt layup from 1 ft,,1,4,0,4,71.0
+10:45.0,Defensive rebound by J. Smith,0-4, ,,1,4,0,4,75.0
+10:38.0,A. Nesmith makes 3-pt jump shot from 25 ft (assist by A. Nembhard),3-4, ,,1,4,3,1,82.0
+10:20.0, ,3-4,T. Young misses 2-pt layup from 2 ft,,1,4,3,1,100.0
+10:15.0, ,3-4,Offensive rebound by C. Capela,,1,4,3,1,105.0
+10:15.0, ,3-6,C. Capela makes 2-pt layup at rim,,1,6,3,3,105.0
+9:53.0,B. Brown makes 2-pt layup from 1 ft (assist by A. Nembhard),5-6, ,,1,6,5,1,127.0
+9:42.0, ,5-8,T. Young makes 2-pt jump shot from 14 ft,,1,8,5,3,138.0
+9:42.0, ,5-8,Shooting foul by A. Nesmith (drawn by T. Young),,1,8,5,3,138.0
+9:42.0, ,5-9,T. Young makes free throw 1 of 1,,1,9,5,4,138.0
+9:26.0,M. Turner makes 2-pt layup from 2 ft (assist by A. Nembhard),7-9, ,,1,9,7,2,154.0
+9:26.0,Shooting foul by C. Capela (drawn by M. Turner),7-9, ,,1,9,7,2,154.0
+9:26.0,M. Turner misses free throw 1 of 1,7-9, ,,1,9,7,2,154.0
+9:23.0, ,7-9,Defensive rebound by J. Johnson,,1,9,7,2,157.0
+9:02.0, ,7-9,T. Young misses 2-pt jump shot from 19 ft,,1,9,7,2,178.0
+8:57.0,Defensive rebound by A. Nesmith,7-9, ,,1,9,7,2,183.0
+8:47.0,J. Smith makes 2-pt layup at rim (assist by M. Turner),9-9, ,Tie,1,9,9,0,193.0
+8:34.0, ,9-9,D. Murray misses 3-pt jump shot from 23 ft,,1,9,9,0,206.0
+8:32.0,Defensive rebound by B. Brown,9-9, ,,1,9,9,0,208.0
+8:21.0,M. Turner makes 2-pt layup from 1 ft (assist by A. Nembhard),11-9, ,Lead change,1,9,11,-2,219.0
+8:11.0, ,11-9,Personal foul by A. Nembhard (drawn by T. Young),,1,9,11,-2,229.0
+8:11.0,T. McConnell enters the game for A. Nembhard,11-9, ,,1,9,11,-2,229.0
+7:58.0, ,11-9,Turnover by D. Murray (bad pass; steal by M. Turner),,1,9,11,-2,242.0
+7:55.0,Turnover by M. Turner (lost ball; steal by D. Murray),11-9, ,,1,9,11,-2,245.0
+7:52.0, ,11-11,J. Johnson makes 2-pt dunk from 1 ft (assist by D. Murray),Tie,1,11,11,0,248.0
+7:38.0,M. Turner makes 2-pt layup at rim (assist by T. McConnell),13-11, ,,1,11,13,-2,262.0
+7:27.0, ,13-11,T. Young misses 3-pt jump shot from 28 ft,,1,11,13,-2,273.0
+7:24.0,Defensive rebound by M. Turner,13-11, ,,1,11,13,-2,276.0
+7:12.0,Turnover by B. Brown (out of bounds lost ball),13-11, ,,1,11,13,-2,288.0
+7:00.0, ,13-11,Shooting foul by A. Nesmith (drawn by S. Bey),,1,11,13,-2,300.0
+7:00.0, ,13-11,S. Bey misses free throw 1 of 2,,1,11,13,-2,300.0
+7:00.0, ,13-11,Offensive rebound by Team,,1,11,13,-2,300.0
+7:00.0,B. Mathurin enters the game for A. Nesmith,13-11, ,,1,11,13,-2,300.0
+7:00.0, ,13-11,B. Bogdanović enters the game for J. Johnson,,1,11,13,-2,300.0
+7:00.0, ,13-11,T. Forrest enters the game for T. Young,,1,11,13,-2,300.0
+7:00.0, ,13-12,S. Bey makes free throw 2 of 2,,1,12,13,-1,300.0
+6:49.0,B. Brown makes 2-pt jump shot from 13 ft (assist by T. McConnell),15-12, ,,1,12,15,-3,311.0
+6:35.0, ,15-14,D. Murray makes 2-pt jump shot from 11 ft (assist by B. Bogdanović),,1,14,15,-1,325.0
+6:16.0,B. Brown makes 3-pt jump shot from 24 ft (assist by T. McConnell),18-14, ,,1,14,18,-4,344.0
+6:01.0, ,18-14,T. Forrest misses 2-pt layup from 10 ft (block by M. Turner),,1,14,18,-4,359.0
+6:00.0, ,18-14,Offensive rebound by Team,,1,14,18,-4,360.0
+6:00.0,B. Hield enters the game for B. Brown,18-14, ,,1,14,18,-4,360.0
+6:00.0, ,18-14,O. Okongwu enters the game for C. Capela,,1,14,18,-4,360.0
+5:56.0, ,18-16,B. Bogdanović makes 2-pt layup from 5 ft (assist by D. Murray),,1,16,18,-2,364.0
+5:42.0,B. Mathurin misses 2-pt jump shot from 13 ft,18-16, ,,1,16,18,-2,378.0
+5:40.0,Offensive rebound by J. Smith,18-16, ,,1,16,18,-2,380.0
+5:39.0,J. Smith makes 2-pt layup from 1 ft,20-16, ,,1,16,20,-4,381.0
+5:26.0, ,20-16,T. Forrest misses 2-pt layup from 6 ft,,1,16,20,-4,394.0
+5:23.0,Defensive rebound by M. Turner,20-16, ,,1,16,20,-4,397.0
+5:19.0,B. Mathurin makes 2-pt layup from 2 ft (assist by T. McConnell),22-16, ,,1,16,22,-6,401.0
+5:04.0, ,22-16,B. Bogdanović misses 2-pt jump shot from 13 ft,,1,16,22,-6,416.0
+5:00.0, ,22-16,Offensive rebound by B. Bogdanović,,1,16,22,-6,420.0
+4:59.0, ,22-16,S. Bey misses 3-pt jump shot from 23 ft,,1,16,22,-6,421.0
+4:55.0,Defensive rebound by J. Smith,22-16, ,,1,16,22,-6,425.0
+4:47.0,B. Mathurin makes 2-pt layup from 4 ft (assist by T. McConnell),24-16, ,,1,16,24,-8,433.0
+4:46.0, ,24-16,Atlanta full timeout,,1,16,24,-8,434.0
+4:46.0,I. Jackson enters the game for J. Smith,24-16, ,,1,16,24,-8,434.0
+4:46.0,O. Toppin enters the game for M. Turner,24-16, ,,1,16,24,-8,434.0
+4:27.0, ,24-19,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Forrest),,1,19,24,-5,453.0
+4:09.0,I. Jackson misses 2-pt dunk from 3 ft,24-19, ,,1,19,24,-5,471.0
+4:05.0, ,24-19,Defensive rebound by B. Bogdanović,,1,19,24,-5,475.0
+4:03.0, ,24-22,D. Murray makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),,1,22,24,-2,477.0
+4:03.0,Indiana full timeout,24-22, ,,1,22,24,-2,477.0
+4:03.0, ,24-22,J. Johnson enters the game for S. Bey,,1,22,24,-2,477.0
+4:03.0, ,24-22,T. Young enters the game for D. Murray,,1,22,24,-2,477.0
+3:46.0,Turnover by B. Mathurin (bad pass; steal by T. Forrest),24-22, ,,1,22,24,-2,494.0
+3:42.0, ,24-24,T. Forrest makes 2-pt dunk from 1 ft,Tie,1,24,24,0,498.0
+3:35.0,Turnover by T. McConnell (bad pass),24-24, ,,1,24,24,0,505.0
+3:21.0, ,24-24,Shooting foul by O. Toppin (drawn by B. Bogdanović),,1,24,24,0,519.0
+3:21.0, ,24-25,B. Bogdanović makes free throw 1 of 2,Lead change,1,25,24,1,519.0
+3:21.0, ,24-26,B. Bogdanović makes free throw 2 of 2,,1,26,24,2,519.0
+3:09.0,B. Hield makes 2-pt jump shot from 5 ft,26-26, ,Tie,1,26,26,0,531.0
+2:50.0, ,26-26,T. Young misses 2-pt layup from 6 ft (block by B. Hield),,1,26,26,0,550.0
+2:50.0,Defensive rebound by B. Hield,26-26, ,,1,26,26,0,550.0
+2:47.0,I. Jackson makes 2-pt layup from 4 ft (assist by B. Hield),28-26, ,Lead change,1,26,28,-2,553.0
+2:28.0, ,28-28,J. Johnson makes 2-pt layup from 2 ft (assist by T. Forrest),Tie,1,28,28,0,572.0
+2:05.0,I. Jackson makes 2-pt hook shot from 6 ft (assist by T. McConnell),30-28, ,,1,28,30,-2,595.0
+1:46.0, ,30-28,Turnover by T. Forrest (lost ball; steal by I. Jackson),,1,28,30,-2,614.0
+1:42.0,B. Mathurin makes 2-pt layup from 1 ft (assist by I. Jackson),32-28, ,,1,28,32,-4,618.0
+1:33.0, ,32-28,B. Bogdanović misses 2-pt layup from 2 ft,,1,28,32,-4,627.0
+1:30.0,Defensive rebound by B. Hield,32-28, ,,1,28,32,-4,630.0
+1:21.0,Turnover by I. Jackson (lost ball; steal by B. Bogdanović),32-28, ,,1,28,32,-4,639.0
+1:14.0, ,32-28,J. Johnson misses 3-pt jump shot from 23 ft,,1,28,32,-4,646.0
+1:11.0,Defensive rebound by O. Toppin,32-28, ,,1,28,32,-4,649.0
+0:57.0,O. Toppin makes 2-pt layup from 2 ft (assist by I. Jackson),34-28, ,,1,28,34,-6,663.0
+0:44.0, ,34-30,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,1,30,34,-4,676.0
+0:23.0,Turnover by B. Hield (bad pass; steal by J. Johnson),34-30, ,,1,30,34,-4,697.0
+0:01.0, ,34-30,O. Okongwu misses 2-pt layup from 1 ft,,1,30,34,-4,719.0
+0:00.0,Defensive rebound by O. Toppin,34-30, ,,1,30,34,-4,720.0
+0:00.0,End of 1st quarter,34-30,,,1,30,34,-4,720.0
+12:00.0,Start of 2nd quarter,34-30,,,2,30,34,-4,720.0
+11:47.0,B. Hield misses 3-pt jump shot from 24 ft,34-30, ,,2,30,34,-4,733.0
+11:44.0,Offensive rebound by O. Toppin,34-30, ,,2,30,34,-4,736.0
+11:44.0,O. Toppin makes 2-pt layup at rim,36-30, ,,2,30,36,-6,736.0
+11:44.0,Shooting foul by J. Johnson (drawn by O. Toppin),36-30, ,,2,30,36,-6,736.0
+11:44.0,O. Toppin makes free throw 1 of 1,37-30, ,,2,30,37,-7,736.0
+11:24.0, ,37-30,T. Young misses 2-pt jump shot from 9 ft,,2,30,37,-7,756.0
+11:21.0,Defensive rebound by T. McConnell,37-30, ,,2,30,37,-7,759.0
+11:15.0,T. McConnell makes 2-pt jump shot from 12 ft,39-30, ,,2,30,39,-9,765.0
+10:59.0, ,39-30,J. Johnson misses 2-pt jump shot from 12 ft,,2,30,39,-9,781.0
+10:55.0, ,39-30,Offensive rebound by T. Young,,2,30,39,-9,785.0
+10:54.0, ,39-30,T. Young misses 3-pt jump shot from 24 ft (block by I. Jackson),,2,30,39,-9,786.0
+10:53.0, ,39-30,Offensive rebound by T. Young,,2,30,39,-9,787.0
+10:47.0, ,39-30,T. Young misses 3-pt jump shot from 22 ft,,2,30,39,-9,793.0
+10:45.0,Defensive rebound by I. Jackson,39-30, ,,2,30,39,-9,795.0
+10:41.0,B. Mathurin makes 2-pt layup from 1 ft (assist by T. McConnell),41-30, ,,2,30,41,-11,799.0
+10:41.0, ,41-30,Atlanta full timeout,,2,30,41,-11,799.0
+10:39.0, ,41-30,Turnover by B. Bogdanović (bad pass; steal by T. McConnell),,2,30,41,-11,801.0
+10:38.0,O. Toppin makes 2-pt layup from 2 ft (assist by T. McConnell),43-30, ,,2,30,43,-13,802.0
+10:38.0,Shooting foul by P. Mills (drawn by O. Toppin),43-30, ,,2,30,43,-13,802.0
+10:38.0,O. Toppin makes free throw 1 of 1,44-30, ,,2,30,44,-14,802.0
+10:29.0, ,44-30,Turnover by T. Young (bad pass; steal by I. Jackson),,2,30,44,-14,811.0
+10:24.0,B. Hield makes 3-pt jump shot from 25 ft (assist by B. Mathurin),47-30, ,,2,30,47,-17,816.0
+10:09.0, ,47-30,T. Young misses 3-pt jump shot from 26 ft (block by T. McConnell),,2,30,47,-17,831.0
+10:05.0,Defensive rebound by B. Hield,47-30, ,,2,30,47,-17,835.0
+10:04.0,Turnover by T. McConnell (bad pass),47-30, ,,2,30,47,-17,836.0
+9:43.0, ,47-32,J. Johnson makes 2-pt jump shot from 6 ft (assist by O. Okongwu),,2,32,47,-15,857.0
+9:43.0, ,47-32,Shooting foul by O. Toppin (drawn by J. Johnson),,2,32,47,-15,857.0
+9:43.0, ,47-32,C. Capela enters the game for O. Okongwu,,2,32,47,-15,857.0
+9:43.0, ,47-32,D. Murray enters the game for T. Young,,2,32,47,-15,857.0
+9:43.0, ,47-32,J. Johnson misses free throw 1 of 1,,2,32,47,-15,857.0
+9:40.0,Defensive rebound by O. Toppin,47-32, ,,2,32,47,-15,860.0
+9:25.0,T. McConnell makes 2-pt jump shot from 11 ft (assist by B. Mathurin),49-32, ,,2,32,49,-17,875.0
+9:09.0, ,49-32,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,32,49,-17,891.0
+9:08.0, ,49-32,Offensive rebound by Team,,2,32,49,-17,892.0
+9:08.0, ,49-32,S. Bey enters the game for J. Johnson,,2,32,49,-17,892.0
+9:06.0, ,49-32,B. Bogdanović misses 2-pt jump shot from 7 ft (block by B. Hield),,2,32,49,-17,894.0
+9:02.0,Defensive rebound by I. Jackson,49-32, ,,2,32,49,-17,898.0
+8:54.0,B. Mathurin makes 2-pt jump shot from 4 ft,51-32, ,,2,32,51,-19,906.0
+8:54.0,Shooting foul by D. Murray (drawn by B. Mathurin),51-32, ,,2,32,51,-19,906.0
+8:54.0,B. Mathurin misses free throw 1 of 1,51-32, ,,2,32,51,-19,906.0
+8:51.0, ,51-32,Defensive rebound by S. Bey,,2,32,51,-19,909.0
+8:40.0, ,51-32,Personal foul by B. Mathurin (drawn by B. Bogdanović),,2,32,51,-19,920.0
+8:31.0, ,51-34,D. Murray makes 2-pt jump shot from 8 ft,,2,34,51,-17,929.0
+8:13.0,B. Hield misses 2-pt layup from 5 ft,51-34, ,,2,34,51,-17,947.0
+8:08.0,Offensive rebound by I. Jackson,51-34, ,,2,34,51,-17,952.0
+8:08.0,I. Jackson makes 2-pt layup at rim,53-34, ,,2,34,53,-19,952.0
+8:02.0, ,53-37,S. Bey makes 3-pt jump shot from 24 ft (assist by D. Murray),,2,37,53,-16,958.0
+7:47.0,I. Jackson makes 2-pt dunk from 1 ft (assist by O. Toppin),55-37, ,,2,37,55,-18,973.0
+7:30.0, ,55-37,D. Murray misses 2-pt jump shot from 5 ft,,2,37,55,-18,990.0
+7:29.0, ,55-37,Offensive rebound by Team,,2,37,55,-18,991.0
+7:26.0, ,55-40,S. Bey makes 3-pt jump shot from 25 ft (assist by D. Murray),,2,40,55,-15,994.0
+7:26.0, ,55-40,Shooting foul by O. Toppin (drawn by S. Bey),,2,40,55,-15,994.0
+7:26.0,A. Nesmith enters the game for O. Toppin,55-40, ,,2,40,55,-15,994.0
+7:26.0, ,55-41,S. Bey makes free throw 1 of 1,,2,41,55,-14,994.0
+7:07.0,B. Mathurin makes 2-pt layup from 1 ft (assist by T. McConnell),57-41, ,,2,41,57,-16,1013.0
+6:49.0, ,57-43,D. Murray makes 2-pt jump shot from 9 ft,,2,43,57,-14,1031.0
+6:32.0,T. McConnell misses 2-pt jump shot from 7 ft,57-43, ,,2,43,57,-14,1048.0
+6:28.0, ,57-43,Defensive rebound by B. Bogdanović,,2,43,57,-14,1052.0
+6:27.0, ,57-43,Turnover by B. Bogdanović (lost ball; steal by I. Jackson),,2,43,57,-14,1053.0
+6:20.0,B. Mathurin misses 2-pt layup from 2 ft,57-43, ,,2,43,57,-14,1060.0
+6:15.0, ,57-43,Defensive rebound by D. Murray,,2,43,57,-14,1065.0
+6:12.0, ,57-43,P. Mills misses 3-pt jump shot from 26 ft,,2,43,57,-14,1068.0
+6:09.0, ,57-43,Offensive rebound by P. Mills,,2,43,57,-14,1071.0
+6:04.0, ,57-43,Shooting foul by I. Jackson (drawn by S. Bey),,2,43,57,-14,1076.0
+6:04.0, ,57-44,S. Bey makes free throw 1 of 2,,2,44,57,-13,1076.0
+6:04.0,B. Brown enters the game for B. Hield,57-44, ,,2,44,57,-13,1076.0
+6:04.0,A. Nembhard enters the game for I. Jackson,57-44, ,,2,44,57,-13,1076.0
+6:04.0,M. Turner enters the game for T. McConnell,57-44, ,,2,44,57,-13,1076.0
+6:04.0, ,57-45,S. Bey makes free throw 2 of 2,,2,45,57,-12,1076.0
+5:55.0,Turnover by B. Mathurin (bad pass),57-45, ,,2,45,57,-12,1085.0
+5:55.0, ,57-45,J. Johnson enters the game for B. Bogdanović,,2,45,57,-12,1085.0
+5:55.0, ,57-45,T. Young enters the game for P. Mills,,2,45,57,-12,1085.0
+5:40.0, ,57-45,C. Capela misses 2-pt layup from 4 ft (block by M. Turner),,2,45,57,-12,1100.0
+5:36.0,Defensive rebound by A. Nembhard,57-45, ,,2,45,57,-12,1104.0
+5:30.0,A. Nesmith makes 2-pt jump shot from 14 ft (assist by M. Turner),59-45, ,,2,45,59,-14,1110.0
+5:18.0, ,59-45,D. Murray misses 3-pt jump shot from 25 ft,,2,45,59,-14,1122.0
+5:13.0,Defensive rebound by A. Nembhard,59-45, ,,2,45,59,-14,1127.0
+5:08.0,B. Mathurin misses 3-pt jump shot from 25 ft,59-45, ,,2,45,59,-14,1132.0
+5:05.0, ,59-45,Defensive rebound by D. Murray,,2,45,59,-14,1135.0
+4:55.0, ,59-45,S. Bey misses 2-pt layup from 6 ft,,2,45,59,-14,1145.0
+4:52.0, ,59-45,Offensive rebound by S. Bey,,2,45,59,-14,1148.0
+4:47.0, ,59-45,S. Bey misses 3-pt jump shot from 25 ft,,2,45,59,-14,1153.0
+4:42.0, ,59-45,Offensive rebound by C. Capela,,2,45,59,-14,1158.0
+4:39.0, ,59-47,D. Murray makes 2-pt jump shot from 18 ft (assist by C. Capela),,2,47,59,-12,1161.0
+4:38.0,Indiana full timeout,59-47, ,,2,47,59,-12,1162.0
+4:38.0,J. Smith enters the game for B. Mathurin,59-47, ,,2,47,59,-12,1162.0
+4:24.0,M. Turner misses 2-pt layup from 1 ft,59-47, ,,2,47,59,-12,1176.0
+4:16.0,Offensive rebound by A. Nesmith,59-47, ,,2,47,59,-12,1184.0
+4:16.0,Turnover by A. Nesmith (bad pass; steal by C. Capela),59-47, ,,2,47,59,-12,1184.0
+4:12.0, ,59-47,Turnover by T. Young (bad pass; steal by A. Nesmith),,2,47,59,-12,1188.0
+4:06.0,A. Nesmith makes 2-pt layup from 2 ft,61-47, ,,2,47,61,-14,1194.0
+3:47.0, ,61-47,Shooting foul by J. Smith (drawn by J. Johnson),,2,47,61,-14,1213.0
+3:47.0, ,61-48,J. Johnson makes free throw 1 of 2,,2,48,61,-13,1213.0
+3:47.0, ,61-48,J. Johnson misses free throw 2 of 2,,2,48,61,-13,1213.0
+3:44.0,Defensive rebound by M. Turner,61-48, ,,2,48,61,-13,1216.0
+3:26.0,A. Nembhard misses 2-pt jump shot from 19 ft,61-48, ,,2,48,61,-13,1234.0
+3:20.0,Offensive rebound by J. Smith,61-48, ,,2,48,61,-13,1240.0
+3:12.0,M. Turner misses 3-pt jump shot from 24 ft,61-48, ,,2,48,61,-13,1248.0
+3:08.0, ,61-48,Defensive rebound by C. Capela,,2,48,61,-13,1252.0
+3:02.0, ,61-48,D. Murray misses 2-pt layup from 2 ft,,2,48,61,-13,1258.0
+3:01.0,Defensive rebound by Team,61-48, ,,2,48,61,-13,1259.0
+2:43.0,A. Nesmith makes 3-pt jump shot from 24 ft (assist by A. Nembhard),64-48, ,,2,48,64,-16,1277.0
+2:27.0, ,64-51,S. Bey makes 3-pt jump shot from 26 ft (assist by T. Young),,2,51,64,-13,1293.0
+2:10.0,A. Nembhard makes 2-pt layup from 1 ft (assist by M. Turner),66-51, ,,2,51,66,-15,1310.0
+1:55.0, ,66-54,J. Johnson makes 3-pt jump shot from 23 ft (assist by S. Bey),,2,54,66,-12,1325.0
+1:44.0, ,66-54,Violation by Team (kicked ball),,2,54,66,-12,1336.0
+1:35.0,J. Smith misses 2-pt layup from 2 ft,66-54, ,,2,54,66,-12,1345.0
+1:33.0, ,66-54,Defensive rebound by J. Johnson,,2,54,66,-12,1347.0
+1:29.0, ,66-57,D. Murray makes 3-pt jump shot from 24 ft (assist by J. Johnson),,2,57,66,-9,1351.0
+1:11.0,B. Brown misses 2-pt layup from 2 ft,66-57, ,,2,57,66,-9,1369.0
+1:10.0,Offensive rebound by M. Turner,66-57, ,,2,57,66,-9,1370.0
+1:10.0,Turnover by M. Turner (out of bounds lost ball),66-57, ,,2,57,66,-9,1370.0
+1:04.0, ,66-59,J. Johnson makes 2-pt dunk at rim (assist by T. Young),,2,59,66,-7,1376.0
+0:45.0,M. Turner misses 3-pt jump shot from 25 ft,66-59, ,,2,59,66,-7,1395.0
+0:38.0,Offensive rebound by M. Turner,66-59, ,,2,59,66,-7,1402.0
+0:26.0,A. Nesmith misses 2-pt jump shot from 16 ft,66-59, ,,2,59,66,-7,1414.0
+0:26.0,Offensive rebound by Team,66-59, ,,2,59,66,-7,1414.0
+0:26.0,Turnover by Team (shot clock),66-59, ,,2,59,66,-7,1414.0
+0:05.0, ,66-61,T. Young makes 2-pt jump shot from 11 ft,,2,61,66,-5,1435.0
+0:05.0, ,66-61,Shooting foul by A. Nesmith (drawn by T. Young),,2,61,66,-5,1435.0
+0:05.0,B. Hield enters the game for A. Nesmith,66-61, ,,2,61,66,-5,1435.0
+0:05.0, ,66-62,T. Young makes free throw 1 of 1,,2,62,66,-4,1435.0
+0:00.0,B. Brown makes 2-pt layup from 5 ft,68-62, ,,2,62,68,-6,1440.0
+0:00.0,Instant Replay (Request: Ruling Stands),68-62, ,,2,62,68,-6,1440.0
+0:00.0,End of 2nd quarter,68-62,,,2,62,68,-6,1440.0
+12:00.0,Start of 3rd quarter,68-62,,,3,62,68,-6,1440.0
+11:44.0,Personal foul by S. Bey (drawn by J. Smith),68-62, ,,3,62,68,-6,1456.0
+11:30.0,J. Smith misses 2-pt layup from 3 ft,68-62, ,,3,62,68,-6,1470.0
+11:26.0, ,68-62,Defensive rebound by S. Bey,,3,62,68,-6,1474.0
+11:08.0, ,68-62,T. Young misses 2-pt jump shot from 4 ft,,3,62,68,-6,1492.0
+11:05.0,Defensive rebound by J. Smith,68-62, ,,3,62,68,-6,1495.0
+11:00.0,B. Brown makes 3-pt jump shot from 26 ft (assist by A. Nembhard),71-62, ,,3,62,71,-9,1500.0
+10:42.0, ,71-64,D. Murray makes 2-pt jump shot from 12 ft,,3,64,71,-7,1518.0
+10:23.0,Shooting foul by D. Murray (drawn by M. Turner),71-64, ,,3,64,71,-7,1537.0
+10:23.0,M. Turner makes free throw 1 of 2,72-64, ,,3,64,72,-8,1537.0
+10:23.0,M. Turner makes free throw 2 of 2,73-64, ,,3,64,73,-9,1537.0
+10:06.0, ,73-64,T. Young misses 2-pt layup from 3 ft,,3,64,73,-9,1554.0
+10:03.0,Defensive rebound by M. Turner,73-64, ,,3,64,73,-9,1557.0
+9:59.0,B. Brown misses 3-pt jump shot from 23 ft,73-64, ,,3,64,73,-9,1561.0
+9:54.0,Offensive rebound by J. Smith,73-64, ,,3,64,73,-9,1566.0
+9:52.0,J. Smith misses 2-pt layup from 2 ft,73-64, ,,3,64,73,-9,1568.0
+9:52.0, ,73-64,Defensive rebound by J. Johnson,,3,64,73,-9,1568.0
+9:40.0, ,73-64,Shooting foul by M. Turner (drawn by C. Capela),,3,64,73,-9,1580.0
+9:40.0, ,73-64,C. Capela misses free throw 1 of 2,,3,64,73,-9,1580.0
+9:40.0, ,73-64,Offensive rebound by Team,,3,64,73,-9,1580.0
+9:40.0, ,73-65,C. Capela makes free throw 2 of 2,,3,65,73,-8,1580.0
+9:28.0,B. Brown misses 2-pt layup from 2 ft (block by C. Capela),73-65, ,,3,65,73,-8,1592.0
+9:24.0, ,73-65,Defensive rebound by S. Bey,,3,65,73,-8,1596.0
+9:23.0, ,73-65,Turnover by T. Young (bad pass; steal by M. Turner),,3,65,73,-8,1597.0
+9:06.0,A. Nembhard makes 3-pt jump shot from 26 ft,76-65, ,,3,65,76,-11,1614.0
+8:53.0, ,76-68,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Young),,3,68,76,-8,1627.0
+8:42.0,A. Nembhard makes 2-pt jump shot from 11 ft,78-68, ,,3,68,78,-10,1638.0
+8:30.0, ,78-68,Shooting foul by M. Turner (drawn by C. Capela),,3,68,78,-10,1650.0
+8:30.0, ,78-68,C. Capela misses free throw 1 of 2,,3,68,78,-10,1650.0
+8:30.0, ,78-68,Offensive rebound by Team,,3,68,78,-10,1650.0
+8:30.0, ,78-68,C. Capela misses free throw 2 of 2,,3,68,78,-10,1650.0
+8:27.0,Defensive rebound by J. Smith,78-68, ,,3,68,78,-10,1653.0
+8:13.0,Turnover by B. Brown (lost ball; steal by T. Young),78-68, ,,3,68,78,-10,1667.0
+8:06.0, ,78-68,Turnover by D. Murray (bad pass; steal by A. Nembhard),,3,68,78,-10,1674.0
+8:00.0,Personal foul by J. Johnson (drawn by J. Smith),78-68, ,,3,68,78,-10,1680.0
+7:55.0,A. Nembhard misses 2-pt jump shot from 13 ft,78-68, ,,3,68,78,-10,1685.0
+7:51.0, ,78-68,Defensive rebound by D. Murray,,3,68,78,-10,1689.0
+7:44.0, ,78-70,D. Murray makes 2-pt jump shot from 11 ft,,3,70,78,-8,1696.0
+7:28.0,M. Turner makes 2-pt jump shot from 12 ft (assist by B. Brown),80-70, ,,3,70,80,-10,1712.0
+7:14.0, ,80-70,J. Johnson misses 2-pt jump shot from 19 ft,,3,70,80,-10,1726.0
+7:12.0,Defensive rebound by A. Nesmith,80-70, ,,3,70,80,-10,1728.0
+7:07.0,M. Turner misses 3-pt jump shot from 26 ft,80-70, ,,3,70,80,-10,1733.0
+7:06.0,Offensive rebound by Team,80-70, ,,3,70,80,-10,1734.0
+7:06.0, ,80-70,Loose ball foul by T. Young (drawn by B. Brown),,3,70,80,-10,1734.0
+7:06.0, ,80-70,B. Bogdanović enters the game for J. Johnson,,3,70,80,-10,1734.0
+7:06.0, ,80-70,T. Forrest enters the game for T. Young,,3,70,80,-10,1734.0
+6:59.0,J. Smith makes 2-pt layup from 1 ft (assist by B. Brown),82-70, ,,3,70,82,-12,1741.0
+6:35.0, ,82-72,D. Murray makes 2-pt layup from 4 ft,,3,72,82,-10,1765.0
+6:34.0, ,82-72,Violation by Team (delay of game),,3,72,82,-10,1766.0
+6:21.0,M. Turner makes 2-pt jump shot from 19 ft (assist by B. Brown),84-72, ,,3,72,84,-12,1779.0
+6:04.0, ,84-72,S. Bey misses 2-pt layup from 2 ft,,3,72,84,-12,1796.0
+6:03.0, ,84-72,Offensive rebound by C. Capela,,3,72,84,-12,1797.0
+6:03.0, ,84-72,C. Capela misses 2-pt layup at rim,,3,72,84,-12,1797.0
+6:02.0,Defensive rebound by Team,84-72, ,,3,72,84,-12,1798.0
+6:02.0, ,84-72,Atlanta full timeout,,3,72,84,-12,1798.0
+6:02.0, ,84-72,O. Okongwu enters the game for C. Capela,,3,72,84,-12,1798.0
+5:50.0,A. Nesmith makes 3-pt jump shot from 24 ft (assist by M. Turner),87-72, ,,3,72,87,-15,1810.0
+5:36.0, ,87-72,B. Bogdanović misses 3-pt jump shot from 25 ft,,3,72,87,-15,1824.0
+5:32.0,Defensive rebound by A. Nesmith,87-72, ,,3,72,87,-15,1828.0
+5:12.0,B. Brown misses 2-pt jump shot from 18 ft,87-72, ,,3,72,87,-15,1848.0
+5:10.0, ,87-72,Defensive rebound by D. Murray,,3,72,87,-15,1850.0
+4:55.0, ,87-72,S. Bey misses 2-pt jump shot from 8 ft,,3,72,87,-15,1865.0
+4:51.0,Defensive rebound by M. Turner,87-72, ,,3,72,87,-15,1869.0
+4:37.0,Turnover by M. Turner (bad pass),87-72, ,,3,72,87,-15,1883.0
+4:37.0,B. Mathurin enters the game for J. Smith,87-72, ,,3,72,87,-15,1883.0
+4:13.0, ,87-72,S. Bey misses 3-pt jump shot from 26 ft,,3,72,87,-15,1907.0
+4:10.0,Defensive rebound by A. Nembhard,87-72, ,,3,72,87,-15,1910.0
+3:55.0,A. Nembhard makes 3-pt jump shot from 27 ft (assist by B. Brown),90-72, ,,3,72,90,-18,1925.0
+3:35.0, ,90-74,D. Murray makes 2-pt jump shot from 20 ft,,3,74,90,-16,1945.0
+3:10.0,Turnover by B. Mathurin (bad pass; steal by D. Murray),90-74, ,,3,74,90,-16,1970.0
+3:00.0, ,90-74,Turnover by D. Murray (bad pass; steal by A. Nembhard),,3,74,90,-16,1980.0
+2:55.0,Indiana full timeout,90-74, ,,3,74,90,-16,1985.0
+2:55.0,B. Hield enters the game for B. Brown,90-74, ,,3,74,90,-16,1985.0
+2:55.0,I. Jackson enters the game for A. Nembhard,90-74, ,,3,74,90,-16,1985.0
+2:55.0,T. McConnell enters the game for A. Nesmith,90-74, ,,3,74,90,-16,1985.0
+2:55.0,O. Toppin enters the game for M. Turner,90-74, ,,3,74,90,-16,1985.0
+2:55.0, ,90-74,J. Johnson enters the game for S. Bey,,3,74,90,-16,1985.0
+2:55.0, ,90-74,T. Young enters the game for D. Murray,,3,74,90,-16,1985.0
+2:43.0,Turnover by B. Hield (bad pass; steal by T. Young),90-74, ,,3,74,90,-16,1997.0
+2:35.0, ,90-74,T. Young misses 2-pt jump shot from 12 ft,,3,74,90,-16,2005.0
+2:32.0, ,90-74,Offensive rebound by T. Young,,3,74,90,-16,2008.0
+2:30.0, ,90-74,T. Forrest misses 2-pt layup at rim,,3,74,90,-16,2010.0
+2:26.0,Defensive rebound by I. Jackson,90-74, ,,3,74,90,-16,2014.0
+2:22.0,I. Jackson makes 2-pt dunk from 2 ft (assist by O. Toppin),92-74, ,,3,74,92,-18,2018.0
+2:18.0, ,92-74,Personal foul by B. Hield (drawn by T. Forrest),,3,74,92,-18,2022.0
+2:03.0, ,92-77,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by T. Forrest),,3,77,92,-15,2037.0
+1:43.0,Turnover by T. McConnell (traveling),92-77, ,,3,77,92,-15,2057.0
+1:30.0, ,92-77,Turnover by T. Young (bad pass; steal by I. Jackson),,3,77,92,-15,2070.0
+1:26.0,I. Jackson makes 2-pt dunk from 1 ft (assist by O. Toppin),94-77, ,,3,77,94,-17,2074.0
+1:04.0, ,94-79,J. Johnson makes 2-pt jump shot from 8 ft (assist by T. Forrest),,3,79,94,-15,2096.0
+0:46.0,B. Hield makes 3-pt jump shot from 25 ft (assist by T. McConnell),97-79, ,,3,79,97,-18,2114.0
+0:38.0, ,97-79,T. Young misses 2-pt layup from 10 ft (block by I. Jackson),,3,79,97,-18,2122.0
+0:34.0,Defensive rebound by T. McConnell,97-79, ,,3,79,97,-18,2126.0
+0:33.0,B. Hield misses 2-pt jump shot from 2 ft,97-79, ,,3,79,97,-18,2127.0
+0:33.0,Offensive rebound by O. Toppin,97-79, ,,3,79,97,-18,2127.0
+0:33.0,O. Toppin makes 2-pt layup at rim,99-79, ,,3,79,99,-20,2127.0
+0:23.0, ,99-79,Offensive foul by J. Johnson (drawn by T. McConnell),,3,79,99,-20,2137.0
+0:23.0, ,99-79,Turnover by J. Johnson (offensive foul),,3,79,99,-20,2137.0
+0:05.0,Turnover by T. McConnell (lost ball; steal by J. Johnson),99-79, ,,3,79,99,-20,2155.0
+0:01.0, ,99-81,J. Johnson makes 2-pt dunk from 1 ft (assist by T. Forrest),,3,81,99,-18,2159.0
+0:00.0,End of 3rd quarter,99-81,,,3,81,99,-18,2160.0
+12:00.0,Start of 4th quarter,99-81,,,4,81,99,-18,2160.0
+11:51.0, ,99-81,Turnover by  (8 sec),,4,81,99,-18,2169.0
+11:36.0,B. Hield makes 3-pt jump shot from 25 ft (assist by B. Mathurin),102-81, ,,4,81,102,-21,2184.0
+11:26.0, ,102-84,T. Young makes 3-pt jump shot from 26 ft,,4,84,102,-18,2194.0
+11:08.0,Turnover by B. Mathurin (bad pass; steal by B. Bogdanović),102-84, ,,4,84,102,-18,2212.0
+11:08.0, ,102-84,Personal foul by I. Jackson (drawn by J. Johnson),,4,84,102,-18,2212.0
+10:48.0, ,102-86,P. Mills makes 2-pt layup from 2 ft (assist by T. Young),,4,86,102,-16,2232.0
+10:43.0,Shooting foul by B. Bogdanović (drawn by B. Mathurin),102-86, ,,4,86,102,-16,2237.0
+10:43.0,B. Mathurin makes free throw 1 of 2,103-86, ,,4,86,103,-17,2237.0
+10:43.0,B. Mathurin makes free throw 2 of 2,104-86, ,,4,86,104,-18,2237.0
+10:29.0, ,104-89,T. Young makes 3-pt jump shot from 26 ft,,4,89,104,-15,2251.0
+10:11.0,Personal foul by B. Bogdanović (drawn by I. Jackson),104-89, ,,4,89,104,-15,2269.0
+10:02.0,B. Hield misses 3-pt jump shot from 26 ft,104-89, ,,4,89,104,-15,2278.0
+9:55.0,Offensive rebound by B. Mathurin,104-89, ,,4,89,104,-15,2285.0
+9:51.0,O. Toppin makes 2-pt layup at rim (assist by T. McConnell),106-89, ,,4,89,106,-17,2289.0
+9:36.0, ,106-89,T. Young misses 2-pt layup from 3 ft,,4,89,106,-17,2304.0
+9:30.0,Defensive rebound by I. Jackson,106-89, ,,4,89,106,-17,2310.0
+9:12.0,B. Hield makes 3-pt jump shot from 24 ft (assist by O. Toppin),109-89, ,,4,89,109,-20,2328.0
+8:48.0, ,109-89,Turnover by T. Young (bad pass; steal by T. McConnell),,4,89,109,-20,2352.0
+8:44.0,O. Toppin makes 2-pt dunk from 1 ft (assist by T. McConnell),111-89, ,,4,89,111,-22,2356.0
+8:44.0, ,111-89,Atlanta full timeout,,4,89,111,-22,2356.0
+8:44.0, ,111-89,S. Bey enters the game for J. Johnson,,4,89,111,-22,2356.0
+8:44.0, ,111-89,D. Murray enters the game for T. Young,,4,89,111,-22,2356.0
+8:33.0, ,111-89,P. Mills misses 2-pt jump shot from 5 ft,,4,89,111,-22,2367.0
+8:29.0,Defensive rebound by T. McConnell,111-89, ,,4,89,111,-22,2371.0
+8:16.0,T. McConnell makes 2-pt jump shot from 7 ft,113-89, ,,4,89,113,-24,2384.0
+8:02.0, ,113-89,Personal foul by B. Mathurin (drawn by B. Bogdanović),,4,89,113,-24,2398.0
+7:58.0, ,113-89,B. Bogdanović misses 2-pt layup from 4 ft (block by B. Hield),,4,89,113,-24,2402.0
+7:54.0, ,113-89,Offensive rebound by B. Bogdanović,,4,89,113,-24,2406.0
+7:54.0, ,113-89,B. Bogdanović misses 2-pt layup from 3 ft,,4,89,113,-24,2406.0
+7:53.0, ,113-89,B. Bogdanović misses 2-pt layup from 4 ft (block by I. Jackson),,4,89,113,-24,2407.0
+7:53.0,Defensive rebound by T. McConnell,113-89, ,,4,89,113,-24,2407.0
+7:50.0,Shooting foul by O. Okongwu (drawn by B. Mathurin),113-89, ,,4,89,113,-24,2410.0
+7:50.0,B. Mathurin misses free throw 1 of 2,113-89, ,,4,89,113,-24,2410.0
+7:50.0,Offensive rebound by Team,113-89, ,,4,89,113,-24,2410.0
+7:50.0,B. Mathurin makes free throw 2 of 2,114-89, ,,4,89,114,-25,2410.0
+7:43.0, ,114-89,Personal foul by B. Hield (drawn by D. Murray),,4,89,114,-25,2417.0
+7:36.0, ,114-89,B. Bogdanović misses 3-pt jump shot from 27 ft,,4,89,114,-25,2424.0
+7:33.0,Defensive rebound by O. Toppin,114-89, ,,4,89,114,-25,2427.0
+7:19.0,Turnover by I. Jackson (bad pass; steal by B. Bogdanović),114-89, ,,4,89,114,-25,2441.0
+7:15.0, ,114-89,Shooting foul by I. Jackson (drawn by S. Bey),,4,89,114,-25,2445.0
+7:15.0, ,114-90,S. Bey makes free throw 1 of 2,,4,90,114,-24,2445.0
+7:15.0,M. Turner enters the game for I. Jackson,114-90, ,,4,90,114,-24,2445.0
+7:15.0, ,114-90,J. Johnson enters the game for B. Bogdanović,,4,90,114,-24,2445.0
+7:15.0, ,114-90,T. Young enters the game for P. Mills,,4,90,114,-24,2445.0
+7:15.0, ,114-91,S. Bey makes free throw 2 of 2,,4,91,114,-23,2445.0
+7:00.0,B. Hield makes 2-pt layup from 1 ft (assist by T. McConnell),116-91, ,,4,91,116,-25,2460.0
+6:54.0, ,116-91,Turnover by J. Johnson (bad pass; steal by T. McConnell),,4,91,116,-25,2466.0
+6:51.0,B. Hield makes 2-pt layup from 2 ft (assist by T. McConnell),118-91, ,,4,91,118,-27,2469.0
+6:41.0, ,118-91,Turnover by J. Johnson (bad pass),,4,91,118,-27,2479.0
+6:31.0,Turnover by B. Mathurin (bad pass; steal by D. Murray),118-91, ,,4,91,118,-27,2489.0
+6:28.0, ,118-93,D. Murray makes 2-pt dunk from 1 ft (assist by S. Bey),,4,93,118,-25,2492.0
+6:27.0,Indiana full timeout,118-93, ,,4,93,118,-25,2493.0
+6:27.0,Technical foul by R. Carlisle,118-93, ,,4,93,118,-25,2493.0
+6:27.0, ,118-94,T. Young makes technical free throw,,4,94,118,-24,2493.0
+6:17.0,Offensive foul by O. Toppin (drawn by J. Johnson),118-94, ,,4,94,118,-24,2503.0
+6:17.0,Turnover by O. Toppin (offensive foul),118-94, ,,4,94,118,-24,2503.0
+6:04.0, ,118-94,D. Murray misses 3-pt jump shot from 25 ft,,4,94,118,-24,2516.0
+6:01.0,Defensive rebound by O. Toppin,118-94, ,,4,94,118,-24,2519.0
+5:45.0,Shooting foul by O. Okongwu (drawn by O. Toppin),118-94, ,,4,94,118,-24,2535.0
+5:45.0,O. Toppin makes free throw 1 of 2,119-94, ,,4,94,119,-25,2535.0
+5:45.0,O. Toppin makes free throw 2 of 2,120-94, ,,4,94,120,-26,2535.0
+5:32.0, ,120-94,Shooting foul by B. Hield (drawn by S. Bey),,4,94,120,-26,2548.0
+5:32.0, ,120-95,S. Bey makes free throw 1 of 2,,4,95,120,-25,2548.0
+5:32.0, ,120-95,T. Forrest enters the game for T. Young,,4,95,120,-25,2548.0
+5:32.0, ,120-96,S. Bey makes free throw 2 of 2,,4,96,120,-24,2548.0
+5:08.0,T. McConnell misses 2-pt jump shot from 11 ft,120-96, ,,4,96,120,-24,2572.0
+5:05.0, ,120-96,Defensive rebound by J. Johnson,,4,96,120,-24,2575.0
+4:56.0, ,120-96,S. Bey misses 3-pt jump shot from 23 ft,,4,96,120,-24,2584.0
+4:53.0, ,120-96,Offensive rebound by O. Okongwu,,4,96,120,-24,2587.0
+4:51.0, ,120-98,O. Okongwu makes 2-pt layup from 1 ft,,4,98,120,-22,2589.0
+4:31.0,O. Toppin makes 2-pt dunk from 2 ft (assist by B. Hield),122-98, ,,4,98,122,-24,2609.0
+4:14.0, ,122-100,O. Okongwu makes 2-pt layup at rim (assist by J. Johnson),,4,100,122,-22,2626.0
+3:50.0,Turnover by T. McConnell (bad pass; steal by S. Bey),122-100, ,,4,100,122,-22,2650.0
+3:43.0, ,122-102,D. Murray makes 2-pt jump shot from 3 ft,,4,102,122,-20,2657.0
+3:42.0,Indiana full timeout,122-102, ,,4,102,122,-20,2658.0
+3:42.0,K. Brown enters the game for B. Hield,122-102, ,,4,102,122,-20,2658.0
+3:42.0,A. Nembhard enters the game for B. Mathurin,122-102, ,,4,102,122,-20,2658.0
+3:42.0,J. Nwora enters the game for T. McConnell,122-102, ,,4,102,122,-20,2658.0
+3:42.0,B. Sheppard enters the game for O. Toppin,122-102, ,,4,102,122,-20,2658.0
+3:42.0,O. Tshiebwe enters the game for M. Turner,122-102, ,,4,102,122,-20,2658.0
+3:42.0, ,122-102,B. Fernando enters the game for S. Bey,,4,102,122,-20,2658.0
+3:42.0, ,122-102,A. Griffin enters the game for J. Johnson,,4,102,122,-20,2658.0
+3:42.0, ,122-102,S. Lundy enters the game for D. Murray,,4,102,122,-20,2658.0
+3:42.0, ,122-102,P. Mills enters the game for O. Okongwu,,4,102,122,-20,2658.0
+3:26.0,Turnover by A. Nembhard (out of bounds lost ball),122-102, ,,4,102,122,-20,2674.0
+3:02.0, ,122-102,B. Fernando misses 3-pt jump shot from 26 ft,,4,102,122,-20,2698.0
+2:55.0,Defensive rebound by A. Nembhard,122-102, ,,4,102,122,-20,2705.0
+2:42.0,Turnover by A. Nembhard (lost ball; steal by P. Mills),122-102, ,,4,102,122,-20,2718.0
+2:37.0, ,122-102,A. Griffin misses 3-pt jump shot from 25 ft,,4,102,122,-20,2723.0
+2:31.0,Defensive rebound by J. Nwora,122-102, ,,4,102,122,-20,2729.0
+2:19.0,O. Tshiebwe makes 2-pt hook shot from 6 ft (assist by J. Nwora),124-102, ,,4,102,124,-22,2741.0
+1:57.0, ,124-102,S. Lundy misses 3-pt jump shot from 25 ft,,4,102,124,-22,2763.0
+1:54.0,Defensive rebound by O. Tshiebwe,124-102, ,,4,102,124,-22,2766.0
+1:43.0,Turnover by A. Nembhard (traveling),124-102, ,,4,102,124,-22,2777.0
+1:18.0, ,124-104,T. Forrest makes 2-pt jump shot from 12 ft,,4,104,124,-20,2802.0
+0:58.0,O. Tshiebwe makes 2-pt layup from 5 ft (assist by J. Nwora),126-104, ,,4,104,126,-22,2822.0
+0:43.0, ,126-104,Shooting foul by K. Brown (drawn by S. Lundy),,4,104,126,-22,2837.0
+0:43.0, ,126-105,S. Lundy makes free throw 1 of 2,,4,105,126,-21,2837.0
+0:43.0, ,126-106,S. Lundy makes free throw 2 of 2,,4,106,126,-20,2837.0
+0:34.0,J. Nwora misses 2-pt jump shot from 6 ft (block by A. Griffin),126-106, ,,4,106,126,-20,2846.0
+0:29.0, ,126-106,Defensive rebound by B. Fernando,,4,106,126,-20,2851.0
+0:26.0, ,126-108,A. Griffin makes 2-pt layup from 1 ft (assist by T. Forrest),,4,108,126,-18,2854.0
+0:02.0,Turnover by Team (shot clock),126-108, ,,4,108,126,-18,2878.0
+0:00.0,End of 4th quarter,126-108,,,4,108,126,-18,2880.0

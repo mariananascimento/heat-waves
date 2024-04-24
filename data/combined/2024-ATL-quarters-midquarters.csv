@@ -1,0 +1,751 @@
+Time,Score,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime,Notes,OpponentName,id
+6:03.0,14-17,,1,14,17,-3,357.0,D. Hunter makes 2-pt layup from 3 ft (assist by J. Johnson),Charlotte,202310250CHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. M. Williams (P. Washington gains possession),Charlotte,202310250CHO
+6:14.0,44-33,,2,44,33,11,1066.0,B. Bogdanović makes 2-pt layup from 2 ft,Charlotte,202310250CHO
+12:00.0,29-25,,2,29,25,4,720.0,Start of 2nd quarter,Charlotte,202310250CHO
+6:14.0,63-67,,3,63,67,-4,1786.0, ,Charlotte,202310250CHO
+12:00.0,52-51,,3,52,51,1,1440.0,Start of 3rd quarter,Charlotte,202310250CHO
+6:10.0,94-93,,4,94,93,1,2510.0, ,Charlotte,202310250CHO
+12:00.0,73-78,,4,73,78,-5,2160.0,Start of 4th quarter,Charlotte,202310250CHO
+0:00.0,110-116,,4,110,116,-6,2880.0,End of 4th quarter,Charlotte,202310250CHO
+6:19.0,13-8,,1,8,13,-5,341.0, ,New York,202310270ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. C. Capela (J. Brunson gains possession),New York,202310270ATL
+6:08.0,50-49,,2,49,50,-1,1072.0,D. Hunter makes 2-pt layup from 1 ft (assist by C. Capela),New York,202310270ATL
+12:00.0,35-31,,2,31,35,-4,720.0,Start of 2nd quarter,New York,202310270ATL
+6:02.0,81-78,,3,78,81,-3,1798.0, ,New York,202310270ATL
+12:00.0,69-61,,3,61,69,-8,1440.0,Start of 3rd quarter,New York,202310270ATL
+6:03.0,109-108,,4,108,109,-1,2517.0,D. Hunter misses 3-pt jump shot from 22 ft,New York,202310270ATL
+12:00.0,100-92,,4,92,100,-8,2160.0,Start of 4th quarter,New York,202310270ATL
+0:00.0,126-120,,4,120,126,-6,2880.0,J. Johnson misses 3-pt jump shot from 38 ft,New York,202310270ATL
+6:01.0,16-7,,1,16,7,9,359.0,C. Capela makes 2-pt layup from 5 ft (assist by D. Murray),Milwaukee,202310290MIL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Lopez (G. Antetokounmpo gains possession),Milwaukee,202310290MIL
+6:16.0,48-33,,2,48,33,15,1064.0,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by D. Murray),Milwaukee,202310290MIL
+12:00.0,31-25,,2,31,25,6,720.0,Start of 2nd quarter,Milwaukee,202310290MIL
+6:07.0,83-61,,3,83,61,22,1793.0, ,Milwaukee,202310290MIL
+12:00.0,68-47,,3,68,47,21,1440.0,Start of 3rd quarter,Milwaukee,202310290MIL
+6:03.0,120-93,,4,120,93,27,2517.0,O. Okongwu makes 2-pt dunk from 2 ft (assist by T. Young),Milwaukee,202310290MIL
+12:00.0,101-80,,4,101,80,21,2160.0,Start of 4th quarter,Milwaukee,202310290MIL
+0:00.0,127-110,,4,127,110,17,2880.0,End of 4th quarter,Milwaukee,202310290MIL
+6:07.0,20-18,,1,18,20,-2,353.0, ,Minnesota,202310300ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: R. Gobert vs. C. Capela (J. Johnson gains possession),Minnesota,202310300ATL
+6:06.0,61-47,,2,47,61,-14,1074.0,Defensive rebound by S. Bey,Minnesota,202310300ATL
+12:00.0,42-35,,2,35,42,-7,720.0,Start of 2nd quarter,Minnesota,202310300ATL
+6:06.0,88-76,,3,76,88,-12,1794.0,J. Johnson makes 2-pt dunk from 2 ft (assist by D. Murray),Minnesota,202310300ATL
+12:00.0,79-60,,3,60,79,-19,1440.0,Start of 3rd quarter,Minnesota,202310300ATL
+6:11.0,102-113,,4,113,102,11,2509.0, ,Minnesota,202310300ATL
+12:00.0,98-98,,4,98,98,0,2160.0,Start of 4th quarter,Minnesota,202310300ATL
+0:00.0,113-127,,4,127,113,14,2880.0,End of 4th quarter,Minnesota,202310300ATL
+6:01.0,19-12,,1,12,19,-7,359.0, ,Washington,202311010ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Muscala vs. C. Capela (D. Hunter gains possession),Washington,202311010ATL
+6:10.0,44-40,,2,40,44,-4,1070.0, ,Washington,202311010ATL
+12:00.0,30-25,,2,25,30,-5,720.0,Start of 2nd quarter,Washington,202311010ATL
+6:00.0,66-87,,3,87,66,21,1800.0,Turnover by T. Young (lost ball; steal by T. Jones),Washington,202311010ATL
+12:00.0,51-59,,3,59,51,8,1440.0,Start of 3rd quarter,Washington,202311010ATL
+6:12.0,93-117,,4,117,93,24,2508.0,D. Hunter makes 2-pt jump shot from 16 ft,Washington,202311010ATL
+12:00.0,82-99,,4,99,82,17,2160.0,Start of 4th quarter,Washington,202311010ATL
+0:00.0,121-130,,4,130,121,9,2880.0,Turnover by Team (shot clock),Washington,202311010ATL
+6:07.0,14-18,,1,14,18,-4,353.0,J. Johnson makes 2-pt layup from 3 ft (assist by D. Murray),New Orleans,202311040NOP
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Valančiūnas (Z. Williamson gains possession),New Orleans,202311040NOP
+6:13.0,43-45,Lead change,2,43,45,-2,1067.0, ,New Orleans,202311040NOP
+12:00.0,27-35,,2,27,35,-8,720.0,Start of 2nd quarter,New Orleans,202311040NOP
+6:07.0,73-71,Lead change,3,73,71,2,1793.0,T. Young makes 3-pt jump shot from 26 ft (assist by D. Murray),New Orleans,202311040NOP
+12:00.0,53-60,,3,53,60,-7,1440.0,Start of 3rd quarter,New Orleans,202311040NOP
+6:00.0,107-94,,4,107,94,13,2520.0, ,New Orleans,202311040NOP
+12:00.0,94-83,,4,94,83,11,2160.0,Start of 4th quarter,New Orleans,202311040NOP
+0:00.0,123-105,,4,123,105,18,2880.0,End of 4th quarter,New Orleans,202311040NOP
+6:03.0,10-15,,1,10,15,-5,357.0,T. Young makes 2-pt layup from 2 ft (assist by J. Johnson),Oklahoma City,202311060OKC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. C. Holmgren (J. Giddey gains possession),Oklahoma City,202311060OKC
+6:07.0,33-38,,2,33,38,-5,1073.0,Defensive rebound by O. Okongwu,Oklahoma City,202311060OKC
+12:00.0,28-29,,2,28,29,-1,720.0,Start of 2nd quarter,Oklahoma City,202311060OKC
+6:11.0,65-75,,3,65,75,-10,1789.0,S. Bey makes 3-pt jump shot from 25 ft (assist by D. Murray),Oklahoma City,202311060OKC
+12:00.0,50-58,,3,50,58,-8,1440.0,Start of 3rd quarter,Oklahoma City,202311060OKC
+6:00.0,95-105,,4,95,105,-10,2520.0,D. Murray makes free throw 2 of 2,Oklahoma City,202311060OKC
+12:00.0,77-96,,4,77,96,-19,2160.0,Start of 4th quarter,Oklahoma City,202311060OKC
+0:00.0,117-126,,4,117,126,-9,2880.0,End of 4th quarter,Oklahoma City,202311060OKC
+6:02.0,18-13,,1,18,13,5,358.0,Turnover by B. Bogdanović (bad pass),Orlando,202311090ORL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. G. Bitadze (T. Young gains possession),Orlando,202311090ORL
+6:03.0,52-43,,2,52,43,9,1077.0, ,Orlando,202311090ORL
+12:00.0,34-34,,2,34,34,0,720.0,Start of 2nd quarter,Orlando,202311090ORL
+6:17.0,86-80,,3,86,80,6,1783.0,D. Murray makes 2-pt jump shot from 13 ft,Orlando,202311090ORL
+12:00.0,73-69,,3,73,69,4,1440.0,Start of 3rd quarter,Orlando,202311090ORL
+6:03.0,105-113,,4,105,113,-8,2517.0,Offensive rebound by Team,Orlando,202311090ORL
+12:00.0,93-98,,4,93,98,-5,2160.0,Start of 4th quarter,Orlando,202311090ORL
+0:00.0,120-119,,4,120,119,1,2880.0,End of 4th quarter,Orlando,202311090ORL
+6:07.0,18-9,,1,9,18,-9,353.0, ,Miami,202311110ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. C. Capela (K. Lowry gains possession),Miami,202311110ATL
+6:00.0,54-33,,2,33,54,-21,1080.0,C. Capela misses 2-pt hook shot from 5 ft,Miami,202311110ATL
+12:00.0,41-24,,2,24,41,-17,720.0,Start of 2nd quarter,Miami,202311110ATL
+6:18.0,74-67,,3,67,74,-7,1782.0,T. Young makes 3-pt jump shot from 26 ft,Miami,202311110ATL
+12:00.0,63-52,,3,52,63,-11,1440.0,Start of 3rd quarter,Miami,202311110ATL
+6:09.0,106-94,,4,94,106,-12,2511.0,C. Capela enters the game for O. Okongwu,Miami,202311110ATL
+12:00.0,93-82,,4,82,93,-11,2160.0,Start of 4th quarter,Miami,202311110ATL
+0:00.0,117-109,,4,109,117,-8,2880.0,End of 4th quarter,Miami,202311110ATL
+6:12.0,21-11,,1,21,11,10,348.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by D. Murray),Detroit,202311140DET
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. M. Bagley (B. Bogdanović gains possession),Detroit,202311140DET
+6:02.0,49-45,,2,49,45,4,1078.0, ,Detroit,202311140DET
+12:00.0,38-29,,2,38,29,9,720.0,Start of 2nd quarter,Detroit,202311140DET
+6:12.0,74-77,,3,74,77,-3,1788.0, ,Detroit,202311140DET
+12:00.0,64-60,,3,64,60,4,1440.0,Start of 3rd quarter,Detroit,202311140DET
+6:10.0,111-106,,4,111,106,5,2510.0,J. Johnson makes 2-pt jump shot from 7 ft (assist by O. Okongwu),Detroit,202311140DET
+12:00.0,97-91,,4,97,91,6,2160.0,Start of 4th quarter,Detroit,202311140DET
+0:00.0,126-120,,4,126,120,6,2880.0, ,Detroit,202311140DET
+6:02.0,16-11,,1,11,16,-5,358.0,S. Bey makes 2-pt jump shot from 4 ft (assist by D. Murray),New York,202311150ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Robinson vs. C. Capela (J. Randle gains possession),New York,202311150ATL
+6:00.0,49-43,,2,43,49,-6,1080.0, ,New York,202311150ATL
+12:00.0,33-22,,2,22,33,-11,720.0,Start of 2nd quarter,New York,202311150ATL
+6:08.0,71-66,,3,66,71,-5,1792.0, ,New York,202311150ATL
+12:00.0,57-56,,3,56,57,-1,1440.0,Start of 3rd quarter,New York,202311150ATL
+6:00.0,94-97,,4,97,94,3,2520.0, ,New York,202311150ATL
+12:00.0,87-81,,4,81,87,-6,2160.0,Start of 4th quarter,New York,202311150ATL
+0:00.0,116-114,,4,114,116,-2,2880.0,End of 4th quarter,New York,202311150ATL
+6:00.0,15-14,,1,14,15,-1,360.0,Offensive rebound by J. Johnson,Philadelphia,202311170ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Embiid vs. C. Capela (J. Johnson gains possession),Philadelphia,202311170ATL
+6:00.0,37-41,,2,41,37,4,1080.0, ,Philadelphia,202311170ATL
+12:00.0,30-24,,2,24,30,-6,720.0,Start of 2nd quarter,Philadelphia,202311170ATL
+6:15.0,68-73,,3,73,68,5,1785.0,J. Johnson makes 2-pt jump shot from 13 ft,Philadelphia,202311170ATL
+12:00.0,57-56,,3,56,57,-1,1440.0,Start of 3rd quarter,Philadelphia,202311170ATL
+6:00.0,111-99,,4,99,111,-12,2520.0,C. Capela makes free throw 2 of 2,Philadelphia,202311170ATL
+12:00.0,94-87,,4,87,94,-7,2160.0,Start of 4th quarter,Philadelphia,202311170ATL
+0:00.0,126-116,,4,116,126,-10,2880.0, ,Philadelphia,202311170ATL
+6:19.0,20-17,,1,17,20,-3,341.0, ,Indiana,202311210ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. C. Capela (B. Brown gains possession),Indiana,202311210ATL
+6:01.0,51-62,,2,62,51,11,1079.0,Defensive rebound by S. Bey,Indiana,202311210ATL
+12:00.0,34-40,,2,40,34,6,720.0,Start of 2nd quarter,Indiana,202311210ATL
+6:00.0,95-103,,3,103,95,8,1800.0,C. Capela misses 2-pt layup from 3 ft (block by M. Turner),Indiana,202311210ATL
+12:00.0,73-86,,3,86,73,13,1440.0,Start of 3rd quarter,Indiana,202311210ATL
+6:13.0,136-132,,4,132,136,-4,2507.0,J. Johnson makes 2-pt layup from 2 ft,Indiana,202311210ATL
+12:00.0,119-114,,4,114,119,-5,2160.0,Start of 4th quarter,Indiana,202311210ATL
+0:00.0,157-152,,4,152,157,-5,2880.0, ,Indiana,202311210ATL
+6:04.0,20-21,,1,21,20,1,356.0,Defensive rebound by J. Johnson,Brooklyn,202311220ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Claxton vs. C. Capela (S. Dinwiddie gains possession),Brooklyn,202311220ATL
+6:08.0,52-58,,2,58,52,6,1072.0,Defensive rebound by J. Johnson,Brooklyn,202311220ATL
+12:00.0,33-45,,2,45,33,12,720.0,Start of 2nd quarter,Brooklyn,202311220ATL
+6:15.0,85-87,,3,87,85,2,1785.0, ,Brooklyn,202311220ATL
+12:00.0,67-77,,3,77,67,10,1440.0,Start of 3rd quarter,Brooklyn,202311220ATL
+6:12.0,110-115,,4,115,110,5,2508.0,D. Hunter makes 2-pt layup from 1 ft (assist by S. Bey),Brooklyn,202311220ATL
+12:00.0,95-100,,4,100,95,5,2160.0,Start of 4th quarter,Brooklyn,202311220ATL
+0:00.0,145-147,,5,147,145,2,3180.0,End of 1st overtime,Brooklyn,202311220ATL
+6:09.0,21-13,,1,21,13,8,351.0, ,Washington,202311250WAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. D. Gafford (J. Johnson gains possession),Washington,202311250WAS
+6:04.0,50-43,,2,50,43,7,1076.0, ,Washington,202311250WAS
+12:00.0,34-30,,2,34,30,4,720.0,Start of 2nd quarter,Washington,202311250WAS
+6:01.0,87-65,,3,87,65,22,1799.0,D. Murray makes 3-pt jump shot from 27 ft (assist by C. Capela),Washington,202311250WAS
+12:00.0,70-58,,3,70,58,12,1440.0,Start of 3rd quarter,Washington,202311250WAS
+6:08.0,120-90,,4,120,90,30,2512.0, ,Washington,202311250WAS
+12:00.0,107-78,,4,107,78,29,2160.0,Start of 4th quarter,Washington,202311250WAS
+0:00.0,136-108,,4,136,108,28,2880.0,End of 4th quarter,Washington,202311250WAS
+6:05.0,13-16,,1,13,16,-3,355.0, ,Boston,202311260BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. A. Horford (J. Brown gains possession),Boston,202311260BOS
+6:02.0,39-48,,2,39,48,-9,1078.0, ,Boston,202311260BOS
+12:00.0,26-33,,2,26,33,-7,720.0,Start of 2nd quarter,Boston,202311260BOS
+6:05.0,64-80,,3,64,80,-16,1795.0,B. Bogdanović makes 3-pt jump shot from 26 ft,Boston,202311260BOS
+12:00.0,53-69,,3,53,69,-16,1440.0,Start of 3rd quarter,Boston,202311260BOS
+6:10.0,97-108,,4,97,108,-11,2510.0,D. Hunter makes free throw 3 of 3,Boston,202311260BOS
+12:00.0,82-90,,4,82,90,-8,2160.0,Start of 4th quarter,Boston,202311260BOS
+0:00.0,103-113,,4,103,113,-10,2880.0,End of 4th quarter,Boston,202311260BOS
+6:09.0,15-17,,1,15,17,-2,351.0, ,Cleveland,202311280CLE
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Allen (M. Strus gains possession),Cleveland,202311280CLE
+6:03.0,51-43,,2,51,43,8,1077.0, ,Cleveland,202311280CLE
+12:00.0,33-29,,2,33,29,4,720.0,Start of 2nd quarter,Cleveland,202311280CLE
+6:08.0,70-85,,3,70,85,-15,1792.0, ,Cleveland,202311280CLE
+12:00.0,61-64,,3,61,64,-3,1440.0,Start of 3rd quarter,Cleveland,202311280CLE
+6:01.0,99-117,,4,99,117,-18,2519.0,D. Hunter misses 3-pt jump shot from 27 ft,Cleveland,202311280CLE
+12:00.0,90-102,,4,90,102,-12,2160.0,Start of 4th quarter,Cleveland,202311280CLE
+0:00.0,105-128,,4,105,128,-23,2880.0,End of 4th quarter,Cleveland,202311280CLE
+6:10.0,13-24,,1,13,24,-11,350.0, ,San Antonio,202311300SAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. V. Wembanyama (J. Sochan gains possession),San Antonio,202311300SAS
+6:10.0,45-48,,2,45,48,-3,1070.0, ,San Antonio,202311300SAS
+12:00.0,26-35,,2,26,35,-9,720.0,Start of 2nd quarter,San Antonio,202311300SAS
+6:04.0,81-81,,3,81,81,0,1796.0, ,San Antonio,202311300SAS
+12:00.0,62-66,,3,62,66,-4,1440.0,Start of 3rd quarter,San Antonio,202311300SAS
+6:10.0,119-117,Lead change,4,119,117,2,2510.0,D. Murray makes 2-pt jump shot from 11 ft,San Antonio,202311300SAS
+12:00.0,101-105,,4,101,105,-4,2160.0,Start of 4th quarter,San Antonio,202311300SAS
+0:00.0,137-135,,4,137,135,2,2880.0,End of 4th quarter,San Antonio,202311300SAS
+6:14.0,20-19,,1,20,19,1,346.0, ,Milwaukee,202312020MIL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Lopez (G. Antetokounmpo gains possession),Milwaukee,202312020MIL
+6:16.0,48-53,,2,48,53,-5,1064.0, ,Milwaukee,202312020MIL
+12:00.0,37-42,,2,37,42,-5,720.0,Start of 2nd quarter,Milwaukee,202312020MIL
+6:01.0,83-84,,3,83,84,-1,1799.0,Defensive rebound by S. Bey,Milwaukee,202312020MIL
+12:00.0,63-67,,3,63,67,-4,1440.0,Start of 3rd quarter,Milwaukee,202312020MIL
+6:02.0,110-112,,4,110,112,-2,2518.0, ,Milwaukee,202312020MIL
+12:00.0,98-99,,4,98,99,-1,2160.0,Start of 4th quarter,Milwaukee,202312020MIL
+0:00.0,121-132,,4,121,132,-11,2880.0,End of 4th quarter,Milwaukee,202312020MIL
+6:03.0,15-19,,1,19,15,4,357.0, ,Brooklyn,202312060ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Claxton vs. C. Capela (S. Bey gains possession),Brooklyn,202312060ATL
+6:01.0,41-41,,2,41,41,0,1079.0, ,Brooklyn,202312060ATL
+12:00.0,31-33,,2,33,31,2,720.0,Start of 2nd quarter,Brooklyn,202312060ATL
+6:11.0,66-72,,3,72,66,6,1789.0,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by D. Murray),Brooklyn,202312060ATL
+12:00.0,53-56,,3,56,53,3,1440.0,Start of 3rd quarter,Brooklyn,202312060ATL
+6:01.0,98-99,Lead change,4,99,98,1,2519.0,B. Bogdanović makes 3-pt jump shot from 25 ft,Brooklyn,202312060ATL
+12:00.0,81-82,,4,82,81,1,2160.0,Start of 4th quarter,Brooklyn,202312060ATL
+0:00.0,114-113,,4,113,114,-1,2880.0,T. Young misses 2-pt jump shot from 17 ft,Brooklyn,202312060ATL
+6:10.0,11-17,,1,11,17,-6,350.0, ,Philadelphia,202312080PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Embiid (T. Maxey gains possession),Philadelphia,202312080PHI
+6:06.0,43-49,,2,43,49,-6,1074.0,D. Hunter makes 2-pt layup from 2 ft (assist by O. Okongwu),Philadelphia,202312080PHI
+12:00.0,23-35,,2,23,35,-12,720.0,Start of 2nd quarter,Philadelphia,202312080PHI
+6:00.0,81-80,,3,81,80,1,1800.0, ,Philadelphia,202312080PHI
+12:00.0,68-62,,3,68,62,6,1440.0,Start of 3rd quarter,Philadelphia,202312080PHI
+6:09.0,104-104,,4,104,104,0,2511.0,Turnover by C. Capela (traveling),Philadelphia,202312080PHI
+12:00.0,92-93,,4,92,93,-1,2160.0,Start of 4th quarter,Philadelphia,202312080PHI
+0:00.0,114-125,,4,114,125,-11,2880.0,End of 4th quarter,Philadelphia,202312080PHI
+6:03.0,14-15,,1,15,14,1,357.0, ,Denver,202312110ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Jokić vs. C. Capela (A. Gordon gains possession),Denver,202312110ATL
+6:02.0,45-50,,2,50,45,5,1078.0, ,Denver,202312110ATL
+12:00.0,28-36,,2,36,28,8,720.0,Start of 2nd quarter,Denver,202312110ATL
+6:00.0,82-71,,3,71,82,-11,1800.0, ,Denver,202312110ATL
+12:00.0,65-62,,3,62,65,-3,1440.0,Start of 3rd quarter,Denver,202312110ATL
+6:00.0,115-102,,4,102,115,-13,2520.0,D. Murray makes 3-pt jump shot from 25 ft,Denver,202312110ATL
+12:00.0,103-86,,4,86,103,-17,2160.0,Start of 4th quarter,Denver,202312110ATL
+0:00.0,129-122,,4,122,129,-7,2880.0,End of 4th quarter,Denver,202312110ATL
+6:13.0,14-19,,1,14,19,-5,347.0, ,Toronto,202312130TOR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Poeltl (D. Schröder gains possession),Toronto,202312130TOR
+6:02.0,55-48,,2,55,48,7,1078.0, ,Toronto,202312130TOR
+12:00.0,39-31,,2,39,31,8,720.0,Start of 2nd quarter,Toronto,202312130TOR
+6:07.0,83-86,,3,83,86,-3,1793.0,D. Murray makes 2-pt layup from 3 ft (assist by T. Young),Toronto,202312130TOR
+12:00.0,66-64,,3,66,64,2,1440.0,Start of 3rd quarter,Toronto,202312130TOR
+6:26.0,107-109,,4,107,109,-2,2494.0,B. Bogdanović makes 3-pt jump shot from 29 ft (assist by T. Young),Toronto,202312130TOR
+12:00.0,95-103,,4,95,103,-8,2160.0,Start of 4th quarter,Toronto,202312130TOR
+0:00.0,128-135,,4,128,135,-7,2880.0,End of 4th quarter,Toronto,202312130TOR
+6:10.0,13-12,Lead change,1,13,12,1,350.0,D. Murray makes 2-pt layup from 2 ft (assist by S. Bey),Toronto,202312150TOR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Poeltl (D. Schröder gains possession),Toronto,202312150TOR
+6:02.0,45-40,,2,45,40,5,1078.0, ,Toronto,202312150TOR
+12:00.0,30-24,,2,30,24,6,720.0,Start of 2nd quarter,Toronto,202312150TOR
+6:07.0,77-65,,3,77,65,12,1793.0,T. Young makes 2-pt jump shot from 11 ft,Toronto,202312150TOR
+12:00.0,59-49,,3,59,49,10,1440.0,Start of 3rd quarter,Toronto,202312150TOR
+6:06.0,110-92,,4,110,92,18,2514.0, ,Toronto,202312150TOR
+12:00.0,87-78,,4,87,78,9,2160.0,Start of 4th quarter,Toronto,202312150TOR
+0:00.0,125-104,,4,125,104,21,2880.0,End of 4th quarter,Toronto,202312150TOR
+6:07.0,9-22,,1,9,22,-13,353.0, ,Cleveland,202312160CLE
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Okongwu vs. J. Allen (D. Mitchell gains possession),Cleveland,202312160CLE
+6:14.0,35-54,,2,35,54,-19,1066.0,Loose ball foul by O. Okongwu (drawn by T. Thompson),Cleveland,202312160CLE
+12:00.0,28-41,,2,28,41,-13,720.0,Start of 2nd quarter,Cleveland,202312160CLE
+6:02.0,68-81,,3,68,81,-13,1798.0,Defensive rebound by S. Bey,Cleveland,202312160CLE
+12:00.0,52-70,,3,52,70,-18,1440.0,Start of 3rd quarter,Cleveland,202312160CLE
+6:11.0,100-109,,4,100,109,-9,2509.0, ,Cleveland,202312160CLE
+12:00.0,81-92,,4,81,92,-11,2160.0,Start of 4th quarter,Cleveland,202312160CLE
+0:00.0,119-127,,4,119,127,-8,2880.0,End of 4th quarter,Cleveland,202312160CLE
+6:09.0,10-20,,1,20,10,10,351.0,D. Murray makes 3-pt jump shot from 25 ft,Detroit,202312180ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Bagley vs. C. Capela (B. Bogdanović gains possession),Detroit,202312180ATL
+6:00.0,39-47,,2,47,39,8,1080.0, ,Detroit,202312180ATL
+12:00.0,25-38,,2,38,25,13,720.0,Start of 2nd quarter,Detroit,202312180ATL
+6:04.0,69-82,,3,82,69,13,1796.0, ,Detroit,202312180ATL
+12:00.0,52-61,,3,61,52,9,1440.0,Start of 3rd quarter,Detroit,202312180ATL
+6:01.0,107-115,,4,115,107,8,2519.0,T. Young makes free throw 2 of 2,Detroit,202312180ATL
+12:00.0,84-96,,4,96,84,12,2160.0,Start of 4th quarter,Detroit,202312180ATL
+0:00.0,124-130,,4,130,124,6,2880.0,End of 4th quarter,Detroit,202312180ATL
+6:02.0,22-18,,1,22,18,4,358.0, ,Houston,202312200HOU
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. A. Sengun (D. Brooks gains possession),Houston,202312200HOU
+6:11.0,59-42,,2,59,42,17,1069.0,B. Bogdanović makes 3-pt jump shot from 30 ft (assist by D. Murray),Houston,202312200HOU
+12:00.0,39-29,,2,39,29,10,720.0,Start of 2nd quarter,Houston,202312200HOU
+6:05.0,86-81,,3,86,81,5,1795.0,D. Hunter makes 2-pt layup from 4 ft (assist by D. Murray),Houston,202312200HOU
+12:00.0,77-65,,3,77,65,12,1440.0,Start of 3rd quarter,Houston,202312200HOU
+6:00.0,127-109,,4,127,109,18,2520.0,B. Bogdanović makes 2-pt layup from 4 ft (assist by T. Young),Houston,202312200HOU
+12:00.0,98-100,,4,98,100,-2,2160.0,Start of 4th quarter,Houston,202312200HOU
+0:00.0,134-127,,4,134,127,7,2880.0,End of 4th quarter,Houston,202312200HOU
+6:00.0,11-20,,1,11,20,-9,360.0, ,Miami,202312220MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (K. Lowry gains possession),Miami,202312220MIA
+6:09.0,46-49,,2,46,49,-3,1071.0,P. Mills makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),Miami,202312220MIA
+12:00.0,26-33,,2,26,33,-7,720.0,Start of 2nd quarter,Miami,202312220MIA
+6:13.0,73-70,,3,73,70,3,1787.0, ,Miami,202312220MIA
+12:00.0,60-62,,3,60,62,-2,1440.0,Start of 3rd quarter,Miami,202312220MIA
+6:02.0,98-104,,4,98,104,-6,2518.0,C. Capela makes 2-pt dunk at rim,Miami,202312220MIA
+12:00.0,86-88,,4,86,88,-2,2160.0,Start of 4th quarter,Miami,202312220MIA
+0:00.0,113-122,,4,113,122,-9,2880.0, ,Miami,202312220MIA
+6:05.0,12-17,,1,17,12,5,355.0,Defensive rebound by D. Murray,Memphis,202312230ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Jackson vs. C. Capela (D. Bane gains possession),Memphis,202312230ATL
+6:05.0,41-43,,2,43,41,2,1075.0, ,Memphis,202312230ATL
+12:00.0,25-32,,2,32,25,7,720.0,Start of 2nd quarter,Memphis,202312230ATL
+6:02.0,70-72,,3,72,70,2,1798.0, ,Memphis,202312230ATL
+12:00.0,50-60,,3,60,50,10,1440.0,Start of 3rd quarter,Memphis,202312230ATL
+6:08.0,110-106,,4,106,110,-4,2512.0, ,Memphis,202312230ATL
+12:00.0,90-93,,4,93,90,3,2160.0,Start of 4th quarter,Memphis,202312230ATL
+0:00.0,125-119,,4,119,125,-6,2880.0,End of 4th quarter,Memphis,202312230ATL
+6:02.0,7-10,,1,7,10,-3,358.0,Defensive rebound by D. Murray,Chicago,202312260CHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. A. Drummond (C. White gains possession),Chicago,202312260CHI
+6:08.0,37-38,,2,37,38,-1,1072.0,Defensive rebound by S. Bey,Chicago,202312260CHI
+12:00.0,17-28,,2,17,28,-11,720.0,Start of 2nd quarter,Chicago,202312260CHI
+6:06.0,69-64,,3,69,64,5,1794.0, ,Chicago,202312260CHI
+12:00.0,56-50,,3,56,50,6,1440.0,Start of 3rd quarter,Chicago,202312260CHI
+6:05.0,99-103,,4,99,103,-4,2515.0, ,Chicago,202312260CHI
+12:00.0,85-83,,4,85,83,2,2160.0,Start of 4th quarter,Chicago,202312260CHI
+0:00.0,113-118,,4,113,118,-5,2880.0,End of 4th quarter,Chicago,202312260CHI
+6:01.0,8-21,,1,21,8,13,359.0, ,Sacramento,202312290ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Sabonis vs. C. Capela (S. Bey gains possession),Sacramento,202312290ATL
+6:06.0,43-48,,2,48,43,5,1074.0,T. Young enters the game for O. Okongwu,Sacramento,202312290ATL
+12:00.0,23-36,,2,36,23,13,720.0,Start of 2nd quarter,Sacramento,202312290ATL
+6:09.0,71-78,,3,78,71,7,1791.0,Personal foul by D. Sabonis (drawn by O. Okongwu),Sacramento,202312290ATL
+12:00.0,53-71,,3,71,53,18,1440.0,Start of 3rd quarter,Sacramento,202312290ATL
+6:04.0,103-105,,4,105,103,2,2516.0,Turnover by J. Johnson (traveling),Sacramento,202312290ATL
+12:00.0,86-91,,4,91,86,5,2160.0,Start of 4th quarter,Sacramento,202312290ATL
+0:00.0,117-110,,4,110,117,-7,2880.0,End of 4th quarter,Sacramento,202312290ATL
+6:09.0,10-22,,1,10,22,-12,351.0, ,Washington,202312310WAS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. D. Gafford (J. Johnson gains possession),Washington,202312310WAS
+6:00.0,45-45,,2,45,45,0,1080.0, ,Washington,202312310WAS
+12:00.0,28-30,,2,28,30,-2,720.0,Start of 2nd quarter,Washington,202312310WAS
+6:16.0,83-76,,3,83,76,7,1784.0, ,Washington,202312310WAS
+12:00.0,70-58,,3,70,58,12,1440.0,Start of 3rd quarter,Washington,202312310WAS
+6:02.0,110-99,,4,110,99,11,2518.0,B. Bogdanović misses 3-pt jump shot from 26 ft,Washington,202312310WAS
+12:00.0,100-87,,4,100,87,13,2160.0,Start of 4th quarter,Washington,202312310WAS
+0:00.0,130-126,,4,130,126,4,2880.0, ,Washington,202312310WAS
+6:11.0,8-17,,1,17,8,9,349.0,C. Capela makes free throw 2 of 2,Oklahoma City,202401030ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Holmgren vs. C. Capela (T. Young gains possession),Oklahoma City,202401030ATL
+6:15.0,40-55,,2,55,40,15,1065.0, ,Oklahoma City,202401030ATL
+12:00.0,25-39,,2,39,25,14,720.0,Start of 2nd quarter,Oklahoma City,202401030ATL
+6:06.0,85-93,,3,93,85,8,1794.0, ,Oklahoma City,202401030ATL
+12:00.0,59-76,,3,76,59,17,1440.0,Start of 3rd quarter,Oklahoma City,202401030ATL
+6:01.0,118-130,,4,130,118,12,2519.0,D. Murray makes 2-pt jump shot from 1 ft,Oklahoma City,202401030ATL
+12:00.0,103-116,,4,116,103,13,2160.0,Start of 4th quarter,Oklahoma City,202401030ATL
+0:00.0,138-141,,4,141,138,3,2880.0, ,Oklahoma City,202401030ATL
+6:14.0,13-16,,1,13,16,-3,346.0,T. Forrest enters the game for T. Young,Indiana,202401050IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. M. Turner (J. Johnson gains possession),Indiana,202401050IND
+6:12.0,35-55,,2,35,55,-20,1068.0, ,Indiana,202401050IND
+12:00.0,24-38,,2,24,38,-14,720.0,Start of 2nd quarter,Indiana,202401050IND
+6:14.0,67-102,,3,67,102,-35,1786.0, ,Indiana,202401050IND
+12:00.0,54-78,,3,54,78,-24,1440.0,Start of 3rd quarter,Indiana,202401050IND
+6:06.0,100-133,,4,100,133,-33,2514.0, ,Indiana,202401050IND
+12:00.0,83-117,,4,83,117,-34,2160.0,Start of 4th quarter,Indiana,202401050IND
+0:00.0,116-150,,4,116,150,-34,2880.0,End of 4th quarter,Indiana,202401050IND
+6:06.0,7-19,,1,7,19,-12,354.0,Defensive rebound by C. Capela,Orlando,202401070ORL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. G. Bitadze (T. Young gains possession),Orlando,202401070ORL
+6:02.0,43-41,,2,43,41,2,1078.0,B. Bogdanović misses 2-pt jump shot from 22 ft,Orlando,202401070ORL
+12:00.0,28-32,,2,28,32,-4,720.0,Start of 2nd quarter,Orlando,202401070ORL
+6:02.0,68-72,,3,68,72,-4,1798.0,Defensive rebound by D. Murray,Orlando,202401070ORL
+12:00.0,60-51,,3,60,51,9,1440.0,Start of 3rd quarter,Orlando,202401070ORL
+6:04.0,90-94,,4,90,94,-4,2516.0,Defensive rebound by Team,Orlando,202401070ORL
+12:00.0,78-85,,4,78,85,-7,2160.0,Start of 4th quarter,Orlando,202401070ORL
+0:00.0,110-117,,5,110,117,-7,3180.0,End of 1st overtime,Orlando,202401070ORL
+6:17.0,19-18,Lead change,1,18,19,-1,343.0, ,Philadelphia,202401100ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: P. Reed vs. O. Okongwu (T. Young gains possession),Philadelphia,202401100ATL
+6:04.0,50-45,,2,45,50,-5,1076.0, ,Philadelphia,202401100ATL
+12:00.0,31-34,,2,34,31,3,720.0,Start of 2nd quarter,Philadelphia,202401100ATL
+6:15.0,81-75,,3,75,81,-6,1785.0, ,Philadelphia,202401100ATL
+12:00.0,64-61,,3,61,64,-3,1440.0,Start of 3rd quarter,Philadelphia,202401100ATL
+6:15.0,108-112,,4,112,108,4,2505.0,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),Philadelphia,202401100ATL
+12:00.0,98-95,,4,95,98,-3,2160.0,Start of 4th quarter,Philadelphia,202401100ATL
+0:00.0,132-139,,5,139,132,7,3180.0,End of 1st overtime,Philadelphia,202401100ATL
+0:00.0,132-139,,5,139,132,7,3180.0, ,Philadelphia,202401100ATL
+6:00.0,18-14,,1,14,18,-4,360.0,O. Okongwu enters the game for C. Capela,Indiana,202401120ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Turner vs. C. Capela (S. Bey gains possession),Indiana,202401120ATL
+6:04.0,57-45,,2,45,57,-12,1076.0,S. Bey makes free throw 2 of 2,Indiana,202401120ATL
+12:00.0,34-30,,2,30,34,-4,720.0,Start of 2nd quarter,Indiana,202401120ATL
+6:02.0,84-72,,3,72,84,-12,1798.0,O. Okongwu enters the game for C. Capela,Indiana,202401120ATL
+12:00.0,68-62,,3,62,68,-6,1440.0,Start of 3rd quarter,Indiana,202401120ATL
+6:01.0,118-94,,4,94,118,-24,2519.0, ,Indiana,202401120ATL
+12:00.0,99-81,,4,81,99,-18,2160.0,Start of 4th quarter,Indiana,202401120ATL
+0:00.0,126-108,,4,108,126,-18,2880.0,End of 4th quarter,Indiana,202401120ATL
+6:08.0,10-12,,1,12,10,2,352.0,T. Forrest makes 2-pt jump shot from 11 ft,Washington,202401130ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Gafford vs. C. Capela (J. Poole gains possession),Washington,202401130ATL
+6:03.0,42-33,,2,33,42,-9,1077.0,Turnover by T. Forrest (lost ball; steal by T. Jones),Washington,202401130ATL
+12:00.0,30-25,,2,25,30,-5,720.0,Start of 2nd quarter,Washington,202401130ATL
+6:01.0,73-58,,3,58,73,-15,1799.0,S. Bey makes 2-pt dunk from 2 ft (assist by T. Young),Washington,202401130ATL
+12:00.0,58-47,,3,47,58,-11,1440.0,Start of 3rd quarter,Washington,202401130ATL
+6:00.0,113-88,,4,88,113,-25,2520.0,T. Young makes free throw 3 of 3,Washington,202401130ATL
+12:00.0,99-71,,4,71,99,-28,2160.0,Start of 4th quarter,Washington,202401130ATL
+0:00.0,127-99,,4,99,127,-28,2880.0,End of 4th quarter,Washington,202401130ATL
+6:15.0,7-16,,1,16,7,9,345.0, ,San Antonio,202401150ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: V. Wembanyama vs. C. Capela (J. Johnson gains possession),San Antonio,202401150ATL
+6:08.0,20-51,,2,51,20,31,1072.0, ,San Antonio,202401150ATL
+12:00.0,16-35,,2,35,16,19,720.0,Start of 2nd quarter,San Antonio,202401150ATL
+6:03.0,48-78,,3,78,48,30,1797.0, ,San Antonio,202401150ATL
+12:00.0,34-69,,3,69,34,35,1440.0,Start of 3rd quarter,San Antonio,202401150ATL
+6:08.0,84-95,,4,95,84,11,2512.0, ,San Antonio,202401150ATL
+12:00.0,67-87,,4,87,67,20,2160.0,Start of 4th quarter,San Antonio,202401150ATL
+0:00.0,99-109,,4,109,99,10,2880.0,End of 4th quarter,San Antonio,202401150ATL
+6:14.0,13-10,,1,10,13,-3,346.0,D. Murray makes 2-pt layup from 1 ft,Orlando,202401170ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Bitadze vs. C. Capela (T. Young gains possession),Orlando,202401170ATL
+6:09.0,40-34,,2,34,40,-6,1071.0,T. Young enters the game for O. Okongwu,Orlando,202401170ATL
+12:00.0,26-26,,2,26,26,0,720.0,Start of 2nd quarter,Orlando,202401170ATL
+6:01.0,68-63,,3,63,68,-5,1799.0, ,Orlando,202401170ATL
+12:00.0,51-49,,3,49,51,-2,1440.0,Start of 3rd quarter,Orlando,202401170ATL
+6:14.0,90-92,Lead change,4,92,90,2,2506.0,D. Murray makes 2-pt layup from 3 ft,Orlando,202401170ATL
+12:00.0,76-78,,4,78,76,2,2160.0,Start of 4th quarter,Orlando,202401170ATL
+0:00.0,104-106,,4,106,104,2,2880.0,D. Murray makes 2-pt jump shot from 18 ft,Orlando,202401170ATL
+6:06.0,15-11,,1,15,11,4,354.0, ,Miami,202401190MIA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. B. Adebayo (D. Murray gains possession),Miami,202401190MIA
+6:11.0,36-34,,2,36,34,2,1069.0,Defensive rebound by G. Mathews,Miami,202401190MIA
+12:00.0,32-24,,2,32,24,8,720.0,Start of 2nd quarter,Miami,202401190MIA
+6:02.0,70-77,,3,70,77,-7,1798.0,Turnover by D. Murray (lost ball; steal by J. Butler),Miami,202401190MIA
+12:00.0,57-56,,3,57,56,1,1440.0,Start of 3rd quarter,Miami,202401190MIA
+6:00.0,92-93,,4,92,93,-1,2520.0,Defensive rebound by P. Mills,Miami,202401190MIA
+12:00.0,81-83,,4,81,83,-2,2160.0,Start of 4th quarter,Miami,202401190MIA
+0:00.0,109-108,,4,109,108,1,2880.0,End of 4th quarter,Miami,202401190MIA
+6:09.0,15-4,,1,4,15,-11,351.0, ,Cleveland,202401200ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. C. Capela (D. Mitchell gains possession),Cleveland,202401200ATL
+6:02.0,47-32,,2,32,47,-15,1078.0,B. Bogdanović misses 3-pt jump shot from 27 ft,Cleveland,202401200ATL
+12:00.0,25-20,,2,20,25,-5,720.0,Start of 2nd quarter,Cleveland,202401200ATL
+6:16.0,76-56,,3,56,76,-20,1784.0,P. Mills enters the game for T. Young,Cleveland,202401200ATL
+12:00.0,59-45,,3,45,59,-14,1440.0,Start of 3rd quarter,Cleveland,202401200ATL
+6:02.0,106-88,,4,88,106,-18,2518.0,Defensive rebound by J. Johnson,Cleveland,202401200ATL
+12:00.0,93-70,,4,70,93,-23,2160.0,Start of 4th quarter,Cleveland,202401200ATL
+0:00.0,116-95,,4,95,116,-21,2880.0,End of 4th quarter,Cleveland,202401200ATL
+6:04.0,15-17,,1,15,17,-2,356.0,D. Murray makes 2-pt jump shot from 15 ft,Sacramento,202401220SAC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. D. Sabonis (S. Bey gains possession),Sacramento,202401220SAC
+6:08.0,33-47,,2,33,47,-14,1072.0,Defensive rebound by Team,Sacramento,202401220SAC
+12:00.0,24-27,,2,24,27,-3,720.0,Start of 2nd quarter,Sacramento,202401220SAC
+6:00.0,58-70,,3,58,70,-12,1800.0, ,Sacramento,202401220SAC
+12:00.0,40-57,,3,40,57,-17,1440.0,Start of 3rd quarter,Sacramento,202401220SAC
+6:11.0,89-101,,4,89,101,-12,2509.0,G. Mathews makes 3-pt jump shot from 23 ft (assist by O. Okongwu),Sacramento,202401220SAC
+12:00.0,69-87,,4,69,87,-18,2160.0,Start of 4th quarter,Sacramento,202401220SAC
+0:00.0,107-122,,4,107,122,-15,2880.0,End of 4th quarter,Sacramento,202401220SAC
+6:06.0,17-17,,1,17,17,0,354.0, ,Golden State,202401240GSW
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. K. Looney (D. Šarić gains possession),Golden State,202401240GSW
+6:04.0,46-49,,2,46,49,-3,1076.0, ,Golden State,202401240GSW
+12:00.0,31-38,,2,31,38,-7,720.0,Start of 2nd quarter,Golden State,202401240GSW
+6:08.0,79-82,Lead change,3,79,82,-3,1792.0, ,Golden State,202401240GSW
+12:00.0,68-69,,3,68,69,-1,1440.0,Start of 3rd quarter,Golden State,202401240GSW
+6:00.0,104-119,,4,104,119,-15,2520.0, ,Golden State,202401240GSW
+12:00.0,92-101,,4,92,101,-9,2160.0,Start of 4th quarter,Golden State,202401240GSW
+0:00.0,112-134,,4,112,134,-22,2880.0,End of 4th quarter,Golden State,202401240GSW
+6:01.0,18-14,,1,14,18,-4,359.0,B. Bogdanović makes 2-pt layup from 1 ft,Dallas,202401260ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Lively vs. C. Capela (J. Johnson gains possession),Dallas,202401260ATL
+6:14.0,46-50,,2,50,46,4,1066.0, ,Dallas,202401260ATL
+12:00.0,27-31,,2,31,27,4,720.0,Start of 2nd quarter,Dallas,202401260ATL
+6:06.0,85-81,,3,81,85,-4,1794.0,Defensive rebound by S. Bey,Dallas,202401260ATL
+12:00.0,66-66,,3,66,66,0,1440.0,Start of 3rd quarter,Dallas,202401260ATL
+6:10.0,126-119,,4,119,126,-7,2510.0,T. Young makes free throw 2 of 2,Dallas,202401260ATL
+12:00.0,108-102,,4,102,108,-6,2160.0,Start of 4th quarter,Dallas,202401260ATL
+0:00.0,148-143,,4,143,148,-5,2880.0,Offensive rebound by Team,Dallas,202401260ATL
+6:16.0,12-18,,1,18,12,6,344.0,P. Mills enters the game for T. Young,Toronto,202401280ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: S. Barnes vs. C. Capela (J. Johnson gains possession),Toronto,202401280ATL
+6:05.0,51-43,,2,43,51,-8,1075.0, ,Toronto,202401280ATL
+12:00.0,26-34,,2,34,26,8,720.0,Start of 2nd quarter,Toronto,202401280ATL
+6:08.0,76-78,,3,78,76,2,1792.0, ,Toronto,202401280ATL
+12:00.0,61-57,,3,57,61,-4,1440.0,Start of 3rd quarter,Toronto,202401280ATL
+6:11.0,107-112,,4,112,107,5,2509.0,T. Young makes 2-pt jump shot from 8 ft,Toronto,202401280ATL
+12:00.0,95-97,,4,97,95,2,2160.0,Start of 4th quarter,Toronto,202401280ATL
+0:00.0,125-126,,4,126,125,1,2880.0, ,Toronto,202401280ATL
+6:00.0,14-12,,1,12,14,-2,360.0, ,LA Lakers,202401300ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Hayes vs. C. Capela (T. Young gains possession),LA Lakers,202401300ATL
+6:03.0,37-46,,2,46,37,9,1077.0, ,LA Lakers,202401300ATL
+12:00.0,29-36,,2,36,29,7,720.0,Start of 2nd quarter,LA Lakers,202401300ATL
+6:04.0,70-87,,3,87,70,17,1796.0, ,LA Lakers,202401300ATL
+12:00.0,56-67,,3,67,56,11,1440.0,Start of 3rd quarter,LA Lakers,202401300ATL
+6:03.0,104-118,,4,118,104,14,2517.0,T. Young enters the game for B. Bogdanović,LA Lakers,202401300ATL
+12:00.0,88-103,,4,103,88,15,2160.0,Start of 4th quarter,LA Lakers,202401300ATL
+0:00.0,122-138,,4,138,122,16,2880.0,End of 4th quarter,LA Lakers,202401300ATL
+6:02.0,17-19,,1,19,17,2,358.0,P. Mills enters the game for T. Young,Phoenix,202402020ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Nurkić vs. C. Capela (T. Young gains possession),Phoenix,202402020ATL
+6:00.0,47-51,,2,51,47,4,1080.0, ,Phoenix,202402020ATL
+12:00.0,30-33,,2,33,30,3,720.0,Start of 2nd quarter,Phoenix,202402020ATL
+6:16.0,78-81,,3,81,78,3,1784.0,T. Young makes 2-pt layup from 1 ft,Phoenix,202402020ATL
+12:00.0,63-66,,3,66,63,3,1440.0,Start of 3rd quarter,Phoenix,202402020ATL
+6:20.0,109-116,,4,116,109,7,2500.0,B. Bogdanović makes 2-pt jump shot from 22 ft (assist by T. Young),Phoenix,202402020ATL
+12:00.0,95-100,,4,100,95,5,2160.0,Start of 4th quarter,Phoenix,202402020ATL
+0:00.0,120-129,,4,129,120,9,2880.0,End of 4th quarter,Phoenix,202402020ATL
+6:09.0,15-12,,1,12,15,-3,351.0,O. Okongwu enters the game for J. Johnson,Golden State,202402030ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Green vs. C. Capela (T. Young gains possession),Golden State,202402030ATL
+6:02.0,45-45,Tie,2,45,45,0,1078.0,C. Capela makes 2-pt layup from 1 ft (assist by D. Murray),Golden State,202402030ATL
+12:00.0,33-28,,2,28,33,-5,720.0,Start of 2nd quarter,Golden State,202402030ATL
+6:00.0,74-78,,3,78,74,4,1800.0, ,Golden State,202402030ATL
+12:00.0,64-64,,3,64,64,0,1440.0,Start of 3rd quarter,Golden State,202402030ATL
+6:00.0,102-104,,4,104,102,2,2520.0, ,Golden State,202402030ATL
+12:00.0,89-89,,4,89,89,0,2160.0,Start of 4th quarter,Golden State,202402030ATL
+0:00.0,134-141,,5,141,134,7,3180.0,End of 1st overtime,Golden State,202402030ATL
+6:22.0,16-10,,1,10,16,-6,338.0,D. Hunter makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),LA Clippers,202402050ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: M. Plumlee vs. O. Okongwu (J. Johnson gains possession),LA Clippers,202402050ATL
+6:12.0,55-49,,2,49,55,-6,1068.0,D. Murray makes 3-pt jump shot from 24 ft (assist by D. Hunter),LA Clippers,202402050ATL
+12:00.0,37-28,,2,28,37,-9,720.0,Start of 2nd quarter,LA Clippers,202402050ATL
+6:23.0,83-82,,3,82,83,-1,1777.0,O. Okongwu makes 3-pt jump shot from 23 ft (assist by D. Hunter),LA Clippers,202402050ATL
+12:00.0,66-66,,3,66,66,0,1440.0,Start of 3rd quarter,LA Clippers,202402050ATL
+6:10.0,122-118,,4,118,122,-4,2510.0, ,LA Clippers,202402050ATL
+12:00.0,102-101,,4,101,102,-1,2160.0,Start of 4th quarter,LA Clippers,202402050ATL
+0:00.0,149-144,,4,144,149,-5,2880.0,End of 4th quarter,LA Clippers,202402050ATL
+6:06.0,14-13,,1,14,13,1,354.0, ,Boston,202402070BOS
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Okongwu vs. K. Porziņģis (D. White gains possession),Boston,202402070BOS
+6:03.0,54-51,,2,54,51,3,1077.0, ,Boston,202402070BOS
+12:00.0,37-35,,2,37,35,2,720.0,Start of 2nd quarter,Boston,202402070BOS
+6:04.0,81-82,,3,81,82,-1,1796.0, ,Boston,202402070BOS
+12:00.0,67-71,,3,67,71,-4,1440.0,Start of 3rd quarter,Boston,202402070BOS
+6:04.0,102-113,,4,102,113,-11,2516.0,T. Young makes 2-pt jump shot from 18 ft,Boston,202402070BOS
+12:00.0,90-95,,4,90,95,-5,2160.0,Start of 4th quarter,Boston,202402070BOS
+0:00.0,117-125,,4,117,125,-8,2880.0,End of 4th quarter,Boston,202402070BOS
+6:02.0,18-15,,1,18,15,3,358.0,O. Okongwu makes 2-pt dunk from 1 ft (assist by J. Johnson),Philadelphia,202402090PHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: O. Okongwu vs. P. Reed (S. Bey gains possession),Philadelphia,202402090PHI
+6:07.0,52-40,,2,52,40,12,1073.0, ,Philadelphia,202402090PHI
+12:00.0,37-26,,2,37,26,11,720.0,Start of 2nd quarter,Philadelphia,202402090PHI
+6:00.0,90-70,,3,90,70,20,1800.0,T. Young makes 3-pt jump shot from 27 ft,Philadelphia,202402090PHI
+12:00.0,73-56,,3,73,56,17,1440.0,Start of 3rd quarter,Philadelphia,202402090PHI
+6:15.0,113-104,,4,113,104,9,2505.0,T. Young makes 2-pt layup from 2 ft,Philadelphia,202402090PHI
+12:00.0,103-86,,4,103,86,17,2160.0,Start of 4th quarter,Philadelphia,202402090PHI
+0:00.0,127-121,,4,127,121,6,2880.0,End of 4th quarter,Philadelphia,202402090PHI
+6:03.0,14-15,,1,15,14,1,357.0, ,Houston,202402100ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Green vs. O. Okongwu (A. Thompson gains possession),Houston,202402100ATL
+6:08.0,38-36,,2,36,38,-2,1072.0, ,Houston,202402100ATL
+12:00.0,31-19,,2,19,31,-12,720.0,Start of 2nd quarter,Houston,202402100ATL
+6:08.0,65-74,,3,74,65,9,1792.0,Defensive rebound by D. Murray,Houston,202402100ATL
+12:00.0,49-57,,3,57,49,8,1440.0,Start of 3rd quarter,Houston,202402100ATL
+6:06.0,97-107,,4,107,97,10,2514.0,D. Murray makes 2-pt layup from 3 ft,Houston,202402100ATL
+12:00.0,84-95,,4,95,84,11,2160.0,Start of 4th quarter,Houston,202402100ATL
+0:00.0,113-122,,4,122,113,9,2880.0,End of 4th quarter,Houston,202402100ATL
+6:01.0,11-15,,1,15,11,4,359.0,S. Bey makes 2-pt layup from 4 ft (assist by D. Murray),Chicago,202402120ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Vučević vs. O. Okongwu (C. White gains possession),Chicago,202402120ATL
+6:02.0,39-47,,2,47,39,8,1078.0,Defensive rebound by S. Bey,Chicago,202402120ATL
+12:00.0,26-33,,2,33,26,7,720.0,Start of 2nd quarter,Chicago,202402120ATL
+6:14.0,74-71,,3,71,74,-3,1786.0, ,Chicago,202402120ATL
+12:00.0,60-59,,3,59,60,-1,1440.0,Start of 3rd quarter,Chicago,202402120ATL
+6:00.0,115-111,,4,111,115,-4,2520.0, ,Chicago,202402120ATL
+12:00.0,97-92,,4,92,97,-5,2160.0,Start of 4th quarter,Chicago,202402120ATL
+0:00.0,136-126,,4,126,136,-10,2880.0,End of 4th quarter,Chicago,202402120ATL
+6:06.0,12-20,,1,12,20,-8,354.0, ,Charlotte,202402140CHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Fernando vs. N. Richards (M. Bridges gains possession),Charlotte,202402140CHO
+6:07.0,39-44,,2,39,44,-5,1073.0, ,Charlotte,202402140CHO
+12:00.0,31-29,,2,31,29,2,720.0,Start of 2nd quarter,Charlotte,202402140CHO
+6:09.0,64-76,,3,64,76,-12,1791.0, ,Charlotte,202402140CHO
+12:00.0,55-61,,3,55,61,-6,1440.0,Start of 3rd quarter,Charlotte,202402140CHO
+6:02.0,94-105,,4,94,105,-11,2518.0, ,Charlotte,202402140CHO
+12:00.0,80-96,,4,80,96,-16,2160.0,Start of 4th quarter,Charlotte,202402140CHO
+0:00.0,99-122,,4,99,122,-23,2880.0,End of 4th quarter,Charlotte,202402140CHO
+6:01.0,20-7,,1,7,20,-13,359.0,D. Hunter enters the game for T. Young,Toronto,202402230ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Poeltl vs. C. Capela (T. Young gains possession),Toronto,202402230ATL
+6:10.0,48-43,,2,43,48,-5,1070.0, ,Toronto,202402230ATL
+12:00.0,33-22,,2,22,33,-11,720.0,Start of 2nd quarter,Toronto,202402230ATL
+6:02.0,77-78,,3,78,77,1,1798.0,Defensive rebound by J. Johnson,Toronto,202402230ATL
+12:00.0,65-64,,3,64,65,-1,1440.0,Start of 3rd quarter,Toronto,202402230ATL
+6:08.0,107-103,,4,103,107,-4,2512.0,Defensive rebound by D. Murray,Toronto,202402230ATL
+12:00.0,96-90,,4,90,96,-6,2160.0,Start of 4th quarter,Toronto,202402230ATL
+0:00.0,123-121,,4,121,123,-2,2880.0,T. Young makes 3-pt jump shot from 26 ft (assist by S. Bey),Toronto,202402230ATL
+6:04.0,10-9,,1,9,10,-1,356.0, ,Orlando,202402250ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: W. Carter vs. C. Capela (J. Suggs gains possession),Orlando,202402250ATL
+6:12.0,35-28,,2,28,35,-7,1068.0,J. Johnson enters the game for G. Mathews,Orlando,202402250ATL
+12:00.0,22-19,,2,19,22,-3,720.0,Start of 2nd quarter,Orlando,202402250ATL
+6:07.0,63-63,,3,63,63,0,1793.0, ,Orlando,202402250ATL
+12:00.0,51-45,,3,45,51,-6,1440.0,Start of 3rd quarter,Orlando,202402250ATL
+6:08.0,81-98,,4,98,81,17,2512.0,B. Fernando makes 2-pt layup from 1 ft (assist by B. Bogdanović),Orlando,202402250ATL
+12:00.0,70-83,,4,83,70,13,2160.0,Start of 4th quarter,Orlando,202402250ATL
+0:00.0,92-109,,4,109,92,17,2880.0,End of 4th quarter,Orlando,202402250ATL
+6:02.0,4-15,,1,15,4,11,358.0,Defensive rebound by S. Bey,Utah,202402270ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Collins vs. C. Capela (L. Markkanen gains possession),Utah,202402270ATL
+6:02.0,29-38,,2,38,29,9,1078.0,Turnover by D. Murray (bad pass; steal by C. Sexton),Utah,202402270ATL
+12:00.0,18-26,,2,26,18,8,720.0,Start of 2nd quarter,Utah,202402270ATL
+6:08.0,60-70,,3,70,60,10,1792.0,Defensive rebound by Team,Utah,202402270ATL
+12:00.0,44-55,,3,55,44,11,1440.0,Start of 3rd quarter,Utah,202402270ATL
+6:07.0,82-111,,4,111,82,29,2513.0, ,Utah,202402270ATL
+12:00.0,69-89,,4,89,69,20,2160.0,Start of 4th quarter,Utah,202402270ATL
+0:00.0,97-124,,4,124,97,27,2880.0,End of 4th quarter,Utah,202402270ATL
+6:04.0,6-18,,1,6,18,-12,356.0, ,Brooklyn,202402290BRK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. N. Claxton (D. Schröder gains possession),Brooklyn,202402290BRK
+6:08.0,33-44,,2,33,44,-11,1072.0,Defensive rebound by J. Johnson,Brooklyn,202402290BRK
+12:00.0,16-34,,2,16,34,-18,720.0,Start of 2nd quarter,Brooklyn,202402290BRK
+6:00.0,63-77,,3,63,77,-14,1800.0, ,Brooklyn,202402290BRK
+12:00.0,50-56,,3,50,56,-6,1440.0,Start of 3rd quarter,Brooklyn,202402290BRK
+6:10.0,87-115,,4,87,115,-28,2510.0,D. Hunter makes free throw 2 of 2,Brooklyn,202402290BRK
+12:00.0,75-94,,4,75,94,-19,2160.0,Start of 4th quarter,Brooklyn,202402290BRK
+0:00.0,97-124,,4,97,124,-27,2880.0,Turnover by Team (shot clock),Brooklyn,202402290BRK
+6:17.0,16-10,,1,16,10,6,343.0, ,Brooklyn,202403020BRK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. N. Claxton (D. Schröder gains possession),Brooklyn,202403020BRK
+6:06.0,44-39,,2,44,39,5,1074.0, ,Brooklyn,202403020BRK
+12:00.0,28-21,,2,28,21,7,720.0,Start of 2nd quarter,Brooklyn,202403020BRK
+6:04.0,68-75,,3,68,75,-7,1796.0, ,Brooklyn,202403020BRK
+12:00.0,62-60,,3,62,60,2,1440.0,Start of 3rd quarter,Brooklyn,202403020BRK
+6:10.0,90-100,,4,90,100,-10,2510.0,S. Bey makes free throw 1 of 1,Brooklyn,202403020BRK
+12:00.0,80-90,,4,80,90,-10,2160.0,Start of 4th quarter,Brooklyn,202403020BRK
+0:00.0,102-114,,4,102,114,-12,2880.0,End of 4th quarter,Brooklyn,202403020BRK
+6:10.0,13-8,,1,13,8,5,350.0, ,New York,202403050NYK
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. I. Hartenstein (J. Johnson gains possession),New York,202403050NYK
+6:06.0,50-29,,2,50,29,21,1074.0,G. Mathews makes free throw 3 of 3,New York,202403050NYK
+12:00.0,33-15,,2,33,15,18,720.0,Start of 2nd quarter,New York,202403050NYK
+6:04.0,75-61,,3,75,61,14,1796.0, ,New York,202403050NYK
+12:00.0,61-50,,3,61,50,11,1440.0,Start of 3rd quarter,New York,202403050NYK
+6:02.0,98-91,,4,98,91,7,2518.0,D. Murray makes 3-pt jump shot from 24 ft (assist by C. Capela),New York,202403050NYK
+12:00.0,83-78,,4,83,78,5,2160.0,Start of 4th quarter,New York,202403050NYK
+0:00.0,116-100,,4,116,100,16,2880.0,End of 4th quarter,New York,202403050NYK
+6:02.0,12-15,,1,15,12,3,358.0, ,Cleveland,202403060ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Allen vs. C. Capela (D. Garland gains possession),Cleveland,202403060ATL
+6:07.0,33-47,,2,47,33,14,1073.0,D. Hunter makes 2-pt layup from 2 ft (assist by D. Murray),Cleveland,202403060ATL
+12:00.0,28-31,,2,31,28,3,720.0,Start of 2nd quarter,Cleveland,202403060ATL
+6:15.0,67-78,,3,78,67,11,1785.0, ,Cleveland,202403060ATL
+12:00.0,49-64,,3,64,49,15,1440.0,Start of 3rd quarter,Cleveland,202403060ATL
+6:06.0,93-97,,4,97,93,4,2514.0,S. Bey makes 2-pt layup from 1 ft,Cleveland,202403060ATL
+12:00.0,89-87,,4,87,89,-2,2160.0,Start of 4th quarter,Cleveland,202403060ATL
+0:00.0,101-112,,4,112,101,11,2880.0,End of 4th quarter,Cleveland,202403060ATL
+6:04.0,14-17,,1,14,17,-3,356.0, ,Memphis,202403080MEM
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Jackson (J. Goodwin gains possession),Memphis,202403080MEM
+6:00.0,29-37,,2,29,37,-8,1080.0, ,Memphis,202403080MEM
+12:00.0,20-31,,2,20,31,-11,720.0,Start of 2nd quarter,Memphis,202403080MEM
+6:01.0,62-57,,3,62,57,5,1799.0,Offensive rebound by S. Bey,Memphis,202403080MEM
+12:00.0,46-46,,3,46,46,0,1440.0,Start of 3rd quarter,Memphis,202403080MEM
+6:06.0,87-81,,4,87,81,6,2514.0, ,Memphis,202403080MEM
+12:00.0,80-72,,4,80,72,8,2160.0,Start of 4th quarter,Memphis,202403080MEM
+0:00.0,99-92,,4,99,92,7,2880.0,End of 4th quarter,Memphis,202403080MEM
+6:02.0,13-13,,1,13,13,0,358.0, ,New Orleans,202403100ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Valančiūnas vs. C. Capela (D. Murray gains possession),New Orleans,202403100ATL
+6:05.0,42-24,,2,24,42,-18,1075.0,V. Krejci enters the game for G. Mathews,New Orleans,202403100ATL
+12:00.0,26-20,,2,20,26,-6,720.0,Start of 2nd quarter,New Orleans,202403100ATL
+6:04.0,61-50,,3,50,61,-11,1796.0,C. Capela makes 2-pt dunk from 1 ft (assist by V. Krejci),New Orleans,202403100ATL
+12:00.0,53-42,,3,42,53,-11,1440.0,Start of 3rd quarter,New Orleans,202403100ATL
+6:07.0,101-82,,4,82,101,-19,2513.0, ,New Orleans,202403100ATL
+12:00.0,80-65,,4,65,80,-15,2160.0,Start of 4th quarter,New Orleans,202403100ATL
+0:00.0,116-103,,4,103,116,-13,2880.0,End of 4th quarter,New Orleans,202403100ATL
+6:13.0,14-6,,1,14,6,8,347.0,V. Krejci makes 3-pt jump shot from 25 ft (assist by D. Murray),Portland,202403130POR
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. D. Ayton (D. Banton gains possession),Portland,202403130POR
+6:02.0,38-28,,2,38,28,10,1078.0,D. Hunter misses 2-pt jump shot from 14 ft,Portland,202403130POR
+12:00.0,24-17,,2,24,17,7,720.0,Start of 2nd quarter,Portland,202403130POR
+6:10.0,62-64,,3,62,64,-2,1790.0, ,Portland,202403130POR
+12:00.0,52-47,,3,52,47,5,1440.0,Start of 3rd quarter,Portland,202403130POR
+6:05.0,88-93,,4,88,93,-5,2515.0, ,Portland,202403130POR
+12:00.0,75-82,,4,75,82,-7,2160.0,Start of 4th quarter,Portland,202403130POR
+0:00.0,102-106,,4,102,106,-4,2880.0,End of 4th quarter,Portland,202403130POR
+6:05.0,16-18,,1,16,18,-2,355.0, ,Utah,202403150UTA
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Collins (J. Johnson gains possession),Utah,202403150UTA
+6:06.0,47-45,,2,47,45,2,1074.0,D. Hunter makes free throw 1 of 1,Utah,202403150UTA
+12:00.0,28-34,,2,28,34,-6,720.0,Start of 2nd quarter,Utah,202403150UTA
+6:16.0,76-79,,3,76,79,-3,1784.0,D. Murray makes free throw 2 of 2,Utah,202403150UTA
+12:00.0,62-61,,3,62,61,1,1440.0,Start of 3rd quarter,Utah,202403150UTA
+6:07.0,108-116,,4,108,116,-8,2513.0, ,Utah,202403150UTA
+12:00.0,96-98,,4,96,98,-2,2160.0,Start of 4th quarter,Utah,202403150UTA
+0:00.0,122-124,,4,122,124,-2,2880.0,End of 4th quarter,Utah,202403150UTA
+6:01.0,13-12,,1,13,12,1,359.0,Defensive rebound by J. Johnson,LA Clippers,202403170LAC
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. I. Zubac (T. Mann gains possession),LA Clippers,202403170LAC
+6:00.0,49-38,,2,49,38,11,1080.0,Defensive rebound by D. Murray,LA Clippers,202403170LAC
+12:00.0,31-29,,2,31,29,2,720.0,Start of 2nd quarter,LA Clippers,202403170LAC
+6:05.0,73-53,,3,73,53,20,1795.0,D. Hunter enters the game for V. Krejci,LA Clippers,202403170LAC
+12:00.0,61-44,,3,61,44,17,1440.0,Start of 3rd quarter,LA Clippers,202403170LAC
+6:08.0,96-77,,4,96,77,19,2512.0, ,LA Clippers,202403170LAC
+12:00.0,88-62,,4,88,62,26,2160.0,Start of 4th quarter,LA Clippers,202403170LAC
+0:00.0,110-93,,4,110,93,17,2880.0,End of 4th quarter,LA Clippers,202403170LAC
+6:10.0,17-22,,1,17,22,-5,350.0, ,LA Lakers,202403180LAL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. A. Davis (D. Russell gains possession),LA Lakers,202403180LAL
+6:11.0,45-54,,2,45,54,-9,1069.0,J. Johnson makes 2-pt dunk from 1 ft (assist by G. Mathews),LA Lakers,202403180LAL
+12:00.0,28-38,,2,28,38,-10,720.0,Start of 2nd quarter,LA Lakers,202403180LAL
+6:05.0,70-87,,3,70,87,-17,1795.0,Defensive rebound by O. Okongwu,LA Lakers,202403180LAL
+12:00.0,59-73,,3,59,73,-14,1440.0,Start of 3rd quarter,LA Lakers,202403180LAL
+6:10.0,94-128,,4,94,128,-34,2510.0, ,LA Lakers,202403180LAL
+12:00.0,86-111,,4,86,111,-25,2160.0,Start of 4th quarter,LA Lakers,202403180LAL
+0:00.0,105-136,,4,105,136,-31,2880.0,End of 4th quarter,LA Lakers,202403180LAL
+6:01.0,22-11,,1,22,11,11,359.0,Defensive rebound by G. Mathews,Phoenix,202403210PHO
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. J. Nurkić (B. Beal gains possession),Phoenix,202403210PHO
+6:06.0,43-47,,2,43,47,-4,1074.0,B. Fernando makes free throw 2 of 2,Phoenix,202403210PHO
+12:00.0,37-30,,2,37,30,7,720.0,Start of 2nd quarter,Phoenix,202403210PHO
+6:18.0,76-76,Tie,3,76,76,0,1782.0,D. Murray makes 2-pt jump shot from 8 ft,Phoenix,202403210PHO
+12:00.0,60-65,,3,60,65,-5,1440.0,Start of 3rd quarter,Phoenix,202403210PHO
+6:15.0,106-113,,4,106,113,-7,2505.0,Turnover by Team (shot clock),Phoenix,202403210PHO
+12:00.0,93-96,,4,93,96,-3,2160.0,Start of 4th quarter,Phoenix,202403210PHO
+0:00.0,115-128,,4,115,128,-13,2880.0,End of 4th quarter,Phoenix,202403210PHO
+6:10.0,16-15,,1,15,16,-1,350.0,B. Fernando enters the game for C. Capela,Charlotte,202403230ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: N. Richards vs. C. Capela (D. Murray gains possession),Charlotte,202403230ATL
+6:06.0,39-48,,2,48,39,9,1074.0,D. Hunter makes 3-pt jump shot from 24 ft (assist by D. Murray),Charlotte,202403230ATL
+12:00.0,28-30,,2,30,28,2,720.0,Start of 2nd quarter,Charlotte,202403230ATL
+6:14.0,62-79,,3,79,62,17,1786.0, ,Charlotte,202403230ATL
+12:00.0,48-66,,3,66,48,18,1440.0,Start of 3rd quarter,Charlotte,202403230ATL
+6:09.0,84-116,,4,116,84,32,2511.0, ,Charlotte,202403230ATL
+12:00.0,74-99,,4,99,74,25,2160.0,Start of 4th quarter,Charlotte,202403230ATL
+0:00.0,91-132,,4,132,91,41,2880.0, ,Charlotte,202403230ATL
+6:04.0,23-10,,1,10,23,-13,356.0,B. Fernando enters the game for C. Capela,Boston,202403250ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. C. Capela (S. Hauser gains possession),Boston,202403250ATL
+6:01.0,61-36,,2,36,61,-25,1079.0,C. Capela makes 2-pt dunk from 1 ft (assist by D. Murray),Boston,202403250ATL
+12:00.0,44-22,,2,22,44,-22,720.0,Start of 2nd quarter,Boston,202403250ATL
+6:00.0,84-75,,3,75,84,-9,1800.0,C. Capela misses 2-pt layup at rim,Boston,202403250ATL
+12:00.0,74-56,,3,56,74,-18,1440.0,Start of 3rd quarter,Boston,202403250ATL
+6:01.0,105-107,,4,107,105,2,2519.0, ,Boston,202403250ATL
+12:00.0,96-90,,4,90,96,-6,2160.0,Start of 4th quarter,Boston,202403250ATL
+0:00.0,118-120,,4,120,118,2,2880.0,End of 4th quarter,Boston,202403250ATL
+6:16.0,12-12,,1,12,12,0,344.0, ,Portland,202403270ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: D. Reath vs. C. Capela (D. Murray gains possession),Portland,202403270ATL
+6:05.0,49-48,,2,48,49,-1,1075.0,Offensive rebound by V. Krejci,Portland,202403270ATL
+12:00.0,29-26,,2,26,29,-3,720.0,Start of 2nd quarter,Portland,202403270ATL
+6:03.0,71-85,,3,85,71,14,1797.0, ,Portland,202403270ATL
+12:00.0,58-65,,3,65,58,7,1440.0,Start of 3rd quarter,Portland,202403270ATL
+6:22.0,98-109,,4,109,98,11,2498.0, ,Portland,202403270ATL
+12:00.0,86-100,,4,100,86,14,2160.0,Start of 4th quarter,Portland,202403270ATL
+0:00.0,106-120,,4,120,106,14,2880.0,End of 4th quarter,Portland,202403270ATL
+6:00.0,11-11,Tie,1,11,11,0,360.0, ,Boston,202403280ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: K. Porziņģis vs. C. Capela (D. White gains possession),Boston,202403280ATL
+6:05.0,44-42,,2,42,44,-2,1075.0,D. Hunter makes 3-pt jump shot from 25 ft (assist by C. Capela),Boston,202403280ATL
+12:00.0,29-28,,2,28,29,-1,720.0,Start of 2nd quarter,Boston,202403280ATL
+6:13.0,73-74,Lead change,3,74,73,1,1787.0,D. Murray makes 3-pt jump shot from 26 ft (assist by W. Matthews),Boston,202403280ATL
+12:00.0,63-59,,3,59,63,-4,1440.0,Start of 3rd quarter,Boston,202403280ATL
+6:11.0,102-99,,4,99,102,-3,2509.0, ,Boston,202403280ATL
+12:00.0,90-89,,4,89,90,-1,2160.0,Start of 4th quarter,Boston,202403280ATL
+0:00.0,122-123,,5,123,122,1,3180.0,End of 1st overtime,Boston,202403280ATL
+0:00.0,122-123,Lead change,5,123,122,1,3180.0,D. Murray makes 2-pt jump shot from 22 ft,Boston,202403280ATL
+6:10.0,18-17,Lead change,1,17,18,-1,350.0, ,Milwaukee,202403300ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Lopez vs. C. Capela (G. Antetokounmpo gains possession),Milwaukee,202403300ATL
+6:02.0,47-36,,2,36,47,-11,1078.0, ,Milwaukee,202403300ATL
+12:00.0,33-28,,2,28,33,-5,720.0,Start of 2nd quarter,Milwaukee,202403300ATL
+6:06.0,76-60,,3,60,76,-16,1794.0,W. Matthews makes 2-pt jump shot from 8 ft (assist by D. Murray),Milwaukee,202403300ATL
+12:00.0,59-45,,3,45,59,-14,1440.0,Start of 3rd quarter,Milwaukee,202403300ATL
+6:03.0,102-94,,4,94,102,-8,2517.0,B. Bogdanović makes free throw 3 of 3,Milwaukee,202403300ATL
+12:00.0,89-74,,4,74,89,-15,2160.0,Start of 4th quarter,Milwaukee,202403300ATL
+0:00.0,122-113,,4,113,122,-9,2880.0,End of 4th quarter,Milwaukee,202403300ATL
+6:03.0,11-16,,1,11,16,-5,357.0, ,Chicago,202404010CHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. N. Vučević (V. Krejci gains possession),Chicago,202404010CHI
+6:09.0,44-42,,2,44,42,2,1071.0,Defensive rebound by D. Murray,Chicago,202404010CHI
+12:00.0,32-30,,2,32,30,2,720.0,Start of 2nd quarter,Chicago,202404010CHI
+6:00.0,75-62,,3,75,62,13,1800.0,D. Murray misses 2-pt jump shot from 17 ft,Chicago,202404010CHI
+12:00.0,61-53,,3,61,53,8,1440.0,Start of 3rd quarter,Chicago,202404010CHI
+6:08.0,103-90,,4,103,90,13,2512.0,J. Johnson enters the game for W. Matthews,Chicago,202404010CHI
+12:00.0,90-74,,4,90,74,16,2160.0,Start of 4th quarter,Chicago,202404010CHI
+0:00.0,113-101,,4,113,101,12,2880.0,End of 4th quarter,Chicago,202404010CHI
+6:08.0,6-15,,1,15,6,9,352.0, ,Detroit,202404030ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: J. Duren vs. C. Capela (B. Bogdanović gains possession),Detroit,202404030ATL
+6:16.0,39-41,,2,41,39,2,1064.0,D. Murray makes 2-pt jump shot from 12 ft,Detroit,202404030ATL
+12:00.0,23-28,,2,28,23,5,720.0,Start of 2nd quarter,Detroit,202404030ATL
+6:02.0,60-79,,3,79,60,19,1798.0, ,Detroit,202404030ATL
+12:00.0,50-59,,3,59,50,9,1440.0,Start of 3rd quarter,Detroit,202404030ATL
+6:03.0,94-104,,4,104,94,10,2517.0, ,Detroit,202404030ATL
+12:00.0,79-92,,4,92,79,13,2160.0,Start of 4th quarter,Detroit,202404030ATL
+0:00.0,113-121,,4,121,113,8,2880.0,End of 4th quarter,Detroit,202404030ATL
+6:00.0,12-10,,1,12,10,2,360.0, ,Dallas,202404040DAL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. D. Gafford (P. Washington gains possession),Dallas,202404040DAL
+6:06.0,45-41,,2,45,41,4,1074.0,Defensive rebound by C. Capela,Dallas,202404040DAL
+12:00.0,31-25,,2,31,25,6,720.0,Start of 2nd quarter,Dallas,202404040DAL
+6:08.0,65-81,,3,65,81,-16,1792.0, ,Dallas,202404040DAL
+12:00.0,57-65,,3,57,65,-8,1440.0,Start of 3rd quarter,Dallas,202404040DAL
+6:04.0,93-100,,4,93,100,-7,2516.0,C. Capela enters the game for B. Fernando,Dallas,202404040DAL
+12:00.0,81-93,,4,81,93,-12,2160.0,Start of 4th quarter,Dallas,202404040DAL
+0:00.0,95-109,,4,95,109,-14,2880.0,End of 4th quarter,Dallas,202404040DAL
+6:14.0,17-19,,1,17,19,-2,346.0, ,Denver,202404060DEN
+12:00.0,0-0,,1,0,0,0,0.0, ,Denver,202404060DEN
+6:06.0,39-54,,2,39,54,-15,1074.0, ,Denver,202404060DEN
+12:00.0,26-33,,2,26,33,-7,720.0,Start of 2nd quarter,Denver,202404060DEN
+6:13.0,76-90,,3,76,90,-14,1787.0,G. Mathews makes 2-pt jump shot from 15 ft (assist by C. Capela),Denver,202404060DEN
+12:00.0,56-69,,3,56,69,-13,1440.0,Start of 3rd quarter,Denver,202404060DEN
+6:07.0,100-122,,4,100,122,-22,2513.0,Defensive rebound by C. Capela,Denver,202404060DEN
+12:00.0,86-111,,4,86,111,-25,2160.0,Start of 4th quarter,Denver,202404060DEN
+0:00.0,110-142,,4,110,142,-32,2880.0,End of 4th quarter,Denver,202404060DEN
+6:14.0,15-11,,1,11,15,-4,346.0,J. Johnson makes 2-pt jump shot from 11 ft (assist by D. Murray),Miami,202404090ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Adebayo vs. C. Capela (C. Martin gains possession),Miami,202404090ATL
+6:13.0,41-36,,2,36,41,-5,1067.0, ,Miami,202404090ATL
+12:00.0,30-27,,2,27,30,-3,720.0,Start of 2nd quarter,Miami,202404090ATL
+6:05.0,70-62,,3,62,70,-8,1795.0, ,Miami,202404090ATL
+12:00.0,59-47,,3,47,59,-12,1440.0,Start of 3rd quarter,Miami,202404090ATL
+6:08.0,91-92,,4,92,91,1,2512.0, ,Miami,202404090ATL
+12:00.0,80-80,,4,80,80,0,2160.0,Start of 4th quarter,Miami,202404090ATL
+0:00.0,107-107,,5,107,107,0,3180.0,End of 1st overtime,Miami,202404090ATL
+0:00.0,117-111,,6,111,117,-6,3480.0,End of 2nd overtime,Miami,202404090ATL
+6:01.0,19-18,,1,18,19,-1,359.0, ,Charlotte,202404100ATL
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: G. Williams vs. C. Capela (T. Young gains possession),Charlotte,202404100ATL
+6:06.0,45-44,,2,44,45,-1,1074.0,V. Krejci enters the game for G. Mathews,Charlotte,202404100ATL
+12:00.0,30-35,,2,35,30,5,720.0,Start of 2nd quarter,Charlotte,202404100ATL
+6:07.0,68-85,,3,85,68,17,1793.0,Defensive rebound by Team,Charlotte,202404100ATL
+12:00.0,55-61,,3,61,55,6,1440.0,Start of 3rd quarter,Charlotte,202404100ATL
+6:00.0,97-103,,4,103,97,6,2520.0,Defensive rebound by B. Fernando,Charlotte,202404100ATL
+12:00.0,77-92,,4,92,77,15,2160.0,Start of 4th quarter,Charlotte,202404100ATL
+0:00.0,115-114,,4,114,115,-1,2880.0,End of 4th quarter,Charlotte,202404100ATL
+6:08.0,16-14,,1,16,14,2,352.0, ,Minnesota,202404120MIN
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. R. Gobert (B. Bogdanović gains possession),Minnesota,202404120MIN
+6:04.0,32-40,,2,32,40,-8,1076.0, ,Minnesota,202404120MIN
+12:00.0,27-25,,2,27,25,2,720.0,Start of 2nd quarter,Minnesota,202404120MIN
+6:16.0,61-76,,3,61,76,-15,1784.0,B. Bogdanović makes free throw 2 of 2,Minnesota,202404120MIN
+12:00.0,47-56,,3,47,56,-9,1440.0,Start of 3rd quarter,Minnesota,202404120MIN
+6:01.0,91-94,,4,91,94,-3,2519.0, ,Minnesota,202404120MIN
+12:00.0,80-80,,4,80,80,0,2160.0,Start of 4th quarter,Minnesota,202404120MIN
+0:00.0,106-109,,4,106,109,-3,2880.0, ,Minnesota,202404120MIN
+6:02.0,15-24,,1,15,24,-9,358.0,M. Gueye makes 2-pt dunk from 2 ft (assist by D. Murray),Indiana,202404140IND
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: B. Fernando vs. M. Turner (D. Hunter gains possession),Indiana,202404140IND
+6:03.0,55-62,,2,55,62,-7,1077.0, ,Indiana,202404140IND
+12:00.0,34-49,,2,34,49,-15,720.0,Start of 2nd quarter,Indiana,202404140IND
+6:04.0,86-109,,3,86,109,-23,1796.0, ,Indiana,202404140IND
+12:00.0,72-86,,3,72,86,-14,1440.0,Start of 3rd quarter,Indiana,202404140IND
+6:04.0,108-144,,4,108,144,-36,2516.0,T. Forrest enters the game for G. Mathews,Indiana,202404140IND
+12:00.0,93-125,,4,93,125,-32,2160.0,Start of 4th quarter,Indiana,202404140IND
+0:00.0,115-157,,4,115,157,-42,2880.0,End of 4th quarter,Indiana,202404140IND
+6:09.0,12-16,,1,12,16,-4,351.0, ,Chicago,202404170CHI
+12:00.0,0-0,,1,0,0,0,0.0,Jump ball: C. Capela vs. N. Vučević (B. Bogdanović gains possession),Chicago,202404170CHI
+6:01.0,44-55,,2,44,55,-11,1079.0,D. Hunter misses 2-pt jump shot from 10 ft (block by A. Dosunmu),Chicago,202404170CHI
+12:00.0,22-40,,2,22,40,-18,720.0,Start of 2nd quarter,Chicago,202404170CHI
+6:04.0,80-88,,3,80,88,-8,1796.0, ,Chicago,202404170CHI
+12:00.0,67-73,,3,67,73,-6,1440.0,Start of 3rd quarter,Chicago,202404170CHI
+6:12.0,100-121,,4,100,121,-21,2508.0, ,Chicago,202404170CHI
+12:00.0,92-110,,4,92,110,-18,2160.0,Start of 4th quarter,Chicago,202404170CHI
+0:00.0,116-131,,4,116,131,-15,2880.0,End of 4th quarter,Chicago,202404170CHI

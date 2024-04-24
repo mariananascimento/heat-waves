@@ -502,4 +502,12 @@ def combine(team, season):
     print("Save combined file " + quarter_midquarter_viz_filename) 
 
 # Takes 3-letter team name and season as string (ex: 23-24 is "2024")
-scrape("DET", "2024")
+# scrape("MIA", "2024")
+
+remaining_teams = [
+    #'ATL', 'NJN',
+    'CHA', 'CHI', 'CLE', 'DAL', 'DEN', 'GSW', 'HOU', 'IND', 'LAC', 'LAL', 'MEM', 'MIL', 'MIN', 'NOH', 'NYK', 'OKC', 'ORL', 'PHI', 'PHO', 'POR', 'SAC', 'SAS', 'TOR', 'UTA', 'WAS']
+
+for team_code in remaining_teams:
+    scrape(team_code, "2024")
+  

@@ -1,0 +1,542 @@
+Time,Golden State,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: D. Green vs. C. Capela (T. Young gains possession),0-0,,,1,0,0,0,0.0
+11:40.0, ,0-0,Turnover by T. Young (bad pass),,1,0,0,0,20.0
+11:30.0,K. Thompson makes 2-pt jump shot from 1 ft (assist by D. Green),2-0, ,,1,0,2,-2,30.0
+11:05.0, ,2-0,D. Murray misses 3-pt jump shot from 23 ft,,1,0,2,-2,55.0
+11:02.0,Defensive rebound by A. Wiggins,2-0, ,,1,0,2,-2,58.0
+10:53.0,A. Wiggins misses 3-pt jump shot from 26 ft,2-0, ,,1,0,2,-2,67.0
+10:50.0, ,2-0,Defensive rebound by G. Mathews,,1,0,2,-2,70.0
+10:41.0, ,2-0,J. Johnson misses 3-pt jump shot from 23 ft,,1,0,2,-2,79.0
+10:38.0, ,2-0,Offensive rebound by C. Capela,,1,0,2,-2,82.0
+10:36.0, ,2-2,C. Capela makes 2-pt hook shot from 3 ft,Tie,1,2,2,0,84.0
+10:26.0,Personal foul by T. Young (drawn by K. Thompson),2-2, ,,1,2,2,0,94.0
+10:22.0,K. Thompson makes 3-pt jump shot from 24 ft (assist by D. Green),5-2, ,,1,2,5,-3,98.0
+10:07.0, ,5-2,T. Young misses 2-pt jump shot from 10 ft (block by A. Wiggins),,1,2,5,-3,113.0
+10:04.0, ,5-2,Offensive rebound by G. Mathews,,1,2,5,-3,116.0
+10:01.0, ,5-4,G. Mathews makes 2-pt jump shot from 13 ft,,1,4,5,-1,119.0
+9:49.0,J. Kuminga makes 2-pt dunk from 1 ft (assist by D. Green),7-4, ,,1,4,7,-3,131.0
+9:38.0, ,7-4,G. Mathews misses 3-pt jump shot from 26 ft (block by A. Wiggins),,1,4,7,-3,142.0
+9:36.0,Defensive rebound by J. Kuminga,7-4, ,,1,4,7,-3,144.0
+9:27.0,K. Thompson misses 2-pt jump shot from 12 ft,7-4, ,,1,4,7,-3,153.0
+9:25.0, ,7-4,Defensive rebound by C. Capela,,1,4,7,-3,155.0
+9:18.0, ,7-4,T. Young misses 3-pt jump shot from 26 ft,,1,4,7,-3,162.0
+9:15.0,Defensive rebound by K. Thompson,7-4, ,,1,4,7,-3,165.0
+9:05.0,A. Wiggins misses 2-pt jump shot from 3 ft,7-4, ,,1,4,7,-3,175.0
+9:01.0, ,7-4,Defensive rebound by J. Johnson,,1,4,7,-3,179.0
+8:51.0, ,7-6,C. Capela makes 2-pt dunk from 1 ft (assist by J. Johnson),,1,6,7,-1,189.0
+8:40.0,S. Curry misses 3-pt jump shot from 27 ft,7-6, ,,1,6,7,-1,200.0
+8:37.0, ,7-6,Defensive rebound by J. Johnson,,1,6,7,-1,203.0
+8:34.0, ,7-8,D. Murray makes 2-pt dunk from 1 ft (assist by J. Johnson),Lead change,1,8,7,1,206.0
+8:19.0,S. Curry misses 3-pt jump shot from 26 ft,7-8, ,,1,8,7,1,221.0
+8:16.0, ,7-8,Defensive rebound by C. Capela,,1,8,7,1,224.0
+8:10.0, ,7-8,Personal foul by J. Kuminga (drawn by C. Capela),,1,8,7,1,230.0
+7:58.0, ,7-10,C. Capela makes 2-pt hook shot from 6 ft (assist by J. Johnson),,1,10,7,3,242.0
+7:39.0,J. Kuminga makes 2-pt jump shot from 12 ft,9-10, ,,1,10,9,1,261.0
+7:21.0, ,9-10,C. Capela misses 2-pt hook shot from 2 ft,,1,10,9,1,279.0
+7:16.0, ,9-10,Offensive rebound by C. Capela,,1,10,9,1,284.0
+7:16.0, ,9-10,C. Capela misses 2-pt layup at rim,,1,10,9,1,284.0
+7:16.0,Defensive rebound by J. Kuminga,9-10, ,,1,10,9,1,284.0
+7:14.0,S. Curry makes 2-pt layup from 1 ft,11-10, ,Lead change,1,10,11,-1,286.0
+7:14.0,Shooting foul by G. Mathews (drawn by S. Curry),11-10, ,,1,10,11,-1,286.0
+7:14.0,S. Curry makes free throw 1 of 1,12-10, ,,1,10,12,-2,286.0
+6:59.0, ,12-10,D. Murray misses 2-pt jump shot from 7 ft,,1,10,12,-2,301.0
+6:55.0,Defensive rebound by D. Green,12-10, ,,1,10,12,-2,305.0
+6:44.0,D. Green makes 3-pt jump shot from 26 ft (assist by S. Curry),15-10, ,,1,10,15,-5,316.0
+6:43.0, ,15-10,Atlanta full timeout,,1,10,15,-5,317.0
+6:43.0, ,15-10,B. Bogdanović enters the game for G. Mathews,,1,10,15,-5,317.0
+6:43.0, ,15-10,P. Mills enters the game for T. Young,,1,10,15,-5,317.0
+6:29.0, ,15-12,C. Capela makes 2-pt layup from 2 ft (assist by B. Bogdanović),,1,12,15,-3,331.0
+6:13.0,D. Green misses 2-pt layup from 1 ft,15-12, ,,1,12,15,-3,347.0
+6:10.0, ,15-12,Defensive rebound by C. Capela,,1,12,15,-3,350.0
+6:09.0, ,15-12,Atlanta full timeout,,1,12,15,-3,351.0
+6:09.0,B. Podziemski enters the game for K. Thompson,15-12, ,,1,12,15,-3,351.0
+6:09.0, ,15-12,D. Hunter enters the game for C. Capela,,1,12,15,-3,351.0
+6:09.0, ,15-12,O. Okongwu enters the game for J. Johnson,,1,12,15,-3,351.0
+5:53.0, ,15-12,B. Bogdanović misses 2-pt jump shot from 14 ft,,1,12,15,-3,367.0
+5:50.0,Defensive rebound by A. Wiggins,15-12, ,,1,12,15,-3,370.0
+5:37.0,Turnover by J. Kuminga (lost ball; steal by D. Hunter),15-12, ,,1,12,15,-3,383.0
+5:28.0, ,15-12,O. Okongwu misses 2-pt layup from 3 ft,,1,12,15,-3,392.0
+5:26.0,Defensive rebound by B. Podziemski,15-12, ,,1,12,15,-3,394.0
+5:20.0,D. Green misses 3-pt jump shot from 26 ft,15-12, ,,1,12,15,-3,400.0
+5:16.0, ,15-12,Defensive rebound by O. Okongwu,,1,12,15,-3,404.0
+5:10.0, ,15-12,D. Murray misses 2-pt jump shot from 8 ft,,1,12,15,-3,410.0
+5:09.0, ,15-12,Offensive rebound by O. Okongwu,,1,12,15,-3,411.0
+5:08.0, ,15-12,O. Okongwu misses 2-pt layup from 1 ft,,1,12,15,-3,412.0
+5:06.0, ,15-12,Offensive rebound by O. Okongwu,,1,12,15,-3,414.0
+5:05.0, ,15-14,O. Okongwu makes 2-pt layup from 1 ft,,1,14,15,-1,415.0
+4:52.0,B. Podziemski misses 3-pt jump shot from 23 ft,15-14, ,,1,14,15,-1,428.0
+4:49.0,Offensive rebound by S. Curry,15-14, ,,1,14,15,-1,431.0
+4:48.0,S. Curry makes 3-pt jump shot from 26 ft,18-14, ,,1,14,18,-4,432.0
+4:33.0, ,18-14,Shooting foul by B. Podziemski (drawn by D. Hunter),,1,14,18,-4,447.0
+4:33.0, ,18-15,D. Hunter makes free throw 1 of 2,,1,15,18,-3,447.0
+4:33.0,K. Looney enters the game for D. Green,18-15, ,,1,15,18,-3,447.0
+4:33.0,G. Santos enters the game for J. Kuminga,18-15, ,,1,15,18,-3,447.0
+4:33.0, ,18-15,D. Hunter misses free throw 2 of 2,,1,15,18,-3,447.0
+4:31.0,Defensive rebound by G. Santos,18-15, ,,1,15,18,-3,449.0
+4:16.0,A. Wiggins misses 2-pt layup from 1 ft,18-15, ,,1,15,18,-3,464.0
+4:15.0,Offensive rebound by Team,18-15, ,,1,15,18,-3,465.0
+4:10.0,Personal foul by D. Murray (drawn by S. Curry),18-15, ,,1,15,18,-3,470.0
+4:03.0,S. Curry makes 2-pt jump shot from 11 ft (assist by B. Podziemski),20-15, ,,1,15,20,-5,477.0
+3:46.0, ,20-15,B. Bogdanović misses 3-pt jump shot from 23 ft,,1,15,20,-5,494.0
+3:44.0,Defensive rebound by K. Looney,20-15, ,,1,15,20,-5,496.0
+3:31.0,Turnover by S. Curry (out of bounds lost ball),20-15, ,,1,15,20,-5,509.0
+3:31.0,L. Quinones enters the game for A. Wiggins,20-15, ,,1,15,20,-5,509.0
+3:31.0, ,20-15,J. Johnson enters the game for P. Mills,,1,15,20,-5,509.0
+3:31.0, ,20-15,T. Young enters the game for D. Murray,,1,15,20,-5,509.0
+3:06.0, ,20-17,J. Johnson makes 2-pt jump shot from 11 ft,,1,17,20,-3,534.0
+3:00.0,B. Podziemski makes 2-pt layup from 1 ft,22-17, ,,1,17,22,-5,540.0
+3:00.0,Shooting foul by D. Hunter (drawn by B. Podziemski),22-17, ,,1,17,22,-5,540.0
+3:00.0,K. Thompson enters the game for S. Curry,22-17, ,,1,17,22,-5,540.0
+3:00.0,B. Podziemski makes free throw 1 of 1,23-17, ,,1,17,23,-6,540.0
+2:54.0, ,23-17,Personal foul by G. Santos (drawn by D. Hunter),,1,17,23,-6,546.0
+2:47.0, ,23-19,O. Okongwu makes 2-pt layup from 1 ft (assist by B. Bogdanović),,1,19,23,-4,553.0
+2:33.0,Shooting foul by O. Okongwu (drawn by B. Podziemski),23-19, ,,1,19,23,-4,567.0
+2:33.0,B. Podziemski makes free throw 1 of 2,24-19, ,,1,19,24,-5,567.0
+2:33.0,B. Podziemski makes free throw 2 of 2,25-19, ,,1,19,25,-6,567.0
+2:18.0, ,25-19,Turnover by B. Bogdanović (traveling),,1,19,25,-6,582.0
+2:08.0,Turnover by K. Thompson (bad pass),25-19, ,,1,19,25,-6,592.0
+2:03.0, ,25-22,T. Young makes 3-pt jump shot from 27 ft,,1,22,25,-3,597.0
+2:01.0,Golden State full timeout,25-22, ,,1,22,25,-3,599.0
+2:01.0,J. Kuminga enters the game for B. Podziemski,25-22, ,,1,22,25,-3,599.0
+1:47.0,L. Quinones makes 3-pt jump shot from 26 ft (assist by J. Kuminga),28-22, ,,1,22,28,-6,613.0
+1:32.0, ,28-22,Shooting foul by J. Kuminga (drawn by O. Okongwu),,1,22,28,-6,628.0
+1:32.0, ,28-23,O. Okongwu makes free throw 1 of 2,,1,23,28,-5,628.0
+1:32.0, ,28-24,O. Okongwu makes free throw 2 of 2,,1,24,28,-4,628.0
+1:22.0,K. Thompson misses 3-pt jump shot from 26 ft,28-24, ,,1,24,28,-4,638.0
+1:18.0,Offensive rebound by L. Quinones,28-24, ,,1,24,28,-4,642.0
+1:15.0,G. Santos misses 3-pt jump shot from 26 ft,28-24, ,,1,24,28,-4,645.0
+1:13.0,Offensive rebound by L. Quinones,28-24, ,,1,24,28,-4,647.0
+1:12.0,L. Quinones makes 2-pt layup from 1 ft,30-24, ,,1,24,30,-6,648.0
+0:54.0, ,30-24,J. Johnson misses 2-pt layup from 6 ft,,1,24,30,-6,666.0
+0:51.0,Defensive rebound by K. Thompson,30-24, ,,1,24,30,-6,669.0
+0:45.0,J. Kuminga misses 3-pt jump shot from 27 ft,30-24, ,,1,24,30,-6,675.0
+0:43.0, ,30-24,Defensive rebound by Team,,1,24,30,-6,677.0
+0:28.0, ,30-24,Shooting foul by G. Santos (drawn by T. Young),,1,24,30,-6,692.0
+0:28.0, ,30-25,T. Young makes free throw 1 of 2,,1,25,30,-5,692.0
+0:28.0, ,30-25,T. Young misses free throw 2 of 2,,1,25,30,-5,692.0
+0:26.0,Defensive rebound by K. Looney,30-25, ,,1,25,30,-5,694.0
+0:09.0,Turnover by J. Kuminga (lost ball; steal by B. Bogdanović),30-25, ,,1,25,30,-5,711.0
+0:01.0, ,30-28,T. Young makes 3-pt jump shot from 27 ft,,1,28,30,-2,719.0
+0:00.0,L. Quinones makes 3-pt jump shot from 46 ft (assist by G. Santos),33-28, ,,1,28,33,-5,720.0
+0:00.0,Instant Replay (Request: Ruling Stands),33-28, ,,1,28,33,-5,720.0
+0:00.0,End of 1st quarter,33-28,,,1,28,33,-5,720.0
+12:00.0,Start of 2nd quarter,33-28,,,2,28,33,-5,720.0
+11:47.0,K. Thompson misses 3-pt jump shot from 26 ft,33-28, ,,2,28,33,-5,733.0
+11:44.0, ,33-28,Defensive rebound by Team,,2,28,33,-5,736.0
+11:30.0, ,33-28,T. Young misses 3-pt jump shot from 32 ft,,2,28,33,-5,750.0
+11:27.0,Defensive rebound by A. Wiggins,33-28, ,,2,28,33,-5,753.0
+11:22.0,K. Thompson misses 3-pt jump shot from 26 ft,33-28, ,,2,28,33,-5,758.0
+11:18.0,Offensive rebound by K. Looney,33-28, ,,2,28,33,-5,762.0
+11:18.0,Turnover by G. Santos (dbl dribble),33-28, ,,2,28,33,-5,762.0
+11:09.0, ,33-30,B. Bogdanović makes 2-pt jump shot from 17 ft (assist by T. Young),,2,30,33,-3,771.0
+10:54.0,A. Wiggins misses 3-pt jump shot from 26 ft,33-30, ,,2,30,33,-3,786.0
+10:52.0,Offensive rebound by G. Santos,33-30, ,,2,30,33,-3,788.0
+10:50.0,L. Quinones makes 3-pt jump shot from 26 ft (assist by G. Santos),36-30, ,,2,30,36,-6,790.0
+10:36.0, ,36-30,J. Johnson misses 2-pt layup from 3 ft,,2,30,36,-6,804.0
+10:33.0,Defensive rebound by K. Looney,36-30, ,,2,30,36,-6,807.0
+10:26.0,L. Quinones misses 3-pt jump shot from 28 ft,36-30, ,,2,30,36,-6,814.0
+10:25.0, ,36-30,Defensive rebound by Team,,2,30,36,-6,815.0
+10:15.0, ,36-30,T. Young misses 2-pt layup from 2 ft,,2,30,36,-6,825.0
+10:13.0, ,36-30,Offensive rebound by O. Okongwu,,2,30,36,-6,827.0
+10:12.0, ,36-30,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,30,36,-6,828.0
+10:07.0,Defensive rebound by K. Looney,36-30, ,,2,30,36,-6,833.0
+9:58.0,Shooting foul by B. Bogdanović (drawn by G. Santos),36-30, ,,2,30,36,-6,842.0
+9:58.0,G. Santos makes free throw 1 of 2,37-30, ,,2,30,37,-7,842.0
+9:58.0, ,37-30,G. Mathews enters the game for D. Hunter,,2,30,37,-7,842.0
+9:58.0,G. Santos makes free throw 2 of 2,38-30, ,,2,30,38,-8,842.0
+9:50.0, ,38-32,J. Johnson makes 2-pt layup from 2 ft (assist by B. Bogdanović),,2,32,38,-6,850.0
+9:37.0,A. Wiggins misses 2-pt hook shot from 6 ft,38-32, ,,2,32,38,-6,863.0
+9:34.0, ,38-32,Defensive rebound by G. Mathews,,2,32,38,-6,866.0
+9:26.0, ,38-34,T. Young makes 2-pt layup from 2 ft,,2,34,38,-4,874.0
+9:26.0, ,38-34,Shooting foul by G. Santos (drawn by T. Young),,2,34,38,-4,874.0
+9:26.0,Golden State full timeout,38-34, ,,2,34,38,-4,874.0
+9:26.0, ,38-35,T. Young makes free throw 1 of 1,,2,35,38,-3,874.0
+9:15.0,K. Thompson misses 2-pt jump shot from 22 ft,38-35, ,,2,35,38,-3,885.0
+9:12.0,Offensive rebound by K. Looney,38-35, ,,2,35,38,-3,888.0
+9:12.0,J. Kuminga enters the game for G. Santos,38-35, ,,2,35,38,-3,888.0
+9:12.0,B. Podziemski enters the game for A. Wiggins,38-35, ,,2,35,38,-3,888.0
+9:02.0,K. Thompson misses 2-pt jump shot from 8 ft,38-35, ,,2,35,38,-3,898.0
+9:00.0, ,38-35,Defensive rebound by O. Okongwu,,2,35,38,-3,900.0
+8:56.0, ,38-35,Turnover by T. Young (bad pass; steal by K. Thompson),,2,35,38,-3,904.0
+8:52.0,K. Thompson misses 3-pt jump shot from 27 ft,38-35, ,,2,35,38,-3,908.0
+8:50.0, ,38-35,Defensive rebound by O. Okongwu,,2,35,38,-3,910.0
+8:40.0, ,38-37,T. Young makes 2-pt layup from 5 ft,,2,37,38,-1,920.0
+8:25.0,L. Quinones misses 3-pt jump shot from 25 ft,38-37, ,,2,37,38,-1,935.0
+8:23.0, ,38-37,Defensive rebound by J. Johnson,,2,37,38,-1,937.0
+8:17.0, ,38-40,J. Johnson makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),Lead change,2,40,38,2,943.0
+7:58.0,K. Thompson makes 3-pt jump shot from 24 ft (assist by K. Looney),41-40, ,Lead change,2,40,41,-1,962.0
+7:46.0, ,41-40,Offensive foul by B. Bogdanović (drawn by L. Quinones),,2,40,41,-1,974.0
+7:46.0, ,41-40,Turnover by B. Bogdanović (offensive foul),,2,40,41,-1,974.0
+7:46.0,S. Curry enters the game for K. Looney,41-40, ,,2,40,41,-1,974.0
+7:46.0,D. Green enters the game for L. Quinones,41-40, ,,2,40,41,-1,974.0
+7:46.0,A. Wiggins enters the game for K. Thompson,41-40, ,,2,40,41,-1,974.0
+7:46.0, ,41-40,C. Capela enters the game for J. Johnson,,2,40,41,-1,974.0
+7:46.0, ,41-40,P. Mills enters the game for G. Mathews,,2,40,41,-1,974.0
+7:46.0, ,41-40,D. Murray enters the game for T. Young,,2,40,41,-1,974.0
+7:29.0,D. Green misses 3-pt jump shot from 26 ft,41-40, ,,2,40,41,-1,991.0
+7:26.0, ,41-40,Defensive rebound by D. Murray,,2,40,41,-1,994.0
+7:23.0, ,41-40,B. Bogdanović misses 3-pt jump shot from 25 ft,,2,40,41,-1,997.0
+7:20.0,Defensive rebound by D. Green,41-40, ,,2,40,41,-1,1000.0
+7:09.0,J. Kuminga makes 2-pt jump shot from 11 ft,43-40, ,,2,40,43,-3,1011.0
+6:55.0, ,43-43,O. Okongwu makes 3-pt jump shot from 23 ft (assist by D. Murray),Tie,2,43,43,0,1025.0
+6:42.0,B. Podziemski makes 2-pt layup from 1 ft,45-43, ,,2,43,45,-2,1038.0
+6:28.0, ,45-43,B. Bogdanović misses 2-pt jump shot from 13 ft,,2,43,45,-2,1052.0
+6:26.0,Defensive rebound by A. Wiggins,45-43, ,,2,43,45,-2,1054.0
+6:15.0,Shooting foul by D. Murray (drawn by B. Podziemski),45-43, ,,2,43,45,-2,1065.0
+6:15.0,B. Podziemski misses free throw 1 of 2,45-43, ,,2,43,45,-2,1065.0
+6:15.0,Offensive rebound by Team,45-43, ,,2,43,45,-2,1065.0
+6:15.0, ,45-43,G. Mathews enters the game for B. Bogdanović,,2,43,45,-2,1065.0
+6:15.0,B. Podziemski misses free throw 2 of 2,45-43, ,,2,43,45,-2,1065.0
+6:12.0, ,45-43,Defensive rebound by C. Capela,,2,43,45,-2,1068.0
+6:02.0, ,45-45,C. Capela makes 2-pt layup from 1 ft (assist by D. Murray),Tie,2,45,45,0,1078.0
+5:47.0,S. Curry misses 3-pt jump shot from 26 ft,45-45, ,,2,45,45,0,1093.0
+5:46.0,Offensive rebound by J. Kuminga,45-45, ,,2,45,45,0,1094.0
+5:44.0,D. Green makes 2-pt layup at rim (assist by J. Kuminga),47-45, ,,2,45,47,-2,1096.0
+5:32.0, ,47-45,Shooting foul by S. Curry (drawn by G. Mathews),,2,45,47,-2,1108.0
+5:32.0, ,47-46,G. Mathews makes free throw 1 of 3,,2,46,47,-1,1108.0
+5:32.0, ,47-47,G. Mathews makes free throw 2 of 3,Tie,2,47,47,0,1108.0
+5:32.0, ,47-48,G. Mathews makes free throw 3 of 3,Lead change,2,48,47,1,1108.0
+5:16.0,S. Curry makes 3-pt jump shot from 27 ft (assist by J. Kuminga),50-48, ,Lead change,2,48,50,-2,1124.0
+5:00.0, ,50-51,G. Mathews makes 3-pt jump shot from 25 ft (assist by D. Murray),Lead change,2,51,50,1,1140.0
+4:53.0,A. Wiggins makes 2-pt layup from 1 ft (assist by S. Curry),52-51, ,Lead change,2,51,52,-1,1147.0
+4:40.0, ,52-53,D. Murray makes 2-pt layup from 4 ft,Lead change,2,53,52,1,1160.0
+4:25.0,J. Kuminga misses 2-pt layup from 1 ft (block by O. Okongwu),52-53, ,,2,53,52,1,1175.0
+4:18.0, ,52-53,Defensive rebound by C. Capela,,2,53,52,1,1182.0
+4:17.0, ,52-55,D. Murray makes 2-pt jump shot from 4 ft,,2,55,52,3,1183.0
+4:04.0,S. Curry misses 2-pt layup from 2 ft,52-55, ,,2,55,52,3,1196.0
+4:01.0,Offensive rebound by D. Green,52-55, ,,2,55,52,3,1199.0
+4:01.0,D. Green misses 2-pt layup at rim,52-55, ,,2,55,52,3,1199.0
+4:00.0, ,52-55,Defensive rebound by D. Murray,,2,55,52,3,1200.0
+3:58.0, ,52-57,D. Murray makes 2-pt layup from 2 ft,,2,57,52,5,1202.0
+3:58.0,Golden State full timeout,52-57, ,,2,57,52,5,1202.0
+3:58.0, ,52-57,B. Bogdanović enters the game for G. Mathews,,2,57,52,5,1202.0
+3:58.0, ,52-57,J. Johnson enters the game for P. Mills,,2,57,52,5,1202.0
+3:58.0, ,52-57,T. Young enters the game for O. Okongwu,,2,57,52,5,1202.0
+3:47.0,S. Curry makes 2-pt layup from 1 ft (assist by D. Green),54-57, ,,2,57,54,3,1213.0
+3:47.0,Shooting foul by D. Murray (drawn by S. Curry),54-57, ,,2,57,54,3,1213.0
+3:47.0,S. Curry makes free throw 1 of 1,55-57, ,,2,57,55,2,1213.0
+3:35.0, ,55-57,D. Murray misses 2-pt jump shot from 11 ft (block by D. Green),,2,57,55,2,1225.0
+3:31.0, ,55-57,Offensive rebound by C. Capela,,2,57,55,2,1229.0
+3:23.0, ,55-57,T. Young misses 3-pt jump shot from 24 ft,,2,57,55,2,1237.0
+3:19.0,Defensive rebound by B. Podziemski,55-57, ,,2,57,55,2,1241.0
+3:14.0,D. Green misses 2-pt layup from 1 ft,55-57, ,,2,57,55,2,1246.0
+3:12.0, ,55-57,Defensive rebound by J. Johnson,,2,57,55,2,1248.0
+3:06.0, ,55-59,C. Capela makes 2-pt layup from 1 ft (assist by J. Johnson),,2,59,55,4,1254.0
+2:50.0,D. Green makes 2-pt layup from 1 ft,57-59, ,,2,59,57,2,1270.0
+2:32.0, ,57-59,D. Murray misses 2-pt jump shot from 15 ft,,2,59,57,2,1288.0
+2:29.0, ,57-59,Offensive rebound by J. Johnson,,2,59,57,2,1291.0
+2:28.0, ,57-59,J. Johnson misses 2-pt layup from 1 ft,,2,59,57,2,1292.0
+2:26.0,Defensive rebound by B. Podziemski,57-59, ,,2,59,57,2,1294.0
+2:22.0,B. Podziemski makes 2-pt layup from 2 ft,59-59, ,Tie,2,59,59,0,1298.0
+2:11.0, ,59-59,B. Bogdanović misses 2-pt jump shot from 11 ft (block by S. Curry),,2,59,59,0,1309.0
+2:09.0,Defensive rebound by S. Curry,59-59, ,,2,59,59,0,1311.0
+1:59.0,S. Curry makes 3-pt jump shot from 25 ft (assist by B. Podziemski),62-59, ,Lead change,2,59,62,-3,1321.0
+1:37.0, ,62-62,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by C. Capela),Tie,2,62,62,0,1343.0
+1:23.0,Personal foul by B. Bogdanović (drawn by S. Curry),62-62, ,,2,62,62,0,1357.0
+1:18.0,S. Curry misses 3-pt jump shot from 27 ft,62-62, ,,2,62,62,0,1362.0
+1:13.0, ,62-62,Defensive rebound by Team,,2,62,62,0,1367.0
+1:13.0,Loose ball foul by A. Wiggins (drawn by J. Johnson),62-62, ,,2,62,62,0,1367.0
+1:00.0, ,62-62,Turnover by T. Young (bad pass; steal by J. Kuminga),,2,62,62,0,1380.0
+0:58.0,Personal foul by J. Johnson (drawn by S. Curry),62-62, ,,2,62,62,0,1382.0
+0:58.0,S. Curry makes free throw 1 of 2,63-62, ,,2,62,63,-1,1382.0
+0:58.0,S. Curry makes free throw 2 of 2,64-62, ,,2,62,64,-2,1382.0
+0:49.0, ,64-62,B. Bogdanović misses 3-pt jump shot from 23 ft,,2,62,64,-2,1391.0
+0:46.0, ,64-62,Offensive rebound by C. Capela,,2,62,64,-2,1394.0
+0:40.0, ,64-62,D. Murray misses 3-pt jump shot from 25 ft,,2,62,64,-2,1400.0
+0:37.0, ,64-62,Offensive rebound by C. Capela,,2,62,64,-2,1403.0
+0:37.0, ,64-64,C. Capela makes 2-pt dunk from 1 ft,Tie,2,64,64,0,1403.0
+0:31.0,S. Curry misses 3-pt jump shot from 29 ft,64-64, ,,2,64,64,0,1409.0
+0:28.0, ,64-64,Defensive rebound by D. Murray,,2,64,64,0,1412.0
+0:10.0, ,64-64,J. Johnson misses 3-pt jump shot from 23 ft,,2,64,64,0,1430.0
+0:07.0,Defensive rebound by B. Podziemski,64-64, ,,2,64,64,0,1433.0
+0:03.0,B. Podziemski misses 2-pt jump shot from 8 ft,64-64, ,,2,64,64,0,1437.0
+0:01.0, ,64-64,Defensive rebound by C. Capela,,2,64,64,0,1439.0
+0:00.0, ,64-64,D. Murray misses 3-pt jump shot from 49 ft,,2,64,64,0,1440.0
+0:00.0, ,64-64,Offensive rebound by Team,,2,64,64,0,1440.0
+0:00.0,End of 2nd quarter,64-64,,,2,64,64,0,1440.0
+12:00.0,Start of 3rd quarter,64-64,,,3,64,64,0,1440.0
+11:48.0,D. Green misses 2-pt layup from 2 ft,64-64, ,,3,64,64,0,1452.0
+11:44.0,Offensive rebound by J. Kuminga,64-64, ,,3,64,64,0,1456.0
+11:44.0,J. Kuminga misses 2-pt layup at rim,64-64, ,,3,64,64,0,1456.0
+11:43.0, ,64-64,Defensive rebound by J. Johnson,,3,64,64,0,1457.0
+11:41.0, ,64-67,T. Young makes 3-pt jump shot from 26 ft (assist by J. Johnson),Lead change,3,67,64,3,1459.0
+11:29.0,K. Thompson misses 3-pt jump shot from 25 ft,64-67, ,,3,67,64,3,1471.0
+11:25.0, ,64-67,Defensive rebound by J. Johnson,,3,67,64,3,1475.0
+11:18.0, ,64-67,J. Johnson misses 3-pt jump shot from 26 ft,,3,67,64,3,1482.0
+11:15.0, ,64-67,Offensive rebound by C. Capela,,3,67,64,3,1485.0
+11:14.0, ,64-69,C. Capela makes 2-pt layup from 2 ft,,3,69,64,5,1486.0
+11:04.0,S. Curry makes 2-pt layup from 2 ft (assist by D. Green),66-69, ,,3,69,66,3,1496.0
+11:04.0,Shooting foul by D. Murray (drawn by S. Curry),66-69, ,,3,69,66,3,1496.0
+11:04.0,S. Curry makes free throw 1 of 1,67-69, ,,3,69,67,2,1496.0
+10:43.0, ,67-71,J. Johnson makes 2-pt jump shot from 9 ft (assist by T. Young),,3,71,67,4,1517.0
+10:29.0,K. Thompson misses 2-pt layup from 2 ft (block by G. Mathews),67-71, ,,3,71,67,4,1531.0
+10:28.0,Offensive rebound by Team,67-71, ,,3,71,67,4,1532.0
+10:22.0,Turnover by D. Green (out of bounds lost ball),67-71, ,,3,71,67,4,1538.0
+10:04.0, ,67-71,J. Johnson misses 3-pt jump shot from 24 ft,,3,71,67,4,1556.0
+10:01.0,Defensive rebound by B. Podziemski,67-71, ,,3,71,67,4,1559.0
+9:50.0,Turnover by J. Kuminga (lost ball; steal by T. Young),67-71, ,,3,71,67,4,1570.0
+9:45.0, ,67-74,T. Young makes 3-pt jump shot from 26 ft,,3,74,67,7,1575.0
+9:43.0,Golden State full timeout,67-74, ,,3,74,67,7,1577.0
+9:43.0,T. Jackson-Davis enters the game for B. Podziemski,67-74, ,,3,74,67,7,1577.0
+9:43.0,Violation by Team (delay of game),67-74, ,,3,74,67,7,1577.0
+9:26.0,S. Curry makes 2-pt jump shot from 17 ft,69-74, ,,3,74,69,5,1594.0
+9:06.0, ,69-74,D. Murray misses 3-pt jump shot from 26 ft,,3,74,69,5,1614.0
+9:04.0,Defensive rebound by S. Curry,69-74, ,,3,74,69,5,1616.0
+8:56.0,T. Jackson-Davis misses 2-pt layup from 1 ft (block by J. Johnson),69-74, ,,3,74,69,5,1624.0
+8:52.0,Offensive rebound by T. Jackson-Davis,69-74, ,,3,74,69,5,1628.0
+8:52.0,T. Jackson-Davis makes 2-pt dunk from 1 ft,71-74, ,,3,74,71,3,1628.0
+8:41.0, ,71-74,Shooting foul by D. Green (drawn by C. Capela),,3,74,71,3,1639.0
+8:41.0, ,71-74,C. Capela misses free throw 1 of 2,,3,74,71,3,1639.0
+8:41.0, ,71-74,Offensive rebound by Team,,3,74,71,3,1639.0
+8:41.0, ,71-74,O. Okongwu enters the game for G. Mathews,,3,74,71,3,1639.0
+8:41.0, ,71-75,C. Capela makes free throw 2 of 2,,3,75,71,4,1639.0
+8:24.0,J. Kuminga misses 3-pt jump shot from 26 ft,71-75, ,,3,75,71,4,1656.0
+8:20.0, ,71-75,Defensive rebound by J. Johnson,,3,75,71,4,1660.0
+8:14.0, ,71-75,D. Murray misses 2-pt layup from 1 ft,,3,75,71,4,1666.0
+8:12.0,Defensive rebound by T. Jackson-Davis,71-75, ,,3,75,71,4,1668.0
+7:58.0,S. Curry misses 2-pt layup from 3 ft,71-75, ,,3,75,71,4,1682.0
+7:55.0, ,71-75,Defensive rebound by C. Capela,,3,75,71,4,1685.0
+7:47.0, ,71-78,T. Young makes 3-pt jump shot from 25 ft,,3,78,71,7,1693.0
+7:21.0,J. Kuminga makes 3-pt jump shot from 25 ft (assist by S. Curry),74-78, ,,3,78,74,4,1719.0
+7:08.0, ,74-78,Personal foul by J. Kuminga (drawn by T. Young),,3,78,74,4,1732.0
+6:54.0, ,74-78,J. Johnson misses 2-pt jump shot from 10 ft (block by K. Thompson),,3,78,74,4,1746.0
+6:50.0, ,74-78,Offensive rebound by J. Johnson,,3,78,74,4,1750.0
+6:50.0, ,74-78,C. Capela misses 2-pt jump shot from 20 ft,,3,78,74,4,1750.0
+6:50.0,Defensive rebound by T. Jackson-Davis,74-78, ,,3,78,74,4,1750.0
+6:39.0,J. Kuminga misses 2-pt jump shot from 10 ft,74-78, ,,3,78,74,4,1761.0
+6:35.0, ,74-78,Defensive rebound by C. Capela,,3,78,74,4,1765.0
+6:23.0, ,74-78,T. Young misses 2-pt jump shot from 18 ft,,3,78,74,4,1777.0
+6:20.0,Defensive rebound by T. Jackson-Davis,74-78, ,,3,78,74,4,1780.0
+6:15.0,Personal foul by T. Young (drawn by K. Thompson),74-78, ,,3,78,74,4,1785.0
+6:15.0,B. Podziemski enters the game for K. Thompson,74-78, ,,3,78,74,4,1785.0
+6:15.0, ,74-78,B. Bogdanović enters the game for T. Young,,3,78,74,4,1785.0
+6:00.0,B. Podziemski misses 3-pt jump shot from 24 ft,74-78, ,,3,78,74,4,1800.0
+5:59.0, ,74-78,Defensive rebound by Team,,3,78,74,4,1801.0
+5:59.0, ,74-78,D. Hunter enters the game for J. Johnson,,3,78,74,4,1801.0
+5:44.0, ,74-78,D. Hunter misses 2-pt jump shot from 20 ft,,3,78,74,4,1816.0
+5:43.0,Defensive rebound by Team,74-78, ,,3,78,74,4,1817.0
+5:43.0, ,74-78,Loose ball foul by O. Okongwu (drawn by J. Kuminga),,3,78,74,4,1817.0
+5:22.0,Turnover by J. Kuminga (bad pass; steal by D. Murray),74-78, ,,3,78,74,4,1838.0
+5:18.0, ,74-80,D. Murray makes 2-pt layup from 2 ft,,3,80,74,6,1842.0
+5:05.0,S. Curry misses 3-pt jump shot from 26 ft,74-80, ,,3,80,74,6,1855.0
+5:03.0, ,74-80,Defensive rebound by D. Hunter,,3,80,74,6,1857.0
+4:58.0, ,74-80,D. Hunter misses 3-pt jump shot from 26 ft,,3,80,74,6,1862.0
+4:53.0, ,74-80,Offensive rebound by O. Okongwu,,3,80,74,6,1867.0
+4:53.0, ,74-82,O. Okongwu makes 2-pt layup from 2 ft,,3,82,74,8,1867.0
+4:45.0,S. Curry makes 2-pt layup from 1 ft (assist by D. Green),76-82, ,,3,82,76,6,1875.0
+4:33.0, ,76-82,B. Bogdanović misses 3-pt jump shot from 24 ft (block by T. Jackson-Davis),,3,82,76,6,1887.0
+4:30.0,Defensive rebound by D. Green,76-82, ,,3,82,76,6,1890.0
+4:30.0,Turnover by D. Green (bad pass),76-82, ,,3,82,76,6,1890.0
+4:30.0,K. Looney enters the game for D. Green,76-82, ,,3,82,76,6,1890.0
+4:30.0,G. Santos enters the game for T. Jackson-Davis,76-82, ,,3,82,76,6,1890.0
+4:30.0, ,76-82,J. Johnson enters the game for C. Capela,,3,82,76,6,1890.0
+4:22.0, ,76-82,D. Murray misses 3-pt jump shot from 25 ft,,3,82,76,6,1898.0
+4:18.0,Defensive rebound by K. Looney,76-82, ,,3,82,76,6,1902.0
+4:15.0,S. Curry misses 3-pt jump shot from 26 ft,76-82, ,,3,82,76,6,1905.0
+4:10.0, ,76-82,Defensive rebound by B. Bogdanović,,3,82,76,6,1910.0
+4:07.0, ,76-84,D. Hunter makes 2-pt layup from 2 ft (assist by D. Murray),,3,84,76,8,1913.0
+4:07.0, ,76-84,Shooting foul by G. Santos (drawn by D. Hunter),,3,84,76,8,1913.0
+4:07.0,L. Quinones enters the game for J. Kuminga,76-84, ,,3,84,76,8,1913.0
+4:07.0, ,76-84,D. Hunter misses free throw 1 of 1,,3,84,76,8,1913.0
+4:04.0,Defensive rebound by K. Looney,76-84, ,,3,84,76,8,1916.0
+3:52.0,S. Curry misses 3-pt jump shot from 26 ft,76-84, ,,3,84,76,8,1928.0
+3:50.0,Offensive rebound by L. Quinones,76-84, ,,3,84,76,8,1930.0
+3:49.0,S. Curry misses 3-pt jump shot from 26 ft,76-84, ,,3,84,76,8,1931.0
+3:49.0,Offensive rebound by B. Podziemski,76-84, ,,3,84,76,8,1931.0
+3:44.0,B. Podziemski makes 2-pt layup at rim,78-84, ,,3,84,78,6,1936.0
+3:31.0, ,78-84,D. Murray misses 2-pt jump shot from 5 ft,,3,84,78,6,1949.0
+3:29.0,Defensive rebound by L. Quinones,78-84, ,,3,84,78,6,1951.0
+3:24.0,S. Curry makes 3-pt jump shot from 26 ft (assist by G. Santos),81-84, ,,3,84,81,3,1956.0
+3:24.0,Shooting foul by O. Okongwu (drawn by S. Curry),81-84, ,,3,84,81,3,1956.0
+3:24.0,S. Curry makes free throw 1 of 1,82-84, ,,3,84,82,2,1956.0
+3:12.0, ,82-86,O. Okongwu makes 2-pt hook shot from 6 ft (assist by J. Johnson),,3,86,82,4,1968.0
+2:56.0,B. Podziemski misses 2-pt jump shot from 10 ft,82-86, ,,3,86,82,4,1984.0
+2:54.0,Offensive rebound by B. Podziemski,82-86, ,,3,86,82,4,1986.0
+2:54.0,B. Podziemski makes 2-pt layup at rim,84-86, ,,3,86,84,2,1986.0
+2:54.0, ,84-86,Atlanta full timeout,,3,86,84,2,1986.0
+2:54.0,K. Thompson enters the game for S. Curry,84-86, ,,3,86,84,2,1986.0
+2:54.0, ,84-86,T. Young enters the game for D. Murray,,3,86,84,2,1986.0
+2:39.0, ,84-88,D. Hunter makes 2-pt jump shot from 11 ft,,3,88,84,4,2001.0
+2:18.0,Golden State full timeout,84-88, ,,3,88,84,4,2022.0
+2:12.0,L. Quinones makes 2-pt jump shot from 15 ft,86-88, ,,3,88,86,2,2028.0
+1:50.0, ,86-88,B. Bogdanović misses 3-pt jump shot from 23 ft,,3,88,86,2,2050.0
+1:47.0,Defensive rebound by K. Looney,86-88, ,,3,88,86,2,2053.0
+1:42.0,G. Santos misses 3-pt jump shot from 23 ft,86-88, ,,3,88,86,2,2058.0
+1:39.0, ,86-88,Defensive rebound by O. Okongwu,,3,88,86,2,2061.0
+1:33.0,Jump ball: O. Okongwu vs. G. Santos (B. Bogdanović gains possession),86-88,,,3,88,86,2,2067.0
+1:17.0, ,86-88,Shooting foul by K. Looney (drawn by D. Hunter),,3,88,86,2,2083.0
+1:17.0, ,86-88,D. Hunter misses free throw 1 of 2,,3,88,86,2,2083.0
+1:17.0, ,86-88,Offensive rebound by Team,,3,88,86,2,2083.0
+1:17.0, ,86-89,D. Hunter makes free throw 2 of 2,,3,89,86,3,2083.0
+1:04.0,K. Thompson misses 3-pt jump shot from 25 ft,86-89, ,,3,89,86,3,2096.0
+1:01.0, ,86-89,Defensive rebound by O. Okongwu,,3,89,86,3,2099.0
+0:49.0, ,86-89,J. Johnson misses 2-pt jump shot from 10 ft,,3,89,86,3,2111.0
+0:47.0,Defensive rebound by K. Looney,86-89, ,,3,89,86,3,2113.0
+0:39.0,L. Quinones makes 3-pt jump shot from 27 ft (assist by B. Podziemski),89-89, ,Tie,3,89,89,0,2121.0
+0:25.0, ,89-89,D. Hunter misses 3-pt jump shot from 26 ft,,3,89,89,0,2135.0
+0:22.0,Defensive rebound by K. Thompson,89-89, ,,3,89,89,0,2138.0
+0:05.0,K. Thompson misses 3-pt jump shot from 26 ft,89-89, ,,3,89,89,0,2155.0
+0:01.0,Offensive rebound by L. Quinones,89-89, ,,3,89,89,0,2159.0
+0:00.0,L. Quinones misses 3-pt jump shot from 25 ft,89-89, ,,3,89,89,0,2160.0
+0:00.0,Offensive rebound by Team,89-89, ,,3,89,89,0,2160.0
+0:00.0,End of 3rd quarter,89-89,,,3,89,89,0,2160.0
+12:00.0,Start of 4th quarter,89-89,,,4,89,89,0,2160.0
+11:48.0, ,89-92,O. Okongwu makes 3-pt jump shot from 23 ft (assist by T. Young),,4,92,89,3,2172.0
+11:36.0,Offensive foul by K. Looney (drawn by G. Mathews),89-92, ,,4,92,89,3,2184.0
+11:36.0,Turnover by K. Looney (offensive foul),89-92, ,,4,92,89,3,2184.0
+11:19.0, ,89-92,O. Okongwu misses 3-pt jump shot from 23 ft,,4,92,89,3,2201.0
+11:17.0,Defensive rebound by Team,89-92, ,,4,92,89,3,2203.0
+11:02.0,S. Curry makes 2-pt jump shot from 15 ft,91-92, ,,4,92,91,1,2218.0
+10:52.0, ,91-94,T. Young makes 2-pt jump shot from 1 ft,,4,94,91,3,2228.0
+10:37.0,S. Curry makes 2-pt layup from 2 ft,93-94, ,,4,94,93,1,2243.0
+10:37.0, ,93-94,Atlanta full timeout,,4,94,93,1,2243.0
+10:37.0,T. Jackson-Davis enters the game for K. Looney,93-94, ,,4,94,93,1,2243.0
+10:37.0, ,93-94,D. Murray enters the game for B. Bogdanović,,4,94,93,1,2243.0
+10:20.0, ,93-97,T. Young makes 3-pt jump shot from 25 ft,,4,97,93,4,2260.0
+10:09.0,Offensive foul by T. Jackson-Davis (drawn by G. Mathews),93-97, ,,4,97,93,4,2271.0
+10:09.0,Turnover by T. Jackson-Davis (offensive foul),93-97, ,,4,97,93,4,2271.0
+10:09.0, ,93-97,J. Johnson enters the game for D. Hunter,,4,97,93,4,2271.0
+9:55.0, ,93-97,G. Mathews misses 3-pt jump shot from 24 ft,,4,97,93,4,2285.0
+9:51.0,Defensive rebound by S. Curry,93-97, ,,4,97,93,4,2289.0
+9:48.0,L. Quinones misses 3-pt jump shot from 26 ft (block by O. Okongwu),93-97, ,,4,97,93,4,2292.0
+9:47.0,Offensive rebound by Team,93-97, ,,4,97,93,4,2293.0
+9:42.0,L. Quinones misses 2-pt layup from 2 ft,93-97, ,,4,97,93,4,2298.0
+9:40.0, ,93-97,Defensive rebound by O. Okongwu,,4,97,93,4,2300.0
+9:28.0, ,93-97,Personal foul by L. Quinones (drawn by T. Young),,4,97,93,4,2312.0
+9:19.0, ,93-97,D. Murray misses 2-pt jump shot from 13 ft,,4,97,93,4,2321.0
+9:15.0,Defensive rebound by T. Jackson-Davis,93-97, ,,4,97,93,4,2325.0
+9:07.0,B. Podziemski misses 2-pt jump shot from 4 ft,93-97, ,,4,97,93,4,2333.0
+9:04.0, ,93-97,Defensive rebound by O. Okongwu,,4,97,93,4,2336.0
+8:55.0, ,93-97,G. Mathews misses 3-pt jump shot from 26 ft,,4,97,93,4,2345.0
+8:52.0,Defensive rebound by B. Podziemski,93-97, ,,4,97,93,4,2348.0
+8:47.0,T. Jackson-Davis makes 2-pt dunk from 1 ft (assist by B. Podziemski),95-97, ,,4,97,95,2,2353.0
+8:47.0,Shooting foul by O. Okongwu (drawn by T. Jackson-Davis),95-97, ,,4,97,95,2,2353.0
+8:47.0,J. Kuminga enters the game for S. Curry,95-97, ,,4,97,95,2,2353.0
+8:47.0,K. Thompson enters the game for G. Santos,95-97, ,,4,97,95,2,2353.0
+8:47.0, ,95-97,B. Bogdanović enters the game for G. Mathews,,4,97,95,2,2353.0
+8:47.0, ,95-97,C. Capela enters the game for T. Young,,4,97,95,2,2353.0
+8:47.0,T. Jackson-Davis makes free throw 1 of 1,96-97, ,,4,97,96,1,2353.0
+8:29.0, ,96-97,O. Okongwu misses 3-pt jump shot from 24 ft,,4,97,96,1,2371.0
+8:26.0,Defensive rebound by B. Podziemski,96-97, ,,4,97,96,1,2374.0
+8:24.0,Shooting foul by J. Johnson (drawn by J. Kuminga),96-97, ,,4,97,96,1,2376.0
+8:24.0,J. Kuminga makes free throw 1 of 2,97-97, ,Tie,4,97,97,0,2376.0
+8:24.0, ,97-97,T. Young enters the game for O. Okongwu,,4,97,97,0,2376.0
+8:24.0,J. Kuminga makes free throw 2 of 2,98-97, ,Lead change,4,97,98,-1,2376.0
+8:10.0, ,98-99,J. Johnson makes 2-pt layup from 3 ft (assist by D. Murray),Lead change,4,99,98,1,2390.0
+7:56.0,K. Thompson misses 3-pt jump shot from 24 ft,98-99, ,,4,99,98,1,2404.0
+7:53.0, ,98-99,Defensive rebound by C. Capela,,4,99,98,1,2407.0
+7:47.0, ,98-99,T. Young misses 2-pt jump shot from 7 ft,,4,99,98,1,2413.0
+7:46.0,Defensive rebound by B. Podziemski,98-99, ,,4,99,98,1,2414.0
+7:37.0,K. Thompson misses 3-pt jump shot from 25 ft,98-99, ,,4,99,98,1,2423.0
+7:35.0, ,98-99,Defensive rebound by J. Johnson,,4,99,98,1,2425.0
+7:28.0, ,98-102,J. Johnson makes 3-pt jump shot from 26 ft (assist by D. Murray),,4,102,98,4,2432.0
+7:16.0,Golden State full timeout,98-102, ,,4,102,98,4,2444.0
+7:16.0,S. Curry enters the game for T. Jackson-Davis,98-102, ,,4,102,98,4,2444.0
+7:16.0,D. Green enters the game for L. Quinones,98-102, ,,4,102,98,4,2444.0
+7:08.0,J. Kuminga misses 2-pt layup from 3 ft,98-102, ,,4,102,98,4,2452.0
+7:05.0, ,98-102,Defensive rebound by B. Bogdanović,,4,102,98,4,2455.0
+6:56.0, ,98-102,T. Young misses 3-pt jump shot from 30 ft,,4,102,98,4,2464.0
+6:53.0,Defensive rebound by B. Podziemski,98-102, ,,4,102,98,4,2467.0
+6:48.0,K. Thompson makes 2-pt layup from 1 ft (assist by S. Curry),100-102, ,,4,102,100,2,2472.0
+6:35.0, ,100-102,Personal foul by J. Kuminga (drawn by T. Young),,4,102,100,2,2485.0
+6:30.0, ,100-102,B. Bogdanović misses 3-pt jump shot from 25 ft,,4,102,100,2,2490.0
+6:25.0, ,100-102,Offensive rebound by J. Johnson,,4,102,100,2,2495.0
+6:25.0, ,100-104,J. Johnson makes 2-pt dunk at rim,,4,104,100,4,2495.0
+6:15.0,S. Curry makes 2-pt layup from 2 ft,102-104, ,,4,104,102,2,2505.0
+6:05.0, ,102-104,D. Murray misses 2-pt jump shot from 19 ft,,4,104,102,2,2515.0
+6:00.0,Defensive rebound by S. Curry,102-104, ,,4,104,102,2,2520.0
+5:57.0,S. Curry makes 3-pt jump shot from 26 ft,105-104, ,Lead change,4,104,105,-1,2523.0
+5:44.0, ,105-104,Turnover by C. Capela (bad pass; steal by K. Thompson),,4,104,105,-1,2536.0
+5:41.0,J. Kuminga makes 2-pt dunk from 1 ft (assist by K. Thompson),107-104, ,,4,104,107,-3,2539.0
+5:40.0, ,107-104,Atlanta full timeout,,4,104,107,-3,2540.0
+5:23.0, ,107-104,Turnover by D. Murray (bad pass; steal by K. Thompson),,4,104,107,-3,2557.0
+5:18.0,J. Kuminga makes 2-pt layup from 1 ft (assist by B. Podziemski),109-104, ,,4,104,109,-5,2562.0
+5:01.0, ,109-107,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by C. Capela),,4,107,109,-2,2579.0
+4:39.0,Turnover by S. Curry (lost ball; steal by B. Bogdanović),109-107, ,,4,107,109,-2,2601.0
+4:36.0, ,109-109,B. Bogdanović makes 2-pt jump shot from 6 ft (assist by T. Young),Tie,4,109,109,0,2604.0
+4:36.0, ,109-109,Shooting foul by B. Podziemski (drawn by B. Bogdanović),,4,109,109,0,2604.0
+4:36.0, ,109-109,O. Okongwu enters the game for C. Capela,,4,109,109,0,2604.0
+4:36.0, ,109-110,B. Bogdanović makes free throw 1 of 1,Lead change,4,110,109,1,2604.0
+4:20.0,Shooting foul by J. Johnson (drawn by J. Kuminga),109-110, ,,4,110,109,1,2620.0
+4:20.0,J. Kuminga makes free throw 1 of 2,110-110, ,Tie,4,110,110,0,2620.0
+4:20.0,J. Kuminga misses free throw 2 of 2,110-110, ,,4,110,110,0,2620.0
+4:17.0, ,110-110,Defensive rebound by B. Bogdanović,,4,110,110,0,2623.0
+4:08.0, ,110-113,T. Young makes 3-pt jump shot from 27 ft,,4,113,110,3,2632.0
+3:51.0,S. Curry makes 3-pt jump shot from 27 ft,113-113, ,Tie,4,113,113,0,2649.0
+3:32.0, ,113-115,T. Young makes 2-pt jump shot from 6 ft,,4,115,113,2,2668.0
+3:22.0,S. Curry makes 3-pt jump shot from 26 ft,116-115, ,Lead change,4,115,116,-1,2678.0
+3:04.0, ,116-115,J. Johnson misses 2-pt jump shot from 4 ft,,4,115,116,-1,2696.0
+3:01.0,Defensive rebound by K. Thompson,116-115, ,,4,115,116,-1,2699.0
+2:53.0,S. Curry makes 2-pt layup at rim,118-115, ,,4,115,118,-3,2707.0
+2:35.0, ,118-115,Personal foul by J. Kuminga (drawn by T. Young),,4,115,118,-3,2725.0
+2:27.0, ,118-117,B. Bogdanović makes 2-pt jump shot from 12 ft,,4,117,118,-1,2733.0
+2:16.0,S. Curry misses 3-pt jump shot from 26 ft,118-117, ,,4,117,118,-1,2744.0
+2:13.0, ,118-117,Defensive rebound by B. Bogdanović,,4,117,118,-1,2747.0
+2:04.0, ,118-117,J. Johnson misses 2-pt jump shot from 16 ft,,4,117,118,-1,2756.0
+1:58.0,Defensive rebound by S. Curry,118-117, ,,4,117,118,-1,2762.0
+1:46.0,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green),121-117, ,,4,117,121,-4,2774.0
+1:35.0, ,121-117,Shooting foul by D. Green (drawn by O. Okongwu),,4,117,121,-4,2785.0
+1:35.0, ,121-118,O. Okongwu makes free throw 1 of 2,,4,118,121,-3,2785.0
+1:35.0, ,121-119,O. Okongwu makes free throw 2 of 2,,4,119,121,-2,2785.0
+1:16.0,S. Curry misses 3-pt jump shot from 24 ft,121-119, ,,4,119,121,-2,2804.0
+1:12.0, ,121-119,Defensive rebound by J. Johnson,,4,119,121,-2,2808.0
+1:06.0, ,121-119,Personal foul by J. Kuminga (drawn by T. Young),,4,119,121,-2,2814.0
+1:06.0,L. Quinones enters the game for J. Kuminga,121-119, ,,4,119,121,-2,2814.0
+1:06.0, ,121-120,T. Young makes free throw 1 of 2,,4,120,121,-1,2814.0
+1:06.0, ,121-121,T. Young makes free throw 2 of 2,Tie,4,121,121,0,2814.0
+0:56.0,Turnover by D. Green (out of bounds lost ball),121-121, ,,4,121,121,0,2824.0
+0:35.0, ,121-121,D. Murray misses 3-pt jump shot from 26 ft,,4,121,121,0,2845.0
+0:31.0,Defensive rebound by D. Green,121-121, ,,4,121,121,0,2849.0
+0:14.0,S. Curry makes 2-pt jump shot from 12 ft,123-121, ,,4,121,123,-2,2866.0
+0:13.0, ,123-121,Atlanta full timeout,,4,121,123,-2,2867.0
+0:04.0, ,123-123,D. Murray makes 2-pt jump shot from 14 ft (assist by J. Johnson),Tie,4,123,123,0,2876.0
+0:04.0,Golden State full timeout,123-123, ,,4,123,123,0,2876.0
+0:00.0,S. Curry misses 2-pt jump shot from 8 ft,123-123, ,,4,123,123,0,2880.0
+0:00.0,Offensive rebound by Team,123-123, ,,4,123,123,0,2880.0
+0:00.0,End of 4th quarter,123-123,,,4,123,123,0,2880.0
+5:00.0,Start of 1st overtime,123-123,,,5,123,123,0,2880.0
+5:00.0,Jump ball: D. Green vs. O. Okongwu (S. Curry gains possession),123-123,,,5,123,123,0,2880.0
+4:51.0,Offensive foul by L. Quinones (drawn by T. Young),123-123, ,,5,123,123,0,2889.0
+4:51.0,Turnover by L. Quinones (offensive foul),123-123, ,,5,123,123,0,2889.0
+4:51.0,Golden State full timeout,123-123, ,,5,123,123,0,2889.0
+4:51.0,Instant Replay (Challenge: Ruling Stands),123-123, ,,5,123,123,0,2889.0
+4:38.0, ,123-125,O. Okongwu makes 2-pt layup from 1 ft (assist by J. Johnson),Lead change,5,125,123,2,2902.0
+4:25.0,B. Podziemski misses 2-pt layup at rim,123-125, ,,5,125,123,2,2915.0
+4:23.0, ,123-125,Defensive rebound by J. Johnson,,5,125,123,2,2917.0
+4:11.0, ,123-125,B. Bogdanović misses 3-pt jump shot from 23 ft,,5,125,123,2,2929.0
+4:10.0, ,123-125,Offensive rebound by O. Okongwu,,5,125,123,2,2930.0
+3:57.0, ,123-127,J. Johnson makes 2-pt layup from 1 ft (assist by T. Young),,5,127,123,4,2943.0
+3:47.0,K. Thompson misses 3-pt jump shot from 22 ft,123-127, ,,5,127,123,4,2953.0
+3:44.0, ,123-127,Defensive rebound by O. Okongwu,,5,127,123,4,2956.0
+3:30.0, ,123-129,D. Murray makes 2-pt jump shot from 12 ft,,5,129,123,6,2970.0
+3:30.0, ,123-129,Shooting foul by B. Podziemski (drawn by D. Murray),,5,129,123,6,2970.0
+3:30.0, ,123-130,D. Murray makes free throw 1 of 1,,5,130,123,7,2970.0
+3:24.0,S. Curry misses 3-pt jump shot from 25 ft,123-130, ,,5,130,123,7,2976.0
+3:21.0, ,123-130,Defensive rebound by O. Okongwu,,5,130,123,7,2979.0
+3:05.0, ,123-130,T. Young misses 2-pt jump shot from 10 ft (block by B. Podziemski),,5,130,123,7,2995.0
+3:03.0, ,123-130,Offensive rebound by O. Okongwu,,5,130,123,7,2997.0
+2:56.0, ,123-132,D. Murray makes 2-pt jump shot from 14 ft,,5,132,123,9,3004.0
+2:41.0,K. Thompson misses 3-pt jump shot from 25 ft,123-132, ,,5,132,123,9,3019.0
+2:38.0, ,123-132,Defensive rebound by D. Murray,,5,132,123,9,3022.0
+2:23.0, ,123-134,D. Murray makes 2-pt jump shot from 18 ft,,5,134,123,11,3037.0
+2:22.0,Golden State full timeout,123-134, ,,5,134,123,11,3038.0
+2:10.0,S. Curry makes 2-pt layup at rim (assist by D. Green),125-134, ,,5,134,125,9,3050.0
+1:46.0, ,125-134,D. Murray misses 2-pt jump shot from 10 ft,,5,134,125,9,3074.0
+1:44.0,Defensive rebound by D. Green,125-134, ,,5,134,125,9,3076.0
+1:37.0,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Thompson),128-134, ,,5,134,128,6,3083.0
+1:12.0, ,128-136,O. Okongwu makes 2-pt dunk from 1 ft (assist by D. Murray),,5,136,128,8,3108.0
+1:07.0,S. Curry makes 3-pt jump shot from 25 ft,131-136, ,,5,136,131,5,3113.0
+0:58.0, ,131-138,T. Young makes 2-pt jump shot from 1 ft,,5,138,131,7,3122.0
+0:57.0,Personal foul by T. Young (drawn by S. Curry),131-138, ,,5,138,131,7,3123.0
+0:54.0,S. Curry misses 3-pt jump shot from 26 ft,131-138, ,,5,138,131,7,3126.0
+0:50.0, ,131-138,Defensive rebound by O. Okongwu,,5,138,131,7,3130.0
+0:28.0, ,131-138,Turnover by D. Murray (lost ball),,5,138,131,7,3152.0
+0:28.0, ,131-138,Loose ball foul by D. Murray (drawn by L. Quinones),,5,138,131,7,3152.0
+0:28.0,L. Quinones makes free throw 1 of 2,132-138, ,,5,138,132,6,3152.0
+0:28.0,L. Quinones misses free throw 2 of 2,132-138, ,,5,138,132,6,3152.0
+0:25.0, ,132-138,Defensive rebound by D. Murray,,5,138,132,6,3155.0
+0:20.0, ,132-140,J. Johnson makes 2-pt layup from 6 ft (assist by T. Young),,5,140,132,8,3160.0
+0:20.0, ,132-140,Shooting foul by B. Podziemski (drawn by J. Johnson),,5,140,132,8,3160.0
+0:20.0, ,132-141,J. Johnson makes free throw 1 of 1,,5,141,132,9,3160.0
+0:12.0,B. Podziemski makes 2-pt layup at rim,134-141, ,,5,141,134,7,3168.0
+0:00.0,End of 1st overtime,134-141,,,5,141,134,7,3180.0

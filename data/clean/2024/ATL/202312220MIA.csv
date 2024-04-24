@@ -1,0 +1,481 @@
+Time,Atlanta,Score,Miami,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. B. Adebayo (K. Lowry gains possession),0-0,,,1,0,0,0,0.0
+11:38.0, ,0-0,T. Herro misses 3-pt jump shot from 27 ft,,1,0,0,0,22.0
+11:35.0, ,0-0,Offensive rebound by J. Jaquez,,1,0,0,0,25.0
+11:33.0, ,0-2,J. Jaquez makes 2-pt layup from 7 ft,,1,0,2,-2,27.0
+11:14.0,G. Mathews misses 3-pt jump shot from 22 ft,0-2, ,,1,0,2,-2,46.0
+11:11.0, ,0-2,Defensive rebound by T. Herro,,1,0,2,-2,49.0
+10:53.0, ,0-4,T. Herro makes 2-pt layup from 5 ft,,1,0,4,-4,67.0
+10:28.0,S. Bey misses 3-pt jump shot from 25 ft,0-4, ,,1,0,4,-4,92.0
+10:27.0, ,0-4,Defensive rebound by Team,,1,0,4,-4,93.0
+10:13.0, ,0-7,K. Lowry makes 3-pt jump shot from 27 ft (assist by C. Martin),,1,0,7,-7,107.0
+9:57.0,Turnover by C. Capela (bad pass),0-7, ,,1,0,7,-7,123.0
+9:48.0, ,0-9,T. Herro makes 2-pt jump shot from 11 ft,,1,0,9,-9,132.0
+9:41.0,Atlanta full timeout,0-9, ,,1,0,9,-9,139.0
+9:39.0,Personal foul by J. Jaquez (drawn by T. Young),0-9, ,,1,0,9,-9,141.0
+9:32.0,Def 3 sec tech foul by Team,0-9, ,,1,0,9,-9,148.0
+9:32.0,T. Young makes technical free throw,1-9, ,,1,1,9,-8,148.0
+9:24.0,G. Mathews misses 3-pt jump shot from 22 ft,1-9, ,,1,1,9,-8,156.0
+9:21.0, ,1-9,Defensive rebound by C. Martin,,1,1,9,-8,159.0
+9:14.0, ,1-11,B. Adebayo makes 2-pt jump shot from 19 ft,,1,1,11,-10,166.0
+9:00.0,S. Bey makes 2-pt layup from 4 ft (assist by T. Young),3-11, ,,1,3,11,-8,180.0
+8:42.0, ,3-11,Def 3 sec tech foul by Team,,1,3,11,-8,198.0
+8:42.0, ,3-12,T. Herro makes technical free throw,,1,3,12,-9,198.0
+8:33.0, ,3-14,C. Martin makes 2-pt layup from 6 ft (assist by T. Herro),,1,3,14,-11,207.0
+8:33.0, ,3-14,Shooting foul by G. Mathews (drawn by C. Martin),,1,3,14,-11,207.0
+8:33.0, ,3-15,C. Martin makes free throw 1 of 1,,1,3,15,-12,207.0
+8:17.0,S. Bey misses 3-pt jump shot from 22 ft,3-15, ,,1,3,15,-12,223.0
+8:13.0, ,3-15,Defensive rebound by K. Lowry,,1,3,15,-12,227.0
+8:13.0, ,3-15,Turnover by K. Lowry (bad pass),,1,3,15,-12,227.0
+7:56.0,T. Young makes 3-pt jump shot from 29 ft,6-15, ,,1,6,15,-9,244.0
+7:44.0, ,6-15,C. Martin misses 2-pt jump shot from 18 ft,,1,6,15,-9,256.0
+7:41.0,Defensive rebound by S. Bey,6-15, ,,1,6,15,-9,259.0
+7:32.0,T. Young makes 2-pt jump shot from 19 ft (assist by D. Murray),8-15, ,,1,8,15,-7,268.0
+7:14.0, ,8-17,B. Adebayo makes 2-pt jump shot from 13 ft,,1,8,17,-9,286.0
+7:03.0,S. Bey misses 2-pt layup from 4 ft,8-17, ,,1,8,17,-9,297.0
+6:58.0, ,8-17,Defensive rebound by T. Herro,,1,8,17,-9,302.0
+6:55.0, ,8-17,Turnover by T. Herro (bad pass; steal by S. Bey),,1,8,17,-9,305.0
+6:53.0,Turnover by T. Young (bad pass; steal by T. Herro),8-17, ,,1,8,17,-9,307.0
+6:50.0, ,8-17,T. Herro misses 3-pt jump shot from 26 ft,,1,8,17,-9,310.0
+6:49.0,Defensive rebound by T. Young,8-17, ,,1,8,17,-9,311.0
+6:41.0,S. Bey misses 3-pt jump shot from 23 ft,8-17, ,,1,8,17,-9,319.0
+6:39.0, ,8-17,Defensive rebound by K. Lowry,,1,8,17,-9,321.0
+6:28.0, ,8-17,Shooting foul by C. Capela (drawn by B. Adebayo),,1,8,17,-9,332.0
+6:28.0, ,8-17,B. Adebayo misses free throw 1 of 2,,1,8,17,-9,332.0
+6:28.0, ,8-17,Offensive rebound by Team,,1,8,17,-9,332.0
+6:28.0,B. Bogdanović enters the game for S. Bey,8-17, ,,1,8,17,-9,332.0
+6:28.0,P. Mills enters the game for G. Mathews,8-17, ,,1,8,17,-9,332.0
+6:28.0,O. Okongwu enters the game for T. Young,8-17, ,,1,8,17,-9,332.0
+6:28.0, ,8-17,B. Adebayo misses free throw 2 of 2,,1,8,17,-9,332.0
+6:26.0,Defensive rebound by C. Capela,8-17, ,,1,8,17,-9,334.0
+6:14.0,D. Murray makes 3-pt jump shot from 26 ft (assist by P. Mills),11-17, ,,1,11,17,-6,346.0
+6:00.0, ,11-20,T. Herro makes 3-pt jump shot from 25 ft (assist by C. Martin),,1,11,20,-9,360.0
+5:47.0,D. Murray makes 2-pt jump shot from 13 ft,13-20, ,,1,13,20,-7,373.0
+5:35.0, ,13-20,B. Adebayo misses 3-pt jump shot from 26 ft,,1,13,20,-7,385.0
+5:32.0,Defensive rebound by D. Murray,13-20, ,,1,13,20,-7,388.0
+5:22.0,B. Bogdanović misses 3-pt jump shot from 23 ft,13-20, ,,1,13,20,-7,398.0
+5:18.0, ,13-20,Defensive rebound by T. Herro,,1,13,20,-7,402.0
+5:18.0, ,13-20,K. Love enters the game for B. Adebayo,,1,13,20,-7,402.0
+5:18.0, ,13-20,J. Richardson enters the game for J. Jaquez,,1,13,20,-7,402.0
+5:02.0, ,13-20,J. Richardson misses 3-pt jump shot from 25 ft,,1,13,20,-7,418.0
+5:00.0,Defensive rebound by D. Murray,13-20, ,,1,13,20,-7,420.0
+4:57.0,D. Murray makes 2-pt layup from 4 ft,15-20, ,,1,15,20,-5,423.0
+4:45.0, ,15-23,T. Herro makes 3-pt jump shot from 28 ft,,1,15,23,-8,435.0
+4:26.0,D. Murray makes 2-pt layup from 4 ft,17-23, ,,1,17,23,-6,454.0
+4:26.0,Shooting foul by K. Love (drawn by D. Murray),17-23, ,,1,17,23,-6,454.0
+4:26.0,D. Murray misses free throw 1 of 1,17-23, ,,1,17,23,-6,454.0
+4:21.0, ,17-23,Defensive rebound by C. Martin,,1,17,23,-6,459.0
+4:09.0, ,17-23,K. Love misses 3-pt jump shot from 26 ft,,1,17,23,-6,471.0
+4:06.0, ,17-23,Offensive rebound by C. Martin,,1,17,23,-6,474.0
+4:05.0, ,17-23,K. Lowry misses 3-pt jump shot from 27 ft,,1,17,23,-6,475.0
+4:03.0,Defensive rebound by Team,17-23, ,,1,17,23,-6,477.0
+3:52.0,O. Okongwu misses 3-pt jump shot from 24 ft,17-23, ,,1,17,23,-6,488.0
+3:51.0, ,17-23,Defensive rebound by K. Lowry,,1,17,23,-6,489.0
+3:51.0, ,17-23,Personal foul by P. Mills (drawn by K. Lowry),,1,17,23,-6,489.0
+3:51.0,S. Bey enters the game for C. Capela,17-23, ,,1,17,23,-6,489.0
+3:51.0,W. Matthews enters the game for P. Mills,17-23, ,,1,17,23,-6,489.0
+3:51.0,T. Young enters the game for D. Murray,17-23, ,,1,17,23,-6,489.0
+3:28.0, ,17-23,C. Martin misses 2-pt jump shot from 21 ft,,1,17,23,-6,512.0
+3:24.0,Defensive rebound by S. Bey,17-23, ,,1,17,23,-6,516.0
+3:16.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),20-23, ,,1,20,23,-3,524.0
+3:15.0, ,20-23,Miami full timeout,,1,20,23,-3,525.0
+3:15.0, ,20-23,H. Highsmith enters the game for K. Lowry,,1,20,23,-3,525.0
+3:15.0, ,20-23,D. Robinson enters the game for C. Martin,,1,20,23,-3,525.0
+2:53.0, ,20-23,H. Highsmith misses 3-pt jump shot from 26 ft,,1,20,23,-3,547.0
+2:52.0, ,20-23,Offensive rebound by Team,,1,20,23,-3,548.0
+2:52.0,Loose ball foul by W. Matthews (drawn by K. Love),20-23, ,,1,20,23,-3,548.0
+2:42.0, ,20-26,D. Robinson makes 3-pt jump shot from 27 ft (assist by T. Herro),,1,20,26,-6,558.0
+2:33.0,Turnover by T. Young (bad pass; steal by D. Robinson),20-26, ,,1,20,26,-6,567.0
+2:21.0, ,20-29,T. Herro makes 3-pt jump shot from 27 ft (assist by H. Highsmith),,1,20,29,-9,579.0
+2:18.0,Personal foul by H. Highsmith (drawn by T. Young),20-29, ,,1,20,29,-9,582.0
+2:03.0,S. Bey makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),23-29, ,,1,23,29,-6,597.0
+1:47.0, ,23-29,K. Love misses 3-pt jump shot from 25 ft,,1,23,29,-6,613.0
+1:44.0,Defensive rebound by O. Okongwu,23-29, ,,1,23,29,-6,616.0
+1:38.0,T. Young makes 2-pt jump shot from 10 ft,25-29, ,,1,25,29,-4,622.0
+1:26.0, ,25-31,J. Richardson makes 2-pt layup from 5 ft,,1,25,31,-6,634.0
+1:17.0,Turnover by S. Bey (lost ball; steal by J. Richardson),25-31, ,,1,25,31,-6,643.0
+1:12.0, ,25-31,H. Highsmith misses 2-pt layup from 3 ft,,1,25,31,-6,648.0
+1:11.0, ,25-31,Offensive rebound by H. Highsmith,,1,25,31,-6,649.0
+1:10.0, ,25-31,H. Highsmith misses 2-pt layup from 1 ft,,1,25,31,-6,650.0
+1:08.0, ,25-31,Offensive rebound by H. Highsmith,,1,25,31,-6,652.0
+1:02.0, ,25-31,J. Richardson misses 3-pt jump shot from 23 ft,,1,25,31,-6,658.0
+0:59.0,Defensive rebound by O. Okongwu,25-31, ,,1,25,31,-6,661.0
+0:47.0,Shooting foul by K. Love (drawn by O. Okongwu),25-31, ,,1,25,31,-6,673.0
+0:47.0,O. Okongwu misses free throw 1 of 2,25-31, ,,1,25,31,-6,673.0
+0:47.0,Offensive rebound by Team,25-31, ,,1,25,31,-6,673.0
+0:47.0, ,25-31,B. Adebayo enters the game for T. Herro,,1,25,31,-6,673.0
+0:47.0, ,25-31,J. Jaquez enters the game for K. Love,,1,25,31,-6,673.0
+0:47.0,O. Okongwu makes free throw 2 of 2,26-31, ,,1,26,31,-5,673.0
+0:40.0, ,26-31,Turnover by D. Robinson (step out of bounds),,1,26,31,-5,680.0
+0:29.0,T. Young misses 3-pt jump shot from 25 ft,26-31, ,,1,26,31,-5,691.0
+0:26.0, ,26-31,Defensive rebound by H. Highsmith,,1,26,31,-5,694.0
+0:07.0, ,26-33,J. Jaquez makes 2-pt jump shot from 9 ft,,1,26,33,-7,713.0
+0:00.0,W. Matthews misses 3-pt jump shot from 26 ft,26-33, ,,1,26,33,-7,720.0
+0:00.0,Offensive rebound by Team,26-33, ,,1,26,33,-7,720.0
+0:00.0,End of 1st quarter,26-33,,,1,26,33,-7,720.0
+12:00.0,Start of 2nd quarter,26-33,,,2,26,33,-7,720.0
+11:48.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by T. Young),29-33, ,,2,29,33,-4,732.0
+11:23.0, ,29-35,B. Adebayo makes 2-pt jump shot from 10 ft,,2,29,35,-6,757.0
+11:20.0,Personal foul by H. Highsmith (drawn by B. Bogdanović),29-35, ,,2,29,35,-6,760.0
+11:02.0,B. Bogdanović misses 2-pt layup from 3 ft,29-35, ,,2,29,35,-6,778.0
+10:59.0,Offensive rebound by O. Okongwu,29-35, ,,2,29,35,-6,781.0
+10:59.0,O. Okongwu makes 2-pt layup from 3 ft,31-35, ,,2,31,35,-4,781.0
+10:43.0, ,31-38,J. Jaquez makes 3-pt jump shot from 26 ft (assist by D. Robinson),,2,31,38,-7,797.0
+10:33.0,O. Okongwu makes 2-pt dunk from 3 ft (assist by T. Young),33-38, ,,2,33,38,-5,807.0
+10:13.0, ,33-38,B. Adebayo misses 2-pt layup from 6 ft (block by O. Okongwu),,2,33,38,-5,827.0
+10:13.0, ,33-38,Offensive rebound by Team,,2,33,38,-5,827.0
+10:09.0, ,33-38,H. Highsmith misses 3-pt jump shot from 24 ft,,2,33,38,-5,831.0
+10:07.0,Defensive rebound by T. Young,33-38, ,,2,33,38,-5,833.0
+9:57.0,B. Bogdanović makes 2-pt layup from 5 ft (assist by S. Bey),35-38, ,,2,35,38,-3,843.0
+9:42.0, ,35-40,H. Highsmith makes 2-pt layup from 5 ft (assist by J. Richardson),,2,35,40,-5,858.0
+9:29.0,T. Young misses 3-pt jump shot from 28 ft,35-40, ,,2,35,40,-5,871.0
+9:26.0, ,35-40,Defensive rebound by J. Richardson,,2,35,40,-5,874.0
+9:21.0, ,35-42,B. Adebayo makes 2-pt dunk from 5 ft,,2,35,42,-7,879.0
+9:13.0,T. Young misses 2-pt jump shot from 5 ft (block by J. Jaquez),35-42, ,,2,35,42,-7,887.0
+9:09.0, ,35-42,Defensive rebound by H. Highsmith,,2,35,42,-7,891.0
+9:03.0, ,35-42,J. Jaquez misses 2-pt layup from 5 ft,,2,35,42,-7,897.0
+8:59.0,Defensive rebound by O. Okongwu,35-42, ,,2,35,42,-7,901.0
+8:57.0,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by T. Young),38-42, ,,2,38,42,-4,903.0
+8:35.0, ,38-42,J. Richardson misses 3-pt jump shot from 24 ft,,2,38,42,-4,925.0
+8:31.0, ,38-42,Offensive rebound by H. Highsmith,,2,38,42,-4,929.0
+8:29.0, ,38-44,B. Adebayo makes 2-pt dunk from 4 ft (assist by H. Highsmith),,2,38,44,-6,931.0
+8:15.0,Personal foul by B. Adebayo (drawn by T. Young),38-44, ,,2,38,44,-6,945.0
+8:15.0,P. Mills enters the game for G. Mathews,38-44, ,,2,38,44,-6,945.0
+8:15.0, ,38-44,C. Martin enters the game for H. Highsmith,,2,38,44,-6,945.0
+8:07.0,Turnover by T. Young (bad pass; steal by B. Adebayo),38-44, ,,2,38,44,-6,953.0
+7:59.0, ,38-47,C. Martin makes 3-pt jump shot from 23 ft (assist by B. Adebayo),,2,38,47,-9,961.0
+7:40.0,B. Bogdanović makes 3-pt jump shot from 29 ft (assist by T. Young),41-47, ,,2,41,47,-6,980.0
+7:30.0, ,41-49,J. Jaquez makes 2-pt jump shot from 13 ft,,2,41,49,-8,990.0
+7:29.0,Atlanta full timeout,41-49, ,,2,41,49,-8,991.0
+7:29.0,C. Capela enters the game for S. Bey,41-49, ,,2,41,49,-8,991.0
+7:29.0,D. Murray enters the game for T. Young,41-49, ,,2,41,49,-8,991.0
+7:08.0,C. Capela makes 2-pt dunk from 3 ft (assist by D. Murray),43-49, ,,2,43,49,-6,1012.0
+6:47.0, ,43-49,Turnover by D. Robinson (traveling),,2,43,49,-6,1033.0
+6:47.0, ,43-49,K. Love enters the game for B. Adebayo,,2,43,49,-6,1033.0
+6:33.0,O. Okongwu misses 2-pt hook shot from 7 ft,43-49, ,,2,43,49,-6,1047.0
+6:30.0, ,43-49,Defensive rebound by J. Richardson,,2,43,49,-6,1050.0
+6:18.0, ,43-49,K. Love misses 3-pt jump shot from 27 ft,,2,43,49,-6,1062.0
+6:15.0,Defensive rebound by B. Bogdanović,43-49, ,,2,43,49,-6,1065.0
+6:09.0,P. Mills makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),46-49, ,,2,46,49,-3,1071.0
+5:51.0, ,46-49,D. Robinson misses 3-pt jump shot from 29 ft,,2,46,49,-3,1089.0
+5:48.0, ,46-49,Offensive rebound by C. Martin,,2,46,49,-3,1092.0
+5:44.0, ,46-49,D. Robinson misses 3-pt jump shot from 25 ft,,2,46,49,-3,1096.0
+5:40.0,Defensive rebound by D. Murray,46-49, ,,2,46,49,-3,1100.0
+5:31.0,D. Murray misses 2-pt jump shot from 10 ft,46-49, ,,2,46,49,-3,1109.0
+5:28.0, ,46-49,Defensive rebound by D. Robinson,,2,46,49,-3,1112.0
+5:14.0, ,46-51,J. Jaquez makes 2-pt hook shot from 9 ft,,2,46,51,-5,1126.0
+5:14.0, ,46-51,Shooting foul by C. Capela (drawn by J. Jaquez),,2,46,51,-5,1126.0
+5:14.0,S. Bey enters the game for P. Mills,46-51, ,,2,46,51,-5,1126.0
+5:14.0,T. Young enters the game for O. Okongwu,46-51, ,,2,46,51,-5,1126.0
+5:14.0, ,46-51,T. Herro enters the game for D. Robinson,,2,46,51,-5,1126.0
+5:14.0, ,46-51,J. Jaquez misses free throw 1 of 1,,2,46,51,-5,1126.0
+5:10.0,Defensive rebound by D. Murray,46-51, ,,2,46,51,-5,1130.0
+5:01.0,B. Bogdanović misses 3-pt jump shot from 27 ft,46-51, ,,2,46,51,-5,1139.0
+4:58.0, ,46-51,Defensive rebound by C. Martin,,2,46,51,-5,1142.0
+4:46.0, ,46-51,Turnover by J. Richardson (bad pass),,2,46,51,-5,1154.0
+4:46.0, ,46-51,H. Highsmith enters the game for J. Jaquez,,2,46,51,-5,1154.0
+4:46.0, ,46-51,K. Lowry enters the game for J. Richardson,,2,46,51,-5,1154.0
+4:37.0,T. Young misses 2-pt jump shot from 15 ft,46-51, ,,2,46,51,-5,1163.0
+4:34.0,Offensive rebound by C. Capela,46-51, ,,2,46,51,-5,1166.0
+4:34.0,Shooting foul by K. Lowry (drawn by C. Capela),46-51, ,,2,46,51,-5,1166.0
+4:34.0,C. Capela makes free throw 1 of 2,47-51, ,,2,47,51,-4,1166.0
+4:34.0, ,47-51,B. Adebayo enters the game for K. Love,,2,47,51,-4,1166.0
+4:34.0,C. Capela makes free throw 2 of 2,48-51, ,,2,48,51,-3,1166.0
+4:17.0, ,48-53,T. Herro makes 2-pt jump shot from 18 ft,,2,48,53,-5,1183.0
+4:05.0,Turnover by D. Murray (bad pass; steal by C. Martin),48-53, ,,2,48,53,-5,1195.0
+4:00.0, ,48-53,T. Herro misses 3-pt jump shot from 28 ft,,2,48,53,-5,1200.0
+3:55.0,Defensive rebound by S. Bey,48-53, ,,2,48,53,-5,1205.0
+3:48.0,Personal foul by T. Herro (drawn by T. Young),48-53, ,,2,48,53,-5,1212.0
+3:40.0,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by T. Young),51-53, ,,2,51,53,-2,1220.0
+3:27.0,Jump ball: B. Adebayo vs. C. Capela (T. Herro gains possession),51-53,,,2,51,53,-2,1233.0
+3:19.0, ,51-53,T. Herro misses 2-pt jump shot from 19 ft,,2,51,53,-2,1241.0
+3:17.0,Defensive rebound by S. Bey,51-53, ,,2,51,53,-2,1243.0
+3:12.0,D. Murray misses 3-pt jump shot from 23 ft,51-53, ,,2,51,53,-2,1248.0
+3:09.0, ,51-53,Defensive rebound by B. Adebayo,,2,51,53,-2,1251.0
+2:52.0, ,51-56,H. Highsmith makes 3-pt jump shot from 25 ft (assist by K. Lowry),,2,51,56,-5,1268.0
+2:40.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),54-56, ,,2,54,56,-2,1280.0
+2:31.0, ,54-56,T. Herro misses 2-pt jump shot from 11 ft,,2,54,56,-2,1289.0
+2:28.0,Defensive rebound by C. Capela,54-56, ,,2,54,56,-2,1292.0
+2:24.0,B. Bogdanović misses 3-pt jump shot from 32 ft,54-56, ,,2,54,56,-2,1296.0
+2:23.0,Offensive rebound by Team,54-56, ,,2,54,56,-2,1297.0
+2:23.0, ,54-56,Loose ball foul by C. Martin (drawn by S. Bey),,2,54,56,-2,1297.0
+2:23.0, ,54-56,Miami full timeout,,2,54,56,-2,1297.0
+2:23.0, ,54-56,J. Jaquez enters the game for H. Highsmith,,2,54,56,-2,1297.0
+2:23.0,S. Bey makes free throw 1 of 2,55-56, ,,2,55,56,-1,1297.0
+2:23.0,S. Bey makes free throw 2 of 2,56-56, ,Tie,2,56,56,0,1297.0
+2:04.0, ,56-56,Shooting foul by S. Bey (drawn by J. Jaquez),,2,56,56,0,1316.0
+2:04.0, ,56-57,J. Jaquez makes free throw 1 of 2,,2,56,57,-1,1316.0
+2:04.0, ,56-58,J. Jaquez makes free throw 2 of 2,,2,56,58,-2,1316.0
+1:52.0,D. Murray misses 2-pt layup from 3 ft,56-58, ,,2,56,58,-2,1328.0
+1:52.0,Offensive rebound by Team,56-58, ,,2,56,58,-2,1328.0
+1:40.0,Turnover by Team (shot clock),56-58, ,,2,56,58,-2,1340.0
+1:23.0, ,56-58,Turnover by B. Adebayo (bad pass; steal by D. Murray),,2,56,58,-2,1357.0
+1:19.0,D. Murray makes 2-pt dunk from 4 ft (assist by T. Young),58-58, ,Tie,2,58,58,0,1361.0
+1:02.0, ,58-60,J. Jaquez makes 2-pt layup from 4 ft,,2,58,60,-2,1378.0
+0:45.0,S. Bey misses 3-pt jump shot from 24 ft,58-60, ,,2,58,60,-2,1395.0
+0:42.0, ,58-60,Defensive rebound by B. Adebayo,,2,58,60,-2,1398.0
+0:20.0, ,58-62,C. Martin makes 2-pt jump shot from 17 ft,,2,58,62,-4,1420.0
+0:03.0,D. Murray misses 3-pt jump shot from 26 ft,58-62, ,,2,58,62,-4,1437.0
+0:03.0,Offensive rebound by S. Bey,58-62, ,,2,58,62,-4,1437.0
+0:00.0,S. Bey makes 2-pt layup from 4 ft,60-62, ,,2,60,62,-2,1440.0
+0:00.0,Instant Replay (Request: Ruling Stands),60-62, ,,2,60,62,-2,1440.0
+0:00.0,End of 2nd quarter,60-62,,,2,60,62,-2,1440.0
+12:00.0,Start of 3rd quarter,60-62,,,3,60,62,-2,1440.0
+11:45.0,T. Young misses 2-pt jump shot from 4 ft,60-62, ,,3,60,62,-2,1455.0
+11:42.0, ,60-62,Defensive rebound by C. Martin,,3,60,62,-2,1458.0
+11:22.0, ,60-62,C. Martin misses 3-pt jump shot from 23 ft,,3,60,62,-2,1478.0
+11:20.0,Defensive rebound by D. Murray,60-62, ,,3,60,62,-2,1480.0
+11:14.0,S. Bey makes 3-pt jump shot from 24 ft (assist by D. Murray),63-62, ,Lead change,3,63,62,1,1486.0
+11:14.0, ,63-62,Miami full timeout,,3,63,62,1,1486.0
+11:14.0, ,63-62,J. Richardson enters the game for K. Lowry,,3,63,62,1,1486.0
+11:01.0, ,63-62,Turnover by T. Herro (bad pass; steal by D. Murray),,3,63,62,1,1499.0
+10:49.0,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Young),66-62, ,,3,66,62,4,1511.0
+10:33.0, ,66-62,Turnover by T. Herro (bad pass; steal by S. Bey),,3,66,62,4,1527.0
+10:30.0,Personal foul by C. Martin (drawn by S. Bey),66-62, ,,3,66,62,4,1530.0
+10:21.0,T. Young makes 3-pt jump shot from 25 ft (assist by D. Murray),69-62, ,,3,69,62,7,1539.0
+9:57.0, ,69-62,B. Adebayo misses 2-pt jump shot from 17 ft,,3,69,62,7,1563.0
+9:54.0,Defensive rebound by S. Bey,69-62, ,,3,69,62,7,1566.0
+9:43.0,C. Capela makes 2-pt hook shot from 7 ft (assist by G. Mathews),71-62, ,,3,71,62,9,1577.0
+9:29.0, ,71-62,Turnover by B. Adebayo (traveling),,3,71,62,9,1591.0
+9:19.0,D. Murray makes 2-pt dunk from 5 ft (assist by T. Young),73-62, ,,3,73,62,11,1601.0
+9:03.0, ,73-62,T. Herro misses 2-pt jump shot from 12 ft,,3,73,62,11,1617.0
+9:00.0,Defensive rebound by D. Murray,73-62, ,,3,73,62,11,1620.0
+8:54.0,D. Murray misses 3-pt jump shot from 32 ft,73-62, ,,3,73,62,11,1626.0
+8:52.0, ,73-62,Defensive rebound by Team,,3,73,62,11,1628.0
+8:43.0, ,73-62,Personal foul by T. Young (drawn by B. Adebayo),,3,73,62,11,1637.0
+8:33.0, ,73-62,Shooting foul by C. Capela (drawn by J. Jaquez),,3,73,62,11,1647.0
+8:33.0, ,73-63,J. Jaquez makes free throw 1 of 2,,3,73,63,10,1647.0
+8:33.0, ,73-64,J. Jaquez makes free throw 2 of 2,,3,73,64,9,1647.0
+8:20.0,T. Young misses 2-pt jump shot from 10 ft,73-64, ,,3,73,64,9,1660.0
+8:18.0, ,73-64,Defensive rebound by J. Jaquez,,3,73,64,9,1662.0
+8:15.0, ,73-64,J. Jaquez misses 2-pt layup from 4 ft,,3,73,64,9,1665.0
+8:12.0, ,73-64,Offensive rebound by B. Adebayo,,3,73,64,9,1668.0
+8:12.0, ,73-64,Personal foul by G. Mathews (drawn by J. Jaquez),,3,73,64,9,1668.0
+8:12.0, ,73-64,K. Lowry enters the game for J. Richardson,,3,73,64,9,1668.0
+7:58.0, ,73-67,C. Martin makes 3-pt jump shot from 27 ft (assist by K. Lowry),,3,73,67,6,1682.0
+7:42.0,D. Murray misses 2-pt layup from 5 ft (block by C. Martin),73-67, ,,3,73,67,6,1698.0
+7:40.0, ,73-67,Defensive rebound by T. Herro,,3,73,67,6,1700.0
+7:35.0, ,73-67,T. Herro misses 3-pt jump shot from 27 ft,,3,73,67,6,1705.0
+7:35.0, ,73-67,Offensive rebound by B. Adebayo,,3,73,67,6,1705.0
+7:34.0, ,73-67,Shooting foul by G. Mathews (drawn by B. Adebayo),,3,73,67,6,1706.0
+7:34.0, ,73-68,B. Adebayo makes free throw 1 of 2,,3,73,68,5,1706.0
+7:34.0, ,73-69,B. Adebayo makes free throw 2 of 2,,3,73,69,4,1706.0
+7:17.0,T. Young misses 3-pt jump shot from 31 ft,73-69, ,,3,73,69,4,1723.0
+7:13.0, ,73-69,Defensive rebound by T. Herro,,3,73,69,4,1727.0
+7:09.0, ,73-69,C. Martin misses 2-pt layup from 5 ft,,3,73,69,4,1731.0
+7:07.0,Defensive rebound by C. Capela,73-69, ,,3,73,69,4,1733.0
+6:50.0,T. Young misses 2-pt jump shot from 11 ft,73-69, ,,3,73,69,4,1750.0
+6:47.0, ,73-69,Defensive rebound by C. Martin,,3,73,69,4,1753.0
+6:35.0, ,73-69,Offensive foul by B. Adebayo (drawn by G. Mathews),,3,73,69,4,1765.0
+6:35.0, ,73-69,Turnover by B. Adebayo (offensive foul),,3,73,69,4,1765.0
+6:35.0,B. Bogdanović enters the game for S. Bey,73-69, ,,3,73,69,4,1765.0
+6:35.0,P. Mills enters the game for G. Mathews,73-69, ,,3,73,69,4,1765.0
+6:35.0,O. Okongwu enters the game for T. Young,73-69, ,,3,73,69,4,1765.0
+6:22.0,B. Bogdanović misses 2-pt jump shot from 12 ft,73-69, ,,3,73,69,4,1778.0
+6:21.0,Offensive rebound by Team,73-69, ,,3,73,69,4,1779.0
+6:21.0, ,73-69,K. Love enters the game for B. Adebayo,,3,73,69,4,1779.0
+6:21.0, ,73-69,J. Richardson enters the game for J. Jaquez,,3,73,69,4,1779.0
+6:16.0,B. Bogdanović misses 3-pt jump shot from 28 ft,73-69, ,,3,73,69,4,1784.0
+6:14.0,Offensive rebound by B. Bogdanović,73-69, ,,3,73,69,4,1786.0
+6:13.0,B. Bogdanović misses 2-pt layup from 5 ft,73-69, ,,3,73,69,4,1787.0
+6:13.0, ,73-69,Defensive rebound by Team,,3,73,69,4,1787.0
+6:13.0,Loose ball foul by C. Capela (drawn by K. Love),73-69, ,,3,73,69,4,1787.0
+6:13.0, ,73-69,K. Love misses free throw 1 of 2,,3,73,69,4,1787.0
+6:13.0, ,73-69,Offensive rebound by Team,,3,73,69,4,1787.0
+6:13.0,S. Bey enters the game for C. Capela,73-69, ,,3,73,69,4,1787.0
+6:13.0, ,73-69,J. Jaquez enters the game for C. Martin,,3,73,69,4,1787.0
+6:13.0, ,73-70,K. Love makes free throw 2 of 2,,3,73,70,3,1787.0
+5:56.0,Turnover by S. Bey (traveling),73-70, ,,3,73,70,3,1804.0
+5:52.0, ,73-70,J. Jaquez misses 2-pt layup from 7 ft,,3,73,70,3,1808.0
+5:51.0,Defensive rebound by Team,73-70, ,,3,73,70,3,1809.0
+5:51.0, ,73-70,Loose ball foul by K. Love (drawn by S. Bey),,3,73,70,3,1809.0
+5:36.0,S. Bey misses 3-pt jump shot from 23 ft,73-70, ,,3,73,70,3,1824.0
+5:34.0,Offensive rebound by S. Bey,73-70, ,,3,73,70,3,1826.0
+5:31.0,S. Bey misses 2-pt layup from 8 ft,73-70, ,,3,73,70,3,1829.0
+5:29.0, ,73-70,Defensive rebound by K. Lowry,,3,73,70,3,1831.0
+5:26.0, ,73-73,K. Love makes 3-pt jump shot from 27 ft (assist by K. Lowry),Tie,3,73,73,0,1834.0
+5:06.0,S. Bey makes 2-pt dunk from 5 ft (assist by D. Murray),75-73, ,,3,75,73,2,1854.0
+4:56.0, ,75-73,Personal foul by P. Mills (drawn by K. Love),,3,75,73,2,1864.0
+4:56.0, ,75-74,K. Love makes free throw 1 of 2,,3,75,74,1,1864.0
+4:56.0, ,75-75,K. Love makes free throw 2 of 2,Tie,3,75,75,0,1864.0
+4:43.0,B. Bogdanović makes 2-pt layup from 6 ft (assist by O. Okongwu),77-75, ,,3,77,75,2,1877.0
+4:21.0, ,77-75,J. Jaquez misses 2-pt jump shot from 12 ft,,3,77,75,2,1899.0
+4:17.0, ,77-75,Offensive rebound by J. Jaquez,,3,77,75,2,1903.0
+4:13.0, ,77-75,Turnover by K. Lowry (bad pass; steal by D. Murray),,3,77,75,2,1907.0
+4:12.0,Shooting foul by K. Lowry (drawn by D. Murray),77-75, ,,3,77,75,2,1908.0
+4:12.0,D. Murray misses free throw 1 of 2,77-75, ,,3,77,75,2,1908.0
+4:12.0,Offensive rebound by Team,77-75, ,,3,77,75,2,1908.0
+4:12.0,D. Murray makes free throw 2 of 2,78-75, ,,3,78,75,3,1908.0
+3:59.0, ,78-75,T. Herro misses 3-pt jump shot from 26 ft,,3,78,75,3,1921.0
+3:56.0,Defensive rebound by D. Murray,78-75, ,,3,78,75,3,1924.0
+3:52.0,B. Bogdanović misses 3-pt jump shot from 29 ft,78-75, ,,3,78,75,3,1928.0
+3:49.0, ,78-75,Defensive rebound by J. Jaquez,,3,78,75,3,1931.0
+3:42.0, ,78-77,T. Herro makes 2-pt jump shot from 8 ft,,3,78,77,1,1938.0
+3:42.0, ,78-77,Shooting foul by O. Okongwu (drawn by T. Herro),,3,78,77,1,1938.0
+3:42.0, ,78-77,D. Robinson enters the game for K. Lowry,,3,78,77,1,1938.0
+3:42.0, ,78-77,T. Herro misses free throw 1 of 1,,3,78,77,1,1938.0
+3:39.0,Defensive rebound by S. Bey,78-77, ,,3,78,77,1,1941.0
+3:25.0,O. Okongwu makes 2-pt dunk from 6 ft (assist by B. Bogdanović),80-77, ,,3,80,77,3,1955.0
+3:08.0, ,80-80,T. Herro makes 3-pt jump shot from 28 ft (assist by K. Love),Tie,3,80,80,0,1972.0
+3:07.0,Atlanta full timeout,80-80, ,,3,80,80,0,1973.0
+3:07.0,W. Matthews enters the game for S. Bey,80-80, ,,3,80,80,0,1973.0
+3:07.0,T. Young enters the game for D. Murray,80-80, ,,3,80,80,0,1973.0
+3:07.0, ,80-80,B. Adebayo enters the game for T. Herro,,3,80,80,0,1973.0
+3:07.0, ,80-80,K. Lowry enters the game for K. Love,,3,80,80,0,1973.0
+2:49.0,P. Mills misses 2-pt jump shot from 17 ft,80-80, ,,3,80,80,0,1991.0
+2:46.0, ,80-80,Defensive rebound by B. Adebayo,,3,80,80,0,1994.0
+2:32.0, ,80-80,Def 3 sec tech foul by Team,,3,80,80,0,2008.0
+2:32.0, ,80-81,J. Richardson makes technical free throw,Lead change,3,80,81,-1,2008.0
+2:27.0, ,80-84,D. Robinson makes 3-pt jump shot from 27 ft (assist by B. Adebayo),,3,80,84,-4,2013.0
+2:07.0,B. Bogdanović misses 3-pt jump shot from 26 ft,80-84, ,,3,80,84,-4,2033.0
+2:05.0,Offensive rebound by P. Mills,80-84, ,,3,80,84,-4,2035.0
+2:05.0,Offensive foul by P. Mills (drawn by K. Lowry),80-84, ,,3,80,84,-4,2035.0
+2:05.0,Turnover by P. Mills (offensive foul),80-84, ,,3,80,84,-4,2035.0
+1:53.0, ,80-84,J. Jaquez misses 2-pt layup from 5 ft,,3,80,84,-4,2047.0
+1:51.0,Defensive rebound by T. Young,80-84, ,,3,80,84,-4,2049.0
+1:44.0,Turnover by T. Young (bad pass; steal by J. Jaquez),80-84, ,,3,80,84,-4,2056.0
+1:40.0, ,80-84,Turnover by B. Adebayo (lost ball; steal by T. Young),,3,80,84,-4,2060.0
+1:28.0,Shooting foul by J. Jaquez (drawn by B. Bogdanović),80-84, ,,3,80,84,-4,2072.0
+1:28.0,B. Bogdanović makes free throw 1 of 2,81-84, ,,3,81,84,-3,2072.0
+1:28.0,B. Bogdanović misses free throw 2 of 2,81-84, ,,3,81,84,-3,2072.0
+1:26.0, ,81-84,Defensive rebound by B. Adebayo,,3,81,84,-3,2074.0
+1:12.0, ,81-84,B. Adebayo misses 2-pt layup from 4 ft,,3,81,84,-3,2088.0
+1:12.0, ,81-84,Offensive rebound by J. Jaquez,,3,81,84,-3,2088.0
+1:12.0, ,81-84,J. Jaquez misses 2-pt dunk at rim,,3,81,84,-3,2088.0
+1:11.0,Defensive rebound by W. Matthews,81-84, ,,3,81,84,-3,2089.0
+1:01.0,T. Young misses 3-pt jump shot from 28 ft,81-84, ,,3,81,84,-3,2099.0
+0:58.0, ,81-84,Defensive rebound by D. Robinson,,3,81,84,-3,2102.0
+0:58.0, ,81-84,B. Adebayo misses 2-pt layup from 3 ft (block by O. Okongwu),,3,81,84,-3,2102.0
+0:58.0, ,81-84,Offensive rebound by Team,,3,81,84,-3,2102.0
+0:43.0, ,81-86,J. Jaquez makes 2-pt jump shot from 14 ft (assist by D. Robinson),,3,81,86,-5,2117.0
+0:31.0,T. Young makes 3-pt jump shot from 30 ft,84-86, ,,3,84,86,-2,2129.0
+0:22.0, ,84-86,Shooting foul by P. Mills (drawn by B. Adebayo),,3,84,86,-2,2138.0
+0:22.0, ,84-87,B. Adebayo makes free throw 1 of 2,,3,84,87,-3,2138.0
+0:22.0, ,84-87,H. Highsmith enters the game for K. Lowry,,3,84,87,-3,2138.0
+0:22.0, ,84-87,C. Martin enters the game for D. Robinson,,3,84,87,-3,2138.0
+0:22.0, ,84-88,B. Adebayo makes free throw 2 of 2,,3,84,88,-4,2138.0
+0:02.0,O. Okongwu makes 2-pt dunk from 6 ft (assist by B. Bogdanović),86-88, ,,3,86,88,-2,2158.0
+0:00.0,End of 3rd quarter,86-88,,,3,86,88,-2,2160.0
+12:00.0,Start of 4th quarter,86-88,,,4,86,88,-2,2160.0
+11:42.0, ,86-88,Shooting foul by O. Okongwu (drawn by B. Adebayo),,4,86,88,-2,2178.0
+11:42.0, ,86-89,B. Adebayo makes free throw 1 of 2,,4,86,89,-3,2178.0
+11:42.0, ,86-90,B. Adebayo makes free throw 2 of 2,,4,86,90,-4,2178.0
+11:27.0,T. Young makes 3-pt jump shot from 28 ft,89-90, ,,4,89,90,-1,2193.0
+11:15.0, ,89-90,Turnover by B. Adebayo (traveling),,4,89,90,-1,2205.0
+11:03.0,T. Young misses 3-pt jump shot from 33 ft,89-90, ,,4,89,90,-1,2217.0
+11:00.0,Offensive rebound by O. Okongwu,89-90, ,,4,89,90,-1,2220.0
+10:58.0,B. Bogdanović misses 3-pt jump shot from 29 ft,89-90, ,,4,89,90,-1,2222.0
+10:56.0, ,89-90,Defensive rebound by B. Adebayo,,4,89,90,-1,2224.0
+10:48.0, ,89-90,B. Adebayo misses 2-pt hook shot from 7 ft,,4,89,90,-1,2232.0
+10:45.0,Defensive rebound by G. Mathews,89-90, ,,4,89,90,-1,2235.0
+10:37.0,S. Bey misses 3-pt jump shot from 24 ft,89-90, ,,4,89,90,-1,2243.0
+10:33.0, ,89-90,Defensive rebound by C. Martin,,4,89,90,-1,2247.0
+10:24.0, ,89-93,D. Robinson makes 3-pt jump shot from 23 ft (assist by J. Jaquez),,4,89,93,-4,2256.0
+10:01.0,B. Bogdanović misses 2-pt jump shot from 6 ft,89-93, ,,4,89,93,-4,2279.0
+9:58.0, ,89-93,Defensive rebound by J. Jaquez,,4,89,93,-4,2282.0
+9:56.0, ,89-93,Personal foul by G. Mathews (drawn by J. Jaquez),,4,89,93,-4,2284.0
+9:56.0,D. Murray enters the game for B. Bogdanović,89-93, ,,4,89,93,-4,2284.0
+9:52.0, ,89-96,D. Robinson makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,4,89,96,-7,2288.0
+9:35.0,G. Mathews misses 3-pt jump shot from 26 ft,89-96, ,,4,89,96,-7,2305.0
+9:33.0,Offensive rebound by O. Okongwu,89-96, ,,4,89,96,-7,2307.0
+9:31.0,O. Okongwu misses 2-pt layup from 6 ft,89-96, ,,4,89,96,-7,2309.0
+9:31.0,Offensive rebound by O. Okongwu,89-96, ,,4,89,96,-7,2309.0
+9:26.0,D. Murray makes 3-pt jump shot from 27 ft (assist by T. Young),92-96, ,,4,92,96,-4,2314.0
+9:02.0, ,92-96,Offensive foul by J. Jaquez (drawn by G. Mathews),,4,92,96,-4,2338.0
+9:02.0, ,92-96,Turnover by J. Jaquez (offensive foul),,4,92,96,-4,2338.0
+8:47.0,Shooting foul by J. Jaquez (drawn by T. Young),92-96, ,,4,92,96,-4,2353.0
+8:47.0,T. Young makes free throw 1 of 2,93-96, ,,4,93,96,-3,2353.0
+8:47.0, ,93-96,T. Herro enters the game for J. Jaquez,,4,93,96,-3,2353.0
+8:47.0,T. Young makes free throw 2 of 2,94-96, ,,4,94,96,-2,2353.0
+8:35.0, ,94-96,B. Adebayo misses 2-pt dunk from 4 ft,,4,94,96,-2,2365.0
+8:32.0,Defensive rebound by S. Bey,94-96, ,,4,94,96,-2,2368.0
+8:24.0,D. Murray misses 3-pt jump shot from 27 ft,94-96, ,,4,94,96,-2,2376.0
+8:22.0, ,94-96,Defensive rebound by T. Herro,,4,94,96,-2,2378.0
+8:16.0, ,94-96,J. Richardson misses 3-pt jump shot from 23 ft,,4,94,96,-2,2384.0
+8:15.0,Defensive rebound by S. Bey,94-96, ,,4,94,96,-2,2385.0
+8:15.0,Personal foul by C. Martin (drawn by S. Bey),94-96, ,,4,94,96,-2,2385.0
+8:15.0,B. Bogdanović enters the game for G. Mathews,94-96, ,,4,94,96,-2,2385.0
+7:58.0,T. Young misses 2-pt jump shot from 11 ft,94-96, ,,4,94,96,-2,2402.0
+7:56.0, ,94-96,Defensive rebound by B. Adebayo,,4,94,96,-2,2404.0
+7:50.0, ,94-98,D. Robinson makes 2-pt jump shot from 7 ft (assist by B. Adebayo),,4,94,98,-4,2410.0
+7:32.0,D. Murray makes 2-pt jump shot from 9 ft,96-98, ,,4,96,98,-2,2428.0
+7:14.0, ,96-100,D. Robinson makes 2-pt layup from 4 ft,,4,96,100,-4,2446.0
+7:14.0, ,96-100,Shooting foul by O. Okongwu (drawn by D. Robinson),,4,96,100,-4,2446.0
+7:14.0, ,96-101,D. Robinson makes free throw 1 of 1,,4,96,101,-5,2446.0
+7:02.0,B. Bogdanović misses 3-pt jump shot from 27 ft,96-101, ,,4,96,101,-5,2458.0
+7:00.0, ,96-101,Defensive rebound by T. Herro,,4,96,101,-5,2460.0
+6:49.0, ,96-104,T. Herro makes 3-pt jump shot from 27 ft,,4,96,104,-8,2471.0
+6:48.0,Atlanta full timeout,96-104, ,,4,96,104,-8,2472.0
+6:48.0,C. Capela enters the game for O. Okongwu,96-104, ,,4,96,104,-8,2472.0
+6:31.0,Turnover by T. Young (traveling),96-104, ,,4,96,104,-8,2489.0
+6:31.0,Violation by Team (delay of game),96-104, ,,4,96,104,-8,2489.0
+6:18.0, ,96-104,B. Adebayo misses 2-pt hook shot from 5 ft,,4,96,104,-8,2502.0
+6:16.0,Defensive rebound by C. Capela,96-104, ,,4,96,104,-8,2504.0
+6:11.0,D. Murray misses 2-pt layup from 5 ft,96-104, ,,4,96,104,-8,2509.0
+6:02.0,Offensive rebound by C. Capela,96-104, ,,4,96,104,-8,2518.0
+6:02.0,C. Capela makes 2-pt dunk at rim,98-104, ,,4,98,104,-6,2518.0
+5:55.0, ,98-104,C. Martin misses 3-pt jump shot from 24 ft,,4,98,104,-6,2525.0
+5:53.0,Defensive rebound by C. Capela,98-104, ,,4,98,104,-6,2527.0
+5:43.0,B. Bogdanović misses 3-pt jump shot from 24 ft,98-104, ,,4,98,104,-6,2537.0
+5:40.0, ,98-104,Defensive rebound by B. Adebayo,,4,98,104,-6,2540.0
+5:28.0, ,98-104,D. Robinson misses 3-pt jump shot from 25 ft,,4,98,104,-6,2552.0
+5:26.0,Defensive rebound by C. Capela,98-104, ,,4,98,104,-6,2554.0
+5:14.0,D. Murray misses 3-pt jump shot from 27 ft,98-104, ,,4,98,104,-6,2566.0
+5:09.0, ,98-104,Defensive rebound by J. Richardson,,4,98,104,-6,2571.0
+5:03.0, ,98-104,T. Herro misses 2-pt jump shot from 13 ft,,4,98,104,-6,2577.0
+5:03.0, ,98-104,Offensive rebound by Team,,4,98,104,-6,2577.0
+5:03.0, ,98-104,J. Jaquez enters the game for J. Richardson,,4,98,104,-6,2577.0
+4:53.0, ,98-104,B. Adebayo misses 2-pt hook shot from 8 ft,,4,98,104,-6,2587.0
+4:53.0, ,98-104,Offensive rebound by J. Jaquez,,4,98,104,-6,2587.0
+4:53.0, ,98-104,Personal foul by C. Capela (drawn by J. Jaquez),,4,98,104,-6,2587.0
+4:51.0, ,98-104,Turnover by J. Jaquez (bad pass; steal by T. Young),,4,98,104,-6,2589.0
+4:47.0,B. Bogdanović misses 3-pt jump shot from 25 ft,98-104, ,,4,98,104,-6,2593.0
+4:45.0,Offensive rebound by Team,98-104, ,,4,98,104,-6,2595.0
+4:45.0, ,98-104,Loose ball foul by C. Martin (drawn by D. Murray),,4,98,104,-6,2595.0
+4:45.0,Atlanta full timeout,98-104, ,,4,98,104,-6,2595.0
+4:33.0,Turnover by T. Young (bad pass; steal by B. Adebayo),98-104, ,,4,98,104,-6,2607.0
+4:14.0, ,98-107,T. Herro makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,4,98,107,-9,2626.0
+3:57.0,T. Young makes 2-pt jump shot from 17 ft (assist by D. Murray),100-107, ,,4,100,107,-7,2643.0
+3:38.0, ,100-107,Turnover by T. Herro (bad pass; steal by B. Bogdanović),,4,100,107,-7,2662.0
+3:33.0,T. Young makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),103-107, ,,4,103,107,-4,2667.0
+3:33.0, ,103-107,Miami full timeout,,4,103,107,-4,2667.0
+3:16.0, ,103-107,Personal foul by B. Bogdanović (drawn by D. Robinson),,4,103,107,-4,2684.0
+3:16.0, ,103-108,D. Robinson makes free throw 1 of 2,,4,103,108,-5,2684.0
+3:16.0, ,103-109,D. Robinson makes free throw 2 of 2,,4,103,109,-6,2684.0
+2:53.0,B. Bogdanović misses 3-pt jump shot from 27 ft,103-109, ,,4,103,109,-6,2707.0
+2:51.0, ,103-109,Defensive rebound by B. Adebayo,,4,103,109,-6,2709.0
+2:48.0, ,103-109,J. Jaquez misses 2-pt layup from 5 ft,,4,103,109,-6,2712.0
+2:48.0, ,103-109,Offensive rebound by D. Robinson,,4,103,109,-6,2712.0
+2:42.0, ,103-111,D. Robinson makes 2-pt layup at rim,,4,103,111,-8,2718.0
+2:31.0,S. Bey makes 2-pt layup from 5 ft,105-111, ,,4,105,111,-6,2729.0
+2:01.0, ,105-114,T. Herro makes 3-pt jump shot from 28 ft (assist by D. Robinson),,4,105,114,-9,2759.0
+1:52.0,D. Murray makes 2-pt jump shot from 11 ft (assist by T. Young),107-114, ,,4,107,114,-7,2768.0
+1:35.0, ,107-114,Personal foul by B. Bogdanović (drawn by B. Adebayo),,4,107,114,-7,2785.0
+1:35.0, ,107-115,B. Adebayo makes free throw 1 of 2,,4,107,115,-8,2785.0
+1:35.0, ,107-116,B. Adebayo makes free throw 2 of 2,,4,107,116,-9,2785.0
+1:28.0,T. Young misses 3-pt jump shot from 28 ft,107-116, ,,4,107,116,-9,2792.0
+1:24.0,Offensive rebound by C. Capela,107-116, ,,4,107,116,-9,2796.0
+1:24.0,Turnover by C. Capela (bad pass),107-116, ,,4,107,116,-9,2796.0
+1:16.0, ,107-118,D. Robinson makes 2-pt layup from 4 ft (assist by B. Adebayo),,4,107,118,-11,2804.0
+1:08.0,T. Young makes 3-pt jump shot from 25 ft,110-118, ,,4,110,118,-8,2812.0
+0:45.0, ,110-118,T. Herro misses 3-pt jump shot from 28 ft,,4,110,118,-8,2835.0
+0:42.0,Defensive rebound by C. Capela,110-118, ,,4,110,118,-8,2838.0
+0:36.0,T. Young makes 3-pt jump shot from 27 ft (assist by S. Bey),113-118, ,,4,113,118,-5,2844.0
+0:36.0, ,113-118,Miami full timeout,,4,113,118,-5,2844.0
+0:32.0, ,113-118,Personal take foul by S. Bey (drawn by D. Robinson),,4,113,118,-5,2848.0
+0:32.0, ,113-119,D. Robinson makes free throw 1 of 2,,4,113,119,-6,2848.0
+0:32.0, ,113-120,D. Robinson makes free throw 2 of 2,,4,113,120,-7,2848.0
+0:32.0,Atlanta full timeout,113-120, ,,4,113,120,-7,2848.0
+0:32.0,O. Okongwu enters the game for C. Capela,113-120, ,,4,113,120,-7,2848.0
+0:32.0, ,113-120,J. Richardson enters the game for D. Robinson,,4,113,120,-7,2848.0
+0:30.0,B. Bogdanović misses 3-pt jump shot from 27 ft,113-120, ,,4,113,120,-7,2850.0
+0:27.0,Offensive rebound by D. Murray,113-120, ,,4,113,120,-7,2853.0
+0:27.0,Turnover by D. Murray (bad pass),113-120, ,,4,113,120,-7,2853.0
+0:27.0, ,113-120,D. Robinson enters the game for J. Richardson,,4,113,120,-7,2853.0
+0:22.0, ,113-120,Personal take foul by B. Bogdanović (drawn by D. Robinson),,4,113,120,-7,2858.0
+0:22.0, ,113-121,D. Robinson makes free throw 1 of 2,,4,113,121,-8,2858.0
+0:22.0, ,113-122,D. Robinson makes free throw 2 of 2,,4,113,122,-9,2858.0
+0:13.0,D. Murray misses 3-pt jump shot from 27 ft,113-122, ,,4,113,122,-9,2867.0
+0:10.0, ,113-122,Defensive rebound by B. Adebayo,,4,113,122,-9,2870.0
+0:00.0, ,113-122,Turnover by B. Adebayo (lost ball; steal by O. Okongwu),,4,113,122,-9,2880.0
+0:00.0,End of 4th quarter,113-122,,,4,113,122,-9,2880.0

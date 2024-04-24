@@ -1,0 +1,500 @@
+Time,Atlanta,Score,Washington,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. D. Gafford (J. Johnson gains possession),0-0,,,1,0,0,0,0.0
+11:40.0,Turnover by T. Young (bad pass; steal by T. Jones),0-0, ,,1,0,0,0,20.0
+11:35.0, ,0-2,D. Avdija makes 2-pt dunk at rim (assist by T. Jones),,1,0,2,-2,25.0
+11:25.0,D. Murray misses 3-pt jump shot from 27 ft,0-2, ,,1,0,2,-2,35.0
+11:21.0, ,0-2,Defensive rebound by D. Gafford,,1,0,2,-2,39.0
+11:13.0, ,0-2,J. Poole misses 2-pt jump shot from 18 ft,,1,0,2,-2,47.0
+11:11.0,Defensive rebound by S. Bey,0-2, ,,1,0,2,-2,49.0
+11:02.0,T. Young misses 3-pt jump shot from 30 ft,0-2, ,,1,0,2,-2,58.0
+10:59.0,Offensive rebound by S. Bey,0-2, ,,1,0,2,-2,61.0
+10:58.0,Turnover by S. Bey (bad pass; steal by D. Gafford),0-2, ,,1,0,2,-2,62.0
+10:55.0, ,0-4,J. Poole makes 2-pt layup from 2 ft (assist by K. Kuzma),,1,0,4,-4,65.0
+10:46.0,J. Johnson misses 3-pt jump shot from 26 ft,0-4, ,,1,0,4,-4,74.0
+10:42.0, ,0-4,Defensive rebound by D. Avdija,,1,0,4,-4,78.0
+10:33.0, ,0-4,K. Kuzma misses 3-pt jump shot from 26 ft,,1,0,4,-4,87.0
+10:30.0,Defensive rebound by S. Bey,0-4, ,,1,0,4,-4,90.0
+10:22.0,Turnover by D. Murray (bad pass; steal by D. Avdija),0-4, ,,1,0,4,-4,98.0
+10:17.0, ,0-7,T. Jones makes 3-pt jump shot from 27 ft (assist by J. Poole),,1,0,7,-7,103.0
+9:59.0,T. Young makes 2-pt jump shot from 10 ft,2-7, ,,1,2,7,-5,121.0
+9:43.0, ,2-10,K. Kuzma makes 3-pt jump shot from 28 ft (assist by T. Jones),,1,2,10,-8,137.0
+9:17.0,S. Bey misses 2-pt jump shot from 6 ft,2-10, ,,1,2,10,-8,163.0
+9:13.0,Offensive rebound by C. Capela,2-10, ,,1,2,10,-8,167.0
+9:13.0,C. Capela misses 2-pt layup at rim,2-10, ,,1,2,10,-8,167.0
+9:10.0,C. Capela makes 2-pt layup at rim,4-10, ,,1,4,10,-6,170.0
+9:03.0, ,4-10,Def 3 sec tech foul by Team,,1,4,10,-6,177.0
+9:03.0, ,4-11,K. Kuzma makes technical free throw,,1,4,11,-7,177.0
+8:52.0, ,4-11,Shooting foul by D. Murray (drawn by D. Avdija),,1,4,11,-7,188.0
+8:52.0, ,4-12,D. Avdija makes free throw 1 of 2,,1,4,12,-8,188.0
+8:52.0, ,4-12,D. Avdija misses free throw 2 of 2,,1,4,12,-8,188.0
+8:48.0,Defensive rebound by C. Capela,4-12, ,,1,4,12,-8,192.0
+8:37.0,J. Johnson misses 2-pt jump shot from 14 ft,4-12, ,,1,4,12,-8,203.0
+8:35.0, ,4-12,Defensive rebound by D. Gafford,,1,4,12,-8,205.0
+8:30.0, ,4-12,K. Kuzma misses 3-pt jump shot from 24 ft,,1,4,12,-8,210.0
+8:30.0,Defensive rebound by C. Capela,4-12, ,,1,4,12,-8,210.0
+8:25.0,T. Young misses 2-pt layup from 7 ft (block by T. Jones),4-12, ,,1,4,12,-8,215.0
+8:25.0,Offensive rebound by Team,4-12, ,,1,4,12,-8,215.0
+8:23.0,D. Murray misses 2-pt jump shot from 13 ft,4-12, ,,1,4,12,-8,217.0
+8:20.0, ,4-12,Defensive rebound by D. Gafford,,1,4,12,-8,220.0
+8:13.0, ,4-15,K. Kuzma makes 3-pt jump shot from 24 ft (assist by T. Jones),,1,4,15,-11,227.0
+8:10.0,Atlanta full timeout,4-15, ,,1,4,15,-11,230.0
+7:46.0,C. Capela misses 2-pt layup from 7 ft (block by D. Gafford),4-15, ,,1,4,15,-11,254.0
+7:44.0, ,4-15,Defensive rebound by K. Kuzma,,1,4,15,-11,256.0
+7:41.0, ,4-17,K. Kuzma makes 2-pt dunk from 3 ft (assist by J. Poole),,1,4,17,-13,259.0
+7:25.0,S. Bey misses 2-pt layup from 6 ft,4-17, ,,1,4,17,-13,275.0
+7:23.0,Offensive rebound by S. Bey,4-17, ,,1,4,17,-13,277.0
+7:21.0,Shooting foul by D. Gafford (drawn by J. Johnson),4-17, ,,1,4,17,-13,279.0
+7:21.0,J. Johnson makes free throw 1 of 2,5-17, ,,1,5,17,-12,279.0
+7:21.0,J. Johnson makes free throw 2 of 2,6-17, ,,1,6,17,-11,279.0
+7:05.0, ,6-19,D. Gafford makes 2-pt layup from 3 ft (assist by J. Poole),,1,6,19,-13,295.0
+6:52.0,D. Murray makes 2-pt jump shot from 7 ft (assist by T. Young),8-19, ,,1,8,19,-11,308.0
+6:39.0, ,8-19,K. Kuzma misses 3-pt jump shot from 28 ft,,1,8,19,-11,321.0
+6:37.0,Defensive rebound by S. Bey,8-19, ,,1,8,19,-11,323.0
+6:27.0,C. Capela makes 2-pt dunk from 4 ft (assist by D. Murray),10-19, ,,1,10,19,-9,333.0
+6:09.0, ,10-22,K. Kuzma makes 3-pt jump shot from 25 ft (assist by D. Avdija),,1,10,22,-12,351.0
+5:51.0,T. Young makes 3-pt jump shot from 29 ft (assist by J. Johnson),13-22, ,,1,13,22,-9,369.0
+5:37.0, ,13-22,T. Jones misses 3-pt jump shot from 27 ft,,1,13,22,-9,383.0
+5:34.0,Defensive rebound by D. Murray,13-22, ,,1,13,22,-9,386.0
+5:24.0,Shooting foul by D. Gafford (drawn by C. Capela),13-22, ,,1,13,22,-9,396.0
+5:24.0,C. Capela misses free throw 1 of 2,13-22, ,,1,13,22,-9,396.0
+5:24.0,Offensive rebound by Team,13-22, ,,1,13,22,-9,396.0
+5:24.0,B. Bogdanović enters the game for J. Johnson,13-22, ,,1,13,22,-9,396.0
+5:24.0,P. Mills enters the game for T. Young,13-22, ,,1,13,22,-9,396.0
+5:24.0,C. Capela misses free throw 2 of 2,13-22, ,,1,13,22,-9,396.0
+5:22.0, ,13-22,Defensive rebound by D. Avdija,,1,13,22,-9,398.0
+5:05.0, ,13-22,K. Kuzma misses 2-pt jump shot from 17 ft,,1,13,22,-9,415.0
+5:02.0,Defensive rebound by P. Mills,13-22, ,,1,13,22,-9,418.0
+4:54.0,D. Murray misses 2-pt layup from 7 ft (block by D. Gafford),13-22, ,,1,13,22,-9,426.0
+4:51.0, ,13-22,Defensive rebound by D. Avdija,,1,13,22,-9,429.0
+4:51.0, ,13-22,Turnover by D. Avdija (bad pass),,1,13,22,-9,429.0
+4:34.0,B. Bogdanović misses 2-pt jump shot from 11 ft,13-22, ,,1,13,22,-9,446.0
+4:29.0, ,13-22,Defensive rebound by D. Gafford,,1,13,22,-9,451.0
+4:19.0, ,13-22,T. Jones misses 3-pt jump shot from 24 ft,,1,13,22,-9,461.0
+4:16.0,Defensive rebound by D. Murray,13-22, ,,1,13,22,-9,464.0
+4:04.0,D. Murray makes 2-pt layup from 2 ft,15-22, ,,1,15,22,-7,476.0
+3:49.0, ,15-22,J. Poole misses 3-pt jump shot from 30 ft,,1,15,22,-7,491.0
+3:47.0,Defensive rebound by B. Bogdanović,15-22, ,,1,15,22,-7,493.0
+3:45.0,B. Bogdanović misses 3-pt jump shot from 28 ft,15-22, ,,1,15,22,-7,495.0
+3:41.0, ,15-22,Defensive rebound by D. Gafford,,1,15,22,-7,499.0
+3:38.0, ,15-22,K. Kuzma misses 2-pt jump shot from 22 ft,,1,15,22,-7,502.0
+3:35.0,Defensive rebound by P. Mills,15-22, ,,1,15,22,-7,505.0
+3:30.0,P. Mills misses 3-pt jump shot from 27 ft,15-22, ,,1,15,22,-7,510.0
+3:27.0, ,15-22,Defensive rebound by D. Avdija,,1,15,22,-7,513.0
+3:21.0, ,15-22,Washington full timeout,,1,15,22,-7,519.0
+3:21.0,B. Fernando enters the game for S. Bey,15-22, ,,1,15,22,-7,519.0
+3:21.0,J. Johnson enters the game for C. Capela,15-22, ,,1,15,22,-7,519.0
+3:21.0,G. Mathews enters the game for P. Mills,15-22, ,,1,15,22,-7,519.0
+3:21.0,T. Young enters the game for D. Murray,15-22, ,,1,15,22,-7,519.0
+3:21.0, ,15-22,B. Coulibaly enters the game for D. Avdija,,1,15,22,-7,519.0
+3:21.0, ,15-22,M. Muscala enters the game for D. Gafford,,1,15,22,-7,519.0
+3:21.0, ,15-22,D. Wright enters the game for T. Jones,,1,15,22,-7,519.0
+3:08.0, ,15-25,K. Kuzma makes 3-pt jump shot from 23 ft (assist by M. Muscala),,1,15,25,-10,532.0
+2:51.0,T. Young makes 2-pt layup from 2 ft,17-25, ,,1,17,25,-8,549.0
+2:32.0, ,17-25,B. Coulibaly misses 2-pt layup from 3 ft,,1,17,25,-8,568.0
+2:30.0,Defensive rebound by J. Johnson,17-25, ,,1,17,25,-8,570.0
+2:17.0,Turnover by T. Young (bad pass),17-25, ,,1,17,25,-8,583.0
+2:06.0, ,17-25,J. Poole misses 3-pt jump shot from 29 ft,,1,17,25,-8,594.0
+2:03.0,Defensive rebound by J. Johnson,17-25, ,,1,17,25,-8,597.0
+2:00.0,J. Johnson makes 2-pt jump shot from 10 ft,19-25, ,,1,19,25,-6,600.0
+2:00.0,Shooting foul by K. Kuzma (drawn by J. Johnson),19-25, ,,1,19,25,-6,600.0
+2:00.0, ,19-25,C. Kispert enters the game for K. Kuzma,,1,19,25,-6,600.0
+2:00.0,J. Johnson makes free throw 1 of 1,20-25, ,,1,20,25,-5,600.0
+1:45.0, ,20-25,D. Wright misses 3-pt jump shot from 23 ft,,1,20,25,-5,615.0
+1:42.0,Defensive rebound by J. Johnson,20-25, ,,1,20,25,-5,618.0
+1:38.0,Personal foul by B. Coulibaly (drawn by T. Young),20-25, ,,1,20,25,-5,622.0
+1:38.0,T. Young misses free throw 1 of 2,20-25, ,,1,20,25,-5,622.0
+1:38.0,Offensive rebound by Team,20-25, ,,1,20,25,-5,622.0
+1:38.0,T. Young makes free throw 2 of 2,21-25, ,,1,21,25,-4,622.0
+1:32.0, ,21-25,Personal foul by G. Mathews (drawn by C. Kispert),,1,21,25,-4,628.0
+1:32.0, ,21-25,D. Avdija enters the game for J. Poole,,1,21,25,-4,628.0
+1:26.0, ,21-25,Shooting foul by B. Fernando (drawn by B. Coulibaly),,1,21,25,-4,634.0
+1:26.0, ,21-26,B. Coulibaly makes free throw 1 of 2,,1,21,26,-5,634.0
+1:26.0, ,21-27,B. Coulibaly makes free throw 2 of 2,,1,21,27,-6,634.0
+1:14.0,B. Bogdanović misses 2-pt layup from 5 ft,21-27, ,,1,21,27,-6,646.0
+1:11.0, ,21-27,Defensive rebound by M. Muscala,,1,21,27,-6,649.0
+1:07.0, ,21-27,M. Muscala misses 3-pt jump shot from 28 ft,,1,21,27,-6,653.0
+1:04.0,Defensive rebound by J. Johnson,21-27, ,,1,21,27,-6,656.0
+0:55.0,T. Young makes 3-pt jump shot from 24 ft (assist by G. Mathews),24-27, ,,1,24,27,-3,665.0
+0:40.0, ,24-27,Turnover by D. Wright (lost ball; steal by T. Young),,1,24,27,-3,680.0
+0:35.0,B. Bogdanović makes 2-pt layup from 4 ft (assist by T. Young),26-27, ,,1,26,27,-1,685.0
+0:20.0, ,26-27,C. Kispert misses 3-pt jump shot from 23 ft (block by G. Mathews),,1,26,27,-1,700.0
+0:20.0, ,26-27,Offensive rebound by Team,,1,26,27,-1,700.0
+0:13.0, ,26-27,Turnover by D. Wright (lost ball; steal by B. Fernando),,1,26,27,-1,707.0
+0:01.0,J. Johnson makes 2-pt dunk from 3 ft (assist by T. Young),28-27, ,Lead change,1,28,27,1,719.0
+0:00.0, ,28-30,D. Avdija makes 3-pt jump shot from 27 ft (assist by B. Coulibaly),Lead change,1,28,30,-2,720.0
+0:00.0, ,28-30,Instant Replay (Request: Stands),,1,28,30,-2,720.0
+0:00.0,End of 1st quarter,28-30,,,1,28,30,-2,720.0
+12:00.0,Start of 2nd quarter,28-30,,,2,28,30,-2,720.0
+11:44.0, ,28-30,C. Kispert misses 3-pt jump shot from 26 ft,,2,28,30,-2,736.0
+11:41.0,Defensive rebound by J. Johnson,28-30, ,,2,28,30,-2,739.0
+11:34.0,B. Bogdanović misses 3-pt jump shot from 25 ft,28-30, ,,2,28,30,-2,746.0
+11:30.0, ,28-30,Defensive rebound by B. Coulibaly,,2,28,30,-2,750.0
+11:22.0, ,28-32,C. Kispert makes 2-pt layup from 2 ft (assist by M. Muscala),,2,28,32,-4,758.0
+11:06.0,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by B. Fernando),31-32, ,,2,31,32,-1,774.0
+10:48.0, ,31-32,Shooting foul by J. Johnson (drawn by C. Kispert),,2,31,32,-1,792.0
+10:48.0, ,31-33,C. Kispert makes free throw 1 of 2,,2,31,33,-2,792.0
+10:48.0, ,31-34,C. Kispert makes free throw 2 of 2,,2,31,34,-3,792.0
+10:39.0,T. Young makes 3-pt jump shot from 29 ft,34-34, ,Tie,2,34,34,0,801.0
+10:30.0, ,34-36,C. Kispert makes 2-pt layup from 2 ft (assist by D. Wright),,2,34,36,-2,810.0
+10:30.0, ,34-36,Shooting foul by B. Bogdanović (drawn by C. Kispert),,2,34,36,-2,810.0
+10:30.0, ,34-37,C. Kispert makes free throw 1 of 1,,2,34,37,-3,810.0
+10:19.0,B. Bogdanović misses 3-pt jump shot from 25 ft,34-37, ,,2,34,37,-3,821.0
+10:14.0, ,34-37,Defensive rebound by D. Avdija,,2,34,37,-3,826.0
+10:13.0, ,34-37,Personal foul by J. Johnson (drawn by B. Coulibaly),,2,34,37,-3,827.0
+10:03.0, ,34-37,M. Muscala misses 2-pt hook shot from 5 ft,,2,34,37,-3,837.0
+9:59.0,Defensive rebound by T. Young,34-37, ,,2,34,37,-3,841.0
+9:53.0,J. Johnson makes 2-pt dunk from 3 ft (assist by T. Young),36-37, ,,2,36,37,-1,847.0
+9:53.0, ,36-37,Washington full timeout,,2,36,37,-1,847.0
+9:53.0, ,36-37,L. Shamet enters the game for D. Wright,,2,36,37,-1,847.0
+9:30.0, ,36-39,L. Shamet makes 2-pt jump shot from 9 ft (assist by B. Coulibaly),,2,36,39,-3,870.0
+9:13.0,Turnover by J. Johnson (traveling),36-39, ,,2,36,39,-3,887.0
+9:02.0, ,36-41,M. Muscala makes 2-pt dunk from 1 ft (assist by C. Kispert),,2,36,41,-5,898.0
+8:40.0,J. Johnson makes 2-pt jump shot from 5 ft,38-41, ,,2,38,41,-3,920.0
+8:26.0, ,38-41,L. Shamet misses 2-pt layup from 3 ft,,2,38,41,-3,934.0
+8:24.0, ,38-41,Offensive rebound by B. Coulibaly,,2,38,41,-3,936.0
+8:22.0, ,38-41,D. Avdija misses 3-pt jump shot from 25 ft,,2,38,41,-3,938.0
+8:18.0,Defensive rebound by B. Fernando,38-41, ,,2,38,41,-3,942.0
+8:05.0,J. Johnson makes 2-pt layup from 2 ft (assist by T. Young),40-41, ,,2,40,41,-1,955.0
+7:54.0, ,40-41,C. Kispert misses 3-pt jump shot from 24 ft,,2,40,41,-1,966.0
+7:52.0,Defensive rebound by J. Johnson,40-41, ,,2,40,41,-1,968.0
+7:45.0,B. Bogdanović misses 3-pt jump shot from 24 ft,40-41, ,,2,40,41,-1,975.0
+7:41.0,Offensive rebound by G. Mathews,40-41, ,,2,40,41,-1,979.0
+7:34.0,T. Young misses 2-pt jump shot from 15 ft,40-41, ,,2,40,41,-1,986.0
+7:33.0, ,40-41,Defensive rebound by M. Muscala,,2,40,41,-1,987.0
+7:24.0, ,40-41,Turnover by D. Avdija (lost ball; steal by T. Young),,2,40,41,-1,996.0
+7:19.0,J. Johnson makes 2-pt dunk from 4 ft (assist by T. Young),42-41, ,Lead change,2,42,41,1,1001.0
+6:59.0, ,42-43,D. Avdija makes 2-pt layup from 3 ft (assist by C. Kispert),Lead change,2,42,43,-1,1021.0
+6:59.0,Atlanta full timeout,42-43, ,,2,42,43,-1,1021.0
+6:59.0,S. Bey enters the game for B. Fernando,42-43, ,,2,42,43,-1,1021.0
+6:59.0,C. Capela enters the game for J. Johnson,42-43, ,,2,42,43,-1,1021.0
+6:59.0,P. Mills enters the game for G. Mathews,42-43, ,,2,42,43,-1,1021.0
+6:59.0,D. Murray enters the game for T. Young,42-43, ,,2,42,43,-1,1021.0
+6:59.0, ,42-43,T. Jones enters the game for D. Avdija,,2,42,43,-1,1021.0
+6:59.0, ,42-43,K. Kuzma enters the game for C. Kispert,,2,42,43,-1,1021.0
+6:39.0,B. Bogdanović misses 2-pt layup from 7 ft,42-43, ,,2,42,43,-1,1041.0
+6:38.0,Offensive rebound by C. Capela,42-43, ,,2,42,43,-1,1042.0
+6:38.0,S. Bey makes 2-pt layup from 4 ft (assist by C. Capela),44-43, ,Lead change,2,44,43,1,1042.0
+6:38.0,Shooting foul by M. Muscala (drawn by S. Bey),44-43, ,,2,44,43,1,1042.0
+6:38.0,S. Bey makes free throw 1 of 1,45-43, ,,2,45,43,2,1042.0
+6:21.0, ,45-45,T. Jones makes 2-pt layup from 2 ft (assist by K. Kuzma),Tie,2,45,45,0,1059.0
+6:04.0,B. Bogdanović misses 2-pt jump shot from 5 ft (block by L. Shamet),45-45, ,,2,45,45,0,1076.0
+6:00.0, ,45-45,Defensive rebound by L. Shamet,,2,45,45,0,1080.0
+5:55.0, ,45-45,K. Kuzma misses 3-pt jump shot from 28 ft,,2,45,45,0,1085.0
+5:53.0,Defensive rebound by S. Bey,45-45, ,,2,45,45,0,1087.0
+5:42.0,D. Murray makes 2-pt jump shot from 12 ft,47-45, ,,2,47,45,2,1098.0
+5:30.0, ,47-45,K. Kuzma misses 3-pt jump shot from 23 ft,,2,47,45,2,1110.0
+5:27.0,Defensive rebound by C. Capela,47-45, ,,2,47,45,2,1113.0
+5:22.0,D. Murray makes 2-pt jump shot from 4 ft,49-45, ,,2,49,45,4,1118.0
+5:08.0, ,49-45,B. Coulibaly misses 3-pt jump shot from 25 ft,,2,49,45,4,1132.0
+5:06.0,Defensive rebound by S. Bey,49-45, ,,2,49,45,4,1134.0
+4:53.0,S. Bey makes 2-pt jump shot from 13 ft,51-45, ,,2,51,45,6,1147.0
+4:52.0, ,51-45,Washington full timeout,,2,51,45,6,1148.0
+4:52.0, ,51-45,D. Gafford enters the game for B. Coulibaly,,2,51,45,6,1148.0
+4:52.0, ,51-45,J. Poole enters the game for M. Muscala,,2,51,45,6,1148.0
+4:36.0, ,51-47,J. Poole makes 2-pt layup from 1 ft (assist by L. Shamet),,2,51,47,4,1164.0
+4:36.0, ,51-47,Technical foul by J. Poole,,2,51,47,4,1164.0
+4:36.0,B. Bogdanović makes technical free throw,52-47, ,,2,52,47,5,1164.0
+4:26.0,D. Murray misses 2-pt layup from 9 ft (block by L. Shamet),52-47, ,,2,52,47,5,1174.0
+4:22.0,Offensive rebound by D. Murray,52-47, ,,2,52,47,5,1178.0
+4:21.0,D. Murray makes 2-pt layup from 9 ft,54-47, ,,2,54,47,7,1179.0
+4:13.0, ,54-47,T. Jones misses 3-pt jump shot from 25 ft,,2,54,47,7,1187.0
+4:13.0, ,54-47,Offensive rebound by Team,,2,54,47,7,1187.0
+4:13.0,Loose ball foul by C. Capela (drawn by D. Gafford),54-47, ,,2,54,47,7,1187.0
+4:13.0,J. Johnson enters the game for B. Bogdanović,54-47, ,,2,54,47,7,1187.0
+4:13.0,T. Young enters the game for P. Mills,54-47, ,,2,54,47,7,1187.0
+4:06.0, ,54-47,J. Poole misses 3-pt jump shot from 27 ft,,2,54,47,7,1194.0
+4:03.0, ,54-47,Offensive rebound by K. Kuzma,,2,54,47,7,1197.0
+3:56.0, ,54-49,J. Poole makes 2-pt jump shot from 8 ft,,2,54,49,5,1204.0
+3:38.0,S. Bey misses 3-pt jump shot from 27 ft,54-49, ,,2,54,49,5,1222.0
+3:35.0, ,54-49,Defensive rebound by J. Poole,,2,54,49,5,1225.0
+3:25.0, ,54-52,K. Kuzma makes 3-pt jump shot from 24 ft (assist by T. Jones),,2,54,52,2,1235.0
+3:07.0,D. Murray makes 2-pt jump shot from 10 ft,56-52, ,,2,56,52,4,1253.0
+2:50.0, ,56-52,K. Kuzma misses 2-pt jump shot from 9 ft,,2,56,52,4,1270.0
+2:48.0,Defensive rebound by J. Johnson,56-52, ,,2,56,52,4,1272.0
+2:43.0,C. Capela makes 2-pt dunk from 2 ft (assist by J. Johnson),58-52, ,,2,58,52,6,1277.0
+2:24.0, ,58-52,L. Shamet misses 2-pt jump shot from 13 ft (block by S. Bey),,2,58,52,6,1296.0
+2:21.0,Defensive rebound by J. Johnson,58-52, ,,2,58,52,6,1299.0
+2:17.0,D. Murray makes 3-pt jump shot from 25 ft (assist by T. Young),61-52, ,,2,61,52,9,1303.0
+2:10.0, ,61-54,K. Kuzma makes 2-pt dunk from 3 ft (assist by J. Poole),,2,61,54,7,1310.0
+1:52.0,J. Johnson makes 3-pt jump shot from 26 ft (assist by T. Young),64-54, ,,2,64,54,10,1328.0
+1:41.0, ,64-54,Personal foul by C. Capela (drawn by D. Gafford),,2,64,54,10,1339.0
+1:41.0, ,64-55,D. Gafford makes free throw 1 of 2,,2,64,55,9,1339.0
+1:41.0, ,64-56,D. Gafford makes free throw 2 of 2,,2,64,56,8,1339.0
+1:35.0,Personal foul by J. Poole (drawn by S. Bey),64-56, ,,2,64,56,8,1345.0
+1:29.0,T. Young misses 2-pt jump shot from 18 ft,64-56, ,,2,64,56,8,1351.0
+1:28.0,Offensive rebound by Team,64-56, ,,2,64,56,8,1352.0
+1:28.0, ,64-56,Loose ball foul by K. Kuzma (drawn by T. Young),,2,64,56,8,1352.0
+1:28.0,T. Young makes free throw 1 of 2,65-56, ,,2,65,56,9,1352.0
+1:28.0,T. Young makes free throw 2 of 2,66-56, ,,2,66,56,10,1352.0
+1:12.0, ,66-56,T. Jones misses 3-pt jump shot from 24 ft,,2,66,56,10,1368.0
+1:09.0,Defensive rebound by S. Bey,66-56, ,,2,66,56,10,1371.0
+1:05.0,Turnover by T. Young (bad pass; steal by L. Shamet),66-56, ,,2,66,56,10,1375.0
+1:00.0, ,66-58,L. Shamet makes 2-pt layup from 1 ft (assist by T. Jones),,2,66,58,8,1380.0
+0:46.0,S. Bey misses 3-pt jump shot from 23 ft,66-58, ,,2,66,58,8,1394.0
+0:44.0,Offensive rebound by Team,66-58, ,,2,66,58,8,1396.0
+0:39.0,C. Capela makes 2-pt dunk from 4 ft (assist by T. Young),68-58, ,,2,68,58,10,1401.0
+0:30.0, ,68-58,K. Kuzma misses 3-pt jump shot from 28 ft,,2,68,58,10,1410.0
+0:28.0,Defensive rebound by S. Bey,68-58, ,,2,68,58,10,1412.0
+0:05.0,T. Young makes 2-pt layup from 5 ft,70-58, ,,2,70,58,12,1435.0
+0:00.0, ,70-58,T. Jones misses 2-pt jump shot from 12 ft,,2,70,58,12,1440.0
+0:00.0, ,70-58,Offensive rebound by Team,,2,70,58,12,1440.0
+0:00.0,End of 2nd quarter,70-58,,,2,70,58,12,1440.0
+12:00.0,Start of 3rd quarter,70-58,,,3,70,58,12,1440.0
+11:45.0, ,70-60,K. Kuzma makes 2-pt jump shot from 11 ft (assist by T. Jones),,3,70,60,10,1455.0
+11:28.0,T. Young misses 3-pt jump shot from 27 ft,70-60, ,,3,70,60,10,1472.0
+11:24.0, ,70-60,Defensive rebound by D. Avdija,,3,70,60,10,1476.0
+11:19.0, ,70-62,K. Kuzma makes 2-pt hook shot from 6 ft,,3,70,62,8,1481.0
+11:02.0,J. Johnson makes 2-pt jump shot from 4 ft (assist by T. Young),72-62, ,,3,72,62,10,1498.0
+10:41.0, ,72-62,D. Gafford misses 2-pt jump shot from 9 ft,,3,72,62,10,1519.0
+10:40.0,Defensive rebound by J. Johnson,72-62, ,,3,72,62,10,1520.0
+10:29.0,T. Young makes 2-pt jump shot from 8 ft (assist by J. Johnson),74-62, ,,3,74,62,12,1531.0
+10:16.0, ,74-62,Turnover by T. Jones (bad pass),,3,74,62,12,1544.0
+10:06.0,T. Young misses 2-pt layup from 8 ft (block by J. Poole),74-62, ,,3,74,62,12,1554.0
+10:04.0, ,74-62,Defensive rebound by J. Poole,,3,74,62,12,1556.0
+10:02.0, ,74-65,J. Poole makes 3-pt jump shot from 26 ft,,3,74,65,9,1558.0
+9:43.0,D. Murray misses 2-pt jump shot from 12 ft,74-65, ,,3,74,65,9,1577.0
+9:41.0, ,74-65,Defensive rebound by D. Avdija,,3,74,65,9,1579.0
+9:39.0, ,74-65,Shooting foul by S. Bey (drawn by D. Avdija),,3,74,65,9,1581.0
+9:39.0, ,74-66,D. Avdija makes free throw 1 of 2,,3,74,66,8,1581.0
+9:39.0, ,74-67,D. Avdija makes free throw 2 of 2,,3,74,67,7,1581.0
+9:26.0,Shooting foul by K. Kuzma (drawn by T. Young),74-67, ,,3,74,67,7,1594.0
+9:26.0,T. Young makes free throw 1 of 2,75-67, ,,3,75,67,8,1594.0
+9:26.0,T. Young makes free throw 2 of 2,76-67, ,,3,76,67,9,1594.0
+9:19.0, ,76-67,J. Poole misses 3-pt jump shot from 31 ft,,3,76,67,9,1601.0
+9:17.0,Defensive rebound by J. Johnson,76-67, ,,3,76,67,9,1603.0
+9:10.0,Turnover by C. Capela (traveling),76-67, ,,3,76,67,9,1610.0
+8:59.0, ,76-67,K. Kuzma misses 3-pt jump shot from 24 ft,,3,76,67,9,1621.0
+8:56.0, ,76-67,Offensive rebound by D. Gafford,,3,76,67,9,1624.0
+8:56.0, ,76-67,Personal foul by T. Young (drawn by D. Gafford),,3,76,67,9,1624.0
+8:48.0, ,76-67,Personal foul by S. Bey (drawn by D. Avdija),,3,76,67,9,1632.0
+8:48.0, ,76-68,D. Avdija makes free throw 1 of 2,,3,76,68,8,1632.0
+8:48.0, ,76-68,D. Avdija misses free throw 2 of 2,,3,76,68,8,1632.0
+8:48.0,Defensive rebound by J. Johnson,76-68, ,,3,76,68,8,1632.0
+8:29.0,C. Capela misses 2-pt hook shot from 8 ft (block by D. Gafford),76-68, ,,3,76,68,8,1651.0
+8:24.0,Offensive rebound by C. Capela,76-68, ,,3,76,68,8,1656.0
+8:24.0,C. Capela misses 2-pt layup at rim,76-68, ,,3,76,68,8,1656.0
+8:22.0, ,76-68,Defensive rebound by J. Poole,,3,76,68,8,1658.0
+8:20.0, ,76-70,K. Kuzma makes 2-pt dunk from 2 ft (assist by J. Poole),,3,76,70,6,1660.0
+8:05.0,C. Capela misses 2-pt dunk from 5 ft (block by D. Avdija),76-70, ,,3,76,70,6,1675.0
+8:02.0,Offensive rebound by C. Capela,76-70, ,,3,76,70,6,1678.0
+8:01.0,C. Capela makes 2-pt dunk from 2 ft,78-70, ,,3,78,70,8,1679.0
+7:54.0, ,78-72,T. Jones makes 2-pt jump shot from 5 ft (assist by D. Avdija),,3,78,72,6,1686.0
+7:44.0,Offensive foul by C. Capela (drawn by D. Avdija),78-72, ,,3,78,72,6,1696.0
+7:44.0,Turnover by C. Capela (offensive foul),78-72, ,,3,78,72,6,1696.0
+7:26.0, ,78-72,T. Jones misses 2-pt jump shot from 7 ft,,3,78,72,6,1714.0
+7:24.0,Defensive rebound by C. Capela,78-72, ,,3,78,72,6,1716.0
+7:20.0,S. Bey makes 3-pt jump shot from 25 ft (assist by D. Murray),81-72, ,,3,81,72,9,1720.0
+7:00.0, ,81-74,K. Kuzma makes 2-pt jump shot from 17 ft,,3,81,74,7,1740.0
+6:48.0,Shooting foul by J. Poole (drawn by T. Young),81-74, ,,3,81,74,7,1752.0
+6:48.0, ,81-74,Washington full timeout,,3,81,74,7,1752.0
+6:48.0, ,81-74,B. Coulibaly enters the game for D. Avdija,,3,81,74,7,1752.0
+6:48.0,T. Young misses free throw 1 of 3,81-74, ,,3,81,74,7,1752.0
+6:48.0,Offensive rebound by Team,81-74, ,,3,81,74,7,1752.0
+6:48.0,T. Young makes free throw 2 of 3,82-74, ,,3,82,74,8,1752.0
+6:48.0,T. Young makes free throw 3 of 3,83-74, ,,3,83,74,9,1752.0
+6:31.0, ,83-74,J. Poole misses 2-pt layup from 7 ft (block by C. Capela),,3,83,74,9,1769.0
+6:28.0,Defensive rebound by D. Murray,83-74, ,,3,83,74,9,1772.0
+6:21.0,Turnover by T. Young (bad pass; steal by D. Gafford),83-74, ,,3,83,74,9,1779.0
+6:16.0, ,83-76,J. Poole makes 2-pt dunk from 2 ft (assist by T. Jones),,3,83,76,7,1784.0
+5:54.0,S. Bey misses 2-pt layup from 3 ft,83-76, ,,3,83,76,7,1806.0
+5:51.0,Offensive rebound by C. Capela,83-76, ,,3,83,76,7,1809.0
+5:51.0,C. Capela misses 2-pt layup at rim,83-76, ,,3,83,76,7,1809.0
+5:51.0, ,83-76,Defensive rebound by K. Kuzma,,3,83,76,7,1809.0
+5:43.0, ,83-76,J. Poole misses 3-pt jump shot from 30 ft,,3,83,76,7,1817.0
+5:41.0,Defensive rebound by C. Capela,83-76, ,,3,83,76,7,1819.0
+5:33.0,D. Murray misses 2-pt layup from 4 ft (block by D. Gafford),83-76, ,,3,83,76,7,1827.0
+5:28.0, ,83-76,Defensive rebound by K. Kuzma,,3,83,76,7,1832.0
+5:23.0, ,83-79,K. Kuzma makes 3-pt jump shot from 26 ft,,3,83,79,4,1837.0
+5:23.0,Atlanta full timeout,83-79, ,,3,83,79,4,1837.0
+5:23.0,B. Bogdanović enters the game for J. Johnson,83-79, ,,3,83,79,4,1837.0
+5:23.0,P. Mills enters the game for T. Young,83-79, ,,3,83,79,4,1837.0
+5:07.0,B. Bogdanović misses 2-pt jump shot from 15 ft,83-79, ,,3,83,79,4,1853.0
+5:04.0, ,83-79,Defensive rebound by K. Kuzma,,3,83,79,4,1856.0
+4:52.0, ,83-81,J. Poole makes 2-pt jump shot from 3 ft (assist by K. Kuzma),,3,83,81,2,1868.0
+4:39.0,S. Bey makes 3-pt jump shot from 25 ft (assist by C. Capela),86-81, ,,3,86,81,5,1881.0
+4:23.0, ,86-81,K. Kuzma misses 2-pt jump shot from 16 ft,,3,86,81,5,1897.0
+4:21.0,Defensive rebound by C. Capela,86-81, ,,3,86,81,5,1899.0
+4:06.0,D. Murray misses 3-pt jump shot from 28 ft,86-81, ,,3,86,81,5,1914.0
+4:03.0, ,86-81,Defensive rebound by K. Kuzma,,3,86,81,5,1917.0
+3:46.0, ,86-81,K. Kuzma misses 3-pt jump shot from 28 ft,,3,86,81,5,1934.0
+3:39.0,Defensive rebound by D. Murray,86-81, ,,3,86,81,5,1941.0
+3:35.0,D. Murray makes 2-pt layup from 6 ft (assist by B. Bogdanović),88-81, ,,3,88,81,7,1945.0
+3:35.0,Shooting foul by K. Kuzma (drawn by D. Murray),88-81, ,,3,88,81,7,1945.0
+3:35.0,B. Fernando enters the game for C. Capela,88-81, ,,3,88,81,7,1945.0
+3:35.0, ,88-81,M. Muscala enters the game for D. Gafford,,3,88,81,7,1945.0
+3:35.0, ,88-81,D. Wright enters the game for T. Jones,,3,88,81,7,1945.0
+3:35.0,D. Murray makes free throw 1 of 1,89-81, ,,3,89,81,8,1945.0
+3:23.0, ,89-84,M. Muscala makes 3-pt jump shot from 24 ft (assist by J. Poole),,3,89,84,5,1957.0
+3:08.0,B. Bogdanović misses 3-pt jump shot from 29 ft,89-84, ,,3,89,84,5,1972.0
+3:05.0,Offensive rebound by S. Bey,89-84, ,,3,89,84,5,1975.0
+2:57.0,B. Bogdanović makes 2-pt layup from 2 ft,91-84, ,,3,91,84,7,1983.0
+2:45.0, ,91-84,J. Poole misses 3-pt jump shot from 27 ft,,3,91,84,7,1995.0
+2:41.0,Defensive rebound by S. Bey,91-84, ,,3,91,84,7,1999.0
+2:33.0,D. Murray makes 2-pt jump shot from 8 ft,93-84, ,,3,93,84,9,2007.0
+2:20.0, ,93-84,B. Coulibaly misses 2-pt jump shot from 10 ft,,3,93,84,9,2020.0
+2:17.0,Defensive rebound by B. Fernando,93-84, ,,3,93,84,9,2023.0
+2:01.0,D. Murray makes 2-pt jump shot from 18 ft,95-84, ,,3,95,84,11,2039.0
+1:58.0, ,95-84,Washington full timeout,,3,95,84,11,2042.0
+1:58.0,J. Johnson enters the game for S. Bey,95-84, ,,3,95,84,11,2042.0
+1:58.0,T. Young enters the game for P. Mills,95-84, ,,3,95,84,11,2042.0
+1:58.0, ,95-84,D. Avdija enters the game for K. Kuzma,,3,95,84,11,2042.0
+1:58.0, ,95-84,C. Kispert enters the game for J. Poole,,3,95,84,11,2042.0
+1:50.0, ,95-84,Turnover by D. Avdija (out of bounds lost ball),,3,95,84,11,2050.0
+1:32.0,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Young),98-84, ,,3,98,84,14,2068.0
+1:21.0, ,98-84,M. Muscala misses 3-pt jump shot from 26 ft,,3,98,84,14,2079.0
+1:15.0,Defensive rebound by D. Murray,98-84, ,,3,98,84,14,2085.0
+0:59.0,B. Fernando misses 2-pt layup from 5 ft,98-84, ,,3,98,84,14,2101.0
+0:57.0, ,98-84,Defensive rebound by B. Coulibaly,,3,98,84,14,2103.0
+0:54.0, ,98-87,D. Wright makes 3-pt jump shot from 25 ft (assist by B. Coulibaly),,3,98,87,11,2106.0
+0:35.0,D. Murray misses 3-pt jump shot from 24 ft,98-87, ,,3,98,87,11,2125.0
+0:31.0, ,98-87,Defensive rebound by B. Coulibaly,,3,98,87,11,2129.0
+0:11.0, ,98-87,Offensive foul by D. Wright (drawn by T. Young),,3,98,87,11,2149.0
+0:11.0, ,98-87,Turnover by D. Wright (offensive foul),,3,98,87,11,2149.0
+0:04.0,Personal take foul by D. Wright (drawn by T. Young),98-87, ,,3,98,87,11,2156.0
+0:00.0,B. Bogdanović makes 2-pt jump shot from 11 ft (assist by T. Young),100-87, ,,3,100,87,13,2160.0
+0:00.0,End of 3rd quarter,100-87,,,3,100,87,13,2160.0
+12:00.0,Start of 4th quarter,100-87,,,4,100,87,13,2160.0
+11:46.0,B. Bogdanović misses 2-pt jump shot from 6 ft,100-87, ,,4,100,87,13,2174.0
+11:43.0, ,100-87,Defensive rebound by D. Avdija,,4,100,87,13,2177.0
+11:24.0, ,100-89,C. Kispert makes 2-pt layup from 7 ft,,4,100,89,11,2196.0
+11:09.0,T. Young makes 2-pt jump shot from 10 ft (assist by B. Fernando),102-89, ,,4,102,89,13,2211.0
+11:00.0, ,102-89,M. Muscala misses 3-pt jump shot from 28 ft,,4,102,89,13,2220.0
+10:55.0,Defensive rebound by J. Johnson,102-89, ,,4,102,89,13,2225.0
+10:41.0,B. Fernando misses 2-pt hook shot from 9 ft,102-89, ,,4,102,89,13,2239.0
+10:39.0, ,102-89,Defensive rebound by D. Avdija,,4,102,89,13,2241.0
+10:33.0, ,102-89,D. Avdija misses 3-pt jump shot from 26 ft,,4,102,89,13,2247.0
+10:29.0,Defensive rebound by T. Young,102-89, ,,4,102,89,13,2251.0
+10:19.0,J. Johnson misses 3-pt jump shot from 28 ft,102-89, ,,4,102,89,13,2261.0
+10:19.0, ,102-89,Defensive rebound by Team,,4,102,89,13,2261.0
+10:19.0,Loose ball foul by B. Fernando (drawn by D. Avdija),102-89, ,,4,102,89,13,2261.0
+10:19.0,Instant Replay (Request: Stands),102-89, ,,4,102,89,13,2261.0
+10:08.0, ,102-91,C. Kispert makes 2-pt layup from 3 ft (assist by M. Muscala),,4,102,91,11,2272.0
+9:53.0,Offensive foul by B. Fernando (drawn by L. Shamet),102-91, ,,4,102,91,11,2287.0
+9:53.0,Turnover by B. Fernando (offensive foul),102-91, ,,4,102,91,11,2287.0
+9:42.0, ,102-91,C. Kispert misses 2-pt jump shot from 7 ft,,4,102,91,11,2298.0
+9:39.0,Defensive rebound by B. Fernando,102-91, ,,4,102,91,11,2301.0
+9:39.0,Turnover by T. Young (out of bounds lost ball),102-91, ,,4,102,91,11,2301.0
+9:37.0, ,102-91,D. Avdija misses 3-pt jump shot from 22 ft,,4,102,91,11,2303.0
+9:34.0, ,102-91,Offensive rebound by D. Avdija,,4,102,91,11,2306.0
+9:32.0, ,102-93,D. Avdija makes 2-pt dunk from 2 ft,,4,102,93,9,2308.0
+9:18.0,Def 3 sec tech foul by Team,102-93, ,,4,102,93,9,2322.0
+9:18.0,T. Young makes technical free throw,103-93, ,,4,103,93,10,2322.0
+9:08.0,B. Bogdanović misses 2-pt jump shot from 7 ft,103-93, ,,4,103,93,10,2332.0
+9:06.0, ,103-93,Defensive rebound by D. Avdija,,4,103,93,10,2334.0
+8:58.0, ,103-93,Shooting foul by B. Fernando (drawn by C. Kispert),,4,103,93,10,2342.0
+8:58.0, ,103-94,C. Kispert makes free throw 1 of 2,,4,103,94,9,2342.0
+8:58.0,C. Capela enters the game for B. Fernando,103-94, ,,4,103,94,9,2342.0
+8:58.0, ,103-94,C. Kispert misses free throw 2 of 2,,4,103,94,9,2342.0
+8:56.0,Defensive rebound by J. Johnson,103-94, ,,4,103,94,9,2344.0
+8:38.0,J. Johnson makes 3-pt jump shot from 27 ft (assist by T. Young),106-94, ,,4,106,94,12,2362.0
+8:19.0, ,106-94,L. Shamet misses 3-pt jump shot from 27 ft,,4,106,94,12,2381.0
+8:16.0,Defensive rebound by T. Young,106-94, ,,4,106,94,12,2384.0
+8:05.0,B. Bogdanović misses 3-pt jump shot from 25 ft,106-94, ,,4,106,94,12,2395.0
+8:02.0, ,106-94,Defensive rebound by M. Muscala,,4,106,94,12,2398.0
+7:49.0, ,106-96,M. Muscala makes 2-pt hook shot from 2 ft (assist by C. Kispert),,4,106,96,10,2411.0
+7:33.0,T. Young misses 3-pt jump shot from 28 ft,106-96, ,,4,106,96,10,2427.0
+7:30.0, ,106-96,Defensive rebound by M. Muscala,,4,106,96,10,2430.0
+7:26.0, ,106-96,C. Kispert misses 3-pt jump shot from 26 ft,,4,106,96,10,2434.0
+7:26.0,Defensive rebound by G. Mathews,106-96, ,,4,106,96,10,2434.0
+7:15.0,B. Bogdanović makes 2-pt jump shot from 15 ft,108-96, ,,4,108,96,12,2445.0
+6:52.0, ,108-99,M. Muscala makes 3-pt jump shot from 26 ft (assist by D. Wright),,4,108,99,9,2468.0
+6:32.0,Shooting foul by L. Shamet (drawn by T. Young),108-99, ,,4,108,99,9,2488.0
+6:32.0, ,108-99,Washington full timeout,,4,108,99,9,2488.0
+6:32.0, ,108-99,Instant Replay (Challenge: Ruling Stands),,4,108,99,9,2488.0
+6:32.0,S. Bey enters the game for J. Johnson,108-99, ,,4,108,99,9,2488.0
+6:32.0,D. Murray enters the game for G. Mathews,108-99, ,,4,108,99,9,2488.0
+6:32.0, ,108-99,D. Gafford enters the game for D. Avdija,,4,108,99,9,2488.0
+6:32.0, ,108-99,K. Kuzma enters the game for M. Muscala,,4,108,99,9,2488.0
+6:32.0,T. Young misses free throw 1 of 3,108-99, ,,4,108,99,9,2488.0
+6:32.0,Offensive rebound by Team,108-99, ,,4,108,99,9,2488.0
+6:32.0,T. Young makes free throw 2 of 3,109-99, ,,4,109,99,10,2488.0
+6:32.0,T. Young makes free throw 3 of 3,110-99, ,,4,110,99,11,2488.0
+6:18.0, ,110-99,L. Shamet misses 3-pt jump shot from 26 ft,,4,110,99,11,2502.0
+6:12.0, ,110-99,Offensive rebound by K. Kuzma,,4,110,99,11,2508.0
+6:11.0, ,110-99,K. Kuzma misses 2-pt layup from 1 ft,,4,110,99,11,2509.0
+6:10.0,Defensive rebound by C. Capela,110-99, ,,4,110,99,11,2510.0
+6:02.0,B. Bogdanović misses 3-pt jump shot from 26 ft,110-99, ,,4,110,99,11,2518.0
+5:58.0, ,110-99,Defensive rebound by D. Gafford,,4,110,99,11,2522.0
+5:48.0, ,110-102,K. Kuzma makes 3-pt jump shot from 25 ft (assist by C. Kispert),,4,110,102,8,2532.0
+5:32.0,D. Murray makes 2-pt jump shot from 18 ft,112-102, ,,4,112,102,10,2548.0
+5:21.0, ,112-102,Turnover by K. Kuzma (bad pass; steal by T. Young),,4,112,102,10,2559.0
+5:12.0,S. Bey misses 3-pt jump shot from 23 ft,112-102, ,,4,112,102,10,2568.0
+5:10.0, ,112-102,Defensive rebound by L. Shamet,,4,112,102,10,2570.0
+5:06.0, ,112-105,C. Kispert makes 3-pt jump shot from 27 ft (assist by L. Shamet),,4,112,105,7,2574.0
+4:43.0,T. Young makes 2-pt jump shot from 9 ft,114-105, ,,4,114,105,9,2597.0
+4:28.0, ,114-105,K. Kuzma misses 3-pt jump shot from 27 ft,,4,114,105,9,2612.0
+4:24.0,Defensive rebound by C. Capela,114-105, ,,4,114,105,9,2616.0
+4:08.0,T. Young makes 2-pt jump shot from 19 ft (assist by D. Murray),116-105, ,,4,116,105,11,2632.0
+3:45.0, ,116-105,K. Kuzma misses 3-pt jump shot from 26 ft,,4,116,105,11,2655.0
+3:42.0,Defensive rebound by C. Capela,116-105, ,,4,116,105,11,2658.0
+3:22.0,Atlanta full timeout,116-105, ,,4,116,105,11,2678.0
+3:22.0,J. Johnson enters the game for B. Bogdanović,116-105, ,,4,116,105,11,2678.0
+3:22.0, ,116-105,D. Avdija enters the game for C. Kispert,,4,116,105,11,2678.0
+3:22.0, ,116-105,T. Jones enters the game for L. Shamet,,4,116,105,11,2678.0
+3:22.0, ,116-105,J. Poole enters the game for D. Wright,,4,116,105,11,2678.0
+3:20.0,D. Murray makes 3-pt jump shot from 28 ft (assist by J. Johnson),119-105, ,,4,119,105,14,2680.0
+3:05.0, ,119-105,Turnover by K. Kuzma (bad pass; steal by C. Capela),,4,119,105,14,2695.0
+2:48.0,Shooting foul by D. Avdija (drawn by C. Capela),119-105, ,,4,119,105,14,2712.0
+2:48.0,C. Capela misses free throw 1 of 2,119-105, ,,4,119,105,14,2712.0
+2:48.0,Offensive rebound by Team,119-105, ,,4,119,105,14,2712.0
+2:48.0,C. Capela makes free throw 2 of 2,120-105, ,,4,120,105,15,2712.0
+2:41.0, ,120-108,T. Jones makes 3-pt jump shot from 26 ft,,4,120,108,12,2719.0
+2:20.0,T. Young misses 3-pt jump shot from 30 ft,120-108, ,,4,120,108,12,2740.0
+2:18.0,Offensive rebound by C. Capela,120-108, ,,4,120,108,12,2742.0
+2:16.0,T. Young makes 3-pt jump shot from 27 ft (assist by C. Capela),123-108, ,,4,123,108,15,2744.0
+2:15.0, ,123-108,Washington full timeout,,4,123,108,15,2745.0
+2:05.0, ,123-111,T. Jones makes 3-pt jump shot from 27 ft,,4,123,111,12,2755.0
+2:05.0, ,123-111,Shooting foul by T. Young (drawn by T. Jones),,4,123,111,12,2755.0
+2:05.0, ,123-112,T. Jones makes free throw 1 of 1,,4,123,112,11,2755.0
+1:44.0,Shooting foul by J. Poole (drawn by S. Bey),123-112, ,,4,123,112,11,2776.0
+1:44.0,S. Bey misses free throw 1 of 2,123-112, ,,4,123,112,11,2776.0
+1:44.0,Offensive rebound by Team,123-112, ,,4,123,112,11,2776.0
+1:44.0,S. Bey misses free throw 2 of 2,123-112, ,,4,123,112,11,2776.0
+1:42.0, ,123-112,Defensive rebound by D. Avdija,,4,123,112,11,2778.0
+1:31.0, ,123-112,Shooting foul by C. Capela (drawn by D. Gafford),,4,123,112,11,2789.0
+1:31.0, ,123-113,D. Gafford makes free throw 1 of 2,,4,123,113,10,2789.0
+1:31.0, ,123-114,D. Gafford makes free throw 2 of 2,,4,123,114,9,2789.0
+1:31.0,Personal foul by D. Avdija (drawn by T. Young),123-114, ,,4,123,114,9,2789.0
+1:31.0,T. Young misses free throw 1 of 2,123-114, ,,4,123,114,9,2789.0
+1:31.0,Offensive rebound by Team,123-114, ,,4,123,114,9,2789.0
+1:31.0,T. Young makes free throw 2 of 2,124-114, ,,4,124,114,10,2789.0
+1:21.0, ,124-117,D. Avdija makes 3-pt jump shot from 24 ft (assist by K. Kuzma),,4,124,117,7,2799.0
+1:14.0,Personal foul by D. Avdija (drawn by T. Young),124-117, ,,4,124,117,7,2806.0
+1:14.0,T. Young misses free throw 1 of 2,124-117, ,,4,124,117,7,2806.0
+1:14.0,Offensive rebound by Team,124-117, ,,4,124,117,7,2806.0
+1:14.0, ,124-117,Violation by Team (delay of game),,4,124,117,7,2806.0
+1:14.0,T. Young makes free throw 2 of 2,125-117, ,,4,125,117,8,2806.0
+1:09.0, ,125-117,Shooting foul by S. Bey (drawn by D. Avdija),,4,125,117,8,2811.0
+1:09.0, ,125-118,D. Avdija makes free throw 1 of 2,,4,125,118,7,2811.0
+1:09.0, ,125-118,D. Avdija misses free throw 2 of 2,,4,125,118,7,2811.0
+1:06.0,Defensive rebound by C. Capela,125-118, ,,4,125,118,7,2814.0
+0:49.0,Turnover by C. Capela (out of bounds lost ball),125-118, ,,4,125,118,7,2831.0
+0:42.0, ,125-118,K. Kuzma misses 3-pt jump shot from 23 ft,,4,125,118,7,2838.0
+0:41.0, ,125-118,Offensive rebound by D. Gafford,,4,125,118,7,2839.0
+0:41.0, ,125-120,D. Gafford makes 2-pt dunk at rim,,4,125,120,5,2839.0
+0:41.0,Atlanta full timeout,125-120, ,,4,125,120,5,2839.0
+0:41.0,B. Bogdanović enters the game for C. Capela,125-120, ,,4,125,120,5,2839.0
+0:41.0, ,125-120,B. Coulibaly enters the game for D. Gafford,,4,125,120,5,2839.0
+0:33.0,Personal foul by B. Coulibaly (drawn by D. Murray),125-120, ,,4,125,120,5,2847.0
+0:33.0,D. Murray misses free throw 1 of 2,125-120, ,,4,125,120,5,2847.0
+0:33.0,Offensive rebound by Team,125-120, ,,4,125,120,5,2847.0
+0:33.0,C. Capela enters the game for B. Bogdanović,125-120, ,,4,125,120,5,2847.0
+0:33.0, ,125-120,D. Gafford enters the game for B. Coulibaly,,4,125,120,5,2847.0
+0:33.0,D. Murray makes free throw 2 of 2,126-120, ,,4,126,120,6,2847.0
+0:24.0, ,126-122,D. Gafford makes 2-pt layup from 3 ft (assist by K. Kuzma),,4,126,122,4,2856.0
+0:22.0,Personal foul by D. Avdija (drawn by T. Young),126-122, ,,4,126,122,4,2858.0
+0:22.0,T. Young makes free throw 1 of 2,127-122, ,,4,127,122,5,2858.0
+0:22.0,T. Young makes free throw 2 of 2,128-122, ,,4,128,122,6,2858.0
+0:15.0, ,128-124,K. Kuzma makes 2-pt layup from 3 ft (assist by T. Jones),,4,128,124,4,2865.0
+0:14.0,Personal foul by T. Jones (drawn by J. Johnson),128-124, ,,4,128,124,4,2866.0
+0:14.0,J. Johnson makes free throw 1 of 2,129-124, ,,4,129,124,5,2866.0
+0:14.0,J. Johnson misses free throw 2 of 2,129-124, ,,4,129,124,5,2866.0
+0:13.0, ,129-124,Defensive rebound by K. Kuzma,,4,129,124,5,2867.0
+0:08.0, ,129-126,K. Kuzma makes 2-pt dunk from 3 ft,,4,129,126,3,2872.0
+0:06.0,Personal foul by D. Avdija (drawn by D. Murray),129-126, ,,4,129,126,3,2874.0
+0:06.0,D. Murray makes free throw 1 of 2,130-126, ,,4,130,126,4,2874.0
+0:06.0,D. Murray misses free throw 2 of 2,130-126, ,,4,130,126,4,2874.0
+0:03.0, ,130-126,Defensive rebound by D. Gafford,,4,130,126,4,2877.0
+0:00.0, ,130-126,D. Avdija misses 3-pt jump shot from 44 ft,,4,130,126,4,2880.0
+0:00.0, ,130-126,Offensive rebound by Team,,4,130,126,4,2880.0
+0:00.0,End of 4th quarter,130-126,,,4,130,126,4,2880.0

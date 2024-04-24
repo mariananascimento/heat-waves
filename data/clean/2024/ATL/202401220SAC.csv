@@ -1,0 +1,490 @@
+Time,Atlanta,Score,Sacramento,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: C. Capela vs. D. Sabonis (S. Bey gains possession),0-0,,,1,0,0,0,0.0
+11:41.0,Turnover by C. Capela (bad pass; steal by K. Murray),0-0, ,,1,0,0,0,19.0
+11:38.0, ,0-0,K. Murray misses 2-pt layup from 3 ft (block by C. Capela),,1,0,0,0,22.0
+11:36.0,Defensive rebound by D. Murray,0-0, ,,1,0,0,0,24.0
+11:29.0,D. Murray misses 2-pt layup from 1 ft,0-0, ,,1,0,0,0,31.0
+11:29.0,Offensive rebound by C. Capela,0-0, ,,1,0,0,0,31.0
+11:25.0,C. Capela makes 2-pt layup from 2 ft,2-0, ,,1,2,0,2,35.0
+11:15.0, ,2-2,K. Murray makes 2-pt jump shot from 11 ft (assist by D. Sabonis),Tie,1,2,2,0,45.0
+10:58.0,J. Johnson misses 2-pt jump shot from 7 ft,2-2, ,,1,2,2,0,62.0
+10:57.0,Offensive rebound by C. Capela,2-2, ,,1,2,2,0,63.0
+10:57.0,C. Capela misses 2-pt layup at rim,2-2, ,,1,2,2,0,63.0
+10:56.0, ,2-2,Defensive rebound by D. Sabonis,,1,2,2,0,64.0
+10:42.0, ,2-5,H. Barnes makes 3-pt jump shot from 26 ft (assist by K. Murray),Lead change,1,2,5,-3,78.0
+10:29.0,S. Bey misses 3-pt jump shot from 25 ft,2-5, ,,1,2,5,-3,91.0
+10:26.0, ,2-5,Defensive rebound by K. Murray,,1,2,5,-3,94.0
+10:19.0, ,2-5,D. Sabonis misses 3-pt jump shot from 25 ft,,1,2,5,-3,101.0
+10:14.0,Defensive rebound by J. Johnson,2-5, ,,1,2,5,-3,106.0
+9:56.0,Shooting foul by D. Sabonis (drawn by B. Bogdanović),2-5, ,,1,2,5,-3,124.0
+9:56.0,B. Bogdanović makes free throw 1 of 2,3-5, ,,1,3,5,-2,124.0
+9:56.0,B. Bogdanović makes free throw 2 of 2,4-5, ,,1,4,5,-1,124.0
+9:42.0, ,4-5,K. Murray misses 3-pt jump shot from 25 ft,,1,4,5,-1,138.0
+9:40.0,Defensive rebound by J. Johnson,4-5, ,,1,4,5,-1,140.0
+9:33.0,S. Bey makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),7-5, ,Lead change,1,7,5,2,147.0
+9:22.0, ,7-7,H. Barnes makes 2-pt jump shot from 9 ft,Tie,1,7,7,0,158.0
+9:10.0,C. Capela misses 2-pt layup from 4 ft,7-7, ,,1,7,7,0,170.0
+9:09.0,Offensive rebound by C. Capela,7-7, ,,1,7,7,0,171.0
+9:09.0,C. Capela misses 2-pt layup at rim,7-7, ,,1,7,7,0,171.0
+9:07.0, ,7-7,Defensive rebound by D. Sabonis,,1,7,7,0,173.0
+8:52.0, ,7-7,H. Barnes misses 2-pt layup from 2 ft,,1,7,7,0,188.0
+8:49.0,Defensive rebound by S. Bey,7-7, ,,1,7,7,0,191.0
+8:39.0,D. Murray misses 3-pt jump shot from 26 ft,7-7, ,,1,7,7,0,201.0
+8:36.0, ,7-7,Defensive rebound by D. Sabonis,,1,7,7,0,204.0
+8:30.0, ,7-10,K. Huerter makes 3-pt jump shot from 25 ft (assist by D. Sabonis),Lead change,1,7,10,-3,210.0
+8:14.0,C. Capela misses 2-pt layup from 3 ft,7-10, ,,1,7,10,-3,226.0
+8:12.0, ,7-10,Defensive rebound by D. Sabonis,,1,7,10,-3,228.0
+7:59.0, ,7-10,D. Fox misses 3-pt jump shot from 25 ft,,1,7,10,-3,241.0
+7:55.0,Defensive rebound by S. Bey,7-10, ,,1,7,10,-3,245.0
+7:47.0,Shooting foul by D. Fox (drawn by C. Capela),7-10, ,,1,7,10,-3,253.0
+7:47.0,C. Capela makes free throw 1 of 2,8-10, ,,1,8,10,-2,253.0
+7:47.0,C. Capela misses free throw 2 of 2,8-10, ,,1,8,10,-2,253.0
+7:46.0, ,8-10,Defensive rebound by D. Sabonis,,1,8,10,-2,254.0
+7:31.0, ,8-13,H. Barnes makes 3-pt jump shot from 25 ft (assist by K. Huerter),,1,8,13,-5,269.0
+7:15.0,S. Bey misses 3-pt jump shot from 25 ft,8-13, ,,1,8,13,-5,285.0
+7:12.0, ,8-13,Defensive rebound by K. Huerter,,1,8,13,-5,288.0
+7:08.0, ,8-15,K. Huerter makes 2-pt layup from 3 ft,,1,8,15,-7,292.0
+7:07.0,Atlanta full timeout,8-15, ,,1,8,15,-7,293.0
+7:07.0,G. Mathews enters the game for B. Bogdanović,8-15, ,,1,8,15,-7,293.0
+7:07.0,P. Mills enters the game for J. Johnson,8-15, ,,1,8,15,-7,293.0
+6:48.0,D. Murray makes 2-pt layup from 2 ft,10-15, ,,1,10,15,-5,312.0
+6:41.0, ,10-15,Shooting foul by G. Mathews (drawn by H. Barnes),,1,10,15,-5,319.0
+6:41.0, ,10-16,H. Barnes makes free throw 1 of 2,,1,10,16,-6,319.0
+6:41.0, ,10-17,H. Barnes makes free throw 2 of 2,,1,10,17,-7,319.0
+6:26.0,D. Murray makes 3-pt jump shot from 25 ft (assist by C. Capela),13-17, ,,1,13,17,-4,334.0
+6:11.0, ,13-17,H. Barnes misses 2-pt layup from 3 ft,,1,13,17,-4,349.0
+6:08.0,Defensive rebound by C. Capela,13-17, ,,1,13,17,-4,352.0
+6:04.0,D. Murray makes 2-pt jump shot from 15 ft,15-17, ,,1,15,17,-2,356.0
+5:44.0, ,15-19,H. Barnes makes 2-pt jump shot from 13 ft,,1,15,19,-4,376.0
+5:28.0,D. Murray misses 2-pt jump shot from 14 ft,15-19, ,,1,15,19,-4,392.0
+5:26.0,Offensive rebound by C. Capela,15-19, ,,1,15,19,-4,394.0
+5:26.0,C. Capela misses 2-pt layup at rim,15-19, ,,1,15,19,-4,394.0
+5:25.0, ,15-19,Defensive rebound by D. Sabonis,,1,15,19,-4,395.0
+5:16.0, ,15-19,Turnover by D. Sabonis (bad pass; steal by P. Mills),,1,15,19,-4,404.0
+5:13.0,Shooting foul by K. Murray (drawn by S. Bey),15-19, ,,1,15,19,-4,407.0
+5:13.0,S. Bey misses free throw 1 of 2,15-19, ,,1,15,19,-4,407.0
+5:13.0,Offensive rebound by Team,15-19, ,,1,15,19,-4,407.0
+5:13.0,O. Okongwu enters the game for C. Capela,15-19, ,,1,15,19,-4,407.0
+5:13.0, ,15-19,D. Mitchell enters the game for D. Fox,,1,15,19,-4,407.0
+5:13.0, ,15-19,M. Monk enters the game for K. Murray,,1,15,19,-4,407.0
+5:13.0,S. Bey makes free throw 2 of 2,16-19, ,,1,16,19,-3,407.0
+4:55.0, ,16-19,D. Sabonis misses 2-pt layup from 2 ft,,1,16,19,-3,425.0
+4:51.0,Defensive rebound by D. Murray,16-19, ,,1,16,19,-3,429.0
+4:33.0,P. Mills misses 3-pt jump shot from 24 ft,16-19, ,,1,16,19,-3,447.0
+4:33.0, ,16-19,Defensive rebound by Team,,1,16,19,-3,447.0
+4:33.0,Loose ball foul by O. Okongwu (drawn by H. Barnes),16-19, ,,1,16,19,-3,447.0
+4:33.0,J. Johnson enters the game for S. Bey,16-19, ,,1,16,19,-3,447.0
+4:33.0, ,16-19,T. Lyles enters the game for H. Barnes,,1,16,19,-3,447.0
+4:18.0, ,16-19,T. Lyles misses 3-pt jump shot from 26 ft,,1,16,19,-3,462.0
+4:14.0, ,16-19,Offensive rebound by D. Mitchell,,1,16,19,-3,466.0
+4:06.0, ,16-21,D. Sabonis makes 2-pt layup from 3 ft,,1,16,21,-5,474.0
+3:56.0,Personal foul by M. Monk (drawn by P. Mills),16-21, ,,1,16,21,-5,484.0
+3:42.0,J. Johnson misses 2-pt jump shot from 18 ft,16-21, ,,1,16,21,-5,498.0
+3:39.0,Offensive rebound by O. Okongwu,16-21, ,,1,16,21,-5,501.0
+3:37.0,O. Okongwu makes 2-pt layup from 3 ft,18-21, ,,1,18,21,-3,503.0
+3:27.0, ,18-21,Turnover by D. Sabonis (out of bounds lost ball),,1,18,21,-3,513.0
+3:15.0,J. Johnson misses 3-pt jump shot from 26 ft,18-21, ,,1,18,21,-3,525.0
+3:10.0, ,18-21,Defensive rebound by T. Lyles,,1,18,21,-3,530.0
+3:10.0, ,18-21,Turnover by T. Lyles (bad pass),,1,18,21,-3,530.0
+2:58.0,P. Mills misses 3-pt jump shot from 25 ft,18-21, ,,1,18,21,-3,542.0
+2:56.0, ,18-21,Defensive rebound by Team,,1,18,21,-3,544.0
+2:56.0, ,18-21,Sacramento full timeout,,1,18,21,-3,544.0
+2:56.0,B. Bogdanović enters the game for P. Mills,18-21, ,,1,18,21,-3,544.0
+2:56.0,T. Forrest enters the game for D. Murray,18-21, ,,1,18,21,-3,544.0
+2:43.0, ,18-21,T. Lyles misses 2-pt layup from 4 ft (block by J. Johnson),,1,18,21,-3,557.0
+2:42.0,Defensive rebound by O. Okongwu,18-21, ,,1,18,21,-3,558.0
+2:33.0,O. Okongwu misses 2-pt layup from 3 ft,18-21, ,,1,18,21,-3,567.0
+2:30.0, ,18-21,Defensive rebound by D. Sabonis,,1,18,21,-3,570.0
+2:26.0, ,18-21,Personal foul by T. Forrest (drawn by D. Sabonis),,1,18,21,-3,574.0
+2:14.0, ,18-23,M. Monk makes 2-pt jump shot from 4 ft,,1,18,23,-5,586.0
+1:55.0,J. Johnson misses 3-pt jump shot from 23 ft,18-23, ,,1,18,23,-5,605.0
+1:51.0, ,18-23,Defensive rebound by M. Monk,,1,18,23,-5,609.0
+1:46.0, ,18-23,Turnover by M. Monk (bad pass; steal by J. Johnson),,1,18,23,-5,614.0
+1:42.0,J. Johnson makes 2-pt jump shot from 9 ft (assist by T. Forrest),20-23, ,,1,20,23,-3,618.0
+1:25.0, ,20-25,M. Monk makes 2-pt hook shot from 6 ft,,1,20,25,-5,635.0
+1:07.0,Shooting foul by K. Huerter (drawn by B. Bogdanović),20-25, ,,1,20,25,-5,653.0
+1:07.0,B. Bogdanović makes free throw 1 of 2,21-25, ,,1,21,25,-4,653.0
+1:07.0, ,21-25,D. Fox enters the game for K. Huerter,,1,21,25,-4,653.0
+1:07.0, ,21-25,J. McGee enters the game for D. Sabonis,,1,21,25,-4,653.0
+1:07.0,B. Bogdanović makes free throw 2 of 2,22-25, ,,1,22,25,-3,653.0
+0:58.0, ,22-27,D. Mitchell makes 2-pt layup from 2 ft,,1,22,27,-5,662.0
+0:44.0,T. Forrest misses 2-pt hook shot from 4 ft,22-27, ,,1,22,27,-5,676.0
+0:42.0, ,22-27,Defensive rebound by J. McGee,,1,22,27,-5,678.0
+0:38.0, ,22-27,D. Fox misses 3-pt jump shot from 25 ft,,1,22,27,-5,682.0
+0:35.0, ,22-27,Offensive rebound by T. Lyles,,1,22,27,-5,685.0
+0:32.0, ,22-27,D. Fox misses 2-pt jump shot from 12 ft,,1,22,27,-5,688.0
+0:32.0,Defensive rebound by T. Forrest,22-27, ,,1,22,27,-5,688.0
+0:21.0,Personal foul by D. Mitchell (drawn by B. Bogdanović),22-27, ,,1,22,27,-5,699.0
+0:21.0,B. Bogdanović makes free throw 1 of 2,23-27, ,,1,23,27,-4,699.0
+0:21.0,D. Murray enters the game for G. Mathews,23-27, ,,1,23,27,-4,699.0
+0:21.0,B. Bogdanović makes free throw 2 of 2,24-27, ,,1,24,27,-3,699.0
+0:00.0,End of 1st quarter,24-27,,,1,24,27,-3,720.0
+12:00.0,Start of 2nd quarter,24-27,,,2,24,27,-3,720.0
+11:38.0, ,24-29,J. McGee makes 2-pt layup from 2 ft (assist by M. Monk),,2,24,29,-5,742.0
+11:24.0,O. Okongwu misses 3-pt jump shot from 25 ft,24-29, ,,2,24,29,-5,756.0
+11:20.0, ,24-29,Defensive rebound by T. Lyles,,2,24,29,-5,760.0
+11:14.0, ,24-29,M. Monk misses 2-pt jump shot from 7 ft,,2,24,29,-5,766.0
+11:11.0,Defensive rebound by O. Okongwu,24-29, ,,2,24,29,-5,769.0
+11:00.0,J. Johnson misses 2-pt jump shot from 7 ft,24-29, ,,2,24,29,-5,780.0
+10:59.0,Offensive rebound by J. Johnson,24-29, ,,2,24,29,-5,781.0
+10:58.0,J. Johnson misses 2-pt layup from 2 ft,24-29, ,,2,24,29,-5,782.0
+10:57.0,Offensive rebound by J. Johnson,24-29, ,,2,24,29,-5,783.0
+10:56.0,J. Johnson misses 2-pt layup at rim,24-29, ,,2,24,29,-5,784.0
+10:55.0, ,24-29,Defensive rebound by D. Mitchell,,2,24,29,-5,785.0
+10:44.0, ,24-29,T. Lyles misses 3-pt jump shot from 24 ft,,2,24,29,-5,796.0
+10:41.0,Defensive rebound by B. Bogdanović,24-29, ,,2,24,29,-5,799.0
+10:25.0,T. Forrest misses 2-pt layup from 4 ft,24-29, ,,2,24,29,-5,815.0
+10:22.0, ,24-29,Defensive rebound by T. Lyles,,2,24,29,-5,818.0
+10:16.0, ,24-31,T. Lyles makes 2-pt layup from 2 ft (assist by M. Monk),,2,24,31,-7,824.0
+10:04.0,Personal foul by J. McGee (drawn by B. Bogdanović),24-31, ,,2,24,31,-7,836.0
+10:04.0, ,24-31,A. Vezenkov enters the game for D. Mitchell,,2,24,31,-7,836.0
+9:56.0,P. Mills misses 2-pt jump shot from 15 ft,24-31, ,,2,24,31,-7,844.0
+9:52.0, ,24-31,Defensive rebound by J. McGee,,2,24,31,-7,848.0
+9:42.0, ,24-31,J. McGee misses 3-pt jump shot from 26 ft,,2,24,31,-7,858.0
+9:39.0,Defensive rebound by J. Johnson,24-31, ,,2,24,31,-7,861.0
+9:32.0,Turnover by O. Okongwu (out of bounds lost ball),24-31, ,,2,24,31,-7,868.0
+9:18.0, ,24-33,J. McGee makes 2-pt dunk from 1 ft (assist by M. Monk),,2,24,33,-9,882.0
+9:10.0,Atlanta full timeout,24-33, ,,2,24,33,-9,890.0
+9:10.0,D. Murray enters the game for T. Forrest,24-33, ,,2,24,33,-9,890.0
+9:04.0,B. Bogdanović misses 3-pt jump shot from 26 ft,24-33, ,,2,24,33,-9,896.0
+9:02.0, ,24-33,Defensive rebound by J. McGee,,2,24,33,-9,898.0
+8:54.0, ,24-36,T. Lyles makes 3-pt jump shot from 23 ft (assist by M. Monk),,2,24,36,-12,906.0
+8:37.0,D. Murray makes 2-pt jump shot from 13 ft (assist by B. Bogdanović),26-36, ,,2,26,36,-10,923.0
+8:18.0, ,26-36,A. Vezenkov misses 3-pt jump shot from 24 ft,,2,26,36,-10,942.0
+8:16.0,Defensive rebound by O. Okongwu,26-36, ,,2,26,36,-10,944.0
+8:11.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by P. Mills),29-36, ,,2,29,36,-7,949.0
+8:03.0, ,29-36,Def 3 sec tech foul by Team,,2,29,36,-7,957.0
+8:03.0, ,29-37,M. Monk makes technical free throw,,2,29,37,-8,957.0
+8:03.0,C. Capela enters the game for P. Mills,29-37, ,,2,29,37,-8,957.0
+8:03.0, ,29-37,H. Barnes enters the game for T. Lyles,,2,29,37,-8,957.0
+8:03.0, ,29-37,D. Sabonis enters the game for J. McGee,,2,29,37,-8,957.0
+7:54.0, ,29-39,D. Fox makes 2-pt jump shot from 18 ft,,2,29,39,-10,966.0
+7:41.0,D. Murray misses 2-pt jump shot from 23 ft,29-39, ,,2,29,39,-10,979.0
+7:38.0, ,29-39,Defensive rebound by D. Sabonis,,2,29,39,-10,982.0
+7:33.0, ,29-42,A. Vezenkov makes 3-pt jump shot from 26 ft (assist by M. Monk),,2,29,42,-13,987.0
+7:16.0,C. Capela makes 2-pt dunk from 1 ft (assist by B. Bogdanović),31-42, ,,2,31,42,-11,1004.0
+7:01.0, ,31-45,H. Barnes makes 3-pt jump shot from 26 ft (assist by M. Monk),,2,31,45,-14,1019.0
+6:41.0,B. Bogdanović misses 3-pt jump shot from 26 ft,31-45, ,,2,31,45,-14,1039.0
+6:38.0, ,31-45,Defensive rebound by D. Fox,,2,31,45,-14,1042.0
+6:31.0, ,31-47,D. Fox makes 2-pt jump shot from 9 ft,,2,31,47,-16,1049.0
+6:31.0,Atlanta full timeout,31-47, ,,2,31,47,-16,1049.0
+6:31.0,S. Bey enters the game for B. Bogdanović,31-47, ,,2,31,47,-16,1049.0
+6:31.0,G. Mathews enters the game for J. Johnson,31-47, ,,2,31,47,-16,1049.0
+6:17.0,Shooting foul by H. Barnes (drawn by C. Capela),31-47, ,,2,31,47,-16,1063.0
+6:17.0,C. Capela makes free throw 1 of 2,32-47, ,,2,32,47,-15,1063.0
+6:17.0,C. Capela makes free throw 2 of 2,33-47, ,,2,33,47,-14,1063.0
+6:09.0, ,33-47,D. Fox misses 2-pt jump shot from 13 ft,,2,33,47,-14,1071.0
+6:08.0,Defensive rebound by Team,33-47, ,,2,33,47,-14,1072.0
+5:57.0,D. Murray misses 2-pt jump shot from 9 ft,33-47, ,,2,33,47,-14,1083.0
+5:54.0, ,33-47,Defensive rebound by D. Sabonis,,2,33,47,-14,1086.0
+5:54.0, ,33-47,K. Huerter enters the game for D. Fox,,2,33,47,-14,1086.0
+5:54.0, ,33-47,D. Mitchell enters the game for M. Monk,,2,33,47,-14,1086.0
+5:54.0, ,33-47,K. Murray enters the game for A. Vezenkov,,2,33,47,-14,1086.0
+5:42.0, ,33-47,Turnover by K. Huerter (out of bounds lost ball),,2,33,47,-14,1098.0
+5:30.0,G. Mathews misses 3-pt jump shot from 27 ft,33-47, ,,2,33,47,-14,1110.0
+5:25.0,Offensive rebound by C. Capela,33-47, ,,2,33,47,-14,1115.0
+5:24.0,C. Capela makes 2-pt hook shot from 4 ft,35-47, ,,2,35,47,-12,1116.0
+5:09.0, ,35-49,H. Barnes makes 2-pt jump shot from 10 ft (assist by K. Murray),,2,35,49,-14,1131.0
+4:49.0,S. Bey misses 2-pt layup from 7 ft,35-49, ,,2,35,49,-14,1151.0
+4:47.0, ,35-49,Defensive rebound by H. Barnes,,2,35,49,-14,1153.0
+4:38.0, ,35-49,H. Barnes misses 2-pt jump shot from 13 ft,,2,35,49,-14,1162.0
+4:36.0,Defensive rebound by O. Okongwu,35-49, ,,2,35,49,-14,1164.0
+4:26.0,Turnover by D. Murray (lost ball; steal by H. Barnes),35-49, ,,2,35,49,-14,1174.0
+4:21.0, ,35-49,K. Huerter misses 3-pt jump shot from 23 ft,,2,35,49,-14,1179.0
+4:16.0, ,35-49,Offensive rebound by K. Murray,,2,35,49,-14,1184.0
+4:06.0, ,35-49,H. Barnes misses 2-pt layup from 2 ft,,2,35,49,-14,1194.0
+4:03.0,Defensive rebound by D. Murray,35-49, ,,2,35,49,-14,1197.0
+4:02.0,Shooting foul by K. Huerter (drawn by D. Murray),35-49, ,,2,35,49,-14,1198.0
+4:02.0,D. Murray makes free throw 1 of 2,36-49, ,,2,36,49,-13,1198.0
+4:02.0,B. Bogdanović enters the game for G. Mathews,36-49, ,,2,36,49,-13,1198.0
+4:02.0,J. Johnson enters the game for O. Okongwu,36-49, ,,2,36,49,-13,1198.0
+4:02.0,D. Murray misses free throw 2 of 2,36-49, ,,2,36,49,-13,1198.0
+3:58.0, ,36-49,Defensive rebound by K. Huerter,,2,36,49,-13,1202.0
+3:39.0, ,36-49,D. Sabonis misses 2-pt jump shot from 8 ft,,2,36,49,-13,1221.0
+3:39.0,Defensive rebound by J. Johnson,36-49, ,,2,36,49,-13,1221.0
+3:30.0,D. Murray misses 3-pt jump shot from 26 ft,36-49, ,,2,36,49,-13,1230.0
+3:27.0, ,36-49,Defensive rebound by D. Sabonis,,2,36,49,-13,1233.0
+3:12.0, ,36-49,K. Huerter misses 3-pt jump shot from 26 ft,,2,36,49,-13,1248.0
+3:09.0, ,36-49,Offensive rebound by H. Barnes,,2,36,49,-13,1251.0
+3:05.0, ,36-49,K. Murray misses 3-pt jump shot from 25 ft,,2,36,49,-13,1255.0
+3:03.0,Defensive rebound by S. Bey,36-49, ,,2,36,49,-13,1257.0
+2:58.0,J. Johnson misses 2-pt jump shot from 9 ft,36-49, ,,2,36,49,-13,1262.0
+2:55.0, ,36-49,Defensive rebound by K. Murray,,2,36,49,-13,1265.0
+2:49.0, ,36-49,D. Mitchell misses 3-pt jump shot from 23 ft,,2,36,49,-13,1271.0
+2:45.0,Defensive rebound by S. Bey,36-49, ,,2,36,49,-13,1275.0
+2:37.0,J. Johnson misses 3-pt jump shot from 23 ft,36-49, ,,2,36,49,-13,1283.0
+2:35.0, ,36-49,Defensive rebound by K. Murray,,2,36,49,-13,1285.0
+2:23.0, ,36-52,K. Murray makes 3-pt jump shot from 26 ft (assist by D. Sabonis),,2,36,52,-16,1297.0
+2:06.0,B. Bogdanović misses 3-pt jump shot from 25 ft,36-52, ,,2,36,52,-16,1314.0
+2:02.0, ,36-52,Defensive rebound by D. Sabonis,,2,36,52,-16,1318.0
+1:52.0, ,36-54,D. Mitchell makes 2-pt jump shot from 6 ft (assist by K. Huerter),,2,36,54,-18,1328.0
+1:52.0, ,36-54,Shooting foul by B. Bogdanović (drawn by D. Mitchell),,2,36,54,-18,1328.0
+1:52.0, ,36-54,D. Fox enters the game for K. Huerter,,2,36,54,-18,1328.0
+1:52.0, ,36-55,D. Mitchell makes free throw 1 of 1,,2,36,55,-19,1328.0
+1:34.0,J. Johnson misses 3-pt jump shot from 25 ft,36-55, ,,2,36,55,-19,1346.0
+1:33.0,Offensive rebound by Team,36-55, ,,2,36,55,-19,1347.0
+1:33.0, ,36-55,Loose ball foul by D. Sabonis (drawn by C. Capela),,2,36,55,-19,1347.0
+1:33.0, ,36-55,K. Huerter enters the game for D. Mitchell,,2,36,55,-19,1347.0
+1:26.0,C. Capela misses 2-pt hook shot from 5 ft,36-55, ,,2,36,55,-19,1354.0
+1:23.0, ,36-55,Defensive rebound by D. Sabonis,,2,36,55,-19,1357.0
+1:18.0, ,36-55,K. Murray misses 3-pt jump shot from 27 ft,,2,36,55,-19,1362.0
+1:16.0,Defensive rebound by Team,36-55, ,,2,36,55,-19,1364.0
+1:05.0,Personal foul by K. Huerter (drawn by D. Murray),36-55, ,,2,36,55,-19,1375.0
+1:05.0,D. Murray makes free throw 1 of 2,37-55, ,,2,37,55,-18,1375.0
+1:05.0, ,37-55,D. Mitchell enters the game for K. Huerter,,2,37,55,-18,1375.0
+1:05.0,D. Murray makes free throw 2 of 2,38-55, ,,2,38,55,-17,1375.0
+0:51.0, ,38-55,H. Barnes misses 2-pt layup from 3 ft,,2,38,55,-17,1389.0
+0:48.0,Defensive rebound by C. Capela,38-55, ,,2,38,55,-17,1392.0
+0:39.0,B. Bogdanović misses 3-pt jump shot from 23 ft,38-55, ,,2,38,55,-17,1401.0
+0:36.0,Offensive rebound by S. Bey,38-55, ,,2,38,55,-17,1404.0
+0:36.0,S. Bey makes 2-pt layup from 2 ft,40-55, ,,2,40,55,-15,1404.0
+0:30.0, ,40-55,D. Fox misses 2-pt jump shot from 14 ft,,2,40,55,-15,1410.0
+0:27.0,Defensive rebound by C. Capela,40-55, ,,2,40,55,-15,1413.0
+0:19.0,D. Murray misses 2-pt jump shot from 9 ft,40-55, ,,2,40,55,-15,1421.0
+0:17.0,Offensive rebound by Team,40-55, ,,2,40,55,-15,1423.0
+0:15.0,Turnover by B. Bogdanović (lost ball; steal by D. Sabonis),40-55, ,,2,40,55,-15,1425.0
+0:00.0, ,40-57,H. Barnes makes 2-pt jump shot from 7 ft,,2,40,57,-17,1440.0
+0:00.0,End of 2nd quarter,40-57,,,2,40,57,-17,1440.0
+12:00.0,Start of 3rd quarter,40-57,,,3,40,57,-17,1440.0
+11:39.0, ,40-59,D. Sabonis makes 2-pt layup from 2 ft,,3,40,59,-19,1461.0
+11:18.0,D. Murray misses 3-pt jump shot from 25 ft,40-59, ,,3,40,59,-19,1482.0
+11:15.0, ,40-59,Defensive rebound by D. Sabonis,,3,40,59,-19,1485.0
+11:07.0, ,40-59,H. Barnes misses 3-pt jump shot from 25 ft,,3,40,59,-19,1493.0
+11:04.0,Defensive rebound by D. Murray,40-59, ,,3,40,59,-19,1496.0
+10:57.0,J. Johnson misses 3-pt jump shot from 23 ft,40-59, ,,3,40,59,-19,1503.0
+10:54.0, ,40-59,Defensive rebound by H. Barnes,,3,40,59,-19,1506.0
+10:49.0, ,40-61,H. Barnes makes 2-pt jump shot from 2 ft,,3,40,61,-21,1511.0
+10:40.0,S. Bey misses 3-pt jump shot from 24 ft,40-61, ,,3,40,61,-21,1520.0
+10:37.0, ,40-61,Defensive rebound by D. Sabonis,,3,40,61,-21,1523.0
+10:31.0, ,40-63,K. Murray makes 2-pt jump shot from 11 ft (assist by D. Sabonis),,3,40,63,-23,1529.0
+10:19.0,Shooting foul by K. Murray (drawn by D. Murray),40-63, ,,3,40,63,-23,1541.0
+10:19.0,D. Murray makes free throw 1 of 2,41-63, ,,3,41,63,-22,1541.0
+10:19.0,D. Murray makes free throw 2 of 2,42-63, ,,3,42,63,-21,1541.0
+10:08.0, ,42-66,K. Huerter makes 3-pt jump shot from 26 ft,,3,42,66,-24,1552.0
+9:56.0,S. Bey misses 2-pt layup from 2 ft (block by K. Huerter),42-66, ,,3,42,66,-24,1564.0
+9:56.0,Offensive rebound by Team,42-66, ,,3,42,66,-24,1564.0
+9:56.0, ,42-66,Sacramento full timeout,,3,42,66,-24,1564.0
+9:56.0, ,42-66,Instant Replay (Challenge: Ruling Stands),,3,42,66,-24,1564.0
+9:56.0,Jump ball: C. Capela vs. D. Sabonis (D. Murray gains possession),42-66,,,3,42,66,-24,1564.0
+9:33.0,D. Murray misses 2-pt jump shot from 16 ft,42-66, ,,3,42,66,-24,1587.0
+9:31.0,Offensive rebound by C. Capela,42-66, ,,3,42,66,-24,1589.0
+9:30.0,C. Capela makes 2-pt layup at rim,44-66, ,,3,44,66,-22,1590.0
+9:12.0, ,44-66,D. Sabonis misses 2-pt layup from 3 ft (block by C. Capela),,3,44,66,-22,1608.0
+9:10.0,Defensive rebound by C. Capela,44-66, ,,3,44,66,-22,1610.0
+8:59.0,B. Bogdanović makes 2-pt layup from 2 ft,46-66, ,,3,46,66,-20,1621.0
+8:46.0, ,46-66,Turnover by D. Fox (out of bounds lost ball),,3,46,66,-20,1634.0
+8:33.0,J. Johnson makes 3-pt jump shot from 25 ft (assist by S. Bey),49-66, ,,3,49,66,-17,1647.0
+8:32.0, ,49-66,Sacramento full timeout,,3,49,66,-17,1648.0
+8:23.0, ,49-66,Shooting foul by B. Bogdanović (drawn by H. Barnes),,3,49,66,-17,1657.0
+8:23.0, ,49-67,H. Barnes makes free throw 1 of 2,,3,49,67,-18,1657.0
+8:23.0, ,49-68,H. Barnes makes free throw 2 of 2,,3,49,68,-19,1657.0
+8:05.0,D. Murray makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),52-68, ,,3,52,68,-16,1675.0
+7:49.0, ,52-68,H. Barnes misses 3-pt jump shot from 24 ft,,3,52,68,-16,1691.0
+7:46.0, ,52-68,Offensive rebound by D. Sabonis,,3,52,68,-16,1694.0
+7:41.0, ,52-68,K. Murray misses 2-pt jump shot from 7 ft,,3,52,68,-16,1699.0
+7:35.0, ,52-68,Offensive rebound by H. Barnes,,3,52,68,-16,1705.0
+7:32.0, ,52-68,D. Fox misses 2-pt jump shot from 8 ft,,3,52,68,-16,1708.0
+7:32.0,Defensive rebound by C. Capela,52-68, ,,3,52,68,-16,1708.0
+7:20.0,J. Johnson misses 3-pt jump shot from 25 ft,52-68, ,,3,52,68,-16,1720.0
+7:18.0,Offensive rebound by S. Bey,52-68, ,,3,52,68,-16,1722.0
+7:18.0,Shooting foul by K. Murray (drawn by S. Bey),52-68, ,,3,52,68,-16,1722.0
+7:18.0,S. Bey makes free throw 1 of 2,53-68, ,,3,53,68,-15,1722.0
+7:18.0,S. Bey makes free throw 2 of 2,54-68, ,,3,54,68,-14,1722.0
+7:03.0, ,54-68,D. Sabonis misses 2-pt jump shot from 17 ft,,3,54,68,-14,1737.0
+6:59.0,Defensive rebound by J. Johnson,54-68, ,,3,54,68,-14,1741.0
+6:54.0,J. Johnson makes 2-pt jump shot from 5 ft,56-68, ,,3,56,68,-12,1746.0
+6:33.0, ,56-68,K. Murray misses 3-pt jump shot from 23 ft,,3,56,68,-12,1767.0
+6:29.0,Defensive rebound by B. Bogdanović,56-68, ,,3,56,68,-12,1771.0
+6:19.0,J. Johnson makes 2-pt dunk at rim (assist by D. Murray),58-68, ,,3,58,68,-10,1781.0
+6:04.0, ,58-68,H. Barnes misses 3-pt jump shot from 25 ft,,3,58,68,-10,1796.0
+6:01.0, ,58-68,Offensive rebound by K. Murray,,3,58,68,-10,1799.0
+6:00.0, ,58-70,K. Murray makes 2-pt dunk from 2 ft,,3,58,70,-12,1800.0
+5:44.0,J. Johnson misses 2-pt jump shot from 14 ft,58-70, ,,3,58,70,-12,1816.0
+5:40.0, ,58-70,Defensive rebound by D. Sabonis,,3,58,70,-12,1820.0
+5:33.0, ,58-73,K. Murray makes 3-pt jump shot from 27 ft (assist by D. Sabonis),,3,58,73,-15,1827.0
+5:12.0,B. Bogdanović makes 2-pt jump shot from 10 ft,60-73, ,,3,60,73,-13,1848.0
+5:02.0, ,60-73,D. Fox misses 3-pt jump shot from 27 ft,,3,60,73,-13,1858.0
+4:58.0,Defensive rebound by C. Capela,60-73, ,,3,60,73,-13,1862.0
+4:50.0,Turnover by B. Bogdanović (out of bounds lost ball),60-73, ,,3,60,73,-13,1870.0
+4:50.0,G. Mathews enters the game for B. Bogdanović,60-73, ,,3,60,73,-13,1870.0
+4:50.0,P. Mills enters the game for C. Capela,60-73, ,,3,60,73,-13,1870.0
+4:50.0,O. Okongwu enters the game for J. Johnson,60-73, ,,3,60,73,-13,1870.0
+4:50.0, ,60-73,D. Mitchell enters the game for D. Fox,,3,60,73,-13,1870.0
+4:50.0, ,60-73,M. Monk enters the game for K. Huerter,,3,60,73,-13,1870.0
+4:29.0, ,60-73,Shooting foul by G. Mathews (drawn by K. Murray),,3,60,73,-13,1891.0
+4:29.0, ,60-73,K. Murray misses free throw 1 of 2,,3,60,73,-13,1891.0
+4:29.0, ,60-73,Offensive rebound by Team,,3,60,73,-13,1891.0
+4:29.0, ,60-73,A. Vezenkov enters the game for H. Barnes,,3,60,73,-13,1891.0
+4:29.0, ,60-74,K. Murray makes free throw 2 of 2,,3,60,74,-14,1891.0
+4:14.0,D. Murray makes 3-pt jump shot from 25 ft (assist by S. Bey),63-74, ,,3,63,74,-11,1906.0
+4:14.0,Shooting foul by A. Vezenkov (drawn by S. Bey),63-74, ,,3,63,74,-11,1906.0
+4:14.0,D. Murray makes free throw 1 of 1,64-74, ,,3,64,74,-10,1906.0
+3:57.0, ,64-77,A. Vezenkov makes 3-pt jump shot from 23 ft (assist by D. Mitchell),,3,64,77,-13,1923.0
+3:34.0,S. Bey misses 3-pt jump shot from 23 ft,64-77, ,,3,64,77,-13,1946.0
+3:31.0, ,64-77,Defensive rebound by K. Murray,,3,64,77,-13,1949.0
+3:18.0, ,64-77,Offensive foul by D. Sabonis (drawn by G. Mathews),,3,64,77,-13,1962.0
+3:18.0, ,64-77,Turnover by D. Sabonis (offensive foul),,3,64,77,-13,1962.0
+3:06.0,D. Murray misses 2-pt jump shot from 9 ft,64-77, ,,3,64,77,-13,1974.0
+3:03.0, ,64-77,Defensive rebound by A. Vezenkov,,3,64,77,-13,1977.0
+2:56.0, ,64-77,D. Mitchell misses 3-pt jump shot from 25 ft,,3,64,77,-13,1984.0
+2:53.0, ,64-77,Offensive rebound by A. Vezenkov,,3,64,77,-13,1987.0
+2:52.0, ,64-79,A. Vezenkov makes 2-pt layup from 1 ft,,3,64,79,-15,1988.0
+2:44.0,S. Bey makes 2-pt layup from 4 ft (assist by D. Murray),66-79, ,,3,66,79,-13,1996.0
+2:34.0, ,66-79,M. Monk misses 3-pt jump shot from 25 ft,,3,66,79,-13,2006.0
+2:31.0,Defensive rebound by S. Bey,66-79, ,,3,66,79,-13,2009.0
+2:29.0,Personal foul by M. Monk (drawn by D. Murray),66-79, ,,3,66,79,-13,2011.0
+2:29.0,T. Forrest enters the game for S. Bey,66-79, ,,3,66,79,-13,2011.0
+2:29.0,J. Johnson enters the game for D. Murray,66-79, ,,3,66,79,-13,2011.0
+2:29.0, ,66-79,T. Lyles enters the game for A. Vezenkov,,3,66,79,-13,2011.0
+2:22.0,Offensive foul by O. Okongwu (drawn by K. Murray),66-79, ,,3,66,79,-13,2018.0
+2:22.0,Turnover by O. Okongwu (offensive foul),66-79, ,,3,66,79,-13,2018.0
+2:22.0, ,66-79,D. Fox enters the game for M. Monk,,3,66,79,-13,2018.0
+2:22.0, ,66-79,J. McGee enters the game for D. Sabonis,,3,66,79,-13,2018.0
+2:11.0, ,66-79,D. Fox misses 3-pt jump shot from 25 ft,,3,66,79,-13,2029.0
+2:06.0,Defensive rebound by T. Forrest,66-79, ,,3,66,79,-13,2034.0
+2:00.0,Turnover by G. Mathews (bad pass; steal by J. McGee),66-79, ,,3,66,79,-13,2040.0
+1:50.0, ,66-81,D. Fox makes 2-pt layup from 4 ft,,3,66,81,-15,2050.0
+1:40.0,J. Johnson misses 2-pt layup from 6 ft (block by J. McGee),66-81, ,,3,66,81,-15,2060.0
+1:38.0, ,66-81,Defensive rebound by D. Fox,,3,66,81,-15,2062.0
+1:31.0, ,66-83,D. Fox makes 2-pt layup from 3 ft,,3,66,83,-17,2069.0
+1:12.0,T. Forrest misses 2-pt hook shot from 7 ft,66-83, ,,3,66,83,-17,2088.0
+1:11.0, ,66-83,Defensive rebound by Team,,3,66,83,-17,2089.0
+1:11.0,Loose ball foul by O. Okongwu (drawn by J. McGee),66-83, ,,3,66,83,-17,2089.0
+1:11.0, ,66-83,M. Monk enters the game for K. Murray,,3,66,83,-17,2089.0
+0:55.0, ,66-85,M. Monk makes 2-pt jump shot from 14 ft,,3,66,85,-19,2105.0
+0:44.0,Turnover by P. Mills (bad pass),66-85, ,,3,66,85,-19,2116.0
+0:35.0, ,66-85,D. Mitchell misses 2-pt layup from 6 ft (block by O. Okongwu),,3,66,85,-19,2125.0
+0:34.0, ,66-85,Offensive rebound by T. Lyles,,3,66,85,-19,2126.0
+0:28.0, ,66-87,M. Monk makes 2-pt layup from 3 ft,,3,66,87,-21,2132.0
+0:10.0,G. Mathews makes 3-pt jump shot from 25 ft (assist by P. Mills),69-87, ,,3,69,87,-18,2150.0
+0:01.0, ,69-87,D. Fox misses 2-pt jump shot from 10 ft,,3,69,87,-18,2159.0
+0:01.0, ,69-87,Offensive rebound by Team,,3,69,87,-18,2159.0
+0:00.0,End of 3rd quarter,69-87,,,3,69,87,-18,2160.0
+12:00.0,Start of 4th quarter,69-87,,,4,69,87,-18,2160.0
+11:42.0,P. Mills misses 2-pt jump shot from 15 ft,69-87, ,,4,69,87,-18,2178.0
+11:39.0, ,69-87,Defensive rebound by T. Lyles,,4,69,87,-18,2181.0
+11:33.0, ,69-87,D. Fox misses 3-pt jump shot from 26 ft,,4,69,87,-18,2187.0
+11:29.0,Defensive rebound by G. Mathews,69-87, ,,4,69,87,-18,2191.0
+11:23.0,Personal foul by M. Monk (drawn by J. Johnson),69-87, ,,4,69,87,-18,2197.0
+11:13.0,D. Murray makes 3-pt jump shot from 26 ft,72-87, ,,4,72,87,-15,2207.0
+10:56.0, ,72-87,K. Huerter misses 3-pt jump shot from 23 ft,,4,72,87,-15,2224.0
+10:52.0,Defensive rebound by O. Okongwu,72-87, ,,4,72,87,-15,2228.0
+10:42.0,O. Okongwu makes 2-pt dunk from 3 ft (assist by D. Murray),74-87, ,,4,74,87,-13,2238.0
+10:32.0, ,74-87,Shooting foul by G. Mathews (drawn by J. McGee),,4,74,87,-13,2248.0
+10:32.0, ,74-88,J. McGee makes free throw 1 of 2,,4,74,88,-14,2248.0
+10:32.0, ,74-88,J. McGee misses free throw 2 of 2,,4,74,88,-14,2248.0
+10:28.0,Defensive rebound by D. Murray,74-88, ,,4,74,88,-14,2252.0
+10:20.0,P. Mills makes 2-pt jump shot from 18 ft,76-88, ,,4,76,88,-12,2260.0
+10:20.0,Shooting foul by J. McGee (drawn by O. Okongwu),76-88, ,,4,76,88,-12,2260.0
+10:20.0,O. Okongwu misses free throw 1 of 1,76-88, ,,4,76,88,-12,2260.0
+10:17.0, ,76-88,Defensive rebound by D. Fox,,4,76,88,-12,2263.0
+10:11.0, ,76-90,J. McGee makes 2-pt dunk from 1 ft (assist by K. Huerter),,4,76,90,-14,2269.0
+10:09.0, ,76-90,Technical foul by J. McGee,,4,76,90,-14,2271.0
+10:09.0,D. Murray makes technical free throw,77-90, ,,4,77,90,-13,2271.0
+9:52.0,D. Murray makes 3-pt jump shot from 25 ft,80-90, ,,4,80,90,-10,2288.0
+9:39.0, ,80-92,T. Lyles makes 2-pt layup from 2 ft (assist by D. Fox),,4,80,92,-12,2301.0
+9:29.0, ,80-92,Violation by Team (kicked ball),,4,80,92,-12,2311.0
+9:29.0, ,80-92,D. Mitchell enters the game for D. Fox,,4,80,92,-12,2311.0
+9:29.0, ,80-92,D. Sabonis enters the game for J. McGee,,4,80,92,-12,2311.0
+9:23.0,Turnover by D. Murray (bad pass; steal by M. Monk),80-92, ,,4,80,92,-12,2317.0
+9:22.0, ,80-92,D. Mitchell misses 2-pt layup from 2 ft (block by J. Johnson),,4,80,92,-12,2318.0
+9:20.0,Defensive rebound by D. Murray,80-92, ,,4,80,92,-12,2320.0
+9:14.0,G. Mathews misses 3-pt jump shot from 25 ft,80-92, ,,4,80,92,-12,2326.0
+9:14.0, ,80-92,Defensive rebound by D. Sabonis,,4,80,92,-12,2326.0
+9:06.0, ,80-92,Shooting foul by O. Okongwu (drawn by D. Sabonis),,4,80,92,-12,2334.0
+9:06.0, ,80-93,D. Sabonis makes free throw 1 of 2,,4,80,93,-13,2334.0
+9:06.0,B. Bogdanović enters the game for P. Mills,80-93, ,,4,80,93,-13,2334.0
+9:06.0, ,80-94,D. Sabonis makes free throw 2 of 2,,4,80,94,-14,2334.0
+8:46.0,Shooting foul by K. Huerter (drawn by J. Johnson),80-94, ,,4,80,94,-14,2354.0
+8:46.0,J. Johnson makes free throw 1 of 2,81-94, ,,4,81,94,-13,2354.0
+8:46.0, ,81-94,K. Murray enters the game for K. Huerter,,4,81,94,-13,2354.0
+8:46.0,J. Johnson misses free throw 2 of 2,81-94, ,,4,81,94,-13,2354.0
+8:44.0, ,81-94,Defensive rebound by T. Lyles,,4,81,94,-13,2356.0
+8:27.0, ,81-94,D. Mitchell misses 2-pt layup from 4 ft (block by O. Okongwu),,4,81,94,-13,2373.0
+8:23.0,Defensive rebound by D. Murray,81-94, ,,4,81,94,-13,2377.0
+8:13.0,Turnover by G. Mathews (bad pass; steal by K. Murray),81-94, ,,4,81,94,-13,2387.0
+8:11.0, ,81-94,Shooting foul by G. Mathews (drawn by M. Monk),,4,81,94,-13,2389.0
+8:11.0, ,81-95,M. Monk makes free throw 1 of 2,,4,81,95,-14,2389.0
+8:11.0, ,81-96,M. Monk makes free throw 2 of 2,,4,81,96,-15,2389.0
+8:00.0,O. Okongwu makes 2-pt dunk from 1 ft (assist by D. Murray),83-96, ,,4,83,96,-13,2400.0
+7:44.0, ,83-99,T. Lyles makes 3-pt jump shot from 26 ft (assist by M. Monk),,4,83,99,-16,2416.0
+7:25.0,G. Mathews makes 3-pt jump shot from 24 ft (assist by O. Okongwu),86-99, ,,4,86,99,-13,2435.0
+7:14.0, ,86-101,D. Sabonis makes 2-pt layup from 3 ft (assist by M. Monk),,4,86,101,-15,2446.0
+7:01.0,Turnover by D. Murray (lost ball; steal by D. Sabonis),86-101, ,,4,86,101,-15,2459.0
+6:56.0, ,86-101,T. Lyles misses 3-pt jump shot from 24 ft,,4,86,101,-15,2464.0
+6:52.0,Defensive rebound by O. Okongwu,86-101, ,,4,86,101,-15,2468.0
+6:49.0,Atlanta full timeout,86-101, ,,4,86,101,-15,2471.0
+6:49.0,S. Bey enters the game for J. Johnson,86-101, ,,4,86,101,-15,2471.0
+6:49.0, ,86-101,H. Barnes enters the game for T. Lyles,,4,86,101,-15,2471.0
+6:49.0, ,86-101,D. Fox enters the game for M. Monk,,4,86,101,-15,2471.0
+6:42.0,B. Bogdanović misses 2-pt layup from 4 ft,86-101, ,,4,86,101,-15,2478.0
+6:40.0, ,86-101,Defensive rebound by D. Sabonis,,4,86,101,-15,2480.0
+6:35.0, ,86-101,Personal foul by B. Bogdanović (drawn by K. Murray),,4,86,101,-15,2485.0
+6:28.0, ,86-101,K. Murray misses 3-pt jump shot from 23 ft,,4,86,101,-15,2492.0
+6:26.0, ,86-101,Offensive rebound by D. Sabonis,,4,86,101,-15,2494.0
+6:25.0, ,86-101,D. Sabonis misses 2-pt layup from 3 ft (block by D. Murray),,4,86,101,-15,2495.0
+6:24.0,Defensive rebound by D. Murray,86-101, ,,4,86,101,-15,2496.0
+6:11.0,G. Mathews makes 3-pt jump shot from 23 ft (assist by O. Okongwu),89-101, ,,4,89,101,-12,2509.0
+5:48.0, ,89-104,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Mitchell),,4,89,104,-15,2532.0
+5:29.0,B. Bogdanović misses 3-pt jump shot from 25 ft,89-104, ,,4,89,104,-15,2551.0
+5:27.0,Offensive rebound by O. Okongwu,89-104, ,,4,89,104,-15,2553.0
+5:23.0,Personal foul by D. Sabonis (drawn by D. Murray),89-104, ,,4,89,104,-15,2557.0
+5:16.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by D. Murray),91-104, ,,4,91,104,-13,2564.0
+5:01.0, ,91-104,H. Barnes misses 3-pt jump shot from 23 ft,,4,91,104,-13,2579.0
+4:58.0,Defensive rebound by D. Murray,91-104, ,,4,91,104,-13,2582.0
+4:50.0,S. Bey makes 3-pt jump shot from 24 ft (assist by D. Murray),94-104, ,,4,94,104,-10,2590.0
+4:48.0, ,94-104,Sacramento full timeout,,4,94,104,-10,2592.0
+4:48.0, ,94-104,M. Monk enters the game for D. Mitchell,,4,94,104,-10,2592.0
+4:30.0, ,94-106,H. Barnes makes 2-pt jump shot from 4 ft (assist by D. Sabonis),,4,94,106,-12,2610.0
+4:30.0, ,94-106,Shooting foul by S. Bey (drawn by H. Barnes),,4,94,106,-12,2610.0
+4:30.0, ,94-107,H. Barnes makes free throw 1 of 1,,4,94,107,-13,2610.0
+4:19.0,S. Bey misses 3-pt jump shot from 25 ft,94-107, ,,4,94,107,-13,2621.0
+4:15.0, ,94-107,Defensive rebound by D. Sabonis,,4,94,107,-13,2625.0
+4:00.0, ,94-107,Turnover by D. Sabonis (out of bounds lost ball),,4,94,107,-13,2640.0
+4:00.0,J. Johnson enters the game for G. Mathews,94-107, ,,4,94,107,-13,2640.0
+3:50.0,D. Murray makes 2-pt layup from 2 ft,96-107, ,,4,96,107,-11,2650.0
+3:41.0, ,96-107,Personal foul by B. Bogdanović (drawn by H. Barnes),,4,96,107,-11,2659.0
+3:41.0, ,96-108,H. Barnes makes free throw 1 of 2,,4,96,108,-12,2659.0
+3:41.0, ,96-109,H. Barnes makes free throw 2 of 2,,4,96,109,-13,2659.0
+3:37.0,D. Murray misses 2-pt layup from 3 ft,96-109, ,,4,96,109,-13,2663.0
+3:36.0,Offensive rebound by O. Okongwu,96-109, ,,4,96,109,-13,2664.0
+3:34.0,O. Okongwu makes 2-pt dunk at rim,98-109, ,,4,98,109,-11,2666.0
+3:06.0, ,98-109,H. Barnes misses 2-pt hook shot from 6 ft,,4,98,109,-11,2694.0
+3:04.0, ,98-109,Offensive rebound by Team,,4,98,109,-11,2696.0
+3:04.0,Loose ball foul by D. Murray (drawn by D. Fox),98-109, ,,4,98,109,-11,2696.0
+3:04.0, ,98-109,D. Fox misses free throw 1 of 2,,4,98,109,-11,2696.0
+3:04.0,Atlanta full timeout,98-109, ,,4,98,109,-11,2696.0
+3:04.0, ,98-109,Sacramento full timeout,,4,98,109,-11,2696.0
+3:04.0, ,98-110,D. Fox makes free throw 2 of 2,,4,98,110,-12,2696.0
+2:52.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by O. Okongwu),101-110, ,,4,101,110,-9,2708.0
+2:30.0, ,101-110,Shooting foul by O. Okongwu (drawn by D. Sabonis),,4,101,110,-9,2730.0
+2:30.0, ,101-111,D. Sabonis makes free throw 1 of 2,,4,101,111,-10,2730.0
+2:30.0, ,101-112,D. Sabonis makes free throw 2 of 2,,4,101,112,-11,2730.0
+2:13.0,Shooting foul by H. Barnes (drawn by J. Johnson),101-112, ,,4,101,112,-11,2747.0
+2:13.0,J. Johnson makes free throw 1 of 2,102-112, ,,4,102,112,-10,2747.0
+2:13.0,J. Johnson misses free throw 2 of 2,102-112, ,,4,102,112,-10,2747.0
+2:10.0, ,102-112,Defensive rebound by D. Sabonis,,4,102,112,-10,2750.0
+1:48.0, ,102-112,D. Fox misses 2-pt jump shot from 13 ft,,4,102,112,-10,2772.0
+1:46.0,Defensive rebound by D. Murray,102-112, ,,4,102,112,-10,2774.0
+1:41.0,D. Murray makes 2-pt jump shot from 12 ft,104-112, ,,4,104,112,-8,2779.0
+1:20.0, ,104-114,D. Sabonis makes 2-pt hook shot from 9 ft,,4,104,114,-10,2800.0
+1:14.0,D. Murray makes 3-pt jump shot from 25 ft,107-114, ,,4,107,114,-7,2806.0
+0:58.0, ,107-116,D. Fox makes 2-pt layup from 3 ft,,4,107,116,-9,2822.0
+0:58.0, ,107-116,Shooting foul by O. Okongwu (drawn by D. Fox),,4,107,116,-9,2822.0
+0:58.0,G. Mathews enters the game for O. Okongwu,107-116, ,,4,107,116,-9,2822.0
+0:58.0, ,107-117,D. Fox makes free throw 1 of 1,,4,107,117,-10,2822.0
+0:49.0,Turnover by D. Murray (lost ball; steal by D. Fox),107-117, ,,4,107,117,-10,2831.0
+0:43.0, ,107-117,Personal take foul by J. Johnson (drawn by D. Sabonis),,4,107,117,-10,2837.0
+0:43.0, ,107-118,D. Sabonis makes free throw 1 of 2,,4,107,118,-11,2837.0
+0:43.0, ,107-119,D. Sabonis makes free throw 2 of 2,,4,107,119,-12,2837.0
+0:36.0,B. Bogdanović misses 3-pt jump shot from 29 ft,107-119, ,,4,107,119,-12,2844.0
+0:35.0, ,107-119,Defensive rebound by Team,,4,107,119,-12,2845.0
+0:35.0,Loose ball foul by G. Mathews (drawn by M. Monk),107-119, ,,4,107,119,-12,2845.0
+0:35.0,Technical foul by G. Mathews,107-119, ,,4,107,119,-12,2845.0
+0:35.0, ,107-120,H. Barnes makes technical free throw,,4,107,120,-13,2845.0
+0:35.0, ,107-121,M. Monk makes free throw 1 of 2,,4,107,121,-14,2845.0
+0:35.0, ,107-122,M. Monk makes free throw 2 of 2,,4,107,122,-15,2845.0
+0:30.0,D. Murray misses 3-pt jump shot from 30 ft,107-122, ,,4,107,122,-15,2850.0
+0:28.0, ,107-122,Defensive rebound by Team,,4,107,122,-15,2852.0
+0:04.0, ,107-122,Turnover by Team (shot clock),,4,107,122,-15,2876.0
+0:00.0,End of 4th quarter,107-122,,,4,107,122,-15,2880.0

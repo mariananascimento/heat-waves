@@ -1,0 +1,444 @@
+Time,Orlando,Score,Atlanta,Event,Quarter,TeamScore,OpponentScore,PointDifference,ElapsedTime
+12:00.0,Jump ball: G. Bitadze vs. C. Capela (T. Young gains possession),0-0,,,1,0,0,0,0.0
+11:35.0, ,0-0,D. Murray misses 3-pt jump shot from 24 ft (block by C. Okeke),,1,0,0,0,25.0
+11:32.0,Defensive rebound by P. Banchero,0-0, ,,1,0,0,0,28.0
+11:12.0,P. Banchero misses 2-pt jump shot from 12 ft,0-0, ,,1,0,0,0,48.0
+11:11.0,Offensive rebound by Team,0-0, ,,1,0,0,0,49.0
+10:58.0,P. Banchero makes 2-pt layup at rim,2-0, ,,1,0,2,-2,62.0
+10:47.0, ,2-0,Shooting foul by P. Banchero (drawn by J. Johnson),,1,0,2,-2,73.0
+10:47.0, ,2-1,J. Johnson makes free throw 1 of 2,,1,1,2,-1,73.0
+10:47.0, ,2-2,J. Johnson makes free throw 2 of 2,Tie,1,2,2,0,73.0
+10:38.0,Personal foul by S. Bey (drawn by G. Bitadze),2-2, ,,1,2,2,0,82.0
+10:27.0,P. Banchero makes 2-pt jump shot from 6 ft,4-2, ,,1,2,4,-2,93.0
+10:10.0, ,4-4,C. Capela makes 2-pt layup from 1 ft (assist by D. Murray),Tie,1,4,4,0,110.0
+9:59.0,Turnover by J. Suggs (step out of bounds),4-4, ,,1,4,4,0,121.0
+9:50.0, ,4-4,Shooting foul by C. Houstan (drawn by S. Bey),,1,4,4,0,130.0
+9:50.0, ,4-5,S. Bey makes free throw 1 of 2,Lead change,1,5,4,1,130.0
+9:50.0, ,4-6,S. Bey makes free throw 2 of 2,,1,6,4,2,130.0
+9:40.0,J. Suggs makes 2-pt layup from 1 ft,6-6, ,Tie,1,6,6,0,140.0
+9:24.0, ,6-6,Turnover by J. Johnson (step out of bounds),,1,6,6,0,156.0
+9:11.0,P. Banchero misses 2-pt layup from 1 ft,6-6, ,,1,6,6,0,169.0
+9:09.0, ,6-6,Defensive rebound by J. Johnson,,1,6,6,0,171.0
+8:53.0, ,6-6,Turnover by T. Young (lost ball; steal by P. Banchero),,1,6,6,0,187.0
+8:47.0,C. Houstan misses 3-pt jump shot from 26 ft,6-6, ,,1,6,6,0,193.0
+8:44.0, ,6-6,Defensive rebound by J. Johnson,,1,6,6,0,196.0
+8:39.0, ,6-6,Turnover by J. Johnson (bad pass; steal by C. Houstan),,1,6,6,0,201.0
+8:35.0,C. Houstan misses 3-pt jump shot from 23 ft,6-6, ,,1,6,6,0,205.0
+8:31.0,Offensive rebound by C. Okeke,6-6, ,,1,6,6,0,209.0
+8:26.0,C. Houstan misses 3-pt jump shot from 23 ft,6-6, ,,1,6,6,0,214.0
+8:26.0,Offensive rebound by G. Bitadze,6-6, ,,1,6,6,0,214.0
+8:22.0,G. Bitadze makes 2-pt layup from 2 ft,8-6, ,Lead change,1,6,8,-2,218.0
+8:02.0, ,8-8,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),Tie,1,8,8,0,238.0
+7:42.0,P. Banchero misses 2-pt jump shot from 13 ft,8-8, ,,1,8,8,0,258.0
+7:39.0, ,8-8,Defensive rebound by D. Murray,,1,8,8,0,261.0
+7:28.0, ,8-8,S. Bey misses 3-pt jump shot from 26 ft (block by G. Bitadze),,1,8,8,0,272.0
+7:25.0,Defensive rebound by P. Banchero,8-8, ,,1,8,8,0,275.0
+7:16.0,C. Houstan misses 3-pt jump shot from 23 ft,8-8, ,,1,8,8,0,284.0
+7:12.0,Offensive rebound by G. Bitadze,8-8, ,,1,8,8,0,288.0
+7:11.0,J. Suggs makes 3-pt jump shot from 25 ft (assist by G. Bitadze),11-8, ,,1,8,11,-3,289.0
+6:55.0, ,11-8,Turnover by T. Young (bad pass; steal by G. Bitadze),,1,8,11,-3,305.0
+6:48.0,P. Banchero makes 2-pt jump shot from 9 ft,13-8, ,,1,8,13,-5,312.0
+6:48.0, ,13-8,Atlanta full timeout,,1,8,13,-5,312.0
+6:48.0, ,13-8,B. Bogdanović enters the game for J. Johnson,,1,8,13,-5,312.0
+6:48.0, ,13-8,O. Okongwu enters the game for T. Young,,1,8,13,-5,312.0
+6:33.0, ,13-8,D. Murray misses 2-pt jump shot from 16 ft,,1,8,13,-5,327.0
+6:26.0,Defensive rebound by C. Okeke,13-8, ,,1,8,13,-5,334.0
+6:17.0,Turnover by J. Suggs (bad pass; steal by D. Murray),13-8, ,,1,8,13,-5,343.0
+6:14.0, ,13-10,D. Murray makes 2-pt layup from 1 ft,,1,10,13,-3,346.0
+5:49.0,G. Bitadze misses 2-pt hook shot from 8 ft,13-10, ,,1,10,13,-3,371.0
+5:46.0, ,13-10,Defensive rebound by O. Okongwu,,1,10,13,-3,374.0
+5:44.0, ,13-13,S. Bey makes 3-pt jump shot from 25 ft (assist by D. Murray),Tie,1,13,13,0,376.0
+5:21.0,G. Bitadze misses 3-pt jump shot from 26 ft,13-13, ,,1,13,13,0,399.0
+5:18.0,Offensive rebound by C. Houstan,13-13, ,,1,13,13,0,402.0
+5:15.0,C. Okeke misses 3-pt jump shot from 25 ft,13-13, ,,1,13,13,0,405.0
+5:12.0,Offensive rebound by G. Bitadze,13-13, ,,1,13,13,0,408.0
+5:09.0,G. Bitadze makes 2-pt hook shot from 3 ft,15-13, ,,1,13,15,-2,411.0
+4:55.0, ,15-13,O. Okongwu misses 3-pt jump shot from 23 ft,,1,13,15,-2,425.0
+4:47.0,Defensive rebound by C. Okeke,15-13, ,,1,13,15,-2,433.0
+4:42.0,J. Suggs makes 2-pt jump shot from 6 ft,17-13, ,,1,13,17,-4,438.0
+4:26.0, ,17-13,O. Okongwu misses 2-pt layup from 6 ft (block by G. Bitadze),,1,13,17,-4,454.0
+4:23.0,Defensive rebound by C. Okeke,17-13, ,,1,13,17,-4,457.0
+4:11.0,C. Okeke makes 2-pt dunk at rim (assist by P. Banchero),19-13, ,,1,13,19,-6,469.0
+3:57.0, ,19-15,D. Murray makes 2-pt jump shot from 12 ft,,1,15,19,-4,483.0
+3:57.0, ,19-15,Shooting foul by G. Bitadze (drawn by D. Murray),,1,15,19,-4,483.0
+3:57.0,M. Fultz enters the game for C. Houstan,19-15, ,,1,15,19,-4,483.0
+3:57.0,J. Ingles enters the game for J. Suggs,19-15, ,,1,15,19,-4,483.0
+3:57.0, ,19-15,J. Johnson enters the game for S. Bey,,1,15,19,-4,483.0
+3:57.0, ,19-15,G. Mathews enters the game for C. Capela,,1,15,19,-4,483.0
+3:57.0, ,19-16,D. Murray makes free throw 1 of 1,,1,16,19,-3,483.0
+3:45.0,P. Banchero misses 3-pt jump shot from 26 ft,19-16, ,,1,16,19,-3,495.0
+3:42.0, ,19-16,Defensive rebound by G. Mathews,,1,16,19,-3,498.0
+3:33.0, ,19-18,D. Murray makes 2-pt layup from 2 ft,,1,18,19,-1,507.0
+3:24.0,Turnover by M. Fultz (bad pass; steal by J. Johnson),19-18, ,,1,18,19,-1,516.0
+3:19.0, ,19-18,J. Johnson misses 2-pt layup from 1 ft,,1,18,19,-1,521.0
+3:17.0, ,19-18,Offensive rebound by G. Mathews,,1,18,19,-1,523.0
+3:15.0, ,19-18,Turnover by G. Mathews (bad pass; steal by M. Fultz),,1,18,19,-1,525.0
+3:12.0,Turnover by G. Bitadze (bad pass; steal by B. Bogdanović),19-18, ,,1,18,19,-1,528.0
+3:08.0, ,19-18,D. Murray misses 3-pt jump shot from 23 ft,,1,18,19,-1,532.0
+3:07.0, ,19-18,Offensive rebound by B. Bogdanović,,1,18,19,-1,533.0
+3:07.0, ,19-20,B. Bogdanović makes 2-pt layup at rim,Lead change,1,20,19,1,533.0
+3:07.0,Orlando full timeout,19-20, ,,1,20,19,1,533.0
+3:07.0,C. Anthony enters the game for G. Bitadze,19-20, ,,1,20,19,1,533.0
+3:07.0,W. Carter enters the game for C. Okeke,19-20, ,,1,20,19,1,533.0
+3:07.0, ,19-20,T. Young enters the game for D. Murray,,1,20,19,1,533.0
+2:54.0,Shooting foul by O. Okongwu (drawn by P. Banchero),19-20, ,,1,20,19,1,546.0
+2:54.0, ,19-20,Atlanta full timeout,,1,20,19,1,546.0
+2:54.0, ,19-20,Instant Replay (Challenge: Ruling Stands),,1,20,19,1,546.0
+2:54.0,P. Banchero makes free throw 1 of 2,20-20, ,Tie,1,20,20,0,546.0
+2:54.0,P. Banchero misses free throw 2 of 2,20-20, ,,1,20,20,0,546.0
+2:52.0, ,20-20,Defensive rebound by J. Johnson,,1,20,20,0,548.0
+2:40.0, ,20-20,T. Young misses 2-pt jump shot from 12 ft,,1,20,20,0,560.0
+2:37.0,Defensive rebound by M. Fultz,20-20, ,,1,20,20,0,563.0
+2:17.0,C. Anthony misses 3-pt jump shot from 26 ft,20-20, ,,1,20,20,0,583.0
+2:13.0, ,20-20,Defensive rebound by G. Mathews,,1,20,20,0,587.0
+1:59.0, ,20-20,T. Young misses 3-pt jump shot from 28 ft,,1,20,20,0,601.0
+1:57.0, ,20-20,Offensive rebound by O. Okongwu,,1,20,20,0,603.0
+1:54.0, ,20-20,Turnover by T. Young (bad pass),,1,20,20,0,606.0
+1:41.0,W. Carter makes 3-pt jump shot from 23 ft (assist by P. Banchero),23-20, ,Lead change,1,20,23,-3,619.0
+1:26.0, ,23-22,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,1,22,23,-1,634.0
+1:18.0,C. Anthony misses 2-pt jump shot from 12 ft,23-22, ,,1,22,23,-1,642.0
+1:15.0, ,23-22,Defensive rebound by O. Okongwu,,1,22,23,-1,645.0
+1:09.0, ,23-24,O. Okongwu makes 2-pt dunk from 1 ft (assist by B. Bogdanović),Lead change,1,24,23,1,651.0
+0:40.0,P. Banchero misses 2-pt layup from 6 ft (block by B. Bogdanović),23-24, ,,1,24,23,1,680.0
+0:38.0, ,23-24,Defensive rebound by B. Bogdanović,,1,24,23,1,682.0
+0:33.0, ,23-26,T. Young makes 2-pt layup from 1 ft,,1,26,23,3,687.0
+0:23.0,W. Carter makes 3-pt jump shot from 25 ft (assist by M. Fultz),26-26, ,Tie,1,26,26,0,697.0
+0:06.0, ,26-26,Personal take foul by J. Ingles (drawn by T. Young),,1,26,26,0,714.0
+0:06.0,A. Black enters the game for C. Anthony,26-26, ,,1,26,26,0,714.0
+0:06.0,J. Isaac enters the game for P. Banchero,26-26, ,,1,26,26,0,714.0
+0:00.0, ,26-26,J. Johnson misses 3-pt jump shot from 26 ft,,1,26,26,0,720.0
+0:00.0, ,26-26,Offensive rebound by Team,,1,26,26,0,720.0
+0:00.0,End of 1st quarter,26-26,,,1,26,26,0,720.0
+12:00.0,Start of 2nd quarter,26-26,,,2,26,26,0,720.0
+11:45.0,J. Isaac makes 2-pt dunk from 1 ft (assist by J. Ingles),28-26, ,Lead change,2,26,28,-2,735.0
+11:24.0, ,28-26,Turnover by B. Bogdanović (bad pass; steal by M. Fultz),,2,26,28,-2,756.0
+11:14.0,J. Ingles misses 3-pt jump shot from 25 ft,28-26, ,,2,26,28,-2,766.0
+11:11.0, ,28-26,Defensive rebound by O. Okongwu,,2,26,28,-2,769.0
+11:05.0, ,28-29,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),Lead change,2,29,28,1,775.0
+10:44.0,W. Carter makes 2-pt layup from 1 ft (assist by J. Ingles),30-29, ,Lead change,2,29,30,-1,796.0
+10:30.0, ,30-29,J. Johnson misses 2-pt layup from 1 ft (block by W. Carter),,2,29,30,-1,810.0
+10:29.0,Defensive rebound by Team,30-29, ,,2,29,30,-1,811.0
+10:16.0,Turnover by C. Anthony (out of bounds lost ball),30-29, ,,2,29,30,-1,824.0
+9:56.0, ,30-31,O. Okongwu makes 2-pt dunk at rim (assist by T. Young),Lead change,2,31,30,1,844.0
+9:39.0,Offensive foul by J. Ingles (drawn by G. Mathews),30-31, ,,2,31,30,1,861.0
+9:39.0,Turnover by J. Ingles (offensive foul),30-31, ,,2,31,30,1,861.0
+9:29.0, ,30-31,Turnover by T. Young (bad pass; steal by C. Anthony),,2,31,30,1,871.0
+9:22.0,W. Carter misses 3-pt jump shot from 26 ft,30-31, ,,2,31,30,1,878.0
+9:20.0, ,30-31,Defensive rebound by Team,,2,31,30,1,880.0
+9:13.0, ,30-33,T. Young makes 2-pt layup from 1 ft,,2,33,30,3,887.0
+9:13.0, ,30-33,Shooting foul by M. Fultz (drawn by T. Young),,2,33,30,3,887.0
+9:13.0, ,30-33,S. Bey enters the game for J. Johnson,,2,33,30,3,887.0
+9:13.0, ,30-34,T. Young makes free throw 1 of 1,,2,34,30,4,887.0
+8:55.0,M. Fultz makes 2-pt layup from 1 ft,32-34, ,,2,34,32,2,905.0
+8:43.0, ,32-34,S. Bey misses 3-pt jump shot from 24 ft,,2,34,32,2,917.0
+8:41.0,Defensive rebound by J. Ingles,32-34, ,,2,34,32,2,919.0
+8:31.0,M. Fultz misses 2-pt layup from 2 ft (block by O. Okongwu),32-34, ,,2,34,32,2,929.0
+8:30.0, ,32-34,Defensive rebound by Team,,2,34,32,2,930.0
+8:30.0, ,32-34,D. Murray enters the game for T. Young,,2,34,32,2,930.0
+8:18.0, ,32-34,Turnover by D. Murray (bad pass; steal by J. Isaac),,2,34,32,2,942.0
+8:13.0,C. Anthony makes 2-pt layup from 1 ft (assist by J. Isaac),34-34, ,Tie,2,34,34,0,947.0
+8:01.0, ,34-34,Turnover by G. Mathews (back court),,2,34,34,0,959.0
+7:50.0,Shooting foul by G. Mathews (drawn by C. Anthony),34-34, ,,2,34,34,0,970.0
+7:50.0,C. Anthony makes free throw 1 of 2,35-34, ,Lead change,2,34,35,-1,970.0
+7:50.0, ,35-34,C. Capela enters the game for G. Mathews,,2,34,35,-1,970.0
+7:50.0,C. Anthony makes free throw 2 of 2,36-34, ,,2,34,36,-2,970.0
+7:33.0, ,36-34,B. Bogdanović misses 3-pt jump shot from 26 ft,,2,34,36,-2,987.0
+7:29.0,Defensive rebound by J. Ingles,36-34, ,,2,34,36,-2,991.0
+7:22.0,J. Ingles misses 3-pt jump shot from 25 ft,36-34, ,,2,34,36,-2,998.0
+7:17.0,Offensive rebound by W. Carter,36-34, ,,2,34,36,-2,1003.0
+7:17.0,W. Carter makes 2-pt dunk at rim,38-34, ,,2,34,38,-4,1003.0
+7:10.0, ,38-34,Turnover by D. Murray (bad pass; steal by J. Ingles),,2,34,38,-4,1010.0
+7:01.0,C. Anthony misses 3-pt jump shot from 26 ft,38-34, ,,2,34,38,-4,1019.0
+6:58.0, ,38-34,Defensive rebound by O. Okongwu,,2,34,38,-4,1022.0
+6:56.0, ,38-34,Turnover by O. Okongwu (bad pass; steal by J. Isaac),,2,34,38,-4,1024.0
+6:42.0,M. Fultz makes 2-pt jump shot from 15 ft (assist by W. Carter),40-34, ,,2,34,40,-6,1038.0
+6:25.0, ,40-34,D. Murray misses 2-pt jump shot from 12 ft,,2,34,40,-6,1055.0
+6:23.0,Defensive rebound by M. Fultz,40-34, ,,2,34,40,-6,1057.0
+6:19.0,J. Ingles misses 3-pt jump shot from 25 ft,40-34, ,,2,34,40,-6,1061.0
+6:16.0, ,40-34,Defensive rebound by D. Murray,,2,34,40,-6,1064.0
+6:09.0, ,40-34,Turnover by D. Murray (bad pass),,2,34,40,-6,1071.0
+6:09.0, ,40-34,Atlanta full timeout,,2,34,40,-6,1071.0
+6:09.0,P. Banchero enters the game for J. Ingles,40-34, ,,2,34,40,-6,1071.0
+6:09.0,C. Okeke enters the game for J. Isaac,40-34, ,,2,34,40,-6,1071.0
+6:09.0, ,40-34,J. Johnson enters the game for B. Bogdanović,,2,34,40,-6,1071.0
+6:09.0, ,40-34,T. Young enters the game for O. Okongwu,,2,34,40,-6,1071.0
+5:55.0,C. Anthony misses 2-pt jump shot from 14 ft,40-34, ,,2,34,40,-6,1085.0
+5:52.0, ,40-34,Defensive rebound by S. Bey,,2,34,40,-6,1088.0
+5:31.0, ,40-36,J. Johnson makes 2-pt jump shot from 10 ft,,2,36,40,-4,1109.0
+5:13.0,Turnover by C. Okeke (lost ball; steal by D. Murray),40-36, ,,2,36,40,-4,1127.0
+5:07.0, ,40-38,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),,2,38,40,-2,1133.0
+4:54.0,Shooting foul by C. Capela (drawn by P. Banchero),40-38, ,,2,38,40,-2,1146.0
+4:54.0,P. Banchero makes free throw 1 of 2,41-38, ,,2,38,41,-3,1146.0
+4:54.0,G. Bitadze enters the game for W. Carter,41-38, ,,2,38,41,-3,1146.0
+4:54.0,J. Suggs enters the game for M. Fultz,41-38, ,,2,38,41,-3,1146.0
+4:54.0,P. Banchero makes free throw 2 of 2,42-38, ,,2,38,42,-4,1146.0
+4:41.0, ,42-40,C. Capela makes 2-pt dunk from 1 ft (assist by J. Johnson),,2,40,42,-2,1159.0
+4:25.0,Shooting foul by J. Johnson (drawn by C. Anthony),42-40, ,,2,40,42,-2,1175.0
+4:25.0,C. Anthony makes free throw 1 of 2,43-40, ,,2,40,43,-3,1175.0
+4:25.0,C. Anthony misses free throw 2 of 2,43-40, ,,2,40,43,-3,1175.0
+4:23.0, ,43-40,Defensive rebound by J. Johnson,,2,40,43,-3,1177.0
+4:12.0, ,43-40,Shooting foul by C. Anthony (drawn by S. Bey),,2,40,43,-3,1188.0
+4:12.0, ,43-41,S. Bey makes free throw 1 of 2,,2,41,43,-2,1188.0
+4:12.0, ,43-42,S. Bey makes free throw 2 of 2,,2,42,43,-1,1188.0
+3:58.0,C. Anthony misses 3-pt jump shot from 23 ft,43-42, ,,2,42,43,-1,1202.0
+3:56.0,Offensive rebound by G. Bitadze,43-42, ,,2,42,43,-1,1204.0
+3:55.0,G. Bitadze makes 2-pt layup from 2 ft,45-42, ,,2,42,45,-3,1205.0
+3:41.0, ,45-42,S. Bey misses 3-pt jump shot from 23 ft,,2,42,45,-3,1219.0
+3:39.0,Defensive rebound by C. Okeke,45-42, ,,2,42,45,-3,1221.0
+3:29.0,P. Banchero misses 2-pt jump shot from 15 ft,45-42, ,,2,42,45,-3,1231.0
+3:25.0,Offensive rebound by G. Bitadze,45-42, ,,2,42,45,-3,1235.0
+3:25.0,M. Fultz enters the game for C. Anthony,45-42, ,,2,42,45,-3,1235.0
+3:22.0, ,45-42,Violation by Team (kicked ball),,2,42,45,-3,1238.0
+3:13.0,P. Banchero misses 2-pt jump shot from 17 ft,45-42, ,,2,42,45,-3,1247.0
+3:09.0,Offensive rebound by J. Suggs,45-42, ,,2,42,45,-3,1251.0
+3:08.0,J. Suggs misses 2-pt jump shot from 10 ft,45-42, ,,2,42,45,-3,1252.0
+3:08.0, ,45-42,Defensive rebound by S. Bey,,2,42,45,-3,1252.0
+3:01.0, ,45-42,J. Johnson misses 2-pt layup from 1 ft (block by P. Banchero),,2,42,45,-3,1259.0
+3:00.0, ,45-42,Offensive rebound by Team,,2,42,45,-3,1260.0
+2:52.0, ,45-44,C. Capela makes 2-pt dunk from 1 ft (assist by J. Johnson),,2,44,45,-1,1268.0
+2:35.0,C. Okeke makes 2-pt jump shot from 9 ft (assist by G. Bitadze),47-44, ,,2,44,47,-3,1285.0
+2:22.0, ,47-47,D. Murray makes 3-pt jump shot from 23 ft (assist by T. Young),Tie,2,47,47,0,1298.0
+2:07.0,Personal foul by D. Murray (drawn by J. Suggs),47-47, ,,2,47,47,0,1313.0
+2:07.0,Orlando full timeout,47-47, ,,2,47,47,0,1313.0
+2:01.0,M. Fultz misses 2-pt layup from 3 ft,47-47, ,,2,47,47,0,1319.0
+1:56.0,Offensive rebound by G. Bitadze,47-47, ,,2,47,47,0,1324.0
+1:56.0,G. Bitadze makes 2-pt layup at rim,49-47, ,,2,47,49,-2,1324.0
+1:34.0, ,49-49,D. Murray makes 2-pt layup from 3 ft,Tie,2,49,49,0,1346.0
+1:17.0,P. Banchero makes 2-pt jump shot from 18 ft (assist by G. Bitadze),51-49, ,,2,49,51,-2,1363.0
+1:05.0, ,51-49,D. Murray misses 2-pt jump shot from 8 ft,,2,49,51,-2,1375.0
+1:04.0, ,51-49,Offensive rebound by Team,,2,49,51,-2,1376.0
+0:58.0, ,51-49,Personal foul by M. Fultz (drawn by D. Murray),,2,49,51,-2,1382.0
+0:47.0, ,51-49,Turnover by J. Johnson (bad pass; steal by C. Okeke),,2,49,51,-2,1393.0
+0:32.0,C. Okeke misses 3-pt jump shot from 23 ft,51-49, ,,2,49,51,-2,1408.0
+0:29.0,Offensive rebound by M. Fultz,51-49, ,,2,49,51,-2,1411.0
+0:16.0,C. Okeke misses 3-pt jump shot from 23 ft,51-49, ,,2,49,51,-2,1424.0
+0:12.0, ,51-49,Defensive rebound by Team,,2,49,51,-2,1428.0
+0:04.0, ,51-49,T. Young misses 2-pt jump shot from 11 ft,,2,49,51,-2,1436.0
+0:01.0,Defensive rebound by G. Bitadze,51-49, ,,2,49,51,-2,1439.0
+0:00.0,End of 2nd quarter,51-49,,,2,49,51,-2,1440.0
+12:00.0,Start of 3rd quarter,51-49,,,3,49,51,-2,1440.0
+11:46.0,C. Houstan misses 3-pt jump shot from 23 ft,51-49, ,,3,49,51,-2,1454.0
+11:40.0, ,51-49,Defensive rebound by C. Capela,,3,49,51,-2,1460.0
+11:29.0, ,51-49,T. Young misses 2-pt jump shot from 10 ft,,3,49,51,-2,1471.0
+11:26.0,Defensive rebound by G. Bitadze,51-49, ,,3,49,51,-2,1474.0
+11:04.0,P. Banchero misses 2-pt jump shot from 18 ft,51-49, ,,3,49,51,-2,1496.0
+11:01.0, ,51-49,Defensive rebound by J. Johnson,,3,49,51,-2,1499.0
+10:52.0, ,51-51,J. Johnson makes 2-pt dunk at rim (assist by T. Young),Tie,3,51,51,0,1508.0
+10:52.0, ,51-51,Shooting foul by G. Bitadze (drawn by J. Johnson),,3,51,51,0,1508.0
+10:52.0, ,51-51,J. Johnson misses free throw 1 of 1,,3,51,51,0,1508.0
+10:48.0,Defensive rebound by G. Bitadze,51-51, ,,3,51,51,0,1512.0
+10:40.0,P. Banchero makes 2-pt layup from 2 ft,53-51, ,,3,51,53,-2,1520.0
+10:12.0, ,53-51,Turnover by D. Murray (lost ball; steal by C. Okeke),,3,51,53,-2,1548.0
+10:10.0,Personal foul by T. Young (drawn by P. Banchero),53-51, ,,3,51,53,-2,1550.0
+10:10.0,C. Houstan misses free throw 1 of 1,53-51, ,,3,51,53,-2,1550.0
+10:10.0,Offensive rebound by Team,53-51, ,,3,51,53,-2,1550.0
+9:59.0,J. Suggs makes 3-pt jump shot from 26 ft,56-51, ,,3,51,56,-5,1561.0
+9:48.0, ,56-54,T. Young makes 3-pt jump shot from 29 ft,,3,54,56,-2,1572.0
+9:24.0,C. Houstan misses 3-pt jump shot from 26 ft,56-54, ,,3,54,56,-2,1596.0
+9:18.0, ,56-54,Defensive rebound by T. Young,,3,54,56,-2,1602.0
+9:11.0, ,56-54,Turnover by T. Young (bad pass; steal by C. Okeke),,3,54,56,-2,1609.0
+9:08.0,J. Suggs makes 3-pt jump shot from 26 ft,59-54, ,,3,54,59,-5,1612.0
+8:40.0, ,59-57,J. Johnson makes 3-pt jump shot from 25 ft (assist by D. Murray),,3,57,59,-2,1640.0
+8:18.0,P. Banchero misses 2-pt jump shot from 19 ft,59-57, ,,3,57,59,-2,1662.0
+8:15.0,Offensive rebound by G. Bitadze,59-57, ,,3,57,59,-2,1665.0
+8:15.0,G. Bitadze makes 2-pt layup from 4 ft,61-57, ,,3,57,61,-4,1665.0
+8:04.0, ,61-57,Personal foul by C. Houstan (drawn by T. Young),,3,57,61,-4,1676.0
+8:00.0, ,61-59,C. Capela makes 2-pt dunk from 1 ft (assist by T. Young),,3,59,61,-2,1680.0
+7:42.0,Shooting foul by J. Johnson (drawn by P. Banchero),61-59, ,,3,59,61,-2,1698.0
+7:42.0,P. Banchero makes free throw 1 of 2,62-59, ,,3,59,62,-3,1698.0
+7:42.0,P. Banchero makes free throw 2 of 2,63-59, ,,3,59,63,-4,1698.0
+7:33.0, ,63-61,T. Young makes 2-pt jump shot from 22 ft,,3,61,63,-2,1707.0
+7:18.0,J. Suggs makes 2-pt jump shot from 10 ft (assist by P. Banchero),65-61, ,,3,61,65,-4,1722.0
+6:55.0, ,65-61,Turnover by T. Young (lost ball; steal by P. Banchero),,3,61,65,-4,1745.0
+6:50.0,C. Houstan makes 3-pt jump shot from 26 ft (assist by P. Banchero),68-61, ,,3,61,68,-7,1750.0
+6:49.0, ,68-61,Atlanta full timeout,,3,61,68,-7,1751.0
+6:36.0, ,68-61,T. Young misses 3-pt jump shot from 25 ft,,3,61,68,-7,1764.0
+6:33.0,Defensive rebound by J. Suggs,68-61, ,,3,61,68,-7,1767.0
+6:18.0,P. Banchero misses 3-pt jump shot from 27 ft,68-61, ,,3,61,68,-7,1782.0
+6:15.0, ,68-61,Defensive rebound by J. Johnson,,3,61,68,-7,1785.0
+6:09.0, ,68-61,Shooting foul by C. Houstan (drawn by D. Murray),,3,61,68,-7,1791.0
+6:09.0, ,68-62,D. Murray makes free throw 1 of 2,,3,62,68,-6,1791.0
+6:09.0,M. Fultz enters the game for C. Houstan,68-62, ,,3,62,68,-6,1791.0
+6:09.0, ,68-62,B. Bogdanović enters the game for J. Johnson,,3,62,68,-6,1791.0
+6:09.0, ,68-62,O. Okongwu enters the game for T. Young,,3,62,68,-6,1791.0
+6:09.0, ,68-63,D. Murray makes free throw 2 of 2,,3,63,68,-5,1791.0
+6:01.0,Turnover by M. Fultz (lost ball; steal by C. Capela),68-63, ,,3,63,68,-5,1799.0
+5:55.0, ,68-65,D. Murray makes 2-pt layup from 2 ft,,3,65,68,-3,1805.0
+5:38.0,C. Okeke misses 2-pt jump shot from 5 ft,68-65, ,,3,65,68,-3,1822.0
+5:36.0, ,68-65,Defensive rebound by C. Capela,,3,65,68,-3,1824.0
+5:21.0, ,68-65,Turnover by C. Capela (traveling),,3,65,68,-3,1839.0
+5:05.0,G. Bitadze misses 2-pt jump shot from 11 ft,68-65, ,,3,65,68,-3,1855.0
+5:02.0, ,68-65,Defensive rebound by B. Bogdanović,,3,65,68,-3,1858.0
+4:54.0, ,68-65,Turnover by D. Murray (lost ball; steal by M. Fultz),,3,65,68,-3,1866.0
+4:50.0,P. Banchero misses 2-pt jump shot from 6 ft,68-65, ,,3,65,68,-3,1870.0
+4:44.0,Offensive rebound by C. Okeke,68-65, ,,3,65,68,-3,1876.0
+4:44.0,C. Okeke makes 2-pt layup at rim,70-65, ,,3,65,70,-5,1876.0
+4:32.0, ,70-68,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by D. Murray),,3,68,70,-2,1888.0
+4:09.0,C. Okeke misses 3-pt jump shot from 24 ft,70-68, ,,3,68,70,-2,1911.0
+4:08.0, ,70-68,Defensive rebound by Team,,3,68,70,-2,1912.0
+4:08.0,W. Carter enters the game for G. Bitadze,70-68, ,,3,68,70,-2,1912.0
+4:08.0,J. Ingles enters the game for J. Suggs,70-68, ,,3,68,70,-2,1912.0
+4:08.0, ,70-68,J. Johnson enters the game for C. Capela,,3,68,70,-2,1912.0
+3:54.0, ,70-70,B. Bogdanović makes 2-pt layup from 1 ft,Tie,3,70,70,0,1926.0
+3:30.0,W. Carter makes 3-pt jump shot from 26 ft (assist by C. Okeke),73-70, ,,3,70,73,-3,1950.0
+3:12.0, ,73-70,S. Bey misses 2-pt jump shot from 13 ft,,3,70,73,-3,1968.0
+3:08.0,Defensive rebound by P. Banchero,73-70, ,,3,70,73,-3,1972.0
+2:54.0,P. Banchero misses 3-pt jump shot from 24 ft,73-70, ,,3,70,73,-3,1986.0
+2:53.0, ,73-70,Defensive rebound by Team,,3,70,73,-3,1987.0
+2:53.0,Orlando full timeout,73-70, ,,3,70,73,-3,1987.0
+2:53.0,C. Anthony enters the game for C. Okeke,73-70, ,,3,70,73,-3,1987.0
+2:53.0, ,73-70,G. Mathews enters the game for S. Bey,,3,70,73,-3,1987.0
+2:53.0, ,73-70,T. Young enters the game for D. Murray,,3,70,73,-3,1987.0
+2:42.0, ,73-70,Offensive foul by O. Okongwu (drawn by C. Anthony),,3,70,73,-3,1998.0
+2:42.0, ,73-70,Turnover by O. Okongwu (offensive foul),,3,70,73,-3,1998.0
+2:27.0,Turnover by P. Banchero (bad pass; steal by J. Johnson),73-70, ,,3,70,73,-3,2013.0
+2:25.0, ,73-70,Personal foul by M. Fultz (drawn by J. Johnson),,3,70,73,-3,2015.0
+2:18.0, ,73-72,O. Okongwu makes 2-pt layup from 4 ft (assist by T. Young),,3,72,73,-1,2022.0
+2:03.0,P. Banchero misses 2-pt jump shot from 19 ft,73-72, ,,3,72,73,-1,2037.0
+1:59.0, ,73-72,Defensive rebound by J. Johnson,,3,72,73,-1,2041.0
+1:54.0, ,73-72,O. Okongwu misses 2-pt dunk from 1 ft,,3,72,73,-1,2046.0
+1:51.0, ,73-72,Offensive rebound by T. Young,,3,72,73,-1,2049.0
+1:50.0, ,73-74,T. Young makes 2-pt jump shot from 11 ft,Lead change,3,74,73,1,2050.0
+1:27.0,Turnover by J. Ingles (bad pass; steal by G. Mathews),73-74, ,,3,74,73,1,2073.0
+1:20.0, ,73-77,G. Mathews makes 3-pt jump shot from 23 ft (assist by J. Johnson),,3,77,73,4,2080.0
+0:54.0,Shooting foul by J. Johnson (drawn by P. Banchero),73-77, ,,3,77,73,4,2106.0
+0:54.0,P. Banchero makes free throw 1 of 2,74-77, ,,3,77,74,3,2106.0
+0:54.0,P. Banchero misses free throw 2 of 2,74-77, ,,3,77,74,3,2106.0
+0:52.0, ,74-77,Defensive rebound by J. Johnson,,3,77,74,3,2108.0
+0:40.0, ,74-77,Turnover by J. Johnson (traveling),,3,77,74,3,2120.0
+0:31.0,M. Fultz makes 2-pt layup from 1 ft,76-77, ,,3,77,76,1,2129.0
+0:28.0, ,76-77,T. Young misses 3-pt jump shot from 26 ft,,3,77,76,1,2132.0
+0:25.0,Defensive rebound by M. Fultz,76-77, ,,3,77,76,1,2135.0
+0:08.0,Turnover by M. Fultz (bad pass; steal by T. Young),76-77, ,,3,77,76,1,2152.0
+0:02.0, ,76-77,Shooting foul by M. Fultz (drawn by J. Johnson),,3,77,76,1,2158.0
+0:02.0, ,76-78,J. Johnson makes free throw 1 of 2,,3,78,76,2,2158.0
+0:02.0, ,76-78,J. Johnson misses free throw 2 of 2,,3,78,76,2,2158.0
+0:01.0,Defensive rebound by P. Banchero,76-78, ,,3,78,76,2,2159.0
+0:00.0,End of 3rd quarter,76-78,,,3,78,76,2,2160.0
+12:00.0,Start of 4th quarter,76-78,,,4,78,76,2,2160.0
+11:40.0, ,76-78,J. Johnson misses 2-pt jump shot from 11 ft,,4,78,76,2,2180.0
+11:37.0,Defensive rebound by J. Ingles,76-78, ,,4,78,76,2,2183.0
+11:17.0,C. Anthony makes 3-pt jump shot from 27 ft (assist by J. Ingles),79-78, ,Lead change,4,78,79,-1,2203.0
+11:03.0, ,79-78,O. Okongwu misses 2-pt layup from 3 ft (block by C. Anthony),,4,78,79,-1,2217.0
+11:01.0,Defensive rebound by C. Anthony,79-78, ,,4,78,79,-1,2219.0
+10:58.0,M. Fultz makes 2-pt layup from 2 ft (assist by C. Anthony),81-78, ,,4,78,81,-3,2222.0
+10:41.0, ,81-78,G. Mathews misses 3-pt jump shot from 27 ft,,4,78,81,-3,2239.0
+10:37.0, ,81-78,Offensive rebound by G. Mathews,,4,78,81,-3,2243.0
+10:37.0, ,81-81,G. Mathews makes 3-pt jump shot from 25 ft,Tie,4,81,81,0,2243.0
+10:18.0,J. Ingles makes 3-pt jump shot from 26 ft (assist by J. Isaac),84-81, ,,4,81,84,-3,2262.0
+10:05.0, ,84-83,O. Okongwu makes 2-pt dunk from 1 ft (assist by T. Young),,4,83,84,-1,2275.0
+9:47.0,J. Isaac misses 2-pt jump shot from 12 ft,84-83, ,,4,83,84,-1,2293.0
+9:42.0,Offensive rebound by W. Carter,84-83, ,,4,83,84,-1,2298.0
+9:42.0,W. Carter makes 2-pt layup at rim,86-83, ,,4,83,86,-3,2298.0
+9:32.0, ,86-85,O. Okongwu makes 2-pt layup from 1 ft (assist by T. Young),,4,85,86,-1,2308.0
+9:32.0, ,86-85,Shooting foul by W. Carter (drawn by O. Okongwu),,4,85,86,-1,2308.0
+9:32.0, ,86-85,D. Murray enters the game for G. Mathews,,4,85,86,-1,2308.0
+9:32.0, ,86-86,O. Okongwu makes free throw 1 of 1,Tie,4,86,86,0,2308.0
+9:20.0,C. Anthony misses 3-pt jump shot from 26 ft,86-86, ,,4,86,86,0,2320.0
+9:15.0, ,86-86,Defensive rebound by B. Bogdanović,,4,86,86,0,2325.0
+9:11.0, ,86-86,B. Bogdanović misses 3-pt jump shot from 25 ft,,4,86,86,0,2329.0
+9:07.0,Defensive rebound by W. Carter,86-86, ,,4,86,86,0,2333.0
+8:59.0,M. Fultz misses 2-pt jump shot from 13 ft,86-86, ,,4,86,86,0,2341.0
+8:56.0, ,86-86,Defensive rebound by O. Okongwu,,4,86,86,0,2344.0
+8:47.0, ,86-86,Shooting foul by J. Ingles (drawn by B. Bogdanović),,4,86,86,0,2353.0
+8:47.0, ,86-87,B. Bogdanović makes free throw 1 of 2,Lead change,4,87,86,1,2353.0
+8:47.0, ,86-87,S. Bey enters the game for J. Johnson,,4,87,86,1,2353.0
+8:47.0, ,86-88,B. Bogdanović makes free throw 2 of 2,,4,88,86,2,2353.0
+8:35.0,Personal foul by B. Bogdanović (drawn by W. Carter),86-88, ,,4,88,86,2,2365.0
+8:27.0,C. Anthony makes 2-pt dunk at rim (assist by W. Carter),88-88, ,Tie,4,88,88,0,2373.0
+8:07.0, ,88-88,B. Bogdanović misses 2-pt jump shot from 13 ft (block by C. Anthony),,4,88,88,0,2393.0
+8:06.0,Defensive rebound by J. Ingles,88-88, ,,4,88,88,0,2394.0
+8:06.0,Personal foul by S. Bey (drawn by C. Anthony),88-88, ,,4,88,88,0,2394.0
+8:06.0,P. Banchero enters the game for J. Isaac,88-88, ,,4,88,88,0,2394.0
+7:54.0,Offensive foul by J. Ingles (drawn by B. Bogdanović),88-88, ,,4,88,88,0,2406.0
+7:54.0,Turnover by J. Ingles (offensive foul),88-88, ,,4,88,88,0,2406.0
+7:54.0, ,88-88,C. Capela enters the game for O. Okongwu,,4,88,88,0,2406.0
+7:39.0, ,88-88,Turnover by T. Young (bad pass; steal by W. Carter),,4,88,88,0,2421.0
+7:32.0,Shooting foul by C. Capela (drawn by W. Carter),88-88, ,,4,88,88,0,2428.0
+7:32.0,W. Carter makes free throw 1 of 2,89-88, ,Lead change,4,88,89,-1,2428.0
+7:32.0,W. Carter makes free throw 2 of 2,90-88, ,,4,88,90,-2,2428.0
+7:22.0, ,90-90,D. Murray makes 2-pt jump shot from 10 ft,Tie,4,90,90,0,2438.0
+7:03.0,J. Ingles misses 3-pt jump shot from 26 ft,90-90, ,,4,90,90,0,2457.0
+7:03.0, ,90-90,Defensive rebound by C. Capela,,4,90,90,0,2457.0
+6:54.0, ,90-90,Turnover by T. Young (bad pass; steal by W. Carter),,4,90,90,0,2466.0
+6:53.0,Personal foul by T. Young (drawn by P. Banchero),90-90, ,,4,90,90,0,2467.0
+6:53.0, ,90-90,Atlanta full timeout,,4,90,90,0,2467.0
+6:53.0,G. Bitadze enters the game for W. Carter,90-90, ,,4,90,90,0,2467.0
+6:53.0,C. Okeke enters the game for M. Fultz,90-90, ,,4,90,90,0,2467.0
+6:53.0,J. Suggs enters the game for J. Ingles,90-90, ,,4,90,90,0,2467.0
+6:53.0, ,90-90,J. Johnson enters the game for B. Bogdanović,,4,90,90,0,2467.0
+6:39.0,C. Anthony misses 3-pt jump shot from 26 ft,90-90, ,,4,90,90,0,2481.0
+6:37.0, ,90-90,Defensive rebound by D. Murray,,4,90,90,0,2483.0
+6:14.0, ,90-92,D. Murray makes 2-pt layup from 3 ft,Lead change,4,92,90,2,2506.0
+5:58.0,P. Banchero makes 2-pt jump shot from 2 ft,92-92, ,Tie,4,92,92,0,2522.0
+5:36.0, ,92-94,D. Murray makes 2-pt layup from 3 ft (assist by T. Young),,4,94,92,2,2544.0
+5:22.0,Shooting foul by C. Capela (drawn by P. Banchero),92-94, ,,4,94,92,2,2558.0
+5:22.0,P. Banchero makes free throw 1 of 3,93-94, ,,4,94,93,1,2558.0
+5:22.0,P. Banchero makes free throw 2 of 3,94-94, ,Tie,4,94,94,0,2558.0
+5:22.0,P. Banchero makes free throw 3 of 3,95-94, ,Lead change,4,94,95,-1,2558.0
+5:14.0, ,95-94,T. Young misses 2-pt layup from 5 ft (block by C. Anthony),,4,94,95,-1,2566.0
+5:13.0,Defensive rebound by Team,95-94, ,,4,94,95,-1,2567.0
+5:00.0,C. Okeke misses 2-pt dunk from 2 ft,95-94, ,,4,94,95,-1,2580.0
+4:56.0, ,95-94,Defensive rebound by T. Young,,4,94,95,-1,2584.0
+4:49.0, ,95-94,D. Murray misses 3-pt jump shot from 27 ft,,4,94,95,-1,2591.0
+4:47.0,Defensive rebound by J. Suggs,95-94, ,,4,94,95,-1,2593.0
+4:34.0,P. Banchero misses 3-pt jump shot from 26 ft,95-94, ,,4,94,95,-1,2606.0
+4:32.0, ,95-94,Defensive rebound by Team,,4,94,95,-1,2608.0
+4:32.0,Loose ball foul by G. Bitadze (drawn by C. Capela),95-94, ,,4,94,95,-1,2608.0
+4:32.0, ,95-94,Atlanta full timeout,,4,94,95,-1,2608.0
+4:32.0,W. Carter enters the game for C. Anthony,95-94, ,,4,94,95,-1,2608.0
+4:32.0,M. Fultz enters the game for G. Bitadze,95-94, ,,4,94,95,-1,2608.0
+4:21.0, ,95-94,Personal foul by J. Suggs (drawn by J. Johnson),,4,94,95,-1,2619.0
+4:21.0, ,95-94,O. Okongwu enters the game for C. Capela,,4,94,95,-1,2619.0
+4:08.0, ,95-94,T. Young misses 3-pt jump shot from 35 ft,,4,94,95,-1,2632.0
+4:04.0,Defensive rebound by W. Carter,95-94, ,,4,94,95,-1,2636.0
+3:47.0,P. Banchero misses 2-pt jump shot from 12 ft,95-94, ,,4,94,95,-1,2653.0
+3:44.0, ,95-94,Defensive rebound by J. Johnson,,4,94,95,-1,2656.0
+3:27.0, ,95-96,O. Okongwu makes 2-pt layup from 1 ft (assist by D. Murray),Lead change,4,96,95,1,2673.0
+3:12.0,Offensive foul by M. Fultz (drawn by T. Young),95-96, ,,4,96,95,1,2688.0
+3:12.0,Turnover by M. Fultz (offensive foul),95-96, ,,4,96,95,1,2688.0
+3:00.0, ,95-96,T. Young misses 3-pt jump shot from 26 ft,,4,96,95,1,2700.0
+2:56.0,Defensive rebound by W. Carter,95-96, ,,4,96,95,1,2704.0
+2:43.0,P. Banchero makes 2-pt layup from 2 ft,97-96, ,Lead change,4,96,97,-1,2717.0
+2:32.0, ,97-96,Personal foul by J. Suggs (drawn by T. Young),,4,96,97,-1,2728.0
+2:32.0, ,97-97,T. Young makes free throw 1 of 2,Tie,4,97,97,0,2728.0
+2:32.0, ,97-98,T. Young makes free throw 2 of 2,Lead change,4,98,97,1,2728.0
+2:19.0,P. Banchero misses 2-pt jump shot from 15 ft,97-98, ,,4,98,97,1,2741.0
+2:14.0, ,97-98,Defensive rebound by D. Murray,,4,98,97,1,2746.0
+2:03.0, ,97-98,S. Bey misses 3-pt jump shot from 24 ft,,4,98,97,1,2757.0
+1:58.0, ,97-98,Offensive rebound by S. Bey,,4,98,97,1,2762.0
+1:50.0, ,97-98,D. Murray misses 2-pt layup from 2 ft,,4,98,97,1,2770.0
+1:48.0, ,97-98,Offensive rebound by O. Okongwu,,4,98,97,1,2772.0
+1:48.0, ,97-98,O. Okongwu misses 2-pt layup at rim,,4,98,97,1,2772.0
+1:47.0, ,97-98,Offensive rebound by O. Okongwu,,4,98,97,1,2773.0
+1:45.0, ,97-98,J. Johnson misses 2-pt layup from 1 ft,,4,98,97,1,2775.0
+1:42.0, ,97-98,Offensive rebound by S. Bey,,4,98,97,1,2778.0
+1:42.0, ,97-98,S. Bey misses 2-pt layup at rim,,4,98,97,1,2778.0
+1:41.0, ,97-98,Offensive rebound by D. Murray,,4,98,97,1,2779.0
+1:41.0, ,97-100,D. Murray makes 2-pt jump shot from 8 ft,,4,100,97,3,2779.0
+1:41.0,Orlando full timeout,97-100, ,,4,100,97,3,2779.0
+1:41.0,J. Ingles enters the game for C. Okeke,97-100, ,,4,100,97,3,2779.0
+1:24.0,M. Fultz makes 2-pt layup from 1 ft,99-100, ,,4,100,99,1,2796.0
+1:13.0, ,99-100,Personal foul by J. Suggs (drawn by T. Young),,4,100,99,1,2807.0
+1:13.0, ,99-101,T. Young makes free throw 1 of 2,,4,101,99,2,2807.0
+1:13.0, ,99-102,T. Young makes free throw 2 of 2,,4,102,99,3,2807.0
+0:56.0,Shooting foul by O. Okongwu (drawn by J. Suggs),99-102, ,,4,102,99,3,2824.0
+0:56.0,J. Suggs makes free throw 1 of 2,100-102, ,,4,102,100,2,2824.0
+0:56.0,C. Okeke enters the game for J. Ingles,100-102, ,,4,102,100,2,2824.0
+0:56.0,J. Suggs misses free throw 2 of 2,100-102, ,,4,102,100,2,2824.0
+0:53.0,Offensive rebound by C. Okeke,100-102, ,,4,102,100,2,2827.0
+0:43.0,P. Banchero misses 2-pt jump shot from 8 ft,100-102, ,,4,102,100,2,2837.0
+0:40.0,Offensive rebound by J. Suggs,100-102, ,,4,102,100,2,2840.0
+0:40.0,Instant Replay (Request: Ruling Stands),100-102, ,,4,102,100,2,2840.0
+0:40.0,Personal foul by T. Young (drawn by W. Carter),100-102, ,,4,102,100,2,2840.0
+0:40.0,W. Carter makes free throw 1 of 2,101-102, ,,4,102,101,1,2840.0
+0:40.0,W. Carter misses free throw 2 of 2,101-102, ,,4,102,101,1,2840.0
+0:39.0, ,101-102,Defensive rebound by O. Okongwu,,4,102,101,1,2841.0
+0:26.0, ,101-102,Personal foul by C. Okeke (drawn by T. Young),,4,102,101,1,2854.0
+0:26.0, ,101-103,T. Young makes free throw 1 of 2,,4,103,101,2,2854.0
+0:26.0,J. Ingles enters the game for C. Okeke,101-103, ,,4,103,101,2,2854.0
+0:26.0, ,101-104,T. Young makes free throw 2 of 2,,4,104,101,3,2854.0
+0:09.0,P. Banchero makes 3-pt jump shot from 26 ft (assist by J. Suggs),104-104, ,Tie,4,104,104,0,2871.0
+0:00.0, ,104-106,D. Murray makes 2-pt jump shot from 18 ft,,4,106,104,2,2880.0
+0:00.0, ,104-106,Instant Replay (Request: Ruling Stands),,4,106,104,2,2880.0
+0:00.0,End of 4th quarter,104-106,,,4,106,104,2,2880.0
